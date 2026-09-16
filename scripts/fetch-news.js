@@ -1,8 +1,9 @@
 import fs from 'fs';
 import Parser from 'rss-parser';
+import { GoogleGenAI } from '@google/genai';
 
 const parser = new Parser();
-const KEY = process.env.GEMINI_API_KEY;
+const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 async function getHeadlines() {
   const urls = [
@@ -22,40 +23,33 @@ async function getHeadlines() {
   return [...new Set(all)].slice(0, 12);
 }
 
-async function callGemini(model, prompt) {
-  const url = `https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${KEY}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.3, responseMimeType: "application/json" }
-    })
-  });
-  const data = await res.json();
-  if (!res.ok) throw new Error(`${res.status} ${data.error?.message}`);
-  return data.candidates[0].content.parts[0].text;
-}
-
 async function generateWithRetry(prompt) {
-  // Use v1 models that actually exist
-const models = [
-  "gemini-3.6-flash",
-  "gemini-2.5-flash",
-  "gemini-2.5-flash-lite",
-  "gemini-3-flash"
-];
+  // 2026 models - these are the ones that exist NOW
+  const models = [
+    "gemini-3.6-flash",
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-3-flash-preview"
+  ];
 
   for (const m of models) {
-    for (let i = 0; i < 2; i++) {
+    for (let attempt = 1; attempt <= 2; attempt++) {
       try {
-        console.log(`Trying ${m}...`);
-        const text = await callGemini(m, prompt);
+        console.log(`Trying ${m} (attempt ${attempt})...`);
+        const response = await ai.models.generateContent({
+          model: m,
+          contents: prompt,
+          config: {
+            temperature: 0.3,
+            responseMimeType: "application/json"
+          }
+        });
         console.log(`Success with ${m}`);
-        return text;
+        return response.text;
       } catch (e) {
-        console.log(`Failed ${m}: ${e.message}`);
-        await new Promise(r => setTimeout(r, 2000));
+        console.log(`Failed ${m}: ${e.message?.slice(0, 200)}`);
+        if (e.message?.includes('404')) break; // model doesn't exist, try next
+        await new Promise(r => setTimeout(r, 2000 * attempt));
       }
     }
   }
@@ -64,17 +58,16 @@ const models = [
 
 async function main() {
   const headlines = await getHeadlines();
-  console.log(`Final headlines: ${headlines.length}`, headlines);
+  console.log(`Final headlines: ${headlines.length}`);
 
   const today = new Date().toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'Asia/Kolkata' });
-
   const prompt = `Today is ${today}. Indian market headlines from Zerodha Pulse:
 ${headlines.join("\n")}
 
-Generate valid JSON ONLY (no markdown) in this exact shape:
+Generate valid JSON ONLY in this shape:
 {
   "headline": "Sensex... (12 words max)",
-  "why": ["reason1", "reason2", "reason3"],
+  "why": ["reason1","reason2","reason3"],
   "whatHappening": ["fact1","fact2","fact3","fact4"],
   "stocksInNews": [
     {"symbol":"RELIANCE","sentiment":"Positive","sources":"trigger"},
