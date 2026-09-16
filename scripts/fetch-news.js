@@ -36,7 +36,7 @@ async function main() {
   }
 
   const model = genAI.getGenerativeModel({
-    model: "gemini-1.5-flash",
+   model: "gemini-flash-latest",
     generationConfig: { temperature: 0.3, responseMimeType: "application/json" }
   });
 
