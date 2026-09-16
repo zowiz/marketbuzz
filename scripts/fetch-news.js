@@ -6,71 +6,69 @@ const parser = new Parser();
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
 async function getHeadlines() {
-  // ZERODHA RSS FEEDS - these work on GitHub Actions
   const urls = [
-    'https://pulse.zerodha.com/feed.php', // main pulse feed
-    'https://news.google.com/rss/search?q=Sensex+Nifty+Stock+Market+India&hl=en-IN&gl=IN&ceid=IN:en', // backup
+    'https://pulse.zerodha.com/feed.php',
+    'https://news.google.com/rss/search?q=Sensex+Nifty+Stock+Market+India&hl=en-IN&gl=IN&ceid=IN:en',
     'https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms'
   ];
-  
   let all = [];
   for (const url of urls) {
     try {
       const feed = await parser.parseURL(url);
-      const titles = feed.items.slice(0, 8).map(i => i.title);
-      console.log(`✓ ${titles.length} from ${url}`);
-      all.push(...titles);
-    } catch (e) {
-      console.log(`✗ Failed ${url}: ${e.message}`);
-    }
+      all.push(...feed.items.slice(0, 8).map(i => i.title));
+    } catch {}
   }
   return [...new Set(all)].slice(0, 12);
 }
 
+async function generateWithRetry(prompt) {
+  const modelsToTry = [
+    "gemini-2.0-flash",
+    "gemini-2.0-flash-lite",
+    "gemini-1.5-flash-8b",
+    "gemini-1.5-flash-002"
+  ];
+
+  for (const modelName of modelsToTry) {
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      try {
+        console.log(`Trying ${modelName} (attempt ${attempt})...`);
+        const model = genAI.getGenerativeModel({
+          model: modelName,
+          generationConfig: { temperature: 0.3, responseMimeType: "application/json" }
+        });
+        const result = await model.generateContent(prompt);
+        return result.response.text();
+      } catch (e) {
+        console.log(`Failed ${modelName}: ${e.status} ${e.statusText}`);
+        if (e.status === 503) {
+          await new Promise(r => setTimeout(r, 3000 * attempt)); // wait 3s, 6s
+        }
+      }
+    }
+  }
+  throw new Error("All Gemini models busy");
+}
+
 async function main() {
   let headlines = await getHeadlines();
-  console.log("Final headlines:", headlines.length);
-
-  if (headlines.length === 0) {
-    headlines = ["Sensex Nifty volatile", "MarketBuzz daily update"]; // never exit
-  }
-
-  const model = genAI.getGenerativeModel({
-   model: "gemini-flash-latest",
-    generationConfig: { temperature: 0.3, responseMimeType: "application/json" }
-  });
+  console.log(`Final headlines: ${headlines.length}`);
+  if (headlines.length === 0) headlines = ["Sensex Nifty update", "Indian market today"];
 
   const today = new Date().toLocaleDateString('en-IN', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'Asia/Kolkata' });
-
   const prompt = `
-Today is ${today} (India). Use ZERODHA Pulse headlines below:
-
+Today is ${today}. Headlines from Zerodha Pulse:
 ${headlines.join("\n")}
-
-Generate MarketBuzz update. Output ONLY valid JSON:
-
-{
-  "headline": "One line market status, max 12 words",
-  "why": ["reason 1", "reason 2", "reason 3"],
-  "whatHappening": ["fact 1", "fact 2", "fact 3", "fact 4"],
-  "stocksInNews": [
-    {"symbol": "RELIANCE", "sentiment": "Positive", "sources": "News trigger"},
-    {"symbol": "TCS", "sentiment": "Negative", "sources": "News trigger"},
-    {"symbol": "HDFCBANK", "sentiment": "Positive", "sources": "FII buying"},
-    {"symbol": "INFY", "sentiment": "Neutral", "sources": "Result awaited"}
-  ],
-  "summary": "2 line summary"
-}
+Generate JSON ONLY: {"headline":"...","why":["...","...","..."],"whatHappening":["...","...","...","..."],"stocksInNews":[{"symbol":"RELIANCE","sentiment":"Positive","sources":"..."},{"symbol":"TCS","sentiment":"Negative","sources":"..."},{"symbol":"HDFCBANK","sentiment":"Positive","sources":"..."},{"symbol":"INFY","sentiment":"Neutral","sources":"..."}],"summary":"..."}
 `;
 
-  const result = await model.generateContent(prompt);
-  const data = JSON.parse(result.response.text().replace(/```json|```/g, '').trim());
+  const jsonText = await generateWithRetry(prompt);
+  const data = JSON.parse(jsonText.replace(/```json|```/g, '').trim());
   data.updatedAt = new Date().toISOString();
   data.source = "zerodha-pulse";
 
   fs.mkdirSync('public/data', { recursive: true });
   fs.writeFileSync('public/data/market.json', JSON.stringify(data, null, 2));
-
   console.log("SUCCESS:", data.headline, data.updatedAt);
 }
 
