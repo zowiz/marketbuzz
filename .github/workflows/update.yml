@@ -11,14 +11,16 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
         with:
-          node-version: 20
+          node-version: 24
       - run: npm ci || npm install
-      - run: node scripts/fetch-news.js
+      - name: Run fetch
+        run: node scripts/fetch-news.js
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "auto: update market data"
