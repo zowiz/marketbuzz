@@ -3,126 +3,76 @@ import { useEffect, useState } from 'react'
 export default function App() {
   const [tab, setTab] = useState('now')
   const [data, setData] = useState(null)
+  const [ticker, setTicker] = useState({ nifty: null, sensex: null })
 
   useEffect(() => {
-    fetch('/data/market.json')
-      .then(r => r.json())
-      .then(setData)
-      .catch(() => {})
+    fetch('/data/market.json').then(r=>r.json()).then(setData).catch(()=>{})
 
-    // --- TradingView Ticker Tape (Live NIFTY/SENSEX) ---
-    const addTradingViewTicker = () => {
-      const container = document.getElementById("tradingview-ticker");
-      if (!container) return;
-      container.innerHTML = "";
-      const script = document.createElement("script");
-      script.src = "https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js";
-      script.async = true;
-      script.innerHTML = JSON.stringify({
-        symbols: [
-          { proName: "NSE:NIFTY", title: "NIFTY 50" },
-          { proName: "BSE:SENSEX", title: "SENSEX" },
-          { proName: "NSE:BANKNIFTY", title: "BANK NIFTY" },
-          { proName: "NSE:RELIANCE", title: "RELIANCE" },
-          { proName: "NSE:TCS", title: "TCS" },
-          { proName: "NSE:INFY", title: "INFOSYS" },
-        ],
-        showSymbolLogo: true,
-        colorTheme: "light",
-        isTransparent: false,
-        displayMode: "adaptive",
-        locale: "in"
-      });
-      container.appendChild(script);
-    };
+    // YOUR ticker - updates every 1 second from YOUR Vercel API
+    const loadTicker = async () => {
+      try {
+        const r = await fetch('/api/ticker');
+        const d = await r.json();
+        if (d.nifty) {
+          setTicker({ nifty: d.nifty, sensex: d.sensex });
+        }
+      } catch(e){ console.log("ticker fail", e) }
+    }
 
-    addTradingViewTicker();
+    loadTicker();
+    const id = setInterval(loadTicker, 1000); // every 1 second
+    return () => clearInterval(id)
   }, [])
 
+  const formatPrice = (t) => {
+    if (!t) return '--';
+    return `${t.price.toFixed(2)} ${t.change >= 0? '▲' : '▼'} ${Math.abs(t.change).toFixed(2)} (${t.changePercent.toFixed(2)}%)`;
+  }
+
   return (
-    <div style={{maxWidth:420, margin:'auto', background:'#f6f6f6', minHeight:'100vh', paddingBottom:80}}>
-      
-      {/* LIVE TICKER - This never fails */}
-      <div id="tradingview-ticker" className="tradingview-widget-container" style={{background:'#fff'}}></div>
+    <div style={{maxWidth:420, margin:'auto', padding:12, paddingBottom:80, fontFamily:'system-ui'}}>
 
-      <div style={{padding:12}}>
-        {/* Headline Card */}
-        <div style={{background:'#111', color:'#fff', padding:16, borderRadius:16, marginBottom:12}}>
-          <div style={{fontSize:11, opacity:0.6, letterSpacing:1, marginBottom:6}}>
-            {data?.updatedAt ? new Date(data.updatedAt).toLocaleString('en-IN') : 'LIVE'} • MARKETBUZZ
-          </div>
-          <h2 style={{margin:0, fontSize:22, lineHeight:1.25, fontWeight:800}}>
-            {data?.headline || "Markets loading live data..."}
-          </h2>
-          <div style={{marginTop:8, fontSize:12, opacity:0.7}}>
-            {data?.summary || ""}
-          </div>
-        </div>
-
-        {/* Tabs Content */}
-        {tab === 'now' && (
-          <>
-            <div style={{background:'#fff', padding:14, borderRadius:14, marginBottom:10}}>
-              <h4 style={{margin:'0 0 8px 0'}}>Why is market like this today?</h4>
-              <ul style={{margin:0, paddingLeft:18, fontSize:14, lineHeight:1.6}}>
-                {data?.why?.map((w,i)=><li key={i}>{w}</li>) || <li>Loading insights...</li>}
-              </ul>
-            </div>
-            <div style={{background:'#fff', padding:14, borderRadius:14, marginBottom:10}}>
-              <h4 style={{margin:'0 0 8px 0'}}>What is Happening</h4>
-              <ul style={{margin:0, paddingLeft:18, fontSize:14, lineHeight:1.6}}>
-                {data?.whatHappening?.map((w,i)=><li key={i}>{w}</li>) || <li>Tracking live news...</li>}
-              </ul>
-            </div>
-          </>
-        )}
-
-        {tab === 'next' && (
-          <div style={{background:'#fff', padding:14, borderRadius:14}}>
-            <h4 style={{margin:'0 0 12px 0'}}>Stocks In News</h4>
-            {data?.stocksInNews?.map((s,i)=>
-              <div key={i} style={{
-                padding:12, 
-                background: s.sentiment === 'Positive' ? '#e8f5e9' : s.sentiment === 'Negative' ? '#ffebee' : '#f5f5f5',
-                margin:'8px 0', 
-                borderRadius:10,
-                display:'flex',
-                justifyContent:'space-between',
-                alignItems:'center',
-                borderLeft: `4px solid ${s.sentiment === 'Positive' ? '#2e7d32' : s.sentiment === 'Negative' ? '#c62828' : '#999'}`
-              }}>
-                <div>
-                  <div style={{fontWeight:800, fontSize:14}}>{s.symbol}</div>
-                  <div style={{fontSize:12, opacity:0.7}}>{s.sources}</div>
-                </div>
-                <div style={{
-                  fontSize:12, 
-                  fontWeight:700,
-                  padding:'4px 8px',
-                  borderRadius:20,
-                  background: s.sentiment === 'Positive' ? '#2e7d32' : s.sentiment === 'Negative' ? '#c62828' : '#616161',
-                  color:'#fff'
-                }}>
-                  {s.sentiment}
-                </div>
-              </div>
-            ) || <div>Loading stocks...</div>}
-          </div>
-        )}
+      {/* YOUR TICKER */}
+      <div style={{
+        background:'#111',
+        color:'#fff',
+        padding:'8px 12px',
+        borderRadius:10,
+        marginBottom:12,
+        fontSize:13,
+        fontWeight:600,
+        display:'flex',
+        justifyContent:'space-between'
+      }}>
+        <span style={{color: ticker.nifty?.change >=0? '#4caf50' : '#ef5350'}}>
+          NIFTY {ticker.nifty? formatPrice(ticker.nifty) : '--'}
+        </span>
+        <span style={{color: ticker.sensex?.change >=0? '#4caf50' : '#ef5350'}}>
+          SENSEX {ticker.sensex? ticker.sensex.price.toFixed(2) : '--'}
+        </span>
       </div>
 
-      {/* Bottom Navigation */}
-      <div style={{position:'fixed', bottom:0, left:0, right:0, display:'flex', borderTop:'1px solid #e0e0e0', background:'#fff', maxWidth:420, margin:'0 auto'}}>
-        <button 
-          style={{flex:1, padding:16, border:'none', background: tab==='now' ? '#111' : '#fff', color: tab==='now' ? '#fff' : '#111', fontWeight:700}} 
-          onClick={()=>setTab('now')}>
-          Right Now
-        </button>
-        <button 
-          style={{flex:1, padding:16, border:'none', background: tab==='next' ? '#111' : '#fff', color: tab==='next' ? '#fff' : '#111', fontWeight:700}} 
-          onClick={()=>setTab('next')}>
-          Whats Next
-        </button>
+      <h2 style={{fontSize:22, lineHeight:1.3}}>{data?.headline || "Loading..."}</h2>
+
+      {tab==='now' && <>
+        <h4>Why</h4>
+        <ul>{data?.why?.map((w,i)=><li key={i}>{w}</li>)}</ul>
+        <h4>What Happening</h4>
+        <ul>{data?.whatHappening?.map((w,i)=><li key={i}>{w}</li>)}</ul>
+      </>}
+
+      {tab==='next' && <>
+        <h4>Stocks In News</h4>
+        {data?.stocksInNews?.map((s,i)=>
+          <div key={i} style={{padding:8,background:'#fff',margin:'6px 0',borderRadius:8, border:'1px solid #eee'}}>
+            {s.symbol} - {s.sentiment} - {s.sources}
+          </div>
+        )}
+      </>}
+
+      <div style={{position:'fixed', bottom:0, left:0, right:0, display:'flex', borderTop:'1px solid #ccc', background:'#fff', maxWidth:420, margin:'0 auto'}}>
+        <button style={{flex:1, padding:16, border:'none', background: tab==='now'?'#111':'#fff', color: tab==='now'?'#fff':'#000'}} onClick={()=>setTab('now')}>Right Now</button>
+        <button style={{flex:1, padding:16, border:'none', background: tab==='next'?'#111':'#fff', color: tab==='next'?'#fff':'#000'}} onClick={()=>setTab('next')}>Whats Next</button>
       </div>
     </div>
   )
