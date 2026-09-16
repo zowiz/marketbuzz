@@ -39,14 +39,14 @@ export default function App() {
       padding: 12,
       paddingBottom: 'calc(80px + env(safe-area-inset-bottom, 0px))',
       fontFamily: 'system-ui',
-      background: '#f6f6f6',
+      background: 'var(--bg-main)',
       minHeight: '100vh'
     }}>
 
       {/* YOUR TICKER - 1 sec */}
       <div style={{
-        background: '#111',
-        color: '#fff',
+        background: 'var(--bg-dark)',
+        color: 'var(--text-light)',
         padding: '10px 12px',
         borderRadius: 12,
         marginBottom: 12,
@@ -55,16 +55,16 @@ export default function App() {
         display: 'flex',
         justifyContent: 'space-between'
       }}>
-        <span style={{ color: ticker.nifty?.change >= 0? '#4caf50' : '#ef5350' }}>
+        <span style={{ color: ticker.nifty?.change >= 0? 'var(--bullish)' : 'var(--bearish)' }}>
           NIFTY {ticker.nifty? formatPrice(ticker.nifty) : '...'}
         </span>
-        <span style={{ color: ticker.sensex?.change >= 0? '#4caf50' : '#ef5350' }}>
+        <span style={{ color: ticker.sensex?.change >= 0? 'var(--bullish)' : 'var(--bearish)' }}>
           SENSEX {ticker.sensex? formatPrice(ticker.sensex) : '...'}
         </span>
       </div>
 
       {/* Headline */}
-      <div style={{ background: '#111', color: '#fff', padding: 16, borderRadius: 16, marginBottom: 12 }}>
+      <div style={{ background: 'var(--bg-dark)', color: 'var(--text-light)', padding: 16, borderRadius: 16, marginBottom: 12 }}>
         <div style={{ fontSize: 10, opacity: 0.6, letterSpacing: 1, marginBottom: 6 }}>
           {data?.updatedAt? new Date(data.updatedAt).toLocaleString('en-IN') : 'LIVE'} • MARKETBUZZ
         </div>
@@ -75,15 +75,15 @@ export default function App() {
 
       {tab === 'now' && (
         <>
-          <div style={{ background: '#fff', padding: 14, borderRadius: 14, marginBottom: 10, border: '1px solid #eee' }}>
+          <div style={{ background: 'var(--bg-card)', padding: 14, borderRadius: 14, marginBottom: 10, border: '1px solid var(--border-soft)' }}>
             <h4 style={{ margin: '0 0 8px 0', fontSize: 14 }}>Why is market like this?</h4>
-            <ul style={{ margin: 0, paddingLeft: 18, fontSize: 13.5, lineHeight: 1.6, color: '#333' }}>
+            <ul style={{ margin: 0, paddingLeft: 18, fontSize: 13.5, lineHeight: 1.6, color: 'var(--text-dark)' }}>
               {data?.why?.map((w, i) => <li key={i} style={{ marginBottom: 4 }}>{w}</li>) || <li>Loading...</li>}
             </ul>
           </div>
-          <div style={{ background: '#fff', padding: 14, borderRadius: 14, marginBottom: 10, border: '1px solid #eee' }}>
+          <div style={{ background: 'var(--bg-card)', padding: 14, borderRadius: 14, marginBottom: 10, border: '1px solid var(--border-soft)' }}>
             <h4 style={{ margin: '0 0 8px 0', fontSize: 14 }}>What is Happening</h4>
-            <ul style={{ margin: 0, paddingLeft: 18, fontSize: 13.5, lineHeight: 1.6, color: '#333' }}>
+            <ul style={{ margin: 0, paddingLeft: 18, fontSize: 13.5, lineHeight: 1.6, color: 'var(--text-dark)' }}>
               {data?.whatHappening?.map((w, i) => <li key={i} style={{ marginBottom: 4 }}>{w}</li>) || <li>Tracking live news...</li>}
             </ul>
           </div>
@@ -91,18 +91,18 @@ export default function App() {
       )}
 
       {tab === 'next' && (
-        <div style={{ background: '#fff', padding: 14, borderRadius: 14, border: '1px solid #eee' }}>
+        <div style={{ background: 'var(--bg-card)', padding: 14, borderRadius: 14, border: '1px solid var(--border-soft)' }}>
           <h4 style={{ margin: '0 0 12px 0', fontSize: 14 }}>Stocks In News</h4>
           {data?.stocksInNews?.map((s, i) =>
             <div key={i} style={{
               padding: 12,
-              background: s.sentiment === 'Positive'? '#e8f5e9' : s.sentiment === 'Negative'? '#ffebee' : '#f5f5f5',
+              background: s.sentiment === 'Positive'? 'var(--positive-bg)' : s.sentiment === 'Negative'? 'var(--negative-bg)' : 'var(--neutral-bg)',
               margin: '8px 0',
               borderRadius: 10,
               display: 'flex',
               justifyContent: 'space-between',
               alignItems: 'center',
-              borderLeft: `4px solid ${s.sentiment === 'Positive'? '#2e7d32' : s.sentiment === 'Negative'? '#c62828' : '#999'}`
+              borderLeft: `4px solid ${s.sentiment === 'Positive'? 'var(--positive)' : s.sentiment === 'Negative'? 'var(--negative)' : 'var(--neutral)'}`
             }}>
               <div>
                 <div style={{ fontWeight: 800, fontSize: 13 }}>{s.symbol}</div>
@@ -113,13 +113,13 @@ export default function App() {
                 fontWeight: 700,
                 padding: '4px 8px',
                 borderRadius: 20,
-                background: s.sentiment === 'Positive'? '#2e7d32' : s.sentiment === 'Negative'? '#c62828' : '#616161',
-                color: '#fff'
+                background: s.sentiment === 'Positive'? 'var(--positive)' : s.sentiment === 'Negative'? 'var(--negative)' : 'var(--neutral-pill)',
+                color: 'var(--text-light)'
               }}>
                 {s.sentiment}
               </div>
             </div>
-          ) || <div style={{ fontSize: 13, color: '#777' }}>Loading stocks...</div>}
+          ) || <div style={{ fontSize: 13, color: 'var(--text-muted)' }}>Loading stocks...</div>}
         </div>
       )}
 
@@ -130,14 +130,14 @@ export default function App() {
         left: 0,
         right: 0,
         display: 'flex',
-        borderTop: '1px solid #e0e0e0',
-        background: '#fff',
+        borderTop: '1px solid var(--border-divider)',
+        background: 'var(--bg-card)',
         maxWidth: 420,
         margin: '0 auto',
         zIndex: 10
       }}>
-        <button style={{ flex: 1, padding: 16, border: 'none', background: tab === 'now'? '#111' : '#fff', color: tab === 'now'? '#fff' : '#000', fontWeight: 700, fontSize: 14 }} onClick={() => setTab('now')}>Right Now</button>
-        <button style={{ flex: 1, padding: 16, border: 'none', background: tab === 'next'? '#111' : '#fff', color: tab === 'next'? '#fff' : '#000', fontWeight: 700, fontSize: 14 }} onClick={() => setTab('next')}>Whats Next</button>
+        <button style={{ flex: 1, padding: 16, border: 'none', background: tab === 'now'? 'var(--bg-dark)' : 'var(--bg-card)', color: tab === 'now'? 'var(--text-light)' : 'var(--text-dark)', fontWeight: 700, fontSize: 14 }} onClick={() => setTab('now')}>Right Now</button>
+        <button style={{ flex: 1, padding: 16, border: 'none', background: tab === 'next'? 'var(--bg-dark)' : 'var(--bg-card)', color: tab === 'next'? 'var(--text-light)' : 'var(--text-dark)', fontWeight: 700, fontSize: 14 }} onClick={() => setTab('next')}>Whats Next</button>
       </div>
     </div>
   )
