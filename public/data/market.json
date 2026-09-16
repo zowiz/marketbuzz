@@ -1,51 +1,39 @@
 {
-  "headline": "Sensex Rises 400 Points, Nifty Holds Above 23,200 Ahead of Fed Outcome",
+  "headline": "Sensex Gains 333 Points, Nifty Reclaims 23,200 Level Driven By FMCG",
   "why": [
-    "Investors awaiting key monetary policy decisions from the US Fed and BOJ",
-    "Rebound from day's low driven by gains in M&M, HDFC Life, FMCG, and Media stocks",
-    "Positive sentiment across major Asian markets like China and Hong Kong tech stocks",
-    "Resilience in benchmark indices despite underperformance in SMIDs and bond market concerns"
+    "FMCG and metal stocks saw strong buying interest ahead of the Fed outcome.",
+    "Markets snapped a two-day losing streak despite pressure on IT counters.",
+    "RBI intervention helped limit losses as the Rupee hovered near six-week lows."
   ],
   "whatHappening": [
-    "Government policy updates around UPI MDR trigger significant moves in fintech, payment, and cash management stocks like Paytm and CMS Info Systems",
-    "Gold and silver prices record sharp rallies globally ahead of upcoming central bank rate decisions"
+    "Union Cabinet approved raising the EPFO wage ceiling to ₹25,000 per month.",
+    "Tata Sons IPO order backed Shapoor Mistry's long-running request.",
+    "Indian Rupee languished at a six-week low ahead of the US Fed verdict.",
+    "NSE IPO developments highlighted significant wealth impact for major investors like Radhakishan Damani."
   ],
   "stocksInNews": [
     {
       "symbol": "PAYTM",
-      "sentiment": "Positive",
-      "sources": "8/10"
+      "sentiment": "Neutral",
+      "sources": "In focus among traders during opening session."
     },
     {
-      "symbol": "CMSINFO",
-      "sentiment": "Positive",
-      "sources": "7/10"
-    },
-    {
-      "symbol": "OBEROIRLTY",
-      "sentiment": "Positive",
-      "sources": "8/10"
-    },
-    {
-      "symbol": "SOLARINDS",
+      "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "8/10"
+      "sources": "IT sector dragged main indices ahead of Fed interest rate verdict."
     },
     {
-      "symbol": "GROWW",
-      "sentiment": "Negative",
-      "sources": "7/10"
-    },
-    {
-      "symbol": "M&M",
+      "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "6/10"
+      "sources": "FMCG sector rallied nearly 2%, boosting benchmark indices."
     },
     {
-      "symbol": "HDFCLIFE",
+      "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "6/10"
+      "sources": "Metals sector rallied alongside Tata Sons IPO ruling developments."
     }
   ],
-  "updatedAt": "2026-09-16T07:03:30.691Z"
+  "summary": "Indian benchmark indices closed higher with Sensex gaining over 300 points and Nifty settling above 23,200. Gains were led by FMCG and metal stocks while IT dragged, amid key macro updates like the EPFO wage ceiling hike.",
+  "updatedAt": "2026-09-16T11:23:52.983Z",
+  "source": "zerodha-pulse"
 }
