@@ -1,34 +1,39 @@
 {
   "headline": "Sensex Ends Marginally Lower While Nifty Holds Above 23,250 Level",
   "why": [
-    "Realty and pharma sectors surged over 1.5 percent, offering support to benchmark indices.",
-    "IT sector dragged the market ahead of the crucial US Federal Reserve policy decision.",
-    "Global cues remained mixed with US mortgage rates touching 7 percent and Asian signals."
+    "Rebound in US tech stocks and easing oil prices provided global support",
+    "Domestic realty and pharma sectors saw gains exceeding 1.5 percent",
+    "Concerns over US mortgage rates and potential Fed rate hikes weighed"
   ],
   "whatHappening": [
-    "Indian market indices held steady with Nifty staying above the 23,250 level.",
-    "Government launched the 16th round of commercial auctions offering 25 coal blocks.",
-    "Lam Research announced a ₹10,000 crore investment to expand its manufacturing footprint in India.",
-    "SEBI barred promoters of Kore Digital over an alleged ₹541 crore revenue misstatement."
+    "Premium two-wheeler segment grew by 22 percent according to TVS Motor",
+    "Legal dispute emerges over N Chandrasekaran's reappointment as Tata Sons chairman",
+    "Coforge reports record deal pipeline and remains confident in growth outlook",
+    "India prioritizes energy security amidst discussions on US sanctions bill"
   ],
   "stocksInNews": [
     {
-      "symbol": "OIL",
+      "symbol": "TVSMOTOR",
       "sentiment": "Positive",
-      "sources": "Oil India plans to spend ₹15,000 crore for deepwater exploration over three years"
+      "sources": "Premium motorcycle segment growth of 22 percent"
     },
     {
-      "symbol": "KORE",
-      "sentiment": "Negative",
-      "sources": "Sebi bars Kore Digital promoters over alleged Rs 541 crore revenue misstatement"
+      "symbol": "COFORGE",
+      "sentiment": "Positive",
+      "sources": "Record deal pipeline and confident growth outlook"
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Paytm to be in focus during today's market session"
+      "sources": "Focus on opening trade and regulatory environment"
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "Legal dispute over Tata Sons chairman reappointment"
     }
   ],
-  "summary": "Indian benchmark indices closed flat with Nifty holding above 23,250, supported by strong gains in pharma and realty against IT drags. Major corporate highlights included massive capex commitments from Oil India and Lam Research alongside SEBI regulatory action.",
-  "updatedAt": "2026-09-17T19:27:48.818Z",
+  "summary": "The Indian market shows resilience with Nifty holding 23,250 despite global volatility and domestic corporate governance disputes. Investors are monitoring US Fed policies and sector-specific growth in premium manufacturing and IT.",
+  "updatedAt": "2026-09-17T22:35:37.188Z",
   "source": "zerodha-pulse"
 }
