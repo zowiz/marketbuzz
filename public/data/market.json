@@ -1,39 +1,39 @@
 {
-  "headline": "Sensex Ends Flat as Tata Stocks Surge and Realty Shares Shine",
+  "headline": "Sensex Ends Lower Amid Tata Leadership Conflict and Hawkish Fed Stance",
   "why": [
-    "N Chandrasekaran granted five-year extension as Tata Sons Chairman",
-    "Emami announces Rs 282 crore share buyback at 29% premium",
-    "Advent International to invest ₹3,150 crore in Yatharth Hospitals"
+    "Hawkish Fed turn creates investor anxiety regarding future rate hikes",
+    "Internal conflict at Tata Sons over Chairman reappointment legality",
+    "PSU general insurers reporting significant losses and deteriorating solvency ratios"
   ],
   "whatHappening": [
-    "Sensex and Nifty exhibit volatility amid mixed global cues and Fed expectations",
-    "Realty, pharma, and auto sectors outperform while IT stocks face pressure",
-    "Government clarifies stance on UPI MDR to support domestic app ecosystem",
-    "European markets trade higher ahead of Bank of England interest rate decision"
+    "Sensex closed marginally lower while Nifty held above 23,250 levels",
+    "Tata Trusts led by Noel Tata declared Chandrasekaran's reappointment illegal",
+    "Indian steel exports retain 80% FTA benefits despite EU curbs",
+    "PSU general insurers swing to a massive ₹10,051-crore loss"
   ],
   "stocksInNews": [
     {
-      "symbol": "EMAMI",
+      "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Share buyback announcement"
+      "sources": "EU curbs fail to dent India steel push"
     },
     {
-      "symbol": "YATHARTH",
-      "sentiment": "Positive",
-      "sources": "Advent stake acquisition"
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Positive",
-      "sources": "Leadership extension"
-    },
-    {
-      "symbol": "INFY",
+      "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector dragging"
+      "sources": "Tata Trusts terms Chandrasekaran reappointment illegal and IT drags"
+    },
+    {
+      "symbol": "NIACL",
+      "sentiment": "Negative",
+      "sources": "PSU general insurers swing to ₹10,051-crore loss"
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "sentiment": "Positive",
+      "sources": "80% steel exports retain FTA benefits"
     }
   ],
-  "summary": "Indian indices closed flat as gains in Tata stocks and realty were offset by IT weakness. Investors remain cautious ahead of global central bank decisions from the Fed and Bank of England.",
-  "updatedAt": "2026-09-17T10:55:55.207Z",
+  "summary": "Indian markets faced volatility as Sensex ended lower following a hawkish Fed outlook and leadership disputes within the Tata Group. While metals and pharma sectors showed resilience, PSU insurers struggled with massive losses and deteriorating solvency.",
+  "updatedAt": "2026-09-17T15:24:25.193Z",
   "source": "zerodha-pulse"
 }
