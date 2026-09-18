@@ -1,70 +1,70 @@
 {
-  "headline": "Nifty Reclaims 23,200 Amid Metal Gains and Saudi Crude Supply Disruptions",
+  "headline": "Nifty Crosses 23,200 While Sensex Ends Lower Amid Saudi Supply Concerns",
   "why": [
-    "Metals and FMCG sectors outperformed ahead of the Federal Reserve meeting",
-    "Nasdaq futures rose as falling oil prices mitigated global inflation concerns",
-    "Direct tax collections grew 13% reflecting robust domestic economic growth",
-    "Market snapped a two-day losing streak despite pressure on IT stocks"
+    "Saudi Aramco halted crude supplies following a major pipeline attack",
+    "IT sector weakness dragged indices despite gains in other sectors",
+    "Indian bonds suffered a fifth weekly loss due to RBI moves",
+    "Strong direct tax collection data provided a fiscal cushion for markets"
   ],
   "whatHappening": [
-    "Saudi Aramco suspended crude deliveries to India after a pipeline attack",
-    "Indian bonds faced a fifth weekly loss due to RBI moves",
-    "The Rupee closed unchanged at 95.89 against the U.S. Dollar",
+    "Nifty 50 closed above 23,200 while Sensex ended 22 points lower",
+    "Net direct tax collections reached ₹12.12 lakh crore by mid-September",
+    "Rupee remained stable at 95.89 against the US dollar today",
     "India announced the 2027 launch of the Qdenga dengue vaccine"
   ],
   "stocksInNews": [
     {
-      "symbol": "BPCL",
+      "symbol": "RELIANCE",
       "sentiment": "Negative",
-      "sources": "Saudi Aramco crude supply halt"
-    },
-    {
-      "symbol": "IOC",
-      "sentiment": "Negative",
-      "sources": "Saudi Aramco crude supply halt"
+      "sources": "Saudi Aramco halts crude supplies to Indian refiners"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector dragging ahead of Fed call"
+      "sources": "IT sector drags market performance ahead of Fed call"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "India bonds face fifth weekly loss on RBI moves"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "IT sector dragging ahead of Fed call"
+      "sources": "IT stocks under pressure despite broader market gains"
     },
     {
-      "symbol": "TATASTEEL",
+      "symbol": "ICICIBANK",
       "sentiment": "Positive",
-      "sources": "Metals sector shine ahead of Fed call"
+      "sources": "Sensex recovers 333 points in late trade session"
     },
     {
-      "symbol": "HINDALCO",
+      "symbol": "SBIN",
       "sentiment": "Positive",
-      "sources": "Metals sector shine ahead of Fed call"
+      "sources": "Net direct tax collection rises 13 percent to 12.12 lakh crore"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "sentiment": "Positive",
+      "sources": "Nifty gains 53 points to close above 23,200 level"
     },
     {
       "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "FMCG sector shine ahead of Fed call"
+      "sources": "FMCG sector shines as market snaps two-day losing streak"
     },
     {
-      "symbol": "HUL",
+      "symbol": "LT",
       "sentiment": "Positive",
-      "sources": "FMCG sector shine ahead of Fed call"
+      "sources": "Bhumika Realty retail lease signals strong commercial demand"
     },
     {
-      "symbol": "RELIANCE",
+      "symbol": "MARUTI",
       "sentiment": "Negative",
-      "sources": "Saudi Aramco crude supply halt"
-    },
-    {
-      "symbol": "VEDL",
-      "sentiment": "Positive",
-      "sources": "Metals sector shine ahead of Fed call"
+      "sources": "Crude supply disruption from Saudi Aramco impacts auto sentiment"
     }
   ],
-  "summary": "The Nifty 50 reclaimed the 23,200 level as strong performance in Metals and FMCG offset IT sector weakness. Investors weighed positive domestic tax collection data against supply chain risks from Saudi Aramco's crude halt. Global cues remained mixed with US futures rising while Indian bonds faced persistent selling pressure.",
-  "updatedAt": "2026-09-18T13:01:51.850Z",
+  "summary": "The Indian stock market ended mixed as Nifty surpassed the 23,200 mark despite Sensex volatility. Concerns over Saudi crude supply disruptions were partially offset by strong domestic direct tax collection data. Metals and FMCG sectors led the gains while IT stocks faced significant selling pressure.",
+  "updatedAt": "2026-09-18T13:31:34.093Z",
   "source": "zerodha-pulse"
 }
