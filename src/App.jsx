@@ -22,15 +22,14 @@ export default function App() {
     }
 
     loadTicker()
-    const id = setInterval(loadTicker, 1000)
+    const id = setInterval(loadTicker, 15000) // was 1000
     return () => clearInterval(id)
   }, [])
 
   const formatPrice = (t) => {
-    if (!t) return '--'
-
-    const arrow = t.change >= 0 ? '▲' : '▼'
-    return `${t.price.toFixed(2)} ${arrow} ${Math.abs(t.change).toFixed(2)} (${Math.abs(t.changePercent).toFixed(2)}%)`
+  if (!t) return '--'
+  const arrow = t.change >= 0 ? '▲' : '▼'
+  return `${t.price.toFixed(2)} ${arrow} ${Math.abs(t.change).toFixed(2)}`
   }
 
   return (
