@@ -1,70 +1,70 @@
 {
-  "headline": "Nifty Gains Amid Metal Rally While Sensex Slips On IT Drags",
+  "headline": "Sensex slips as Nifty gains; Metals and Smallcaps shine amid Fed jitters",
   "why": [
     "Higher US Treasury yields weighing on global investor sentiment",
-    "Strong performance in smallcap and metal sectors boosting Nifty",
-    "Anticipation of Federal Reserve interest rate decisions affecting IT stocks",
-    "Investor caution following AAII survey showing 16-month low sentiment"
+    "AAII survey indicating investor sentiment at a 16-month low",
+    "IT sector dragging performance ahead of the Federal Reserve call",
+    "BofA warning of potential Fed rate hikes exceeding 5 percent"
   ],
   "whatHappening": [
-    "Sensex closed marginally lower by 22 points while Nifty gained 53",
-    "Smallcap stocks jumped nearly 1.8 percent outperforming the broader market",
-    "Toyota plans 6.4 billion dollar annual automation spend from 2028",
-    "SBI projects 5 trillion rupee notional profit for banks from FCNR(B)"
+    "Sensex ended 22 points lower while Nifty 50 gained 53 points",
+    "Smallcap stocks outperformed the broader market with a 1.8 percent jump",
+    "Metal and FMCG sectors showed strength despite overall market volatility",
+    "SBI reports potential 5 trillion rupee profit for banks from FCNR(B)"
   ],
   "stocksInNews": [
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Sensex slips into red after CAS"
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Negative",
-      "sources": "IT drags while metals and FMCG shine"
-    },
-    {
-      "symbol": "HDFCBANK",
+      "symbol": "SBIN",
       "sentiment": "Positive",
-      "sources": "FCNR(B) may generate 5 trillion profit for banks"
+      "sources": "SBI report on FCNR(B) notional profit"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "sentiment": "Positive",
+      "sources": "Metal sector rally"
+    },
+    {
+      "symbol": "HINDALCO",
+      "sentiment": "Positive",
+      "sources": "Metal sector rally"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "IT drags ahead of Fed call"
+      "sources": "IT sector drag"
     },
     {
-      "symbol": "ICICIBANK",
-      "sentiment": "Positive",
-      "sources": "FCNR(B) notional profit for banks over 5 years"
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Positive",
-      "sources": "SBI report on FCNR(B) bank profit projections"
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
-      "sources": "Nifty crosses 23,200 mark"
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "IT sector drag"
     },
     {
       "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "FMCG shine ahead of Fed call"
+      "sources": "FMCG sector strength"
     },
     {
-      "symbol": "LT",
+      "symbol": "HUL",
       "sentiment": "Positive",
-      "sources": "Smallcaps jump nearly 1.8 percent"
+      "sources": "FMCG sector strength"
     },
     {
       "symbol": "MARUTI",
       "sentiment": "Negative",
-      "sources": "Toyota sees 6.4 billion annual automation spend"
+      "sources": "Toyota automation spend news"
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "General market volatility"
+    },
+    {
+      "symbol": "AXISBANK",
+      "sentiment": "Positive",
+      "sources": "Banking sector profit outlook"
     }
   ],
-  "summary": "The Indian market showed mixed results with Nifty gaining on metal and FMCG strength.\nIT stocks dragged the Sensex down amid rising US Treasury yields and Fed rate hike fears.\nBanking sectors remain optimistic following SBI's report on FCNR(B) profit potential for banks.",
-  "updatedAt": "2026-09-18T21:48:01.174Z",
+  "summary": "Indian markets displayed mixed results as Nifty edged higher while Sensex remained flat to negative. Smallcap and metal stocks provided significant support, offsetting losses in the technology sector. Global factors like rising Treasury yields and Fed policy uncertainty continue to dictate trends.",
+  "updatedAt": "2026-09-18T22:01:41.137Z",
   "source": "zerodha-pulse"
 }
