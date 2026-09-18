@@ -14,10 +14,13 @@ li {
 
 :root {
   /* Backgrounds */
-  --bg-main: #0c0912;
+  --bg-main: #07060b;
   --bg-dark: #070211;
   --bg-nav: #14121a;
-  --bg-card: #070211;
+
+
+  --bg-card: #09070d;
+  --card-border:#1c1628;
 
   /* Text */
   --text-primary: #dcdcdc;
@@ -40,7 +43,6 @@ li {
   --border: #27272a;
   --border-soft: #333333;
   --border-divider: #e0e0e0;
-  --card-border:#1a112c;
   --border-smooth: 8px;
 
   /* Layout */
