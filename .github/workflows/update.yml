@@ -2,6 +2,7 @@ name: Update Market Data
 on:
   schedule:
     - cron: '0 * * * *'
+    - cron: '30 * * * *'  # 2 chances per hour = GitHub more likely to run at least one
   workflow_dispatch:
 
 permissions:
@@ -10,17 +11,30 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    concurrency:
+      group: market-update
+      cancel-in-progress: false
     steps:
-      - uses: actions/checkout@v5
-      - uses: actions/setup-node@v5
+      - uses: actions/checkout@v4  # v4 is faster than v5 for cron
+      - uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 20  # 20 is LTS, faster than 24
+
       - run: npm ci || npm install
+
       - name: Run fetch
         run: node scripts/fetch-news.js
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
       - name: Commit
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "auto: update market data"
+        run: |
+          git config user.name "marketbuzz-bot"
+          git config user.email "bot@marketbuzz.com"
+          git add public/data/market.json
+          # always commit even if content same, update timestamp to keep repo active
+          echo "{\"lastRun\":\"$(date -u +%FT%TZ)\"}" > public/data/_keepalive.json
+          git add public/data/_keepalive.json
+          git diff --staged --quiet || git commit -m "auto: update $(date -u)"
+          git push
