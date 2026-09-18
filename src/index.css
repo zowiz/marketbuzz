@@ -1,19 +1,32 @@
 /* index.css - ONLY global */
 * { box-sizing: border-box; margin: 0; padding: 0; }
+
+ul, ol {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+}
+
 :root {
   /* Backgrounds */
-  --bg-main: #f6f6f6;
-  --bg-black: #000000;
-  --bg-dark: #111111;
-  --bg-card: #ffffff;
-  --bg-card-hover: #1c1c1c;
+  --bg-main: #0c0912;
+  --bg-dark: #070211;
+  --bg-nav: #14121a;
+  --bg-card: #070211;
 
   /* Text */
-  --text-primary: #f5f5f5;
+  --text-primary: #dcdcdc;
   --text-secondary: #a1a1aa;
   --text-light: #ffffff;
   --text-dark: #333333;
   --text-muted: #777777;
+  --accent: #00E676;
+
 
   /* Market */
   --bullish: #4caf50;
@@ -22,15 +35,13 @@
   --positive: #2e7d32;
   --negative: #c62828;
   --neutral-pill: #616161;
-  --positive-bg: #e8f5e9;
-  --negative-bg: #ffebee;
-  --neutral-bg: #f5f5f5;
 
   /* Borders & Accent */
   --border: #27272a;
-  --border-soft: #eeeeee;
+  --border-soft: #333333;
   --border-divider: #e0e0e0;
-  --accent: #6366f1;
+  --card-border:#1a112c;
+  --border-smooth: 8px;
 
   /* Layout */
   --safe-bottom: env(safe-area-inset-bottom, 0px);
@@ -38,7 +49,7 @@
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  background: var(--bg-main);
+  background: var(--bg-main); color: var(--text-primary);
   -webkit-tap-highlight-color: transparent;
   -webkit-font-smoothing: antialiased;
 }
