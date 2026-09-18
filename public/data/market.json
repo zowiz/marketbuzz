@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex slips as Nifty gains; Smallcaps and Metals shine amid Fed anticipation",
+  "headline": "Sensex Ends 22 Points Lower; Nifty Gains As Metals Rally",
   "why": [
-    "US Treasury yields rose, weighing on global investor sentiment",
-    "AAII survey shows investor sentiment hitting a 16-month low",
-    "IT sector dragged indices down ahead of the Federal Reserve meeting",
-    "Metals and FMCG sectors outperformed, providing support to the Nifty"
+    "IT stocks drag benchmark indices ahead of the US Fed interest rate decision.",
+    "Higher US Treasury yields weigh on global investor sentiment.",
+    "Rally in metal and FMCG sectors provides strong support to the Nifty.",
+    "AAII survey shows global investor sentiment plunging to a 16-month low."
   ],
   "whatHappening": [
-    "Sensex ended marginally lower by 22 points while Nifty gained 53 points",
-    "Smallcap stocks jumped nearly 1.8% despite volatility in large-cap indices",
-    "SBI reports potential ₹5 trillion notional profit for banks from FCNR(B)",
-    "Air India considers merging its budget unit to optimize operational costs"
+    "Sensex slipped 22 points while Nifty gained 53 to 75 points in a volatile session.",
+    "Smallcap index jumped nearly 1.8% outperforming the benchmark indices.",
+    "SBI report highlights FCNR(B) could generate ₹5 trillion notional profit for banks over 5 years.",
+    "Air India CEO considers folding its budget unit into the group to streamline costs."
   ],
   "stocksInNews": [
     {
       "symbol": "SBIN",
       "sentiment": "Positive",
-      "sources": "SBI reports potential ₹5 trillion profit from FCNR(B) over 5 years"
-    },
-    {
-      "symbol": "TATASTEEL",
-      "sentiment": "Positive",
-      "sources": "Metals sector rises 1.5% as Nifty gains ground"
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "IT sector drags market performance ahead of Fed call"
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Positive",
-      "sources": "FMCG sector shines as defensive buying increases"
+      "sources": "SBI report projects ₹5 trillion notional profit for banks from FCNR(B) over 5 years"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT stocks under pressure due to global sentiment and Fed uncertainty"
+      "sources": "IT sector drags market indices ahead of the upcoming Fed rate decision"
     },
     {
-      "symbol": "HINDALCO",
-      "sentiment": "Positive",
-      "sources": "Metals outperform broader market with significant gains"
-    },
-    {
-      "symbol": "HUL",
-      "sentiment": "Positive",
-      "sources": "FMCG stocks provide support to Nifty amid large-cap volatility"
-    },
-    {
-      "symbol": "MARUTI",
+      "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Global auto sentiment impacted by Toyota automation spend reports"
+      "sources": "Weakness in IT stocks offsets broader gains in the domestic market"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "sentiment": "Positive",
+      "sources": "Metal sector gains 1.5% pushing Nifty into positive territory"
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Positive",
+      "sources": "FMCG stocks shine alongside metals in today's trading session"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Banking sector outlook buoyed by positive long-term FCNR(B) profit projections"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Positive",
+      "sources": "Private lenders remain steady as broader market breadth stays positive"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "Market heavyweight remains steady amid mixed sectoral performance"
+      "sources": "Index heavyweight trades flat as Sensex ends slightly lower"
     },
     {
-      "symbol": "LT",
+      "symbol": "MARUTI",
+      "sentiment": "Neutral",
+      "sources": "Auto sector remains in focus amid global supply and automation spend discussions"
+    },
+    {
+      "symbol": "BHARTIARTL",
       "sentiment": "Positive",
-      "sources": "Smallcap and infrastructure rally boosts capital goods sentiment"
+      "sources": "Strong buying interest in non-IT heavyweights supports market sentiment"
     }
   ],
-  "summary": "Indian markets showed mixed performance as the Sensex dipped slightly while Nifty and smallcaps gained ground.\nInvestor caution prevails due to rising US Treasury yields and a significant drop in global sentiment.\nSectoral rotation is evident with Metals and FMCG leading gains while IT remains under pressure.",
-  "updatedAt": "2026-09-18T22:31:21.137Z",
+  "summary": "Indian benchmark indices ended on a mixed note as the Sensex dropped 22 points while Nifty gained ground, supported by strong performance in metal and FMCG sectors.\nGlobal market sentiment remained subdued due to rising US Treasury yields, rate hike concerns, and investor confidence dropping to a 16-month low.\nDomestically, broad market participation was robust with smallcaps jumping nearly 1.8% and banks eyeing strong long-term FCNR(B) deposit profits.",
+  "updatedAt": "2026-09-18T22:56:58.901Z",
   "source": "zerodha-pulse"
 }
