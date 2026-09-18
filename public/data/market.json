@@ -1,22 +1,22 @@
 {
-  "headline": "Sensex Jumps 300 Points As Nifty Tops 23,350 Mark",
+  "headline": "Sensex gains 300 points, Nifty breaches 23,350 amid mixed sectoral cues",
   "why": [
-    "Strong buying in realty, metals, and FMCG stocks pushed benchmark indices higher.",
-    "Positive corporate developments in pharma boosted selective stock sentiment.",
-    "Realty sector surged nearly 2%, providing significant support to the market.",
-    "Market participants adjusted positions ahead of the upcoming US Federal Reserve decision."
+    "Strong buying momentum in realty, metals, and FMCG sectors lifted market sentiment.",
+    "Positive corporate updates such as Dr. Reddy's strategic vaccine pact boosted investor confidence.",
+    "Realty stocks rallied nearly 2%, leading the broader market gains.",
+    "Caution prevailed in IT stocks ahead of key global macroeconomic and US Fed cues."
   ],
   "whatHappening": [
-    "Sensex touched its day high, gaining over 300 points, while Nifty traded above 23,350.",
-    "IT sector faced selling pressure, dragging major tech shares down by over 1.5%.",
-    "FSSAI initiated legal proceedings against Nestle India concerning infant nutrition items.",
-    "Dr. Reddy's partnered with Takeda Pharma to introduce dengue vaccine QDENGA in India."
+    "Sensex climbed over 300 points to reach its day high while Nifty crossed 23,350.",
+    "Dr. Reddy's signed a deal with Takeda Pharma to distribute dengue vaccine QDENGA in India.",
+    "FSSAI initiated legal action against Nestle India over infant nutrition product concerns.",
+    "IT sector dragged the market, sliding over 1.5% amidst global rate cut uncertainty."
   ],
   "stocksInNews": [
     {
       "symbol": "DRREDDY",
       "sentiment": "Positive",
-      "sources": "Inked distribution pact with Takeda Pharma for dengue vaccine QDENGA"
+      "sources": "Inked pact with Takeda Pharma to distribute dengue vaccine QDENGA"
     },
     {
       "symbol": "NESTLEIND",
@@ -26,45 +26,45 @@
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector slides over 1.5% weighing on key IT counters"
+      "sources": "IT sector dragged down over 1.5% ahead of Fed decision"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Sectoral weakness in IT ahead of US Fed interest rate decision"
+      "sources": "Selling pressure in IT heavyweights weighed on performance"
     },
     {
-      "symbol": "DLF",
+      "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "Realty sector rises nearly 2% leading sectoral gains"
+      "sources": "FMCG sector shined to support key market benchmark gains"
     },
     {
       "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Metal stocks shine in morning trade supporting market upmove"
-    },
-    {
-      "symbol": "HINDUNILVR",
-      "sentiment": "Positive",
-      "sources": "FMCG sector sees buying momentum ahead of Fed call"
+      "sources": "Metal stocks witnessed strong buying interest in early trade"
     },
     {
       "symbol": "INDIGO",
-      "sentiment": "Neutral",
-      "sources": "Festival travel demand expected to push international airfares up 5-20%"
+      "sentiment": "Positive",
+      "sources": "International airfares set to rise 5-20% due to festive travel demand"
+    },
+    {
+      "symbol": "DLF",
+      "sentiment": "Positive",
+      "sources": "Realty index jumped nearly 2% leading broader market advance"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
-      "sources": "Broad market rally helps Sensex scale day's high"
+      "sources": "Heavyweight buying helped Sensex push towards its day high"
     },
     {
-      "symbol": "ICICIBANK",
+      "symbol": "HDFCBANK",
       "sentiment": "Positive",
-      "sources": "Banking stocks support overall market move above key levels"
+      "sources": "Banking strength supported Nifty in topping 23,350 level"
     }
   ],
-  "summary": "Indian benchmark indices traded significantly higher on September 18, with the Sensex gaining over 300 points and Nifty scaling above 23,350. Sectoral gains in realty, metals, and FMCG effectively counterbalanced a steep 1.5% decline in IT stocks ahead of the US Fed meeting. Stock-specific action remained prominent with Dr. Reddy's rising on a vaccine distribution deal and Nestle India facing regulatory heat from FSSAI.",
-  "updatedAt": "2026-09-18T10:00:34.345Z",
+  "summary": "Indian equities surged as Sensex jumped 300 points and Nifty topped 23,350 driven by realty, FMCG, and metal gains.\nDr. Reddy's spiked on a dengue vaccine deal, while Nestle India faced legal action from FSSAI over infant nutrition products.\nIT stocks lagged behind due to pre-Fed decision anxiety, keeping overall gains partially contained.",
+  "updatedAt": "2026-09-18T10:01:29.917Z",
   "source": "zerodha-pulse"
 }
