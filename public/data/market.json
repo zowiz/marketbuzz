@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex Ends Flat While Nifty Gains; Smallcaps and Metals Shine",
+  "headline": "Sensex Slips While Nifty Gains; Metals Shine Amid Global Cues",
   "why": [
-    "Moody's raised India's FY27 growth forecast to 7 percent",
-    "Metals and FMCG sectors saw buying interest ahead of Fed call",
-    "Smallcap stocks jumped nearly 1.8 percent outperforming large caps",
-    "Oil price retreat eased global inflation fears boosting sentiment"
+    "Metals and FMCG sectors saw strong buying interest",
+    "Falling crude oil prices improved market sentiment globally",
+    "Smallcap stocks witnessed a significant jump of 1.8 percent",
+    "Anticipation of US Federal Reserve upcoming policy decisions"
   ],
   "whatHappening": [
-    "India's foreign exchange reserves dropped by $4.9 billion recently",
-    "STT collections surged 53 percent following the recent rate hike",
-    "Hi-Tech Flow Solutions filed for a 300 crore rupee IPO",
-    "Indian bonds recorded a fifth consecutive weekly loss"
+    "Sensex closed 22 points lower while Nifty gained 53 points",
+    "Manipal Health cleared Rs 5,310 crore debt using IPO funds",
+    "ADIA arm plans a Rs 2,047-crore stake sale in Lenskart",
+    "Japanese Yen hit a two-week low after BOJ rate decision"
   ],
   "stocksInNews": [
     {
       "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Metals sector rose 1.5 percent"
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Negative",
-      "sources": "IT sector dragged the market down"
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Positive",
-      "sources": "FMCG sector shined ahead of Fed call"
+      "sources": "Metals rise 1.5%"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "IT sector dragged the market down"
+      "sources": "IT drags market"
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Positive",
+      "sources": "FMCG shine ahead of Fed"
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "IT sector weakness"
     },
     {
       "symbol": "HINDALCO",
       "sentiment": "Positive",
-      "sources": "Metals sector rose 1.5 percent"
+      "sources": "Metals sector gain"
+    },
+    {
+      "symbol": "ONGC",
+      "sentiment": "Negative",
+      "sources": "Falling oil prices"
+    },
+    {
+      "symbol": "BPCL",
+      "sentiment": "Positive",
+      "sources": "Lower crude costs benefit"
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "sentiment": "Positive",
+      "sources": "Metal sector jump"
     },
     {
       "symbol": "HUL",
       "sentiment": "Positive",
-      "sources": "FMCG sector shined ahead of Fed call"
+      "sources": "FMCG sector strength"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "Sensex ended nearly flat with mixed cues"
-    },
-    {
-      "symbol": "WIPRO",
-      "sentiment": "Negative",
-      "sources": "IT sector dragged the market down"
-    },
-    {
-      "symbol": "VEDL",
-      "sentiment": "Positive",
-      "sources": "Metals sector saw significant gains"
-    },
-    {
-      "symbol": "NESTLEIND",
-      "sentiment": "Neutral",
-      "sources": "Concerns over India food adulteration problem"
+      "sources": "Sensex volatility"
     }
   ],
-  "summary": "The Indian market showed mixed performance as Nifty gained while Sensex ended slightly lower amid IT sector weakness. Positive sentiment in metals, FMCG, and smallcaps offset concerns over falling forex reserves and bond losses. Investors remain focused on global cues including the upcoming Fed decision and easing oil prices.",
-  "updatedAt": "2026-09-18T14:44:03.581Z",
+  "summary": "Indian markets ended mixed as Nifty crossed 23,200 while Sensex dipped slightly. Metal and FMCG sectors led the gains amid falling crude oil prices and smallcap strength. IT stocks remained under pressure ahead of the critical US Federal Reserve meeting.",
+  "updatedAt": "2026-09-18T15:31:42.609Z",
   "source": "zerodha-pulse"
 }
