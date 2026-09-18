@@ -48,6 +48,7 @@ export default function App() {
         style={{
           padding: '10px 0',
           display: 'flex',
+          margin: '0 10px',
           justifyContent: 'space-between',
         }}
       >
@@ -59,6 +60,7 @@ export default function App() {
           display: 'flex',
           justifyContent: 'space-between',
           fontSize: 12,
+          margin: '0 10px',
         }}
       >
         <span style={{ color: ticker.nifty?.change >= 0 ? 'var(--bullish)' : 'var(--bearish)' }}>
@@ -78,7 +80,7 @@ export default function App() {
               padding: 16,
               border: '1px solid var(--card-border)',
               borderRadius: 'var(--border-smooth)',
-              marginBottom: 30,
+              margin: '0 10px 30px 10px',
             }}
           >
             <div style={{ marginBottom: 30, fontSize: 12, opacity: 0.7 }}>
@@ -91,7 +93,7 @@ export default function App() {
 
           <div
             style={{
-              marginBottom: 30,
+              margin: '0 10px 30px 10px',
             }}
           >
             <h4 style={{ margin: '0 0 12px 0', fontSize: 14, color: 'var(--accent)', fontWeight: 500 }}>FUNDAMENTAL DRIVER</h4>
@@ -129,7 +131,7 @@ export default function App() {
 
           <div
             style={{
-              marginBottom: 30,
+              margin: '0 10px 30px 10px',
             }}
           >
             <h4 style={{ margin: '0 0 12px 0', fontSize: 14, color: 'var(--accent)', fontWeight: 500 }}>MAIN HIGHLIGHTS</h4>
@@ -167,7 +169,7 @@ export default function App() {
 
           <div
             style={{
-              marginBottom: 30,
+              margin: '0 10px 30px 10px',
             }}
           >
             <h4 style={{ margin: '0 0 12px 0', fontSize: 14, color: 'var(--accent)', fontWeight: 500 }}>TRENDING STOCKS</h4>
