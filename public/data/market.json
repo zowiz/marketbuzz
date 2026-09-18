@@ -1,39 +1,39 @@
 {
-  "headline": "Sensex snaps two day fall, Nifty reclaims 23,200 level",
+  "headline": "Sensex gains 333 points as oil prices cool and metals shine",
   "why": [
-    "Indian markets recovered from a two-day decline supported by gains in realty, pharma, and FMCG stocks.",
-    "Global market sentiment digested the Bank of Japan's rate hike to 1.25%, the highest in 31 years.",
-    "Buying momentum picked up across select large-cap and sectoral indices ahead of the Fed rate decision."
+    "Cooling global oil prices providing relief to the domestic economy",
+    "Strong performance in metal and FMCG sectors ahead of Fed call",
+    "Positive global cues from Nikkei and other Asian markets"
   ],
   "whatHappening": [
-    "Elevate Campuses set its IPO price band at Rs 343–362 for a Rs 2,100 crore issue opening September 23.",
-    "Tata Group and TCS faced spotlight as Tata Trusts labeled Chandrasekaran's tenure extension illegal.",
-    "Kritilabs inked a three-year deal with Fiji firm RC Manubhai to export AI and IoT solutions to the Pacific region.",
-    "DEE Development Engineers mapped future growth focused on nuclear energy, data centres, and hydrogen sectors."
+    "Shapoorji Pallonji Group supports Tata Sons listing, impacting Tata stocks",
+    "Rupee strengthens to 95.73 against the US dollar in early trade",
+    "Bank of Japan hikes interest rates as AI and chip stocks rally",
+    "Gold prices hit record levels of Rs 1.52 lakh per 10 grams"
   ],
   "stocksInNews": [
     {
+      "symbol": "TATASTEEL",
+      "sentiment": "Negative",
+      "sources": "Shapoorji Pallonji Group backs Tata Sons listing causing group stocks to fall"
+    },
+    {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "Tata Trusts called N. Chandrasekaran's tenure extension illegal"
+      "sources": "IT sector drags and Tata Group stocks face selling pressure"
     },
     {
-      "symbol": "ADANIENSOL",
+      "symbol": "HINDALCO",
       "sentiment": "Positive",
-      "sources": "Closed above VWAP along with three other major stocks"
+      "sources": "Metal stocks shine in the market recovery"
     },
     {
-      "symbol": "DEEDEV",
+      "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "Management announced growth plans in nuclear, data centres, and hydrogen"
-    },
-    {
-      "symbol": "KRITILABS",
-      "sentiment": "Positive",
-      "sources": "Signed three-year pact with RC Manubhai to deploy AI and IoT tech in Pacific"
+      "sources": "FMCG sector shows strength ahead of Federal Reserve decision"
     }
   ],
-  "summary": "Indian benchmark indices snapped a two-day losing streak as Sensex rose over 300 points and Nifty reclaimed the 23,200 level.\nPrimary market activity remained active with the Elevate Campuses IPO announcement, while Tata Group stocks faced scrutiny over governance disputes.",
-  "updatedAt": "2026-09-18T05:31:15.238Z",
+  "summary": "The Indian market ended its two-day losing streak as the Sensex rose 333 points, driven by cooling oil prices and gains in metals. However, Tata Group stocks faced a sell-off following news regarding the potential Tata Sons listing.",
+  "updatedAt": "2026-09-18T06:02:16.713Z",
   "source": "zerodha-pulse"
 }
