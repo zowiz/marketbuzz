@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex slips as Nifty gains; Metals and Smallcaps shine amid Fed jitters",
+  "headline": "Sensex slips as Nifty gains; Smallcaps and Metals shine amid Fed anticipation",
   "why": [
-    "Higher US Treasury yields weighing on global investor sentiment",
-    "AAII survey indicating investor sentiment at a 16-month low",
-    "IT sector dragging performance ahead of the Federal Reserve call",
-    "BofA warning of potential Fed rate hikes exceeding 5 percent"
+    "US Treasury yields rose, weighing on global investor sentiment",
+    "AAII survey shows investor sentiment hitting a 16-month low",
+    "IT sector dragged indices down ahead of the Federal Reserve meeting",
+    "Metals and FMCG sectors outperformed, providing support to the Nifty"
   ],
   "whatHappening": [
-    "Sensex ended 22 points lower while Nifty 50 gained 53 points",
-    "Smallcap stocks outperformed the broader market with a 1.8 percent jump",
-    "Metal and FMCG sectors showed strength despite overall market volatility",
-    "SBI reports potential 5 trillion rupee profit for banks from FCNR(B)"
+    "Sensex ended marginally lower by 22 points while Nifty gained 53 points",
+    "Smallcap stocks jumped nearly 1.8% despite volatility in large-cap indices",
+    "SBI reports potential ₹5 trillion notional profit for banks from FCNR(B)",
+    "Air India considers merging its budget unit to optimize operational costs"
   ],
   "stocksInNews": [
     {
       "symbol": "SBIN",
       "sentiment": "Positive",
-      "sources": "SBI report on FCNR(B) notional profit"
+      "sources": "SBI reports potential ₹5 trillion profit from FCNR(B) over 5 years"
     },
     {
       "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Metal sector rally"
-    },
-    {
-      "symbol": "HINDALCO",
-      "sentiment": "Positive",
-      "sources": "Metal sector rally"
+      "sources": "Metals sector rises 1.5% as Nifty gains ground"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "IT sector drag"
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Negative",
-      "sources": "IT sector drag"
+      "sources": "IT sector drags market performance ahead of Fed call"
     },
     {
       "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "FMCG sector strength"
+      "sources": "FMCG sector shines as defensive buying increases"
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "IT stocks under pressure due to global sentiment and Fed uncertainty"
+    },
+    {
+      "symbol": "HINDALCO",
+      "sentiment": "Positive",
+      "sources": "Metals outperform broader market with significant gains"
     },
     {
       "symbol": "HUL",
       "sentiment": "Positive",
-      "sources": "FMCG sector strength"
+      "sources": "FMCG stocks provide support to Nifty amid large-cap volatility"
     },
     {
       "symbol": "MARUTI",
       "sentiment": "Negative",
-      "sources": "Toyota automation spend news"
+      "sources": "Global auto sentiment impacted by Toyota automation spend reports"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "General market volatility"
+      "sources": "Market heavyweight remains steady amid mixed sectoral performance"
     },
     {
-      "symbol": "AXISBANK",
+      "symbol": "LT",
       "sentiment": "Positive",
-      "sources": "Banking sector profit outlook"
+      "sources": "Smallcap and infrastructure rally boosts capital goods sentiment"
     }
   ],
-  "summary": "Indian markets displayed mixed results as Nifty edged higher while Sensex remained flat to negative. Smallcap and metal stocks provided significant support, offsetting losses in the technology sector. Global factors like rising Treasury yields and Fed policy uncertainty continue to dictate trends.",
-  "updatedAt": "2026-09-18T22:01:41.137Z",
+  "summary": "Indian markets showed mixed performance as the Sensex dipped slightly while Nifty and smallcaps gained ground.\nInvestor caution prevails due to rising US Treasury yields and a significant drop in global sentiment.\nSectoral rotation is evident with Metals and FMCG leading gains while IT remains under pressure.",
+  "updatedAt": "2026-09-18T22:31:21.137Z",
   "source": "zerodha-pulse"
 }
