@@ -58,6 +58,7 @@ export default function App() {
           padding: '10px 0',
           display: 'flex',
           justifyContent: 'space-between',
+          fontSize: 12,
         }}
       >
         <span style={{ color: ticker.nifty?.change >= 0 ? 'var(--bullish)' : 'var(--bearish)' }}>
