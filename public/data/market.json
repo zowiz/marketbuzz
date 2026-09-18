@@ -1,39 +1,70 @@
 {
-  "headline": "Sensex snaps losing streak to gain over 300 points, Nifty above 23,200",
+  "headline": "Sensex Gains 200 Points, Nifty Tops 23,300 Led by Metals",
   "why": [
-    "Rebound in metals, FMCG, and defence sectors boosted market sentiment.",
-    "Short covering and buying interest ahead of the upcoming US Fed interest rate call.",
-    "Positive corporate updates around Tata Sons IPO and semiconductor roadmaps."
+    "Buying interest in metal, realty, and pharma sectors propelled benchmark indices higher.",
+    "Positive sentiment around domestic manufacturing boosted by Tata's semiconductor partnership with Nexperia.",
+    "FMCG and metal stocks gained traction ahead of the upcoming US Federal Reserve interest rate decision.",
+    "Global economic concerns persisted due to elevated crude oil prices and rising borrowing costs."
   ],
   "whatHappening": [
-    "Sensex gained over 300 points while Nifty crossed 23,200, snapping a two-day decline.",
-    "Shapoorji Pallonji Group welcomed RBI's decision and backed Tata Sons listing.",
-    "Jefferies upgraded Navin Fluorine with a target price reflecting 14% upside potential.",
-    "Indian quick-commerce players entered a new race to deliver iPhones within minutes."
+    "FSSAI initiated legal action against Nestle India over claims in infant formula products like NAN Excella Pro.",
+    "Nexperia announced a strategic partnership with Tata for chip production and packaging in India.",
+    "Nifty Metal index extended its winning streak for the third consecutive session.",
+    "Realty and Pharma sectors surged over 1.5%, helping Nifty hold above key support levels."
   ],
   "stocksInNews": [
     {
-      "symbol": "TATACHEM",
-      "sentiment": "Positive",
-      "sources": "Highlighted as a primary beneficiary of potential Tata Sons IPO"
-    },
-    {
-      "symbol": "NAVINFLUOR",
-      "sentiment": "Positive",
-      "sources": "Jefferies hiked target price forecasting 14% upside"
+      "symbol": "NESTLEIND",
+      "sentiment": "Negative",
+      "sources": "FSSAI initiates legal action over infant formula product claims"
     },
     {
       "symbol": "TATAMOTORS",
       "sentiment": "Positive",
-      "sources": "SP Group supported Tata Sons listing where Tata Motors holds significant stake"
+      "sources": "Tata partners with Nexperia for domestic chip production and packaging"
     },
     {
       "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Holds major stake in Tata Sons amid updates on IPO listing"
+      "sources": "Metal stocks rally as Nifty Metal extends winning streak to 3rd day"
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "IT sector drags benchmark indices ahead of the US Fed decision"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "IT stocks face pressure ahead of key central bank policy calls"
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "sentiment": "Positive",
+      "sources": "FMCG sector shines as defensive play ahead of Fed call"
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "sentiment": "Positive",
+      "sources": "Pharma index rises over 1.5% in broad market gains"
+    },
+    {
+      "symbol": "DLF",
+      "sentiment": "Positive",
+      "sources": "Realty stocks rally over 1.5% boosting market momentum"
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Shares stay volatile amid rising crude oil and stagflation fears"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Financials support Nifty holding above the 23,250 mark"
     }
   ],
-  "summary": "Indian equity markets ended higher as Sensex rose over 300 points, led by gains in metals, FMCG, and defence stocks. Optimism around Tata Sons IPO and positive brokerage calls on selective chemical stocks further boosted market sentiment.",
-  "updatedAt": "2026-09-18T08:31:15.425Z",
+  "summary": "Indian equities traded higher with Nifty topping 23,300, supported by rallies in metal, pharma, and realty stocks.\nNestle India faced regulatory headwinds as FSSAI initiated legal proceedings over infant food label claims.\nGlobal markets remained cautious over stagflation risks driven by high oil prices and borrowing costs ahead of the US Fed decision.",
+  "updatedAt": "2026-09-18T09:01:44.157Z",
   "source": "zerodha-pulse"
 }
