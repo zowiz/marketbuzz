@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex gains 200 points as Nifty crosses 23300; Nestle faces legal action",
+  "headline": "Sensex Jumps 300 Points As Nifty Tops 23,350 Mark",
   "why": [
-    "Nifty Metal extends winning streak for the third consecutive day",
-    "Realty and Pharma sectors witness gains of over 1.5 percent",
-    "Strategic partnership announced between Nexperia and Tata for chip production",
-    "Positive momentum in FMCG and Metals ahead of US Fed call"
+    "Strong buying in realty, metals, and FMCG stocks pushed benchmark indices higher.",
+    "Positive corporate developments in pharma boosted selective stock sentiment.",
+    "Realty sector surged nearly 2%, providing significant support to the market.",
+    "Market participants adjusted positions ahead of the upcoming US Federal Reserve decision."
   ],
   "whatHappening": [
-    "FSSAI initiates legal action against Nestle India over infant food violations",
-    "Nifty 50 successfully holds levels above 23,250 despite global stagflation fears",
-    "IT sector drags market performance while other sectoral indices show strength",
-    "Rising oil prices and borrowing costs fuel concerns for the global economy"
+    "Sensex touched its day high, gaining over 300 points, while Nifty traded above 23,350.",
+    "IT sector faced selling pressure, dragging major tech shares down by over 1.5%.",
+    "FSSAI initiated legal proceedings against Nestle India concerning infant nutrition items.",
+    "Dr. Reddy's partnered with Takeda Pharma to introduce dengue vaccine QDENGA in India."
   ],
   "stocksInNews": [
     {
+      "symbol": "DRREDDY",
+      "sentiment": "Positive",
+      "sources": "Inked distribution pact with Takeda Pharma for dengue vaccine QDENGA"
+    },
+    {
       "symbol": "NESTLEIND",
       "sentiment": "Negative",
-      "sources": "FSSAI legal action over infant food violations"
-    },
-    {
-      "symbol": "TATASTEEL",
-      "sentiment": "Positive",
-      "sources": "Nifty Metal winning streak and Tata-Nexperia chip partnership"
-    },
-    {
-      "symbol": "DLF",
-      "sentiment": "Positive",
-      "sources": "Realty sector rises over 1.5 percent"
-    },
-    {
-      "symbol": "SUNPHARMA",
-      "sentiment": "Positive",
-      "sources": "Pharma sector gains contribute to market upside"
+      "sources": "FSSAI initiated legal action over infant nutrition products"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector drags market performance"
+      "sources": "IT sector slides over 1.5% weighing on key IT counters"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "IT stocks under pressure ahead of Fed decision"
+      "sources": "Sectoral weakness in IT ahead of US Fed interest rate decision"
     },
     {
-      "symbol": "ITC",
+      "symbol": "DLF",
       "sentiment": "Positive",
-      "sources": "FMCG sector shines in latest trading session"
+      "sources": "Realty sector rises nearly 2% leading sectoral gains"
     },
     {
-      "symbol": "HINDALCO",
+      "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Metal index extends winning streak to third day"
+      "sources": "Metal stocks shine in morning trade supporting market upmove"
     },
     {
-      "symbol": "TATAMOTORS",
+      "symbol": "HINDUNILVR",
       "sentiment": "Positive",
-      "sources": "Tata Group partnership with Nexperia for semiconductor production"
+      "sources": "FMCG sector sees buying momentum ahead of Fed call"
+    },
+    {
+      "symbol": "INDIGO",
+      "sentiment": "Neutral",
+      "sources": "Festival travel demand expected to push international airfares up 5-20%"
     },
     {
       "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Impact of rising oil prices on global stagflation fears"
+      "sentiment": "Positive",
+      "sources": "Broad market rally helps Sensex scale day's high"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Positive",
+      "sources": "Banking stocks support overall market move above key levels"
     }
   ],
-  "summary": "Indian markets showed resilience as Nifty crossed the 23,300 mark led by strong performance in Metal and Realty sectors. Nestle India is under regulatory scrutiny as FSSAI launches legal action regarding infant formula claims. Global markets remain cautious due to rising oil costs and the upcoming US Federal Reserve announcement.",
-  "updatedAt": "2026-09-18T09:31:23.133Z",
+  "summary": "Indian benchmark indices traded significantly higher on September 18, with the Sensex gaining over 300 points and Nifty scaling above 23,350. Sectoral gains in realty, metals, and FMCG effectively counterbalanced a steep 1.5% decline in IT stocks ahead of the US Fed meeting. Stock-specific action remained prominent with Dr. Reddy's rising on a vaccine distribution deal and Nestle India facing regulatory heat from FSSAI.",
+  "updatedAt": "2026-09-18T10:00:34.345Z",
   "source": "zerodha-pulse"
 }
