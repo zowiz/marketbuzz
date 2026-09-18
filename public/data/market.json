@@ -1,39 +1,39 @@
 {
-  "headline": "Sensex trades flat, Nifty holds above 23,250 as Tata stocks rally",
+  "headline": "Sensex rises 100 pts, Nifty tops 23,300; Realty and Pharma gain",
   "why": [
-    "Markets absorbed the expected US rate hike, helping Nifty stay above 23,250.",
-    "Realty and pharma sectors surged over 1.5% while IT faced selling pressure.",
-    "Easing global oil prices and US yields provided support to broader market sentiment."
+    "Japan central bank raised interest rates to 1.25 percent",
+    "Anticipation of US Fed rate hike impact on Indian markets",
+    "Strong performance in Realty and Pharma sectors boosting indices"
   ],
   "whatHappening": [
-    "SEBI is reviewing broker concerns regarding new UPI transaction fees and MDR charges.",
-    "NSE IPO saw a 0.43x subscription on its first day, driven primarily by NIIs.",
-    "TVS noted a 22% growth in premium motorcycles as the two-wheeler market shifts up.",
-    "India's construction equipment exports are expected to pass 20,000 units in FY27."
+    "Japan's central bank hiked rates to the highest level in 31 years",
+    "Elevate Campuses announced a 2,100 crore IPO starting September 23",
+    "Tata Trusts challenged the legality of Chandrasekaran's tenure extension",
+    "Kritilabs signed a three-year AI and IoT pact with Fiji firm"
   ],
   "stocksInNews": [
     {
-      "symbol": "TATAMOTORS",
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "Tata Trusts call tenure extension illegal"
+    },
+    {
+      "symbol": "ADANIENSOL",
       "sentiment": "Positive",
-      "sources": "Tata group stocks rose on listing hopes and Chandra's extension"
+      "sources": "Stock closed above Volume Weighted Average Price"
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Stock in focus amid UPI fee debates and market movement"
+      "sources": "In focus during market opening volatility"
     },
     {
-      "symbol": "TVSMOTOR",
+      "symbol": "DEE",
       "sentiment": "Positive",
-      "sources": "Reported 22% growth in premium motorcycle sales"
-    },
-    {
-      "symbol": "NSE",
-      "sentiment": "Positive",
-      "sources": "IPO subscribed 0.43 times on Day 1 with high NII participation"
+      "sources": "Management maps growth in nuclear and hydrogen sectors"
     }
   ],
-  "summary": "Indian equities remained stable as Nifty held above 23,250 despite an expected US rate hike.\nRealty, pharma, and Tata group stocks drove gains, offsetting weakness in IT shares.",
-  "updatedAt": "2026-09-18T00:56:11.299Z",
+  "summary": "Indian markets remain resilient with Nifty holding above 23,250 despite global volatility from Japan's rate hike. Internal leadership disputes at Tata Group and upcoming large IPOs are currently driving specific stock movements.",
+  "updatedAt": "2026-09-18T05:11:12.690Z",
   "source": "zerodha-pulse"
 }
