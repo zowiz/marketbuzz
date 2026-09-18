@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex Flat, Nifty Gains 53 Points as Metals and Smallcaps Surge",
+  "headline": "Sensex slips while Nifty gains as smallcaps and metals lead market rally",
   "why": [
-    "Metals and FMCG stocks saw strong gains amid easing global oil prices.",
-    "Moody's raised India's FY27 growth forecast to 7% despite inflation risks.",
-    "US stock gains and falling crude oil retreat eased immediate global inflation fears.",
-    "Smallcap and midcap stocks outperformed broader indices with strong buying interest."
+    "Metals and FMCG sectors shine ahead of the Federal Reserve meeting",
+    "Smallcap stocks witness a significant jump of nearly 1.8 percent",
+    "IT sector drags the Sensex into the red during volatile trading",
+    "Oil price retreat eases global inflation fears boosting US stock futures"
   ],
   "whatHappening": [
-    "India's foreign exchange reserves fell by $4.9 billion to $780.8 billion.",
-    "Securities Transaction Tax (STT) collections surged 53% to ₹40,214 crore in FY27.",
-    "Hi-Tech Flow Solutions filed DRHP to raise ₹300 crore via an IPO.",
-    "Indian sovereign bonds suffered a fifth weekly loss following Fed rate hike expectations."
+    "India's foreign exchange reserves declined by $4.9 billion to $780.8 billion",
+    "Moody's upgraded India's FY27 growth forecast to 7 percent despite inflation",
+    "STT collections surged 53 percent following the recent tax rate hike",
+    "Hi-Tech Flow Solutions filed for a 300 crore rupee fresh issue IPO"
   ],
   "stocksInNews": [
     {
       "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Metals sector rally led market gains with 1.5% jump"
+      "sources": "Metals rise 1.5 percent"
     },
     {
-      "symbol": "TCS",
-      "sentiment": "Negative",
-      "sources": "IT sector under pressure ahead of US Fed decision"
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "Weakness in IT stocks dragged broader benchmark indices"
+      "symbol": "HINDALCO",
+      "sentiment": "Positive",
+      "sources": "Metals rise 1.5 percent"
     },
     {
       "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "FMCG sector shined as defensive buying picked up"
+      "sources": "FMCG shine ahead of Fed call"
+    },
+    {
+      "symbol": "HUL",
+      "sentiment": "Positive",
+      "sources": "FMCG shine ahead of Fed call"
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "IT drags market performance"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "IT drags market performance"
+    },
+    {
+      "symbol": "WIPRO",
+      "sentiment": "Negative",
+      "sources": "IT drags market performance"
     },
     {
       "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Easing crude oil prices supported energy sector sentiment"
-    },
-    {
-      "symbol": "HDFCBANK",
       "sentiment": "Neutral",
-      "sources": "Banking sector traded rangebound amid surging bond yields"
+      "sources": "Oil retreat eases inflation fears"
     },
     {
-      "symbol": "ICICIBANK",
+      "symbol": "SBIN",
+      "sentiment": "Negative",
+      "sources": "RBI moves hand bonds fifth weekly loss"
+    },
+    {
+      "symbol": "VEDL",
       "sentiment": "Positive",
-      "sources": "Financials held steady following upgraded GDP growth forecast"
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
-      "sources": "Steady institutional interest during broad market recovery"
-    },
-    {
-      "symbol": "LT",
-      "sentiment": "Positive",
-      "sources": "Moody's 7% GDP growth forecast boosted industrial capex outlook"
-    },
-    {
-      "symbol": "MARUTI",
-      "sentiment": "Neutral",
-      "sources": "Auto sector stayed mixed amid ongoing inflation warnings"
+      "sources": "Metals rise 1.5 percent"
     }
   ],
-  "summary": "Indian equity markets ended mixed as Nifty gained supported by metals and smallcaps, while IT heavyweights dragged the Sensex.\nMoody's upgraded India's FY27 GDP growth forecast to 7%, providing underlying optimism despite dropping forex reserves and rising bond yields.\nMeanwhile, STT tax collections surged 53%, underscoring robust retail participation and equity trading volumes.",
-  "updatedAt": "2026-09-18T14:31:23.590Z",
+  "summary": "The Indian markets showed mixed performance as the Nifty gained ground while the Sensex ended slightly lower due to IT sector pressure.\nSmallcap and metal stocks outperformed the broader market, driven by easing oil prices and positive global cues.\nInvestors remain cautious regarding inflation risks and upcoming central bank policy decisions.",
+  "updatedAt": "2026-09-18T14:36:55.955Z",
   "source": "zerodha-pulse"
 }
