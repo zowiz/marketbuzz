@@ -67,16 +67,24 @@ ${headlines.join("\n")}
 Generate valid JSON ONLY in this shape:
 {
   "headline": "Sensex... (12 words max)",
-  "why": ["reason1","reason2","reason3"],
+  "why": ["reason1","reason2","reason3","reason4"],
   "whatHappening": ["fact1","fact2","fact3","fact4"],
   "stocksInNews": [
     {"symbol":"RELIANCE","sentiment":"Positive","sources":"trigger"},
     {"symbol":"TCS","sentiment":"Negative","sources":"trigger"},
     {"symbol":"HDFCBANK","sentiment":"Positive","sources":"trigger"},
-    {"symbol":"INFY","sentiment":"Neutral","sources":"trigger"}
+    {"symbol":"INFY","sentiment":"Neutral","sources":"trigger"},
+    {"symbol":"ICICIBANK","sentiment":"Positive","sources":"trigger"},
+    {"symbol":"SBIN","sentiment":"Positive","sources":"trigger"},
+    {"symbol":"BHARTIARTL","sentiment":"Positive","sources":"trigger"},
+    {"symbol":"ITC","sentiment":"Neutral","sources":"trigger"},
+    {"symbol":"LT","sentiment":"Positive","sources":"trigger"},
+    {"symbol":"MARUTI","sentiment":"Negative","sources":"trigger"}
   ],
-  "summary": "2 lines summary"
-}`;
+  "summary": "3 lines summary"
+}
+
+Rules: MUST return exactly 10 stocks in stocksInNews, different symbols only.`;
 
   const raw = await generateWithRetry(prompt);
   const json = JSON.parse(raw.replace(/```json|```/g, '').trim());
