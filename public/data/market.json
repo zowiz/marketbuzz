@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex Closes Mixed as Adani Soars and IT Stocks Drag",
+  "headline": "Sensex volatile amid CAS chaos; Nifty holds 23,300 as Adani stocks soar",
   "why": [
-    "Jefferies bullish report triggered a major surge in Adani group stocks.",
-    "IT sector faced selling pressure ahead of the upcoming US Fed rate decision.",
-    "Pre-market Call Auction System (CAS) volatility caused extreme intra-day swings.",
-    "Rupee weakness against the USD weighed on broad market sentiment."
+    "Jefferies report sees up to 53% upside in Adani Energy and others",
+    "CAS technical issues caused a 1,000-point indicative tumble in Sensex",
+    "IT sector faced selling pressure ahead of the US Fed policy call",
+    "Tata Sons and Tata Trusts are in conflict over board governance"
   ],
   "whatHappening": [
-    "Sensex ended 22 points lower while Nifty gained 53 points to close above 23,300.",
-    "Adani group shares jumped up to 12% following up to 53% upside price targets.",
-    "Realty and metal stocks gained up to 2%, contrasting with a 1.5% drop in IT.",
-    "Bodal Chemicals and other commodity stocks touched new 52-week highs."
+    "Nifty 50 ended the session above the 23,300 mark despite Sensex volatility",
+    "Adani Group stocks surged up to 12% following positive analyst outlooks",
+    "Realty stocks gained 2% while IT stocks slid over 1.5% today",
+    "Bodal Chemicals hit a 52-week high after a massive monthly rally"
   ],
   "stocksInNews": [
     {
-      "symbol": "ADANIENSOL",
-      "sentiment": "Positive",
-      "sources": "Jefferies sees up to 53% upside potential in Adani Energy"
-    },
-    {
       "symbol": "ADANIENT",
       "sentiment": "Positive",
-      "sources": "Adani group stocks surged up to 12% on bullish analyst views"
+      "sources": "Jefferies report sees significant upside"
+    },
+    {
+      "symbol": "ADANIENSOL",
+      "sentiment": "Positive",
+      "sources": "Stocks soar 12% on bullish analyst outlook"
     },
     {
       "symbol": "BODALCHEM",
       "sentiment": "Positive",
-      "sources": "Hit 52-week high after rallying up to 175% in a month"
+      "sources": "Hits 52-week high after 175% monthly rally"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector dragged market down over 1.5% ahead of Fed call"
+      "sources": "IT sector slides over 1.5% during trade"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "IT stocks faced selling pressure ahead of US Fed rate decision"
+      "sources": "IT sector drags ahead of Fed policy call"
     },
     {
       "symbol": "DLF",
       "sentiment": "Positive",
-      "sources": "Realty sector gained nearly 2% leading broader market gains"
+      "sources": "Realty sector rises nearly 2%"
     },
     {
-      "symbol": "TATASTEEL",
+      "symbol": "HINDALCO",
       "sentiment": "Positive",
-      "sources": "Metals sector shined during the trading session"
+      "sources": "Metals sector shines in market session"
     },
     {
-      "symbol": "HINDUNILVR",
+      "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "FMCG sector gained strength ahead of US Fed rate decision"
+      "sources": "FMCG sector gains ahead of Fed decision"
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Neutral",
+      "sources": "Conflict between Tata Sons and Tata Trusts"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "Sensex closed flat after intra-day volatility in heavyweights"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "Index heavyweights helped keep Nifty positive above 23,300"
+      "sources": "Sensex indicative price volatility and CAS chaos"
     }
   ],
-  "summary": "Indian benchmark indices ended mixed as Nifty crossed 23,300 while Sensex closed slightly in the red.\nAdani Group stocks rallied sharply up to 12% following bullish target upgrades by Jefferies.\nRealty, metals, and FMCG sectors gained strength, whereas IT stocks dragged the market down ahead of the US Fed decision.",
-  "updatedAt": "2026-09-18T11:01:31.143Z",
+  "summary": "Indian markets witnessed high volatility as technical glitches caused a temporary Sensex tumble, though Nifty managed to close above 23,300. Adani Group stocks led the gains following bullish projections from Jefferies, while the IT sector dragged the indices down ahead of the Fed meeting. Investors remain cautious due to the Rupee's decline and ongoing internal conflicts within the Tata Group leadership.",
+  "updatedAt": "2026-09-18T11:31:31.195Z",
   "source": "zerodha-pulse"
 }
