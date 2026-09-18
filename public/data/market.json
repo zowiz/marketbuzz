@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex Ends Marginally Lower While Nifty Holds Above 23,250 Level",
+  "headline": "Nifty Reclaims 23,200 Amid Metal Gains and Saudi Crude Supply Disruptions",
   "why": [
-    "Saudi Aramco halted crude supplies to Indian refiners after a pipeline attack",
-    "IT stocks dragged the indices lower ahead of the Federal Reserve call",
-    "Internal conflict between Tata Sons Board and Tata Trusts weighed on sentiment",
-    "Geopolitical shocks and AI advancements are demanding a rethink of management strategies"
+    "Metals and FMCG sectors outperformed ahead of the Federal Reserve meeting",
+    "Nasdaq futures rose as falling oil prices mitigated global inflation concerns",
+    "Direct tax collections grew 13% reflecting robust domestic economic growth",
+    "Market snapped a two-day losing streak despite pressure on IT stocks"
   ],
   "whatHappening": [
-    "Warren Buffett has officially stepped down as Chairman of Berkshire Hathaway",
-    "India is set to launch its first approved dengue vaccine in 2027",
-    "Realty and Pharma sectors outperformed the broader market with 1.5% gains",
-    "Indian refiners are facing immediate supply disruptions from Saudi Arabian crude sources"
+    "Saudi Aramco suspended crude deliveries to India after a pipeline attack",
+    "Indian bonds faced a fifth weekly loss due to RBI moves",
+    "The Rupee closed unchanged at 95.89 against the U.S. Dollar",
+    "India announced the 2027 launch of the Qdenga dengue vaccine"
   ],
   "stocksInNews": [
     {
       "symbol": "BPCL",
       "sentiment": "Negative",
-      "sources": "Saudi Aramco halts crude supplies to Indian refiners"
+      "sources": "Saudi Aramco crude supply halt"
     },
     {
       "symbol": "IOC",
       "sentiment": "Negative",
-      "sources": "Saudi Aramco halts crude supplies to Indian refiners"
+      "sources": "Saudi Aramco crude supply halt"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT drags while metals, FMCG shine ahead of Fed call"
-    },
-    {
-      "symbol": "SUNPHARMA",
-      "sentiment": "Positive",
-      "sources": "Realty, pharma rise over 1.5%"
-    },
-    {
-      "symbol": "DLF",
-      "sentiment": "Positive",
-      "sources": "Realty, pharma rise over 1.5%"
-    },
-    {
-      "symbol": "TATASTEEL",
-      "sentiment": "Positive",
-      "sources": "Metals, FMCG shine ahead of Fed call"
-    },
-    {
-      "symbol": "HINDUNILVR",
-      "sentiment": "Positive",
-      "sources": "Metals, FMCG shine ahead of Fed call"
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "Saudi Aramco halts crude supplies to Indian refiners"
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Negative",
-      "sources": "Tata Sons Board and majority-owner Tata Trusts are in conflict"
+      "sources": "IT sector dragging ahead of Fed call"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "IT drags while metals, FMCG shine ahead of Fed call"
+      "sources": "IT sector dragging ahead of Fed call"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "sentiment": "Positive",
+      "sources": "Metals sector shine ahead of Fed call"
+    },
+    {
+      "symbol": "HINDALCO",
+      "sentiment": "Positive",
+      "sources": "Metals sector shine ahead of Fed call"
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Positive",
+      "sources": "FMCG sector shine ahead of Fed call"
+    },
+    {
+      "symbol": "HUL",
+      "sentiment": "Positive",
+      "sources": "FMCG sector shine ahead of Fed call"
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Saudi Aramco crude supply halt"
+    },
+    {
+      "symbol": "VEDL",
+      "sentiment": "Positive",
+      "sources": "Metals sector shine ahead of Fed call"
     }
   ],
-  "summary": "Indian markets displayed mixed results as the Nifty managed to hold the 23,250 mark despite a slight dip in the Sensex. \nCrude supply concerns have spiked following a pipeline attack on Saudi Aramco facilities affecting Indian refiners. \nGlobal attention shifts to Berkshire Hathaway's leadership transition as Warren Buffett moves to a chairman emeritus role.",
-  "updatedAt": "2026-09-18T12:31:24.739Z",
+  "summary": "The Nifty 50 reclaimed the 23,200 level as strong performance in Metals and FMCG offset IT sector weakness. Investors weighed positive domestic tax collection data against supply chain risks from Saudi Aramco's crude halt. Global cues remained mixed with US futures rising while Indian bonds faced persistent selling pressure.",
+  "updatedAt": "2026-09-18T13:01:51.850Z",
   "source": "zerodha-pulse"
 }
