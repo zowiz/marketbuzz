@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex Slips While Nifty Gains; Smallcaps Jump Amid Fed Policy Anticipation",
+  "headline": "Sensex Slips into Red While Nifty Gains Ahead of Fed Call",
   "why": [
-    "Anticipation of the upcoming US Federal Reserve interest rate decision",
-    "Strong performance in metal and FMCG sectors boosting Nifty indices",
-    "Massive investor interest in the Jindal Supreme IPO subscription",
-    "Profit booking in major IT stocks dragging the Sensex performance"
+    "Higher US Treasury yields weigh on global market sentiment.",
+    "Investor sentiment plunges to a 16-month low according to AAII survey.",
+    "IT sector drags performance ahead of crucial US Fed interest rate decision.",
+    "Concerns over potential aggressive Fed rate hikes re-emerge globally."
   ],
   "whatHappening": [
-    "Sensex ended 22 points lower while Nifty gained 53-75 points",
-    "Smallcap stocks outperformed the broader market with a 1.8% jump",
-    "iPhone 18 Pro day one sales surged 15-28% over previous models",
-    "SBI projects ₹5 trillion notional profit for banks from FCNR(B) deposits"
+    "Sensex ended slightly lower while Nifty gained ground, driven by metals and FMCG.",
+    "Smallcap indices surged nearly 1.8% as metals sector rose 1.5%.",
+    "SBI reports FCNR(B) deposits could generate ₹5 trillion notional profit for banks.",
+    "Air India considers merging its budget unit to reduce operational costs."
   ],
   "stocksInNews": [
     {
-      "symbol": "SBIN",
+      "symbol": "RELIANCE",
       "sentiment": "Positive",
-      "sources": "FCNR(B) profit projections"
-    },
-    {
-      "symbol": "JINDAL",
-      "sentiment": "Positive",
-      "sources": "IPO subscribed 181 times"
+      "sources": "Broad market support and sector stability"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector drag"
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "IT sector drag"
-    },
-    {
-      "symbol": "HINDALCO",
-      "sentiment": "Positive",
-      "sources": "Metals sector rise"
-    },
-    {
-      "symbol": "TATASTEEL",
-      "sentiment": "Positive",
-      "sources": "Metals sector rise"
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Positive",
-      "sources": "FMCG sector shine"
-    },
-    {
-      "symbol": "HUL",
-      "sentiment": "Positive",
-      "sources": "FMCG sector shine"
+      "sources": "IT sector drags ahead of US Fed interest rate call"
     },
     {
       "symbol": "HDFCBANK",
       "sentiment": "Positive",
-      "sources": "Banking sector tailwinds"
+      "sources": "Banking sector supported by positive domestic liquidity outlook"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "Weakness in IT stocks weighs on valuation"
     },
     {
       "symbol": "ICICIBANK",
       "sentiment": "Positive",
-      "sources": "Banking sector tailwinds"
+      "sources": "Private banking space remains resilient"
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Positive",
+      "sources": "SBI reports potential ₹5 trn bank profit from FCNR(B) deposits"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "sentiment": "Positive",
+      "sources": "Telecom momentum supported by positive broader market breadth"
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Positive",
+      "sources": "FMCG sector shines ahead of US Fed rate decision"
+    },
+    {
+      "symbol": "LT",
+      "sentiment": "Positive",
+      "sources": "Capital goods gain as smallcap and broader markets rally"
+    },
+    {
+      "symbol": "MARUTI",
+      "sentiment": "Negative",
+      "sources": "Automotive sentiment cautious amid global automation spend concerns"
     }
   ],
-  "summary": "The Indian markets showed mixed results as the Nifty managed gains while the Sensex closed slightly in the red. Smallcap and metal stocks led the rally, contrasting with a drag in the IT sector ahead of the US Fed meeting. High demand for the Jindal Supreme IPO and strong iPhone 18 sales provided additional market optimism.",
-  "updatedAt": "2026-09-18T20:31:21.234Z",
+  "summary": "Indian benchmark indices closed mixed as the Nifty gained while Sensex slipped into the red after volatile trading.\nMetals and FMCG stocks performed strongly, helping drive a nearly 1.8% jump in smallcap indices despite IT sector drag.\nGlobal markets remain cautious due to rising US Treasury yields and plunging US investor sentiment ahead of the Fed rate decision.",
+  "updatedAt": "2026-09-18T21:31:15.422Z",
   "source": "zerodha-pulse"
 }
