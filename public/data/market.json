@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex volatile amid CAS chaos; Nifty holds 23,300 as Adani stocks soar",
+  "headline": "Sensex ends marginally lower while Nifty holds above 23,250 level",
   "why": [
-    "Jefferies report sees up to 53% upside in Adani Energy and others",
-    "CAS technical issues caused a 1,000-point indicative tumble in Sensex",
-    "IT sector faced selling pressure ahead of the US Fed policy call",
-    "Tata Sons and Tata Trusts are in conflict over board governance"
+    "Saudi Aramco halted crude supplies to Indian refiners following a pipeline attack.",
+    "IT stocks dragged the market lower ahead of the upcoming US Federal Reserve policy decision.",
+    "Geopolitical tension and crude oil import uncertainties impacted overall market sentiment.",
+    "Internal friction between Tata Sons Board and Tata Trusts added corporate governance concerns."
   ],
   "whatHappening": [
-    "Nifty 50 ended the session above the 23,300 mark despite Sensex volatility",
-    "Adani Group stocks surged up to 12% following positive analyst outlooks",
-    "Realty stocks gained 2% while IT stocks slid over 1.5% today",
-    "Bodal Chemicals hit a 52-week high after a massive monthly rally"
+    "Sensex closed slightly lower while Nifty gained 53 points to stay above 23,250.",
+    "Realty, Pharma, Metals, and FMCG sectors saw strong buying interest rising over 1.5%.",
+    "Warren Buffett officially stepped down as Berkshire Hathaway chairman after leading since 1970.",
+    "India prepares to introduce its first approved dengue vaccine Qdenga in 2027."
   ],
   "stocksInNews": [
     {
-      "symbol": "ADANIENT",
-      "sentiment": "Positive",
-      "sources": "Jefferies report sees significant upside"
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Crude supply disruption from Saudi Aramco pipeline attack impacts refining segment."
     },
     {
-      "symbol": "ADANIENSOL",
-      "sentiment": "Positive",
-      "sources": "Stocks soar 12% on bullish analyst outlook"
-    },
-    {
-      "symbol": "BODALCHEM",
-      "sentiment": "Positive",
-      "sources": "Hits 52-week high after 175% monthly rally"
+      "symbol": "BPCL",
+      "sentiment": "Negative",
+      "sources": "Aramco crude halt poses short-term feed inventory challenges for state refiners."
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector slides over 1.5% during trade"
+      "sources": "IT sector faced selling pressure ahead of the US Federal Reserve interest rate decision."
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "IT sector drags ahead of Fed policy call"
+      "sources": "Tech stocks dragged benchmark indices amid cautious global sentiment."
     },
     {
-      "symbol": "DLF",
+      "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Realty sector rises nearly 2%"
-    },
-    {
-      "symbol": "HINDALCO",
-      "sentiment": "Positive",
-      "sources": "Metals sector shines in market session"
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Positive",
-      "sources": "FMCG sector gains ahead of Fed decision"
+      "sources": "Metals sector witnessed significant buying, supporting Nifty's upward movement."
     },
     {
       "symbol": "TATAMOTORS",
       "sentiment": "Neutral",
-      "sources": "Conflict between Tata Sons and Tata Trusts"
+      "sources": "Tata Group stocks in focus amid reported board friction between Tata Sons and Tata Trusts."
     },
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Sensex indicative price volatility and CAS chaos"
+      "symbol": "SUNPHARMA",
+      "sentiment": "Positive",
+      "sources": "Pharma sector rallied over 1.5% as defensive sectors gained traction."
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Positive",
+      "sources": "FMCG stocks outperformed during the session, boosting broader indices."
+    },
+    {
+      "symbol": "DLF",
+      "sentiment": "Positive",
+      "sources": "Realty stocks saw strong momentum, surging over 1.5% during today's session."
+    },
+    {
+      "symbol": "ONGC",
+      "sentiment": "Positive",
+      "sources": "Upstream oil producers gained interest following global oil supply disruption news."
     }
   ],
-  "summary": "Indian markets witnessed high volatility as technical glitches caused a temporary Sensex tumble, though Nifty managed to close above 23,300. Adani Group stocks led the gains following bullish projections from Jefferies, while the IT sector dragged the indices down ahead of the Fed meeting. Investors remain cautious due to the Rupee's decline and ongoing internal conflicts within the Tata Group leadership.",
-  "updatedAt": "2026-09-18T11:31:31.195Z",
+  "summary": "Indian benchmark indices closed on a mixed note with Sensex ending slightly lower and Nifty holding above 23,250.\nKey market drivers included crude supply disruptions from Saudi Aramco and tech sector weakness ahead of the Fed call.\nRealty, pharma, FMCG, and metals surged over 1.5%, providing crucial support to the market.",
+  "updatedAt": "2026-09-18T12:02:00.487Z",
   "source": "zerodha-pulse"
 }
