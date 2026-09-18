@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex at day's high, up 300 pts, Nifty tops 23,350",
+  "headline": "Sensex Closes Mixed as Adani Soars and IT Stocks Drag",
   "why": [
-    "Realty sector rises nearly 2% leading market gains",
-    "Metals and FMCG sectors shine ahead of Fed call",
-    "Positive domestic sentiment despite global European share decline",
-    "Anticipation of US Federal Reserve policy decision"
+    "Jefferies bullish report triggered a major surge in Adani group stocks.",
+    "IT sector faced selling pressure ahead of the upcoming US Fed rate decision.",
+    "Pre-market Call Auction System (CAS) volatility caused extreme intra-day swings.",
+    "Rupee weakness against the USD weighed on broad market sentiment."
   ],
   "whatHappening": [
-    "Nifty 50 crosses the 23,350 mark during intraday trade",
-    "IT sector drags market performance sliding over 1.5%",
-    "Dr. Reddy's partners with Takeda for dengue vaccine distribution",
-    "FSSAI initiates legal action against Nestle India over nutrition products"
+    "Sensex ended 22 points lower while Nifty gained 53 points to close above 23,300.",
+    "Adani group shares jumped up to 12% following up to 53% upside price targets.",
+    "Realty and metal stocks gained up to 2%, contrasting with a 1.5% drop in IT.",
+    "Bodal Chemicals and other commodity stocks touched new 52-week highs."
   ],
   "stocksInNews": [
     {
-      "symbol": "DRREDDY",
+      "symbol": "ADANIENSOL",
       "sentiment": "Positive",
-      "sources": "Pact with Takeda Pharma to distribute dengue vaccine QDENGA"
+      "sources": "Jefferies sees up to 53% upside potential in Adani Energy"
     },
     {
-      "symbol": "NESTLEIND",
-      "sentiment": "Negative",
-      "sources": "FSSAI legal action over infant nutrition product standards"
+      "symbol": "ADANIENT",
+      "sentiment": "Positive",
+      "sources": "Adani group stocks surged up to 12% on bullish analyst views"
     },
     {
-      "symbol": "DLF",
+      "symbol": "BODALCHEM",
       "sentiment": "Positive",
-      "sources": "Realty sector index rises nearly 2% in morning trade"
+      "sources": "Hit 52-week high after rallying up to 175% in a month"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector dragging market with over 1.5% slide"
+      "sources": "IT sector dragged market down over 1.5% ahead of Fed call"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "General weakness in IT stocks ahead of Fed decision"
+      "sources": "IT stocks faced selling pressure ahead of US Fed rate decision"
+    },
+    {
+      "symbol": "DLF",
+      "sentiment": "Positive",
+      "sources": "Realty sector gained nearly 2% leading broader market gains"
     },
     {
       "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Metal stocks shining in early trade sessions"
-    },
-    {
-      "symbol": "HINDALCO",
-      "sentiment": "Positive",
-      "sources": "Metals sector showing strength ahead of global cues"
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Positive",
-      "sources": "FMCG sector gains contributing to Nifty's rise"
+      "sources": "Metals sector shined during the trading session"
     },
     {
       "symbol": "HINDUNILVR",
       "sentiment": "Positive",
-      "sources": "FMCG stocks performing well in current market rally"
+      "sources": "FMCG sector gained strength ahead of US Fed rate decision"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "General market heavyweight movement tracking Nifty gains"
+      "sources": "Sensex closed flat after intra-day volatility in heavyweights"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "Index heavyweights helped keep Nifty positive above 23,300"
     }
   ],
-  "summary": "Indian markets trade higher with Sensex gaining 300 points and Nifty surpassing 23,350, led by gains in Realty and FMCG sectors. Dr. Reddy's shares are in focus following a vaccine distribution deal, while Nestle faces regulatory hurdles from FSSAI. Investors remain cautious as the IT sector drags ahead of the upcoming US Federal Reserve decision.",
-  "updatedAt": "2026-09-18T10:31:53.658Z",
+  "summary": "Indian benchmark indices ended mixed as Nifty crossed 23,300 while Sensex closed slightly in the red.\nAdani Group stocks rallied sharply up to 12% following bullish target upgrades by Jefferies.\nRealty, metals, and FMCG sectors gained strength, whereas IT stocks dragged the market down ahead of the US Fed decision.",
+  "updatedAt": "2026-09-18T11:01:31.143Z",
   "source": "zerodha-pulse"
 }
