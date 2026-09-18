@@ -1,16 +1,16 @@
 {
-  "headline": "Sensex Slips While Nifty Gains; Metals And Smallcaps Shine Amid Mixed Cues",
+  "headline": "Sensex Slips While Nifty Gains; Metals Shine Ahead Of Fed Decision",
   "why": [
-    "Metals and FMCG sectors saw significant buying interest ahead of Fed call",
-    "Smallcap stocks outperformed the broader market with a 1.8% jump",
-    "Strong domestic direct tax collection data boosted investor sentiment",
-    "IT stocks acted as a drag on the Sensex performance"
+    "Anticipation of the upcoming US Federal Reserve interest rate decision",
+    "Strong performance in metal and FMCG sectors boosting Nifty indices",
+    "Profit booking in large-cap IT stocks dragging Sensex performance",
+    "Positive sentiment in small-cap stocks with nearly 1.8% jump"
   ],
   "whatHappening": [
-    "Net direct tax collection rose 13% to Rs 12.12 lakh crore",
-    "Jindal Supreme IPO witnessed massive demand being subscribed 181 times",
-    "Apple launched iPhone 18 in India with 20-30% higher opening sales",
-    "Government announced Semicon 2.0 scheme worth Rs 1.27 lakh crore"
+    "Jindal Supreme IPO witnessed massive investor interest, subscribed 181 times",
+    "Apple's iPhone 18 launch in India saw 20-30% higher sales",
+    "Direct tax collections grew 13% to Rs 12.12 lakh crore",
+    "Government targets 200 chip design firms under Semicon 2.0 scheme"
   ],
   "stocksInNews": [
     {
@@ -21,7 +21,7 @@
     {
       "symbol": "APPLE",
       "sentiment": "Positive",
-      "sources": "iPhone 18 launch day sales up 20-30%"
+      "sources": "iPhone 18 launch sales up 20-30%"
     },
     {
       "symbol": "VWAGY",
@@ -31,7 +31,22 @@
     {
       "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Metal sector rise of 1.5%"
+      "sources": "Metals sector rise of 1.5%"
+    },
+    {
+      "symbol": "HINDALCO",
+      "sentiment": "Positive",
+      "sources": "Metal stocks gain ahead of Fed call"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "IT sector drags market performance"
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "IT stocks under pressure"
     },
     {
       "symbol": "ITC",
@@ -39,32 +54,17 @@
       "sources": "FMCG sector shines in trade"
     },
     {
-      "symbol": "TCS",
-      "sentiment": "Negative",
-      "sources": "IT sector drags market performance"
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "IT sector weakness ahead of Fed call"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "Sensex slips into red after volatile session"
+      "symbol": "HUL",
+      "sentiment": "Positive",
+      "sources": "FMCG stocks gain momentum"
     },
     {
       "symbol": "VEDL",
       "sentiment": "Positive",
-      "sources": "Metals sector gains 1.5%"
-    },
-    {
-      "symbol": "CGPOWER",
-      "sentiment": "Positive",
-      "sources": "Semicon 2.0 scheme to boost chip design"
+      "sources": "Metals rally boosts Nifty"
     }
   ],
-  "summary": "The Indian market showed mixed performance as the Nifty gained while the Sensex ended slightly lower ahead of the Fed meeting.\nMetals and smallcap stocks led the gains, supported by strong direct tax collection and robust iPhone 18 launch sales.\nGlobal cues remained cautious due to geopolitical tensions in Ukraine and a sharp decline in Volkswagen shares.",
-  "updatedAt": "2026-09-18T18:01:44.091Z",
+  "summary": "The Indian market showed mixed results as Nifty gained while Sensex faced pressure from IT stocks.\nInvestor enthusiasm was evident in the Jindal Supreme IPO and strong iPhone 18 launch-day sales.\nGlobal cues remain cautious due to geopolitical tensions in Ukraine and the upcoming Fed meeting.",
+  "updatedAt": "2026-09-18T19:31:25.174Z",
   "source": "zerodha-pulse"
 }
