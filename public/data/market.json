@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex ends marginally lower while Nifty holds above 23,250 level",
+  "headline": "Sensex Ends Marginally Lower While Nifty Holds Above 23,250 Level",
   "why": [
-    "Saudi Aramco halted crude supplies to Indian refiners following a pipeline attack.",
-    "IT stocks dragged the market lower ahead of the upcoming US Federal Reserve policy decision.",
-    "Geopolitical tension and crude oil import uncertainties impacted overall market sentiment.",
-    "Internal friction between Tata Sons Board and Tata Trusts added corporate governance concerns."
+    "Saudi Aramco halted crude supplies to Indian refiners after a pipeline attack",
+    "IT stocks dragged the indices lower ahead of the Federal Reserve call",
+    "Internal conflict between Tata Sons Board and Tata Trusts weighed on sentiment",
+    "Geopolitical shocks and AI advancements are demanding a rethink of management strategies"
   ],
   "whatHappening": [
-    "Sensex closed slightly lower while Nifty gained 53 points to stay above 23,250.",
-    "Realty, Pharma, Metals, and FMCG sectors saw strong buying interest rising over 1.5%.",
-    "Warren Buffett officially stepped down as Berkshire Hathaway chairman after leading since 1970.",
-    "India prepares to introduce its first approved dengue vaccine Qdenga in 2027."
+    "Warren Buffett has officially stepped down as Chairman of Berkshire Hathaway",
+    "India is set to launch its first approved dengue vaccine in 2027",
+    "Realty and Pharma sectors outperformed the broader market with 1.5% gains",
+    "Indian refiners are facing immediate supply disruptions from Saudi Arabian crude sources"
   ],
   "stocksInNews": [
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "Crude supply disruption from Saudi Aramco pipeline attack impacts refining segment."
-    },
-    {
       "symbol": "BPCL",
       "sentiment": "Negative",
-      "sources": "Aramco crude halt poses short-term feed inventory challenges for state refiners."
+      "sources": "Saudi Aramco halts crude supplies to Indian refiners"
+    },
+    {
+      "symbol": "IOC",
+      "sentiment": "Negative",
+      "sources": "Saudi Aramco halts crude supplies to Indian refiners"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector faced selling pressure ahead of the US Federal Reserve interest rate decision."
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "Tech stocks dragged benchmark indices amid cautious global sentiment."
-    },
-    {
-      "symbol": "TATASTEEL",
-      "sentiment": "Positive",
-      "sources": "Metals sector witnessed significant buying, supporting Nifty's upward movement."
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Neutral",
-      "sources": "Tata Group stocks in focus amid reported board friction between Tata Sons and Tata Trusts."
+      "sources": "IT drags while metals, FMCG shine ahead of Fed call"
     },
     {
       "symbol": "SUNPHARMA",
       "sentiment": "Positive",
-      "sources": "Pharma sector rallied over 1.5% as defensive sectors gained traction."
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Positive",
-      "sources": "FMCG stocks outperformed during the session, boosting broader indices."
+      "sources": "Realty, pharma rise over 1.5%"
     },
     {
       "symbol": "DLF",
       "sentiment": "Positive",
-      "sources": "Realty stocks saw strong momentum, surging over 1.5% during today's session."
+      "sources": "Realty, pharma rise over 1.5%"
     },
     {
-      "symbol": "ONGC",
+      "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Upstream oil producers gained interest following global oil supply disruption news."
+      "sources": "Metals, FMCG shine ahead of Fed call"
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "sentiment": "Positive",
+      "sources": "Metals, FMCG shine ahead of Fed call"
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Saudi Aramco halts crude supplies to Indian refiners"
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
+      "sources": "Tata Sons Board and majority-owner Tata Trusts are in conflict"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "IT drags while metals, FMCG shine ahead of Fed call"
     }
   ],
-  "summary": "Indian benchmark indices closed on a mixed note with Sensex ending slightly lower and Nifty holding above 23,250.\nKey market drivers included crude supply disruptions from Saudi Aramco and tech sector weakness ahead of the Fed call.\nRealty, pharma, FMCG, and metals surged over 1.5%, providing crucial support to the market.",
-  "updatedAt": "2026-09-18T12:02:00.487Z",
+  "summary": "Indian markets displayed mixed results as the Nifty managed to hold the 23,250 mark despite a slight dip in the Sensex. \nCrude supply concerns have spiked following a pipeline attack on Saudi Aramco facilities affecting Indian refiners. \nGlobal attention shifts to Berkshire Hathaway's leadership transition as Warren Buffett moves to a chairman emeritus role.",
+  "updatedAt": "2026-09-18T12:31:24.739Z",
   "source": "zerodha-pulse"
 }
