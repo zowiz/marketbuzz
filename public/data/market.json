@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex Ends 22 Points Lower; Nifty Gains As Metals Rally",
+  "headline": "Indian Markets Mixed As Oil Prices And Rate Concerns Drag Sentiment",
   "why": [
-    "IT stocks drag benchmark indices ahead of the US Fed interest rate decision.",
-    "Higher US Treasury yields weigh on global investor sentiment.",
-    "Rally in metal and FMCG sectors provides strong support to the Nifty.",
-    "AAII survey shows global investor sentiment plunging to a 16-month low."
+    "Persistent worries over elevated crude oil prices and global interest rate hikes",
+    "Rising US Treasury yields weighing heavily on global market sentiment",
+    "Investor sentiment dropping to a 16-month low according to AAII survey",
+    "Sectoral weakness in IT and Tata Group stocks pulling down the Sensex"
   ],
   "whatHappening": [
-    "Sensex slipped 22 points while Nifty gained 53 to 75 points in a volatile session.",
-    "Smallcap index jumped nearly 1.8% outperforming the benchmark indices.",
-    "SBI report highlights FCNR(B) could generate ₹5 trillion notional profit for banks over 5 years.",
-    "Air India CEO considers folding its budget unit into the group to streamline costs."
+    "Indian shares logged their longest weekly losing streak in six years",
+    "FCNR(B) deposits expected to generate ₹5 trillion notional profit for banks over 5 years",
+    "Paytm stays in focus as opening trades remain volatile",
+    "Air India CEO considers consolidating budget airline unit to optimize operational costs"
   ],
   "stocksInNews": [
     {
-      "symbol": "SBIN",
-      "sentiment": "Positive",
-      "sources": "SBI report projects ₹5 trillion notional profit for banks from FCNR(B) over 5 years"
+      "symbol": "PAYTM",
+      "sentiment": "Neutral",
+      "sources": "In focus during morning trade amidst volatile market conditions"
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
+      "sources": "Weakness in Tata group stocks weighing on Sensex performance"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector drags market indices ahead of the upcoming Fed rate decision"
+      "sources": "IT sector drag exerting downward pressure on benchmark indices"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Weakness in IT stocks offsets broader gains in the domestic market"
+      "sources": "Broad weakness across IT heavyweights impacting sentiment"
     },
     {
-      "symbol": "TATASTEEL",
+      "symbol": "SBIN",
       "sentiment": "Positive",
-      "sources": "Metal sector gains 1.5% pushing Nifty into positive territory"
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Positive",
-      "sources": "FMCG stocks shine alongside metals in today's trading session"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Positive",
-      "sources": "Banking sector outlook buoyed by positive long-term FCNR(B) profit projections"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "sentiment": "Positive",
-      "sources": "Private lenders remain steady as broader market breadth stays positive"
+      "sources": "SBI report projects ₹5 trn notional profits for domestic banks from FCNR(B)"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "Index heavyweight trades flat as Sensex ends slightly lower"
+      "sources": "Volatile crude oil trends impacting broader market direction"
     },
     {
-      "symbol": "MARUTI",
-      "sentiment": "Neutral",
-      "sources": "Auto sector remains in focus amid global supply and automation spend discussions"
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Key banking sector player positioned to benefit from foreign currency deposits"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Positive",
+      "sources": "FCNR(B) profit projections providing underlying support to private lenders"
+    },
+    {
+      "symbol": "LT",
+      "sentiment": "Positive",
+      "sources": "Featured in daily top trade guides and buying recommendations"
     },
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
-      "sources": "Strong buying interest in non-IT heavyweights supports market sentiment"
+      "sources": "Highlighted among key defensive stock picks during market weakness"
     }
   ],
-  "summary": "Indian benchmark indices ended on a mixed note as the Sensex dropped 22 points while Nifty gained ground, supported by strong performance in metal and FMCG sectors.\nGlobal market sentiment remained subdued due to rising US Treasury yields, rate hike concerns, and investor confidence dropping to a 16-month low.\nDomestically, broad market participation was robust with smallcaps jumping nearly 1.8% and banks eyeing strong long-term FCNR(B) deposit profits.",
-  "updatedAt": "2026-09-18T22:56:58.901Z",
+  "summary": "Indian equities traded mixed as IT sector weakness and Tata stock declines pulled the Sensex lower while Nifty stayed resilient. Global markets faced pressure from rising US Treasury yields and rate hike fears, extending India's weekly losing streak to six weeks. Individual stocks like Paytm and major banking names stayed in focus due to FCNR(B) profit reports.",
+  "updatedAt": "2026-09-18T23:31:15.031Z",
   "source": "zerodha-pulse"
 }
