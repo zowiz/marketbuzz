@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex slipped into red while Nifty gained 75 points; smallcaps showed resilience amid global volatility.",
+  "headline": "Last session: Indian indices traded cautiously amid Middle East tensions and concerns over upcoming public sector bank strikes.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Sensex slipped into the red territory following late-session profit booking.",
-    "Nifty 50 managed to close with a gain of 75 points despite broader market pressure.",
-    "Geopolitical tensions in the Middle East and attacks on Saudi Aramco facilities weighed on sentiment.",
-    "Concerns over crude oil price volatility and FII outflows kept investors cautious."
+    "Geopolitical risks escalated following drone and missile attacks on Saudi Aramco facilities.",
+    "Investor caution ahead of a planned three-day strike by public sector bank employees.",
+    "Warnings of potential cyberattacks and disruptions in the nascent semiconductor ecosystem.",
+    "Internal boardroom tensions at Tata Sons weighing on sentiment for group stocks."
   ],
   "whatHappening": [
-    "Public sector bank chiefs are meeting the Finance Ministry to manage an upcoming three-day strike.",
-    "The government has issued warnings regarding cyberattacks targeting the emerging semiconductor ecosystem.",
-    "Investors are monitoring potential geopolitical shifts as Iran threatens to exit the nuclear treaty.",
-    "Market participants are preparing for the new trading week with a focus on support levels for Nifty."
+    "Finance Ministry is convening a meeting with PSB and RRB chiefs to ensure banking continuity.",
+    "Tiruppur yarn producers are lobbying garment units to help modify the role of the CCI.",
+    "Aviation safety bodies are seeking a comprehensive evaluation of Boeing 787 electrical systems.",
+    "International diplomatic friction is rising as Iran threatens to exit the nuclear treaty."
   ],
   "stocksInNews": [
     {
-      "symbol": "PAYTM",
+      "symbol": "TCS",
       "sentiment": "Neutral",
-      "sources": "Paytm to be in focus for upcoming trading sessions"
+      "sources": "Battle lines in the boardroom | Tata Sons"
     },
     {
       "symbol": "SBIN",
       "sentiment": "Negative",
-      "sources": "FinMin to meet PSB chiefs to ensure services during three-day strike"
+      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Houthis Claim Missile, Drone Attacks On Riyadh, Saudi Aramco Facilities"
+    },
+    {
+      "symbol": "DIXON",
+      "sentiment": "Positive",
+      "sources": "Vaishnaw Warns Of Cyberattacks, Disruptions As India Builds Semiconductor Ecosystem"
+    },
+    {
+      "symbol": "KPRMILL",
+      "sentiment": "Neutral",
+      "sources": "Tiruppur yarn producers seek support from garment units to modify role of CCI"
     },
     {
       "symbol": "PNB",
       "sentiment": "Negative",
-      "sources": "Public sector banks facing potential service disruptions due to strike"
+      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
+    },
+    {
+      "symbol": "BPCL",
+      "sentiment": "Negative",
+      "sources": "Houthis Claim Missile, Drone Attacks On Riyadh, Saudi Aramco Facilities"
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Neutral",
+      "sources": "Battle lines in the boardroom | Tata Sons"
     },
     {
       "symbol": "BANKBARODA",
       "sentiment": "Negative",
-      "sources": "PSB chiefs meeting Finance Ministry over strike concerns"
+      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
     },
     {
-      "symbol": "RELIANCE",
+      "symbol": "GOKEX",
       "sentiment": "Neutral",
-      "sources": "Crude oil prices and FII activity in focus for market heavyweights"
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Neutral",
-      "sources": "Government warns of cyberattacks on semiconductor ecosystem"
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Neutral",
-      "sources": "Tech sector on alert following semiconductor disruption warnings"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "Banking services under scrutiny ahead of public sector strike"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "sentiment": "Neutral",
-      "sources": "Private banks monitored as PSB strike looms next week"
-    },
-    {
-      "symbol": "CANBK",
-      "sentiment": "Negative",
-      "sources": "RRB and PSB chiefs to discuss service continuity during strike"
+      "sources": "Tiruppur yarn producers seek support from garment units to modify role of CCI"
     }
   ],
-  "summary": "The Indian market showed mixed results in the last session, with the Nifty gaining 75 points while the Sensex slipped into the red. Investors are closely monitoring the upcoming three-day strike by public sector banks and geopolitical tensions in the Middle East. Focus remains on the semiconductor ecosystem and crude oil prices as the market prepares for the new trading week.",
-  "updatedAt": "2026-09-19T20:01:41.018Z",
+  "summary": "The Indian market is closed today for the weekend following a session marked by global geopolitical instability and domestic labor concerns. The Finance Ministry is actively working to prevent banking disruptions scheduled for next week, while the semiconductor sector faces new security warnings. Investors remain focused on corporate governance at Tata Sons and the evolving situation in the Middle East.",
+  "updatedAt": "2026-09-19T20:57:22.557Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20"
 }
