@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex, Nifty Fall for 6th Week Amid Fed Hike and Global Cues",
+  "headline": "Sensex and Nifty Fall for 6th Week Amid Rising Crude Oil",
   "why": [
-    "US Federal Reserve interest rate hike concerns impacting global liquidity",
-    "Rising crude oil prices putting pressure on Indian fiscal deficit",
-    "Bank of Japan signaling potential for accelerated interest rate hikes",
-    "Negative sentiment following six consecutive weeks of domestic market declines"
+    "Crude oil prices surpassed $100 due to Saudi Arabia export disruptions.",
+    "Concerns over upcoming US Fed rate hikes impacting global market sentiment.",
+    "Tata Sons and group stock volatility adding pressure on benchmark indices.",
+    "Persistent sell-off causing Nifty to fall for six consecutive weeks."
   ],
   "whatHappening": [
-    "Sensex and Nifty50 indices closed lower for the sixth straight week",
-    "Ghaziabad traders are boycotting UPI payments starting October 15 over MDR",
-    "Alibaba open-sourced its Damo Radar AI model for medical condition detection",
-    "Anthropic and Accenture are investing $2 billion in AI safety evaluation"
+    "Indian benchmark indices Sensex and Nifty ended mixed amid global macroeconomic triggers.",
+    "Goldman Sachs highlighted HFCL and Polycab India among seven key AI enabler stocks.",
+    "Derivatives analysts marked 23,050 as key support level for Nifty.",
+    "Paytm and NSE IPO news keep financial sector stocks in focus."
   ],
   "stocksInNews": [
     {
+      "symbol": "HFCL",
+      "sentiment": "Positive",
+      "sources": "Named in Goldman Sachs AI enabler list"
+    },
+    {
+      "symbol": "POLYCAB",
+      "sentiment": "Positive",
+      "sources": "Included in Goldman Sachs AI enabler list"
+    },
+    {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "India Today"
-    },
-    {
-      "symbol": "NTPC",
-      "sentiment": "Positive",
-      "sources": "WBPDCL coal sale"
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Negative",
-      "sources": "Tata Sons trigger"
-    },
-    {
-      "symbol": "NSE",
-      "sentiment": "Positive",
-      "sources": "NSE IPO news"
-    },
-    {
-      "symbol": "ACN",
-      "sentiment": "Positive",
-      "sources": "Accenture AI investment"
-    },
-    {
-      "symbol": "BABA",
-      "sentiment": "Positive",
-      "sources": "Alibaba AI release"
+      "sources": "Stock in focus amidst market opening volatility"
     },
     {
       "symbol": "TATAMOTORS",
+      "sentiment": "Neutral",
+      "sources": "Analysts outline strategy for Tata Group stocks"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "sentiment": "Neutral",
+      "sources": "Tata group triggers highlighted in weekly wrap"
+    },
+    {
+      "symbol": "ONGC",
+      "sentiment": "Positive",
+      "sources": "Crude oil surging above $100 triggers upstream interest"
+    },
+    {
+      "symbol": "BPCL",
       "sentiment": "Negative",
-      "sources": "Tata Sons trigger"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "HDFC Sky report"
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Neutral",
-      "sources": "Livemint trade guide"
+      "sources": "High crude oil prices strain oil marketing companies"
     },
     {
       "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "Market wrap trigger"
+      "sentiment": "Neutral",
+      "sources": "Energy sector volatility due to crude price shocks"
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Neutral",
+      "sources": "IT major impacted by broader global market uncertainty"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Neutral",
+      "sources": "IT sector under watch amid US Fed policy concerns"
     }
   ],
-  "summary": "Indian markets recorded a sixth consecutive weekly decline amid global economic pressures. Traders in Ghaziabad announced a shift to cash-only transactions starting October 15 over UPI fees. Major AI investments and medical tech breakthroughs highlight the shifting global technology landscape.",
-  "updatedAt": "2026-09-19T07:31:34.119Z",
+  "summary": "Indian benchmark indices Sensex and Nifty recorded their sixth straight week of decline due to surging crude oil prices above $100 and US Fed policy concerns. Selected stocks like HFCL and Polycab saw positive attention after being named in Goldman Sachs' AI enabler list. Analysts maintain 23,050 as key Nifty support while Tata stocks and Paytm remain in focus.",
+  "updatedAt": "2026-09-19T08:01:29.127Z",
   "source": "zerodha-pulse"
 }
