@@ -22,14 +22,14 @@ export default function App() {
     }
 
     loadTicker()
-    const id = setInterval(loadTicker, 15000) // was 1000
+    const id = setInterval(loadTicker, 15000)
     return () => clearInterval(id)
   }, [])
 
   const formatPrice = (t) => {
-  if (!t) return '--'
-  const arrow = t.change >= 0 ? '▲' : '▼'
-  return `${t.price.toFixed(2)} ${arrow} ${Math.abs(t.change).toFixed(2)}`
+    if (!t) return '--'
+    const arrow = t.change >= 0 ? '▲' : '▼'
+    return `${t.price.toFixed(2)} ${arrow} ${Math.abs(t.change).toFixed(2)}`
   }
 
   return (
@@ -72,6 +72,44 @@ export default function App() {
 
       {tab === 'now' && (
         <>
+          {/* MARKET STATUS BANNER */}
+          {data?.marketStatus?.message && (
+            <div
+              style={{
+                margin: '0 10px 12px 10px',
+                padding: '12px 14px',
+                borderRadius: 'var(--border-smooth)',
+                fontSize: 13,
+                fontWeight: 600,
+                lineHeight: 1.4,
+                border: '1px solid',
+                background: data.marketStatus.isMuhuratTrading
+                  ? '#fef3c7'
+                  : data.marketStatus.isClosed
+                    ? '#fff3cd'
+                    : '#d1e7dd',
+                color: data.marketStatus.isMuhuratTrading
+                  ? '#92400e'
+                  : data.marketStatus.isClosed
+                    ? '#664d03'
+                    : '#0f5132',
+                borderColor: data.marketStatus.isMuhuratTrading
+                  ? '#fcd34d'
+                  : data.marketStatus.isClosed
+                    ? '#ffecb5'
+                    : '#badbcc',
+              }}
+            >
+              {data.marketStatus.isMuhuratTrading ? '🪔 ' : data.marketStatus.isClosed ? '⚠️ ' : '🟢 '}
+              {data.marketStatus.message}
+              {data.marketStatus.nextOpen && data.marketStatus.isClosed && (
+                <span style={{ display: 'block', marginTop: 4, fontWeight: 400, fontSize: 12, opacity: 0.9 }}>
+                  Next session: {data.marketStatus.nextOpen}
+                </span>
+              )}
+            </div>
+          )}
+
           <div
             style={{
               background: 'var(--bg-card)',
@@ -82,213 +120,59 @@ export default function App() {
               margin: '0 10px 30px 10px',
             }}
           >
-            <div style={{ marginBottom: 30, fontSize: 12, opacity: 0.7 }}>
+            <div style={{ marginBottom: 10, fontSize: 10, opacity: 0.7 }}>
               Last updated: {data?.updatedAt ? new Date(data.updatedAt).toLocaleString('en-IN') : 'LIVE'}
+              {data?.dateChecked && ` • ${data.dateChecked}`}
             </div>
             <h2 style={{ margin: 0, fontSize: 22, lineHeight: 1.3, fontWeight: 600 }}>
               {data?.headline || 'Loading market pulse...'}
             </h2>
           </div>
 
-          <div
-            style={{
-              margin: '0 10px 30px 10px',
-            }}
-          >
+          <div style={{ margin: '0 10px 30px 10px' }}>
             <h4 style={{ margin: '0 0 12px 0', fontSize: 14, color: 'var(--accent)', fontWeight: 500 }}>FUNDAMENTAL DRIVER</h4>
             <ul>
               {data?.why?.map((w, i) => (
-                <li
-                  key={i}
-                  style={{
-                    marginBottom: 12,
-                    background: 'var(--bg-card)',
-                    padding: '16px 16px 16px 0',
-                    border: '1px solid var(--card-border)',
-                    borderRadius: 'var(--border-smooth)',
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: 12,
-                    overflow: 'hidden',
-                  }}
-                >
-                  <span
-                    style={{
-                      width: 10,
-                      height: 10,
-                      borderRadius: '0 50% 50% 0',
-                      background: 'var(--accent)',
-                      display: 'inline-block',
-                      flexShrink: 0,
-                    }}
-                  />
+                <li key={i} style={{ marginBottom: 12, background: 'var(--bg-card)', padding: '16px 16px 16px 0', border: '1px solid var(--card-border)', borderRadius: 'var(--border-smooth)', display: 'flex', alignItems: 'center', gap: 12, overflow: 'hidden' }}>
+                  <span style={{ width: 10, height: 10, borderRadius: '0 50% 50% 0', background: 'var(--accent)', display: 'inline-block', flexShrink: 0 }} />
                   <span style={{ lineHeight: 1.5, fontSize: 14 }}>{w}</span>
                 </li>
               )) || <li>Loading...</li>}
             </ul>
           </div>
 
-          <div
-            style={{
-              margin: '0 10px 30px 10px',
-            }}
-          >
+          <div style={{ margin: '0 10px 30px 10px' }}>
             <h4 style={{ margin: '0 0 12px 0', fontSize: 14, color: 'var(--accent)', fontWeight: 500 }}>MAIN HIGHLIGHTS</h4>
             <ul>
               {data?.whatHappening?.map((w, i) => (
-                <li
-                  key={i}
-                  style={{
-                    marginBottom: 12,
-                    background: 'var(--bg-card)',
-                    padding: '16px 16px 16px 0',
-                    border: '1px solid var(--card-border)',
-                    borderRadius: 'var(--border-smooth)',
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: 12,
-                    overflow: 'hidden',
-                  }}
-                >
-                  <span
-                    style={{
-                      width: 10,
-                      height: 10,
-                      borderRadius: '0 50% 50% 0',
-                      background: 'var(--accent)',
-                      display: 'inline-block',
-                      flexShrink: 0,
-                    }}
-                  />
+                <li key={i} style={{ marginBottom: 12, background: 'var(--bg-card)', padding: '16px 16px 16px 0', border: '1px solid var(--card-border)', borderRadius: 'var(--border-smooth)', display: 'flex', alignItems: 'center', gap: 12, overflow: 'hidden' }}>
+                  <span style={{ width: 10, height: 10, borderRadius: '0 50% 50% 0', background: 'var(--accent)', display: 'inline-block', flexShrink: 0 }} />
                   <span style={{ lineHeight: 1.5, fontSize: 14 }}>{w}</span>
                 </li>
               )) || <li>Tracking live news...</li>}
             </ul>
           </div>
 
-          <div
-            style={{
-              margin: '0 10px 30px 10px',
-            }}
-          >
+          <div style={{ margin: '0 10px 30px 10px' }}>
             <h4 style={{ margin: '0 0 12px 0', fontSize: 14, color: 'var(--accent)', fontWeight: 500 }}>TRENDING STOCKS</h4>
             {data?.stocksInNews?.map((s, i) => (
-              <div
-                key={i}
-                style={{
-                  padding: 12,
-                  margin: '8px 0',
-                  borderRadius: 'var(--border-smooth)',
-                  display: 'flex',
-                  justifyContent: 'space-between',
-                  alignItems: 'center',
-                  border: '1px solid var(--card-border)',
-                  borderLeft: `4px solid ${
-                    s.sentiment === 'Positive'
-                      ? 'var(--positive)'
-                      : s.sentiment === 'Negative'
-                        ? 'var(--negative)'
-                        : 'var(--neutral)'
-                  }`,
-                }}
-              >
+              <div key={i} style={{ padding: 12, margin: '8px 0', borderRadius: 'var(--border-smooth)', display: 'flex', justifyContent: 'space-between', alignItems: 'center', border: '1px solid var(--card-border)', borderLeft: `4px solid ${s.sentiment === 'Positive' ? 'var(--positive)' : s.sentiment === 'Negative' ? 'var(--negative)' : 'var(--neutral)'}` }}>
                 <div>
                   <div style={{ fontWeight: 800, fontSize: 13 }}>{s.symbol}</div>
                   <div style={{ fontSize: 11, opacity: 0.7, marginTop: 2 }}>{s.sources}</div>
                 </div>
-                <div
-                  style={{
-                    fontSize: 11,
-                    fontWeight: 700,
-                    padding: '4px 8px',
-                    borderRadius: 'var(--border-smooth)',
-                    background:
-                      s.sentiment === 'Positive'
-                        ? 'var(--positive)'
-                        : s.sentiment === 'Negative'
-                          ? 'var(--negative)'
-                          : 'var(--neutral-pill)',
-                    color: 'var(--text-light)',
-                  }}
-                >
+                <div style={{ fontSize: 11, fontWeight: 700, padding: '4px 8px', borderRadius: 'var(--border-smooth)', background: s.sentiment === 'Positive' ? 'var(--positive)' : s.sentiment === 'Negative' ? 'var(--negative)' : 'var(--neutral-pill)', color: 'var(--text-light)' }}>
                   {s.sentiment}
                 </div>
               </div>
             )) || <div style={{ fontSize: 13, color: 'var(--text-muted)' }}>Loading stocks...</div>}
           </div>
-          <div
-            style={{
-              padding: 14,
-              textAlign: 'center',
-              fontSize: 12,
-            }}
-          >
-            Before you pull the trigger, check the ticker.
-          </div>
+          <div style={{ padding: 14, textAlign: 'center', fontSize: 12 }}>Before you pull the trigger, check the ticker.</div>
         </>
       )}
 
       {tab === 'future' && <div><h2>Future predictions</h2></div>}
-
       {tab === 'stats' && <div><h2>Stats</h2></div>}
-      {/*
-      <div
-        style={{
-          position: 'fixed',
-          bottom: 'env(safe-area-inset-bottom, 0px)',
-          left: 0,
-          right: 0,
-          display: 'flex',
-          background: 'var(--bg-nav)',
-          maxWidth: 420,
-          margin: '0 auto',
-          zIndex: 10,
-        }}
-      >
-        <button
-          style={{
-            flex: 1,
-            padding: 16,
-            border: 'none',
-            background: tab === 'stats' ? 'var(--bg-dark)' : 'var(--bg-card)',
-            color: tab === 'stats' ? 'var(--text-light)' : 'var(--text-dark)',
-            fontWeight: 700,
-            fontSize: 14,
-          }}
-          onClick={() => setTab('stats')}
-        >
-          Stats
-        </button>
-        <button
-          style={{
-            flex: 1,
-            padding: 16,
-            border: 'none',
-            background: tab === 'now' ? 'var(--bg-dark)' : 'var(--bg-card)',
-            color: tab === 'now' ? 'var(--text-light)' : 'var(--text-dark)',
-            fontWeight: 700,
-            fontSize: 14,
-          }}
-          onClick={() => setTab('now')}
-        >
-          Right Now
-        </button>
-        <button
-          style={{
-            flex: 1,
-            padding: 16,
-            border: 'none',
-            background: tab === 'future' ? 'var(--bg-dark)' : 'var(--bg-card)',
-            color: tab === 'future' ? 'var(--text-light)' : 'var(--text-dark)',
-            fontWeight: 700,
-            fontSize: 14,
-          }}
-          onClick={() => setTab('future')}
-        >
-          Future
-        </button>
-      </div>
-      */}
     </div>
   )
 }
