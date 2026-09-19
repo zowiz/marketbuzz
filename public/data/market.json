@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex slipped into red after CAS while Nifty gained 75 points; smallcaps showed resilience.",
+  "headline": "Last session: Sensex slipped into red while Nifty gained 75 points; smallcaps showed resilience amid global volatility.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Sensex slipped into red after CAS while Nifty managed to gain 75 points",
-    "Concerns over crude oil prices and FII activity influenced market sentiment",
-    "Geopolitical tensions in the Middle East following attacks on Saudi Aramco facilities",
-    "Smallcap stocks showed resilience despite volatility in the front-line indices"
+    "Sensex slipped into the red territory following late-session profit booking.",
+    "Nifty 50 managed to close with a gain of 75 points despite broader market pressure.",
+    "Geopolitical tensions in the Middle East and attacks on Saudi Aramco facilities weighed on sentiment.",
+    "Concerns over crude oil price volatility and FII outflows kept investors cautious."
   ],
   "whatHappening": [
-    "Nifty 50 managed to stay in the green with a 75-point gain during the session",
-    "Banking stocks reacted to news of an upcoming three-day strike starting Monday",
-    "Semiconductor-related stocks were in focus after government ecosystem announcements",
-    "Paytm shares remained under observation as markets prepare for the upcoming week"
+    "Public sector bank chiefs are meeting the Finance Ministry to manage an upcoming three-day strike.",
+    "The government has issued warnings regarding cyberattacks targeting the emerging semiconductor ecosystem.",
+    "Investors are monitoring potential geopolitical shifts as Iran threatens to exit the nuclear treaty.",
+    "Market participants are preparing for the new trading week with a focus on support levels for Nifty."
   ],
   "stocksInNews": [
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "trigger"
+      "sources": "Paytm to be in focus for upcoming trading sessions"
     },
     {
       "symbol": "SBIN",
       "sentiment": "Negative",
-      "sources": "trigger"
+      "sources": "FinMin to meet PSB chiefs to ensure services during three-day strike"
     },
     {
       "symbol": "PNB",
       "sentiment": "Negative",
-      "sources": "trigger"
+      "sources": "Public sector banks facing potential service disruptions due to strike"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "sentiment": "Negative",
+      "sources": "PSB chiefs meeting Finance Ministry over strike concerns"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "trigger"
+      "sources": "Crude oil prices and FII activity in focus for market heavyweights"
     },
     {
-      "symbol": "ONGC",
+      "symbol": "TCS",
       "sentiment": "Neutral",
-      "sources": "trigger"
+      "sources": "Government warns of cyberattacks on semiconductor ecosystem"
     },
     {
-      "symbol": "BPCL",
+      "symbol": "INFY",
       "sentiment": "Neutral",
-      "sources": "trigger"
+      "sources": "Tech sector on alert following semiconductor disruption warnings"
     },
     {
-      "symbol": "VEDL",
-      "sentiment": "Positive",
-      "sources": "trigger"
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "Banking services under scrutiny ahead of public sector strike"
     },
     {
-      "symbol": "TATAELXSI",
-      "sentiment": "Positive",
-      "sources": "trigger"
+      "symbol": "ICICIBANK",
+      "sentiment": "Neutral",
+      "sources": "Private banks monitored as PSB strike looms next week"
     },
     {
-      "symbol": "INDIGO",
+      "symbol": "CANBK",
       "sentiment": "Negative",
-      "sources": "trigger"
-    },
-    {
-      "symbol": "PAGEIND",
-      "sentiment": "Neutral",
-      "sources": "trigger"
+      "sources": "RRB and PSB chiefs to discuss service continuity during strike"
     }
   ],
-  "summary": "On the last trading day, the Sensex closed in the red while the Nifty 50 managed a 75-point gain.\nThe market is currently closed for the weekend and will reopen on Monday, September 21.\nInvestors are monitoring crude oil prices, FII activity, and the upcoming three-day banking strike.",
-  "updatedAt": "2026-09-19T19:55:10.453Z",
+  "summary": "The Indian market showed mixed results in the last session, with the Nifty gaining 75 points while the Sensex slipped into the red. Investors are closely monitoring the upcoming three-day strike by public sector banks and geopolitical tensions in the Middle East. Focus remains on the semiconductor ecosystem and crude oil prices as the market prepares for the new trading week.",
+  "updatedAt": "2026-09-19T20:01:41.018Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20"
 }
