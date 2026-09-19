@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex slipped into red while Nifty gained 75 points; smallcaps and Paytm remained in focus.",
+  "headline": "On last trading day, Nifty gained 75 points while Sensex slipped into red after volatile trade and CAS adjustments.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Tuesday, 22 September"
   },
   "why": [
-    "Sensex slipped into red following the CAS announcement in the last session.",
-    "Nifty managed to gain 75 points despite volatility in the broader market.",
-    "Crypto-related stocks tumbled 10% due to setbacks in the CLARITY Act.",
-    "Concerns over potential additional U.S. tariffs expressed by CITI weighed on sentiment."
+    "Nifty 50 gained 75 points as certain sectors showed strength during the last session.",
+    "Sensex slipped into the red following the Closing Auction Session (CAS) adjustments.",
+    "Mixed global market signals led to a volatile trading environment for Indian benchmarks.",
+    "Smallcap stocks provided a cushion to the market, outperforming the main Sensex index."
   ],
   "whatHappening": [
-    "Smallcap stocks showed mixed performance as the market outlook remains cautious.",
-    "Traders in Ghaziabad announced a shift to cash-only transactions over UPI MDR concerns.",
-    "India and New Zealand are nearing the implementation of a significant Free Trade Agreement.",
-    "Investors are closely monitoring crude oil prices and FII activity for the upcoming week."
+    "NTPC has terminated a Rs 400 crore storage project previously awarded to GR Infraprojects.",
+    "Rapido has filed an insolvency plea against Magicpin over alleged unpaid operational dues.",
+    "Paytm is being closely watched by investors following its recent market performance and opening trends.",
+    "The RBI has ordered the removal of several officials from the Latur DCC Bank."
   ],
   "stocksInNews": [
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Nifty gains 75 pts"
-    },
-    {
-      "symbol": "TCS",
+      "symbol": "NTPC",
       "sentiment": "Negative",
-      "sources": "Sensex slips into red"
+      "sources": "Terminated Rs 400 crore storage project"
     },
     {
-      "symbol": "HDFCBANK",
-      "sentiment": "Positive",
-      "sources": "Nifty gains 75 pts"
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Neutral",
-      "sources": "Market outlook next week"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "sentiment": "Positive",
-      "sources": "Nifty gains 75 pts"
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Positive",
-      "sources": "Nifty gains 75 pts"
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
-      "sources": "Nifty gains 75 pts"
+      "symbol": "GRINFRA",
+      "sentiment": "Negative",
+      "sources": "NTPC terminated project awarded to the company"
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Paytm to be in focus"
+      "sources": "In focus for opening performance and market crash concerns"
+    },
+    {
+      "symbol": "MAGICPIN",
+      "sentiment": "Negative",
+      "sources": "Rapido filed insolvency plea over unpaid operational dues"
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "General market support during Nifty gain"
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Neutral",
+      "sources": "Market outlook for the upcoming week"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Index heavyweight support for Nifty"
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Positive",
+      "sources": "Banking sector support for benchmark indices"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "sentiment": "Positive",
+      "sources": "Positive sentiment in largecap space"
     },
     {
       "symbol": "LT",
       "sentiment": "Positive",
-      "sources": "Nifty gains 75 pts"
-    },
-    {
-      "symbol": "MARUTI",
-      "sentiment": "Negative",
-      "sources": "CITI expresses concern over potential additional tariffs"
+      "sources": "Infrastructure sector outlook and index support"
     }
   ],
-  "summary": "The Indian market saw a mixed performance in the last session with Nifty gaining 75 points while Sensex ended in the red. Investors are reacting to UPI MDR concerns and global trade developments like the India-NZ FTA. Markets remain closed for the weekend and will resume on Tuesday.",
-  "updatedAt": "2026-09-19T14:43:42.309Z",
+  "summary": "The Indian stock market concluded its last session with Nifty gaining 75 points while the Sensex slipped into the red. Markets are currently closed for the weekend and will resume trading on Tuesday, September 22. Investors are monitoring corporate developments including project terminations and legal disputes involving major firms.",
+  "updatedAt": "2026-09-19T15:03:58.998Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-19"
 }
