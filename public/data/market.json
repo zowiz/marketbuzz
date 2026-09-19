@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex slipped into red after CAS while Nifty gained 75 points amid mixed market sentiment.",
+  "headline": "Last session: Sensex slipped into red while Nifty gained 75 points; smallcaps and Paytm remained in focus.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Tuesday, 22 September"
   },
   "why": [
-    "Sensex faced downward pressure and slipped into the red following CAS related developments.",
-    "Nifty showed resilience by gaining 75 points despite broader market volatility and mixed cues.",
-    "Citi expressed significant concerns regarding potential additional tariffs from the U.S. impacting sentiment.",
-    "Crypto-related stocks tumbled 10% following a major setback in the CLARITY Act legislation."
+    "Sensex slipped into red following the CAS announcement in the last session.",
+    "Nifty managed to gain 75 points despite volatility in the broader market.",
+    "Crypto-related stocks tumbled 10% due to setbacks in the CLARITY Act.",
+    "Concerns over potential additional U.S. tariffs expressed by CITI weighed on sentiment."
   ],
   "whatHappening": [
-    "Traders in Ghaziabad have issued 'Cash Only' notices starting October 15 to protest UPI MDR fees.",
-    "Delhi Airport is set to reopen its third runway on September 20 after a major revamp.",
-    "The India-New Zealand Free Trade Agreement is nearing implementation, seen as a global trade beacon.",
-    "The spiritual drama 'Hanuman Ansh' is nearing the Rs 300 crore milestone at the box office."
+    "Smallcap stocks showed mixed performance as the market outlook remains cautious.",
+    "Traders in Ghaziabad announced a shift to cash-only transactions over UPI MDR concerns.",
+    "India and New Zealand are nearing the implementation of a significant Free Trade Agreement.",
+    "Investors are closely monitoring crude oil prices and FII activity for the upcoming week."
   ],
   "stocksInNews": [
     {
-      "symbol": "PAYTM",
-      "sentiment": "Negative",
-      "sources": "Focus on UPI MDR fee protests and merchant notices"
-    },
-    {
-      "symbol": "GMRINFRA",
-      "sentiment": "Positive",
-      "sources": "Delhi Airport third runway to reopen after major revamp"
-    },
-    {
-      "symbol": "PVRINOX",
-      "sentiment": "Positive",
-      "sources": "Hanuman Ansh box office collection nearing 300 crore"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Negative",
-      "sources": "Traders protesting UPI MDR fees affecting banking sentiment"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "sentiment": "Negative",
-      "sources": "Concerns over UPI fee structures and merchant pushback"
-    },
-    {
       "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "General market volatility and Sensex slip into red"
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
     },
     {
       "symbol": "TCS",
-      "sentiment": "Neutral",
-      "sources": "Mixed performance in the last trading session"
+      "sentiment": "Negative",
+      "sources": "Sensex slips into red"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
     },
     {
       "symbol": "INFY",
       "sentiment": "Neutral",
-      "sources": "Market outlook focused on FII and crude oil trends"
+      "sources": "Market outlook next week"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
     },
     {
       "symbol": "SBIN",
-      "sentiment": "Neutral",
-      "sources": "Nifty gains 75 points amid broader market support"
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
     },
     {
       "symbol": "BHARTIARTL",
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
+    },
+    {
+      "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Stock market highlights and sectoral performance"
+      "sources": "Paytm to be in focus"
+    },
+    {
+      "symbol": "LT",
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
+    },
+    {
+      "symbol": "MARUTI",
+      "sentiment": "Negative",
+      "sources": "CITI expresses concern over potential additional tariffs"
     }
   ],
-  "summary": "The last trading session saw a divergence between major indices as the Sensex slipped into the red while Nifty gained 75 points.\nMarket sentiment was weighed down by global tariff concerns and domestic friction regarding UPI MDR fees among traders.\nInfrastructure and trade news provided positive highlights, though crypto-linked assets suffered significant losses due to regulatory setbacks.",
-  "updatedAt": "2026-09-19T14:31:31.305Z",
+  "summary": "The Indian market saw a mixed performance in the last session with Nifty gaining 75 points while Sensex ended in the red. Investors are reacting to UPI MDR concerns and global trade developments like the India-NZ FTA. Markets remain closed for the weekend and will resume on Tuesday.",
+  "updatedAt": "2026-09-19T14:43:42.309Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-19"
 }
