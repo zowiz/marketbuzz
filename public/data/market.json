@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex slipped into red while Nifty gained 75 points amidst six-week falling streak.",
+  "headline": "Last session: Nifty gains 75 points while Sensex slips into red; indices fall for sixth straight week.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Volatile global oil prices influenced overall trader sentiment.",
-    "Concerns surrounding US Fed interest rate stance weighed on the market.",
-    "Key developments around Tata Sons acted as crucial triggers.",
-    "Sustained pressure led SENSEX and NIFTY50 to fall for a 6th straight week."
+    "Sensex slipped into the red following CAS adjustments during the session.",
+    "Nifty managed to gain 75 points despite overall market volatility.",
+    "Global triggers including US Fed hawkishness and oil prices weighed on sentiment.",
+    "The major indices recorded their sixth consecutive weekly decline."
   ],
   "whatHappening": [
-    "Sensex slipped into the red after CAS while Nifty managed a 75-point gain in the last session.",
-    "Both Sensex and Nifty wrapped up their 6th consecutive week of losses.",
-    "Paytm attracted market focus amidst volatility and opening updates.",
-    "Maruti Suzuki unveiled its S-CNG range aiming for 1 million green vehicle sales by FY27."
+    "Nifty is currently testing the critical 23,000 support zone for the week ahead.",
+    "Banking stocks are being positioned for a potential re-rating by fund managers.",
+    "Paytm remains in focus following recent market volatility and news updates.",
+    "Global markets are reacting to Warren Buffett's alarm regarding stock market valuations."
   ],
   "stocksInNews": [
     {
-      "symbol": "MARUTI",
-      "sentiment": "Positive",
-      "sources": "Debuts S-CNG range and targets 1 million green vehicle sales in FY27"
-    },
-    {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Remains in focus for stock market opening updates"
+      "sources": "trigger"
     },
     {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Neutral",
-      "sources": "Tata Sons highlighted among key weekly market triggers"
+      "symbol": "BANKINDIA",
+      "sentiment": "Positive",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Positive",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Positive",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "AXISBANK",
+      "sentiment": "Positive",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sentiment": "Positive",
+      "sources": "trigger"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Negative",
-      "sources": "Impacted by broader market weakness and oil price fluctuations"
+      "sources": "trigger"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "Pressure from US Fed interest rate concerns"
+      "sources": "trigger"
     },
     {
-      "symbol": "HDFCBANK",
-      "sentiment": "Negative",
-      "sources": "Dragged as Sensex slipped into the red in the last session"
-    },
-    {
-      "symbol": "INFY",
+      "symbol": "TATAMOTORS",
       "sentiment": "Neutral",
-      "sources": "Tracked global market updates and IT sector sentiment"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "sentiment": "Negative",
-      "sources": "Faced selling pressure during the 6th consecutive weekly decline"
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Negative",
-      "sources": "Influenced by general market weakness across banking sector"
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Neutral",
-      "sources": "Traded in line with broader benchmark volatility"
+      "sources": "trigger"
     }
   ],
-  "summary": "The Indian share market is closed today, Saturday, 19 September 2026, due to the weekend.\nIn the last trading session, Sensex slipped into the red while Nifty gained 75 points, marking a 6th straight week of market falls.\nTrading activity on the NSE and BSE will resume on Monday, 21 September.",
-  "updatedAt": "2026-09-19T10:31:14.632Z",
+  "summary": "The last trading session saw a mixed performance with Nifty gaining 75 points while Sensex ended in the red, marking a sixth straight weekly loss. Banking stocks are drawing investor interest for a potential re-rating despite global headwinds like Fed hawkishness and rising oil prices. The market is currently closed for the weekend and will resume trading on Monday, 21 September.",
+  "updatedAt": "2026-09-19T11:01:56.752Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-19"
 }
