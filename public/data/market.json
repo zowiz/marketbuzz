@@ -1,70 +1,70 @@
 {
-  "headline": "Indian Markets End Mixed as IT Weakness Offsets Banking Gains",
+  "headline": "Sensex and Nifty Fall for Sixth Week Amid Global Rate Hike Concerns",
   "why": [
-    "Weakness in IT and Tata group stocks dragged the Sensex lower.",
-    "US Fed rate hike concerns and global sanctions created market caution.",
-    "Uncertainty around global oil tariffs following US sanctions on Russia buyers.",
-    "Banking sector showed resilience backed by positive analyst ratings on HDFC Bank."
+    "US Fed rate hike outlook remains a primary concern for investors",
+    "Weakness in IT and Tata Group stocks weighed on domestic sentiment",
+    "Rising US Treasury yields reached levels not seen since 2024",
+    "Global sell-offs in European automotive and telecommunications sectors impacted markets"
   ],
   "whatHappening": [
-    "Sensex and Nifty closed mixed amid Fed rate hike news and NSE IPO buzz.",
-    "UBS retained a Buy rating on HDFC Bank with a target price of Rs 1,000.",
-    "Paytm and major banking stocks remained in key focus for day traders.",
-    "Banks offered revised senior citizen FD rates up to 8.5% in September."
+    "Indian benchmark indices recorded their sixth consecutive week of losses",
+    "The Rupee recovered slightly due to RBI intervention and lower oil",
+    "Gold prices climbed to a one-week high as oil prices eased",
+    "Market focus shifts to potential AI slowdowns and upcoming Fed path"
   ],
   "stocksInNews": [
     {
-      "symbol": "HDFCBANK",
-      "sentiment": "Positive",
-      "sources": "UBS retains Buy rating with target price at Rs 1,000 as CEO uncertainty eases"
-    },
-    {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Stock in focus ahead of opening trade session"
+      "sources": "trigger"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "Drag on Sensex due to general IT sector weakness"
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Negative",
-      "sources": "Sensex dipped due to broader Tata group stock weakness"
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Positive",
-      "sources": "FD rates hiked up to 8.5% for senior citizens"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "sentiment": "Positive",
-      "sources": "Banking sector stability and branch operations in focus"
+      "sources": "trigger"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "IT sector weakness dragging market indices"
+      "sources": "trigger"
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "sentiment": "Negative",
+      "sources": "trigger"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "Crude oil price updates and new US sanctions on oil buyers"
+      "sources": "trigger"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Neutral",
+      "sources": "trigger"
     },
     {
       "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
-      "sources": "Featured in market trade guide as top buy recommendation"
+      "sentiment": "Negative",
+      "sources": "trigger"
     },
     {
-      "symbol": "LT",
-      "sentiment": "Positive",
-      "sources": "Strong buyer demand listed in trade guide recommendations"
+      "symbol": "MARUTI",
+      "sentiment": "Negative",
+      "sources": "trigger"
     }
   ],
-  "summary": "Indian markets traded mixed as weakness in IT and Tata group stocks weighed on the benchmark indices.\nPositive sentiments in the banking sector, led by UBS's bullish stance on HDFC Bank, helped restrict losses.\nGlobal macro factors including US Fed rate hikes and crude oil sanctions kept investors cautious.",
-  "updatedAt": "2026-09-19T04:31:12.143Z",
+  "summary": "Indian indices closed lower for the sixth straight week amid global volatility.\nWeakness in IT and Tata stocks offset gains in the currency market.\nInvestors are now focusing on US interest rate paths and AI performance.",
+  "updatedAt": "2026-09-19T05:01:42.028Z",
   "source": "zerodha-pulse"
 }
