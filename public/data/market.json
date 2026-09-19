@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex and Nifty Fall for Sixth Week Amid Global Rate Hike Concerns",
+  "headline": "Indian Markets Mixed As Sensex Dips On IT And Tata Weakness",
   "why": [
-    "US Fed rate hike outlook remains a primary concern for investors",
-    "Weakness in IT and Tata Group stocks weighed on domestic sentiment",
-    "Rising US Treasury yields reached levels not seen since 2024",
-    "Global sell-offs in European automotive and telecommunications sectors impacted markets"
+    "Sensex and Nifty face pressure, extending a six-week consecutive falling trend.",
+    "Weakness in IT stocks and Tata Group shares weighed down the Sensex.",
+    "Investors are cautious over US Fed rate hikes and a potential AI slowdown.",
+    "Easing crude oil prices and RBI intervention helped stabilize the Rupee."
   ],
   "whatHappening": [
-    "Indian benchmark indices recorded their sixth consecutive week of losses",
-    "The Rupee recovered slightly due to RBI intervention and lower oil",
-    "Gold prices climbed to a one-week high as oil prices eased",
-    "Market focus shifts to potential AI slowdowns and upcoming Fed path"
+    "Indian benchmarks closed mixed with Nifty showing resilience while Sensex posted minor losses.",
+    "The Rupee halted its losing streak thanks to direct support from the RBI.",
+    "Gold prices rebounded to a one-week high following a retreat in crude oil.",
+    "Paytm and major IT stocks dominated investor attention during the trading session."
   ],
   "stocksInNews": [
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "trigger"
+      "sources": "In stock market focus during session opening"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "trigger"
+      "sources": "Dragged down by broader weakness in IT sector"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "trigger"
+      "sources": "Pressure from IT sector sell-off and US Fed outlook"
     },
     {
       "symbol": "TATAMOTORS",
       "sentiment": "Negative",
-      "sources": "trigger"
+      "sources": "Impacted by weakness in Tata Group stocks"
     },
     {
       "symbol": "TATASTEEL",
       "sentiment": "Negative",
-      "sources": "trigger"
+      "sources": "Tata Sons highlighted among key market drag triggers"
     },
     {
       "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "trigger"
+      "sentiment": "Positive",
+      "sources": "Supported by easing crude oil prices and trade guides"
     },
     {
       "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "trigger"
+      "sentiment": "Positive",
+      "sources": "Stock trade recommendations and index support"
     },
     {
       "symbol": "ICICIBANK",
-      "sentiment": "Neutral",
-      "sources": "trigger"
+      "sentiment": "Positive",
+      "sources": "Highlighted in daily buy/trade recommendations"
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Positive",
+      "sources": "Banking sector resilience supported by RBI actions"
     },
     {
       "symbol": "BHARTIARTL",
-      "sentiment": "Negative",
-      "sources": "trigger"
-    },
-    {
-      "symbol": "MARUTI",
-      "sentiment": "Negative",
-      "sources": "trigger"
+      "sentiment": "Neutral",
+      "sources": "Monitored amidst global telecom sector sell-off trends"
     }
   ],
-  "summary": "Indian indices closed lower for the sixth straight week amid global volatility.\nWeakness in IT and Tata stocks offset gains in the currency market.\nInvestors are now focusing on US interest rate paths and AI performance.",
-  "updatedAt": "2026-09-19T05:01:42.028Z",
+  "summary": "Indian equity markets delivered a mixed performance as the Sensex dipped on IT and Tata stock weakness, while Nifty held gains.\nMacroeconomic factors such as RBI intervention and falling crude oil prices helped the Rupee break its recent losing streak.\nGlobal triggers, including US Fed rate expectations and AI growth concerns, continue to keep market participants cautious.",
+  "updatedAt": "2026-09-19T05:33:03.817Z",
   "source": "zerodha-pulse"
 }
