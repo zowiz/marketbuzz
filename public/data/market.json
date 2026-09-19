@@ -7,71 +7,71 @@
     "nextOpen": "Tuesday, 22 September"
   },
   "why": [
-    "Nifty 50 gained 75 points despite the Sensex closing in the red.",
-    "Smallcap stocks showed resilience and positive momentum during the session.",
-    "Investors monitored FII activity and crude oil prices for direction.",
-    "Mixed corporate news and sectoral shifts drove the intraday volatility."
+    "Sensex slipped into the red following CAS while Nifty 50 managed a 75-point gain.",
+    "Tighter scrutiny on H-1B visas under a new order impacted sentiment for major Indian IT firms.",
+    "NTPC terminated a ₹413 crore BESS contract due to contractor failure to meet obligations.",
+    "Mixed global cues and focus on upcoming FII activity influenced the last trading session."
   ],
   "whatHappening": [
-    "NTPC cancelled a ₹413 crore storage project contract with GR Infraprojects.",
-    "Rapido filed an insolvency plea against Magicpin over unpaid operational dues.",
-    "RBI ordered the removal of several officials from the Latur DCC Bank.",
-    "Government announced mandatory Aadhaar biometric authentication for LPG subsidies."
+    "The Indian stock market is currently closed for the weekend and will reopen on Tuesday.",
+    "Paytm remained in focus following opening trends and broader market volatility.",
+    "Investors are analyzing the impact of mandatory Aadhaar biometric authentication for LPG refills.",
+    "Smallcap stocks displayed strength despite the Sensex closing in negative territory."
   ],
   "stocksInNews": [
     {
       "symbol": "NTPC",
       "sentiment": "Negative",
-      "sources": "terminated ₹413 crore BESS contract"
-    },
-    {
-      "symbol": "GRINFRA",
-      "sentiment": "Negative",
-      "sources": "NTPC terminated storage project"
+      "sources": "NTPC terminates ₹413 crore BESS contract"
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "stock to be in focus"
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "market outlook next week"
+      "sources": "Paytm to be in focus"
     },
     {
       "symbol": "TCS",
-      "sentiment": "Neutral",
-      "sources": "market outlook next week"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "market outlook next week"
+      "sentiment": "Negative",
+      "sources": "Trump's New H-1B Order scrutiny"
     },
     {
       "symbol": "INFY",
-      "sentiment": "Neutral",
-      "sources": "market outlook next week"
+      "sentiment": "Negative",
+      "sources": "Trump's New H-1B Order scrutiny"
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
     },
     {
       "symbol": "ICICIBANK",
-      "sentiment": "Neutral",
-      "sources": "market outlook next week"
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
     },
     {
       "symbol": "SBIN",
-      "sentiment": "Neutral",
-      "sources": "market outlook next week"
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
     },
     {
       "symbol": "BHARTIARTL",
-      "sentiment": "Neutral",
-      "sources": "market outlook next week"
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 pts"
+    },
+    {
+      "symbol": "MARUTI",
+      "sentiment": "Negative",
+      "sources": "Sensex slips into red"
     }
   ],
-  "summary": "The Indian market ended the last session mixed with Nifty gaining 75 points while Sensex slipped into the red. NTPC terminated a major contract with GR Infraprojects, and Rapido filed an insolvency plea against Magicpin. Markets are currently closed for the weekend and will reopen for trading on Tuesday, September 22.",
-  "updatedAt": "2026-09-19T16:34:34.849Z",
+  "summary": "On the last trading day, the Nifty 50 rose 75 points while the Sensex ended in the red. Sentiment was affected by new H-1B visa restrictions and NTPC's termination of a significant energy storage contract. Markets remain closed for the weekend and will resume on Tuesday, September 22.",
+  "updatedAt": "2026-09-19T17:01:51.542Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-19"
 }
