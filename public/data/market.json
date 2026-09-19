@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex and Nifty Fall for Sixth Week Amid Rising US Yields",
+  "headline": "Indian Markets Mixed: Nifty Gains While Sensex Dips Amid IT Weakness",
   "why": [
-    "Rising US yields pressuring price-to-earnings multiples",
-    "Weakness in IT sector and Tata Group stocks",
-    "Global sell-off in European auto and telecom sectors",
-    "Uncertainty regarding US Fed interest rate hike outlook"
+    "Weakness in IT sector and Tata group stocks weighing on Sensex",
+    "Global triggers including US Fed decisions and rising oil prices",
+    "Concerns over UPI Merchant Discount Rate impacting retail trade sentiment",
+    "Ongoing market correction leading to sixth straight week of declines"
   ],
   "whatHappening": [
-    "Sensex and Nifty recorded their sixth consecutive weekly decline",
-    "Tata Sons IPO buzz impacting performance of group companies",
-    "US two-year yields hit highest levels since 2024",
-    "Three stocks scheduled for ex-record date for splits next week"
+    "Nifty 50 and Sensex show mixed performance in early trade sessions",
+    "Ashish Kacholia portfolio sees significant gains with four multibaggers in CY26",
+    "Accenture and Anthropic commit $2 billion to AI safety and evaluation",
+    "WBPDCL initiates surplus coal sales to NTPC to boost power supply"
   ],
   "stocksInNews": [
     {
-      "symbol": "TCS",
-      "sentiment": "Negative",
-      "sources": "Tata weakness and IT sector pressure"
-    },
-    {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Stock in focus for today's opening trade"
+      "sources": "trigger"
     },
     {
-      "symbol": "TATAMOTORS",
+      "symbol": "NTPC",
+      "sentiment": "Positive",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "Tata Sons IPO buzz and auto sector sell-off"
-    },
-    {
-      "symbol": "COALINDIA",
-      "sentiment": "Neutral",
-      "sources": "News regarding CFL match live streaming"
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "General IT sector weakness impacting Nifty"
+      "sources": "trigger"
     },
     {
       "symbol": "TATASTEEL",
       "sentiment": "Negative",
-      "sources": "Weakness in Tata Group stocks performance"
+      "sources": "trigger"
     },
     {
-      "symbol": "WIPRO",
+      "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "IT sector pressure amid rising US yields"
+      "sources": "trigger"
     },
     {
-      "symbol": "HCLTECH",
-      "sentiment": "Negative",
-      "sources": "IT sector weakness and P/E multiple pressure"
+      "symbol": "ACCENTURE",
+      "sentiment": "Positive",
+      "sources": "trigger"
     },
     {
-      "symbol": "TITAN",
-      "sentiment": "Negative",
-      "sources": "Tata Group stock performance under observation"
+      "symbol": "ALIBABA",
+      "sentiment": "Positive",
+      "sources": "trigger"
     },
     {
       "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "General market decline and Sensex weakness"
+      "sentiment": "Neutral",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Neutral",
+      "sources": "trigger"
     }
   ],
-  "summary": "Indian indices fell for the sixth straight week due to rising US yields and IT sector weakness. Tata Group stocks are volatile amid IPO buzz while global markets face sell-offs in autos and telecoms. Investors remain cautious about US Fed rate hikes and upcoming stock splits.",
-  "updatedAt": "2026-09-19T06:31:28.619Z",
+  "summary": "Indian indices face a sixth weekly decline as IT and Tata stocks drag the Sensex lower despite Nifty's marginal gains. Global factors like US Fed policy and oil prices remain key triggers while AI investments by Accenture and Anthropic signal sector growth. Retail sentiment is tested by UPI MDR concerns in Ghaziabad and the ongoing shift toward cash transactions.",
+  "updatedAt": "2026-09-19T07:02:45.563Z",
   "source": "zerodha-pulse"
 }
