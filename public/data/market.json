@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Nifty gained 75 points while Sensex slipped into red amid mixed sectoral performance.",
+  "headline": "Last session: Nifty gained 75 points while Sensex slipped into red; smallcaps showed resilience amid volatility.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Tuesday, 22 September"
   },
   "why": [
-    "Nifty gained 75 points providing some support to the broader market indices.",
-    "Sensex slipped into the red following specific sectoral pressures and profit booking.",
-    "NTPC terminated a Rs 400 crore storage project, impacting sentiment for GR Infraprojects.",
-    "Market participants reacted to mixed global cues and domestic regulatory updates."
+    "Nifty 50 managed to gain 75 points despite the Sensex slipping into the red during the last session.",
+    "Smallcap and midcap stocks showed resilience, providing support to the broader market indices.",
+    "Mixed global cues and FII activity influenced domestic sentiment as investors weighed economic data.",
+    "Stock-specific news, particularly in the energy and tech sectors, drove divergent performance across the benchmarks."
   ],
   "whatHappening": [
-    "The Indian stock market is currently closed for the weekend and will reopen Tuesday.",
-    "Paytm shares remained in focus following recent news and opening trade guides.",
-    "Nifty 50 managed to close higher by 75 points despite volatility in the Sensex.",
-    "Smallcap indices showed varied performance as investors monitored FII activity and crude prices."
+    "NTPC terminated a ₹413 crore BESS contract with GR Infraprojects due to failure in meeting obligations.",
+    "The RBI ordered the removal of a Maharashtra Minister and seven others from the Latur DCC Bank board.",
+    "Rapido filed an insolvency plea against Magicpin over alleged unpaid operational dues.",
+    "The government announced mandatory Aadhaar biometric authentication for LPG subsidies effective October 1."
   ],
   "stocksInNews": [
     {
       "symbol": "NTPC",
       "sentiment": "Negative",
-      "sources": "NTPC Terminates Rs 400 Crore Storage Project"
+      "sources": "Terminated ₹413 crore BESS contract due to contractor progress failure"
     },
     {
       "symbol": "GRINFRA",
       "sentiment": "Negative",
-      "sources": "NTPC Terminates Rs 400 Crore Storage Project Awarded To GR Infraprojects"
+      "sources": "NTPC terminated ₹400 crore storage project awarded to the company"
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Paytm to be in focus"
+      "sources": "Stock noted to be in focus for upcoming trading sessions"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "Sensex slips into red after CAS"
+      "sources": "General market movement and index heavyweight performance"
     },
     {
       "symbol": "TCS",
       "sentiment": "Neutral",
-      "sources": "Sensex slips into red after CAS"
+      "sources": "Context of falling AI prices and enterprise spending trends"
     },
     {
       "symbol": "HDFCBANK",
       "sentiment": "Neutral",
-      "sources": "Sensex slips into red after CAS"
+      "sources": "General banking sector performance in the last trading session"
     },
     {
       "symbol": "INFY",
       "sentiment": "Neutral",
-      "sources": "Sensex slips into red after CAS"
+      "sources": "Enterprise AI spending trends impacting IT sector outlook"
     },
     {
       "symbol": "ICICIBANK",
       "sentiment": "Neutral",
-      "sources": "Sensex slips into red after CAS"
+      "sources": "General market trend and banking index contribution"
     },
     {
       "symbol": "SBIN",
       "sentiment": "Neutral",
-      "sources": "Sensex slips into red after CAS"
+      "sources": "Public sector bank performance amid DCC bank regulatory actions"
     },
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Neutral",
-      "sources": "Sensex slips into red after CAS"
+      "sources": "General market movement and telecom sector stability"
     }
   ],
-  "summary": "The Indian market is currently closed for the weekend and will reopen on Tuesday, 22 September. In the last trading session, Nifty gained 75 points while the Sensex ended in the red. Key news includes NTPC terminating a project with GR Infraprojects and Paytm remaining in focus.",
-  "updatedAt": "2026-09-19T15:32:29.472Z",
+  "summary": "On the last trading day, Nifty gained 75 points while Sensex ended in the red, reflecting a mixed market sentiment. NTPC made headlines by terminating a major storage project, impacting GR Infraprojects. Investors are now looking ahead to the reopening on Tuesday, focusing on FII trends and crude oil prices.",
+  "updatedAt": "2026-09-19T16:01:43.965Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-19"
 }
