@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Nifty gained 75 points while Sensex slipped into red; smallcaps showed resilience amid global volatility.",
+  "headline": "Last session: Sensex slipped into red after CAS while Nifty gained 75 points; smallcaps showed resilience.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Mixed global cues and concerns over crude oil prices following Middle East tensions",
-    "FII selling pressure offset by domestic buying in specific sectors",
-    "Concerns over cyberattacks in the emerging semiconductor ecosystem as warned by the IT Minister",
-    "Anticipation of banking services disruption due to the upcoming three-day strike starting Monday"
+    "Sensex slipped into the red following CAS while the Nifty 50 managed a 75-point gain.",
+    "Small-cap stocks provided support to the broader market despite volatility in front-line indices.",
+    "Investors reacted to mixed global cues and prepared for potential disruptions in the coming week.",
+    "Profit booking was observed in Sensex heavyweights while certain Nifty components maintained upward momentum."
   ],
   "whatHappening": [
-    "Nifty 50 managed to close in the green with a 75-point gain",
-    "Sensex faced late-session selling pressure, ending slightly lower after CAS",
-    "Small-cap stocks outperformed the broader indices during the session",
-    "Investors remained cautious ahead of the new trading week starting September 21"
+    "Nifty 50 gained 75 points while the Sensex ended the session in the red after CAS.",
+    "Small-cap stocks showed resilience and outperformed the main indices during the last trading session.",
+    "Geopolitical tensions rose as Houthis claimed attacks on Saudi Aramco facilities, impacting energy sector outlook.",
+    "The Finance Ministry prepared for a meeting with bank chiefs regarding an upcoming three-day strike."
   ],
   "stocksInNews": [
     {
-      "symbol": "RELIANCE",
+      "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Crude oil and FII focus in market outlook"
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Neutral",
-      "sources": "Tata Sons boardroom battle lines"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Positive",
-      "sources": "Nifty gains 75 points in last session"
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Neutral",
-      "sources": "Cyberattack warnings for semiconductor ecosystem"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "sentiment": "Positive",
-      "sources": "Nifty gains 75 points in last session"
+      "sources": "trigger"
     },
     {
       "symbol": "SBIN",
       "sentiment": "Negative",
-      "sources": "FinMin meeting over upcoming three-day strike"
+      "sources": "trigger"
     },
     {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Neutral",
-      "sources": "Market outlook for the week of September 21-25"
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Neutral",
-      "sources": "Market outlook for the week of September 21-25"
-    },
-    {
-      "symbol": "LT",
-      "sentiment": "Positive",
-      "sources": "Focus on building the semiconductor ecosystem"
-    },
-    {
-      "symbol": "MARUTI",
+      "symbol": "PNB",
       "sentiment": "Negative",
-      "sources": "Concerns over potential market crash and volatility"
+      "sources": "trigger"
+    },
+    {
+      "symbol": "ONGC",
+      "sentiment": "Neutral",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "BPCL",
+      "sentiment": "Negative",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "KPRMILL",
+      "sentiment": "Neutral",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "VEDL",
+      "sentiment": "Positive",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Neutral",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
+      "sources": "trigger"
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "trigger"
     }
   ],
-  "summary": "The Indian market ended the last session on a mixed note as Nifty gained 75 points while Sensex slipped into the red. Investors are currently monitoring geopolitical tensions in the Middle East and domestic banking strike threats. The market remains closed for the weekend and will resume trading on Monday, September 21.",
-  "updatedAt": "2026-09-19T21:01:56.086Z",
+  "summary": "On the last trading day, the Sensex slipped into the red while the Nifty 50 gained 75 points.\nCurrent news focuses on geopolitical tensions in Riyadh, upcoming bank strikes, and India's semiconductor ecosystem security.\nThe market is closed today for the weekend and will reopen on Monday, September 21, 2026.",
+  "updatedAt": "2026-09-19T22:02:13.556Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20"
 }
