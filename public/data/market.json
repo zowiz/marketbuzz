@@ -1,70 +1,70 @@
 {
-  "headline": "Indian Markets Mixed As Oil Prices And Rate Concerns Drag Sentiment",
+  "headline": "Indian Markets Mixed Amid Global Rate Worries and Weak IT Sentiment",
   "why": [
-    "Persistent worries over elevated crude oil prices and global interest rate hikes",
-    "Rising US Treasury yields weighing heavily on global market sentiment",
-    "Investor sentiment dropping to a 16-month low according to AAII survey",
-    "Sectoral weakness in IT and Tata Group stocks pulling down the Sensex"
+    "Rising US Treasury yields impacting global sentiment",
+    "Concerns over Fed hiking rates above 5 percent",
+    "Surge in crude oil prices affecting domestic shares",
+    "Weakness in IT and Tata group heavyweights"
   ],
   "whatHappening": [
-    "Indian shares logged their longest weekly losing streak in six years",
-    "FCNR(B) deposits expected to generate ₹5 trillion notional profit for banks over 5 years",
-    "Paytm stays in focus as opening trades remain volatile",
-    "Air India CEO considers consolidating budget airline unit to optimize operational costs"
+    "Shares post longest weekly losing streak in six years",
+    "Investor sentiment hits 16-month low per AAII survey",
+    "Banks expect 5 trillion profit from FCNR(B) accounts",
+    "Air India CEO plans budget unit consolidation"
   ],
   "stocksInNews": [
     {
-      "symbol": "PAYTM",
-      "sentiment": "Neutral",
-      "sources": "In focus during morning trade amidst volatile market conditions"
-    },
-    {
-      "symbol": "TATAMOTORS",
+      "symbol": "RELIANCE",
       "sentiment": "Negative",
-      "sources": "Weakness in Tata group stocks weighing on Sensex performance"
+      "sources": "Crude oil price worries and weekly losing streak"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector drag exerting downward pressure on benchmark indices"
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "Broad weakness across IT heavyweights impacting sentiment"
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Positive",
-      "sources": "SBI report projects ₹5 trn notional profits for domestic banks from FCNR(B)"
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Volatile crude oil trends impacting broader market direction"
+      "sources": "Weakness in IT sector sentiment"
     },
     {
       "symbol": "HDFCBANK",
       "sentiment": "Positive",
-      "sources": "Key banking sector player positioned to benefit from foreign currency deposits"
+      "sources": "FCNR(B) notional profit projections for banks"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "IT sector drag on Nifty and Sensex"
     },
     {
       "symbol": "ICICIBANK",
       "sentiment": "Positive",
-      "sources": "FCNR(B) profit projections providing underlying support to private lenders"
+      "sources": "SBI report on banking sector FCNR gains"
     },
     {
-      "symbol": "LT",
+      "symbol": "SBIN",
       "sentiment": "Positive",
-      "sources": "Featured in daily top trade guides and buying recommendations"
+      "sources": "Projected 5 trillion profit from FCNR(B) holdings"
     },
     {
       "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
-      "sources": "Highlighted among key defensive stock picks during market weakness"
+      "sentiment": "Neutral",
+      "sources": "General market trade guide focus"
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Neutral",
+      "sources": "Mixed domestic market opening"
+    },
+    {
+      "symbol": "LT",
+      "sentiment": "Neutral",
+      "sources": "Included in Sensex and Nifty trade guide"
+    },
+    {
+      "symbol": "MARUTI",
+      "sentiment": "Negative",
+      "sources": "High automation spend costs and sector weakness"
     }
   ],
-  "summary": "Indian equities traded mixed as IT sector weakness and Tata stock declines pulled the Sensex lower while Nifty stayed resilient. Global markets faced pressure from rising US Treasury yields and rate hike fears, extending India's weekly losing streak to six weeks. Individual stocks like Paytm and major banking names stayed in focus due to FCNR(B) profit reports.",
-  "updatedAt": "2026-09-18T23:31:15.031Z",
+  "summary": "Indian markets are experiencing a mixed trend as global headwinds like rising US yields and oil prices weigh on sentiment. The IT sector and Tata group stocks are under pressure, leading to a significant weekly losing streak. However, the banking sector shows resilience with positive profit outlooks from FCNR(B) holdings.",
+  "updatedAt": "2026-09-19T00:31:25.058Z",
   "source": "zerodha-pulse"
 }
