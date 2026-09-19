@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex slipped into red after volatile trade, while Nifty gained 75 points defending key support.",
+  "headline": "Last session: Sensex slipped into red while Nifty gained 75 points as markets tested the 23,000 support zone.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Sensex witnessed late session volatility, slipping into the red before close.",
-    "Nifty 50 managed to hold gains, rising 75 points to defend critical support zones.",
-    "Investors remain cautious around Nifty's crucial 23,000 support level.",
-    "Focus shifts to crude oil movements, FII activity, and global market cues for the upcoming week."
+    "Sensex slipped into the red following CAS while Nifty managed a 75-point gain.",
+    "The market faced volatility as investors tested the Nifty 23,000 support zone.",
+    "Mixed global cues and domestic profit booking influenced the last session's performance.",
+    "Traders remained cautious ahead of the weekend regarding FII and crude oil data."
   ],
   "whatHappening": [
-    "Markets ended mixed on the last trading session with benchmark indices showing divergent trends.",
-    "Axis Bank garnered attention following reports of discussions with Apple Pay for India rollout.",
-    "Paytm remains under investor radar as traders prepare for next week's trading action.",
-    "Smallcap and broader market indices showed relative resilience compared to top headline benchmarks."
+    "Axis Bank is reportedly collaborating with Apple Pay for a potential rollout in India.",
+    "Paytm shares are under observation following recent market opening trends and crashes.",
+    "Ansell is expanding its global manufacturing footprint with a new plant in Perundurai.",
+    "Market participants are analyzing if the Nifty can successfully defend the 23,000 level."
   ],
   "stocksInNews": [
     {
       "symbol": "AXISBANK",
       "sentiment": "Positive",
-      "sources": "Apple Pay eyes India rollout with Axis Bank"
+      "sources": "trigger"
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "In focus ahead of next week trading session"
+      "sources": "trigger"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "Heavyweights track market defense around Nifty 23,000 level"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Positive",
-      "sources": "Contributed to overall Nifty stability in the last session"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "sentiment": "Positive",
-      "sources": "Banking sector in focus amid key support defense"
+      "sources": "trigger"
     },
     {
       "symbol": "TCS",
       "sentiment": "Neutral",
-      "sources": "IT sector tracks global cues ahead of next week"
+      "sources": "trigger"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "trigger"
     },
     {
       "symbol": "INFY",
       "sentiment": "Neutral",
-      "sources": "Monitored as benchmarks evaluate support near 23,000"
+      "sources": "trigger"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Neutral",
+      "sources": "trigger"
     },
     {
       "symbol": "SBIN",
-      "sentiment": "Positive",
-      "sources": "PSU banking stock tracks broader market recovery"
+      "sentiment": "Neutral",
+      "sources": "trigger"
     },
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Neutral",
-      "sources": "Monitored during overall market consolidation"
+      "sources": "trigger"
     },
     {
       "symbol": "ITC",
       "sentiment": "Neutral",
-      "sources": "Defensive play amidst volatile benchmark movement"
+      "sources": "trigger"
     }
   ],
-  "summary": "On the last trading day, Indian benchmark indices closed mixed as the Sensex slipped into the red while Nifty gained 75 points.\nInvestors are closely tracking Nifty's 23,000 support zone along with global cues, crude oil prices, and FII flows.\nAxis Bank and Paytm remain in focus as markets prepare for the upcoming trading week starting September 21.",
-  "updatedAt": "2026-09-19T12:01:35.718Z",
+  "summary": "The Indian stock market ended its last session with mixed results as the Nifty 50 gained 75 points while the Sensex declined. Investors are currently observing a weekend closure with the market set to reopen for regular trading on Monday, September 21. Key focus remains on the 23,000 support level for Nifty and corporate developments like the potential Apple Pay and Axis Bank partnership.",
+  "updatedAt": "2026-09-19T12:31:46.155Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-19"
 }
