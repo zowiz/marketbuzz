@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Indian markets closed higher as gains in major blue-chips offset concerns over weather and macro headwinds.",
+  "headline": "Last session: Nifty gained 75 points while Sensex slipped into red; smallcaps remained in focus amid global trade concerns.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Tuesday, 22 September"
   },
   "why": [
-    "Gains in key benchmark heavyweights supported positive momentum in the last trading session.",
-    "Investors monitored global macroeconomic signals and geopolitical developments.",
-    "Concerns over potential monsoon deficits and agricultural impact kept sentiment cautious in select sectors.",
-    "Stock-specific news flow and contract updates drove selective buying and selling."
+    "Nifty 50 managed to gain 75 points despite the Sensex slipping into the red during the last session.",
+    "CITI expressed concerns over potential additional U.S. tariffs, weighing on global trade sentiment.",
+    "Crypto-related stocks tumbled 10% following setbacks related to the CLARITY Act.",
+    "Investors remained focused on FII activity and crude oil price fluctuations as key market drivers."
   ],
   "whatHappening": [
-    "NTPC terminated a 400 MWh battery energy storage system contract awarded to G R Infraprojects.",
-    "DLF announced plans to open a ₹500 crore mall in Goa by March 2027 to boost annual rental income.",
-    "Reports of El Nino threatening Rabi crops raised concerns over agricultural productivity.",
-    "Markets are closed for the weekend and will reopen on Tuesday, 22 September."
+    "Ghaziabad traders announced a shift to cash-only transactions from October 15 over UPI MDR fee disputes.",
+    "India and New Zealand are nearing the implementation of a Free Trade Agreement to boost global trade.",
+    "Delhi Airport's third runway is scheduled to reopen on September 20 after a major revamp.",
+    "German and European industries are studying possibilities of shifting production bases to other countries."
   ],
   "stocksInNews": [
     {
-      "symbol": "NTPC",
-      "sentiment": "Negative",
-      "sources": "Terminated 400 MWh BESS contract awarded to G R Infraprojects"
-    },
-    {
-      "symbol": "GRINFRA",
-      "sentiment": "Negative",
-      "sources": "400 MWh BESS contract terminated by NTPC"
-    },
-    {
-      "symbol": "DLF",
-      "sentiment": "Positive",
-      "sources": "To open ₹500 crore Goa mall by March 2027 targeting ₹150+ crore rental income"
+      "symbol": "PAYTM",
+      "sentiment": "Neutral",
+      "sources": "In focus for opening trade and UPI MDR fee notices by traders"
     },
     {
       "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Traded in a narrow range during the last trading session"
+      "sentiment": "Negative",
+      "sources": "Sensex slipped into red during the last trading session"
     },
     {
       "symbol": "TCS",
-      "sentiment": "Neutral",
-      "sources": "Tracked IT sector trends during the previous trading day"
+      "sentiment": "Negative",
+      "sources": "Sensex slipped into red during the last trading session"
     },
     {
       "symbol": "HDFCBANK",
       "sentiment": "Positive",
-      "sources": "Steady buying support seen in major banking counters in the last session"
+      "sources": "Nifty gained 75 points during the last trading session"
     },
     {
       "symbol": "INFY",
-      "sentiment": "Neutral",
-      "sources": "Oscillated within a tight band during the last session"
+      "sentiment": "Positive",
+      "sources": "Nifty gained 75 points during the last trading session"
     },
     {
       "symbol": "ICICIBANK",
       "sentiment": "Positive",
-      "sources": "Gains in private banks supported index stability in the prior session"
+      "sources": "Nifty gained 75 points during the last trading session"
     },
     {
       "symbol": "SBIN",
-      "sentiment": "Neutral",
-      "sources": "Consolidated near key technical levels during the previous session"
+      "sentiment": "Positive",
+      "sources": "Nifty gained 75 points during the last trading session"
     },
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
-      "sources": "Maintained steady performance in the prior trading session"
+      "sources": "Nifty gained 75 points during the last trading session"
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Negative",
+      "sources": "Sensex slipped into red during the last trading session"
+    },
+    {
+      "symbol": "LT",
+      "sentiment": "Positive",
+      "sources": "Nifty gained 75 points during the last trading session"
     }
   ],
-  "summary": "Markets remain closed today for the weekend and will resume trading on Tuesday, 22 September.\nKey news includes NTPC terminating a BESS contract with G R Infraprojects and DLF announcing a new ₹500 crore mall in Goa.\nInvestors are keeping an eye on weather forecasts regarding El Nino risks on Rabi crops along with global macroeconomic cues.",
-  "updatedAt": "2026-09-19T13:31:28.030Z",
+  "summary": "The Indian market ended the last session on a mixed note as Nifty rose 75 points while Sensex faced pressure. Global trade concerns and domestic UPI fee disputes dominated headlines, alongside a major crash in crypto-related stocks. Markets are currently closed for the weekend and will resume operations on Tuesday, September 22.",
+  "updatedAt": "2026-09-19T14:02:13.012Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-19"
 }
