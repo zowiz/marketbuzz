@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Indian indices traded cautiously amid Middle East tensions and concerns over upcoming public sector bank strikes.",
+  "headline": "Last session: Nifty gained 75 points while Sensex slipped into red; smallcaps showed resilience amid global volatility.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Geopolitical risks escalated following drone and missile attacks on Saudi Aramco facilities.",
-    "Investor caution ahead of a planned three-day strike by public sector bank employees.",
-    "Warnings of potential cyberattacks and disruptions in the nascent semiconductor ecosystem.",
-    "Internal boardroom tensions at Tata Sons weighing on sentiment for group stocks."
+    "Mixed global cues and concerns over crude oil prices following Middle East tensions",
+    "FII selling pressure offset by domestic buying in specific sectors",
+    "Concerns over cyberattacks in the emerging semiconductor ecosystem as warned by the IT Minister",
+    "Anticipation of banking services disruption due to the upcoming three-day strike starting Monday"
   ],
   "whatHappening": [
-    "Finance Ministry is convening a meeting with PSB and RRB chiefs to ensure banking continuity.",
-    "Tiruppur yarn producers are lobbying garment units to help modify the role of the CCI.",
-    "Aviation safety bodies are seeking a comprehensive evaluation of Boeing 787 electrical systems.",
-    "International diplomatic friction is rising as Iran threatens to exit the nuclear treaty."
+    "Nifty 50 managed to close in the green with a 75-point gain",
+    "Sensex faced late-session selling pressure, ending slightly lower after CAS",
+    "Small-cap stocks outperformed the broader indices during the session",
+    "Investors remained cautious ahead of the new trading week starting September 21"
   ],
   "stocksInNews": [
     {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Crude oil and FII focus in market outlook"
+    },
+    {
       "symbol": "TCS",
       "sentiment": "Neutral",
-      "sources": "Battle lines in the boardroom | Tata Sons"
+      "sources": "Tata Sons boardroom battle lines"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 points in last session"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Neutral",
+      "sources": "Cyberattack warnings for semiconductor ecosystem"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Positive",
+      "sources": "Nifty gains 75 points in last session"
     },
     {
       "symbol": "SBIN",
       "sentiment": "Negative",
-      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
+      "sources": "FinMin meeting over upcoming three-day strike"
     },
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "Houthis Claim Missile, Drone Attacks On Riyadh, Saudi Aramco Facilities"
+      "symbol": "BHARTIARTL",
+      "sentiment": "Neutral",
+      "sources": "Market outlook for the week of September 21-25"
     },
     {
-      "symbol": "DIXON",
+      "symbol": "ITC",
+      "sentiment": "Neutral",
+      "sources": "Market outlook for the week of September 21-25"
+    },
+    {
+      "symbol": "LT",
       "sentiment": "Positive",
-      "sources": "Vaishnaw Warns Of Cyberattacks, Disruptions As India Builds Semiconductor Ecosystem"
+      "sources": "Focus on building the semiconductor ecosystem"
     },
     {
-      "symbol": "KPRMILL",
-      "sentiment": "Neutral",
-      "sources": "Tiruppur yarn producers seek support from garment units to modify role of CCI"
-    },
-    {
-      "symbol": "PNB",
+      "symbol": "MARUTI",
       "sentiment": "Negative",
-      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
-    },
-    {
-      "symbol": "BPCL",
-      "sentiment": "Negative",
-      "sources": "Houthis Claim Missile, Drone Attacks On Riyadh, Saudi Aramco Facilities"
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Neutral",
-      "sources": "Battle lines in the boardroom | Tata Sons"
-    },
-    {
-      "symbol": "BANKBARODA",
-      "sentiment": "Negative",
-      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
-    },
-    {
-      "symbol": "GOKEX",
-      "sentiment": "Neutral",
-      "sources": "Tiruppur yarn producers seek support from garment units to modify role of CCI"
+      "sources": "Concerns over potential market crash and volatility"
     }
   ],
-  "summary": "The Indian market is closed today for the weekend following a session marked by global geopolitical instability and domestic labor concerns. The Finance Ministry is actively working to prevent banking disruptions scheduled for next week, while the semiconductor sector faces new security warnings. Investors remain focused on corporate governance at Tata Sons and the evolving situation in the Middle East.",
-  "updatedAt": "2026-09-19T20:57:22.557Z",
+  "summary": "The Indian market ended the last session on a mixed note as Nifty gained 75 points while Sensex slipped into the red. Investors are currently monitoring geopolitical tensions in the Middle East and domestic banking strike threats. The market remains closed for the weekend and will resume trading on Monday, September 21.",
+  "updatedAt": "2026-09-19T21:01:56.086Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20"
 }
