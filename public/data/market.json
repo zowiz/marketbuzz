@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex slipped into red after CAS while Nifty gained 75 points; smallcaps showed resilience.",
+  "headline": "Last session: Sensex slipped into red while Nifty gained 75 points; smallcaps showed mixed trends amid volatility.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Sensex slipped into the red following CAS while the Nifty 50 managed a 75-point gain.",
-    "Small-cap stocks provided support to the broader market despite volatility in front-line indices.",
-    "Investors reacted to mixed global cues and prepared for potential disruptions in the coming week.",
-    "Profit booking was observed in Sensex heavyweights while certain Nifty components maintained upward momentum."
+    "Sensex slipped into the red after initial gains during the last trading session",
+    "Nifty managed to gain 75 points despite broader market volatility and selling pressure",
+    "Concerns over FII flows and crude oil prices influenced investor sentiment",
+    "Mixed performance in small-cap stocks contributed to the uneven closing trend"
   ],
   "whatHappening": [
-    "Nifty 50 gained 75 points while the Sensex ended the session in the red after CAS.",
-    "Small-cap stocks showed resilience and outperformed the main indices during the last trading session.",
-    "Geopolitical tensions rose as Houthis claimed attacks on Saudi Aramco facilities, impacting energy sector outlook.",
-    "The Finance Ministry prepared for a meeting with bank chiefs regarding an upcoming three-day strike."
+    "Investors are focusing on the upcoming week's outlook from September 21-25",
+    "FinMin is meeting bank chiefs to address a potential three-day banking strike",
+    "Geopolitical tensions in the Middle East involving Saudi Aramco are being monitored",
+    "The semiconductor ecosystem development is facing warnings regarding cyberattack disruptions"
   ],
   "stocksInNews": [
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "trigger"
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Negative",
-      "sources": "trigger"
-    },
-    {
-      "symbol": "PNB",
-      "sentiment": "Negative",
-      "sources": "trigger"
-    },
-    {
-      "symbol": "ONGC",
-      "sentiment": "Neutral",
-      "sources": "trigger"
-    },
-    {
-      "symbol": "BPCL",
-      "sentiment": "Negative",
-      "sources": "trigger"
-    },
-    {
-      "symbol": "KPRMILL",
-      "sentiment": "Neutral",
-      "sources": "trigger"
-    },
-    {
-      "symbol": "VEDL",
-      "sentiment": "Positive",
-      "sources": "trigger"
+      "sources": "Paytm to be in focus"
     },
     {
       "symbol": "TCS",
       "sentiment": "Neutral",
-      "sources": "trigger"
+      "sources": "Battle lines in the boardroom | Tata Sons"
     },
     {
-      "symbol": "TATAMOTORS",
+      "symbol": "SBIN",
       "sentiment": "Negative",
-      "sources": "trigger"
+      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
+    },
+    {
+      "symbol": "PNB",
+      "sentiment": "Negative",
+      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
+    },
+    {
+      "symbol": "BOB",
+      "sentiment": "Negative",
+      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
+    },
+    {
+      "symbol": "CANBK",
+      "sentiment": "Negative",
+      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
+    },
+    {
+      "symbol": "TATASTEEL",
+      "sentiment": "Neutral",
+      "sources": "Battle lines in the boardroom | Tata Sons"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "trigger"
+      "sources": "Crude, FII in Focus; Saudi Aramco Facilities"
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Neutral",
+      "sources": "Battle lines in the boardroom | Tata Sons"
+    },
+    {
+      "symbol": "VEDL",
+      "sentiment": "Neutral",
+      "sources": "India Builds Semiconductor Ecosystem"
     }
   ],
-  "summary": "On the last trading day, the Sensex slipped into the red while the Nifty 50 gained 75 points.\nCurrent news focuses on geopolitical tensions in Riyadh, upcoming bank strikes, and India's semiconductor ecosystem security.\nThe market is closed today for the weekend and will reopen on Monday, September 21, 2026.",
-  "updatedAt": "2026-09-19T22:02:13.556Z",
+  "summary": "The Indian market closed with mixed results in the last session as Nifty gained 75 points while Sensex ended in the red. Investors are now cautious ahead of a potential three-day banking strike and geopolitical tensions in the Middle East. Focus remains on the semiconductor ecosystem and upcoming FII activity for the next trading week.",
+  "updatedAt": "2026-09-19T22:31:18.124Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20"
 }
