@@ -1,70 +1,70 @@
 {
-  "headline": "Sensex Dips, Nifty Holds Steady Amid IT Weakness and Global Headwinds",
+  "headline": "Indian Markets End Mixed as IT Weakness Offsets Banking Gains",
   "why": [
-    "Weakness in IT and Tata Group stocks dragged down the Sensex.",
-    "Global market anxiety persists following US sanctions on Russian oil buyers.",
-    "Caution prevails among investors ahead of Federal Reserve policy decisions.",
-    "Mixed sectoral performance kept benchmark indices range-bound."
+    "Weakness in IT and Tata group stocks dragged the Sensex lower.",
+    "US Fed rate hike concerns and global sanctions created market caution.",
+    "Uncertainty around global oil tariffs following US sanctions on Russia buyers.",
+    "Banking sector showed resilience backed by positive analyst ratings on HDFC Bank."
   ],
   "whatHappening": [
-    "UBS retained a 'Buy' rating on HDFC Bank stock with a target price of Rs 1,000.",
-    "Paytm stock remains in focus following opening market momentum.",
-    "Banks updated FD rates offering up to 8.5% interest for senior citizens.",
-    "Fuel prices remained monitored across major metro cities including Mumbai and Delhi."
+    "Sensex and Nifty closed mixed amid Fed rate hike news and NSE IPO buzz.",
+    "UBS retained a Buy rating on HDFC Bank with a target price of Rs 1,000.",
+    "Paytm and major banking stocks remained in key focus for day traders.",
+    "Banks offered revised senior citizen FD rates up to 8.5% in September."
   ],
   "stocksInNews": [
     {
       "symbol": "HDFCBANK",
       "sentiment": "Positive",
-      "sources": "UBS retained 'Buy' rating with a target price of Rs 1,000 as CEO uncertainty eases."
+      "sources": "UBS retains Buy rating with target price at Rs 1,000 as CEO uncertainty eases"
+    },
+    {
+      "symbol": "PAYTM",
+      "sentiment": "Neutral",
+      "sources": "Stock in focus ahead of opening trade session"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "Sectoral weakness in IT stocks weighed down major market indices."
+      "sources": "Drag on Sensex due to general IT sector weakness"
     },
     {
-      "symbol": "INFY",
+      "symbol": "TATAMOTORS",
       "sentiment": "Negative",
-      "sources": "Pressure on major IT heavyweights contributed to the dip in Sensex."
+      "sources": "Sensex dipped due to broader Tata group stock weakness"
     },
     {
       "symbol": "SBIN",
       "sentiment": "Positive",
-      "sources": "In focus due to interest rate updates and banking operations schedule."
+      "sources": "FD rates hiked up to 8.5% for senior citizens"
     },
     {
       "symbol": "ICICIBANK",
       "sentiment": "Positive",
-      "sources": "Maintained steady interest across commercial banking updates."
+      "sources": "Banking sector stability and branch operations in focus"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "IT sector weakness dragging market indices"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "In focus following new US tariffs and sanctions on Russian oil buyers."
+      "sources": "Crude oil price updates and new US sanctions on oil buyers"
     },
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
-      "sources": "Featured among top recommended trade picks by market analysts."
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Neutral",
-      "sources": "Traded steadily as defensive play amid broader market volatility."
+      "sources": "Featured in market trade guide as top buy recommendation"
     },
     {
       "symbol": "LT",
       "sentiment": "Positive",
-      "sources": "Highlighted in daily trade guides for capital goods momentum."
-    },
-    {
-      "symbol": "MARUTI",
-      "sentiment": "Negative",
-      "sources": "Auto sector faced mild profit booking alongside Tata Group weakness."
+      "sources": "Strong buyer demand listed in trade guide recommendations"
     }
   ],
-  "summary": "Indian benchmark indices opened on a mixed note today as gains in select banking stocks were offset by weakness in IT and auto shares. UBS reiterated a positive outlook on HDFC Bank, driving interest in the financial sector despite broader market caution. Investors remain vigilant regarding global trade developments, oil price movements, and central bank policy trends.",
-  "updatedAt": "2026-09-19T04:01:29.569Z",
+  "summary": "Indian markets traded mixed as weakness in IT and Tata group stocks weighed on the benchmark indices.\nPositive sentiments in the banking sector, led by UBS's bullish stance on HDFC Bank, helped restrict losses.\nGlobal macro factors including US Fed rate hikes and crude oil sanctions kept investors cautious.",
+  "updatedAt": "2026-09-19T04:31:12.143Z",
   "source": "zerodha-pulse"
 }
