@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Nifty gained 75 points while Sensex slipped into the red after CAS.",
+  "headline": "Last session: Nifty gained 75 points while Sensex slipped into red; markets now closed for the weekend.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Tuesday, 22 September"
   },
   "why": [
-    "Sensex faced selling pressure after CAS developments.",
-    "Concerns arose over tighter H-1B visa scrutiny impacting market sentiment.",
-    "Crude oil price movement and FII activity kept investors cautious.",
-    "Divergent trends across sectors caused benchmark indices to split directions."
+    "Sensex slipped into the red following CAS while Nifty managed a 75-point gain.",
+    "Concerns over tighter H-1B visa scrutiny impacted sentiment for Indian IT firms.",
+    "FII activity and crude oil price fluctuations remained primary drivers of market volatility.",
+    "NTPC's termination of a major contract weighed on the power sector's performance."
   ],
   "whatHappening": [
-    "Nifty managed to gain 75 points even as Sensex slipped into negative territory.",
-    "NTPC terminated a ₹413 crore BESS contract due to non-performance by the contractor.",
-    "Paytm remained in spotlight as market participants focused on opening cues.",
-    "Traders are preparing for the upcoming trading week spanning September 21-25."
+    "The market is currently closed for the weekend and will reopen on Tuesday.",
+    "Paytm remained in focus during the last session amid broader market opening volatility.",
+    "MSEDCL is adopting AI and ML modules to combat power theft in Maharashtra.",
+    "Promoters are increasingly entering the valuations game for next-generation SME workspaces."
   ],
   "stocksInNews": [
     {
       "symbol": "NTPC",
       "sentiment": "Negative",
-      "sources": "Terminated ₹413 crore BESS contract as contractor failed to meet obligations"
+      "sources": "Terminated ₹413 crore BESS contract due to contractor failure"
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "In focus for stock market opening trends"
+      "sources": "Stock was in focus during the opening trade session"
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "IT sector sentiment weighed down by tighter US H-1B order scrutiny"
+      "sources": "Tighter H-1B visa scrutiny under new US orders"
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Impacted by news on US visa restriction tightening"
+      "sources": "Impact of new US H-1B visa restrictions on IT sector"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "Tracked general market sentiment in previous session"
+      "sources": "Crude oil prices and FII flows in focus for heavyweights"
     },
     {
       "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "Influenced broad market movements on last session"
+      "sentiment": "Negative",
+      "sources": "Sensex slipped into red during the last trading session"
     },
     {
       "symbol": "ICICIBANK",
-      "sentiment": "Positive",
-      "sources": "Supported Nifty's 75-point gain in the last session"
+      "sentiment": "Negative",
+      "sources": "Sensex highlights showed a slip into red territory"
     },
     {
       "symbol": "SBIN",
-      "sentiment": "Positive",
-      "sources": "Helped sustain buying momentum in banking space"
+      "sentiment": "Negative",
+      "sources": "Sensex performance impacted by broader market selling pressure"
     },
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
-      "sources": "Maintained steady support for key indices"
+      "sources": "Nifty managed to gain 75 points in the last session"
     },
     {
       "symbol": "LT",
       "sentiment": "Positive",
-      "sources": "Contributed positively to Nifty's close in green"
+      "sources": "Nifty gains supported by select large-cap stocks"
     }
   ],
-  "summary": "On the last trading day, Nifty gained 75 points while the Sensex slipped into the red following CAS updates.\nNTPC made news after terminating a ₹413 crore contract, while IT stocks faced pressure over tighter US H-1B visa rules.\nThe Indian market is closed today due to the weekend and will resume trading on Tuesday, 22 September.",
-  "updatedAt": "2026-09-19T18:01:30.474Z",
+  "summary": "The last trading session ended with mixed results as Nifty gained 75 points while the Sensex slipped into the red. Investors are monitoring US H-1B visa changes and NTPC's contract termination. The market remains closed for the weekend and will resume trading on Tuesday, September 22.",
+  "updatedAt": "2026-09-19T18:11:24.647Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-19"
 }
