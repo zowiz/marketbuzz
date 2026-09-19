@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Nifty gained 75 points while Sensex slipped into red after volatile trade and CAS adjustments.",
+  "headline": "On last trading day, Nifty gained 75 points while Sensex slipped into red amid mixed sectoral performance.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Tuesday, 22 September"
   },
   "why": [
-    "Nifty 50 gained 75 points as certain sectors showed strength during the last session.",
-    "Sensex slipped into the red following the Closing Auction Session (CAS) adjustments.",
-    "Mixed global market signals led to a volatile trading environment for Indian benchmarks.",
-    "Smallcap stocks provided a cushion to the market, outperforming the main Sensex index."
+    "Nifty gained 75 points providing some support to the broader market indices.",
+    "Sensex slipped into the red following specific sectoral pressures and profit booking.",
+    "NTPC terminated a Rs 400 crore storage project, impacting sentiment for GR Infraprojects.",
+    "Market participants reacted to mixed global cues and domestic regulatory updates."
   ],
   "whatHappening": [
-    "NTPC has terminated a Rs 400 crore storage project previously awarded to GR Infraprojects.",
-    "Rapido has filed an insolvency plea against Magicpin over alleged unpaid operational dues.",
-    "Paytm is being closely watched by investors following its recent market performance and opening trends.",
-    "The RBI has ordered the removal of several officials from the Latur DCC Bank."
+    "The Indian stock market is currently closed for the weekend and will reopen Tuesday.",
+    "Paytm shares remained in focus following recent news and opening trade guides.",
+    "Nifty 50 managed to close higher by 75 points despite volatility in the Sensex.",
+    "Smallcap indices showed varied performance as investors monitored FII activity and crude prices."
   ],
   "stocksInNews": [
     {
       "symbol": "NTPC",
       "sentiment": "Negative",
-      "sources": "Terminated Rs 400 crore storage project"
+      "sources": "NTPC Terminates Rs 400 Crore Storage Project"
     },
     {
       "symbol": "GRINFRA",
       "sentiment": "Negative",
-      "sources": "NTPC terminated project awarded to the company"
+      "sources": "NTPC Terminates Rs 400 Crore Storage Project Awarded To GR Infraprojects"
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "In focus for opening performance and market crash concerns"
-    },
-    {
-      "symbol": "MAGICPIN",
-      "sentiment": "Negative",
-      "sources": "Rapido filed insolvency plea over unpaid operational dues"
+      "sources": "Paytm to be in focus"
     },
     {
       "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "General market support during Nifty gain"
+      "sentiment": "Neutral",
+      "sources": "Sensex slips into red after CAS"
     },
     {
       "symbol": "TCS",
       "sentiment": "Neutral",
-      "sources": "Market outlook for the upcoming week"
+      "sources": "Sensex slips into red after CAS"
     },
     {
       "symbol": "HDFCBANK",
-      "sentiment": "Positive",
-      "sources": "Index heavyweight support for Nifty"
+      "sentiment": "Neutral",
+      "sources": "Sensex slips into red after CAS"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Neutral",
+      "sources": "Sensex slips into red after CAS"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Neutral",
+      "sources": "Sensex slips into red after CAS"
     },
     {
       "symbol": "SBIN",
-      "sentiment": "Positive",
-      "sources": "Banking sector support for benchmark indices"
+      "sentiment": "Neutral",
+      "sources": "Sensex slips into red after CAS"
     },
     {
       "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
-      "sources": "Positive sentiment in largecap space"
-    },
-    {
-      "symbol": "LT",
-      "sentiment": "Positive",
-      "sources": "Infrastructure sector outlook and index support"
+      "sentiment": "Neutral",
+      "sources": "Sensex slips into red after CAS"
     }
   ],
-  "summary": "The Indian stock market concluded its last session with Nifty gaining 75 points while the Sensex slipped into the red. Markets are currently closed for the weekend and will resume trading on Tuesday, September 22. Investors are monitoring corporate developments including project terminations and legal disputes involving major firms.",
-  "updatedAt": "2026-09-19T15:03:58.998Z",
+  "summary": "The Indian market is currently closed for the weekend and will reopen on Tuesday, 22 September. In the last trading session, Nifty gained 75 points while the Sensex ended in the red. Key news includes NTPC terminating a project with GR Infraprojects and Paytm remaining in focus.",
+  "updatedAt": "2026-09-19T15:32:29.472Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-19"
 }
