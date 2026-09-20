@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex slipped into red while Nifty gained 75 points; smallcaps showed mixed trends amid volatility.",
+  "headline": "Last session: Sensex slipped into red after volatile trade while Nifty gained 75 points amid global cues.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Sensex slipped into the red after initial gains during the last trading session",
-    "Nifty managed to gain 75 points despite broader market volatility and selling pressure",
-    "Concerns over FII flows and crude oil prices influenced investor sentiment",
-    "Mixed performance in small-cap stocks contributed to the uneven closing trend"
+    "Sensex slipped into the red following a volatile trading session.",
+    "Nifty managed to gain 75 points despite broader market pressure.",
+    "Concerns over FII outflows and crude oil price volatility weighed on sentiment.",
+    "Geopolitical tensions in the Middle East impacted global market stability."
   ],
   "whatHappening": [
-    "Investors are focusing on the upcoming week's outlook from September 21-25",
-    "FinMin is meeting bank chiefs to address a potential three-day banking strike",
-    "Geopolitical tensions in the Middle East involving Saudi Aramco are being monitored",
-    "The semiconductor ecosystem development is facing warnings regarding cyberattack disruptions"
+    "Investors are focusing on the upcoming three-day bank strike starting Monday.",
+    "Semiconductor ecosystem development faces cyberattack warnings from the IT ministry.",
+    "Tata Sons boardroom battles remain a key point of interest for investors.",
+    "Small-cap stocks showed mixed performance compared to front-line indices."
   ],
   "stocksInNews": [
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Paytm to be in focus"
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Neutral",
-      "sources": "Battle lines in the boardroom | Tata Sons"
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Negative",
-      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
-    },
-    {
-      "symbol": "PNB",
-      "sentiment": "Negative",
-      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
-    },
-    {
-      "symbol": "BOB",
-      "sentiment": "Negative",
-      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
-    },
-    {
-      "symbol": "CANBK",
-      "sentiment": "Negative",
-      "sources": "FinMin To Meet PSB, RRB Chiefs On Monday To Ensure Banking Services During Three-day Strike"
-    },
-    {
-      "symbol": "TATASTEEL",
-      "sentiment": "Neutral",
-      "sources": "Battle lines in the boardroom | Tata Sons"
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Crude, FII in Focus; Saudi Aramco Facilities"
+      "sources": "India Today"
     },
     {
       "symbol": "TATAMOTORS",
       "sentiment": "Neutral",
-      "sources": "Battle lines in the boardroom | Tata Sons"
+      "sources": "Tata Sons boardroom"
     },
     {
-      "symbol": "VEDL",
+      "symbol": "SBIN",
+      "sentiment": "Negative",
+      "sources": "FinMin meeting on bank strike"
+    },
+    {
+      "symbol": "BANKBARODA",
+      "sentiment": "Negative",
+      "sources": "PSB strike news"
+    },
+    {
+      "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "India Builds Semiconductor Ecosystem"
+      "sources": "Crude oil focus"
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Neutral",
+      "sources": "Tata Sons boardroom"
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Neutral",
+      "sources": "Semiconductor ecosystem news"
+    },
+    {
+      "symbol": "BPCL",
+      "sentiment": "Negative",
+      "sources": "Crude oil and Aramco news"
+    },
+    {
+      "symbol": "PNB",
+      "sentiment": "Negative",
+      "sources": "FinMin meeting on bank strike"
+    },
+    {
+      "symbol": "LT",
+      "sentiment": "Positive",
+      "sources": "Nifty gains"
     }
   ],
-  "summary": "The Indian market closed with mixed results in the last session as Nifty gained 75 points while Sensex ended in the red. Investors are now cautious ahead of a potential three-day banking strike and geopolitical tensions in the Middle East. Focus remains on the semiconductor ecosystem and upcoming FII activity for the next trading week.",
-  "updatedAt": "2026-09-19T22:31:18.124Z",
+  "summary": "The Indian market ended the last session on a mixed note with Nifty gaining 75 points while Sensex slipped. Investors are cautious due to geopolitical tensions in the Middle East and an upcoming three-day bank strike. Focus remains on the semiconductor ecosystem and Tata Group boardroom developments.",
+  "updatedAt": "2026-09-20T00:00:41.168Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20"
 }
