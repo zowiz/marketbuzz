@@ -96,7 +96,7 @@ export default function App() {
     margin: '0 10px 30px 10px',
     background: 'var(--bg-card)',
     border: '1px solid var(--card-border)',
-    borderTop: '6px solid var(--accent)',
+    borderTop: '3px solid var(--accent)',
     borderRadius: 'var(--border-smooth)',
     padding: '20px 18px 18px 18px',
   }}
