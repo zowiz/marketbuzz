@@ -92,23 +92,31 @@ export default function App() {
           )}
 
           <div
-            style={{
-              background: 'var(--bg-card)',
-              color: 'var(--text-light)',
-              padding: 16,
-              border: '1px solid var(--card-border)',
-              borderRadius: 'var(--border-smooth)',
-              margin: '0 10px 30px 10px',
-            }}
-          >
-            <div style={{ marginBottom: 30, fontSize: 10, opacity: 0.7 }}>
+  style={{
+    margin: '0 10px 30px 10px',
+    background: 'var(--bg-card)',
+    border: '1px solid var(--card-border)',
+    borderTop: '6px solid var(--accent)',
+    borderRadius: 'var(--border-smooth)',
+    padding: '20px 18px 18px 18px',
+  }}
+>
+  <div style={{ marginBottom: 30, fontSize: 10, opacity: 0.7 }}>
               Last updated: {data?.updatedAt ? new Date(data.updatedAt).toLocaleString('en-IN') : 'LIVE'}
               {data?.dateChecked && ` • ${data.dateChecked}`}
             </div>
-            <h2 style={{ margin: 0, fontSize: 22, lineHeight: 1.3, fontWeight: 600 }}>
-              {data?.headline || 'Loading market pulse...'}
-            </h2>
-          </div>
+  <h2
+    style={{
+      margin: 0,
+      fontSize: 24,
+      lineHeight: 1.3,
+      fontWeight: 600,
+      letterSpacing: '-0.02em',
+    }}
+  >
+    {data?.headline || 'Tracking the latest market developments...'}
+  </h2>
+</div>
 
           <div style={{ margin: '0 10px 30px 10px' }}>
             <h4 style={{ margin: '0 0 12px 0', fontSize: 14, color: 'var(--accent)', fontWeight: 500 }}>FUNDAMENTAL DRIVER</h4>
