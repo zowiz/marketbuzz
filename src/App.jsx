@@ -193,20 +193,104 @@ export default function App() {
   </div>
 </div>
 
-          <div style={{ margin: '0 10px 30px 10px' }}>
-            <h4 style={{ margin: '0 0 12px 0', fontSize: 14, color: 'var(--accent)', fontWeight: 500 }}>TRENDING STOCKS</h4>
-            {data?.stocksInNews?.map((s, i) => (
-              <div key={i} style={{ padding: 12, margin: '8px 0', borderRadius: 'var(--border-smooth)', display: 'flex', justifyContent: 'space-between', alignItems: 'center', border: '1px solid var(--card-border)', borderLeft: `4px solid ${s.sentiment === 'Positive' ? 'var(--positive)' : s.sentiment === 'Negative' ? 'var(--negative)' : 'var(--neutral)'}` }}>
-                <div>
-                  <div style={{ fontWeight: 800, fontSize: 13 }}>{s.symbol}</div>
-                  <div style={{ fontSize: 11, opacity: 0.7, marginTop: 2 }}>{s.sources}</div>
-                </div>
-                <div style={{ fontSize: 11, fontWeight: 700, padding: '4px 8px', borderRadius: 'var(--border-smooth)', background: s.sentiment === 'Positive' ? 'var(--positive)' : s.sentiment === 'Negative' ? 'var(--negative)' : 'var(--neutral-pill)', color: 'var(--text-light)' }}>
-                  {s.sentiment}
-                </div>
-              </div>
-            )) || <div style={{ fontSize: 13, color: 'var(--text-muted)' }}>Loading stocks...</div>}
-          </div>
+  <div style={{ margin: '0 10px 28px 10px' }}>
+  <h4
+    style={{
+      margin: '0 0 12px 0',
+      fontSize: 14,
+      color: 'var(--accent)',
+      fontWeight: 500,
+    }}
+  >
+    TRENDING STOCKS
+  </h4>
+
+  
+<div
+  style={{
+    background: 'var(--bg-card)',
+    border: '1px solid var(--card-border)',
+    borderRadius: 'var(--border-smooth)',
+    padding: '6px 14px',
+  }}
+>
+  {data?.stocksInNews?.length > 0 ? (
+    data.stocksInNews.map((s, i) => (
+      <div
+        key={s.symbol || i}
+        style={{
+          padding: '11px 0',
+          borderBottom:
+            i < data.stocksInNews.length - 1
+              ? '1px solid var(--card-border)'
+              : 'none',
+        }}
+      >
+        {/* Stock header */}
+        <div
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'space-between',
+            gap: 10,
+          }}
+        >
+          <span
+            style={{
+              fontSize: 13,
+              fontWeight: 600,
+            }}
+          >
+            {s.symbol}
+          </span>
+
+          {/* Sentiment indicator */}
+          <span
+            aria-label={`${s.sentiment} sentiment`}
+            style={{
+              width: 8,
+              height: 8,
+              borderRadius: '50%',
+              background:
+                s.sentiment === 'Positive'
+                  ? 'var(--positive)'
+                  : s.sentiment === 'Negative'
+                    ? 'var(--negative)'
+                    : 'var(--neutral)',
+              flexShrink: 0,
+            }}
+          />
+        </div>
+
+        {/* Trigger / explanation */}
+        <div
+          style={{
+            fontSize: 11,
+            lineHeight: 1.45,
+            color: 'var(--text-muted)',
+          }}
+        >
+          {s.sources}
+        </div>
+      </div>
+    ))
+  ) : (
+    <div
+      style={{
+        padding: '12px 0',
+        fontSize: 12,
+        color: 'var(--text-muted)',
+      }}
+    >
+      Tracking trending stocks...
+    </div>
+  )}
+</div>
+
+
+</div>        
+
+
           <div style={{ padding: 14, textAlign: 'center', fontSize: 12 }}>Before you pull the trigger, check the ticker.</div>
         </>
       )}
