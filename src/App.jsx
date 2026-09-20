@@ -76,37 +76,18 @@ export default function App() {
           {data?.marketStatus?.message && (
             <div
               style={{
-                margin: '0 10px 12px 10px',
+                margin: '0 10px 15px 10px',
                 padding: '12px 14px',
                 borderRadius: 'var(--border-smooth)',
-                fontSize: 13,
+                background: '#EF5350',
+                fontSize: 12,
                 fontWeight: 600,
                 lineHeight: 1.4,
-                border: '1px solid',
-                background: data.marketStatus.isMuhuratTrading
-                  ? '#fef3c7'
-                  : data.marketStatus.isClosed
-                    ? '#fff3cd'
-                    : '#d1e7dd',
-                color: data.marketStatus.isMuhuratTrading
-                  ? '#92400e'
-                  : data.marketStatus.isClosed
-                    ? '#664d03'
-                    : '#0f5132',
-                borderColor: data.marketStatus.isMuhuratTrading
-                  ? '#fcd34d'
-                  : data.marketStatus.isClosed
-                    ? '#ffecb5'
-                    : '#badbcc',
               }}
             >
-              {data.marketStatus.isMuhuratTrading ? '🪔 ' : data.marketStatus.isClosed ? '⚠️ ' : '🟢 '}
+              
               {data.marketStatus.message}
-              {data.marketStatus.nextOpen && data.marketStatus.isClosed && (
-                <span style={{ display: 'block', marginTop: 4, fontWeight: 400, fontSize: 12, opacity: 0.9 }}>
-                  Next session: {data.marketStatus.nextOpen}
-                </span>
-              )}
+              
             </div>
           )}
 
@@ -120,7 +101,7 @@ export default function App() {
               margin: '0 10px 30px 10px',
             }}
           >
-            <div style={{ marginBottom: 10, fontSize: 10, opacity: 0.7 }}>
+            <div style={{ marginBottom: 30, fontSize: 10, opacity: 0.7 }}>
               Last updated: {data?.updatedAt ? new Date(data.updatedAt).toLocaleString('en-IN') : 'LIVE'}
               {data?.dateChecked && ` • ${data.dateChecked}`}
             </div>
