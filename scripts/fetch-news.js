@@ -224,16 +224,16 @@ Generate valid JSON ONLY in this shape:
   "why": ["reason1","reason2","reason3","reason4"],
   "whatHappening": ["fact1","fact2","fact3","fact4"],
   "stocksInNews": [
-    {"symbol":"RELIANCE","sentiment":"Positive","sources":"trigger"},
-    {"symbol":"TCS","sentiment":"Negative","sources":"trigger"},
-    {"symbol":"HDFCBANK","sentiment":"Positive","sources":"trigger"},
-    {"symbol":"INFY","sentiment":"Neutral","sources":"trigger"},
-    {"symbol":"ICICIBANK","sentiment":"Positive","sources":"trigger"},
-    {"symbol":"SBIN","sentiment":"Positive","sources":"trigger"},
-    {"symbol":"BHARTIARTL","sentiment":"Positive","sources":"trigger"},
-    {"symbol":"ITC","sentiment":"Neutral","sources":"trigger"},
-    {"symbol":"LT","sentiment":"Positive","sources":"trigger"},
-    {"symbol":"MARUTI","sentiment":"Negative","sources":"trigger"}
+    {"symbol":"RELIANCE","sentiment":"Positive","sources": "Recommended by 7/10 sources"},
+    {"symbol":"TCS","sentiment":"Negative","sources": "Recommended by 7/10 sources"},
+    {"symbol":"HDFCBANK","sentiment":"Positive","sources": "Recommended by 7/10 sources"},
+    {"symbol":"INFY","sentiment":"Neutral","sources": "Recommended by 7/10 sources"},
+    {"symbol":"ICICIBANK","sentiment":"Positive","sources": "Recommended by 7/10 sources"},
+    {"symbol":"SBIN","sentiment":"Positive","sources": "Recommended by 7/10 sources"},
+    {"symbol":"BHARTIARTL","sentiment":"Positive","sources": "Recommended by 7/10 sources"},
+    {"symbol":"ITC","sentiment":"Neutral","sources": "Recommended by 7/10 sources"},
+    {"symbol":"LT","sentiment":"Positive","sources": "Recommended by 7/10 sources"},
+    {"symbol":"MARUTI","sentiment":"Negative","sources": "Recommended by 7/10 sources"}
   ],
   "summary": "3 lines summary"
 }
