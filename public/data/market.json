@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex and Nifty ended mixed amid Fed rate hike concerns and NSE IPO updates.",
+  "headline": "Last session: Sensex and Nifty faced pressure amid weak global cues, with Paytm and IPO listings taking center stage.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,28 +7,18 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Fed rate hike concerns impacted investor sentiment during the last trading session.",
-    "US sanctions on Russia and Middle East geopolitical tensions added to market uncertainty.",
-    "Fluctuating FII inflows and crude oil price movements kept market gains constrained.",
-    "Mixed signals from Asian peers including Nikkei and Kospi influenced domestic trading action."
+    "Crude oil price fluctuations and Middle East conflicts weighed on investor risk appetite.",
+    "FII trading activity remained cautious, keeping benchmark indices under pressure.",
+    "Global tech hiring concerns due to rapid AI adoption impacted general tech sentiment.",
+    "Nifty navigated a potential inflection point after persistent weak returns over recent years."
   ],
   "whatHappening": [
-    "Over 150 stocks including IRCTC and BEML have record dates for corporate actions this week.",
-    "Ten midcap companies reported their highest quarterly profits in ten quarters.",
-    "Nine penny stocks experienced sharp corrections, falling up to 67% in three months.",
-    "Paytm remains in focus as markets prepare for the upcoming trading week."
+    "NSE IPO grey market premium (GMP) dropped to its lowest level since announcement.",
+    "Paytm stays in focus as traders evaluate stock outlook ahead of the new week.",
+    "Market participants are monitoring GIFT Nifty, Nikkei, and Kospi for opening cues.",
+    "Indices are expected to seek support in the upcoming September 21-25 trading sessions."
   ],
   "stocksInNews": [
-    {
-      "symbol": "IRCTC",
-      "sentiment": "Positive",
-      "sources": "Recommended by 7/10 sources"
-    },
-    {
-      "symbol": "BEML",
-      "sentiment": "Positive",
-      "sources": "Recommended by 7/10 sources"
-    },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
@@ -68,10 +58,20 @@
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
       "sources": "Recommended by 7/10 sources"
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Neutral",
+      "sources": "Recommended by 7/10 sources"
+    },
+    {
+      "symbol": "LT",
+      "sentiment": "Positive",
+      "sources": "Recommended by 7/10 sources"
     }
   ],
-  "summary": "Indian equity markets are closed today for the weekend and will resume trading on Monday, September 21.\nDuring the previous trading session, benchmark indices ended mixed amid Fed rate hike fears and global headwinds.\nFocus for the upcoming week shifts to stock-specific corporate actions, crude oil prices, and foreign institutional flows.",
-  "updatedAt": "2026-09-20T05:31:15.720Z",
+  "summary": "During the last session, Indian equities tracked cautious global markets amid Middle East tensions and FII outflows.\nKey stocks like Paytm remain in focus, while primary market sentiment cooled as IPO grey market premiums fell.\nInvestors are closely watching GIFT Nifty and Asian peers for direction ahead of Monday's market opening.",
+  "updatedAt": "2026-09-20T06:01:29.225Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20"
 }
