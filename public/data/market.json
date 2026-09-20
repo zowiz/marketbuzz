@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex and Nifty ended mixed; focus on Tata leadership crisis and global cues for Tuesday's reopening.",
+  "headline": "Last session: Indian markets ended Friday's trade as investors prepared for a long weekend and monitored global cues.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,18 +7,28 @@
     "nextOpen": "Tuesday, 22 September 2026"
   },
   "why": [
-    "Tata Trusts declared the reappointment of N Chandrasekaran as Tata Sons Chairman 'void ab initio,' creating leadership uncertainty.",
-    "The last trading session saw mixed results for major indices following a US Federal Reserve interest rate hike.",
-    "Geopolitical tensions in West Asia and their impact on crude oil prices remain a primary concern for investors.",
-    "RBI data revealed a robust 8.2% growth in India's software services exports for the 2026 fiscal year."
+    "Market is closed for the weekend and an upcoming holiday, reopening on Tuesday.",
+    "Tata Trusts has declared the reappointment of Tata Sons Chairman N Chandrasekaran as void.",
+    "Geopolitical tensions in West Asia and crude oil price volatility are impacting sentiment.",
+    "Strong growth in India's software services exports was reported by the RBI for FY26."
   ],
   "whatHappening": [
-    "A significant conflict has emerged between the Tata Sons Board and majority-owner Tata Trusts over executive voting rights.",
-    "Mazagon Dock, RVNL, and Nestle India are expected to see price movement based on upcoming market triggers.",
-    "Liqvd Digital India has announced its SME IPO price band ahead of its September 23 opening.",
-    "Analysts predict gold prices will remain range-bound as the market reacts to dollar strength and global instability."
+    "A leadership dispute has surfaced between Tata Trusts and the Tata Sons Board over the Chairman's role.",
+    "Mazagon Dock, RVNL, and Nestle India are identified as key stocks to watch for the next trading session.",
+    "RBI data indicates software services exports reached $221.4 billion, an 8.2% increase in FY26.",
+    "A new SME IPO for Liqvd Digital India is scheduled to open on September 23."
   ],
   "stocksInNews": [
+    {
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0,
+        1,
+        4
+      ]
+    },
     {
       "symbol": "MAZDOCK",
       "sentiment": "Neutral",
@@ -45,15 +55,15 @@
     },
     {
       "symbol": "PAYTM",
-      "sentiment": "Negative",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        15
+        16
       ]
     }
   ],
-  "summary": "The Indian stock market is closed for the weekend and will reopen on Tuesday, September 22. The last trading session saw the Sensex and Nifty ending mixed, while current news is dominated by a governance dispute at Tata Sons. Investors are also preparing for upcoming triggers involving Mazagon Dock, RVNL, and Nestle India.",
-  "updatedAt": "2026-09-20T13:14:35.673Z",
+  "summary": "The Indian stock market is closed and will reopen on Tuesday, September 22, 2026. The weekend is marked by a major leadership conflict at Tata Sons and positive RBI data on software exports. Investors are also keeping a close watch on West Asia tensions and global commodity prices.",
+  "updatedAt": "2026-09-20T13:32:02.968Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20",
   "articleKeys": [
@@ -67,14 +77,14 @@
     "sme ipo liqvd digital india issue to open on sep 23 price band fixed at rs 5154",
     "gold likely to stay rangebound next week as dollar west asia tensions guide market analysts",
     "indias software services exports rise 82 to 2214 bn in fy26 rbi data",
+    "nse national stock exchange of india ltd live sharestock market news updates quotes nseindiacom nse india",
     "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india livemint",
-    "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingview",
+    "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingviewcom",
     "share market news nifty 50 outlook prediction liquide blog",
-    "crude oil west asia situation likely to drive stock market this week business standard",
     "ahead of market 10 things that will decide stock market action on monday the economic times",
+    "crude oil west asia situation likely to drive stock market this week business standard",
     "sensex nifty opening will stock markets crash again today paytm to be in focus india today",
     "indian stock market outlook next week september 2125 sensex nifty may find support crude fii in focus goodreturns",
-    "market close report today september 17 2026 nifty sensex end mixed amid fed hike nse ipo hdfc sky",
     "top stocks in focus tomorrow mazagon dock rvnl nestle india shares to move sensex nifty monday 21 sept triggers livemint",
     "stock market today trade guide for sensex nifty 50 crude oil and gold eight stocks to buy livemint"
   ],
@@ -140,14 +150,20 @@
       "publishedAt": "Sun, 20 Sep 2026 16:41:38 +0530"
     },
     {
+      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
+      "source": "NSE India",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
+      "publishedAt": "Fri, 18 Sep 2026 07:00:00 GMT"
+    },
+    {
       "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0ZiRUpZZXE0ZjA4dUhlTW80bW83Y3BMYXN1X0lNYlZCcjRveEp3LXlXT1JmamdZYzgzbmt0U1RwXzgteE9WQUFMcUx4TlRoRzdYdjI3OUpLekR1aHVROFV2OC1UY1NMU3RLSDdDVWpLcFJLMzg4RFZxTVRiaHROQ1JkR2Z2X3p2d05PTGpLRFk5S2NXa3pGWXhSNUFjMDFUREJiSGIyUEd2anNQTFdqaXdhRklKVDdaYzNTWi1KNHltRXFWQ0FzQVM2T2lwUVFpR183Qk1oekV1VHZoYVNaQlQ5Mkw0MnlUVG5rOUhsaEpXMjhDaWVfcG8xc2hfMnJINDg5bXpoNVBWV1Rv0gGSAkFVX3lxTE9SWjBQeFFKLUplLVYyNnRKWmxnLWZhZUpuOHFCQXFvZGpiaEFHVVZKaUtZME94clRFbFZIejZnUkduSGwxczFBU1ZuVUxWLTl6NHBOeF8yMkpmUGhWQ2h2STEwSkJNZm9PWGRIdDd2YkgwZFl2ZWZQckE5Z3FnM2xlSjZHem9lQnVhTEd1Q1RKTVAxeHE5bnJfOWp1N3V2eFJXTXh0ZjNRa0VrY284M1RnOVVuaUdfRUhDZllIY3RfZFVSVDlIZGIxMS0yUmRiU09jRDR5YnJDV1hxOGhkVC00X05tWXVidlNpS0tHVlR1N2JBdmxaY1dpUjd1Q2tWVEFLVTVCcmtqVmtyUldybDBpZHc?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 04:41:26 GMT"
     },
     {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView",
-      "source": "TradingView",
+      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - tradingview.com",
+      "source": "tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUF9yc1dtakp4OG9GOWJ6elRVNVFvTGRRRHVBWUhMaXpXblE4dWtOckpWcHExRmYxTHZ3RTdveV92VW5LcXExa081eVlwT0kzSjh0eFlZVzJVQ0lkWllCaHRQc25fQkFnSmVfMkxhaDN1V3hDYjNTamwyWGVhR1ExUGxWd3JyZzZOQlBta1BjQ0lRR1NxYTU4dm9PaE5NSUd3RTNhdlRwQ2hkUnp3emUySUJ0a0ttOFdrdXlMTGVvaGE5dURoXzhZMy13WnR1eTRSZWJDazluOXRmSlRhM0FKVVlwVG95ZXJGUGt0c21hbEZnczBpUjRhLVhmTQ?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 07:52:08 GMT"
     },
@@ -158,16 +174,16 @@
       "publishedAt": "Sun, 20 Sep 2026 06:00:06 GMT"
     },
     {
-      "title": "Crude oil, West Asia situation likely to drive stock market this week - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHBSME96bEhqQjEtU2UwUEdicVlXLXdsVklvTVkwckJKWWcyWFZRMml0N252RUZaTEJhMkZRb3VheDAxYjBZdGdBQklGcVRieUZkeDJYWVZXcGRUY0ZKYUZHUGtnT3I5WkkyM3ZSX2N2aEJmY0NHMm5XLWtBVFBnSTUyN3pDQVhLcVZueXZNR1lmeDQtVnRFdktRX09fNlJYODFQLWw3eVNNNWNaNDY1U3lodlViQlhOWGlHSl9Xei0yVnUyRGMzQktiM0taTDFl0gHWAUFVX3lxTE1oMGNSQ1pYYU5jU1NuTTc4WmZOQTNFdEo3NzhHc0k5MEV1SVVqRnVGM2c1ZlpHdzlsYWNRTm5qSGdab0QtYTF4eDdDV2NZM1A1bXVYTGd6T2NhT3cyaVFsRzY1cXp5X1dYanFyVjlqdGloN1lQTlU1M0JDSURUVks0Vlc5a2xRVW5TN3ZnTm1EbHJoZk81Wi03SDNzMGtqbV9xOHdGak5vNlJHWVlrTkFHY2pDWXBkc1l5c2J3ckFtbmVWSGhZdVlMRnpQdWo2ZTFVWmgySlE?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 06:39:16 GMT"
-    },
-    {
       "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaXBSZzFvWEJoWUd6WTJvWDR6d1JhTUpiRGQyUGJTRUZVZGR0dHNwR01MR3ZWREY3NG56TFVXZlNNcVl3alNuNU5oWkFBMU4wamlkcGEtYmt5VzdsZ1B2UlJiZlA1TURfSm5hLTB2Q2VZb3lNZS1meHZ0Mkw0TTNmY2Z6bThxRmlRYTJGOEpsU0cwYTYzSE1iRWhFYVpNLTVSZktSMjd0NU9iODdUYnJfWlp6bUwya3RlWG91dUJJRHVJNzNlZDllQnVoOW5aT0x2dHRXa3BDTE13Y0tkTmFj?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 11:18:48 GMT"
+    },
+    {
+      "title": "Crude oil, West Asia situation likely to drive stock market this week - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHBSME96bEhqQjEtU2UwUEdicVlXLXdsVklvTVkwckJKWWcyWFZRMml0N252RUZaTEJhMkZRb3VheDAxYjBZdGdBQklGcVRieUZkeDJYWVZXcGRUY0ZKYUZHUGtnT3I5WkkyM3ZSX2N2aEJmY0NHMm5XLWtBVFBnSTUyN3pDQVhLcVZueXZNR1lmeDQtVnRFdktRX09fNlJYODFQLWw3eVNNNWNaNDY1U3lodlViQlhOWGlHSl9Xei0yVnUyRGMzQktiM0taTDFl0gHWAUFVX3lxTE1oMGNSQ1pYYU5jU1NuTTc4WmZOQTNFdEo3NzhHc0k5MEV1SVVqRnVGM2c1ZlpHdzlsYWNRTm5qSGdab0QtYTF4eDdDV2NZM1A1bXVYTGd6T2NhT3cyaVFsRzY1cXp5X1dYanFyVjlqdGloN1lQTlU1M0JDSURUVks0Vlc5a2xRVW5TN3ZnTm1EbHJoZk81Wi03SDNzMGtqbV9xOHdGak5vNlJHWVlrTkFHY2pDWXBkc1l5c2J3ckFtbmVWSGhZdVlMRnpQdWo2ZTFVWmgySlE?oc=5",
+      "publishedAt": "Sun, 20 Sep 2026 06:39:16 GMT"
     },
     {
       "title": "Sensex, Nifty opening: Will stock markets crash again today? Paytm to be in focus - India Today",
@@ -180,12 +196,6 @@
       "source": "Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZjFYa3JlZjM1azhfaTJtemJ4ZzVjRTc4R3p4WHJ0M1NFY25Jc21OQnlPRDhWbGJTRnZRd2x5VFdXdHJWNHNNM0RlV3Q3Ym9xWlZXeVRZZFlQQ3RFb0gwVk50aGkxdldfWldxcmRodU5VQUVZdW1QMHc5VGdUWm1lUDJ3LVpPdzVUbTk3bGFLYk80SlBiUEhNazA3b1lzT2lzbmI0cUliZ0UzMkhTV1ktTnRIdTdZMWpiQW95UkI1MjVBNzJSWE92ZGN3cHF3cWZSYUZyYjNhRQ?oc=5",
       "publishedAt": "Sat, 19 Sep 2026 11:35:23 GMT"
-    },
-    {
-      "title": "Market Close Report Today, September 17, 2026: Nifty, Sensex End Mixed Amid Fed Hike, NSE IPO - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1MtSDZuS2prNGQxQS03anVpZEk3amZNOElqeC1abWVwVnRVY3RjbDFaLWRhNF9janZQYjg0MDZoaFVfNlBOLVBzUlZxUHhUdzUyMlI2TjQyVlVmbElYSWxyaE5NMURCUnVKazhhNUp4bzJ5VlI3eGxUTVdhT0lpZ2U5bGFmYjIteTdLZ3ZTNGtPbzNWdzFRQ3dOUUZCZWdfUEZudUJTdFc3djRMa0JkTC04bw?oc=5",
-      "publishedAt": "Thu, 17 Sep 2026 10:47:00 GMT"
     },
     {
       "title": "Top stocks in focus tomorrow: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers - Livemint",
