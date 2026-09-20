@@ -123,16 +123,67 @@ export default function App() {
           </div>
 
           <div style={{ margin: '0 10px 30px 10px' }}>
-            <h4 style={{ margin: '0 0 12px 0', fontSize: 14, color: 'var(--accent)', fontWeight: 500 }}>MAIN HIGHLIGHTS</h4>
-            <ul>
-              {data?.whatHappening?.map((w, i) => (
-                <li key={i} style={{ marginBottom: 12, background: 'var(--bg-card)', padding: '16px 16px 16px 0', border: '1px solid var(--card-border)', borderRadius: 'var(--border-smooth)', display: 'flex', alignItems: 'center', gap: 12, overflow: 'hidden' }}>
-                  <span style={{ width: 10, height: 10, borderRadius: '0 50% 50% 0', background: 'var(--accent)', display: 'inline-block', flexShrink: 0 }} />
-                  <span style={{ lineHeight: 1.5, fontSize: 14 }}>{w}</span>
-                </li>
-              )) || <li>Tracking live news...</li>}
-            </ul>
-          </div>
+  <h4
+    style={{
+      margin: '0 0 12px 0',
+      fontSize: 14,
+      color: 'var(--accent)',
+      fontWeight: 500,
+    }}
+  >
+    MAIN HIGHLIGHTS
+  </h4>
+
+  <div
+    style={{
+      background: 'var(--bg-card)',
+      borderRadius: 'var(--border-smooth)',
+      padding: '4px 16px',
+      border: '1px solid var(--card-border)',
+    }}
+  >
+    {data?.whatHappening?.map((w, i) => (
+      <div
+        key={i}
+        style={{
+          display: 'flex',
+          gap: 14,
+          padding: '14px 0',
+          borderBottom:
+            i < data.whatHappening.length - 1
+              ? '1px solid var(--card-border)'
+              : 'none',
+        }}
+      >
+        <span
+          style={{
+            fontSize: 12,
+            fontWeight: 600,
+            color: 'var(--accent)',
+            opacity: 0.8,
+            minWidth: 20,
+            paddingTop: 2,
+          }}
+        >
+          {String(i + 1).padStart(2, '0')}
+        </span>
+
+        <span
+          style={{
+            lineHeight: 1.5,
+            fontSize: 14,
+          }}
+        >
+          {w}
+        </span>
+      </div>
+    )) || (
+      <div style={{ padding: '14px 0', fontSize: 13 }}>
+        Tracking live news...
+      </div>
+    )}
+  </div>
+</div>
 
           <div style={{ margin: '0 10px 30px 10px' }}>
             <h4 style={{ margin: '0 0 12px 0', fontSize: 14, color: 'var(--accent)', fontWeight: 500 }}>TRENDING STOCKS</h4>
