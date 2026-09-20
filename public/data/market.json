@@ -1,28 +1,38 @@
 {
-  "headline": "Last session: Markets closed for weekend; crude oil, Tata Trusts dispute, and stock triggers in focus",
+  "headline": "Last session: Indian markets traded with caution as global warnings and upcoming domestic corporate triggers kept investors on edge.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 22 September.",
-    "nextOpen": "Tuesday, 22 September"
+    "nextOpen": "Tuesday, 22 September 2026"
   },
   "why": [
-    "Indian stock markets are closed today, Sunday, September 20, 2026, due to the weekend.",
-    "Crude oil prices and West Asia developments are expected to drive market direction in the upcoming week.",
-    "Foreign Institutional Investor (FII) actions and global market signals remain critical triggers.",
-    "Major corporate news including executive board disputes at Tata Trusts are keeping sentiment cautious."
+    "Tata Trusts has declared the reappointment of N Chandrasekaran as Tata Sons Chairman to be legally invalid and void ab initio",
+    "Ashiana Housing announced plans to invest Rs 1,000 crore on land acquisition during the current fiscal year",
+    "Geopolitical tensions in West Asia and fluctuations in crude oil prices are expected to drive market sentiment this week",
+    "The Agro Chem Federation of India is seeking a multi-crore scheme to reduce dependence on China for crop protection"
   ],
   "whatHappening": [
-    "Tata Trusts declared the reappointment of N Chandrasekaran as legally invalid and denied any deadlock in board meetings.",
-    "Ashiana Housing announced plans to invest Rs 1,000 crore in land acquisition during the current fiscal year.",
-    "Key stocks including Mazagon Dock, RVNL, and Nestle India are set to be in focus for the upcoming trading sessions.",
-    "Government policy updates mandate that non-eKYC households will only receive smaller LPG refills at market prices after October 1."
+    "Gwalior is set to host Asia's first telecom manufacturing zone with 24 companies currently seeking entry",
+    "NSE shareholders have retained significant stakes even after participating in the recent Offer for Sale",
+    "New regulations for LPG refills will require eKYC completion by October 1 to avoid market-price charges for households",
+    "Market analysts are monitoring GIFT Nifty and other Asian indices for cues ahead of the next trading session"
   ],
   "stocksInNews": [
     {
+      "symbol": "TATASTEEL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5,
+        8,
+        9
+      ]
+    },
+    {
       "symbol": "ASHIANA",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         7
       ]
@@ -30,38 +40,38 @@
     {
       "symbol": "MAZDOCK",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        19
+        17
       ]
     },
     {
       "symbol": "RVNL",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        19
+        17
       ]
     },
     {
       "symbol": "NESTLEIND",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        19
+        17
       ]
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         15
       ]
     }
   ],
-  "summary": "The Indian equity market is closed today for the weekend and will reopen shortly. Key market drivers for the coming week include crude oil trends, West Asia updates, and FII trading activity. Meanwhile, corporate updates from Ashiana Housing and Tata Trusts along with stock triggers in Mazagon Dock, RVNL, and Nestle India remain in focus.",
-  "updatedAt": "2026-09-20T16:01:30.201Z",
+  "summary": "The Indian stock market is currently closed for a long weekend and will resume trading on Tuesday. The last session was marked by global market warnings, while weekend developments were dominated by a leadership dispute at Tata Sons and significant investment news from Ashiana Housing. Investors are now looking toward geopolitical cues and domestic manufacturing developments to guide the upcoming reopening.",
+  "updatedAt": "2026-09-20T16:31:33.785Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20",
   "articleKeys": [
@@ -75,16 +85,16 @@
     "ashiana housing to invest rs 1000 crore on land acquisition this fiscal",
     "tata trusts rejects tata sons boards reappointment of chandrasekaran declares vote void ab initio",
     "tata trusts says n chandrasekarans reappointment is legally invalid",
-    "nse national stock exchange of india ltd live sharestock market news updates quotes nseindiacom nse",
     "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingview",
     "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india livemint",
     "share market news nifty 50 outlook prediction liquide blog",
     "ahead of market 10 things that will decide stock market action on monday the economic times",
-    "sensex nifty opening will stock markets crash again today paytm to be in focus india today",
     "crude oil west asia situation likely to drive stock market this week business standard",
+    "sensex nifty opening will stock markets crash again today paytm to be in focus india today",
     "indian stock market outlook next week september 2125 sensex nifty may find support crude fii in focus goodreturns",
+    "top stocks in focus tomorrow mazagon dock rvnl nestle india shares to move sensex nifty monday 21 sept triggers livemint",
     "warren buffett sounds alarm as stock market warning returns for only second time in 155 years the economic times",
-    "top stocks in focus tomorrow mazagon dock rvnl nestle india shares to move sensex nifty monday 21 sept triggers livemint"
+    "stock market today trade guide for sensex nifty 50 crude oil and gold eight stocks to buy livemint"
   ],
   "articles": [
     {
@@ -148,12 +158,6 @@
       "publishedAt": "Sun, 20 Sep 2026 18:02:08 +0530"
     },
     {
-      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE",
-      "source": "NSE",
-      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
-      "publishedAt": "Fri, 18 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView",
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUF9yc1dtakp4OG9GOWJ6elRVNVFvTGRRRHVBWUhMaXpXblE4dWtOckpWcHExRmYxTHZ3RTdveV92VW5LcXExa081eVlwT0kzSjh0eFlZVzJVQ0lkWllCaHRQc25fQkFnSmVfMkxhaDN1V3hDYjNTamwyWGVhR1ExUGxWd3JyZzZOQlBta1BjQ0lRR1NxYTU4dm9PaE5NSUd3RTNhdlRwQ2hkUnp3emUySUJ0a0ttOFdrdXlMTGVvaGE5dURoXzhZMy13WnR1eTRSZWJDazluOXRmSlRhM0FKVVlwVG95ZXJGUGt0c21hbEZnczBpUjRhLVhmTQ?oc=5",
@@ -178,16 +182,16 @@
       "publishedAt": "Sun, 20 Sep 2026 11:18:48 GMT"
     },
     {
-      "title": "Sensex, Nifty opening: Will stock markets crash again today? Paytm to be in focus - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONWZ2NmFEVy1WNUVnWEZ5REwxTUgtNE5CcFRUSW83MFV0a0tjZDNSMmk4V2tRYWMyeVVjV3J4TFBiQ1lSc2djdW85NGtxWmlFZUJxWTRWV0E0SkR1bW93QUU1cHJOaVE5QUJMMUlwVmZKaGNaUDNxeWVQQ1ZYZkNaejdRUHdoRVZDVElFMjdQdEswUmdBMG1kbVpQRGFQOVpTVDQxYllRRTBxN0NsTk5lZlo1cXNZX1BIMHJzU3ZJSS1GbFJNaEJ3bG9Lcjg5S0puSWJJaXdndU9rcE52QzBrVlJuTklma0g0Vng4aVprdzF3Uk3SAfgBQVVfeXFMUHZtZDRFMU5EWGVXd2o0bDdJaDV0MGM2SDQ2VnR0eDdEdk9HZThBeFBlbndmZ3J4SkNRcG1lLTdrVk81ck1qX0ZhT1E0cDh6WHQ4dUZkeE1fTFVPVEMzc1piZzFERlJ6OWxuYUp6R1BmV2FKdEs4cU5qZktyaTJWeEVtc1hEUU9xcFFRb2RkTWNBbC1OWkFGZHRqUDQ0TlN6SjFlTWhYcHh0VGozb3duR0NMSXVlcndhbTRGektxSnRGUjRRc2FKZ3NQcFAzNXdiSXVxRzhJOFVOZWRKWURyRjl4QV90NEFueXI3NllTN2ZuYjktU2M0UE4?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 03:19:22 GMT"
-    },
-    {
       "title": "Crude oil, West Asia situation likely to drive stock market this week - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHBSME96bEhqQjEtU2UwUEdicVlXLXdsVklvTVkwckJKWWcyWFZRMml0N252RUZaTEJhMkZRb3VheDAxYjBZdGdBQklGcVRieUZkeDJYWVZXcGRUY0ZKYUZHUGtnT3I5WkkyM3ZSX2N2aEJmY0NHMm5XLWtBVFBnSTUyN3pDQVhLcVZueXZNR1lmeDQtVnRFdktRX09fNlJYODFQLWw3eVNNNWNaNDY1U3lodlViQlhOWGlHSl9Xei0yVnUyRGMzQktiM0taTDFl0gHWAUFVX3lxTE1oMGNSQ1pYYU5jU1NuTTc4WmZOQTNFdEo3NzhHc0k5MEV1SVVqRnVGM2c1ZlpHdzlsYWNRTm5qSGdab0QtYTF4eDdDV2NZM1A1bXVYTGd6T2NhT3cyaVFsRzY1cXp5X1dYanFyVjlqdGloN1lQTlU1M0JDSURUVks0Vlc5a2xRVW5TN3ZnTm1EbHJoZk81Wi03SDNzMGtqbV9xOHdGak5vNlJHWVlrTkFHY2pDWXBkc1l5c2J3ckFtbmVWSGhZdVlMRnpQdWo2ZTFVWmgySlE?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 06:39:16 GMT"
+    },
+    {
+      "title": "Sensex, Nifty opening: Will stock markets crash again today? Paytm to be in focus - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONWZ2NmFEVy1WNUVnWEZ5REwxTUgtNE5CcFRUSW83MFV0a0tjZDNSMmk4V2tRYWMyeVVjV3J4TFBiQ1lSc2djdW85NGtxWmlFZUJxWTRWV0E0SkR1bW93QUU1cHJOaVE5QUJMMUlwVmZKaGNaUDNxeWVQQ1ZYZkNaejdRUHdoRVZDVElFMjdQdEswUmdBMG1kbVpQRGFQOVpTVDQxYllRRTBxN0NsTk5lZlo1cXNZX1BIMHJzU3ZJSS1GbFJNaEJ3bG9Lcjg5S0puSWJJaXdndU9rcE52QzBrVlJuTklma0g0Vng4aVprdzF3Uk3SAfgBQVVfeXFMUHZtZDRFMU5EWGVXd2o0bDdJaDV0MGM2SDQ2VnR0eDdEdk9HZThBeFBlbndmZ3J4SkNRcG1lLTdrVk81ck1qX0ZhT1E0cDh6WHQ4dUZkeE1fTFVPVEMzc1piZzFERlJ6OWxuYUp6R1BmV2FKdEs4cU5qZktyaTJWeEVtc1hEUU9xcFFRb2RkTWNBbC1OWkFGZHRqUDQ0TlN6SjFlTWhYcHh0VGozb3duR0NMSXVlcndhbTRGektxSnRGUjRRc2FKZ3NQcFAzNXdiSXVxRzhJOFVOZWRKWURyRjl4QV90NEFueXI3NllTN2ZuYjktU2M0UE4?oc=5",
+      "publishedAt": "Wed, 16 Sep 2026 03:19:22 GMT"
     },
     {
       "title": "Indian Stock Market Outlook Next Week, September 21-25: Sensex, Nifty May Find Support; Crude, FII in Focus - Goodreturns",
@@ -196,16 +200,22 @@
       "publishedAt": "Sat, 19 Sep 2026 11:35:23 GMT"
     },
     {
+      "title": "Top stocks in focus tomorrow: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWxvdXFhWGY2SFNpWHpidkhhYkxUREt4ZkM2U29KalBiQVRxN08zeF9TMmhLUFpCRjNrS2dBU2ZVSEU3dk1UNFNsWDk1SXZsUEZwMnVraHRkT0w1b1p2dV9vQ196OF9zU0VVV2Z3TnVWVzU0VG9oX0xBOGpXenNIMGNuLVdRTmxkYXFZMEpNNHJLRzBYSWRfOGlFQjhPVWNMMXRDQkRNSWZZZzdwZTd5eXo2VU1Nd2xWN19QcjVCOEtzcDdZUWdWdmo4dXhxMjRTZEZhLVdrY3FrMndoRmNsZlRmb04xcHRoc0ZycW44MXFKWm5GYm5fSVNFU3BHMFYzNWd3Sk1Gc2dCMjBLWHfSAZMCQVVfeXFMUGFpcllaX0N6aUh3VUJjdFExOUIyM04wRjZtcGFRRWJCOTJ0U0R5SjgwQUlQZFVtN2QzaEJtOENxZ2otd2txNTAzM1pHRElwSGY1UjZvdnZ3endvc0YtUlhucUFYOElTclpLcGhoaDJ0SUJPM1NKTXNyUnNESDRGU3BNZ0E2VWFteW9xb2d0Xzh4M2RoVlRPbExOaW50VlFUSmpDOHJQMnJnek1VWF9tRUVrT0lxWXZxeGZmeG9NRHRDaGJIVXNoVFcxUUdOUEIycnNJam9xdTdMNWlndHFZeXBxNEFhc0ZnY3ZFeTJPZ0ZyUHN6TWZYb3lid01wZ08wZmZ1SGY4Q1ZGUlF6R2tzUHJwc28?oc=5",
+      "publishedAt": "Sun, 20 Sep 2026 10:34:26 GMT"
+    },
+    {
       "title": "Warren Buffett sounds alarm as stock market warning returns for only second time in 155 years - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
       "publishedAt": "Fri, 18 Sep 2026 10:15:00 GMT"
     },
     {
-      "title": "Top stocks in focus tomorrow: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers - Livemint",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy - Livemint",
       "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWxvdXFhWGY2SFNpWHpidkhhYkxUREt4ZkM2U29KalBiQVRxN08zeF9TMmhLUFpCRjNrS2dBU2ZVSEU3dk1UNFNsWDk1SXZsUEZwMnVraHRkT0w1b1p2dV9vQ196OF9zU0VVV2Z3TnVWVzU0VG9oX0xBOGpXenNIMGNuLVdRTmxkYXFZMEpNNHJLRzBYSWRfOGlFQjhPVWNMMXRDQkRNSWZZZzdwZTd5eXo2VU1Nd2xWN19QcjVCOEtzcDdZUWdWdmo4dXhxMjRTZEZhLVdrY3FrMndoRmNsZlRmb04xcHRoc0ZycW44MXFKWm5GYm5fSVNFU3BHMFYzNWd3Sk1Gc2dCMjBLWHfSAZMCQVVfeXFMUGFpcllaX0N6aUh3VUJjdFExOUIyM04wRjZtcGFRRWJCOTJ0U0R5SjgwQUlQZFVtN2QzaEJtOENxZ2otd2txNTAzM1pHRElwSGY1UjZvdnZ3endvc0YtUlhucUFYOElTclpLcGhoaDJ0SUJPM1NKTXNyUnNESDRGU3BNZ0E2VWFteW9xb2d0Xzh4M2RoVlRPbExOaW50VlFUSmpDOHJQMnJnek1VWF9tRUVrT0lxWXZxeGZmeG9NRHRDaGJIVXNoVFcxUUdOUEIycnNJam9xdTdMNWlndHFZeXBxNEFhc0ZnY3ZFeTJPZ0ZyUHN6TWZYb3lid01wZ08wZmZ1SGY4Q1ZGUlF6R2tzUHJwc28?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 10:34:26 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdU96UFBCZ1VwaGZzN3g4aUVLUzZtUTduMVQtSVZWbGpaRG1aTFRHTGIweFBFMHV1eFYtMmNhZmZWZ2lHdm9qN1NkOXpXUldHU04td01wdEp1NFctQ0ZwdDhMQnFNX0F6c0RhS1hXVXA5cGZCOHkwV0Q4ZXozQXVfWG5EbERnMU1JMWVZYUFneU1mWFpMdUxRMEgwUGx2S2k2ZktGanhrbWptN2JxdDFTQ3QwNlpPUy0xc2Q4R1dlYmQyS3lJcm55WkR6OThxeEloZGU3VEZaZzBDOE0ySVFqWDdkWTlUb0xJNFVTU3ZBTzHSAfYBQVVfeXFMTUdHVzZWS011NEJSbXZPTWhYbDVfWEJ1bTdZdDh0MFJWeGFrbUYxRkVaUy1uWFVrdm12UjV4cnExTmxKRU5uMnctQTFYVUJXdDFoNFpXTUdIRjJOLTBZa05SYVFzNlFOU1piS09pSDZ0VENsT0VhMUhsQ1NZNURQa2ZIeHZQZ2daSlhicXFoZFFqSnNLdXI3QkZ2a2xib2pMc01KT2R6RW9Uai1sSVJraE1QLXNCVjhMVm1UejhkTGRLV0JsWldEZkRyZ1ExYVVST1lqLVZrT0FFSktaYXBrV3JIaXBIMGRGUFVIRHdQQXYzRVBuTkRR?oc=5",
+      "publishedAt": "Fri, 18 Sep 2026 02:02:46 GMT"
     }
   ]
 }
