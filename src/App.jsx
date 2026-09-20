@@ -100,20 +100,60 @@ export default function App() {
 
       {tab === 'now' && (
         <>
-          {/* MARKET STATUS BANNER */}
+          {/* MARKET STATUS */}
           {data?.marketStatus?.message && (
             <div
               style={{
-                margin: '0 10px 15px 10px',
-                padding: '12px 14px',
-                borderRadius: 'var(--border-smooth)',
-                background: '#EF5350',
-                fontSize: 12,
-                fontWeight: 600,
-                lineHeight: 1.4,
+                margin: '0 10px 18px 10px',
+                padding: '9px 12px',
+                display: 'flex',
+                alignItems: 'center',
+                gap: 9,
+                borderBottom: '1px solid var(--card-border)',
+                color: 'var(--text-light)',
+                opacity: 0.75,
               }}
             >
-              {data.marketStatus.message}
+              <span
+                style={{
+                  width: 7,
+                  height: 7,
+                  borderRadius: '50%',
+                  flexShrink: 0,
+                  background: data.marketStatus.isClosed
+                    ? 'var(--neutral)'
+                    : 'var(--positive)',
+                }}
+              />
+
+              <div
+                style={{
+                  minWidth: 0,
+                  lineHeight: 1.3,
+                }}
+              >
+                <div
+                  style={{
+                    fontSize: 10,
+                    fontWeight: 800,
+                    letterSpacing: 0.8,
+                  }}
+                >
+                  {data.marketStatus.isClosed
+                    ? 'MARKET CLOSED'
+                    : 'MARKET OPEN'}
+                </div>
+
+                <div
+                  style={{
+                    marginTop: 2,
+                    fontSize: 10,
+                    opacity: 0.65,
+                  }}
+                >
+                  {data.marketStatus.message}
+                </div>
+              </div>
             </div>
           )}
 
@@ -279,100 +319,97 @@ export default function App() {
           </div>
 
           {/* TRENDING STOCKS */}
-          {/* TRENDING STOCKS */}
-<div style={{ margin: '0 10px 28px 10px' }}>
-  <h4
-    style={{
-      margin: '0 0 12px 0',
-      fontSize: 14,
-      color: 'var(--accent)',
-      fontWeight: 500,
-    }}
-  >
-    TRENDING STOCKS
-  </h4>
-
-  <div
-    style={{
-      background: 'var(--bg-card)',
-      border: '1px solid var(--card-border)',
-      borderRadius: 'var(--border-smooth)',
-      padding: '6px 14px',
-    }}
-  >
-    {data?.stocksInNews?.length > 0 ? (
-      data.stocksInNews.map((s, i) => (
-        <div
-          key={s.symbol || i}
-          style={{
-            display: 'flex',
-            gap: 12,
-            padding: '12px 0',
-            borderBottom:
-              i < data.stocksInNews.length - 1
-                ? '1px solid rgba(255,255,255,0.07)'
-                : 'none',
-          }}
-        >
-          {/* Sentiment indicator */}
-          <span
-            style={{
-              width: 8,
-              height: 8,
-              borderRadius: '50%',
-              background:
-                s.sentiment === 'Positive'
-                  ? 'var(--positive)'
-                  : s.sentiment === 'Negative'
-                    ? 'var(--negative)'
-                    : 'var(--neutral)',
-              flexShrink: 0,
-              marginTop: 5,
-            }}
-          />
-
-          {/* Stock name + explanation */}
-          <div
-            style={{
-              minWidth: 0,
-            }}
-          >
-            <div
+          <div style={{ margin: '0 10px 28px 10px' }}>
+            <h4
               style={{
-                fontSize: 13,
-                fontWeight: 700,
-                lineHeight: 1.3,
+                margin: '0 0 12px 0',
+                fontSize: 14,
+                color: 'var(--accent)',
+                fontWeight: 500,
               }}
             >
-              {s.symbol}
-            </div>
+              TRENDING STOCKS
+            </h4>
 
             <div
               style={{
-                marginTop: 4,
-                fontSize: 11,
-                lineHeight: 1.45,
-                color: 'var(--text-muted)',
+                background: 'var(--bg-card)',
+                border: '1px solid var(--card-border)',
+                borderRadius: 'var(--border-smooth)',
+                padding: '6px 14px',
               }}
             >
-              {s.sources}
+              {data?.stocksInNews?.length > 0 ? (
+                data.stocksInNews.map((s, i) => (
+                  <div
+                    key={s.symbol || i}
+                    style={{
+                      display: 'flex',
+                      gap: 12,
+                      padding: '12px 0',
+                      borderBottom:
+                        i < data.stocksInNews.length - 1
+                          ? '1px solid rgba(255,255,255,0.07)'
+                          : 'none',
+                    }}
+                  >
+                    <span
+                      style={{
+                        width: 8,
+                        height: 8,
+                        borderRadius: '50%',
+                        background:
+                          s.sentiment === 'Positive'
+                            ? 'var(--positive)'
+                            : s.sentiment === 'Negative'
+                              ? 'var(--negative)'
+                              : 'var(--neutral)',
+                        flexShrink: 0,
+                        marginTop: 5,
+                      }}
+                    />
+
+                    <div
+                      style={{
+                        minWidth: 0,
+                      }}
+                    >
+                      <div
+                        style={{
+                          fontSize: 13,
+                          fontWeight: 700,
+                          lineHeight: 1.3,
+                        }}
+                      >
+                        {s.symbol}
+                      </div>
+
+                      <div
+                        style={{
+                          marginTop: 4,
+                          fontSize: 11,
+                          lineHeight: 1.45,
+                          color: 'var(--text-muted)',
+                        }}
+                      >
+                        {s.sources}
+                      </div>
+                    </div>
+                  </div>
+                ))
+              ) : (
+                <div
+                  style={{
+                    padding: '12px 0',
+                    fontSize: 12,
+                    color: 'var(--text-muted)',
+                  }}
+                >
+                  Tracking trending stocks...
+                </div>
+              )}
             </div>
           </div>
-        </div>
-      ))
-    ) : (
-      <div
-        style={{
-          padding: '12px 0',
-          fontSize: 12,
-          color: 'var(--text-muted)',
-        }}
-      >
-        Tracking trending stocks...
-      </div>
-    )}
-  </div>
-</div>
 
           {/* FOOTER NOTE */}
           <div
