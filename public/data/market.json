@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Nifty gained 75 points while Sensex slipped into the red amid volatile trading and mixed global cues.",
+  "headline": "Last session: Sensex slipped into red while Nifty gained 75 points; focus remains on dividends and upcoming support levels.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Geopolitical risks heightened after reports of drone and missile attacks on Saudi Aramco facilities.",
-    "Crude oil price volatility and foreign institutional investor (FII) flows remained primary concerns.",
-    "Uncertainty ahead of a proposed three-day bank strike prompted caution in banking stocks.",
-    "Warnings of potential cyberattack disruptions in the tech and semiconductor ecosystem impacted market mood."
+    "Sensex slipped into the red after the closing auction session (CAS) despite early gains.",
+    "Nifty 50 managed to gain 75 points, showing resilience in the broader market indices.",
+    "Geopolitical tensions rose following Houthi missile attacks on Saudi Aramco facilities in Riyadh.",
+    "Market sentiment was weighed down by uncertainty regarding the new EPFO wage ceiling impact."
   ],
   "whatHappening": [
-    "Nifty gained 75 points during the last trading session while Sensex faced pressure.",
-    "Paytm and Tata group stocks were in key focus due to corporate developments.",
-    "Finance Ministry scheduled discussions with PSB chiefs to manage banking operations during strike days.",
-    "Markets are looking ahead to next week support levels with focus on crude oil and global news."
+    "Dividend-paying stocks like IRCTC, Dixon, and Titagarh Rail Systems saw increased investor interest.",
+    "Small-cap stocks witnessed mixed action as the Sensex and Nifty indices showed divergence.",
+    "Traders are focusing on the upcoming support levels for Nifty between September 21 and 25.",
+    "Paytm remains a key stock in focus for investors following recent market opening trends."
   ],
   "stocksInNews": [
     {
-      "symbol": "PAYTM",
-      "sentiment": "Neutral",
-      "sources": "In focus during opening trade and recent market developments"
+      "symbol": "IRCTC",
+      "sentiment": "Positive",
+      "sources": "Dividend announcement"
     },
     {
-      "symbol": "SBIN",
-      "sentiment": "Negative",
-      "sources": "PSB heads meeting FinMin over upcoming three-day bank strike"
+      "symbol": "DIXON",
+      "sentiment": "Positive",
+      "sources": "Dividend announcement"
+    },
+    {
+      "symbol": "TITAGARH",
+      "sentiment": "Positive",
+      "sources": "Dividend announcement"
+    },
+    {
+      "symbol": "PAYTM",
+      "sentiment": "Neutral",
+      "sources": "Market focus"
     },
     {
       "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "Crude oil volatility following attacks on Saudi Aramco facilities"
+      "sentiment": "Neutral",
+      "sources": "Sensex outlook"
     },
     {
       "symbol": "TCS",
       "sentiment": "Neutral",
-      "sources": "IT sector caution following warnings of cyberattack disruptions"
+      "sources": "Sensex outlook"
     },
     {
       "symbol": "HDFCBANK",
-      "sentiment": "Positive",
-      "sources": "Private banking sector stability holding Nifty gains in last session"
+      "sentiment": "Neutral",
+      "sources": "Sensex outlook"
     },
     {
       "symbol": "INFY",
       "sentiment": "Neutral",
-      "sources": "Tech stocks monitored amid ongoing semiconductor ecosystem developments"
+      "sources": "Sensex outlook"
     },
     {
       "symbol": "ICICIBANK",
-      "sentiment": "Positive",
-      "sources": "Private lenders seeing steady interest ahead of key support levels"
+      "sentiment": "Neutral",
+      "sources": "Sensex outlook"
     },
     {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
-      "sources": "Telecom segment supporting headline indices during last session"
-    },
-    {
-      "symbol": "LT",
-      "sentiment": "Positive",
-      "sources": "Infrastructure focus providing stability to broader market index"
-    },
-    {
-      "symbol": "MARUTI",
-      "sentiment": "Negative",
-      "sources": "Auto sector watching input costs and global crude movements"
+      "symbol": "SBIN",
+      "sentiment": "Neutral",
+      "sources": "Sensex outlook"
     }
   ],
-  "summary": "The Indian stock market ended the last session on a mixed note with Nifty gaining 75 points while Sensex slipped.\nGeopolitical friction in the Middle East and upcoming public sector bank strikes created cautious sentiment among participants.\nInvestors are watching crude oil price trends, FII flows, and global cues for market direction next week.",
-  "updatedAt": "2026-09-20T01:31:12.777Z",
+  "summary": "On the last trading day, the Nifty gained 75 points while the Sensex closed in the red. Investors focused on dividend stocks like IRCTC and Dixon Technologies amid global geopolitical tensions. The market is currently closed for the weekend and will reopen on Monday, September 21.",
+  "updatedAt": "2026-09-20T02:05:03.314Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20"
 }
