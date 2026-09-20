@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Market prepares for Monday open with focus on crude oil, global cues, and IPOs",
+  "headline": "Last session: Markets ended mixed as focus shifted to upcoming IPOs and global geopolitical tensions.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,53 +7,86 @@
     "nextOpen": "Monday, 21 September 2026"
   },
   "why": [
-    "Indian stock markets are closed today for the weekend.",
-    "Crude oil price trends and West Asia developments are expected to influence trading next week.",
-    "Investors are closely tracking GIFT Nifty, Nikkei, and Kospi for early signals ahead of Monday's session.",
-    "Robust primary market activity with multiple IPO filings is keeping market sentiment active."
+    "Market is closed today for the weekend.",
+    "West Asia tensions and crude oil prices are guiding market sentiment.",
+    "Anticipation of the NSE IPO and multiple SME listings this week.",
+    "India's software services exports grew 8.2% to $221.4 billion in FY26."
   ],
   "whatHappening": [
-    "India's software services exports rose 8.2% to $221.4 billion in FY26, per RBI data.",
-    "Six companies are lining up IPOs worth ₹3,825 crore amid brisk primary market momentum.",
-    "Analysts project gold to remain range-bound guided by the dollar index and Middle East tension.",
-    "Key stocks including Mazagon Dock, RVNL, Nestle India, and Paytm are in focus ahead of trading."
+    "Investors are monitoring GIFT Nifty and Asian markets for Monday's opening signals.",
+    "A legal battle is brewing over leadership reappointments at the Tata Group.",
+    "Indian firms are transitioning AI projects from pilot stages to full deployment.",
+    "The ICAI has issued new standards for sustainability assurance reporting."
   ],
   "stocksInNews": [
     {
-      "symbol": "MAZDOCK",
+      "symbol": "NSE",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 2/9 sources",
       "articleIds": [
+        8,
         17
       ]
     },
     {
-      "symbol": "RVNL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
+      "symbol": "MAZDOCK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        17
+        18
+      ]
+    },
+    {
+      "symbol": "RVNL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        18
       ]
     },
     {
       "symbol": "NESTLEIND",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        17
+        18
       ]
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         15
       ]
+    },
+    {
+      "symbol": "LIQVD",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "SONA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "VARMORA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        8
+      ]
     }
   ],
-  "summary": "Indian stock markets are closed today for the weekend and will reopen on Monday, 21 September.\nTraders are eyeing global cues, crude oil movements, and West Asia developments to gauge market direction.\nPrimary market momentum remains strong alongside steady growth in India's software services exports.",
-  "updatedAt": "2026-09-20T12:01:33.454Z",
+  "summary": "The Indian market is closed for the weekend and will reopen on Monday, September 21. Investors are monitoring global cues like West Asia tensions while preparing for a busy week of IPOs, including the NSE. Key stocks such as Mazagon Dock and RVNL are expected to be in focus when trading resumes.",
+  "updatedAt": "2026-09-20T12:32:24.690Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20",
   "articleKeys": [
@@ -70,13 +103,13 @@
     "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india livemint",
     "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingview",
     "share market news nifty 50 outlook prediction liquide blog",
-    "crude oil west asia situation likely to drive stock market this week business standard",
     "ahead of market 10 things that will decide stock market action on monday the economic times",
+    "crude oil west asia situation likely to drive stock market this week businessstandardcom",
     "sensex nifty opening will stock markets crash again today paytm to be in focus india today",
     "indian stock market outlook next week september 2125 sensex nifty may find support crude fii in focus goodreturns",
+    "market close report today september 17 2026 nifty sensex end mixed amid fed hike nse ipo hdfc sky",
     "top stocks in focus tomorrow mazagon dock rvnl nestle india shares to move sensex nifty monday 21 sept triggers livemint",
-    "stock market today trade guide for sensex nifty 50 crude oil and gold eight stocks to buy livemint",
-    "6 companies line up ipos worth 3825 cr amid brisk primary market activity business standard"
+    "stock market today trade guide for sensex nifty 50 crude oil and gold eight stocks to buy livemint"
   ],
   "articles": [
     {
@@ -158,16 +191,16 @@
       "publishedAt": "Sun, 20 Sep 2026 06:00:06 GMT"
     },
     {
-      "title": "Crude oil, West Asia situation likely to drive stock market this week - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHBSME96bEhqQjEtU2UwUEdicVlXLXdsVklvTVkwckJKWWcyWFZRMml0N252RUZaTEJhMkZRb3VheDAxYjBZdGdBQklGcVRieUZkeDJYWVZXcGRUY0ZKYUZHUGtnT3I5WkkyM3ZSX2N2aEJmY0NHMm5XLWtBVFBnSTUyN3pDQVhLcVZueXZNR1lmeDQtVnRFdktRX09fNlJYODFQLWw3eVNNNWNaNDY1U3lodlViQlhOWGlHSl9Xei0yVnUyRGMzQktiM0taTDFl0gHWAUFVX3lxTE1oMGNSQ1pYYU5jU1NuTTc4WmZOQTNFdEo3NzhHc0k5MEV1SVVqRnVGM2c1ZlpHdzlsYWNRTm5qSGdab0QtYTF4eDdDV2NZM1A1bXVYTGd6T2NhT3cyaVFsRzY1cXp5X1dYanFyVjlqdGloN1lQTlU1M0JDSURUVks0Vlc5a2xRVW5TN3ZnTm1EbHJoZk81Wi03SDNzMGtqbV9xOHdGak5vNlJHWVlrTkFHY2pDWXBkc1l5c2J3ckFtbmVWSGhZdVlMRnpQdWo2ZTFVWmgySlE?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 06:39:16 GMT"
-    },
-    {
       "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaXBSZzFvWEJoWUd6WTJvWDR6d1JhTUpiRGQyUGJTRUZVZGR0dHNwR01MR3ZWREY3NG56TFVXZlNNcVl3alNuNU5oWkFBMU4wamlkcGEtYmt5VzdsZ1B2UlJiZlA1TURfSm5hLTB2Q2VZb3lNZS1meHZ0Mkw0TTNmY2Z6bThxRmlRYTJGOEpsU0cwYTYzSE1iRWhFYVpNLTVSZktSMjd0NU9iODdUYnJfWlp6bUwya3RlWG91dUJJRHVJNzNlZDllQnVoOW5aT0x2dHRXa3BDTE13Y0tkTmFj0gHkAUFVX3lxTE9TNTFJY3Zpb0ZSbXVGT3RWMjFuQXAyQUdHOWdGcUc3OVVwenhBQ3hHako2MEZwV2U3b254RXAwbUlIYmpDN0hFNUZTVXBTT0VudGZXeVcyclRKY19vSnB1TnJXRTVnWF90VVNWM0RHLWtqV3pUSzREQW0wLUhsRGFCN2lXbnc0SjI3WjlZVFVCRzE3WE1vb1ZCQU1hWmVaamVPcTZDdmRrRXV6SjZwMjRIalduZGVEZnFkT1p3NXV4Y1VyS0VZTzdrYUZpQlhfdjFSbXhaWDA4ajdtWmd4TE9HUTFCXw?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 11:18:48 GMT"
+    },
+    {
+      "title": "Crude oil, West Asia situation likely to drive stock market this week - business-standard.com",
+      "source": "business-standard.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHBSME96bEhqQjEtU2UwUEdicVlXLXdsVklvTVkwckJKWWcyWFZRMml0N252RUZaTEJhMkZRb3VheDAxYjBZdGdBQklGcVRieUZkeDJYWVZXcGRUY0ZKYUZHUGtnT3I5WkkyM3ZSX2N2aEJmY0NHMm5XLWtBVFBnSTUyN3pDQVhLcVZueXZNR1lmeDQtVnRFdktRX09fNlJYODFQLWw3eVNNNWNaNDY1U3lodlViQlhOWGlHSl9Xei0yVnUyRGMzQktiM0taTDFl0gHWAUFVX3lxTE1oMGNSQ1pYYU5jU1NuTTc4WmZOQTNFdEo3NzhHc0k5MEV1SVVqRnVGM2c1ZlpHdzlsYWNRTm5qSGdab0QtYTF4eDdDV2NZM1A1bXVYTGd6T2NhT3cyaVFsRzY1cXp5X1dYanFyVjlqdGloN1lQTlU1M0JDSURUVks0Vlc5a2xRVW5TN3ZnTm1EbHJoZk81Wi03SDNzMGtqbV9xOHdGak5vNlJHWVlrTkFHY2pDWXBkc1l5c2J3ckFtbmVWSGhZdVlMRnpQdWo2ZTFVWmgySlE?oc=5",
+      "publishedAt": "Sun, 20 Sep 2026 06:39:16 GMT"
     },
     {
       "title": "Sensex, Nifty opening: Will stock markets crash again today? Paytm to be in focus - India Today",
@@ -182,6 +215,12 @@
       "publishedAt": "Sat, 19 Sep 2026 11:35:23 GMT"
     },
     {
+      "title": "Market Close Report Today, September 17, 2026: Nifty, Sensex End Mixed Amid Fed Hike, NSE IPO - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1MtSDZuS2prNGQxQS03anVpZEk3amZNOElqeC1abWVwVnRVY3RjbDFaLWRhNF9janZQYjg0MDZoaFVfNlBOLVBzUlZxUHhUdzUyMlI2TjQyVlVmbElYSWxyaE5NMURCUnVKazhhNUp4bzJ5VlI3eGxUTVdhT0lpZ2U5bGFmYjIteTdLZ3ZTNGtPbzNWdzFRQ3dOUUZCZWdfUEZudUJTdFc3djRMa0JkTC04bw?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 10:47:00 GMT"
+    },
+    {
       "title": "Top stocks in focus tomorrow: Mazagon Dock, RVNL, Nestle India shares to move Sensex, Nifty? Monday, 21 Sept | Triggers - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLWxvdXFhWGY2SFNpWHpidkhhYkxUREt4ZkM2U29KalBiQVRxN08zeF9TMmhLUFpCRjNrS2dBU2ZVSEU3dk1UNFNsWDk1SXZsUEZwMnVraHRkT0w1b1p2dV9vQ196OF9zU0VVV2Z3TnVWVzU0VG9oX0xBOGpXenNIMGNuLVdRTmxkYXFZMEpNNHJLRzBYSWRfOGlFQjhPVWNMMXRDQkRNSWZZZzdwZTd5eXo2VU1Nd2xWN19QcjVCOEtzcDdZUWdWdmo4dXhxMjRTZEZhLVdrY3FrMndoRmNsZlRmb04xcHRoc0ZycW44MXFKWm5GYm5fSVNFU3BHMFYzNWd3Sk1Gc2dCMjBLWHfSAZMCQVVfeXFMUGFpcllaX0N6aUh3VUJjdFExOUIyM04wRjZtcGFRRWJCOTJ0U0R5SjgwQUlQZFVtN2QzaEJtOENxZ2otd2txNTAzM1pHRElwSGY1UjZvdnZ3endvc0YtUlhucUFYOElTclpLcGhoaDJ0SUJPM1NKTXNyUnNESDRGU3BNZ0E2VWFteW9xb2d0Xzh4M2RoVlRPbExOaW50VlFUSmpDOHJQMnJnek1VWF9tRUVrT0lxWXZxeGZmeG9NRHRDaGJIVXNoVFcxUUdOUEIycnNJam9xdTdMNWlndHFZeXBxNEFhc0ZnY3ZFeTJPZ0ZyUHN6TWZYb3lid01wZ08wZmZ1SGY4Q1ZGUlF6R2tzUHJwc28?oc=5",
@@ -192,12 +231,6 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdU96UFBCZ1VwaGZzN3g4aUVLUzZtUTduMVQtSVZWbGpaRG1aTFRHTGIweFBFMHV1eFYtMmNhZmZWZ2lHdm9qN1NkOXpXUldHU04td01wdEp1NFctQ0ZwdDhMQnFNX0F6c0RhS1hXVXA5cGZCOHkwV0Q4ZXozQXVfWG5EbERnMU1JMWVZYUFneU1mWFpMdUxRMEgwUGx2S2k2ZktGanhrbWptN2JxdDFTQ3QwNlpPUy0xc2Q4R1dlYmQyS3lJcm55WkR6OThxeEloZGU3VEZaZzBDOE0ySVFqWDdkWTlUb0xJNFVTU3ZBTzHSAfYBQVVfeXFMTUdHVzZWS011NEJSbXZPTWhYbDVfWEJ1bTdZdDh0MFJWeGFrbUYxRkVaUy1uWFVrdm12UjV4cnExTmxKRU5uMnctQTFYVUJXdDFoNFpXTUdIRjJOLTBZa05SYVFzNlFOU1piS09pSDZ0VENsT0VhMUhsQ1NZNURQa2ZIeHZQZ2daSlhicXFoZFFqSnNLdXI3QkZ2a2xib2pMc01KT2R6RW9Uai1sSVJraE1QLXNCVjhMVm1UejhkTGRLV0JsWldEZkRyZ1ExYVVST1lqLVZrT0FFSktaYXBrV3JIaXBIMGRGUFVIRHdQQXYzRVBuTkRR?oc=5",
       "publishedAt": "Fri, 18 Sep 2026 02:02:46 GMT"
-    },
-    {
-      "title": "6 companies line up IPOs worth ₹3,825 cr amid brisk primary market activity - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdWMzY0JhNlJGWXVnbDhOaFQzQzkxOTgtMjc1MzlJQk1mSVh3SGNQUy1xVzYyTlg4R1hJcU5VY3RoZnM5bVFWZDBneGhlcHhtb1BfazZhZTFoSDNDV3J1VFRGcFAwRndhT2MwWERoUTJqUzMwM0RhdTUwNVAtOUM4aC14N0Zybml3MWZIUE92RTdpMy1LZTRBSFh4Sm9OMW1YNHA2OUlsTWdWNzVyTmtCREdRX2dxT1ZveW5ZUlEyUk04Y3k2a0JlaVhtZWVCQjJ3a1VIajlseWLSAd4BQVVfeXFMUEtWQUxsYUx1cm5PQUlYUDc5LU9rRkRGaVF3MVNBbnA0em5PY3ZkNElReG1DdU1RUFJpOXRySTE2a1pjV2ZlajJiMmlsR2FHQXBBWFNpczI3ai1yWmFxUUJPQ0drUXNBVEpkTEg3b2xqNnN3dXV5aDV5MmM1OHQ3U3ROajZrWl9wMlFBWGIta0RoZU8wLVBkWWRfT3RIcWpNa0xod3NISjBZUC1Nb09pa3FxUHVDY0VpYjFYQkREenZzMXYwN2VLZ3ZnTE5fSGJwYUdWbXY2Rm84TTUyd21n?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 06:36:26 GMT"
     }
   ]
 }
