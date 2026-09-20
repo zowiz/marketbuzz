@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Indian markets ended Friday's trade as investors prepared for a long weekend and monitored global cues.",
+  "headline": "Last session: Nifty faced pressure reaching oversold levels; market closed today as Tata Trusts disputes leadership reappointment",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,26 +7,24 @@
     "nextOpen": "Tuesday, 22 September 2026"
   },
   "why": [
-    "Market is closed for the weekend and an upcoming holiday, reopening on Tuesday.",
-    "Tata Trusts has declared the reappointment of Tata Sons Chairman N Chandrasekaran as void.",
-    "Geopolitical tensions in West Asia and crude oil price volatility are impacting sentiment.",
-    "Strong growth in India's software services exports was reported by the RBI for FY26."
+    "The market is closed today for the weekend.",
+    "Tata Trusts has challenged the reappointment of N Chandrasekaran as Tata Sons Chairman.",
+    "Geopolitical tensions in West Asia and rising crude oil prices are weighing on sentiment.",
+    "Technical indicators suggest Nifty is in oversold territory, eyeing a potential pullback."
   ],
   "whatHappening": [
-    "A leadership dispute has surfaced between Tata Trusts and the Tata Sons Board over the Chairman's role.",
-    "Mazagon Dock, RVNL, and Nestle India are identified as key stocks to watch for the next trading session.",
-    "RBI data indicates software services exports reached $221.4 billion, an 8.2% increase in FY26.",
-    "A new SME IPO for Liqvd Digital India is scheduled to open on September 23."
+    "Tata Trusts declared the Tata Sons Board's reappointment of N Chandrasekaran as 'void ab initio'.",
+    "Ashiana Housing plans to spend Rs 1,000 crore on land acquisition during the current fiscal year.",
+    "NSE shareholders maintained their holdings despite the recent Offer for Sale process.",
+    "New regulations will restrict LPG refills for non-eKYC households starting October 1."
   ],
   "stocksInNews": [
     {
-      "symbol": "TCS",
-      "sentiment": "Negative",
+      "symbol": "ASHIANA",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0,
-        1,
-        4
+        3
       ]
     },
     {
@@ -62,27 +60,27 @@
       ]
     }
   ],
-  "summary": "The Indian stock market is closed and will reopen on Tuesday, September 22, 2026. The weekend is marked by a major leadership conflict at Tata Sons and positive RBI data on software exports. Investors are also keeping a close watch on West Asia tensions and global commodity prices.",
-  "updatedAt": "2026-09-20T13:32:02.968Z",
+  "summary": "The Indian market is closed for the weekend, with focus on the escalating leadership dispute at Tata Sons. Ashiana Housing announced a significant Rs 1,000 crore investment for land acquisition. Traders are eyeing a potential Nifty pullback from oversold levels when markets reopen on Tuesday.",
+  "updatedAt": "2026-09-20T14:05:30.411Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20",
   "articleKeys": [
+    "nses shareholders retain significant stake even after tendering shares in ofs",
+    "tata trusts denies any deadlock at september 17 board meeting disputes casting vote mandate",
+    "after october 1 nonekyc households will only receive smaller lpg refills at market prices",
+    "ashiana housing to invest rs 1000 crore on land acquisition this fiscal",
     "tata trusts rejects tata sons boards reappointment of chandrasekaran declares vote void ab initio",
+    "tata trusts says n chandrasekarans reappointment is legally invalid",
     "why the tata sons board and majorityowner tata trusts are in conflict explained",
+    "trade setup for sept 21 nifty bulls eye pullback from oversold levels key resistance at 23400",
+    "usiran war cost hits 451 billion pentagon tells congress",
     "mule accounts the money trail of cyber fraudsters",
-    "bhutans gelephu city opens new fund family office regime from oct 1",
-    "tata trusts calls chandras reappointment void questions casting vote",
-    "ahead of market 10 things that will decide stock market action on monday",
-    "anthropic accenture to invest 2 billion in ai model evaluation as safety concerns rise",
-    "sme ipo liqvd digital india issue to open on sep 23 price band fixed at rs 5154",
-    "gold likely to stay rangebound next week as dollar west asia tensions guide market analysts",
-    "indias software services exports rise 82 to 2214 bn in fy26 rbi data",
     "nse national stock exchange of india ltd live sharestock market news updates quotes nseindiacom nse india",
     "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india livemint",
-    "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingviewcom",
+    "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingview",
     "share market news nifty 50 outlook prediction liquide blog",
     "ahead of market 10 things that will decide stock market action on monday the economic times",
-    "crude oil west asia situation likely to drive stock market this week business standard",
+    "crude oil west asia situation likely to drive stock market this week businessstandardcom",
     "sensex nifty opening will stock markets crash again today paytm to be in focus india today",
     "indian stock market outlook next week september 2125 sensex nifty may find support crude fii in focus goodreturns",
     "top stocks in focus tomorrow mazagon dock rvnl nestle india shares to move sensex nifty monday 21 sept triggers livemint",
@@ -90,10 +88,40 @@
   ],
   "articles": [
     {
+      "title": "NSE's Shareholders Retain Significant Stake Even After Tendering Shares In OFS",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/nses-shareholders-retain-significant-stake-even-after-tendering-shares-in-ofs-12072518#publisher=newsstand",
+      "publishedAt": "Sun, 20 Sep 2026 18:49:53 +0530"
+    },
+    {
+      "title": "Tata Trusts denies any deadlock at September 17 Board meeting, disputes casting vote mandate",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/tata-trusts-rejects-tata-sons-boards-reappointment-of-chandrasekaran-declares-vote-void-ab-initio/article71487711.ece",
+      "publishedAt": "Sun, 20 Sep 2026 18:47:54 +0530"
+    },
+    {
+      "title": "After October 1, non-eKYC households will only receive smaller LPG refills at market prices",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/after-october-1-only-smaller-5-or-10-kg-lpg-refills-await-non-ekyc-households/article71485908.ece",
+      "publishedAt": "Sun, 20 Sep 2026 18:39:38 +0530"
+    },
+    {
+      "title": "Ashiana Housing To Invest Rs 1,000 Crore On Land Acquisition This Fiscal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/ashiana-housing-to-invest-rs-1-000-crore-on-land-acquisition-this-fiscal-12072529#publisher=newsstand",
+      "publishedAt": "Sun, 20 Sep 2026 18:16:52 +0530"
+    },
+    {
       "title": "Tata Trusts rejects Tata Sons Board’s reappointment of Chandrasekaran; declares vote ‘void ab initio’",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Industry/tata-trusts-rejects-tata-sons-boards-reappointment-of-chandrasekaran-declares-vote-void-ab-initio/article71487711.ece",
       "publishedAt": "Sun, 20 Sep 2026 18:06:09 +0530"
+    },
+    {
+      "title": "Tata Trusts Says N Chandrasekaran's Reappointment Is Legally Invalid",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/tata-trusts-says-n-chandrasekarans-reappointment-is-legally-invalid-12072401#publisher=newsstand",
+      "publishedAt": "Sun, 20 Sep 2026 18:02:08 +0530"
     },
     {
       "title": "Why the Tata Sons Board and majority-owner Tata Trusts are in conflict | Explained",
@@ -102,52 +130,22 @@
       "publishedAt": "Sun, 20 Sep 2026 17:59:29 +0530"
     },
     {
+      "title": "Trade Setup For Sept 21: Nifty Bulls Eye Pullback From Oversold Levels; Key Resistance At 23,400",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/trade-setup-for-sept-21-nifty-bulls-eye-pullback-from-oversold-levels-key-resistance-at-23-400-12066490#publisher=newsstand",
+      "publishedAt": "Sun, 20 Sep 2026 17:56:45 +0530"
+    },
+    {
+      "title": "US-Iran War Cost Hits $45.1 Billion, Pentagon Tells Congress",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/us-iran-war-cost-hits-45-1-billion-pentagon-tells-congress-12072265#publisher=newsstand",
+      "publishedAt": "Sun, 20 Sep 2026 17:43:27 +0530"
+    },
+    {
       "title": "Mule accounts: the money trail of cyber fraudsters",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/mule-accounts-the-money-trail-of-cyber-fraudsters/article71454867.ece",
       "publishedAt": "Sun, 20 Sep 2026 17:40:29 +0530"
-    },
-    {
-      "title": "Bhutan's Gelephu City opens new fund, family office regime from Oct 1",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/bhutan-s-gelephu-city-opens-new-fund-family-office-regime-from-oct-1-126092000514_1.html",
-      "publishedAt": "Sun, 20 Sep 2026 17:07:56 +0530"
-    },
-    {
-      "title": "Tata Trusts calls Chandra's reappointment 'void', questions casting vote",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/noel-tata-trusts-chandrasekaran-reappointment-casting-vote-tata-sons-126092000508_1.html",
-      "publishedAt": "Sun, 20 Sep 2026 17:04:48 +0530"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134367341.cms",
-      "publishedAt": "Sun, 20 Sep 2026 16:48:48 +0530"
-    },
-    {
-      "title": "Anthropic, Accenture to invest $2 billion in AI model evaluation as safety concerns rise",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/sci-tech/technology/anthropic-accenture-to-invest-2-billion-in-ai-model-evaluation-as-safety-concerns-rise/article71483760.ece",
-      "publishedAt": "Sun, 20 Sep 2026 16:44:14 +0530"
-    },
-    {
-      "title": "SME IPO: Liqvd Digital India issue to open on Sep 23; price band fixed at Rs 51-54",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sme-ipo-liqvd-digital-india-issue-to-open-on-sep-23-price-band-fixed-at-rs-51-54/articleshow/134367283.cms",
-      "publishedAt": "Sun, 20 Sep 2026 16:44:10 +0530"
-    },
-    {
-      "title": "Gold likely to stay range-bound next week as dollar, West Asia tensions guide market: Analysts",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-likely-to-stay-range-bound-next-week-as-dollar-west-asia-tensions-guide-market-analysts/articleshow/134367215.cms",
-      "publishedAt": "Sun, 20 Sep 2026 16:42:00 +0530"
-    },
-    {
-      "title": "India's software services exports rise 8.2% to $221.4 bn in FY26: RBI data",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/india-s-software-services-exports-rise-8-2-to-221-4-bn-in-fy26-rbi-data-126092000478_1.html",
-      "publishedAt": "Sun, 20 Sep 2026 16:41:38 +0530"
     },
     {
       "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
@@ -162,8 +160,8 @@
       "publishedAt": "Sun, 20 Sep 2026 04:41:26 GMT"
     },
     {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - tradingview.com",
-      "source": "tradingview.com",
+      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView",
+      "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUF9yc1dtakp4OG9GOWJ6elRVNVFvTGRRRHVBWUhMaXpXblE4dWtOckpWcHExRmYxTHZ3RTdveV92VW5LcXExa081eVlwT0kzSjh0eFlZVzJVQ0lkWllCaHRQc25fQkFnSmVfMkxhaDN1V3hDYjNTamwyWGVhR1ExUGxWd3JyZzZOQlBta1BjQ0lRR1NxYTU4dm9PaE5NSUd3RTNhdlRwQ2hkUnp3emUySUJ0a0ttOFdrdXlMTGVvaGE5dURoXzhZMy13WnR1eTRSZWJDazluOXRmSlRhM0FKVVlwVG95ZXJGUGt0c21hbEZnczBpUjRhLVhmTQ?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 07:52:08 GMT"
     },
@@ -180,8 +178,8 @@
       "publishedAt": "Sun, 20 Sep 2026 11:18:48 GMT"
     },
     {
-      "title": "Crude oil, West Asia situation likely to drive stock market this week - Business Standard",
-      "source": "Business Standard",
+      "title": "Crude oil, West Asia situation likely to drive stock market this week - business-standard.com",
+      "source": "business-standard.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHBSME96bEhqQjEtU2UwUEdicVlXLXdsVklvTVkwckJKWWcyWFZRMml0N252RUZaTEJhMkZRb3VheDAxYjBZdGdBQklGcVRieUZkeDJYWVZXcGRUY0ZKYUZHUGtnT3I5WkkyM3ZSX2N2aEJmY0NHMm5XLWtBVFBnSTUyN3pDQVhLcVZueXZNR1lmeDQtVnRFdktRX09fNlJYODFQLWw3eVNNNWNaNDY1U3lodlViQlhOWGlHSl9Xei0yVnUyRGMzQktiM0taTDFl0gHWAUFVX3lxTE1oMGNSQ1pYYU5jU1NuTTc4WmZOQTNFdEo3NzhHc0k5MEV1SVVqRnVGM2c1ZlpHdzlsYWNRTm5qSGdab0QtYTF4eDdDV2NZM1A1bXVYTGd6T2NhT3cyaVFsRzY1cXp5X1dYanFyVjlqdGloN1lQTlU1M0JDSURUVks0Vlc5a2xRVW5TN3ZnTm1EbHJoZk81Wi03SDNzMGtqbV9xOHdGak5vNlJHWVlrTkFHY2pDWXBkc1l5c2J3ckFtbmVWSGhZdVlMRnpQdWo2ZTFVWmgySlE?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 06:39:16 GMT"
     },
