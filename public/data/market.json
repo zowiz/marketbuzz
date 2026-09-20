@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex slipped into red while Nifty gained 75 points; focus remains on dividends and upcoming support levels.",
+  "headline": "On last trading day, Nifty gained 75 points while Sensex slipped into red; smallcaps outperformed amid dividend stock focus.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,71 +7,71 @@
     "nextOpen": "Monday, 21 September"
   },
   "why": [
-    "Sensex slipped into the red after the closing auction session (CAS) despite early gains.",
-    "Nifty 50 managed to gain 75 points, showing resilience in the broader market indices.",
-    "Geopolitical tensions rose following Houthi missile attacks on Saudi Aramco facilities in Riyadh.",
-    "Market sentiment was weighed down by uncertainty regarding the new EPFO wage ceiling impact."
+    "Sensex slipped into the red following profit booking in major banking and financial heavyweights.",
+    "Nifty 50 managed to gain 75 points, supported by gains in specific sectoral indices.",
+    "The market faced headwinds from rising global crude oil prices and geopolitical uncertainty.",
+    "Mixed performance was seen as investors weighed domestic policy changes against global cues."
   ],
   "whatHappening": [
-    "Dividend-paying stocks like IRCTC, Dixon, and Titagarh Rail Systems saw increased investor interest.",
-    "Small-cap stocks witnessed mixed action as the Sensex and Nifty indices showed divergence.",
-    "Traders are focusing on the upcoming support levels for Nifty between September 21 and 25.",
-    "Paytm remains a key stock in focus for investors following recent market opening trends."
+    "Smallcap stocks witnessed buying interest, helping the Nifty index stay in positive territory.",
+    "Market participants reacted to the news of missile attacks on Saudi Aramco facilities.",
+    "Several stocks entered focus as investors prepared for upcoming dividend payouts.",
+    "Concerns over FII outflows and rising crude oil prices influenced the trading session's volatility."
   ],
   "stocksInNews": [
     {
       "symbol": "IRCTC",
       "sentiment": "Positive",
-      "sources": "Dividend announcement"
+      "sources": "Dividend Stocks This Week"
     },
     {
       "symbol": "DIXON",
       "sentiment": "Positive",
-      "sources": "Dividend announcement"
+      "sources": "Dividend Stocks This Week"
     },
     {
       "symbol": "TITAGARH",
       "sentiment": "Positive",
-      "sources": "Dividend announcement"
+      "sources": "Dividend Stocks This Week"
     },
     {
       "symbol": "PAYTM",
       "sentiment": "Neutral",
-      "sources": "Market focus"
+      "sources": "Paytm to be in focus"
+    },
+    {
+      "symbol": "ONGC",
+      "sentiment": "Negative",
+      "sources": "Saudi Aramco Facilities"
+    },
+    {
+      "symbol": "BPCL",
+      "sentiment": "Negative",
+      "sources": "Crude, FII in Focus"
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
-      "sources": "Sensex outlook"
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Neutral",
-      "sources": "Sensex outlook"
+      "sources": "Sensex, Nifty opening"
     },
     {
       "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "Sensex outlook"
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Neutral",
-      "sources": "Sensex outlook"
+      "sentiment": "Negative",
+      "sources": "Sensex slips into red"
     },
     {
       "symbol": "ICICIBANK",
-      "sentiment": "Neutral",
-      "sources": "Sensex outlook"
+      "sentiment": "Negative",
+      "sources": "Sensex slips into red"
     },
     {
       "symbol": "SBIN",
-      "sentiment": "Neutral",
-      "sources": "Sensex outlook"
+      "sentiment": "Negative",
+      "sources": "Sensex slips into red"
     }
   ],
-  "summary": "On the last trading day, the Nifty gained 75 points while the Sensex closed in the red. Investors focused on dividend stocks like IRCTC and Dixon Technologies amid global geopolitical tensions. The market is currently closed for the weekend and will reopen on Monday, September 21.",
-  "updatedAt": "2026-09-20T02:05:03.314Z",
+  "summary": "The Indian market ended the last session mixed with Nifty gaining 75 points while Sensex slipped into the red. Investors are currently monitoring dividend stocks and the potential impact of new EPFO wage ceiling regulations. Markets remain closed for the weekend and will reopen on Monday with a focus on geopolitical developments.",
+  "updatedAt": "2026-09-20T02:31:37.778Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-20"
 }
