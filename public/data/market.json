@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Rises Over 400 Points, Nifty Near 23,400 as Crude Oil Prices Ease",
+  "headline": "Sensex and Nifty climb as cooling oil prices and foreign fund inflows boost market sentiment",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,48 +7,65 @@
     "nextOpen": ""
   },
   "why": [
-    "Crude oil prices eased by over 2.5%, providing a boost to Indian equities.",
-    "Inflow of foreign funds provided support to benchmark indices Sensex and Nifty.",
-    "Strong buying momentum in key sectors such as Nifty Pharma, which rose over 1%.",
-    "Positive performance from large-cap gainers like Sun Pharma and HCL Tech."
+    "Crude oil prices cooled down by over 2.5% despite ongoing Middle East tensions",
+    "Return of foreign institutional funds boosted investor confidence in Indian equities",
+    "The Indian Rupee strengthened by 24 paise against the U.S. dollar in early trade",
+    "Positive global cues from Asian markets including Nikkei and Kospi supported the opening"
   ],
   "whatHappening": [
-    "Sensex surged over 400 points while Nifty traded above the 23,350 mark.",
-    "Welspun Corp jumped 5% following a Rs 2,000 crore order win from Saudi Aramco.",
-    "Tata Chemicals and Tata Investment Corp fell up to 3% amid ongoing boardroom dispute news.",
-    "Gold prices dropped Rs 1,331 per 10 grams and silver fell Rs 1,600 per kg."
+    "Sensex jumped over 450 points while Nifty 50 held firmly above the 23,350 level",
+    "HDFC Life and Sun Pharma emerged as top gainers during the morning trading session",
+    "Reliance Industries shares have dropped 21% so far in 2026, wiping out Rs 4 lakh crore in value",
+    "The NSE IPO was booked 1.46 times on its third day of bidding with focus on GMP"
   ],
   "stocksInNews": [
     {
-      "symbol": "WELCORP",
+      "symbol": "HDFCLIFE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "TATACHEM",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "TATAINVEST",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        7
+        0
       ]
     },
     {
       "symbol": "SUNPHARMA",
       "sentiment": "Positive",
+      "sources": "Mentioned by 2/10 sources",
+      "articleIds": [
+        0,
+        16
+      ]
+    },
+    {
+      "symbol": "HEG",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        17
+        3
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "HAL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "ESCORTS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        6
       ]
     },
     {
@@ -56,104 +73,112 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        17
+        16
       ]
     },
     {
-      "symbol": "PAYTM",
+      "symbol": "PINELABS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        6
+        2
+      ]
+    },
+    {
+      "symbol": "NSE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        8
       ]
     }
   ],
-  "summary": "Indian benchmark indices opened on a strong note on September 21, with the Sensex rising over 400 points and Nifty holding above 23,350.\nA decline of over 2.5% in crude oil prices and gains in pharma and tech stocks boosted market sentiment.\nWelspun Corp surged on a massive order win, whereas Tata group stocks Tata Chemicals and Tata Investment Corp saw declines.",
-  "updatedAt": "2026-09-21T05:31:16.854Z",
+  "summary": "Indian markets opened higher on Monday with the Sensex gaining over 400 points, driven by a significant drop in crude oil prices. Key gainers included Sun Pharma and HDFC Life, while Reliance Industries faced continued selling pressure. Investor sentiment was further supported by a strengthening rupee and the return of foreign institutional investment.",
+  "updatedAt": "2026-09-21T05:46:21.575Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-21",
   "articleKeys": [
-    "automotive major stellantis takes full control of india manufacturing jv",
-    "stock market live sensex rises 400 pts nifty near 23400 nifty pharma rises over 1",
-    "gold prices fall rs 133110 gram silver dips rs 1600kg as mideast tensions outweigh oil fall key levels to track",
-    "ather energy among 5 fampo stocks with a sharp rise in futures open interest",
-    "us market fed rate path oil prices and ai concerns to shape wall street this week",
-    "goldman sachs names 5 power generation stocks that are ai enablers amid soaring demand",
-    "one97 communications among 4 stocks closed crossing above vwap",
-    "tata chemicals tata investment corp shares fall up to 3 as boardroom battle likely to reach court",
-    "welspun corp shares rally 5 as firm bags rs 2000 crore order from saudi aramco stock up over 230 ytd",
-    "sc says cbdt circular not binding in courts rejects section 80hhc claim",
+    "stock market live sensex gains 300 pts nifty above 23350 hdfc life sun pharma top gainers",
+    "rupee rises 24 paise to 9572 against us dollar in early trade",
+    "pine labs rated buy by motilal oswal on coverage initiation check target price",
+    "heg shares rally 5 after receiving rs 21756 crore order from indus towers for lithiumion battery banks",
+    "ril selloff wipes off rs 4 lakh crore from market value as shares drop 21 in 2026 so far should you buy now",
+    "defence stock in focus hal share price jumps nearly 2 heres why",
+    "escorts kubota appoints manish sharma to lead its agri business operations",
+    "sensex jumps 400 points nifty nears 23400 as oil prices cool down despite middle east tensions what lies ahead",
+    "nse ipo day 3 issue booked 146 times check gmp price band and other key details",
+    "manika plastech shares list flat on nse bse",
     "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingview",
     "stock market opening today will sensex nifty rise or fall india today",
-    "how asian markets crude will impact sensex nifty today what gift nifty nikkei kospi taiwan signals for india livemintcom",
+    "how asian markets crude will impact sensex nifty today what gift nifty nikkei kospi taiwan signals for india livemint",
+    "stock market today gift nifty middle east conflict to oil prices five key factors for sensex nifty 50 on sept 21 ndtv profit",
     "stock markets climb oil eases foreign funds boost sensex nifty rediff moneywiz",
     "sensex jumps over 400 points nifty holds above 23360 as crude oil prices ease dd india",
-    "stock market today gift nifty middle east conflict to oil prices five key factors for sensex nifty 50 on sept 21 ndtv profit",
-    "sensex nifty may open flat amid geopolitical tensions us tariff risks businessline",
     "sensex today trades higher nifty above 23350 sun pharma hcl tech top gainers equitymaster",
     "sensex surges over 450 points nifty50 above 23350 as crude drops over 25 upstoxcom",
-    "stock market prediction for today sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india livemintcom"
+    "stock markets today sensex nifty climb as oil prices cool foreign funds return rediff",
+    "stock market prediction for today sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india livemint"
   ],
   "articles": [
     {
-      "title": "Automotive major Stellantis takes full control of India manufacturing JV",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/stellantis-takes-full-control-of-india-jv-to-nearly-triple-output-by-2027-126092000617_1.html",
-      "publishedAt": "Mon, 21 Sep 2026 10:05:30 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex rises 400 pts, Nifty near 23,400; Nifty Pharma rises over 1%",
+      "title": "Stock Market LIVE: Sensex gains 300 pts, Nifty above 23,350; HDFC Life, Sun Pharma top gainers",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-september-21-bse-sensex-today-nifty-gift-nifty-nse-ipo-manika-plastech-listing-126092100059_1.html",
-      "publishedAt": "Mon, 21 Sep 2026 10:00:49 +0530"
+      "publishedAt": "Mon, 21 Sep 2026 11:02:53 +0530"
     },
     {
-      "title": "Gold prices fall Rs 1,331/10 gram, silver dips Rs 1,600/kg as Mideast tensions outweigh oil fall: Key levels to track",
+      "title": "Rupee rises 24 paise to 95.72 against U.S. dollar in early trade",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1331/10-gram-silver-dips-rs-1600/kg-as-mideast-tensions-outweigh-oil-fall-key-levels-to-track/articleshow/134379699.cms",
-      "publishedAt": "Mon, 21 Sep 2026 09:55:34 +0530"
+      "link": "https://www.thehindu.com/business/markets/rupee-rises-24-paise-to-9572-against-us-dollar-in-early-trade/article71490203.ece",
+      "publishedAt": "Mon, 21 Sep 2026 11:00:31 +0530"
     },
     {
-      "title": "Ather Energy among 5 F&amp;O stocks with a sharp rise in futures open interest",
+      "title": "Pine Labs Rated 'Buy' By Motilal Oswal On Coverage Initiation — Check Target Price",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134379781.cms",
-      "publishedAt": "Mon, 21 Sep 2026 09:49:13 +0530"
+      "link": "https://www.ndtvprofit.com/markets/pine-labs-rated-buy-by-motilal-oswal-on-coverage-initiation-check-target-price-12074687#publisher=newsstand",
+      "publishedAt": "Mon, 21 Sep 2026 10:59:20 +0530"
     },
     {
-      "title": "US Market: Fed rate path, oil prices and AI concerns to shape Wall Street this week",
+      "title": "HEG shares rally 5% after receiving Rs 217.56 crore order from Indus Towers for lithium-ion battery banks",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-rate-path-oil-prices-and-ai-concerns-to-shape-wall-street-this-week/articleshow/134379579.cms",
-      "publishedAt": "Mon, 21 Sep 2026 09:45:26 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/heg-shares-rally-5-after-receiving-rs-217-56-crore-order-from-indus-towers-for-lithium-ion-battery-banks/articleshow/134380584.cms",
+      "publishedAt": "Mon, 21 Sep 2026 10:55:08 +0530"
     },
     {
-      "title": "Goldman Sachs names 5 power generation stocks that are AI enablers amid soaring demand",
+      "title": "RIL selloff wipes off Rs 4 lakh crore from market value as shares drop 21% in 2026 so far. Should you buy now?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-5-power-generation-stocks-that-are-ai-enablers-amid-soaring-demand/slideshow/134379684.cms",
-      "publishedAt": "Mon, 21 Sep 2026 09:43:54 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-selloff-wipes-off-rs-4-lakh-crore-from-market-value-as-shares-drop-21-in-2026-so-far-should-you-buy-now/articleshow/134380690.cms",
+      "publishedAt": "Mon, 21 Sep 2026 10:53:59 +0530"
     },
     {
-      "title": "One97 Communications among 4 stocks closed crossing above VWAP",
+      "title": "Defence Stock In Focus: HAL Share Price Jumps Nearly 2%. Here's Why",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/one97-communications-among-4-stocks-closed-crossing-above-vwap/slideshow/134379615.cms",
-      "publishedAt": "Mon, 21 Sep 2026 09:39:52 +0530"
+      "link": "https://www.ndtvprofit.com/markets/defence-stock-in-focus-hal-share-price-jumps-nearly-2-heres-why-12074569#publisher=newsstand",
+      "publishedAt": "Mon, 21 Sep 2026 10:53:27 +0530"
     },
     {
-      "title": "Tata Chemicals, Tata Investment Corp shares fall up to 3% as boardroom battle likely to reach court",
+      "title": "Escorts Kubota appoints Manish Sharma to lead its Agri Business operations",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-tata-investment-corp-shares-fall-up-to-3-as-boardroom-battle-likely-to-reach-court/articleshow/134379458.cms",
-      "publishedAt": "Mon, 21 Sep 2026 09:37:35 +0530"
+      "link": "https://www.business-standard.com/companies/people/escorts-kubota-appoints-manish-sharma-to-lead-its-agri-business-operations-126092100191_1.html",
+      "publishedAt": "Mon, 21 Sep 2026 10:53:13 +0530"
     },
     {
-      "title": "Welspun Corp shares rally 5% as firm bags Rs 2,000 crore order from Saudi Aramco; stock up over 230% YTD",
+      "title": "Sensex jumps 400 points, Nifty nears 23,400 as oil prices cool down despite Middle East tensions. What lies ahead?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-corp-shares-in-focus-as-firm-bags-rs-2000-crore-order-from-saudi-aramco-stock-up-over-230-ytd/articleshow/134379420.cms",
-      "publishedAt": "Mon, 21 Sep 2026 09:32:49 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-nears-23400-as-oil-prices-cool-down-despite-middle-east-tensions-what-lies-ahead/articleshow/134380591.cms",
+      "publishedAt": "Mon, 21 Sep 2026 10:50:09 +0530"
     },
     {
-      "title": "SC says CBDT circular not binding in courts, rejects Section 80HHC claim",
+      "title": "NSE IPO Day 3: Issue Booked 1.46 Times; Check GMP, Price Band, And Other Key Details",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/sc-says-cbdt-circular-not-binding-in-courts-rejects-section-80hhc-claim-126092100120_1.html",
-      "publishedAt": "Mon, 21 Sep 2026 09:31:46 +0530"
+      "link": "https://www.ndtvprofit.com/markets/nse-ipo-day-3-check-subscription-status-gmp-price-band-and-other-key-details-12074220#publisher=newsstand",
+      "publishedAt": "Mon, 21 Sep 2026 10:47:55 +0530"
+    },
+    {
+      "title": "Manika Plastech Shares List Flat On NSE, BSE",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/manika-plastech-shares-list-flat-on-nse-bse-12074642#publisher=newsstand",
+      "publishedAt": "Mon, 21 Sep 2026 10:47:18 +0530"
     },
     {
       "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView",
@@ -168,10 +193,16 @@
       "publishedAt": "Mon, 21 Sep 2026 03:34:16 GMT"
     },
     {
-      "title": "How Asian markets, crude will impact Sensex, Nifty today: What GIFT Nifty, Nikkei, Kospi, Taiwan signals for India - livemint.com",
-      "source": "livemint.com",
+      "title": "How Asian markets, crude will impact Sensex, Nifty today: What GIFT Nifty, Nikkei, Kospi, Taiwan signals for India - Livemint",
+      "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNR2NNb2xyN1pud0hLYjRsaGVLZDgyZ1dpUlpYOGpzRGY2dVdlMktoSU5vUndCV2Flb3picGpUX0k5eXFXeThvT2ZHZVRkN1owQk5TR21SQ2FfTkY4NWY3WjdPc1NsaHZFZHM1bGN0MWViTnphZGZSYXV0UW9acmJvNHlLU0dUR2xBN1N6RklnNEZxR2J2RmNzTDhDZVVhUVdac3dvaklNZTVtdktGSFhvaEU3bzhER1RNMUdRMUdCbDFXRktDX1ZRRERUMGVfRzU4THRBOC1Ha3dhVnZpb3JoTnp2VGZsMVFCbUY1THJRVER1VzAzSUlpanQwd0YzVW5EU1VqSzhXLTBRZ9IBjwJBVV95cUxQeWxZTGd3VU1oZWxlMjN6bmFUVVBRSXBVMFNXMXpoNkV4U2JjMlJydGZZenRTaEhTdTI4SUpxQ04zSVFpend1NTFsZUJtNF9SbTlaa3pIVXlidHRjM2V5M0NQcV9tZWlpOGJDZDZCZ20xd3lLMF9FdVhfbmtyTE9XRTFIcVBackRNaXJsYWhJekdHMnFXbzZqUmdubVU1WllZbmh1c255bWNNYlJLZEVYcjdwYThpS2xYM21hb1BsTXg0TnhoX3VnMEV1T3RIdG9BRDRFZ2pkUlBjd0NlN200RGJBMlZnRWhjM0hMN1FSS3lIUV9kR0RCR0xaVjlMQTE5WmJiRnJ1S3RLa3YzT01z?oc=5",
       "publishedAt": "Mon, 21 Sep 2026 01:22:09 GMT"
+    },
+    {
+      "title": "Stock Market Today: Gift Nifty, Middle East Conflict To Oil Prices — Five Key Factors For Sensex, Nifty 50 On Sept 21 - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVkRiOVAxUVUyNmFudlZYQ25JVnBoV1cwNGNWRVBoS2RGMjlIbEJOcEZpa1Nndy1KOHlzS3k4UFF5S3N0RzY4SXMyLW1wUnNWckxYTnAwVEUzY3VFNExzWWFYUUJOWDR6R3dob3BBMTlvSGNHOUV6UlR3THp3SXI3dzZZTE5UWDVKenk0VVUwZGJ6cm8wTERvNXZSQ0kyNE91VFcxMVFjMnNwMWNuRVpVYXY2ajh0LTRvYlR0S3pQeXRZOC02ZGphSW9tQlBzc0xUejFCLV8xQzZkclBpNDZzRFlhY1pwellvRHVWbtIB9AFBVV95cUxOb3BxNTZXcHRaalBVX2dzcTRfUVB2QTdseGY5a2NaYmNGTEtNdEthTXJjdi0tX0l1cnh5V25wOE5Zb3BFTXRqSkVUeUdQUE9RYXdhbGdoUkp2TGw3N3ZxcjZRREpnY2lkcUlTeDFZQjNYYkRsZWJXQWlKc1ZIQUwwaWpSMEpGOC02bXpyRWlPZmpMYU5QRmlna1JWQ0M0RUZOTkpNeUQ2SG5aUDhOVHdMUWtvaVV4TEpILUNfQzFXVmd3NTZDZXlMSnA5V2JJeHozNGdUM3U3ZUhNSWs4UTlpRjlnbDRhU1pPTjU4Umx0ek9mYUJI?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 01:22:26 GMT"
     },
     {
       "title": "Stock Markets Climb: Oil Eases, Foreign Funds Boost Sensex, Nifty - Rediff MoneyWiz",
@@ -186,18 +217,6 @@
       "publishedAt": "Mon, 21 Sep 2026 04:28:00 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty, Middle East Conflict To Oil Prices — Five Key Factors For Sensex, Nifty 50 On Sept 21 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVkRiOVAxUVUyNmFudlZYQ25JVnBoV1cwNGNWRVBoS2RGMjlIbEJOcEZpa1Nndy1KOHlzS3k4UFF5S3N0RzY4SXMyLW1wUnNWckxYTnAwVEUzY3VFNExzWWFYUUJOWDR6R3dob3BBMTlvSGNHOUV6UlR3THp3SXI3dzZZTE5UWDVKenk0VVUwZGJ6cm8wTERvNXZSQ0kyNE91VFcxMVFjMnNwMWNuRVpVYXY2ajh0LTRvYlR0S3pQeXRZOC02ZGphSW9tQlBzc0xUejFCLV8xQzZkclBpNDZzRFlhY1pwellvRHVWbtIB9AFBVV95cUxOb3BxNTZXcHRaalBVX2dzcTRfUVB2QTdseGY5a2NaYmNGTEtNdEthTXJjdi0tX0l1cnh5V25wOE5Zb3BFTXRqSkVUeUdQUE9RYXdhbGdoUkp2TGw3N3ZxcjZRREpnY2lkcUlTeDFZQjNYYkRsZWJXQWlKc1ZIQUwwaWpSMEpGOC02bXpyRWlPZmpMYU5QRmlna1JWQ0M0RUZOTkpNeUQ2SG5aUDhOVHdMUWtvaVV4TEpILUNfQzFXVmd3NTZDZXlMSnA5V2JJeHozNGdUM3U3ZUhNSWs4UTlpRjlnbDRhU1pPTjU4Umx0ek9mYUJI?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 01:22:26 GMT"
-    },
-    {
-      "title": "Sensex, Nifty may open flat amid geopolitical tensions, US tariff risks - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQekNTYzhxejRWNTNXbEdjX0hqM1BtblZENkh0OWpOdDRDYWE3Z0NybEkzMmxPR2otLUswcDRIeXFGSkFIc2F2cWpiaDJBdUp1YkZUMmNhbHdFUWRNZDFISmZCMmEtWEktVVdzY1B1elhnWGZjQnRoWklYeVp2bEozU0pMaVBpbHBFdEVyb2E3dWdMYmNNZmxkazN6Y1BDZEJSUWs3S0dxTzA5N3lJamdWVFJaVWk0d2ZJTTdqOGs0TGtCWW1KOGFrM1RDNDZGOFk2Zm530gHaAUFVX3lxTE8xZ2U5Vk1leF92a1h4SXRmQVdGSzc4cjdSbDhnNUZFNmxabUtCSnY2ZlFHQlo2X194aU9sZ2NWWGlBeWJ6TFZiQzFQbUhneFVyMXZrSjliRUd1RlVKVkNsc1ZQdDVqSUw3UFY1ZFJKQ3NiUkhjSzI4NUJrNDQ1R2dBbUtrT0k0X1pyM2p2bEZmb010REdNV185WVdjdEpyWXIyS3FuUEFlc1RuQlNKU3A2alAzVmN2bUZEa3RGZ0FqejNROHhvR2hrOHZTOVhtN0lmTVhJZXRnZ1pR?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 02:15:35 GMT"
-    },
-    {
       "title": "Sensex Today Trades Higher | Nifty Above 23,350 | Sun Pharma & HCL Tech Top Gainers - Equitymaster",
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0daeXdCSjhreWZPYnpPMjlxSnYyTVdEZXNmV1pCSThUWDBKUHVzd0YwekFIQktyRWI0WHdXSVlSVTNrZ2dMOWYtbjVLeVpiYWRWLTdMYUp5dUZtR0kzUERidXVjZFhOYWQzb0ZGR0VxWWtXeTRSbXFVTm50V2xhc0tyX2w2MnN4X0p5azJCTE92ZF9QN25TZllEUlVWdnpvS01SSTN0R25BMDZUMXJneGtaVUJuX0tuR0VmYld4SzVMMlprUnkzWWg3QlRCQUs2dC1TUXJR?oc=5",
@@ -210,8 +229,14 @@
       "publishedAt": "Mon, 21 Sep 2026 04:06:15 GMT"
     },
     {
-      "title": "Stock market prediction for today: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - livemint.com",
-      "source": "livemint.com",
+      "title": "Stock Markets Today: Sensex, Nifty climb as oil prices cool, foreign funds return - Rediff",
+      "source": "Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWUN4ZERGYmpZSk9XdEJWdElsdW1jc1R3SnVPNVFwaXdaNkpvSDJVY2VZWEd3WFU1YTVWZEtub0RtckJ0c0VTbTFOUUQ1bVRvV0ttcVJKbW5McUZMaU9hUDZwOG1MVEp4OWJSTkItUzZLVUlhd1pNbFNZYnZucW1qWE1DdmJxRGVVajNzQTVCcE5ET0pHQ3RqXzJHcm1fZ095WDN3bHR2X1o3ZW1iOU53aGFZeEpQemFRRkpWOXdKZGx3VzZuVjNTSE5vbDRJQi00b2cwWDNQS0hfd9IB3AFBVV95cUxOczM1RGZZRkFSMGtDU3NGRDhlOF9kUFdmQnVwM0ZQNzRKOWQ2Sk11VjV6QTBsWTl2THo0UlhrZG9lbnM2aklUWk1KelJsTGMxU29QVjF2WUlYSFhkV19EbjQ4Y0taOFdjZ2E4bmJ2bVZLcWk3bmNaYTBSbHpuWFRUTklzMXhUU0tFaHBraXFNUzI0ejRGUXNuVFR3TmczdXN2OVdpVzRiWUNwT0w0eDJmZEhwWUZnaW9HaWZmdDBMSkg2VFA5WHdBdmZhZDY4S2l1WGxTWmhleS1KOU5D?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 05:20:33 GMT"
+    },
+    {
+      "title": "Stock market prediction for today: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
+      "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0ZiRUpZZXE0ZjA4dUhlTW80bW83Y3BMYXN1X0lNYlZCcjRveEp3LXlXT1JmamdZYzgzbmt0U1RwXzgteE9WQUFMcUx4TlRoRzdYdjI3OUpLekR1aHVROFV2OC1UY1NMU3RLSDdDVWpLcFJLMzg4RFZxTVRiaHROQ1JkR2Z2X3p2d05PTGpLRFk5S2NXa3pGWXhSNUFjMDFUREJiSGIyUEd2anNQTFdqaXdhRklKVDdaYzNTWi1KNHltRXFWQ0FzQVM2T2lwUVFpR183Qk1oekV1VHZoYVNaQlQ5Mkw0MnlUVG5rOUhsaEpXMjhDaWVfcG8xc2hfMnJINDg5bXpoNVBWV1Rv0gGSAkFVX3lxTE9SWjBQeFFKLUplLVYyNnRKWmxnLWZhZUpuOHFCQXFvZGpiaEFHVVZKaUtZME94clRFbFZIejZnUkduSGwxczFBU1ZuVUxWLTl6NHBOeF8yMkpmUGhWQ2h2STEwSkJNZm9PWGRIdDd2YkgwZFl2ZWZQckE5Z3FnM2xlSjZHem9lQnVhTEd1Q1RKTVAxeHE5bnJfOWp1N3V2eFJXTXh0ZjNRa0VrY284M1RnOVVuaUdfRUhDZllIY3RfZFVSVDlIZGIxMS0yUmRiU09jRDR5YnJDV1hxOGhkVC00X05tWXVidlNpS0tHVlR1N2JBdmxaY1dpUjd1Q2tWVEFLVTVCcmtqVmtyUldybDBpZHc?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 04:41:26 GMT"
     }
