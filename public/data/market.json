@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets trade volatile as IT stocks drag benchmarks while steel prices hit four-year high",
+  "headline": "Sensex and Nifty Volatile as IT Stocks Drag; SpiceJet Under Scrutiny and NSE IPO Sees Strong Interest",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,29 +7,38 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex fell 330 points and Nifty ended below 23,350 driven down by IT stocks.",
-    "Steel prices reached a four-year high with the strong pricing trend expected to persist in H2.",
-    "Aviation Ministry confirmed DGCA is conducting operational and financial checks on SpiceJet.",
-    "Global market cues and crude price adjustments continue to create volatility across domestic benchmarks."
+    "IT sector weakness led to a decline in major indices, with Nifty falling below 23,350",
+    "The DGCA has initiated operational and financial audits on SpiceJet",
+    "The NSE IPO concluded its final day with a strong 6x subscription rate",
+    "Volatility is expected due to persistent US inflation risks and global economic cues"
   ],
   "whatHappening": [
-    "DGCA has initiated operational and financial audits on SpiceJet.",
-    "Steel prices surged to four-year highs according to industry reports.",
-    "India launched anti-dumping investigations against imports of Glycine chemical from China.",
-    "NSE's IPO received 6x subscription on its final day while 20 investment bankers earned ₹186 crore in fees."
+    "Internal tensions at Tata Sons and Tata Trusts were reported regarding a potential casting vote clash",
+    "Steel prices have reached a four-year high, impacting industrial sectors",
+    "India has launched anti-dumping investigations into Glycine chemical imports from China",
+    "PhonePe secured approval for two payment licenses from the UAE central bank"
   ],
   "stocksInNews": [
     {
       "symbol": "SPICEJET",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         2
       ]
+    },
+    {
+      "symbol": "NSE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/10 sources",
+      "articleIds": [
+        8,
+        16
+      ]
     }
   ],
-  "summary": "Indian equities experienced volatility as IT stock sell-offs dragged Sensex down 330 points and Nifty below 23,350. Steel stocks face tailwinds as steel prices hit four-year highs, while SpiceJet comes under pressure following DGCA operational and financial checks. Traders remain cautious amid mixed global cues and volatile crude oil trends.",
-  "updatedAt": "2026-09-22T19:01:57.544Z",
+  "summary": "The Indian stock market is navigating volatility as IT stocks drag the Nifty below 23,350, while SpiceJet faces regulatory audits by the DGCA. Investor interest remains high in the primary market, with the NSE IPO concluding with a 6x subscription. Global factors, including US inflation risks and crude oil price corrections, continue to influence domestic sentiment.",
+  "updatedAt": "2026-09-22T19:31:05.535Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-23",
   "articleKeys": [
@@ -46,13 +55,13 @@
     "indian stock market outlook next week 2327 march sensex nifty likely to trade volatile with negative bias goodreturns",
     "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingview",
     "stock market today sensex falls 330 points nifty ends below 23350 it stocks drag markets apac media",
-    "sensex nifty open marginally higher over crude price correction dd india",
-    "stock market today gift nifty nasdaq rally to oil prices five key factors for sensex nifty 50 on september 22 ndtv profit",
+    "sensex nifty open marginally higher over crude price correction ddindiacoin",
     "stock market prediction for today sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india livemint",
+    "stock market today gift nifty nasdaq rally to oil prices five key factors for sensex nifty 50 on september 22 ndtv profit",
     "stock market today sensex nifty see positive start nse ipo receives 6x subscription on final day business news hindustan times",
     "sensex nifty prediction today how asian markets crude will impact indian markets gift nifty kospi taiwan signals tradingview",
     "ahead of market 10 things that will decide stock market action on wednesday the economic times",
-    "stock market prediction tomorrow sensex nifty outlook for wed kospi taiwan index nikkei cues to watch 23 sept livemint"
+    "sensex nifty open in green on easing crude softer us bond yields chinimandi"
   ],
   "articles": [
     {
@@ -134,22 +143,22 @@
       "publishedAt": "Tue, 22 Sep 2026 11:34:24 GMT"
     },
     {
-      "title": "Sensex, Nifty open marginally higher over crude price correction - DD India",
-      "source": "DD India",
+      "title": "Sensex, Nifty open marginally higher over crude price correction - ddindia.co.in",
+      "source": "ddindia.co.in",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDhlWUhXSS1jTkx6SUhVQU1uRWM4VlY0Sl9oSUV2VHU1WEMwbXNyempYc1VFbmlMMU1FQ1pidkozcUljU3g4eU9LckNNc3A5YmZzNXVTeml4ZHkzMy1GdS1vdTNYQlJHeV9LdUtWYWlPMWRRN09fNmNDTW4yTVhjZ1JYbkdNcl9aY21tZHNuU2tKTC1BcF9hOGhn?oc=5",
       "publishedAt": "Tue, 22 Sep 2026 06:05:37 GMT"
-    },
-    {
-      "title": "Stock Market Today: Gift Nifty, Nasdaq Rally To Oil Prices — Five Key Factors For Sensex, Nifty 50 On September 22 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcDJjVm5hX2ZPckZxRl9LTmkxeDJwa3FXcTFRUVlxN21IbXA5OGFvWG80ejRVSDZFYUdCOXA1QlF1RGxxTFZwNGhHWVVRRE5vTFQ4RkU1NHJ6Tk44SXVqMHc2SmtjdkM2ZHdZZzZJVU9TVWpMM3BFbHFpTWdpekR5ekdoTDdFVC10MXBFMmdCc2xRRHpLM2oyUmlwTkVubGRyblAyY1BLNjNGN0EzQjhNZEFkemtrdm9LSE1zNG1XSWdOZWt0M2NTdGVTaS00WDJjaEcxeHVfMW5kM0xzaDFtUF90VWIxZU450gHwAUFVX3lxTFBFV0lvTDN6dW03SE1DS2JHa1VVbXFsVXlXeFFJUi1abkwyLWVJYW1CZ2UwVGJ2d0JtRTByeDJXVTV3S1c0MGxoT0ljTXBNMHdDU3g3UHR1cjkzM2tzYVpnT2hDUS1nNXdzNVQ2SWhXM2dTQ1dVZzVFekVkX190WmkxNzZ1Vm9oM3lGSkNyWk52di11d0lCN04welVyRm0xNlQwTmp0cjJFVDJyNEk0MFdLLTB2S1dOZ1ZrM1hOQzZaZGt5aDBHLVJGZDhrZXU0Nnd4UXB2UE1BcnR2NFQ5U3Q3M1QwNndiMG9Ob0RGOC1LSg?oc=5",
-      "publishedAt": "Tue, 22 Sep 2026 01:40:38 GMT"
     },
     {
       "title": "Stock market prediction for today: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0ZiRUpZZXE0ZjA4dUhlTW80bW83Y3BMYXN1X0lNYlZCcjRveEp3LXlXT1JmamdZYzgzbmt0U1RwXzgteE9WQUFMcUx4TlRoRzdYdjI3OUpLekR1aHVROFV2OC1UY1NMU3RLSDdDVWpLcFJLMzg4RFZxTVRiaHROQ1JkR2Z2X3p2d05PTGpLRFk5S2NXa3pGWXhSNUFjMDFUREJiSGIyUEd2anNQTFdqaXdhRklKVDdaYzNTWi1KNHltRXFWQ0FzQVM2T2lwUVFpR183Qk1oekV1VHZoYVNaQlQ5Mkw0MnlUVG5rOUhsaEpXMjhDaWVfcG8xc2hfMnJINDg5bXpoNVBWV1Rv0gGSAkFVX3lxTE9SWjBQeFFKLUplLVYyNnRKWmxnLWZhZUpuOHFCQXFvZGpiaEFHVVZKaUtZME94clRFbFZIejZnUkduSGwxczFBU1ZuVUxWLTl6NHBOeF8yMkpmUGhWQ2h2STEwSkJNZm9PWGRIdDd2YkgwZFl2ZWZQckE5Z3FnM2xlSjZHem9lQnVhTEd1Q1RKTVAxeHE5bnJfOWp1N3V2eFJXTXh0ZjNRa0VrY284M1RnOVVuaUdfRUhDZllIY3RfZFVSVDlIZGIxMS0yUmRiU09jRDR5YnJDV1hxOGhkVC00X05tWXVidlNpS0tHVlR1N2JBdmxaY1dpUjd1Q2tWVEFLVTVCcmtqVmtyUldybDBpZHc?oc=5",
       "publishedAt": "Sun, 20 Sep 2026 04:41:26 GMT"
+    },
+    {
+      "title": "Stock Market Today: Gift Nifty, Nasdaq Rally To Oil Prices — Five Key Factors For Sensex, Nifty 50 On September 22 - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcDJjVm5hX2ZPckZxRl9LTmkxeDJwa3FXcTFRUVlxN21IbXA5OGFvWG80ejRVSDZFYUdCOXA1QlF1RGxxTFZwNGhHWVVRRE5vTFQ4RkU1NHJ6Tk44SXVqMHc2SmtjdkM2ZHdZZzZJVU9TVWpMM3BFbHFpTWdpekR5ekdoTDdFVC10MXBFMmdCc2xRRHpLM2oyUmlwTkVubGRyblAyY1BLNjNGN0EzQjhNZEFkemtrdm9LSE1zNG1XSWdOZWt0M2NTdGVTaS00WDJjaEcxeHVfMW5kM0xzaDFtUF90VWIxZU450gHwAUFVX3lxTFBFV0lvTDN6dW03SE1DS2JHa1VVbXFsVXlXeFFJUi1abkwyLWVJYW1CZ2UwVGJ2d0JtRTByeDJXVTV3S1c0MGxoT0ljTXBNMHdDU3g3UHR1cjkzM2tzYVpnT2hDUS1nNXdzNVQ2SWhXM2dTQ1dVZzVFekVkX190WmkxNzZ1Vm9oM3lGSkNyWk52di11d0lCN04welVyRm0xNlQwTmp0cjJFVDJyNEk0MFdLLTB2S1dOZ1ZrM1hOQzZaZGt5aDBHLVJGZDhrZXU0Nnd4UXB2UE1BcnR2NFQ5U3Q3M1QwNndiMG9Ob0RGOC1LSg?oc=5",
+      "publishedAt": "Tue, 22 Sep 2026 01:40:38 GMT"
     },
     {
       "title": "Stock market today: Sensex, Nifty see positive start; NSE IPO receives 6x subscription on final day | Business News - Hindustan Times",
@@ -170,10 +179,10 @@
       "publishedAt": "Tue, 22 Sep 2026 15:56:34 GMT"
     },
     {
-      "title": "Stock Market prediction tomorrow: Sensex, Nifty outlook for Wed | Kospi, Taiwan Index, Nikkei cues to watch | 23 Sept - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPMjhBQjB1X0Q5NTJKSzlkRURKRF82MEJiZDNqcjRTaE5lN1VQSzA1djdmNDVJNDhTNk5zSy0tUXFJdDh0UFRETGFHQjdJRm5pS0lfR3prYjVOOVZ1TlpjaXpqMTUzTW1ma2pGY2dickQyalgwVldONVMtRDA4bjl0SnZKT0lzYWtLT01hSzdfcFdYajVRVzNvY1hNNjZma3F0NlRmN3oyamNsUlJUNUdITktfTFJ3d1JMUnIyOGRiS2hseG9SMkdDQ01OTkpTdUxLRlZwQ2FhRWVqeG1ZNV9qenFvZUpibEVacU15eEFsZGFyWDZKRGRuelJuLWZxUFQ4YWJUaEtrRFBNZzTSAZACQVVfeXFMTkRuanpaUE9PRmxSbEcwU19PZWhHXzJ0cE5NbktxdVp6bVZHWllOZ0dEZW5ObTR2QVJHWnQzbW4xVFg5am0tdkUtMk8xUElacDVrU09VY2t2dVpnc2JCRmZ3T1BKcGJiMTA4VkJBTjBSRWxsUUhHMm94ZlkzYzFGS01OXzlOVHFFMmN2UjlfREppMFNfbEMwN3RTbWlKdHFINE5kNlZEYnNZYVFNWUluOXduUlctQ3QzakNLdUJVT2NZYnVMOGFPdEFPdFpVMUhVUmZ5MnVaQWxlNWlNRTJaMXhHcks2dlR5V2pGWERKMTN0dXBhWUdTb1ZwYjVtZlRFUll6dGhUMUVHMmV1RTZMcWM?oc=5",
-      "publishedAt": "Tue, 22 Sep 2026 10:14:10 GMT"
+      "title": "Sensex, Nifty open in green on easing crude, softer US bond yields - ChiniMandi",
+      "source": "ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXducXVzSFRSb25MeWtOWV94SnZzWXA5RnV2bVRsa1hZRUhnMEsyVnV1ei1qaVF5MVhEZkJXejVJU0dvNVZtbUNDS0hsc3NKaWE1SGptam1iNlJmZDZUVXR1d1hFdVZuYTlxeXhxeGtrdzhoMTNUb3BrclU3ZmQyWXp0eE5acm9Jc2s1bE9qRGtrdzAxaUFF?oc=5",
+      "publishedAt": "Tue, 22 Sep 2026 04:32:05 GMT"
     }
   ]
 }
