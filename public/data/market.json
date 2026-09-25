@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty trade volatile near 23,000 as India VIX slumps; Motilal Oswal and IDBI Bank in focus",
+  "headline": "Sensex and Nifty trade flat near 23,000 as high oil prices and bond yield fluctuations weigh on sentiment",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,58 +7,68 @@
     "nextOpen": ""
   },
   "why": [
-    "India VIX slumped over 7%, suggesting a decrease in market fear and volatility expectations",
-    "Rising oil prices and global bond yields are creating headwinds for Indian equities",
-    "The IT sector is experiencing a pullback, dragging down broader index gains",
-    "Strategic stake sale evaluations for IDBI Bank are driving interest in the banking sector"
+    "Brent crude prices rising towards $106 per barrel impacting energy-sensitive sectors",
+    "Indian 10-year bond yields hitting 4-month lows following a US debt rout",
+    "Volatility in IT and midcap stocks offsetting gains in other sectors",
+    "Recent sharp market correction where the Sensex lost over 3,000 points since the GDP announcement"
   ],
   "whatHappening": [
-    "Nifty 50 is struggling to maintain levels above 23,100 amid volatile trading sessions",
-    "Motilal Oswal group secured a SEBI custodian license to begin operations from the fourth quarter",
-    "Suzuki announced plans to halve vehicle development time and expand its production capacity in India by 2030",
-    "The government is evaluating financial bids for a strategic stake sale in IDBI Bank"
+    "Nifty 50 is trading range-bound near the 23,000 mark after a volatile start",
+    "Dabur India has received NCLT approval for its merger with Ayurvedic brand Sesa Care",
+    "Vascon Engineering has been awarded a significant ₹660 crore contract by Qualcomm India",
+    "NSE Chairman Ashish Chauhan has hinted at the possibility of the exchange self-listing on its own platform"
   ],
   "stocksInNews": [
     {
-      "symbol": "MOTILALOFS",
+      "symbol": "DABUR",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        4
+        1,
+        2
       ]
     },
     {
-      "symbol": "IDBI",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "MARUTI",
+      "symbol": "VASCONEQ",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         8
       ]
+    },
+    {
+      "symbol": "NSE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        3,
+        5
+      ]
+    },
+    {
+      "symbol": "INTEGRUM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        6
+      ]
     }
   ],
-  "summary": "The Indian market is trading range-bound with Nifty hovering near 23,000 while the India VIX has dropped significantly. Key developments include Motilal Oswal receiving a SEBI custodian license and the government evaluating bids for IDBI Bank. Sectoral performance is mixed as IT faces pressure while realty shows gains.",
-  "updatedAt": "2026-09-25T08:31:33.420Z",
+  "summary": "The Indian stock market is trading range-bound with the Nifty 50 hovering near 23,000 amid headwinds from high oil prices and bond yield volatility. Corporate news is dominated by Dabur's merger approval and Vascon Engineering's major order win. Investors are also closely watching the NSE for potential self-listing developments following hints from its chairman.",
+  "updatedAt": "2026-09-25T09:02:28.592Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-25",
   "articleKeys": [
-    "big ai reset ahead chris wood doubts hyperscalers 990 bn capex estimates highlights indias reverse ai trade advantage",
-    "catalonia deepens its india push as minister miquel samper rodriguez visits expands presence in new delhi",
-    "stock market live sensex stuck in range nifty near 23000 india vix slumps over 7",
-    "govt not planning major changes to dispute resolution with foreign firms",
-    "motilal oswal group gets sebi custodian licence to start operations from q4",
-    "govt evaluating financial bids for strategic stake sale in idbi bank",
-    "government banks to decide subsidy amount for upi that will continue after mdr comes in",
-    "specialty gases demand expected to grow multifold says waaree clean energy ceo anuj sharma",
-    "suzuki to halve vehicle development time by 2030 boost india capacity",
-    "bihar shocker another girl harassed at tourist site after jamui and samastipur",
+    "stock market live sensex stuck in range nifty near 23000 brent crude off lows near 106",
+    "dabur gets nclt approval for sesa care merger",
+    "dabur gets nclts nod to absorb ayurvedic hair oil brand sesa care",
+    "will nse list on its own platform chairman ashish chauhan hints at very likely possibility",
+    "indian 10year bond hits 4month low on us debt rout",
+    "time for india to reconsider selflisting of exchanges says nse chairman",
+    "integrum energy infrastructure files papers with sebi to raise funds via ipo",
+    "uk consumer confidence hits over twoyear high in september as personal finances improve gfk",
+    "vascon engineering receives order worth 660 crore from qualcomm india",
+    "iits to stop campus hiring by 22 firms for 2 yrs over unhonoured job offers",
     "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
     "sensex today stock market live sensex flat nifty near 23050 it midcaps fall over 05 moneycontrolcom",
     "stock market today bse sensex opens over 100 points up nse nifty50 trades above 23000 the times of india",
@@ -66,70 +76,70 @@
     "stock markets today sensex nifty up in volatile trade rediff",
     "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingview",
     "indian shares muted as high oil yields weigh it offsets broader pullback reuters",
-    "sensex nifty opening will the stock market fall again today indiatodayin",
-    "stock market today sensex nifty may open flat amid key headwinds thehindubusinesslinecom",
-    "decoded sensex lost nearly 3300 points nifty dip 1000 since announcement of blockbuster gdp of india top 3 reasons livemint"
+    "stock market today sensex nifty may open flat amid key headwinds businessline",
+    "decoded sensex lost nearly 3300 points nifty dip 1000 since announcement of blockbuster gdp of india top 3 reasons livemint",
+    "stock market today gift nifty bond yields to oil prices five key factors that may drive sensex nifty 50 on september 25 ndtv profit"
   ],
   "articles": [
     {
-      "title": "Big AI reset ahead? Chris Wood doubts hyperscalers’ $990 bn capex estimates, highlights India’s reverse AI trade advantage",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/big-ai-reset-ahead-chris-wood-doubts-hyperscalers-990-bn-capex-estimates-highlights-indias-reverse-ai-trade-advantage/articleshow/134478611.cms",
-      "publishedAt": "Fri, 25 Sep 2026 13:01:00 +0530"
-    },
-    {
-      "title": "Catalonia Deepens Its India Push As Minister Miquel Samper Rodriguez Visits, Expands Presence In New Delhi",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/catalonia-deepens-its-india-push-as-minister-miquel-samper-rodriguez-visits-expands-presence-in-new-delhi-12081479#publisher=newsstand",
-      "publishedAt": "Fri, 25 Sep 2026 12:55:22 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex stuck in range, Nifty near 23,000; India VIX slumps over 7%",
+      "title": "Stock Market LIVE: Sensex stuck in range, Nifty near 23,000; Brent crude off lows, near $106",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-september-25-sensex-today-nifty50-gift-nifty-crude-oil-prices-nse-share-price-126092500092_1.html",
-      "publishedAt": "Fri, 25 Sep 2026 12:53:54 +0530"
+      "publishedAt": "Fri, 25 Sep 2026 14:03:16 +0530"
     },
     {
-      "title": "Govt not planning major changes to dispute resolution with foreign firms",
+      "title": "Dabur gets NCLT approval for Sesa Care merger",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/govt-not-planning-major-changes-to-dispute-resolution-with-foreign-firms-126092500405_1.html",
-      "publishedAt": "Fri, 25 Sep 2026 12:52:48 +0530"
+      "link": "https://www.thehindu.com/business/dabur-gets-nclt-approval-for-sesa-care-merger/article71507682.ece",
+      "publishedAt": "Fri, 25 Sep 2026 13:48:42 +0530"
     },
     {
-      "title": "Motilal Oswal group gets SEBI custodian licence to start operations from Q4",
+      "title": "Dabur gets NCLT's nod to absorb Ayurvedic hair oil brand Sesa Care",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-group-gets-sebi-custodian-licence-to-start-operations-from-q4/articleshow/134478554.cms",
-      "publishedAt": "Fri, 25 Sep 2026 12:52:13 +0530"
+      "link": "https://www.business-standard.com/companies/news/dabur-gets-nclt-nod-to-absorb-ayurvedic-hair-oil-brand-sesa-care-126092500549_1.html",
+      "publishedAt": "Fri, 25 Sep 2026 13:39:25 +0530"
     },
     {
-      "title": "Govt evaluating financial bids for strategic stake sale in IDBI Bank",
+      "title": "Will NSE list on its own platform? Chairman Ashish Chauhan hints at very likely possibility",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/govt-evaluating-financial-bids-for-strategic-stake-sale-in-idbi-bank-126092500411_1.html",
-      "publishedAt": "Fri, 25 Sep 2026 12:52:02 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nse-list-on-its-own-platform-chairman-ashish-chahuan-hints-at-very-likely-possibility/articleshow/134479320.cms",
+      "publishedAt": "Fri, 25 Sep 2026 13:37:08 +0530"
     },
     {
-      "title": "Government, banks to decide subsidy amount for UPI that will continue after MDR comes in",
+      "title": "Indian 10-year bond hits 4-month low on US debt rout",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/government-and-banks-to-decide-subsidy-amount-for-upi-that-will-continue-after-mdr-comes-in/article71507443.ece",
-      "publishedAt": "Fri, 25 Sep 2026 12:50:18 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-10-year-bond-hits-4-month-low-on-us-debt-rout/articleshow/134479074.cms",
+      "publishedAt": "Fri, 25 Sep 2026 13:18:59 +0530"
     },
     {
-      "title": "Specialty Gases Demand Expected To Grow Multifold, Says Waaree Clean Energy CEO Anuj Sharma",
+      "title": "Time for India to reconsider self-listing of exchanges, says NSE chairman",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/specialty-gases-demand-expected-to-grow-multifold-says-waaree-clean-energy-ceo-anuj-sharma-12096213#publisher=newsstand",
-      "publishedAt": "Fri, 25 Sep 2026 12:48:56 +0530"
+      "link": "https://www.business-standard.com/markets/news/time-for-india-to-reconsider-self-listing-of-exchanges-says-nse-chairman-126092500501_1.html",
+      "publishedAt": "Fri, 25 Sep 2026 13:16:39 +0530"
     },
     {
-      "title": "Suzuki to halve vehicle development time by 2030, boost India capacity",
+      "title": "Integrum Energy Infrastructure files papers with Sebi to raise funds via IPO",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/suzuki-new-vehicle-development-cycle-india-manufacturing-export-hub-126092500468_1.html",
-      "publishedAt": "Fri, 25 Sep 2026 12:48:37 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/integrum-energy-infrastructure-files-papers-with-sebi-to-raise-funds-via-ipo/articleshow/134478986.cms",
+      "publishedAt": "Fri, 25 Sep 2026 13:13:46 +0530"
     },
     {
-      "title": "Bihar Shocker: Another Girl Harassed At Tourist Site After Jamui And Samastipur",
+      "title": "UK consumer confidence hits over two-year high in September as personal finances improve: GfK",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/bihar-shocker-another-girl-harassed-in-public-place-after-after-jamui-and-samastipur-12095899#publisher=newsstand",
-      "publishedAt": "Fri, 25 Sep 2026 12:45:10 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/uk-consumer-confidence-hits-over-two-year-high-in-september-as-personal-finances-improve-gfk/articleshow/134478780.cms",
+      "publishedAt": "Fri, 25 Sep 2026 13:10:02 +0530"
+    },
+    {
+      "title": "Vascon Engineering receives order worth ₹660 crore from Qualcomm India",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/vascon-engineering-receives-order-worth-660-crore-from-qualcomm-india-126092500454_1.html",
+      "publishedAt": "Fri, 25 Sep 2026 13:09:41 +0530"
+    },
+    {
+      "title": "IITs to stop campus hiring by 22 firms for 2 yrs over unhonoured job offers",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/education/news/iits-to-stop-campus-hiring-by-22-firms-for-2-yrs-over-unhonoured-job-offers-126092500502_1.html",
+      "publishedAt": "Fri, 25 Sep 2026 13:05:53 +0530"
     },
     {
       "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
@@ -174,14 +184,8 @@
       "publishedAt": "Fri, 25 Sep 2026 02:18:00 GMT"
     },
     {
-      "title": "Sensex, Nifty opening: Will the stock market fall again today? - indiatoday.in",
-      "source": "indiatoday.in",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQTGdOWVNXLVlYOVZOaXJ0QS1ZVGhSX3V1c0RYN0VBTjBlWUxYOVY4VFkzQm5iMFVsVU5tVG50NnlXWmV2R20wQURmZ1J4RDN0TjJsbjk1anZfcGY5cVhIRkM4R0EtanpfbExSa1I2TzBidGV2djk1NVdNamZ5VjJVbnZQUjNaSnR5OWE1dVZGTXFDbW9kV19SN1FqT2lMRm1LcnZMQnp0YTF5OU5ZZDlxd1dsYkxRbzllUFh5aFFHclVkclNzaWx1emdoUWNfVm5zZ3Y5bVJxVElMRFNiSlZfYURKOHY5YlFpaEdyUVJvVlJINGdx0gH6AUFVX3lxTE5IYXFFYmhBbUpvcUdlb3ItY3ZNQUJta0Q4blRFTXBVbjdPZGNDb0pEYnQ4OTlRa3F4elN6NUdJNVAyWjZWa2Y1RkxFVzZyQ2dTMUVpM3FwWi1aQUtEdTl0em9OdGxxQnlUSXV6ZlVVVF81S21yOGlkWUU2X2VQbFBSektTR01TMll3cnFFUTZ3NkNEbDN1QVY4OVRDQ0lMYWlnaXRibXFxWXNOd1ZNeDFIY084dUY1aTRXcXg0SXQzN1hJT0VEdmE2eGxlQUV0bTY2Mmg5aVFWUjBfVmY0N2U4MF9KZkV0XzRGUzlYM2pRYVZGRFVxOFNGREE?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 02:58:03 GMT"
-    },
-    {
-      "title": "Stock market today: Sensex, Nifty may open flat amid key headwinds - thehindubusinessline.com",
-      "source": "thehindubusinessline.com",
+      "title": "Stock market today: Sensex, Nifty may open flat amid key headwinds - BusinessLine",
+      "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTZ0WFk4RmRvMGxLQ1NEcHdMTU5ZWWI5a2V4Uld4WVNIU3FsWmJpVXJXZFJaNnVXRTd3WjBKdDMwUmtoMktHVHlSekRoT1dsTjJTZjdrbDJYM3FGa1BTdVdIaUxOZ0o0U1NWaC1fZm4xbXJsWkJzZ3c3MTBtX1VhTjZkUHY0MmZQYWtMOEFrREZhTmstUUZ0eDdfRGx0aFZGNTRPU1VIcG8yTEVjNEF5NzJnUm82Q2hVYzNncS1qOEVDV0QyWG9mbW92elNEZ2tr0gHXAUFVX3lxTE5tQlVCbVlxQndqM1Zmd2ZtZWdldjZ6WXBqWjZiVEhjLTFKamtwNXhXbG9KWXZ1bUFuN19PMzFtdlNxS1N5UzRIckttOFBINUlKWnE1SmpYWHQ3MDlIUDRkVVR2eWwyQUMzMmNVSFM0UEZvTDR6Z0NBS2E1bzZoM3dDWlBJNkp6OGo5V2FZRHBzWVZBdUNYeTFPaGxyMkxpREF6enktNGFkbWRNVWZQVDNVVGo2WVhWTzd6YXM5MVA3YzlhM2RzMVJRTDM1emRDUVdPM0xObzRv?oc=5",
       "publishedAt": "Fri, 25 Sep 2026 02:18:31 GMT"
     },
@@ -190,6 +194,12 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTE9BdERYOTF4QjNsVFdOSUVsVjdickVLMkJHYld6YmRCdm5PRGloTnh2OHk5VmRRQjJiTDMyTUZNalZMQXk5eGt2OHd6RmllbVhWbUpEQjhnOVJvbmtVU2w2aEs1cTd4WWljRTkyc2dmT01xZVRnb3k2TGlvS0lCT3NVcS1yclo1TERWQWszM2l1dzhDdnBoSUpOVTRQNW10RFd6ODFidlM5QWttRnkyX1RWaWhWS3RzWURldTM4MDctTWR3d2ZWSWh1a2FJX29lV3Z5NnkxWUhVYzRzZmw3NGI0V1Q0R1o3TTVVZUl3REw4TFBtNTdUZVA3Q1VxanRQYVF5Yk8xc0g1YkVUZm1mTzFR?oc=5",
       "publishedAt": "Fri, 25 Sep 2026 05:52:23 GMT"
+    },
+    {
+      "title": "Stock Market Today: Gift Nifty, Bond Yields To Oil Prices — Five Key Factors That May Drive Sensex, Nifty 50 On September 25 - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdVk2NWY2YmFvVWRzUDF4anpscG54WjM1SVVVVldRT244LTh1aXVWbXFCWnQyQVZnbmQycU41N3JiV3p5ZTF6VlZMSUI3NUQtR0tsVDF6cS0zdjZiQ3lCM0VhTXFoSEt4aEh2YVF2cXFxY2ZfMkVZSjhuNDZyODRGQUNYRXNpeWdEZzRjd2ZaeThvb3BxdmpBdU1jZVhNWHAyUzR0eGhtTzRHYTVkdTdvYWhRcWhldEkxV3Z2bnZ2SjhqNVYzMWR4MTcxdWc4X0FkNzdjb1VhYUFFNFNOTnVMeGFtUkF5SC1ZRG4wM1Z3VUU1SE5ucnfSAf4BQVVfeXFMTzFDRFpfdFA3RTRhanpJaFljZTc3ams4V2FOMENpZWYtUC1uSEwtYWlNODhZSnhnVXBZUEc5REwtbjFDYkFtSjd3SlBwbHgzblJDQ2pyc2F2aHdwV1NnaTlxU2plcGhYNWg4cWZiZGNObUVPOENwTFRuS0dnbHdTbVNtQTZGUXlGTnVnaEhZYW0xVHhjVnpZdk1qMlQxWFNnRHM4NENlWDFtdFhQODYyNWFRb2haeThMUWdsZk55R1g4YzBWbkFGc2xvX0Q4REwxdHBjb2VidHFmMHNKRnZDXzBrQU5oZmJ5bVFuZ2dIVmhlMGJKNHhhQmFPdlNPVlE?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 01:28:57 GMT"
     }
   ]
 }
