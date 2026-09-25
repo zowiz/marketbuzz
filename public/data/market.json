@@ -1,5 +1,5 @@
 {
-  "headline": "Indian stock markets bounce back as Sensex rises 315 points on value buying",
+  "headline": "Sensex recovers 300 points after massive crash; NSE debuts as world's 6th most valuable exchange",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,62 +7,112 @@
     "nextOpen": ""
   },
   "why": [
-    "Stock markets recovered on value buying after a sharp sell-off in the previous session.",
-    "Auto and consumer durables sectors posted gains of nearly 1% during Friday's trading session.",
-    "The Indian Rupee appreciated by 19 paise to close at 95.80 against the U.S. dollar.",
-    "Indian crude basket rose above $123 per barrel due to ongoing West Asia tensions, keeping oil market concerns high."
+    "Global bond rout deepening and rising US Treasury yields pressuring markets",
+    "Auto and consumer durables sectors gained nearly 1% on Friday",
+    "Profit booking following recent market volatility",
+    "Recovery in sentiment after the Sensex plummeted over 1,200 points on Thursday"
   ],
   "whatHappening": [
-    "Sensex gained over 300 points while Nifty settled near the 23,150 mark.",
-    "Engineers India hit a 52-week high after rallying up to 25% over the past month.",
-    "Government approved the voluntary retirement of LIC Managing Director Dinesh Pant.",
-    "Concerns mounted over a proposed three-day bank strike affecting month-end branch operations."
+    "NSE debuted on the stock market, becoming the 6th most valuable exchange globally",
+    "The Indian Rupee rose 19 paise to close at 95.80 against the U.S. dollar",
+    "The Centre announced plans to borrow ₹7.86 trillion via dated securities in H2FY27",
+    "Engineers India and six other stocks hit 52-week highs despite recent market turbulence"
   ],
   "stocksInNews": [
+    {
+      "symbol": "EMBASSY",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "NSE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3
+      ]
+    },
     {
       "symbol": "ENGINERSIN",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "LICI",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        5
+        9
       ]
     }
   ],
-  "summary": "Indian benchmark indices rebounded on Friday with the Sensex rising over 300 points led by gains in auto and consumer durables. Rising crude oil prices and currency movements remained in focus as geopolitical tensions persisted. In corporate news, Engineers India touched a 52-week high while LIC announced a key executive exit.",
-  "updatedAt": "2026-09-25T12:31:19.902Z",
+  "summary": "The Indian stock market saw a partial recovery on Friday with the Sensex ending 300 points higher after a sharp 1,200-point crash the previous day. Market sentiment was bolstered by the NSE's strong listing debut and a strengthening Rupee, even as global bond yields remained a concern. Sectoral gains in auto and consumer durables helped the Nifty settle near the 23,150 level.",
+  "updatedAt": "2026-09-25T13:31:29.060Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-25",
   "articleKeys": [
+    "embassy reit raises rs 1000 cr via debentures to refinance debt",
+    "india bonds slide for sixth week as global rout deepens",
+    "centre to borrow 786 trillion via dated securities in h2fy27 govt",
+    "nses dstreet debut makes it 6th most valuable exchange whats ahead",
+    "mumbai ranks 8th globally as prime home prices up 62 in q2 knight frank",
+    "every ai deployment must deliver clear economic value operational execution managing director google cloud india",
+    "et alpha wealth summit 20 structured debt and the search for higher yields",
     "rupee rises 19 paise to close at 9580 against us dollar",
     "bitcoin trades around 84000 after profit booking as rising us treasury yields pressure crypto markets",
     "engineers india among 7 stocks hitting 52week highs shares rallied up to 25 in a month",
-    "stock markets bounce back on value buying sensex rises 315 points",
-    "japanese investors step up domestic bond purchases as foreign demand drops jsda data",
-    "toplevel exit at lic govt approves voluntary retirement of md dinesh pant",
-    "asian games 2026 india secure table tennis bronze as diya chitale manush shah lose in semis",
-    "oil woes to worsen indian crude basket tops 123barrel amid west asia tensions",
-    "threeday bank strike will branches stay open on sunday and what happens to your monthend salary",
-    "ai pilot fails breath analyser test at zurich airport faces suspension pending final report",
     "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "why did market crash today sensex plummets 1248 points nifty ends below 23100 5 factors behind today the economic times",
     "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
-    "sensex crashed over 1200 points why stock market fell today india today",
-    "sensex nifty 50 prediction today stock market outlook for 25 sept 2026 gift nifty nikkei taiwan cues to watch livemint",
+    "sensex crashed over 1200 points why stock market fell today indiatodayin",
+    "sensex nifty 50 prediction today stock market outlook for 25 sept 2026 gift nifty nikkei taiwan cues to watch livemintcom",
     "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
     "nifty sensex fall over 5 in a month what is fuelling the crash in indian stock market can nifty 50 fall below 23000 et now",
-    "sensex nifty 50 prediction today stock market outlook for thursday 24 sept gift nifty nikkei taiwan signals livemint",
+    "sensex nifty 50 prediction today stock market outlook for thursday 24 sept gift nifty nikkei taiwan signals livemintcom",
     "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Embassy REIT raises Rs 1,000 cr via debentures to refinance debt",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/embassy-reit-raises-rs-1000-cr-via-debentures-to-refinance-debt/articleshow/134485342.cms",
+      "publishedAt": "Fri, 25 Sep 2026 17:52:53 +0530"
+    },
+    {
+      "title": "India bonds slide for sixth week as global rout deepens",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slide-for-sixth-week-as-global-rout-deepens/articleshow/134485311.cms",
+      "publishedAt": "Fri, 25 Sep 2026 17:49:51 +0530"
+    },
+    {
+      "title": "Centre to borrow ₹7.86 trillion via dated securities in H2FY27: Govt",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/economy/news/centre-to-borrow-7-86-trillion-via-dated-securities-in-h2fy27-govt-126092500946_1.html",
+      "publishedAt": "Fri, 25 Sep 2026 17:48:09 +0530"
+    },
+    {
+      "title": "NSE’s D-Street Debut Makes It 6th Most Valuable Exchange. What’s ahead?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/nses-d-street-debut-makes-it-6th-most-valuable-exchange-whats-ahead/videoshow/134485226.cms",
+      "publishedAt": "Fri, 25 Sep 2026 17:44:13 +0530"
+    },
+    {
+      "title": "Mumbai ranks 8th globally as prime home prices up 6.2% in Q2: Knight Frank",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/news/mumbai-ranks-8th-globally-as-prime-home-prices-up-6-2-in-q2-knight-frank-126092500750_1.html",
+      "publishedAt": "Fri, 25 Sep 2026 17:29:43 +0530"
+    },
+    {
+      "title": "Every AI deployment must deliver clear economic value, operational execution: Managing Director, Google Cloud India",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/every-ai-deployment-must-deliver-clear-economic-value-operational-execution-managing-directorgoogle-cloud-india/article71503825.ece",
+      "publishedAt": "Fri, 25 Sep 2026 17:27:50 +0530"
+    },
+    {
+      "title": "ET Alpha Wealth Summit 2.0: Structured debt and the search for higher yields",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-structured-debt-and-the-search-for-higher-yields/articleshow/134484486.cms",
+      "publishedAt": "Fri, 25 Sep 2026 17:20:38 +0530"
+    },
     {
       "title": "Rupee rises 19 paise to close at 95.80 against U.S. dollar",
       "source": "Zerodha Pulse",
@@ -80,48 +130,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/engineers-india-among-7-stocks-hitting-52-week-highs-shares-rallied-up-to-25-in-a-month/slideshow/134484033.cms",
       "publishedAt": "Fri, 25 Sep 2026 16:54:55 +0530"
-    },
-    {
-      "title": "Stock markets bounce back on value buying; Sensex rises 315 points",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/stock-markets-bounce-back-on-value-buying-sensex-rises-315-points/article71508393.ece",
-      "publishedAt": "Fri, 25 Sep 2026 16:54:40 +0530"
-    },
-    {
-      "title": "Japanese investors step up domestic bond purchases as foreign demand drops: JSDA data",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japanese-investors-step-up-domestic-bond-purchases-as-foreign-demand-drops-jsda-data/articleshow/134483644.cms",
-      "publishedAt": "Fri, 25 Sep 2026 16:53:02 +0530"
-    },
-    {
-      "title": "Top-Level Exit At LIC: Govt Approves Voluntary Retirement Of MD Dinesh Pant",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/top-level-exit-at-lic-govt-approves-voluntary-retirement-of-md-dinesh-pant-12097342#publisher=newsstand",
-      "publishedAt": "Fri, 25 Sep 2026 16:52:21 +0530"
-    },
-    {
-      "title": "Asian Games 2026: India Secure Table Tennis Bronze As Diya Chitale Manush Shah Lose In Semis",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/asian-games-2026-india-secure-table-tennis-bronze-as-diya-chitale-manush-shah-lose-in-semis-12097188#publisher=newsstand",
-      "publishedAt": "Fri, 25 Sep 2026 16:50:22 +0530"
-    },
-    {
-      "title": "Oil Woes To Worsen? Indian Crude Basket Tops $123/Barrel Amid West Asia Tensions",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/oil-woes-to-worsen-indian-crude-basket-tops-123-barrel-amid-west-asia-tensions-12097303#publisher=newsstand",
-      "publishedAt": "Fri, 25 Sep 2026 16:41:42 +0530"
-    },
-    {
-      "title": "Three-Day Bank Strike: Will Branches Stay Open On Sunday, And What Happens To Your Month-End Salary?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/three-day-bank-strike-will-branches-stay-open-on-sunday-and-what-happens-to-your-month-end-salary-12097204#publisher=newsstand",
-      "publishedAt": "Fri, 25 Sep 2026 16:36:53 +0530"
-    },
-    {
-      "title": "AI Pilot Fails Breath Analyser Test At Zurich Airport; Faces Suspension Pending Final Report",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/ai-pilot-fails-breath-analyser-test-at-zurich-airport-faces-suspension-pending-final-report-12097272#publisher=newsstand",
-      "publishedAt": "Fri, 25 Sep 2026 16:33:59 +0530"
     },
     {
       "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
@@ -148,14 +156,14 @@
       "publishedAt": "Thu, 24 Sep 2026 10:54:03 GMT"
     },
     {
-      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - India Today",
-      "source": "India Today",
+      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - indiatoday.in",
+      "source": "indiatoday.in",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzVxaEFRS2NOd2NZVUNtWHNQaTgwaVc1bGJhLTZVWVZFTjREMnJhVXllcllTYlZKTWM3TmVudWo3MXVfcnpTazhIX2RZWWZ5YjJ3XzMxNnZkemlkMjduaEExRXVRWjY3M2ZSNmo0c3BhRmZsSW82ampNRVBpVkJ3YWtvWVFSM0pPcl9tTGlKVDF0dUhNYmgzN2MtWTFGWHBpV1liRHFZVEYwdURaNkFiNnBaUHNoVW5aTjhOVG82Qm9tQXhIV2VqN0RWT2gyYW1yb0xEdEFpdG4ya0tFOVVtSTQ0aWdYQkQyS1liNWJOelMzdFXSAfgBQVVfeXFMTUFQcXZjUk93LXBGOGZqOHlmcXFNR2RoSkdCc2F2bVdPM0hGQ2lqQy04bG50MzZWY0JoUU1uRFFlME92NjFueGpyNFpBREFKTC1pMzZ1eGJlSWF5dGNjVXlFZ21JS0NjZmYtNWUzVG02ajRXbi1nWWtwSktpU3VxektCa3BpbTI2Sk9fZUFKbUIzYkM1V0tScExKMmgxM0l1SmhUTkpMYXVIMlZ2R1I2TkJ5emtlQ3BNXzBfWTRERkNLRW5tYWxnNjdqV29GUldwMExmU3pGaVJ5LWNaZHpnQ2Fsa2p3dE03QTZCU1c3Zkt1QzNLSWlyUk8?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 04:44:56 GMT"
     },
     {
-      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for 25 Sept 2026 | GIFT Nifty, Nikkei, Taiwan cues to watch - Livemint",
-      "source": "Livemint",
+      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for 25 Sept 2026 | GIFT Nifty, Nikkei, Taiwan cues to watch - livemint.com",
+      "source": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWTM0dmdrRUdfSk9FUWpVejZ1SXQ0U2NjX0VxVFlzbzllSWhmVWtZMGdLODg2RnJGNkVSUzRFdGxzQUVsaEtfVk9lZ2ZVNmdaNDV1ZjlON3hBdllybjlOSWhWRkhKUjBGMnVPazJxRFBmdFRoOUZBQkFQZnNYZHdlUlRRV0lDbzFiZHM3Z2ZTNlJ5enBpc1Z6SnpOMkRpdzNYcXFkZTR3dG5neVZyLWI0NmJVOUM4Z2xQNlFoZTR5ZXFkN19kQTRtbkRLcW92ZHBGZGtnc09Md05XT014NXJDdzVOcHNJYWFOS3ZGM2JoSURuSDNPSGdvZDh5NGVaeDhta1hlZ05ZSmtseXPSAZACQVVfeXFMTTFlTERSSENCSkhwSzdDNExXMmdvNnVpUWRZWVZNWHFXdWdLNDdTb1JiNmVIbU5OM2ZhZE1Cc0RVMExmLUJvdVUyQ0RTLW8wM0xwRDI2YnRSMjJKVVl3di1ycnM0UjNQYmZMTWRuMU0yd1hxMDdaVWQwa3R3RF9scDJ2VU1GTWZ3cWYtU29uOGl4TjVBdDlpYlA1d1FDcUhqWjU4SEU4Nnk4VV82RlFxbVNZa2tsUVVMQ2NUZUNCZUl5V2RteEc2Qno4R0o0Z1FRTXh1eC1sVTRlbXBqQXRlcXRjZ0dHTUE2SDFlRlRxQng0QXpwbEJhNWlJQV9yc3JIQTN3bEFVT2x0RzEzalpsbXo?oc=5",
       "publishedAt": "Fri, 25 Sep 2026 01:15:10 GMT"
     },
@@ -172,8 +180,8 @@
       "publishedAt": "Fri, 25 Sep 2026 05:25:16 GMT"
     },
     {
-      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for Thursday, 24 Sept - GIFT Nifty, Nikkei, Taiwan signals - Livemint",
-      "source": "Livemint",
+      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for Thursday, 24 Sept - GIFT Nifty, Nikkei, Taiwan signals - livemint.com",
+      "source": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTDl3ZlJyNW5xZXBBLUtBLXRfSU5kbEdSOXFWM3V2RU51eVdlanIzclZnczhweGRBR1lmWkVUNWI0SlBsbW5tWmd4SzBzNXA0Ty15d21DNVJkQ0piMXpzMDYxYkNndEtmV19UQnV6NVBKZlgzU1ltZEpEakJ5dVl3WU8xQS1DRVQxN0pxV1NuU19RaGZhTWNqSHFhRHFGUVROWDhEMkxhODZ2bmZFX1piMDl0ZzVJSVRhUU5KUC1pV0NCclR5dGxXXzR1VUNvbHMweU1xaHRIQWNIRG5HN1o4NWNlRlBlRjhRVFc2SElTNklUNEtMSXBZVmQ1YkxBOFg2eWtOOFZiMUTSAY4CQVVfeXFMTUdPNHFyRDVseGxVX1p5RDdOWFBabmJQdm1ZNmVZOVB0RGZMeERCSnFfZUMxV3FrMXBJT1liYmFZekEzWGR4cUs4eDlKOUhiNURta2xDLTM0dUFkRTJrOHNaa0djNnlJWFpQcE43OGt0SkFJNEgxSm9hd0puemtzNVgyX3dHdUtGa1VIRHJBdFllRUFmYlYwQ3Y4elV1djY2ZUo5R204dmZyZ3RwaGdZSHZrbERxQWZfRlhCUEhrZjdaelZGLXZmY2lTWm84ek9wWHYzdGRKQVFOR3pYWU94RUVERlBYOXFEeDJaUVI1and2N1hCenc4anc0NVVaRG50TF9Pa1o2di0xc3k3SDdn?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 01:17:46 GMT"
     },
