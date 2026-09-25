@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex rose 300 points as auto and consumer durables sectors led a market recovery.",
+  "headline": "Last session: Sensex recovered over 300 points, but Indian shares recorded their longest weekly losing run since 2020.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,40 +7,24 @@
     "nextOpen": "Monday, 28 September"
   },
   "why": [
-    "Auto and consumer durables sectors gained nearly 1% in the last session",
-    "Government cut FY27 borrowing by ₹1.2 trillion, easing fiscal pressure",
-    "Technical recovery following a sharp 1,200-point crash in the previous session",
-    "RBI bulletin highlighted economic resilience despite global geopolitical risks"
+    "Crude oil price spikes and West Asia conflict risks created strong downside headwinds throughout the week.",
+    "A sharp midweek sell-off and proposed insurance curbs dragged Indian equities to their worst day in 10 weeks on Thursday.",
+    "Bargain buying in auto and consumer durable stocks spurred a partial recovery during the last trading session.",
+    "Hardening yields forced bond market adjustments, while the RBI noted economic resilience despite global geopolitical risks."
   ],
   "whatHappening": [
-    "Sensex ended Friday over 300 points higher, closing near the 23,150 level",
-    "Sidbi pulled a ₹6,000 crore bond issuance as market yields hardened",
-    "Virtual pharma firm HRV is preparing for an IPO with a DRHP expected in 2027",
-    "Crude oil prices spiking above $102 remains a significant concern for Indian markets"
+    "In the last trading session, Sensex closed over 300 points higher and Nifty rebounded near 23,150.",
+    "Indian benchmark indices logged their longest weekly losing streak since the 2020 Covid-19 crash.",
+    "The Indian government slashed its FY27 borrowing target by ₹1.2 trillion, planning to raise ₹7.8 trillion via gilts in H2.",
+    "Sidbi pulled out of its ₹6,000 crore 3-year bond issuance as market yields hardened."
   ],
-  "stocksInNews": [
-    {
-      "symbol": "SIDBI",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "HRV",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        0
-      ]
-    }
-  ],
-  "summary": "The Indian market ended the last session on a positive note, with the Sensex gaining over 300 points to recover from a mid-week slump. Gains were driven by the auto and consumer durables sectors alongside a reduction in government borrowing targets. However, investors remain cautious due to high crude oil prices and ongoing West Asia conflicts.",
-  "updatedAt": "2026-09-25T20:01:40.074Z",
+  "stocksInNews": [],
+  "summary": "In the last trading session, Indian benchmark indices staged a partial recovery, with Sensex ending over 300 points higher. Despite the late gains, Nifty logged its longest weekly losing streak since 2020, impacted by rising crude oil prices and geopolitical tensions. Markets are closed today for the weekend and will reopen on Monday, 28 September.",
+  "updatedAt": "2026-09-25T21:46:21.419Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-26",
   "articleKeys": [
+    "dow ends 400 points higher as investors buy ai stocks microsoft rallies",
     "virtual pharma api firm hrv preparing for ipo drhp likely in h1 of 2027 sources",
     "anthropic investor lonsdale says ai firms stoking fear to sway policy",
     "govt cuts fy27 borrowing by 12 trn to raise 78 trn through gilts in h2",
@@ -50,19 +34,24 @@
     "ai boom raises toobigtofail concerns as ecosystem expands says kansas feds jeff schmid",
     "rbi bulletin fcnrb boost for rupee dented by recent crude oil spike",
     "microsoft abandons personal ai chatbot race with copilot reboot",
-    "cea nageswaran flags 3 nearterm risks us ties energy and ai gap",
     "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
-    "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
-    "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
-    "sensex crashed over 1200 points why stock market fell today india today",
-    "sensex nifty 50 prediction today stock market outlook for 25 sept 2026 gift nifty nikkei taiwan cues to watch livemint",
-    "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
-    "stock market crash nifty 50 sensex fall 1 as crude tops 102 financial insurance stocks slide on irdai proposal livemint",
-    "sensex nifty 50 prediction today stock market outlook for thursday 24 sept gift nifty nikkei taiwan signals livemint",
     "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom",
-    "stock market today live sept 23 nifty holds above 23400 sensex gains over 350 points in cautious trade businessline"
+    "stock market today bse sensex opens over 100 points up nse nifty50 trades above 23000 the times of india",
+    "sensex nifty today indian markets recover after heavy thursday losses apac media",
+    "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingview",
+    "india shares log longest weekly losing run since 2020 as oil prices bite reuters",
+    "weekly market wrap sep 2125 sensex nifty end lower after sharp midweek selloff the indian awaaz",
+    "nifty logs longest weekly losing streak since covid19 crash in 2020 business standard",
+    "stock market today sensex nifty may open flat amid key headwinds businessline",
+    "indian shares post worst day in 10 weeks on oil spike proposed insurance curbs reuters"
   ],
   "articles": [
+    {
+      "title": "Dow ends 400 points higher as investors buy AI stocks; Microsoft rallies",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-ends-400-points-higher-as-investors-buy-ai-stocks-microsoft-rallies/articleshow/134492147.cms",
+      "publishedAt": "Sat, 26 Sep 2026 01:41:14 +0530"
+    },
     {
       "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources",
       "source": "Zerodha Pulse",
@@ -118,58 +107,10 @@
       "publishedAt": "Fri, 25 Sep 2026 23:07:23 +0530"
     },
     {
-      "title": "CEA Nageswaran flags 3 near-term risks: US ties, energy, and AI gap",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/cea-flags-us-ties-energy-as-headwinds-calls-for-strategic-buffers-126092500912_1.html",
-      "publishedAt": "Fri, 25 Sep 2026 23:01:10 +0530"
-    },
-    {
       "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
-    },
-    {
-      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
-      "source": "NDTV",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEtEbWlBNTFIcHJzRV9zU0hnQUd4MVRma2VMWXpOdDl3SURrMGJPOXBnVnFOTm1MLVpMMFAzYUhUWDJVYnpYd1cyWG1xUjhxOVdkb0tVNkF2VnZfZktsRnRYTlNjMzBYblcyM0pHRUo4Ul8xVlFoci1JOXpSU2F2RlBkbFJaZGhTeE9yODV4aDlnSDdKbjd2c0ZKMzc0Y2JFbER0c2hDNW1pbURITlcw0gG3AUFVX3lxTE8xbVZoQm0xdm9CSmg5ZVBDMVluS0lTTUctTnpYYVU2S0RxcFhlaUY5Qndta09tY3VuZWI3MW1LRWlPNVl6QlY4OVBFcENPZEY4OU9jMThxdzM1cG56U1ZtN29HNGEtZmZ6eklRSXlNNERlUVF0dXNjVXV0dERKeFpyeHY4YUV3ZXdWYWhjcWsxM1d4TWtYOE1tUjRFQ0xKQm5aWHJhcnJfSHFha1FDeUJpSDdJaWhrNA?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 09:02:35 GMT"
-    },
-    {
-      "title": "Closing Bell: Sensex tanks 1,248 pts, Nifty below 23,100; all sectors in the red - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQX3pSUl9TcTJPb1dLME1MUXJ1ZnNDa2VVZldRd09qX1pVSG05c3ZMdkhwMFFTaEZRaklScUxoMlZNVEl4Ylg3WDJtM21UaEtoSjVNckY3VHN2U3p2eFRyaF9tQkp1amMwM0luMmVkalVNMUZfRGs0ZE9xMkxIMmRCcjYzNW1PWjdjaW9DTXNPM3owMjhwZE8zemY1dzRFa0plRjNaeDNuV29vWFdNNjdoUTVSWDNIUk00bUtxSk15UElOX1JDTVVsNm1xRjRqSHFOaXdzNzF4ZGNCTVJZRkFsaThmc3o4THF1SVZGZlFpRU5UR2ZabFd4REQ1VUVWTDBrMnZDcEVHLVBZUnVaV3pKemhrWFdTa2d6UjV6RU0yQU1jUk3SAagCQVVfeXFMUEFnVkFZSldKekNvajZqS3pQblpTOG9rZVNQcDNPMFByWjFiRi1IMVEwNGJYWDJoYVIyRVlldm52bFVfTnFsdi1aOXRlQzNUYnpDOW1WbGRUVV9MWE1MRVpIRDN0eXdJeE56aks2OWFpVHVoWnVLT2wwWWptalhMUFlTSHo4b2Y3bHV5TFJxRF9iRmZKYU56cGRxVkJzRDI2eUtiN19tOHdnUjQ2WWdrUXRYNE9FdktCX3RCYUVCbTJQbENaMGtrcG96ZVZ1YVQxNXVPYXYtbU5pcjM2eWpnVzJlR2YzbktZb2g5bWRfekpldzBMTXp5bnRXOG5wZ3JDaGhTdzRXOFNLbmxib21OMVRzcDFpclFOUnhKSVg5SVJvOGdiMVRUa3Y?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 10:54:03 GMT"
-    },
-    {
-      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzVxaEFRS2NOd2NZVUNtWHNQaTgwaVc1bGJhLTZVWVZFTjREMnJhVXllcllTYlZKTWM3TmVudWo3MXVfcnpTazhIX2RZWWZ5YjJ3XzMxNnZkemlkMjduaEExRXVRWjY3M2ZSNmo0c3BhRmZsSW82ampNRVBpVkJ3YWtvWVFSM0pPcl9tTGlKVDF0dUhNYmgzN2MtWTFGWHBpV1liRHFZVEYwdURaNkFiNnBaUHNoVW5aTjhOVG82Qm9tQXhIV2VqN0RWT2gyYW1yb0xEdEFpdG4ya0tFOVVtSTQ0aWdYQkQyS1liNWJOelMzdFXSAfgBQVVfeXFMTUFQcXZjUk93LXBGOGZqOHlmcXFNR2RoSkdCc2F2bVdPM0hGQ2lqQy04bG50MzZWY0JoUU1uRFFlME92NjFueGpyNFpBREFKTC1pMzZ1eGJlSWF5dGNjVXlFZ21JS0NjZmYtNWUzVG02ajRXbi1nWWtwSktpU3VxektCa3BpbTI2Sk9fZUFKbUIzYkM1V0tScExKMmgxM0l1SmhUTkpMYXVIMlZ2R1I2TkJ5emtlQ3BNXzBfWTRERkNLRW5tYWxnNjdqV29GUldwMExmU3pGaVJ5LWNaZHpnQ2Fsa2p3dE03QTZCU1c3Zkt1QzNLSWlyUk8?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 04:44:56 GMT"
-    },
-    {
-      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for 25 Sept 2026 | GIFT Nifty, Nikkei, Taiwan cues to watch - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWTM0dmdrRUdfSk9FUWpVejZ1SXQ0U2NjX0VxVFlzbzllSWhmVWtZMGdLODg2RnJGNkVSUzRFdGxzQUVsaEtfVk9lZ2ZVNmdaNDV1ZjlON3hBdllybjlOSWhWRkhKUjBGMnVPazJxRFBmdFRoOUZBQkFQZnNYZHdlUlRRV0lDbzFiZHM3Z2ZTNlJ5enBpc1Z6SnpOMkRpdzNYcXFkZTR3dG5neVZyLWI0NmJVOUM4Z2xQNlFoZTR5ZXFkN19kQTRtbkRLcW92ZHBGZGtnc09Md05XT014NXJDdzVOcHNJYWFOS3ZGM2JoSURuSDNPSGdvZDh5NGVaeDhta1hlZ05ZSmtseXPSAZACQVVfeXFMTTFlTERSSENCSkhwSzdDNExXMmdvNnVpUWRZWVZNWHFXdWdLNDdTb1JiNmVIbU5OM2ZhZE1Cc0RVMExmLUJvdVUyQ0RTLW8wM0xwRDI2YnRSMjJKVVl3di1ycnM0UjNQYmZMTWRuMU0yd1hxMDdaVWQwa3R3RF9scDJ2VU1GTWZ3cWYtU29uOGl4TjVBdDlpYlA1d1FDcUhqWjU4SEU4Nnk4VV82RlFxbVNZa2tsUVVMQ2NUZUNCZUl5V2RteEc2Qno4R0o0Z1FRTXh1eC1sVTRlbXBqQXRlcXRjZ0dHTUE2SDFlRlRxQng0QXpwbEJhNWlJQV9yc3JIQTN3bEFVT2x0RzEzalpsbXo?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 01:15:10 GMT"
-    },
-    {
-      "title": "Stock Market Crash News Highlights Today: Nifty Settles Below 23,100, Sensex Ends 1,200 Points Lower - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQzQzdTJVMjg1eU1EZUU5MlRnb1E3Rk95cUNMVGVnR0pfSGd5eVhzaGg2MmZqX1ZkUWZpVWc2VE1XbmtaRFlHbnhab3U1akNFTVhKcDEydlJBS0t0X1Itc1FiMzhKMGxhcWtoWkFxMFBQR2RaYnJkNDItQW1EYWozSE4wTDhnZjFudkNLc3M0WXdBX1FLV1ZKS2JVR0ZVcTJBLU1UZDVSQnV2MndqNElzMVRoVGJobVpsTl9fOC1kbDRESTRLeEY0bHNLVDY5SFVIb3RocWtyQ1V0WVJUN2dEcXhWZmFVZTMyWUl0MmJoV3NBUTRBOXhFZkd5OC1ROU90QkNRT1NpWFPSAZACQVVfeXFMT2xZOWZyMzJUMldfb0xrRnZFSEtrZUFaUDA3a3VZVU1QWXpNWGR5WHhYOHNuSVRlUjN2TTUxTTNCR2w5OUg4S0Y4SGZSdjd5MVRmSFk3WFYxejQ1eTFVR2oxQ053WXBJUjExT0w0XzdwQi1vc3A3YTNoT3hGN19ablRHT1VUWnBBbGdvUmt4dnlLSG5oRFpXbUo1bVBOS0VqTGI2VHdHVU5ZT251ZkVpY2xHQThzd1p5UHBwTmdZTGF5bGJlSjJ6V21QTEZRSWlLbFRjRlNHWUZMNVRvRDdCZnBfODRVZGRqbUU3RW85VUtNVEs3MllDNUpIblBZTEh0YVZ1VEJfWXc1MXdFT1hsUjI?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 10:06:07 GMT"
-    },
-    {
-      "title": "Stock market crash: Nifty 50, Sensex fall 1% as crude tops $102; financial, insurance stocks slide on IRDAI proposal - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSkVkb0huSFhlbmNhN0psN1BPWVZOVThiUzlnRkx3RHZPc2plTl9CNDY3WDJoQUlNUUJ4Z0xXMHE3aU1Xb3k4Z1FUanJId3VYazRKZ3U5X1MzS0dUYTRlUXdTRDk3eWNiVUcyU2ttbXMzQ0JMSXYwZUFYMlBrQUZrRjNFT0V3enlTcVEzeGlGX3RORXVJTHdfUFhxQzdiYm5KWVJSdFp3Y3ZNSXhyTmZyekRESHdkc25NdkRybmpvVm1oRTdBWk9jdzRIVGlGdUNRZVNTMjhjQkliUE1zbklBMldjRVJ0a3QzN3hObHYtUXd6X3htQWozdWh1cE1DYVpvUDZBUnJvc3ltNnRC0gGSAkFVX3lxTFBPeHBSMFNDSEJ1UEVjaHNKbGlyd0lkY3c5cVYwT0M2OGFqREFwaEllMjFtanlXZG9iRFp2SnVOc0F1eXhka2tDek4xdXVQYWdsTGlQSjlsazJHcFVyZXN0eU9RVktPd1VhRXhGakFja3Q5amp5WUh3R2cyT3k5djdvU2pGRWk0Mk1FVVZPbTdIT0ZGcGdnR2hXbWdUaVEzdEU3bnZoMVpuQlVrUWIyQjBnMTZqMW1pTldyWDdPLWxYem4xbW1aeWNiTk9hTDRXMlVlLUM2cy1WOUVJTERGeU9zU0ZJa01oeHgzZklKSGRRcVZEbUlHZ1dIQjhkOUFNNjdIaW5fSk55eWd0bEdKX3Z5WFE?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 04:02:35 GMT"
-    },
-    {
-      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for Thursday, 24 Sept - GIFT Nifty, Nikkei, Taiwan signals - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTDl3ZlJyNW5xZXBBLUtBLXRfSU5kbEdSOXFWM3V2RU51eVdlanIzclZnczhweGRBR1lmWkVUNWI0SlBsbW5tWmd4SzBzNXA0Ty15d21DNVJkQ0piMXpzMDYxYkNndEtmV19UQnV6NVBKZlgzU1ltZEpEakJ5dVl3WU8xQS1DRVQxN0pxV1NuU19RaGZhTWNqSHFhRHFGUVROWDhEMkxhODZ2bmZFX1piMDl0ZzVJSVRhUU5KUC1pV0NCclR5dGxXXzR1VUNvbHMweU1xaHRIQWNIRG5HN1o4NWNlRlBlRjhRVFc2SElTNklUNEtMSXBZVmQ1YkxBOFg2eWtOOFZiMUTSAY4CQVVfeXFMTUdPNHFyRDVseGxVX1p5RDdOWFBabmJQdm1ZNmVZOVB0RGZMeERCSnFfZUMxV3FrMXBJT1liYmFZekEzWGR4cUs4eDlKOUhiNURta2xDLTM0dUFkRTJrOHNaa0djNnlJWFpQcE43OGt0SkFJNEgxSm9hd0puemtzNVgyX3dHdUtGa1VIRHJBdFllRUFmYlYwQ3Y4elV1djY2ZUo5R204dmZyZ3RwaGdZSHZrbERxQWZfRlhCUEhrZjdaelZGLXZmY2lTWm84ek9wWHYzdGRKQVFOR3pYWU94RUVERlBYOXFEeDJaUVI1and2N1hCenc4anc0NVVaRG50TF9Pa1o2di0xc3k3SDdn?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 01:17:46 GMT"
     },
     {
       "title": "Sensex Today | Stock Market Live: Sensex ends over 300 pts higher, Nifty near 23,150 after CAS; auto, consumer durables gain nearly 1% - Moneycontrol.com",
@@ -178,10 +119,52 @@
       "publishedAt": "Fri, 25 Sep 2026 10:17:52 GMT"
     },
     {
-      "title": "Stock Market Today Live, Sept 23: Nifty holds above 23,400, Sensex gains over 350 points in cautious trade - BusinessLine",
+      "title": "Stock market today: BSE Sensex opens over 100 points up, NSE Nifty50 trades above 23,000 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2ZIYlJtSTJ2R0tUd041X2M0a2gyT0hxbktRNi1YSFpNcXlUZlBwcW9FMGl0RkRoUXJpLXFSYmI1SUlJTkFBNTl0dlExYi1LWm0xX1hUVVFqVjhxWlJwd1Mwb29fX1U0VVFhRE01d3IxSTNpNkkzQWY2TkpJSVVKLWtlM1dFWkFnaEFuZ2hCT2RYWktac2dQLUVmemdKeHlMMHYwbEtfaEI2d2w0MEdYVGx4T2R1ZktDV1RWQ2ZfUFBDZGRTWVdmSF92OS1kTnFNUTBXeHlZd3ctMF9wMk9lNHRoVEJTUTVYSV9rR0FvdG5jZVIxdzBJdnNSS1VzbXll0gGGAkFVX3lxTFBZX2J6TDljZ3haMlBoSFNpQWJ3XzE1aVhVTXVUNUkyYUZLY2N5Z1VuV19hbzZNNDhsb2RlTjZWRmpObFNlVFR1RmtRcVM3bXZGODZXUnhJcC11VXVDM2pKWVNfdXRjaENBQUZiRjZwZmZ2SmRmRTE1Nmxac1I4RlVla0U0LVdlNGdKS2RxOHhfRUFTaUtlcDNLTFVjY2JyZzBSWFEwVXR1R25rMjZmRldrRldOazUwRmRjTmhpVUl6Q1ViWFo4bS1GaEpuWkhUelYyd0ZBOGdIM0Fxa0p0U29jZEpnR1NWcGx6TEl6ckt5NUNhS0lTVU1QR043dEZvbC0zNmpHNmc?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 03:51:00 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Today: Indian Markets Recover After Heavy Thursday Losses - APAC Media",
+      "source": "APAC Media",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hVC1JSXRqcHpiOC1BcW9STzVMX1E1Y2FuZThSci15UVN4VVBkU0syaVFzU01NaXVDZ21QSS03M0h2N0JoZFFOV1lZVlZna1YtRzRHdi03OHRLS3B0OGdGbzRKX01uc3BVbzZwTXVmVkFoMXU5Nk04aGhYZw?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 10:31:57 GMT"
+    },
+    {
+      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUF9yc1dtakp4OG9GOWJ6elRVNVFvTGRRRHVBWUhMaXpXblE4dWtOckpWcHExRmYxTHZ3RTdveV92VW5LcXExa081eVlwT0kzSjh0eFlZVzJVQ0lkWllCaHRQc25fQkFnSmVfMkxhaDN1V3hDYjNTamwyWGVhR1ExUGxWd3JyZzZOQlBta1BjQ0lRR1NxYTU4dm9PaE5NSUd3RTNhdlRwQ2hkUnp3emUySUJ0a0ttOFdrdXlMTGVvaGE5dURoXzhZMy13WnR1eTRSZWJDazluOXRmSlRhM0FKVVlwVG95ZXJGUGt0c21hbEZnczBpUjRhLVhmTQ?oc=5",
+      "publishedAt": "Sun, 20 Sep 2026 07:52:08 GMT"
+    },
+    {
+      "title": "India shares log longest weekly losing run since 2020 as oil prices bite - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDlIOXFjNzhyRGVteU5DNTJCdVlRNUZEY3VObFdZNDI1MDU2SUo0NEM1N1JDTHpDMTk0YU9OM2V1eXRla1VaanBsTTlUM1lWR3VYU0g1eG5pM21hNzFWQTdabWphemRRMlc1U09MdWxVRVNLUWxjd3pIODVuY2UtcFE0dEhPTUM2MU1pbHNOQ1NnOUQtME1TTDJjSzJzOGljZTRmN0NBZ2Q0S1VodGZaSXFxZU1VTGNnanc3a0o0anM?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 02:18:00 GMT"
+    },
+    {
+      "title": "Weekly Market Wrap (Sep 21-25): Sensex, Nifty End Lower After Sharp Midweek Sell-Off - The Indian Awaaz",
+      "source": "The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDNDc2prQmxQanc5a2pycHNTY24zNFR0TEFyWENGaUdlRC1WTlFZRG1SUWxUYzNPUUhQU294aUJaQ3NUSnRhbGZ2WGk0SUp0N2xzenN3OWZnTnFYTkd6aGJPXzNBa1NvTnhCSzJWQ3VudXJ1MFBKLWJBbWFHdUpHaGZ1YTVPYWlFYjFfb29sZjhEMTZBeWF2eENZLVBDWWk2S1lfbzhXZm9Dc3Rf?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 17:41:00 GMT"
+    },
+    {
+      "title": "Nifty logs longest weekly losing streak since Covid-19 crash in 2020 - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUUtnVHpwYkFNOFNFZjNYdE9VYmR6ZXVKQlA1ZExrLWF4dkp0alBuZDdEMnUteGx5NWdQZ3FwNEtRRXYySDJtZXRpT1dnbEQzX295bVZDUkRFSkl5Yk5MSEFOblhOUm5tN3VCVlB1QmV0ZnFIUnRULXd3Y0FsX284cUtMcERJNkEwRlgxZlkyUDNiUTFudFNmOThaOGp3RDZwd2t5ZFlPcXUtcjFSbThTUEItVjUzdnExcmhFRUhSd0NMTnE0X1VwZks5eHN1MUdN0gHWAUFVX3lxTE9BVlRVWVBPd2tYd1J2aFZZaEx0eDdDaDY5WW1hcUN0T0tOVTI5UmhYbnpBakt2Y3dhWmJ0M1otX282WVRhTU5aSURlTG82d3p6TFRsdVVSWTVhUW4xYmJLeXlTWEhOdEl2XzdaYUkwUTZ4WDRCNzdkR21OblBDSTE2a0tPc3MwQkxGZGVsRmtwYmlSRFJjS2JpY29rbFlHSHBLazNKYWZobGMya0d0eTF0RVNvN1pwLUtPVGJQQXE3NkFyM3Qwa0JfNXYtS196MGhYMWtzSGc?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 18:17:52 GMT"
+    },
+    {
+      "title": "Stock market today: Sensex, Nifty may open flat amid key headwinds - BusinessLine",
       "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHJUbnpTaE1iemw2SWc0RUdtWkUtLXBFYTllLWRDYnRwSnJPd2lWdWZoUWMzTVFaa211WkpYdWxIVkJzRXQ5Mlp0SGV3WmN6NG1nSWJKSERpX2NTZWE4YkQ2UHZWTkZQWHRZUEVmZnpNWlZveS0xTEpHMWYwYVNjdFJKaE11Q1czaEhTa2wyNGwyQXd5NlFaMllaaHFSZUgtZHZOWU52UlFqOVRQRmE4WHBxM0dVa1hmQUNLNWM0SFkyX1JMM0pHV2hoSdIB0gFBVV95cUxNWGNQbXpabjdRWE1odzVRREFyejZCckJrQVJNdU1FYkVGbjZKRGNDeTMtX1JxMDZKbHBmdVpSTC1XUU5JaFM2Sm5JV3dOU1BCY3NHTGstdVk1TkJfLWxvR2R2X1hIMmhjU3NpbEVEMDNCM1FfOHFmdkhxVkduVWpIWExxU1NtVWlCaFRGTk43X1E5dWt5RVdPXzFqbHYyTE9CalV0cGExT2VlcnEyc0swZ1hiaUxWQWd3X21Mc3NxeU8ydHg1bUljdFhwZ2NGUnFfRFE?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 08:34:17 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTZ0WFk4RmRvMGxLQ1NEcHdMTU5ZWWI5a2V4Uld4WVNIU3FsWmJpVXJXZFJaNnVXRTd3WjBKdDMwUmtoMktHVHlSekRoT1dsTjJTZjdrbDJYM3FGa1BTdVdIaUxOZ0o0U1NWaC1fZm4xbXJsWkJzZ3c3MTBtX1VhTjZkUHY0MmZQYWtMOEFrREZhTmstUUZ0eDdfRGx0aFZGNTRPU1VIcG8yTEVjNEF5NzJnUm82Q2hVYzNncS1qOEVDV0QyWG9mbW92elNEZ2tr0gHXAUFVX3lxTE5tQlVCbVlxQndqM1Zmd2ZtZWdldjZ6WXBqWjZiVEhjLTFKamtwNXhXbG9KWXZ1bUFuN19PMzFtdlNxS1N5UzRIckttOFBINUlKWnE1SmpYWHQ3MDlIUDRkVVR2eWwyQUMzMmNVSFM0UEZvTDR6Z0NBS2E1bzZoM3dDWlBJNkp6OGo5V2FZRHBzWVZBdUNYeTFPaGxyMkxpREF6enktNGFkbWRNVWZQVDNVVGo2WVhWTzd6YXM5MVA3YzlhM2RzMVJRTDM1emRDUVdPM0xObzRv?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 02:18:31 GMT"
+    },
+    {
+      "title": "Indian shares post worst day in 10 weeks on oil spike, proposed insurance curbs - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFR1dnlza0cxUU5PbXRVYmRRT19oaHZFS3NmTDZUdHhDUVpIaTJDVDFHYThvSXE3RzNWenBDSUlDUDVCdE51VkpDaXppUEl2M1htMGxsMkxPV3ZaS2d3YVhYVTlFUEphWm45cWVuYTZLYmJ2V0xwT2dtMFkwQXZ5bjVWOVh2UHczVnZUSFQ5NFBrUkJaQTJwRXFoSlY5ajhXaHJXOVd3enFaclR4QUpXODFjMWxjVVE?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 02:39:00 GMT"
     }
   ]
 }
