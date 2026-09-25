@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets open higher following sharp Thursday decline amid rising crude oil prices and high yields",
+  "headline": "Indian Markets Open Cautiously After Thursday's Crash; Property Stocks and IPOs in Focus",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,22 +7,31 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex tanked over 1,200 points and Nifty fell below 23,100 during Thursday's heavy market selloff.",
-    "Crude oil prices surging above $100 per barrel and elevated bond yields continue to weigh on investor sentiment.",
-    "Indian stock market opened higher on Friday with the BSE Sensex trading over 100 points up.",
-    "Global cues from GIFT Nifty, Nikkei, and Fed rate expectations are guiding market direction."
+    "Elevated crude oil prices surging above $100 per barrel weighing on market sentiment",
+    "Rising bond yields and a stronger US dollar impacting global equity markets",
+    "Recovery attempt following a sharp 1,200-point Sensex crash in the previous session",
+    "Bullish outlook from Jefferies on property stocks citing strong launch momentum"
   ],
   "whatHappening": [
-    "Jefferies flagged strong sales and launch momentum for real estate stocks heading into H2.",
-    "JSW One Platforms filed a DRHP with SEBI to raise up to Rs 3,054 crore through an IPO.",
-    "Axiom Gas Engineering SME IPO shares are listed today on the stock exchange.",
-    "Moneyview IPO subscription reached 1.4x on its second day with GMP signaling a potential 38% listing gain."
+    "Nifty and Sensex opened flat to slightly positive after falling below key support levels on Thursday",
+    "Multiple IPOs including Moneyview and Adroit Industries are seeing high subscription levels and GMP gains",
+    "Axiom Gas Engineering SME IPO is scheduled to list on the exchanges today",
+    "JSW One Platforms has filed a DRHP with SEBI to raise up to Rs 3,054 crore via IPO"
   ],
   "stocksInNews": [
     {
-      "symbol": "DLF",
+      "symbol": "NSE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        0,
+        16
+      ]
+    },
+    {
+      "symbol": "OBEROIRLTY",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         6
       ]
@@ -30,15 +39,15 @@
     {
       "symbol": "LODHA",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         6
       ]
     },
     {
-      "symbol": "OBEROIRLTY",
+      "symbol": "DLF",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         6
       ]
@@ -46,14 +55,54 @@
     {
       "symbol": "GODREJPROP",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         6
       ]
+    },
+    {
+      "symbol": "BSE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "JSWONE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "MONEYVIEW",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "ADROIT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "AXIOM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
     }
   ],
-  "summary": "Indian benchmark indices opened higher on Friday, recovering slightly after Sensex crashed over 1,200 points in the previous session.\nSurging crude oil prices above $100 and elevated bond yields continue to act as key market headwinds.\nReal estate stocks remain in focus as Jefferies highlighted strong launch momentum and a promising H2 outlook.",
-  "updatedAt": "2026-09-25T04:01:32.825Z",
+  "summary": "Indian markets are attempting to stabilize after a major sell-off on Thursday driven by high oil prices and surging yields. While the broader market remains cautious, property stocks are seeing interest following positive brokerage reviews. The IPO segment continues to show strength with several companies reporting high subscription rates and new filings.",
+  "updatedAt": "2026-09-25T04:31:23.260Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-25",
   "articleKeys": [
@@ -68,14 +117,14 @@
     "costcos quarterly profit beats estimates on tariff refunds",
     "dollar set for weekly gains as yields surge fed bets build",
     "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
-    "sensex nifty 50 prediction today stock market outlook for 25 sept 2026 gift nifty nikkei taiwan cues to watch livemint",
+    "stock market today live sept 23 nifty holds above 23400 sensex gains over 350 points in cautious trade businessline",
+    "indian shares open flat as elevated oil yields weigh reuters",
     "stock market today sensex nifty may open flat amid key headwinds businessline",
-    "indian shares eye positive start after sharp drop but elevated oil yields weigh reuters",
+    "stock market today bse sensex opens over 100 points up nse nifty50 trades above 23000 the times of india",
     "stock market today gift nifty bond yields to oil prices five key factors that may drive sensex nifty 50 on september 25 ndtv profit",
     "the battle between indias stock exchanges is heating up again the economist",
     "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingview",
     "stock market crash sensex falls over 630 points nifty slips as crude oil surges above 100 rupee also falls ptc news",
-    "stock market today bse sensex opens over 100 points up nse nifty50 trades above 23000 the times of india",
     "stock market crash five reasons why nifty fell 400 points sensex tanked 1200 points on thursday cnbc tv18"
   ],
   "articles": [
@@ -146,10 +195,16 @@
       "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
     },
     {
-      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for 25 Sept 2026 | GIFT Nifty, Nikkei, Taiwan cues to watch - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWTM0dmdrRUdfSk9FUWpVejZ1SXQ0U2NjX0VxVFlzbzllSWhmVWtZMGdLODg2RnJGNkVSUzRFdGxzQUVsaEtfVk9lZ2ZVNmdaNDV1ZjlON3hBdllybjlOSWhWRkhKUjBGMnVPazJxRFBmdFRoOUZBQkFQZnNYZHdlUlRRV0lDbzFiZHM3Z2ZTNlJ5enBpc1Z6SnpOMkRpdzNYcXFkZTR3dG5neVZyLWI0NmJVOUM4Z2xQNlFoZTR5ZXFkN19kQTRtbkRLcW92ZHBGZGtnc09Md05XT014NXJDdzVOcHNJYWFOS3ZGM2JoSURuSDNPSGdvZDh5NGVaeDhta1hlZ05ZSmtseXPSAZACQVVfeXFMTTFlTERSSENCSkhwSzdDNExXMmdvNnVpUWRZWVZNWHFXdWdLNDdTb1JiNmVIbU5OM2ZhZE1Cc0RVMExmLUJvdVUyQ0RTLW8wM0xwRDI2YnRSMjJKVVl3di1ycnM0UjNQYmZMTWRuMU0yd1hxMDdaVWQwa3R3RF9scDJ2VU1GTWZ3cWYtU29uOGl4TjVBdDlpYlA1d1FDcUhqWjU4SEU4Nnk4VV82RlFxbVNZa2tsUVVMQ2NUZUNCZUl5V2RteEc2Qno4R0o0Z1FRTXh1eC1sVTRlbXBqQXRlcXRjZ0dHTUE2SDFlRlRxQng0QXpwbEJhNWlJQV9yc3JIQTN3bEFVT2x0RzEzalpsbXo?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 01:15:10 GMT"
+      "title": "Stock Market Today Live, Sept 23: Nifty holds above 23,400, Sensex gains over 350 points in cautious trade - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHJUbnpTaE1iemw2SWc0RUdtWkUtLXBFYTllLWRDYnRwSnJPd2lWdWZoUWMzTVFaa211WkpYdWxIVkJzRXQ5Mlp0SGV3WmN6NG1nSWJKSERpX2NTZWE4YkQ2UHZWTkZQWHRZUEVmZnpNWlZveS0xTEpHMWYwYVNjdFJKaE11Q1czaEhTa2wyNGwyQXd5NlFaMllaaHFSZUgtZHZOWU52UlFqOVRQRmE4WHBxM0dVa1hmQUNLNWM0SFkyX1JMM0pHV2hoSdIB0gFBVV95cUxNWGNQbXpabjdRWE1odzVRREFyejZCckJrQVJNdU1FYkVGbjZKRGNDeTMtX1JxMDZKbHBmdVpSTC1XUU5JaFM2Sm5JV3dOU1BCY3NHTGstdVk1TkJfLWxvR2R2X1hIMmhjU3NpbEVEMDNCM1FfOHFmdkhxVkduVWpIWExxU1NtVWlCaFRGTk43X1E5dWt5RVdPXzFqbHYyTE9CalV0cGExT2VlcnEyc0swZ1hiaUxWQWd3X21Mc3NxeU8ydHg1bUljdFhwZ2NGUnFfRFE?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 08:34:17 GMT"
+    },
+    {
+      "title": "Indian shares open flat as elevated oil, yields weigh - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDlIOXFjNzhyRGVteU5DNTJCdVlRNUZEY3VObFdZNDI1MDU2SUo0NEM1N1JDTHpDMTk0YU9OM2V1eXRla1VaanBsTTlUM1lWR3VYU0g1eG5pM21hNzFWQTdabWphemRRMlc1U09MdWxVRVNLUWxjd3pIODVuY2UtcFE0dEhPTUM2MU1pbHNOQ1NnOUQtME1TTDJjSzJzOGljZTRmN0NBZ2Q0S1VodGZaSXFxZU1VTGNnanc3a0o0anM?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 02:18:00 GMT"
     },
     {
       "title": "Stock market today: Sensex, Nifty may open flat amid key headwinds - BusinessLine",
@@ -158,10 +213,10 @@
       "publishedAt": "Fri, 25 Sep 2026 02:18:31 GMT"
     },
     {
-      "title": "Indian shares eye positive start after sharp drop, but elevated oil, yields weigh - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDlIOXFjNzhyRGVteU5DNTJCdVlRNUZEY3VObFdZNDI1MDU2SUo0NEM1N1JDTHpDMTk0YU9OM2V1eXRla1VaanBsTTlUM1lWR3VYU0g1eG5pM21hNzFWQTdabWphemRRMlc1U09MdWxVRVNLUWxjd3pIODVuY2UtcFE0dEhPTUM2MU1pbHNOQ1NnOUQtME1TTDJjSzJzOGljZTRmN0NBZ2Q0S1VodGZaSXFxZU1VTGNnanc3a0o0anM?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 02:18:00 GMT"
+      "title": "Stock market today: BSE Sensex opens over 100 points up, NSE Nifty50 trades above 23,000 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2ZIYlJtSTJ2R0tUd041X2M0a2gyT0hxbktRNi1YSFpNcXlUZlBwcW9FMGl0RkRoUXJpLXFSYmI1SUlJTkFBNTl0dlExYi1LWm0xX1hUVVFqVjhxWlJwd1Mwb29fX1U0VVFhRE01d3IxSTNpNkkzQWY2TkpJSVVKLWtlM1dFWkFnaEFuZ2hCT2RYWktac2dQLUVmemdKeHlMMHYwbEtfaEI2d2w0MEdYVGx4T2R1ZktDV1RWQ2ZfUFBDZGRTWVdmSF92OS1kTnFNUTBXeHlZd3ctMF9wMk9lNHRoVEJTUTVYSV9rR0FvdG5jZVIxdzBJdnNSS1VzbXll0gGGAkFVX3lxTFBZX2J6TDljZ3haMlBoSFNpQWJ3XzE1aVhVTXVUNUkyYUZLY2N5Z1VuV19hbzZNNDhsb2RlTjZWRmpObFNlVFR1RmtRcVM3bXZGODZXUnhJcC11VXVDM2pKWVNfdXRjaENBQUZiRjZwZmZ2SmRmRTE1Nmxac1I4RlVla0U0LVdlNGdKS2RxOHhfRUFTaUtlcDNLTFVjY2JyZzBSWFEwVXR1R25rMjZmRldrRldOazUwRmRjTmhpVUl6Q1ViWFo4bS1GaEpuWkhUelYyd0ZBOGdIM0Fxa0p0U29jZEpnR1NWcGx6TEl6ckt5NUNhS0lTVU1QR043dEZvbC0zNmpHNmc?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 03:51:00 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty, Bond Yields To Oil Prices — Five Key Factors That May Drive Sensex, Nifty 50 On September 25 - NDTV Profit",
@@ -186,12 +241,6 @@
       "source": "PTC News",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjllRTk5NW9XdG1oVkhqUmJWNXBwbGRNelVkSURvYWg5X0RabEVUMDktWHQ5ZVdrcVVQMkRERGNOMGNmZG5IYjBXSk96RFVhdHN2Z2RlWlNMc2hsT1hBQU5qcjNIakJjNlBQeDVDamROS0NxSUVEU1R5SndSREE2SWZlYlFJblludnJZVEVmN2xid0xjVTNnd1dnWjNQblZnZEFZUWg4eTlqX2VjSnNsbA?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 07:10:18 GMT"
-    },
-    {
-      "title": "Stock market today: BSE Sensex opens over 100 points up, NSE Nifty50 trades above 23,000 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2ZIYlJtSTJ2R0tUd041X2M0a2gyT0hxbktRNi1YSFpNcXlUZlBwcW9FMGl0RkRoUXJpLXFSYmI1SUlJTkFBNTl0dlExYi1LWm0xX1hUVVFqVjhxWlJwd1Mwb29fX1U0VVFhRE01d3IxSTNpNkkzQWY2TkpJSVVKLWtlM1dFWkFnaEFuZ2hCT2RYWktac2dQLUVmemdKeHlMMHYwbEtfaEI2d2w0MEdYVGx4T2R1ZktDV1RWQ2ZfUFBDZGRTWVdmSF92OS1kTnFNUTBXeHlZd3ctMF9wMk9lNHRoVEJTUTVYSV9rR0FvdG5jZVIxdzBJdnNSS1VzbXll?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 03:51:00 GMT"
     },
     {
       "title": "Stock Market Crash: Five reasons why Nifty fell 400 points, Sensex tanked 1,200 points on Thursday - CNBC TV18",
