@@ -1,161 +1,139 @@
 {
-  "headline": "Sensex recovers 300 points after previous day's crash; Nifty nears 23,150 as auto and consumer durables lead gains",
+  "headline": "On last trading day, Sensex rose 300 points as auto and consumer durables sectors led a market recovery.",
   "marketStatus": {
-    "isClosed": false,
+    "isClosed": true,
     "isMuhuratTrading": false,
-    "message": "Market is open for trading today.",
-    "nextOpen": ""
+    "message": "Market is closed today because it is a weekend. It will reopen on Monday, 28 September.",
+    "nextOpen": "Monday, 28 September"
   },
   "why": [
-    "Auto and consumer durables sectors gained nearly 1% on September 25",
-    "Market recovery following a massive 1,248-point Sensex crash the previous day",
-    "Crude oil prices rising above $102 per barrel pressured global and domestic markets",
-    "IRDAI proposal led to a slide in financial and insurance stocks during the previous session"
+    "Auto and consumer durables sectors gained nearly 1% in the last session",
+    "Government cut FY27 borrowing by ₹1.2 trillion, easing fiscal pressure",
+    "Technical recovery following a sharp 1,200-point crash in the previous session",
+    "RBI bulletin highlighted economic resilience despite global geopolitical risks"
   ],
   "whatHappening": [
-    "Kian-M Export filed draft papers with SEBI for a ₹500 crore fresh issue IPO",
-    "Tesla expanded its Indian presence by opening its sixth Experience Centre in Chennai",
-    "PSU banks waived ATM charges for customers during a scheduled three-day bank strike",
-    "SIDBI withdrew a ₹6,000 crore bond issue as yields hardened in the market"
+    "Sensex ended Friday over 300 points higher, closing near the 23,150 level",
+    "Sidbi pulled a ₹6,000 crore bond issuance as market yields hardened",
+    "Virtual pharma firm HRV is preparing for an IPO with a DRHP expected in 2027",
+    "Crude oil prices spiking above $102 remains a significant concern for Indian markets"
   ],
   "stocksInNews": [
-    {
-      "symbol": "KIAN-M",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "TESLA",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "RAPIDO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        5
-      ]
-    },
     {
       "symbol": "SIDBI",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        8
+        4
+      ]
+    },
+    {
+      "symbol": "HRV",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
       ]
     }
   ],
-  "summary": "The Indian stock market showed signs of recovery on September 25, with the Sensex rising over 300 points after a sharp 1,200-point sell-off. Gains were primarily driven by the auto and consumer durables sectors, helping the Nifty 50 settle near the 23,150 mark. Investors remain focused on high crude oil prices and new regulatory proposals while tracking corporate developments like Kian-M Export's IPO filing.",
-  "updatedAt": "2026-09-25T15:02:10.715Z",
+  "summary": "The Indian market ended the last session on a positive note, with the Sensex gaining over 300 points to recover from a mid-week slump. Gains were driven by the auto and consumer durables sectors alongside a reduction in government borrowing targets. However, investors remain cautious due to high crude oil prices and ongoing West Asia conflicts.",
+  "updatedAt": "2026-09-25T20:01:40.074Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-09-25",
+  "dateChecked": "2026-09-26",
   "articleKeys": [
-    "coffee board brews sustainability push with new certification framework",
-    "aiven launches india operations plans expansion in bengaluru",
-    "quote of the day by hetty green i buy when things are low and no one wants them i keep them until they go up and people are crazy to get them",
-    "psu banks waive atm charges for customers during threeday bank strike",
-    "cea flags us ties energy as headwinds calls for strategic buffers",
-    "after bengaluru rapido expands ownly food delivery service to hyderabad",
-    "kianm export files ipo papers with sebi to raise 500 cr via fresh issue",
-    "tesla opens sixth india experience centre in chennai",
-    "sidbi withdraws 6000 crore threeyear bond issue as yields harden",
-    "us stocks open higher as ai enthusiasm eases worries over higher oil prices yields",
-    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall timesofindiaindiatimescom",
-    "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtvcom",
-    "why did market crash today sensex plummets 1248 points nifty ends below 23100 5 factors behind today the economic times",
+    "virtual pharma api firm hrv preparing for ipo drhp likely in h1 of 2027 sources",
+    "anthropic investor lonsdale says ai firms stoking fear to sway policy",
+    "govt cuts fy27 borrowing by 12 trn to raise 78 trn through gilts in h2",
+    "economy resilient with downside risks from west asia conflict rbi bulletin",
+    "sidbi pulls out 6000 crore 3year bond issuance as yields harden",
+    "ailed phone price hikes persist hitting indian customers",
+    "ai boom raises toobigtofail concerns as ecosystem expands says kansas feds jeff schmid",
+    "rbi bulletin fcnrb boost for rupee dented by recent crude oil spike",
+    "microsoft abandons personal ai chatbot race with copilot reboot",
+    "cea nageswaran flags 3 nearterm risks us ties energy and ai gap",
+    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
+    "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
     "sensex crashed over 1200 points why stock market fell today india today",
     "sensex nifty 50 prediction today stock market outlook for 25 sept 2026 gift nifty nikkei taiwan cues to watch livemint",
     "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
     "stock market crash nifty 50 sensex fall 1 as crude tops 102 financial insurance stocks slide on irdai proposal livemint",
     "sensex nifty 50 prediction today stock market outlook for thursday 24 sept gift nifty nikkei taiwan signals livemint",
-    "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom"
+    "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom",
+    "stock market today live sept 23 nifty holds above 23400 sensex gains over 350 points in cautious trade businessline"
   ],
   "articles": [
     {
-      "title": "Coffee Board brews sustainability push with new certification framework",
+      "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/coffee-board-brews-sustainability-push-with-new-certification-framework/article71509209.ece",
-      "publishedAt": "Fri, 25 Sep 2026 20:09:03 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/virtual-pharma-api-firm-hrv-preparing-for-ipo-drhp-likely-in-h1-of-2027-sources/articleshow/134491851.cms",
+      "publishedAt": "Sat, 26 Sep 2026 00:49:32 +0530"
     },
     {
-      "title": "Aiven launches India operations; plans expansion in Bengaluru",
+      "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/aiven-launches-india-operations-plans-expansion-in-bengaluru/article71508882.ece",
-      "publishedAt": "Fri, 25 Sep 2026 19:50:16 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-to-sway-policy/articleshow/134491575.cms",
+      "publishedAt": "Sat, 26 Sep 2026 00:36:32 +0530"
     },
     {
-      "title": "Quote of the day by Hetty Green: \"I buy when things are low and no one wants them. I keep them until they go up and people are crazy to get them.\"",
+      "title": "Govt cuts FY27 borrowing by ₹1.2 trn, to raise ₹7.8 trn through gilts in H2",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-hetty-green-i-buy-when-things-are-low-and-no-one-wants-them-i-keep-them-until-they-go-up-and-people-are-crazy-to-get-them-/articleshow/134487588.cms",
-      "publishedAt": "Fri, 25 Sep 2026 19:46:01 +0530"
+      "link": "https://www.business-standard.com/economy/news/centre-to-borrow-7-86-trillion-via-dated-securities-in-h2fy27-govt-126092500946_1.html",
+      "publishedAt": "Sat, 26 Sep 2026 00:09:28 +0530"
     },
     {
-      "title": "PSU banks waive ATM charges for customers during three-day bank strike",
+      "title": "Economy resilient with downside risks from West Asia conflict: RBI bulletin",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/banking/psu-banks-waive-atm-charges-for-customers-during-three-day-bank-strike-126092501028_1.html",
-      "publishedAt": "Fri, 25 Sep 2026 19:35:45 +0530"
+      "link": "https://www.thehindu.com/business/economy-resilient-with-downside-risks-from-west-asia-conflict-rbi-bulletin/article71510232.ece",
+      "publishedAt": "Fri, 25 Sep 2026 23:39:07 +0530"
     },
     {
-      "title": "CEA flags US ties, energy as headwinds, calls for strategic buffers",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/cea-flags-us-ties-energy-as-headwinds-calls-for-strategic-buffers-126092500912_1.html",
-      "publishedAt": "Fri, 25 Sep 2026 19:32:29 +0530"
-    },
-    {
-      "title": "After Bengaluru, Rapido expands Ownly food delivery service to Hyderabad",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/after-bengaluru-rapido-expands-ownly-food-delivery-service-to-hyderabad-126092501019_1.html",
-      "publishedAt": "Fri, 25 Sep 2026 19:23:28 +0530"
-    },
-    {
-      "title": "Kian-M Export files IPO papers with Sebi to raise ₹500 cr via fresh issue",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/kian-m-export-files-ipo-papers-with-sebi-to-raise-500-cr-via-fresh-issue-126092500973_1.html",
-      "publishedAt": "Fri, 25 Sep 2026 19:23:03 +0530"
-    },
-    {
-      "title": "Tesla opens sixth India Experience Centre in Chennai",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/tesla-opens-sixth-india-experience-centre-in-chennai/article71508972.ece",
-      "publishedAt": "Fri, 25 Sep 2026 19:19:04 +0530"
-    },
-    {
-      "title": "SIDBI withdraws ₹6,000 crore three-year bond issue as yields harden",
+      "title": "Sidbi pulls out ₹6,000 crore 3-year bond issuance as yields harden",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/finance/news/sidbi-withdraws-6-000-crore-three-year-bond-issue-as-yields-harden-126092501017_1.html",
-      "publishedAt": "Fri, 25 Sep 2026 19:15:05 +0530"
+      "publishedAt": "Fri, 25 Sep 2026 23:24:41 +0530"
     },
     {
-      "title": "US stocks open higher as AI enthusiasm eases worries over higher oil prices, yields",
+      "title": "AI-led phone price hikes persist, hitting Indian customers",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-open-higher-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields/articleshow/134486867.cms",
-      "publishedAt": "Fri, 25 Sep 2026 19:08:24 +0530"
+      "link": "https://www.thehindu.com/business/ai-led-phone-price-hikes-persist-hitting-indian-customers/article71508595.ece",
+      "publishedAt": "Fri, 25 Sep 2026 23:24:07 +0530"
     },
     {
-      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
+      "title": "AI boom raises ‘too-big-to-fail’ concerns as ecosystem expands, says Kansas Fed's Jeff Schmid",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-boom-raises-too-big-to-fail-concerns-as-ecosystem-expands-says-kansas-feds-jeff-schmid/articleshow/134490358.cms",
+      "publishedAt": "Fri, 25 Sep 2026 23:15:51 +0530"
+    },
+    {
+      "title": "RBI Bulletin: FCNR(B) boost for rupee dented by recent crude oil spike",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/finance/news/rupee-gains-on-fcnr-b-deposits-reverse-amid-crude-price-spike-rbi-report-126092501094_1.html",
+      "publishedAt": "Fri, 25 Sep 2026 23:09:08 +0530"
+    },
+    {
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot-126092501100_1.html",
+      "publishedAt": "Fri, 25 Sep 2026 23:07:23 +0530"
+    },
+    {
+      "title": "CEA Nageswaran flags 3 near-term risks: US ties, energy, and AI gap",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/economy/news/cea-flags-us-ties-energy-as-headwinds-calls-for-strategic-buffers-126092500912_1.html",
+      "publishedAt": "Fri, 25 Sep 2026 23:01:10 +0530"
+    },
+    {
+      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
+      "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
     },
     {
-      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - ndtv.com",
-      "source": "ndtv.com",
+      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
+      "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEtEbWlBNTFIcHJzRV9zU0hnQUd4MVRma2VMWXpOdDl3SURrMGJPOXBnVnFOTm1MLVpMMFAzYUhUWDJVYnpYd1cyWG1xUjhxOVdkb0tVNkF2VnZfZktsRnRYTlNjMzBYblcyM0pHRUo4Ul8xVlFoci1JOXpSU2F2RlBkbFJaZGhTeE9yODV4aDlnSDdKbjd2c0ZKMzc0Y2JFbER0c2hDNW1pbURITlcw0gG3AUFVX3lxTE8xbVZoQm0xdm9CSmg5ZVBDMVluS0lTTUctTnpYYVU2S0RxcFhlaUY5Qndta09tY3VuZWI3MW1LRWlPNVl6QlY4OVBFcENPZEY4OU9jMThxdzM1cG56U1ZtN29HNGEtZmZ6eklRSXlNNERlUVF0dXNjVXV0dERKeFpyeHY4YUV3ZXdWYWhjcWsxM1d4TWtYOE1tUjRFQ0xKQm5aWHJhcnJfSHFha1FDeUJpSDdJaWhrNA?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 09:02:35 GMT"
-    },
-    {
-      "title": "Why did market crash today? Sensex plummets 1,248 points, Nifty ends below 23,100. 5 factors behind today' - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNblY5UUJKckZ0My1hbEZrdS1NbjFpR0Vyam1YUHcxd1BSMDdzWkpVZzVyN0ptcnZWZ0EwRElGTEdLV1pWNFd3a05HeEpBOC1UN0NCandyUjlzUVpsUXpKZElQajdHYUoyc2dvLXdMVkNQSW5lZHNFVG1aMzVJQ0tUcENOcmR3QWIyUFNWOFo1RENRX29SbEZLVmNGdVdjSVdkYVZyM1l6dUNtaE9KYjk1VmhIVTlWUlVZNUVFekwwRGZETkw1NTFzbWhSX2xVc2RTdzdCRExjMW5LZ05EbFZRODJvcXRnbmpKZGdPRGlpeGgza1BVNFA1V0xkR2ZJUEpCNWpPZnh5aXR2MW5aQ1EzTEJBdGY5Mi1UTkZF0gGgAkFVX3lxTE9GWEM2U2ttbzdkc05MdlJqN2tFU2pGUmxYbmVIeHktdHRhWVpuaWRnUE1RN01WREtsT2x1cTBBbExxTi1sRE93d3FvWDljRGJzWHNxMW9jek9KTklxUEdnbUk1a0t0YXdlMVZvbzc4Mnh0c3hUUXMzdV9VOWV3UXdqSnRQZFJNaVNRZ1RybmpKR19rS2dNdm5HVkNlUmRUTzJrbkRuYy1fR3pRLTFLUDBZcVAxMjRrdXg5ZVF2M2NDMjgwTXZ4bktqUXNidVU1dmJKWXEzUi1NLUwxUjliSG1vU2lQeWM2S1lRdkMxbW1qSGI4M1lpSHRVS1FVXzNja3B5Q3BYalFYLXV0T3d6VXlWVVdEWTdfUVRsWFV0RlVkdg?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 04:09:39 GMT"
     },
     {
       "title": "Closing Bell: Sensex tanks 1,248 pts, Nifty below 23,100; all sectors in the red - Moneycontrol.com",
@@ -198,6 +176,12 @@
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVXhkVUYwUHplelFJbUVzQnZsNTJFWnU0T0hXSHdKTEc2OTlSdktNWUNUUjNOLTJxc3hDS1ZlUzM1VmFuZTAxZUpZZ0ZYVDZWdVBGMzEwcmFxRS1PaVBzdG01UmtfY0xqaWtiQVAwUlJfaDhXeTNSWFRmVHNweGxPTUJpSjQzU0FOZ3FIRGRyYTN2cnI2WkhDSEp0bkZnaUM2MHZuMW1SdS1aeklsVXBaWVFjSzk0UXFLdTExRXRXUzh3T3RJaTJhV0ZhbFlxVVZkR0JZbFhGRTVtbVczekQ0RmJ3S1pwWERrQjhranBGbHNoZzRzUlhia2lJdUtFN1J3ODZwWDFDLUJGSlFPbW5KVlh0dkNEa3Zza2RBMVdSeVNfZDTSAagCQVVfeXFMUEZpOGQ3WFg5YW1Cc2dwQXk5dWNSeWpBUnJQT3Vna3JxZUtfNUZCdGRYUllMMWE4dV9hT2FweHNkdWluQkNlaUJkYnA0NXFhUjhLNWNQR0RRZS1YY3Y2WGZPNDcwd3dEbDJwMFZtaHpXWUE4VXdIcjQtcnFEbkI1VkhsN0VPQnFyWUtLRjBtaWNWTEhHcV9Gd29tSXlaVE53NkUzUFdhVW1HSC1BR0ZYbmNpemxjc2RRbTAxUkFGTnpBdnMwZmhtaW1CdXpDOXh6NWI3MzRwTmtNb2w2ZnFYcGh4QW5XcTlYZjQ2TzJOZThITEUtMmI3Q3U1N0xBdXNub1h6RGlTWmRqYVAwalRZb1E2NE80bkNGN1F1OWpoTnJQUVg2dkstTUY?oc=5",
       "publishedAt": "Fri, 25 Sep 2026 10:17:52 GMT"
+    },
+    {
+      "title": "Stock Market Today Live, Sept 23: Nifty holds above 23,400, Sensex gains over 350 points in cautious trade - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHJUbnpTaE1iemw2SWc0RUdtWkUtLXBFYTllLWRDYnRwSnJPd2lWdWZoUWMzTVFaa211WkpYdWxIVkJzRXQ5Mlp0SGV3WmN6NG1nSWJKSERpX2NTZWE4YkQ2UHZWTkZQWHRZUEVmZnpNWlZveS0xTEpHMWYwYVNjdFJKaE11Q1czaEhTa2wyNGwyQXd5NlFaMllaaHFSZUgtZHZOWU52UlFqOVRQRmE4WHBxM0dVa1hmQUNLNWM0SFkyX1JMM0pHV2hoSdIB0gFBVV95cUxNWGNQbXpabjdRWE1odzVRREFyejZCckJrQVJNdU1FYkVGbjZKRGNDeTMtX1JxMDZKbHBmdVpSTC1XUU5JaFM2Sm5JV3dOU1BCY3NHTGstdVk1TkJfLWxvR2R2X1hIMmhjU3NpbEVEMDNCM1FfOHFmdkhxVkduVWpIWExxU1NtVWlCaFRGTk43X1E5dWt5RVdPXzFqbHYyTE9CalV0cGExT2VlcnEyc0swZ1hiaUxWQWd3X21Mc3NxeU8ydHg1bUljdFhwZ2NGUnFfRFE?oc=5",
+      "publishedAt": "Wed, 23 Sep 2026 08:34:17 GMT"
     }
   ]
 }
