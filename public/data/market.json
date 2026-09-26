@@ -1,38 +1,40 @@
 {
-  "headline": "Last session: Sensex ends over 300 points higher, Nifty near 23,150 led by auto sector gains",
+  "headline": "Last session: Sensex closed over 300 points higher, Nifty near 23,150, but market logged seventh weekly decline",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
-    "message": "Market is closed today because it is a weekend. It will reopen on Monday, 28 September.",
-    "nextOpen": "Monday, 28 September"
+    "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 29 September.",
+    "nextOpen": "Tuesday, 29 September 2026"
   },
   "why": [
-    "Market recovered in the last session as Sensex rose over 300 points following a steep multi-day sell-off.",
-    "Auto and consumer durables sectors gained nearly 1% during the last trading session.",
-    "Technical analysts highlight key support for Nifty near the 23,000 mark.",
-    "Nifty faces immediate technical resistance around the 23,270 level."
+    "In the last trading session, markets saw a rebound led by nearly 1% gains in auto and consumer durable stocks.",
+    "Despite Friday's gain, Sensex and Nifty ended lower for the seventh consecutive week due to prolonged market pressure.",
+    "Earlier in the week, markets experienced a major drop with Sensex crashing over 1,200 points and Nifty dipping below 23,100.",
+    "Foreign Portfolio Investor (FPI) selling pressure has been weighing on broader market sentiment over recent weeks."
   ],
   "whatHappening": [
-    "On the last trading day, Sensex gained over 300 points while Nifty settled near 23,150.",
-    "J Infratech filed draft papers for an IPO aiming to raise Rs 600 crore via a fresh issue.",
-    "IIT Madras and Unicorn India announced the ₹450 crore first close of a ₹1,000 crore fund.",
-    "UBS reported that the gold loan growth phase may cool as personal loans pick up pace."
+    "On the last trading day, Sensex ended over 300 points higher and Nifty closed near the 23,150 level.",
+    "J Infratech filed IPO papers to raise ₹600 crore via a fresh issue.",
+    "IIT Madras and Unicorn India achieved a ₹450 crore first close for their ₹1,000 crore fund.",
+    "UBS noted that the gold loan boom is set to cool as personal loans take over."
   ],
   "stocksInNews": [
     {
       "symbol": "POLICYBZR",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        6
+        8
       ]
     }
   ],
-  "summary": "On the last trading day, Indian stock markets rebounded with the Sensex closing over 300 points higher and Nifty near 23,150. The recovery was driven by strength in auto and consumer durables sectors after market benchmarks dropped significantly earlier in the week. The market is closed today for the weekend and will reopen on Monday, 28 September.",
-  "updatedAt": "2026-09-26T12:31:31.236Z",
+  "summary": "In the last trading day, Indian stock markets rebounded as the Sensex rose over 300 points while Nifty closed near 23,150.\nDespite the session's gains, benchmark indices logged their seventh straight weekly decline following severe market sell-offs earlier in the week.\nThe market is closed today for the weekend and will reopen on Tuesday, 29 September.",
+  "updatedAt": "2026-09-26T13:01:29.098Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-26",
   "articleKeys": [
+    "ec orders review of ecinet extends key deadlines in delhi maharashtra",
+    "same playbook different numbers why fpi selling may not be the story it looks like",
     "j infratech files ipo papers eyes rs 600 cr via fresh issue",
     "iit madras unicorn india mark 450 cr first close of 1000 cr fund",
     "nearly 3 in 4 maharashtra talukas declared droughthit relief announced for farmers students",
@@ -41,20 +43,30 @@
     "gold loan boom set to cool as personal loans take over ubs says",
     "fampo talk 23270 is a key nifty hurdle sudeep shah picks 5 stocks discusses pb fintech turtlemint strategy",
     "hanuman ansh box office collection day 50 devotional drama holds strong in eighth week",
-    "bitcoin rebounds strongly this week trades near 84000 after climbing above 86000 here is what experts say",
-    "nifty at key 23000 support can bulls trigger a technical rebound",
-    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
-    "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtvcom",
+    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall timesofindiaindiatimescom",
+    "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
     "sensex crashed over 1200 points why stock market fell today india today",
     "stock market crash live updates rohit srivastava sees nifty falling to 22800 22700 levels cnbc tv18",
     "sensex nifty 50 prediction today stock market outlook for 25 sept 2026 gift nifty nikkei taiwan cues to watch livemint",
-    "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtvprofitcom",
+    "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
     "nifty sensex fall over 5 in a month what is fuelling the crash in indian stock market can nifty 50 fall below 23000 et now",
     "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom",
-    "closing bell nifty at 23450 sensex rises 299 pts mid smallcaps rally moneycontrolcom"
+    "indian stock market latest news september 26 sensex nifty end seventh straight week lower key levels to watch the sunday guardian"
   ],
   "articles": [
+    {
+      "title": "EC orders review of ECINet, extends key deadlines in Delhi, Maharashtra",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/people-issued-sir-notices-need-not-appear-for-personal-hearing-ec-126092600656_1.html",
+      "publishedAt": "Sat, 26 Sep 2026 17:40:19 +0530"
+    },
+    {
+      "title": "Same playbook, different numbers: Why FPI selling may not be the story it looks like",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/same-playbook-different-numbers-why-fpi-selling-may-not-be-the-story-it-looks-like/articleshow/134503513.cms",
+      "publishedAt": "Sat, 26 Sep 2026 17:05:56 +0530"
+    },
     {
       "title": "J Infratech files IPO papers; eyes Rs 600 cr via fresh issue",
       "source": "Zerodha Pulse",
@@ -104,26 +116,14 @@
       "publishedAt": "Sat, 26 Sep 2026 14:41:17 +0530"
     },
     {
-      "title": "Bitcoin rebounds strongly this week, trades near $84,000 after climbing above $86,000. Here is what experts say",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-strongly-this-week-trades-near-84000-after-climbing-above-86000-here-is-what-experts-say/articleshow/134500992.cms",
-      "publishedAt": "Sat, 26 Sep 2026 14:26:45 +0530"
-    },
-    {
-      "title": "Nifty at key 23,000 support: Can bulls trigger a technical rebound?",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-at-key-23000-support-can-bulls-trigger-a-technical-rebound/articleshow/134500890.cms",
-      "publishedAt": "Sat, 26 Sep 2026 14:21:07 +0530"
-    },
-    {
-      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
-      "source": "The Times of India",
+      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
     },
     {
-      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - ndtv.com",
-      "source": "ndtv.com",
+      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
+      "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEtEbWlBNTFIcHJzRV9zU0hnQUd4MVRma2VMWXpOdDl3SURrMGJPOXBnVnFOTm1MLVpMMFAzYUhUWDJVYnpYd1cyWG1xUjhxOVdkb0tVNkF2VnZfZktsRnRYTlNjMzBYblcyM0pHRUo4Ul8xVlFoci1JOXpSU2F2RlBkbFJaZGhTeE9yODV4aDlnSDdKbjd2c0ZKMzc0Y2JFbER0c2hDNW1pbURITlcw0gG3AUFVX3lxTE8xbVZoQm0xdm9CSmg5ZVBDMVluS0lTTUctTnpYYVU2S0RxcFhlaUY5Qndta09tY3VuZWI3MW1LRWlPNVl6QlY4OVBFcENPZEY4OU9jMThxdzM1cG56U1ZtN29HNGEtZmZ6eklRSXlNNERlUVF0dXNjVXV0dERKeFpyeHY4YUV3ZXdWYWhjcWsxM1d4TWtYOE1tUjRFQ0xKQm5aWHJhcnJfSHFha1FDeUJpSDdJaWhrNA?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 09:02:35 GMT"
     },
@@ -152,8 +152,8 @@
       "publishedAt": "Fri, 25 Sep 2026 01:15:10 GMT"
     },
     {
-      "title": "Stock Market Crash News Highlights Today: Nifty Settles Below 23,100, Sensex Ends 1,200 Points Lower - ndtvprofit.com",
-      "source": "ndtvprofit.com",
+      "title": "Stock Market Crash News Highlights Today: Nifty Settles Below 23,100, Sensex Ends 1,200 Points Lower - NDTV Profit",
+      "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQzQzdTJVMjg1eU1EZUU5MlRnb1E3Rk95cUNMVGVnR0pfSGd5eVhzaGg2MmZqX1ZkUWZpVWc2VE1XbmtaRFlHbnhab3U1akNFTVhKcDEydlJBS0t0X1Itc1FiMzhKMGxhcWtoWkFxMFBQR2RaYnJkNDItQW1EYWozSE4wTDhnZjFudkNLc3M0WXdBX1FLV1ZKS2JVR0ZVcTJBLU1UZDVSQnV2MndqNElzMVRoVGJobVpsTl9fOC1kbDRESTRLeEY0bHNLVDY5SFVIb3RocWtyQ1V0WVJUN2dEcXhWZmFVZTMyWUl0MmJoV3NBUTRBOXhFZkd5OC1ROU90QkNRT1NpWFPSAZACQVVfeXFMT2xZOWZyMzJUMldfb0xrRnZFSEtrZUFaUDA3a3VZVU1QWXpNWGR5WHhYOHNuSVRlUjN2TTUxTTNCR2w5OUg4S0Y4SGZSdjd5MVRmSFk3WFYxejQ1eTFVR2oxQ053WXBJUjExT0w0XzdwQi1vc3A3YTNoT3hGN19ablRHT1VUWnBBbGdvUmt4dnlLSG5oRFpXbUo1bVBOS0VqTGI2VHdHVU5ZT251ZkVpY2xHQThzd1p5UHBwTmdZTGF5bGJlSjJ6V21QTEZRSWlLbFRjRlNHWUZMNVRvRDdCZnBfODRVZGRqbUU3RW85VUtNVEs3MllDNUpIblBZTEh0YVZ1VEJfWXc1MXdFT1hsUjI?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 10:06:07 GMT"
     },
@@ -170,10 +170,10 @@
       "publishedAt": "Fri, 25 Sep 2026 10:17:52 GMT"
     },
     {
-      "title": "Closing Bell: Nifty at 23,450, Sensex rises 299 pts; mid, smallcaps rally - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPcGtremJIWlAwWTZMYnVxUFlrbkZoRGR1RThhM01JbzRXTTdUZFlMQ2NFQ1llSFJpb1NaeGgwM29VaE1sSU4wX2M1SmZxaHJvSWVnaFkyQk1IclJfVURscWNXVENkTHhlLVdRSHUxVFZzaTNGYzB3aXJncDlxSE9Hdk16bjZEQmh1M0RMZGd4ZWtUNGxIR3pOMlJGVVVlR3draWhRbFdDbkpITWsydHFKcXhJRTdDU1V2VlRfMGZMYzJtUTFHTk1hWVRvRGdlTnlfNlhKekl2N2Y5VzdOVE1tR19hQUdPYlAzNWJMVm44WEptNmJPUlpmbGJBMGJ4Z0JXaG9KSXVJWG9oUDBPdzdpU1Z6b0hhZHpBTEkxQmpJRFFlWmfSAagCQVVfeXFMTTM5R0dCbmNSZU5BQ3hTbnlnMkh0VXdpQlIzVEx5R3BDSTRidXlKLVB5SWhTQ0wzZjFJNk1CVkFyYkF5eGY0TGs0YUJvMi1FMGhUX3o2WDZ2ZDJyYjFZMnQ0MVFFNThlVlY1VDR0WVQzUmViNUk0aUdmMFdBX2haZEwweXFwdDdDeEs3cUF6UTlIOVZiMFFORWt3cEVad3o0RHh3X19xVHlLMTd6ZTl0eXRQRGpLX1FaUHRINVpmc2RFWWVNTXVWS2JDcEtVTk82aWxCMkZsaWZwWm1yYkM1N1lJZTRxSjZTYlBmYXM0TkZkOTJGQzBLS3pjb3h2ZjFqVG9ONGlWME1vZzJ1UnVkaGxrbzYzSjgxZ2QwcFE2MkRKYVktYUMxQzM?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 10:39:58 GMT"
+      "title": "Indian Stock Market Latest News (September 26): Sensex, Nifty End Seventh Straight Week Lower; Key Levels To Watch - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNejhsTEhQX0htZDlBbXJXTWMwM256RWYwbEVTdmJmNUpDWXFveXNzRXpYNEUwckRVRHM4OFl4bFJpUy1reEUxLXdWUEFLZTFKMjd4UmlrVWpaMG9NckJFNXltZGR6VHBJTEFpUEhPdE1qMUpoejRjWkVOVkdpLXVUTHc4Tm9uejkyNUJSU0NaTFBiRjF3WnJIaThpMDdrblRyeUsyN1EyVlQ0WVdfdmhKbG55dHI4OHNSVDhwZUt6M0tZeEpsQ3lfQmlsRXNJUEswQ3RKWjNsaUgxMTNUOEZmQ19mdEtKTU9mTzNnSDFn0gHzAUFVX3lxTE5jY3NtV2JPN2hURWhGVkRqZkhYRXFKMlBZRkRsc2ViVFUxTF9IRkhvZkVkX2ZfbF9zWnJTYlJocEpGSEdhanBlTW5PY2NLTXdGTDhWUHg2dEZicVZjcjhvaDUwZ2ZoVmc0elRmRUc4RkxRNDhPWER4MjExbGlYUnRvQnAwRmc1Zm5oYzU3cHhXVmVUSjhjelBkQXc0Mjh0LV9LWVQ4d0lpbXdXbVdhcmRpbExRbWhwbnd4RERzaDBsX09kU2pGWGxXczRHbEpZNnVFM0xhQmgtOWRJYmk4M2tsSUVzano4eGdhcnBuOHF4VHdCWQ?oc=5",
+      "publishedAt": "Sat, 26 Sep 2026 12:36:44 GMT"
     }
   ]
 }
