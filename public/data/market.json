@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex rose 300 points while Nifty ended near 23,150 amid auto sector gains.",
+  "headline": "Last session: Sensex rose 300 points and Nifty neared 23,150, though markets logged a seventh straight weekly decline",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,32 +7,36 @@
     "nextOpen": "Tuesday, 29 September"
   },
   "why": [
-    "Auto and consumer durables sectors gained nearly 1% in the last session, providing a boost to indices.",
-    "Markets attempted a recovery after a massive 1,200-point crash on Thursday led to a three-month low.",
-    "Finance Minister Nirmala Sitharaman expressed confidence that India could achieve over 10% economic growth.",
-    "Investor sentiment remains cautious as the market concluded its seventh consecutive week of losses."
+    "Gains in auto and consumer durable sectors supported the recovery on the last trading day",
+    "Rising oil prices and global yields pressured Indian markets throughout the week",
+    "Persistent foreign fund outflows contributed to a seventh consecutive weekly slide for major indices",
+    "Vedanta's massive investment proposal in Odisha provided a positive corporate highlight amid market volatility"
   ],
   "whatHappening": [
-    "On the last trading day, the Sensex gained over 300 points while the Nifty closed near 23,150.",
-    "Vedanta is urging the Odisha government to accelerate investment proposals worth ₹1 trillion.",
-    "Real estate reports show home sales have declined in six out of nine major Indian cities.",
-    "Truck manufacturers are expanding their reach beyond big cities as freight demand spreads to smaller regions."
+    "On the last trading day, Sensex ended over 300 points higher while Nifty settled near 23,150",
+    "The Indian market recorded its seventh straight week of losses despite the recovery seen on Friday",
+    "Vedanta has proposed a ₹1 lakh crore investment in Odisha for mining and industrial projects",
+    "The Election Commission extended the deadline for Special Investment Region orders in Delhi and Maharashtra"
   ],
   "stocksInNews": [
     {
       "symbol": "VEDL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        0
+        2,
+        3
       ]
     }
   ],
-  "summary": "Indian markets ended the last session higher with the Sensex gaining 300 points, though indices recorded their seventh straight weekly loss.\nThe recovery was led by auto and consumer durable sectors following a significant 1,200-point crash earlier in the week.\nWeekend news highlights include Vedanta's ₹1 trillion investment push and the Finance Minister's optimistic 10% growth projection.",
-  "updatedAt": "2026-09-26T15:31:57.480Z",
+  "summary": "Indian markets closed higher on Friday with the Sensex gaining 300 points, though indices logged their seventh straight weekly decline. Vedanta emerged as a key focus after proposing a ₹1 trillion investment in Odisha to revive mining operations. The market remains closed for the weekend and will resume trading on Tuesday, September 29.",
+  "updatedAt": "2026-09-26T16:01:33.454Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-26",
   "articleKeys": [
+    "india hasnt missed ai bus as some foreign media perceive fm",
+    "amid report of rift ec says all sir orders were unanimously approved",
+    "vedanta seeks niyamgiri mining revival pitches 1 lakh crore odisha investment",
     "vedanta urges odisha govt to accelerate 1 trillion investment proposals",
     "truck makers widen reach as freight spreads beyond big cities",
     "scary visuals bangkok declares all 50 districts disaster zones as heavy rain triggers flooding check videos",
@@ -40,21 +44,36 @@
     "donald trump again says iran can not have a nuclear weapon",
     "mandaadi box office collection day 16 soori and suhas sports drama continues its theatrical journey",
     "resident evil box office collection day 8 horror film sees a drop as it enters second week in india",
-    "home sales are down in 6 of 9 major cities why are buyers holding back",
-    "over 10 economic growth possible for india finance minister",
-    "iran warns us bases in middle east will be targeted if washington makes a mistake",
     "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
-    "stock market crash live updates rohit srivastava sees nifty falling to 22800 22700 levels cnbctv18com",
+    "stock market crash live updates rohit srivastava sees nifty falling to 22800 22700 levels cnbc tv18",
     "sensex crashed over 1200 points why stock market fell today india today",
     "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
     "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom",
     "indian stock market latest news september 26 sensex nifty end seventh straight week lower key levels to watch the sunday guardian",
-    "closing bell nifty at 23450 sensex rises 299 pts mid smallcaps rally moneycontrolcom",
-    "share market news nifty 50 outlook prediction liquide blog"
+    "share market news nifty 50 outlook prediction liquide blog",
+    "weekly review indian markets under pressure oil outflows and global yields extend the sevenweek slide the new indian express"
   ],
   "articles": [
+    {
+      "title": "India hasn’t missed AI bus as some foreign media perceive: FM",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/india-hasnt-missed-ai-bus-as-some-foreign-media-perceive-fm/article71513364.ece",
+      "publishedAt": "Sat, 26 Sep 2026 20:59:38 +0530"
+    },
+    {
+      "title": "Amid report of rift, EC says all SIR orders were unanimously approved",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/people-issued-sir-notices-need-not-appear-for-personal-hearing-ec-126092600656_1.html",
+      "publishedAt": "Sat, 26 Sep 2026 20:17:21 +0530"
+    },
+    {
+      "title": "Vedanta seeks Niyamgiri mining revival, pitches ₹1 lakh crore Odisha investment",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/vedanta-seeks-niyamgiri-mining-revival-pitches-1-lakh-crore-odisha-investment/article71512881.ece",
+      "publishedAt": "Sat, 26 Sep 2026 20:13:17 +0530"
+    },
     {
       "title": "Vedanta urges Odisha govt to accelerate ₹1 trillion investment proposals",
       "source": "Zerodha Pulse",
@@ -98,24 +117,6 @@
       "publishedAt": "Sat, 26 Sep 2026 18:57:21 +0530"
     },
     {
-      "title": "Home Sales Are Down In 6 Of 9 Major Cities - Why Are Buyers Holding Back?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/home-sales-are-down-in-6-of-9-major-cities-why-are-buyers-holding-back-12101461#publisher=newsstand",
-      "publishedAt": "Sat, 26 Sep 2026 18:51:27 +0530"
-    },
-    {
-      "title": "Over 10% economic growth possible for India: Finance Minister",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/over-10-economic-growth-possible-for-india-finance-minister/article71512767.ece",
-      "publishedAt": "Sat, 26 Sep 2026 18:50:49 +0530"
-    },
-    {
-      "title": "Iran Warns US Bases In Middle East Will Be Targeted If Washington 'Makes A Mistake'",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/iran-warns-us-bases-in-middle-east-will-be-targeted-if-washington-makes-a-mistake-12101929#publisher=newsstand",
-      "publishedAt": "Sat, 26 Sep 2026 18:39:50 +0530"
-    },
-    {
       "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
@@ -134,8 +135,8 @@
       "publishedAt": "Thu, 24 Sep 2026 10:54:03 GMT"
     },
     {
-      "title": "Stock Market Crash LIVE Updates: Rohit Srivastava sees Nifty falling to 22,800 - 22,700 levels - cnbctv18.com",
-      "source": "cnbctv18.com",
+      "title": "Stock Market Crash LIVE Updates: Rohit Srivastava sees Nifty falling to 22,800 - 22,700 levels - CNBC TV18",
+      "source": "CNBC TV18",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVkJNZVdTZmFVSHdHcHFXakw5aTNBS0ZEY2swb2VnaEtmbjRVVFBzVGZsbVFZaE51MWFtWmxwWVZJckVoQXdsVmswOFVzd1VPT0FGd3V4VmpDTWhPcVN2bUFZTENia2U3ckU0OHB5UHRxVTVNYVpmdS1LNkFCSzRUYnBlU3g1aE1sMGc3di1RNnFSRjJWbUU1TFh5cWN5SnNIdFJSc2ZjcklsM1Vod1JHRVoxLW1DeDhOVnBKSUx2bGkwek80SjZ2YUJ2UUlSaEE4ZHdBOEpKbkVYdkhiSlpQVFZMT29LUGgtV3FkZW9IT2ZmNEQyZTFZamd2Zk9wVUhm0gGGAkFVX3lxTE9mMTJTWnZNci1yckFaMmsyUnk0VklMd1RxT0psWVZ6RF9vMFB5ZjVVM2dnTnNwaVJxUy04R1FaZFZOY1RZdWlTN2xpR2JXLTRPU1VOek05TVhtRWY4akswSkcwdUsxdkpWQm9mSFA0SjBxaW1ncFpHVDJZZ296dGIzcjA0YmZ4aDdZNVNSdEJNUWxmVjVpQ2gzNDlfZk1wNjg1Q0wwMDNoNHo1RklpWVBJbHZCNHAtaGdGQTB3SDVLNzZxb2wtNkR1QlpNYTlWcHFLd0dETXU0dzE0SGNiWWlhRUhfWjVIcTdQS2dya2ZjWHRlNWF0dHdOQm9XRTUzNUNIRVZCQkE?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 10:30:27 GMT"
     },
@@ -164,16 +165,16 @@
       "publishedAt": "Sat, 26 Sep 2026 12:36:44 GMT"
     },
     {
-      "title": "Closing Bell: Nifty at 23,450, Sensex rises 299 pts; mid, smallcaps rally - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPcGtremJIWlAwWTZMYnVxUFlrbkZoRGR1RThhM01JbzRXTTdUZFlMQ2NFQ1llSFJpb1NaeGgwM29VaE1sSU4wX2M1SmZxaHJvSWVnaFkyQk1IclJfVURscWNXVENkTHhlLVdRSHUxVFZzaTNGYzB3aXJncDlxSE9Hdk16bjZEQmh1M0RMZGd4ZWtUNGxIR3pOMlJGVVVlR3draWhRbFdDbkpITWsydHFKcXhJRTdDU1V2VlRfMGZMYzJtUTFHTk1hWVRvRGdlTnlfNlhKekl2N2Y5VzdOVE1tR19hQUdPYlAzNWJMVm44WEptNmJPUlpmbGJBMGJ4Z0JXaG9KSXVJWG9oUDBPdzdpU1Z6b0hhZHpBTEkxQmpJRFFlWmfSAagCQVVfeXFMTTM5R0dCbmNSZU5BQ3hTbnlnMkh0VXdpQlIzVEx5R3BDSTRidXlKLVB5SWhTQ0wzZjFJNk1CVkFyYkF5eGY0TGs0YUJvMi1FMGhUX3o2WDZ2ZDJyYjFZMnQ0MVFFNThlVlY1VDR0WVQzUmViNUk0aUdmMFdBX2haZEwweXFwdDdDeEs3cUF6UTlIOVZiMFFORWt3cEVad3o0RHh3X19xVHlLMTd6ZTl0eXRQRGpLX1FaUHRINVpmc2RFWWVNTXVWS2JDcEtVTk82aWxCMkZsaWZwWm1yYkM1N1lJZTRxSjZTYlBmYXM0TkZkOTJGQzBLS3pjb3h2ZjFqVG9ONGlWME1vZzJ1UnVkaGxrbzYzSjgxZ2QwcFE2MkRKYVktYUMxQzM?oc=5",
-      "publishedAt": "Wed, 23 Sep 2026 10:39:58 GMT"
-    },
-    {
       "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
       "source": "Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVJvTS1CRXVsT2ZzNUhBV0piRVV1UnZTeDVEcDJmRElmWHB5WkZsM2s5YzlYaXJuVU9vVjQ2dE5XVk93WTVVLUx2d19wRm9lc2YzWW9xX0F1YWJCTUJtMURwVzRxbC1vUlNDWEpLRUZibzdnbVdjdEJUeThfeHZLSXpwTktCQnlMM0tTNUhwWmplMHJKb2ptYmVn?oc=5",
       "publishedAt": "Sat, 26 Sep 2026 12:11:07 GMT"
+    },
+    {
+      "title": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide - The New Indian Express",
+      "source": "The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbm8wM0RSWWRXc1Bzc3daeEpaNnFwZW55Y1FBT19TQUdxYXdrZ2FJeDJGd1EwQk9BbFJTZ2xKNV9Gd1BadEFlZExtZWlxdUZEZHh1RkRIU1lMNEJVR3hkZ2VKWnNGWUVLa1Fha29hcWcyNVR6dEdydjluNGxlN1YybHFabnUzRWdzMTFSWThkNWRRX0NXQ055dWl2dXN3cGw2RUJxSHAyTTFWMnNOeXZ4S0xGQXFjRmhub1lHeVQyRUhUdEpFSGEwM2U1MEFnbExtV1JPRUVNRmV2dUNfZ1BiblROc2IzLVNPclpNRtIB-gFBVV95cUxOT2FRblV0ZG5vNUh2QTZGeldJa2FuRF8xSmRWYUQ4a1NLblFyUmtJNTRCdHB3NENTZUZhdi1Ha1g4aTV6cy1POUl0Njl3bzZNdE1ZRk43bWQwRXZvNGxncTdBaWg3cDNUMHcyRVp3d2ZKRmljNXZwQktjUTZnV3NpWldYMmNoV0ZJSjZONVJjNEQ3d2ZLWXlVREFsd1VFbFdob0xydFJ5dHpFdGIzeERrQU5kcXBubmVLd2RZODE2Skd0Yk92bFNnWG1qUjNnZWRSR2YwaWIxLU91ZHBzTlJVb0twSW5pUnYxb3E1WEJFTWdmQ0tzeVhaZjRR?oc=5",
+      "publishedAt": "Sat, 26 Sep 2026 09:15:01 GMT"
     }
   ]
 }
