@@ -1,22 +1,22 @@
 {
-  "headline": "On last trading day, Sensex rose 300 points and Nifty neared 23,150 following a sharp mid-week crash.",
+  "headline": "On last trading day, Sensex rose 300 points and Nifty ended near 23,150 following a recovery in auto stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 28 September.",
-    "nextOpen": "Monday, 28 September 2026"
+    "nextOpen": "Monday, 28 September"
   },
   "why": [
-    "The Sensex recovered over 300 points on Friday after a massive 1,200-point crash during the previous session.",
-    "Auto and consumer durable sectors gained nearly 1% in the last trading session, providing market support.",
-    "GIFT Nifty reached an all-time high in both volume and open interest as it went into overdrive.",
-    "Market sentiment remains cautious as the Nifty 50 struggles to stay above the 23,100 level."
+    "Recovery in auto and consumer durables sectors which gained nearly 1% in the last session",
+    "GIFT Nifty reaching an all-time high in volume and open interest",
+    "Prestige Group citing bad market conditions for the cancellation of its hospitality IPO",
+    "RBI official noting that Indian equities are expected to become attractive again following bond market performance"
   ],
   "whatHappening": [
-    "Prestige Group cancelled its Rs 2,700 crore hospitality arm IPO due to unfavorable market conditions.",
-    "Deon Energy has filed draft papers with SEBI to raise capital through an initial public offering.",
-    "The Indian Rupee is expected to trade in a range of 94.5 to 96 against the dollar in the near term.",
-    "Bernstein reports that foreign institutional investors are unlikely to return without new domestic growth engines."
+    "Sensex closed over 300 points higher in the last session, recovering from a 1,200-point crash earlier in the week",
+    "Vishal Nirmiti fixed its IPO price band at Rs 208-220 with an opening date of September 30",
+    "Baanganga Gold & Diamond and Deon Energy filed draft papers with SEBI for new IPO listings",
+    "The Indian rupee is projected to trade in the Rs 94.5-96 range due to weak dollar inflows"
   ],
   "stocksInNews": [
     {
@@ -24,23 +24,41 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        7
+      ]
+    },
+    {
+      "symbol": "VISHALNIRMITI",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "BAANGANGA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
       ]
     },
     {
       "symbol": "DEONENERGY",
-      "sentiment": "Positive",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2
+        4
       ]
     }
   ],
-  "summary": "The Indian market is closed for the weekend following a volatile week that saw a major 1,200-point crash on Thursday. In the last session, indices staged a partial recovery with the Sensex gaining 300 points led by the auto sector. Corporate activity remains mixed as Prestige Group shelved its IPO while Deon Energy filed new papers with SEBI.",
-  "updatedAt": "2026-09-26T08:31:41.238Z",
+  "summary": "On the last trading day, Indian indices recovered with the Sensex rising 300 points and Nifty closing near 23,150. The IPO market remained active with several new filings, although Prestige Group cancelled its hospitality arm's public offer. The market is currently closed for the weekend and will reopen for trading on Monday, September 28.",
+  "updatedAt": "2026-09-26T09:01:44.212Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-26",
   "articleKeys": [
+    "vishal nirmiti ipo to open on sep 30 price band fixed at rs 208220",
+    "baanganga gold amp diamond files drhp for rs 720 crore ipo fresh issue pegged at rs 540 crore",
     "gift nifty goes into overdrive hits alltime high in volume and open interest",
     "indias bond market performed well equities to become attractive again rbis poonam gupta",
     "deon energy files draft papers with sebi to raise funds via ipo",
@@ -49,12 +67,10 @@
     "prestige group drops rs 2700 cr ipo plan for hospitality arm cites bad market conditions",
     "sebis new pms framework could potentially double industry size over time apmi chairman vikas khemani",
     "who is petal gahlot the indian diplomat who hit back at shehbaz sharif at un for second time",
-    "stocks to buy macquarie initiates outperform rating on these 4 capital market stocks do you own any",
-    "fiis unlikely to return in large numbers without new growth engines in india bernstein",
-    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall timesofindiaindiatimescom",
+    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
-    "sensex crashed over 1200 points why stock market fell today india today",
+    "sensex crashed over 1200 points why stock market fell today indiatodayin",
     "sensex nifty 50 prediction today stock market outlook for 25 sept 2026 gift nifty nikkei taiwan cues to watch livemint",
     "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
     "nifty sensex fall over 5 in a month what is fuelling the crash in indian stock market can nifty 50 fall below 23000 et now",
@@ -63,6 +79,18 @@
     "closing bell nifty at 23450 sensex rises 299 pts mid smallcaps rally moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Vishal Nirmiti IPO to open on Sep 30; price band fixed at Rs 208-220",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/vishal-nirmiti-ipo-to-open-on-sep-30-price-band-fixed-at-rs-208-220/articleshow/134500328.cms",
+      "publishedAt": "Sat, 26 Sep 2026 13:44:34 +0530"
+    },
+    {
+      "title": "Baanganga Gold &amp; Diamond files DRHP for Rs 720 crore IPO, fresh issue pegged at Rs 540 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/baanganga-gold-diamond-files-drhp-for-rs-720-crore-ipo-fresh-issue-pegged-at-rs-540-crore/articleshow/134499882.cms",
+      "publishedAt": "Sat, 26 Sep 2026 13:14:46 +0530"
+    },
     {
       "title": "GIFT Nifty goes into overdrive, hits all-time high in volume and open interest",
       "source": "Zerodha Pulse",
@@ -112,20 +140,8 @@
       "publishedAt": "Sat, 26 Sep 2026 12:06:12 +0530"
     },
     {
-      "title": "Stocks to buy: Macquarie initiates Outperform rating on these 4 capital market stocks. Do you own any?",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-macquarie-initiates-outperform-rating-on-these-4-capital-market-stocks-do-you-own-any/slideshow/134499082.cms",
-      "publishedAt": "Sat, 26 Sep 2026 12:03:56 +0530"
-    },
-    {
-      "title": "FIIs unlikely to return in large numbers without new growth engines in India: Bernstein",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-unlikely-to-return-in-large-numbers-without-new-growth-engines-in-india-bernstein/articleshow/134499010.cms",
-      "publishedAt": "Sat, 26 Sep 2026 12:03:37 +0530"
-    },
-    {
-      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
+      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
+      "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
     },
@@ -142,8 +158,8 @@
       "publishedAt": "Thu, 24 Sep 2026 10:54:03 GMT"
     },
     {
-      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - India Today",
-      "source": "India Today",
+      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - indiatoday.in",
+      "source": "indiatoday.in",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzVxaEFRS2NOd2NZVUNtWHNQaTgwaVc1bGJhLTZVWVZFTjREMnJhVXllcllTYlZKTWM3TmVudWo3MXVfcnpTazhIX2RZWWZ5YjJ3XzMxNnZkemlkMjduaEExRXVRWjY3M2ZSNmo0c3BhRmZsSW82ampNRVBpVkJ3YWtvWVFSM0pPcl9tTGlKVDF0dUhNYmgzN2MtWTFGWHBpV1liRHFZVEYwdURaNkFiNnBaUHNoVW5aTjhOVG82Qm9tQXhIV2VqN0RWT2gyYW1yb0xEdEFpdG4ya0tFOVVtSTQ0aWdYQkQyS1liNWJOelMzdFXSAfgBQVVfeXFMTUFQcXZjUk93LXBGOGZqOHlmcXFNR2RoSkdCc2F2bVdPM0hGQ2lqQy04bG50MzZWY0JoUU1uRFFlME92NjFueGpyNFpBREFKTC1pMzZ1eGJlSWF5dGNjVXlFZ21JS0NjZmYtNWUzVG02ajRXbi1nWWtwSktpU3VxektCa3BpbTI2Sk9fZUFKbUIzYkM1V0tScExKMmgxM0l1SmhUTkpMYXVIMlZ2R1I2TkJ5emtlQ3BNXzBfWTRERkNLRW5tYWxnNjdqV29GUldwMExmU3pGaVJ5LWNaZHpnQ2Fsa2p3dE03QTZCU1c3Zkt1QzNLSWlyUk8?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 04:44:56 GMT"
     },
