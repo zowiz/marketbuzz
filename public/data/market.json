@@ -1,38 +1,40 @@
 {
-  "headline": "Last session: Sensex recovered 300 points while Nifty held near 23,150 following a sharp 1,200-point weekly crash.",
+  "headline": "Last session: Sensex gains over 300 points, Nifty near 23,150 as auto and consumer durables lead recovery",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 28 September.",
-    "nextOpen": "Monday, 28 September"
+    "nextOpen": "Monday, 28 September 2026"
   },
   "why": [
-    "Technical rebound triggered after the Sensex crashed over 1,200 points on Thursday",
-    "Buying interest observed in auto and consumer durable sectors during the last session",
-    "Nifty 50 finding crucial support at the 23,000 level after a 5% monthly decline",
-    "FIIs and Mutual Funds raising stakes in select stocks despite broader market volatility"
+    "Market witnessed a technical rebound on Friday after sharp sell-offs earlier in the week.",
+    "Buying momentum in auto and consumer durables sectors provided support to benchmarks.",
+    "Nifty held above the critical 23,000 psychological support zone.",
+    "Selective buying emerged following three-month lows hit earlier in the week."
   ],
   "whatHappening": [
-    "Sensex ended the last trading day over 300 points higher, recovering from a three-month low",
-    "UBS reports the gold loan boom is set to cool as personal loans become more popular",
-    "Analysts are discussing F&O strategies for PB Fintech as Nifty faces a key hurdle at 23,270",
-    "Bitcoin rebounded strongly this week, trading near $84,000 after climbing above $86,000"
+    "In the last session, Sensex closed over 300 points higher while Nifty settled near 23,150.",
+    "Auto and consumer durables sector stocks gained nearly 1% during Friday's trading.",
+    "J Infratech filed DRHP to raise Rs 600 crore through a fresh IPO issue.",
+    "IIT Madras and Unicorn India announced the ₹450 crore first close of a ₹1,000 crore investment fund."
   ],
   "stocksInNews": [
     {
-      "symbol": "POLICYBZR",
+      "symbol": "PBFINTECH",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        4
+        6
       ]
     }
   ],
-  "summary": "The Indian stock market ended its last session on a positive note with the Sensex gaining over 300 points, recovering from a massive 1,200-point crash earlier in the week. While the Nifty 50 remains under pressure having fallen 5% in a month, it managed to hold key support levels near 23,000. Markets are currently closed for the weekend and will reopen on Monday, September 28.",
-  "updatedAt": "2026-09-26T10:31:33.532Z",
+  "summary": "In the last trading session, Indian benchmark indices recovered with Sensex gaining over 300 points and Nifty closing near 23,150. Auto and consumer durables stocks led the rebound following sharp declines earlier in the week. The market is closed today for the weekend.",
+  "updatedAt": "2026-09-26T11:01:36.764Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-26",
   "articleKeys": [
+    "j infratech files ipo papers eyes rs 600 cr via fresh issue",
+    "iit madras unicorn india mark 450 cr first close of 1000 cr fund",
     "nearly 3 in 4 maharashtra talukas declared droughthit relief announced for farmers students",
     "how chhattisgarh rains triggered flooding in maharashtras gadchiroli 525 evacuated overnight",
     "festive purchase cash credit card or nocost emi what does it really cost",
@@ -41,20 +43,30 @@
     "hanuman ansh box office collection day 50 devotional drama holds strong in eighth week",
     "bitcoin rebounds strongly this week trades near 84000 after climbing above 86000 here is what experts say",
     "nifty at key 23000 support can bulls trigger a technical rebound",
-    "bidding on a better brew dibrugarh hosts assams first tea eauction",
-    "fiis mfs raise stakes in 10 stocks shares gain up to 40 in 3 months",
-    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
+    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall timesofindiaindiatimescom",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
     "sensex crashed over 1200 points why stock market fell today india today",
     "sensex nifty 50 prediction today stock market outlook for 25 sept 2026 gift nifty nikkei taiwan cues to watch livemint",
-    "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
+    "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtvprofitcom",
     "nifty sensex fall over 5 in a month what is fuelling the crash in indian stock market can nifty 50 fall below 23000 et now",
     "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom",
-    "stock market today live sept 23 nifty holds above 23400 sensex gains over 350 points in cautious trade thehindubusinesslinecom",
+    "stock market today live sept 23 nifty holds above 23400 sensex gains over 350 points in cautious trade businessline",
     "closing bell nifty at 23450 sensex rises 299 pts mid smallcaps rally moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "J Infratech files IPO papers; eyes Rs 600 cr via fresh issue",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/j-infratech-files-ipo-papers-eyes-rs-600-cr-via-fresh-issue/articleshow/134502249.cms",
+      "publishedAt": "Sat, 26 Sep 2026 15:48:10 +0530"
+    },
+    {
+      "title": "IIT Madras, Unicorn India mark ₹450 cr first close of ₹1,000 cr fund",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/start-ups/iit-madras-unicorn-india-deeptech-fund-first-close-rs-450-crore-126092600482_1.html",
+      "publishedAt": "Sat, 26 Sep 2026 15:24:32 +0530"
+    },
     {
       "title": "Nearly 3 In 4 Maharashtra Talukas Declared Drought-Hit; Relief Announced For Farmers, Students",
       "source": "Zerodha Pulse",
@@ -104,20 +116,8 @@
       "publishedAt": "Sat, 26 Sep 2026 14:21:07 +0530"
     },
     {
-      "title": "Bidding On A Better Brew: Dibrugarh Hosts Assam’s First Tea E-Auction",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/bidding-on-a-better-brew-dibrugarh-hosts-assam-s-first-tea-e-auction-12100806#publisher=newsstand",
-      "publishedAt": "Sat, 26 Sep 2026 14:05:47 +0530"
-    },
-    {
-      "title": "FIIs, MFs raise stakes in 10 stocks; shares gain up to 40% in 3 months",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-10-stocks-shares-gain-up-to-40-in-3-months/slideshow/134500775.cms",
-      "publishedAt": "Sat, 26 Sep 2026 13:58:34 +0530"
-    },
-    {
-      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
-      "source": "The Times of India",
+      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
     },
@@ -146,8 +146,8 @@
       "publishedAt": "Fri, 25 Sep 2026 01:15:10 GMT"
     },
     {
-      "title": "Stock Market Crash News Highlights Today: Nifty Settles Below 23,100, Sensex Ends 1,200 Points Lower - NDTV Profit",
-      "source": "NDTV Profit",
+      "title": "Stock Market Crash News Highlights Today: Nifty Settles Below 23,100, Sensex Ends 1,200 Points Lower - ndtvprofit.com",
+      "source": "ndtvprofit.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQzQzdTJVMjg1eU1EZUU5MlRnb1E3Rk95cUNMVGVnR0pfSGd5eVhzaGg2MmZqX1ZkUWZpVWc2VE1XbmtaRFlHbnhab3U1akNFTVhKcDEydlJBS0t0X1Itc1FiMzhKMGxhcWtoWkFxMFBQR2RaYnJkNDItQW1EYWozSE4wTDhnZjFudkNLc3M0WXdBX1FLV1ZKS2JVR0ZVcTJBLU1UZDVSQnV2MndqNElzMVRoVGJobVpsTl9fOC1kbDRESTRLeEY0bHNLVDY5SFVIb3RocWtyQ1V0WVJUN2dEcXhWZmFVZTMyWUl0MmJoV3NBUTRBOXhFZkd5OC1ROU90QkNRT1NpWFPSAZACQVVfeXFMT2xZOWZyMzJUMldfb0xrRnZFSEtrZUFaUDA3a3VZVU1QWXpNWGR5WHhYOHNuSVRlUjN2TTUxTTNCR2w5OUg4S0Y4SGZSdjd5MVRmSFk3WFYxejQ1eTFVR2oxQ053WXBJUjExT0w0XzdwQi1vc3A3YTNoT3hGN19ablRHT1VUWnBBbGdvUmt4dnlLSG5oRFpXbUo1bVBOS0VqTGI2VHdHVU5ZT251ZkVpY2xHQThzd1p5UHBwTmdZTGF5bGJlSjJ6V21QTEZRSWlLbFRjRlNHWUZMNVRvRDdCZnBfODRVZGRqbUU3RW85VUtNVEs3MllDNUpIblBZTEh0YVZ1VEJfWXc1MXdFT1hsUjI?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 10:06:07 GMT"
     },
@@ -164,8 +164,8 @@
       "publishedAt": "Fri, 25 Sep 2026 10:17:52 GMT"
     },
     {
-      "title": "Stock Market Today Live, Sept 23: Nifty holds above 23,400, Sensex gains over 350 points in cautious trade - thehindubusinessline.com",
-      "source": "thehindubusinessline.com",
+      "title": "Stock Market Today Live, Sept 23: Nifty holds above 23,400, Sensex gains over 350 points in cautious trade - BusinessLine",
+      "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSHJUbnpTaE1iemw2SWc0RUdtWkUtLXBFYTllLWRDYnRwSnJPd2lWdWZoUWMzTVFaa211WkpYdWxIVkJzRXQ5Mlp0SGV3WmN6NG1nSWJKSERpX2NTZWE4YkQ2UHZWTkZQWHRZUEVmZnpNWlZveS0xTEpHMWYwYVNjdFJKaE11Q1czaEhTa2wyNGwyQXd5NlFaMllaaHFSZUgtZHZOWU52UlFqOVRQRmE4WHBxM0dVa1hmQUNLNWM0SFkyX1JMM0pHV2hoSdIB0gFBVV95cUxNWGNQbXpabjdRWE1odzVRREFyejZCckJrQVJNdU1FYkVGbjZKRGNDeTMtX1JxMDZKbHBmdVpSTC1XUU5JaFM2Sm5JV3dOU1BCY3NHTGstdVk1TkJfLWxvR2R2X1hIMmhjU3NpbEVEMDNCM1FfOHFmdkhxVkduVWpIWExxU1NtVWlCaFRGTk43X1E5dWt5RVdPXzFqbHYyTE9CalV0cGExT2VlcnEyc0swZ1hiaUxWQWd3X21Mc3NxeU8ydHg1bUljdFhwZ2NGUnFfRFE?oc=5",
       "publishedAt": "Wed, 23 Sep 2026 08:34:17 GMT"
     },
