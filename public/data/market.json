@@ -1,34 +1,26 @@
 {
-  "headline": "Last session: Sensex gained over 300 points as Indian markets recovered partially from sharp midweek losses.",
+  "headline": "On last trading day, Sensex rose 300 points as markets recovered from a sharp midweek sell-off",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 28 September.",
-    "nextOpen": "Monday, 28 September 2026"
+    "nextOpen": "Monday, 28 September"
   },
   "why": [
-    "Indian benchmarks rebounded on Friday after heavy midweek sell-offs driven by crude oil surging above $100.",
-    "Auto and consumer durables sectors saw buying interest, gaining nearly 1% during the last session.",
-    "Proposed insurance curbs and geopolitical oil spikes caused Thursday's sharp market crash where Nifty fell below 23,100.",
-    "Government's announcement to reduce FY27 borrowing by ₹1.2 trillion provided some fiscal relief to sentiment."
+    "Recovery after heavy losses on Thursday",
+    "Gains in auto and consumer durables sectors",
+    "Sensex ended over 300 points higher",
+    "Nifty closed near 23,150 after midweek volatility"
   ],
   "whatHappening": [
-    "Indian stock markets ended lower for the week overall despite a partial rebound on Friday.",
-    "Government has begun evaluating financial bids for the strategic disinvestment of IDBI Bank.",
-    "Zee Entertainment sought action against Reliance-Disney's JioStar regarding an alleged copyright breach.",
-    "Primary market activity remains active with JSW One Platforms filing draft papers for a ₹3,054 crore IPO."
+    "JSW One Platforms filed draft papers for a ₹3,054 crore IPO",
+    "Government evaluating financial bids for IDBI Bank strategic sale",
+    "Zee seeks action against Reliance-Disney's JioStar for copyright breach",
+    "Government cuts FY27 borrowing by ₹1.2 trillion"
   ],
   "stocksInNews": [
     {
       "symbol": "ZEEL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
@@ -36,16 +28,49 @@
       ]
     },
     {
-      "symbol": "IDBIBANK",
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "IDBI",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         5
       ]
+    },
+    {
+      "symbol": "JSWENERGY",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "NSE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 2/10 sources",
+      "articleIds": [
+        4,
+        16
+      ]
+    },
+    {
+      "symbol": "ORIENT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        3
+      ]
     }
   ],
-  "summary": "Indian markets ended the week lower overall after facing a heavy sell-off on Thursday triggered by high crude oil prices.\nMarkets managed a partial recovery on Friday, with the Sensex gaining over 300 points supported by auto and consumer durables.\nTrading remains closed today for the weekend and will resume on Monday, 28 September.",
-  "updatedAt": "2026-09-26T03:31:09.411Z",
+  "summary": "On the last trading day, Indian markets recovered with the Sensex gaining over 300 points to close near 23,150. Despite the Friday bounce, the indices ended the week lower following a massive 1,200-point crash on Thursday. Key news includes JSW One Platforms' IPO filing and the government's progress on the IDBI Bank sale.",
+  "updatedAt": "2026-09-26T04:04:41.963Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-26",
   "articleKeys": [
@@ -65,7 +90,7 @@
     "sensex nifty today indian markets recover after heavy thursday losses apac media",
     "indian shares post worst day in 10 weeks on oil spike proposed insurance curbs reuters",
     "stock market crash sensex falls over 630 points nifty slips as crude oil surges above 100 rupee also falls ptc news",
-    "the battle between indias stock exchanges is heating up again economistcom",
+    "the battle between indias stock exchanges is heating up again the economist",
     "indian stocks slide at open as nifty sensex extend market weakness investingcom india",
     "stock market today bse sensex opens over 100 points up nse nifty50 trades above 23000 the times of india",
     "weekly market wrap sep 2125 sensex nifty end lower after sharp midweek selloff the indian awaaz"
@@ -168,8 +193,8 @@
       "publishedAt": "Thu, 24 Sep 2026 07:10:18 GMT"
     },
     {
-      "title": "The battle between India’s stock exchanges is heating up again - economist.com",
-      "source": "economist.com",
+      "title": "The battle between India’s stock exchanges is heating up again - The Economist",
+      "source": "The Economist",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSllxZjNuQ0l0ZExkQlp2RmVURXBuMm5WRjUyUkZsOXNaeF90Zy1GWXMyZFAzYmlGMGFfTWlhSl9lT2JNMmVnclFGYlg3bjNZQTRUeERZRkFScXBYc0IxZnhEcUF4Q0tzcWhhQTZXaXR6NjA5Y1pTSWdDQXBPQS1HZWpMOWJHN0NzN0lLWkdiMlJWWjN3OC1Ha1VDQ1ViSE9QTmZmSHBYTVpFM1FiUEJtZ1B4Y01nd2dabTlwTw?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 09:42:29 GMT"
     },
