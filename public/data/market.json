@@ -1,35 +1,43 @@
 {
-  "headline": "Last session: Sensex gains over 300 points, Nifty near 23,150 as auto and consumer durables lead recovery",
+  "headline": "On last trading day, Sensex rose 300 points while Nifty settled near 23,150 following a recovery in auto stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 28 September.",
-    "nextOpen": "Monday, 28 September 2026"
+    "nextOpen": "Monday, 28 September"
   },
   "why": [
-    "Market witnessed a technical rebound on Friday after sharp sell-offs earlier in the week.",
-    "Buying momentum in auto and consumer durables sectors provided support to benchmarks.",
-    "Nifty held above the critical 23,000 psychological support zone.",
-    "Selective buying emerged following three-month lows hit earlier in the week."
+    "Technical rebound triggered after the Sensex crashed over 1,200 points in the previous session",
+    "Buying interest in the auto and consumer durables sectors which gained nearly 1%",
+    "Nifty 50 holding key psychological support levels around the 23,000-23,100 mark",
+    "Market participants reacting to a 5% decline in major indices over the past month"
   ],
   "whatHappening": [
-    "In the last session, Sensex closed over 300 points higher while Nifty settled near 23,150.",
-    "Auto and consumer durables sector stocks gained nearly 1% during Friday's trading.",
-    "J Infratech filed DRHP to raise Rs 600 crore through a fresh IPO issue.",
-    "IIT Madras and Unicorn India announced the ₹450 crore first close of a ₹1,000 crore investment fund."
+    "J Infratech has filed draft papers with SEBI for a Rs 600 crore fresh issue IPO",
+    "IIT Madras and Unicorn India announced a Rs 450 crore first close for a new technology fund",
+    "UBS reports suggest gold loan growth may cool as borrowers shift toward personal loans",
+    "Bitcoin rebounded strongly during the week, trading near the $84,000 level after recent volatility"
   ],
   "stocksInNews": [
     {
-      "symbol": "PBFINTECH",
+      "symbol": "POLICYBZR",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         6
       ]
+    },
+    {
+      "symbol": "JINFRATECH",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
     }
   ],
-  "summary": "In the last trading session, Indian benchmark indices recovered with Sensex gaining over 300 points and Nifty closing near 23,150. Auto and consumer durables stocks led the rebound following sharp declines earlier in the week. The market is closed today for the weekend.",
-  "updatedAt": "2026-09-26T11:01:36.764Z",
+  "summary": "The Indian stock market is closed for the weekend following a recovery session on Friday where the Sensex gained over 300 points. Investors are closely watching the 23,000 Nifty support level after a volatile week marked by a sharp 1,200-point crash on Thursday. Primary market activity remains steady with J Infratech filing for a new Rs 600 crore IPO.",
+  "updatedAt": "2026-09-26T11:31:32.939Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-26",
   "articleKeys": [
@@ -43,7 +51,7 @@
     "hanuman ansh box office collection day 50 devotional drama holds strong in eighth week",
     "bitcoin rebounds strongly this week trades near 84000 after climbing above 86000 here is what experts say",
     "nifty at key 23000 support can bulls trigger a technical rebound",
-    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall timesofindiaindiatimescom",
+    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
     "sensex crashed over 1200 points why stock market fell today india today",
@@ -116,8 +124,8 @@
       "publishedAt": "Sat, 26 Sep 2026 14:21:07 +0530"
     },
     {
-      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
+      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
+      "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
     },
