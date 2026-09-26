@@ -1,84 +1,110 @@
 {
-  "headline": "Last session: Sensex recovered 300 points, but markets logged a seventh consecutive weekly decline amid oil price volatility.",
+  "headline": "Last session: Sensex rose 300 points and Nifty reached 23,150, recovering slightly from a major mid-week crash.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 28 September.",
-    "nextOpen": "Monday, 28 September 2026"
+    "nextOpen": "Monday, 28 September"
   },
   "why": [
-    "Recovery in the last session was supported by gains in the auto and consumer durables sectors.",
-    "Earlier heavy losses were triggered by crude oil prices surging above $100 per barrel.",
-    "Proposed insurance curbs and global economic uncertainty weighed on investor sentiment throughout the week.",
-    "Large public sector banks sold US dollars to help the rupee recover from its lows."
+    "Gains in auto and consumer durable sectors supported the Sensex recovery in the last session.",
+    "A massive 1,200-point crash on Thursday led Nifty to its seventh consecutive weekly loss.",
+    "Prestige Group cancelled its hospitality arm's IPO citing unfavorable market conditions.",
+    "Bernstein reported that FIIs are unlikely to return without new growth engines in India."
   ],
   "whatHappening": [
-    "The Sensex and Nifty recorded their seventh consecutive weekly decline despite a late-week recovery.",
-    "TCS reported a 14% drop in net profit to ₹10,720 crore due to legal and labour costs.",
-    "India's forex reserves dropped to $781 billion after previously hitting a record peak.",
-    "Anmol Industries has filed for an IPO worth $188 million to raise capital."
+    "JSW One Platforms filed draft papers for a Rs 3,054 crore initial public offering.",
+    "Nifty and Sensex have fallen over 5% in the last month amid persistent selling.",
+    "SEBI's new PMS framework is expected to potentially double the industry's size over time.",
+    "Nifty 50 settled near 23,150, recovering slightly from a three-month low hit earlier in the week."
   ],
   "stocksInNews": [
     {
-      "symbol": "TCS",
+      "symbol": "PRESTIGE",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         5
       ]
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        12
-      ]
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        12
-      ]
-    },
-    {
-      "symbol": "ANMOL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        3
-      ]
     }
   ],
-  "summary": "On the last trading day, Indian markets recovered some losses, though the Sensex and Nifty still posted a seventh straight weekly decline. TCS saw a significant profit drop, while broader markets were impacted by high oil prices and a reduction in forex reserves. The market is currently closed for the weekend and is scheduled to reopen on Monday, September 28.",
-  "updatedAt": "2026-09-26T06:33:22.017Z",
+  "summary": "The Indian market saw a slight recovery in the last session with the Sensex gaining 300 points, though Nifty recorded its seventh straight weekly loss. Prestige Group cancelled its hospitality IPO due to market conditions, while JSW One Platforms filed for a new Rs 3,054 crore listing. The market is closed today for the weekend and will reopen on Monday, 28 September.",
+  "updatedAt": "2026-09-26T07:02:45.012Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-26",
   "articleKeys": [
+    "prestige group drops rs 2700 cr ipo plan for hospitality arm cites bad market conditions",
+    "sebis new pms framework could potentially double industry size over time apmi chairman vikas khemani",
+    "stocks to buy macquarie initiates outperform rating on these 4 capital market stocks do you own any",
+    "fiis unlikely to return in large numbers without new growth engines in india bernstein",
+    "concurrent gainers 10 smallcap stocks that gained for 5 days in a row",
+    "jsw one platforms files draft papers for rs 3054 crore ipo",
+    "nifty logs 7th straight weekly loss for the first time in 6 years time to be fearful or can bulls pull off a comeback",
     "give blood buy bonds countries get creative in hunt for cash",
     "wall street week ahead jobs report inflation data to test us rate path economic strength",
     "sk hynixs solidigm weighs ipo that could value the unit at up to 150 billion sources say",
-    "biscuit maker anmol industries files for 188 million ipo",
-    "fdi equity inflows rise 6 to 20 billion in q1 us contribution drops japan tops",
-    "labour code impact legal claim provision drag down tcs q3 net profit by 14 to 10720 crore",
-    "forex reserves drop to 781 billion after hitting a peak of 785 billion",
-    "rupee recovers as large public sector banks sell us dollars",
-    "import duty cut on edible oils ahead of festivals explained",
-    "battered bonds draw support from falling oil prices",
     "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
-    "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom",
-    "weekly market wrap nifty50 sensex falls for 7th consecutive week infosys bharti airtel others drag losses upstox",
-    "stock market prediction for tomorrow sensex nifty outlook what gift nifty nikkei kospi taiwan signal for india tradingview",
-    "indian shares post worst day in 10 weeks on oil spike proposed insurance curbs reuters",
-    "stock market crash sensex falls over 630 points nifty slips as crude oil surges above 100 rupee also falls ptc news",
-    "sensex nifty today indian markets recover after heavy thursday losses apac media",
-    "the battle between indias stock exchanges is heating up again the economist",
-    "stock market today bse sensex opens over 100 points up nse nifty50 trades above 23000 the times of india",
-    "indian stocks slide at open as nifty sensex extend market weakness investingcom india"
+    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall timesofindiaindiatimescom",
+    "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtvcom",
+    "sensex crashed over 1200 points why stock market fell today india today",
+    "stock market crash live updates rohit srivastava sees nifty falling to 22800 22700 levels cnbc tv18",
+    "sensex nifty 50 prediction today stock market outlook for 25 sept 2026 gift nifty nikkei taiwan cues to watch livemint",
+    "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
+    "nifty sensex fall over 5 in a month what is fuelling the crash in indian stock market can nifty 50 fall below 23000 et now",
+    "stock market today highlights bse sensex ends over 1200 points lower nifty slips below 23070 timesofindiaindiatimescom",
+    "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Prestige Group drops Rs 2,700 cr IPO plan for hospitality arm, cites bad market conditions",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/prestige-group-drops-rs-2700-cr-ipo-plan-for-hospitality-arm-cites-bad-market-conditions/articleshow/134499033.cms",
+      "publishedAt": "Sat, 26 Sep 2026 12:11:41 +0530"
+    },
+    {
+      "title": "SEBI’s new PMS framework could potentially double industry size over time: APMI Chairman Vikas Khemani",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/aif-pms/sebis-new-pms-framework-could-potentially-double-industry-size-over-time-apmi-chairman-vikas-khemani/articleshow/134499050.cms",
+      "publishedAt": "Sat, 26 Sep 2026 12:11:09 +0530"
+    },
+    {
+      "title": "Stocks to buy: Macquarie initiates Outperform rating on these 4 capital market stocks. Do you own any?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-macquarie-initiates-outperform-rating-on-these-4-capital-market-stocks-do-you-own-any/slideshow/134499082.cms",
+      "publishedAt": "Sat, 26 Sep 2026 12:03:56 +0530"
+    },
+    {
+      "title": "FIIs unlikely to return in large numbers without new growth engines in India: Bernstein",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-unlikely-to-return-in-large-numbers-without-new-growth-engines-in-india-bernstein/articleshow/134499010.cms",
+      "publishedAt": "Sat, 26 Sep 2026 12:03:37 +0530"
+    },
+    {
+      "title": "Concurrent Gainers: 10 smallcap stocks that gained for 5 days in a row",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-10-smallcap-stocks-that-gained-for-5-days-in-a-row/slideshow/134498802.cms",
+      "publishedAt": "Sat, 26 Sep 2026 11:36:33 +0530"
+    },
+    {
+      "title": "JSW One Platforms files draft papers for Rs 3,054 crore IPO",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jsw-one-platforms-files-draft-papers-for-rs-3054-crore-ipo/articleshow/134498412.cms",
+      "publishedAt": "Sat, 26 Sep 2026 11:22:15 +0530"
+    },
+    {
+      "title": "Nifty logs 7th straight weekly loss for the first time in 6 years: Time to be fearful, or can bulls pull off a comeback?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-logs-7th-straight-weekly-losses-for-the-first-time-in-6-years-time-to-be-fearful-or-can-bulls-pull-off-a-comeback/articleshow/134498300.cms",
+      "publishedAt": "Sat, 26 Sep 2026 11:16:59 +0530"
+    },
     {
       "title": "Give blood, buy bonds: Countries get creative in hunt for cash",
       "source": "Zerodha Pulse",
@@ -98,106 +124,64 @@
       "publishedAt": "Sat, 26 Sep 2026 10:09:11 +0530"
     },
     {
-      "title": "Biscuit maker Anmol Industries files for $188 million IPO",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/biscuit-maker-anmol-industries-files-for-188-million-ipo/articleshow/134497256.cms",
-      "publishedAt": "Sat, 26 Sep 2026 10:07:03 +0530"
-    },
-    {
-      "title": "FDI equity inflows rise 6% to $20 billion in Q1; US contribution drops, Japan tops",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/fdi-equity-inflows-rise-6-to-20-billion-in-q1-us-contribution-drops-japan-tops/articleshow/134497120.cms",
-      "publishedAt": "Sat, 26 Sep 2026 09:58:59 +0530"
-    },
-    {
-      "title": "Labour Code impact, legal claim provision drag down TCS Q3 net profit by 14% to ₹10,720 crore",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/tcs-q3-profit-drops-14-to-10657-crore/article70501246.ece",
-      "publishedAt": "Sat, 26 Sep 2026 09:55:39 +0530"
-    },
-    {
-      "title": "Forex reserves drop to $781 billion after hitting a peak of $785 billion",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/forex-reserves-drop-to-781-billion-after-hitting-a-peak-of-785-billion/articleshow/134497071.cms",
-      "publishedAt": "Sat, 26 Sep 2026 09:52:31 +0530"
-    },
-    {
-      "title": "Rupee recovers as large public sector banks sell US dollars",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-recovers-as-large-public-sector-banks-sell-us-dollars/articleshow/134497026.cms",
-      "publishedAt": "Sat, 26 Sep 2026 09:49:26 +0530"
-    },
-    {
-      "title": "Import duty cut on edible oils ahead of festivals | Explained",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/national/import-duty-cut-on-edible-oils-ahead-of-festivals-explained/article71511564.ece",
-      "publishedAt": "Sat, 26 Sep 2026 09:43:10 +0530"
-    },
-    {
-      "title": "Battered bonds draw support from falling oil prices",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/battered-bonds-draw-support-from-falling-oil-prices/articleshow/134496754.cms",
-      "publishedAt": "Sat, 26 Sep 2026 09:34:45 +0530"
-    },
-    {
       "title": "Closing Bell: Sensex tanks 1,248 pts, Nifty below 23,100; all sectors in the red - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQX3pSUl9TcTJPb1dLME1MUXJ1ZnNDa2VVZldRd09qX1pVSG05c3ZMdkhwMFFTaEZRaklScUxoMlZNVEl4Ylg3WDJtM21UaEtoSjVNckY3VHN2U3p2eFRyaF9tQkp1amMwM0luMmVkalVNMUZfRGs0ZE9xMkxIMmRCcjYzNW1PWjdjaW9DTXNPM3owMjhwZE8zemY1dzRFa0plRjNaeDNuV29vWFdNNjdoUTVSWDNIUk00bUtxSk15UElOX1JDTVVsNm1xRjRqSHFOaXdzNzF4ZGNCTVJZRkFsaThmc3o4THF1SVZGZlFpRU5UR2ZabFd4REQ1VUVWTDBrMnZDcEVHLVBZUnVaV3pKemhrWFdTa2d6UjV6RU0yQU1jUk3SAagCQVVfeXFMUEFnVkFZSldKekNvajZqS3pQblpTOG9rZVNQcDNPMFByWjFiRi1IMVEwNGJYWDJoYVIyRVlldm52bFVfTnFsdi1aOXRlQzNUYnpDOW1WbGRUVV9MWE1MRVpIRDN0eXdJeE56aks2OWFpVHVoWnVLT2wwWWptalhMUFlTSHo4b2Y3bHV5TFJxRF9iRmZKYU56cGRxVkJzRDI2eUtiN19tOHdnUjQ2WWdrUXRYNE9FdktCX3RCYUVCbTJQbENaMGtrcG96ZVZ1YVQxNXVPYXYtbU5pcjM2eWpnVzJlR2YzbktZb2g5bWRfekpldzBMTXp5bnRXOG5wZ3JDaGhTdzRXOFNLbmxib21OMVRzcDFpclFOUnhKSVg5SVJvOGdiMVRUa3Y?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 10:54:03 GMT"
     },
     {
+      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
+    },
+    {
+      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - ndtv.com",
+      "source": "ndtv.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEtEbWlBNTFIcHJzRV9zU0hnQUd4MVRma2VMWXpOdDl3SURrMGJPOXBnVnFOTm1MLVpMMFAzYUhUWDJVYnpYd1cyWG1xUjhxOVdkb0tVNkF2VnZfZktsRnRYTlNjMzBYblcyM0pHRUo4Ul8xVlFoci1JOXpSU2F2RlBkbFJaZGhTeE9yODV4aDlnSDdKbjd2c0ZKMzc0Y2JFbER0c2hDNW1pbURITlcw0gG3AUFVX3lxTE8xbVZoQm0xdm9CSmg5ZVBDMVluS0lTTUctTnpYYVU2S0RxcFhlaUY5Qndta09tY3VuZWI3MW1LRWlPNVl6QlY4OVBFcENPZEY4OU9jMThxdzM1cG56U1ZtN29HNGEtZmZ6eklRSXlNNERlUVF0dXNjVXV0dERKeFpyeHY4YUV3ZXdWYWhjcWsxM1d4TWtYOE1tUjRFQ0xKQm5aWHJhcnJfSHFha1FDeUJpSDdJaWhrNA?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 09:02:35 GMT"
+    },
+    {
+      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzVxaEFRS2NOd2NZVUNtWHNQaTgwaVc1bGJhLTZVWVZFTjREMnJhVXllcllTYlZKTWM3TmVudWo3MXVfcnpTazhIX2RZWWZ5YjJ3XzMxNnZkemlkMjduaEExRXVRWjY3M2ZSNmo0c3BhRmZsSW82ampNRVBpVkJ3YWtvWVFSM0pPcl9tTGlKVDF0dUhNYmgzN2MtWTFGWHBpV1liRHFZVEYwdURaNkFiNnBaUHNoVW5aTjhOVG82Qm9tQXhIV2VqN0RWT2gyYW1yb0xEdEFpdG4ya0tFOVVtSTQ0aWdYQkQyS1liNWJOelMzdFXSAfgBQVVfeXFMTUFQcXZjUk93LXBGOGZqOHlmcXFNR2RoSkdCc2F2bVdPM0hGQ2lqQy04bG50MzZWY0JoUU1uRFFlME92NjFueGpyNFpBREFKTC1pMzZ1eGJlSWF5dGNjVXlFZ21JS0NjZmYtNWUzVG02ajRXbi1nWWtwSktpU3VxektCa3BpbTI2Sk9fZUFKbUIzYkM1V0tScExKMmgxM0l1SmhUTkpMYXVIMlZ2R1I2TkJ5emtlQ3BNXzBfWTRERkNLRW5tYWxnNjdqV29GUldwMExmU3pGaVJ5LWNaZHpnQ2Fsa2p3dE03QTZCU1c3Zkt1QzNLSWlyUk8?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 04:44:56 GMT"
+    },
+    {
+      "title": "Stock Market Crash LIVE Updates: Rohit Srivastava sees Nifty falling to 22,800 - 22,700 levels - CNBC TV18",
+      "source": "CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVkJNZVdTZmFVSHdHcHFXakw5aTNBS0ZEY2swb2VnaEtmbjRVVFBzVGZsbVFZaE51MWFtWmxwWVZJckVoQXdsVmswOFVzd1VPT0FGd3V4VmpDTWhPcVN2bUFZTENia2U3ckU0OHB5UHRxVTVNYVpmdS1LNkFCSzRUYnBlU3g1aE1sMGc3di1RNnFSRjJWbUU1TFh5cWN5SnNIdFJSc2ZjcklsM1Vod1JHRVoxLW1DeDhOVnBKSUx2bGkwek80SjZ2YUJ2UUlSaEE4ZHdBOEpKbkVYdkhiSlpQVFZMT29LUGgtV3FkZW9IT2ZmNEQyZTFZamd2Zk9wVUhm0gGGAkFVX3lxTE9mMTJTWnZNci1yckFaMmsyUnk0VklMd1RxT0psWVZ6RF9vMFB5ZjVVM2dnTnNwaVJxUy04R1FaZFZOY1RZdWlTN2xpR2JXLTRPU1VOek05TVhtRWY4akswSkcwdUsxdkpWQm9mSFA0SjBxaW1ncFpHVDJZZ296dGIzcjA0YmZ4aDdZNVNSdEJNUWxmVjVpQ2gzNDlfZk1wNjg1Q0wwMDNoNHo1RklpWVBJbHZCNHAtaGdGQTB3SDVLNzZxb2wtNkR1QlpNYTlWcHFLd0dETXU0dzE0SGNiWWlhRUhfWjVIcTdQS2dya2ZjWHRlNWF0dHdOQm9XRTUzNUNIRVZCQkE?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 10:30:27 GMT"
+    },
+    {
+      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for 25 Sept 2026 | GIFT Nifty, Nikkei, Taiwan cues to watch - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWTM0dmdrRUdfSk9FUWpVejZ1SXQ0U2NjX0VxVFlzbzllSWhmVWtZMGdLODg2RnJGNkVSUzRFdGxzQUVsaEtfVk9lZ2ZVNmdaNDV1ZjlON3hBdllybjlOSWhWRkhKUjBGMnVPazJxRFBmdFRoOUZBQkFQZnNYZHdlUlRRV0lDbzFiZHM3Z2ZTNlJ5enBpc1Z6SnpOMkRpdzNYcXFkZTR3dG5neVZyLWI0NmJVOUM4Z2xQNlFoZTR5ZXFkN19kQTRtbkRLcW92ZHBGZGtnc09Md05XT014NXJDdzVOcHNJYWFOS3ZGM2JoSURuSDNPSGdvZDh5NGVaeDhta1hlZ05ZSmtseXPSAZACQVVfeXFMTTFlTERSSENCSkhwSzdDNExXMmdvNnVpUWRZWVZNWHFXdWdLNDdTb1JiNmVIbU5OM2ZhZE1Cc0RVMExmLUJvdVUyQ0RTLW8wM0xwRDI2YnRSMjJKVVl3di1ycnM0UjNQYmZMTWRuMU0yd1hxMDdaVWQwa3R3RF9scDJ2VU1GTWZ3cWYtU29uOGl4TjVBdDlpYlA1d1FDcUhqWjU4SEU4Nnk4VV82RlFxbVNZa2tsUVVMQ2NUZUNCZUl5V2RteEc2Qno4R0o0Z1FRTXh1eC1sVTRlbXBqQXRlcXRjZ0dHTUE2SDFlRlRxQng0QXpwbEJhNWlJQV9yc3JIQTN3bEFVT2x0RzEzalpsbXo?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 01:15:10 GMT"
+    },
+    {
+      "title": "Stock Market Crash News Highlights Today: Nifty Settles Below 23,100, Sensex Ends 1,200 Points Lower - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQzQzdTJVMjg1eU1EZUU5MlRnb1E3Rk95cUNMVGVnR0pfSGd5eVhzaGg2MmZqX1ZkUWZpVWc2VE1XbmtaRFlHbnhab3U1akNFTVhKcDEydlJBS0t0X1Itc1FiMzhKMGxhcWtoWkFxMFBQR2RaYnJkNDItQW1EYWozSE4wTDhnZjFudkNLc3M0WXdBX1FLV1ZKS2JVR0ZVcTJBLU1UZDVSQnV2MndqNElzMVRoVGJobVpsTl9fOC1kbDRESTRLeEY0bHNLVDY5SFVIb3RocWtyQ1V0WVJUN2dEcXhWZmFVZTMyWUl0MmJoV3NBUTRBOXhFZkd5OC1ROU90QkNRT1NpWFPSAZACQVVfeXFMT2xZOWZyMzJUMldfb0xrRnZFSEtrZUFaUDA3a3VZVU1QWXpNWGR5WHhYOHNuSVRlUjN2TTUxTTNCR2w5OUg4S0Y4SGZSdjd5MVRmSFk3WFYxejQ1eTFVR2oxQ053WXBJUjExT0w0XzdwQi1vc3A3YTNoT3hGN19ablRHT1VUWnBBbGdvUmt4dnlLSG5oRFpXbUo1bVBOS0VqTGI2VHdHVU5ZT251ZkVpY2xHQThzd1p5UHBwTmdZTGF5bGJlSjJ6V21QTEZRSWlLbFRjRlNHWUZMNVRvRDdCZnBfODRVZGRqbUU3RW85VUtNVEs3MllDNUpIblBZTEh0YVZ1VEJfWXc1MXdFT1hsUjI?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 10:06:07 GMT"
+    },
+    {
+      "title": "Nifty, Sensex fall over 5% in a month: What is fuelling the crash in Indian stock market; can Nifty 50 fall below 23,000? - ET Now",
+      "source": "ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbzJJd3c1SExMb2ZVbFRCNGtBRTNqVnFHUnE1RWVZVUdBdGliTU1wQUROWVdUWEVBNU1jdTZUUWpUcVBGVkpFOVNsbXBRSjh0QTI1MjFiUy0waUxVVFU3S2lxdFVTdGdRVFp1U3JVbGRjNzkyN3hJZWFGbjlybnZwZWRMLW03VE5VVFFmajhZdURFZV9uYVR3T1NlN192S1o1U3IycU9BR3Q0X2NPVlkxQzBETnZ6blhQMFg4YXEwcHE3TTdaWVFDNkNyRU5xLWdhblRCMFRBMnFadlcyYlpRRExlRG9XMW9iaVloWkZaclJVUzlnQWVROFlVY9IBgAJBVV95cUxPS2pldmlwVmhXQUU0ZlJHTG1ralA5WGFXVGpXNGZtbkJOWmlxZllzZzR2SVJFRXFBZzFVU1Z3bVFuY3VqcHhjcTZBOFdhc243Vkc3enNrU2kwQmpOOEhOYnZMelFTdUItYzF1STZVN3BVMHpQeExxV3YxWXZmQlBydVNhODRHU0hFLWtsemE1dEFIc1puSWZiNy10ODJXZThYT1AyS1dyUko5QUIwNTFoeEtCYWNnbkt5Qnd4QS1vR2pFRVV6Mk9mcTFmUVFxUVRLSEhIMW56MkEtVFFFM1lTYzRMVjdHVk1ra29RQWZycWdEN3NCeE1XQms1VmIySGxk?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 05:25:16 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights: BSE Sensex ends over 1,200 points lower, Nifty slips below 23,070 - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQXzZwc2s3N0x5UG13WllXMUIxM0tVZVpEdG9YeV8xV3o5RXE0TWNZWjVXNWtWVThOX1dqZE4zOWh3QWxPckR6TTFSYUdwX3B1Y3V5LVcySTJiN0dDLW5oeTFsOXI4ZDBsS25WZlF5emJrdjBjSjRpOWsxNGFueUZ5R2JwbS0xTTMwbUp0ejJZSWtLVTVOWkdOUXJIVUNBWW92Uml0WlYya3RtYmd2bkZpS3JTenRqdXVxU0llX0FLblpxSTRZUWJuOUw3YVM0QVlCSHByQmZIYThLelBJSnRsRGZ1eHhTWVNBQjdmdDVhLUdNczRjM2tvb2dDXzlMdEp6SlpISWtrRU9sa2lRS2ZNLXFDSDBOUHBXZjY0aVRZYlFsTkg2VlA1WWdHaEpJWThmbi1ZZmRMONIBvAJBVV95cUxOaURRaXRJVGxRUEp5aEE4VHNtODg3S2dfZkVkTVp1UnV2cjZBQ3ZVTENoaU80bEVheWlIR1E1WUdOMVRHZzNld1otVUE0TWJJc2lKUU9mVGFMdUktV3otaTY4SVZfUzl1ZUpWYUFXemEwc3pZSUpNN2hyTHNMNkRfeG1seUVqaHJPWG9ELVpsdExGeXFWVWFOMU9TTzNWeEJ2RTN0eXh4OTc5bEUwSnlvbXZuODVEcGZlNGRXZG1KTER0MHM3RzVlWjlXdUVYelhZWXhJMmxmUktENUtOUjctQkFmYVRWX0pTc0Zka2tMZXV6LU1aazZiZHZ4dnNxNUM1TDdzb0JxOV9qMFF3QjB1SzltcHI4d0VJQ2syX0lXRGxmSGFRVUdPSThubVFtaXoyaWlqbVFPSmJZUGRi?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 10:59:51 GMT"
+    },
+    {
       "title": "Sensex Today | Stock Market Live: Sensex ends over 300 pts higher, Nifty near 23,150 after CAS; auto, consumer durables gain nearly 1% - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVXhkVUYwUHplelFJbUVzQnZsNTJFWnU0T0hXSHdKTEc2OTlSdktNWUNUUjNOLTJxc3hDS1ZlUzM1VmFuZTAxZUpZZ0ZYVDZWdVBGMzEwcmFxRS1PaVBzdG01UmtfY0xqaWtiQVAwUlJfaDhXeTNSWFRmVHNweGxPTUJpSjQzU0FOZ3FIRGRyYTN2cnI2WkhDSEp0bkZnaUM2MHZuMW1SdS1aeklsVXBaWVFjSzk0UXFLdTExRXRXUzh3T3RJaTJhV0ZhbFlxVVZkR0JZbFhGRTVtbVczekQ0RmJ3S1pwWERrQjhranBGbHNoZzRzUlhia2lJdUtFN1J3ODZwWDFDLUJGSlFPbW5KVlh0dkNEa3Zza2RBMVdSeVNfZDTSAagCQVVfeXFMUEZpOGQ3WFg5YW1Cc2dwQXk5dWNSeWpBUnJQT3Vna3JxZUtfNUZCdGRYUllMMWE4dV9hT2FweHNkdWluQkNlaUJkYnA0NXFhUjhLNWNQR0RRZS1YY3Y2WGZPNDcwd3dEbDJwMFZtaHpXWUE4VXdIcjQtcnFEbkI1VkhsN0VPQnFyWUtLRjBtaWNWTEhHcV9Gd29tSXlaVE53NkUzUFdhVW1HSC1BR0ZYbmNpemxjc2RRbTAxUkFGTnpBdnMwZmhtaW1CdXpDOXh6NWI3MzRwTmtNb2w2ZnFYcGh4QW5XcTlYZjQ2TzJOZThITEUtMmI3Q3U1N0xBdXNub1h6RGlTWmRqYVAwalRZb1E2NE80bkNGN1F1OWpoTnJQUVg2dkstTUY?oc=5",
       "publishedAt": "Fri, 25 Sep 2026 10:17:52 GMT"
-    },
-    {
-      "title": "Weekly market wrap: NIFTY50, SENSEX falls for 7th consecutive week; Infosys, Bharti Airtel, others drag losses - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTzFkM05pMU5YQy1jcVVSbWtXSXVrRW80UzU0U3ZDYXhwQ3J0NmJmMFNDMTVuWW9IMEp4T0NWalg0TGl0MEtaQzQzeTRpNzZ5MHY4cjYxcXV3Sk4tZ3l1dTQybzJXakhSVUFyX2RtSTM1QTRwVi1nNGZXdkpfSlZUUTkwcVViYzkzai1uaFk3eS1xVlg0b2stQl94eGdza01BLU4wLTd4MmNBUDNKQzJURXNPQV9oYk5GdTNwSnlSal9Xb2V0ak9KZkRBM0VmcjROSGdSMjg4TS1fOU9iNzdFUi1JU3lvRndla3JHbmZSZUJGSnBoeUJyLQ?oc=5",
-      "publishedAt": "Sat, 26 Sep 2026 05:39:54 GMT"
-    },
-    {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUF9yc1dtakp4OG9GOWJ6elRVNVFvTGRRRHVBWUhMaXpXblE4dWtOckpWcHExRmYxTHZ3RTdveV92VW5LcXExa081eVlwT0kzSjh0eFlZVzJVQ0lkWllCaHRQc25fQkFnSmVfMkxhaDN1V3hDYjNTamwyWGVhR1ExUGxWd3JyZzZOQlBta1BjQ0lRR1NxYTU4dm9PaE5NSUd3RTNhdlRwQ2hkUnp3emUySUJ0a0ttOFdrdXlMTGVvaGE5dURoXzhZMy13WnR1eTRSZWJDazluOXRmSlRhM0FKVVlwVG95ZXJGUGt0c21hbEZnczBpUjRhLVhmTQ?oc=5",
-      "publishedAt": "Sun, 20 Sep 2026 07:52:08 GMT"
-    },
-    {
-      "title": "Indian shares post worst day in 10 weeks on oil spike, proposed insurance curbs - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFR1dnlza0cxUU5PbXRVYmRRT19oaHZFS3NmTDZUdHhDUVpIaTJDVDFHYThvSXE3RzNWenBDSUlDUDVCdE51VkpDaXppUEl2M1htMGxsMkxPV3ZaS2d3YVhYVTlFUEphWm45cWVuYTZLYmJ2V0xwT2dtMFkwQXZ5bjVWOVh2UHczVnZUSFQ5NFBrUkJaQTJwRXFoSlY5ajhXaHJXOVd3enFaclR4QUpXODFjMWxjVVE?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 02:39:00 GMT"
-    },
-    {
-      "title": "Stock market crash: Sensex falls over 630 points, Nifty slips as crude oil surges above $100; rupee also falls - PTC News",
-      "source": "PTC News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjllRTk5NW9XdG1oVkhqUmJWNXBwbGRNelVkSURvYWg5X0RabEVUMDktWHQ5ZVdrcVVQMkRERGNOMGNmZG5IYjBXSk96RFVhdHN2Z2RlWlNMc2hsT1hBQU5qcjNIakJjNlBQeDVDamROS0NxSUVEU1R5SndSREE2SWZlYlFJblludnJZVEVmN2xid0xjVTNnd1dnWjNQblZnZEFZUWg4eTlqX2VjSnNsbA?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 07:10:18 GMT"
-    },
-    {
-      "title": "Sensex, Nifty Today: Indian Markets Recover After Heavy Thursday Losses - APAC Media",
-      "source": "APAC Media",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hVC1JSXRqcHpiOC1BcW9STzVMX1E1Y2FuZThSci15UVN4VVBkU0syaVFzU01NaXVDZ21QSS03M0h2N0JoZFFOV1lZVlZna1YtRzRHdi03OHRLS3B0OGdGbzRKX01uc3BVbzZwTXVmVkFoMXU5Nk04aGhYZw?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 10:31:57 GMT"
-    },
-    {
-      "title": "The battle between India’s stock exchanges is heating up again - The Economist",
-      "source": "The Economist",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSllxZjNuQ0l0ZExkQlp2RmVURXBuMm5WRjUyUkZsOXNaeF90Zy1GWXMyZFAzYmlGMGFfTWlhSl9lT2JNMmVnclFGYlg3bjNZQTRUeERZRkFScXBYc0IxZnhEcUF4Q0tzcWhhQTZXaXR6NjA5Y1pTSWdDQXBPQS1HZWpMOWJHN0NzN0lLWkdiMlJWWjN3OC1Ha1VDQ1ViSE9QTmZmSHBYTVpFM1FiUEJtZ1B4Y01nd2dabTlwTw?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 09:42:29 GMT"
-    },
-    {
-      "title": "Stock market today: BSE Sensex opens over 100 points up, NSE Nifty50 trades above 23,000 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2ZIYlJtSTJ2R0tUd041X2M0a2gyT0hxbktRNi1YSFpNcXlUZlBwcW9FMGl0RkRoUXJpLXFSYmI1SUlJTkFBNTl0dlExYi1LWm0xX1hUVVFqVjhxWlJwd1Mwb29fX1U0VVFhRE01d3IxSTNpNkkzQWY2TkpJSVVKLWtlM1dFWkFnaEFuZ2hCT2RYWktac2dQLUVmemdKeHlMMHYwbEtfaEI2d2w0MEdYVGx4T2R1ZktDV1RWQ2ZfUFBDZGRTWVdmSF92OS1kTnFNUTBXeHlZd3ctMF9wMk9lNHRoVEJTUTVYSV9rR0FvdG5jZVIxdzBJdnNSS1VzbXll0gGGAkFVX3lxTFBZX2J6TDljZ3haMlBoSFNpQWJ3XzE1aVhVTXVUNUkyYUZLY2N5Z1VuV19hbzZNNDhsb2RlTjZWRmpObFNlVFR1RmtRcVM3bXZGODZXUnhJcC11VXVDM2pKWVNfdXRjaENBQUZiRjZwZmZ2SmRmRTE1Nmxac1I4RlVla0U0LVdlNGdKS2RxOHhfRUFTaUtlcDNLTFVjY2JyZzBSWFEwVXR1R25rMjZmRldrRldOazUwRmRjTmhpVUl6Q1ViWFo4bS1GaEpuWkhUelYyd0ZBOGdIM0Fxa0p0U29jZEpnR1NWcGx6TEl6ckt5NUNhS0lTVU1QR043dEZvbC0zNmpHNmc?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 03:51:00 GMT"
-    },
-    {
-      "title": "Indian Stocks Slide At Open As Nifty, Sensex Extend Market Weakness - Investing.com India",
-      "source": "Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFpaMjRkMHFmQl80MDZYRWhpSFRCbGtlcGRYbEZHV3ZmaTI2LXJoTHdGcVgwWVg1dWZXTUFaX3dFbUl5ZDlRVjl6QmNvOXAxeXM1Vk83UnpseUQ2Y01IdnhCeF9RZEV4bkV6LTB5N0VnVURTVUQtQkF0QnoyZEQ4djZ3VXZXREcxNzdvdi1JMGVMdXlfb3MzYWdSOW1qbUtlQ205NHBzWmdqWmJ2bmxxZF9WUmp1cXFHVlNoSWtNMA?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 04:12:29 GMT"
     }
   ]
 }
