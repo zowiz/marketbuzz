@@ -1,22 +1,22 @@
 {
-  "headline": "Last session: Sensex rose 300 points, but Nifty and Sensex closed their seventh straight week in the red",
+  "headline": "Last session: Sensex rose 300 points as auto stocks gained; market closed for weekend, reopening Tuesday.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 29 September.",
-    "nextOpen": "Tuesday, 29 September"
+    "nextOpen": "Tuesday, 29 September 2026"
   },
   "why": [
-    "Gains in auto and consumer durables sectors helped the Sensex recover over 300 points in the last session",
-    "The market remains under pressure, ending the seventh consecutive week lower after a sharp mid-week crash",
-    "Analysts identify geopolitical developments and crude oil prices as key drivers for the upcoming trading week",
-    "A planned three-day nationwide bank strike starting September 28 is expected to impact financial services"
+    "Auto and consumer durables sectors saw buying interest in the last trading session, gaining nearly 1%.",
+    "Markets attempted a recovery after a sharp 1,250-point crash earlier in the week.",
+    "Analysts point to geopolitical developments and crude oil as key upcoming market drivers.",
+    "Supply constraints in major cities like Mumbai and Delhi-NCR are driving a premium in office rental markets."
   ],
   "whatHappening": [
-    "Petronet LNG has approved a commission of 1% of profits for its directors",
-    "Trans ACNR Solutions and eight other companies have filed IPO papers with SEBI",
-    "The Indian Navy Chief has invited Skyroot to develop space capabilities for the armed forces",
-    "The Indian consumer durables market is projected to reach a valuation of Rs 3.25 lakh crore by 2030"
+    "A three-day nationwide bank strike is scheduled to begin on September 28, potentially impacting financial services.",
+    "Petronet LNG board has approved a commission payment of 1% of profit to its directors.",
+    "The Indian stock market has concluded its seventh straight week of losses despite the Friday recovery.",
+    "The Indian durables market is projected to reach Rs 3.25 lakh crore by 2030, boosting local manufacturing."
   ],
   "stocksInNews": [
     {
@@ -24,15 +24,17 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        5
+        7
       ]
     }
   ],
-  "summary": "In the last session, the Sensex rose 300 points, though the market logged its seventh straight weekly loss. Investors are preparing for a three-day bank strike and tracking geopolitical cues that may drive volatility next week. Corporate developments include Petronet LNG's new director commission policy and several new IPO filings.",
-  "updatedAt": "2026-09-27T14:36:32.011Z",
+  "summary": "The Sensex gained over 300 points in the last session, led by auto and consumer durables, despite ending the week lower. Markets are currently closed for the weekend and will reopen on Tuesday, September 29. Investors are monitoring a planned bank strike and global geopolitical factors for future direction.",
+  "updatedAt": "2026-09-27T15:05:09.984Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-27",
   "articleKeys": [
+    "jakson green eyes 125 gw operational renewable projects in two years",
+    "supply constraints support premium office rents in mumbai delhincr",
     "boeing detects software issue with max planes may impact automated flight guidance system",
     "indiarussia defence ties russian envoy denis alipov says its not a zerosum game",
     "asian games ancy sojan wins silver in long jump harita bhadra bags bronze in womens 200m",
@@ -41,20 +43,30 @@
     "petronet to pay 1 of profit as commission to directors",
     "indian durables market to touch rs 3325 lakh crore by 2030 create rs 50000crore local manufacturing boost",
     "stock markets this week geopolitical developments crude oil to be key drivers say analysts",
-    "trans acnr solutions eight others file ipo papers with sebi",
-    "father time always wins what warren buffetts 4word farewell message means",
     "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom",
-    "stock market prediction for tomorrow sensex nifty monday 28 sept triggers gift nifty nikkei taiwan kospi cues livemint",
+    "stock market prediction for tomorrow sensex nifty monday 28 sept triggers gift nifty nikkei taiwan kospi cues livemintcom",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "indian stock market latest news september 26 sensex nifty end seventh straight week lower key levels to watch the sunday guardian",
     "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
-    "sensex crashed over 1200 points why stock market fell today indiatodayin",
+    "sensex crashed over 1200 points why stock market fell today india today",
     "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
     "stock market prediction for tomorrow sensex nifty monday 28 sept triggers gift nifty nikkei taiwan kospi cues tradingview",
     "indian stock market next week april 1317 sensex nifty may consolidate usiran talks q4 results in focus goodreturns",
     "what will drive stock market this week us yields crude and geopolitics in focus fortune india"
   ],
   "articles": [
+    {
+      "title": "Jakson Green eyes 12.5 GW operational renewable projects in two years",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/jakson-green-eyes-12-5-gw-operational-renewable-projects-in-two-years-126092700638_1.html",
+      "publishedAt": "Sun, 27 Sep 2026 19:42:51 +0530"
+    },
+    {
+      "title": "Supply constraints support premium office rents in Mumbai, Delhi-NCR",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/news/supply-constraints-support-premium-office-rents-in-mumbai-delhi-ncr-126092700451_1.html",
+      "publishedAt": "Sun, 27 Sep 2026 19:32:05 +0530"
+    },
     {
       "title": "Boeing Detects Software Issue With MAX Planes; May Impact Automated Flight Guidance System",
       "source": "Zerodha Pulse",
@@ -104,26 +116,14 @@
       "publishedAt": "Sun, 27 Sep 2026 17:46:35 +0530"
     },
     {
-      "title": "Trans ACNR Solutions, Eight Others File IPO Papers With SEBI",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/trans-acnr-solutions-8-others-file-ipo-papers-with-sebi-12105188#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 17:18:17 +0530"
-    },
-    {
-      "title": "Father time always wins! What Warren Buffett’s 4-word farewell message means",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/father-time-always-wins-what-warren-buffetts-4-word-farewell-message-means/articleshow/134519388.cms",
-      "publishedAt": "Sun, 27 Sep 2026 17:08:51 +0530"
-    },
-    {
       "title": "Sensex Today | Stock Market Live: Sensex ends over 300 pts higher, Nifty near 23,150 after CAS; auto, consumer durables gain nearly 1% - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVXhkVUYwUHplelFJbUVzQnZsNTJFWnU0T0hXSHdKTEc2OTlSdktNWUNUUjNOLTJxc3hDS1ZlUzM1VmFuZTAxZUpZZ0ZYVDZWdVBGMzEwcmFxRS1PaVBzdG01UmtfY0xqaWtiQVAwUlJfaDhXeTNSWFRmVHNweGxPTUJpSjQzU0FOZ3FIRGRyYTN2cnI2WkhDSEp0bkZnaUM2MHZuMW1SdS1aeklsVXBaWVFjSzk0UXFLdTExRXRXUzh3T3RJaTJhV0ZhbFlxVVZkR0JZbFhGRTVtbVczekQ0RmJ3S1pwWERrQjhranBGbHNoZzRzUlhia2lJdUtFN1J3ODZwWDFDLUJGSlFPbW5KVlh0dkNEa3Zza2RBMVdSeVNfZDTSAagCQVVfeXFMUEZpOGQ3WFg5YW1Cc2dwQXk5dWNSeWpBUnJQT3Vna3JxZUtfNUZCdGRYUllMMWE4dV9hT2FweHNkdWluQkNlaUJkYnA0NXFhUjhLNWNQR0RRZS1YY3Y2WGZPNDcwd3dEbDJwMFZtaHpXWUE4VXdIcjQtcnFEbkI1VkhsN0VPQnFyWUtLRjBtaWNWTEhHcV9Gd29tSXlaVE53NkUzUFdhVW1HSC1BR0ZYbmNpemxjc2RRbTAxUkFGTnpBdnMwZmhtaW1CdXpDOXh6NWI3MzRwTmtNb2w2ZnFYcGh4QW5XcTlYZjQ2TzJOZThITEUtMmI3Q3U1N0xBdXNub1h6RGlTWmRqYVAwalRZb1E2NE80bkNGN1F1OWpoTnJQUVg2dkstTUY?oc=5",
       "publishedAt": "Fri, 25 Sep 2026 10:17:52 GMT"
     },
     {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues - Livemint",
-      "source": "Livemint",
+      "title": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues - livemint.com",
+      "source": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3N4b21hRzhJSXdJVzFVNWRNQ3RqT2l3aXFBN2RjN1JDX1Y2V2U5MXlDN2l1a1BGQ1hLcWktbEgwYU1UMUEtalJDYkc5RDZqX0FHdFVuMmpDVDhHdkhWSDVpMFpXLXpoa0ZTWDdGcTBxU1hJSUtIQzgwUXZvQTRPdUh6UnlXYUkxZTZHTmJFSnFQcVFSc0s4V2tGNUUwUTJVZktuRkUwY1c5eTI2NjA5VEgwMDExekhFYVhLRW4wRlduOU1wZ2JqV1F1emdiLVUwWHZwa3BmOXV3MmtLOVpzWlZOOXJ3b1MxY2pvR3VYRlFjYkxmNFdIWGFxNTJJYVVvcWhJRVVwb01UbU3SAZACQVVfeXFMUDJ0a2tkZUxvVXFoM0VZMW5YYm13NlNjNl9KY2l6X2NkS0VvMGw5eGhyWDRzU2ZsTlJmTVdTbmZ0Vzhqc1YyNGU2TWV2a0FLLU1vQmRRVktFOXhtcDRwVVVMbXZPNmo4Q0V4ZkNCU1M3TEZ3RzZwcVp6SlhoczYwY3NYNVN1c1BKSTJLYXBRbVh0bDN1ZWc4VnZNb1VZZERDOFlSXzFwNW1RX0d4LVVGRHUta0Q0cVR5dndQUGNYaTkxWFU4ZVloTzNfR01UMDJ5aVB2R0ptYjU5Q0RLRnBEZExqdEZJV1BDMHRiRTBBa19fa0djbno1blZZM1ZwUWx2VWREaHpQeS0yVFQtRFpQc2s?oc=5",
       "publishedAt": "Sun, 27 Sep 2026 04:22:56 GMT"
     },
@@ -146,8 +146,8 @@
       "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
     },
     {
-      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - indiatoday.in",
-      "source": "indiatoday.in",
+      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - India Today",
+      "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzVxaEFRS2NOd2NZVUNtWHNQaTgwaVc1bGJhLTZVWVZFTjREMnJhVXllcllTYlZKTWM3TmVudWo3MXVfcnpTazhIX2RZWWZ5YjJ3XzMxNnZkemlkMjduaEExRXVRWjY3M2ZSNmo0c3BhRmZsSW82ampNRVBpVkJ3YWtvWVFSM0pPcl9tTGlKVDF0dUhNYmgzN2MtWTFGWHBpV1liRHFZVEYwdURaNkFiNnBaUHNoVW5aTjhOVG82Qm9tQXhIV2VqN0RWT2gyYW1yb0xEdEFpdG4ya0tFOVVtSTQ0aWdYQkQyS1liNWJOelMzdFXSAfgBQVVfeXFMTUFQcXZjUk93LXBGOGZqOHlmcXFNR2RoSkdCc2F2bVdPM0hGQ2lqQy04bG50MzZWY0JoUU1uRFFlME92NjFueGpyNFpBREFKTC1pMzZ1eGJlSWF5dGNjVXlFZ21JS0NjZmYtNWUzVG02ajRXbi1nWWtwSktpU3VxektCa3BpbTI2Sk9fZUFKbUIzYkM1V0tScExKMmgxM0l1SmhUTkpMYXVIMlZ2R1I2TkJ5emtlQ3BNXzBfWTRERkNLRW5tYWxnNjdqV29GUldwMExmU3pGaVJ5LWNaZHpnQ2Fsa2p3dE03QTZCU1c3Zkt1QzNLSWlyUk8?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 04:44:56 GMT"
     },
