@@ -1,59 +1,67 @@
 {
-  "headline": "Last session: Sensex rose 300 points led by auto stocks, though indices closed a seventh straight week of losses",
+  "headline": "Last session: Sensex rose 300 points as Nifty neared 23,150, despite ending the seventh straight week lower.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
-    "message": "Market is closed today because it is a weekend. It will reopen on Monday, 28 September.",
-    "nextOpen": "Monday, 28 September 2026"
+    "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 29 September.",
+    "nextOpen": "Tuesday, 29 September"
   },
   "why": [
-    "Gains in auto and consumer durables sectors supported a recovery in the last trading session",
-    "Major indices faced significant downward pressure earlier in the week, hitting three-month lows",
-    "Concerns over rising US yields and geopolitical tensions continue to weigh on investor sentiment",
-    "The market recorded its seventh consecutive weekly decline due to sustained selling pressure"
+    "Gains in auto and consumer durables sectors boosted the Sensex by over 300 points in the last session.",
+    "Persistent selling pressure has led to the Nifty and Sensex ending seven straight weeks lower.",
+    "Global factors like US yields, crude oil prices, and geopolitics are weighing on investor sentiment.",
+    "Improved debt-servicing capacity is helping corporate India reduce the number of zombie firms."
   ],
   "whatHappening": [
-    "Trans ACNR Solutions and eight other companies have filed IPO papers with SEBI",
-    "Public sector banks remained operational on Sunday ahead of a planned three-day nationwide strike",
-    "Mobile phone retailers are preparing to protest against UPI MDR charges on October 2",
-    "Epigral is targeting ₹5,000 crore in revenue by FY31 through strategic capacity scale-ups"
+    "Nine companies, including Trans ACNR Solutions, have filed initial public offering papers with Sebi.",
+    "Public sector banks remain open today ahead of a scheduled three-day nationwide strike.",
+    "Flipkart is banking on EMI options to drive significant sales during the upcoming festive season.",
+    "Mobile phone retailers are organizing a protest against UPI MDR charges set for October 2."
   ],
   "stocksInNews": [
     {
       "symbol": "EPIGRAL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "MSEI",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        4
+        7
       ]
     },
     {
       "symbol": "ZEPTO",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        4
+        5
+      ]
+    },
+    {
+      "symbol": "MSEI",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "FLIPKART",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        6
       ]
     },
     {
       "symbol": "TRANSACNR",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         1
       ]
     }
   ],
-  "summary": "The Indian stock market ended its last session higher with the Sensex gaining 300 points, though it marked a seventh straight weekly loss. While sectors like auto and consumer durables saw gains, investors remain cautious about global cues such as US yields and crude prices. Significant news includes multiple new IPO filings and a scheduled protest by mobile retailers against UPI charges.",
-  "updatedAt": "2026-09-27T12:31:50.546Z",
+  "summary": "The Indian market is closed for the weekend. In the last session, Sensex rose 300 points, though it marked the seventh consecutive weekly decline. Investors are now looking toward upcoming IPOs and festive season demand.",
+  "updatedAt": "2026-09-27T13:03:10.318Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-27",
   "articleKeys": [
@@ -61,22 +69,22 @@
     "trans acnr solutions 8 others file ipo papers with sebi",
     "mobile phone retailers to protest against upi mdr charges on october 2",
     "ahead of market 10 things that will decide stock market action on monday",
+    "corporate india sheds zombie firms as debtservicing capacity improves db",
     "beyond listed stocks msei rallies 125 zepto retreats 48 heres how other preipo names fared",
     "flipkart expects emi to fuel a third of festive mobile electronics gmv",
     "capacity scaleups to drive epigrals 5000 crore target by fy31 cmd",
     "ahead of three day nationwide strike public sector banks remain open today",
     "etmarkets smart talk 23 crore wealth creators could enter pms sandeep jethwani on prim and indias wealth boom",
-    "dorothy box office collection day 2 keerthy sureshsananth starrer gains momentum after slow start",
     "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom",
     "stock market prediction for tomorrow sensex nifty monday 28 sept triggers gift nifty nikkei taiwan kospi cues livemint",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
-    "indian stock market latest news september 26 sensex nifty end seventh straight week lower key levels to watch sundayguardianlivecom",
+    "indian stock market latest news september 26 sensex nifty end seventh straight week lower key levels to watch the sunday guardian",
     "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
-    "sensex crashed over 1200 points why stock market fell today indiatodayin",
+    "sensex crashed over 1200 points why stock market fell today india today",
     "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
-    "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
     "stock market prediction for tomorrow sensex nifty monday 28 sept triggers gift nifty nikkei taiwan kospi cues tradingview",
-    "what will drive stock market this week us yields crude and geopolitics in focus fortune india"
+    "what will drive stock market this week us yields crude and geopolitics in focus fortune india",
+    "ahead of market 10 things that will decide stock market action on monday the economic times"
   ],
   "articles": [
     {
@@ -102,6 +110,12 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134518822.cms",
       "publishedAt": "Sun, 27 Sep 2026 16:33:03 +0530"
+    },
+    {
+      "title": "Corporate India sheds zombie firms as debt-servicing capacity improves: D&B",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/corporate-india-sheds-zombie-firms-as-debt-servicing-capacity-improves-d-b-126092700430_1.html",
+      "publishedAt": "Sun, 27 Sep 2026 16:19:38 +0530"
     },
     {
       "title": "Beyond listed stocks: MSEI rallies 125%, Zepto retreats 48%; here’s how other pre-IPO names fared",
@@ -134,12 +148,6 @@
       "publishedAt": "Sun, 27 Sep 2026 15:17:36 +0530"
     },
     {
-      "title": "Dorothy Box Office Collection Day 2: Keerthy Suresh-Sananth Starrer Gains Momentum After Slow Start",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/dorothy-box-office-collection-day-2-keerthy-suresh-sananth-starrer-gains-momentum-after-slow-start-check-saturday-earnings-12104785#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 14:43:46 +0530"
-    },
-    {
       "title": "Sensex Today | Stock Market Live: Sensex ends over 300 pts higher, Nifty near 23,150 after CAS; auto, consumer durables gain nearly 1% - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVXhkVUYwUHplelFJbUVzQnZsNTJFWnU0T0hXSHdKTEc2OTlSdktNWUNUUjNOLTJxc3hDS1ZlUzM1VmFuZTAxZUpZZ0ZYVDZWdVBGMzEwcmFxRS1PaVBzdG01UmtfY0xqaWtiQVAwUlJfaDhXeTNSWFRmVHNweGxPTUJpSjQzU0FOZ3FIRGRyYTN2cnI2WkhDSEp0bkZnaUM2MHZuMW1SdS1aeklsVXBaWVFjSzk0UXFLdTExRXRXUzh3T3RJaTJhV0ZhbFlxVVZkR0JZbFhGRTVtbVczekQ0RmJ3S1pwWERrQjhranBGbHNoZzRzUlhia2lJdUtFN1J3ODZwWDFDLUJGSlFPbW5KVlh0dkNEa3Zza2RBMVdSeVNfZDTSAagCQVVfeXFMUEZpOGQ3WFg5YW1Cc2dwQXk5dWNSeWpBUnJQT3Vna3JxZUtfNUZCdGRYUllMMWE4dV9hT2FweHNkdWluQkNlaUJkYnA0NXFhUjhLNWNQR0RRZS1YY3Y2WGZPNDcwd3dEbDJwMFZtaHpXWUE4VXdIcjQtcnFEbkI1VkhsN0VPQnFyWUtLRjBtaWNWTEhHcV9Gd29tSXlaVE53NkUzUFdhVW1HSC1BR0ZYbmNpemxjc2RRbTAxUkFGTnpBdnMwZmhtaW1CdXpDOXh6NWI3MzRwTmtNb2w2ZnFYcGh4QW5XcTlYZjQ2TzJOZThITEUtMmI3Q3U1N0xBdXNub1h6RGlTWmRqYVAwalRZb1E2NE80bkNGN1F1OWpoTnJQUVg2dkstTUY?oc=5",
@@ -158,8 +166,8 @@
       "publishedAt": "Thu, 24 Sep 2026 09:02:35 GMT"
     },
     {
-      "title": "Indian Stock Market Latest News (September 26): Sensex, Nifty End Seventh Straight Week Lower; Key Levels To Watch - sundayguardianlive.com",
-      "source": "sundayguardianlive.com",
+      "title": "Indian Stock Market Latest News (September 26): Sensex, Nifty End Seventh Straight Week Lower; Key Levels To Watch - The Sunday Guardian",
+      "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNejhsTEhQX0htZDlBbXJXTWMwM256RWYwbEVTdmJmNUpDWXFveXNzRXpYNEUwckRVRHM4OFl4bFJpUy1reEUxLXdWUEFLZTFKMjd4UmlrVWpaMG9NckJFNXltZGR6VHBJTEFpUEhPdE1qMUpoejRjWkVOVkdpLXVUTHc4Tm9uejkyNUJSU0NaTFBiRjF3WnJIaThpMDdrblRyeUsyN1EyVlQ0WVdfdmhKbG55dHI4OHNSVDhwZUt6M0tZeEpsQ3lfQmlsRXNJUEswQ3RKWjNsaUgxMTNUOEZmQ19mdEtKTU9mTzNnSDFn0gHzAUFVX3lxTE5jY3NtV2JPN2hURWhGVkRqZkhYRXFKMlBZRkRsc2ViVFUxTF9IRkhvZkVkX2ZfbF9zWnJTYlJocEpGSEdhanBlTW5PY2NLTXdGTDhWUHg2dEZicVZjcjhvaDUwZ2ZoVmc0elRmRUc4RkxRNDhPWER4MjExbGlYUnRvQnAwRmc1Zm5oYzU3cHhXVmVUSjhjelBkQXc0Mjh0LV9LWVQ4d0lpbXdXbVdhcmRpbExRbWhwbnd4RERzaDBsX09kU2pGWGxXczRHbEpZNnVFM0xhQmgtOWRJYmk4M2tsSUVzano4eGdhcnBuOHF4VHdCWQ?oc=5",
       "publishedAt": "Sat, 26 Sep 2026 12:36:44 GMT"
     },
@@ -170,8 +178,8 @@
       "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
     },
     {
-      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - indiatoday.in",
-      "source": "indiatoday.in",
+      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - India Today",
+      "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzVxaEFRS2NOd2NZVUNtWHNQaTgwaVc1bGJhLTZVWVZFTjREMnJhVXllcllTYlZKTWM3TmVudWo3MXVfcnpTazhIX2RZWWZ5YjJ3XzMxNnZkemlkMjduaEExRXVRWjY3M2ZSNmo0c3BhRmZsSW82ampNRVBpVkJ3YWtvWVFSM0pPcl9tTGlKVDF0dUhNYmgzN2MtWTFGWHBpV1liRHFZVEYwdURaNkFiNnBaUHNoVW5aTjhOVG82Qm9tQXhIV2VqN0RWT2gyYW1yb0xEdEFpdG4ya0tFOVVtSTQ0aWdYQkQyS1liNWJOelMzdFXSAfgBQVVfeXFMTUFQcXZjUk93LXBGOGZqOHlmcXFNR2RoSkdCc2F2bVdPM0hGQ2lqQy04bG50MzZWY0JoUU1uRFFlME92NjFueGpyNFpBREFKTC1pMzZ1eGJlSWF5dGNjVXlFZ21JS0NjZmYtNWUzVG02ajRXbi1nWWtwSktpU3VxektCa3BpbTI2Sk9fZUFKbUIzYkM1V0tScExKMmgxM0l1SmhUTkpMYXVIMlZ2R1I2TkJ5emtlQ3BNXzBfWTRERkNLRW5tYWxnNjdqV29GUldwMExmU3pGaVJ5LWNaZHpnQ2Fsa2p3dE03QTZCU1c3Zkt1QzNLSWlyUk8?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 04:44:56 GMT"
     },
@@ -180,12 +188,6 @@
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQzQzdTJVMjg1eU1EZUU5MlRnb1E3Rk95cUNMVGVnR0pfSGd5eVhzaGg2MmZqX1ZkUWZpVWc2VE1XbmtaRFlHbnhab3U1akNFTVhKcDEydlJBS0t0X1Itc1FiMzhKMGxhcWtoWkFxMFBQR2RaYnJkNDItQW1EYWozSE4wTDhnZjFudkNLc3M0WXdBX1FLV1ZKS2JVR0ZVcTJBLU1UZDVSQnV2MndqNElzMVRoVGJobVpsTl9fOC1kbDRESTRLeEY0bHNLVDY5SFVIb3RocWtyQ1V0WVJUN2dEcXhWZmFVZTMyWUl0MmJoV3NBUTRBOXhFZkd5OC1ROU90QkNRT1NpWFPSAZACQVVfeXFMT2xZOWZyMzJUMldfb0xrRnZFSEtrZUFaUDA3a3VZVU1QWXpNWGR5WHhYOHNuSVRlUjN2TTUxTTNCR2w5OUg4S0Y4SGZSdjd5MVRmSFk3WFYxejQ1eTFVR2oxQ053WXBJUjExT0w0XzdwQi1vc3A3YTNoT3hGN19ablRHT1VUWnBBbGdvUmt4dnlLSG5oRFpXbUo1bVBOS0VqTGI2VHdHVU5ZT251ZkVpY2xHQThzd1p5UHBwTmdZTGF5bGJlSjJ6V21QTEZRSWlLbFRjRlNHWUZMNVRvRDdCZnBfODRVZGRqbUU3RW85VUtNVEs3MllDNUpIblBZTEh0YVZ1VEJfWXc1MXdFT1hsUjI?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 10:06:07 GMT"
-    },
-    {
-      "title": "Closing Bell: Sensex tanks 1,248 pts, Nifty below 23,100; all sectors in the red - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQX3pSUl9TcTJPb1dLME1MUXJ1ZnNDa2VVZldRd09qX1pVSG05c3ZMdkhwMFFTaEZRaklScUxoMlZNVEl4Ylg3WDJtM21UaEtoSjVNckY3VHN2U3p2eFRyaF9tQkp1amMwM0luMmVkalVNMUZfRGs0ZE9xMkxIMmRCcjYzNW1PWjdjaW9DTXNPM3owMjhwZE8zemY1dzRFa0plRjNaeDNuV29vWFdNNjdoUTVSWDNIUk00bUtxSk15UElOX1JDTVVsNm1xRjRqSHFOaXdzNzF4ZGNCTVJZRkFsaThmc3o4THF1SVZGZlFpRU5UR2ZabFd4REQ1VUVWTDBrMnZDcEVHLVBZUnVaV3pKemhrWFdTa2d6UjV6RU0yQU1jUk3SAagCQVVfeXFMUEFnVkFZSldKekNvajZqS3pQblpTOG9rZVNQcDNPMFByWjFiRi1IMVEwNGJYWDJoYVIyRVlldm52bFVfTnFsdi1aOXRlQzNUYnpDOW1WbGRUVV9MWE1MRVpIRDN0eXdJeE56aks2OWFpVHVoWnVLT2wwWWptalhMUFlTSHo4b2Y3bHV5TFJxRF9iRmZKYU56cGRxVkJzRDI2eUtiN19tOHdnUjQ2WWdrUXRYNE9FdktCX3RCYUVCbTJQbENaMGtrcG96ZVZ1YVQxNXVPYXYtbU5pcjM2eWpnVzJlR2YzbktZb2g5bWRfekpldzBMTXp5bnRXOG5wZ3JDaGhTdzRXOFNLbmxib21OMVRzcDFpclFOUnhKSVg5SVJvOGdiMVRUa3Y?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 10:54:03 GMT"
     },
     {
       "title": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues - TradingView",
@@ -198,6 +200,12 @@
       "source": "Fortune India",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2FOeHlYcE5pOG0tX2Z2d09FY2h3dVR2XzI0V1VqUkY0Wk5FSFFOQldoRFV0eTZaS1ZReTFTSmEyZmxaN0ZmSENjaldTYkJBNUNrX0ZGU3A1cXZUb2J4bGZpandHeWppVEZiRnJLbzY1QkFfeFZUclFwY2NRMGdzal9ESjMzSWR1UUVHTG5BSEFHelUyNlcxaW90T2NvWEJPSE1Id1JuVFNuRUdhUmdXTW1CYlNQMjlSYm95M1JwbGTSAc4BQVVfeXFMTkNCUnR0Z0JuSXdFWmpzdXNRTkNGLXlrckVRRlNzc3NRWXl3TmdfQlppakRxTm5XSm0wc2VvNjJ4eHVlWDU2TW5oUlJLMm5TalRhRTRLTnRsZjlJOWZGZW1mSXNHT25hOXFHT1JYeEFlS19BZlpLSDZPeDgtVE1CVlVjQ3dLR09mb1RGc3lxVlgzSEhOa3lBQ0E0OTZYcVhDQ3V1NFNlVTlxYnBIWGtGUF90UU9mM1pEU3ZTMFBhSzhWMnA3T3JRRFFRTEMtMlE?oc=5",
       "publishedAt": "Sun, 27 Sep 2026 05:16:07 GMT"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOHlGS3FhbzhQTUM5VG9rOXZjZXBTZ2Q2X1VJWjVOZXVEM1hET3BtSktCcmlhLXpIX3JUeWtBWlRNX1l4dWk0aGJiNFRuRVlzaDhfVUpzeF9jNzNUT0VpcFVSZWlGNkR5Mm5qeEU4ODR1RUpZcldoc2t3TkFweE8xLTF2YTROOGpkZ3lkWGRFQkpaY0xTRFB1akhkbG01QjZ1eXVBWlpjZHdnMGR2a0ZNODZuQWZ2cThKTG5nb3V1WUxxS3BCRHllVkhKM1hQTWVpQzd2WFU2b2x5TEdYcG5N0gHkAUFVX3lxTE9uUFVOSFVOazh5cm5jb1RDcVU5YzMwUjBJTV9yR1JmeHhaeTB1WmNIUS1faENuVTFJZEVxSEpheGpGcGMycjEwenhnekROSnR5OVI5V1l0TkJsTHp0V0g3MkF1TzNpMmZCUm54dXFiS3lJVWhGTkRnMklIT1pucDc1U0hrSkFoN1dkci1UM1UwVDdoNXNiZFNPWU9iUk1kSTV0RFBTTVl1UkJxc0t4OUIzcXRWWUJMbXcyZF9zZXp0c0ZEcUdBeXFKTFdxbzJWSzl6ZUFZTHI1aDZtdWFOOWhBbUQzbQ?oc=5",
+      "publishedAt": "Sun, 27 Sep 2026 11:03:03 GMT"
     }
   ]
 }
