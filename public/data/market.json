@@ -1,76 +1,86 @@
 {
-  "headline": "Last session: Sensex and Nifty ended lower, capping seventh straight week of losses amid broad-based market weakness.",
+  "headline": "Markets closed for weekend; focus shifts to 20 upcoming IPOs and key corporate actions this week.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 28 September.",
-    "nextOpen": "Monday, 28 September"
+    "nextOpen": "Monday, 28 September 2026"
   },
   "why": [
-    "Indian markets wrapped up their seventh consecutive week of losses amid persistent volatility.",
-    "Concerns over elevated crude oil prices offset value buying in preceding trading sessions.",
-    "Broad-based selling pressure dragged Nifty below the 23,100 mark in recent trading.",
-    "Surging power demand led the Centre to mandate captive coal power plants to maximize output."
+    "Indian stock markets remain closed today due to the weekend schedule.",
+    "Investors are preparing for the busiest primary market week of the year with 20 new IPOs.",
+    "Multiple corporate actions including dividends and bonus issues are scheduled for the coming week.",
+    "Global and geopolitical developments are being monitored as diplomacy continues in the Middle East."
   ],
   "whatHappening": [
-    "Indian stock market is closed today due to the weekend and will reopen on Monday, 28 September.",
-    "Focus shifts to upcoming corporate actions with several stocks scheduled for dividend distributions.",
-    "Global cues from GIFT Nifty, Nikkei, and Kospi will be key triggers for Monday's session.",
-    "Logistics sector highlights include DHL Express announcing an 8.9% rate hike in India starting January."
+    "20 new IPO issues are opening for subscription in the upcoming week.",
+    "10 stocks including SAIL and IGL are turning ex-record date for dividend and bonus announcements.",
+    "R Systems International features among the prominent dividend stocks to watch this week.",
+    "External Affairs Minister Jaishankar emphasized shaping national AI ecosystems and defending against terrorism at UNGA."
   ],
   "stocksInNews": [
     {
       "symbol": "SAIL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/1 sources",
       "articleIds": [
-        5
+        0,
+        8
       ]
     },
     {
       "symbol": "IGL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/1 sources",
       "articleIds": [
-        5
+        0,
+        8
       ]
     },
     {
       "symbol": "RSYSTEMS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/1 sources",
       "articleIds": [
-        5
+        8
       ]
     }
   ],
-  "summary": "Markets remain closed today for the weekend and will resume trading on Monday, 28 September.\nIn the last trading week, benchmark indices Sensex and Nifty extended their losing streak to seven straight weeks.\nInvestors are watching upcoming corporate dividend actions and Asian market cues ahead of the next session.",
-  "updatedAt": "2026-09-27T04:31:16.863Z",
+  "summary": "Indian stock markets are closed today for the weekend and will reopen on Monday, 28 September. Market focus shifts to the busiest week of the year with 20 new IPOs opening for subscription. Stocks like SAIL, IGL, and R Systems International are in focus due to upcoming dividend and bonus ex-record dates.",
+  "updatedAt": "2026-09-27T05:31:16.383Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-27",
   "articleKeys": [
+    "bonus amp dividends sail igl among 10 stocks turning exrecord date this week do you own any",
+    "ipo calendar 20 new issues to open for subscription in busiest week of the year",
+    "iran insists on diplomatic solution even after trump rejects peace plan",
     "lanterns season 1 episode 7 release recap plot when where to watch all you need to know",
     "the paradise box office collection day 3 nani starrer picks up pace earns this amount",
     "nations should shape own ai ecosystems says eam jaishankar at unga",
     "hanuman ansh box office collection day 51 neem karoli baba biopic nears 300 crore",
     "why monks are turning investors and more",
     "dividend stocks this week sail igl r systems international more check full list",
-    "jaishankar slams pakistan at un india will exercise its right to defend against terrorism",
-    "centre orders captive coal power plants to maximise power output on surging demand",
-    "dhl express to hike charges by 89 in india from jan",
-    "after haiwaan failure priyadarshan says hell stick to comedy with akshay kumar",
-    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
-    "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom",
-    "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
-    "sensex crashed over 1200 points why stock market fell today india today",
-    "indian stock market latest news september 26 sensex nifty end seventh straight week lower key levels to watch the sunday guardian",
-    "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
-    "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
-    "stock market prediction for tomorrow sensex nifty monday 28 sept triggers gift nifty nikkei taiwan kospi cues livemint",
-    "stock market today highlights september 17 nifty sensex close flat as high crude price concerns offset value buying businessline",
-    "share market news nifty 50 outlook prediction liquide blog"
+    "jaishankar slams pakistan at un india will exercise its right to defend against terrorism"
   ],
   "articles": [
+    {
+      "title": "Bonus &amp; dividends: SAIL, IGL among 10 stocks turning ex-record date this week. Do you own any?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-sail-igl-among-10-stocks-turning-ex-record-date-this-week-do-you-own-any/articleshow/134514676.cms",
+      "publishedAt": "Sun, 27 Sep 2026 10:04:06 +0530"
+    },
+    {
+      "title": "IPO Calendar: 20 new issues to open for subscription in busiest week of the year",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-20-new-issues-to-open-for-subscription-in-busiest-week-of-the-year/articleshow/134514569.cms",
+      "publishedAt": "Sun, 27 Sep 2026 09:43:33 +0530"
+    },
+    {
+      "title": "Iran insists on diplomatic solution even after Trump rejects peace plan",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/world-news/iran-insists-on-diplomatic-solution-even-after-trump-rejects-peace-plan-126092700068_1.html",
+      "publishedAt": "Sun, 27 Sep 2026 08:04:15 +0530"
+    },
     {
       "title": "Lanterns Season 1 Episode 7 Release: Recap, Plot, When, Where To Watch — All You Need To Know",
       "source": "Zerodha Pulse",
@@ -112,84 +122,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/world/jaishankar-slams-pakistan-at-un-india-will-exercise-its-right-to-defend-against-terrorism-12103135#publisher=newsstand",
       "publishedAt": "Sat, 26 Sep 2026 23:45:54 +0530"
-    },
-    {
-      "title": "Centre orders captive coal power plants to maximise power output on surging demand",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/centre-orders-captive-coal-power-plants-to-maximise-power-output-on-surging-demand/article71514005.ece",
-      "publishedAt": "Sat, 26 Sep 2026 23:38:06 +0530"
-    },
-    {
-      "title": "DHL Express to hike charges by 8.9% in India from Jan",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/dhl-express-to-hike-charges-by-89-in-india-from-jan/article71513999.ece",
-      "publishedAt": "Sat, 26 Sep 2026 23:29:12 +0530"
-    },
-    {
-      "title": "After Haiwaan 'Failure', Priyadarshan Says He'll Stick To Comedy With Akshay Kumar",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/after-haiwaan-failure-priyadarshan-says-hell-stick-to-comedy-with-akshay-kumar-12102957#publisher=newsstand",
-      "publishedAt": "Sat, 26 Sep 2026 23:23:57 +0530"
-    },
-    {
-      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
-    },
-    {
-      "title": "Sensex Today | Stock Market Live: Sensex ends over 300 pts higher, Nifty near 23,150 after CAS; auto, consumer durables gain nearly 1% - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVXhkVUYwUHplelFJbUVzQnZsNTJFWnU0T0hXSHdKTEc2OTlSdktNWUNUUjNOLTJxc3hDS1ZlUzM1VmFuZTAxZUpZZ0ZYVDZWdVBGMzEwcmFxRS1PaVBzdG01UmtfY0xqaWtiQVAwUlJfaDhXeTNSWFRmVHNweGxPTUJpSjQzU0FOZ3FIRGRyYTN2cnI2WkhDSEp0bkZnaUM2MHZuMW1SdS1aeklsVXBaWVFjSzk0UXFLdTExRXRXUzh3T3RJaTJhV0ZhbFlxVVZkR0JZbFhGRTVtbVczekQ0RmJ3S1pwWERrQjhranBGbHNoZzRzUlhia2lJdUtFN1J3ODZwWDFDLUJGSlFPbW5KVlh0dkNEa3Zza2RBMVdSeVNfZDTSAagCQVVfeXFMUEZpOGQ3WFg5YW1Cc2dwQXk5dWNSeWpBUnJQT3Vna3JxZUtfNUZCdGRYUllMMWE4dV9hT2FweHNkdWluQkNlaUJkYnA0NXFhUjhLNWNQR0RRZS1YY3Y2WGZPNDcwd3dEbDJwMFZtaHpXWUE4VXdIcjQtcnFEbkI1VkhsN0VPQnFyWUtLRjBtaWNWTEhHcV9Gd29tSXlaVE53NkUzUFdhVW1HSC1BR0ZYbmNpemxjc2RRbTAxUkFGTnpBdnMwZmhtaW1CdXpDOXh6NWI3MzRwTmtNb2w2ZnFYcGh4QW5XcTlYZjQ2TzJOZThITEUtMmI3Q3U1N0xBdXNub1h6RGlTWmRqYVAwalRZb1E2NE80bkNGN1F1OWpoTnJQUVg2dkstTUY?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 10:17:52 GMT"
-    },
-    {
-      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
-      "source": "NDTV",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEtEbWlBNTFIcHJzRV9zU0hnQUd4MVRma2VMWXpOdDl3SURrMGJPOXBnVnFOTm1MLVpMMFAzYUhUWDJVYnpYd1cyWG1xUjhxOVdkb0tVNkF2VnZfZktsRnRYTlNjMzBYblcyM0pHRUo4Ul8xVlFoci1JOXpSU2F2RlBkbFJaZGhTeE9yODV4aDlnSDdKbjd2c0ZKMzc0Y2JFbER0c2hDNW1pbURITlcw0gG3AUFVX3lxTE8xbVZoQm0xdm9CSmg5ZVBDMVluS0lTTUctTnpYYVU2S0RxcFhlaUY5Qndta09tY3VuZWI3MW1LRWlPNVl6QlY4OVBFcENPZEY4OU9jMThxdzM1cG56U1ZtN29HNGEtZmZ6eklRSXlNNERlUVF0dXNjVXV0dERKeFpyeHY4YUV3ZXdWYWhjcWsxM1d4TWtYOE1tUjRFQ0xKQm5aWHJhcnJfSHFha1FDeUJpSDdJaWhrNA?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 09:02:35 GMT"
-    },
-    {
-      "title": "Sensex crashed over 1,200 points: Why stock market fell today? - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzVxaEFRS2NOd2NZVUNtWHNQaTgwaVc1bGJhLTZVWVZFTjREMnJhVXllcllTYlZKTWM3TmVudWo3MXVfcnpTazhIX2RZWWZ5YjJ3XzMxNnZkemlkMjduaEExRXVRWjY3M2ZSNmo0c3BhRmZsSW82ampNRVBpVkJ3YWtvWVFSM0pPcl9tTGlKVDF0dUhNYmgzN2MtWTFGWHBpV1liRHFZVEYwdURaNkFiNnBaUHNoVW5aTjhOVG82Qm9tQXhIV2VqN0RWT2gyYW1yb0xEdEFpdG4ya0tFOVVtSTQ0aWdYQkQyS1liNWJOelMzdFXSAfgBQVVfeXFMTUFQcXZjUk93LXBGOGZqOHlmcXFNR2RoSkdCc2F2bVdPM0hGQ2lqQy04bG50MzZWY0JoUU1uRFFlME92NjFueGpyNFpBREFKTC1pMzZ1eGJlSWF5dGNjVXlFZ21JS0NjZmYtNWUzVG02ajRXbi1nWWtwSktpU3VxektCa3BpbTI2Sk9fZUFKbUIzYkM1V0tScExKMmgxM0l1SmhUTkpMYXVIMlZ2R1I2TkJ5emtlQ3BNXzBfWTRERkNLRW5tYWxnNjdqV29GUldwMExmU3pGaVJ5LWNaZHpnQ2Fsa2p3dE03QTZCU1c3Zkt1QzNLSWlyUk8?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 04:44:56 GMT"
-    },
-    {
-      "title": "Indian Stock Market Latest News (September 26): Sensex, Nifty End Seventh Straight Week Lower; Key Levels To Watch - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNejhsTEhQX0htZDlBbXJXTWMwM256RWYwbEVTdmJmNUpDWXFveXNzRXpYNEUwckRVRHM4OFl4bFJpUy1reEUxLXdWUEFLZTFKMjd4UmlrVWpaMG9NckJFNXltZGR6VHBJTEFpUEhPdE1qMUpoejRjWkVOVkdpLXVUTHc4Tm9uejkyNUJSU0NaTFBiRjF3WnJIaThpMDdrblRyeUsyN1EyVlQ0WVdfdmhKbG55dHI4OHNSVDhwZUt6M0tZeEpsQ3lfQmlsRXNJUEswQ3RKWjNsaUgxMTNUOEZmQ19mdEtKTU9mTzNnSDFn0gHzAUFVX3lxTE5jY3NtV2JPN2hURWhGVkRqZkhYRXFKMlBZRkRsc2ViVFUxTF9IRkhvZkVkX2ZfbF9zWnJTYlJocEpGSEdhanBlTW5PY2NLTXdGTDhWUHg2dEZicVZjcjhvaDUwZ2ZoVmc0elRmRUc4RkxRNDhPWER4MjExbGlYUnRvQnAwRmc1Zm5oYzU3cHhXVmVUSjhjelBkQXc0Mjh0LV9LWVQ4d0lpbXdXbVdhcmRpbExRbWhwbnd4RERzaDBsX09kU2pGWGxXczRHbEpZNnVFM0xhQmgtOWRJYmk4M2tsSUVzano4eGdhcnBuOHF4VHdCWQ?oc=5",
-      "publishedAt": "Sat, 26 Sep 2026 12:36:44 GMT"
-    },
-    {
-      "title": "Stock Market Crash News Highlights Today: Nifty Settles Below 23,100, Sensex Ends 1,200 Points Lower - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQzQzdTJVMjg1eU1EZUU5MlRnb1E3Rk95cUNMVGVnR0pfSGd5eVhzaGg2MmZqX1ZkUWZpVWc2VE1XbmtaRFlHbnhab3U1akNFTVhKcDEydlJBS0t0X1Itc1FiMzhKMGxhcWtoWkFxMFBQR2RaYnJkNDItQW1EYWozSE4wTDhnZjFudkNLc3M0WXdBX1FLV1ZKS2JVR0ZVcTJBLU1UZDVSQnV2MndqNElzMVRoVGJobVpsTl9fOC1kbDRESTRLeEY0bHNLVDY5SFVIb3RocWtyQ1V0WVJUN2dEcXhWZmFVZTMyWUl0MmJoV3NBUTRBOXhFZkd5OC1ROU90QkNRT1NpWFPSAZACQVVfeXFMT2xZOWZyMzJUMldfb0xrRnZFSEtrZUFaUDA3a3VZVU1QWXpNWGR5WHhYOHNuSVRlUjN2TTUxTTNCR2w5OUg4S0Y4SGZSdjd5MVRmSFk3WFYxejQ1eTFVR2oxQ053WXBJUjExT0w0XzdwQi1vc3A3YTNoT3hGN19ablRHT1VUWnBBbGdvUmt4dnlLSG5oRFpXbUo1bVBOS0VqTGI2VHdHVU5ZT251ZkVpY2xHQThzd1p5UHBwTmdZTGF5bGJlSjJ6V21QTEZRSWlLbFRjRlNHWUZMNVRvRDdCZnBfODRVZGRqbUU3RW85VUtNVEs3MllDNUpIblBZTEh0YVZ1VEJfWXc1MXdFT1hsUjI?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 10:06:07 GMT"
-    },
-    {
-      "title": "Closing Bell: Sensex tanks 1,248 pts, Nifty below 23,100; all sectors in the red - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQX3pSUl9TcTJPb1dLME1MUXJ1ZnNDa2VVZldRd09qX1pVSG05c3ZMdkhwMFFTaEZRaklScUxoMlZNVEl4Ylg3WDJtM21UaEtoSjVNckY3VHN2U3p2eFRyaF9tQkp1amMwM0luMmVkalVNMUZfRGs0ZE9xMkxIMmRCcjYzNW1PWjdjaW9DTXNPM3owMjhwZE8zemY1dzRFa0plRjNaeDNuV29vWFdNNjdoUTVSWDNIUk00bUtxSk15UElOX1JDTVVsNm1xRjRqSHFOaXdzNzF4ZGNCTVJZRkFsaThmc3o4THF1SVZGZlFpRU5UR2ZabFd4REQ1VUVWTDBrMnZDcEVHLVBZUnVaV3pKemhrWFdTa2d6UjV6RU0yQU1jUk3SAagCQVVfeXFMUEFnVkFZSldKekNvajZqS3pQblpTOG9rZVNQcDNPMFByWjFiRi1IMVEwNGJYWDJoYVIyRVlldm52bFVfTnFsdi1aOXRlQzNUYnpDOW1WbGRUVV9MWE1MRVpIRDN0eXdJeE56aks2OWFpVHVoWnVLT2wwWWptalhMUFlTSHo4b2Y3bHV5TFJxRF9iRmZKYU56cGRxVkJzRDI2eUtiN19tOHdnUjQ2WWdrUXRYNE9FdktCX3RCYUVCbTJQbENaMGtrcG96ZVZ1YVQxNXVPYXYtbU5pcjM2eWpnVzJlR2YzbktZb2g5bWRfekpldzBMTXp5bnRXOG5wZ3JDaGhTdzRXOFNLbmxib21OMVRzcDFpclFOUnhKSVg5SVJvOGdiMVRUa3Y?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 10:54:03 GMT"
-    },
-    {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3N4b21hRzhJSXdJVzFVNWRNQ3RqT2l3aXFBN2RjN1JDX1Y2V2U5MXlDN2l1a1BGQ1hLcWktbEgwYU1UMUEtalJDYkc5RDZqX0FHdFVuMmpDVDhHdkhWSDVpMFpXLXpoa0ZTWDdGcTBxU1hJSUtIQzgwUXZvQTRPdUh6UnlXYUkxZTZHTmJFSnFQcVFSc0s4V2tGNUUwUTJVZktuRkUwY1c5eTI2NjA5VEgwMDExekhFYVhLRW4wRlduOU1wZ2JqV1F1emdiLVUwWHZwa3BmOXV3MmtLOVpzWlZOOXJ3b1MxY2pvR3VYRlFjYkxmNFdIWGFxNTJJYVVvcWhJRVVwb01UbU3SAZACQVVfeXFMUDJ0a2tkZUxvVXFoM0VZMW5YYm13NlNjNl9KY2l6X2NkS0VvMGw5eGhyWDRzU2ZsTlJmTVdTbmZ0Vzhqc1YyNGU2TWV2a0FLLU1vQmRRVktFOXhtcDRwVVVMbXZPNmo4Q0V4ZkNCU1M3TEZ3RzZwcVp6SlhoczYwY3NYNVN1c1BKSTJLYXBRbVh0bDN1ZWc4VnZNb1VZZERDOFlSXzFwNW1RX0d4LVVGRHUta0Q0cVR5dndQUGNYaTkxWFU4ZVloTzNfR01UMDJ5aVB2R0ptYjU5Q0RLRnBEZExqdEZJV1BDMHRiRTBBa19fa0djbno1blZZM1ZwUWx2VWREaHpQeS0yVFQtRFpQc2s?oc=5",
-      "publishedAt": "Sun, 27 Sep 2026 04:22:57 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights, September 17: Nifty, Sensex close flat as high crude price concerns offset value buying - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGtLdWkzVldITkRZeFhIdEJ1R1dXUllaSG1YdlAxWk1NdldvWFRfWGdMSVBMc1dvNHpXMGF2MUNVOGNCUjc2Tkhfb3pjbDdJOWVEdFRzSVBxblNJbS1vVkZobFhQR0pCVDEzMEwwV1lhNHdMbTlPdkNSNTVEUlhRV0I2NVpzcWNWX3VBQkRhY3NPRERzT3hWWkpLb04wS3JuR2JXUzN6dF9PMHZrZjZvQkdJdVJsLUV3emQ0QzJWQTVJOVJLUVpSY9IBzwFBVV95cUxPYjQ5YjJGSDRiVXpEWmJYcEhtaW8ySlFnMHJsVzRGUXZPYXFScURUX042SGVCdENpVFZSYlRmajZsSmlGZmxheFFSZ3BNVDJ2STNYekRRM1hQcVR6VlFuOVFrUzZtTW5Nck1qSjUzZDFGUEJaVUQ0eDdZU3FnWm9qckFaSmhCNnlwZlJJYnJFZlVXT2ZVVV9EaXpPcFRZZzc0OS1YeDVQLTZlNXNVbEotVkFoR3FFV1NWRmgtcUFKeDlKOTFtR3BTR1hKV1JqeFU?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 10:49:50 GMT"
-    },
-    {
-      "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
-      "source": "Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVJvTS1CRXVsT2ZzNUhBV0piRVV1UnZTeDVEcDJmRElmWHB5WkZsM2s5YzlYaXJuVU9vVjQ2dE5XVk93WTVVLUx2d19wRm9lc2YzWW9xX0F1YWJCTUJtMURwVzRxbC1vUlNDWEpLRUZibzdnbVdjdEJUeThfeHZLSXpwTktCQnlMM0tTNUhwWmplMHJKb2ptYmVn?oc=5",
-      "publishedAt": "Sat, 26 Sep 2026 12:11:07 GMT"
     }
   ]
 }
