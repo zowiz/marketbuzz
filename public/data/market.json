@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex rose 300 points led by auto gains, though indices marked a seventh straight weekly decline",
+  "headline": "Last session: Sensex rose 300 points and Nifty neared 23,150, though markets ended a seventh straight week lower",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,63 +7,118 @@
     "nextOpen": "Monday, 28 September 2026"
   },
   "why": [
-    "Auto and consumer durables sectors gained nearly 1% in the last session",
-    "Global factors like US yields, crude prices, and geopolitics are influencing market direction",
-    "A surge in IPO activity with 20 issues hitting the market in a single week",
-    "Strong natural gas supply is helping keep energy prices in check despite shocks"
+    "Auto and consumer durable sectors gained nearly 1% during the last trading session",
+    "The market recovered slightly on Friday after a sharp 1,200-point crash earlier in the week",
+    "Rising commodity costs are pressuring margins, prompting potential price hikes in the SUV segment",
+    "Investor sentiment remains cautious due to a prolonged seven-week downward trend"
   ],
   "whatHappening": [
-    "The Indian market recorded its seventh consecutive weekly loss despite Friday's gains",
-    "Tata Motors PV eyes a 20% market share by FY31 with a near-term 15% target",
-    "Cars24 is preparing to file its DRHP by April as it eyes a public listing",
-    "Appliance prices for ACs and TVs may rise by 8% starting October 1"
+    "The Supreme Court is scheduled to hear a plea challenging UPI MDR impositions on September 28",
+    "Tata Motors PV MD Shailesh Chandra announced targets for a 20% market share by FY31",
+    "Analysts are identifying five key factors, including US yields and crude, that will drive action this week",
+    "Investors are closely watching GIFT Nifty and Asian market triggers for the Monday morning opening"
   ],
   "stocksInNews": [
     {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/10 sources",
-      "articleIds": [
-        2,
-        10
-      ]
-    },
-    {
-      "symbol": "CARS24",
-      "sentiment": "Positive",
+      "symbol": "M&M",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         3
       ]
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "NIFTY50",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 7/10 sources",
+      "articleIds": [
+        4,
+        10,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "symbol": "SENSEX",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 9/10 sources",
+      "articleIds": [
+        4,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
     }
   ],
-  "summary": "On the last trading day, Sensex rose 300 points led by auto gains, though indices suffered a seventh weekly decline. Investors are focused on 20 upcoming IPOs and global cues like US yields. Tata Motors and Cars24 are in focus for their expansion and listing plans.",
-  "updatedAt": "2026-09-27T07:35:18.471Z",
+  "summary": "On the last trading day, Sensex gained 300 points led by auto stocks, though the market still recorded its seventh straight weekly decline. Investors are now focusing on Monday's reopening, driven by global cues and a Supreme Court hearing on UPI MDR charges. Despite the Friday recovery, broader sentiment remains cautious following a volatile week.",
+  "updatedAt": "2026-09-27T08:31:17.461Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-27",
   "articleKeys": [
+    "mdr on upi sc to hear plea challenging imposition on september 28",
+    "etmarkets smart talk how to find indias next multibaggers pritam deuskar explains his giants framework",
+    "9 midcap stocks with over 50 yoy sales growth",
+    "mahindra mahindra weighs suv price hike amid rising commodity costs",
     "will nifty sensex tumble on monday 5 factors which will drive dstreet action this week",
     "etmarkets nri talk want to invest in us ipos ankita pathak on what indian investors need to know",
+    "resident evil box office collection day 9 zach creggers horror reboot sees sharp 923 rise",
     "tata motors pv expects 15 market share very soon eyes 20 by fy31 md shailesh chandra",
-    "cars24 expects to be eligible to file drhp by apr cfo",
-    "the vvan box office collection day 2 sidharth malhotra starrer sees 375 growth",
-    "ac tv appliance prices may rise up to 8 from oct 1 ahead of festivals",
-    "rs 1 crore corpus how much of it could inflation take away over 20 years",
-    "11 penny stocks surged up to 110 in just 3 months 3 turned multibaggers",
-    "natural gas defies energy shock as strong supply keeps prices in check",
-    "ipo mania 20 issues to hit the dstreet in a single week check full list",
+    "gas vs green who wins under trumps relaxed fuel rules that ends bidens ev mandate",
+    "indias defence strategy futureready in 5th generation of warfare says rajnath singh at ndtv summit",
     "sensex today stock market live sensex ends over 300 pts higher nifty near 23150 after cas auto consumer durables gain nearly 1 moneycontrolcom",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
-    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
     "stock market prediction for tomorrow sensex nifty monday 28 sept triggers gift nifty nikkei taiwan kospi cues livemint",
+    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
     "indian stock market latest news september 26 sensex nifty end seventh straight week lower key levels to watch the sunday guardian",
     "sensex crashed over 1200 points why stock market fell today india today",
     "stock market crash news highlights today nifty settles below 23100 sensex ends 1200 points lower ndtv profit",
     "closing bell sensex tanks 1248 pts nifty below 23100 all sectors in the red moneycontrolcom",
-    "what will drive stock market this week us yields crude and geopolitics in focus fortune india",
-    "stock market today highlights september 17 nifty sensex close flat as high crude price concerns offset value buying businessline"
+    "stock market prediction for tomorrow sensex nifty monday 28 sept triggers gift nifty nikkei taiwan kospi cues tradingview",
+    "what will drive stock market this week us yields crude and geopolitics in focus fortune india"
   ],
   "articles": [
+    {
+      "title": "MDR on UPI: SC to hear plea challenging imposition on September 28",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/mdr-on-upi-sc-to-hear-plea-challenging-imposition-on-september-28/article71515498.ece",
+      "publishedAt": "Sun, 27 Sep 2026 13:09:56 +0530"
+    },
+    {
+      "title": "ETMarkets Smart Talk| How to find India’s next multibaggers? Pritam Deuskar explains his GIANTS framework",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-how-to-find-indias-next-multibaggers-pritam-deuskar-explains-his-giants-framework/articleshow/134516232.cms",
+      "publishedAt": "Sun, 27 Sep 2026 12:37:06 +0530"
+    },
+    {
+      "title": "9 midcap stocks with over 50% YoY sales growth",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-midcap-stocks-with-over-50-yoy-sales-growth/slideshow/134516221.cms",
+      "publishedAt": "Sun, 27 Sep 2026 12:29:49 +0530"
+    },
+    {
+      "title": "Mahindra & Mahindra weighs SUV price hike amid rising commodity costs",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/mahindra-mahindra-weighs-suv-price-hike-amid-rising-commodity-costs/article71515355.ece",
+      "publishedAt": "Sun, 27 Sep 2026 12:18:25 +0530"
+    },
     {
       "title": "Will Nifty, Sensex tumble on Monday? 5 factors which will drive D-Street action this week",
       "source": "Zerodha Pulse",
@@ -77,52 +132,28 @@
       "publishedAt": "Sun, 27 Sep 2026 11:53:05 +0530"
     },
     {
+      "title": "Resident Evil Box Office Collection Day 9: Zach Cregger's Horror Reboot Sees Sharp 92.3% Rise",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/resident-evil-box-office-collection-day-9-zach-creggers-horror-reboot-sees-sharp-92-3-rise-check-saturday-earnings-12104253#publisher=newsstand",
+      "publishedAt": "Sun, 27 Sep 2026 11:50:37 +0530"
+    },
+    {
       "title": "Tata Motors PV expects 15% market share 'very soon', eyes 20% by FY31: MD Shailesh Chandra",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/tata-motors-pv-expects-15-market-share-very-soon-eyes-20-by-fy31-md-shailesh-chandra/article71515356.ece",
       "publishedAt": "Sun, 27 Sep 2026 11:45:20 +0530"
     },
     {
-      "title": "Cars24 expects to be eligible to file DRHP by Apr: CFO",
+      "title": "Gas Vs Green: Who Wins Under Trump’s Relaxed Fuel Rules That Ends Biden's EV Mandate?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cars24-expects-to-be-eligible-to-file-drhp-by-apr-cfo/articleshow/134515261.cms",
-      "publishedAt": "Sun, 27 Sep 2026 11:09:37 +0530"
+      "link": "https://www.ndtvprofit.com/world/gas-vs-green-who-wins-under-trump-s-relaxed-fuel-rules-that-ends-bidens-ev-mandate-12104155#publisher=newsstand",
+      "publishedAt": "Sun, 27 Sep 2026 11:44:42 +0530"
     },
     {
-      "title": "The Vvan Box Office Collection Day 2: Sidharth Malhotra Starrer Sees 37.5% Growth",
+      "title": "'India's Defence Strategy Future-Ready In 5th Generation Of Warfare,' Says Rajnath Singh At NDTV Summit",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/vvan-force-of-the-forrest-box-office-collection-day-2-sidharth-malhotra-starrer-sees-37-5-growth-check-saturday-earnings-12104104#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 11:07:58 +0530"
-    },
-    {
-      "title": "AC, TV, appliance prices may rise up to 8% from Oct 1 ahead of festivals",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/ac-tv-appliances-prices-to-increase-up-to-8-pc-from-oct-1-ahead-of-festive-season-126092700130_1.html",
-      "publishedAt": "Sun, 27 Sep 2026 11:03:39 +0530"
-    },
-    {
-      "title": "Rs 1 Crore Corpus: How Much Of It Could Inflation Take Away Over 20 Years?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/rs-1-crore-corpus-how-much-of-it-could-inflation-take-away-over-20-years-12081462#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 11:02:42 +0530"
-    },
-    {
-      "title": "11 penny stocks surged up to 110% in just 3 months. 3 turned multibaggers",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/11-penny-stocks-surged-up-to-110-in-just-3-months-3-turned-multibaggers/slideshow/134515254.cms",
-      "publishedAt": "Sun, 27 Sep 2026 10:54:01 +0530"
-    },
-    {
-      "title": "Natural gas defies energy shock as strong supply keeps prices in check",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/natural-gas-defies-energy-shock-as-strong-supply-keeps-prices-in-check/articleshow/134515059.cms",
-      "publishedAt": "Sun, 27 Sep 2026 10:51:23 +0530"
-    },
-    {
-      "title": "IPO Mania: 20 Issues To Hit The D-Street In A Single Week — Check Full List",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/ipo-this-week-20-ipos-to-open-from-september-28-4-mainboard-and-16-sme-issues-check-full-list-12104072#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 10:50:53 +0530"
+      "link": "https://www.ndtvprofit.com/india/ndtv-defence-summit-2026-indias-defence-strategy-future-ready-in-5th-generation-of-warfare-says-rajnath-singh-12104171#publisher=newsstand",
+      "publishedAt": "Sun, 27 Sep 2026 11:26:24 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Live: Sensex ends over 300 pts higher, Nifty near 23,150 after CAS; auto, consumer durables gain nearly 1% - Moneycontrol.com",
@@ -137,16 +168,16 @@
       "publishedAt": "Thu, 24 Sep 2026 09:02:35 GMT"
     },
     {
-      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
-    },
-    {
       "title": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3N4b21hRzhJSXdJVzFVNWRNQ3RqT2l3aXFBN2RjN1JDX1Y2V2U5MXlDN2l1a1BGQ1hLcWktbEgwYU1UMUEtalJDYkc5RDZqX0FHdFVuMmpDVDhHdkhWSDVpMFpXLXpoa0ZTWDdGcTBxU1hJSUtIQzgwUXZvQTRPdUh6UnlXYUkxZTZHTmJFSnFQcVFSc0s4V2tGNUUwUTJVZktuRkUwY1c5eTI2NjA5VEgwMDExekhFYVhLRW4wRlduOU1wZ2JqV1F1emdiLVUwWHZwa3BmOXV3MmtLOVpzWlZOOXJ3b1MxY2pvR3VYRlFjYkxmNFdIWGFxNTJJYVVvcWhJRVVwb01UbU3SAZACQVVfeXFMUDJ0a2tkZUxvVXFoM0VZMW5YYm13NlNjNl9KY2l6X2NkS0VvMGw5eGhyWDRzU2ZsTlJmTVdTbmZ0Vzhqc1YyNGU2TWV2a0FLLU1vQmRRVktFOXhtcDRwVVVMbXZPNmo4Q0V4ZkNCU1M3TEZ3RzZwcVp6SlhoczYwY3NYNVN1c1BKSTJLYXBRbVh0bDN1ZWc4VnZNb1VZZERDOFlSXzFwNW1RX0d4LVVGRHUta0Q0cVR5dndQUGNYaTkxWFU4ZVloTzNfR01UMDJ5aVB2R0ptYjU5Q0RLRnBEZExqdEZJV1BDMHRiRTBBa19fa0djbno1blZZM1ZwUWx2VWREaHpQeS0yVFQtRFpQc2s?oc=5",
       "publishedAt": "Sun, 27 Sep 2026 04:22:56 GMT"
+    },
+    {
+      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
+      "publishedAt": "Thu, 24 Sep 2026 08:52:00 GMT"
     },
     {
       "title": "Indian Stock Market Latest News (September 26): Sensex, Nifty End Seventh Straight Week Lower; Key Levels To Watch - The Sunday Guardian",
@@ -173,16 +204,16 @@
       "publishedAt": "Thu, 24 Sep 2026 10:54:03 GMT"
     },
     {
+      "title": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWTFpbkVLN24zQ1FRc09NTUpyTmRTWm03RGpINzh3dmhuMzBZVGRPQlFOTlQwTURKdFJOakFmSGNETXBSUE5GVmR3VG1MSFNVcVRvYmc3YWxGNm5RUHNFQklXdmoyakl2NGZhS1RvZ3pqTk1vck11T2dmTlZXcWJRNkdIZUZCM3Jfb2duZFJBYlA3UWVyTERLYnM4VzdjSXhTVTdheWEwZUtmOFMwRFd1N1FhcFg5dG91dUxuNHhFd01xOUVnUnJzNXZCbVNVc1JJUm5FYXdCSGtaSGY4ME1VOG9kbzBkaHVwdWRjZDcwb2ZHRkNpMnVZUTZB?oc=5",
+      "publishedAt": "Sun, 27 Sep 2026 07:33:47 GMT"
+    },
+    {
       "title": "What will drive stock market this week? US yields, crude and geopolitics in focus - Fortune India",
       "source": "Fortune India",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2FOeHlYcE5pOG0tX2Z2d09FY2h3dVR2XzI0V1VqUkY0Wk5FSFFOQldoRFV0eTZaS1ZReTFTSmEyZmxaN0ZmSENjaldTYkJBNUNrX0ZGU3A1cXZUb2J4bGZpandHeWppVEZiRnJLbzY1QkFfeFZUclFwY2NRMGdzal9ESjMzSWR1UUVHTG5BSEFHelUyNlcxaW90T2NvWEJPSE1Id1JuVFNuRUdhUmdXTW1CYlNQMjlSYm95M1JwbGTSAc4BQVVfeXFMTkNCUnR0Z0JuSXdFWmpzdXNRTkNGLXlrckVRRlNzc3NRWXl3TmdfQlppakRxTm5XSm0wc2VvNjJ4eHVlWDU2TW5oUlJLMm5TalRhRTRLTnRsZjlJOWZGZW1mSXNHT25hOXFHT1JYeEFlS19BZlpLSDZPeDgtVE1CVlVjQ3dLR09mb1RGc3lxVlgzSEhOa3lBQ0E0OTZYcVhDQ3V1NFNlVTlxYnBIWGtGUF90UU9mM1pEU3ZTMFBhSzhWMnA3T3JRRFFRTEMtMlE?oc=5",
       "publishedAt": "Sun, 27 Sep 2026 05:16:07 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights, September 17: Nifty, Sensex close flat as high crude price concerns offset value buying - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGtLdWkzVldITkRZeFhIdEJ1R1dXUllaSG1YdlAxWk1NdldvWFRfWGdMSVBMc1dvNHpXMGF2MUNVOGNCUjc2Tkhfb3pjbDdJOWVEdFRzSVBxblNJbS1vVkZobFhQR0pCVDEzMEwwV1lhNHdMbTlPdkNSNTVEUlhRV0I2NVpzcWNWX3VBQkRhY3NPRERzT3hWWkpLb04wS3JuR2JXUzN6dF9PMHZrZjZvQkdJdVJsLUV3emQ0QzJWQTVJOVJLUVpSY9IBzwFBVV95cUxPYjQ5YjJGSDRiVXpEWmJYcEhtaW8ySlFnMHJsVzRGUXZPYXFScURUX042SGVCdENpVFZSYlRmajZsSmlGZmxheFFSZ3BNVDJ2STNYekRRM1hQcVR6VlFuOVFrUzZtTW5Nck1qSjUzZDFGUEJaVUQ0eDdZU3FnWm9qckFaSmhCNnlwZlJJYnJFZlVXT2ZVVV9EaXpPcFRZZzc0OS1YeDVQLTZlNXNVbEotVkFoR3FFV1NWRmgtcUFKeDlKOTFtR3BTR1hKV1JqeFU?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 10:49:50 GMT"
     }
   ]
 }
