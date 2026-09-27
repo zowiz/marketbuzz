@@ -1,53 +1,61 @@
 {
-  "headline": "Market closed for weekend; investors focus on crude oil, geopolitical cues, and upcoming bank strike triggers.",
+  "headline": "Last session: Sensex crashed 1,250 points to a three-month low amid rising oil prices and global tensions.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 29 September.",
-    "nextOpen": "Tuesday, 29 September"
+    "nextOpen": "Tuesday, 29 September 2026"
   },
   "why": [
-    "Geopolitical developments and crude oil price movements are key drivers for market direction.",
-    "Spikes in crude oil prices and insurance sector concerns impacted sentiment in recent trading.",
-    "Triggers such as GIFT Nifty, Nikkei, and US yields are being monitored ahead of market opening.",
-    "A 3-day nationwide bank strike starting September 28 could affect banking sector services."
+    "Sensex plummeted 1,250 points in the last session, hitting a three-month low due to heavy selling pressure",
+    "Concerns over a sharp spike in oil prices and escalating tensions in West Asia weighed on investor sentiment",
+    "Proposed curbs on the insurance sector contributed to the sharp decline in Indian shares",
+    "Weakness in the FMCG sector as rural volumes fell by 5% during the June quarter"
   ],
   "whatHappening": [
-    "Bank unions have announced a nationwide 3-day strike starting September 28.",
-    "Petronet to pay 1% of profit as commission to directors.",
-    "Indian durables market is expected to reach Rs 3-3.25 lakh crore by 2030.",
-    "Jakson Green aims for 12.5 GW operational renewable energy projects in two years."
+    "Bank unions have called for a three-day nationwide strike starting Monday, which is expected to impact services",
+    "The government has released Rs 19,091-crore in incentives for beneficiaries of the Large-Scale Electronics PLI scheme",
+    "Fortis Healthcare expects an independent forensic audit to attest to its non-involvement in share transfer disputes",
+    "The Defence Secretary confirmed that the Rafale deal will not impact the development of the Tejas Mark 1A aircraft"
   ],
   "stocksInNews": [
     {
-      "symbol": "PETRONET",
+      "symbol": "FORTIS",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        7
+        2
+      ]
+    },
+    {
+      "symbol": "HAL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        5
       ]
     }
   ],
-  "summary": "Indian stock markets are closed today for the weekend and will reopen on Tuesday, 29 September.\nInvestors are watching crude oil prices, geopolitical developments, and global market cues for directional triggers.\nBanking services are expected to be impacted due to a three-day nationwide bank strike.",
-  "updatedAt": "2026-09-27T15:31:17.354Z",
+  "summary": "The Indian stock market is closed for the weekend and will reopen on Tuesday, September 29. In the last session, the Sensex plummeted 1,250 points to a three-month low due to surging oil prices and geopolitical concerns. Key developments include a planned nationwide bank strike and a forensic audit update from Fortis Healthcare.",
+  "updatedAt": "2026-09-27T16:04:07.137Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-27",
   "articleKeys": [
+    "virat kohli becomes second batter after tendulkar to score 15000 odi runs",
+    "largescale electronics pli beneficiaries get rs 19091crore incentives draw rs 20580crore investment",
+    "independent forensic audit will attest to fortis noninvolvement in singh brothers share transfers company",
     "jakson green eyes 125 gw operational renewable projects in two years",
+    "unions to go on 3day nationwide bank strike from monday services to be impacted",
+    "rafale deal wont slow tejas mark 1a development says defence secretary",
+    "fmcg sector under pressure as rural volumes fall 5 in june quarter nielseniq",
     "supply constraints support premium office rents in mumbai delhincr",
+    "gold silver face another choppy spell this week as us data west asia tensions take centre stage analysts",
     "boeing detects software issue with max planes may impact automated flight guidance system",
-    "indiarussia defence ties russian envoy denis alipov says its not a zerosum game",
-    "asian games ancy sojan wins silver in long jump harita bhadra bags bronze in womens 200m",
-    "unions to go on 3day nationwide bank strike from september 28 services to be impacted",
-    "indian navy chief invites skyroot to build space capabilities for armed forces",
-    "petronet to pay 1 of profit as commission to directors",
-    "indian durables market to touch rs 3325 lakh crore by 2030 create rs 50000crore local manufacturing boost",
-    "stock markets this week geopolitical developments crude oil to be key drivers say analysts",
     "stock market prediction for tomorrow sensex nifty monday 28 sept triggers gift nifty nikkei taiwan kospi cues livemint",
     "stock market prediction for tomorrow sensex nifty monday 28 sept triggers gift nifty nikkei taiwan kospi cues tradingview",
     "indian stock market next week april 1317 sensex nifty may consolidate usiran talks q4 results in focus goodreturns",
-    "what will drive stock market this week us yields crude and geopolitics in focus fortune india",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
+    "what will drive stock market this week us yields crude and geopolitics in focus fortune india",
     "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
     "indian shares post worst day in 10 weeks on oil spike proposed insurance curbs reuters",
     "stock market today highlights september 17 nifty sensex close flat as high crude price concerns offset value buying businessline",
@@ -56,10 +64,46 @@
   ],
   "articles": [
     {
+      "title": "Virat Kohli becomes second batter after Tendulkar to score 15,000 ODI runs",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/cricket/news/virat-kohli-becomes-second-batter-after-tendulkar-to-score-15-000-odi-runs-126092700689_1.html",
+      "publishedAt": "Sun, 27 Sep 2026 20:35:01 +0530"
+    },
+    {
+      "title": "Large-Scale Electronics PLI Beneficiaries Get Rs 19,091-Crore Incentives, Draw Rs 20,580-Crore Investment",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/large-scale-electronics-pli-beneficiaries-get-rs-19-091-crore-incentives-draw-rs-20-580-crore-investment-12105887#publisher=newsstand",
+      "publishedAt": "Sun, 27 Sep 2026 20:33:07 +0530"
+    },
+    {
+      "title": "Independent Forensic Audit Will Attest To Fortis' Non-involvement In Singh Brothers' Share Transfers: Company",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/independent-forensic-audit-will-attest-to-fortis-non-involvement-in-singh-brothers-share-transfers-company-12105609#publisher=newsstand",
+      "publishedAt": "Sun, 27 Sep 2026 20:03:40 +0530"
+    },
+    {
       "title": "Jakson Green eyes 12.5 GW operational renewable projects in two years",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/companies/news/jakson-green-eyes-12-5-gw-operational-renewable-projects-in-two-years-126092700638_1.html",
       "publishedAt": "Sun, 27 Sep 2026 19:42:51 +0530"
+    },
+    {
+      "title": "Unions To Go On 3-Day Nationwide Bank Strike From Monday, Services To Be Impacted",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/unions-to-go-on-3-day-nationwide-bank-strike-from-monday-services-to-be-impacted-12105672#publisher=newsstand",
+      "publishedAt": "Sun, 27 Sep 2026 19:40:55 +0530"
+    },
+    {
+      "title": "Rafale Deal Won't Slow Tejas Mark 1A Development, Says Defence Secretary",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/rafale-deal-wont-slow-tejas-mark-1a-development-says-defence-secretary-12105629#publisher=newsstand",
+      "publishedAt": "Sun, 27 Sep 2026 19:40:15 +0530"
+    },
+    {
+      "title": "FMCG Sector Under Pressure As Rural Volumes Fall 5% In June Quarter: NielsenIQ",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/fmcg-sector-under-pressure-as-rural-volumes-fall-5-in-june-quarter-nielseniq-12105749#publisher=newsstand",
+      "publishedAt": "Sun, 27 Sep 2026 19:39:29 +0530"
     },
     {
       "title": "Supply constraints support premium office rents in Mumbai, Delhi-NCR",
@@ -68,52 +112,16 @@
       "publishedAt": "Sun, 27 Sep 2026 19:32:05 +0530"
     },
     {
+      "title": "Gold, Silver Face Another Choppy Spell This Week As US Data, West Asia Tensions Take Centre Stage: Analysts",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/commodities-bullion-gold-silver-prices-face-another-choppy-spell-this-week-as-us-data-west-asia-tensions-take-centre-stage-analysts-12105533#publisher=newsstand",
+      "publishedAt": "Sun, 27 Sep 2026 19:01:53 +0530"
+    },
+    {
       "title": "Boeing Detects Software Issue With MAX Planes; May Impact Automated Flight Guidance System",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/india/boeing-detects-software-issue-with-max-planes-may-impact-automated-flight-guidance-system-12105429#publisher=newsstand",
       "publishedAt": "Sun, 27 Sep 2026 18:55:42 +0530"
-    },
-    {
-      "title": "India-Russia Defence Ties: Russian Envoy Denis Alipov Says It's Not A 'Zero-Sum Game'",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/india-russia-defence-ties-russian-envoy-denis-alipov-says-its-not-a-zero-sum-game-12105389#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 18:38:09 +0530"
-    },
-    {
-      "title": "Asian Games: Ancy Sojan Wins Silver In Long Jump; Harita Bhadra Bags Bronze In Women's 200m",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/ancy-sojan-clinches-long-jump-silver-harita-bhadra-wins-bronze-in-womens-200m-at-asian-games-12105369#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 18:26:28 +0530"
-    },
-    {
-      "title": "Unions to go on 3-day nationwide bank strike from September 28, services to be impacted",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/unions-to-go-on-3-day-nationwide-bank-strike-from-september-28-services-to-be-impacted/article71516034.ece",
-      "publishedAt": "Sun, 27 Sep 2026 18:19:04 +0530"
-    },
-    {
-      "title": "Indian Navy Chief Invites Skyroot To Build Space Capabilities For Armed Forces",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/indian-navy-chief-invites-skyroot-to-build-space-capabilities-for-armed-forces-12105415#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 18:14:15 +0530"
-    },
-    {
-      "title": "Petronet to Pay 1% Of Profit As Commission To Directors",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/petronet-to-pay-1-of-profit-as-commission-to-directors-12105260#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 18:14:09 +0530"
-    },
-    {
-      "title": "Indian Durables Market To Touch Rs 3-3.25 Lakh Crore By 2030, Create Rs 50,000-Crore Local Manufacturing Boost",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/indian-durables-market-to-touch-rs-3-3-25-lakh-cr-by-2030-create-rs-50-000-cr-local-mfg-boost-12105060#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 18:01:06 +0530"
-    },
-    {
-      "title": "Stock Markets This Week: Geopolitical Developments, Crude Oil To Be Key Drivers, Say Analysts",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/geopolitical-developments-crude-oil-to-steer-stock-market-in-holiday-shortened-week-analysts-12105245#publisher=newsstand",
-      "publishedAt": "Sun, 27 Sep 2026 17:46:35 +0530"
     },
     {
       "title": "Stock market prediction for tomorrow: Sensex, Nifty Monday, 28 Sept triggers | GIFT Nifty, Nikkei, Taiwan, Kospi cues - Livemint",
@@ -134,16 +142,16 @@
       "publishedAt": "Sun, 27 Sep 2026 12:06:01 GMT"
     },
     {
-      "title": "What will drive stock market this week? US yields, crude and geopolitics in focus - Fortune India",
-      "source": "Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2FOeHlYcE5pOG0tX2Z2d09FY2h3dVR2XzI0V1VqUkY0Wk5FSFFOQldoRFV0eTZaS1ZReTFTSmEyZmxaN0ZmSENjaldTYkJBNUNrX0ZGU3A1cXZUb2J4bGZpandHeWppVEZiRnJLbzY1QkFfeFZUclFwY2NRMGdzal9ESjMzSWR1UUVHTG5BSEFHelUyNlcxaW90T2NvWEJPSE1Id1JuVFNuRUdhUmdXTW1CYlNQMjlSYm95M1JwbGTSAc4BQVVfeXFMTkNCUnR0Z0JuSXdFWmpzdXNRTkNGLXlrckVRRlNzc3NRWXl3TmdfQlppakRxTm5XSm0wc2VvNjJ4eHVlWDU2TW5oUlJLMm5TalRhRTRLTnRsZjlJOWZGZW1mSXNHT25hOXFHT1JYeEFlS19BZlpLSDZPeDgtVE1CVlVjQ3dLR09mb1RGc3lxVlgzSEhOa3lBQ0E0OTZYcVhDQ3V1NFNlVTlxYnBIWGtGUF90UU9mM1pEU3ZTMFBhSzhWMnA3T3JRRFFRTEMtMlE?oc=5",
-      "publishedAt": "Sun, 27 Sep 2026 05:16:07 GMT"
-    },
-    {
       "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEtEbWlBNTFIcHJzRV9zU0hnQUd4MVRma2VMWXpOdDl3SURrMGJPOXBnVnFOTm1MLVpMMFAzYUhUWDJVYnpYd1cyWG1xUjhxOVdkb0tVNkF2VnZfZktsRnRYTlNjMzBYblcyM0pHRUo4Ul8xVlFoci1JOXpSU2F2RlBkbFJaZGhTeE9yODV4aDlnSDdKbjd2c0ZKMzc0Y2JFbER0c2hDNW1pbURITlcw0gG3AUFVX3lxTE8xbVZoQm0xdm9CSmg5ZVBDMVluS0lTTUctTnpYYVU2S0RxcFhlaUY5Qndta09tY3VuZWI3MW1LRWlPNVl6QlY4OVBFcENPZEY4OU9jMThxdzM1cG56U1ZtN29HNGEtZmZ6eklRSXlNNERlUVF0dXNjVXV0dERKeFpyeHY4YUV3ZXdWYWhjcWsxM1d4TWtYOE1tUjRFQ0xKQm5aWHJhcnJfSHFha1FDeUJpSDdJaWhrNA?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 09:02:35 GMT"
+    },
+    {
+      "title": "What will drive stock market this week? US yields, crude and geopolitics in focus - Fortune India",
+      "source": "Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2FOeHlYcE5pOG0tX2Z2d09FY2h3dVR2XzI0V1VqUkY0Wk5FSFFOQldoRFV0eTZaS1ZReTFTSmEyZmxaN0ZmSENjaldTYkJBNUNrX0ZGU3A1cXZUb2J4bGZpandHeWppVEZiRnJLbzY1QkFfeFZUclFwY2NRMGdzal9ESjMzSWR1UUVHTG5BSEFHelUyNlcxaW90T2NvWEJPSE1Id1JuVFNuRUdhUmdXTW1CYlNQMjlSYm95M1JwbGTSAc4BQVVfeXFMTkNCUnR0Z0JuSXdFWmpzdXNRTkNGLXlrckVRRlNzc3NRWXl3TmdfQlppakRxTm5XSm0wc2VvNjJ4eHVlWDU2TW5oUlJLMm5TalRhRTRLTnRsZjlJOWZGZW1mSXNHT25hOXFHT1JYeEFlS19BZlpLSDZPeDgtVE1CVlVjQ3dLR09mb1RGc3lxVlgzSEhOa3lBQ0E0OTZYcVhDQ3V1NFNlVTlxYnBIWGtGUF90UU9mM1pEU3ZTMFBhSzhWMnA3T3JRRFFRTEMtMlE?oc=5",
+      "publishedAt": "Sun, 27 Sep 2026 05:16:07 GMT"
     },
     {
       "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
