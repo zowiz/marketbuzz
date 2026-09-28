@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets crash as Sensex tumbles 1,100 points; Lupin and Adani Group stocks in focus",
+  "headline": "Indian equity markets decline sharply amid rising Brent crude oil prices and global market weakness",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,72 +7,134 @@
     "nextOpen": ""
   },
   "why": [
-    "Surge in Brent crude prices due to US-Iran deadlock",
-    "Sustained bear pressure leading to Nifty falling below key support levels",
-    "Global market weakness and cues from Asian markets like Kospi",
-    "Massive investor wealth erosion of over Rs 6 lakh crore"
+    "Surging crude oil prices due to US-Iran deadlock",
+    "Rising US Treasury yields and strengthening dollar weighing on sentiment",
+    "Weak performance across major global and US stock indices",
+    "Heavy selling pressure wiping out significant investor wealth"
   ],
   "whatHappening": [
-    "Sensex and Nifty experienced a sharp decline, hitting near six-month lows",
-    "Lupin secured tentative U.S. FDA approval for its Apixaban Oral Suspension",
-    "Sebi allowed Adani Group firms to settle public shareholding violation cases",
-    "Tata Aeris introduced a new sedan priced at Rs 5.29 lakh with segment-first features"
+    "BSE Sensex dropped over 1,100 points while Nifty fell below 22,800 levels",
+    "TRAI data revealed subscriber additions for major telecom operators in August",
+    "Lupin received tentative US FDA approval for its generic Apixaban Oral Suspension",
+    "Ola Electric's board approved a rights issue of up to Rs 1,000 crore"
   ],
   "stocksInNews": [
+    {
+      "symbol": "BHARTIARTL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "COFORGE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "OLAELEC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        7
+      ]
+    },
     {
       "symbol": "LUPIN",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "ADANIENT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        1,
-        4,
-        9
-      ]
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        6
+        8
       ]
     }
   ],
-  "summary": "The Indian stock market witnessed a significant crash with the Sensex falling over 1,100 points due to rising oil prices and geopolitical tensions. Investors lost approximately Rs 6-8 lakh crore as Nifty slipped below the 22,800 mark. However, Lupin and Adani Group saw positive regulatory developments despite the broader market turmoil.",
-  "updatedAt": "2026-09-28T18:31:49.650Z",
+  "summary": "Indian benchmark indices witnessed sharp losses as rising crude oil prices and US-Iran tensions unnerved investors.\nOn the corporate front, TRAI reported monthly subscriber gains for Jio and Airtel, while Lupin received a tentative US FDA nod.\nOla Electric announced a Rs 1,000 crore rights issue, and Coforge appointed a new chairperson.",
+  "updatedAt": "2026-09-28T20:59:14.356Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-29",
   "articleKeys": [
+    "us stocks us market falls as higher oil prices treasury yields weigh",
+    "gold tumbles 4 to sevenweek low as oil dollar and yields climb",
+    "meta hires mongodb ceo desai to spearhead enterprise ai business",
+    "jio gains 24 million mobile users in august airtel 21 million trai data",
+    "caught in the crossfire how lindsey graham act threatens indias strategic autonomy",
+    "coforge appoints akhil gupta as chairperson days after key board exits",
+    "178 intraday surge this us biopharma stock skyrockets after eye disease drug clears key hurdle",
+    "ola electric board approves rights issue of up to rs 1000 crore promoter to participate",
     "lupin gets us fda tentative nod for apixaban oral suspension",
-    "4 adani group companies settle public shareholding violations case with sebi check details",
-    "mirzapur season 4 confirmed heres what shweta tripathi says",
-    "buy on dips micron shares plunge 4 but theres 40 upside potential projected by baird check target price",
-    "sebi clears vinod adani and settles gautam adani in mps violations case",
-    "paramount rolls out 44 billion bond sale to fund warner bros takeover",
-    "tata aeris brings segmentfirst features to a rs 529 lakh sedan",
-    "trade setup for sept 29 will 22700 hold nifty support weakens under sustained bear pressure",
-    "until there is fear of law fatima sana shaikh on social media trolling",
-    "sebi allows adani four group firms to settle publicfloat violations",
+    "facebook marketplace mishap meta user says muse ai gave out his address agreed to pickup he never approved",
     "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india",
-    "28 september 2026 stock market updates sensex drops 161 points nifty below 23100 as brent crude surges india tv news",
-    "stock market prediction for tomorrow sensex nifty outlook for tuesday kospi taiwan cues to watch 29 sept 2026 livemint",
+    "28 september 2026 stock market updates sensex drops 161 points nifty below 23100 as brent crude surges indiatvnewscom",
+    "stock market prediction for today sensex nifty outlook for tuesday kospi taiwan cues to watch 29 sept 2026 livemint",
+    "stock market crash investors lose rs 6 lakh crore why did sensex nifty plunge etv bharat",
     "sensex falls 1124 points nifty slips below 22800 hdfc sky",
-    "stock market crash investors lose rs 6 lakh crore why did sensex nifty plunge etvbharatcom",
     "indian shares slide to near sixmonth low as usiran deadlock lifts oil prices reuters",
-    "sensex crashes over 1100 points investors lose rs 6 lakh crore why are markets falling india today",
+    "sensex crashes over 1100 points investors lose rs 6 lakh crore why are markets falling indiatodayin",
     "stock market crash today bse sensex crashes over 1100 points investors lose rs 892 lakh crore top r the times of india",
-    "sensex nifty 50 prediction today stock market outlook for monday 28 sept gift nifty kospi nikkei signals livemint",
-    "investors lose rs 5 lakh crore in an hour 5 reasons behind market crash today ndtv"
+    "investors lose rs 5 lakh crore in an hour 5 reasons behind market crash today ndtv",
+    "sensex nifty 50 prediction today stock market outlook for monday 28 sept gift nifty kospi nikkei signals livemint"
   ],
   "articles": [
+    {
+      "title": "US stocks: US market falls as higher oil prices, Treasury yields weigh",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-falls-as-higher-oil-prices-treasury-yields-weigh/articleshow/134550029.cms",
+      "publishedAt": "Tue, 29 Sep 2026 01:41:53 +0530"
+    },
+    {
+      "title": "Gold tumbles 4% to seven-week low as oil, dollar and yields climb",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-tumbles-4-to-seven-week-low-as-oil-dollar-and-yields-climb/articleshow/134549139.cms",
+      "publishedAt": "Tue, 29 Sep 2026 00:12:24 +0530"
+    },
+    {
+      "title": "Meta hires MongoDB CEO Desai to spearhead enterprise AI business",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/meta-hires-mongodb-ceo-desai-to-spearhead-enterprise-ai-business-126092801539_1.html",
+      "publishedAt": "Mon, 28 Sep 2026 23:57:36 +0530"
+    },
+    {
+      "title": "Jio gains 2.4 million mobile users in August, Airtel 2.1 million: TRAI data",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/jio-gains-2-4-million-mobile-users-in-august-airtel-2-1-million-trai-data-126092801523_1.html",
+      "publishedAt": "Mon, 28 Sep 2026 23:56:00 +0530"
+    },
+    {
+      "title": "Caught In The Crossfire: How Lindsey Graham Act Threatens India's Strategic Autonomy",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/opinion-caught-in-the-crossfire-how-lindsey-graham-act-threatens-indias-strategic-autonomy-12111500#publisher=newsstand",
+      "publishedAt": "Mon, 28 Sep 2026 23:45:37 +0530"
+    },
+    {
+      "title": "Coforge Appoints Akhil Gupta As Chairperson Days After Key Board Exits",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/coforge-appoints-akhil-gupta-as-chairperson-board-leadership-change-follows-recent-exits-12111460#publisher=newsstand",
+      "publishedAt": "Mon, 28 Sep 2026 23:34:59 +0530"
+    },
+    {
+      "title": "178% Intraday Surge: This US Biopharma Stock Skyrockets After Eye Disease Drug Clears Key Hurdle",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/178-intraday-surge-this-us-biopharma-stock-skyrockets-after-eye-disease-drug-clears-key-hurdle-12111367#publisher=newsstand",
+      "publishedAt": "Mon, 28 Sep 2026 23:18:38 +0530"
+    },
+    {
+      "title": "Ola Electric Board Approves Rights Issue Of Up To Rs 1,000 Crore; Promoter To Participate",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/ola-electric-board-approves-rights-issue-of-up-to-rs-1-000-crore-promoter-to-participate-12111386#publisher=newsstand",
+      "publishedAt": "Mon, 28 Sep 2026 23:14:42 +0530"
+    },
     {
       "title": "Lupin gets U.S. FDA tentative nod for Apixaban Oral Suspension",
       "source": "Zerodha Pulse",
@@ -80,76 +142,34 @@
       "publishedAt": "Mon, 28 Sep 2026 23:11:46 +0530"
     },
     {
-      "title": "4 Adani group companies settle public shareholding violations case with Sebi. Check details",
+      "title": "Facebook Marketplace Mishap: Meta User Says Muse AI Gave Out His Address, Agreed To Pickup He Never Approved",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/4-adani-group-companies-settle-public-shareholding-violations-case-with-sebi-check-details/articleshow/134547647.cms",
-      "publishedAt": "Mon, 28 Sep 2026 22:32:44 +0530"
-    },
-    {
-      "title": "Mirzapur Season 4 Confirmed? Here's What Shweta Tripathi Says",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/mirzapur-season-4-confirmed-heres-what-shweta-tripathi-says-12111077#publisher=newsstand",
-      "publishedAt": "Mon, 28 Sep 2026 22:30:32 +0530"
-    },
-    {
-      "title": "Buy On Dips? Micron Shares Plunge 4% But There's 40% Upside Potential Projected By Baird; Check Target Price",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/buy-on-dips-micron-shares-plunge-4-but-theres-a-40-upside-potential-projected-by-baird-check-target-price-12111116#publisher=newsstand",
-      "publishedAt": "Mon, 28 Sep 2026 22:23:17 +0530"
-    },
-    {
-      "title": "SEBI clears Vinod Adani and settles Gautam Adani in MPS violations case",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/sebi-clears-vinod-adani-and-settles-gautam-adani-in-mps-violations-case/article71521131.ece",
-      "publishedAt": "Mon, 28 Sep 2026 22:21:25 +0530"
-    },
-    {
-      "title": "Paramount rolls out $44 billion bond sale to fund Warner Bros. takeover",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/paramount-rolls-out-44-billion-bond-sale-to-fund-warner-bros-takeover/articleshow/134547217.cms",
-      "publishedAt": "Mon, 28 Sep 2026 22:19:21 +0530"
-    },
-    {
-      "title": "Tata Aeris Brings Segment-First Features To A Rs 5.29 Lakh Sedan",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/tata-aeris-brings-segment-first-features-to-a-rs-5-29-lakh-sedan-12110959#publisher=newsstand",
-      "publishedAt": "Mon, 28 Sep 2026 22:16:10 +0530"
-    },
-    {
-      "title": "Trade Setup For Sept 29: Will 22,700 Hold? Nifty Support Weakens Under Sustained Bear Pressure",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/trade-setup-for-sept-29-will-22-700-hold-nifty-support-weakens-under-sustained-bear-pressure-12111072#publisher=newsstand",
-      "publishedAt": "Mon, 28 Sep 2026 21:59:42 +0530"
-    },
-    {
-      "title": "'Until There Is Fear Of Law....': Fatima Sana Shaikh On Social Media Trolling",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/fatima-sana-shaikh-at-ndtv-yuva-2026-until-there-is-fear-of-law-that-person-will-not-change-on-social-media-trolling-12110829#publisher=newsstand",
-      "publishedAt": "Mon, 28 Sep 2026 21:38:06 +0530"
-    },
-    {
-      "title": "Sebi allows Adani, four group firms to settle public-float violations",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-adani-four-group-firms-to-settle-public-float-violations/articleshow/134546792.cms",
-      "publishedAt": "Mon, 28 Sep 2026 21:37:59 +0530"
+      "link": "https://www.ndtvprofit.com/technology/facebook-marketplace-mishap-meta-user-says-muse-ai-gave-out-his-address-and-agreed-to-a-pickup-he-never-approved-12111296#publisher=newsstand",
+      "publishedAt": "Mon, 28 Sep 2026 23:06:19 +0530"
     },
     {
       "title": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFJQdUVBNmhGOF9naWYwc1VCWWozTGVwOWl1b082TGI2bmppQVQ5dmxfUWo0RGhBQ29IU29vaUJ1cDZCNEJoelpMc2g0eGhldHVGdy1WeWcxVEtZcDBDNDlfRkxNZnRFMURFLUVfY1U2UG1YTk1vampZZUozYjEzU3JGbDRWNkhhVU5qVy1qcVlhdWxFa2YzX19vSjZ4NEl0dk1reVhEMXlPb1RTTzdkNENIS2RraEdzTTlBXzFteWpPMkpkUk9MdEJqaG91ZTlUSll2UEVwcjNoM0FDdFJQVUJCM0JLQTZzS0xTVkNJQ3VIYUVyV2czYWxBLXRUNzlPUkwtTHFTNUs0cGE3VWdj0gGUAkFVX3lxTE55LTJyNkZRSldBTGdKNnM1THNXOEtPQ3FZaXdOWmhNMEVtby05Y0xaZV9QSlFuNDg3TFlfZlNpb1Z1eTI1S1ZaZDJVeGwxcktWMW9pbWxRZk83ZE1scnkxWGlVOGhDQUJJNWtnTS1MWV9BcDdKRmYybmZSVEJydVdzS1dTVGdvM0c0R09GdUEzd3Zfb3pmMXdSMGUwTk5uZ0xTTlRmV2NZWTV1M0FjWmlQZ1k3aW0wZE52QmlpeTI4bzFHTEtnbjRRZWtzb1NrTnE5dU1XX1ZQV2cxazdKZlRCNmZ6UkNSaVNnVGZVZVV4R21xZ2ZfOVBzcGZ2N3l2RkI3aGpqNnNJWjdTNnFwYnNQNEt0bw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFJQdUVBNmhGOF9naWYwc1VCWWozTGVwOWl1b082TGI2bmppQVQ5dmxfUWo0RGhBQ29IU29vaUJ1cDZCNEJoelpMc2g0eGhldHVGdy1WeWcxVEtZcDBDNDlfRkxNZnRFMURFLUVfY1U2UG1YTk1vampZZUozYjEzU3JGbDRWNkhhVU5qVy1qcVlhdWxFa2YzX19vSjZ4NEl0dk1reVhEMXlPb1RTTzdkNENIS2RraEdzTTlBXzFteWpPMkpkUk9MdEJqaG91ZTlUSll2UEVwcjNoM0FDdFJQVUJCM0JLQTZzS0xTVkNJQ3VIYUVyV2czYWxBLXRUNzlPUkwtTHFTNUs0cGE3VWdj?oc=5",
       "publishedAt": "Mon, 28 Sep 2026 03:54:00 GMT"
     },
     {
-      "title": "28 September, 2026 Stock Market Updates: Sensex drops 161 points, Nifty below 23,100 as brent crude surges - India TV News",
-      "source": "India TV News",
+      "title": "28 September, 2026 Stock Market Updates: Sensex drops 161 points, Nifty below 23,100 as brent crude surges - indiatvnews.com",
+      "source": "indiatvnews.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOc0ZEZzI5S0o0VXNMR3VwaUl1UHV2dHVUWlc2SjhhVkdraW9aVWRGekxQWlVvdlZudlNTRXhzMjRFamlzdjFrbDB1UUhuc1FFZ21qVU1jNnR5M2VOd1JsMVFSMjNsNUVEdXAxcW84Njg0ei1rUXZHNm9mal9OWHJ4djFNT3Bld2dFLXhISEJGRWFPbllpdDAxNld4cUZnd3NVbFdkaEgyb3RMS1BtMlhOVkVzeXNuMlVTektud0VNN1owWTdKeVBRUFFPZkJsa1NPekZWSkIzTkllUHhaYm53d05tWktBN2NnRTVaN2lOS1dUajZaaVFPTk9R0gH_AUFVX3lxTFA0QjdzVnhlNEdHN2FLTW4xY0c5TG51a0ZpaXJoZ3FKZUtJbUlPWUoxWVhxM2RzZ3FHbEIzWmtBZmxzMjZGMVdKczBHQXgweFFKWWhkRUdGUEZIeDRLUXVXVmxHcFR2d1JpVGZ4XzgzZGVnSHVaX2JHeTlQdnBjbktLNkhNREZrZURPMU82Qk1zS0dEYTNxT2F2YmI4SUozWktVMVViOGtPS2R5dExDMEdvZkhVTHpiTkhsbzdMdkhQLUNaVDBoZkdrQ0N2S05wSTMzU3p2YklJa3BhQ0hhTGJ4YW1NbWx4dkpXcmwxcVBIWUp5YnpJdXg5VW9tdmJ2WQ?oc=5",
       "publishedAt": "Mon, 28 Sep 2026 03:55:49 GMT"
     },
     {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Tuesday | Kospi, Taiwan cues to watch | 29 Sept 2026 - Livemint",
+      "title": "Stock market prediction for today: Sensex, Nifty outlook for Tuesday | Kospi, Taiwan cues to watch | 29 Sept 2026 - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUU44cXhTejNjWEFmX3pOMEQ5YkhwR20yQUs4NGxnNks0d09rWnU2R2pxMWdmOGQ4N2s4Nm41WW9OR1lRRzU5X240Nnp4Zm44NFJ0b1N6a052VjJpXzlmR1VIXzlobHd2OVVJYnV4Q1BfMHNZUmZ0eWNqWUNqMzNGelN0Y3o5ZXRxY3hzby05M094NmZ4aWxpakRnZlZWYlRQMnhvVGRJcGlleVFpMHlNS0VRZllGQTktc1ZUWXM3MldYVkd3THVpOUh1TVVJVDJqd2tiU1N0al9oblNQajFGUDN6RlV6UGRQU2poMTV5dDRtTEVnZ2p4bzFITjQ4SVRoNVV5Z2dZbTFyUDDSAZACQVVfeXFMTl9adnRITUZ1VzVQX29ZOGpxVXpOZ24wcFluN2JGVjFsT056LU10RmMyQ3RnM3pkQlQzSV96TXZVT1ZWdmFNU1VSZmhpMWlCaWNtejhpNWwyZ05CM3c5NjJ0VnE3MUl5R19XWXphSU50eWRpd2RZemRtMzcyZTJMcWpOUUJEZ1BwZGdyXzl6ZW9MbkRoOXZjYWw2X0tURlRyTk13ajNhUXRBbWJpaFhQd2lUd1doVXRMU0VRQVRBTU1rM0xxMFN2alRHRWlWZ3pUUzd5dGJwQTJpdUlDUjJLMjBHNVVOVTJtMFFhdVlJb2dONjJjNzU1Y0p1ZE5Cbk9XcFFRT3ZYNHZaVFY1V1lIVjE?oc=5",
       "publishedAt": "Mon, 28 Sep 2026 10:15:08 GMT"
+    },
+    {
+      "title": "Stock Market Crash: Investors Lose Rs 6 lakh Crore; Why Did Sensex, Nifty Plunge? - ETV Bharat",
+      "source": "ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHU1a2VYbkdKb1k1RENtVm56MHlVeE9EcW1DQWd4ZmRyY0g2b2JqZjkxVENveE5US2JvaWtoanpITFc5NzVFS3hzMWRxcmtPUFJ2a1NBX2xsVDJUWEZrekpKNWVLZzZ6TlRQUnVoVWZWTzZ3Q3VBWTM0WkxqRzVhM0FzWm5kNmtCa3JMUDRENUwyVU1iZDBNd1BMRkpWenlNUHpLTDFScU1rcW0zcnNBM3pWODVoMHV1WlhwNmVSSllWTHVWOW5hRE9B0gHPAUFVX3lxTE00UXRvMWNWTlhGMWphc2xibF9MLUtJQnFQRjR3UG5nbVh4M0NWMVg2MzdockRzaEdnWlpTcEtyM3dGWnRTbnFRQnRKV1JmZk9RdWY2UnpYY1VsWjRBSDVwTk10clJnNHlCSEs0a2g2TFA1alQyYUFWNXIzWDNfeXlOejBhVGJrQTJZRG13cG5XVEdVWExyM2Yyb1owX2pmUDNTWEZsenBGcUlYdWpWZ2NpSXh1dmt4blhQYUptLWFNNnBndk04NXhzdVc2ODNNVQ?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 07:56:29 GMT"
     },
     {
       "title": "Sensex Falls 1,124 Points, Nifty Slips Below 22,800 - HDFC Sky",
@@ -158,21 +178,15 @@
       "publishedAt": "Mon, 28 Sep 2026 10:46:07 GMT"
     },
     {
-      "title": "Stock Market Crash: Investors Lose Rs 6 lakh Crore; Why Did Sensex, Nifty Plunge? - etvbharat.com",
-      "source": "etvbharat.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHU1a2VYbkdKb1k1RENtVm56MHlVeE9EcW1DQWd4ZmRyY0g2b2JqZjkxVENveE5US2JvaWtoanpITFc5NzVFS3hzMWRxcmtPUFJ2a1NBX2xsVDJUWEZrekpKNWVLZzZ6TlRQUnVoVWZWTzZ3Q3VBWTM0WkxqRzVhM0FzWm5kNmtCa3JMUDRENUwyVU1iZDBNd1BMRkpWenlNUHpLTDFScU1rcW0zcnNBM3pWODVoMHV1WlhwNmVSSllWTHVWOW5hRE9B0gHPAUFVX3lxTE00UXRvMWNWTlhGMWphc2xibF9MLUtJQnFQRjR3UG5nbVh4M0NWMVg2MzdockRzaEdnWlpTcEtyM3dGWnRTbnFRQnRKV1JmZk9RdWY2UnpYY1VsWjRBSDVwTk10clJnNHlCSEs0a2g2TFA1alQyYUFWNXIzWDNfeXlOejBhVGJrQTJZRG13cG5XVEdVWExyM2Yyb1owX2pmUDNTWEZsenBGcUlYdWpWZ2NpSXh1dmt4blhQYUptLWFNNnBndk04NXhzdVc2ODNNVQ?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 07:56:29 GMT"
-    },
-    {
       "title": "Indian shares slide to near six-month low as US-Iran deadlock lifts oil prices - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmUtcnhXbVNOQ0lacFk2Z1JXa0JON1VtZTRsYnZVMDlKdjh0dXhobk9tajVtRVdUbE5RV2MxUy1MbUpkNkc4UXNvalZoZXltbUNScGEyanBReERmbTRuQnB2d2M2dkU3NkJ0anMybXdHWV9QWElRVG9WcDhNSzE4eTV4VWs4WWluaGpYR1NZZTNuYVFPNWZwUk1YcXNOR0NrN0REb2V5eENFRjFaTVNpeWtJdw?oc=5",
       "publishedAt": "Mon, 28 Sep 2026 02:19:00 GMT"
     },
     {
-      "title": "Sensex crashes over 1,100 points, investors lose Rs 6 lakh crore: Why are markets falling? - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNDl1aHc2VHYtR3lHdGJnY2oxdXpXX0tNN29FU0dnYnZTX1hrRWFzOFBzSk5KTWc1RTFJOFdmT3VVMEFmOXNDcXhKbHdBMVUtR0kzclhZVDRLSDRHcnljSTF6UG40ak5SQmMtN2lzRG9QSkRNUzFidmRkSnc2aHRLanVnTURTNU9DcUZXU21kWVhoVUlacHhSa2lYT2tPMUJ6NUxkWjJ1V0xpYndCQU11S2djSjZ4aXpHdHpXRTZpRDlnZFZNNk9PU1hycldaa2w5Ylg1Ull2SXU2SlIwbDVrdG1RZUJaN1JpVjRUT0Jn?oc=5",
+      "title": "Sensex crashes over 1,100 points, investors lose Rs 6 lakh crore: Why are markets falling? - indiatoday.in",
+      "source": "indiatoday.in",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNDl1aHc2VHYtR3lHdGJnY2oxdXpXX0tNN29FU0dnYnZTX1hrRWFzOFBzSk5KTWc1RTFJOFdmT3VVMEFmOXNDcXhKbHdBMVUtR0kzclhZVDRLSDRHcnljSTF6UG40ak5SQmMtN2lzRG9QSkRNUzFidmRkSnc2aHRLanVnTURTNU9DcUZXU21kWVhoVUlacHhSa2lYT2tPMUJ6NUxkWjJ1V0xpYndCQU11S2djSjZ4aXpHdHpXRTZpRDlnZFZNNk9PU1hycldaa2w5Ylg1Ull2SXU2SlIwbDVrdG1RZUJaN1JpVjRUT0Jn0gHzAUFVX3lxTFBtcU5GS1BLNVRSQ1BWekxLUmhQaFFhMlZLV3RIcjk3M0RBVkpwU19mcmNLZ3I3UXQxdFY0WHBIMmw3SUtkeTdwN1RFa3RfbzB6bkNGSzJwZWtZN2dDS3E0a04zZEFid2pXVm9xejFDbUpLeG9hWGlfQ2p4NWZtakVWUmxLMEdteDBkVFFLLTlGWHVid2ZNYmh1cHdsS2R6UjFFUzlQNXdUX3VqSlRKY014bU1mcGlxZ2VGbGtxZWlDbHRZTnVZcm55NE5zaE1ra0lUVjlTNTZaQjhQbEJLOV9yWkxSSWwxZ2FacHBnaV85SzhfWQ?oc=5",
       "publishedAt": "Mon, 28 Sep 2026 04:17:18 GMT"
     },
     {
@@ -182,16 +196,16 @@
       "publishedAt": "Mon, 28 Sep 2026 05:18:00 GMT"
     },
     {
-      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for Monday, 28 Sept - GIFT Nifty, Kospi, Nikkei signals - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOd3lLLTBUWlJpdVVESnptNXpwZnVmVk5zbTU4LWV3eTZyT1R0MzRfVFpFYzltdWhnSTI5Uko3M2dpSzY0NGJwZzFfbzZXM0ZOcV96T2hHaWQxR284Vi10dHRxeUVCQUJrV1lCclJZREI0NlpSdHp4Q0R2V1paVFlVWllhWkVCQWdaTlhiUjN4bENkS25yU0tJczFLVE9vUE1rY2hvc1FTSl9QZ1RkX1Q5ZVNfLUx2LWpmN2lQQ1pNMDNUS3NJenhycjRsNUNjbnZRMFNZNllsUU9WeU1xTk43NUY3OThtVFJadFJUSWhuNnZEMUh4VGdicDdNdFI5QkV4U20wY9IBigJBVV95cUxNVE84MHlqVDk1czZmeWtPckg1UUh1bF9OQU44MFlsSkdUeU14X2xZYXozODFYb0JtaGMwSDFVNzRpczZZb0MtY29aYTBsdl9fRFgzQkhhNG5Id2hYcE55WjhMYUU5N1hWRjg1RjJ6NGpuVmIyaURHQnI5d1RsVUxxRWZ2M0Q4NjlLQ1ZENVdyLWtSUkNrZG9MbVBwTnVENFc1UndfTzhlby1NdktITDZBbldMMlZua0xGbnVRTUFucy1GYVRaZUpPbEN4VlhTTGFlbElpVXBiZnNPeWpqQzVjbHhwYnFXUHBzWUM5WU1UVmh4ajlKbHpDRHdBR1F1bWNhNEhfZk1DNGRWZw?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 01:20:39 GMT"
-    },
-    {
       "title": "Investors Lose Rs 5 Lakh Crore In An Hour: 5 Reasons Behind Market Crash Today - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXdSQ1g3eFlqb0loV211WW1MSkhiWVlTNzBWd0M2a0ZFQUduVlI2bXk2eDBmYnBIZWlFeDRrbTh4TnNsM0hBSllPZTBHOTU2ZVZaQXhZOUFDczM2ZU1wdkZteFEyTXA1SFhGR1F5dGpDY3JGd0JyOEpnZEdmdWUzd3Fwczg0SzJyQ2tWaWxNSEJYSU5kdHpJbzlYQlAwWnd6bzBGaGpIS3Z3V3hlaVBWOU55X2Fyb3FLUE9DQ1pQcVlka1HSAcsBQVVfeXFMUGxERGozWEJnZFBKVXdKSTNKNUV1N2V0ODJPUEljV281NkFXYlpnWmtINFFlaUtfUDZwcUg5RHc5VlpRT3p3TlhzOHFKNkNIVXpfZi1SbXlTQV8xa25LU2FpTXJxNkRVNDJhQVRkWVFFaXFxQW1FcWVqUE1waDJKZDI1WDMtd05IQTlzdE9xNFFpdVRIRmJ3WGR5aS1Wb1Y5WWpMUTZmcWtqdnU1YnNPTUpTOHlvcmlPMkE0Ylp4Ql9idDVGcUxTZHRibnM?oc=5",
       "publishedAt": "Mon, 28 Sep 2026 04:41:22 GMT"
+    },
+    {
+      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for Monday, 28 Sept - GIFT Nifty, Kospi, Nikkei signals - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOd3lLLTBUWlJpdVVESnptNXpwZnVmVk5zbTU4LWV3eTZyT1R0MzRfVFpFYzltdWhnSTI5Uko3M2dpSzY0NGJwZzFfbzZXM0ZOcV96T2hHaWQxR284Vi10dHRxeUVCQUJrV1lCclJZREI0NlpSdHp4Q0R2V1paVFlVWllhWkVCQWdaTlhiUjN4bENkS25yU0tJczFLVE9vUE1rY2hvc1FTSl9QZ1RkX1Q5ZVNfLUx2LWpmN2lQQ1pNMDNUS3NJenhycjRsNUNjbnZRMFNZNllsUU9WeU1xTk43NUY3OThtVFJadFJUSWhuNnZEMUh4VGdicDdNdFI5QkV4U20wY9IBigJBVV95cUxNVE84MHlqVDk1czZmeWtPckg1UUh1bF9OQU44MFlsSkdUeU14X2xZYXozODFYb0JtaGMwSDFVNzRpczZZb0MtY29aYTBsdl9fRFgzQkhhNG5Id2hYcE55WjhMYUU5N1hWRjg1RjJ6NGpuVmIyaURHQnI5d1RsVUxxRWZ2M0Q4NjlLQ1ZENVdyLWtSUkNrZG9MbVBwTnVENFc1UndfTzhlby1NdktITDZBbldMMlZua0xGbnVRTUFucy1GYVRaZUpPbEN4VlhTTGFlbElpVXBiZnNPeWpqQzVjbHhwYnFXUHBzWUM5WU1UVmh4ajlKbHpDRHdBR1F1bWNhNEhfZk1DNGRWZw?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 01:20:39 GMT"
     }
   ]
 }
