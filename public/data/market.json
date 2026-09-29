@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty decline for second day as rising oil prices and IT sector losses weigh on sentiment",
+  "headline": "Sensex and Nifty end lower as crude oil prices surge and Nifty cracks below its 200-week moving average",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -8,127 +8,142 @@
   },
   "why": [
     "Surging global crude oil prices",
-    "Rising bond yields impacting market sentiment",
-    "Monthly F&O expiry day volatility",
-    "Significant selling pressure in the IT sector"
+    "Persistent selling by Foreign Institutional Investors",
+    "High US Treasury yields impacting emerging markets",
+    "Technical breakdown as Nifty fell below its 200-week moving average"
   ],
   "whatHappening": [
-    "Sensex fell for the second consecutive day, ending 217 points down",
-    "Nifty 50 closed at 22,716, slipping below the 22,750 mark",
-    "Tata Chemicals shares declined by 4.5% amid high oil prices",
-    "NCLAT issued notices regarding Subhash Chandra's insolvency plea"
+    "Nifty 50 closed below the 22,750 mark and its 200-week moving average",
+    "Sensex settled 250 points lower after a volatile trading session",
+    "Foreign Portfolio Investors turned net sellers of FAR bonds in September",
+    "Tata Chemicals shares witnessed a sharp decline of 4.5% during the day"
   ],
   "stocksInNews": [
     {
-      "symbol": "TATACHEM",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/10 sources",
+      "symbol": "SBIN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        12,
-        19
+        1
       ]
     },
     {
-      "symbol": "ZEEL",
+      "symbol": "MEDICAME",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        9
+        3
+      ]
+    },
+    {
+      "symbol": "PRISMJNSN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "TATACHEM",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        12
       ]
     }
   ],
-  "summary": "Indian benchmark indices Sensex and Nifty closed lower for the second consecutive session, pressured by rising oil prices and bond yields. Tata Chemicals was a notable loser, dropping 4.5%, while the IT index emerged as the top sectoral laggard. Market volatility was further influenced by monthly F&O expiry and global cues.",
-  "updatedAt": "2026-09-29T11:31:36.869Z",
+  "summary": "The Indian stock market ended lower on September 29, with the Nifty 50 slipping below the 22,750 level and its 200-week moving average. Market sentiment was dampened by rising crude oil prices and continuous FII outflows, despite a slight easing in bond yields. While some healthcare stocks like Medico Remedies hit 52-week lows, Prism Johnson received a positive outlook revision from Fitch.",
+  "updatedAt": "2026-09-29T13:04:57.194Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-29",
   "articleKeys": [
-    "simaai raises 150 million to scale lead in physical ai race",
-    "rupee ends nearly flat as traders remain glued to oil moves rbi caps fall",
-    "ai bubble to burst sooner than expected michael burry believes it would take only one season of revenue disappointment",
-    "cas chaos niftys indicative price drops 2 in 2 seconds later recovers on monthly fampo expiry day",
-    "bitcoin near 83900 ethereum around 2680 as crypto markets consolidate here is what experts say",
-    "global market japan 2year bond yield nears 2 as boj rate hike bets rise",
-    "global market european stocks edge higher tech shares lead gains",
-    "india can add over 100 million longterm investors by 2035 report",
-    "stock market close sensex falls for 2nd day ends 217 pts down nifty at 22716 it index top loser",
-    "nclat issues notices to creditors on subhash chandras insolvency plea",
-    "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india",
+    "india 10year bond snaps fourday losing run as us yields ease",
+    "sbi funds management centrum bets on strong franchise growth runway initiates buy with 34 upside",
+    "ending fivemonth buying streak fpis sell far bonds in september",
+    "medico remedies among 5 healthcare stocks hitting 52week low slipped up to 48 in a month",
+    "investor alert nifty cracks below key 200week moving average for the first time since covid",
+    "fitch revises prisms outlook to positive cites improving leverage and stronger cash generation",
+    "higher demand revives operations at small foundries in coimbatore",
+    "asian games 2026 india stun qatar 32 after saving 9 match points enter volleyball qfs",
+    "25 million rials 1 dollar irans currency hits fresh record low amid mediators push for us truce",
+    "october auto launches new skoda slavia audi q3 and bmw bike coming soon",
+    "stock market crash today bse sensex crashes over 1100 points investors lose rs 892 lakh crore top r the times of india",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "stock market today sensex nifty decline amid high oil prices tata chemicals down 45 apac media",
     "indian stock market crashes 74 lakh crore wiped out what is driving the fall wion",
+    "stock market closing sensex nifty end lower sept losses mount on fii selling oil the federal",
     "sensex settles 250 pts lower nifty ends below 22750 surging crude prices among key factors behind moneycontrolcom",
     "why is market falling today sensex slumps 700 points nifty below 22600 8 key factors rattling dstreet the economic times",
-    "oil rise bond yields top factors behind tuesdays stock market crash business standard",
     "stock market prediction for tomorrow sensex nifty outlook for wednesday kospi taiwan cues to watch 30 sept 2026 livemint",
-    "nifty fell 10 in 2 years but this rs 1 crore portfolio grew by rs 16 lakh heres how ndtv",
-    "sensex today ends 242 points lower nifty below 22750 tata chemicals down 45 equitymaster"
+    "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india",
+    "nifty fell 10 in 2 years but this rs 1 crore portfolio grew by rs 16 lakh heres how ndtv"
   ],
   "articles": [
     {
-      "title": "SiMa.ai raises $150 million to ‘scale lead in physical AI race’",
+      "title": "India 10-year bond snaps four-day losing run as US yields ease",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/bengaluru-founded-simaai-raises-150-million/article71522840.ece",
-      "publishedAt": "Tue, 29 Sep 2026 16:07:47 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-snaps-four-day-losing-run-as-us-yields-ease/articleshow/134566016.cms",
+      "publishedAt": "Tue, 29 Sep 2026 17:55:46 +0530"
     },
     {
-      "title": "Rupee ends nearly flat as traders remain glued to oil moves, RBI caps fall",
+      "title": "SBI Funds Management: Centrum bets on strong franchise, growth runway; initiates Buy with 34% upside",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-ends-nearly-flat-as-traders-remain-glued-to-oil-moves-rbi-caps-fall/articleshow/134563409.cms",
-      "publishedAt": "Tue, 29 Sep 2026 16:03:08 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-centrum-bets-on-strong-franchise-growth-runway-initiates-buy-with-34-upside/articleshow/134565987.cms",
+      "publishedAt": "Tue, 29 Sep 2026 17:53:57 +0530"
     },
     {
-      "title": "AI bubble to burst sooner than expected? Michael Burry believes it would take only one season of revenue disappointment",
+      "title": "Ending five-month buying streak, FPIs sell FAR bonds in September",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-bubble-to-burst-sooner-than-expected-michael-burry-believes-it-would-take-only-one-season-of-revenue-disappointment/articleshow/134563244.cms",
-      "publishedAt": "Tue, 29 Sep 2026 15:55:28 +0530"
+      "link": "https://www.business-standard.com/markets/news/fpis-sell-9-192-crore-of-far-bonds-in-sept-as-global-risks-intensify-126092900819_1.html",
+      "publishedAt": "Tue, 29 Sep 2026 17:47:53 +0530"
     },
     {
-      "title": "CAS chaos: Nifty’s indicative price drops 2% in 2 seconds, later recovers on monthly F&amp;O expiry day",
+      "title": "Medico Remedies among 5 Healthcare stocks hitting 52-week low; slipped up to 48% in a month",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-niftys-indicative-price-drops-2-in-2-seconds-later-recovers-on-monthly-fo-expiry-day/articleshow/134563164.cms",
-      "publishedAt": "Tue, 29 Sep 2026 15:53:21 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/medico-remedies-among-5-healthcare-stocks-hitting-52-week-low-slipped-up-to-48-in-a-month/slideshow/134565970.cms",
+      "publishedAt": "Tue, 29 Sep 2026 17:46:07 +0530"
     },
     {
-      "title": "Bitcoin near $83,900, Ethereum around $2,680 as crypto markets consolidate: Here is what experts say",
+      "title": "Investor alert! Nifty cracks below key 200-week moving average for the first time since Covid",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-83900-ethereum-around-2680-as-crypto-markets-consolidate-here-is-what-experts-say/articleshow/134563132.cms",
-      "publishedAt": "Tue, 29 Sep 2026 15:52:51 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/investor-alert-nifty-cracks-below-key-200-week-moving-average-for-the-first-time-since-covid/articleshow/134565786.cms",
+      "publishedAt": "Tue, 29 Sep 2026 17:44:05 +0530"
     },
     {
-      "title": "Global Market: Japan 2-year bond yield nears 2% as BOJ rate hike bets rise",
+      "title": "Fitch revises PRISM’s outlook to positive, cites improving leverage and stronger cash generation",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-2-year-bond-yield-nears-2-as-boj-rate-hike-bets-rise/articleshow/134562765.cms",
-      "publishedAt": "Tue, 29 Sep 2026 15:39:40 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fitch-revises-prisms-outlook-to-positive-cites-improving-leverage-and-stronger-cash-generation/articleshow/134565751.cms",
+      "publishedAt": "Tue, 29 Sep 2026 17:41:22 +0530"
     },
     {
-      "title": "Global Market: European stocks edge higher, tech shares lead gains",
+      "title": "Higher demand revives operations at small foundries in Coimbatore",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-higher-tech-shares-lead-gains/articleshow/134562690.cms",
-      "publishedAt": "Tue, 29 Sep 2026 15:36:19 +0530"
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/higher-demand-revives-operations-at-small-foundries-in-coimbatore/article71523030.ece",
+      "publishedAt": "Tue, 29 Sep 2026 17:41:04 +0530"
     },
     {
-      "title": "India can add over 100 million long-term investors by 2035: Report",
+      "title": "Asian Games 2026: India Stun Qatar 3-2 After Saving 9 Match Points, Enter Volleyball QFs",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-can-add-over-100-million-long-term-investors-by-2035-report/articleshow/134562575.cms",
-      "publishedAt": "Tue, 29 Sep 2026 15:33:25 +0530"
+      "link": "https://www.ndtvprofit.com/sports/asian-games-2026-india-stun-qatar-3-2-after-saving-9-match-points-enter-volleyball-qfs-12114657#publisher=newsstand",
+      "publishedAt": "Tue, 29 Sep 2026 17:33:52 +0530"
     },
     {
-      "title": "Stock Market Close: Sensex falls for 2nd day, ends 217 pts down, Nifty at 22,716; IT index top loser",
+      "title": "2.5 Million Rials = 1 Dollar: Iran's Currency Hits Fresh Record Low Amid Mediators' Push For US Truce",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-updates-september-29-sensex-today-nifty50-gift-nifty-crude-oil-price-ipo-today-126092900092_1.html",
-      "publishedAt": "Tue, 29 Sep 2026 15:32:56 +0530"
+      "link": "https://www.ndtvprofit.com/world/2-5-million-rials-1-dollar-irans-currency-hits-fresh-record-low-amid-mediators-push-for-us-truce-12114455#publisher=newsstand",
+      "publishedAt": "Tue, 29 Sep 2026 17:32:26 +0530"
     },
     {
-      "title": "NCLAT issues notices to creditors on Subhash Chandra's insolvency plea",
+      "title": "October Auto Launches: New Skoda Slavia, Audi Q3 And BMW Bike Coming Soon",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/nclat-issues-notices-to-creditors-on-subhash-chandra-s-insolvency-plea-126092900603_1.html",
-      "publishedAt": "Tue, 29 Sep 2026 15:16:46 +0530"
+      "link": "https://www.ndtvprofit.com/business/october-auto-launches-new-skoda-slavia-audi-q3-and-bmw-bike-coming-soon-12113863#publisher=newsstand",
+      "publishedAt": "Tue, 29 Sep 2026 17:27:16 +0530"
     },
     {
-      "title": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
+      "title": "Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFJQdUVBNmhGOF9naWYwc1VCWWozTGVwOWl1b082TGI2bmppQVQ5dmxfUWo0RGhBQ29IU29vaUJ1cDZCNEJoelpMc2g0eGhldHVGdy1WeWcxVEtZcDBDNDlfRkxNZnRFMURFLUVfY1U2UG1YTk1vampZZUozYjEzU3JGbDRWNkhhVU5qVy1qcVlhdWxFa2YzX19vSjZ4NEl0dk1reVhEMXlPb1RTTzdkNENIS2RraEdzTTlBXzFteWpPMkpkUk9MdEJqaG91ZTlUSll2UEVwcjNoM0FDdFJQVUJCM0JLQTZzS0xTVkNJQ3VIYUVyV2czYWxBLXRUNzlPUkwtTHFTNUs0cGE3VWdj?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 03:54:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPQ3drbk9QbWRHcU9uVDJLU0EydWpPdVZRVE1rTEE5bFZadHZmUVJPeG9nUjVYWnVvSTkzNzFyNFo3TWhfN1lzX0ZScEVrSnZETUJ2MmtDaE1XYjc2TXo2a1p0UWZhcHprU1lwM3V3YUNUVzlTc3l4UXdCLVExX3dLQTdRaGh5Rk0xUDQtR2lkY3Mxd29QSHNPRU5fRDFYRVBSbC03X2pFaGpnWlJ6MFZDUGlicHlPUUpXeDh4ZU94UWR5ZHNCZ0pydDdFdHZNSjgyRThId0JfSlcxVzFibmR3clVwQzllekZnLUJ1LTdZcHpsRkt1YzN0b1FBT2FkZF9zblJkRlIxdmZfdzNFSXllSDM3b19zME9xaXhlWGk0Qjd5TWwxdDJaenFsOE5iOUNOU2VKRkxYazExZVAxYWJuVVVn0gHHAkFVX3lxTE1EMGdQdWlWbVp5aUpTbEJmb0M5dWQ5X0xJYmNpTFJJVERpUDZkcVo5V1ZGeTNyR3VmYjUyUDF0bG1HVlBGQ21nNDBfU1RZRTdYTEZFTy11OXExZmNOdzRwQTFQNlBRcFZ6NVdDSFFkeWdkV1ZGdm14cXpoTTc5eFc2WkZnVTQ1SlZ3NmxCOWk1b1BWU3doODZadUV0c0tkQ0VCeERINlczUmlYWmJ2MjNoblhPeWtqa0NvU3ZRcGw4NlQ3Mk5GcTFlZDIzQlN4SWxiNE5Md0ctQVBmMklselFGekszWTlFM2JFN244eVJtOHctcnFCc0RVM0Z4OUlqVmctZ25xTDVnTTV4djlfc2U3T2pkeC0tajA2ZnVKRDk3eEJ2ZkNWSmZicmVEOXN0UHpfRkJQdlZMLTVveENMYmdJenM0UFRfRQ?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 05:18:00 GMT"
     },
     {
       "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
@@ -149,6 +164,12 @@
       "publishedAt": "Mon, 28 Sep 2026 19:51:01 GMT"
     },
     {
+      "title": "Stock market closing: Sensex, Nifty end lower; Sept losses mount on FII selling, oil - The Federal",
+      "source": "The Federal",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZExVZU95MGlua1BLV2ZFTG9YR0dpLXI5czY0TTVJYTV1UU5PeWFJdGtTTjV4VmdnUFJoNGJ1Tl9BYS1LR0FGY0pkNmpWOG00RzZvMTFkZXFsZWVHdjNhMXBGWFJYOC1BR0NkdkNsSnU5TzAzaU9ka2VBZV93Yk95TVhlUFJBbmpxa3dEYnlqT3g3STBOZmN6eXJJVVVuTk9PdXZ0NWNHVXJhUE83R1JuelFPSGdjOTFO?oc=5",
+      "publishedAt": "Tue, 29 Sep 2026 12:51:11 GMT"
+    },
+    {
       "title": "Sensex settles 250 pts lower, Nifty ends below 22,750: Surging crude prices among key factors behind... - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYUFDem9SaEJWdjhyclFJQ0NyNENLejUtdThtMHpzZlREc1dxWVNucG95Mnc5QjE4WGNZc1dMRnFUZkxmanN1T1FmTEw0ZUE4bDhCQ2lXeFU1X2FlVERFS3BEcEVncG5Ya3BGQlRrQmI1WHJkRUcya1F6bV9XU0tvaXZGXzVwN0tEMGFONklKRTV5MVc0bkN4UUYySm50SmZGZms2UHptNTVPMDZnTlJvXzNFNEUxcWRKbTlTZlNLT29rcHBWaWd6RGZLTVV0NjNJSG1kTXBpSW1SZjRJcWRCb3FhWURJTFc3ck45WURndnRTZjNTYlHSAfsBQVVfeXFMTXItZGlfbXJYZnI0OFZ2V0c1VnNhMFB6Z0Y3ZjFrckJPTVZLajJBaXRmS2JjNnJyR1RfMXNoTy1ZQUViZk9tay1yQl8tbDVIQU5TSDJBdF8za3FjMGVZbWZZcV9NdDdILV9MZTFybHRtNlpDeFlPdVh4cmd5d01McXlQVEN1N1M2VlB4ZnJFdERpbUtJX3FlMXJlQmdzcDFnekRROExiRk9RTFBncFpwbzJQanZGZThMZWx5UWlIM2g0cVY0d0tLTi1kWnU1WW8xMHBNQU1qc01GcGl2ZXRHLVN6SXk5djFxZ0J6akJVSF9MZ2RVY3BYYUtoVGM?oc=5",
@@ -161,28 +182,22 @@
       "publishedAt": "Tue, 29 Sep 2026 04:14:44 GMT"
     },
     {
-      "title": "Oil rise, bond yields: Top factors behind Tuesday's stock market crash - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQWN6aWtsVWFkYzZta0ppZDBKT3V2WEIyYy1nWWJNMWNEYUl1T09nLXRyeTFlNWF6NTZUQ2dxQmZfYWxuTkxKbFRkQm9RUWZfMVA2R0lVMFlubHFyTi1BV0NGWnBuNGtobzJmZURPa1IwbjlGU1VwUkZNQUlOWEt1U2Y2SW40MV9ncTAySWd1bjVJMWRJTVhZczlVczRQZWMyekNLTThSXzFDM3pwR0NONHVidWVEbUhzN2h0bklZMkNEYTJqSU13bF9uUi1ISVAwemU5RGRFTi1EZkowSWE4emRB0gHnAUFVX3lxTE1aRkM0ZnlvVmp3MHNlaklqcFR1dTFSeUFtbHBBbjdMV0tkY3lTbUpPQ280dkFZUXoyaDEyT3gwVHRrRW9CVm9PanNSb1k3RGtSZlFTeWtBWWotMGwxUzBOUzNVZ19lZHA3RHdwRTlfbTMzekNDR0trRXdrZzZWUmJFVmFWdmhaTnRzWkZYdDBmZXhnMmlEcjBiN0k3Tl9yWnJLMHBPZ2lHYWhGMXMtWEtCQXFfMmpxVkYwYTc0UmFIX01WVXFoZVFncHNybGktUkxhZzRLTFJGdEE5d05KWnVaUy01ZmRmZw?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 04:23:52 GMT"
-    },
-    {
       "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Wednesday | Kospi, Taiwan cues to watch | 30 Sept 2026 - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUlR6X25LUHNTc0Z0WHFMTkd6QTFmWWYxU3NHa0lFLXI4SFpHWXRMQVpMTHFGeE5lM2ktZTloaDZYMXozNWMxY25Rdk9sZ240YlhaeENTNmRraUFDTW9IbHdEdGxuOV8tR0J4bDlIeDdCZGlEYU9jem9qOEVBWjk3YU1oNVdrZGE5NmxKWG5jSWludXFEV3Y5aENySDBaQXJmRDNtalNPVU04NXF3VUNGS0xzUFFDMko1TDE3d0F2ckFwVzlhMG95M0h5QWdSSkpnTzBqbVpPYmhIMXhlVURMM3Rwb1R6ZUdjOUExX1I5Vl8yWl84dUZiNTFRU2dFbVMxUTM4X0ZXaGhBYlpHQ0HSAZMCQVVfeXFMTlppcXBnR2F2R1p4Z1hXNjZlRUtaeU9sa3VLeHV5NXFfQWFGd08wRE5mWDN5TFJiMEU1Y29JY1BNVzdDRTRaUE1NYkp1SEFycmtIVkE5dW51Ym1WUVZYS1ZFVW5ZY0puSm9kUFlxZ0t6YnFyY2x0M0dWNFQyYW9LeUtlZk4tYXltODh1ZzI3bWJMTFRRdWFUSzNyMllQOVd1RjJHcWFab2JrWkxJMmtLNUV4OHNRcWdrS2lpZHVFVzVfMEtwWkl5OTY5WVBrMmJFSmVTZEdKZmlDbzJSd1NlUC1wQTZYR1l0d3NpU1JzX1BybEllN091c3dwOXVNaU5LYTBxLWpxOVE0MFYycC1nbjNlZ1U?oc=5",
       "publishedAt": "Tue, 29 Sep 2026 10:11:27 GMT"
     },
     {
+      "title": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFJQdUVBNmhGOF9naWYwc1VCWWozTGVwOWl1b082TGI2bmppQVQ5dmxfUWo0RGhBQ29IU29vaUJ1cDZCNEJoelpMc2g0eGhldHVGdy1WeWcxVEtZcDBDNDlfRkxNZnRFMURFLUVfY1U2UG1YTk1vampZZUozYjEzU3JGbDRWNkhhVU5qVy1qcVlhdWxFa2YzX19vSjZ4NEl0dk1reVhEMXlPb1RTTzdkNENIS2RraEdzTTlBXzFteWpPMkpkUk9MdEJqaG91ZTlUSll2UEVwcjNoM0FDdFJQVUJCM0JLQTZzS0xTVkNJQ3VIYUVyV2czYWxBLXRUNzlPUkwtTHFTNUs0cGE3VWdj0gGUAkFVX3lxTE55LTJyNkZRSldBTGdKNnM1THNXOEtPQ3FZaXdOWmhNMEVtby05Y0xaZV9QSlFuNDg3TFlfZlNpb1Z1eTI1S1ZaZDJVeGwxcktWMW9pbWxRZk83ZE1scnkxWGlVOGhDQUJJNWtnTS1MWV9BcDdKRmYybmZSVEJydVdzS1dTVGdvM0c0R09GdUEzd3Zfb3pmMXdSMGUwTk5uZ0xTTlRmV2NZWTV1M0FjWmlQZ1k3aW0wZE52QmlpeTI4bzFHTEtnbjRRZWtzb1NrTnE5dU1XX1ZQV2cxazdKZlRCNmZ6UkNSaVNnVGZVZVV4R21xZ2ZfOVBzcGZ2N3l2RkI3aGpqNnNJWjdTNnFwYnNQNEt0bw?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 03:54:00 GMT"
+    },
+    {
       "title": "Nifty Fell 10% In 2 Years, But This Rs 1 Crore Portfolio Grew By Rs 16 Lakh. Here's How - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0JpdnpnZHlIYlVQUnRNYVVFYUlUZFJ3YkdJWXpXSzRQaktqaTN3LTdPYXU1SkRibHhTd0dOTTJkeV9NM1FZU1JWbFVPTmVBOGwzRFNwLTZ2V0lldi1kNXR3RWpjZzNmaUJOSGlIamdJcWY5TTlvRzdIZE9xZ0NiMFRpTTRnWHJZS2JaR0FOd3M1TmltbXBhb2RZU1dXUHhPdGp0MlNVbEEwV0cybVc3cEhxclU0azJyVzV3dNIBxAFBVV95cUxNS3psTE9IOFpFRVFkLU11bGZMbjA5VFNIN04xWDZJYkxIX0RscVpJTWJ0Z1N3Sjlsb3lCNTl2RURseHQ0ZVZTeHZSQnVjOFJCUjBZLUl4OUhSN0NLTm9kUmlLbU5BaTFLSzVYSVNXNExPb0VQRm9FSTVodDkzaEVLeThKSUl4b3IzcEhwbE1vSFJESGxRRnU4SDNaVkI0N05VTmtpX3F4S0VaZnBfekd4YWk5YXF2LXRycHVlOGVGTUVmX0hJ?oc=5",
       "publishedAt": "Tue, 29 Sep 2026 04:01:44 GMT"
-    },
-    {
-      "title": "Sensex Today Ends 242 Points Lower | Nifty Below 22,750 | Tata Chemicals Down 4.5% - Equitymaster",
-      "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcDdTTXhSMjZkSjBNcFdQTDBhVTh4QnhZNUVrbWwtSzNmZkxETUxsSUNRc3pBakNfVUVOWERCN05HQllSLXZxZUF3OENfal9SM25fYXNlWUZfWGNJYkt6Q3NwU2p0ckwzdXVWdXJXd3hnanZNMVVPQjhob3g0eWFkVlFJYWpETzJ3Rjc3emRzc0tZUEZoa0M3Rm9RdDlrbUQtRC01eF96dlNNTWhxSWpxU1ZpQWVabTV2U0FpV3otWkd3ZnVsZEFYLUFDN2UycWtmSFYw?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 10:19:12 GMT"
     }
   ]
 }
