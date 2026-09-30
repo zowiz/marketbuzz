@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty recover as IT and banking stocks lead gains amid global volatility and merger news",
+  "headline": "Sensex and Nifty volatile as hospital stocks tumble and banking shares provide support amid global tensions",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,38 +7,62 @@
     "nextOpen": ""
   },
   "why": [
-    "IT sector leads gains as oil prices moderate and global yields fluctuate",
-    "Banking sector strength with ICICI Bank and Kotak Bank among the top market gainers",
-    "Jefferies re-rated HAL shares positively ahead of Tejas Mk1A aircraft deliveries",
-    "Shiva Cement announced a merger with its parent company, JSW Cement"
+    "Hospital stocks fell up to 6% after the Supreme Court questioned drug mark-ups",
+    "An explosion at MRPL's Mangaluru plant led to a 5% drop in its share price",
+    "Oil price volatility and U.S.-Iran tensions weighed on investor sentiment",
+    "Pharma shares faced selling pressure, dragging the Nifty down from its intraday highs"
   ],
   "whatHappening": [
-    "Sensex gained over 400 points while Nifty traded around the 22,800 level during the session",
-    "India VIX fell by 5%, indicating a reduction in market volatility and fear",
-    "Indian indices are currently on track to post their worst nine-month performance in 15 years",
-    "Oil price volatility and geopolitical tensions between the U.S. and Iran continue to weigh on sentiment"
+    "The Sensex and Nifty are on track to post their worst nine-month performance in 15 years",
+    "Vedanta successfully raised ₹2,000 crore through the issuance of non-convertible debentures",
+    "Coca-Cola is considering a $1 billion IPO for its Indian bottling unit in December",
+    "Banking stocks including ICICI Bank and Kotak Bank emerged as top gainers, offsetting some market losses"
   ],
   "stocksInNews": [
     {
-      "symbol": "SHIVACEM",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "APOLLOHOSP",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         0
       ]
     },
     {
-      "symbol": "HAL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "FORTIS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1
+        0
+      ]
+    },
+    {
+      "symbol": "KIMS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "VEDL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "MRPL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        8
       ]
     },
     {
       "symbol": "ICICIBANK",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         11
       ]
@@ -46,7 +70,7 @@
     {
       "symbol": "KOTAKBANK",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         11
       ]
@@ -54,98 +78,98 @@
     {
       "symbol": "INDIGO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         11
       ]
     }
   ],
-  "summary": "Indian markets recovered on September 30, with the Sensex and Nifty rising led by gains in the IT and banking sectors.\nPositive sentiment was supported by HAL's re-rating and Shiva Cement's merger news, despite global headwinds like oil volatility.\nHowever, the indices remain under pressure on a longer timeframe, heading toward their worst nine-month show in 15 years.",
-  "updatedAt": "2026-09-30T09:31:34.230Z",
+  "summary": "The Indian stock market experienced significant volatility as hospital and pharma stocks declined due to regulatory concerns and plant incidents. While banking and IT sectors offered some support, global geopolitical tensions and oil volatility kept gains in check. The indices are currently navigating their toughest nine-month stretch in over a decade.",
+  "updatedAt": "2026-09-30T10:02:08.995Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-30",
   "articleKeys": [
-    "shiva cement to merge with parent jsw cement",
-    "rerating on cars for hal shares as tejas mk1a aircraft deliveries near jefferies",
-    "stock market live sensex gains 300 pts nifty around 22750 india vix falls 5",
-    "doordash opens first india office in hyderabad plans 3000plus jobsv",
-    "india vs west indies live streaming when and where to watch ind vs wi 2nd odi",
-    "global market european shares head for first monthly decline in six months as yields rise",
-    "india beat china 238237 to win mens compound archery gold",
-    "global market euro under pressure from energy shock and political risks",
-    "govt floats draft petroleum amendment bill to decriminalise minor offences",
-    "india vs west indies live streaming when and where to watch ind vs wi 2nd odi on tv and online",
+    "hospital stocks fall up to 6 apollo fortis kims tumble as sc questions drug markups",
+    "stock market live sensex falls 500 pts from days high nifty around 22650 pharma shares weigh",
+    "vedanta raises 2000 crore through issuance of nonconvertible debentures",
+    "cocacola mulls filing draft papers for 1 billion india ipo in december",
+    "cocacola considering december filing for india bottling units 1 bn ipo",
+    "ed arrests vatika group promoters in 154 crore money laundering case",
+    "we can confirm flydubai issues first statement amid hijacking scare",
+    "swinging out of red rays of belief bets on us arbitrage rapid india expansion after q1 ebitda leaps 10x",
+    "mrpl shares tumble 5 after explosion at mangaluru plant thick smoke seen from refinery unit",
+    "asian games 2026 india mens squash team assures medal after beating kuwait",
     "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india",
     "sensex today stock market live nifty at 22800 sensex jumps 420 pts icici bank kotak bank indigo top gainers moneycontrolcom",
     "indian shares inch higher after recent slide it stocks lead reuters",
+    "nifty 50 sensex trade in narrow range as oil volatility and usiran tensions weigh on sentiment insightsdsijin",
     "sensex nifty set to post worst 9month show in 15 years business standard",
-    "nifty 50 sensex trade in narrow range as oil volatility and usiran tensions weigh on sentiment dalal street investment journal",
     "sensex nifty heres what happened after 9mcy loss shows 15year history business standard",
     "these top 3 developments from us stock markets have a direct impact on sensex nifty bank nifty nifty it livemint",
+    "sensex nifty remains volatile where should investors put their money experts decode portfolio allocation livemint",
     "stock market today sensex nifty to open higher or lower india today",
-    "stock market today gift nifty gold rate to bond yields five key factors that may drive sensex nifty 50 on sept 30 ndtv profit",
-    "stock markets today sensex nifty recover as oil prices moderate it sector leads gains rediff"
+    "stock market today gift nifty gold rate to bond yields five key factors that may drive sensex nifty 50 on sept 30 ndtv profit"
   ],
   "articles": [
     {
-      "title": "Shiva Cement to merge with parent JSW Cement",
+      "title": "Hospital stocks fall up to 6%: Apollo, Fortis, KIMS tumble as SC questions drug mark-ups",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/shiva-cement-to-merge-with-parent-jsw-cement/article71527473.ece",
-      "publishedAt": "Wed, 30 Sep 2026 14:02:46 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-fall-up-to-6-apollo-fortis-kims-tumble-as-sc-questions-drug-mark-ups/articleshow/134589671.cms",
+      "publishedAt": "Wed, 30 Sep 2026 15:08:14 +0530"
     },
     {
-      "title": "Re-rating on cars for HAL shares as Tejas Mk1A aircraft deliveries near: Jefferies",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/re-rating-on-cars-for-hal-shares-as-tejas-mk1a-aircraft-deliveries-near-jefferies/articleshow/134586938.cms",
-      "publishedAt": "Wed, 30 Sep 2026 14:01:05 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex gains 300 pts, Nifty around 22,750; India VIX falls 5%",
+      "title": "Stock Market LIVE: Sensex falls 500 pts from day's high, Nifty around 22,650; pharma shares weigh",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-september-30-sensex-today-nifty-gift-nifty-crude-oil-price-adroit-industries-share-ipo-today-126093000100_1.html",
-      "publishedAt": "Wed, 30 Sep 2026 13:57:59 +0530"
+      "publishedAt": "Wed, 30 Sep 2026 15:02:44 +0530"
     },
     {
-      "title": "DoorDash opens first India office in Hyderabad, plans 3,000-plus jobsv",
+      "title": "Vedanta raises ₹2,000 crore through issuance of non-convertible debentures",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/doordash-first-india-office-hyderabad-hitec-city-3000-jobs-126093000578_1.html",
-      "publishedAt": "Wed, 30 Sep 2026 13:52:59 +0530"
+      "link": "https://www.business-standard.com/companies/news/vedanta-raises-2-000-crore-through-issuance-of-non-convertible-debentures-126093000653_1.html",
+      "publishedAt": "Wed, 30 Sep 2026 15:01:28 +0530"
     },
     {
-      "title": "India vs West Indies Live Streaming: When And Where To Watch IND vs WI 2nd ODI",
+      "title": "Coca-Cola mulls filing draft papers for $1 billion India IPO in December",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-vs-west-indies-live-streaming-when-and-where-to-watch-ind-vs-wi-2nd-odi-12118942#publisher=newsstand",
-      "publishedAt": "Wed, 30 Sep 2026 13:52:42 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/coca-cola-mulls-filing-draft-papers-for-1-billion-ipo-in-december/articleshow/134589426.cms",
+      "publishedAt": "Wed, 30 Sep 2026 14:57:19 +0530"
     },
     {
-      "title": "Global Market: European shares head for first monthly decline in six months as yields rise",
+      "title": "Coca-Cola considering December filing for India bottling unit's $1 bn IPO",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-head-for-first-monthly-decline-in-six-months-as-yields-rise/articleshow/134587091.cms",
-      "publishedAt": "Wed, 30 Sep 2026 13:52:06 +0530"
+      "link": "https://www.business-standard.com/markets/ipo/coca-cola-considering-december-filing-for-india-bottling-unit-s-1-bn-ipo-126093000665_1.html",
+      "publishedAt": "Wed, 30 Sep 2026 14:53:30 +0530"
     },
     {
-      "title": "India Beat China 238-237 To Win Men's Compound Archery Gold",
+      "title": "ED arrests Vatika Group promoters in ₹154 crore money laundering case",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-beat-china-238-237-to-win-mens-compound-archery-gold-12118715#publisher=newsstand",
-      "publishedAt": "Wed, 30 Sep 2026 13:50:54 +0530"
+      "link": "https://www.business-standard.com/companies/news/ed-arrests-vatika-group-promoters-in-154-crore-money-laundering-case-126093000627_1.html",
+      "publishedAt": "Wed, 30 Sep 2026 14:46:07 +0530"
     },
     {
-      "title": "Global Market: Euro under pressure from energy shock and political risks",
+      "title": "'We Can Confirm...': FlyDubai Issues First Statement Amid Hijacking Scare",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-euro-under-pressure-from-energy-shock-and-political-risks/articleshow/134587000.cms",
-      "publishedAt": "Wed, 30 Sep 2026 13:50:12 +0530"
+      "link": "https://www.ndtvprofit.com/world/we-can-confirm-flydubai-issues-first-statement-amid-hijacking-scare-12118980#publisher=newsstand",
+      "publishedAt": "Wed, 30 Sep 2026 14:45:29 +0530"
     },
     {
-      "title": "Govt floats draft Petroleum Amendment Bill to decriminalise minor offences",
+      "title": "Swinging Out Of Red: Rays Of Belief Bets On US Arbitrage, Rapid India Expansion After Q1 EBITDA Leaps 10x",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/petroleum-amendment-bill-2026-decriminalise-minor-offences-mopng-126093000565_1.html",
-      "publishedAt": "Wed, 30 Sep 2026 13:46:54 +0530"
+      "link": "https://www.ndtvprofit.com/markets/rays-of-belief-swing-out-of-red-bets-on-us-arbitrage-rapid-india-expansions-after-q1-ebitda-leaps-10x-profit-at-rs-3-crore-12118927#publisher=newsstand",
+      "publishedAt": "Wed, 30 Sep 2026 14:43:30 +0530"
     },
     {
-      "title": "India vs West Indies Live Streaming: When And Where To Watch IND vs WI 2nd ODI On TV And Online",
+      "title": "MRPL shares tumble 5% after explosion at Mangaluru plant, thick smoke seen from refinery unit",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-vs-west-indies-live-streaming-when-and-where-to-watch-ind-vs-wi-2nd-odi-on-tv-and-online-12117743#publisher=newsstand",
-      "publishedAt": "Wed, 30 Sep 2026 13:42:30 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mrpl-shares-tumble-5-after-explosion-at-mangaluru-plant-thick-smoke-seen-from-refinery-unit/articleshow/134589058.cms",
+      "publishedAt": "Wed, 30 Sep 2026 14:41:39 +0530"
+    },
+    {
+      "title": "Asian Games 2026: India Men's Squash Team Assures Medal After Beating Kuwait",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/asian-games-2026-india-men-squash-team-assures-medal-after-beating-kuwait-12119096#publisher=newsstand",
+      "publishedAt": "Wed, 30 Sep 2026 14:39:49 +0530"
     },
     {
       "title": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
@@ -166,16 +190,16 @@
       "publishedAt": "Wed, 30 Sep 2026 02:24:00 GMT"
     },
     {
+      "title": "Nifty 50, Sensex Trade in Narrow Range as Oil Volatility and U.S.-Iran Tensions Weigh on Sentiment - insights.dsij.in",
+      "source": "insights.dsij.in",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQXo0ZUlxWnN3ZHRrY0Y3RC1TVmJrUTNHcFRJOUNDaFJnUm5yVkVyU2hZM1RaZnhySVgzN01ZQTFjOWpKbHIteC1lMTFoY3NVSVBtNHdIUmwxVUZKWFdGazAxSUVBblZiRjNvN240WVNxYWlWZm9VMjNSdE8zR3c4S285aDNFejZIMTJfbF8tZlFTQjNpX2FsSUl3R2ZpeWpHTGJFMjIycUMtX1JlOHFkbEdXX1o1aW5TM0VQanZEYTFVWU5vSUFfWkNmQ0g1SExmanVMaDhCU0MyU1VU?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 06:48:07 GMT"
+    },
+    {
       "title": "Sensex, Nifty set to post worst 9-month show in 15 years - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlRxZVliQzhVU1BwRkVzSTEwdmZCV1daOElaam9nNXJBbTlBRlJ5MlNzanU1Tm82N1liUmYwcEVMNEt2dDZScU5hSHhxdS1mRzkwTm5oUG9KLUMzOXFvX2hBWDBLTWF3TGNtYzFPU2liQU9HaWI3LWVXUmdiTDJjZmhqMUhqWE9BX1luV2IxV2RRNDBxa3dhamJLUG1MdlEwNmZMaFhoS1NKSkdQN2tPMEdsWGI4NVRvQkVuNWs1ONIBxAFBVV95cUxNb043SFFsMm9Uc0YtM2VjS0xCYlRpV05rV0t1STExbnVXWHd1VWZhdzdPY3UwRGFvazZadjhJUE8yV202N3dSOVJUendlWFAxUHpGUUs2OVFXY2Z6WDJUcHdEQjVQbWxEWDMtWnNyQnZzOWlPb3ltUTFyUDN5Y0xtUUJLUnZSWjBOZ2l1MUh6djlQVDRhQm1qLVotNHppdkxTcWt0SUVvX2N0SmRNRWN2WU80QnJ6aV8tWlNLbEFwTVphTkJa?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 04:10:31 GMT"
-    },
-    {
-      "title": "Nifty 50, Sensex Trade in Narrow Range as Oil Volatility and U.S.-Iran Tensions Weigh on Sentiment - Dalal Street Investment Journal",
-      "source": "Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQXo0ZUlxWnN3ZHRrY0Y3RC1TVmJrUTNHcFRJOUNDaFJnUm5yVkVyU2hZM1RaZnhySVgzN01ZQTFjOWpKbHIteC1lMTFoY3NVSVBtNHdIUmwxVUZKWFdGazAxSUVBblZiRjNvN240WVNxYWlWZm9VMjNSdE8zR3c4S285aDNFejZIMTJfbF8tZlFTQjNpX2FsSUl3R2ZpeWpHTGJFMjIycUMtX1JlOHFkbEdXX1o1aW5TM0VQanZEYTFVWU5vSUFfWkNmQ0g1SExmanVMaDhCU0MyU1VU?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 06:48:07 GMT"
     },
     {
       "title": "Sensex, Nifty: Here's what happened after 9MCY loss, shows 15-year history - Business Standard",
@@ -190,6 +214,12 @@
       "publishedAt": "Wed, 30 Sep 2026 03:01:34 GMT"
     },
     {
+      "title": "Sensex, Nifty remains volatile: Where should investors put their money? Experts decode portfolio allocation - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQc0ZKSUo1MHNwUjlUbEJ5MV9UR2VvMTZUT0dqdzMxMDVoczFIR2NGQU1PUXFBVEZ0MkJqZkF4NGp3cDR5ajdkUEcyNHdfQ1pTLTdLWmJXcFZzWDdzbGFUVWZRVHdOOGVTXzMtTlc4c1ZNbjBKc04xd1Z0U0UwZmVSOC1vVDB3RDg4R01QYWd2RVc4YW1FeEpVWnhnd1lFdXNiODJ1V3dFSzh2YWJoMndSQnVKRF91QzRUZndXSjVLTnU0Nk95djRuMXFKUnNLUldfbC14Y3NIMVVzaldZcUtuVG13Sk5JMzROQnNudkR3M3JnNWpjXzc0TUtBaHJfMlhaTHU0etIBigJBVV95cUxQRFhwM04wSm9XbXdkd1NsejdyZmVPb29YWEdxODBqYjRJVjRYVGowMDNfY2N2MXhoVHdfR0VfS2RmX3RvdldHUG1BcjFXTjRKamZWVHZwdDhpUTkxUmdnWTZldGdDUVo3M281bXd3c1Ewc0c1cHJHaUUtLUtyU0lydzItcUN3cGVpNEpMTmNUenF3WGRMY2t3UWtKOGRBSG12NVFiVmNyQ1hPOGxtSTh4ZnVDVFgtY3RtbUFrU2xZSzV2clhCZXBOdTZ6X0ZBNlZqZXRDTHhqN25iaFJVVC1URFIybFlqTk9qUkUySENtT0RBWDJ0T0E3V3lXVHdSTkFzU19WVTcxLUlvQQ?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 09:41:10 GMT"
+    },
+    {
       "title": "Stock market today: Sensex, Nifty to open higher or lower? - India Today",
       "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOG5Ma211Y2s0U0YwMFpKa1p2QXBLdHQ3SGktU3o1dHdfTUlvS2NYc3M5dWtfbUlmekt1eTdDOFE2c3ZhcXFNb2dkdmtOa3V0VUxsZUlsLXZCczhVZmFaSk1uTEJaYkhrWU9pYUtXemtCTDU1QjVhUElwakNhc2tEdm5MRTAtYU5oMTA3cks4NDhzMGlGNDJEMnNOejhKbFJqQW9HOVlEelkxVUI3dVlaM1lQVUFBQ3J6RS1tNVVjRUhMWGVjaUdaWVk3VThxUDcweThQa1lLdE4xNHhyUzRacEUzSTU?oc=5",
@@ -200,12 +230,6 @@
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd18yUnBfa2ZqdWVHbXl2am1aa2dNenZZeDR1RXNXQnJtNlU0N0t1TktyaUFsMXNVa0FjY2JEM0lsd01lckU2dmVuYjBfcXo4emhmWXRMaFprNWxGQ3V3M29HSFFST29vZ0xGSGRVVGliM1FpYzRPbVRzeXR5enVqcjNnQ2l5S3FjT3VBa2VZdi1ndXhVdzBETU5Wc0JYSlJld1Z0ZzFPZkVHaUctRmNiSGRxMDF3bThiUWpqWWJEWHJfOHBMREdFdjFjbzNScG0tSDEtMUMwYnI2eFY2U0FDalhxc053cG04em1RLTM1Q3lEQm960gH8AUFVX3lxTE1JY0JQM3o0bkNaRXo1cmJDdTdyQW9kZ2FjMGRDN1FPZ05tWll5aG5qOUd6d0h2OW54UXBDcWpNZ0xFVEtJeGtiVERhS0dfb2Y1ajY4c0p0Y0E4OHNDbDI5anZCVjVBbXI5NC1VSzNLXzNwYmJ4ZFVCNzV4dEdCVENoTFBRaENQc0lzOTdRMVlURW9DbmtzVnFfLVBWUG9uSFhva1hyRE1UTlBwM2tUUWRlQzBzenlKS0tPWXp2eVk4UVQ2dUkteS1YTjJjZUp5TWdvMFhxc2YwRG4teDNjX29tamM2MHAwTFNVbV9vTk5kbUV0WktCU2d5RlNDRA?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 01:30:20 GMT"
-    },
-    {
-      "title": "Stock Markets Today: Sensex, Nifty Recover as Oil Prices Moderate; IT Sector Leads Gains - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNmdqVjFNaUtGT0QxMXU3TXhGSExZeWRxS1dVWHBXQS1Ld3VZdWtMRTl3SVA5ZURiNFhXa1ZFMWlDdEh3SGg2NEIydTF0ZHc0RXVCdkNIQmtoQkd1VGxMZXNISHg0cFNKOXR2a3NIN0FnMEVOLTdWeklSWVNua0M4NENhRDhBWmJRYmVQc2dQeWlDal9tb2lkQXY4M1JXUzNlVFFwVHRMalU3QWpZV3RSQlV6V3BleWQ4blRhdmIxMU5oN2JhVmJCZFdtcjVpZllHa1hjYlFFMNIB2gFBVV95cUxNMll6OVgzOVFNSzlCQzVJdjdtQXRZTTFwV1JDWUozOXdZTEJRM041UllnSkNSbTBhd09vOElleVNEZTBRRm84Yklwb2JjQnFZbmZuUjVzLWtMWmxzVkMzdnFhaEJJSjlUME5VOXVaa3NiWEJ3VFQxQlZZekowcHEzdm5ad2U0NV9RbExvSEc4OHYwZGhpVW13c2tfbzkyTU1DYXNmRF9FNWhHMmN6V052eHNOWVQtbXBPV0J6WVBOcDNwNURUdjF3bERoYTNNY3ZMQ3NKRHlsYTNVdw?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 05:12:10 GMT"
     }
   ]
 }
