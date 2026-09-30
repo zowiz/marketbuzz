@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty recover as crude oil prices drop and IT stocks lead gains in early trade",
+  "headline": "Sensex and Nifty recover as IT stocks lead and crude oil prices drop, with Nifty near 22,700",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Moderating crude oil prices provided relief to benchmark indices.",
-    "Strong gains in IT stocks helped lead market recovery in early trade.",
-    "Cooling oil prices offset concerns over rising bond yields.",
-    "Investors picked up shares after two consecutive days of losses."
+    "Cooling crude oil prices provided relief to benchmark indices after recent slides.",
+    "Strong buying interest in the IT sector helped drive early morning market gains.",
+    "Rising U.S. bond yields and global macroeconomic factors continued to weigh on sentiment.",
+    "Index rebalancing and stock-specific order wins spurred targeted investor activity."
   ],
   "whatHappening": [
-    "Sensex jumped over 100 to 200 points in early trade, trading near 22,700 for Nifty.",
-    "Indian Rupee traded in a narrow range against the U.S. dollar.",
-    "Power Mech Projects secured a Rs 549 crore order from an Adani Group firm.",
-    "Inox Clean Energy filed DRHP for a Rs 10,000 crore IPO."
+    "Sensex rose around 100-200 points while Nifty traded near the 22,700 mark in morning trade.",
+    "IT and media sector stocks led gains, while pharma stocks saw downside pressure.",
+    "BSE entered the Nifty index as Wipro exited as part of the index reshuffle.",
+    "Inox Clean Energy filed its DRHP for a massive Rs 10,000 crore IPO."
   ],
   "stocksInNews": [
     {
@@ -34,10 +34,26 @@
       "articleIds": [
         6
       ]
+    },
+    {
+      "symbol": "BSE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        18
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        18
+      ]
     }
   ],
-  "summary": "Indian benchmark indices recovered in early trade on September 30, supported by falling crude oil prices and gains in IT stocks. Sensex climbed up to 200 points while Nifty traded around the 22,700 mark. Despite the intraday rebound, markets remain under pressure following recent sell-offs.",
-  "updatedAt": "2026-09-30T06:01:26.938Z",
+  "summary": "Indian benchmark indices rebounded in early trade today as IT stocks led the recovery and falling crude oil prices boosted market sentiment.\nStock-specific developments included index rebalancing with BSE joining Nifty and Wipro exiting, along with Power Mech Projects rising on a new order win.\nDespite today's recovery, broader markets remain on track for a weak monthly closing amid persistent global headwinds.",
+  "updatedAt": "2026-09-30T06:31:15.014Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-09-30",
   "articleKeys": [
@@ -51,15 +67,15 @@
     "rupee trades in narrow range against us dollar in early trade",
     "sensex rises 130 points nifty falls below 22700 amid cooling oil rising bond yields what lies ahead",
     "sensex rises 190 points in early trade after two days of losses",
-    "stock market crash today bse sensex crashes over 1100 points investors lose rs 892 lakh crore top r the times of india",
-    "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
+    "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india",
+    "sensex today stock market live updates sensex up 120 pts nifty around 22700 it media shine pharma drags moneycontrolcom",
     "indian shares inch higher after recent slide it stocks lead reuters",
     "sensex nifty set to post worst 9month show in 15 years business standard",
     "stock market today sensex nifty to open higher or lower india today",
     "stock market today gift nifty gold rate to bond yields five key factors that may drive sensex nifty 50 on sept 30 ndtv profit",
-    "these top 3 developments from us stock markets have a direct impact on sensex nifty bank nifty nifty it livemintcom",
-    "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india",
+    "these top 3 developments from us stock markets have a direct impact on sensex nifty bank nifty nifty it livemint",
     "stock markets today sensex nifty recover as oil prices moderate it sector leads gains rediff",
+    "nifty rejig kicks in bse joins as wipro exits what investors need to know business standard",
     "nifty 50 set to log worst september in 8 years as market selloff deepens business standard"
   ],
   "articles": [
@@ -124,16 +140,16 @@
       "publishedAt": "Wed, 30 Sep 2026 10:33:02 +0530"
     },
     {
-      "title": "Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India",
+      "title": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPQ3drbk9QbWRHcU9uVDJLU0EydWpPdVZRVE1rTEE5bFZadHZmUVJPeG9nUjVYWnVvSTkzNzFyNFo3TWhfN1lzX0ZScEVrSnZETUJ2MmtDaE1XYjc2TXo2a1p0UWZhcHprU1lwM3V3YUNUVzlTc3l4UXdCLVExX3dLQTdRaGh5Rk0xUDQtR2lkY3Mxd29QSHNPRU5fRDFYRVBSbC03X2pFaGpnWlJ6MFZDUGlicHlPUUpXeDh4ZU94UWR5ZHNCZ0pydDdFdHZNSjgyRThId0JfSlcxVzFibmR3clVwQzllekZnLUJ1LTdZcHpsRkt1YzN0b1FBT2FkZF9zblJkRlIxdmZfdzNFSXllSDM3b19zME9xaXhlWGk0Qjd5TWwxdDJaenFsOE5iOUNOU2VKRkxYazExZVAxYWJuVVVn0gHHAkFVX3lxTE1EMGdQdWlWbVp5aUpTbEJmb0M5dWQ5X0xJYmNpTFJJVERpUDZkcVo5V1ZGeTNyR3VmYjUyUDF0bG1HVlBGQ21nNDBfU1RZRTdYTEZFTy11OXExZmNOdzRwQTFQNlBRcFZ6NVdDSFFkeWdkV1ZGdm14cXpoTTc5eFc2WkZnVTQ1SlZ3NmxCOWk1b1BWU3doODZadUV0c0tkQ0VCeERINlczUmlYWmJ2MjNoblhPeWtqa0NvU3ZRcGw4NlQ3Mk5GcTFlZDIzQlN4SWxiNE5Md0ctQVBmMklselFGekszWTlFM2JFN244eVJtOHctcnFCc0RVM0Z4OUlqVmctZ25xTDVnTTV4djlfc2U3T2pkeC0tajA2ZnVKRDk3eEJ2ZkNWSmZicmVEOXN0UHpfRkJQdlZMLTVveENMYmdJenM0UFRfRQ?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 05:18:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFJQdUVBNmhGOF9naWYwc1VCWWozTGVwOWl1b082TGI2bmppQVQ5dmxfUWo0RGhBQ29IU29vaUJ1cDZCNEJoelpMc2g0eGhldHVGdy1WeWcxVEtZcDBDNDlfRkxNZnRFMURFLUVfY1U2UG1YTk1vampZZUozYjEzU3JGbDRWNkhhVU5qVy1qcVlhdWxFa2YzX19vSjZ4NEl0dk1reVhEMXlPb1RTTzdkNENIS2RraEdzTTlBXzFteWpPMkpkUk9MdEJqaG91ZTlUSll2UEVwcjNoM0FDdFJQVUJCM0JLQTZzS0xTVkNJQ3VIYUVyV2czYWxBLXRUNzlPUkwtTHFTNUs0cGE3VWdj0gGUAkFVX3lxTE55LTJyNkZRSldBTGdKNnM1THNXOEtPQ3FZaXdOWmhNMEVtby05Y0xaZV9QSlFuNDg3TFlfZlNpb1Z1eTI1S1ZaZDJVeGwxcktWMW9pbWxRZk83ZE1scnkxWGlVOGhDQUJJNWtnTS1MWV9BcDdKRmYybmZSVEJydVdzS1dTVGdvM0c0R09GdUEzd3Zfb3pmMXdSMGUwTk5uZ0xTTlRmV2NZWTV1M0FjWmlQZ1k3aW0wZE52QmlpeTI4bzFHTEtnbjRRZWtzb1NrTnE5dU1XX1ZQV2cxazdKZlRCNmZ6UkNSaVNnVGZVZVV4R21xZ2ZfOVBzcGZ2N3l2RkI3aGpqNnNJWjdTNnFwYnNQNEt0bw?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 03:54:00 GMT"
     },
     {
-      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
-      "source": "NDTV",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEtEbWlBNTFIcHJzRV9zU0hnQUd4MVRma2VMWXpOdDl3SURrMGJPOXBnVnFOTm1MLVpMMFAzYUhUWDJVYnpYd1cyWG1xUjhxOVdkb0tVNkF2VnZfZktsRnRYTlNjMzBYblcyM0pHRUo4Ul8xVlFoci1JOXpSU2F2RlBkbFJaZGhTeE9yODV4aDlnSDdKbjd2c0ZKMzc0Y2JFbER0c2hDNW1pbURITlcw0gG3AUFVX3lxTE8xbVZoQm0xdm9CSmg5ZVBDMVluS0lTTUctTnpYYVU2S0RxcFhlaUY5Qndta09tY3VuZWI3MW1LRWlPNVl6QlY4OVBFcENPZEY4OU9jMThxdzM1cG56U1ZtN29HNGEtZmZ6eklRSXlNNERlUVF0dXNjVXV0dERKeFpyeHY4YUV3ZXdWYWhjcWsxM1d4TWtYOE1tUjRFQ0xKQm5aWHJhcnJfSHFha1FDeUJpSDdJaWhrNA?oc=5",
-      "publishedAt": "Thu, 24 Sep 2026 09:02:35 GMT"
+      "title": "Sensex Today | Stock Market LIVE Updates: Sensex up 120 pts, Nifty around 22,700; IT, media shine, pharma drags - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNb3h0U3I1Y1dmeE03T3BXQmRHd0JGUnFDZkt6TkViVEZOZnlpWWhYY1Rxekp1TkVkU2dRaGJ6YmdXeUhkQnpKUjFjMmZNNGwyXzZOeUJSOW56Vm51Zkl5QzFBdmo4WHoxanJ4Ny15SFJPa1Zrd1VhMEdqM0Y2d1ZJOXpJeWtuTFVibVVZU3BrR2hrNXNPbUZudnp3SFNBVWVhUUxIMzBmZDRqWGJPNG13M0tHd0VkS3l4YjBBME04eV93SVlWRjRpS01YV2JpRXBERXQteFo2RVc0Mml3RHZ6MkZ4ZmRwajFlU0JpQkNhVXNiS29zVzlMTzNTYllyVWpUTlgtckFGOVRqN1c4OXlfb2hIaDBRMFBScHFoSVBhX202bGM?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 05:45:42 GMT"
     },
     {
       "title": "Indian shares inch higher after recent slide; IT stocks lead - Reuters",
@@ -160,22 +176,22 @@
       "publishedAt": "Wed, 30 Sep 2026 01:30:20 GMT"
     },
     {
-      "title": "These top 3 developments from US stock markets have a direct impact on Sensex, Nifty, Bank Nifty, Nifty IT - livemint.com",
-      "source": "livemint.com",
+      "title": "These top 3 developments from US stock markets have a direct impact on Sensex, Nifty, Bank Nifty, Nifty IT - Livemint",
+      "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaElFSTd5Tm02MUliUk56RHI5RWFBSktBZjk4OWx0UzR4eEM3WHMzR0xrVzZ3cUI5N2dGTjFWWWtackFVcV9Ed3FkWXZxU2pUVnZ5eU8yMUwtTXA4UjRNRG1IX2pGQmh3US1FdWVhbnIzUzJLS1ZVM0FTclpYVkhyek9tTy00WmU4Ri1BMGdDN29IRU9qejNWUHdySjJla3FHcFp0SnF5b2tnbHNSUDBBVS1mZFhKNG1Pd1lBM0J5cUlfMVNCNE9IZVQxRHg0cTlTMXFNay1yWjZVd1hjeTFzY1B5S2ZMc3g0WHVGNnhFZmZXNWVkNW9kaEhIZUV0c2xyNGFF0gGIAkFVX3lxTE9kSkF0a3ZSZlJXc2tjSjFwOE1Hb2RVTnd5S3FrVnIxa3pDS1FoUE52VHc3Q2t3OXZIQ2pydmJUSWVzcm5ub0VGdnpNdDlOX18yYmF5MnNhejhubFMydlVYdmNlYlZXQ0NnV2RReFg2ekdfTUI0SXFJbmF2cjV1RXB5VVBYS3dQY1hCYXdIRVZ5YTIteV9Pek1ZSmx1RXdQVW9HMndYSVhVcDIwcmlhSDQ5MnpwUVpxbC0tbTBUT0JPZndPRWlYcmlqY0F2bm90UE5YMnU0UWx2ZV9GTzVQb1hTMjlwMUxSOGhXRVVUZ2Vpc25TZzJsLWlWT2J3aUFraTNMbTdDQ0ltLQ?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 03:01:34 GMT"
-    },
-    {
-      "title": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFJQdUVBNmhGOF9naWYwc1VCWWozTGVwOWl1b082TGI2bmppQVQ5dmxfUWo0RGhBQ29IU29vaUJ1cDZCNEJoelpMc2g0eGhldHVGdy1WeWcxVEtZcDBDNDlfRkxNZnRFMURFLUVfY1U2UG1YTk1vampZZUozYjEzU3JGbDRWNkhhVU5qVy1qcVlhdWxFa2YzX19vSjZ4NEl0dk1reVhEMXlPb1RTTzdkNENIS2RraEdzTTlBXzFteWpPMkpkUk9MdEJqaG91ZTlUSll2UEVwcjNoM0FDdFJQVUJCM0JLQTZzS0xTVkNJQ3VIYUVyV2czYWxBLXRUNzlPUkwtTHFTNUs0cGE3VWdj0gGUAkFVX3lxTE55LTJyNkZRSldBTGdKNnM1THNXOEtPQ3FZaXdOWmhNMEVtby05Y0xaZV9QSlFuNDg3TFlfZlNpb1Z1eTI1S1ZaZDJVeGwxcktWMW9pbWxRZk83ZE1scnkxWGlVOGhDQUJJNWtnTS1MWV9BcDdKRmYybmZSVEJydVdzS1dTVGdvM0c0R09GdUEzd3Zfb3pmMXdSMGUwTk5uZ0xTTlRmV2NZWTV1M0FjWmlQZ1k3aW0wZE52QmlpeTI4bzFHTEtnbjRRZWtzb1NrTnE5dU1XX1ZQV2cxazdKZlRCNmZ6UkNSaVNnVGZVZVV4R21xZ2ZfOVBzcGZ2N3l2RkI3aGpqNnNJWjdTNnFwYnNQNEt0bw?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 03:54:00 GMT"
     },
     {
       "title": "Stock Markets Today: Sensex, Nifty Recover as Oil Prices Moderate; IT Sector Leads Gains - Rediff",
       "source": "Rediff",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNmdqVjFNaUtGT0QxMXU3TXhGSExZeWRxS1dVWHBXQS1Ld3VZdWtMRTl3SVA5ZURiNFhXa1ZFMWlDdEh3SGg2NEIydTF0ZHc0RXVCdkNIQmtoQkd1VGxMZXNISHg0cFNKOXR2a3NIN0FnMEVOLTdWeklSWVNua0M4NENhRDhBWmJRYmVQc2dQeWlDal9tb2lkQXY4M1JXUzNlVFFwVHRMalU3QWpZV3RSQlV6V3BleWQ4blRhdmIxMU5oN2JhVmJCZFdtcjVpZllHa1hjYlFFMNIB2gFBVV95cUxNMll6OVgzOVFNSzlCQzVJdjdtQXRZTTFwV1JDWUozOXdZTEJRM041UllnSkNSbTBhd09vOElleVNEZTBRRm84Yklwb2JjQnFZbmZuUjVzLWtMWmxzVkMzdnFhaEJJSjlUME5VOXVaa3NiWEJ3VFQxQlZZekowcHEzdm5ad2U0NV9RbExvSEc4OHYwZGhpVW13c2tfbzkyTU1DYXNmRF9FNWhHMmN6V052eHNOWVQtbXBPV0J6WVBOcDNwNURUdjF3bERoYTNNY3ZMQ3NKRHlsYTNVdw?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 05:12:10 GMT"
+    },
+    {
+      "title": "Nifty rejig kicks in: BSE joins as Wipro exits; what investors need to know - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS0MtR3pRMDBDYTBrVXZHekxmQTRFdzVMQUtQZHhhckRsXzkzZ0FzMEdKTTNxbThac0F0dGZwT041NVpoNldGM1dLbk5ERF92ZmVuLTlwVURSRDdVYXUxa1F2MG1JdTdjX0Z5WnlCbEdvVU5ZVXhFR3BEaVlqdDRmVWR0YUp2YWlrek1lZ3o3UnBUckkxMC1HRWpvQVZfVzV4bk5SVUU1SUUxX094bDl2aFdFVUgxemRHd2d4SElNb3RXMFkyRUhNZEdPSmZiWHU1bTNWTzgwZ9IB3AFBVV95cUxQeUkzZnpITnF5cDViMDUzTmtybC13RWUtZUNvWnBfWVpmZkhuMVluOWV2c2ZSZ2ZQQ21UUW1VR3VLdW1fNVYzM0VQRU9EcC00VXdXV0I5TVItdlRabkE0Zmt5OUcwM01xbm5HbTZ1a0Q0YndzLVE2RFBwQTQ2T1VoUExvd0hpVFBjVms5OGFjYy1zVUVHLTdpVE56Z2xkN29RQUFNaTcwTDlYajlaMWpkYml3SG8yd0R4ZWU4SkhmSWd5Q2UwVUpTQ2Z5d0IyVjBtN2hDeGRtRjVfMXFt?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 01:50:52 GMT"
     },
     {
       "title": "Nifty 50 set to log worst September in 8 years as market sell-off deepens - Business Standard",
