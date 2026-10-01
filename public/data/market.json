@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty trade lower as auto and hospital stocks slump; Kotak Mahindra Bank names new CEO.",
+  "headline": "Sensex and Nifty trade lower amid heavy FII selling despite record GST collections and manufacturing PMI recovery",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,20 @@
     "nextOpen": ""
   },
   "why": [
-    "Relentless foreign fund outflows continue to weigh on market sentiment in early trade.",
-    "Weak September auto sales data triggered a sell-off in major automobile stocks like Bajaj Auto and M&M.",
-    "Healthcare and hospital stocks slumped following Supreme Court scrutiny over pricing markups.",
-    "Global factors including oil price volatility and US inflation data are keeping investors cautious."
+    "Foreign Institutional Investors (FIIs) accelerated selling with $2 billion outflows over the last two days",
+    "The benchmark indices are on track for their eighth consecutive weekly decline",
+    "Auto and cement sectors are acting as the primary drags on the market today",
+    "A significant hike in Aviation Turbine Fuel (ATF) prices to ₹137 per litre is impacting aviation sentiment"
   ],
   "whatHappening": [
-    "The Nifty 50 hovered around 22,550 while the Sensex moved in a narrow range during early sessions.",
-    "Kotak Mahindra Bank received RBI clearance for Anup Kumar Saha's appointment as the next MD & CEO.",
-    "TBO Tek shares rose 3% following a 'Buy' recommendation from Nuvama with a target of Rs 2,200.",
-    "Major hospital chains like Fortis and Apollo Hospitals saw shares drop up to 10% over two days."
+    "Gross GST collections in September rose 14.7% year-on-year to approximately ₹2.04 lakh crore",
+    "Manufacturing PMI showed recovery in September driven by increased output and job growth",
+    "MTNL shares witnessed a sharp surge of over 17% despite the broader market decline",
+    "Major auto companies including Eicher Motors and M&M reported positive sales growth for September"
   ],
   "stocksInNews": [
     {
-      "symbol": "TBOTEK",
+      "symbol": "MTNL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
@@ -28,54 +28,12 @@
       ]
     },
     {
-      "symbol": "KOTAKBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        0,
-        6
-      ]
-    },
-    {
-      "symbol": "TITAN",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "DABUR",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "FORTIS",
+      "symbol": "EICHERMOT",
       "sentiment": "Negative",
       "sources": "Mentioned by 2/10 sources",
       "articleIds": [
+        5,
         7,
-        18
-      ]
-    },
-    {
-      "symbol": "APOLLOHOSP",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/10 sources",
-      "articleIds": [
-        7,
-        18
-      ]
-    },
-    {
-      "symbol": "BAJAJ-AUTO",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/10 sources",
-      "articleIds": [
-        9,
         18
       ]
     },
@@ -84,31 +42,32 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        9,
+        5,
+        7,
         18
       ]
     }
   ],
-  "summary": "Indian markets opened lower on October 1, 2026, pressured by weak auto sales and foreign fund outflows. Auto majors Bajaj Auto and M&M saw significant declines, while hospital stocks slumped following regulatory concerns. Conversely, Kotak Mahindra Bank and TBO Tek showed resilience amid positive corporate developments.",
-  "updatedAt": "2026-10-01T06:28:43.629Z",
+  "summary": "The Indian stock market opened lower on October 1, with the Sensex and Nifty pressured by sustained FII selling and sectoral weakness in autos and cement. Despite the downturn, macroeconomic data remained robust as GST collections hit record highs and manufacturing PMI indicated a recovery in output. Individual stocks like MTNL saw significant gains, while auto majors reported healthy sales growth even as their share prices dragged.",
+  "updatedAt": "2026-10-01T06:58:12.470Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-01",
   "articleKeys": [
-    "stock market live sensex moves in narrow range nifty around 22550 nifty private bank up 1",
-    "micron earnings ai chip demand drives fresh memory boom",
-    "tbo tek shares gain 3 nuvama initiates buy with rs 2200 target",
-    "rupee trades in narrow range against us dollar in early trade",
-    "stock markets decline in early trade on relentless foreign fund outflows",
-    "stocks to buy titan lenskart dabur among nomuras 17 consumer picks do you own any",
-    "anup kumar saha to be next md ceo of kotak mahindra bank rbi clears appointment",
-    "fortis apollo other hospital stocks slump up to 10 in 2 days after sc questions steep markups buying opportunity",
-    "global market sk hynix to assess shareholder protection over potential solidigm listing",
-    "bajaj auto shares tumble 6 mampm hits 52week low after september auto sales data what went wrong",
+    "atf prices increased by around 16 from 121 per litre to 137 per litre",
+    "gross gst collections rise 147 to over 203 trillion in september",
+    "stock market live sensex down 100 pts nifty around 22550 mtnl share price surges over 17",
+    "2 billion gone in two days fiis accelerate selling as nifty sensex set to fall for 8th week running will they make a comeback",
+    "manufacturing pmi recovers in september amid higher output and job growth",
+    "september auto sales live updates eicher motors report 8 total sales growth mm up 15",
+    "vivo oneplus to motorola upcoming smartphone launches in october full details",
+    "stock market today live updates sensex down 100 points nifty set for eighth straight weekly loss auto cement top drags",
+    "gst collections rise 147 yoy to rs 204 lakh crore in september",
+    "lg electronics shares may rally 22 says motilal oswal premiumisation exports key triggers",
     "stock market today highlights bse sensex closes almost 50 points down nse nifty50 ends above 22700 mark the times of india",
     "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market close sensex slumps 1124 pts nifty settles at 22780 nifty psu bank falls 3 business standard",
     "closing bell market fails to hold gains nifty at 22620 sensex flat amid volatility moneycontrolcom",
-    "monday mayhem sensex settles 1100 pts lower nifty ends below 22800 key factors behind market crash moneycontrolcom",
+    "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india",
     "share market live share market today latest share market news share market live updates on the economic times the economic times",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
     "stock market fails to hold gains sensex declines 215 points nifty down 10725 points telegraph india",
@@ -117,64 +76,64 @@
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex moves in narrow range, Nifty around 22,550; Nifty Private Bank up 1%",
+      "title": "ATF prices increased by around ₹16 from ₹121 per litre to ₹137 per litre",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/atf-prices-increased-by-around-16-from-121-per-litre-to-137-per-litre/article71531663.ece",
+      "publishedAt": "Thu, 01 Oct 2026 12:10:15 +0530"
+    },
+    {
+      "title": "Gross GST collections rise 14.7% to over ₹2.03 trillion in September",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/economy/news/gross-gst-collections-rise-14-7-to-over-2-03-trillion-in-september-126100100388_1.html",
+      "publishedAt": "Thu, 01 Oct 2026 12:02:14 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex down 100 pts, Nifty around 22,550; MTNL share price surges over 17%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-1-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126100100095_1.html",
-      "publishedAt": "Thu, 01 Oct 2026 11:01:07 +0530"
+      "publishedAt": "Thu, 01 Oct 2026 12:00:34 +0530"
     },
     {
-      "title": "Micron earnings: AI chip demand drives fresh memory boom",
+      "title": "$2 billion gone in two days! FIIs accelerate selling as Nifty, Sensex set to fall for 8th week running. Will they make a comeback?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/micron-earnings-ai-chip-demand-drives-fresh-memory-boom/slideshow/134609446.cms",
-      "publishedAt": "Thu, 01 Oct 2026 11:00:54 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/2-billion-gone-in-two-days-fiis-accelerate-selling-as-nifty-sensex-set-to-fall-for-8th-week-running-will-they-make-a-comeback/articleshow/134610354.cms",
+      "publishedAt": "Thu, 01 Oct 2026 11:55:19 +0530"
     },
     {
-      "title": "TBO Tek shares gain 3%; Nuvama initiates 'Buy' with Rs 2,200 target",
+      "title": "Manufacturing PMI recovers in September amid higher output and job growth",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tbo-tek-shares-gain-3-nuvama-initiates-buy-with-rs-2200-target/articleshow/134609231.cms",
-      "publishedAt": "Thu, 01 Oct 2026 10:58:52 +0530"
+      "link": "https://www.business-standard.com/economy/news/india-manufacturing-pmi-september-2026-hsbc-seven-month-high-126100100400_1.html",
+      "publishedAt": "Thu, 01 Oct 2026 11:53:56 +0530"
     },
     {
-      "title": "Rupee trades in narrow range against U.S. dollar in early trade",
+      "title": "September Auto Sales Live Updates: Eicher Motors Report 8% Total Sales Growth; M&M Up 15%",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71531481.ece",
-      "publishedAt": "Thu, 01 Oct 2026 10:54:41 +0530"
+      "link": "https://www.ndtvprofit.com/business/september-auto-sales-live-updates-sml-mahindra-maruti-suzuki-bajaj-auto-tata-motors-hyundai-force-motors-toyota-ola-electric-ather-sales-figures-12122836#publisher=newsstand",
+      "publishedAt": "Thu, 01 Oct 2026 11:40:50 +0530"
     },
     {
-      "title": "Stock markets decline in early trade on relentless foreign fund outflows",
+      "title": "Vivo, OnePlus To Motorola: Upcoming Smartphone Launches In October - Full Details",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/stock-markets-decline-in-early-trade-on-relentless-foreign-fund-outflows/article71531485.ece",
-      "publishedAt": "Thu, 01 Oct 2026 10:46:25 +0530"
+      "link": "https://www.ndtvprofit.com/technology/vivo-oneplus-to-motorola-upcoming-smartphone-launches-in-october-full-details-12123674#publisher=newsstand",
+      "publishedAt": "Thu, 01 Oct 2026 11:40:24 +0530"
     },
     {
-      "title": "Stocks to buy: Titan, Lenskart, Dabur among Nomura’s 17 consumer picks. Do you own any?",
+      "title": "Stock Market Today Live Updates: Sensex Down 100 Points, Nifty Set For Eighth Straight Weekly Loss; Auto, Cement Top Drags",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-titan-lenskart-dabur-among-nomuras-17-consumer-picks-do-you-own-any/slideshow/134609163.cms",
-      "publishedAt": "Thu, 01 Oct 2026 10:38:33 +0530"
+      "link": "https://www.ndtvprofit.com/markets/stock-market-news-today-live-updates-share-market-news-sensex-nifty-gift-nifty-bond-yields-us-iran-conflict-brent-crude-oil-prices-today-12122884#publisher=newsstand",
+      "publishedAt": "Thu, 01 Oct 2026 11:40:10 +0530"
     },
     {
-      "title": "Anup Kumar Saha to be next MD & CEO of Kotak Mahindra Bank; RBI clears appointment",
+      "title": "GST Collections Rise 14.7% YoY to Rs 2.04 Lakh Crore In September",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/anup-kumar-saha-to-be-next-md-ceo-of-kotak-mahindra-bank-rbi-clears-appointment/article71531423.ece",
-      "publishedAt": "Thu, 01 Oct 2026 10:38:14 +0530"
+      "link": "https://www.ndtvprofit.com/economy/gst-collections-rise-14-7-yoy-to-rs-2-04-lakh-crore-in-september-12123721#publisher=newsstand",
+      "publishedAt": "Thu, 01 Oct 2026 11:39:49 +0530"
     },
     {
-      "title": "Fortis, Apollo, other hospital stocks slump up to 10% in 2 days after SC questions steep markups. Buying opportunity?",
+      "title": "LG Electronics Shares May Rally 22%, Says Motilal Oswal; Premiumisation, Exports Key Triggers",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fortis-apollo-other-hospital-stocks-slump-up-to-10-in-2-days-after-sc-questions-steep-markups-buying-opportunity/articleshow/134608717.cms",
-      "publishedAt": "Thu, 01 Oct 2026 10:35:03 +0530"
-    },
-    {
-      "title": "Global Market: SK Hynix to assess shareholder protection over potential Solidigm listing",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-sk-hynix-to-assess-shareholder-protection-over-potential-solidigm-listing/articleshow/134608598.cms",
-      "publishedAt": "Thu, 01 Oct 2026 10:32:00 +0530"
-    },
-    {
-      "title": "Bajaj Auto shares tumble 6%, M&amp;M hits 52-week low after September auto sales data. What went wrong?",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-auto-shares-tumble-6-mm-hits-52-week-low-after-september-auto-sales-data-what-went-wrong/articleshow/134608557.cms",
-      "publishedAt": "Thu, 01 Oct 2026 10:29:12 +0530"
+      "link": "https://www.ndtvprofit.com/markets/lg-electronics-india-shares-may-rally-22-percent-says-motilal-oswal-premiumisation-exports-key-triggers-12123703#publisher=newsstand",
+      "publishedAt": "Thu, 01 Oct 2026 11:37:38 +0530"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex closes almost 50 points down, NSE Nifty50 ends above 22,700 mark - The Times of India",
@@ -201,10 +160,10 @@
       "publishedAt": "Wed, 30 Sep 2026 10:56:12 GMT"
     },
     {
-      "title": "Monday mayhem: Sensex settles 1,100 pts lower, Nifty ends below 22,800; key factors behind market crash - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNd3FFLUl4RkRuRktMczNpNmU5VmotaWdaUENGMWExNHZJOERsVFNMQ2ZiX0tDSGFXYXhxSjVUM2p4QWUzZThrTkxDNXR6ZndFMXU2NEFTNG90Wm1JVnZpNDdaRU1vSnJOUno4VGN6dDhndTdDWDhhbGVjQ25nSDBWOXFGa2xUWlEtRDQ0dVNCZ0I2TWdQcmlZWkxLcllVUXBpa1NpdjItdDBhZlNLYUU5bWhwREZoSWV2dEMxMWJMNUZza0FpQ2dKM0JSdU9fajZEdmQzOXFnZUxqd09wcW9qd1V0alZ1TGtFYWs5d1k4eGc2NVZvbXFONkNB0gH_AUFVX3lxTE5yLU5FWTlXQmdqRWY5MS1MYXRPVHV3bjNkZWlEa25SVC1INTV0QjQzOXBxVzhFbEUxME1WbU9jbTZISE1fa19JS1dwRW9KOVplQ1A4QkNWWlE2YjM5NlBCNndyN2F4T2VfVmlOVnhEQzMtSENPZ2N2clVGNTdtVnQ4SU1idWI3eThwenZWRUZ4NzNwaHJvTllHUlBpYnQ4SEEtZFlRTmJuT3dGU2ZpRTdMLUFraWlfNjl5UWFZLTBlX2VMSTdXdWV6cXNOaGFzRU5QSjBOcHBPT081Z2R1d1JWQUt5TXFieXRCbGFLcGRkWVI4OG9oRk1YQXJuQmdrRQ?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 04:07:02 GMT"
+      "title": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFJQdUVBNmhGOF9naWYwc1VCWWozTGVwOWl1b082TGI2bmppQVQ5dmxfUWo0RGhBQ29IU29vaUJ1cDZCNEJoelpMc2g0eGhldHVGdy1WeWcxVEtZcDBDNDlfRkxNZnRFMURFLUVfY1U2UG1YTk1vampZZUozYjEzU3JGbDRWNkhhVU5qVy1qcVlhdWxFa2YzX19vSjZ4NEl0dk1reVhEMXlPb1RTTzdkNENIS2RraEdzTTlBXzFteWpPMkpkUk9MdEJqaG91ZTlUSll2UEVwcjNoM0FDdFJQVUJCM0JLQTZzS0xTVkNJQ3VIYUVyV2czYWxBLXRUNzlPUkwtTHFTNUs0cGE3VWdj0gGUAkFVX3lxTE55LTJyNkZRSldBTGdKNnM1THNXOEtPQ3FZaXdOWmhNMEVtby05Y0xaZV9QSlFuNDg3TFlfZlNpb1Z1eTI1S1ZaZDJVeGwxcktWMW9pbWxRZk83ZE1scnkxWGlVOGhDQUJJNWtnTS1MWV9BcDdKRmYybmZSVEJydVdzS1dTVGdvM0c0R09GdUEzd3Zfb3pmMXdSMGUwTk5uZ0xTTlRmV2NZWTV1M0FjWmlQZ1k3aW0wZE52QmlpeTI4bzFHTEtnbjRRZWtzb1NrTnE5dU1XX1ZQV2cxazdKZlRCNmZ6UkNSaVNnVGZVZVV4R21xZ2ZfOVBzcGZ2N3l2RkI3aGpqNnNJWjdTNnFwYnNQNEt0bw?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 03:54:00 GMT"
     },
     {
       "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
