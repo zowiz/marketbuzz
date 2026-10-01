@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex crashed 1,000 points as foreign investors sold en-masse, wiping out ₹9 lakh crore.",
+  "headline": "On last trading day, Sensex crashed 1,000 points as Indian markets recorded their longest weekly losing run.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,32 +7,57 @@
     "nextOpen": "Monday, 5 October"
   },
   "why": [
-    "En-masse selling by foreign institutional investors",
-    "Global concerns over rate hikes and rising oil prices",
-    "Surging US Treasury yields impacting global market sentiment",
-    "Benchmark shares recording their longest weekly losing run in 25 years"
+    "Foreign investors sold Indian stocks en-masse, leading to significant capital outflows",
+    "Concerns over surging US Treasury yields and global interest rate hikes weighed on sentiment",
+    "Rising oil prices and global cues sparked the worst monthly performance since March",
+    "Market sentiment was dampened by the longest weekly losing streak in 25 years"
   ],
   "whatHappening": [
-    "The Sensex plummeted over 1,000 points in the last session, resulting in a ₹9.5 lakh crore loss in investor wealth",
-    "The Nifty 50 index slipped below the 22,300 level during the previous day's heavy sell-off",
-    "Government authorities capped sugar stock limits for dealers at 1,000 quintals ahead of the festive season",
-    "Indian Bank is considering a waiver of the 0.28% MDR on UPI transactions according to its CEO"
+    "The Sensex plummeted 1,000 points intraday, wiping out over ₹9 lakh crore of investor wealth",
+    "Nifty 50 closed at 22,421.95 after slipping below the 22,300 level during the session",
+    "INOX Group scions filed for two separate IPOs with a combined value of ₹20,000 crore",
+    "The government capped sugar stock limits for dealers at 1,000 quintals ahead of the festive season"
   ],
   "stocksInNews": [
     {
-      "symbol": "INDIANB",
-      "sentiment": "Neutral",
+      "symbol": "MTNL",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        9
+        16
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "STLTECH",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "INOXGFL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
       ]
     }
   ],
-  "summary": "The Indian stock market suffered a major crash in its last session, with the Sensex falling 1,000 points amid heavy foreign investor selling. This downturn marked the longest weekly losing streak in 25 years and the worst monthly performance since March. Markets are currently closed for an NSE holiday and will reopen on Monday.",
-  "updatedAt": "2026-10-01T22:31:28.491Z",
+  "summary": "Indian markets are closed today for an NSE holiday following a session where the Sensex crashed 1,000 points intraday. The downturn was driven by heavy foreign investor selling and global rate hike fears, marking a 25-year record losing streak. Trading is set to resume on Monday, 5 October.",
+  "updatedAt": "2026-10-01T23:01:46.970Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-02",
   "articleKeys": [
+    "inox group scions file for 10000 crore ipos each",
     "us stocks us market rebounds to close higher as surging treasury yields recede",
     "feds jefferson urges patience on rates kashkari sees more hikes ahead",
     "govt caps sugar stock limit for dealers to 1000 quintals ahead of festive season",
@@ -42,19 +67,24 @@
     "cjp founder dipke detained briefly after being spotted with placards at marine drive police",
     "broadcom to lend anthropic up to 42 bn to lease its chips filing says",
     "ai cybersec startup armadin valued at over 25 bn after new funding round",
-    "indian bank may consider waiving 028 mdr on upi transactions says ceo",
     "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
     "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
-    "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
+    "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtvcom",
     "stock market crash how investors lost 95 lakh crore in over an hour top losers of sensex nifty livemint",
     "indian stock market loses 8th straight week wiped out 95 lakh crore in a day wion",
-    "sensex down 1000 points why is stock market falling today indiatodayin",
+    "mtnl kotak bank sterlite tech among buzzing stocks as sensex nifty50 tumble over 1 in noon deals upstox",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
     "over rs 1000000000000 wiped out sensex crashes 1000 points nifty 50 slips below 22300 ndtv profit",
     "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india"
   ],
   "articles": [
+    {
+      "title": "INOX Group scions file for ₹10,000 Crore IPOs each",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/inox-group-scions-file-for-10000-crore-ipos-each/article71533866.ece",
+      "publishedAt": "Fri, 02 Oct 2026 04:01:14 +0530"
+    },
     {
       "title": "US stocks: US market rebounds to close higher as surging Treasury yields recede",
       "source": "Zerodha Pulse",
@@ -110,12 +140,6 @@
       "publishedAt": "Thu, 01 Oct 2026 23:39:30 +0530"
     },
     {
-      "title": "Indian Bank May Consider Waiving 0.28% MDR On UPI Transactions, Says CEO",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/indian-bank-may-consider-waiving-0-28-mdr-on-upi-transactions-says-ceo-12127512#publisher=newsstand",
-      "publishedAt": "Thu, 01 Oct 2026 23:32:19 +0530"
-    },
-    {
       "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWjBqWExwOHJfbDIteUk1NF9IeUptVjN1ejhMMXdMV1U3QWhKWERHQm1fekNZckpLRE5aME5EYmFKM2szRjNBRVYwVUNjaVV0MkY4OUg0cWdCVzd0ZWcxM3ZfS3lWNUt5QWJyRmZ0UUR5MDZlOENZQ2x6UFBaTlg2T3REekRXMVZQcHc4Y1l6MmpqR1ZHdV9NazlIcWRiTy03TGhyaHlqdHdTdy0tUjJ4ajJUbEFlNDltUzZsLXpaRlYwNWdnX3d2dDFZRWNqLVFMTnpCSUt2MFlBNURISUxRV29nOGhkY080UFlxQkxUZDFVY3JRTjJFR29pLVhjWlhOU1ZmXzMteGNBeVBSLUlOdG9reWZjZFhGNEtfdzhNWXFfTWpoOXBoUG5UNmNra1VLU3FPaNIBugJBVV95cUxOS1JVdnhFYnN6S092dEN2Z1dmejJ4Sld2Rl9nckhveTBoQ1BzN0RHb0hmS3FiMV9NaWRqRXI4eWtsREN6dkl0RzdxN1g0UDlFMkNTVUdkcG1CV3dGSkhYYlJGeGkyZ3NldkRNSmRPVXhDX1dKc2dMR0JYYk5KQ2JveDNuMXBidEdGNFRoZFVpbThhd1hXUDRBSE5weWxnV01oRXNJbGQyWDQzTUY1UGhjdmJ0R05FbFVBT3A4cEtfdkJHMmlEMk5vWkJSa3UyenZtaWhDSVk5eFdSRHkxV3FvZkpWcUVNNFJLQnNfLWdId0lua243Tm1vUkVLNG9VVk4yVVZrbUd4bE5jVmxoTW9ZZEM5dWVNQzFQTTRWQzdvVldfZGNKckdoNTdiUTg1UnJRb3R3OEtXTDBadw?oc=5",
@@ -134,8 +158,8 @@
       "publishedAt": "Thu, 01 Oct 2026 02:25:00 GMT"
     },
     {
-      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
-      "source": "NDTV",
+      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - ndtv.com",
+      "source": "ndtv.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
@@ -152,10 +176,10 @@
       "publishedAt": "Thu, 01 Oct 2026 17:40:00 GMT"
     },
     {
-      "title": "Sensex down 1,000 points: Why is stock market falling today? - indiatoday.in",
-      "source": "indiatoday.in",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUzhHNDRWenc5b2tpY1ZxbnJ1dm1RdU5yM012REpBTTBodmpaWXQwSjBoN2p5bWZfaHBsYU1FMzJQWVlxMDVycnV5Z0RqcmV6M2RVenVnRmsydmdEX3h5VWpmQ08xYnhremxaM2duNUQ4T3VRMldyMDJFWW53eHBSellKLW1tOHFoeW9uRnE2ZUNkcUpLalRfbGh6dl8tQUR2TWZSOGNmYTZPMGEtQi1tVXdpd3BjZkVYMG9hNUJZMWh3Q1Y3NWNsSGlfRjdBTVRqMUxicmJWSWZtRnRmd051TWFHOTJLNk1MMGx1X2ZRN3gxUdIB9wFBVV95cUxQOUJDYlJNVnM3d0t5YUszbTl0NDFhY3EySFBsUkZOUU5YVzkxSTIzanF3ZXpSaUV2ODdLUVg5SENhSERXZElNOGMwLVFiVExYbl9lX2t0SEJJMjV0WmRhNUNkYVZvTHhOQ0ZUM2U5VFlHMUJvbGxxMTA3eDlTRFVuZUFBNzlrYXZ1cVdmb1BvWXZQSEN2aXNCRkRmM251dDBLa0VZUWt1Mkp3eV9kMy1GT3RkS1Ewc1p1Wl91dW9SbGt5Q21iZ0NTRXgxRkZLVkRPVnhqa19rdDRHTVZUZUtpX0l1UjdLU2Z2WUFWam9PWjg0LVVfa1Zr?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 08:02:54 GMT"
+      "title": "MTNL, Kotak Bank, Sterlite Tech among buzzing stocks as SENSEX, NIFTY50 tumble over 1% in noon deals - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeDhPUXpPRDdPQkpVSjFaUDNlTzdWRDhteXBESHA0UVpJTVJ2ZG15RWhpaTdnOENiMkdHdGN4aS1wZ2JKX2F3d3QxU2NwT1VoVUNObDNscHlKVlNrZGVsdVoxd1NJWU5uWE11Si0ySXdLQnF1QjVUSjFOajR1cGx6NW9fWnVubUZBbGNfT2lubE1hNHFVWTMzaDcxUlpNb3RKYVluOU9uSjE2M0xNcXRlMm5jSjlweVgtQ01iYjI4eGVpZWx2dS1HTHZpN2Q3enBEbzdUMWVfb19tZDZoTG5hZ0hfSVZNZktHZmtfMA?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 08:24:30 GMT"
     },
     {
       "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
