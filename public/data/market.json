@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty Crash Over 1,000 Points Amid Heavy FII Selling and Global Economic Headwinds",
+  "headline": "Sensex and Nifty Crash Over 1,000 Points Amid Heavy FII Selling and Rising Global Bond Yields",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Aggressive selling by Foreign Institutional Investors (FIIs) across the Indian market",
-    "Rising global bond yields and expectations of continued interest rate hikes",
-    "Concerns over rising crude oil prices and global inflationary pressures",
-    "Significant depreciation of the Indian Rupee against the U.S. Dollar"
+    "Massive selling by Foreign Institutional Investors (FIIs)",
+    "High global bond yields and rising oil prices",
+    "Concerns over global interest rate hikes",
+    "Global market cues and outflows from emerging markets"
   ],
   "whatHappening": [
-    "BSE Sensex plummeted over 1,280 points intraday, hitting its lowest level in 2026",
-    "NSE Nifty 50 fell sharply, testing support levels near 22,200 during the session",
-    "Investor wealth worth approximately Rs 9 lakh crore was wiped out in a single day",
-    "Indian benchmark indices recorded their longest weekly losing streak in 25 years"
+    "Sensex crashed over 1,000 points, hitting a fresh 52-week low during intraday trade",
+    "Indian benchmark shares recorded their longest weekly losing run in 25 years",
+    "Investor wealth worth approximately Rs 9 lakh crore was wiped out in a single session",
+    "HDFC Bank and IT ADRs like Infosys and Wipro showed resilience despite the domestic market slump"
   ],
   "stocksInNews": [
     {
@@ -24,11 +24,12 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        4
+        3,
+        5
       ]
     },
     {
-      "symbol": "NYKAA",
+      "symbol": "INFY",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
@@ -36,19 +37,43 @@
       ]
     },
     {
-      "symbol": "BDL",
-      "sentiment": "Negative",
+      "symbol": "WIPRO",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        6
+        7
       ]
     },
     {
-      "symbol": "RHFL",
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "MTNL",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1
+        16
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "STLTECH",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        16
       ]
     },
     {
@@ -56,120 +81,96 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "MTNL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        15
-      ]
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        15
-      ]
-    },
-    {
-      "symbol": "STLTECH",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        15
+        8
       ]
     }
   ],
-  "summary": "The Indian stock market suffered a massive crash with the Sensex plunging over 1,000 points due to relentless FII selling and high bond yields. The Rupee hit a record low of 96.31 against the dollar as benchmark indices marked their longest weekly losing run in 25 years. Amidst the turmoil, HDFC Bank announced a leadership transition while Nykaa introduced a new zero-commission model for apparel brands.",
-  "updatedAt": "2026-10-01T14:02:10.043Z",
+  "summary": "The Indian stock market suffered a major crash with the Sensex dropping over 1,000 points due to aggressive FII selling and high global bond yields. While the broader market hit 52-week lows, HDFC Bank and major IT stocks saw positive movement in their ADRs. Sebi also made headlines by putting a major IPO in abeyance and revamping its document verification system.",
+  "updatedAt": "2026-10-01T15:01:50.993Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-01",
   "articleKeys": [
-    "inox clean energy ipo papers kept in abeyance by sebi",
-    "reliance home finance case cbi files second charge sheet",
-    "sebi asks stock brokers to display investor warnings on apps and websites",
-    "carlsberg india ipo gets sebi approval along with three other public offers check details",
-    "hdfc bank board appoints anup bagchi as md ceo with effect from october 27",
-    "lure holdings eyes 25 billion in annual branded realty projects in india",
-    "bharat dynamics among 5 capital goods stocks that hit 52week lows and slipped up to 17 in a month",
-    "nykaa fashion offers sixmonth zerocommission model for apparel brands",
-    "rupee slumps 37 paise to close at 9631 against us dollar",
-    "theyd be wiped off trump says saudi arabia israel wouldnt exist if he wasnt president",
+    "sebi revamps document number verification system adds subject matter as mandatory field",
+    "uk pound falls to threemonth lows as investors fret over rates oil",
+    "uk 30year gilt yields top 6 for the first time since 1998",
+    "good days ahead hdfc bank sources say anup bagchi brings the handson execution missing earlier",
+    "asian games 2026 day 13 highlights indias hockey thriller cricket final and more",
+    "hdfc bank adrs spike 4 as icici group veteran anup bagchi gets ceo charge",
+    "gandhi jayanti 2026 why is october 2 observed as gandhi jayanti history and significance",
+    "accenture shares jump record 22 on earnings boost infosys wipro adrs spike up to 10",
+    "sebi keeps inox clean energys ipo papers to raise 10k cr in abeyance",
+    "jio platforms ipo in final stages after concluding worldwide roadshows",
     "why did market crash today sensex drops 571 points nifty nears 22450 5 key factors behind rs 5 lakh cr the economic times",
     "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
+    "stock market extends losing streak to four sessions sensex hits fresh 52week low the federal",
     "sensex down 1000 points why is stock market falling today india today",
     "mtnl kotak bank sterlite tech among buzzing stocks as sensex nifty50 tumble over 1 in noon deals upstox",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
-    "market crash sensex sinks 1280 pts intraday at 2026 low nifty at 22200 business standard",
-    "another stock market crash nifty sensex tank fii selling high bond yields among 5 reasons behind big plunge livemint",
-    "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 timesofindiaindiatimescom"
+    "market crash sensex sinks 1280 pts intraday at 2026 low nifty at 22200 businessstandardcom",
+    "another stock market crash nifty sensex tank fii selling high bond yields among 5 reasons behind big plunge livemint"
   ],
   "articles": [
     {
-      "title": "Inox Clean Energy IPO papers kept in abeyance by Sebi",
+      "title": "Sebi revamps Document Number Verification System, adds subject matter as mandatory field",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-ipo-papers-kept-in-abeyance-by-sebi/articleshow/134620687.cms",
-      "publishedAt": "Thu, 01 Oct 2026 18:58:06 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revamps-document-number-verification-system-adds-subject-matter-as-mandatory-field/articleshow/134621918.cms",
+      "publishedAt": "Thu, 01 Oct 2026 19:58:00 +0530"
     },
     {
-      "title": "Reliance Home Finance case: CBI files second charge sheet",
+      "title": "UK pound falls to three-month lows as investors fret over rates, oil",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/reliance-home-finance-case-cbi-files-second-charge-sheet/article71533043.ece",
-      "publishedAt": "Thu, 01 Oct 2026 18:52:24 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-pound-falls-to-three-month-lows-as-investors-fret-over-rates-oil/articleshow/134621868.cms",
+      "publishedAt": "Thu, 01 Oct 2026 19:53:53 +0530"
     },
     {
-      "title": "Sebi asks stock brokers to display investor warnings on apps and websites",
+      "title": "UK 30-year gilt yields top 6% for the first time since 1998",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-asks-stock-brokers-to-display-investor-warnings-on-apps-and-websites/articleshow/134620344.cms",
-      "publishedAt": "Thu, 01 Oct 2026 18:42:28 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-top-6-for-the-first-time-since-1998/articleshow/134621852.cms",
+      "publishedAt": "Thu, 01 Oct 2026 19:52:13 +0530"
     },
     {
-      "title": "Carlsberg India IPO gets Sebi approval along with three other public offers. Check details",
+      "title": "'Good Days Ahead': HDFC Bank Sources Say Anup Bagchi Brings The Hands-On Execution Missing Earlier",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-india-ipo-gets-sebi-approval-along-with-three-other-public-offers-check-details/articleshow/134620190.cms",
-      "publishedAt": "Thu, 01 Oct 2026 18:40:55 +0530"
+      "link": "https://www.ndtvprofit.com/business/good-days-ahead-hdfc-bank-sources-say-anup-bagchi-brings-the-hands-on-execution-missing-earlier-12126271#publisher=newsstand",
+      "publishedAt": "Thu, 01 Oct 2026 19:35:46 +0530"
     },
     {
-      "title": "HDFC Bank board appoints Anup Bagchi as MD, CEO with effect from October 27",
+      "title": "Asian Games 2026 Day 13 Highlights: India’s Hockey Thriller, Cricket Final And More",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/people/hdfc-bank-board-appoints-anup-bagchi-as-md-ceo-with-effect-from-october-27-126100101096_1.html",
-      "publishedAt": "Thu, 01 Oct 2026 18:40:53 +0530"
+      "link": "https://www.ndtvprofit.com/sports/asian-games-2026-day-13-highlights-india-hockey-thriller-cricket-final-and-more-check-results-aichi-nagoya-20th-asiad-12126112#publisher=newsstand",
+      "publishedAt": "Thu, 01 Oct 2026 19:32:38 +0530"
     },
     {
-      "title": "Lure Holdings eyes $2.5 billion in annual branded realty projects in India",
+      "title": "HDFC Bank ADRs Spike 4% As ICICI Group Veteran Anup Bagchi Gets CEO Charge",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/lure-holdings-eyes-2-5-billion-in-annual-branded-realty-projects-in-india-126100101072_1.html",
-      "publishedAt": "Thu, 01 Oct 2026 18:37:40 +0530"
+      "link": "https://www.ndtvprofit.com/markets/hdfc-bank-adrs-spike-4-as-ex-icici-group-veteran-anup-bagchi-gets-ceo-charge-12125994#publisher=newsstand",
+      "publishedAt": "Thu, 01 Oct 2026 19:31:26 +0530"
     },
     {
-      "title": "Bharat Dynamics among 5 capital goods stocks that hit 52-week lows and slipped up to 17% in a month",
+      "title": "Gandhi Jayanti 2026: Why Is October 2 Observed As Gandhi Jayanti? History And Significance",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-among-5-capital-goods-stocks-that-hit-52-week-lows-and-slipped-up-to-17-in-a-month/slideshow/134619866.cms",
-      "publishedAt": "Thu, 01 Oct 2026 18:23:47 +0530"
+      "link": "https://www.ndtvprofit.com/trending/gandhi-jayanti-2026-why-october-2-is-observed-as-gandhi-jayanti-know-its-history-12123470#publisher=newsstand",
+      "publishedAt": "Thu, 01 Oct 2026 19:30:30 +0530"
     },
     {
-      "title": "Nykaa Fashion offers six-month zero-commission model for apparel brands",
+      "title": "Accenture Shares Jump Record 22% On Earnings Boost; Infosys, Wipro ADRs Spike Up To 10%",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/nykaa-fashion-offers-six-month-zero-commission-model-for-apparel-brands-126100100970_1.html",
-      "publishedAt": "Thu, 01 Oct 2026 18:23:13 +0530"
+      "link": "https://www.ndtvprofit.com/markets/accenture-shares-jump-record-22-on-earnings-boost-infosys-wipro-adrs-spike-up-to-10-12126221#publisher=newsstand",
+      "publishedAt": "Thu, 01 Oct 2026 19:29:39 +0530"
     },
     {
-      "title": "Rupee slumps 37 paise to close at 96.31 against U.S. dollar",
+      "title": "Sebi keeps Inox Clean Energy's IPO papers to raise ₹10K cr in abeyance",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/rupee-slumps-37-paise-to-close-at-9631-against-us-dollar/article71532954.ece",
-      "publishedAt": "Thu, 01 Oct 2026 18:22:46 +0530"
+      "link": "https://www.business-standard.com/companies/news/sebi-keeps-inox-clean-energy-s-ipo-papers-to-raise-10k-cr-in-abeyance-126100101123_1.html",
+      "publishedAt": "Thu, 01 Oct 2026 19:29:21 +0530"
     },
     {
-      "title": "\"They'd Be Wiped Off': Trump Says Saudi Arabia, Israel Wouldn't Exist If He Wasn't President",
+      "title": "Jio Platforms IPO in final stages after concluding worldwide roadshows",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/theyd-be-wiped-off-trump-says-saudi-arabia-israel-wouldnt-exist-if-he-wasnt-president-12125810#publisher=newsstand",
-      "publishedAt": "Thu, 01 Oct 2026 18:10:26 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-in-final-stages-after-concluding-worldwide-roadshows/articleshow/134621273.cms",
+      "publishedAt": "Thu, 01 Oct 2026 19:27:17 +0530"
     },
     {
       "title": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - The Economic Times",
@@ -196,6 +197,12 @@
       "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
     {
+      "title": "Stock market extends losing streak to four sessions; Sensex hits fresh 52-week low - The Federal",
+      "source": "The Federal",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUU3SVN0YWNiaHpsUE1jV3RqWnF0Nk85ZEVmUVVFenBHcUZSbG0yLTk0dERLWk43TkM0dUk3NjlYTDRMdVJtNkJCclBDRWRick96Q3JrMUFYUXNIQ1V0M2MtY2tOYy1hbzh6aWE2T2ZXSF9DQTc5SDk1b0NzU09hYTI4clQydHA3MlRhYUZSeTE0TVBQS1g5SkNlRmRyUHNmLTlSLWItbmJyN0NKa181NkJmMDhaUk5HZDNwb1Zn?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 12:43:35 GMT"
+    },
+    {
       "title": "Sensex down 1,000 points: Why is stock market falling today? - India Today",
       "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUzhHNDRWenc5b2tpY1ZxbnJ1dm1RdU5yM012REpBTTBodmpaWXQwSjBoN2p5bWZfaHBsYU1FMzJQWVlxMDVycnV5Z0RqcmV6M2RVenVnRmsydmdEX3h5VWpmQ08xYnhremxaM2duNUQ4T3VRMldyMDJFWW53eHBSellKLW1tOHFoeW9uRnE2ZUNkcUpLalRfbGh6dl8tQUR2TWZSOGNmYTZPMGEtQi1tVXdpd3BjZkVYMG9hNUJZMWh3Q1Y3NWNsSGlfRjdBTVRqMUxicmJWSWZtRnRmd051TWFHOTJLNk1MMGx1X2ZRN3gxUdIB9wFBVV95cUxQOUJDYlJNVnM3d0t5YUszbTl0NDFhY3EySFBsUkZOUU5YVzkxSTIzanF3ZXpSaUV2ODdLUVg5SENhSERXZElNOGMwLVFiVExYbl9lX2t0SEJJMjV0WmRhNUNkYVZvTHhOQ0ZUM2U5VFlHMUJvbGxxMTA3eDlTRFVuZUFBNzlrYXZ1cVdmb1BvWXZQSEN2aXNCRkRmM251dDBLa0VZUWt1Mkp3eV9kMy1GT3RkS1Ewc1p1Wl91dW9SbGt5Q21iZ0NTRXgxRkZLVkRPVnhqa19rdDRHTVZUZUtpX0l1UjdLU2Z2WUFWam9PWjg0LVVfa1Zr?oc=5",
@@ -214,8 +221,8 @@
       "publishedAt": "Wed, 30 Sep 2026 02:24:00 GMT"
     },
     {
-      "title": "Market crash: Sensex sinks 1,280 pts intraday, at 2026 low; Nifty at 22,200 - Business Standard",
-      "source": "Business Standard",
+      "title": "Market crash: Sensex sinks 1,280 pts intraday, at 2026 low; Nifty at 22,200 - business-standard.com",
+      "source": "business-standard.com",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTHpDWE11V1pCNXh1VVZHaU5Xa1JHR2pQUnNGeVZHZ24yOTJocURtU001VkhqS2Z1LXZQVkVLUlMzd1hFTGhzVWxyM3NDNy1kOFhobVhiY2Jva0tGYTJJaEFSUWNaMnlzTGlFOTNVaDRnMTZWQkMzSXphSTg3RHdZX01jbXEwMVZSOFJiRzdrZk9uVmU4Uk1jMW5RNDFNM3lDZmwxa2J0bE1EbDVsamZ6R0xYRU1HOHJ2TlVKeXQzWV85RU9FazNKQTdHdk9TcFNDeEowTW82YmtNLXZiTmRpeklWajdSOWpaYUlRZlZ3UlFpQdIB9wFBVV95cUxQQTFLYlpldG45QnpuNHhmZEhJajBnN1B6VjRISnliaWEtRDVJcWFPOXJIYzktdW9pZFBfYnlqZmVIUXItamZuc0dMVXZNUzlmMDlpc3A2TG5LM3I5d0JpV3haalpwNnEyLXprM0hHOGJBYjBvWlVTdzJVMHJHZDU1U0VRNkxNMzhlUGs2MzVaT1hKS2hGd3RzeWNFWVdGeWQwbmxpbGFwNWhWSDI1MDJIaGJXM2Vsb2JocnZ4WlpFdC1CZVF3c0ZrWnpOaGhtbmFfSlZjTUFVSGJBR3N1cnNqV3JkNjJPeHRKNkNKYmwwSE12ZEptcXdr?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 08:19:39 GMT"
     },
@@ -224,12 +231,6 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdTNRb3hkb09CSHJoak5QRXhGQmxTZU50RVB6UTZLM2k5UndlM1lHbmliQUgwaXlIelJGZVpUc2F2cUdNUDYtRFd2SngzZFpFZjdsQWN0LWFhVDBuaXlBRDZwb0xGVHpaQUNtSE5NNlVtSzdFa3BrRTdBZkVnVUNKNTluNFBPWnpmNVIzUkQ2RVptelZmZmszS1FtelRDeFNfRTZmaWdMWUZGVnpvSnZlZnhXX05uUTZWZzhfMkVzUE5NUjdaOGNrRmM5eU9sM3BmaENuVkhxd196ODFwdDVRbDNrUF9NU05iNlo2VFUtVkp4Z9IB9wFBVV95cUxNekxXdFZqNlZFVzRMaGRoZEt1UFlranNSS3lDMXBjd1dhUnpyeU1jSGJzOGZVOUh3MXBvZU9aMDN5QTFsNFV1dF9iVXR5Sk1wNTVSVFRzcnF6V19veUY5QjdGNDZGdzZMLTBtNmdWdGc1Z3RJaXgzd3RFd0xyOXF5NmtPNmczVzFwV1d0NEhnRXBUdldoaDBRajA3bjRham9Ldm5nZ01udkd5Snhwd2dvR1BDNThxTktzdDFVbzhxVHFXb1VPemdPRGhMTjVFZl9HRl9TOG9nVE1vUWt3U3JaRG1mQmZlMnNURWhTeHpqNXd1YXBQN21v?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 07:51:09 GMT"
-    },
-    {
-      "title": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFJQdUVBNmhGOF9naWYwc1VCWWozTGVwOWl1b082TGI2bmppQVQ5dmxfUWo0RGhBQ29IU29vaUJ1cDZCNEJoelpMc2g0eGhldHVGdy1WeWcxVEtZcDBDNDlfRkxNZnRFMURFLUVfY1U2UG1YTk1vampZZUozYjEzU3JGbDRWNkhhVU5qVy1qcVlhdWxFa2YzX19vSjZ4NEl0dk1reVhEMXlPb1RTTzdkNENIS2RraEdzTTlBXzFteWpPMkpkUk9MdEJqaG91ZTlUSll2UEVwcjNoM0FDdFJQVUJCM0JLQTZzS0xTVkNJQ3VIYUVyV2czYWxBLXRUNzlPUkwtTHFTNUs0cGE3VWdj0gGUAkFVX3lxTE55LTJyNkZRSldBTGdKNnM1THNXOEtPQ3FZaXdOWmhNMEVtby05Y0xaZV9QSlFuNDg3TFlfZlNpb1Z1eTI1S1ZaZDJVeGwxcktWMW9pbWxRZk83ZE1scnkxWGlVOGhDQUJJNWtnTS1MWV9BcDdKRmYybmZSVEJydVdzS1dTVGdvM0c0R09GdUEzd3Zfb3pmMXdSMGUwTk5uZ0xTTlRmV2NZWTV1M0FjWmlQZ1k3aW0wZE52QmlpeTI4bzFHTEtnbjRRZWtzb1NrTnE5dU1XX1ZQV2cxazdKZlRCNmZ6UkNSaVNnVGZVZVV4R21xZ2ZfOVBzcGZ2N3l2RkI3aGpqNnNJWjdTNnFwYnNQNEt0bw?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 03:54:00 GMT"
     }
   ]
 }
