@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex and Nifty crashed as foreign investors sold stocks, marking the longest weekly losing run in 25 years",
+  "headline": "Last session: Sensex crashed 1,000 points as Indian markets recorded their longest weekly losing run in 25 years.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Monday, 5 October"
   },
   "why": [
-    "Foreign investors sold Indian stocks en-masse leading to a massive wealth erosion",
-    "Global rate hikes and rising oil prices sparked significant capital outflows",
-    "The market recorded its eighth consecutive week of losses, the longest streak in 25 years",
-    "Benchmark indices hit fresh 52-week lows during a broad-based market sell-off"
+    "Foreign investors selling Indian stocks en-masse",
+    "Concerns over global rate hikes sparking outflows",
+    "Rising oil prices impacting market sentiment",
+    "Longest weekly losing streak recorded in 25 years"
   ],
   "whatHappening": [
-    "Sensex dropped over 570 points at closing while Nifty 50 slipped below the 22,300 mark intraday",
-    "Investors lost approximately ₹9.5 lakh crore in value during the last trading session",
-    "The government capped sugar stock limits for dealers at 1,000 quintals ahead of the festive season",
-    "Indian Bank is considering waiving the 0.28% Merchant Discount Rate on UPI transactions"
+    "Sensex and Nifty tumbled over 1% during the last trading session",
+    "Investor wealth worth over ₹9 lakh crore was wiped out in a single day",
+    "Indian benchmark shares logged their worst month since March",
+    "Government capped sugar stock limits for dealers at 1,000 quintals ahead of festive season"
   ],
   "stocksInNews": [
     {
@@ -28,19 +28,11 @@
       ]
     },
     {
-      "symbol": "ADANIENT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
       "symbol": "MTNL",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        19
+        16
       ]
     },
     {
@@ -48,7 +40,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        19
+        16
       ]
     },
     {
@@ -56,12 +48,20 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        19
+        16
+      ]
+    },
+    {
+      "symbol": "ADANIENT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        9
       ]
     }
   ],
-  "summary": "On the last trading day, Indian markets suffered a major crash with the Sensex falling over 570 points amid heavy foreign institutional selling. This downturn marked the eighth straight week of losses, wiping out nearly ₹9.5 lakh crore in investor wealth. Markets are closed today for a holiday and will resume trading on Monday.",
-  "updatedAt": "2026-10-01T20:02:18.706Z",
+  "summary": "The Indian stock market is closed today for an NSE holiday following a brutal session where the Sensex crashed 1,000 points. Foreign investor sell-offs and global economic concerns led to the longest weekly losing streak in 25 years. Trading will resume on Monday, 5 October.",
+  "updatedAt": "2026-10-01T20:31:25.301Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-02",
   "articleKeys": [
@@ -77,14 +77,14 @@
     "from airports to dharavi redevelopment pranav adani highlights rs 6 lakh crore maharashtra blueprint",
     "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
     "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "indian benchmark shares post longest weekly losing run in 25 years reuterscom",
+    "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
     "stock market crash how investors lost 95 lakh crore in over an hour top losers of sensex nifty livemint",
     "indian stock market loses 8th straight week wiped out 95 lakh crore in a day wion",
-    "stock market extends losing streak to four sessions sensex hits fresh 52week low the federal",
-    "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuterscom",
+    "mtnl kotak bank sterlite tech among buzzing stocks as sensex nifty50 tumble over 1 in noon deals upstox",
+    "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
     "over rs 1000000000000 wiped out sensex crashes 1000 points nifty 50 slips below 22300 ndtv profit",
-    "mtnl kotak bank sterlite tech among buzzing stocks as sensex nifty50 tumble over 1 in noon deals upstox"
+    "sensex down 1000 points why is stock market falling today india today"
   ],
   "articles": [
     {
@@ -160,8 +160,8 @@
       "publishedAt": "Thu, 01 Oct 2026 01:20:10 GMT"
     },
     {
-      "title": "Indian benchmark shares post longest weekly losing run in 25 years - reuters.com",
-      "source": "reuters.com",
+      "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 02:25:00 GMT"
     },
@@ -184,14 +184,14 @@
       "publishedAt": "Thu, 01 Oct 2026 17:40:00 GMT"
     },
     {
-      "title": "Stock market extends losing streak to four sessions; Sensex hits fresh 52-week low - The Federal",
-      "source": "The Federal",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUU3SVN0YWNiaHpsUE1jV3RqWnF0Nk85ZEVmUVVFenBHcUZSbG0yLTk0dERLWk43TkM0dUk3NjlYTDRMdVJtNkJCclBDRWRick96Q3JrMUFYUXNIQ1V0M2MtY2tOYy1hbzh6aWE2T2ZXSF9DQTc5SDk1b0NzU09hYTI4clQydHA3MlRhYUZSeTE0TVBQS1g5SkNlRmRyUHNmLTlSLWItbmJyN0NKa181NkJmMDhaUk5HZDNwb1Zn?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 12:43:35 GMT"
+      "title": "MTNL, Kotak Bank, Sterlite Tech among buzzing stocks as SENSEX, NIFTY50 tumble over 1% in noon deals - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeDhPUXpPRDdPQkpVSjFaUDNlTzdWRDhteXBESHA0UVpJTVJ2ZG15RWhpaTdnOENiMkdHdGN4aS1wZ2JKX2F3d3QxU2NwT1VoVUNObDNscHlKVlNrZGVsdVoxd1NJWU5uWE11Si0ySXdLQnF1QjVUSjFOajR1cGx6NW9fWnVubUZBbGNfT2lubE1hNHFVWTMzaDcxUlpNb3RKYVluOU9uSjE2M0xNcXRlMm5jSjlweVgtQ01iYjI4eGVpZWx2dS1HTHZpN2Q3enBEbzdUMWVfb19tZDZoTG5hZ0hfSVZNZktHZmtfMA?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 08:24:30 GMT"
     },
     {
-      "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - reuters.com",
-      "source": "reuters.com",
+      "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 02:24:00 GMT"
     },
@@ -202,10 +202,10 @@
       "publishedAt": "Thu, 01 Oct 2026 07:45:30 GMT"
     },
     {
-      "title": "MTNL, Kotak Bank, Sterlite Tech among buzzing stocks as SENSEX, NIFTY50 tumble over 1% in noon deals - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeDhPUXpPRDdPQkpVSjFaUDNlTzdWRDhteXBESHA0UVpJTVJ2ZG15RWhpaTdnOENiMkdHdGN4aS1wZ2JKX2F3d3QxU2NwT1VoVUNObDNscHlKVlNrZGVsdVoxd1NJWU5uWE11Si0ySXdLQnF1QjVUSjFOajR1cGx6NW9fWnVubUZBbGNfT2lubE1hNHFVWTMzaDcxUlpNb3RKYVluOU9uSjE2M0xNcXRlMm5jSjlweVgtQ01iYjI4eGVpZWx2dS1HTHZpN2Q3enBEbzdUMWVfb19tZDZoTG5hZ0hfSVZNZktHZmtfMA?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 08:24:30 GMT"
+      "title": "Sensex down 1,000 points: Why is stock market falling today? - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUzhHNDRWenc5b2tpY1ZxbnJ1dm1RdU5yM012REpBTTBodmpaWXQwSjBoN2p5bWZfaHBsYU1FMzJQWVlxMDVycnV5Z0RqcmV6M2RVenVnRmsydmdEX3h5VWpmQ08xYnhremxaM2duNUQ4T3VRMldyMDJFWW53eHBSellKLW1tOHFoeW9uRnE2ZUNkcUpLalRfbGh6dl8tQUR2TWZSOGNmYTZPMGEtQi1tVXdpd3BjZkVYMG9hNUJZMWh3Q1Y3NWNsSGlfRjdBTVRqMUxicmJWSWZtRnRmd051TWFHOTJLNk1MMGx1X2ZRN3gxUdIB9wFBVV95cUxQOUJDYlJNVnM3d0t5YUszbTl0NDFhY3EySFBsUkZOUU5YVzkxSTIzanF3ZXpSaUV2ODdLUVg5SENhSERXZElNOGMwLVFiVExYbl9lX2t0SEJJMjV0WmRhNUNkYVZvTHhOQ0ZUM2U5VFlHMUJvbGxxMTA3eDlTRFVuZUFBNzlrYXZ1cVdmb1BvWXZQSEN2aXNCRkRmM251dDBLa0VZUWt1Mkp3eV9kMy1GT3RkS1Ewc1p1Wl91dW9SbGt5Q21iZ0NTRXgxRkZLVkRPVnhqa19rdDRHTVZUZUtpX0l1UjdLU2Z2WUFWam9PWjg0LVVfa1Zr?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 08:02:54 GMT"
     }
   ]
 }
