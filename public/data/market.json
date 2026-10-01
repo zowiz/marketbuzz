@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty trade lower amid auto sales slump and persistent foreign fund outflows",
+  "headline": "Sensex and Nifty trade lower as auto and hospital stocks slump; Kotak Mahindra Bank names new CEO.",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Relentless foreign fund outflows impacting early trade",
-    "Disappointing September auto sales data for major manufacturers",
-    "Supreme Court questions regarding steep markups in hospital charges",
-    "Global cues including US inflation and fluctuating oil prices"
+    "Relentless foreign fund outflows continue to weigh on market sentiment in early trade.",
+    "Weak September auto sales data triggered a sell-off in major automobile stocks like Bajaj Auto and M&M.",
+    "Healthcare and hospital stocks slumped following Supreme Court scrutiny over pricing markups.",
+    "Global factors including oil price volatility and US inflation data are keeping investors cautious."
   ],
   "whatHappening": [
-    "Sensex and Nifty are trading in a narrow range with a downward bias",
-    "Bajaj Auto shares tumbled 6% and M&M hit a 52-week low following sales data",
-    "Nifty Private Bank index rose 1% despite the broader market decline",
-    "Hospital stocks like Fortis and Apollo slumped up to 10% over two days"
+    "The Nifty 50 hovered around 22,550 while the Sensex moved in a narrow range during early sessions.",
+    "Kotak Mahindra Bank received RBI clearance for Anup Kumar Saha's appointment as the next MD & CEO.",
+    "TBO Tek shares rose 3% following a 'Buy' recommendation from Nuvama with a target of Rs 2,200.",
+    "Major hospital chains like Fortis and Apollo Hospitals saw shares drop up to 10% over two days."
   ],
   "stocksInNews": [
     {
@@ -25,6 +25,15 @@
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         2
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        0,
+        6
       ]
     },
     {
@@ -44,56 +53,44 @@
       ]
     },
     {
-      "symbol": "KOTAKBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
       "symbol": "FORTIS",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        7
+        7,
+        18
       ]
     },
     {
       "symbol": "APOLLOHOSP",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        7
+        7,
+        18
       ]
     },
     {
       "symbol": "BAJAJ-AUTO",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        9
+        9,
+        18
       ]
     },
     {
       "symbol": "M&M",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "MARUTI",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
+        9,
         18
       ]
     }
   ],
-  "summary": "Indian markets opened lower on October 1, pressured by weak auto sales and continued foreign selling. While private banks provided some support, healthcare and auto sectors dragged the indices down. Investors remain cautious ahead of global economic data and inflation concerns.",
-  "updatedAt": "2026-10-01T06:01:40.458Z",
+  "summary": "Indian markets opened lower on October 1, 2026, pressured by weak auto sales and foreign fund outflows. Auto majors Bajaj Auto and M&M saw significant declines, while hospital stocks slumped following regulatory concerns. Conversely, Kotak Mahindra Bank and TBO Tek showed resilience amid positive corporate developments.",
+  "updatedAt": "2026-10-01T06:28:43.629Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-01",
   "articleKeys": [
@@ -112,11 +109,11 @@
     "stock market close sensex slumps 1124 pts nifty settles at 22780 nifty psu bank falls 3 business standard",
     "closing bell market fails to hold gains nifty at 22620 sensex flat amid volatility moneycontrolcom",
     "monday mayhem sensex settles 1100 pts lower nifty ends below 22800 key factors behind market crash moneycontrolcom",
+    "share market live share market today latest share market news share market live updates on the economic times the economic times",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
     "stock market fails to hold gains sensex declines 215 points nifty down 10725 points telegraph india",
     "sensex nifty open lower as auto healthcare stocks fall hdfc sky",
-    "sensex today trades 113 points lower nifty below 22600 eternal maruti suzuki top losers equitymaster",
-    "stock market today gift nifty us inflation to oil prices five key factors for sensex nifty 50 on october 1 ndtvprofitcom"
+    "stock market today gift nifty us inflation to oil prices five key factors for sensex nifty 50 on october 1 ndtv profit"
   ],
   "articles": [
     {
@@ -210,6 +207,12 @@
       "publishedAt": "Mon, 28 Sep 2026 04:07:02 GMT"
     },
     {
+      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 23:49:01 GMT"
+    },
+    {
       "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
@@ -228,14 +231,8 @@
       "publishedAt": "Thu, 01 Oct 2026 04:46:28 GMT"
     },
     {
-      "title": "Sensex Today Trades 113 Points Lower | Nifty Below 22,600 | Eternal & Maruti Suzuki Top Losers - Equitymaster",
-      "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNcFp1YXI0UFpqaGxNYXA4WXNhNGJnTE9SWEpNanZHbEZlMGE3cHE5a3dkSnU4ZDI2M000XzhMU00tQzBuQ3pSaE5QWWRiUWljb09ZdUx1bmlhRVkxdUxpUmcwNHpvT2V0aXZ5NTF3WVBqRUIweC02Y29KcGdBenFNU3VIZm52alh2RkFIYTdGZTdLM2JWVmRpN09LbGpQcW1CMF9SQUY0b0pvOVdsa0h5cHljR0k3NWQ1b0FPLU9LU3NYRnNYaElFSkVUUS1FVHMtVkx5aHMtSXlpdlI3eVNwV2NxMnZhZ1dTRW1XbVFlNHZVRDZVNktrOERNc3NHdjhxQlY5NTZJVDBIdktyN0plTUN3TXlnR3M4eEdmRkplVHAzcEZ3YThaZjB1Unh5OERhUmFOTG5tTjZoUnI5M0tVTUI1c0VxWHpGRlE?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 04:45:44 GMT"
-    },
-    {
-      "title": "Stock Market Today: Gift Nifty, US Inflation To Oil Prices — Five Key Factors For Sensex, Nifty 50 On October 1 - ndtvprofit.com",
-      "source": "ndtvprofit.com",
+      "title": "Stock Market Today: Gift Nifty, US Inflation To Oil Prices — Five Key Factors For Sensex, Nifty 50 On October 1 - NDTV Profit",
+      "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaEVHTnNhYVIzWDhEOHhFMG9PNEt5VEhJbWZrZXhtM0lYMElTRnhoaW0tODVDanNrV1hySWZkMk9rN2l6eXNvM0hENGhUclNLNnVNUFQwNlVKUmZNTTZqUDB0ZEdrOVJzbHdqRWZjajltYnlSY0V6XzdHZEF6dWxxdHlCaV9iaXBFSkZJMGtOLWY4c3V3STB4czV1NTlQX05iZWJzV3ZpNHprOWIzRkJHMzVsYkR0anVONmhSUERoQV9GUDVTLUpJRWdkdkg2QTR3bmdxdTM5YjZaWHQ3QmhQYmY2ay12S0tieS1XdDZfZGNLNFXSAfsBQVVfeXFMTWhZQnJ2QTdUQmtHa21LT0pxenJ6WXBiVmJMVEdwNDJoVnRfdXFLd1MxQTRCS3NzSTVTOWlWVGJ0d2xsQ3NmVzYySHFBZkpSelA3TFYzel9fcVBKcTY4RGRZZUsyVS1OOXpsU3kyTjNZajVRT2hOamZkZXRQSG5qRnVOYjBMbWhwY2hGX1RXOGlNMUpSSFZackJBcEFNRTZDOUxBZ2M2cTRUQTAySzFlTHh1UmxWQnhhLVRhV3hWYlA1WXlYWERzcnV3cVl1LWFSYTNsZ24ydlNHbHpVM0lmNnFaWVVOaDB0VExFcU5FSllWNVNGcDN2aE1ZZzQ?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 01:47:49 GMT"
     }
