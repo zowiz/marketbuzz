@@ -1,22 +1,22 @@
 {
-  "headline": "Last session: Sensex and Nifty plunged as Indian markets recorded their longest weekly losing streak in 25 years",
+  "headline": "Last session: Sensex and Nifty slumped as Indian markets recorded their eighth consecutive weekly loss amid heavy FII selling.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Tuesday, 6 October.",
-    "nextOpen": "Tuesday, 6 October 2026"
+    "nextOpen": "Tuesday, 6 October"
   },
   "why": [
-    "Foreign institutional investors (FIIs) sold Indian stocks en-masse",
-    "Global risks and rising oil prices sparked significant capital outflows",
-    "Concerns over global rate hikes impacted investor sentiment",
-    "The market is closed today in observance of Gandhi Jayanti"
+    "Aggressive selling by foreign institutional investors (FIIs) across Indian equities",
+    "Concerns regarding global risks and the impact of volatile oil prices",
+    "Global rate hike expectations sparking significant capital outflows from emerging markets",
+    "Weak global cues and persistent selling pressure in heavyweight stocks"
   ],
   "whatHappening": [
-    "The Sensex dropped 570.59 points while the Nifty closed at 22,421.95 in the last session",
-    "Indian benchmark shares logged their worst month since March due to global economic pressures",
-    "Reliance Industries announced a major ₹1 trillion investment plan for Andhra Pradesh",
-    "ICICI Prudential Life Insurance underwent a leadership transition with a new MD & CEO appointment"
+    "Indian benchmark indices recorded their eighth consecutive week of losses, the longest streak in 25 years",
+    "Reliance Industries announced a massive ₹1 trillion investment plan for projects in Andhra Pradesh",
+    "ICICI Prudential Life Insurance appointed Sidharatha Mishra as the new MD and CEO",
+    "Nearly ₹9 lakh crore in investor wealth was wiped out as the Sensex crashed during the last session"
   ],
   "stocksInNews": [
     {
@@ -45,14 +45,6 @@
       ]
     },
     {
-      "symbol": "MARUTI",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
       "symbol": "BAJAJ-AUTO",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
@@ -67,10 +59,18 @@
       "articleIds": [
         18
       ]
+    },
+    {
+      "symbol": "MARUTI",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3
+      ]
     }
   ],
-  "summary": "Indian markets are closed today for Gandhi Jayanti following a volatile session where benchmarks extended their losing streak to eight consecutive weeks. Significant foreign investor selling and global macro concerns led to the Sensex and Nifty posting their longest weekly decline in 25 years. Despite the downturn, corporate activity remained high with major investment announcements from Reliance and leadership changes at ICICI Prudential Life and HDFC Bank.",
-  "updatedAt": "2026-10-02T14:01:51.301Z",
+  "summary": "Indian markets are closed today for Gandhi Jayanti after the last session concluded a historic eighth consecutive weekly loss. The downturn was fueled by massive FII selling and global economic concerns, wiping out significant investor wealth. Despite the market slump, Reliance announced a major investment plan while ICICI Prudential Life named new leadership.",
+  "updatedAt": "2026-10-02T14:34:35.573Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-02",
   "articleKeys": [
@@ -87,11 +87,11 @@
     "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
     "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
-    "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom",
     "stock market sensex nifty extend losing streak to 8th consecutive week amid fii selling global risks etv bharat",
-    "stock market holiday bse nse closed today gandhi jayanti 2nd october 2026 how sensex nifty fared on thursday livemint",
-    "stock market holiday bse nse closed today for gandhi jayanti business standard",
+    "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
+    "stock market holiday bse nse closed today gandhi jayanti 2nd october 2026 how sensex nifty fared on thursday livemint",
+    "stock market holiday bse nse closed today for gandhi jayanti businessstandardcom",
     "weekly market wrap nifty50 sensex falls up to 3 marking 8th week of loss bajaj auto max health among top losers upstox",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters"
   ],
@@ -175,16 +175,22 @@
       "publishedAt": "Thu, 01 Oct 2026 02:25:00 GMT"
     },
     {
+      "title": "Stock Market: Sensex, Nifty Extend Losing Streak To 8th Consecutive Week Amid FII Selling, Global Risks - ETV Bharat",
+      "source": "ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQkJxYjdKY1ZaUEpvOGhTWkNjcWNJQkRtcHBSendLbURRWk13SGZ3dHNmVVN1X3M4dkVTU1MyNkdoZmVGSlRqOXVXbjEzX0FoaUJTQXZXODBQR01tcFAweUJuMmlvOTZoZE1JS294bEJoTExmb0g4Wl85RTZMYnI4bElEZkVxdDhxY3NEZWMwQUlkNmZKeFMtcm1nRW5yZndpRC1vOGtlbjE4UzhId3Q3djlNQ3lRRlk1d013ZHI0UGlaTHFzVDFkd1EwbGdaaTRSUGoyNWw2SnppNndNbjNhQVFOTzgzYXEt0gHuAUFVX3lxTE1UMl8xcEVfMW9lYjl0Q1JvZTExVXZmNm1EUG1vUlpKZlhZS1p6QWp5OF9zeHRNYmw2OE1ta0tUbU9pcmtybFNKbGdPcTZTNDZKYWNKQ0d1elNpcDlzdXVzQ2JrZE9KNlcxWXJaT1VZbVhZV01ybjJURnd1cHZ2SDNDMHJfdU5LVUZlbFJJRGY0Q3o1TGJhQTlYdFl2Y0k1eGJaQ0Y5NHhqMThGWEY2MXZyWXcxNmZxNTJRTWtfUnVOeGxzb2lNRFpTRWNfeGotR1dIeFB3SnBULWVfSVNGMTVMOHVDcjNPbEFreVBvbWc?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 09:56:56 GMT"
+    },
+    {
       "title": "Stock market holiday today on October 2: BSE, NSE to remain closed for Gandhi Jayanti - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSmFaV0tWVjhCSmdEeWtESzMxOFdMblhmWXJ2ZGo1RW1aQ0VualdKUG9VZlQxT1VSN0FiRGZsZS0wTjBkZnFNUzVBeldLOWZVeEhPMjZzWFB2SGZ4eEZ4S2VkTlJCLTlLRGtCcS1mQ1UxZUxtM21PSW5HZEhxNGxPbjZXa3g5WXN4RkhoYkFMWXBqbEcteHJVUmEtc2lRaVVDc2I5Mk9KSWtzbUluNENuamJfWk1vZlZJeUFkMEJxRFlLVEJvYUJNTzBpSnVhUnd6UkNtM0Vhcm5takoyZ0dZM2xXMXBkUFF0WEHSAe8BQVVfeXFMT3FmTE9kMS1wMzlEaFQ3WHQ2ZFdzeTV2MzY2MkJ0YW9nc1lNclJEdTlGUGMzcFE1SHpwNXBNLW9WWWVDSnk0eFZ4OEFtM2RWN3FUWXRIbTlyc2ZzYlN1MHJxa2puRkNRSDRxTS11SkNUWjJacFREeHpKbzliS19nY2dzb3ROTC1meDRuZnQ0ZUY0M0FkdlFVVlZsVGJhZllTaUdJMnVsdVVMejV1WDRiVkd4VE5nQnRnOGFLUUVUTHJvZFNfMUF4QjZVYldMNm9wMllHRzl3dTlzZmw1NndJbFNRb1VPQVlKZ3NUcEJFYmM?oc=5",
       "publishedAt": "Fri, 02 Oct 2026 00:47:28 GMT"
     },
     {
-      "title": "Stock Market: Sensex, Nifty Extend Losing Streak To 8th Consecutive Week Amid FII Selling, Global Risks - ETV Bharat",
-      "source": "ETV Bharat",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQkJxYjdKY1ZaUEpvOGhTWkNjcWNJQkRtcHBSendLbURRWk13SGZ3dHNmVVN1X3M4dkVTU1MyNkdoZmVGSlRqOXVXbjEzX0FoaUJTQXZXODBQR01tcFAweUJuMmlvOTZoZE1JS294bEJoTExmb0g4Wl85RTZMYnI4bElEZkVxdDhxY3NEZWMwQUlkNmZKeFMtcm1nRW5yZndpRC1vOGtlbjE4UzhId3Q3djlNQ3lRRlk1d013ZHI0UGlaTHFzVDFkd1EwbGdaaTRSUGoyNWw2SnppNndNbjNhQVFOTzgzYXEt0gHuAUFVX3lxTE1UMl8xcEVfMW9lYjl0Q1JvZTExVXZmNm1EUG1vUlpKZlhZS1p6QWp5OF9zeHRNYmw2OE1ta0tUbU9pcmtybFNKbGdPcTZTNDZKYWNKQ0d1elNpcDlzdXVzQ2JrZE9KNlcxWXJaT1VZbVhZV01ybjJURnd1cHZ2SDNDMHJfdU5LVUZlbFJJRGY0Q3o1TGJhQTlYdFl2Y0k1eGJaQ0Y5NHhqMThGWEY2MXZyWXcxNmZxNTJRTWtfUnVOeGxzb2lNRFpTRWNfeGotR1dIeFB3SnBULWVfSVNGMTVMOHVDcjNPbEFreVBvbWc?oc=5",
-      "publishedAt": "Fri, 02 Oct 2026 09:56:56 GMT"
+      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
     {
       "title": "Stock market holiday: BSE, NSE closed today | Gandhi Jayanti, 2nd October 2026; how Sensex, Nifty fared on Thursday - Livemint",
@@ -193,16 +199,10 @@
       "publishedAt": "Fri, 02 Oct 2026 01:56:44 GMT"
     },
     {
-      "title": "Stock market holiday: BSE, NSE closed today for Gandhi Jayanti - Business Standard",
-      "source": "Business Standard",
+      "title": "Stock market holiday: BSE, NSE closed today for Gandhi Jayanti - business-standard.com",
+      "source": "business-standard.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeW1pUlBTcVhWck1QcC1Zdk1EcWxiSnhORDBwT291RzZCb2JaYlVvT0dxMGVuWWp3b0ctam5raFFWT3ExOWpncmVKVUVHcDVIZVlLOHN2OFJfVF9hWWxzTEtXakhEX1k3cTBUT2l0YmlBcjJkcUhkQUtBLURqR2thRjNrdU5XSzdBTE55M1RlMVBOaXAybnF6SGRrVVAwX3JFQWNvRFBlTWJhemtuak53ZVNyQVJDeHV0ZnB0NFNUTnM3VkxBYUHSAcsBQVVfeXFMTnJ2X3ZPNzAyUlNYdlplOTVNRGVwZmI0LWRmVkhkSmNLVUFCYU1MX05ESUlaWnBadWs5RnNsSVdrZklDbmFzVTFvdDF4dDRpZFhaZ2IwdGZicVROU2ZKb2dQSDlObGNxd0pFeGppUFZFeUIzNUZ6M2U2d0dDbTdqNXpialhFV0syWG02T0RtaWNMZFlkY1FraEJ6dXZ2QzNkaHkzQmFsaFFSejNlRTAySC1XYWtqNVV3SkEwcDVLY0lMZk9sYko5ZG1qV3M?oc=5",
       "publishedAt": "Fri, 02 Oct 2026 01:50:17 GMT"
-    },
-    {
-      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
-      "source": "NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
     {
       "title": "Weekly market wrap: NIFTY50, SENSEX falls up to 3% marking 8th week of loss; Bajaj Auto, Max Health among top losers - Upstox",
