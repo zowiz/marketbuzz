@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex and Nifty fell sharply, marking an eighth straight week of losses amid heavy FII selling.",
+  "headline": "Last session: Sensex and Nifty plunged as Indian markets recorded their longest weekly losing streak in 25 years",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,24 +7,24 @@
     "nextOpen": "Tuesday, 6 October 2026"
   },
   "why": [
-    "Massive selling by foreign institutional investors (FIIs) in the Indian market",
-    "Concerns over global risks and rising oil prices impacting investor sentiment",
-    "Global interest rate hike fears sparking significant capital outflows",
-    "Indian benchmark shares posting their longest weekly losing run in 25 years"
+    "Foreign institutional investors (FIIs) sold Indian stocks en-masse",
+    "Global risks and rising oil prices sparked significant capital outflows",
+    "Concerns over global rate hikes impacted investor sentiment",
+    "The market is closed today in observance of Gandhi Jayanti"
   ],
   "whatHappening": [
-    "NSE and BSE are closed today, October 2, in observance of Gandhi Jayanti",
-    "The Sensex crashed significantly in the last session, wiping out approximately Rs 9 lakh crore in investor wealth",
-    "HDFC Bank ADRs rallied 3% in pre-market trading following a leadership appointment",
-    "Suzuki has instructed Indian suppliers to adopt a six-day production week to enhance quality"
+    "The Sensex dropped 570.59 points while the Nifty closed at 22,421.95 in the last session",
+    "Indian benchmark shares logged their worst month since March due to global economic pressures",
+    "Reliance Industries announced a major ₹1 trillion investment plan for Andhra Pradesh",
+    "ICICI Prudential Life Insurance underwent a leadership transition with a new MD & CEO appointment"
   ],
   "stocksInNews": [
     {
-      "symbol": "HDFCBANK",
+      "symbol": "RELIANCE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        7
+        4
       ]
     },
     {
@@ -32,15 +32,24 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1
+        0,
+        2
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        9
       ]
     },
     {
       "symbol": "MARUTI",
-      "sentiment": "Neutral",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2
+        3
       ]
     },
     {
@@ -60,22 +69,22 @@
       ]
     }
   ],
-  "summary": "Indian markets are closed today for Gandhi Jayanti after a volatile Thursday session where the Sensex and Nifty extended their losing streak to eight weeks. Heavy FII selling and global macro concerns led to a sharp decline, marking the longest weekly losing run in 25 years. Corporate highlights include leadership shifts at HDFC Bank and ICICI Life, and production changes for Suzuki suppliers.",
-  "updatedAt": "2026-10-02T13:31:33.113Z",
+  "summary": "Indian markets are closed today for Gandhi Jayanti following a volatile session where benchmarks extended their losing streak to eight consecutive weeks. Significant foreign investor selling and global macro concerns led to the Sensex and Nifty posting their longest weekly decline in 25 years. Despite the downturn, corporate activity remained high with major investment announcements from Reliance and leadership changes at ICICI Prudential Life and HDFC Bank.",
+  "updatedAt": "2026-10-02T14:01:51.301Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-02",
   "articleKeys": [
+    "icici prudential life appoints sidharatha mishra as new md ceo",
     "cjp shares legal contacts for protesters ahead of mumbai jail bharo andolan",
     "icici life insurance names siddhartha mishra md ceo as anup bagchi steps down",
     "suzuki tells india suppliers to adopt 6day production week amid quality push report",
+    "reliance plans 1 trillion investment in andhra pradesh says anant ambani",
     "dow jones nasdaq us stock market today live us stock futures rise as oil eases ahead of jobs report",
     "novartis chinas abogen ink 78 billion deal for mrna therapies",
     "rbi appoints sudhakar malli as executive director",
     "manchester city appeals independent commission decision over premier league rule breaches",
     "hdfc bank adrs extend rally jump 3 premarket after anup bagchi named md ceo",
-    "if claude can do the technical work what should scientists learn",
-    "global equity funds draw inflows for second week as ai optimism holds",
-    "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 timesofindiaindiatimescom",
+    "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
     "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom",
@@ -87,6 +96,12 @@
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters"
   ],
   "articles": [
+    {
+      "title": "ICICI Prudential Life appoints Sidharatha Mishra as new MD & CEO",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/people/icici-prudential-life-appoints-sidharatha-mishra-as-new-md-ceo-126100200741_1.html",
+      "publishedAt": "Fri, 02 Oct 2026 18:16:32 +0530"
+    },
     {
       "title": "CJP Shares Legal Contacts For Protesters Ahead Of Mumbai 'Jail Bharo Andolan'",
       "source": "Zerodha Pulse",
@@ -104,6 +119,12 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/business/suzuki-tells-india-suppliers-to-adopt-6-day-production-week-amid-quality-push-report-12129774#publisher=newsstand",
       "publishedAt": "Fri, 02 Oct 2026 17:50:04 +0530"
+    },
+    {
+      "title": "Reliance plans ₹1 trillion investment in Andhra Pradesh, says Anant Ambani",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/reliance-plans-1-trillion-investment-in-andhra-pradesh-says-anant-ambani-126100200642_1.html",
+      "publishedAt": "Fri, 02 Oct 2026 17:46:57 +0530"
     },
     {
       "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stock futures rise as oil eases ahead of jobs report",
@@ -136,20 +157,8 @@
       "publishedAt": "Fri, 02 Oct 2026 17:13:35 +0530"
     },
     {
-      "title": "If Claude Can Do The Technical Work, What Should Scientists Learn?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/if-claude-can-do-the-technical-work-what-should-scientists-learn-12128960#publisher=newsstand",
-      "publishedAt": "Fri, 02 Oct 2026 17:08:25 +0530"
-    },
-    {
-      "title": "Global equity funds draw inflows for second week as AI optimism holds",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-funds-draw-inflows-for-second-week-as-ai-optimism-holds/articleshow/134638303.cms",
-      "publishedAt": "Fri, 02 Oct 2026 17:06:13 +0530"
-    },
-    {
-      "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
+      "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - The Times of India",
+      "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWjBqWExwOHJfbDIteUk1NF9IeUptVjN1ejhMMXdMV1U3QWhKWERHQm1fekNZckpLRE5aME5EYmFKM2szRjNBRVYwVUNjaVV0MkY4OUg0cWdCVzd0ZWcxM3ZfS3lWNUt5QWJyRmZ0UUR5MDZlOENZQ2x6UFBaTlg2T3REekRXMVZQcHc4Y1l6MmpqR1ZHdV9NazlIcWRiTy03TGhyaHlqdHdTdy0tUjJ4ajJUbEFlNDltUzZsLXpaRlYwNWdnX3d2dDFZRWNqLVFMTnpCSUt2MFlBNURISUxRV29nOGhkY080UFlxQkxUZDFVY3JRTjJFR29pLVhjWlhOU1ZmXzMteGNBeVBSLUlOdG9reWZjZFhGNEtfdzhNWXFfTWpoOXBoUG5UNmNra1VLU3FPaNIBugJBVV95cUxOS1JVdnhFYnN6S092dEN2Z1dmejJ4Sld2Rl9nckhveTBoQ1BzN0RHb0hmS3FiMV9NaWRqRXI4eWtsREN6dkl0RzdxN1g0UDlFMkNTVUdkcG1CV3dGSkhYYlJGeGkyZ3NldkRNSmRPVXhDX1dKc2dMR0JYYk5KQ2JveDNuMXBidEdGNFRoZFVpbThhd1hXUDRBSE5weWxnV01oRXNJbGQyWDQzTUY1UGhjdmJ0R05FbFVBT3A4cEtfdkJHMmlEMk5vWkJSa3UyenZtaWhDSVk5eFdSRHkxV3FvZkpWcUVNNFJLQnNfLWdId0lua243Tm1vUkVLNG9VVk4yVVZrbUd4bE5jVmxoTW9ZZEM5dWVNQzFQTTRWQzdvVldfZGNKckdoNTdiUTg1UnJRb3R3OEtXTDBadw?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 12:11:55 GMT"
     },
