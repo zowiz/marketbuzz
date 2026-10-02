@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex fell 570 points as markets close today for Gandhi Jayanti holiday",
+  "headline": "Last session: Sensex and Nifty plunged as Indian benchmarks recorded their longest weekly losing streak in 25 years.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,29 +7,37 @@
     "nextOpen": "Monday, 5 October"
   },
   "why": [
-    "Foreign institutional investors engaged in en-masse selling of Indian equities, wiping out Rs 9 lakh crore in market value.",
-    "Rising crude oil prices and global rate hikes sparked continuous capital outflows.",
-    "US Treasury yields rose to 5.34%, reaching their highest level since 2002 and putting pressure on emerging markets.",
-    "Indian benchmark shares posted their longest weekly losing run in 25 years and recorded their worst month since March."
+    "NSE and BSE are closed today in observance of the Gandhi Jayanti holiday",
+    "Foreign investors sold Indian stocks en-masse during the previous trading session",
+    "Concerns over global rate hikes and rising oil prices sparked significant outflows",
+    "US Treasury yields reached their highest level since 2002 at 5.34%"
   ],
   "whatHappening": [
-    "BSE and NSE remain closed today, October 2, 2026, on account of Gandhi Jayanti.",
-    "In the last session, Sensex dropped 570.59 points while Nifty fell to 22,421.95.",
-    "Commodity markets including MCX are also closed today for the holiday.",
-    "Trading in Indian equity benchmark indices will resume on Monday, October 5."
+    "The Nifty 50 and Sensex marked their eighth consecutive week of losses",
+    "Approximately Rs 9 lakh crore of investor wealth was wiped out in the last session",
+    "Indian benchmark shares logged their worst monthly performance since March",
+    "Nifty valuations are currently approaching post-Covid lows according to analysts"
   ],
   "stocksInNews": [
     {
-      "symbol": "MCX",
-      "sentiment": "Neutral",
+      "symbol": "BAJAJ-AUTO",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        3
+        16
+      ]
+    },
+    {
+      "symbol": "MAXHEALTH",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        16
       ]
     }
   ],
-  "summary": "Indian stock markets are closed today, October 2, 2026, for Gandhi Jayanti. In the previous trading session, benchmark indices registered sharp declines as Sensex dropped over 570 points amid heavy foreign investor selling. Markets will reopen for regular trading on Monday, October 5.",
-  "updatedAt": "2026-10-02T05:01:33.761Z",
+  "summary": "Indian markets are closed today for Gandhi Jayanti following a sharp decline in the previous session where the Sensex and Nifty tumbled. The benchmarks have recorded their longest weekly losing run in 25 years amid heavy foreign fund outflows. Trading will resume on Monday, October 5.",
+  "updatedAt": "2026-10-02T05:31:23.403Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-02",
   "articleKeys": [
@@ -49,10 +57,10 @@
     "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom",
     "stock market holiday bse nse closed today gandhi jayanti 2nd october 2026 how sensex nifty fared on thursday livemint",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
+    "weekly market wrap nifty50 sensex falls up to 3 marking 8th week of loss bajaj auto max health among top losers upstox",
     "stock market holiday october 2 bse nse closed for gandhi jayanti telangana today",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
-    "stock market holiday bse nse closed today for gandhi jayanti business standard",
-    "stock market holiday bse nse to remain closed for 3day break check dates ndtvprofitcom"
+    "stock market holiday bse nse closed today for gandhi jayanti business standard"
   ],
   "articles": [
     {
@@ -152,6 +160,12 @@
       "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
     {
+      "title": "Weekly market wrap: NIFTY50, SENSEX falls up to 3% marking 8th week of loss; Bajaj Auto, Max Health among top losers - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObXdLMUV2eVRrS1hrZl9CS0FjNXZNRUZ1V1dKT0hwZ1d4NVlpZlUxTzJnbk96UUdzM0V3WlM1RW9DZEFsTVVxSG93LW0wQ0tNNTZrZ21CcV95YUIweXdfSkxULUotVnNIbkc5alVPcG9qdUNZcURWZjhuemhJRzgwa0tHZktmR2tsMjNqbExYZ1V1ZWZFcnotU2Z1UkpsaUZLX1VFQnhLMHBURDRwa1dubkZnSTVNWmI4b19EVy1BSDFmSFM3OHpqdlJaYmx0UU5TSXNUZWVqMUFKMXNFV1FkLVc1M181bmptUl9ZaGRzS1ZJQ29Kek53aktubmNoVnpN?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 04:58:41 GMT"
+    },
+    {
       "title": "Stock market holiday October 2: BSE, NSE closed for Gandhi Jayanti - Telangana Today",
       "source": "Telangana Today",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTdkYUFNemdmRzJSVm1SSTlQa0pYQVJEN3drNWtBeWdDSjF0eHdUTnoxVDZseHR1VWNWakdhUG5pelZaN2czQld0RGtHUG1yNlF6NUp0SllkSEpPaklaTU00MldIRkl4VGo5cDdZaHFyZ0Q1bnR0andtbC1kSDJrb09tM3M1eWhiYVJzRzd6Y09iWlRMeWc?oc=5",
@@ -168,12 +182,6 @@
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeW1pUlBTcVhWck1QcC1Zdk1EcWxiSnhORDBwT291RzZCb2JaYlVvT0dxMGVuWWp3b0ctam5raFFWT3ExOWpncmVKVUVHcDVIZVlLOHN2OFJfVF9hWWxzTEtXakhEX1k3cTBUT2l0YmlBcjJkcUhkQUtBLURqR2thRjNrdU5XSzdBTE55M1RlMVBOaXAybnF6SGRrVVAwX3JFQWNvRFBlTWJhemtuak53ZVNyQVJDeHV0ZnB0NFNUTnM3VkxBYUHSAcsBQVVfeXFMTnJ2X3ZPNzAyUlNYdlplOTVNRGVwZmI0LWRmVkhkSmNLVUFCYU1MX05ESUlaWnBadWs5RnNsSVdrZklDbmFzVTFvdDF4dDRpZFhaZ2IwdGZicVROU2ZKb2dQSDlObGNxd0pFeGppUFZFeUIzNUZ6M2U2d0dDbTdqNXpialhFV0syWG02T0RtaWNMZFlkY1FraEJ6dXZ2QzNkaHkzQmFsaFFSejNlRTAySC1XYWtqNVV3SkEwcDVLY0lMZk9sYko5ZG1qV3M?oc=5",
       "publishedAt": "Fri, 02 Oct 2026 01:50:17 GMT"
-    },
-    {
-      "title": "Stock Market Holiday: BSE, NSE To Remain Closed For 3-Day Break; Check Dates - ndtvprofit.com",
-      "source": "ndtvprofit.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWxQdTNBNXc5M0hMTnQxcllld2t0RnhBX3JPQk1vbS1RRWtaUkI2Q3JBSTRBY0ZIaC14X3hEa2ZwM1BPWXNlaXgyRnNSRnZaSUM1M0I5eXdfQkNXdElZZWpNUjRoYXpQdmIxRFlrd1BQTXZhdXNjOVVuR0dGeEJ1ZjJhRFp2WUx1bkxFNXR3TzBSaXU5alMtWUJreFU1RGZYSzVqX2o5RTVOZVFZY0VXdTJJQmZ3R0plRTFN0gHDAUFVX3lxTFBUUFJiMm5TWG1pQjh2akhoZGRuNmctRWVpWXA4VnpYMnh5UXJ1ZkxxaFdTNW9TQ0FGeXFzOVFleGhRQWxUMi1KNjdRQVVQM1ZWcTJrLS0zb1hZYnpHUk1iRzhLR1pyQ3JCU05yV3p3TDBKNzZQRm5Bb0lQc0FOeHlKUEZJTnBCdldrMlpCLUlWbzBQRzg3QS1ncWRLYTRHa0NycVUzbzk3RVl4U1Fkc0VsbDZGU0ZOdXo2d3pvekJOd3ZwSQ?oc=5",
-      "publishedAt": "Fri, 02 Oct 2026 01:45:47 GMT"
     }
   ]
 }
