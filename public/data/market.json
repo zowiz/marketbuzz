@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex dropped 570 points and Nifty fell to 22,421 amid heavy foreign investor selling.",
+  "headline": "Last session: Sensex and Nifty plunged as Indian markets recorded their longest weekly losing run in 25 years",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,23 +7,33 @@
     "nextOpen": "Monday, 5 October 2026"
   },
   "why": [
-    "Foreign portfolio investors (FPIs) turned net sellers, pulling out ₹35,860 crore in September.",
-    "Rising crude oil prices and global rate hike concerns sparked continuous equity outflows.",
-    "En-masse selling by foreign investors wiped out approximately ₹9 lakh crore in investor wealth.",
-    "Persistent global macroeconomic risks and geopolitical uncertainties weighed heavily on market sentiment."
+    "Foreign Portfolio Investors (FPIs) turned net sellers, withdrawing ₹35,860 crore in September",
+    "Concerns over global rate hikes and rising oil prices sparked significant capital outflows",
+    "En-masse selling by foreign investors wiped out approximately ₹9 lakh crore in investor wealth",
+    "Persistent global risks and FII selling led to an eighth consecutive week of losses"
   ],
   "whatHappening": [
-    "Indian stock markets are closed today, October 3, 2026, as it is a weekend.",
-    "Markets were also closed on Friday, October 2, 2026, for the Gandhi Jayanti holiday.",
-    "In the previous trading session, Sensex crashed 570.59 points while Nifty tanked to 22,421.95.",
-    "Indian benchmark shares posted their worst monthly performance since March, extending their weekly losing run."
+    "The Sensex dropped 570.59 points while the Nifty closed at 22,421.95 in the last session",
+    "Indian benchmark shares recorded their longest weekly losing run in 25 years",
+    "UPI transaction volumes surged 27% to reach 145 billion in the first half of the year",
+    "Markets remained closed on Friday, October 2, in observance of Gandhi Jayanti"
   ],
-  "stocksInNews": [],
-  "summary": "Indian benchmark indices remain closed today, Saturday, October 3, 2026, for the weekend. In the last trading session, Sensex and Nifty extended their losing streak amid heavy foreign investor outflows and global macroeconomic headwinds. Markets will reopen for regular trading on Monday, October 5.",
-  "updatedAt": "2026-10-02T20:31:19.665Z",
+  "stocksInNews": [
+    {
+      "symbol": "PAYTM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
+      ]
+    }
+  ],
+  "summary": "Indian markets ended their last session with sharp losses, marking the longest weekly losing streak in 25 years. Massive FII outflows and global economic concerns, including potential rate hikes, drove the downturn. Markets are currently closed for the weekend and will resume trading on Monday, October 5.",
+  "updatedAt": "2026-10-02T21:05:12.196Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-03",
   "articleKeys": [
+    "nasdaq rises 1 dow sampp close higher as weak jobs data tempers rate hike bets",
     "fed officials give hints on rate decision as markets cut october rate hike odds",
     "pay the global south for climate damage but only if it prices carbon says economist greenstone",
     "indiaus trade deal is not imminent yet says ustr jamieson greer",
@@ -33,19 +43,24 @@
     "vijay shekhar sharma calls athers lethal scooter testing idea brilliant wonder if buyers know it yet",
     "openai fires three researchers over alleged mishandling of sensitive information what we know",
     "amazon expands ultrafast delivery service to more than 120 indian cities",
-    "tesla q3 deliveries beat estimates at 486532 vehicles europe demand recovers",
     "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
     "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "october stock market holidays 2026 will nse bse be open on gandhi jayanti check full trading holiday moneycontrolcom",
-    "stock market sensex nifty extend losing streak to 8th consecutive week amid fii selling global risks etvbharatcom",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
+    "stock market sensex nifty extend losing streak to 8th consecutive week amid fii selling global risks etv bharat",
     "is stock market open or closed today check nse bse october 2 schedule india today",
-    "stock market holiday october 2 bse nse closed for gandhi jayanti telangana today",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
-    "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom"
+    "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom",
+    "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 1 oct 2026 livemint"
   ],
   "articles": [
+    {
+      "title": "Nasdaq rises 1%, Dow, S&amp;P close higher as weak jobs data tempers rate hike bets",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-rises-1-dow-sp-close-higher-as-weak-jobs-data-tempers-rate-hike-bets/articleshow/134646508.cms",
+      "publishedAt": "Sat, 03 Oct 2026 01:45:20 +0530"
+    },
     {
       "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
       "source": "Zerodha Pulse",
@@ -101,12 +116,6 @@
       "publishedAt": "Fri, 02 Oct 2026 22:48:18 +0530"
     },
     {
-      "title": "Tesla Q3 Deliveries Beat Estimates At 486,532 Vehicles, Europe Demand Recovers",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/tesla-q3-deliveries-beat-estimates-at-486-532-vehicles-europe-demand-recovers-12131510#publisher=newsstand",
-      "publishedAt": "Fri, 02 Oct 2026 22:44:46 +0530"
-    },
-    {
       "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWjBqWExwOHJfbDIteUk1NF9IeUptVjN1ejhMMXdMV1U3QWhKWERHQm1fekNZckpLRE5aME5EYmFKM2szRjNBRVYwVUNjaVV0MkY4OUg0cWdCVzd0ZWcxM3ZfS3lWNUt5QWJyRmZ0UUR5MDZlOENZQ2x6UFBaTlg2T3REekRXMVZQcHc4Y1l6MmpqR1ZHdV9NazlIcWRiTy03TGhyaHlqdHdTdy0tUjJ4ajJUbEFlNDltUzZsLXpaRlYwNWdnX3d2dDFZRWNqLVFMTnpCSUt2MFlBNURISUxRV29nOGhkY080UFlxQkxUZDFVY3JRTjJFR29pLVhjWlhOU1ZmXzMteGNBeVBSLUlOdG9reWZjZFhGNEtfdzhNWXFfTWpoOXBoUG5UNmNra1VLU3FPaNIBugJBVV95cUxOS1JVdnhFYnN6S092dEN2Z1dmejJ4Sld2Rl9nckhveTBoQ1BzN0RHb0hmS3FiMV9NaWRqRXI4eWtsREN6dkl0RzdxN1g0UDlFMkNTVUdkcG1CV3dGSkhYYlJGeGkyZ3NldkRNSmRPVXhDX1dKc2dMR0JYYk5KQ2JveDNuMXBidEdGNFRoZFVpbThhd1hXUDRBSE5weWxnV01oRXNJbGQyWDQzTUY1UGhjdmJ0R05FbFVBT3A4cEtfdkJHMmlEMk5vWkJSa3UyenZtaWhDSVk5eFdSRHkxV3FvZkpWcUVNNFJLQnNfLWdId0lua243Tm1vUkVLNG9VVk4yVVZrbUd4bE5jVmxoTW9ZZEM5dWVNQzFQTTRWQzdvVldfZGNKckdoNTdiUTg1UnJRb3R3OEtXTDBadw?oc=5",
@@ -131,28 +140,22 @@
       "publishedAt": "Fri, 02 Oct 2026 16:23:25 GMT"
     },
     {
-      "title": "Stock Market: Sensex, Nifty Extend Losing Streak To 8th Consecutive Week Amid FII Selling, Global Risks - etvbharat.com",
-      "source": "etvbharat.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQkJxYjdKY1ZaUEpvOGhTWkNjcWNJQkRtcHBSendLbURRWk13SGZ3dHNmVVN1X3M4dkVTU1MyNkdoZmVGSlRqOXVXbjEzX0FoaUJTQXZXODBQR01tcFAweUJuMmlvOTZoZE1JS294bEJoTExmb0g4Wl85RTZMYnI4bElEZkVxdDhxY3NEZWMwQUlkNmZKeFMtcm1nRW5yZndpRC1vOGtlbjE4UzhId3Q3djlNQ3lRRlk1d013ZHI0UGlaTHFzVDFkd1EwbGdaaTRSUGoyNWw2SnppNndNbjNhQVFOTzgzYXEt0gHuAUFVX3lxTE1UMl8xcEVfMW9lYjl0Q1JvZTExVXZmNm1EUG1vUlpKZlhZS1p6QWp5OF9zeHRNYmw2OE1ta0tUbU9pcmtybFNKbGdPcTZTNDZKYWNKQ0d1elNpcDlzdXVzQ2JrZE9KNlcxWXJaT1VZbVhZV01ybjJURnd1cHZ2SDNDMHJfdU5LVUZlbFJJRGY0Q3o1TGJhQTlYdFl2Y0k1eGJaQ0Y5NHhqMThGWEY2MXZyWXcxNmZxNTJRTWtfUnVOeGxzb2lNRFpTRWNfeGotR1dIeFB3SnBULWVfSVNGMTVMOHVDcjNPbEFreVBvbWc?oc=5",
-      "publishedAt": "Fri, 02 Oct 2026 09:56:56 GMT"
-    },
-    {
       "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
     {
+      "title": "Stock Market: Sensex, Nifty Extend Losing Streak To 8th Consecutive Week Amid FII Selling, Global Risks - ETV Bharat",
+      "source": "ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQkJxYjdKY1ZaUEpvOGhTWkNjcWNJQkRtcHBSendLbURRWk13SGZ3dHNmVVN1X3M4dkVTU1MyNkdoZmVGSlRqOXVXbjEzX0FoaUJTQXZXODBQR01tcFAweUJuMmlvOTZoZE1JS294bEJoTExmb0g4Wl85RTZMYnI4bElEZkVxdDhxY3NEZWMwQUlkNmZKeFMtcm1nRW5yZndpRC1vOGtlbjE4UzhId3Q3djlNQ3lRRlk1d013ZHI0UGlaTHFzVDFkd1EwbGdaaTRSUGoyNWw2SnppNndNbjNhQVFOTzgzYXEt0gHuAUFVX3lxTE1UMl8xcEVfMW9lYjl0Q1JvZTExVXZmNm1EUG1vUlpKZlhZS1p6QWp5OF9zeHRNYmw2OE1ta0tUbU9pcmtybFNKbGdPcTZTNDZKYWNKQ0d1elNpcDlzdXVzQ2JrZE9KNlcxWXJaT1VZbVhZV01ybjJURnd1cHZ2SDNDMHJfdU5LVUZlbFJJRGY0Q3o1TGJhQTlYdFl2Y0k1eGJaQ0Y5NHhqMThGWEY2MXZyWXcxNmZxNTJRTWtfUnVOeGxzb2lNRFpTRWNfeGotR1dIeFB3SnBULWVfSVNGMTVMOHVDcjNPbEFreVBvbWc?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 09:56:56 GMT"
+    },
+    {
       "title": "Is stock market open or closed today? Check NSE, BSE October 2 schedule - India Today",
       "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU1dKLUdkaVIta0IxVTZ1UzVaU05kakxjZFlYZVRGaFRFNEtTX1h3R1M0RHVEclFrc2xMWUpaNnQ4UEV4RkFVZ2xQZXZJZTI3V29NWUdPLWxJNjIyRzhuZS1fTUp2RGRETlFsU05Kdlpwc1lBZDNKZ1VpOWxWZHk1VXZNMWJiYkxJOFdQMzJEVHlPaWc1dXFjOEdrTTRjNzFRcmtTRE5jeFF3b0RwWmZTSV9leXhwSkpoY2dSTVU5bGVXVWdodFM4elBQUktmdWVFVzduY2MyZmpJRkVx0gHiAUFVX3lxTE9NejNZdkxZUC1RT09NeEhDVmxxZkROWmhzcDdYZDI1Q3BPbmhBNFBnNXk3cjZQU1Q0enVMckVPNmtVV0xYX04zSTBITkIwaHg2Xy00VXNiR3E0TGZmUkc0N0w3NFNlRkxmdUhIMlpkN08ySzBxdmpPMzlKc29LaUliSlRfRUw1OU1GTlIwQXRGUTJGVVVXZmprN3VjLVdBWnZ6LU5WLVo4MGhVSGo3ZTVtbHNGTG1uOGlSQTdLV1pMTWtyeHY5Ty1iSzVvWUV1dFV1VFNheU5qOE1IeE5Rc3VSSVE?oc=5",
       "publishedAt": "Fri, 02 Oct 2026 03:07:28 GMT"
-    },
-    {
-      "title": "Stock market holiday October 2: BSE, NSE closed for Gandhi Jayanti - Telangana Today",
-      "source": "Telangana Today",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTdkYUFNemdmRzJSVm1SSTlQa0pYQVJEN3drNWtBeWdDSjF0eHdUTnoxVDZseHR1VWNWakdhUG5pelZaN2czQld0RGtHUG1yNlF6NUp0SllkSEpPaklaTU00MldIRkl4VGo5cDdZaHFyZ0Q1bnR0andtbC1kSDJrb09tM3M1eWhiYVJzRzd6Y09iWlRMeWc?oc=5",
-      "publishedAt": "Fri, 02 Oct 2026 04:41:44 GMT"
     },
     {
       "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
@@ -165,6 +168,12 @@
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSmFaV0tWVjhCSmdEeWtESzMxOFdMblhmWXJ2ZGo1RW1aQ0VualdKUG9VZlQxT1VSN0FiRGZsZS0wTjBkZnFNUzVBeldLOWZVeEhPMjZzWFB2SGZ4eEZ4S2VkTlJCLTlLRGtCcS1mQ1UxZUxtM21PSW5HZEhxNGxPbjZXa3g5WXN4RkhoYkFMWXBqbEcteHJVUmEtc2lRaVVDc2I5Mk9KSWtzbUluNENuamJfWk1vZlZJeUFkMEJxRFlLVEJvYUJNTzBpSnVhUnd6UkNtM0Vhcm5takoyZ0dZM2xXMXBkUFF0WEHSAe8BQVVfeXFMT3FmTE9kMS1wMzlEaFQ3WHQ2ZFdzeTV2MzY2MkJ0YW9nc1lNclJEdTlGUGMzcFE1SHpwNXBNLW9WWWVDSnk0eFZ4OEFtM2RWN3FUWXRIbTlyc2ZzYlN1MHJxa2puRkNRSDRxTS11SkNUWjJacFREeHpKbzliS19nY2dzb3ROTC1meDRuZnQ0ZUY0M0FkdlFVVlZsVGJhZllTaUdJMnVsdVVMejV1WDRiVkd4VE5nQnRnOGFLUUVUTHJvZFNfMUF4QjZVYldMNm9wMllHRzl3dTlzZmw1NndJbFNRb1VPQVlKZ3NUcEJFYmM?oc=5",
       "publishedAt": "Fri, 02 Oct 2026 00:47:28 GMT"
+    },
+    {
+      "title": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 1 Oct 2026 - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbTZnV0tHTFRyakhzXzgtNlpsaENsSEZMQjNIeGp5bTZqQ2tlanJwdk1OZ3NVNXU0OXhzOENhRktfMlZsa29Ka3JubTlKOFQ5ZWp3YmJESXZCN1JqWHQyQnNqV1UxWXo0ZVdmd21hc1hmRTk5WEdmNTQtdzg2WWFMOUlLUHhkUFotVmZER0dJN0xQX0dhMjZvWTNrNldSbHZpMG03RUR2NkxBTERxY2kwLTlVWjFJd2NZTFVDRW5RbEwtUExoamkwOHlEWTJsM3hIYTNfTTEtalM4bFNVNXJtcHpHR1RfVHVxZUZ1N2FzeEZZUU9abGNzeGZVM0x4d0FlOGlIZExuazRtQdIBjwJBVV95cUxQb1J3T0JjNTJUT2JwTTBscVdCa2JGRlp3S2pJZU83TFltbmJuUW9KR2d1MXBHYTNXOEpxQng2eF9TX1pWZU5uVmZhZDdmR19oQUg2Y1M3aFZEdFd4bEtpZllCXzZPUDRDMm55b3N3dUVqcFlaSndBYkh1eUhOMHJTNnlaSTZORWhGNWE0S1FES3pKRTE1U2ZDUUZZOVR1b2huelIyXzNPaWxfTFJYXzdZU1Z6a1ZzV0lBa0xvUnJXQVdsb3BYNUFYSUpfclRTT2h3UWExdzVNczdDNklTNHQ0VlRWalNMcWwzTzJ6MEtNLWo1amw1RktOSTdralk5NmNQS25vR0VyXzdxMlZkWXpz?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 11:00:58 GMT"
     }
   ]
 }
