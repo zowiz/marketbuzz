@@ -1,24 +1,32 @@
 {
-  "headline": "On last trading day, Sensex and Nifty fell, marking an eighth consecutive week of losses amid heavy FII selling.",
+  "headline": "On last trading day, Sensex and Nifty fell sharply, marking their eighth consecutive week of losses",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Tuesday, 6 October.",
-    "nextOpen": "Tuesday, 6 October"
+    "nextOpen": "Tuesday, 6 October 2026"
   },
   "why": [
-    "NSE trading holiday in observance of Gandhi Jayanti",
-    "En-masse selling by foreign institutional investors (FIIs)",
-    "Global risks and rising oil prices impacting investor sentiment",
-    "Longest weekly losing run for Indian benchmark indices in 25 years"
+    "Heavy selling by foreign institutional investors (FIIs)",
+    "Concerns over rising oil prices and global rate hikes",
+    "Global risks and AI-related market volatility",
+    "Longest weekly losing run for benchmark shares in 25 years"
   ],
   "whatHappening": [
-    "The Indian stock market is closed today; trading will resume on Tuesday, October 6, 2026.",
-    "In the last session, the Sensex dropped 570.59 points while the Nifty fell to 22,421.95.",
-    "Approximately Rs 9 lakh crore in investor wealth was wiped out during Thursday's market crash.",
-    "Major leadership changes were announced at ICICI Prudential Life Insurance and HDFC Bank."
+    "The Indian stock market is closed today in observance of Gandhi Jayanti",
+    "In the last session, the Sensex dropped 570.59 points while the Nifty fell to 22,421.95",
+    "Benchmark indices have posted their worst monthly performance since March",
+    "HDFC Bank ADRs rallied following leadership changes in the banking sector"
   ],
   "stocksInNews": [
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        7
+      ]
+    },
     {
       "symbol": "ICICIPRULI",
       "sentiment": "Neutral",
@@ -33,14 +41,6 @@
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         2
-      ]
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
       ]
     },
     {
@@ -60,8 +60,8 @@
       ]
     }
   ],
-  "summary": "Indian markets are closed today for Gandhi Jayanti after the Sensex and Nifty recorded their eighth straight weekly decline. The last session saw significant wealth erosion as foreign investors sold off shares amid global risks and oil price concerns. Trading is set to resume on Tuesday, October 6.",
-  "updatedAt": "2026-10-02T13:04:27.889Z",
+  "summary": "The Indian market remains closed today for Gandhi Jayanti after a volatile last session where the Sensex and Nifty extended their losing streak to eight weeks. Significant FII selling and global economic pressures wiped out approximately Rs 9 lakh crore in investor wealth during the final session of the week. Corporate movements, including leadership shifts at HDFC Bank and ICICI Life, remain in focus as the market prepares to reopen on Tuesday.",
+  "updatedAt": "2026-10-02T13:25:40.726Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-02",
   "articleKeys": [
@@ -76,15 +76,15 @@
     "if claude can do the technical work what should scientists learn",
     "global equity funds draw inflows for second week as ai optimism holds",
     "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
-    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemintcom",
-    "indian benchmark shares post longest weekly losing run in 25 years reuters",
+    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "indian benchmark shares post longest weekly losing run in 25 years reuterscom",
     "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom",
     "stock market sensex nifty extend losing streak to 8th consecutive week amid fii selling global risks etv bharat",
-    "stock market holiday bse nse closed today gandhi jayanti 2nd october 2026 how sensex nifty fared on thursday livemintcom",
+    "stock market holiday bse nse closed today gandhi jayanti 2nd october 2026 how sensex nifty fared on thursday livemint",
     "stock market holiday bse nse closed today for gandhi jayanti business standard",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
     "weekly market wrap nifty50 sensex falls up to 3 marking 8th week of loss bajaj auto max health among top losers upstox",
-    "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters"
+    "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuterscom"
   ],
   "articles": [
     {
@@ -154,14 +154,14 @@
       "publishedAt": "Thu, 01 Oct 2026 12:11:55 GMT"
     },
     {
-      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - livemint.com",
-      "source": "livemint.com",
+      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQXozTEF5ci05ekVqMzNQRWZocFNrLUJJU2VBSllHLWxHWnlPMzZOaHFheE1ab09fdDJXVEJTTWNVNDN6ZzdOZmpvMkhNQWtLdzdZSjdjMVZOTG15Z1F4bENWY1p4SGtVdEJVWWI0N0tpbVo0bjVqMFlpMWM4SGVVSS1OclFtbVZWWkx5R01ZaFlkbVJPd2xYV2ZsRkNBYTJYMWxVcE4tUFJnMzF3U3o1cGJpWVBzSkRzckRyc3k5WERDYmI5TFNOeWJ6Q2s5aFZ5dHpLaVR1eUdMdnFRVlQxMDJ5REdLdVdFemU4Qmt5SE4xc0FUbjJWYXNlUm5FNDVJa3h3TDNR0gGLAkFVX3lxTE8zRHB2em93TnNhcG9TYUU0YXJ4UVM1N3gyeEZNeW5EMkJIcWVyUEc1eG00X3VKNk5vRm1LMjdNaU1KTXlQaFFKdEp4Zkh4eEhUZXVwcnhDY1p3X1JkS2E1T21rT3FfNUV5LVkyQzlfTHNLekhBRm4yUldodnljcG5UYjdNT1ZrSTBTRXRhaVdFWXBPajd5MUwtaEp0cFBCT2tMM1RYOE1NamxwUnRvOHJqV0ZOblNsYUNINU9ORGp3eHU2TkNCRGhaMGxZQkV4cGpmTW5lZXBFU1FxTHd6bF9ocDc0M2VkRzhoUjh4bHFUM2IxZ3dTalZzczhoRzVUVTZIMno4RWwwR0t5aw?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 01:20:10 GMT"
     },
     {
-      "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
-      "source": "Reuters",
+      "title": "Indian benchmark shares post longest weekly losing run in 25 years - reuters.com",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 02:25:00 GMT"
     },
@@ -178,8 +178,8 @@
       "publishedAt": "Fri, 02 Oct 2026 09:56:56 GMT"
     },
     {
-      "title": "Stock market holiday: BSE, NSE closed today | Gandhi Jayanti, 2nd October 2026; how Sensex, Nifty fared on Thursday - livemint.com",
-      "source": "livemint.com",
+      "title": "Stock market holiday: BSE, NSE closed today | Gandhi Jayanti, 2nd October 2026; how Sensex, Nifty fared on Thursday - Livemint",
+      "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV0g0Q0RpWlVudUN2U1g0WWtRd1BtVWF6VElsek5YeVl6b2RzbFVQZ2FOSy1sNVVFbVdGMW9GNkpVYlVTWHB1UC0wbmMwNEh2MFBaN2h1bnUtQVBsMmhidHFBdzFxbGdrYS1KY3VXVU90WUtFYkJZQmx1U1QwMXdVbm8yUDJqUU0zQjU4NzNQU1I2UFhabUJnLUFjTFpkVkZhc0J3cW5TczRITjZKN01fdGl3THF4Z0pKc1lENUhFcFk5cXVYOE9GdW9WX01rUno5eUZfamwwR0JicVp1UTBwR0FyQ2RxWTVfMWN6Ujd6VjRFQlZQd19MMWhzQmd2bnVPc3VSNjBLVHlzZ9IBjwJBVV95cUxPRnVtLXZkX05oaE5oaHRiMF84YzRNYW5USjRzMFZpb3VybmNNV2FpU081Vko2ZTlHVnQxai1wTVo1cGdYaldUV09XUWlwckhWNUdIenpnQkwySVFHM1otQkxBd1hIS3JhNmxxUU1jS2drcTE5X19hOGExWk5EV2pWQmM2UFdoR05wd2ZFLVlOQmJieWdfMDlHTU1LYTgzNnpVTDUwV000Y0hYZ2cwZjJFVF8wd2FzM0F6aXYwM3Bid0ZyeFhZYTZCNTVoaVBSQndpd3paZkp5bG5BTnh6NE82dFM1ZDNwR0x0S0JlSU52d1JqVUhHOEZhb1VwQjhxNjU1aE8xbEpSd2Z0cFQ4YXZr?oc=5",
       "publishedAt": "Fri, 02 Oct 2026 01:56:44 GMT"
     },
@@ -202,8 +202,8 @@
       "publishedAt": "Fri, 02 Oct 2026 04:58:41 GMT"
     },
     {
-      "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
-      "source": "Reuters",
+      "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - reuters.com",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 11:08:06 GMT"
     }
