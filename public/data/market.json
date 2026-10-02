@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex crashed 1,000 points as Indian markets posted their longest weekly losing run in 25 years.",
+  "headline": "On last trading day, Sensex crashed 1,000 points as foreign investors sold en-masse, wiping out ₹9.5 lakh crore.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,56 +7,65 @@
     "nextOpen": "Monday, 5 October"
   },
   "why": [
-    "Heavy selling by foreign institutional investors who sold Indian stocks en-masse",
-    "Concerns over global interest rate hikes and surging US Treasury yields",
-    "Rising global oil prices sparking fears of sustained outflows from emerging markets",
-    "Federal Reserve officials hinting at further rate hikes and urging patience on cuts"
+    "En-masse selling by foreign investors (FIIs) triggered a massive market downturn",
+    "Global concerns regarding high oil prices and potential interest rate hikes",
+    "Surging US Treasury yields impacting global investor sentiment",
+    "Technical pressure as benchmark indices recorded their longest weekly losing run in 25 years"
   ],
   "whatHappening": [
-    "Sensex crashed 1,000 points intraday and hit a fresh 52-week low during the last session",
-    "Investors lost approximately ₹9.5 lakh crore in market wealth in a single day",
-    "The Nifty 50 index closed at 22,421.95 after dropping below the 22,300 level intraday",
-    "Indian benchmark indices recorded their eighth consecutive week of losses, the longest run in 25 years"
+    "INOX Group scions have filed for two separate IPOs worth ₹10,000 crore each",
+    "Government has capped sugar stock limits for dealers at 1,000 quintals for the festive season",
+    "Nayara Energy clarified that no fuel supply restrictions have been imposed across its retail network",
+    "India's food market has reached $600 billion, growing at a 7% CAGR with a focus on processing"
   ],
   "stocksInNews": [
     {
-      "symbol": "MTNL",
+      "symbol": "KOTAKBANK",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        16
+        19
       ]
     },
     {
-      "symbol": "KOTAKBANK",
+      "symbol": "MTNL",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        16
+        19
       ]
     },
     {
       "symbol": "STLTECH",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        16
+        19
       ]
     },
     {
-      "symbol": "INOXGFL",
+      "symbol": "INOXGFT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        1
+      ]
+    },
+    {
+      "symbol": "NAYARA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
       ]
     }
   ],
-  "summary": "The Indian market is closed today for an NSE holiday following a significant crash on Thursday. In the last session, the Sensex plummeted 1,000 points intraday, wiping out ₹9.5 lakh crore as foreign investors sold shares en-masse. Benchmarks recorded their longest weekly losing streak in 25 years amid global rate hike fears and rising oil prices.",
-  "updatedAt": "2026-10-01T23:31:56.234Z",
+  "summary": "The Indian market is closed today for a holiday following a session where the Sensex crashed 1,000 points and Nifty slipped below 22,300. Foreign investor selling wiped out approximately ₹9.5 lakh crore in wealth as indices hit their longest weekly losing streak in decades. Amidst the volatility, INOX Group announced major IPO plans while the government tightened sugar stock limits for the festive season.",
+  "updatedAt": "2026-10-02T00:24:34.368Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-02",
   "articleKeys": [
+    "indias 600 billion food market grows at 7 cagr food processing given importance official",
     "inox group scions file for 10000 crore ipos each",
     "us stocks us market rebounds to close higher as surging treasury yields recede",
     "feds jefferson urges patience on rates kashkari sees more hikes ahead",
@@ -66,19 +75,24 @@
     "no fuel supply restrictions imposed across retail network nayara energy",
     "cjp founder dipke detained briefly after being spotted with placards at marine drive police",
     "broadcom to lend anthropic up to 42 bn to lease its chips filing says",
-    "ai cybersec startup armadin valued at over 25 bn after new funding round",
     "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
-    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemintcom",
+    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
-    "stock market crash how investors lost 95 lakh crore in over an hour top losers of sensex nifty livemintcom",
-    "indian stock market loses 8th straight week wiped out 95 lakh crore in a day wionewscom",
-    "mtnl kotak bank sterlite tech among buzzing stocks as sensex nifty50 tumble over 1 in noon deals upstox",
+    "stock market crash how investors lost 95 lakh crore in over an hour top losers of sensex nifty livemint",
+    "indian stock market loses 8th straight week wiped out 95 lakh crore in a day wion",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
     "over rs 1000000000000 wiped out sensex crashes 1000 points nifty 50 slips below 22300 ndtv profit",
-    "stock market extends losing streak to four sessions sensex hits fresh 52week low the federal"
+    "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india",
+    "mtnl kotak bank sterlite tech among buzzing stocks as sensex nifty50 tumble over 1 in noon deals upstox"
   ],
   "articles": [
+    {
+      "title": "India’s $600 billion food market grows at 7% CAGR, food processing given importance: Official",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/indias-600-billion-food-market-grows-at-7-cagr-food-processing-given-importance-official/article71534242.ece",
+      "publishedAt": "Fri, 02 Oct 2026 04:37:43 +0530"
+    },
     {
       "title": "INOX Group scions file for ₹10,000 Crore IPOs each",
       "source": "Zerodha Pulse",
@@ -134,20 +148,14 @@
       "publishedAt": "Thu, 01 Oct 2026 23:40:22 +0530"
     },
     {
-      "title": "AI cybersec startup Armadin valued at over $2.5 bn after new funding round",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/ai-cybersec-startup-armadin-valued-at-over-2-5-bn-after-new-funding-round-126100101477_1.html",
-      "publishedAt": "Thu, 01 Oct 2026 23:39:30 +0530"
-    },
-    {
       "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWjBqWExwOHJfbDIteUk1NF9IeUptVjN1ejhMMXdMV1U3QWhKWERHQm1fekNZckpLRE5aME5EYmFKM2szRjNBRVYwVUNjaVV0MkY4OUg0cWdCVzd0ZWcxM3ZfS3lWNUt5QWJyRmZ0UUR5MDZlOENZQ2x6UFBaTlg2T3REekRXMVZQcHc4Y1l6MmpqR1ZHdV9NazlIcWRiTy03TGhyaHlqdHdTdy0tUjJ4ajJUbEFlNDltUzZsLXpaRlYwNWdnX3d2dDFZRWNqLVFMTnpCSUt2MFlBNURISUxRV29nOGhkY080UFlxQkxUZDFVY3JRTjJFR29pLVhjWlhOU1ZmXzMteGNBeVBSLUlOdG9reWZjZFhGNEtfdzhNWXFfTWpoOXBoUG5UNmNra1VLU3FPaNIBugJBVV95cUxOS1JVdnhFYnN6S092dEN2Z1dmejJ4Sld2Rl9nckhveTBoQ1BzN0RHb0hmS3FiMV9NaWRqRXI4eWtsREN6dkl0RzdxN1g0UDlFMkNTVUdkcG1CV3dGSkhYYlJGeGkyZ3NldkRNSmRPVXhDX1dKc2dMR0JYYk5KQ2JveDNuMXBidEdGNFRoZFVpbThhd1hXUDRBSE5weWxnV01oRXNJbGQyWDQzTUY1UGhjdmJ0R05FbFVBT3A4cEtfdkJHMmlEMk5vWkJSa3UyenZtaWhDSVk5eFdSRHkxV3FvZkpWcUVNNFJLQnNfLWdId0lua243Tm1vUkVLNG9VVk4yVVZrbUd4bE5jVmxoTW9ZZEM5dWVNQzFQTTRWQzdvVldfZGNKckdoNTdiUTg1UnJRb3R3OEtXTDBadw?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 12:11:55 GMT"
     },
     {
-      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - livemint.com",
-      "source": "livemint.com",
+      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQXozTEF5ci05ekVqMzNQRWZocFNrLUJJU2VBSllHLWxHWnlPMzZOaHFheE1ab09fdDJXVEJTTWNVNDN6ZzdOZmpvMkhNQWtLdzdZSjdjMVZOTG15Z1F4bENWY1p4SGtVdEJVWWI0N0tpbVo0bjVqMFlpMWM4SGVVSS1OclFtbVZWWkx5R01ZaFlkbVJPd2xYV2ZsRkNBYTJYMWxVcE4tUFJnMzF3U3o1cGJpWVBzSkRzckRyc3k5WERDYmI5TFNOeWJ6Q2s5aFZ5dHpLaVR1eUdMdnFRVlQxMDJ5REdLdVdFemU4Qmt5SE4xc0FUbjJWYXNlUm5FNDVJa3h3TDNR0gGLAkFVX3lxTE8zRHB2em93TnNhcG9TYUU0YXJ4UVM1N3gyeEZNeW5EMkJIcWVyUEc1eG00X3VKNk5vRm1LMjdNaU1KTXlQaFFKdEp4Zkh4eEhUZXVwcnhDY1p3X1JkS2E1T21rT3FfNUV5LVkyQzlfTHNLekhBRm4yUldodnljcG5UYjdNT1ZrSTBTRXRhaVdFWXBPajd5MUwtaEp0cFBCT2tMM1RYOE1NamxwUnRvOHJqV0ZOblNsYUNINU9ORGp3eHU2TkNCRGhaMGxZQkV4cGpmTW5lZXBFU1FxTHd6bF9ocDc0M2VkRzhoUjh4bHFUM2IxZ3dTalZzczhoRzVUVTZIMno4RWwwR0t5aw?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 01:20:10 GMT"
     },
@@ -164,22 +172,16 @@
       "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
     {
-      "title": "Stock Market Crash: How investors lost ₹9.5 lakh crore in over an hour — Top losers of Sensex, Nifty - livemint.com",
-      "source": "livemint.com",
+      "title": "Stock Market Crash: How investors lost ₹9.5 lakh crore in over an hour — Top losers of Sensex, Nifty - Livemint",
+      "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaUl5eUN3QkpEMndVNXl3Mlg3b0hOM2xWeklvVFZ0dXJTZ0NHQXFKTkF3YkRyS01oUzJvaGE4enNOaEZvX0h4SmtZRzBScTJvZC1PbHZEUXp3bWJlS2thamtmQ1NUaDhCNmVraHlVQlBXbEI1TDc1aGRFTWlIbm1oQmEydnNldGl2b2NtZThick1SY1JTZHNNRmp1bmlyUWJVREtNTldSeThXVjdiQXpHRTA2VEdabGRtSDRBS1d1T1ZRclhUQUxyZlZVOXVfTy11eVduQ0dzTDVhQ1hKUDVYSTlJTzRjSG0ySTlxZ01BdFBKX1I0QUdKZ1p0YjPSAYICQVVfeXFMTVN1cDV1bmhpTjR5dFk3RTdQbjJJWGpVMFAwNHNnS2tIcjZ1dGpUVG0wVjRZbHpORml0LTRhWkJJSTB2WEhVNVlITXZFZkpZT1E3OVdDQW5fY29RbC1NQ2c3V3Q4R20xQ0V3Q1hROHRXWUpnWXNTR09pVFozWTRrVUJWdGZ1a3c4MS1lRTNNLXQtNHVPMnNReUdlS2JUZHhvSVltMDVMQXRzSG9YUGg3cVpSdXY3Z2o2cmVmYlhCVHlsRk5VRlNSUWZvUU5qSkZMYWQ2T3hTTkk4dGRzeE91RFRncDJNWWlIZnRrTFhpbHFkSC1paVUtUXRhYThEcDlqbkxR?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 08:08:36 GMT"
     },
     {
-      "title": "Indian stock market loses 8th straight week, wiped out ₹9.5 lakh crore in a day - wionews.com",
-      "source": "wionews.com",
+      "title": "Indian stock market loses 8th straight week, wiped out ₹9.5 lakh crore in a day - WION",
+      "source": "WION",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGlfdDlHeUNLX1BzVGVSeGJtOEk5RXc5ZG9NUzZiVzh5MnBpRWRpVUw0S3BhQXI4cktqd0VSOEdkUFN6aV9WUE1xZENfaDhjMGhNcHRJbFRCelRhRmlHNFhuS3F2OW13YUEzWUVGRDI5MVpzeDQ1eExBRk5iTkZ0MVZWTjN5dHgyWURWcWdGbTFENlRFMlpNT3BXRUJHQjBDYk0zWmIzNWtmQm1qdjR4ckFBLUkzUdIBuwFBVV95cUxQRko3Vm9WNGlXREFmc0RyYVhkeVk4YmIxX0N6MDNXdE5wZjFFc1lJUURObXNoN3hoNElpanlzWm5yclFkbmF5SU5nT00wYVpWZmMySzQ2VjJkMlhRYXFzQzNQZ3VSMFd0MlFFN1JKZFo1Y2lpQm5uWnp6SV9jcmxLcnBibVRDY0tZRnI4MnhDcUdLYWQwQzRGTTdJNTVpQ29jY19HNDZqUDdlOUZCT0R3V0N4Ym9BbDV0NEo0?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 17:40:00 GMT"
-    },
-    {
-      "title": "MTNL, Kotak Bank, Sterlite Tech among buzzing stocks as SENSEX, NIFTY50 tumble over 1% in noon deals - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeDhPUXpPRDdPQkpVSjFaUDNlTzdWRDhteXBESHA0UVpJTVJ2ZG15RWhpaTdnOENiMkdHdGN4aS1wZ2JKX2F3d3QxU2NwT1VoVUNObDNscHlKVlNrZGVsdVoxd1NJWU5uWE11Si0ySXdLQnF1QjVUSjFOajR1cGx6NW9fWnVubUZBbGNfT2lubE1hNHFVWTMzaDcxUlpNb3RKYVluOU9uSjE2M0xNcXRlMm5jSjlweVgtQ01iYjI4eGVpZWx2dS1HTHZpN2Q3enBEbzdUMWVfb19tZDZoTG5hZ0hfSVZNZktHZmtfMA?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 08:24:30 GMT"
     },
     {
       "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
@@ -194,10 +196,16 @@
       "publishedAt": "Thu, 01 Oct 2026 07:45:30 GMT"
     },
     {
-      "title": "Stock market extends losing streak to four sessions; Sensex hits fresh 52-week low - The Federal",
-      "source": "The Federal",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUU3SVN0YWNiaHpsUE1jV3RqWnF0Nk85ZEVmUVVFenBHcUZSbG0yLTk0dERLWk43TkM0dUk3NjlYTDRMdVJtNkJCclBDRWRick96Q3JrMUFYUXNIQ1V0M2MtY2tOYy1hbzh6aWE2T2ZXSF9DQTc5SDk1b0NzU09hYTI4clQydHA3MlRhYUZSeTE0TVBQS1g5SkNlRmRyUHNmLTlSLWItbmJyN0NKa181NkJmMDhaUk5HZDNwb1Zn?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 12:43:35 GMT"
+      "title": "Stock market live updates today: BSE Sensex tumbles over 1,000 points, NSE Nifty50 trades below 22,900 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFJQdUVBNmhGOF9naWYwc1VCWWozTGVwOWl1b082TGI2bmppQVQ5dmxfUWo0RGhBQ29IU29vaUJ1cDZCNEJoelpMc2g0eGhldHVGdy1WeWcxVEtZcDBDNDlfRkxNZnRFMURFLUVfY1U2UG1YTk1vampZZUozYjEzU3JGbDRWNkhhVU5qVy1qcVlhdWxFa2YzX19vSjZ4NEl0dk1reVhEMXlPb1RTTzdkNENIS2RraEdzTTlBXzFteWpPMkpkUk9MdEJqaG91ZTlUSll2UEVwcjNoM0FDdFJQVUJCM0JLQTZzS0xTVkNJQ3VIYUVyV2czYWxBLXRUNzlPUkwtTHFTNUs0cGE3VWdj?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 03:54:00 GMT"
+    },
+    {
+      "title": "MTNL, Kotak Bank, Sterlite Tech among buzzing stocks as SENSEX, NIFTY50 tumble over 1% in noon deals - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeDhPUXpPRDdPQkpVSjFaUDNlTzdWRDhteXBESHA0UVpJTVJ2ZG15RWhpaTdnOENiMkdHdGN4aS1wZ2JKX2F3d3QxU2NwT1VoVUNObDNscHlKVlNrZGVsdVoxd1NJWU5uWE11Si0ySXdLQnF1QjVUSjFOajR1cGx6NW9fWnVubUZBbGNfT2lubE1hNHFVWTMzaDcxUlpNb3RKYVluOU9uSjE2M0xNcXRlMm5jSjlweVgtQ01iYjI4eGVpZWx2dS1HTHZpN2Q3enBEbzdUMWVfb19tZDZoTG5hZ0hfSVZNZktHZmtfMA?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 08:24:30 GMT"
     }
   ]
 }
