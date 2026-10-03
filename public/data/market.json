@@ -1,29 +1,39 @@
 {
-  "headline": "Last session: Sensex dropped over 500 points while benchmark indices logged their worst weekly losing streak in 25 years.",
+  "headline": "Last session: Sensex crashed 1,000 points as Indian markets recorded longest weekly losing streak in 25 years",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 5 October.",
-    "nextOpen": "Monday, 5 October 2026"
+    "nextOpen": "Monday, 5 October"
   },
   "why": [
-    "FPIs turned net sellers, pulling out ₹35,860 crore from Indian equities in September",
-    "Rising crude oil prices and global rate hike concerns sparked capital outflows from emerging markets",
-    "En-masse selling by foreign investors wiped out trillions in market capitalization",
-    "Uncertainty around global economic risks and US Fed interest rate decisions weighed on market sentiment"
+    "Foreign Portfolio Investors (FPIs) turned net sellers, pulling out ₹35,860 crore in September",
+    "Global risks and persistent FII selling pressure across Indian equities",
+    "Concerns over oil prices and global rate hikes sparking significant capital outflows",
+    "Weakness in global cues and heavy sell-off by foreign investors during the last session"
   ],
   "whatHappening": [
-    "Indian stock markets remain closed today for the weekend following the Gandhi Jayanti holiday on October 2",
-    "Benchmark shares posted their longest weekly losing run in 25 years, extending losses for an 8th consecutive week",
-    "In the last session, Sensex dropped over 570 points while Nifty slipped below the 22,300 mark",
-    "UPI transaction volume jumped 27% to touch 145 billion during the first half of the year"
+    "Indian benchmark shares posted their longest weekly losing run in 25 years",
+    "The Sensex crashed 1,000 points in a single session, wiping out over ₹9 lakh crore in investor wealth",
+    "Markets remained closed on Friday, October 2, in observance of Gandhi Jayanti",
+    "UPI transaction volumes jumped 27% to reach 145 billion in the first half of the year"
   ],
-  "stocksInNews": [],
-  "summary": "In the last trading session, Indian benchmark indices suffered sharp losses, marking their longest weekly losing streak in 25 years amid relentless foreign portfolio investor outflows. Markets were closed on October 2 for Gandhi Jayanti and remain shut today for the weekend. Trading will reopen on Monday, 5 October.",
-  "updatedAt": "2026-10-03T00:31:22.961Z",
+  "stocksInNews": [
+    {
+      "symbol": "PAYTM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        9
+      ]
+    }
+  ],
+  "summary": "Indian markets are closed for the weekend following a significant crash in the last trading session and a Friday holiday. The Sensex and Nifty have recorded their longest weekly losing streak in 25 years, driven by massive FII selling and global economic concerns. Trading is set to resume on Monday, October 5, as investors monitor global rate hike bets and oil price volatility.",
+  "updatedAt": "2026-10-03T01:01:45.828Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-03",
   "articleKeys": [
+    "sri lanka vs bangladesh live streaming when and where to watch asian games cricket 2026 bronze medal match",
     "what is happening to the indian it bench explained",
     "nasdaq rises 1 dow sampp close higher as weak jobs data tempers rate hike bets",
     "fed officials give hints on rate decision as markets cut october rate hike odds",
@@ -33,19 +43,24 @@
     "upi volume jumps 27 to touch 145 bn in first half",
     "fpis turn net sellers pull out 35860 crore in september",
     "vijay shekhar sharma calls athers lethal scooter testing idea brilliant wonder if buyers know it yet",
-    "openai fires three researchers over alleged mishandling of sensitive information what we know",
     "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
     "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
-    "stock market sensex nifty extend losing streak to 8th consecutive week amid fii selling global risks etvbharatcom",
-    "october stock market holidays 2026 will nse bse be open on gandhi jayanti check full trading holiday moneycontrolcom",
+    "stock market sensex nifty extend losing streak to 8th consecutive week amid fii selling global risks etv bharat",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
+    "october stock market holidays 2026 will nse bse be open on gandhi jayanti check full trading holiday moneycontrolcom",
     "over rs 1000000000000 wiped out sensex crashes 1000 points nifty 50 slips below 22300 ndtv profit",
     "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 1 oct 2026 livemint",
     "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Sri Lanka vs Bangladesh Live Streaming: When And Where To Watch Asian Games Cricket 2026 Bronze Medal Match",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/sri-lanka-vs-bangladesh-live-streaming-when-and-where-to-watch-asian-games-cricket-2026-bronze-medal-match-12124905#publisher=newsstand",
+      "publishedAt": "Sat, 03 Oct 2026 04:15:03 +0530"
+    },
     {
       "title": "What is happening to the Indian IT bench? | Explained",
       "source": "Zerodha Pulse",
@@ -101,12 +116,6 @@
       "publishedAt": "Fri, 02 Oct 2026 22:53:51 +0530"
     },
     {
-      "title": "OpenAI Fires Three Researchers Over Alleged Mishandling Of Sensitive Information. What We Know",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/openai-fires-three-researchers-over-alleged-mishandling-of-sensitive-information-what-we-know-12131579#publisher=newsstand",
-      "publishedAt": "Fri, 02 Oct 2026 22:53:35 +0530"
-    },
-    {
       "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWjBqWExwOHJfbDIteUk1NF9IeUptVjN1ejhMMXdMV1U3QWhKWERHQm1fekNZckpLRE5aME5EYmFKM2szRjNBRVYwVUNjaVV0MkY4OUg0cWdCVzd0ZWcxM3ZfS3lWNUt5QWJyRmZ0UUR5MDZlOENZQ2x6UFBaTlg2T3REekRXMVZQcHc4Y1l6MmpqR1ZHdV9NazlIcWRiTy03TGhyaHlqdHdTdy0tUjJ4ajJUbEFlNDltUzZsLXpaRlYwNWdnX3d2dDFZRWNqLVFMTnpCSUt2MFlBNURISUxRV29nOGhkY080UFlxQkxUZDFVY3JRTjJFR29pLVhjWlhOU1ZmXzMteGNBeVBSLUlOdG9reWZjZFhGNEtfdzhNWXFfTWpoOXBoUG5UNmNra1VLU3FPaNIBugJBVV95cUxOS1JVdnhFYnN6S092dEN2Z1dmejJ4Sld2Rl9nckhveTBoQ1BzN0RHb0hmS3FiMV9NaWRqRXI4eWtsREN6dkl0RzdxN1g0UDlFMkNTVUdkcG1CV3dGSkhYYlJGeGkyZ3NldkRNSmRPVXhDX1dKc2dMR0JYYk5KQ2JveDNuMXBidEdGNFRoZFVpbThhd1hXUDRBSE5weWxnV01oRXNJbGQyWDQzTUY1UGhjdmJ0R05FbFVBT3A4cEtfdkJHMmlEMk5vWkJSa3UyenZtaWhDSVk5eFdSRHkxV3FvZkpWcUVNNFJLQnNfLWdId0lua243Tm1vUkVLNG9VVk4yVVZrbUd4bE5jVmxoTW9ZZEM5dWVNQzFQTTRWQzdvVldfZGNKckdoNTdiUTg1UnJRb3R3OEtXTDBadw?oc=5",
@@ -131,22 +140,22 @@
       "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
     {
-      "title": "Stock Market: Sensex, Nifty Extend Losing Streak To 8th Consecutive Week Amid FII Selling, Global Risks - etvbharat.com",
-      "source": "etvbharat.com",
+      "title": "Stock Market: Sensex, Nifty Extend Losing Streak To 8th Consecutive Week Amid FII Selling, Global Risks - ETV Bharat",
+      "source": "ETV Bharat",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQkJxYjdKY1ZaUEpvOGhTWkNjcWNJQkRtcHBSendLbURRWk13SGZ3dHNmVVN1X3M4dkVTU1MyNkdoZmVGSlRqOXVXbjEzX0FoaUJTQXZXODBQR01tcFAweUJuMmlvOTZoZE1JS294bEJoTExmb0g4Wl85RTZMYnI4bElEZkVxdDhxY3NEZWMwQUlkNmZKeFMtcm1nRW5yZndpRC1vOGtlbjE4UzhId3Q3djlNQ3lRRlk1d013ZHI0UGlaTHFzVDFkd1EwbGdaaTRSUGoyNWw2SnppNndNbjNhQVFOTzgzYXEt0gHuAUFVX3lxTE1UMl8xcEVfMW9lYjl0Q1JvZTExVXZmNm1EUG1vUlpKZlhZS1p6QWp5OF9zeHRNYmw2OE1ta0tUbU9pcmtybFNKbGdPcTZTNDZKYWNKQ0d1elNpcDlzdXVzQ2JrZE9KNlcxWXJaT1VZbVhZV01ybjJURnd1cHZ2SDNDMHJfdU5LVUZlbFJJRGY0Q3o1TGJhQTlYdFl2Y0k1eGJaQ0Y5NHhqMThGWEY2MXZyWXcxNmZxNTJRTWtfUnVOeGxzb2lNRFpTRWNfeGotR1dIeFB3SnBULWVfSVNGMTVMOHVDcjNPbEFreVBvbWc?oc=5",
       "publishedAt": "Fri, 02 Oct 2026 09:56:56 GMT"
-    },
-    {
-      "title": "October stock market holidays 2026: Will NSE, BSE be open on Gandhi Jayanti? Check full trading holiday... - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPelB3V25HMlpKRURIV3NzTjFrRmlCdGpKSjFETVJYbHd6am1NZm5LRDJUSUE1bVBUUnNjLWdvVENJeHJaMUxBczluZFBrT20wbEFQbGxlNmkyd19LZ2VwUWstUC0takFHMFE0aDY4amdsc1hQaU5pOVpGUm5PMEk2RzI1TWxKRVROVkpUS2RxMlRKanVZWWdLeUc3WEx2UHB3U1l2SGVhSHBZWjdRdXFBd0JFdTFtWUdab3pBRDBNbDZRRlczWlZXZzlIaHc3STZWalpMLThwR0NiN2dZOEZRc2RLSWJnSktMRFhiaUZMNzZIWGY0LWFpSnhJQUUzVGpTUEZzQXpIb2FCalYyaHFHMm5MUFdrdmVZXy000gGgAkFVX3lxTFBVTVN6cUlVVmxpb3NnXzRnV1RaY3RXZy04VUNtOHh3VWhod1MyUVF2NHF3dDhvUnJGVWl3SThFaWlLM0EzTGI5djVkNjJVbE0yTFlMTFBYNlZrYXJPaW91ZmIxbXpKSVNDY2dRNDdyV0VnN2VZaGp3dzJlQmtqYmo3UWhKaGFEVTVLdGhzVU1RZk8xQjUtZGk3cTlPRF9jS1k4dTBiUDhWWXVMR1d3Ti1YUlM3elV6SE1OT1FpbmpTX055TGtvUXFhMVdRMTlWTGx1YkQ1a3IySEdLZzNDelAtbkl4bW5Qb01UVFRKdUV1dVNfdVZ0UVlaMWc2VmQtX0xCUHdob1plV0RxdWpzQi1DNk5IbnlBM0dXNUVYTjZseA?oc=5",
-      "publishedAt": "Fri, 02 Oct 2026 16:23:25 GMT"
     },
     {
       "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 11:08:06 GMT"
+    },
+    {
+      "title": "October stock market holidays 2026: Will NSE, BSE be open on Gandhi Jayanti? Check full trading holiday... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPelB3V25HMlpKRURIV3NzTjFrRmlCdGpKSjFETVJYbHd6am1NZm5LRDJUSUE1bVBUUnNjLWdvVENJeHJaMUxBczluZFBrT20wbEFQbGxlNmkyd19LZ2VwUWstUC0takFHMFE0aDY4amdsc1hQaU5pOVpGUm5PMEk2RzI1TWxKRVROVkpUS2RxMlRKanVZWWdLeUc3WEx2UHB3U1l2SGVhSHBZWjdRdXFBd0JFdTFtWUdab3pBRDBNbDZRRlczWlZXZzlIaHc3STZWalpMLThwR0NiN2dZOEZRc2RLSWJnSktMRFhiaUZMNzZIWGY0LWFpSnhJQUUzVGpTUEZzQXpIb2FCalYyaHFHMm5MUFdrdmVZXy000gGgAkFVX3lxTFBVTVN6cUlVVmxpb3NnXzRnV1RaY3RXZy04VUNtOHh3VWhod1MyUVF2NHF3dDhvUnJGVWl3SThFaWlLM0EzTGI5djVkNjJVbE0yTFlMTFBYNlZrYXJPaW91ZmIxbXpKSVNDY2dRNDdyV0VnN2VZaGp3dzJlQmtqYmo3UWhKaGFEVTVLdGhzVU1RZk8xQjUtZGk3cTlPRF9jS1k4dTBiUDhWWXVMR1d3Ti1YUlM3elV6SE1OT1FpbmpTX055TGtvUXFhMVdRMTlWTGx1YkQ1a3IySEdLZzNDelAtbkl4bW5Qb01UVFRKdUV1dVNfdVZ0UVlaMWc2VmQtX0xCUHdob1plV0RxdWpzQi1DNk5IbnlBM0dXNUVYTjZseA?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 16:23:25 GMT"
     },
     {
       "title": "Over Rs 10,00,00,00,00,000 Wiped Out! Sensex Crashes 1,000 Points, Nifty 50 Slips Below 22,300 - NDTV Profit",
