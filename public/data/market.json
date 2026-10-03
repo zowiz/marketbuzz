@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex crashed 1,000 points as Indian markets posted longest weekly losing run in 25 years",
+  "headline": "Last session: Sensex crashed as Indian markets recorded their longest weekly losing run in 25 years",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,24 +7,32 @@
     "nextOpen": "Monday, 5 October 2026"
   },
   "why": [
-    "Foreign investors sold Indian stocks en-masse during the last session",
-    "Global rate hikes and rising oil prices sparked significant capital outflows",
-    "Equity markets have fallen for eight consecutive weeks, the first time in 25 years",
-    "The market is currently closed for the weekend following the Gandhi Jayanti holiday"
+    "Foreign investors sold Indian stocks en-masse",
+    "Global rate hikes and rising oil prices sparked significant outflows",
+    "Sanctions and tariffs are being weaponized as policy tools globally",
+    "Market failed to hold gains amid high volatility and global cues"
   ],
   "whatHappening": [
-    "Sensex plummeted 1,000 points on October 1, wiping out Rs 9 lakh crore in investor wealth",
-    "SEBI is finalizing a new framework for the Closing Auction Session after receiving 3,500 comments",
-    "Cube Highways Trust successfully raised Rs 1,150 crore through AAA-rated NCDs",
-    "RBI Governor warned that current financial resilience does not guarantee future stability"
+    "Equity markets fell for eight consecutive weeks for the first time in 25 years",
+    "Sensex crashed significantly on October 1, wiping out trillions in investor wealth",
+    "SEBI is set to issue a new framework for the Closing Auction Session soon",
+    "Markets remained closed on October 2 for Gandhi Jayanti and October 3-4 for the weekend"
   ],
   "stocksInNews": [
     {
-      "symbol": "PBFINTCH",
+      "symbol": "CUBEINVIT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "POLICYBZR",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        6
+        8
       ]
     },
     {
@@ -32,7 +40,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        6
+        8
       ]
     },
     {
@@ -40,23 +48,17 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "CUBEINVIT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        0
+        8
       ]
     }
   ],
-  "summary": "Indian markets are closed for the weekend following a massive crash where the Sensex lost 1,000 points due to aggressive foreign selling. The benchmarks have recorded their longest weekly losing streak in 25 years amid global macro concerns and oil price volatility. Investors are now focusing on upcoming Q2 earnings and new regulatory frameworks from SEBI.",
-  "updatedAt": "2026-10-03T09:31:42.447Z",
+  "summary": "Indian markets recorded a historic eighth consecutive weekly decline, the longest losing streak in 25 years, amid aggressive foreign selling. The Sensex crashed significantly in the last session, wiping out trillions in investor wealth. Markets remain closed for the weekend following the Gandhi Jayanti holiday.",
+  "updatedAt": "2026-10-03T10:01:46.464Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-03",
   "articleKeys": [
+    "india may finalise mrfa deal by current financial year iaf chief",
+    "nayara energy hikes petrol by 5 diesel by 3",
     "cube highways trust secures rs1150 crore through aaarated ncds",
     "sebi to soon issue framework on closing auction session receives over 3500 comments",
     "sebi to soon issue framework on cas receives over 3500 comments",
@@ -65,20 +67,30 @@
     "india vs malaysia live streaming how to watch asian games 2026 mens hockey gold medal match on tv online",
     "fampo talk 22600 is a key nifty support sudeep shah discusses pb fintech infosys tcs strategy ahead of q2",
     "sanctions tariffs sometimes weaponised as policy tools pk mishra",
-    "mysuru dasara 2026 11day celebrations to begin oct 11 vijayadashami procession on oct 21",
-    "abhishek sharma breaks chris gayles record smashes 7 sixes against pakistan in asian games final",
     "why did market crash today sensex drops 571 points nifty nears 22450 5 key factors behind rs 5 lakh cr the economic times",
     "closing bell market fails to hold gains nifty at 22620 sensex flat amid volatility moneycontrolcom",
     "stock market today highlights bse sensex closes almost 50 points down nse nifty50 ends above 22700 mark the times of india",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
-    "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 1 oct 2026 livemintcom",
+    "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 1 oct 2026 livemint",
     "equity markets fall for 8 consecutive weeks for first time in 25 years key factors behind decline moneycontrolcom",
-    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemintcom",
+    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "India may finalise MRFA deal by current financial year: IAF chief",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/news/national/india-may-finalise-mrfa-deal-by-current-financial-year-iaf-chief/article71540116.ece",
+      "publishedAt": "Sat, 03 Oct 2026 15:07:42 +0530"
+    },
+    {
+      "title": "Nayara Energy hikes petrol by ₹5, diesel by ₹3",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/nayara-energy-hikes-petrol-by-5-diesel-by-3/article71540153.ece",
+      "publishedAt": "Sat, 03 Oct 2026 14:31:18 +0530"
+    },
     {
       "title": "Cube Highways Trust secures Rs.1,150 crore through AAA-rated NCDs",
       "source": "Zerodha Pulse",
@@ -128,18 +140,6 @@
       "publishedAt": "Sat, 03 Oct 2026 13:23:06 +0530"
     },
     {
-      "title": "Mysuru Dasara 2026: 11-Day Celebrations To Begin Oct 11, Vijayadashami Procession On Oct 21",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/mysuru-dasara-2026-11-day-celebrations-to-begin-oct-11-vijayadashami-procession-on-oct-21-12132779#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 13:16:46 +0530"
-    },
-    {
-      "title": "Abhishek Sharma Breaks Chris Gayle’s Record, Smashes 7 Sixes Against Pakistan In Asian Games Final",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/abhishek-sharma-breaks-chris-gayle-s-record-smashes-7-sixes-against-pakistan-in-asian-games-final-12133100#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 13:12:12 +0530"
-    },
-    {
       "title": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOa2FJbGZhc2FObHZPcDQ2eWhNRy1GTThGSkpWOUFGbWt5VDRlRmhiSE9VaHlNN2NkV3kwQXhmT21SdWx3SXZwNlQ1QlRtSmpMOFBOdko5cmsxT3QyaFVFdi1Vbkp6U2lfaEZJb0dPNk12bjFFWXlHaXVmMU9BVlB0dXdEeWlrRjdyLUFNZzNVTUZtMGR1U3lNM20tN3phRmo1aFVobDlmMU1nUUR5djNtSjhLZmFpTzc0OVZVTkVZeXptc2tMb3pqelg2d0IybXlLS3M0Sk5zc19KSEpiVjJrOF9OUU43ZlJtWUEzd2ttNk9VWWFwN19uLUg3eTdVZzJZMDl0dVh4Y3V3bzl0d2VRWGRIVk4zcjJRNHfSAZ8CQVVfeXFMUHptakdTU1k5aVVSSU8wM0p5R3hsbmQySUhlSFB0Tm9rbU53SVJWM1ExMWVJSWZwVDU5amhEUHppN3V0TUV0NEpMTksyRmVuTXVtY2tMNTcxZGRPYkpXYUVWa1NZRDEtdjBicm5paFYtMVBnTHBsSXJQNG10aEVoZ0N3S2l6VEtSR0FRc2piYzcydGZ3Xy1EeS1zU3NXdW8zajRBV2hpYzRab2w3V1QwUDdkcGZ2Sm1uVjM5bHQ3UHRCZEpHTk5wMURyMURZb0VJVDhySkJNV3JQbGRrNml1cEtaNUpNTEZfWFRHVVFNM2hOZXpDOHQtdVVBdmV6c2JaYzl3WlRTX3pleGRmcmgtLUNaU28tS3FEcHZJQXY5Tmc?oc=5",
@@ -176,8 +176,8 @@
       "publishedAt": "Wed, 30 Sep 2026 11:08:06 GMT"
     },
     {
-      "title": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 1 Oct 2026 - livemint.com",
-      "source": "livemint.com",
+      "title": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 1 Oct 2026 - Livemint",
+      "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbTZnV0tHTFRyakhzXzgtNlpsaENsSEZMQjNIeGp5bTZqQ2tlanJwdk1OZ3NVNXU0OXhzOENhRktfMlZsa29Ka3JubTlKOFQ5ZWp3YmJESXZCN1JqWHQyQnNqV1UxWXo0ZVdmd21hc1hmRTk5WEdmNTQtdzg2WWFMOUlLUHhkUFotVmZER0dJN0xQX0dhMjZvWTNrNldSbHZpMG03RUR2NkxBTERxY2kwLTlVWjFJd2NZTFVDRW5RbEwtUExoamkwOHlEWTJsM3hIYTNfTTEtalM4bFNVNXJtcHpHR1RfVHVxZUZ1N2FzeEZZUU9abGNzeGZVM0x4d0FlOGlIZExuazRtQdIBjwJBVV95cUxQb1J3T0JjNTJUT2JwTTBscVdCa2JGRlp3S2pJZU83TFltbmJuUW9KR2d1MXBHYTNXOEpxQng2eF9TX1pWZU5uVmZhZDdmR19oQUg2Y1M3aFZEdFd4bEtpZllCXzZPUDRDMm55b3N3dUVqcFlaSndBYkh1eUhOMHJTNnlaSTZORWhGNWE0S1FES3pKRTE1U2ZDUUZZOVR1b2huelIyXzNPaWxfTFJYXzdZU1Z6a1ZzV0lBa0xvUnJXQVdsb3BYNUFYSUpfclRTT2h3UWExdzVNczdDNklTNHQ0VlRWalNMcWwzTzJ6MEtNLWo1amw1RktOSTdralk5NmNQS25vR0VyXzdxMlZkWXpz?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 11:00:58 GMT"
     },
@@ -188,8 +188,8 @@
       "publishedAt": "Thu, 01 Oct 2026 04:19:56 GMT"
     },
     {
-      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - livemint.com",
-      "source": "livemint.com",
+      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQXozTEF5ci05ekVqMzNQRWZocFNrLUJJU2VBSllHLWxHWnlPMzZOaHFheE1ab09fdDJXVEJTTWNVNDN6ZzdOZmpvMkhNQWtLdzdZSjdjMVZOTG15Z1F4bENWY1p4SGtVdEJVWWI0N0tpbVo0bjVqMFlpMWM4SGVVSS1OclFtbVZWWkx5R01ZaFlkbVJPd2xYV2ZsRkNBYTJYMWxVcE4tUFJnMzF3U3o1cGJpWVBzSkRzckRyc3k5WERDYmI5TFNOeWJ6Q2s5aFZ5dHpLaVR1eUdMdnFRVlQxMDJ5REdLdVdFemU4Qmt5SE4xc0FUbjJWYXNlUm5FNDVJa3h3TDNR0gGLAkFVX3lxTE8zRHB2em93TnNhcG9TYUU0YXJ4UVM1N3gyeEZNeW5EMkJIcWVyUEc1eG00X3VKNk5vRm1LMjdNaU1KTXlQaFFKdEp4Zkh4eEhUZXVwcnhDY1p3X1JkS2E1T21rT3FfNUV5LVkyQzlfTHNLekhBRm4yUldodnljcG5UYjdNT1ZrSTBTRXRhaVdFWXBPajd5MUwtaEp0cFBCT2tMM1RYOE1NamxwUnRvOHJqV0ZOblNsYUNINU9ORGp3eHU2TkNCRGhaMGxZQkV4cGpmTW5lZXBFU1FxTHd6bF9ocDc0M2VkRzhoUjh4bHFUM2IxZ3dTalZzczhoRzVUVTZIMno4RWwwR0t5aw?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 01:20:10 GMT"
     },
