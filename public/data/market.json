@@ -1,24 +1,32 @@
 {
-  "headline": "On last trading day, Sensex crashed 1,000 points as benchmarks recorded their longest weekly losing run in 25 years.",
+  "headline": "On last trading day, Sensex crashed 1,000 points as Indian markets posted longest weekly losing run in 25 years",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 5 October.",
-    "nextOpen": "Monday, 5 October"
+    "nextOpen": "Monday, 5 October 2026"
   },
   "why": [
-    "Foreign investors sold Indian stocks en-masse, wiping out Rs 9 lakh crore in a single session",
-    "Concerns over rising oil prices and global rate hikes sparked significant capital outflows",
-    "The market faced its eighth consecutive week of decline, a trend not seen in 25 years",
-    "Heightened volatility and cautious sentiment ahead of the upcoming Q2 earnings season"
+    "Foreign investors sold Indian stocks en-masse during the last session",
+    "Global rate hikes and rising oil prices sparked significant capital outflows",
+    "Equity markets have fallen for eight consecutive weeks, the first time in 25 years",
+    "The market is currently closed for the weekend following the Gandhi Jayanti holiday"
   ],
   "whatHappening": [
-    "SEBI is finalizing a framework for the Closing Auction Session after receiving over 3,500 comments",
-    "RBI Governor Shaktikanta Das warned that current financial resilience does not guarantee future stability",
-    "Cube Highways Trust successfully raised Rs 1,150 crore through AAA-rated non-convertible debentures",
-    "Nifty 22,600 has emerged as a key support level for traders following the recent market correction"
+    "Sensex plummeted 1,000 points on October 1, wiping out Rs 9 lakh crore in investor wealth",
+    "SEBI is finalizing a new framework for the Closing Auction Session after receiving 3,500 comments",
+    "Cube Highways Trust successfully raised Rs 1,150 crore through AAA-rated NCDs",
+    "RBI Governor warned that current financial resilience does not guarantee future stability"
   ],
   "stocksInNews": [
+    {
+      "symbol": "PBFINTCH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        6
+      ]
+    },
     {
       "symbol": "INFY",
       "sentiment": "Neutral",
@@ -36,15 +44,7 @@
       ]
     },
     {
-      "symbol": "PB Fintech",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "Cube Highways Trust",
+      "symbol": "CUBEINVIT",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
@@ -52,8 +52,8 @@
       ]
     }
   ],
-  "summary": "The Indian stock market is closed for the weekend following a sharp crash on Thursday where the Sensex dropped 1,000 points. Benchmarks have logged their worst monthly performance since March and their longest weekly losing streak in 25 years due to heavy FII selling. Investors are now monitoring SEBI's upcoming closing auction framework and Q2 earnings strategies for major IT firms.",
-  "updatedAt": "2026-10-03T09:01:53.094Z",
+  "summary": "Indian markets are closed for the weekend following a massive crash where the Sensex lost 1,000 points due to aggressive foreign selling. The benchmarks have recorded their longest weekly losing streak in 25 years amid global macro concerns and oil price volatility. Investors are now focusing on upcoming Q2 earnings and new regulatory frameworks from SEBI.",
+  "updatedAt": "2026-10-03T09:31:42.447Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-03",
   "articleKeys": [
@@ -73,9 +73,9 @@
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
-    "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 1 oct 2026 livemint",
+    "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 1 oct 2026 livemintcom",
     "equity markets fall for 8 consecutive weeks for first time in 25 years key factors behind decline moneycontrolcom",
-    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemintcom",
     "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom"
   ],
   "articles": [
@@ -176,8 +176,8 @@
       "publishedAt": "Wed, 30 Sep 2026 11:08:06 GMT"
     },
     {
-      "title": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 1 Oct 2026 - Livemint",
-      "source": "Livemint",
+      "title": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 1 Oct 2026 - livemint.com",
+      "source": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbTZnV0tHTFRyakhzXzgtNlpsaENsSEZMQjNIeGp5bTZqQ2tlanJwdk1OZ3NVNXU0OXhzOENhRktfMlZsa29Ka3JubTlKOFQ5ZWp3YmJESXZCN1JqWHQyQnNqV1UxWXo0ZVdmd21hc1hmRTk5WEdmNTQtdzg2WWFMOUlLUHhkUFotVmZER0dJN0xQX0dhMjZvWTNrNldSbHZpMG03RUR2NkxBTERxY2kwLTlVWjFJd2NZTFVDRW5RbEwtUExoamkwOHlEWTJsM3hIYTNfTTEtalM4bFNVNXJtcHpHR1RfVHVxZUZ1N2FzeEZZUU9abGNzeGZVM0x4d0FlOGlIZExuazRtQdIBjwJBVV95cUxQb1J3T0JjNTJUT2JwTTBscVdCa2JGRlp3S2pJZU83TFltbmJuUW9KR2d1MXBHYTNXOEpxQng2eF9TX1pWZU5uVmZhZDdmR19oQUg2Y1M3aFZEdFd4bEtpZllCXzZPUDRDMm55b3N3dUVqcFlaSndBYkh1eUhOMHJTNnlaSTZORWhGNWE0S1FES3pKRTE1U2ZDUUZZOVR1b2huelIyXzNPaWxfTFJYXzdZU1Z6a1ZzV0lBa0xvUnJXQVdsb3BYNUFYSUpfclRTT2h3UWExdzVNczdDNklTNHQ0VlRWalNMcWwzTzJ6MEtNLWo1amw1RktOSTdralk5NmNQS25vR0VyXzdxMlZkWXpz?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 11:00:58 GMT"
     },
@@ -188,8 +188,8 @@
       "publishedAt": "Thu, 01 Oct 2026 04:19:56 GMT"
     },
     {
-      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
+      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - livemint.com",
+      "source": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQXozTEF5ci05ekVqMzNQRWZocFNrLUJJU2VBSllHLWxHWnlPMzZOaHFheE1ab09fdDJXVEJTTWNVNDN6ZzdOZmpvMkhNQWtLdzdZSjdjMVZOTG15Z1F4bENWY1p4SGtVdEJVWWI0N0tpbVo0bjVqMFlpMWM4SGVVSS1OclFtbVZWWkx5R01ZaFlkbVJPd2xYV2ZsRkNBYTJYMWxVcE4tUFJnMzF3U3o1cGJpWVBzSkRzckRyc3k5WERDYmI5TFNOeWJ6Q2s5aFZ5dHpLaVR1eUdMdnFRVlQxMDJ5REdLdVdFemU4Qmt5SE4xc0FUbjJWYXNlUm5FNDVJa3h3TDNR0gGLAkFVX3lxTE8zRHB2em93TnNhcG9TYUU0YXJ4UVM1N3gyeEZNeW5EMkJIcWVyUEc1eG00X3VKNk5vRm1LMjdNaU1KTXlQaFFKdEp4Zkh4eEhUZXVwcnhDY1p3X1JkS2E1T21rT3FfNUV5LVkyQzlfTHNLekhBRm4yUldodnljcG5UYjdNT1ZrSTBTRXRhaVdFWXBPajd5MUwtaEp0cFBCT2tMM1RYOE1NamxwUnRvOHJqV0ZOblNsYUNINU9ORGp3eHU2TkNCRGhaMGxZQkV4cGpmTW5lZXBFU1FxTHd6bF9ocDc0M2VkRzhoUjh4bHFUM2IxZ3dTalZzczhoRzVUVTZIMno4RWwwR0t5aw?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 01:20:10 GMT"
     },
