@@ -1,62 +1,54 @@
 {
-  "headline": "On last trading day, Sensex and Nifty plunged, marking an eighth consecutive week of market declines.",
+  "headline": "On last trading day, Sensex dropped 571 points and Nifty closed at 22,422 amid extended losing streak.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 6 October.",
-    "nextOpen": "Tuesday, 6 October 2026"
+    "nextOpen": "Tuesday, 6 October"
   },
   "why": [
-    "Persistent FII selling and global volatility",
-    "Geopolitical tensions including the US-Iran conflict",
-    "Yield spikes and emerging risks to financial stability",
-    "Significant selling pressure in the Nifty Auto sector"
+    "Persistent foreign institutional investor (FII) selling pressure in the market.",
+    "Broad-based sell-off leading to an eighth consecutive weekly decline for benchmark indices.",
+    "Sharp decline in sectoral indices such as Nifty Auto, which slipped around 3%.",
+    "Massive loss of investor wealth with trillions of rupees wiped out in recent sessions."
   ],
   "whatHappening": [
-    "Sensex dropped 570.59 points while Nifty fell to 22,421.95 in the last session",
-    "Investors lost approximately Rs 5 lakh crore to Rs 9.5 lakh crore in market capitalization",
-    "The Indian market recorded its worst losing streak in years with eight straight weekly declines",
-    "RBI Governor outlined five key priorities to maintain financial stability amidst emerging risks"
+    "Sensex dropped 570.59 points on the last trading day to close lower.",
+    "Nifty end at 22,421.95, extending its losing streak to eight straight weeks.",
+    "SEBI received 20,000 comments on its consultation paper regarding the closing auction session.",
+    "Adani Airports announced plans to begin redevelopment of Mumbai Airport's Terminal 1B North Section."
   ],
   "stocksInNews": [
     {
-      "symbol": "TITAN",
+      "symbol": "ADANIENT",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
+        9
       ]
     }
   ],
-  "summary": "The Indian stock market ended the last session sharply lower, extending a record bear run to eight consecutive weeks of declines. Significant investor wealth was eroded as the Sensex fell over 570 points, driven by FII selling and global geopolitical concerns. Markets are currently closed for the weekend and will reopen on Tuesday, October 6.",
-  "updatedAt": "2026-10-03T17:31:33.850Z",
+  "summary": "On the last trading day, Indian equity benchmarks fell sharply as Sensex dropped over 570 points and Nifty ended at 22,421.95, marking an eighth straight weekly decline. Heavy selling across key sectors like Auto and persistent FII outflows weighed on investor sentiment. The market is closed today for the weekend and will reopen on Tuesday, 6 October.",
+  "updatedAt": "2026-10-03T18:01:34.443Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-03",
   "articleKeys": [
+    "dino morea questioned by mumbai eow in mithi river case over alleged rs 6554 crore loss",
+    "india summons pakistan envoy over ferozepur border firing incident",
+    "russiaukraine war ukraine calls indias peace proposal most comprehensive among four plans",
+    "harsh goenka praises odishas babeijoda village says why not every village and city",
+    "india at asian games 2026 day 16 full schedule match timings for sunday events",
+    "kuku revenue jumps sixfold to 1484 crore as ai fuels microdrama expansion",
     "korea to explore business opportunities in karnataka sectors",
-    "carlo ancelottis brazil cruise past india 40 in international friendly at salt lake stadium",
-    "sc order on unpaid traffic challans impact on rc puc licence what we know",
-    "drishyam the conclusion box office collection day 2 ajay devgn starrer continues strong run in india check earnings",
-    "rbi chief lays down 5 key priorities to maintain financial stability amidst emerging risks",
-    "titan company deepens focus on mechanical horology as category grows almost 5fold",
-    "punjabi influencer mad sandhu shot dead in amritsar police launch probe",
-    "week that was hdfc banks new ceo smit machchhars heroics yield spike usiran conflict more",
-    "man city whistleblower rui pinto to lose witness protection says he has received multiple death threats",
-    "rohit sharma says spending time with kids is his favourite way to unwind",
+    "usiran conflict bessent says tehran to have no oil at sea no revenues this week",
+    "sebi receives 20000 comments on consultation paper regarding closing auction session",
+    "adani airports to begin redevelopment of mumbai airports terminal 1b north section",
     "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
     "closing bell sensex nifty end lower again extend losing streak to eighth week in a row moneycontrolcom",
-    "why did market crash today sensex drops 571 points nifty nears 22450 5 key factors behind rs 5 lakh cr the economic times",
+    "why did market crash today sensex drops 571 points nifty nears 22450 5 key factors behind rs 5 lakh cr economictimescom",
     "over rs 1000000000000 wiped out sensex crashes 1000 points nifty 50 slips below 22300 ndtv profit",
     "stock market close sensex falls for 4th day ends 571pts down nifty at 22422 nifty auto slips 3 business standard",
-    "stock market crash how investors lost 95 lakh crore in over an hour top losers of sensex nifty livemintcom",
+    "stock market crash how investors lost 95 lakh crore in over an hour top losers of sensex nifty livemint",
     "why stock market was down today rs 6 lakh crore wiped out sensex nifty suffer worst losing streak in the times of india",
     "stock market crash highlights nifty sensex log 8th weekly decline in record bear run nselisted cos face rs 5 trillion mcap erosion ndtv profit",
     "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
@@ -64,64 +56,64 @@
   ],
   "articles": [
     {
+      "title": "Dino Morea Questioned By Mumbai EOW In Mithi River Case Over Alleged Rs 65.54 Crore Loss",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/actor-dino-morea-questioned-by-mumbai-eow-in-mithi-river-case-over-alleged-rs-65-54-crore-loss-12130904#publisher=newsstand",
+      "publishedAt": "Sat, 03 Oct 2026 22:36:02 +0530"
+    },
+    {
+      "title": "India summons Pakistan envoy over Ferozepur border firing incident",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/external-affairs-defence-security/news/india-summons-pakistan-envoy-over-ferozepur-border-firing-incident-126100300982_1.html",
+      "publishedAt": "Sat, 03 Oct 2026 22:34:48 +0530"
+    },
+    {
+      "title": "Russia-Ukraine War: Ukraine Calls India's Peace Proposal 'Most Comprehensive' Among Four Plans",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/russia-ukraine-war-ukraine-calls-indias-peace-proposal-most-comprehensive-among-four-plans-12135127#publisher=newsstand",
+      "publishedAt": "Sat, 03 Oct 2026 22:32:39 +0530"
+    },
+    {
+      "title": "Harsh Goenka Praises Odisha's Babeijoda Village, Says 'Why Not Every Village And City?'",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/trending/harsh-goenka-praises-odishas-babeijoda-village-says-why-not-every-village-and-city-12134654#publisher=newsstand",
+      "publishedAt": "Sat, 03 Oct 2026 22:29:24 +0530"
+    },
+    {
+      "title": "India At Asian Games 2026 Day 16: Full Schedule, Match Timings For Sunday Events",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/india-at-asian-games-2026-day-16-full-schedule-match-timings-for-sunday-events-12134659#publisher=newsstand",
+      "publishedAt": "Sat, 03 Oct 2026 22:23:05 +0530"
+    },
+    {
+      "title": "Kuku revenue jumps sixfold to ₹1,484 crore as AI fuels microdrama expansion",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/kuku-revenue-jumps-sixfold-to-1-484-crore-as-ai-fuels-microdrama-expansion-126100300968_1.html",
+      "publishedAt": "Sat, 03 Oct 2026 22:13:32 +0530"
+    },
+    {
       "title": "Korea to explore business opportunities in Karnataka sectors",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/korea-to-explore-business-opportunities-in-karnataka-sectors/article71541371.ece",
       "publishedAt": "Sat, 03 Oct 2026 22:07:58 +0530"
     },
     {
-      "title": "Carlo Ancelotti's Brazil Cruise Past India 4-0 In International Friendly At Salt Lake Stadium",
+      "title": "US-Iran Conflict: Bessent Says Tehran To Have No Oil At Sea, No Revenues This Week",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-vs-brazil-carlo-ancelottis-selecao-cruise-past-blue-tigers-4-0-in-international-football-friendly-at-salt-lake-stadium-in-kolkata-12134909#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 21:34:02 +0530"
+      "link": "https://www.ndtvprofit.com/world/us-iran-conflict-bessent-says-tehran-to-have-no-oil-at-sea-no-revenues-this-week-12134995#publisher=newsstand",
+      "publishedAt": "Sat, 03 Oct 2026 21:48:08 +0530"
     },
     {
-      "title": "SC Order On Unpaid Traffic Challans: Impact On RC, PUC, Licence — What We Know",
+      "title": "SEBI Receives 20,000 Comments On Consultation Paper Regarding Closing Auction Session",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/sc-order-on-unpaid-traffic-challans-impact-on-rc-puc-licence-what-we-know-12134792#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 21:26:41 +0530"
+      "link": "https://www.ndtvprofit.com/markets/sebi-receives-20-000-comments-on-consultation-paper-regarding-closing-auction-session-12134988#publisher=newsstand",
+      "publishedAt": "Sat, 03 Oct 2026 21:47:15 +0530"
     },
     {
-      "title": "Drishyam: The Conclusion Box Office Collection Day 2: Ajay Devgn Starrer Continues Strong Run In India — Check Earnings",
+      "title": "Adani Airports To Begin Redevelopment Of Mumbai Airport's Terminal 1B North Section",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/drishyam-the-conclusion-box-office-collection-day-2-ajay-devgn-starrer-continues-strong-run-in-india-check-earnings-12134722#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 21:22:00 +0530"
-    },
-    {
-      "title": "RBI chief lays down 5 key priorities to maintain financial stability amidst emerging risks",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/rbi-chief-lays-down-5-key-priorities-to-maintain-financial-stability-amidst-emerging-risks/article71540523.ece",
-      "publishedAt": "Sat, 03 Oct 2026 21:13:33 +0530"
-    },
-    {
-      "title": "Titan Company deepens focus on mechanical horology as category grows almost 5-fold",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/titan-company-deepens-focus-on-mechanical-horology-as-category-grows-almost-5-fold/article71538026.ece",
-      "publishedAt": "Sat, 03 Oct 2026 21:10:12 +0530"
-    },
-    {
-      "title": "Punjabi Influencer Mad Sandhu Shot Dead In Amritsar, Police Launch Probe",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/punjabi-influencer-mad-sandhu-shot-dead-in-amritsar-police-launch-probe-12134780#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 21:06:16 +0530"
-    },
-    {
-      "title": "Week That Was: HDFC Bank's New CEO, Smit Machchhar's Heroics, Yield Spike, US-Iran Conflict & More",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/week-that-was-hdfc-banks-new-ceo-smit-machchhars-heroics-yield-spike-us-iran-conflict-more-12134840#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 20:59:18 +0530"
-    },
-    {
-      "title": "Man City Whistleblower Rui Pinto To Lose Witness Protection, Says He Has Received 'Multiple Death Threats'",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/manchester-city-whistleblower-rui-pinto-to-lose-witness-protection-says-he-has-received-multiple-death-threats-12133917#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 20:41:56 +0530"
-    },
-    {
-      "title": "Rohit Sharma Says Spending Time With Kids Is His Favourite Way To Unwind",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/rohit-sharma-says-spending-time-with-kids-is-his-favourite-way-to-unwind-12134294#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 20:29:29 +0530"
+      "link": "https://www.ndtvprofit.com/business/adani-airports-to-begin-redevelopment-of-mumbai-airports-terminal-1b-north-section-12134951#publisher=newsstand",
+      "publishedAt": "Sat, 03 Oct 2026 21:43:18 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - The Times of India",
@@ -136,8 +128,8 @@
       "publishedAt": "Thu, 01 Oct 2026 10:52:11 GMT"
     },
     {
-      "title": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - The Economic Times",
-      "source": "The Economic Times",
+      "title": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - economictimes.com",
+      "source": "economictimes.com",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOa2FJbGZhc2FObHZPcDQ2eWhNRy1GTThGSkpWOUFGbWt5VDRlRmhiSE9VaHlNN2NkV3kwQXhmT21SdWx3SXZwNlQ1QlRtSmpMOFBOdko5cmsxT3QyaFVFdi1Vbkp6U2lfaEZJb0dPNk12bjFFWXlHaXVmMU9BVlB0dXdEeWlrRjdyLUFNZzNVTUZtMGR1U3lNM20tN3phRmo1aFVobDlmMU1nUUR5djNtSjhLZmFpTzc0OVZVTkVZeXptc2tMb3pqelg2d0IybXlLS3M0Sk5zc19KSEpiVjJrOF9OUU43ZlJtWUEzd2ttNk9VWWFwN19uLUg3eTdVZzJZMDl0dVh4Y3V3bzl0d2VRWGRIVk4zcjJRNHfSAZ8CQVVfeXFMUHptakdTU1k5aVVSSU8wM0p5R3hsbmQySUhlSFB0Tm9rbU53SVJWM1ExMWVJSWZwVDU5amhEUHppN3V0TUV0NEpMTksyRmVuTXVtY2tMNTcxZGRPYkpXYUVWa1NZRDEtdjBicm5paFYtMVBnTHBsSXJQNG10aEVoZ0N3S2l6VEtSR0FRc2piYzcydGZ3Xy1EeS1zU3NXdW8zajRBV2hpYzRab2w3V1QwUDdkcGZ2Sm1uVjM5bHQ3UHRCZEpHTk5wMURyMURZb0VJVDhySkJNV3JQbGRrNml1cEtaNUpNTEZfWFRHVVFNM2hOZXpDOHQtdVVBdmV6c2JaYzl3WlRTX3pleGRmcmgtLUNaU28tS3FEcHZJQXY5Tmc?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 07:34:54 GMT"
     },
@@ -154,8 +146,8 @@
       "publishedAt": "Thu, 01 Oct 2026 10:38:01 GMT"
     },
     {
-      "title": "Stock Market Crash: How investors lost ₹9.5 lakh crore in over an hour — Top losers of Sensex, Nifty - livemint.com",
-      "source": "livemint.com",
+      "title": "Stock Market Crash: How investors lost ₹9.5 lakh crore in over an hour — Top losers of Sensex, Nifty - Livemint",
+      "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNaUl5eUN3QkpEMndVNXl3Mlg3b0hOM2xWeklvVFZ0dXJTZ0NHQXFKTkF3YkRyS01oUzJvaGE4enNOaEZvX0h4SmtZRzBScTJvZC1PbHZEUXp3bWJlS2thamtmQ1NUaDhCNmVraHlVQlBXbEI1TDc1aGRFTWlIbm1oQmEydnNldGl2b2NtZThick1SY1JTZHNNRmp1bmlyUWJVREtNTldSeThXVjdiQXpHRTA2VEdabGRtSDRBS1d1T1ZRclhUQUxyZlZVOXVfTy11eVduQ0dzTDVhQ1hKUDVYSTlJTzRjSG0ySTlxZ01BdFBKX1I0QUdKZ1p0YjPSAYICQVVfeXFMTVN1cDV1bmhpTjR5dFk3RTdQbjJJWGpVMFAwNHNnS2tIcjZ1dGpUVG0wVjRZbHpORml0LTRhWkJJSTB2WEhVNVlITXZFZkpZT1E3OVdDQW5fY29RbC1NQ2c3V3Q4R20xQ0V3Q1hROHRXWUpnWXNTR09pVFozWTRrVUJWdGZ1a3c4MS1lRTNNLXQtNHVPMnNReUdlS2JUZHhvSVltMDVMQXRzSG9YUGg3cVpSdXY3Z2o2cmVmYlhCVHlsRk5VRlNSUWZvUU5qSkZMYWQ2T3hTTkk4dGRzeE91RFRncDJNWWlIZnRrTFhpbHFkSC1paVUtUXRhYThEcDlqbkxR?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 08:08:36 GMT"
     },
