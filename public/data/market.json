@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Indian benchmark shares fell amid heavy FII selling, recording longest weekly losing run in 25 years.",
+  "headline": "On last trading day, Indian benchmark shares recorded their longest weekly losing streak in 25 years.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,29 +7,53 @@
     "nextOpen": "Monday, 5 October 2026"
   },
   "why": [
-    "Massive selling by foreign institutional investors (FIIs) drove significant market drops.",
-    "Rising crude oil prices and global rate hikes triggered continuous foreign capital outflows.",
-    "Market volatility prevented benchmark indices like Nifty and Sensex from sustaining intraday recoveries.",
-    "Concerns over global macroeconomic conditions continued to depress market sentiment."
+    "En-masse selling by foreign investors wiped out massive investor wealth.",
+    "Rising crude oil prices and global interest rate hikes sparked heavy foreign capital outflows.",
+    "Market benchmark indices failed to hold intraday gains amid elevated market volatility.",
+    "Persistent selling pressure led to the worst monthly performance since March."
   ],
   "whatHappening": [
-    "Indian equity benchmark indices logged their worst weekly losing run in 25 years.",
-    "Markets fell for eight consecutive weeks as investors suffered massive wealth erosion.",
-    "Sensex crashed up to 1,000 points in recent sessions, wiping out billions in market capitalisation.",
-    "SEBI is evaluating position limits for non-agricultural derivative contracts to improve market liquidity."
+    "Sensex and Nifty benchmark indices suffered prolonged declines over recent trading sessions.",
+    "SEBI is examining position limits for non-agriculture contracts to boost overall liquidity.",
+    "RBI Governor Malhotra reiterated caution regarding cryptocurrencies while supporting underlying technology.",
+    "FSSAI reported finding Nestle Low Fat Dairy Whitener sample unsafe and substandard."
   ],
   "stocksInNews": [
     {
       "symbol": "NESTLEIND",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         7
       ]
+    },
+    {
+      "symbol": "MTNL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        18
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        18
+      ]
+    },
+    {
+      "symbol": "STLTECH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        18
+      ]
     }
   ],
-  "summary": "Indian benchmark indices closed lower in recent sessions, marking an eight-week losing streak—the longest in 25 years—driven by persistent foreign investor selling. Geopolitical tensions, global rate hikes, and rising oil prices further pressured investor sentiment. The market is closed today for the weekend and will resume trading on Monday, 5 October.",
-  "updatedAt": "2026-10-03T12:01:28.997Z",
+  "summary": "The Indian stock market logged its longest weekly losing streak in 25 years due to relentless foreign fund outflows and global headwinds. Meanwhile, regulatory bodies like SEBI and RBI continue reviewing policies around derivatives and technology. Individual stocks like MTNL, Kotak Bank, and Nestle remained in focus due to specific corporate developments.",
+  "updatedAt": "2026-10-03T12:31:15.071Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-03",
   "articleKeys": [
@@ -43,16 +67,16 @@
     "fssai finds nestle low fat dairy whitener at the lalit in delhi unsafe and substandard",
     "rbi remains cautious on crypto backs underlying technology governor malhotra",
     "verity box office collection day 1 anne hathawaydakota johnson starrer starts slowing down in india",
-    "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 timesofindiaindiatimescom",
+    "why did market crash today sensex drops 571 points nifty nears 22450 5 key factors behind rs 5 lakh cr the economic times",
+    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "closing bell market fails to hold gains nifty at 22620 sensex flat amid volatility moneycontrolcom",
-    "stock market today highlights bse sensex closes almost 50 points down nse nifty50 ends above 22700 mark timesofindiaindiatimescom",
+    "nse national stock exchange of india ltd live sharestock market news updates quotes nseindiacom nse india",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "stock market outlook october 2026 can sensex nifty recover what analysts are saying etv bharat",
-    "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
-    "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
-    "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters",
-    "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 1 oct 2026 livemint",
-    "equity markets fall for 8 consecutive weeks for first time in 25 years key factors behind decline moneycontrolcom"
+    "indian stock market records longest weekly losing streak in 25 years as nifty sensex slide caclubindia",
+    "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtvcom",
+    "mtnl kotak bank sterlite tech among buzzing stocks as sensex nifty50 tumble over 1 in noon deals upstox",
+    "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuters"
   ],
   "articles": [
     {
@@ -116,10 +140,16 @@
       "publishedAt": "Sat, 03 Oct 2026 15:42:57 +0530"
     },
     {
-      "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWjBqWExwOHJfbDIteUk1NF9IeUptVjN1ejhMMXdMV1U3QWhKWERHQm1fekNZckpLRE5aME5EYmFKM2szRjNBRVYwVUNjaVV0MkY4OUg0cWdCVzd0ZWcxM3ZfS3lWNUt5QWJyRmZ0UUR5MDZlOENZQ2x6UFBaTlg2T3REekRXMVZQcHc4Y1l6MmpqR1ZHdV9NazlIcWRiTy03TGhyaHlqdHdTdy0tUjJ4ajJUbEFlNDltUzZsLXpaRlYwNWdnX3d2dDFZRWNqLVFMTnpCSUt2MFlBNURISUxRV29nOGhkY080UFlxQkxUZDFVY3JRTjJFR29pLVhjWlhOU1ZmXzMteGNBeVBSLUlOdG9reWZjZFhGNEtfdzhNWXFfTWpoOXBoUG5UNmNra1VLU3FPaNIBugJBVV95cUxOS1JVdnhFYnN6S092dEN2Z1dmejJ4Sld2Rl9nckhveTBoQ1BzN0RHb0hmS3FiMV9NaWRqRXI4eWtsREN6dkl0RzdxN1g0UDlFMkNTVUdkcG1CV3dGSkhYYlJGeGkyZ3NldkRNSmRPVXhDX1dKc2dMR0JYYk5KQ2JveDNuMXBidEdGNFRoZFVpbThhd1hXUDRBSE5weWxnV01oRXNJbGQyWDQzTUY1UGhjdmJ0R05FbFVBT3A4cEtfdkJHMmlEMk5vWkJSa3UyenZtaWhDSVk5eFdSRHkxV3FvZkpWcUVNNFJLQnNfLWdId0lua243Tm1vUkVLNG9VVk4yVVZrbUd4bE5jVmxoTW9ZZEM5dWVNQzFQTTRWQzdvVldfZGNKckdoNTdiUTg1UnJRb3R3OEtXTDBadw?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 12:11:55 GMT"
+      "title": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOa2FJbGZhc2FObHZPcDQ2eWhNRy1GTThGSkpWOUFGbWt5VDRlRmhiSE9VaHlNN2NkV3kwQXhmT21SdWx3SXZwNlQ1QlRtSmpMOFBOdko5cmsxT3QyaFVFdi1Vbkp6U2lfaEZJb0dPNk12bjFFWXlHaXVmMU9BVlB0dXdEeWlrRjdyLUFNZzNVTUZtMGR1U3lNM20tN3phRmo1aFVobDlmMU1nUUR5djNtSjhLZmFpTzc0OVZVTkVZeXptc2tMb3pqelg2d0IybXlLS3M0Sk5zc19KSEpiVjJrOF9OUU43ZlJtWUEzd2ttNk9VWWFwN19uLUg3eTdVZzJZMDl0dVh4Y3V3bzl0d2VRWGRIVk4zcjJRNHfSAZ8CQVVfeXFMUHptakdTU1k5aVVSSU8wM0p5R3hsbmQySUhlSFB0Tm9rbU53SVJWM1ExMWVJSWZwVDU5amhEUHppN3V0TUV0NEpMTksyRmVuTXVtY2tMNTcxZGRPYkpXYUVWa1NZRDEtdjBicm5paFYtMVBnTHBsSXJQNG10aEVoZ0N3S2l6VEtSR0FRc2piYzcydGZ3Xy1EeS1zU3NXdW8zajRBV2hpYzRab2w3V1QwUDdkcGZ2Sm1uVjM5bHQ3UHRCZEpHTk5wMURyMURZb0VJVDhySkJNV3JQbGRrNml1cEtaNUpNTEZfWFRHVVFNM2hOZXpDOHQtdVVBdmV6c2JaYzl3WlRTX3pleGRmcmgtLUNaU28tS3FEcHZJQXY5Tmc?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 07:34:54 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQXozTEF5ci05ekVqMzNQRWZocFNrLUJJU2VBSllHLWxHWnlPMzZOaHFheE1ab09fdDJXVEJTTWNVNDN6ZzdOZmpvMkhNQWtLdzdZSjdjMVZOTG15Z1F4bENWY1p4SGtVdEJVWWI0N0tpbVo0bjVqMFlpMWM4SGVVSS1OclFtbVZWWkx5R01ZaFlkbVJPd2xYV2ZsRkNBYTJYMWxVcE4tUFJnMzF3U3o1cGJpWVBzSkRzckRyc3k5WERDYmI5TFNOeWJ6Q2s5aFZ5dHpLaVR1eUdMdnFRVlQxMDJ5REdLdVdFemU4Qmt5SE4xc0FUbjJWYXNlUm5FNDVJa3h3TDNR0gGLAkFVX3lxTE8zRHB2em93TnNhcG9TYUU0YXJ4UVM1N3gyeEZNeW5EMkJIcWVyUEc1eG00X3VKNk5vRm1LMjdNaU1KTXlQaFFKdEp4Zkh4eEhUZXVwcnhDY1p3X1JkS2E1T21rT3FfNUV5LVkyQzlfTHNLekhBRm4yUldodnljcG5UYjdNT1ZrSTBTRXRhaVdFWXBPajd5MUwtaEp0cFBCT2tMM1RYOE1NamxwUnRvOHJqV0ZOblNsYUNINU9ORGp3eHU2TkNCRGhaMGxZQkV4cGpmTW5lZXBFU1FxTHd6bF9ocDc0M2VkRzhoUjh4bHFUM2IxZ3dTalZzczhoRzVUVTZIMno4RWwwR0t5aw?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 01:20:10 GMT"
     },
     {
       "title": "Closing Bell: Market fails to hold gains; Nifty at 22,620, Sensex flat amid volatility - Moneycontrol.com",
@@ -128,10 +158,10 @@
       "publishedAt": "Wed, 30 Sep 2026 10:56:12 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: BSE Sensex closes almost 50 points down, NSE Nifty50 ends above 22,700 mark - timesofindia.indiatimes.com",
-      "source": "timesofindia.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNSXV4cVhFVEhkLXo2dVRFZW1OTXpyZTJkd3NmMUswSlA4bUYyWjY0OVByXzd5WVo1NHVwd1ppNkxmRG9sU2ItSnhtejZiZnJaekZ0OWZxWG5ieXpCa1ZGZnhDUUlTWDRLNWxtSmJXT1B3Y3dnZmJ1d1lOODkyUUp4NlotNE5QVTlzRkhTMlVSMFE1aTlKaTNVVXNodTRrRDF5TnJvX2pCUUFzNUIyUnZKU1RYSEFkaGFJV0FRS0ZVcU1uNl9OTkFwS2RfTzRKU0tOWEI1YThxSjRyTmdFeVBhbjJHLWk0RE1aM050Rzd6TnNST29ueGx5eHk1OXhnaWE2cFcxY29vWUJfRlNIWFJTNGNxR0V5d1FmWEM0Rmo0X1RySmdUbV9Uc1VZWmUwMExpNl9XSHVRb9IBvAJBVV95cUxPWEpSbG42WWRLaGM1cFRwNXpLZUU5Q1dYamtmVE1VYVJINlFJZWg2dVh6UTlnSzZBdGtRdHowMThWclQwYnJjVzgtamRzTEFJVUh0S3VTcW1tWXZpZlZ5R2tlNl9LWTBPdDVsMjU0bkJjd2VqX0M4bGcwTjhZamRic0J3OE5ldXpxX1ZHbEtncUFDcHMzQ3ZyNjUxNTR4TTh2Z0ZuMlpmb0x0YmlST092Q0wtYTdFeDNONjQ5dE1sZUpoYkg2cGJEeEhvYWtoMDA2cHJHYVZ3b014b2xRREp0VzlNU0xJeEhMV1hpOGhlT19rcjY5S1JSMDE1WmJzaTE3akxobkRQdUNLRFVvWkRfanRWdDZGYUdQUk5iQjN2T2tqYklxRnhxZ29VaFhGVlVzZ3Jrb0lPWk5ma0lT?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 10:20:14 GMT"
+      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
+      "source": "NSE India",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
@@ -146,34 +176,28 @@
       "publishedAt": "Sat, 03 Oct 2026 11:53:51 GMT"
     },
     {
-      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
-      "source": "NDTV",
+      "title": "Indian Stock Market Records Longest Weekly Losing Streak in 25 Years as Nifty, Sensex Slide - CAclubindia",
+      "source": "CAclubindia",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX0QyRC10by11bTFJZEtoWGFpQWtydGpBYUhKRGw1S3JMbFBVRUpLU0xhQU1ONVdVYXZMLVZXR2M5Q0JlZlJjTHk2U0pCREtybm9JR0t1Y3AzRmp5WmF6eUdjVXFOTk56RmZxdi1qcjdWMnkxTmhRUG9nMGw2ZlFubk1JLVY5VWExX082Zl9MemVFOXdwMU5PNlN1RG9BeWRLWU52SWV1dXRnVkJSM21iR0ZUeHpSdmM3RWh2ZHAxZm9MUjdsN25NbzRSNjk0Zw?oc=5",
+      "publishedAt": "Sat, 03 Oct 2026 03:43:00 GMT"
+    },
+    {
+      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - ndtv.com",
+      "source": "ndtv.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
     {
-      "title": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling - Goodreturns",
-      "source": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkZfc2syemoxZXByVTI1ek1maFRlU1gzOHNJWjVrT0RfaTVheGs1LWQzcVdkX19WS3lUTWlBN1c0UDQ2eDVGalk0MWl5Z1YwN3FRU3NfblhfbEdCVHBmOXVXaC15dWxkUUNLUlgyMHdjODFkcThoS0EwTWNMMEN6WGdFbnc5ZV83OW85aTRfMnFsZ1hwNXpPVDhFVTV3V1czbU1idW1MdGh4U25YejFZSWEyb0txSU01WEczcXNNLUlEWWV2SFRGMFZ2V1lqcFVpVlRvZVN4WVlkVEpZMEE?oc=5",
-      "publishedAt": "Sat, 03 Oct 2026 11:02:50 GMT"
+      "title": "MTNL, Kotak Bank, Sterlite Tech among buzzing stocks as SENSEX, NIFTY50 tumble over 1% in noon deals - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeDhPUXpPRDdPQkpVSjFaUDNlTzdWRDhteXBESHA0UVpJTVJ2ZG15RWhpaTdnOENiMkdHdGN4aS1wZ2JKX2F3d3QxU2NwT1VoVUNObDNscHlKVlNrZGVsdVoxd1NJWU5uWE11Si0ySXdLQnF1QjVUSjFOajR1cGx6NW9fWnVubUZBbGNfT2lubE1hNHFVWTMzaDcxUlpNb3RKYVluOU9uSjE2M0xNcXRlMm5jSjlweVgtQ01iYjI4eGVpZWx2dS1HTHZpN2Q3enBEbzdUMWVfb19tZDZoTG5hZ0hfSVZNZktHZmtfMA?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 08:24:30 GMT"
     },
     {
       "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRTNmakVIbE1QRkJkd0VLTm03TjkxX29LaTgtekt5UmxjUVBzckppYmctZVc5V0JWNUNtR2dOaVRpU1F1eTd4M2YybFJ1TC1ncEZzZERrd0ptTGlKSHVZVnRxcHhnUldJVDlLdUhIM0ZYS3IxNzk4TWctZVdVbFMyUTEtbWd6MjYwMWs4RFE4b3ZERVZlLUdNYWF3d0xHX2pNbEVNdll3?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 11:08:06 GMT"
-    },
-    {
-      "title": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 1 Oct 2026 - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbTZnV0tHTFRyakhzXzgtNlpsaENsSEZMQjNIeGp5bTZqQ2tlanJwdk1OZ3NVNXU0OXhzOENhRktfMlZsa29Ka3JubTlKOFQ5ZWp3YmJESXZCN1JqWHQyQnNqV1UxWXo0ZVdmd21hc1hmRTk5WEdmNTQtdzg2WWFMOUlLUHhkUFotVmZER0dJN0xQX0dhMjZvWTNrNldSbHZpMG03RUR2NkxBTERxY2kwLTlVWjFJd2NZTFVDRW5RbEwtUExoamkwOHlEWTJsM3hIYTNfTTEtalM4bFNVNXJtcHpHR1RfVHVxZUZ1N2FzeEZZUU9abGNzeGZVM0x4d0FlOGlIZExuazRtQdIBjwJBVV95cUxQb1J3T0JjNTJUT2JwTTBscVdCa2JGRlp3S2pJZU83TFltbmJuUW9KR2d1MXBHYTNXOEpxQng2eF9TX1pWZU5uVmZhZDdmR19oQUg2Y1M3aFZEdFd4bEtpZllCXzZPUDRDMm55b3N3dUVqcFlaSndBYkh1eUhOMHJTNnlaSTZORWhGNWE0S1FES3pKRTE1U2ZDUUZZOVR1b2huelIyXzNPaWxfTFJYXzdZU1Z6a1ZzV0lBa0xvUnJXQVdsb3BYNUFYSUpfclRTT2h3UWExdzVNczdDNklTNHQ0VlRWalNMcWwzTzJ6MEtNLWo1amw1RktOSTdralk5NmNQS25vR0VyXzdxMlZkWXpz?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 11:00:58 GMT"
-    },
-    {
-      "title": "Equity markets fall for 8 consecutive weeks for first time in 25 years; key factors behind decline - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdGxSSk9pVFhWaWd6YUhVVmxDalItUnRlLUtvNllsdG5JcHBhNHlORUpRaWkwQTJlbVFKTzdmWHFTZ0R6N2FnWDZzWW1QYnc2WU03OC1NTGZCM1pSN1lkQWhsYnhONi1iOHRqQnBVdkhfWF96VUg1ODAySlpVSFVZbWRQQ1pRYVVMczd6UTBtREhucE84Ukw4YTlRTFR3ZERYT3p5bXRuUlM1YUdsOF9xUzNiMFZUODcycU4xRjNscXB3eTNTWFhPTkl0clowbXZZSG5QTXNYMFFYUjRRYnZWazZvS08yMzBXT3FF0gHwAUFVX3lxTE1UTFNBOW1QODFDSklvWTdzWDQ2OFEyWVd5dml0cXA3ZnpQbWNiX0FVejFYNmJGUVMxUDlzSF9LVGVMLUhIbk1ubm1YTkp2bkQwN0ZrMVpkMmtVMU0zWkhJWWpFVVZHV3E4cjBaUmdzZGI5b0ROc19wZlNqcTNfaTJOTVI5amJkOVQwbXZ0ZUo2dWpqRFFrRWhpT0VWRmliQkVxVlNYRl9VRmhobEZlOWdpYVVMN2dZMDhtWk9ZMllYX1I0akJOYVNyU1RnN3NrNDlTUl8zM1VfWHVXdWlWYkEtUklQMXhfMV9wM3NqSXJYRA?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 04:19:56 GMT"
     }
   ]
 }
