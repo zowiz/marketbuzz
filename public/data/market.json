@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex and Nifty crashed amid heavy FII selling and global risks",
+  "headline": "On last trading day, Sensex and Nifty crashed amid heavy FII selling and global risks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,20 +7,50 @@
     "nextOpen": "Monday, 5 October"
   },
   "why": [
-    "Heavy selling by Foreign Institutional Investors (FIIs) pulling out ₹35,860 crore in September",
-    "Concerns over global rate hikes and rising oil prices sparking outflows",
-    "Global risks and weak sentiment in international markets",
-    "Longest weekly losing run in 25 years for benchmark shares"
+    "Foreign Portfolio Investors (FPIs) turned net sellers, pulling out ₹35,860 crore in September",
+    "Global risks and rising oil prices sparked significant capital outflows from Indian benchmarks",
+    "Weak US jobs data and global rate hike concerns weighed heavily on investor sentiment",
+    "Persistent selling pressure led to the longest weekly losing run for Indian shares in 25 years"
   ],
   "whatHappening": [
-    "Sensex crashed 1,000 points and Nifty 50 slipped below 22,300 in the last session",
-    "Indian benchmark shares recorded their worst month since March",
-    "The market was closed on October 2 for Gandhi Jayanti and remains closed for the weekend",
-    "UPI transaction volumes jumped 27% to reach 145 billion in the first half"
+    "Sensex crashed 1,000 points in the last session, wiping out approximately ₹9 lakh crore in wealth",
+    "Nifty 50 slipped below the 22,300 level during the recent market downturn",
+    "UPI transaction volumes jumped 27% to reach 145 billion in the first half of the year",
+    "Markets remained closed on Friday for Gandhi Jayanti and continue to be shut for the weekend"
   ],
-  "stocksInNews": [],
-  "summary": "The Indian stock market extended its losing streak to eight consecutive weeks, marking its worst performance in 25 years. Massive selling by foreign investors and global macro pressures led to a significant drop in benchmark indices during the last session. Trading is currently paused for the weekend and will resume on Monday.",
-  "updatedAt": "2026-10-03T02:16:32.127Z",
+  "stocksInNews": [
+    {
+      "symbol": "SENSEX",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 6/8 sources",
+      "articleIds": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18
+      ]
+    },
+    {
+      "symbol": "NIFTY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 5/8 sources",
+      "articleIds": [
+        10,
+        11,
+        12,
+        14,
+        15,
+        17,
+        18
+      ]
+    }
+  ],
+  "summary": "Indian benchmarks suffered a major sell-off in the last session, marking the longest weekly losing streak in 25 years.\nMassive FPI outflows and global macro concerns wiped out trillions in investor wealth.\nThe market is currently closed for the weekend and will reopen on Monday, October 5.",
+  "updatedAt": "2026-10-03T02:31:40.645Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-03",
   "articleKeys": [
@@ -35,14 +65,14 @@
     "upi volume jumps 27 to touch 145 bn in first half",
     "fpis turn net sellers pull out 35860 crore in september",
     "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
-    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market outlook today 1 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemintcom",
     "indian benchmark shares post longest weekly losing run in 25 years reuterscom",
-    "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtvcom",
+    "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
     "stock market sensex nifty extend losing streak to 8th consecutive week amid fii selling global risks etv bharat",
     "india benchmark shares log worst month since march as oil global rate hikes spark outflows reuterscom",
     "october stock market holidays 2026 will nse bse be open on gandhi jayanti check full trading holiday moneycontrolcom",
     "over rs 1000000000000 wiped out sensex crashes 1000 points nifty 50 slips below 22300 ndtv profit",
-    "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 1 oct 2026 livemint",
+    "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 1 oct 2026 livemintcom",
     "stock market holiday today on october 2 bse nse to remain closed for gandhi jayanti moneycontrolcom"
   ],
   "articles": [
@@ -113,8 +143,8 @@
       "publishedAt": "Thu, 01 Oct 2026 12:11:55 GMT"
     },
     {
-      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
+      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - livemint.com",
+      "source": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQXozTEF5ci05ekVqMzNQRWZocFNrLUJJU2VBSllHLWxHWnlPMzZOaHFheE1ab09fdDJXVEJTTWNVNDN6ZzdOZmpvMkhNQWtLdzdZSjdjMVZOTG15Z1F4bENWY1p4SGtVdEJVWWI0N0tpbVo0bjVqMFlpMWM4SGVVSS1OclFtbVZWWkx5R01ZaFlkbVJPd2xYV2ZsRkNBYTJYMWxVcE4tUFJnMzF3U3o1cGJpWVBzSkRzckRyc3k5WERDYmI5TFNOeWJ6Q2s5aFZ5dHpLaVR1eUdMdnFRVlQxMDJ5REdLdVdFemU4Qmt5SE4xc0FUbjJWYXNlUm5FNDVJa3h3TDNR0gGLAkFVX3lxTE8zRHB2em93TnNhcG9TYUU0YXJ4UVM1N3gyeEZNeW5EMkJIcWVyUEc1eG00X3VKNk5vRm1LMjdNaU1KTXlQaFFKdEp4Zkh4eEhUZXVwcnhDY1p3X1JkS2E1T21rT3FfNUV5LVkyQzlfTHNLekhBRm4yUldodnljcG5UYjdNT1ZrSTBTRXRhaVdFWXBPajd5MUwtaEp0cFBCT2tMM1RYOE1NamxwUnRvOHJqV0ZOblNsYUNINU9ORGp3eHU2TkNCRGhaMGxZQkV4cGpmTW5lZXBFU1FxTHd6bF9ocDc0M2VkRzhoUjh4bHFUM2IxZ3dTalZzczhoRzVUVTZIMno4RWwwR0t5aw?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 01:20:10 GMT"
     },
@@ -125,8 +155,8 @@
       "publishedAt": "Thu, 01 Oct 2026 11:13:47 GMT"
     },
     {
-      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - ndtv.com",
-      "source": "ndtv.com",
+      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
+      "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
@@ -155,8 +185,8 @@
       "publishedAt": "Thu, 01 Oct 2026 07:45:30 GMT"
     },
     {
-      "title": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 1 Oct 2026 - Livemint",
-      "source": "Livemint",
+      "title": "Stock market prediction for today: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 1 Oct 2026 - livemint.com",
+      "source": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbTZnV0tHTFRyakhzXzgtNlpsaENsSEZMQjNIeGp5bTZqQ2tlanJwdk1OZ3NVNXU0OXhzOENhRktfMlZsa29Ka3JubTlKOFQ5ZWp3YmJESXZCN1JqWHQyQnNqV1UxWXo0ZVdmd21hc1hmRTk5WEdmNTQtdzg2WWFMOUlLUHhkUFotVmZER0dJN0xQX0dhMjZvWTNrNldSbHZpMG03RUR2NkxBTERxY2kwLTlVWjFJd2NZTFVDRW5RbEwtUExoamkwOHlEWTJsM3hIYTNfTTEtalM4bFNVNXJtcHpHR1RfVHVxZUZ1N2FzeEZZUU9abGNzeGZVM0x4d0FlOGlIZExuazRtQdIBjwJBVV95cUxQb1J3T0JjNTJUT2JwTTBscVdCa2JGRlp3S2pJZU83TFltbmJuUW9KR2d1MXBHYTNXOEpxQng2eF9TX1pWZU5uVmZhZDdmR19oQUg2Y1M3aFZEdFd4bEtpZllCXzZPUDRDMm55b3N3dUVqcFlaSndBYkh1eUhOMHJTNnlaSTZORWhGNWE0S1FES3pKRTE1U2ZDUUZZOVR1b2huelIyXzNPaWxfTFJYXzdZU1Z6a1ZzV0lBa0xvUnJXQVdsb3BYNUFYSUpfclRTT2h3UWExdzVNczdDNklTNHQ0VlRWalNMcWwzTzJ6MEtNLWo1amw1RktOSTdralk5NmNQS25vR0VyXzdxMlZkWXpz?oc=5",
       "publishedAt": "Wed, 30 Sep 2026 11:00:58 GMT"
     },
