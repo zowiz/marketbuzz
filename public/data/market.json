@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Indian benchmarks recorded longest weekly losing run in 25 years as Sensex crashed 1,000 points",
+  "headline": "Last session: Indian benchmarks posted longest weekly losing run in 25 years as Sensex crashed 1,000 points",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,32 +7,41 @@
     "nextOpen": "Tuesday, 6 October 2026"
   },
   "why": [
-    "En-masse selling by foreign institutional investors (FIIs) amid global risks",
-    "Anticipation of a potential 25 bps RBI repo rate hike due to inflation pressures",
-    "Concerns over slow conversion and AI pressure in the IT sector Q2 results",
-    "Persistent volatility and short positions held by foreign investors"
+    "Heavy FII selling and foreign investors holding short positions due to global risks",
+    "Mounting inflation pressures leading to a potential 25 bps RBI repo rate hike",
+    "Persistent bearish sentiment resulting in an eight-week losing streak for benchmark indices",
+    "Investor caution ahead of the Q2 earnings season and upcoming RBI policy meeting"
   ],
   "whatHappening": [
-    "Sensex plummeted 1,000 points, wiping out Rs 9 lakh crore in investor wealth",
-    "Indian equity markets fell for eight consecutive weeks, a 25-year record",
-    "DMart reported Q2 revenue of over Rs 16,000 crore and expanded to 518 stores",
-    "GST Council may allow input tax credit on group insurance and leased vehicles"
+    "Indian benchmark indices recorded their longest weekly losing run in 25 years",
+    "DLF completed a ₹1,985 crore sell-out of its senior living project",
+    "DMart reported Q2 revenue exceeding ₹16,000 crore and expanded to 518 stores",
+    "A recent Sensex crash of 1,000 points wiped out ₹9 lakh crore in investor wealth"
   ],
   "stocksInNews": [
+    {
+      "symbol": "DLF",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        0
+      ]
+    },
     {
       "symbol": "DMART",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        7
+        8
       ]
     }
   ],
-  "summary": "Indian markets are closed for the weekend after the last session saw a 1,000-point Sensex crash and the longest weekly losing streak in 25 years. Heavy FII selling and inflation concerns regarding the upcoming RBI policy are weighing on sentiment. Investors are now looking toward Q2 earnings, starting with the IT sector and DMart's positive revenue update.",
-  "updatedAt": "2026-10-04T14:31:38.092Z",
+  "summary": "Indian markets are coming off their worst weekly losing streak in 25 years, driven by heavy FII selling and inflation concerns. While the broader market remains under pressure, individual stocks like DLF and DMart reported strong operational updates. Investors are now eyeing the upcoming RBI policy and Q2 earnings for direction.",
+  "updatedAt": "2026-10-04T14:59:56.676Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-04",
   "articleKeys": [
+    "dlf completes sellout in its senior living project for 1985 crore",
     "gst council may allow input tax credit on group insurance vehicles taken on lease",
     "rbi may hike repo rate by 25 bps in october as inflation pressures mount poll",
     "sigma box office collection day 2 jason sanjays actioncomedy thriller sees weekend drop after opening day",
@@ -42,19 +51,24 @@
     "verity box office collection day 2 anne hathawaydakota johnson starrer sees dip in india earnings",
     "dmart q2 business update revenue from operations exceeds rs 16000 crore established up to 518 stores",
     "week ahead on dstreet rbi policy q2 results fpi flows among key triggers to dictate sensex nifty",
-    "india champions vs england champions live streaming when and where to watch wcl 2026 match",
-    "indian benchmark shares post longest weekly losing run in 25 years reuterscom",
+    "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "stock market prediction for tomorrow 5 oct monday sensex nifty outlook dow jones nasdaq kospi nikkei taiwan cues livemint",
     "stock market outlook october 2026 can sensex nifty recover what analysts are saying etv bharat",
-    "ahead of market 10 things that will decide stock market action on monday economictimesindiatimescom",
+    "ahead of market 10 things that will decide stock market action on monday the economic times",
     "share market news nifty 50 outlook prediction liquide blog",
     "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
     "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
     "equity markets fall for 8 consecutive weeks for first time in 25 years key factors behind decline moneycontrolcom",
-    "foreign investors are short on indian markets as global risks weigh businessstandardcom",
-    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint"
+    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint",
+    "foreign investors are short on indian markets as global risks weigh business standard"
   ],
   "articles": [
+    {
+      "title": "DLF completes sell-out in its senior living project for ₹1,985 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/dlf-sells-all-172-senior-living-homes-in-gurugram-project-for-1-985-cr-126100400374_1.html",
+      "publishedAt": "Sun, 04 Oct 2026 19:39:23 +0530"
+    },
     {
       "title": "GST Council May Allow Input Tax Credit On Group Insurance, Vehicles Taken On Lease",
       "source": "Zerodha Pulse",
@@ -110,14 +124,8 @@
       "publishedAt": "Sun, 04 Oct 2026 17:26:23 +0530"
     },
     {
-      "title": "India Champions vs England Champions Live Streaming: When And Where To Watch WCL 2026 Match",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-champions-vs-england-champions-when-and-where-to-watch-wcl-2026-match-12133128#publisher=newsstand",
-      "publishedAt": "Sun, 04 Oct 2026 17:24:38 +0530"
-    },
-    {
-      "title": "Indian benchmark shares post longest weekly losing run in 25 years - reuters.com",
-      "source": "reuters.com",
+      "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 02:33:47 GMT"
     },
@@ -134,8 +142,8 @@
       "publishedAt": "Sat, 03 Oct 2026 11:53:51 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - economictimes.indiatimes.com",
-      "source": "economictimes.indiatimes.com",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
+      "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeERMZWF6eWxpb2JUUENRWVp6VkZLbjMxbEVueG9xMzIzWEZzelp3OFNqbHlIQVhfNWFwSEZaU2l5V0Y5ZUpJNk95SnptakdHMmlSTTFWRDNVOS1kWk1aRXU3TTdNTlhqemJvdlQxOWpYODlxbFlyX0FFeTBKdTRqVmJ4R1RKcEtrQ21meFpvVXFaZGZmYkYwRFZCVVk0UjdlazlOUUFkc25idDVhUXYtTEZoNi14RmpKT2NtUDcyU0Y2SENoZ0pMYUtfNTZoNWhlTzQwdTZ3Ym5GQjZkTFJyekIzSVQzSE1ucUNB0gHkAUFVX3lxTE1JWWZ0Wm85MWdOcjR5TjBqQ1djQUdTSllCTkxjRngxRGQ1cW9aVjFhUENtMnpocEI4R25Rcjk2QkdLbkNXOTNRTkNEWDczNmFoc2xkTlhJalFkZkt1RGNDa3BOTGxvQUZ0QzhoUVJoZGhUaThNOVJPQmxkb1RXV2dyQ0NJZ1RDYThwMnd4Nnk1QUd2b29aLUVSX0RkUVhWcjFrYWJRakgyN0hBakpNdklLUWxDVDhZV3B3bWJ1a0pGWTYwNnZYNnJfMWZuWHJrOUZWSEpETU9MS2hvTzUzRlpwVzZXYw?oc=5",
       "publishedAt": "Sun, 04 Oct 2026 10:47:40 GMT"
     },
@@ -143,7 +151,7 @@
       "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
       "source": "Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1pWNnU5Rl9feER0WXN1ZFB1MmdLb1pQUFVvTTBFTmFDeXBMd1FWbEdTOUZ4a3hTMHhXSUlSTkpnVFo2N254SHV6YWJoS00tTEVxaWZ5UFNDNTZ5Z0E4V3p4dXVvNVByR3FRY1Vib0hSd2ZOZG9qNUJiLTRhZWhZd3h4VzNUaUFYeEVDVE1FdlBBNENGeHg2aWZn?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 08:41:15 GMT"
+      "publishedAt": "Sun, 04 Oct 2026 12:57:45 GMT"
     },
     {
       "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
@@ -164,16 +172,16 @@
       "publishedAt": "Thu, 01 Oct 2026 04:19:56 GMT"
     },
     {
-      "title": "Foreign investors are short on Indian markets as global risks weigh - business-standard.com",
-      "source": "business-standard.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnlvSkdCcmJVNTFfWDBvMUp4bHpINnkzVzU5OTRzLUZ5SGtMQnptVmNBTTFRaXJLUnlBOVRocDBTQUx5YUo5T0pVUEE5U2IzZ2lmOXFKSTV2aG1XYjJBU3hIYjhGOVdCOTRVYWljSE5ucUtvbl8tWk84QVYxOE5nZmljeF9nZWh0amVYcXNTclcxSFQ5MXlRWGVmd0xyNHk1cmh5R2QwTFh3LTNObHJ2UE52cXA2MnVhNGtEYUJ2dEZhOHBVNzZ1cm9tSGRpZC1RSFNHZ2NHU0tsYzDSAeABQVVfeXFMT0NfbmZkckc1NEx6WXcxM1BXSkhaTk55TkdtSHpvNnZuWFpuWVRnbjdIR0ctanlWRHpyMTVUWDJiTnpneXZ3Wk9lVUl2MXlHZkE0MHFpZThtZFo4RnZjMFlwY3YyRHFPbGl2TGg5N25IMHFoVkk0cDhfYWpOOU81eU5kZHBvOUVVa0dBTjczLTl1VDBqVF8zbHcxNkJYWXlJdVV5U0k2OWtIM3B5LW1DaVJPMmVRY0F6SHRMU0pkY2steG9TLXRzUVhYVm9pUC04ODRLejBpems5MzVJZXZRemw?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 08:14:26 GMT"
-    },
-    {
       "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd0NvRVRSTDduVC1XRTZSdGF4N25IeTIzSVVRX2FTOVdyakkxTkd4aU9ZWDgzM2tiTDI4dG9meHNRbmJQNEtiOFdrd0R4ZzhGYUlMaC1pbkFkLTM1UXdydnpvYWxaanE5Z2MtRkpvV01ZeV91YkFuYkVPdXVLT1hYdTNvNER4WWtkcmlUVV93dEtUSldpRmFPbUp4YjUway1BcDJuQVJfS21tcWtLSE9vX051N1I4enFFanFrY0hmUFhSeW5ZSE5wVThybElpTFFGT202QllJdnVPUm0xMFV0Nm9HM3BJZDRlSnNjRXdrbi11N3plak83N0ZhN1Fhd01kWloxcW5MekFIZEZNbmRZOdIBlgJBVV95cUxOUm1GN0VHQ201M1JmT3JES3FLOVA3UkM2X1RjOS1zMGs3MlNkcmFjOWNTUTZWUU5MN2FtRFFUVThDTjhOQm5ZNVJSSFFnRWZ1Mk94dUx5NmhDX2VIMjhHZTgweTBCQURQdkNEVHhGMDM1eXBmRDZfcnRzOFFXanNZQ3NSRHB1aVkwM3h6N05TaEZDcTNmZzlURjF6R1BaRlIxTVhzQjJnRmowb3h2UWpWU2laSmgyY2ZUNjNTc1EwVjNvSzlicFRmQ1Nzbk9hTDI2UjN4QXVCQXItYVhrYi1xNjhNeERVb1kyam8xeXFhTHRLZHI3V0RreFdMbXhlRDlyOWNKWnFGanlib1hxYzhiNnZsMVg1Zw?oc=5",
       "publishedAt": "Sun, 04 Oct 2026 11:18:12 GMT"
+    },
+    {
+      "title": "Foreign investors are short on Indian markets as global risks weigh - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnlvSkdCcmJVNTFfWDBvMUp4bHpINnkzVzU5OTRzLUZ5SGtMQnptVmNBTTFRaXJLUnlBOVRocDBTQUx5YUo5T0pVUEE5U2IzZ2lmOXFKSTV2aG1XYjJBU3hIYjhGOVdCOTRVYWljSE5ucUtvbl8tWk84QVYxOE5nZmljeF9nZWh0amVYcXNTclcxSFQ5MXlRWGVmd0xyNHk1cmh5R2QwTFh3LTNObHJ2UE52cXA2MnVhNGtEYUJ2dEZhOHBVNzZ1cm9tSGRpZC1RSFNHZ2NHU0tsYzDSAeABQVVfeXFMT0NfbmZkckc1NEx6WXcxM1BXSkhaTk55TkdtSHpvNnZuWFpuWVRnbjdIR0ctanlWRHpyMTVUWDJiTnpneXZ3Wk9lVUl2MXlHZkE0MHFpZThtZFo4RnZjMFlwY3YyRHFPbGl2TGg5N25IMHFoVkk0cDhfYWpOOU81eU5kZHBvOUVVa0dBTjczLTl1VDBqVF8zbHcxNkJYWXlJdVV5U0k2OWtIM3B5LW1DaVJPMmVRY0F6SHRMU0pkY2steG9TLXRzUVhYVm9pUC04ODRLejBpems5MzVJZXZRemw?oc=5",
+      "publishedAt": "Sun, 04 Oct 2026 08:14:26 GMT"
     }
   ]
 }
