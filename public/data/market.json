@@ -1,5 +1,5 @@
 {
-  "headline": "Indian Markets Face Record Losing Streak Amid Massive FII Outflows and Global Geopolitical Tensions",
+  "headline": "Indian Markets Face Volatility Amid Longest Weekly Losing Streak in 25 Years and Persistent FII Outflows",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Persistent FII outflows and en-masse selling by foreign investors have pressured Indian equities",
-    "Geopolitical concerns regarding potential Hormuz disruption are impacting market sentiment",
-    "Indian benchmark shares posted their longest weekly losing run in 25 years",
-    "Significant wealth erosion occurred with Rs 9 lakh crore wiped out in recent market crashes"
+    "Persistent FII outflows and massive selling by foreign investors in the Indian equity market",
+    "Geopolitical tensions including potential disruptions in the Strait of Hormuz",
+    "Weak global cues from international markets including the Dow Jones, Nasdaq, and Nikkei",
+    "Technical breakdown as benchmark indices suffer their longest weekly losing streak in 25 years"
   ],
   "whatHappening": [
-    "Nifty 50 is testing critical support levels between 22,600 and 22,400",
-    "Bhavish Aggarwal is supporting Ola Electric's rights issue with his personal 4.32% stake",
-    "Equity markets have declined for eight consecutive weeks for the first time in over two decades",
-    "Analysts predict continued volatility for the trading week of October 5 to 9"
+    "Nifty 50 is testing key support levels between 22,400 and 22,600 amid the ongoing decline",
+    "Ola Electric founder Bhavish Aggarwal is supporting the company's rights issue with his own stake",
+    "Equity markets have fallen for eight consecutive weeks, wiping out trillions in investor wealth",
+    "The Indian government is planning a GST 2.0 compliance overhaul to provide relief to e-commerce sellers"
   ],
   "stocksInNews": [
     {
@@ -28,14 +28,16 @@
       ]
     },
     {
-      "symbol": "NIFTY50",
+      "symbol": "NIFTY_50",
       "sentiment": "Negative",
-      "sources": "Mentioned by 7/10 sources",
+      "sources": "Mentioned by 9/10 sources",
       "articleIds": [
         1,
+        10,
         11,
         12,
         13,
+        15,
         16,
         17,
         18,
@@ -45,15 +47,14 @@
     {
       "symbol": "SENSEX",
       "sentiment": "Negative",
-      "sources": "Mentioned by 6/10 sources",
+      "sources": "Mentioned by 5/10 sources",
       "articleIds": [
-        11,
+        10,
         12,
-        13,
-        15,
+        14,
+        16,
         17,
-        18,
-        19
+        18
       ]
     },
     {
@@ -61,12 +62,12 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        11
+        10
       ]
     }
   ],
-  "summary": "Indian equity markets are navigating a historic downturn, marking their longest weekly losing streak in 25 years. Massive FII selling and geopolitical risks have wiped out significant investor wealth, keeping the Nifty and Sensex under heavy pressure. Despite the broader market gloom, specific corporate actions like Ola Electric's rights issue are drawing investor attention.",
-  "updatedAt": "2026-10-04T20:31:27.700Z",
+  "summary": "The Indian stock market enters the October 5 session under significant pressure, following its longest weekly losing streak in 25 years. Investors are grappling with persistent FII outflows and geopolitical concerns in the Strait of Hormuz, which have recently wiped out trillions in market wealth. While benchmark indices like Nifty and Sensex face continued volatility, specific corporate actions such as Ola Electric's rights issue are drawing investor attention.",
+  "updatedAt": "2026-10-04T21:01:47.258Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-05",
   "articleKeys": [
@@ -80,15 +81,15 @@
     "ecom platform flipkart doubles active seller base on zerocommission boost",
     "drishyam the conclusion box office collection day 3 ajay devgn starrer continues strong run",
     "mandaadi box office collection day 24 soori starrer sees drop in collection will it touch rs 100 crore in india",
-    "share market live share market today latest share market news share market live updates on the economic times the economic times",
     "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
     "stock market outlook october 2026 can sensex nifty recover what analysts are saying etv bharat",
-    "ahead of market 10 things that will decide stock market action on monday economictimescom",
-    "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
-    "share market news nifty 50 outlook prediction liquide blog",
+    "ahead of market 10 things that will decide stock market action on monday the economic times",
+    "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtvcom",
+    "share market news nifty 50 outlook prediction blogliquidelife",
     "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
     "stock market prediction for tomorrow 5 oct monday sensex nifty outlook dow jones nasdaq kospi nikkei taiwan cues livemint",
+    "why stock market was down today rs 6 lakh crore wiped out sensex nifty suffer worst losing streak in the times of india",
     "equity markets fall for 8 consecutive weeks for first time in 25 years key factors behind decline moneycontrolcom"
   ],
   "articles": [
@@ -153,12 +154,6 @@
       "publishedAt": "Sun, 04 Oct 2026 21:34:39 +0530"
     },
     {
-      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 11:14:01 GMT"
-    },
-    {
       "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd0NvRVRSTDduVC1XRTZSdGF4N25IeTIzSVVRX2FTOVdyakkxTkd4aU9ZWDgzM2tiTDI4dG9meHNRbmJQNEtiOFdrd0R4ZzhGYUlMaC1pbkFkLTM1UXdydnpvYWxaanE5Z2MtRkpvV01ZeV91YkFuYkVPdXVLT1hYdTNvNER4WWtkcmlUVV93dEtUSldpRmFPbUp4YjUway1BcDJuQVJfS21tcWtLSE9vX051N1I4enFFanFrY0hmUFhSeW5ZSE5wVThybElpTFFGT202QllJdnVPUm0xMFV0Nm9HM3BJZDRlSnNjRXdrbi11N3plak83N0ZhN1Fhd01kWloxcW5MekFIZEZNbmRZOdIBlgJBVV95cUxOUm1GN0VHQ201M1JmT3JES3FLOVA3UkM2X1RjOS1zMGs3MlNkcmFjOWNTUTZWUU5MN2FtRFFUVThDTjhOQm5ZNVJSSFFnRWZ1Mk94dUx5NmhDX2VIMjhHZTgweTBCQURQdkNEVHhGMDM1eXBmRDZfcnRzOFFXanNZQ3NSRHB1aVkwM3h6N05TaEZDcTNmZzlURjF6R1BaRlIxTVhzQjJnRmowb3h2UWpWU2laSmgyY2ZUNjNTc1EwVjNvSzlicFRmQ1Nzbk9hTDI2UjN4QXVCQXItYVhrYi1xNjhNeERVb1kyam8xeXFhTHRLZHI3V0RreFdMbXhlRDlyOWNKWnFGanlib1hxYzhiNnZsMVg1Zw?oc=5",
@@ -168,7 +163,7 @@
       "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 02:33:47 GMT"
+      "publishedAt": "Fri, 02 Oct 2026 04:33:13 GMT"
     },
     {
       "title": "Stock Market Outlook October 2026: Can Sensex, Nifty Recover? What Analysts Are Saying - ETV Bharat",
@@ -177,20 +172,20 @@
       "publishedAt": "Sat, 03 Oct 2026 11:53:51 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - economictimes.com",
-      "source": "economictimes.com",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
+      "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQak5mZHZ6UzdxbXl1MXpQeTFKSlBRYmExbUxfaHB0aDZ1TlFjTkxVMGVBU3cySGhtQ1JGcTY2MF84V0RmNnhwa1NYU3l0RlR3OU9VY3o3Z213VjhBWkd1emJ3RGl2emRsOXNQRE1UZUptbnkxeWJzZWxKbkNKMzhndmp1bTBHN0FvdFByYlBGQ3AwbUlBajdKbWZ6dGw1T1hPY1lrck0xQ1VETVZ2YUdObzFqT000WFZjaTJUNk1zaXpqdTVkaFh6NGtiQnZiQmR4V1JrcGd3MHlEaExoWjFj0gHkAUFVX3lxTE1JWWZ0Wm85MWdOcjR5TjBqQ1djQUdTSllCTkxjRngxRGQ1cW9aVjFhUENtMnpocEI4R25Rcjk2QkdLbkNXOTNRTkNEWDczNmFoc2xkTlhJalFkZkt1RGNDa3BOTGxvQUZ0QzhoUVJoZGhUaThNOVJPQmxkb1RXV2dyQ0NJZ1RDYThwMnd4Nnk1QUd2b29aLUVSX0RkUVhWcjFrYWJRakgyN0hBakpNdklLUWxDVDhZV3B3bWJ1a0pGWTYwNnZYNnJfMWZuWHJrOUZWSEpETU9MS2hvTzUzRlpwVzZXYw?oc=5",
       "publishedAt": "Sun, 04 Oct 2026 10:47:40 GMT"
     },
     {
-      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
-      "source": "NDTV",
+      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - ndtv.com",
+      "source": "ndtv.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
     {
-      "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
-      "source": "Liquide Blog",
+      "title": "Share Market News: Nifty 50 Outlook & Prediction - blog.liquide.life",
+      "source": "blog.liquide.life",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1pWNnU5Rl9feER0WXN1ZFB1MmdLb1pQUFVvTTBFTmFDeXBMd1FWbEdTOUZ4a3hTMHhXSUlSTkpnVFo2N254SHV6YWJoS00tTEVxaWZ5UFNDNTZ5Z0E4V3p4dXVvNVByR3FRY1Vib0hSd2ZOZG9qNUJiLTRhZWhZd3h4VzNUaUFYeEVDVE1FdlBBNENGeHg2aWZn?oc=5",
       "publishedAt": "Sun, 04 Oct 2026 12:57:45 GMT"
     },
@@ -205,6 +200,12 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQd25zczBMcWMxSmhGWU1pR01iWG5pMlRtTUwwR0ZOWl9ZbTdNQXZ2WEdLTk84SEFyeGl0YkFRazY3STl5Wl9zU1JRd2hMaFZtNzMtempfdk8ySDVQcV9scVFoU09WckgwV0RiMEJLQkxweVVUVUVCWU1zQ3p6Q3ZRTDBhUlFzbjBKajE1Q3BOOURaVExFR29JVzdSWnRJUE95OTgyaG1LVWlIWFJ6MFF4aWJGODQ1M3kyRkdyd2FrYmRrYVJ2VGwwdWxaSEdYOHdWVktIMFBvVjJZN3l6aUhLU1h1aWw3Ulh6aTBSem92SER4WWVEWjQ5T1pJbzE2bzM2NVY3WGc4ZEhkOS1xcUJB0gGUAkFVX3lxTE9iTF9TQkdKRHR6MEdPS1ZCaDJtYXFvTFUwZFJQM3dWdXZ0MkJmeHNneFVpVUEzZkNremlEMWJDUDdxQ3dBTnlwOU1GS1N6YmZsNlNOZUpPdVJrQ2p0eC1xUHJCUkN6dDM3dS0zMDk1c21XeTZXWGtsNUx0Z1hydndCYm9fS3EtMWpuOGFpamdHVUZFTy1ycFhpajkxZzJTTWViOVY2OHlzc0JWYXFmbDJqczdYd0FlaXhpVkc3QWRmTU00alRpSmVDamhHTUhlc25NVFRlejhwOFpSNjc2c2d3X3g2LU5vZExadWdORkxOUGR3c0VaRjNiTzRDNW9UVGpSbnFVaW1BejFpUE1TQW1MWGZzRA?oc=5",
       "publishedAt": "Sun, 04 Oct 2026 04:39:44 GMT"
+    },
+    {
+      "title": "Why stock market was down today? Rs 6 lakh crore wiped out; Sensex, Nifty suffer worst losing streak in - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNWxfbDM3Qjd4Tm13aUg3T2R4ZFhjMElFdHIyQldHcVltX0ZtZXdsakJOT3U3ekFfT3VWZ0RDem5ZR2JIXzJsSlBuUDR4SzA4bTJkWVg5WkluaVFVWTBUYzJwbnFnTUhOempLeFluOEdnVUgwcGpvM2N1d0Z1TWVoaEhPR2RSMVluWG9KVUduWHJkMG9tTkoxcHdrcFkzV255N3BZemFHRVJTT3VGXzktYWdGX3YwQ2haMnp4cmdycDZmM2N3dmdqWmtaWkRYam5NVTlLZF9fdlVYMDBGWXZyWVJaWklfMUJ0a0EwY3QtNm5QSkpqOE44dmVWdzJ0MlpIQVA1UERwVl9teHpEY1dvctIBlgJBVV95cUxQckQ3bm4wX25ncVFVQVhkQjAzV2dka25EUGRINzhjSkhNOWptUTVFeUt0MWdCZkVWWHI2VG9mLXNKc2tHeWxtMXN4RlJ2dDYxMFJRQ2RrQzdkdkR1Vy16QVJtZUtJZWpRTVl5SmtOcjhSUmZrOFdFZGd3QUY0TDUzNlN5eDFuaEVKZF96dURyV3JyOVpYQ1V0SERONjBHek9VVHlod3NDZjJPY3VrcFBjc2ozUGgxbXQ2SHhMMGhpZVBjdmRpWVZxclRaQmduLXhuZEhLNzgxVnRYemxkelVXUV9DQVF0QjhUQ1JRS1NCZUlyOUZkTUw2WG5VaXhMZUNRSDNUYlJQY2xYbUJKX0RtdlV0Y0RKUQ?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 09:20:00 GMT"
     },
     {
       "title": "Equity markets fall for 8 consecutive weeks for first time in 25 years; key factors behind decline - Moneycontrol.com",
