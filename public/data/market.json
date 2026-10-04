@@ -1,29 +1,64 @@
 {
-  "headline": "On last trading day, Sensex dropped 571 points while Nifty fell to 22,422, extending weekly losses.",
+  "headline": "Last session: Sensex and Nifty logged eighth weekly decline, marking the longest losing run in 25 years.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 5 October.",
-    "nextOpen": "Monday, 5 October"
+    "nextOpen": "Monday, 5 October 2026"
   },
   "why": [
-    "Persistent foreign institutional investor (FII) selling weighed heavily on market sentiment.",
-    "Sharp losses in sectoral indices, including Nifty Auto which slipped 3%, dragged down key benchmarks.",
-    "Widespread selling across midcap and smallcap segments led to massive investor wealth erosion.",
-    "Prolonged market weakness resulted in the longest weekly losing streak for Indian equities in decades."
+    "Persistent selling by Foreign Institutional Investors (FIIs)",
+    "Concerns regarding rising yields and a potential AI bubble",
+    "Geopolitical tensions surrounding the Russia-Ukraine war",
+    "Significant weakness in the Nifty Auto sector which fell 3%"
   ],
   "whatHappening": [
-    "Sensex fell 570.59 points to close at lower levels, while Nifty 50 dropped to 22,421.95.",
-    "Indian benchmark shares posted their longest weekly losing run in 25 years.",
-    "NSE-listed companies faced significant market capitalization erosion over recent sessions.",
-    "Stock exchanges are closed today for the weekend and will resume trading on Monday, 5 October."
+    "Sensex and Nifty extended their losing streak to an eighth consecutive week",
+    "Approximately Rs 5 trillion in market capitalization was wiped out in the last session",
+    "Nifty 50 slipped below the 22,300 level during the recent market crash",
+    "The Indian benchmark indices posted their longest weekly losing run in 25 years"
   ],
-  "stocksInNews": [],
-  "summary": "In the last trading session, Indian benchmark indices continued their downward trend with the Sensex falling over 570 points and Nifty ending at 22,421.95. The decline extended the market's weekly losing streak to eight consecutive weeks amid persistent FII selling and weakness across key sectors like Auto. Indian equity markets are closed today for the weekend and will reopen on Monday, 5 October.",
-  "updatedAt": "2026-10-04T01:31:24.858Z",
+  "stocksInNews": [
+    {
+      "symbol": "NMDC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "ACCELYA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "PHCAPITAL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "PTC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    }
+  ],
+  "summary": "The Indian stock market concluded its last session with sharp losses, marking an eighth straight week of decline and the longest losing streak in 25 years. Trillions in investor wealth were eroded as the Sensex and Nifty buckled under heavy FII selling and global economic concerns. Markets remain closed for the weekend and are expected to reopen with continued volatility on Monday.",
+  "updatedAt": "2026-10-04T01:55:58.878Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-04",
   "articleKeys": [
+    "did kserials empower indian women flying biryani more",
+    "corporate actions this week nmdc accelya solutions ph capital ptc india check full list here",
     "india summons pakistan diplomat over continued crossborder infiltration",
     "shai hopes unbeaten 162 powers west indies to 5wicket win over india in 3rd odi",
     "ott releases this weekend pooja meri jaan kill jackie more heres what to watch",
@@ -32,20 +67,30 @@
     "dino morea questioned by mumbai eow in mithi river case over alleged rs 6554 crore loss",
     "india summons pakistan envoy over ferozepur border firing incident",
     "russiaukraine war ukraine calls indias peace proposal most comprehensive among four plans",
-    "harsh goenka praises odishas babeijoda village says why not every village and city",
-    "india at asian games 2026 day 16 full schedule match timings for sunday events",
-    "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
     "closing bell sensex nifty end lower again extend losing streak to eighth week in a row moneycontrolcom",
+    "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
     "why did market crash today sensex drops 571 points nifty nears 22450 5 key factors behind rs 5 lakh cr the economic times",
     "over rs 1000000000000 wiped out sensex crashes 1000 points nifty 50 slips below 22300 ndtv profit",
+    "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
+    "stock market highlights sept 28 sensex tanks 1124 points nifty ends below 22800 thehindubusinesslinecom",
     "stock market close sensex falls for 4th day ends 571pts down nifty at 22422 nifty auto slips 3 business standard",
     "why stock market was down today rs 6 lakh crore wiped out sensex nifty suffer worst losing streak in the times of india",
     "stock market crash highlights nifty sensex log 8th weekly decline in record bear run nselisted cos face rs 5 trillion mcap erosion ndtv profit",
-    "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
-    "stock market highlights sept 28 sensex tanks 1124 points nifty ends below 22800 thehindubusinesslinecom",
     "indian benchmark shares post longest weekly losing run in 25 years reuters"
   ],
   "articles": [
+    {
+      "title": "Did K-serials empower Indian women, flying biryani, & more...",
+      "source": "Zerodha Pulse",
+      "link": "https://finshots.in/archive/did-k-serials-empower-indian-women-flying-biryani-more/",
+      "publishedAt": "Sun, 04 Oct 2026 07:00:46 +0530"
+    },
+    {
+      "title": "Corporate Actions This Week: NMDC, Accelya Solutions, PH Capital, PTC India — Check Full List Here",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-nmdc-accelya-solutions-ph-capital-ptc-india-check-full-list-here-12133068#publisher=newsstand",
+      "publishedAt": "Sun, 04 Oct 2026 05:24:13 +0530"
+    },
     {
       "title": "India Summons Pakistan Diplomat Over 'Continued' Cross-Border Infiltration",
       "source": "Zerodha Pulse",
@@ -95,28 +140,16 @@
       "publishedAt": "Sat, 03 Oct 2026 22:32:39 +0530"
     },
     {
-      "title": "Harsh Goenka Praises Odisha's Babeijoda Village, Says 'Why Not Every Village And City?'",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/harsh-goenka-praises-odishas-babeijoda-village-says-why-not-every-village-and-city-12134654#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 22:29:24 +0530"
-    },
-    {
-      "title": "India At Asian Games 2026 Day 16: Full Schedule, Match Timings For Sunday Events",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-at-asian-games-2026-day-16-full-schedule-match-timings-for-sunday-events-12134659#publisher=newsstand",
-      "publishedAt": "Sat, 03 Oct 2026 22:23:05 +0530"
+      "title": "Closing Bell: Sensex, Nifty end lower again, extend losing streak to eighth week in a row - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxONU1lYUxXQWdUT1FEUEw4bXNsWFJIWTR1Qkh1UmtaSUhDaW5Hd3JaT3VhT3VFa1FURWxMbV9TTFlCdGQzLTRuZVRHaEdVQ0VSVmxrTDQ1MTVnZ1pnZjFYOXhVOU1jdG8zRTNOTU5xWGxfWlJ6ckxaNUo2TWVvb0FfdFQzYll2eFBDR2FaQi1vcjh5eFZaZDY4bnhrNlNqd2pvRzVob2JneVV3U3Q1c0VQTWluMXBNRW5iNkJtRWNwN1RCeHVSY3NJWFNzdEVxeXRsYlk2dWtoUzB1aG9oaHQtY0tBNDZLTDI3UzZlSWV5UTV0b0FYckc1Vmt3b1h6WEtydFVZSUNIWEQzS3ZtTkdYNUd3RzNEcmlmZGJGa3E1X3pwa2fSAagCQVVfeXFMTlhJcEpHcnN2T3Zta1JscmZucmlDTUtXSXhkeHAzbnpZa2hpOTJRbzFIaXpPZnM3R1QwNk9LWGJWeVJsQ0NZVHFwV21GUzIzNHRPMVFrTjUxVE1MamEyZHRFYVNRQ1RBbE0tNGFMUFd3c1dzSUNsMUI1YWQwSm5Ybm5RUjVrMkNBZnhaNWFLOGtaeS0tWHVPcmZBS0d4R3JadkVOTTNBUFZSLWJZYXVtdU5fUHR4dURibkNTNVNmLWRDbklIRVNMc295SGFSbm1feE5xcjVreTB4Q3ZvWVlGVXVtMzRJREVBd0dySGhiZGlKakdXeXVSV1h0WjFKbDU3QlBnVzJ5WENXYy16VTEyeUJWR1BPMzNlRHp3bUVINFM5dExfbzhNUU0?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 10:52:11 GMT"
     },
     {
       "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWjBqWExwOHJfbDIteUk1NF9IeUptVjN1ejhMMXdMV1U3QWhKWERHQm1fekNZckpLRE5aME5EYmFKM2szRjNBRVYwVUNjaVV0MkY4OUg0cWdCVzd0ZWcxM3ZfS3lWNUt5QWJyRmZ0UUR5MDZlOENZQ2x6UFBaTlg2T3REekRXMVZQcHc4Y1l6MmpqR1ZHdV9NazlIcWRiTy03TGhyaHlqdHdTdy0tUjJ4ajJUbEFlNDltUzZsLXpaRlYwNWdnX3d2dDFZRWNqLVFMTnpCSUt2MFlBNURISUxRV29nOGhkY080UFlxQkxUZDFVY3JRTjJFR29pLVhjWlhOU1ZmXzMteGNBeVBSLUlOdG9reWZjZFhGNEtfdzhNWXFfTWpoOXBoUG5UNmNra1VLU3FPaNIBugJBVV95cUxOS1JVdnhFYnN6S092dEN2Z1dmejJ4Sld2Rl9nckhveTBoQ1BzN0RHb0hmS3FiMV9NaWRqRXI4eWtsREN6dkl0RzdxN1g0UDlFMkNTVUdkcG1CV3dGSkhYYlJGeGkyZ3NldkRNSmRPVXhDX1dKc2dMR0JYYk5KQ2JveDNuMXBidEdGNFRoZFVpbThhd1hXUDRBSE5weWxnV01oRXNJbGQyWDQzTUY1UGhjdmJ0R05FbFVBT3A4cEtfdkJHMmlEMk5vWkJSa3UyenZtaWhDSVk5eFdSRHkxV3FvZkpWcUVNNFJLQnNfLWdId0lua243Tm1vUkVLNG9VVk4yVVZrbUd4bE5jVmxoTW9ZZEM5dWVNQzFQTTRWQzdvVldfZGNKckdoNTdiUTg1UnJRb3R3OEtXTDBadw?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 12:11:55 GMT"
-    },
-    {
-      "title": "Closing Bell: Sensex, Nifty end lower again, extend losing streak to eighth week in a row - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxONU1lYUxXQWdUT1FEUEw4bXNsWFJIWTR1Qkh1UmtaSUhDaW5Hd3JaT3VhT3VFa1FURWxMbV9TTFlCdGQzLTRuZVRHaEdVQ0VSVmxrTDQ1MTVnZ1pnZjFYOXhVOU1jdG8zRTNOTU5xWGxfWlJ6ckxaNUo2TWVvb0FfdFQzYll2eFBDR2FaQi1vcjh5eFZaZDY4bnhrNlNqd2pvRzVob2JneVV3U3Q1c0VQTWluMXBNRW5iNkJtRWNwN1RCeHVSY3NJWFNzdEVxeXRsYlk2dWtoUzB1aG9oaHQtY0tBNDZLTDI3UzZlSWV5UTV0b0FYckc1Vmt3b1h6WEtydFVZSUNIWEQzS3ZtTkdYNUd3RzNEcmlmZGJGa3E1X3pwa2fSAagCQVVfeXFMTlhJcEpHcnN2T3Zta1JscmZucmlDTUtXSXhkeHAzbnpZa2hpOTJRbzFIaXpPZnM3R1QwNk9LWGJWeVJsQ0NZVHFwV21GUzIzNHRPMVFrTjUxVE1MamEyZHRFYVNRQ1RBbE0tNGFMUFd3c1dzSUNsMUI1YWQwSm5Ybm5RUjVrMkNBZnhaNWFLOGtaeS0tWHVPcmZBS0d4R3JadkVOTTNBUFZSLWJZYXVtdU5fUHR4dURibkNTNVNmLWRDbklIRVNMc295SGFSbm1feE5xcjVreTB4Q3ZvWVlGVXVtMzRJREVBd0dySGhiZGlKakdXeXVSV1h0WjFKbDU3QlBnVzJ5WENXYy16VTEyeUJWR1BPMzNlRHp3bUVINFM5dExfbzhNUU0?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 10:52:11 GMT"
     },
     {
       "title": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - The Economic Times",
@@ -129,6 +162,18 @@
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTlJJMldmZ1hUOWtaT1NwNnpfRFhYaS00WmRoNGRXUzV3M0wzWkdTUWg5WmNGdDByTGEzZ09YaWNFTk5zbzhmdXNPM2stcGZtNFNHUVItcXpmMU9nTFBaR1hUdkNCT1hzUGt3cnFVZnhtRWxmZkdkN0xBSWE1NmhFLWt1aFc3RWlmckJJR3NuSWRBd3FPeDZqbkF3ejZrRkNCN3ZaaWtIaWJia3F1aFVWZzEteFhsM3loNFlWeTg0aDQtUE1pcGprVjQ0b3JDU2hEN0NMby03Q0g4QjhwV0xsdU9Fc0F5djA2VHVkNFg3dWxLR1Y4RUQzZUNmVTRDWDF0Vmw1NkFxM2lmN0dJckHSAZYCQVVfeXFMTWtxYkJGVWJldWQyTFNqX1IxWWlIY29xRi1oOExXdTdBQVdzNHNQbGs4c1pFem5FeTJhYnBwYWprZTRqT1RmeXJOY0d1UENsTmFydjVwRjZ3ekxJdjhLMUMxTVJEOVFQQ0RzQWxYNk44c3Znelp4Nlc0VUhBUFBTYlFvaDl6dDQtSEtUbk1IVDh0WV91UDR5cThWNFdfREpiNjJpaTBOanhfbkstNHd6dmtnc0JVbEhpNXBOYTI1MXlaSW9tS0J3bkVJdElWUW5UaEtybjBjMjRONDBhNWdYVl9UMGd4RXBMNllRcXFtM3ZGaG95UlZHM1pueElnRkF2VVZWQWZuTHM4NjJ5RWd6d2phdGtTVWc?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 07:45:30 GMT"
+    },
+    {
+      "title": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling - Goodreturns",
+      "source": "Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkZfc2syemoxZXByVTI1ek1maFRlU1gzOHNJWjVrT0RfaTVheGs1LWQzcVdkX19WS3lUTWlBN1c0UDQ2eDVGalk0MWl5Z1YwN3FRU3NfblhfbEdCVHBmOXVXaC15dWxkUUNLUlgyMHdjODFkcThoS0EwTWNMMEN6WGdFbnc5ZV83OW85aTRfMnFsZ1hwNXpPVDhFVTV3V1czbU1idW1MdGh4U25YejFZSWEyb0txSU01WEczcXNNLUlEWWV2SFRGMFZ2V1lqcFVpVlRvZVN4WVlkVEpZMEE?oc=5",
+      "publishedAt": "Sat, 03 Oct 2026 11:02:50 GMT"
+    },
+    {
+      "title": "Stock Market Highlights, Sept 28: Sensex tanks 1,124 points, Nifty ends below 22,800 - thehindubusinessline.com",
+      "source": "thehindubusinessline.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFFJVUNEVGhOYUFkbnlTblY5YjMzbEp1RlU4aVBvQXM1SXVpYjAzV2t1SlNFd3pRejNNc3ZLUExWc1dKVUNOcnB1UG9ZMWtIc1hBVHhvblpBYm5wV1J4N211VjY4ZUxsRXZVdHc2bjhUcUJvYjBOcFQ0STdfLXRIcU16SFRXX2ZkNHpoTk1Fei04RU5ITmdQVVprSFpJZ19Qa3l0RlNrN2syN2JNd2I1a3VrcmpNaThqQ1I4QnVR0gHEAUFVX3lxTE5ORENGUldmRTlxaHNFZjdtbnRmRFQyQ0VTMGltRUNLMjBWMmFvRjU0UjJrUHA0MzJjQlg2QlB6dDJ6QXNFeWpMWnN3RFBYNVlhMEI0aDh6NVlaenNWX2NUWHU1ZEVlaUdXd090RjRpemlLZEV2TDlJWmdvOWZpYnlFQUY4WEZQQVl4NFMtQjB1SnBaZXc2RmdvU0xpNkdfSkJwbS13aEFybFl2RmtyYTUxWHZvdkwwclNkdC1hVGhPU2VWMWE?oc=5",
+      "publishedAt": "Wed, 30 Sep 2026 10:31:48 GMT"
     },
     {
       "title": "Stock Market Close: Sensex falls for 4th day, ends 571pts down; Nifty at 22,422; Nifty Auto slips 3% - Business Standard",
@@ -147,18 +192,6 @@
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbVZ5VzZ3V2xkbGJPeXRZS3lPQ0FWUVVfeVlZNzJnbW40TGZaVElHVldxVWM4VUlydFRfNXRhbGcxZEFmcHVvZHNXWFhSV21FUDNkNUM1LTI3LVRTSlhXUDJsR3FvUWVQeVZ0Qk9FY0U3UXdDcERsQ0NGZXE4MkRYaVFXN1VBTjBMSV9sV3JTVkRBYUJMZ3U5OFRBTlFmdmJBazJ1OTlwTmM3emhTVUJBWjV3Qms0cE5jbGViTUptd242Y1ZNN3U0cGpNdHdEczY5X3hlWDU4T2JpMHpaUm5wY3BMaUFhUXJCQU9DTGJZZnd5VUNWS2RWbXBvMmlyQjVNR19XZEplT0xXWkIt0gGUAkFVX3lxTE5FWE1nc21QSUxXTVhJYWEwdGxDOG95ekdsejVQUjhhbXdwNVlSNVIyRXJGX0ZPZ2hzc3dhUVU5amJqTGRpYV9XS2hZY1pHcGpJWjlsYXY3QjZKY2pQUWc5dEFuY1BGRUVCc3g2TWF6MS10NEhyWDdGTll3TzhsUjFqY2dac3MzVmsxRkZETmRQUDByeTBZOV91SEpiZE5rVms5ZUt1bl9kQXdPN1RqMUotaS1lTjFGY2R2bFlITlNoaHJxT2hBVkRIZ2RkeGFYcTVjSVloZUlONkFPZEplajB6N2dZcGVKXy1oY1p1QlhEWWs2SW1KR2dVVUtLeWV2ZV9RYm00aWtUYm9PcFhvdXhIQWNBcQ?oc=5",
       "publishedAt": "Thu, 01 Oct 2026 10:35:13 GMT"
-    },
-    {
-      "title": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling - Goodreturns",
-      "source": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkZfc2syemoxZXByVTI1ek1maFRlU1gzOHNJWjVrT0RfaTVheGs1LWQzcVdkX19WS3lUTWlBN1c0UDQ2eDVGalk0MWl5Z1YwN3FRU3NfblhfbEdCVHBmOXVXaC15dWxkUUNLUlgyMHdjODFkcThoS0EwTWNMMEN6WGdFbnc5ZV83OW85aTRfMnFsZ1hwNXpPVDhFVTV3V1czbU1idW1MdGh4U25YejFZSWEyb0txSU01WEczcXNNLUlEWWV2SFRGMFZ2V1lqcFVpVlRvZVN4WVlkVEpZMEE?oc=5",
-      "publishedAt": "Sat, 03 Oct 2026 11:02:50 GMT"
-    },
-    {
-      "title": "Stock Market Highlights, Sept 28: Sensex tanks 1,124 points, Nifty ends below 22,800 - thehindubusinessline.com",
-      "source": "thehindubusinessline.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFFJVUNEVGhOYUFkbnlTblY5YjMzbEp1RlU4aVBvQXM1SXVpYjAzV2t1SlNFd3pRejNNc3ZLUExWc1dKVUNOcnB1UG9ZMWtIc1hBVHhvblpBYm5wV1J4N211VjY4ZUxsRXZVdHc2bjhUcUJvYjBOcFQ0STdfLXRIcU16SFRXX2ZkNHpoTk1Fei04RU5ITmdQVVprSFpJZ19Qa3l0RlNrN2syN2JNd2I1a3VrcmpNaThqQ1I4QnVR0gHEAUFVX3lxTE5ORENGUldmRTlxaHNFZjdtbnRmRFQyQ0VTMGltRUNLMjBWMmFvRjU0UjJrUHA0MzJjQlg2QlB6dDJ6QXNFeWpMWnN3RFBYNVlhMEI0aDh6NVlaenNWX2NUWHU1ZEVlaUdXd090RjRpemlLZEV2TDlJWmdvOWZpYnlFQUY4WEZQQVl4NFMtQjB1SnBaZXc2RmdvU0xpNkdfSkJwbS13aEFybFl2RmtyYTUxWHZvdkwwclNkdC1hVGhPU2VWMWE?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 10:31:48 GMT"
     },
     {
       "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
