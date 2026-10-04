@@ -1,29 +1,39 @@
 {
-  "headline": "Last session: Sensex and Nifty fell for the eighth straight week, marking the longest losing run in 25 years.",
+  "headline": "Last session: Indian benchmarks post longest weekly losing run in 25 years as Sensex crashes 1,000 points",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
-    "message": "Market is closed today because it is a weekend. It will reopen on Monday, 5 October.",
-    "nextOpen": "Monday, 5 October 2026"
+    "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 6 October.",
+    "nextOpen": "Tuesday, 6 October 2026"
   },
   "why": [
-    "Persistent FII selling and global cues weighed heavily on investor sentiment",
-    "Expectations of a 0.25% RBI rate hike in the upcoming October policy due to inflation",
-    "Geopolitical tensions as Iran warns of closing the Strait of Hormuz",
-    "Record bear run marking the longest weekly losing streak in over two decades"
+    "Massive en-masse selling of Indian stocks by foreign institutional investors",
+    "Global risks and geopolitical tensions, including potential closure of the Strait of Hormuz",
+    "Equity markets experiencing an eight-week decline, the longest in 25 years",
+    "Significant wealth erosion with ₹9 lakh crore wiped out in a single session"
   ],
   "whatHappening": [
-    "Sensex dropped 570.59 points while Nifty fell to 22,421.95 in the last session",
-    "NSE-listed companies faced a market capitalization erosion of approximately Rs 5 trillion",
-    "Flipkart doubled its active seller base over the last 15 months",
-    "FSSAI recalled Everest Cumin Powder and suspended Creative Bakers' license for safety violations"
+    "DLF successfully sold all 172 senior living homes in its Gurugram project for ₹1,985 crore",
+    "FSSAI recalled Everest Cumin Powder and suspended Creative Bakers' license over safety concerns",
+    "Flipkart doubled its active seller base to enhance its ecommerce platform presence",
+    "Analysts predict continued market volatility for the upcoming trading week starting Tuesday"
   ],
-  "stocksInNews": [],
-  "summary": "The Indian stock market is closed for the weekend after the last session saw the Sensex and Nifty extend their losing streak to eight weeks. This record bear run, the longest in 25 years, was driven by heavy FII selling and concerns over a potential 0.25% RBI rate hike. Investors are now looking toward Monday's reopening for signs of recovery or further volatility.",
-  "updatedAt": "2026-10-04T12:34:32.403Z",
+  "stocksInNews": [
+    {
+      "symbol": "DLF",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        0
+      ]
+    }
+  ],
+  "summary": "The Indian stock market is closed for the weekend after benchmarks recorded their longest weekly losing streak in 25 years. Driven by heavy FII selling and global risks, the Sensex recently crashed 1,000 points, though DLF reported strong sales for its Gurugram project. Investors are now looking toward Tuesday's reopening for signs of recovery amidst ongoing volatility.",
+  "updatedAt": "2026-10-04T13:02:52.758Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-04",
   "articleKeys": [
+    "dlf sells all 172 senior living homes in gurugram project for 1985 cr",
     "everest cumin powder recalled by fssai over excess pesticide residues check batch details",
     "fssai suspends creative bakers licence over severe hygiene lapses",
     "aibe 22 registration 2026 check last date to apply fees eligibilitykey details",
@@ -33,19 +43,24 @@
     "from himesh reshammiya hariharan to anu malik check bollywood music project 2026s lineup",
     "digger box office collection day 2 tom cruise starrer witnesses drop in earnings in india",
     "ahead of market 10 things that will decide stock market action on monday",
-    "experts poll rbi may hike rates by 025 in october policy amid inflationary pressures",
-    "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
-    "stock market prediction for tomorrow 5 oct monday sensex nifty outlook dow jones nasdaq kospi nikkei taiwan cues livemint",
-    "closing bell sensex nifty end lower again extend losing streak to eighth week in a row moneycontrolcom",
-    "stock market crash highlights nifty sensex log 8th weekly decline in record bear run nselisted cos face rs 5 trillion mcap erosion ndtv profit",
-    "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
-    "why stock market was down today rs 6 lakh crore wiped out sensex nifty suffer worst losing streak in the times of india",
-    "stock market highlights sept 28 sensex tanks 1124 points nifty ends below 22800 businessline",
     "indian benchmark shares post longest weekly losing run in 25 years reuters",
+    "stock market prediction for tomorrow 5 oct monday sensex nifty outlook dow jones nasdaq kospi nikkei taiwan cues livemint",
+    "stock market outlook october 2026 can sensex nifty recover what analysts are saying etv bharat",
     "ahead of market 10 things that will decide stock market action on monday the economic times",
-    "stock market outlook october 2026 can sensex nifty recover what analysts are saying etv bharat"
+    "share market news nifty 50 outlook prediction liquide blog",
+    "sensex crashes 1000 points rs 9 lakh crore wiped out as foreign investors sell indian stocks enmasse ndtv",
+    "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
+    "foreign investors are short on indian markets as global risks weigh business standard",
+    "equity markets fall for 8 consecutive weeks for first time in 25 years key factors behind decline moneycontrolcom",
+    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint"
   ],
   "articles": [
+    {
+      "title": "DLF sells all 172 senior living homes in Gurugram project for ₹1,985 cr",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/dlf-sells-all-172-senior-living-homes-in-gurugram-project-for-1-985-cr-126100400374_1.html",
+      "publishedAt": "Sun, 04 Oct 2026 17:23:46 +0530"
+    },
     {
       "title": "Everest Cumin Powder Recalled By FSSAI Over Excess Pesticide Residues — Check Batch Details",
       "source": "Zerodha Pulse",
@@ -101,16 +116,10 @@
       "publishedAt": "Sun, 04 Oct 2026 16:17:40 +0530"
     },
     {
-      "title": "Experts’ poll: RBI may hike rates by 0.25% in October policy amid inflationary pressures",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/experts-poll-rbi-may-hike-rates-by-025-in-october-policy-amid-inflationary-pressures/article71543381.ece",
-      "publishedAt": "Sun, 04 Oct 2026 16:05:22 +0530"
-    },
-    {
-      "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWjBqWExwOHJfbDIteUk1NF9IeUptVjN1ejhMMXdMV1U3QWhKWERHQm1fekNZckpLRE5aME5EYmFKM2szRjNBRVYwVUNjaVV0MkY4OUg0cWdCVzd0ZWcxM3ZfS3lWNUt5QWJyRmZ0UUR5MDZlOENZQ2x6UFBaTlg2T3REekRXMVZQcHc4Y1l6MmpqR1ZHdV9NazlIcWRiTy03TGhyaHlqdHdTdy0tUjJ4ajJUbEFlNDltUzZsLXpaRlYwNWdnX3d2dDFZRWNqLVFMTnpCSUt2MFlBNURISUxRV29nOGhkY080UFlxQkxUZDFVY3JRTjJFR29pLVhjWlhOU1ZmXzMteGNBeVBSLUlOdG9reWZjZFhGNEtfdzhNWXFfTWpoOXBoUG5UNmNra1VLU3FPaNIBugJBVV95cUxOS1JVdnhFYnN6S092dEN2Z1dmejJ4Sld2Rl9nckhveTBoQ1BzN0RHb0hmS3FiMV9NaWRqRXI4eWtsREN6dkl0RzdxN1g0UDlFMkNTVUdkcG1CV3dGSkhYYlJGeGkyZ3NldkRNSmRPVXhDX1dKc2dMR0JYYk5KQ2JveDNuMXBidEdGNFRoZFVpbThhd1hXUDRBSE5weWxnV01oRXNJbGQyWDQzTUY1UGhjdmJ0R05FbFVBT3A4cEtfdkJHMmlEMk5vWkJSa3UyenZtaWhDSVk5eFdSRHkxV3FvZkpWcUVNNFJLQnNfLWdId0lua243Tm1vUkVLNG9VVk4yVVZrbUd4bE5jVmxoTW9ZZEM5dWVNQzFQTTRWQzdvVldfZGNKckdoNTdiUTg1UnJRb3R3OEtXTDBadw?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 12:11:55 GMT"
+      "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 02:33:47 GMT"
     },
     {
       "title": "Stock market prediction for tomorrow, 5 Oct Monday: Sensex, Nifty outlook; Dow Jones, Nasdaq, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -119,40 +128,10 @@
       "publishedAt": "Sun, 04 Oct 2026 04:39:44 GMT"
     },
     {
-      "title": "Closing Bell: Sensex, Nifty end lower again, extend losing streak to eighth week in a row - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxONU1lYUxXQWdUT1FEUEw4bXNsWFJIWTR1Qkh1UmtaSUhDaW5Hd3JaT3VhT3VFa1FURWxMbV9TTFlCdGQzLTRuZVRHaEdVQ0VSVmxrTDQ1MTVnZ1pnZjFYOXhVOU1jdG8zRTNOTU5xWGxfWlJ6ckxaNUo2TWVvb0FfdFQzYll2eFBDR2FaQi1vcjh5eFZaZDY4bnhrNlNqd2pvRzVob2JneVV3U3Q1c0VQTWluMXBNRW5iNkJtRWNwN1RCeHVSY3NJWFNzdEVxeXRsYlk2dWtoUzB1aG9oaHQtY0tBNDZLTDI3UzZlSWV5UTV0b0FYckc1Vmt3b1h6WEtydFVZSUNIWEQzS3ZtTkdYNUd3RzNEcmlmZGJGa3E1X3pwa2fSAagCQVVfeXFMTlhJcEpHcnN2T3Zta1JscmZucmlDTUtXSXhkeHAzbnpZa2hpOTJRbzFIaXpPZnM3R1QwNk9LWGJWeVJsQ0NZVHFwV21GUzIzNHRPMVFrTjUxVE1MamEyZHRFYVNRQ1RBbE0tNGFMUFd3c1dzSUNsMUI1YWQwSm5Ybm5RUjVrMkNBZnhaNWFLOGtaeS0tWHVPcmZBS0d4R3JadkVOTTNBUFZSLWJZYXVtdU5fUHR4dURibkNTNVNmLWRDbklIRVNMc295SGFSbm1feE5xcjVreTB4Q3ZvWVlGVXVtMzRJREVBd0dySGhiZGlKakdXeXVSV1h0WjFKbDU3QlBnVzJ5WENXYy16VTEyeUJWR1BPMzNlRHp3bUVINFM5dExfbzhNUU0?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 10:52:11 GMT"
-    },
-    {
-      "title": "Stock Market Crash Highlights: Nifty, Sensex Log 8th Weekly Decline In Record Bear Run; NSE-Listed Cos Face Rs 5 Trillion Mcap Erosion - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbVZ5VzZ3V2xkbGJPeXRZS3lPQ0FWUVVfeVlZNzJnbW40TGZaVElHVldxVWM4VUlydFRfNXRhbGcxZEFmcHVvZHNXWFhSV21FUDNkNUM1LTI3LVRTSlhXUDJsR3FvUWVQeVZ0Qk9FY0U3UXdDcERsQ0NGZXE4MkRYaVFXN1VBTjBMSV9sV3JTVkRBYUJMZ3U5OFRBTlFmdmJBazJ1OTlwTmM3emhTVUJBWjV3Qms0cE5jbGViTUptd242Y1ZNN3U0cGpNdHdEczY5X3hlWDU4T2JpMHpaUm5wY3BMaUFhUXJCQU9DTGJZZnd5VUNWS2RWbXBvMmlyQjVNR19XZEplT0xXWkIt0gGUAkFVX3lxTE5FWE1nc21QSUxXTVhJYWEwdGxDOG95ekdsejVQUjhhbXdwNVlSNVIyRXJGX0ZPZ2hzc3dhUVU5amJqTGRpYV9XS2hZY1pHcGpJWjlsYXY3QjZKY2pQUWc5dEFuY1BGRUVCc3g2TWF6MS10NEhyWDdGTll3TzhsUjFqY2dac3MzVmsxRkZETmRQUDByeTBZOV91SEpiZE5rVms5ZUt1bl9kQXdPN1RqMUotaS1lTjFGY2R2bFlITlNoaHJxT2hBVkRIZ2RkeGFYcTVjSVloZUlONkFPZEplajB6N2dZcGVKXy1oY1p1QlhEWWs2SW1KR2dVVUtLeWV2ZV9RYm00aWtUYm9PcFhvdXhIQWNBcQ?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 10:35:13 GMT"
-    },
-    {
-      "title": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling - Goodreturns",
-      "source": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkZfc2syemoxZXByVTI1ek1maFRlU1gzOHNJWjVrT0RfaTVheGs1LWQzcVdkX19WS3lUTWlBN1c0UDQ2eDVGalk0MWl5Z1YwN3FRU3NfblhfbEdCVHBmOXVXaC15dWxkUUNLUlgyMHdjODFkcThoS0EwTWNMMEN6WGdFbnc5ZV83OW85aTRfMnFsZ1hwNXpPVDhFVTV3V1czbU1idW1MdGh4U25YejFZSWEyb0txSU01WEczcXNNLUlEWWV2SFRGMFZ2V1lqcFVpVlRvZVN4WVlkVEpZMEE?oc=5",
-      "publishedAt": "Sat, 03 Oct 2026 11:02:50 GMT"
-    },
-    {
-      "title": "Why stock market was down today? Rs 6 lakh crore wiped out; Sensex, Nifty suffer worst losing streak in - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNWxfbDM3Qjd4Tm13aUg3T2R4ZFhjMElFdHIyQldHcVltX0ZtZXdsakJOT3U3ekFfT3VWZ0RDem5ZR2JIXzJsSlBuUDR4SzA4bTJkWVg5WkluaVFVWTBUYzJwbnFnTUhOempLeFluOEdnVUgwcGpvM2N1d0Z1TWVoaEhPR2RSMVluWG9KVUduWHJkMG9tTkoxcHdrcFkzV255N3BZemFHRVJTT3VGXzktYWdGX3YwQ2haMnp4cmdycDZmM2N3dmdqWmtaWkRYam5NVTlLZF9fdlVYMDBGWXZyWVJaWklfMUJ0a0EwY3QtNm5QSkpqOE44dmVWdzJ0MlpIQVA1UERwVl9teHpEY1dvctIBlgJBVV95cUxQckQ3bm4wX25ncVFVQVhkQjAzV2dka25EUGRINzhjSkhNOWptUTVFeUt0MWdCZkVWWHI2VG9mLXNKc2tHeWxtMXN4RlJ2dDYxMFJRQ2RrQzdkdkR1Vy16QVJtZUtJZWpRTVl5SmtOcjhSUmZrOFdFZGd3QUY0TDUzNlN5eDFuaEVKZF96dURyV3JyOVpYQ1V0SERONjBHek9VVHlod3NDZjJPY3VrcFBjc2ozUGgxbXQ2SHhMMGhpZVBjdmRpWVZxclRaQmduLXhuZEhLNzgxVnRYemxkelVXUV9DQVF0QjhUQ1JRS1NCZUlyOUZkTUw2WG5VaXhMZUNRSDNUYlJQY2xYbUJKX0RtdlV0Y0RKUQ?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 09:20:00 GMT"
-    },
-    {
-      "title": "Stock Market Highlights, Sept 28: Sensex tanks 1,124 points, Nifty ends below 22,800 - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFFJVUNEVGhOYUFkbnlTblY5YjMzbEp1RlU4aVBvQXM1SXVpYjAzV2t1SlNFd3pRejNNc3ZLUExWc1dKVUNOcnB1UG9ZMWtIc1hBVHhvblpBYm5wV1J4N211VjY4ZUxsRXZVdHc2bjhUcUJvYjBOcFQ0STdfLXRIcU16SFRXX2ZkNHpoTk1Fei04RU5ITmdQVVprSFpJZ19Qa3l0RlNrN2syN2JNd2I1a3VrcmpNaThqQ1I4QnVR0gHEAUFVX3lxTE5ORENGUldmRTlxaHNFZjdtbnRmRFQyQ0VTMGltRUNLMjBWMmFvRjU0UjJrUHA0MzJjQlg2QlB6dDJ6QXNFeWpMWnN3RFBYNVlhMEI0aDh6NVlaenNWX2NUWHU1ZEVlaUdXd090RjRpemlLZEV2TDlJWmdvOWZpYnlFQUY4WEZQQVl4NFMtQjB1SnBaZXc2RmdvU0xpNkdfSkJwbS13aEFybFl2RmtyYTUxWHZvdkwwclNkdC1hVGhPU2VWMWE?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 01:04:12 GMT"
-    },
-    {
-      "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 02:33:47 GMT"
+      "title": "Stock Market Outlook October 2026: Can Sensex, Nifty Recover? What Analysts Are Saying - ETV Bharat",
+      "source": "ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamZwTFZweXdGSXUyYlBrUTItN3dlY21KWnMzTTZZR1A3bjNUT0VlLUdEcUI5VXZPMFpJZ2pMWTg4ZTZlU19GUUtnVUxyREh5WWJsZ183VVNyZC1TRng2Q0FOdnBwZVNEY21QYWI1ZHpQbHpLazNnN1pZRy1nMTZIaFdVaXNPczBjZEo3Q2xwVjJBemhtcmlmekhzVGJycUV6WXF1aG1wN0w3YkJaWVhsamVpTzl2X0VlYUJIcTNMZVQ0X1ZBMGt5TFNXZE5EbEdYUVHSAdcBQVVfeXFMTTIwMWlXOUxSdjgwc09kX0NQMm8tMklJLXlfNk9hbnlTR1YyVU5ZMG9IcDdLNVVPZmZiUUF5czVWblAzOXhMOWNvYXFiZmhISnYxb2d6ZFFUenZJZUFXcEhhd1pqWVJRZkZ4d0JNc2hiQW1nMU1ZbXlzQ0ZPNVdLa0s0RUViWVNLSWpMdnlSSHh1bUNMWk1GS2tEdHF3U3FzNHNPMEM2LWU0SWllaGJxSzdneE54UWNNXzhjQ0tONVZEQlBRWUktaFFmemk5NmM4UGNZNlRmYnM?oc=5",
+      "publishedAt": "Sat, 03 Oct 2026 11:53:51 GMT"
     },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
@@ -161,10 +140,40 @@
       "publishedAt": "Sun, 04 Oct 2026 10:47:40 GMT"
     },
     {
-      "title": "Stock Market Outlook October 2026: Can Sensex, Nifty Recover? What Analysts Are Saying - ETV Bharat",
-      "source": "ETV Bharat",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQamZwTFZweXdGSXUyYlBrUTItN3dlY21KWnMzTTZZR1A3bjNUT0VlLUdEcUI5VXZPMFpJZ2pMWTg4ZTZlU19GUUtnVUxyREh5WWJsZ183VVNyZC1TRng2Q0FOdnBwZVNEY21QYWI1ZHpQbHpLazNnN1pZRy1nMTZIaFdVaXNPczBjZEo3Q2xwVjJBemhtcmlmekhzVGJycUV6WXF1aG1wN0w3YkJaWVhsamVpTzl2X0VlYUJIcTNMZVQ0X1ZBMGt5TFNXZE5EbEdYUVHSAdcBQVVfeXFMTTIwMWlXOUxSdjgwc09kX0NQMm8tMklJLXlfNk9hbnlTR1YyVU5ZMG9IcDdLNVVPZmZiUUF5czVWblAzOXhMOWNvYXFiZmhISnYxb2d6ZFFUenZJZUFXcEhhd1pqWVJRZkZ4d0JNc2hiQW1nMU1ZbXlzQ0ZPNVdLa0s0RUViWVNLSWpMdnlSSHh1bUNMWk1GS2tEdHF3U3FzNHNPMEM2LWU0SWllaGJxSzdneE54UWNNXzhjQ0tONVZEQlBRWUktaFFmemk5NmM4UGNZNlRmYnM?oc=5",
-      "publishedAt": "Sat, 03 Oct 2026 11:53:51 GMT"
+      "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
+      "source": "Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1pWNnU5Rl9feER0WXN1ZFB1MmdLb1pQUFVvTTBFTmFDeXBMd1FWbEdTOUZ4a3hTMHhXSUlSTkpnVFo2N254SHV6YWJoS00tTEVxaWZ5UFNDNTZ5Z0E4V3p4dXVvNVByR3FRY1Vib0hSd2ZOZG9qNUJiLTRhZWhZd3h4VzNUaUFYeEVDVE1FdlBBNENGeHg2aWZn?oc=5",
+      "publishedAt": "Sun, 04 Oct 2026 08:41:15 GMT"
+    },
+    {
+      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 08:15:54 GMT"
+    },
+    {
+      "title": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling - Goodreturns",
+      "source": "Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkZfc2syemoxZXByVTI1ek1maFRlU1gzOHNJWjVrT0RfaTVheGs1LWQzcVdkX19WS3lUTWlBN1c0UDQ2eDVGalk0MWl5Z1YwN3FRU3NfblhfbEdCVHBmOXVXaC15dWxkUUNLUlgyMHdjODFkcThoS0EwTWNMMEN6WGdFbnc5ZV83OW85aTRfMnFsZ1hwNXpPVDhFVTV3V1czbU1idW1MdGh4U25YejFZSWEyb0txSU01WEczcXNNLUlEWWV2SFRGMFZ2V1lqcFVpVlRvZVN4WVlkVEpZMEE?oc=5",
+      "publishedAt": "Sat, 03 Oct 2026 11:02:50 GMT"
+    },
+    {
+      "title": "Foreign investors are short on Indian markets as global risks weigh - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnlvSkdCcmJVNTFfWDBvMUp4bHpINnkzVzU5OTRzLUZ5SGtMQnptVmNBTTFRaXJLUnlBOVRocDBTQUx5YUo5T0pVUEE5U2IzZ2lmOXFKSTV2aG1XYjJBU3hIYjhGOVdCOTRVYWljSE5ucUtvbl8tWk84QVYxOE5nZmljeF9nZWh0amVYcXNTclcxSFQ5MXlRWGVmd0xyNHk1cmh5R2QwTFh3LTNObHJ2UE52cXA2MnVhNGtEYUJ2dEZhOHBVNzZ1cm9tSGRpZC1RSFNHZ2NHU0tsYzDSAeABQVVfeXFMT0NfbmZkckc1NEx6WXcxM1BXSkhaTk55TkdtSHpvNnZuWFpuWVRnbjdIR0ctanlWRHpyMTVUWDJiTnpneXZ3Wk9lVUl2MXlHZkE0MHFpZThtZFo4RnZjMFlwY3YyRHFPbGl2TGg5N25IMHFoVkk0cDhfYWpOOU81eU5kZHBvOUVVa0dBTjczLTl1VDBqVF8zbHcxNkJYWXlJdVV5U0k2OWtIM3B5LW1DaVJPMmVRY0F6SHRMU0pkY2steG9TLXRzUVhYVm9pUC04ODRLejBpems5MzVJZXZRemw?oc=5",
+      "publishedAt": "Sun, 04 Oct 2026 08:14:26 GMT"
+    },
+    {
+      "title": "Equity markets fall for 8 consecutive weeks for first time in 25 years; key factors behind decline - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdGxSSk9pVFhWaWd6YUhVVmxDalItUnRlLUtvNllsdG5JcHBhNHlORUpRaWkwQTJlbVFKTzdmWHFTZ0R6N2FnWDZzWW1QYnc2WU03OC1NTGZCM1pSN1lkQWhsYnhONi1iOHRqQnBVdkhfWF96VUg1ODAySlpVSFVZbWRQQ1pRYVVMczd6UTBtREhucE84Ukw4YTlRTFR3ZERYT3p5bXRuUlM1YUdsOF9xUzNiMFZUODcycU4xRjNscXB3eTNTWFhPTkl0clowbXZZSG5QTXNYMFFYUjRRYnZWazZvS08yMzBXT3FF0gHwAUFVX3lxTE1UTFNBOW1QODFDSklvWTdzWDQ2OFEyWVd5dml0cXA3ZnpQbWNiX0FVejFYNmJGUVMxUDlzSF9LVGVMLUhIbk1ubm1YTkp2bkQwN0ZrMVpkMmtVMU0zWkhJWWpFVVZHV3E4cjBaUmdzZGI5b0ROc19wZlNqcTNfaTJOTVI5amJkOVQwbXZ0ZUo2dWpqRFFrRWhpT0VWRmliQkVxVlNYRl9VRmhobEZlOWdpYVVMN2dZMDhtWk9ZMllYX1I0akJOYVNyU1RnN3NrNDlTUl8zM1VfWHVXdWlWYkEtUklQMXhfMV9wM3NqSXJYRA?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 04:19:56 GMT"
+    },
+    {
+      "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd0NvRVRSTDduVC1XRTZSdGF4N25IeTIzSVVRX2FTOVdyakkxTkd4aU9ZWDgzM2tiTDI4dG9meHNRbmJQNEtiOFdrd0R4ZzhGYUlMaC1pbkFkLTM1UXdydnpvYWxaanE5Z2MtRkpvV01ZeV91YkFuYkVPdXVLT1hYdTNvNER4WWtkcmlUVV93dEtUSldpRmFPbUp4YjUway1BcDJuQVJfS21tcWtLSE9vX051N1I4enFFanFrY0hmUFhSeW5ZSE5wVThybElpTFFGT202QllJdnVPUm0xMFV0Nm9HM3BJZDRlSnNjRXdrbi11N3plak83N0ZhN1Fhd01kWloxcW5MekFIZEZNbmRZOdIBlgJBVV95cUxOUm1GN0VHQ201M1JmT3JES3FLOVA3UkM2X1RjOS1zMGs3MlNkcmFjOWNTUTZWUU5MN2FtRFFUVThDTjhOQm5ZNVJSSFFnRWZ1Mk94dUx5NmhDX2VIMjhHZTgweTBCQURQdkNEVHhGMDM1eXBmRDZfcnRzOFFXanNZQ3NSRHB1aVkwM3h6N05TaEZDcTNmZzlURjF6R1BaRlIxTVhzQjJnRmowb3h2UWpWU2laSmgyY2ZUNjNTc1EwVjNvSzlicFRmQ1Nzbk9hTDI2UjN4QXVCQXItYVhrYi1xNjhNeERVb1kyam8xeXFhTHRLZHI3V0RreFdMbXhlRDlyOWNKWnFGanlib1hxYzhiNnZsMVg1Zw?oc=5",
+      "publishedAt": "Sun, 04 Oct 2026 11:18:12 GMT"
     }
   ]
 }
