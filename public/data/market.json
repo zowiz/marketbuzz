@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty trade volatile as early gains pare; HDFC Bank and Avenue Supermarts face pressure",
+  "headline": "Sensex slides off day high due to HDFC Bank drag despite gains in PNB and Bank of Baroda",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,222 +7,143 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex pared early gains, falling 600 points from its intraday high during the session",
-    "HDFC Bank shares dropped over 2% despite bullish analyst targets from Motilal Oswal",
-    "Avenue Supermarts shares fell 4% following its Q2 revenue update despite 18% YoY growth",
-    "Market volatility increased with the India VIX rising by 5% during trading"
+    "HDFC Bank shares fell over 2%, pulling the Sensex down 600 points from its intra-day high.",
+    "Strong Q2 business updates boosted shares of PNB, Bank of Baroda, and AU Small Finance Bank by up to 4%.",
+    "Nomura initiated coverage on IndiGo with a Buy rating and a price target of Rs 6,000.",
+    "Indus Towers signed a MoU with Cygni Energy to manufacture BESS solutions for telecom."
   ],
   "whatHappening": [
-    "Nifty 50 fluctuated around the 22,400 to 22,550 levels amid mixed global cues",
-    "L&T secured significant orders worth ₹10,000 crore for its power transmission and distribution business",
-    "Central Bank of India reported strong Q2 growth with advances increasing by 29.8%",
-    "Bajaj Finance and ITC emerged as top gainers in a narrow-range market"
+    "Sensex initially gained 300 points with Nifty breaching 22,500 before paring gains.",
+    "Nifty Healthcare index dropped by 1% during the trading session.",
+    "Banking stocks saw divergent trends as PSU banks surged on Q2 updates while HDFC Bank saw selling.",
+    "US Fed officials commented that steady employment data gives time to evaluate the interest rate trajectory."
   ],
   "stocksInNews": [
     {
-      "symbol": "HDFCBANK",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        0,
-        5
-      ]
-    },
-    {
-      "symbol": "CENTRALBK",
+      "symbol": "INDIGO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/1 sources",
       "articleIds": [
         1
       ]
     },
     {
-      "symbol": "INDIGO",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "symbol": "PNB",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/1 sources",
       "articleIds": [
-        2
+        6
       ]
     },
     {
-      "symbol": "DMART",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "symbol": "BANKBARODA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/1 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "AUBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/1 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "INDUSTOWER",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/1 sources",
       "articleIds": [
         7
       ]
     },
     {
-      "symbol": "LT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "symbol": "HDFCBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/1 sources",
       "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        19
-      ]
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        19
+        9
       ]
     }
   ],
-  "summary": "The Indian market is experiencing volatility as early gains in the Sensex and Nifty have been pared, with the Sensex dropping 600 points from its high. While L&T and Central Bank of India reported positive developments, heavyweights like HDFC Bank and Avenue Supermarts are weighing on the indices. Investors remain cautious amid high volatility and mixed sectoral performance.",
-  "updatedAt": "2026-10-05T08:31:41.662Z",
+  "summary": "Indian markets witnessed volatile trading as Sensex erased early gains, dropping 600 points from its high due to a 2% drop in HDFC Bank. Bank stocks like PNB, Bank of Baroda, and AU Small Finance Bank surged up to 4% on positive Q2 updates. Additionally, Nomura initiated a Buy recommendation on IndiGo with a target of Rs 6,000.",
+  "updatedAt": "2026-10-05T09:02:01.306Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-05",
   "articleKeys": [
-    "stock market live sensex off 600 points from days high hdfc bank share price falls over 2",
-    "central bank of india q2 update total deposits rise 14 advances outpace with 298 growth",
-    "flight tickets to get costlier indigo revises fuel charges for domestic international flights details",
-    "anthropic brings incountry claude inference to india via amazon bedrock",
-    "stock market today live updates sensex pares early gains nifty above 22400 consumer durables banks lead gains",
-    "hdfc bank shares may rally 28 motilal oswal remains bullish after ceo clarity check target price",
-    "russian researcher dies after suspected plague exposure nearly 200 quarantined heres what we know",
-    "avenue supermarts shares fall 4 despite 18 yoy revenue growth in q2 update",
-    "lt wins 10kcr orders for power transmission distribution business",
-    "can nifty break the 8week deadlock or will pain continue heres what charts indicate",
-    "stock market today live updates bse sensex jumps over 130 points nse nifty50 trades above 22480 mark the times of india",
-    "stock market today live updates sensex jumps 100 points nifty above 22400 consumer durables banks lead gains ndtv profit",
-    "sensex today stock market live updates sensex nifty off days high trade flat vix up 5 healthcare stocks drag moneycontrolcom",
-    "sensex today stock market live updates nifty reclaims 22550 again market recovers from lows cnbc tv18",
-    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint",
-    "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
-    "stock market prediction for today 5 oct monday sensex nifty outlook dow jones nasdaq kospi nikkei taiwan cues livemint",
-    "stock market highlights sept 28 sensex tanks 1124 points nifty ends below 22800 thehindubusinesslinecom",
-    "stock market today gift nifty us jobs data to oil prices five key factors for sensex nifty 50 on october 5 ndtv profit",
-    "stock market live sensex nifty in narrow range nifty near 22500 bajaj finance itc top gainers business standard"
+    "cas chaos eases jefferies names top stock picks as options volumes recover ipos and commodities gain traction",
+    "nomura sees indigo emerging stronger from fuel shock initiates buy with rs 6000 target",
+    "us market feds hammack says jobs data gives time to assess rate path",
+    "goolsbee says steady jobs market keeps inflation as fed priority",
+    "jefferies initiates coverage on newly listed dhoot transmission sees up to 20 upside heres why",
+    "stock market live sensex up 300 pts nifty tops 22500 nifty healthcare falls 1",
+    "q2 business update impact pnb bank of baroda au small finance bank shares jump up to 4 what lies ahead",
+    "cygni energy signs mou with indus towers to develop telecom bess solutions",
+    "us etf inflows smash annual record as investors favor funds",
+    "stock market live sensex off 600 points from days high hdfc bank share price falls over 2"
   ],
   "articles": [
+    {
+      "title": "CAS chaos eases? Jefferies names top stock picks as options volumes recover, IPOs and commodities gain traction",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-eases-jefferies-names-top-stock-picks-as-options-volumes-recover-ipos-and-commodities-gain-traction/articleshow/134692619.cms",
+      "publishedAt": "Mon, 05 Oct 2026 13:56:43 +0530"
+    },
+    {
+      "title": "Nomura sees IndiGo emerging stronger from fuel shock; initiates Buy with Rs 6,000 target",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-sees-indigo-emerging-stronger-from-fuel-shock-initiates-buy-with-rs-6000-target/articleshow/134692630.cms",
+      "publishedAt": "Mon, 05 Oct 2026 13:55:24 +0530"
+    },
+    {
+      "title": "US Market: Fed’s Hammack says jobs data gives time to assess rate path",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-hammack-says-jobs-data-gives-time-to-assess-rate-path/articleshow/134692368.cms",
+      "publishedAt": "Mon, 05 Oct 2026 13:49:11 +0530"
+    },
+    {
+      "title": "Goolsbee says steady jobs market keeps inflation as Fed priority",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goolsbee-says-steady-jobs-market-keeps-inflation-as-fed-priority/articleshow/134692272.cms",
+      "publishedAt": "Mon, 05 Oct 2026 13:46:04 +0530"
+    },
+    {
+      "title": "Jefferies initiates coverage on newly listed Dhoot Transmission; sees up to 20% upside. Here's why",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-newly-listed-dhoot-transmission-sees-up-to-20-upside-heres-why/articleshow/134690932.cms",
+      "publishedAt": "Mon, 05 Oct 2026 13:45:49 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex up 300 pts, Nifty tops 22,500; Nifty Healthcare falls 1%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-snapdeal-listing-today-rvnl-share-price-today-ipo-today-126100500057_1.html",
+      "publishedAt": "Mon, 05 Oct 2026 13:42:32 +0530"
+    },
+    {
+      "title": "Q2 business update impact: PNB, Bank of Baroda, AU Small Finance Bank shares jump up to 4%. What lies ahead?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q2-business-update-impact-pnb-bank-of-baroda-au-small-finance-bank-shares-jump-up-to-4-what-lies-ahead/articleshow/134691858.cms",
+      "publishedAt": "Mon, 05 Oct 2026 13:37:24 +0530"
+    },
+    {
+      "title": "Cygni Energy signs MoU with Indus Towers to develop telecom BESS solutions",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/cygni-energy-signs-mou-with-indus-towers-to-develop-telecom-bess-solutions-126100500398_1.html",
+      "publishedAt": "Mon, 05 Oct 2026 13:22:19 +0530"
+    },
+    {
+      "title": "US ETF inflows smash annual record as investors favor funds",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-etf-inflows-smash-annual-record-as-investors-favor-funds/articleshow/134690541.cms",
+      "publishedAt": "Mon, 05 Oct 2026 13:16:41 +0530"
+    },
     {
       "title": "Stock Market LIVE: Sensex off 600 points from day's high; HDFC Bank share price falls over 2%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-snapdeal-listing-today-rvnl-share-price-today-ipo-today-126100500057_1.html",
       "publishedAt": "Mon, 05 Oct 2026 13:00:35 +0530"
-    },
-    {
-      "title": "Central Bank of India Q2 Update: Total Deposits Rise 14%, Advances Outpace With 29.8% Growth",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/central-bank-of-india-q2-update-total-deposits-rise-14-advances-outpace-with-29-8-growth-12139717#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 12:56:06 +0530"
-    },
-    {
-      "title": "Flight Tickets To Get Costlier: IndiGo Revises Fuel Charges For Domestic, International Flights: Details",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/flight-tickets-to-get-costlier-indigo-revises-fuel-charges-for-domestic-international-flights-details-12139746#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 12:53:52 +0530"
-    },
-    {
-      "title": "Anthropic brings in-country Claude inference to India via Amazon Bedrock",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-claude-india-inference-amazon-bedrock-data-residency-126100500356_1.html",
-      "publishedAt": "Mon, 05 Oct 2026 12:44:36 +0530"
-    },
-    {
-      "title": "Stock Market Today Live Updates: Sensex Pares Early Gains, Nifty Above 22,400; Consumer Durables, Banks Lead Gains",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-share-market-news-sensex-nifty-gift-nifty-bond-yields-us-iran-conflict-houthi-attacks-brent-crude-oil-prices-today-12138866#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 12:43:51 +0530"
-    },
-    {
-      "title": "HDFC Bank Shares May Rally 28%, Motilal Oswal Remains Bullish After CEO Clarity; Check Target Price",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/hdfc-bank-in-focus-as-rbi-approves-anup-bagchi-as-new-ceo-motilal-oswal-bets-on-28-percent-upside-12139730#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 12:42:46 +0530"
-    },
-    {
-      "title": "Russian Researcher Dies After Suspected Plague Exposure, Nearly 200 Quarantined: Here's What We Know",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/russian-researcher-dies-after-suspected-plague-exposure-nearly-200-quarantined-heres-what-we-know-12139575#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 12:41:12 +0530"
-    },
-    {
-      "title": "Avenue Supermarts shares fall 4% despite 18% YoY revenue growth in Q2 update",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-shares-fall-4-despite-18-yoy-revenue-growth-in-q2-update/articleshow/134689213.cms",
-      "publishedAt": "Mon, 05 Oct 2026 12:41:04 +0530"
-    },
-    {
-      "title": "L&T wins ₹10K-cr orders for power transmission & distribution business",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/larsen-toubro-power-transmission-orders-saudi-uae-india-renewable-energy-126100500349_1.html",
-      "publishedAt": "Mon, 05 Oct 2026 12:38:53 +0530"
-    },
-    {
-      "title": "Can Nifty break the 8-week deadlock or will pain continue? Here’s what charts indicate",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-break-the-8-week-deadlock-or-will-pain-continue-heres-what-charts-indicate/articleshow/134688975.cms",
-      "publishedAt": "Mon, 05 Oct 2026 12:28:39 +0530"
-    },
-    {
-      "title": "Stock Market Today Live Updates: BSE Sensex jumps over 130 points, NSE Nifty50 trades above 22,480 mark - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPNmNJcUdxV1hoQVJhMVMzSElvZUtyWG1YYkh2ZVBCbUNVcFAzUW9TOUgwVDlrdHdUQ2hWNjJkdWtkRnNrUGZXMnJ1Y0V0SW8xSGs4M2t3a2NHWmFHVXVWUXQ0Y2JBeHdTWlpMWWF5Szc1OUo2cjBrMTBfMG1jejIyejVRU2lvOHF4d2NPQUhJajl6cHR4b1praUxpQXk1WWhQcFdwRE1nTHhUeHdTbXE3cjFLTkg4STBNNVJRWlkxbW43LUNGZXQ0SUNSNmhHTEVjRTB1b3FoSC15cnhqTHZwczFsaFdKZWMxakZtdnNxS2U5QWdLd3Fyc2l2cWMwaXFZTWdQREVoXzFuZmp0YmcweVY5RU5SbkE1WUZPMXMtVlhPaS1qRlFxYTI0ZmE0VXc5Rk43btIBugJBVV95cUxOYVFBU0NWN2JMUDFqNndOdGE4QlkwdndZaVZGOHUtYUl5dUVHOFNtMW1XUGpzekI3TV80WkFwdENackVHLWdTNEhxTWpSbEk0Z2VzZzAzUFJMdzV1SmthOGxOVTlWajc5THl2eU5nMnNlWlB3T01nUlk5eThLaDVBc3lfUXVKTlh3RkdDRkNaY0pENnpBWURTVGNXdU9iekE5NE03QUh5TnhmRHN5cUdkZ3FhMXNoY0k4TWVlemdJY2FOUW96Z2hqQ01UUFhURDYyT3RocWRYOVpERmk5cGlVOWE0clJ5Ync2NHRRMm9xQVYtRzBHNEdGZDlUczNvZEwzQ2ttdGIxZXg2VjZGVWw0LTdGWVBsRGYzNlFrdnBwUDE0dkVzMDJLWTFtdTNhR1dVQXlDU0FMcFNxZw?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 06:18:24 GMT"
-    },
-    {
-      "title": "Stock Market Today Live Updates: Sensex Jumps 100 Points, Nifty Above 22,400; Consumer Durables, Banks Lead Gains - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWFBCZTVGWmwzX1dja1hyc09FRnRhVlNyWlhYTnhzbHZLeWRkdjEtcWo2enBaLS1IUkxoLVJMV2ZWNmxhcHVSeExxdFRySFZEVGtZbFRLZGRzbEFxbk5BOHg1cVlJVTFTWWpDRm5VclhXSWpFZlhoZXYtWk5wT0FVazdLcGg1Zmp1MkVEd0ZpTkQycUQ1R0Z2U0p0RUVZQ2g4OThYejc3QUpsVkE0S0dBOGZvVldYS0lVUU5XU2RnQVJNMFNUaXpuZHN4UkRPbTE4SjJoZ2d5RVFtOUlNV0hVVnpKSEZMNjhMSVZZaHVXQWwtUm40YXBkQncxbG9DQ0g1MkYwTlpTY2UzeC1TMUNGSm5rNUZVV1ZUcnfSAaICQVVfeXFMT0hHd1JXcElYMG9NY09SWUlfU25HZHQ4TXNoTmNlTXBfeTRZaVppWFBNOVhNcC05ai1uVExOVDBFc1Q4WFRmUzF4UnVjWEFDeWhEc3lmT01SazhfNEpQaWxXM0t3cklQWkdtOGNNVDJRcGkzcXMxSzA3U1JRd1JJUHhhLU8tUlFSSFQ2cGp3empMQndhRUxJdXpQVjN1amw5LTg5OFhoWWJKUmRXN1lOcjdFalVOd2FkS2JaNkhQRVQ3RG5uX3d1aGJxTTd6WEUyeTNyUWlzaFdfc0tUTVVDM0xDbkpSNGdtX1pDTGltSjdCWExSQ29hNjRzeEd6eXZOX09oR1VJVmFranZKU3gzWXJTNE5lN3NpbXdhWWsyaXNvN2c?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 06:23:19 GMT"
-    },
-    {
-      "title": "Sensex Today | Stock Market LIVE Updates: Sensex, Nifty off day's high, trade flat; VIX up 5%, healthcare stocks drag - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPQ2RCVkhBMW91d2lmQVlHelEzM2lKWGlZWlpaaW45aDQtVGM4SGRoS0ZJV2hYRnNGcFBfT1BkTFlBLVhIMDc4UVM0OTRlWk01S01aSjh3cUN2aGJLU3RXaXByVmJRVWRMdVlIN2sxdUc4WnlBV1NXbFgtTE5JTVg0Ml8yWDc4aU5zRmMyR3UtTXlVQXZ0YmcwdXZTWnRWZThfMmhESVFJZ0cyZlo5UTRkR0taQzFjOEloV20tMTRQSVVqdy00ay15cXlXbEs2MEFibGF3MFJzY2ZMNHRETVVSV005QXdxR2NHLTk1eWhLYlN3dDc5NVpfWlZLcHQxQkF4Y1JPaDE1OWdXQ0FvaUR0UUVDdl85UHpXRW5SQTVvUk9ZUkHSAagCQVVfeXFMUEtwb0E3Y2dhNDk5TG85SWdZMEtUeTdmNXFoWmNxLU94bnl0dzRqVzhSMDhNOVhLUzgwR3gwR1BidDVJbU15VmM4ZXFnTnprNUZORXNyb0lGUzROMGdjWW1YZ2tQR2tuMVNZV0xQTThGMUkyemItdU8yVHZwRDZIMWRwc29STXRzVGtwQ1BOaUhPazBxLWc1WklnLWNuZWQ1QXRoZXQ0T3FkQjgtWnB5RkFzYjRfMW1JZTNHWnljRm1vUTdwXzR3Q2k4RTlOMW91eEtZMFBqLVNhSWFya1Rjd2RYVWtqRnlILVIxUWk4eE1GUjlPbnpKVXBKV2VvZTVzRkt5VUpjeGUweUp3MXkxdDNJTUlHcUQyWE9vSmVoalpkRG5fSEpZTlI?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 08:02:00 GMT"
-    },
-    {
-      "title": "Sensex Today | Stock Market LIVE Updates: Nifty reclaims 22,550 again; market recovers from lows - CNBC TV18",
-      "source": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMWtDZGx5bDNEMFhVTGpMLW44Wld3QTEyZ1pBVElwZW1zRjhkckVWU29WUWZBa195S0lJZmM0WmRrR09vbDEyNDFxeTFEZFpKN0o3b2F6dzkyMWFfczV1NWpqVGVET0MyNEJhOFNDT21IcC1obm1heEYyTFRwX2x3UHIyNVRtRjhQWG8tVHo0YXdrR0NXQkdmOWRyWUZiYlI0VDFiU1NiM2JvRHdQZHkybTRFaVozNGxPZnRTWVNWQ2pHSExIM0cwOWpEaFRrc0hlNE9tZWdmbHgtbGVZNmtFZkhoZUhzRkNveXh4djhITnNEaXVsQzYtQ2RUajJKdndRdHlocDVhdDFNSkNmT3pMUtIBlgJBVV95cUxPUWpJbUFYNjc1MUxZYlNEeC12bmJBdThaMFZxWFctZGg2SF9TM1NSWDFqTERBNDFaQVR4UXJuNGhxdV9TUFVnRWNsVW9JMXJwQXZVRmt1YTdrQ3A1Q0doZmVNLU9RdlAtTEJaTHE4c3BxanpNdGZmcVhzZ2FlWjlxeDM1amI5SVpPNTZYUFVhQzN6S3JLeDlvaC01blZVS0lCWDhpMFN5d3NqVklOakdnZkxNcHZiX1llZGdOcFpOQklOVWFRQllFRmUyb3lCSTBPeFZiSGE3bHBLNTk5NzRrMzJpNktFSTlLS013am5YZlJwMnRDT2k1TUpGeVpjeHkyR1pFN3pmdzhpdnVSbm8tSDhvTTlGZw?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 07:59:13 GMT"
-    },
-    {
-      "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd0NvRVRSTDduVC1XRTZSdGF4N25IeTIzSVVRX2FTOVdyakkxTkd4aU9ZWDgzM2tiTDI4dG9meHNRbmJQNEtiOFdrd0R4ZzhGYUlMaC1pbkFkLTM1UXdydnpvYWxaanE5Z2MtRkpvV01ZeV91YkFuYkVPdXVLT1hYdTNvNER4WWtkcmlUVV93dEtUSldpRmFPbUp4YjUway1BcDJuQVJfS21tcWtLSE9vX051N1I4enFFanFrY0hmUFhSeW5ZSE5wVThybElpTFFGT202QllJdnVPUm0xMFV0Nm9HM3BJZDRlSnNjRXdrbi11N3plak83N0ZhN1Fhd01kWloxcW5MekFIZEZNbmRZOdIBlgJBVV95cUxOUm1GN0VHQ201M1JmT3JES3FLOVA3UkM2X1RjOS1zMGs3MlNkcmFjOWNTUTZWUU5MN2FtRFFUVThDTjhOQm5ZNVJSSFFnRWZ1Mk94dUx5NmhDX2VIMjhHZTgweTBCQURQdkNEVHhGMDM1eXBmRDZfcnRzOFFXanNZQ3NSRHB1aVkwM3h6N05TaEZDcTNmZzlURjF6R1BaRlIxTVhzQjJnRmowb3h2UWpWU2laSmgyY2ZUNjNTc1EwVjNvSzlicFRmQ1Nzbk9hTDI2UjN4QXVCQXItYVhrYi1xNjhNeERVb1kyam8xeXFhTHRLZHI3V0RreFdMbXhlRDlyOWNKWnFGanlib1hxYzhiNnZsMVg1Zw?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 11:18:12 GMT"
-    },
-    {
-      "title": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling - Goodreturns",
-      "source": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkZfc2syemoxZXByVTI1ek1maFRlU1gzOHNJWjVrT0RfaTVheGs1LWQzcVdkX19WS3lUTWlBN1c0UDQ2eDVGalk0MWl5Z1YwN3FRU3NfblhfbEdCVHBmOXVXaC15dWxkUUNLUlgyMHdjODFkcThoS0EwTWNMMEN6WGdFbnc5ZV83OW85aTRfMnFsZ1hwNXpPVDhFVTV3V1czbU1idW1MdGh4U25YejFZSWEyb0txSU01WEczcXNNLUlEWWV2SFRGMFZ2V1lqcFVpVlRvZVN4WVlkVEpZMEE?oc=5",
-      "publishedAt": "Sat, 03 Oct 2026 11:02:50 GMT"
-    },
-    {
-      "title": "Stock market prediction for today, 5 Oct Monday: Sensex, Nifty outlook; Dow Jones, Nasdaq, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQd25zczBMcWMxSmhGWU1pR01iWG5pMlRtTUwwR0ZOWl9ZbTdNQXZ2WEdLTk84SEFyeGl0YkFRazY3STl5Wl9zU1JRd2hMaFZtNzMtempfdk8ySDVQcV9scVFoU09WckgwV0RiMEJLQkxweVVUVUVCWU1zQ3p6Q3ZRTDBhUlFzbjBKajE1Q3BOOURaVExFR29JVzdSWnRJUE95OTgyaG1LVWlIWFJ6MFF4aWJGODQ1M3kyRkdyd2FrYmRrYVJ2VGwwdWxaSEdYOHdWVktIMFBvVjJZN3l6aUhLU1h1aWw3Ulh6aTBSem92SER4WWVEWjQ5T1pJbzE2bzM2NVY3WGc4ZEhkOS1xcUJB0gGUAkFVX3lxTE9iTF9TQkdKRHR6MEdPS1ZCaDJtYXFvTFUwZFJQM3dWdXZ0MkJmeHNneFVpVUEzZkNremlEMWJDUDdxQ3dBTnlwOU1GS1N6YmZsNlNOZUpPdVJrQ2p0eC1xUHJCUkN6dDM3dS0zMDk1c21XeTZXWGtsNUx0Z1hydndCYm9fS3EtMWpuOGFpamdHVUZFTy1ycFhpajkxZzJTTWViOVY2OHlzc0JWYXFmbDJqczdYd0FlaXhpVkc3QWRmTU00alRpSmVDamhHTUhlc25NVFRlejhwOFpSNjc2c2d3X3g2LU5vZExadWdORkxOUGR3c0VaRjNiTzRDNW9UVGpSbnFVaW1BejFpUE1TQW1MWGZzRA?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 04:39:44 GMT"
-    },
-    {
-      "title": "Stock Market Highlights, Sept 28: Sensex tanks 1,124 points, Nifty ends below 22,800 - thehindubusinessline.com",
-      "source": "thehindubusinessline.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFFJVUNEVGhOYUFkbnlTblY5YjMzbEp1RlU4aVBvQXM1SXVpYjAzV2t1SlNFd3pRejNNc3ZLUExWc1dKVUNOcnB1UG9ZMWtIc1hBVHhvblpBYm5wV1J4N211VjY4ZUxsRXZVdHc2bjhUcUJvYjBOcFQ0STdfLXRIcU16SFRXX2ZkNHpoTk1Fei04RU5ITmdQVVprSFpJZ19Qa3l0RlNrN2syN2JNd2I1a3VrcmpNaThqQ1I4QnVR0gHEAUFVX3lxTE5ORENGUldmRTlxaHNFZjdtbnRmRFQyQ0VTMGltRUNLMjBWMmFvRjU0UjJrUHA0MzJjQlg2QlB6dDJ6QXNFeWpMWnN3RFBYNVlhMEI0aDh6NVlaenNWX2NUWHU1ZEVlaUdXd090RjRpemlLZEV2TDlJWmdvOWZpYnlFQUY4WEZQQVl4NFMtQjB1SnBaZXc2RmdvU0xpNkdfSkJwbS13aEFybFl2RmtyYTUxWHZvdkwwclNkdC1hVGhPU2VWMWE?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 10:31:48 GMT"
-    },
-    {
-      "title": "Stock Market Today: Gift Nifty, US Jobs Data To Oil Prices — Five Key Factors For Sensex, Nifty 50 On October 5 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM09pdWRYYmtDa1p4bnc2SDMwdFBhdHM4bXQ2MlZnb2hsOHZfZEpvdU1fWjBsTVI4RlZwV1lMNldqQWtMaGY0R282Rlhwd19Xb2FudjhRUHVIemJkQ2d0QmxnQWd2RDdhYnJVak51b3lHbERSMDQ5TWRNekpqSlZBc0pOTGtoSGl4M3RBRGQzXzdZMWVTQVhTNmVjdUZXMGlFblpQUDdxTWI1emllMnRMOGlIVDk4aXVqMXFUTWVpVm91UHlfUzdQREZWTXljbnVadS1TWWFRcFA3X19PQURRdjR1eTV1YU8wQkpDVNIB9AFBVV95cUxNOVYyWmZoeVpuQWMyd1YtR3FSdjhQaTBsZFhGMHlQYkJDRV90M3lTclBWZ1pDdElKbXBFZThJOTBsZGZqSkRibEJwellNakpFZEZfYWdqSEdWMm5vVVh6VVBjWUFHbmxGS1FXWWpnaWNtbHBKbnhJcnlRUEU2NVFfcFRCam5nOVk5MWUwWkREdTFMa215QkNmUjRqWlU3bEVoWG9uNkhXV1NHQkQ3QzlXc1NvZl9FS0czZWgtTUtxYnR1bjRGT0VDZndJZUZ2TjNpSWZrYjhldkpBaXVLSGVNRV9URlZUUDlOcHhuUUNrNXZrVnpy?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 02:24:03 GMT"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex, Nifty in narrow range; Nifty near 22,500; Bajaj Finance, ITC top gainers - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQREh0Q25mTmVxOC1ydzUwRkhtYXhha0gtOUJTY1IxamV1MWRNbVJVcThLczhNZnQ1N1BxLTlYMkhFQ0tyM2w3ektQMG9GTjZ4T0NzZDdDZWhob0F4QkpOUTF6TEFkWTFDMjFpS3FDRWRQbEJqQWlTU211b3BZNjk1VWtyTnl2QkJSZURSQ3d4Wm9iTlV4LWNjV2lpTlNFWlpzX3NjQ1F1VjVYMFQ2R2syeWZSYkNuNzUxRG5YcmxTTHBWTmhFbEU1cktQYXljc2ZKLU1YYXE0dXlnZDdWbWFjZGpFOWpTZUYyd0hOQTBfdW02RWVvaUlxdnhhS1VXYkdvRFVWbm1yR3ctREVyOWdrYVFiMWF5UkF5M1l2aF80bUI4U3A0emVsOWxvMDZ2V3No0gG2AkFVX3lxTFBsVi1oN203dU9Ic3NRZTQ4eXRVVmxTbVFhRVR2RlgtZXlHbkFSdE5tSVE0WDRrTEFEd19uOHJadjZIeTE1WVE2Q2VzVGVwSmZRQzNxUE9MRUhjS2tpY3RsYW40eXY5ZkdmZ2ZDaWpvUDJaNDJoLWh0RGxUaG5JUUtQRjdsMmN3Z2R5cTN4ZE5LbE1pMEtvNUt5YS1LeGF3aTEwRWlLSHpzOGN5OE9PQ3lTYkNlekVoemdnWHpncGhsRmwxaURRdUpEaFE5Tl9JVHYyYm52RVE5cnRzTG91Z2gzbmhyMHA2cUlzOERya29nLVV5YUlJMHJVLUhXOVdWeUg0R3BGTWpqUnpVdTdvZlFPTFN5UDdaeHk3b3VVdEpFVXYxSUs3SEFpcUlXU1NDRDV2MXpIakE?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 06:10:03 GMT"
     }
   ]
 }
