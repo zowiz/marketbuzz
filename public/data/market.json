@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty trade in narrow range near 22,500 while Bajaj Finance and ITC lead gains",
+  "headline": "Sensex and Nifty Exhibit Volatility as Early Gains Pare; HDFC Bank and Avenue Supermarts Face Selling Pressure",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,28 +7,45 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex trimmed early morning gains after initially rising over 100 points.",
-    "Markets remain volatile due to continuous Foreign Institutional Investor (FII) selling.",
-    "Investors are closely watching key global factors including US jobs data and crude oil prices.",
-    "Technical indicators signal weakness in major bank heavyweights following recent executive updates."
+    "Sensex fell 600 points from its intraday high as early gains were pared during the session",
+    "HDFC Bank's share price dropped over 2%, weighing down the banking sector",
+    "Avenue Supermarts shares declined 4% despite reporting an 18% year-on-year revenue growth in its Q2 update",
+    "Market volatility is being influenced by factors such as FII selling and global cues like US jobs data"
   ],
   "whatHappening": [
-    "Nifty trades near the 22,500 mark with Bajaj Finance and ITC among the top gainers.",
-    "Raymond Realty posted a 98% jump in Q2 pre-sales reaching ₹902 crore with collections rising 67%.",
-    "Finance Minister Nirmala Sitharaman stated that US-India trade deal negotiations have reached a plateau.",
-    "Consumer Durables and Banking sectors are leading early market gains today."
+    "Nifty 50 reclaimed the 22,550 mark after recovering from its daily lows in a volatile session",
+    "L&T's power transmission and distribution business secured significant orders worth ₹10,000 crore",
+    "Central Bank of India reported strong Q2 growth with advances increasing by 29.8% and deposits by 14%",
+    "IndiGo announced a revision in fuel charges for both domestic and international flights, making tickets costlier"
   ],
   "stocksInNews": [
     {
-      "symbol": "RAYMOND",
-      "sentiment": "Positive",
+      "symbol": "HDFCBANK",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        6
+        0,
+        5
       ]
     },
     {
-      "symbol": "HDFCBANK",
+      "symbol": "CENTRALBK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "INDIGO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "DMART",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -36,110 +53,116 @@
       ]
     },
     {
+      "symbol": "LT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
       "symbol": "BAJFINANCE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        8,
         13
       ]
     },
     {
       "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        8,
         13
       ]
     }
   ],
-  "summary": "Indian stock markets are trading in a narrow range on October 5, 2026, with the Nifty hovering near the 22,500 mark. Bajaj Finance and ITC emerge as top gainers, while Raymond Realty reported strong Q2 pre-sales growth. Market movements remain cautious amid volatile global cues, US jobs data, and persistent FII selling.",
-  "updatedAt": "2026-10-05T07:36:31.913Z",
+  "summary": "The Indian stock market witnessed a volatile session with the Sensex paring early gains and Nifty trading near the 22,500 level. While L&T and Central Bank of India reported positive operational developments, HDFC Bank and Avenue Supermarts saw notable price declines. Investors remain cautious amid global factors and continued FII selling activity.",
+  "updatedAt": "2026-10-05T08:02:57.312Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-05",
   "articleKeys": [
-    "gec iii bridging geographic and temporal mismatch",
-    "india economy strong energy security jobs key to growth n chandrasekaran",
-    "flydubais perilous plunge and survival puts focus on jet design",
-    "usindia trade deal negotiations have reached a plateau fm nirmala sitharaman",
-    "iphone ipad macbook best apple deals to watch during flipkart bbd amazon gif sale",
-    "5 global market themes investors need to watch this week",
-    "raymond realty q2 presales jump 98 to 902 crore collections rise 67",
-    "how to trade hdfc bank shares after new ceo appointment technical indicators still signal weakness",
-    "stock market live sensex nifty in narrow range nifty near 22500 bajaj finance itc top gainers",
-    "trump confuses india with brazil in election post says 125 million voted",
+    "stock market live sensex off 600 points from days high hdfc bank share price falls over 2",
+    "central bank of india q2 update total deposits rise 14 advances outpace with 298 growth",
+    "flight tickets to get costlier indigo revises fuel charges for domestic international flights details",
+    "anthropic brings incountry claude inference to india via amazon bedrock",
+    "stock market today live updates sensex pares early gains nifty above 22400 consumer durables banks lead gains",
+    "hdfc bank shares may rally 28 motilal oswal remains bullish after ceo clarity check target price",
+    "russian researcher dies after suspected plague exposure nearly 200 quarantined heres what we know",
+    "avenue supermarts shares fall 4 despite 18 yoy revenue growth in q2 update",
+    "lt wins 10kcr orders for power transmission distribution business",
+    "can nifty break the 8week deadlock or will pain continue heres what charts indicate",
     "stock market today live updates bse sensex jumps over 130 points nse nifty50 trades above 22480 mark the times of india",
-    "stock market today live updates sensex jumps 100 points nifty above 22400 consumer durables banks lead gains ndtvprofitcom",
-    "sensex today stock market live updates nifty falls sharply from highs gains down to 60 points cnbc tv18",
-    "stock market live sensex nifty in narrow range nifty near 22500 bajaj finance itc top gainers business standard",
-    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint",
+    "stock market today live updates sensex jumps 100 points nifty above 22400 consumer durables banks lead gains ndtv profit",
+    "sensex today stock market live updates nifty reclaims 22550 again market recovers from lows cnbctv18com",
+    "stock market live sensex nifty in narrow range nifty near 22500 bajaj finance itc top gainers businessstandardcom",
+    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemintcom",
     "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
-    "stock market prediction for today 5 oct monday sensex nifty outlook dow jones nasdaq kospi nikkei taiwan cues livemint",
+    "stock market prediction for today 5 oct monday sensex nifty outlook dow jones nasdaq kospi nikkei taiwan cues livemintcom",
     "stock market highlights sept 28 sensex tanks 1124 points nifty ends below 22800 businessline",
-    "stock market highlights oct 1 sensex falls 571 points nifty slips 088 as auto stocks drag markets businessline",
-    "stock market today gift nifty us jobs data to oil prices five key factors for sensex nifty 50 on october 5 ndtvprofitcom"
+    "stock market today gift nifty us jobs data to oil prices five key factors for sensex nifty 50 on october 5 ndtv profit",
+    "why is stock market up today top 3 factors behind the rally in sensex nifty today livemintcom"
   ],
   "articles": [
     {
-      "title": "GEC III: Bridging geographic and temporal mismatch",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/gec-iii-bridging-geographic-and-temporal-mismatch/article71546014.ece",
-      "publishedAt": "Mon, 05 Oct 2026 11:50:27 +0530"
-    },
-    {
-      "title": "India economy strong; energy security, jobs key to growth: N Chandrasekaran",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/india-economy-strong-energy-security-jobs-key-to-growth-n-chandrasekaran-126100500250_1.html",
-      "publishedAt": "Mon, 05 Oct 2026 11:48:14 +0530"
-    },
-    {
-      "title": "FlyDubai's Perilous Plunge and Survival Puts Focus on Jet Design",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/flydubais-perilous-plunge-and-survival-puts-focus-on-jet-design-12139510#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 11:44:16 +0530"
-    },
-    {
-      "title": "US-India Trade Deal Negotiations Have Reached A 'Plateau': FM Nirmala Sitharaman",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/us-india-trade-deal-negotiations-have-reached-a-plateau-fm-nirmala-sitharaman-12139260#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 11:40:59 +0530"
-    },
-    {
-      "title": "iPhone, iPad, MacBook: Best Apple Deals To Watch During Flipkart BBD & Amazon GIF Sale",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/iphone-ipad-macbook-best-apple-deals-to-watch-during-flipkart-bbd-amazon-gif-sale-12139163#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 11:40:54 +0530"
-    },
-    {
-      "title": "5 global market themes investors need to watch this week",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-global-market-themes-investors-need-to-watch-this-week/slideshow/134688077.cms",
-      "publishedAt": "Mon, 05 Oct 2026 11:37:55 +0530"
-    },
-    {
-      "title": "Raymond Realty Q2 pre-sales jump 98% to ₹902 crore, collections rise 67%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/raymond-realty-q2-fy27-pre-sales-collections-mahim-launches-126100500276_1.html",
-      "publishedAt": "Mon, 05 Oct 2026 11:37:37 +0530"
-    },
-    {
-      "title": "How to trade HDFC Bank shares after new CEO appointment? Technical indicators still signal weakness",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-to-trade-hdfc-bank-shares-after-new-ceo-appointment-technical-indicators-still-signal-weakness/articleshow/134687576.cms",
-      "publishedAt": "Mon, 05 Oct 2026 11:36:51 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex, Nifty in narrow range; Nifty near 22,500; Bajaj Finance, ITC top gainers",
+      "title": "Stock Market LIVE: Sensex off 600 points from day's high; HDFC Bank share price falls over 2%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-snapdeal-listing-today-rvnl-share-price-today-ipo-today-126100500057_1.html",
-      "publishedAt": "Mon, 05 Oct 2026 11:34:13 +0530"
+      "publishedAt": "Mon, 05 Oct 2026 13:00:35 +0530"
     },
     {
-      "title": "Trump Confuses India With Brazil In Election Post, Says 125 Million Voted",
+      "title": "Central Bank of India Q2 Update: Total Deposits Rise 14%, Advances Outpace With 29.8% Growth",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/trump-confuses-india-with-brazil-in-election-post-says-125-million-voted-12139332#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 11:33:21 +0530"
+      "link": "https://www.ndtvprofit.com/markets/central-bank-of-india-q2-update-total-deposits-rise-14-advances-outpace-with-29-8-growth-12139717#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 12:56:06 +0530"
+    },
+    {
+      "title": "Flight Tickets To Get Costlier: IndiGo Revises Fuel Charges For Domestic, International Flights: Details",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/flight-tickets-to-get-costlier-indigo-revises-fuel-charges-for-domestic-international-flights-details-12139746#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 12:53:52 +0530"
+    },
+    {
+      "title": "Anthropic brings in-country Claude inference to India via Amazon Bedrock",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/technology/artificial-intelligence/anthropic-claude-india-inference-amazon-bedrock-data-residency-126100500356_1.html",
+      "publishedAt": "Mon, 05 Oct 2026 12:44:36 +0530"
+    },
+    {
+      "title": "Stock Market Today Live Updates: Sensex Pares Early Gains, Nifty Above 22,400; Consumer Durables, Banks Lead Gains",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-share-market-news-sensex-nifty-gift-nifty-bond-yields-us-iran-conflict-houthi-attacks-brent-crude-oil-prices-today-12138866#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 12:43:51 +0530"
+    },
+    {
+      "title": "HDFC Bank Shares May Rally 28%, Motilal Oswal Remains Bullish After CEO Clarity; Check Target Price",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/hdfc-bank-in-focus-as-rbi-approves-anup-bagchi-as-new-ceo-motilal-oswal-bets-on-28-percent-upside-12139730#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 12:42:46 +0530"
+    },
+    {
+      "title": "Russian Researcher Dies After Suspected Plague Exposure, Nearly 200 Quarantined: Here's What We Know",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/russian-researcher-dies-after-suspected-plague-exposure-nearly-200-quarantined-heres-what-we-know-12139575#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 12:41:12 +0530"
+    },
+    {
+      "title": "Avenue Supermarts shares fall 4% despite 18% YoY revenue growth in Q2 update",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-shares-fall-4-despite-18-yoy-revenue-growth-in-q2-update/articleshow/134689213.cms",
+      "publishedAt": "Mon, 05 Oct 2026 12:41:04 +0530"
+    },
+    {
+      "title": "L&T wins ₹10K-cr orders for power transmission & distribution business",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/larsen-toubro-power-transmission-orders-saudi-uae-india-renewable-energy-126100500349_1.html",
+      "publishedAt": "Mon, 05 Oct 2026 12:38:53 +0530"
+    },
+    {
+      "title": "Can Nifty break the 8-week deadlock or will pain continue? Here’s what charts indicate",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-break-the-8-week-deadlock-or-will-pain-continue-heres-what-charts-indicate/articleshow/134688975.cms",
+      "publishedAt": "Mon, 05 Oct 2026 12:28:39 +0530"
     },
     {
       "title": "Stock Market Today Live Updates: BSE Sensex jumps over 130 points, NSE Nifty50 trades above 22,480 mark - The Times of India",
@@ -148,26 +171,26 @@
       "publishedAt": "Mon, 05 Oct 2026 06:18:24 GMT"
     },
     {
-      "title": "Stock Market Today Live Updates: Sensex Jumps 100 Points, Nifty Above 22,400; Consumer Durables, Banks Lead Gains - ndtvprofit.com",
-      "source": "ndtvprofit.com",
+      "title": "Stock Market Today Live Updates: Sensex Jumps 100 Points, Nifty Above 22,400; Consumer Durables, Banks Lead Gains - NDTV Profit",
+      "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWFBCZTVGWmwzX1dja1hyc09FRnRhVlNyWlhYTnhzbHZLeWRkdjEtcWo2enBaLS1IUkxoLVJMV2ZWNmxhcHVSeExxdFRySFZEVGtZbFRLZGRzbEFxbk5BOHg1cVlJVTFTWWpDRm5VclhXSWpFZlhoZXYtWk5wT0FVazdLcGg1Zmp1MkVEd0ZpTkQycUQ1R0Z2U0p0RUVZQ2g4OThYejc3QUpsVkE0S0dBOGZvVldYS0lVUU5XU2RnQVJNMFNUaXpuZHN4UkRPbTE4SjJoZ2d5RVFtOUlNV0hVVnpKSEZMNjhMSVZZaHVXQWwtUm40YXBkQncxbG9DQ0g1MkYwTlpTY2UzeC1TMUNGSm5rNUZVV1ZUcnfSAaICQVVfeXFMT0hHd1JXcElYMG9NY09SWUlfU25HZHQ4TXNoTmNlTXBfeTRZaVppWFBNOVhNcC05ai1uVExOVDBFc1Q4WFRmUzF4UnVjWEFDeWhEc3lmT01SazhfNEpQaWxXM0t3cklQWkdtOGNNVDJRcGkzcXMxSzA3U1JRd1JJUHhhLU8tUlFSSFQ2cGp3empMQndhRUxJdXpQVjN1amw5LTg5OFhoWWJKUmRXN1lOcjdFalVOd2FkS2JaNkhQRVQ3RG5uX3d1aGJxTTd6WEUyeTNyUWlzaFdfc0tUTVVDM0xDbkpSNGdtX1pDTGltSjdCWExSQ29hNjRzeEd6eXZOX09oR1VJVmFranZKU3gzWXJTNE5lN3NpbXdhWWsyaXNvN2c?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 06:23:19 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market LIVE Updates: Nifty falls sharply from highs, gains down to 60 points - CNBC TV18",
-      "source": "CNBC TV18",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty reclaims 22,550 again; market recovers from lows - cnbctv18.com",
+      "source": "cnbctv18.com",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMWtDZGx5bDNEMFhVTGpMLW44Wld3QTEyZ1pBVElwZW1zRjhkckVWU29WUWZBa195S0lJZmM0WmRrR09vbDEyNDFxeTFEZFpKN0o3b2F6dzkyMWFfczV1NWpqVGVET0MyNEJhOFNDT21IcC1obm1heEYyTFRwX2x3UHIyNVRtRjhQWG8tVHo0YXdrR0NXQkdmOWRyWUZiYlI0VDFiU1NiM2JvRHdQZHkybTRFaVozNGxPZnRTWVNWQ2pHSExIM0cwOWpEaFRrc0hlNE9tZWdmbHgtbGVZNmtFZkhoZUhzRkNveXh4djhITnNEaXVsQzYtQ2RUajJKdndRdHlocDVhdDFNSkNmT3pMUtIBlgJBVV95cUxPUWpJbUFYNjc1MUxZYlNEeC12bmJBdThaMFZxWFctZGg2SF9TM1NSWDFqTERBNDFaQVR4UXJuNGhxdV9TUFVnRWNsVW9JMXJwQXZVRmt1YTdrQ3A1Q0doZmVNLU9RdlAtTEJaTHE4c3BxanpNdGZmcVhzZ2FlWjlxeDM1amI5SVpPNTZYUFVhQzN6S3JLeDlvaC01blZVS0lCWDhpMFN5d3NqVklOakdnZkxNcHZiX1llZGdOcFpOQklOVWFRQllFRmUyb3lCSTBPeFZiSGE3bHBLNTk5NzRrMzJpNktFSTlLS013am5YZlJwMnRDT2k1TUpGeVpjeHkyR1pFN3pmdzhpdnVSbm8tSDhvTTlGZw?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 04:59:11 GMT"
+      "publishedAt": "Mon, 05 Oct 2026 07:59:13 GMT"
     },
     {
-      "title": "Stock Market LIVE: Sensex, Nifty in narrow range; Nifty near 22,500; Bajaj Finance, ITC top gainers - Business Standard",
-      "source": "Business Standard",
+      "title": "Stock Market LIVE: Sensex, Nifty in narrow range; Nifty near 22,500; Bajaj Finance, ITC top gainers - business-standard.com",
+      "source": "business-standard.com",
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQREh0Q25mTmVxOC1ydzUwRkhtYXhha0gtOUJTY1IxamV1MWRNbVJVcThLczhNZnQ1N1BxLTlYMkhFQ0tyM2w3ektQMG9GTjZ4T0NzZDdDZWhob0F4QkpOUTF6TEFkWTFDMjFpS3FDRWRQbEJqQWlTU211b3BZNjk1VWtyTnl2QkJSZURSQ3d4Wm9iTlV4LWNjV2lpTlNFWlpzX3NjQ1F1VjVYMFQ2R2syeWZSYkNuNzUxRG5YcmxTTHBWTmhFbEU1cktQYXljc2ZKLU1YYXE0dXlnZDdWbWFjZGpFOWpTZUYyd0hOQTBfdW02RWVvaUlxdnhhS1VXYkdvRFVWbm1yR3ctREVyOWdrYVFiMWF5UkF5M1l2aF80bUI4U3A0emVsOWxvMDZ2V3No0gG2AkFVX3lxTFBsVi1oN203dU9Ic3NRZTQ4eXRVVmxTbVFhRVR2RlgtZXlHbkFSdE5tSVE0WDRrTEFEd19uOHJadjZIeTE1WVE2Q2VzVGVwSmZRQzNxUE9MRUhjS2tpY3RsYW40eXY5ZkdmZ2ZDaWpvUDJaNDJoLWh0RGxUaG5JUUtQRjdsMmN3Z2R5cTN4ZE5LbE1pMEtvNUt5YS1LeGF3aTEwRWlLSHpzOGN5OE9PQ3lTYkNlekVoemdnWHpncGhsRmwxaURRdUpEaFE5Tl9JVHYyYm52RVE5cnRzTG91Z2gzbmhyMHA2cUlzOERya29nLVV5YUlJMHJVLUhXOVdWeUg0R3BGTWpqUnpVdTdvZlFPTFN5UDdaeHk3b3VVdEpFVXYxSUs3SEFpcUlXU1NDRDV2MXpIakE?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 06:10:03 GMT"
     },
     {
-      "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - Livemint",
-      "source": "Livemint",
+      "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - livemint.com",
+      "source": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd0NvRVRSTDduVC1XRTZSdGF4N25IeTIzSVVRX2FTOVdyakkxTkd4aU9ZWDgzM2tiTDI4dG9meHNRbmJQNEtiOFdrd0R4ZzhGYUlMaC1pbkFkLTM1UXdydnpvYWxaanE5Z2MtRkpvV01ZeV91YkFuYkVPdXVLT1hYdTNvNER4WWtkcmlUVV93dEtUSldpRmFPbUp4YjUway1BcDJuQVJfS21tcWtLSE9vX051N1I4enFFanFrY0hmUFhSeW5ZSE5wVThybElpTFFGT202QllJdnVPUm0xMFV0Nm9HM3BJZDRlSnNjRXdrbi11N3plak83N0ZhN1Fhd01kWloxcW5MekFIZEZNbmRZOdIBlgJBVV95cUxOUm1GN0VHQ201M1JmT3JES3FLOVA3UkM2X1RjOS1zMGs3MlNkcmFjOWNTUTZWUU5MN2FtRFFUVThDTjhOQm5ZNVJSSFFnRWZ1Mk94dUx5NmhDX2VIMjhHZTgweTBCQURQdkNEVHhGMDM1eXBmRDZfcnRzOFFXanNZQ3NSRHB1aVkwM3h6N05TaEZDcTNmZzlURjF6R1BaRlIxTVhzQjJnRmowb3h2UWpWU2laSmgyY2ZUNjNTc1EwVjNvSzlicFRmQ1Nzbk9hTDI2UjN4QXVCQXItYVhrYi1xNjhNeERVb1kyam8xeXFhTHRLZHI3V0RreFdMbXhlRDlyOWNKWnFGanlib1hxYzhiNnZsMVg1Zw?oc=5",
       "publishedAt": "Sun, 04 Oct 2026 11:18:12 GMT"
     },
@@ -178,8 +201,8 @@
       "publishedAt": "Sat, 03 Oct 2026 11:02:50 GMT"
     },
     {
-      "title": "Stock market prediction for today, 5 Oct Monday: Sensex, Nifty outlook; Dow Jones, Nasdaq, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
+      "title": "Stock market prediction for today, 5 Oct Monday: Sensex, Nifty outlook; Dow Jones, Nasdaq, Kospi, Nikkei, Taiwan cues - livemint.com",
+      "source": "livemint.com",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQd25zczBMcWMxSmhGWU1pR01iWG5pMlRtTUwwR0ZOWl9ZbTdNQXZ2WEdLTk84SEFyeGl0YkFRazY3STl5Wl9zU1JRd2hMaFZtNzMtempfdk8ySDVQcV9scVFoU09WckgwV0RiMEJLQkxweVVUVUVCWU1zQ3p6Q3ZRTDBhUlFzbjBKajE1Q3BOOURaVExFR29JVzdSWnRJUE95OTgyaG1LVWlIWFJ6MFF4aWJGODQ1M3kyRkdyd2FrYmRrYVJ2VGwwdWxaSEdYOHdWVktIMFBvVjJZN3l6aUhLU1h1aWw3Ulh6aTBSem92SER4WWVEWjQ5T1pJbzE2bzM2NVY3WGc4ZEhkOS1xcUJB0gGUAkFVX3lxTE9iTF9TQkdKRHR6MEdPS1ZCaDJtYXFvTFUwZFJQM3dWdXZ0MkJmeHNneFVpVUEzZkNremlEMWJDUDdxQ3dBTnlwOU1GS1N6YmZsNlNOZUpPdVJrQ2p0eC1xUHJCUkN6dDM3dS0zMDk1c21XeTZXWGtsNUx0Z1hydndCYm9fS3EtMWpuOGFpamdHVUZFTy1ycFhpajkxZzJTTWViOVY2OHlzc0JWYXFmbDJqczdYd0FlaXhpVkc3QWRmTU00alRpSmVDamhHTUhlc25NVFRlejhwOFpSNjc2c2d3X3g2LU5vZExadWdORkxOUGR3c0VaRjNiTzRDNW9UVGpSbnFVaW1BejFpUE1TQW1MWGZzRA?oc=5",
       "publishedAt": "Sun, 04 Oct 2026 04:39:44 GMT"
     },
@@ -190,16 +213,16 @@
       "publishedAt": "Wed, 30 Sep 2026 10:31:48 GMT"
     },
     {
-      "title": "Stock Market Highlights, Oct 1: Sensex falls 571 points, Nifty slips 0.88% as auto stocks drag markets - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3loUnRoYjJCaUhicnUwYUFMSWIzTmI1am5rc05kV0tCbFAyUUJvSlJYQmxJekpmT1RzZTl5WUdjWFoxWW8xZ1lSZlRrVk5EdWdzMm1jXzg2VzRsTmxmSDJsNGVWTndSNEhUMVlTeERiX2VzeVZNSEZGblRwclU3Ni1PRzc2Ym44Sy0wQWJ4NXhmeGxhWW9pTGczRnZfUzdtQklPQjhIcmNIa3U4eGl2cnIyY1RPcjliLUHSAcABQVVfeXFMTThuNFRId3JQUVlfdUQtYUJKcmt5MWpiWFRUM3RwVTZOWngxbk9vUDVNWGh2OTBVOFNsNlNEbkFhTVAtZS0yZTNYR0prSjBBcHUwX3oxS2VCQ0VocmZJQ0NQSzNsNHlBc3NiQ0lrNEc4U1lfXy1TUVMxYl9leTlmRDF6ZWZhQkVsd080VTBmckMyZXNfTDk3ZjZzREZYaW8xUkpHTVg4cjM0SHhGLS1qdWtuUHpueDJuWTZ6SmxfT3J1?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 10:36:25 GMT"
-    },
-    {
-      "title": "Stock Market Today: Gift Nifty, US Jobs Data To Oil Prices — Five Key Factors For Sensex, Nifty 50 On October 5 - ndtvprofit.com",
-      "source": "ndtvprofit.com",
+      "title": "Stock Market Today: Gift Nifty, US Jobs Data To Oil Prices — Five Key Factors For Sensex, Nifty 50 On October 5 - NDTV Profit",
+      "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM09pdWRYYmtDa1p4bnc2SDMwdFBhdHM4bXQ2MlZnb2hsOHZfZEpvdU1fWjBsTVI4RlZwV1lMNldqQWtMaGY0R282Rlhwd19Xb2FudjhRUHVIemJkQ2d0QmxnQWd2RDdhYnJVak51b3lHbERSMDQ5TWRNekpqSlZBc0pOTGtoSGl4M3RBRGQzXzdZMWVTQVhTNmVjdUZXMGlFblpQUDdxTWI1emllMnRMOGlIVDk4aXVqMXFUTWVpVm91UHlfUzdQREZWTXljbnVadS1TWWFRcFA3X19PQURRdjR1eTV1YU8wQkpDVNIB9AFBVV95cUxNOVYyWmZoeVpuQWMyd1YtR3FSdjhQaTBsZFhGMHlQYkJDRV90M3lTclBWZ1pDdElKbXBFZThJOTBsZGZqSkRibEJwellNakpFZEZfYWdqSEdWMm5vVVh6VVBjWUFHbmxGS1FXWWpnaWNtbHBKbnhJcnlRUEU2NVFfcFRCam5nOVk5MWUwWkREdTFMa215QkNmUjRqWlU3bEVoWG9uNkhXV1NHQkQ3QzlXc1NvZl9FS0czZWgtTUtxYnR1bjRGT0VDZndJZUZ2TjNpSWZrYjhldkpBaXVLSGVNRV9URlZUUDlOcHhuUUNrNXZrVnpy?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 02:24:03 GMT"
+    },
+    {
+      "title": "Why is stock market up today? Top 3 factors behind the rally in Sensex, Nifty today - livemint.com",
+      "source": "livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORXJaWjJRdS14UmxUNlRCN2tyU3AyWVpaRTZWX3VhczU2TW8wRS1tNlpIenNqdU9SYjRnb2o0UjVoS29DSFhFb0t3dWZOYmotMWZHc1p6RXE2b2dnYjI3UUZObEtodlZiYldsejBVa2pGVldrYW40YVYyRXEzYXN0Wm93VGZrZHlKSGE4STRQNHdudGI4d0NsRDdoS2xsa0tlWndyWUt0aFNXVWttQmkzUER1UzFPeV8wTXpDUDZhNk9JaVpzaDlqSEhKNHUzVDA3amRKMTMtdm1tYzk3VXA5LURnbnJ0UQ?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 04:03:17 GMT"
     }
   ]
 }
