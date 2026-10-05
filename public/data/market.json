@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Rallies 472 Points, Nifty Settles Above 22,550 Led by FMCG and Banking Stocks",
+  "headline": "Sensex and Nifty Rally Over 1% as Banking and FMCG Stocks Lead Market Gains",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,18 +7,27 @@
     "nextOpen": ""
   },
   "why": [
-    "Strong performance in FMCG and Banking sectors led the market rally",
-    "Positive global cues including US jobs data boosted investor sentiment",
-    "Buying interest in heavyweights like HDFC Bank and Reliance Industries",
-    "Market recovery following recent volatility and concerns over FII selling"
+    "FMCG and banking sectors led a significant rally in the benchmarks on October 5",
+    "Sensex gained 472 points while Nifty 50 settled above the 22,550 level",
+    "Positive momentum in heavyweights like HDFC Bank, Reliance, and ITC supported the indices",
+    "Global cues including US jobs data and oil price movements influenced investor sentiment"
   ],
   "whatHappening": [
-    "Sensex gained 472 points while Nifty 50 rose by 134 points to close in the green",
-    "IndiGo increased fuel surcharges on domestic and international flights due to rising ATF prices",
-    "Hindustan Unilever and PB Fintech hit 52-week lows despite the broader market rally",
-    "Indian bonds traded in a narrow range ahead of the upcoming RBI policy meeting"
+    "Marico has acquired a 24% stake in Satiya Nutraceuticals for Rs 1,012 crore",
+    "The 57th GST Council meeting has been postponed and rescheduled to October 8",
+    "Nifty faces immediate resistance at 22,600 as bearish momentum shows signs of pausing",
+    "Market outlook remains cautious due to continued FII selling and global volatility"
   ],
   "stocksInNews": [
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/6 sources",
+      "articleIds": [
+        2,
+        17
+      ]
+    },
     {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
@@ -28,21 +37,10 @@
       ]
     },
     {
-      "symbol": "HDFCBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/6 sources",
-      "articleIds": [
-        10,
-        17
-      ]
-    },
-    {
       "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/6 sources",
+      "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        7,
-        10,
         17
       ]
     },
@@ -55,69 +53,69 @@
       ]
     },
     {
-      "symbol": "INDIGO",
+      "symbol": "MARICO",
       "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "CANBK",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
         2
       ]
     },
     {
-      "symbol": "HINDUNILVR",
-      "sentiment": "Negative",
+      "symbol": "NTPC",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        5
+        2
       ]
     },
     {
-      "symbol": "PBFINTECH",
-      "sentiment": "Negative",
+      "symbol": "SUZLON",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        5
+        2
       ]
     },
     {
-      "symbol": "BSE",
-      "sentiment": "Positive",
+      "symbol": "BHEL",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        7
+        2
       ]
     },
     {
-      "symbol": "HCLTECH",
-      "sentiment": "Positive",
+      "symbol": "GODREJCP",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "ASIANPAINT",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        7
+        2
       ]
     }
   ],
-  "summary": "Indian markets ended higher on Monday with the Sensex gaining 472 points, driven by strong performance in banking and FMCG sectors. While heavyweights like HDFC Bank and Reliance saw gains, stocks like HUL and PB Fintech hit 52-week lows. Investors remained cautious but optimistic ahead of the upcoming RBI policy meeting.",
-  "updatedAt": "2026-10-05T13:35:21.450Z",
+  "summary": "Indian markets witnessed a strong rally on Monday with the Sensex gaining 472 points, driven by robust performance in the banking and FMCG sectors. \nMarico made headlines with a major acquisition in the nutraceutical space, while the GST Council meeting was pushed to October 8. \nAnalysts expect volatility to persist as Nifty tests resistance at 22,600 amid ongoing FII selling pressure.",
+  "updatedAt": "2026-10-05T18:32:16.699Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-10-05",
+  "dateChecked": "2026-10-06",
   "articleKeys": [
-    "supreme court gets three new judges working strength goes up to 37",
-    "tvs asl raises 425 crore from crescent enterprises in series d round",
-    "indigo raises fuel surcharge on domestic intl flights as atf rises",
-    "indian bonds hold tight range ahead of rbi policy meeting",
-    "dow jones nasdaq us stock market today live us futures dip as tech stocks take a breather",
-    "hindustan unilever pb fintech among 7 stocks that hit 52week lows and slipped up to 47 in a month",
-    "bitcoin trades near 86000 as weaker us jobs data dims october fed rate hike bets",
-    "market wrap itc bse hcl tech asian paints top gainers and losers on nifty and sensex on monday",
-    "tamil telugu malayalam ott releases pradhama drishtiya kuttakkar mandaadi epic first semester heres what to watch",
-    "maharashtra braces for drought 10 water cut mandated from oct 16 over el nino fears",
+    "12 new buses gutted in major fire at bests anik bus depot in central mumbai",
+    "ai classes from class 6 karnataka plans early tech training in government schools",
+    "buy sell or hold canara bank ntpc suzlon energy bhel hdfc bank and godrej consumer ask profit",
+    "chatgpt plus free for a month in india how to check if youre eligible and claim it",
+    "jailer 2 trailer out rajinikanth back as tiger muthuvel pandian with action humour and more",
+    "gst councils 57th meeting postponed by a day rescheduled to october 8",
+    "trade setup for oct 6 nifty resistance at 22600 as bearish momentum pauses",
+    "marico acquires 24 stake in satiya nutraceuticals for rs 1012 crore",
+    "arijit singh announces india tour to celebrate 20 years of music check cities dates",
+    "midair emergency british airways flight to chicago drops to 28000 feet",
     "stock market today highlights sensex rallies 472 points nifty 50 settles above 22550 fmcg banks lead ndtv profit",
     "stock market today live updates markets end in green sensex gains 473 points nifty rises 134 points the times of india",
     "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint",
@@ -127,68 +125,68 @@
     "stock market outlook today 5 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei taiwan cues livemint",
     "stock market today sensex up 472 points nifty bank up 263 points hdfc bank ril itc bajaj finance shares gain livemint",
     "stock market prediction for today 5 oct monday sensex nifty outlook dow jones nasdaq kospi nikkei taiwan cues livemint",
-    "stock market highlights sept 28 sensex tanks 1124 points nifty ends below 22800 businessline"
+    "stock market highlights sept 28 sensex tanks 1124 points nifty ends below 22800 thehindubusinesslinecom"
   ],
   "articles": [
     {
-      "title": "Supreme Court gets three new judges, working strength goes up to 37",
+      "title": "12 New Buses Gutted In Major Fire At BEST's Anik Bus Depot In Central Mumbai",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/supreme-court-gets-three-new-judges-working-strength-goes-up-to-37-126100500900_1.html",
-      "publishedAt": "Mon, 05 Oct 2026 18:05:42 +0530"
+      "link": "https://www.ndtvprofit.com/india/12-new-buses-gutted-in-major-fire-at-bests-anik-bus-depot-in-central-mumbai-12142708#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 22:30:01 +0530"
     },
     {
-      "title": "TVS ASL raises ₹425 crore from Crescent Enterprises in Series D round",
+      "title": "AI Classes From Class 6: Karnataka Plans Early Tech Training in Government Schools",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/tvs-asl-raises-425-crore-from-crescent-enterprises-in-series-d-round-126100500892_1.html",
-      "publishedAt": "Mon, 05 Oct 2026 17:54:29 +0530"
+      "link": "https://www.ndtvprofit.com/india/ai-classes-from-class-6-karnataka-plans-early-tech-training-in-government-schools-12142359#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 22:19:07 +0530"
     },
     {
-      "title": "IndiGo raises fuel surcharge on domestic, int'l flights as ATF rises",
+      "title": "Buy, Sell Or Hold: Canara Bank, NTPC, Suzlon Energy, BHEL, HDFC Bank And Godrej Consumer — Ask Profit",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/aviation/indigo-raises-fuel-surcharge-on-domestic-int-l-flights-as-atf-rises-126100500889_1.html",
-      "publishedAt": "Mon, 05 Oct 2026 17:53:31 +0530"
+      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-canara-bank-ntpc-suzlon-energy-bhel-hdfc-bank-and-godrej-consumer-ask-profit-12142661#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 22:18:42 +0530"
     },
     {
-      "title": "Indian bonds hold tight range ahead of RBI policy meeting",
+      "title": "ChatGPT Plus Free For A Month In India: How To Check If You're Eligible And Claim It",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-hold-tight-range-ahead-of-rbi-policy-meeting/articleshow/134705629.cms",
-      "publishedAt": "Mon, 05 Oct 2026 17:48:02 +0530"
+      "link": "https://www.ndtvprofit.com/technology/chatgpt-plus-free-for-one-month-in-india-how-to-check-if-youre-eligible-and-claim-it-12142554#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 22:16:14 +0530"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures dip as tech stocks take a breather",
+      "title": "Jailer 2 Trailer Out: Rajinikanth Back As Tiger Muthuvel Pandian With Action, Humour And More",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-hike-treasury-bond-yields-intel-micron-nvidia-ptc-cerebras-ai-chip-stock-price-news-5th-october-2026/liveblog/134705735.cms",
-      "publishedAt": "Mon, 05 Oct 2026 17:43:44 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/jailer-2-trailer-out-rajinikanth-is-back-as-tiger-muthuvel-pandian-with-action-humour-and-more-12142541#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 22:09:06 +0530"
     },
     {
-      "title": "Hindustan Unilever, PB Fintech among 7 stocks that hit 52-week lows and slipped up to 47% in a month",
+      "title": "GST Council’s 57th Meeting Postponed By A Day, Rescheduled To October 8",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-unilever-pb-fintech-among-7-stocks-that-hit-52-week-lows-and-slipped-up-to-47-in-a-month/slideshow/134705609.cms",
-      "publishedAt": "Mon, 05 Oct 2026 17:42:33 +0530"
+      "link": "https://www.ndtvprofit.com/business/gst-council-s-57th-meeting-postponed-by-a-day-rescheduled-to-october-8-12142491#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 22:04:35 +0530"
     },
     {
-      "title": "Bitcoin trades near $86,000 as weaker US jobs data dims October Fed rate hike bets",
+      "title": "Trade Setup For Oct 6: Nifty Resistance At 22,600 As Bearish Momentum Pauses",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-86000-as-weaker-us-jobs-data-dims-october-fed-rate-hike-bets/articleshow/134705445.cms",
-      "publishedAt": "Mon, 05 Oct 2026 17:41:26 +0530"
+      "link": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-6-nifty-resistance-at-22-600-as-bearish-momentum-pauses-12142584#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 22:01:39 +0530"
     },
     {
-      "title": "Market wrap:  ITC, BSE, HCL Tech, Asian Paints top gainers and losers on Nifty and Sensex on Monday",
+      "title": "Marico Acquires 24% Stake In Satiya Nutraceuticals For Rs 1,012 Crore",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-itc-bse-hcl-tech-asian-paints-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/134705072.cms",
-      "publishedAt": "Mon, 05 Oct 2026 17:39:43 +0530"
+      "link": "https://www.ndtvprofit.com/business/marico-acquires-24-stake-in-satiya-nutraceuticals-for-rs-1-012-crore-12142460#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 21:57:59 +0530"
     },
     {
-      "title": "Tamil, Telugu, Malayalam OTT Releases: Pradhama Drishtiya Kuttakkar, Mandaadi, Epic: First Semester — Here's What To Watch",
+      "title": "Arijit Singh Announces India Tour To Celebrate 20 Years Of Music — Check Cities, Dates",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/tamil-telugu-malayalam-ott-releases-pradhama-drishtiya-kuttakkar-mandaadi-epic-first-semester-what-to-watch-12140604#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 17:17:02 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/arijit-singh-announces-9-city-india-tour-for-2027-to-celebrate-20-years-of-music-check-cities-and-dates-12142349#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 21:51:53 +0530"
     },
     {
-      "title": "Maharashtra Braces For Drought? 10% Water Cut Mandated From Oct 16 Over El Nino Fears",
+      "title": "Mid-Air Emergency: British Airways Flight To Chicago Drops To 28,000 Feet",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/maharashtra-braces-for-drought-10-water-cut-mandated-from-oct-16-over-el-nino-fears-12141074#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 17:14:45 +0530"
+      "link": "https://www.ndtvprofit.com/business/mid-air-emergency-british-airways-flight-to-chicago-drops-to-28-000-feet-12141743#publisher=newsstand",
+      "publishedAt": "Mon, 05 Oct 2026 21:49:15 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex Rallies 472 Points, Nifty 50 Settles Above 22,550; FMCG, Banks Lead - NDTV Profit",
@@ -245,10 +243,10 @@
       "publishedAt": "Sun, 04 Oct 2026 04:39:44 GMT"
     },
     {
-      "title": "Stock Market Highlights, Sept 28: Sensex tanks 1,124 points, Nifty ends below 22,800 - BusinessLine",
-      "source": "BusinessLine",
+      "title": "Stock Market Highlights, Sept 28: Sensex tanks 1,124 points, Nifty ends below 22,800 - thehindubusinessline.com",
+      "source": "thehindubusinessline.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFFJVUNEVGhOYUFkbnlTblY5YjMzbEp1RlU4aVBvQXM1SXVpYjAzV2t1SlNFd3pRejNNc3ZLUExWc1dKVUNOcnB1UG9ZMWtIc1hBVHhvblpBYm5wV1J4N211VjY4ZUxsRXZVdHc2bjhUcUJvYjBOcFQ0STdfLXRIcU16SFRXX2ZkNHpoTk1Fei04RU5ITmdQVVprSFpJZ19Qa3l0RlNrN2syN2JNd2I1a3VrcmpNaThqQ1I4QnVR0gHEAUFVX3lxTE5ORENGUldmRTlxaHNFZjdtbnRmRFQyQ0VTMGltRUNLMjBWMmFvRjU0UjJrUHA0MzJjQlg2QlB6dDJ6QXNFeWpMWnN3RFBYNVlhMEI0aDh6NVlaenNWX2NUWHU1ZEVlaUdXd090RjRpemlLZEV2TDlJWmdvOWZpYnlFQUY4WEZQQVl4NFMtQjB1SnBaZXc2RmdvU0xpNkdfSkJwbS13aEFybFl2RmtyYTUxWHZvdkwwclNkdC1hVGhPU2VWMWE?oc=5",
-      "publishedAt": "Wed, 30 Sep 2026 10:31:48 GMT"
+      "publishedAt": "Mon, 28 Sep 2026 01:04:12 GMT"
     }
   ]
 }
