@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Rallies 472 Points as FMCG and Banks Lead; PTC Shares Soar on Buyout News",
+  "headline": "GIFT Nifty signals positive open as Sensex and Nifty rally led by banks and FMCG stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,32 +7,33 @@
     "nextOpen": ""
   },
   "why": [
-    "FMCG and Banking sectors led the domestic market rally",
-    "Positive global cues as Nasdaq gained 1% at close",
-    "SEBI is reportedly considering a partial reversal of derivative settlement rules",
-    "Schneider Electric's $22.6 billion buyout agreement for PTC triggered a sharp stock surge"
+    "GIFT Nifty signals a positive open following a tech rally across major Asian markets.",
+    "Sensex rallied 472 points and Nifty crossed 22,550 in the previous trading session driven by FMCG and banking sectors.",
+    "Credit growth outpaced deposit growth across majority of banks in Q2, led by RBL Bank.",
+    "Positive brokerage sentiment around HDFC Bank following leadership appointment of Anup Bagchi."
   ],
   "whatHappening": [
-    "Sensex gained 472 points while Nifty 50 settled above the 22,550 mark",
-    "PTC shares soared nearly 34% following acquisition news from Schneider Electric",
-    "National Housing Bank is likely to double the affordable housing outlay for HFCs this fiscal",
-    "The Euro hit a 17-month low due to French debt fears and US inflation lifting the dollar"
+    "Asian equities traded higher while GIFT Nifty indicated a firm start for the Indian stock market.",
+    "Crude oil prices hovered below $101 per barrel as supply concerns eased slightly despite Middle East risk.",
+    "SRIT India is scheduled to make its stock market listing today with grey market indicators suggesting a 42% premium.",
+    "Gold prices remained steady amid a strong US dollar balancing expectations of softer US rate hikes."
   ],
   "stocksInNews": [
     {
-      "symbol": "PTC",
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/6 sources",
+      "articleIds": [
+        7,
+        17
+      ]
+    },
+    {
+      "symbol": "RBLBANK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
         4
-      ]
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        17
       ]
     },
     {
@@ -58,23 +59,31 @@
       "articleIds": [
         17
       ]
+    },
+    {
+      "symbol": "SRIT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
     }
   ],
-  "summary": "Indian markets rallied on Monday with the Sensex gaining 472 points, supported by strong performance in the FMCG and Banking sectors. PTC shares witnessed a massive 34% surge following a multi-billion dollar buyout agreement, while SEBI's potential easing of derivative rules boosted sentiment. Investors remain focused on global cues including US earnings and currency volatility as Nifty holds above 22,550.",
-  "updatedAt": "2026-10-06T01:33:15.516Z",
+  "summary": "Indian stock markets are poised for a positive open today supported by strong Asian tech cues and GIFT Nifty trends. Financial and banking sector stocks remain in focus following solid Q2 credit growth data and positive brokerage calls on HDFC Bank. Meanwhile, easing crude oil prices provide additional relief to market sentiment.",
+  "updatedAt": "2026-10-06T03:01:40.839Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-06",
   "articleKeys": [
-    "us stocks nasdaq gains 1 at close as investors focus on earnings",
-    "euro hits 17month low as french debt fears us inflation lift dollar",
-    "national housing bank likely to double affordable housing outlay for hfcs this fiscal",
-    "french bond contagion fears are rattling the euro",
-    "ptc shares soar nearly 34 after schneider electric agrees to 226 billion buyout",
-    "redditor lists 5 worst financial mistakes urges other to learn from them",
-    "taking career break your epf may keep earning interest but theres a tax catch",
-    "sebi to partly reverse derivative settlement rules after pushback sources say",
-    "650 diesel shock trump moves to expand tax exempt fuel",
-    "gemini ai paywall google restricts free users to flashlite model from october 9",
+    "jane street denies manipulation charges in india appeal case",
+    "stock market live gift nifty signals positive open most asian markets rise on tech rally",
+    "srit india shares to list today gmp signals 42 premium over issue price",
+    "oil price today october 6 crude oil below 101 as supply concerns ease but houthi attack keeps traders on edge",
+    "majority of banks see credit growth outpacing deposits in q2 rbl bank leads the way",
+    "positive breakout these 10 stocks cross above their 200 dmas",
+    "gold steady as firm dollar counters softer us ratehike bets",
+    "brokerages see 2574 upside for hdfc bank after anup bagchi appointment",
+    "euro faces political fiscal reckoning as it hovers near 17month low",
+    "oil prices slip as traders weigh strong mideast exports against gulf tensions",
     "stock market today highlights sensex rallies 472 points nifty 50 settles above 22550 fmcg banks lead ndtv profit",
     "stock market today live updates markets end in green sensex gains 473 points nifty rises 134 points the times of india",
     "stock market prediction for today 5 oct monday sensex nifty outlook dow jones nasdaq kospi nikkei taiwan cues livemint",
@@ -88,64 +97,64 @@
   ],
   "articles": [
     {
-      "title": "US stocks: Nasdaq gains 1% at close as investors focus on earnings",
+      "title": "Jane Street denies manipulation charges in India appeal case",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-dow-close-1-higher-as-investors-focus-on-earnings/articleshow/134716734.cms",
-      "publishedAt": "Tue, 06 Oct 2026 01:38:58 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jane-street-denies-manipulation-charges-in-india-appeal-case/articleshow/134721096.cms",
+      "publishedAt": "Tue, 06 Oct 2026 07:59:11 +0530"
     },
     {
-      "title": "Euro hits 17-month low as French debt fears, US inflation lift dollar",
+      "title": "Stock Market LIVE: GIFT Nifty signals positive open; most Asian markets rise on tech rally",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/euro-hits-17-month-low-as-french-debt-fears-us-inflation-lift-dollar/articleshow/134716587.cms",
-      "publishedAt": "Tue, 06 Oct 2026 01:13:00 +0530"
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-6-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-srit-india-ipo-listing-126100600087_1.html",
+      "publishedAt": "Tue, 06 Oct 2026 07:52:42 +0530"
     },
     {
-      "title": "National Housing Bank likely to double affordable housing outlay for HFCs this fiscal",
+      "title": "SRIT India shares to list today; GMP signals 42% premium over issue price",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/national-housing-bank-likely-to-double-affordable-housing-outlay-for-hfcs-this-fiscal/articleshow/134720205.cms",
-      "publishedAt": "Mon, 05 Oct 2026 23:54:33 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/srit-india-shares-to-list-today-gmp-signals-42-premium-over-issue-price/articleshow/134721093.cms",
+      "publishedAt": "Tue, 06 Oct 2026 07:52:14 +0530"
     },
     {
-      "title": "French bond contagion fears are rattling the euro",
+      "title": "Oil Price Today (October 6): Crude oil below $101 as supply concerns ease but Houthi attack keeps traders on edge",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/french-bond-contagion-fears-are-rattling-the-euro/articleshow/134714445.cms",
-      "publishedAt": "Mon, 05 Oct 2026 23:40:34 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-6-crude-oil-below-101-as-supply-concerns-ease-but-houthi-attack-keeps-traders-on-edge/articleshow/134721048.cms",
+      "publishedAt": "Tue, 06 Oct 2026 07:47:56 +0530"
     },
     {
-      "title": "PTC shares soar nearly 34% after Schneider Electric agrees to $22.6 billion buyout",
+      "title": "Majority of banks see credit growth outpacing deposits in Q2, RBL Bank leads the way",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ptc-shares-soar-nearly-34-after-schneider-electric-agrees-to-22-6-billion-buyout/articleshow/134714341.cms",
-      "publishedAt": "Mon, 05 Oct 2026 23:30:47 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/majority-of-banks-see-credit-growth-outpacing-deposits-in-q2-rbl-bank-leads-the-way/articleshow/134720959.cms",
+      "publishedAt": "Tue, 06 Oct 2026 07:47:32 +0530"
     },
     {
-      "title": "Redditor Lists 5 'Worst' Financial Mistakes; Urges Other To Learn From Them",
+      "title": "Positive Breakout: These 10 stocks cross above their 200 DMAs",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/redditor-lists-5-worst-financial-mistakes-urges-other-to-learn-from-them-12140262#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 23:28:20 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/slideshow/134721027.cms",
+      "publishedAt": "Tue, 06 Oct 2026 07:40:06 +0530"
     },
     {
-      "title": "Taking Career Break? Your EPF May Keep Earning Interest But There's A Tax Catch",
+      "title": "Gold steady as firm dollar counters softer US rate-hike bets",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/taking-a-career-break-your-epf-may-keep-earning-interest-but-there-is-a-tax-catch-12139855#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 23:25:21 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-firm-dollar-counters-softer-us-rate-hike-bets/articleshow/134720923.cms",
+      "publishedAt": "Tue, 06 Oct 2026 07:38:25 +0530"
     },
     {
-      "title": "SEBI to partly reverse derivative settlement rules after pushback, sources say",
+      "title": "Brokerages see 25-74% upside for HDFC Bank after Anup Bagchi appointment",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/sebi-to-partly-reverse-derivative-settlement-rules-after-pushback-sources-say/article71548742.ece",
-      "publishedAt": "Mon, 05 Oct 2026 23:20:07 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-see-25-74-upside-for-hdfc-bank-after-anup-bagchi-appointment/articleshow/134720795.cms",
+      "publishedAt": "Tue, 06 Oct 2026 07:35:07 +0530"
     },
     {
-      "title": "$6.50 Diesel Shock: Trump Moves To Expand Tax Exempt Fuel",
+      "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/6-50-diesel-shock-trump-moves-to-expand-tax-exempt-fuel-12142859#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 23:18:43 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17-month-low/articleshow/134720896.cms",
+      "publishedAt": "Tue, 06 Oct 2026 07:35:07 +0530"
     },
     {
-      "title": "Gemini AI Paywall: Google Restricts Free Users To Flash-Lite Model From October 9",
+      "title": "Oil prices slip as traders weigh strong Mideast exports against Gulf tensions",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/gemini-ai-paywall-google-restricts-free-users-to-flash-lite-model-from-october-9-12142783#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 23:12:02 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-slip-as-traders-weigh-strong-mideast-exports-against-gulf-tensions/articleshow/134720871.cms",
+      "publishedAt": "Tue, 06 Oct 2026 07:32:58 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex Rallies 472 Points, Nifty 50 Settles Above 22,550; FMCG, Banks Lead - NDTV Profit",
