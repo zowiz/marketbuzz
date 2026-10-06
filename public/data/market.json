@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Rallies 472 Points Led by Banking and FMCG; Nifty Settles Above 22,550 Amid Positive Global Cues",
+  "headline": "Sensex Rallies 472 Points as FMCG and Banks Lead; PTC Shares Soar on Buyout News",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,28 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex and Nifty witnessed a strong rally led by gains in the FMCG and Banking sectors",
-    "Positive sentiment in US markets as the Nasdaq gained 1% ahead of earnings season",
-    "Reports that SEBI may partly reverse derivative settlement rules following market pushback",
-    "Major heavyweights like HDFC Bank and Reliance Industries saw significant buying interest"
+    "FMCG and Banking sectors led the domestic market rally",
+    "Positive global cues as Nasdaq gained 1% at close",
+    "SEBI is reportedly considering a partial reversal of derivative settlement rules",
+    "Schneider Electric's $22.6 billion buyout agreement for PTC triggered a sharp stock surge"
   ],
   "whatHappening": [
-    "The Sensex gained 472 points while the Nifty 50 settled above the 22,550 mark",
-    "HDFC Bank, Reliance Industries, ITC, and Bajaj Finance were among the top gainers in the recent session",
-    "Markets remain volatile as investors monitor FII selling and global cues like US inflation",
-    "The Euro hit a 17-month low due to French debt concerns and a strengthening US dollar"
+    "Sensex gained 472 points while Nifty 50 settled above the 22,550 mark",
+    "PTC shares soared nearly 34% following acquisition news from Schneider Electric",
+    "National Housing Bank is likely to double the affordable housing outlay for HFCs this fiscal",
+    "The Euro hit a 17-month low due to French debt fears and US inflation lifting the dollar"
   ],
   "stocksInNews": [
     {
-      "symbol": "RELIANCE",
+      "symbol": "PTC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
@@ -28,7 +36,7 @@
       ]
     },
     {
-      "symbol": "HDFCBANK",
+      "symbol": "RELIANCE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
@@ -52,13 +60,14 @@
       ]
     }
   ],
-  "summary": "Indian benchmark indices ended significantly higher with the Sensex rising 472 points and Nifty closing above 22,550, driven by banking and FMCG sectors. Stocks like HDFC Bank and Reliance led the gains, while SEBI's potential reversal of derivative rules provided additional market focus. Despite the rally, investors remain cautious of global factors including US inflation and French debt fears.",
-  "updatedAt": "2026-10-05T21:02:17.633Z",
+  "summary": "Indian markets rallied on Monday with the Sensex gaining 472 points, supported by strong performance in the FMCG and Banking sectors. PTC shares witnessed a massive 34% surge following a multi-billion dollar buyout agreement, while SEBI's potential easing of derivative rules boosted sentiment. Investors remain focused on global cues including US earnings and currency volatility as Nifty holds above 22,550.",
+  "updatedAt": "2026-10-06T01:33:15.516Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-06",
   "articleKeys": [
     "us stocks nasdaq gains 1 at close as investors focus on earnings",
     "euro hits 17month low as french debt fears us inflation lift dollar",
+    "national housing bank likely to double affordable housing outlay for hfcs this fiscal",
     "french bond contagion fears are rattling the euro",
     "ptc shares soar nearly 34 after schneider electric agrees to 226 billion buyout",
     "redditor lists 5 worst financial mistakes urges other to learn from them",
@@ -66,16 +75,15 @@
     "sebi to partly reverse derivative settlement rules after pushback sources say",
     "650 diesel shock trump moves to expand tax exempt fuel",
     "gemini ai paywall google restricts free users to flashlite model from october 9",
-    "lionel messis argentina farewell special jersey world cup reunion more all you need to know",
-    "stock market today highlights sensex rallies 472 points nifty 50 settles above 22550 fmcg banks lead ndtvprofitcom",
+    "stock market today highlights sensex rallies 472 points nifty 50 settles above 22550 fmcg banks lead ndtv profit",
     "stock market today live updates markets end in green sensex gains 473 points nifty rises 134 points the times of india",
-    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint",
-    "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
-    "stock market today gift nifty us jobs data to oil prices five key factors for sensex nifty 50 on october 5 ndtvprofitcom",
-    "why is stock market up today top 3 factors behind the rally in sensex nifty today livemint",
-    "stock market outlook today 5 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei taiwan cues livemint",
-    "stock market today sensex up 472 points nifty bank up 263 points hdfc bank ril itc bajaj finance shares gain livemint",
     "stock market prediction for today 5 oct monday sensex nifty outlook dow jones nasdaq kospi nikkei taiwan cues livemint",
+    "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
+    "stock market today gift nifty us jobs data to oil prices five key factors for sensex nifty 50 on october 5 ndtv profit",
+    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint",
+    "why is stock market up today top 3 factors behind the rally in sensex nifty today livemint",
+    "stock market today sensex up 472 points nifty bank up 263 points hdfc bank ril itc bajaj finance shares gain livemint",
+    "stock market outlook today 5 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei taiwan cues livemint",
     "stock market highlights sept 28 sensex tanks 1124 points nifty ends below 22800 businessline"
   ],
   "articles": [
@@ -90,6 +98,12 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/euro-hits-17-month-low-as-french-debt-fears-us-inflation-lift-dollar/articleshow/134716587.cms",
       "publishedAt": "Tue, 06 Oct 2026 01:13:00 +0530"
+    },
+    {
+      "title": "National Housing Bank likely to double affordable housing outlay for HFCs this fiscal",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/national-housing-bank-likely-to-double-affordable-housing-outlay-for-hfcs-this-fiscal/articleshow/134720205.cms",
+      "publishedAt": "Mon, 05 Oct 2026 23:54:33 +0530"
     },
     {
       "title": "French bond contagion fears are rattling the euro",
@@ -134,14 +148,8 @@
       "publishedAt": "Mon, 05 Oct 2026 23:12:02 +0530"
     },
     {
-      "title": "Lionel Messi's Argentina Farewell: Special Jersey, World Cup Reunion & More — All You Need To Know",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/lionel-messis-argentina-farewell-special-jersey-world-cup-reunion-and-more-all-you-need-to-know-12142641#publisher=newsstand",
-      "publishedAt": "Mon, 05 Oct 2026 23:04:26 +0530"
-    },
-    {
-      "title": "Stock Market Today Highlights: Sensex Rallies 472 Points, Nifty 50 Settles Above 22,550; FMCG, Banks Lead - ndtvprofit.com",
-      "source": "ndtvprofit.com",
+      "title": "Stock Market Today Highlights: Sensex Rallies 472 Points, Nifty 50 Settles Above 22,550; FMCG, Banks Lead - NDTV Profit",
+      "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWFBCZTVGWmwzX1dja1hyc09FRnRhVlNyWlhYTnhzbHZLeWRkdjEtcWo2enBaLS1IUkxoLVJMV2ZWNmxhcHVSeExxdFRySFZEVGtZbFRLZGRzbEFxbk5BOHg1cVlJVTFTWWpDRm5VclhXSWpFZlhoZXYtWk5wT0FVazdLcGg1Zmp1MkVEd0ZpTkQycUQ1R0Z2U0p0RUVZQ2g4OThYejc3QUpsVkE0S0dBOGZvVldYS0lVUU5XU2RnQVJNMFNUaXpuZHN4UkRPbTE4SjJoZ2d5RVFtOUlNV0hVVnpKSEZMNjhMSVZZaHVXQWwtUm40YXBkQncxbG9DQ0g1MkYwTlpTY2UzeC1TMUNGSm5rNUZVV1ZUcnfSAaICQVVfeXFMT0hHd1JXcElYMG9NY09SWUlfU25HZHQ4TXNoTmNlTXBfeTRZaVppWFBNOVhNcC05ai1uVExOVDBFc1Q4WFRmUzF4UnVjWEFDeWhEc3lmT01SazhfNEpQaWxXM0t3cklQWkdtOGNNVDJRcGkzcXMxSzA3U1JRd1JJUHhhLU8tUlFSSFQ2cGp3empMQndhRUxJdXpQVjN1amw5LTg5OFhoWWJKUmRXN1lOcjdFalVOd2FkS2JaNkhQRVQ3RG5uX3d1aGJxTTd6WEUyeTNyUWlzaFdfc0tUTVVDM0xDbkpSNGdtX1pDTGltSjdCWExSQ29hNjRzeEd6eXZOX09oR1VJVmFranZKU3gzWXJTNE5lN3NpbXdhWWsyaXNvN2c?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 10:15:52 GMT"
     },
@@ -152,10 +160,10 @@
       "publishedAt": "Mon, 05 Oct 2026 10:39:20 GMT"
     },
     {
-      "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - Livemint",
+      "title": "Stock market prediction for today, 5 Oct Monday: Sensex, Nifty outlook; Dow Jones, Nasdaq, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd0NvRVRSTDduVC1XRTZSdGF4N25IeTIzSVVRX2FTOVdyakkxTkd4aU9ZWDgzM2tiTDI4dG9meHNRbmJQNEtiOFdrd0R4ZzhGYUlMaC1pbkFkLTM1UXdydnpvYWxaanE5Z2MtRkpvV01ZeV91YkFuYkVPdXVLT1hYdTNvNER4WWtkcmlUVV93dEtUSldpRmFPbUp4YjUway1BcDJuQVJfS21tcWtLSE9vX051N1I4enFFanFrY0hmUFhSeW5ZSE5wVThybElpTFFGT202QllJdnVPUm0xMFV0Nm9HM3BJZDRlSnNjRXdrbi11N3plak83N0ZhN1Fhd01kWloxcW5MekFIZEZNbmRZOdIBlgJBVV95cUxOUm1GN0VHQ201M1JmT3JES3FLOVA3UkM2X1RjOS1zMGs3MlNkcmFjOWNTUTZWUU5MN2FtRFFUVThDTjhOQm5ZNVJSSFFnRWZ1Mk94dUx5NmhDX2VIMjhHZTgweTBCQURQdkNEVHhGMDM1eXBmRDZfcnRzOFFXanNZQ3NSRHB1aVkwM3h6N05TaEZDcTNmZzlURjF6R1BaRlIxTVhzQjJnRmowb3h2UWpWU2laSmgyY2ZUNjNTc1EwVjNvSzlicFRmQ1Nzbk9hTDI2UjN4QXVCQXItYVhrYi1xNjhNeERVb1kyam8xeXFhTHRLZHI3V0RreFdMbXhlRDlyOWNKWnFGanlib1hxYzhiNnZsMVg1Zw?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 11:18:12 GMT"
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQd25zczBMcWMxSmhGWU1pR01iWG5pMlRtTUwwR0ZOWl9ZbTdNQXZ2WEdLTk84SEFyeGl0YkFRazY3STl5Wl9zU1JRd2hMaFZtNzMtempfdk8ySDVQcV9scVFoU09WckgwV0RiMEJLQkxweVVUVUVCWU1zQ3p6Q3ZRTDBhUlFzbjBKajE1Q3BOOURaVExFR29JVzdSWnRJUE95OTgyaG1LVWlIWFJ6MFF4aWJGODQ1M3kyRkdyd2FrYmRrYVJ2VGwwdWxaSEdYOHdWVktIMFBvVjJZN3l6aUhLU1h1aWw3Ulh6aTBSem92SER4WWVEWjQ5T1pJbzE2bzM2NVY3WGc4ZEhkOS1xcUJB0gGUAkFVX3lxTE9iTF9TQkdKRHR6MEdPS1ZCaDJtYXFvTFUwZFJQM3dWdXZ0MkJmeHNneFVpVUEzZkNremlEMWJDUDdxQ3dBTnlwOU1GS1N6YmZsNlNOZUpPdVJrQ2p0eC1xUHJCUkN6dDM3dS0zMDk1c21XeTZXWGtsNUx0Z1hydndCYm9fS3EtMWpuOGFpamdHVUZFTy1ycFhpajkxZzJTTWViOVY2OHlzc0JWYXFmbDJqczdYd0FlaXhpVkc3QWRmTU00alRpSmVDamhHTUhlc25NVFRlejhwOFpSNjc2c2d3X3g2LU5vZExadWdORkxOUGR3c0VaRjNiTzRDNW9UVGpSbnFVaW1BejFpUE1TQW1MWGZzRA?oc=5",
+      "publishedAt": "Sun, 04 Oct 2026 04:39:44 GMT"
     },
     {
       "title": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling - Goodreturns",
@@ -164,10 +172,16 @@
       "publishedAt": "Sat, 03 Oct 2026 11:02:50 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty, US Jobs Data To Oil Prices — Five Key Factors For Sensex, Nifty 50 On October 5 - ndtvprofit.com",
-      "source": "ndtvprofit.com",
+      "title": "Stock Market Today: Gift Nifty, US Jobs Data To Oil Prices — Five Key Factors For Sensex, Nifty 50 On October 5 - NDTV Profit",
+      "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNM09pdWRYYmtDa1p4bnc2SDMwdFBhdHM4bXQ2MlZnb2hsOHZfZEpvdU1fWjBsTVI4RlZwV1lMNldqQWtMaGY0R282Rlhwd19Xb2FudjhRUHVIemJkQ2d0QmxnQWd2RDdhYnJVak51b3lHbERSMDQ5TWRNekpqSlZBc0pOTGtoSGl4M3RBRGQzXzdZMWVTQVhTNmVjdUZXMGlFblpQUDdxTWI1emllMnRMOGlIVDk4aXVqMXFUTWVpVm91UHlfUzdQREZWTXljbnVadS1TWWFRcFA3X19PQURRdjR1eTV1YU8wQkpDVNIB9AFBVV95cUxNOVYyWmZoeVpuQWMyd1YtR3FSdjhQaTBsZFhGMHlQYkJDRV90M3lTclBWZ1pDdElKbXBFZThJOTBsZGZqSkRibEJwellNakpFZEZfYWdqSEdWMm5vVVh6VVBjWUFHbmxGS1FXWWpnaWNtbHBKbnhJcnlRUEU2NVFfcFRCam5nOVk5MWUwWkREdTFMa215QkNmUjRqWlU3bEVoWG9uNkhXV1NHQkQ3QzlXc1NvZl9FS0czZWgtTUtxYnR1bjRGT0VDZndJZUZ2TjNpSWZrYjhldkpBaXVLSGVNRV9URlZUUDlOcHhuUUNrNXZrVnpy?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 02:24:03 GMT"
+    },
+    {
+      "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd0NvRVRSTDduVC1XRTZSdGF4N25IeTIzSVVRX2FTOVdyakkxTkd4aU9ZWDgzM2tiTDI4dG9meHNRbmJQNEtiOFdrd0R4ZzhGYUlMaC1pbkFkLTM1UXdydnpvYWxaanE5Z2MtRkpvV01ZeV91YkFuYkVPdXVLT1hYdTNvNER4WWtkcmlUVV93dEtUSldpRmFPbUp4YjUway1BcDJuQVJfS21tcWtLSE9vX051N1I4enFFanFrY0hmUFhSeW5ZSE5wVThybElpTFFGT202QllJdnVPUm0xMFV0Nm9HM3BJZDRlSnNjRXdrbi11N3plak83N0ZhN1Fhd01kWloxcW5MekFIZEZNbmRZOdIBlgJBVV95cUxOUm1GN0VHQ201M1JmT3JES3FLOVA3UkM2X1RjOS1zMGs3MlNkcmFjOWNTUTZWUU5MN2FtRFFUVThDTjhOQm5ZNVJSSFFnRWZ1Mk94dUx5NmhDX2VIMjhHZTgweTBCQURQdkNEVHhGMDM1eXBmRDZfcnRzOFFXanNZQ3NSRHB1aVkwM3h6N05TaEZDcTNmZzlURjF6R1BaRlIxTVhzQjJnRmowb3h2UWpWU2laSmgyY2ZUNjNTc1EwVjNvSzlicFRmQ1Nzbk9hTDI2UjN4QXVCQXItYVhrYi1xNjhNeERVb1kyam8xeXFhTHRLZHI3V0RreFdMbXhlRDlyOWNKWnFGanlib1hxYzhiNnZsMVg1Zw?oc=5",
+      "publishedAt": "Sun, 04 Oct 2026 11:18:12 GMT"
     },
     {
       "title": "Why is stock market up today? Top 3 factors behind the rally in Sensex, Nifty today - Livemint",
@@ -176,22 +190,16 @@
       "publishedAt": "Mon, 05 Oct 2026 04:03:17 GMT"
     },
     {
-      "title": "Stock market outlook today, 5 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNelR4Y3Fnc20xbE9zM0J5Q0hkejJnX0xLOWpJSWFiNGJHUzRLTlRURDZUalpRR0RfUDFWYmZNcmVZeDN2Um1ucTRKUG1RdDdheGN5MlA3VmlxUl9CeHo4UFg4dmdaT21TZy1oNVpHdUxua2NlXzkyRkJUZC1BRlFQZWsxNEExTzdDMGgtTTBCT25UcU10WnJGcFNteHpPUU05X2daV0ptZkNZMXRQWVJ1S2FGc3hha19tdmJqeUdYajJ5TXpDTGw5SGI5cm91bGc0Rzc0QlhPVVk2cWJ6aEo1UmpkNENNQVZXWmRRdXNzWEhpZVdSSzAzaktXNWFmemR5bXfSAYcCQVVfeXFMUHN5NnlqU3RKdFdqbkJxenZDU3ZkWFhDemhuWXNXa0d1eUdFbnV0aC1Wa1VuenctX2loTGtock5yNUl2WjViaG9mVTE0aHI3RFg0Wnk3ZXhRcUhIc2I3N1RrdkFHLTl1RHJfeHYtWjJUcTYzSE1xX1JaWjd6bFpiOUVlQjhxbHY4emxpcDNQRmFONFJfdXF5Z1dYdHR5cTVzT04xcW5OYmM2VFg3YUJVQWNPWnk2Qk9wWGxLUzR0VHJLMHpMNUdBVWx4emxHWGU1WERGczVwOFYxRFo5ZDc2R0ZYbVhvZjhyTVRpT3BKLWhyMnJtd1R4UnhpV2RJbXZTRVdwWFRiLXc?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 01:28:24 GMT"
-    },
-    {
       "title": "Stock market today: Sensex up 472 points, Nifty Bank up 263 points; HDFC Bank, RIL, ITC, Bajaj Finance shares gain - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZF9SamtvYmN3SDBRODdMdkdIdlRxSFFRd1hzNE5ZOU5SOW5jb1NSLWs1YXY2V05IMDNiQmZOd2Fyd3hTdWV5RnNpakFtYmhFZ29yLUw4WV9panFTT3V3MmdfWjJ2QngzX2MwTC1DM1dqWHJTS2hURHZoeVg2TlBjSFRrS0NHUUJKSmxoX0puMDV2N3VJVmp4Yk14N3FrTVJYeS1DQlJZaU0tMGlzZWxIMTFBcGdNNk1TY01HVVpycFNTRFExV0dBVEd6UEVwZmtIaVM0c05fODhxOWxmS0F5dGx5Y0tKTlhwV0RYWEg0ZXZtV0lWWk0wOVF2cjZmbGk5VmdEMFV2WGlPck51dUJPMA?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 10:16:07 GMT"
     },
     {
-      "title": "Stock market prediction for today, 5 Oct Monday: Sensex, Nifty outlook; Dow Jones, Nasdaq, Kospi, Nikkei, Taiwan cues - Livemint",
+      "title": "Stock market outlook today, 5 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQd25zczBMcWMxSmhGWU1pR01iWG5pMlRtTUwwR0ZOWl9ZbTdNQXZ2WEdLTk84SEFyeGl0YkFRazY3STl5Wl9zU1JRd2hMaFZtNzMtempfdk8ySDVQcV9scVFoU09WckgwV0RiMEJLQkxweVVUVUVCWU1zQ3p6Q3ZRTDBhUlFzbjBKajE1Q3BOOURaVExFR29JVzdSWnRJUE95OTgyaG1LVWlIWFJ6MFF4aWJGODQ1M3kyRkdyd2FrYmRrYVJ2VGwwdWxaSEdYOHdWVktIMFBvVjJZN3l6aUhLU1h1aWw3Ulh6aTBSem92SER4WWVEWjQ5T1pJbzE2bzM2NVY3WGc4ZEhkOS1xcUJB0gGUAkFVX3lxTE9iTF9TQkdKRHR6MEdPS1ZCaDJtYXFvTFUwZFJQM3dWdXZ0MkJmeHNneFVpVUEzZkNremlEMWJDUDdxQ3dBTnlwOU1GS1N6YmZsNlNOZUpPdVJrQ2p0eC1xUHJCUkN6dDM3dS0zMDk1c21XeTZXWGtsNUx0Z1hydndCYm9fS3EtMWpuOGFpamdHVUZFTy1ycFhpajkxZzJTTWViOVY2OHlzc0JWYXFmbDJqczdYd0FlaXhpVkc3QWRmTU00alRpSmVDamhHTUhlc25NVFRlejhwOFpSNjc2c2d3X3g2LU5vZExadWdORkxOUGR3c0VaRjNiTzRDNW9UVGpSbnFVaW1BejFpUE1TQW1MWGZzRA?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 04:39:44 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNelR4Y3Fnc20xbE9zM0J5Q0hkejJnX0xLOWpJSWFiNGJHUzRLTlRURDZUalpRR0RfUDFWYmZNcmVZeDN2Um1ucTRKUG1RdDdheGN5MlA3VmlxUl9CeHo4UFg4dmdaT21TZy1oNVpHdUxua2NlXzkyRkJUZC1BRlFQZWsxNEExTzdDMGgtTTBCT25UcU10WnJGcFNteHpPUU05X2daV0ptZkNZMXRQWVJ1S2FGc3hha19tdmJqeUdYajJ5TXpDTGw5SGI5cm91bGc0Rzc0QlhPVVk2cWJ6aEo1UmpkNENNQVZXWmRRdXNzWEhpZVdSSzAzaktXNWFmemR5bXfSAYcCQVVfeXFMUHN5NnlqU3RKdFdqbkJxenZDU3ZkWFhDemhuWXNXa0d1eUdFbnV0aC1Wa1VuenctX2loTGtock5yNUl2WjViaG9mVTE0aHI3RFg0Wnk3ZXhRcUhIc2I3N1RrdkFHLTl1RHJfeHYtWjJUcTYzSE1xX1JaWjd6bFpiOUVlQjhxbHY4emxpcDNQRmFONFJfdXF5Z1dYdHR5cTVzT04xcW5OYmM2VFg3YUJVQWNPWnk2Qk9wWGxLUzR0VHJLMHpMNUdBVWx4emxHWGU1WERGczVwOFYxRFo5ZDc2R0ZYbVhvZjhyTVRpT3BKLWhyMnJtd1R4UnhpV2RJbXZTRVdwWFRiLXc?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 01:28:24 GMT"
     },
     {
       "title": "Stock Market Highlights, Sept 28: Sensex tanks 1,124 points, Nifty ends below 22,800 - BusinessLine",
