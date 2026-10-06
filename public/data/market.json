@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty trade higher ahead of RBI rate decision; Glenmark and Reliance in focus",
+  "headline": "Sensex and Nifty trade higher led by Trent and Reliance; Sugar stocks rally while Services PMI hits 3-month high",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,22 +7,38 @@
     "nextOpen": ""
   },
   "why": [
-    "Positive global cues from Wall Street and Nikkei boosted investor sentiment",
-    "Markets are trading higher in anticipation of the upcoming RBI repo rate announcement",
-    "Falling oil prices have contributed to the positive momentum in the domestic market",
-    "Gains in heavyweights like Reliance Industries and banking stocks supported the indices"
+    "India's services PMI rose to 55.2 in September, reaching a three-month high",
+    "Strong automobile retail sales which surged over 31% in September on high demand",
+    "Positive momentum in market heavyweights like Reliance Industries and Trent",
+    "Investors are awaiting the RBI's repo rate decision scheduled for announcement"
   ],
   "whatHappening": [
-    "Sensex rose over 300 points while Nifty 50 topped the 22,600 level",
-    "The GST Council meeting has been rescheduled to take place on October 8",
-    "Gold prices dropped by Rs 1,500 per 10g over two days amid a strong dollar",
-    "Glenmark Pharmaceuticals launched new pump packs for its adapalene gel in the US market"
+    "Sugar stocks including Balrampur Chini and Dhampur Sugar witnessed an uptick of up to 8%",
+    "Honasa Consumer shares surged by 11% during early market hours",
+    "Adani Power entered a pact with Druk to develop a 770 MW hydropower project in Bhutan",
+    "Spot market power prices on IEX more than doubled in September due to high demand"
   ],
   "stocksInNews": [
     {
-      "symbol": "GLENMARK",
+      "symbol": "BALRAMCHIN",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "DHAMPURSUG",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "TRENT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         1
       ]
@@ -30,126 +46,159 @@
     {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/11 sources",
       "articleIds": [
+        1,
         12
+      ]
+    },
+    {
+      "symbol": "HONASA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "ARCIL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "IEX",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        8
       ]
     },
     {
       "symbol": "ASIANPAINT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        14
+        16
       ]
     },
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        14
+        16
       ]
     }
   ],
-  "summary": "Indian benchmark indices opened higher today, with the Sensex and Nifty 50 showing strong gains ahead of the RBI's repo rate decision. Global market strength and falling oil prices have provided a favorable environment for domestic equities. Key stocks like Reliance Industries, Asian Paints, and Bharti Airtel are leading the market's upward movement.",
-  "updatedAt": "2026-10-06T05:31:40.364Z",
+  "summary": "The Indian stock market is trading in the green today, with the Sensex and Nifty gaining on the back of strong services PMI data and robust automobile sales. Key stocks like Reliance, Trent, and various sugar companies are seeing significant buying interest. Market participants are closely monitoring the upcoming RBI monetary policy meeting for further direction.",
+  "updatedAt": "2026-10-06T06:01:54.617Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-06",
   "articleKeys": [
-    "gst council meeting rescheduled again to take place on october 8",
-    "glenmark launches new pump packs for otc adapalene gel in us market",
-    "us market borrowing costs surge as debt burden limits policy options",
-    "stock market live sensex up 300 pts nifty tops 22600 nifty chemical rises over 1",
-    "what actually makes a stock cheap with markets under pressure analysts share how investors can identify real value",
-    "global market japan 30year bond yield hits record high ahead of 10year auction",
-    "global market nikkei rises as wall street gains oil prices fall",
-    "gold prices dip rs 150010g in 2 days silver down rs 1000kg on strong dollar rising yields here are key levels to track",
-    "covidera bargains in largecaps bull market valuations in smallcaps where is the real opportunity in stocks",
-    "last line of defence how 7 nifty stocks survived the markets twomonth bloodbath",
-    "stock market today live updates markets end in green sensex gains 473 points nifty rises 134 points the times of india",
-    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene tradingview",
+    "sugar stocks balrampur chini dhampur sugar others rally up to 8 whats behind the uptick",
+    "stock market live trent ril lead 300point gains in sensex honasa consumer jumps 11",
+    "q2 results today arcil 4 other newly listed companies to announce results",
+    "india services pmi rises to 552 in september hits 3month high",
+    "rupee slips 4 paise to 9639 against us dollar in early trade",
+    "from rs 0 to gift how tpfm is lowering the entry barrier for fund managers",
+    "spot market power prices more than doubled in september on high demand iex",
+    "how a 9yearold warren buffett learnt a lesson on compounding by rolling snowballs on the lawn of his nebraska home",
+    "adani power druk ink pact to set up 770 mw hydropower project in bhutan",
+    "automobile retail sales surge 3182 in september on strong demand",
+    "stock market today live updates markets end in green sensex gains 473 points nifty rises 134 points timesofindiaindiatimescom",
+    "indian stock market outlook next week 5 to 9 october 2026 sensex nifty may remain volatile amid fii selling goodreturns",
     "stock markets today sensex nifty jump bank stocks reliance industries rise etv bharat",
     "stock market outlook today 6 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei taiwan cues tradingview",
-    "sensex today trades higher nifty above 22550 asian paints bharti airtel top gainers equitymastercom",
-    "sensex nifty open higher ahead of rbi rate decision hdfc sky",
-    "stock market today gift nifty nasdaq to ai stocks rally five key factors for sensex nifty 50 on october 6 ndtv profit",
-    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint",
+    "stock markets rebound in early trade sensex jumps more than 700 points the hindu",
+    "stock market open report today october 6 2026 sensex nifty edge higher as investors await rbi rate decision hdfcskycom",
+    "sensex today trades higher nifty above 22550 asian paints bharti airtel top gainers equitymaster",
     "sensex opens 78 points higher ahead of repo rate announcement tomorrow ndtv",
-    "five reasons indias stock market is sinking even when its economy is growing bbc"
+    "sensex rises over 100 points nifty above 22600 as market extends gains why caution is warranted the economic times",
+    "stock market today gift nifty nasdaq to ai stocks rally five key factors for sensex nifty 50 on october 6 ndtv profit"
   ],
   "articles": [
     {
-      "title": "GST Council meeting rescheduled again, to take place on October 8",
+      "title": "Sugar stocks Balrampur Chini, Dhampur Sugar, others rally up to 8%. What’s behind the uptick?",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/finance/news/57th-gst-council-meeting-rescheduled-to-october-8-for-second-time-126100501256_1.html",
-      "publishedAt": "Tue, 06 Oct 2026 10:04:11 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-balrampur-chini-dhampur-sugar-others-rally-up-to-8-whats-behind-the-uptick/articleshow/134724192.cms",
+      "publishedAt": "Tue, 06 Oct 2026 11:03:20 +0530"
     },
     {
-      "title": "Glenmark launches new pump packs for OTC adapalene gel in US market",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/glenmark-launches-new-pump-packs-for-otc-adapalene-gel-in-us-126100600169_1.html",
-      "publishedAt": "Tue, 06 Oct 2026 10:03:52 +0530"
-    },
-    {
-      "title": "US Market: Borrowing costs surge as debt burden limits policy options",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-borrowing-costs-surge-as-debt-burden-limits-policy-options/articleshow/134722976.cms",
-      "publishedAt": "Tue, 06 Oct 2026 10:03:09 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex up 300 pts, Nifty tops 22,600; Nifty Chemical rises over 1%",
+      "title": "Stock Market LIVE: Trent, RIL lead 300-point gains in Sensex; Honasa Consumer jumps 11%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-6-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-srit-india-ipo-listing-126100600087_1.html",
-      "publishedAt": "Tue, 06 Oct 2026 10:02:36 +0530"
+      "publishedAt": "Tue, 06 Oct 2026 10:59:24 +0530"
     },
     {
-      "title": "What actually makes a stock 'cheap'? With markets under pressure, analysts share how investors can identify real value",
+      "title": "Q2 results today: Arcil, 4 other newly listed companies to announce results",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/what-actually-makes-a-stock-cheap-with-markets-under-pressure-analysts-share-how-investors-can-identify-real-value/articleshow/134722927.cms",
-      "publishedAt": "Tue, 06 Oct 2026 10:00:21 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/q2-results-today-arcil-4-other-newly-listed-companies-to-announce-results-126100600270_1.html",
+      "publishedAt": "Tue, 06 Oct 2026 10:58:36 +0530"
     },
     {
-      "title": "Global Market: Japan 30-year bond yield hits record high ahead of 10-year auction",
+      "title": "India services PMI rises to 55.2 in September, hits 3-month high",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-30-year-bond-yield-hits-record-high-ahead-of-10-year-auction/articleshow/134722888.cms",
-      "publishedAt": "Tue, 06 Oct 2026 09:53:54 +0530"
+      "link": "https://www.business-standard.com/economy/news/india-services-pmi-rises-to-55-2-in-september-hits-3-month-high-126100600260_1.html",
+      "publishedAt": "Tue, 06 Oct 2026 10:57:10 +0530"
     },
     {
-      "title": "Global Market: Nikkei rises as Wall Street gains, oil prices fall",
+      "title": "Rupee slips 4 paise to 96.39 against U.S. dollar in early trade",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-rises-as-wall-street-gains-oil-prices-fall/articleshow/134722868.cms",
-      "publishedAt": "Tue, 06 Oct 2026 09:53:53 +0530"
+      "link": "https://www.thehindu.com/business/rupee-slips-4-paise-to-9639-against-us-dollar-in-early-trade/article71550012.ece",
+      "publishedAt": "Tue, 06 Oct 2026 10:54:48 +0530"
     },
     {
-      "title": "Gold prices dip Rs 1,500/10g in 2 days; silver down Rs 1,000/kg on strong dollar, rising yields. Here are key levels to track",
+      "title": "From Rs 0 to GIFT: How TPFM is lowering the entry barrier for fund managers",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-1500/10g-in-2-days-silver-down-rs-1000/kg-on-strong-dollar-rising-yields-here-are-key-levels-to-track/articleshow/134722845.cms",
-      "publishedAt": "Tue, 06 Oct 2026 09:50:41 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-rs-0-to-gift-how-tpfm-is-lowering-the-entry-barrier-for-fund-managers/articleshow/134724046.cms",
+      "publishedAt": "Tue, 06 Oct 2026 10:54:18 +0530"
     },
     {
-      "title": "Covid-era bargains in largecaps, bull market valuations in smallcaps: Where is the real opportunity in stocks?",
+      "title": "Spot market power prices more than doubled in September on high demand: IEX",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/covid-era-bargains-in-largecaps-bull-market-valuations-in-smallcaps-where-is-the-real-opportunity-in-stocks/articleshow/134722792.cms",
-      "publishedAt": "Tue, 06 Oct 2026 09:48:01 +0530"
+      "link": "https://www.business-standard.com/industry/news/spot-market-power-prices-more-than-doubled-in-september-on-high-demand-iex-126100600254_1.html",
+      "publishedAt": "Tue, 06 Oct 2026 10:49:31 +0530"
     },
     {
-      "title": "Last line of defence! How 7 Nifty stocks survived the market’s two-month bloodbath",
+      "title": "How a 9-year-old Warren Buffett learnt a lesson on compounding by rolling snowballs on the lawn of his Nebraska home",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/last-line-of-defence-how-7-nifty-stocks-survived-the-markets-two-month-bloodbath/articleshow/134722719.cms",
-      "publishedAt": "Tue, 06 Oct 2026 09:45:03 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-a-9-year-old-warren-buffett-learnt-a-lesson-on-compounding-by-rolling-snowballs-on-the-lawn-of-his-nebraska-home/articleshow/134723924.cms",
+      "publishedAt": "Tue, 06 Oct 2026 10:48:45 +0530"
     },
     {
-      "title": "Stock Market Today Live Updates: Markets end in green; Sensex gains 473 points, Nifty rises 134 points - The Times of India",
-      "source": "The Times of India",
+      "title": "Adani Power, Druk ink pact to set up 770 MW hydropower project in Bhutan",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/adani-power-druk-ink-pact-to-set-up-770-mw-hydropower-project-in-bhutan-126100600226_1.html",
+      "publishedAt": "Tue, 06 Oct 2026 10:47:01 +0530"
+    },
+    {
+      "title": "Automobile retail sales surge 31.82% in September on strong demand",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/auto/automobile-retail-sales-surge-31-82-in-september-on-strong-demand-126100600145_1.html",
+      "publishedAt": "Tue, 06 Oct 2026 10:42:46 +0530"
+    },
+    {
+      "title": "Stock Market Today Live Updates: Markets end in green; Sensex gains 473 points, Nifty rises 134 points - timesofindia.indiatimes.com",
+      "source": "timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPNmNJcUdxV1hoQVJhMVMzSElvZUtyWG1YYkh2ZVBCbUNVcFAzUW9TOUgwVDlrdHdUQ2hWNjJkdWtkRnNrUGZXMnJ1Y0V0SW8xSGs4M2t3a2NHWmFHVXVWUXQ0Y2JBeHdTWlpMWWF5Szc1OUo2cjBrMTBfMG1jejIyejVRU2lvOHF4d2NPQUhJajl6cHR4b1praUxpQXk1WWhQcFdwRE1nTHhUeHdTbXE3cjFLTkg4STBNNVJRWlkxbW43LUNGZXQ0SUNSNmhHTEVjRTB1b3FoSC15cnhqTHZwczFsaFdKZWMxakZtdnNxS2U5QWdLd3Fyc2l2cWMwaXFZTWdQREVoXzFuZmp0YmcweVY5RU5SbkE1WUZPMXMtVlhPaS1qRlFxYTI0ZmE0VXc5Rk43btIBugJBVV95cUxOYVFBU0NWN2JMUDFqNndOdGE4QlkwdndZaVZGOHUtYUl5dUVHOFNtMW1XUGpzekI3TV80WkFwdENackVHLWdTNEhxTWpSbEk0Z2VzZzAzUFJMdzV1SmthOGxOVTlWajc5THl2eU5nMnNlWlB3T01nUlk5eThLaDVBc3lfUXVKTlh3RkdDRkNaY0pENnpBWURTVGNXdU9iekE5NE03QUh5TnhmRHN5cUdkZ3FhMXNoY0k4TWVlemdJY2FOUW96Z2hqQ01UUFhURDYyT3RocWRYOVpERmk5cGlVOWE0clJ5Ync2NHRRMm9xQVYtRzBHNEdGZDlUczNvZEwzQ2ttdGIxZXg2VjZGVWw0LTdGWVBsRGYzNlFrdnBwUDE0dkVzMDJLWTFtdTNhR1dVQXlDU0FMcFNxZw?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 10:39:20 GMT"
     },
     {
-      "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUVVRRFFJdzJ5VTFzUmdlalpJVDhrSGRzdzRMYUxqdTh0S3J0QTBSOVBRTjZoeDNEbWZRMm5NdllXdk5jcUlIZjBfSTc1cjRXVVVMalE3cFlLcVp0WllkQm9kcWhuV2hyZjdtdjl0MmZYSDlJSHdMdUNEUUd5QTRBOWF1eFF3VDhrelpvaFlUUURZWW9vLVpaS2p3UkdFem44aDFCLXB6Vzh5RVU1UDU0UHgxZWwzZ0lTT3hxdGdRY25SbUFEeXlybFE0WmJoenZFNno2cDd0UHBvOWlRVVIwQUtweTFtSFhrODZBZUZFQzhyYVZhd3RlOVRyNzJzYUE?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 14:33:40 GMT"
+      "title": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling - Goodreturns",
+      "source": "Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkZfc2syemoxZXByVTI1ek1maFRlU1gzOHNJWjVrT0RfaTVheGs1LWQzcVdkX19WS3lUTWlBN1c0UDQ2eDVGalk0MWl5Z1YwN3FRU3NfblhfbEdCVHBmOXVXaC15dWxkUUNLUlgyMHdjODFkcThoS0EwTWNMMEN6WGdFbnc5ZV83OW85aTRfMnFsZ1hwNXpPVDhFVTV3V1czbU1idW1MdGh4U25YejFZSWEyb0txSU01WEczcXNNLUlEWWV2SFRGMFZ2V1lqcFVpVlRvZVN4WVlkVEpZMEE?oc=5",
+      "publishedAt": "Sat, 03 Oct 2026 11:02:50 GMT"
     },
     {
       "title": "Stock Markets Today: Sensex, Nifty Jump; Bank Stocks & Reliance Industries Rise - ETV Bharat",
@@ -164,28 +213,22 @@
       "publishedAt": "Tue, 06 Oct 2026 04:40:17 GMT"
     },
     {
-      "title": "Sensex Today Trades Higher | Nifty Above 22,550 | Asian Paints & Bharti Airtel Top Gainers - equitymaster.com",
-      "source": "equitymaster.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNTkxYeElHN3JnVGZIMUFkMHY4S3FYTTJ6RUhYZTlncXJ6enA1RzA1YWRxZUFzZkV1UHBVaDlQMHNobnhKQ1hMUkxETkNCbXppUDdXVE1QSEhabXdReVZsS05RX3NwdlBYY0pxSHF2VlZTbmswME1mQWFzMXo5S0N4emsxaXkyLWpRZEVSR2tOYUhrSmdQSnBESm12SHFyMFZBdHhsWk5tUlFlcnpDWG1JU05NUkF3VnZLNExpelA5Ry0zYjJmSlpOY28xM2NWa0xzQkw3R24zeW80OEFHT0tHMDlGMHRnVXE1enhjbU81NzhYN1kyRGQ4bTdNSmdkeHlkUzdGOUhGajRWVzlpdVg4WHZzN1pBLWhkdVZRMjFobjdUdTdnaFNhYmlYZUtadEFpamdYUFlJTmJRYXNraldrTDBGS1pJaG80ZWhOay1CeWw1YS01OEVXQw?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 04:37:14 GMT"
+      "title": "Stock markets rebound in early trade; Sensex jumps more than 700 points - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGYtYXJ3ejgweVZJSFZPOGIta2ZwblZxOXktRWg1M0VkMDVvMC1BOUM1MHpkM21IS2wtbTMybk1FYXFjdm9lQmdYRU1QVDBJejQ0LS0wcjEzelJlM3dpNmlKUVpnX1htd3hZaHVweFRkenRHeGZXcDRSZlVYS1AzbG1wcVl0Wk5UT0d0a0tzS0NCTzRZU3NsVXF6QkV5R01HS3JvcjdyY2hDd1c3b2wtemJzQXNHTWdWTkJyT0sxWU1Zd9IByAFBVV95cUxOWlRRY2J5dEpYc2xtQkJ2MEVscGxWeVBIellwS3VZVDNETEg5XzJ1akJRMldJM2ljMk5WbmpvM0dGWTg4cU1tV2pfZHJvNGM5RXZSU0FKYjZGSXREejdoQXQ3bDNoUGl5dUpiOVBpcjRCQ0p2bUVCSndwcDhwOUJFZUpNWVE5R3g4S2VtT1pyaXZRZWVjQVEzNnlQM0ZJeWxzd1JoOHhaSHNGM09qNGRqbnhLcEFxdHl1R0Q1YUEzcEpYLWtCZG9xag?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 05:39:55 GMT"
     },
     {
-      "title": "Sensex, Nifty Open Higher Ahead of RBI Rate Decision - HDFC Sky",
-      "source": "HDFC Sky",
+      "title": "Stock Market Open Report Today, October 6, 2026: Sensex, Nifty Edge Higher as Investors Await RBI Rate Decision - hdfcsky.com",
+      "source": "hdfcsky.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXlXS3EwSzRVZ3puMU4xc0w5V0IzRWR0bkQ4UmtNQnVkLUVFSlk2N3Bma1hlMXYtUFAtcFppa1laeWFjT3I2WUpZRlQxUTlRZXVSMTVJX0M5aFIxVlpSUUZnZWpyYTQzTjFXRU5TQk9WdmdfV20xRHNFaTBGWGRKa0liNjhqeGs5SlFFTV8tR3daZHVZZjFaSmNGVExoVjl6eXhtbURYaHpKaE8xV2U4eWl2NkVRbklBZmxJd0lmcGNxaGlfWTln?oc=5",
       "publishedAt": "Tue, 06 Oct 2026 04:43:52 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty, Nasdaq To AI Stocks Rally — Five Key Factors For Sensex, Nifty 50 On October 6 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORmdPaFREQ0lrNzg0b0NsbVktMmFTMjd5SG1PUGRuSFowajhYSzlxa0VZMnJKTjE4aGNjZDlPNmsxLTROQVA3ZndPLVRiU2xkUjZuNHk3QjNFaUh5R2VMZkR6YUZ4aFZZekoxX3RZV0t4aXI3d3NYSDZkWFp5X0Y3d2hmeG10dXR0TTl2QzNWTmV1VmpiOXIycTVER2ZfUms3ekxrOXhXRjdxNXMtZXpwUURaZUo3Tk5RUlh6V0cyUmhQUWwtWFFJWm9zRGp3NWJXcUZMMTNidjQ1QUN2S18tQ2t3NGhsQm9mNGp0dVExQjFFQdIB-gFBVV95cUxOTC1KMnFWYk40ZkpnbEpQOEduMUxtSmZYd1FJMkxWRTF0dGJFbjRwWmc1SWZQWVZwYlkxd2NGdUU4Zlo2NDR2ckNxZzNYdGdyN3lvemZCVVdMQTBRWHBwd2Q4MWdKTjhMQ1VZUWJFNmh5ZmVnTlBUWDhPekJTS2lrTmFoT0ktZWJPR2pRb1dTOTVTcFdueDZrdkdVZUdqeTktT2EweWMyQjFtd2RGU3dLdEJqTzJ1ZEdvUHBaMmdNTmdkdlpJZjI4cXhOMzdQUFM5WTdfeFUyT0NXZnBHLThYazZ4MEN0X2NwcWJYNkhwWHdENFk3UWJKX2Nn?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 01:27:02 GMT"
-    },
-    {
-      "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd0NvRVRSTDduVC1XRTZSdGF4N25IeTIzSVVRX2FTOVdyakkxTkd4aU9ZWDgzM2tiTDI4dG9meHNRbmJQNEtiOFdrd0R4ZzhGYUlMaC1pbkFkLTM1UXdydnpvYWxaanE5Z2MtRkpvV01ZeV91YkFuYkVPdXVLT1hYdTNvNER4WWtkcmlUVV93dEtUSldpRmFPbUp4YjUway1BcDJuQVJfS21tcWtLSE9vX051N1I4enFFanFrY0hmUFhSeW5ZSE5wVThybElpTFFGT202QllJdnVPUm0xMFV0Nm9HM3BJZDRlSnNjRXdrbi11N3plak83N0ZhN1Fhd01kWloxcW5MekFIZEZNbmRZOdIBlgJBVV95cUxOUm1GN0VHQ201M1JmT3JES3FLOVA3UkM2X1RjOS1zMGs3MlNkcmFjOWNTUTZWUU5MN2FtRFFUVThDTjhOQm5ZNVJSSFFnRWZ1Mk94dUx5NmhDX2VIMjhHZTgweTBCQURQdkNEVHhGMDM1eXBmRDZfcnRzOFFXanNZQ3NSRHB1aVkwM3h6N05TaEZDcTNmZzlURjF6R1BaRlIxTVhzQjJnRmowb3h2UWpWU2laSmgyY2ZUNjNTc1EwVjNvSzlicFRmQ1Nzbk9hTDI2UjN4QXVCQXItYVhrYi1xNjhNeERVb1kyam8xeXFhTHRLZHI3V0RreFdMbXhlRDlyOWNKWnFGanlib1hxYzhiNnZsMVg1Zw?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 11:18:12 GMT"
+      "title": "Sensex Today Trades Higher | Nifty Above 22,550 | Asian Paints & Bharti Airtel Top Gainers - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNTkxYeElHN3JnVGZIMUFkMHY4S3FYTTJ6RUhYZTlncXJ6enA1RzA1YWRxZUFzZkV1UHBVaDlQMHNobnhKQ1hMUkxETkNCbXppUDdXVE1QSEhabXdReVZsS05RX3NwdlBYY0pxSHF2VlZTbmswME1mQWFzMXo5S0N4emsxaXkyLWpRZEVSR2tOYUhrSmdQSnBESm12SHFyMFZBdHhsWk5tUlFlcnpDWG1JU05NUkF3VnZLNExpelA5Ry0zYjJmSlpOY28xM2NWa0xzQkw3R24zeW80OEFHT0tHMDlGMHRnVXE1enhjbU81NzhYN1kyRGQ4bTdNSmdkeHlkUzdGOUhGajRWVzlpdVg4WHZzN1pBLWhkdVZRMjFobjdUdTdnaFNhYmlYZUtadEFpamdYUFlJTmJRYXNraldrTDBGS1pJaG80ZWhOay1CeWw1YS01OEVXQw?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 04:37:14 GMT"
     },
     {
       "title": "Sensex Opens 78 Points Higher Ahead Of Repo Rate Announcement Tomorrow - NDTV",
@@ -194,10 +237,16 @@
       "publishedAt": "Tue, 06 Oct 2026 03:49:50 GMT"
     },
     {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EdEhaMjJGMk1DR0ZaZkZfOVJ6V1pNODA0VlBGQ2p2eEtSNHc3ZzZ6d01sZVAwWE1HUkctaHk1aUNBTUY5ZXMxbVUxYWVFeFZHdU9aQW93UjlKbXhCSUE?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 23:13:11 GMT"
+      "title": "Sensex rises over 100 points, Nifty above 22,600 as market extends gains. Why caution is warranted - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQkZTU1B1bl90TUVKMzV3bXFkN2xBZjVFRnhKeExwU0RwYVltM1Znc0c4OWRBeVowdk80YWVaT2hGMDBHUUt0NU9TOUk0Nml1SDdIT2s4QzhaRlFBdHJIeWtnYlRUcGJwZTRtMERocW9KeUZsNG5aZVA0bFo1eEhYczZlUXVqaDJzQno3bTc3S05xSm5pYm9IMEhVQ1lBVW1PRUVuNG5jc254OW5hVGhIeDFKaDRiYzNEQjBhTEM3SmN6RDhjWUZNY3RHeTVoRTZiUS1VWHYzbWlLX19uZnhZbFkwYTdfWXZjTlpJVUpqNkpXUGVQc2FLREFqZFJPUdIBgwJBVV95cUxPaV9nWTg0eTI2ZFhDRExUZWRaV2xmOXkwc1ZpU1hKZlNGRUpiN01JZGZ6U0hUMWZjVl9aNGtILVV1QXpNMkZuWFBjRkdyREotN2tYeVFvQWpQT2VOa0FzeEpZMUdRdVNia2tKeXVYajhYa2R3bENyQzg0YXdWemNfVmV6QldJZXpRWDFfbXJwRzhrZ2lxbDB5S3I5S191c2ljeTllTjFmM3ZoaHlVcE5Gam44djBhMXpQMDhXWkx1R3RkWWRoU25lX2NSUnQxUmppbF9FdnBEako1TmI4Q1dxMUEzN0oxNE84cFl2YXVsQWUtSWhsMnNoV0hUbl85TFQ2UDFv?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 04:08:22 GMT"
+    },
+    {
+      "title": "Stock Market Today: Gift Nifty, Nasdaq To AI Stocks Rally — Five Key Factors For Sensex, Nifty 50 On October 6 - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORmdPaFREQ0lrNzg0b0NsbVktMmFTMjd5SG1PUGRuSFowajhYSzlxa0VZMnJKTjE4aGNjZDlPNmsxLTROQVA3ZndPLVRiU2xkUjZuNHk3QjNFaUh5R2VMZkR6YUZ4aFZZekoxX3RZV0t4aXI3d3NYSDZkWFp5X0Y3d2hmeG10dXR0TTl2QzNWTmV1VmpiOXIycTVER2ZfUms3ekxrOXhXRjdxNXMtZXpwUURaZUo3Tk5RUlh6V0cyUmhQUWwtWFFJWm9zRGp3NWJXcUZMMTNidjQ1QUN2S18tQ2t3NGhsQm9mNGp0dVExQjFFQdIB-gFBVV95cUxOTC1KMnFWYk40ZkpnbEpQOEduMUxtSmZYd1FJMkxWRTF0dGJFbjRwWmc1SWZQWVZwYlkxd2NGdUU4Zlo2NDR2ckNxZzNYdGdyN3lvemZCVVdMQTBRWHBwd2Q4MWdKTjhMQ1VZUWJFNmh5ZmVnTlBUWDhPekJTS2lrTmFoT0ktZWJPR2pRb1dTOTVTcFdueDZrdkdVZUdqeTktT2EweWMyQjFtd2RGU3dLdEJqTzJ1ZEdvUHBaMmdNTmdkdlpJZjI4cXhOMzdQUFM5WTdfeFUyT0NXZnBHLThYazZ4MEN0X2NwcWJYNkhwWHdENFk3UWJKX2Nn?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 01:27:02 GMT"
     }
   ]
 }
