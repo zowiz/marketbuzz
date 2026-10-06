@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty rally ahead of RBI MPC outcome while Persistent Systems plans Rs 11,800 crore fundraise",
+  "headline": "Indian markets eye RBI policy outcome after Sensex and Nifty rally over 1% on Tuesday",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,32 +7,65 @@
     "nextOpen": ""
   },
   "why": [
-    "Anticipation of the RBI Monetary Policy Committee (MPC) meeting outcome",
-    "Positive momentum from the previous session where Sensex rose 685 points",
-    "Global cues from Kospi and Taiwan markets influencing investor sentiment",
-    "Market rebound in early trade following previous volatility"
+    "Sensex and Nifty rallied significantly on Tuesday ahead of the RBI MPC meeting outcome.",
+    "Positive global sentiment as US stocks reached record closing highs.",
+    "Anticipation of the RBI's monetary policy decision is driving domestic investor interest.",
+    "Brent crude oil price forecasts have been raised to $98 due to geopolitical supply risks."
   ],
   "whatHappening": [
-    "Persistent Systems shareholders approved a plan to raise up to Rs 11,800 crore",
-    "Sensex and Nifty 50 settled significantly higher in the most recent session",
-    "Brent crude forecasts have been lifted to $98 due to geopolitical tensions in Iran",
-    "IT, Realty, and PSU Bank sectors ended in the red during the previous market close"
+    "The Sensex jumped 685 points while the Nifty 50 closed above 22,750 on October 6.",
+    "Sectoral indices including IT, Realty, and PSU Banks underperformed during the previous session.",
+    "The US EIA increased its Brent crude forecast to $98 per barrel amid geopolitical tensions.",
+    "Gold industry experts expect prices to potentially rise to $5,013 an ounce over the next 12 months."
   ],
   "stocksInNews": [
     {
-      "symbol": "PERSISTENT",
+      "symbol": "NIFTY 50",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 5/8 sources",
       "articleIds": [
-        9
+        10,
+        11,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "symbol": "SENSEX",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 6/8 sources",
+      "articleIds": [
+        10,
+        12,
+        13,
+        15,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "symbol": "BANKNIFTY",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        11,
+        17
       ]
     }
   ],
-  "summary": "Indian markets are trading with positive momentum as investors await the RBI MPC meeting results. Persistent Systems is in focus after securing shareholder approval for a massive capital raise of Rs 11,800 crore. Global factors, including rising crude oil prices and international market cues, continue to influence domestic sentiment.",
-  "updatedAt": "2026-10-06T20:02:33.110Z",
+  "summary": "Indian indices showed a strong recovery on Tuesday with the Sensex gaining 685 points ahead of the RBI's monetary policy outcome. Global cues remain positive as US markets hit record highs, though rising oil price forecasts present a potential headwind. Investors are currently focused on domestic policy decisions and international cues for Wednesday's trading session.",
+  "updatedAt": "2026-10-06T21:02:32.855Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-07",
   "articleKeys": [
+    "why charging for upi changes the math",
+    "us stocks sampp 500 nasdaq reach record closing highs as focus pivots to earnings",
+    "kalshi launches perpetual futures tied to us 500 stock index",
     "sap to acquire workforce data firm techwolf",
     "gold industry expects price rise to 5013 an ounce over 12 months",
     "us eia lifts brent forecast to 98 as iran war tightens global supplies",
@@ -40,9 +73,6 @@
     "rahul gandhi congress mps released from detention after highstakes protest outside ec office watch",
     "star wars galactic racer goes live worldwide on october 6 check timings gameplay what to expect",
     "rahul gandhi other congress leaders released from police detention",
-    "did you overpay for a big mac mcdonalds sued over aipowered menu pricefixing",
-    "india vs uruguay 90 ticket cut free passes but salt lake stadium still mostly empty",
-    "persistent systems egm verdict shareholders approve plan to raise up to rs 11800 crore",
     "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
     "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene tradingview",
     "stock markets rebound in early trade sensex jumps more than 700 points the hindu",
@@ -55,6 +85,24 @@
     "sensex nifty up today why is indian stock market rising ahead of rbi mpc meeting outcome explained with 3 reasons livemint"
   ],
   "articles": [
+    {
+      "title": "Why charging for UPI changes the math",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/opinion/op-ed/why-charging-for-upi-changes-the-math/article71552957.ece",
+      "publishedAt": "Wed, 07 Oct 2026 01:56:44 +0530"
+    },
+    {
+      "title": "US stocks: S&amp;P 500, Nasdaq reach record closing highs as focus pivots to earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-reach-record-closing-highs-as-focus-pivots-to-earnings/articleshow/134749835.cms",
+      "publishedAt": "Wed, 07 Oct 2026 01:40:11 +0530"
+    },
+    {
+      "title": "Kalshi launches perpetual futures tied to US 500 stock index",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/kalshi-launches-perpetual-futures-tied-to-us-500-stock-index/articleshow/134749721.cms",
+      "publishedAt": "Wed, 07 Oct 2026 01:12:01 +0530"
+    },
     {
       "title": "SAP to acquire workforce data firm TechWolf",
       "source": "Zerodha Pulse",
@@ -96,24 +144,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/politics/rahul-gandhi-detained-after-nine-hour-protest-at-akashvani-bhawan-premises-126100601297_1.html",
       "publishedAt": "Tue, 06 Oct 2026 23:04:50 +0530"
-    },
-    {
-      "title": "Did You Overpay For A Big Mac? McDonald's Sued Over AI-Powered Menu Price-Fixing",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/did-you-overpay-for-a-big-mac-mcdonalds-sued-over-ai-powered-menu-price-fixing-12148044#publisher=newsstand",
-      "publishedAt": "Tue, 06 Oct 2026 22:59:35 +0530"
-    },
-    {
-      "title": "India vs Uruguay: 90% Ticket Cut, Free Passes But Salt Lake Stadium Still Mostly Empty",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-vs-uruguay-90-per-cent-ticket-cut-free-passes-but-salt-lake-stadium-still-mostly-empty-12147983#publisher=newsstand",
-      "publishedAt": "Tue, 06 Oct 2026 22:59:21 +0530"
-    },
-    {
-      "title": "Persistent Systems EGM Verdict: Shareholders Approve Plan To Raise Up To Rs 11,800 Crore",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/persistent-systems-egm-verdict-shareholders-approve-plan-to-raise-up-to-rs-11-800-crore-12148030#publisher=newsstand",
-      "publishedAt": "Tue, 06 Oct 2026 22:55:26 +0530"
     },
     {
       "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
