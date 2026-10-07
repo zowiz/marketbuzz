@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty Decline as RBI Hikes Repo Rate by 25 bps Amid Surging Crude Oil Prices",
+  "headline": "Sensex and Nifty fall as RBI hikes repo rate to 5.5% and adopts calibrated tightening stance",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,38 +7,71 @@
     "nextOpen": ""
   },
   "why": [
-    "The RBI Monetary Policy Committee raised the repo rate by 25 basis points to 5.50%",
-    "Global crude oil prices surged as the Iran war tightened global markets",
-    "Rising US Treasury bill yields are pressuring expensive mid and small-cap stocks",
-    "The Indian Rupee fell to 96.45 against the U.S. dollar ahead of the RBI decision"
+    "The RBI Monetary Policy Committee hiked the repo rate by 25 basis points to 5.50%",
+    "RBI Governor Sanjay Malhotra shifted the policy stance to 'calibrated tightening' and ruled out near-term rate cuts",
+    "The Indian Rupee fell 22 paise to 96.57 against the U.S. dollar following the rate increase",
+    "Surging crude oil prices weighed on investor sentiment and contributed to the market decline"
   ],
   "whatHappening": [
-    "The Sensex dropped over 500 points and Nifty fell below the 22,600 level during the session",
-    "RBI Governor Malhotra indicated there would be no further rate hikes in the near-term",
-    "Indian indices trimmed some initial losses following the RBI press conference",
-    "RBI allowed depositories to include customer deposit details in consolidated account statements"
+    "Sensex crashed over 500 points in early trade while Nifty dropped below the 22,600 level",
+    "Titan and Shriram Finance emerged as the top losers during the market session",
+    "GE Aerospace delivered four F404-IN20 engines to HAL for the Tejas LCA Mk 1A program",
+    "Markets trimmed some losses later in the day after the initial reaction to the RBI policy announcement"
   ],
-  "stocksInNews": [],
-  "summary": "Indian markets fell sharply after the RBI raised the repo rate by 25 bps to 5.50%, though indices later trimmed some losses. The sell-off was fueled by surging crude oil prices and rising US Treasury yields impacting investor sentiment. The Sensex crashed over 500 points initially, while the Rupee weakened against the dollar.",
-  "updatedAt": "2026-10-07T07:32:23.636Z",
+  "stocksInNews": [
+    {
+      "symbol": "HAL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "TRENT",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
+      ]
+    }
+  ],
+  "summary": "Indian markets declined today as the RBI hiked the repo rate to 5.5% and adopted a 'calibrated tightening' stance. The Sensex fell over 500 points amid a weakening rupee and rising crude oil prices, though indices later trimmed some losses. Titan and Shriram Finance were the primary laggards, while HAL remained in focus due to engine deliveries from GE Aerospace.",
+  "updatedAt": "2026-10-07T08:02:30.879Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-07",
   "articleKeys": [
-    "us market treasury bill yields rise as moneyfund demand weakens",
-    "rbi presser live sensex down over 100 pts governor malhotra says no rate hike in nearterm",
-    "rupee falls 10 paise to 9645 against us dollar ahead of rbi monetary policy decision",
-    "eia raises oil price forecasts as iran war tightens global markets",
-    "starlink india ops built to meet countrys regulatory needs official",
-    "why are indian and us leaders cooling off on a trade deal explained",
-    "23 indians rescued after oil tanker attacked off russias black sea coast",
-    "microsoft stock ai gains earnings and the road to new highs",
-    "etmarkets smart talk rising us yields could hit expensive mid smallcaps harder harish krishnan",
-    "rbi allows sebiregulated depositories to include customer deposit details in statements what changes for investors",
+    "rbi mpc meeting highlights repo rate hiked to 55 rate cuts off the table in near term governor sanjay malhotra says",
+    "ge aerospace announces shipment of four f404in20 engines to hal for tejas lca mk 1a",
+    "rupee falls 22 paise to 9657 against us dollar post rbi rate increase",
+    "stock market live sensex down 300 pts nifty near 22600 titan shriram finance top losers",
+    "markets fall in early trade after two days of rally sensex falls 460 points",
+    "serum institutes hpv vaccine cervavac receives who prequalification",
+    "rbi hikes rate but analysts see shift to calibrated tightening as bigger takeaway how can this impact markets",
+    "starlink waiting for final india clearances says spacex vp lauren dreyer",
+    "trents rs 180 lakh crore rout from peak has q2 just flipped the script for tata groups retail crown jewel",
+    "rbi raises repo rate by 25 basis points to 550 shifts stance to calibrated tightening",
     "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "stock market outlook today 7 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei kospi taiwan cues livemint",
-    "stock market open report today october 7 2026 sensex nifty decline as rbi hikes repo rate by 25 bps to 550 hdfc sky",
     "stock markets today sensex nifty decline as crude prices surge rediff",
+    "stock market open report today october 7 2026 sensex nifty decline as rbi hikes repo rate by 25 bps to 550 hdfc sky",
     "why is stock market down today sensex crashes 500 points top 3 factors behind market selloff explained livemint",
     "stock market today gift nifty rbi policy to gold rate five key factors for sensex nifty 50 on october 7 ndtv profit",
     "rbi mpc 25 bps rate hike impact on stock market sensex nifty trim losses experts reveal what investors should do now livemint",
@@ -47,64 +80,64 @@
   ],
   "articles": [
     {
-      "title": "US Market: Treasury bill yields rise as money-fund demand weakens",
+      "title": "RBI MPC meeting highlights: Repo rate hiked to 5.5%; rate cuts off the table in near term, Governor Sanjay Malhotra says",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-treasury-bill-yields-rise-as-money-fund-demand-weakens/articleshow/134758312.cms",
-      "publishedAt": "Wed, 07 Oct 2026 12:08:45 +0530"
+      "link": "https://www.thehindu.com/business/rbi-monetary-policy-meeting-decision-on-repo-rate-live-updates-october-7-2026/article71554262.ece",
+      "publishedAt": "Wed, 07 Oct 2026 13:11:50 +0530"
     },
     {
-      "title": "RBI Presser LIVE: Sensex down over 100 pts, Governor Malhotra says no rate hike in near-term",
+      "title": "GE Aerospace announces shipment of four F404–IN20  engines to HAL for Tejas LCA Mk 1A",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/ge-aerospace-announces-shipment-of-four-f404-engines-to-hal-for-tejas-lca-mk-1a/article71554547.ece",
+      "publishedAt": "Wed, 07 Oct 2026 13:10:29 +0530"
+    },
+    {
+      "title": "Rupee falls 22 paise to 96.57 against U.S. dollar post RBI rate increase",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/rupee-against-dollar-opening-rbi-monetary-policy-decision/article71554511.ece",
+      "publishedAt": "Wed, 07 Oct 2026 13:08:57 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex down 300 pts, Nifty near 22,600; Titan, Shriram Finance top losers",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-7-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-rbi-mpc-repo-rate-ipo-today-126100700099_1.html",
-      "publishedAt": "Wed, 07 Oct 2026 12:04:01 +0530"
+      "publishedAt": "Wed, 07 Oct 2026 13:00:23 +0530"
     },
     {
-      "title": "Rupee falls 10 paise to 96.45 against U.S. dollar ahead of RBI monetary policy decision",
+      "title": "Markets fall in early trade after two days of rally; Sensex falls 460 points",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/rupee-falls-10-paise-to-9645-against-us-dollar-ahead-of-rbi-monetary-policy-decision/article71554511.ece",
-      "publishedAt": "Wed, 07 Oct 2026 12:01:24 +0530"
+      "link": "https://www.thehindu.com/business/markets/markets-fall-in-early-trade-after-two-days-of-rally-sensex-falls-460-points/article71554552.ece",
+      "publishedAt": "Wed, 07 Oct 2026 12:55:41 +0530"
     },
     {
-      "title": "EIA raises oil price forecasts as Iran war tightens global markets",
+      "title": "Serum Institute’s HPV vaccine Cervavac receives WHO prequalification",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/eia-raises-oil-price-forecasts-as-iran-war-tightens-global-markets/articleshow/134758136.cms",
-      "publishedAt": "Wed, 07 Oct 2026 11:58:41 +0530"
+      "link": "https://www.thehindu.com/sci-tech/health/serum-institutes-hpv-vaccine-cervavac-receives-who-prequalification/article71554508.ece",
+      "publishedAt": "Wed, 07 Oct 2026 12:41:18 +0530"
     },
     {
-      "title": "Starlink India ops built to meet country's regulatory needs: Official",
+      "title": "RBI hikes rate, but analysts see shift to ‘calibrated tightening’ as bigger takeaway. How can this impact markets?",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/starlink-india-ops-built-to-meet-country-s-regulatory-needs-official-126100700342_1.html",
-      "publishedAt": "Wed, 07 Oct 2026 11:54:26 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-hikes-rate-but-analysts-see-shift-to-calibrated-tightening-as-bigger-takeaway-how-can-this-impact-markets/articleshow/134758783.cms",
+      "publishedAt": "Wed, 07 Oct 2026 12:40:32 +0530"
     },
     {
-      "title": "Why are Indian and U.S. leaders cooling off on a trade deal? | Explained",
+      "title": "Starlink waiting for final India clearances, says SpaceX VP Lauren Dreyer",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/why-are-indian-and-us-leaders-cooling-off-on-a-trade-deal-explained/article71554453.ece",
-      "publishedAt": "Wed, 07 Oct 2026 11:54:10 +0530"
+      "link": "https://www.business-standard.com/industry/news/starlink-india-launch-approvals-security-clearance-gateways-spacex-126100700481_1.html",
+      "publishedAt": "Wed, 07 Oct 2026 12:37:05 +0530"
     },
     {
-      "title": "23 Indians rescued after oil tanker attacked off Russia's Black Sea coast",
+      "title": "Trent’s Rs 1.80 lakh crore rout from peak: Has Q2 just flipped the script for Tata group’s retail crown jewel?",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/23-indians-rescued-after-oil-tanker-attacked-off-russia-s-black-sea-coast-126100700322_1.html",
-      "publishedAt": "Wed, 07 Oct 2026 11:48:19 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/trents-rs-1-80-lakh-crore-rout-from-peak-has-q2-just-flipped-the-script-for-tata-groups-retail-crown-jewel/articleshow/134758918.cms",
+      "publishedAt": "Wed, 07 Oct 2026 12:34:55 +0530"
     },
     {
-      "title": "Microsoft stock: AI gains, earnings and the road to new highs",
+      "title": "RBI raises repo rate by 25 basis points to 5.50%, shifts stance to ‘calibrated tightening’",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/microsoft-stock-ai-gains-earnings-and-the-road-to-new-highs/slideshow/134758108.cms",
-      "publishedAt": "Wed, 07 Oct 2026 11:46:07 +0530"
-    },
-    {
-      "title": "ETMarkets Smart Talk| Rising US yields could hit expensive mid, smallcaps harder: Harish Krishnan",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-smart-talk-rising-us-yields-could-hit-expensive-mid-smallcaps-harder-harish-krishnan/articleshow/134757366.cms",
-      "publishedAt": "Wed, 07 Oct 2026 11:40:54 +0530"
-    },
-    {
-      "title": "RBI allows Sebi-regulated depositories to include customer deposit details in statements: What changes for investors?",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-allows-sebi-regulated-depositories-to-include-customer-deposit-details-in-statements-what-changes-for-investors/articleshow/134757684.cms",
-      "publishedAt": "Wed, 07 Oct 2026 11:39:40 +0530"
+      "link": "https://www.thehindu.com/business/Economy/rbi-hikes-repo-rate-by-25-basis-points-to-55/article71554369.ece",
+      "publishedAt": "Wed, 07 Oct 2026 12:31:08 +0530"
     },
     {
       "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
@@ -125,16 +158,16 @@
       "publishedAt": "Wed, 07 Oct 2026 01:45:54 GMT"
     },
     {
-      "title": "Stock Market Open Report Today, October 7, 2026: Sensex, Nifty Decline as RBI Hikes Repo Rate by 25 bps to 5.50% - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHFYaXdTMHI5dDJTa1pXVHhGZENhMS1hRXZudVVqd25Id0RUMmJNVGZtVnl4dXpxdXkzMkRETWFjaXotWGtBenJnQS10LU90X0NyN196U2dHUjlzUThyVnJkbG9sWjBlN2REN0V1MVVmYUNEUERYeFlDZUJjQU5hQWc5aHloLXIzaXB4V3R6QjR3dWNxVWZhR3RnUzBCanFkOWdkdDNEUG1VUU45SnVHdXZabEVRaG9hRC14TXVnOV9TLUxBRV9DNTJKZElUZTlJ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 05:19:30 GMT"
-    },
-    {
       "title": "Stock Markets Today: Sensex, Nifty Decline as Crude Prices Surge - Rediff",
       "source": "Rediff",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUlR3N3hWTG9Qc2dibHNNaFVsU2Zrb0lKMVBCMEpBbUE1dzhmZHhGT2ZYbUdYemozellmTkdUcUlEZy1RUndNekl4dWxOZ2lsMUJZZzBRWFBCZ2h1T2xGUXhyS2xVZjdQS0lmYnk2SFlYSTR2Zk5QeXpxcC1ENHdWX09tSU4yRDd4c3lYdmZkUHllV1ZBbGYzQVFaLXJGVnJteTd6VWRYNkxYS3NLdmo3U1dpVGdwQ004YzZ2OURRQ1bSAcMBQVVfeXFMTzRncTFVN3huS181Rm1Wb28xbU5CbmVDOExwc1BYcklpczF3eFhJUHZRQWdBUDUyX3VjUzVNOHB6OVdZTk5QS004OFRKTjZ0bHFENF83aTZVMDYyOU90NlBycko1NkY0ZDJZQ19pcFlRakcwRTRvYkVUdjk4NG5wMDl1ZDNpZUtlLTlvYW5HcW5WS2ZwWWpHTXZPblhSUTR0R25fNEJoLVVDTTFKZWVMT3lnc19PNm9KQ2ZmSzk4XzI3VkJv?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 05:29:23 GMT"
+    },
+    {
+      "title": "Stock Market Open Report Today, October 7, 2026: Sensex, Nifty Decline as RBI Hikes Repo Rate by 25 bps to 5.50% - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHFYaXdTMHI5dDJTa1pXVHhGZENhMS1hRXZudVVqd25Id0RUMmJNVGZtVnl4dXpxdXkzMkRETWFjaXotWGtBenJnQS10LU90X0NyN196U2dHUjlzUThyVnJkbG9sWjBlN2REN0V1MVVmYUNEUERYeFlDZUJjQU5hQWc5aHloLXIzaXB4V3R6QjR3dWNxVWZhR3RnUzBCanFkOWdkdDNEUG1VUU45SnVHdXZabEVRaG9hRC14TXVnOV9TLUxBRV9DNTJKZElUZTlJ?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 05:19:30 GMT"
     },
     {
       "title": "Why is stock market down today? Sensex crashes 500 points - Top 3 factors behind market selloff explained - Livemint",
