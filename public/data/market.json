@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets under pressure following RBI rate hike and rising US Treasury yields",
+  "headline": "Indian markets face pressure as RBI hikes rates for the first time in four years amid global headwinds",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,32 +7,25 @@
     "nextOpen": ""
   },
   "why": [
-    "The RBI hiked interest rates for the first time in nearly four years to address rising price pressure",
-    "Foreign investors withdrew $26.3 billion from emerging markets in September due to hawkish Fed signals",
-    "US Treasury yields climbed, causing US markets to retreat from record highs and impacting global sentiment",
-    "The US Federal Reserve minutes signaled another potential rate hike by year-end as inflation remains high"
+    "The RBI hiked interest rates for the first time in nearly four years to address persistent price pressures",
+    "US Federal Reserve minutes signaled another potential rate hike by the end of the year as inflation remains high",
+    "Foreign investors withdrew $26.3 billion from emerging markets in September due to hawkish Fed policies",
+    "Rising US Treasury yields are causing US markets to retreat from record highs and impacting global sentiment"
   ],
   "whatHappening": [
-    "Sensex fell 429 points and Nifty slipped below 22,700 following the RBI's monetary policy announcement",
-    "An IndiGo flight from Patna to Lucknow was hit by lightning mid-air, resulting in damage to the aircraft nose",
-    "Tata Motors' Aeris CNG mileage statistics are being analyzed for fuel efficiency performance",
-    "Major stocks including Hindalco, Adani Enterprises, and Infosys recorded significant losses in the previous session"
+    "The BSE Sensex fell 429 points while the Nifty 50 closed near the 22,600 level in the previous session",
+    "An RBI report indicates India's rural economy is becoming more resilient to monsoon-related shocks",
+    "An IndiGo flight from Patna to Lucknow was damaged by a mid-air lightning strike but landed safely",
+    "Analysts are monitoring cues from Kospi and Taiwan markets for today's trading session on October 8"
   ],
   "stocksInNews": [
     {
-      "symbol": "INDIGO",
+      "symbol": "HINDALCO",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        8
+        13,
+        14
       ]
     },
     {
@@ -44,25 +37,32 @@
       ]
     },
     {
-      "symbol": "HINDALCO",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/10 sources",
-      "articleIds": [
-        13,
-        15
-      ]
-    },
-    {
       "symbol": "INFY",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        15
+        14
+      ]
+    },
+    {
+      "symbol": "INDIGO",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        8
       ]
     }
   ],
-  "summary": "Indian markets are facing significant headwinds after the RBI unexpectedly raised interest rates to combat inflation. Global pressure from rising US Treasury yields and substantial FII outflows from emerging markets are further dampening investor confidence. Key large-cap stocks like Hindalco and Adani Enterprises led the recent market decline following the central bank's hawkish stance.",
-  "updatedAt": "2026-10-07T22:01:56.997Z",
+  "summary": "The Indian stock market is reeling from the RBI's first interest rate hike in nearly four years, which triggered a 429-point drop in the Sensex. Global factors, including hawkish US Fed minutes and significant foreign capital outflows, continue to weigh on investor sentiment. Key stocks like Hindalco, Adani Enterprises, and Infosys saw sharp declines as the market adjusted to tighter monetary conditions.",
+  "updatedAt": "2026-10-07T22:14:09.101Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-08",
   "articleKeys": [
@@ -80,12 +80,12 @@
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "stock market today live updates bse sensex tumbles 400 points nse nifty50 closes below 22670 the times of india",
     "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
-    "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom",
     "sensex today nifty 50 stock market highlights sensex ends 429 pts lower nifty near 22600 hindalco drops 3 infy 2 the economic times",
     "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 8 oct 2026 livemint",
-    "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 cnbc tv18",
+    "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard",
+    "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 years cnbc tv18",
     "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene tradingview",
-    "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard"
+    "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom"
   ],
   "articles": [
     {
@@ -173,15 +173,9 @@
       "publishedAt": "Wed, 07 Oct 2026 11:45:44 GMT"
     },
     {
-      "title": "Closing Bell: Nifty at 22,600, Sensex down 429 pts after RBI hikes rate in nearly 4 yrs - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbnotWFowYW95bVpVbXNzaG1zaEpON1VJOHhSbVkzZlM2eHM4TElrMGN4SkwwZ1I4Q09pSEcyTFlwVnVUTUxKbXdlNDFJWDh6RHFKNlFqR1ZLVXZUSmhGWEhfM09mWGZTaUdfb21ubFNxN3ViQ0I5UkY2RGRJbkwxR1RzOURjSkpVYlktS0R1MXRQOHRNVUQySmV1WXg3T3B6SmZHamRpYnVwMnZJZklRRHJZNzlpSkFqZ21WYi1yQS1LaFVGMExXZThNUm03SnJ1aGRqaElUYTczRlc1WDhfRVZtcldnRTNEUlVNcDI5dnZfdklnYTg5UG5LTk51QUNiMlppaEVtbmx5UWs1ejJqZm51dmU5eTZ6QWFIT2xVY0Y3RDg?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:55:08 GMT"
-    },
-    {
       "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 429 pts lower, Nifty near 22,600; Hindalco drops 3%, Infy 2% - The Economic Times",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUVdxNDNINElTOHhPRzFkaGVrNllTZVRvVnRvdGFnVmlJcVNmUExBYXlWVUxtcFNkLXlUWTZQbVlwdFRramNJYkhDMlZRbk40aDBWR1dvUTBrRWVScy1qMTdFdWJzUmJXbExXdURQc0Z4QjRTZ2ptMWZqUUxZcFBkQWVvSGVIbWNpT0ZTY3gtWS1RRFlBbFBDX2hkWVBtei1JcDM2VTVPd0VDVzNmNzhKdVF3c0syMWtFMi1fWW8zNUJiMUVmNnNwUEpsR2M4T3VZZENlbmV3MUFSdzRaSXhIcTQ4ZFhacjlKSW9lSy1EVWo3VmNfWFlfWUtKTHU3U1V4ajB1a3pSZ3pqRTDSAZACQVVfeXFMT0RhUEVuTTUtV1VyZVNvRWVaWUhSZk9UdlRJcDF2aTNpNm5Lc3dodXpCcUlmbGdzLVo2bXh5LXJOd2hxOUs4MS1jRk13U3lOYVdoYjZ5cEIzVTdJeXg4aFNpeGl1TmpVZ0w0cGQyLUFUR3E5SnB6ZmZBeE5DQzUtWGNzNUk5Tl9wQzZNano3TkVnUXplS25raEVoTFF5S3htSUxLa0F4WDNHWHR1LWkzMUo1cldrX1h6c1dqYlhkTU5VUDlhWkFNMXNxMW9mV0w0azFFbFN0NlhSMnA1ZUk2NEtzMG9GdWd3a3E4TG5tRVhFVVhBdXNiSXVQVGVRMFhWdEluUE9fR2tRQ25BaXk4RUk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUVdxNDNINElTOHhPRzFkaGVrNllTZVRvVnRvdGFnVmlJcVNmUExBYXlWVUxtcFNkLXlUWTZQbVlwdFRramNJYkhDMlZRbk40aDBWR1dvUTBrRWVScy1qMTdFdWJzUmJXbExXdURQc0Z4QjRTZ2ptMWZqUUxZcFBkQWVvSGVIbWNpT0ZTY3gtWS1RRFlBbFBDX2hkWVBtei1JcDM2VTVPd0VDVzNmNzhKdVF3c0syMWtFMi1fWW8zNUJiMUVmNnNwUEpsR2M4T3VZZENlbmV3MUFSdzRaSXhIcTQ4ZFhacjlKSW9lSy1EVWo3VmNfWFlfWUtKTHU3U1V4ajB1a3pSZ3pqRTA?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 10:55:07 GMT"
     },
     {
@@ -191,9 +185,15 @@
       "publishedAt": "Wed, 07 Oct 2026 10:27:14 GMT"
     },
     {
-      "title": "Stock Market Highlights: Nifty at 22,600, Sensex falls 429 pts after RBI hikes rate for first time in nearly 4 - CNBC TV18",
+      "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
+    },
+    {
+      "title": "Stock Market Highlights: Nifty at 22,600, Sensex falls 429 pts after RBI hikes rate for first time in nearly 4 years - CNBC TV18",
       "source": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZy1YSzEwaDdUbjhFREcwMWdpN0RIN2RXT2dfNmlMdmpEV0JoamZQLXdxNWdUeEp4TWxBdFdELVZ0djhoZzlScmd0WjR6dkRGQTlxMjhHcm0yZUZMRzFpRXZnczU1eGVlelMwTnFWZGJmZnREaFRtM2cxcWRXYnNTaXVza0E3SHF1SWxwdlM0OHZ2dl9WMHNyWE1udHd5cUpOZnoxZGFHN2YxMUl1OVV2cUNqYUdpZE5Rc0gzdzBvMlpja3BSRHVJaGVwcUtlbFBWdXJMWS1jREkxNlpoZjl1cTRMc0NxNUxELThsanR2UXJiS2VkSTN0RjZJY1FBRXZ4VzhvMUp3bVZiVFVzeVdCbzdR0gGXAkFVX3lxTFBtaHJIY3FvbThtWlNCaDJGbEk2WThHQ2JTbGVrOE9yT3pqcXdfa3BScVJ6LUNuSDRfZnA2RUVTSDJvUE53ZnFKM2tieTA1cTFFbGlfZmJhOGNHTzZKVkN5My1EWkJuZmVoT29sdXotYzNtTWVHaDZEMVFKRnR4bTBvcnh2Qk1DcWRfemJ2WVFzbk9OY3NKOUlGZEZfbVFTRnRQX0pOc095VlBZUjBVa2tsZkdCbndXbmthVEVfanJGTVNyR1hUc29UeWlxUUMtLUxNQ2tFS0ZyU1F5UkllY2h0ZUdkcmw2R2hXRmlEQ08tOUtSbllwTzY4clpUUGEycndyYXF2cVEteUFLLTZyZTlTeXBJbTFibw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZy1YSzEwaDdUbjhFREcwMWdpN0RIN2RXT2dfNmlMdmpEV0JoamZQLXdxNWdUeEp4TWxBdFdELVZ0djhoZzlScmd0WjR6dkRGQTlxMjhHcm0yZUZMRzFpRXZnczU1eGVlelMwTnFWZGJmZnREaFRtM2cxcWRXYnNTaXVza0E3SHF1SWxwdlM0OHZ2dl9WMHNyWE1udHd5cUpOZnoxZGFHN2YxMUl1OVV2cUNqYUdpZE5Rc0gzdzBvMlpja3BSRHVJaGVwcUtlbFBWdXJMWS1jREkxNlpoZjl1cTRMc0NxNUxELThsanR2UXJiS2VkSTN0RjZJY1FBRXZ4VzhvMUp3bVZiVFVzeVdCbzdR?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 10:15:12 GMT"
     },
     {
@@ -203,10 +203,10 @@
       "publishedAt": "Sun, 04 Oct 2026 14:33:40 GMT"
     },
     {
-      "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
+      "title": "Closing Bell: Nifty at 22,600, Sensex down 429 pts after RBI hikes rate in nearly 4 yrs - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbnotWFowYW95bVpVbXNzaG1zaEpON1VJOHhSbVkzZlM2eHM4TElrMGN4SkwwZ1I4Q09pSEcyTFlwVnVUTUxKbXdlNDFJWDh6RHFKNlFqR1ZLVXZUSmhGWEhfM09mWGZTaUdfb21ubFNxN3ViQ0I5UkY2RGRJbkwxR1RzOURjSkpVYlktS0R1MXRQOHRNVUQySmV1WXg3T3B6SmZHamRpYnVwMnZJZklRRHJZNzlpSkFqZ21WYi1yQS1LaFVGMExXZThNUm03SnJ1aGRqaElUYTczRlc1WDhfRVZtcldnRTNEUlVNcDI5dnZfdklnYTg5UG5LTk51QUNiMlppaEVtbmx5UWs1ejJqZm51dmU5eTZ6QWFIT2xVY0Y3RDg?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 10:55:08 GMT"
     }
   ]
 }
