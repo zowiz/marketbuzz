@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets focus on RBI MPC meeting, rising crude oil prices, and stock-specific actions",
+  "headline": "Indian stock market eyes RBI MPC policy decision while Brent crude rises above $101",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Brent crude oil prices rising above $101 per barrel impacts market sentiment.",
-    "Investors are closely tracking the RBI MPC meeting and Governor Sanjay Malhotra's speech.",
-    "Gift Nifty and global market cues are setting the expectations for Nifty 50 and Sensex.",
-    "Markets previously saw strong momentum with Sensex settling 685 points higher on October 6."
+    "Investors are awaiting the RBI MPC meeting outcome and Governor Sanjay Malhotra's speech.",
+    "Crude oil prices are surging with Brent crude rising above $101 per barrel.",
+    "Sensex settled 685 points higher in the previous session driven by strong buying momentum.",
+    "Global cues from US markets, GIFT Nifty, and Asian peers are influencing sentiment."
   ],
   "whatHappening": [
-    "Trent shares jumped 13% to hit a 2-year high following a strong Q2 operational update.",
-    "HCLTech, Ola Electric, Mahindra Lifespace, Godrej Consumer, and Blue Dart Express are listed as key stocks to watch.",
-    "Saudi East-West Pipeline moved 5.8 million barrels as the Red Sea route gradually recovers.",
-    "Pimco is betting on bonds as yields reach 24-year highs."
+    "Trent soared 13% to a 2-year high following a strong Q2 business update.",
+    "Red Sea route is gradually recovering as Saudi East-West Pipeline moved 5.8 million barrels.",
+    "Multiple stocks including HCLTech, Ola Electric, and Godrej Consumer are in focus today.",
+    "Pimco is betting on bonds as 24-year-high yields attract institutional investors."
   ],
   "stocksInNews": [
     {
@@ -37,6 +37,14 @@
     },
     {
       "symbol": "HCLTECH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "OLAELEC",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -68,8 +76,8 @@
       ]
     }
   ],
-  "summary": "Indian benchmark indices track key macroeconomic cues including the RBI MPC policy decision and elevated crude oil prices above $101. Trent leads corporate highlights following a 13% surge on strong Q2 updates. Stock-specific news surrounds HDFC Bank, HCLTech, and Godrej Consumer ahead of the trading session.",
-  "updatedAt": "2026-10-07T01:45:27.818Z",
+  "summary": "Indian stock markets open today with investors focusing on the RBI MPC policy decision.\nSensex rebounded over 685 points in the previous session despite rising crude oil prices past $101.\nKey stock movements include Trent surging 13% on strong Q2 updates alongside several stock-specific catalysts.",
+  "updatedAt": "2026-10-07T02:31:24.534Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-07",
   "articleKeys": [
@@ -85,13 +93,14 @@
     "trent surges 13 to 2year high after strong q2 update",
     "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
+    "stock market outlook today 7 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei kospi taiwan cues livemint",
     "stock markets rebound in early trade sensex jumps more than 700 points the hindu",
-    "stock market prediction for tomorrow sensex nifty outlook for wednesday kospi taiwan cues to watch 7 oct 2026 tradingview",
+    "stock market prediction for tomorrow sensex nifty outlook for wednesday kospi taiwan cues to watch 7 oct 2026 indiaipo",
     "stock market today gift nifty rbi policy to gold rate five key factors for sensex nifty 50 on october 7 ndtv profit",
     "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint",
     "ahead of market 10 things that will decide stock market action on wednesday the economic times",
-    "stock market prediction for today sensex nifty outlook for tuesday kospi taiwan cues to watch 6 oct 2026 livemint",
-    "stock market today all you need to know going into trade on october 7 ndtv profit"
+    "sensex nifty up today why is indian stock market rising ahead of rbi mpc meeting outcome explained with 3 reasons livemint",
+    "stock market prediction for today sensex nifty outlook for tuesday kospi taiwan cues to watch 6 oct 2026 livemint"
   ],
   "articles": [
     {
@@ -167,16 +176,22 @@
       "publishedAt": "Mon, 05 Oct 2026 23:13:11 GMT"
     },
     {
+      "title": "Stock market outlook today, 7 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Kospi, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbGtjekNxdnA5QWRzLW5kQVJBWHR6U0RFQ2JneW9kbmRxM0JCWGw4cHRadzRZM2lldTlhQm5seUxqeUw5a0hzaTBsa0xOUC1hdEZZMm1wQ3ZScFFxYVlKeXdTdjI4bWpNZ2wtZ2pOWHViRG1YWlQ0ZnZhRnd1eThqZlFUblN3MmZYM1JETXdTQURuOGhwLXB2TzBKMkp2d2VET3AzSXRINldlemtxQTlqTmk5NnJqTFRHWG1McDFfZmxDdnFBLVB6eXFFc25VZkljZ2kwbFY1NGtWV3ZPN3E2WlhwVlJMbmUzaldha04zOHFIeUlJWTBJUUUtNGdROTNVbUNtR3dMRdIBjAJBVV95cUxORFBxdEVWTzdMLXE4eERrc2pZSjNxTjQ3cWtHc2NmdXJGNERWdEFOM3doOWk5WFQ3QUxrQW9mOGQxTEx0bXVndThpdzV4MFVVcEtRRkdVdUVYX2lNQzZvTXc3bWNUa3Y4TC1pNWJzYnVKR3FZeEF4VFNFZFlSSThPdnMtY0ViTU95YWdBUWw4N3dTVFY1bTdmc0gwbW1DNlFkUEJqQ3dERE5HQjdjWmJMdEpGa3ppcmJfaTZIWTk3OUI1ZGtVRVEtekZOMDBraHBCM0xsdE9fU2tKazcwZ2NBck9wdXFwU2kwR2pzLWxUYmtNU3pEbmpLbWxWZUxlRGEycVlKZk9JQ1pRQ2Yx?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 01:45:54 GMT"
+    },
+    {
       "title": "Stock markets rebound in early trade; Sensex jumps more than 700 points - The Hindu",
       "source": "The Hindu",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGYtYXJ3ejgweVZJSFZPOGIta2ZwblZxOXktRWg1M0VkMDVvMC1BOUM1MHpkM21IS2wtbTMybk1FYXFjdm9lQmdYRU1QVDBJejQ0LS0wcjEzelJlM3dpNmlKUVpnX1htd3hZaHVweFRkenRHeGZXcDRSZlVYS1AzbG1wcVl0Wk5UT0d0a0tzS0NCTzRZU3NsVXF6QkV5R01HS3JvcjdyY2hDd1c3b2wtemJzQXNHTWdWTkJyT0sxWU1Zd9IByAFBVV95cUxOWlRRY2J5dEpYc2xtQkJ2MEVscGxWeVBIellwS3VZVDNETEg5XzJ1akJRMldJM2ljMk5WbmpvM0dGWTg4cU1tV2pfZHJvNGM5RXZSU0FKYjZGSXREejdoQXQ3bDNoUGl5dUpiOVBpcjRCQ0p2bUVCSndwcDhwOUJFZUpNWVE5R3g4S2VtT1pyaXZRZWVjQVEzNnlQM0ZJeWxzd1JoOHhaSHNGM09qNGRqbnhLcEFxdHl1R0Q1YUEzcEpYLWtCZG9xag?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 05:39:55 GMT"
     },
     {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Wednesday | Kospi, Taiwan cues to watch | 7 Oct 2026 - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOV9BMExvOHhmSl84UkdZd3R2MTgtZTAzYnB2QUFxNk42LVR6OXBDdjVBd3gtNERfM0hnd1lIbHBuajg1UmVKN2Z2bXdBaDIya3JIaUNaNDQ1OGhtZVo1ZjhDNzRuSnpRYnlNZ3NZVlNENGxZR1R2ZFcyLUdRdHdwTjkwUUZOWGMzQThNUmJmZUVHZDZqX2ZPb3MtcU03emdWWTVkUVVQQ2U3UklkOUVMRWJCTFBQLWNxVnBrTlA0RGRDYUFSU0d4N2lDdjVGT2tTWkUzVjVOUkRQUTFpRlJlQkdTdVFtTl9aam1HT3o2c2VYUkRIWWZuUjhn?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 13:34:29 GMT"
+      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Wednesday | Kospi, Taiwan cues to watch | 7 Oct 2026 - IndiaIPO",
+      "source": "IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTFYzVTFsaWt1NmE1QURiR0prR0h5SzFLSUNXNGozcUdpa1Blcnp2TUZwOUNpLTh2ZTlhbXFiYk9FVDRVZHdmd0lTWTFTYlFJaUdETWl1Tm90QjlRczd2TjkwQWNpQUVGeEJrZmRzNEJkSTNyYWtNQ3ZVeG0zN0JCRFdpVlBkVmlVcXNERWFTTVdYdWZHVTk0UDQ1V3lBbUNJYmRZVUdKYWNYMEhnWEE0QjNtVjM1OGZRQ1RMVXZieEk1aWN2ak1Pemd2ZmZfd1dpTm9LUFNIdnNieXBfSVE?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 10:33:19 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty, RBI Policy To Gold Rate — Five Key Factors For Sensex, Nifty 50 On October 7 - NDTV Profit",
@@ -197,16 +212,16 @@
       "publishedAt": "Tue, 06 Oct 2026 15:40:54 GMT"
     },
     {
+      "title": "Sensex, Nifty up today: Why is Indian stock market rising ahead of RBI MPC meeting outcome? Explained with 3 reasons - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMmF0TGdKVDhMZFppQ1ZaWGdBWjRld0x4aTJHRTl5OWMyd1d3ZUZQTF9PeERyT2p1aGtlLVluYmdES0FjaTBIN0NlMk5KSHctMnhnVVVQaEFhVTU0YXBLZHJoMUptY216SHJudW9oU3llX280RWtiVEFGNldkWTlvYmdtaDZSZ2FfZmpvZzRYb0IwQ19kUW5mVVk1TkNSMzE0cm1QcjdOem8tNWlYcDNDWVNyY1FPb0FMTWZ6ekJBejJyWWl2NmhqQVNRQXNpUUpTZDU1VkVNWEZtVFhGSzBTYTZIbEZlUHFJdVpmTmFLZjUzRHh5SHRFUkJGQXRLTTRKY0Q1UGFGR2RldjN5Z2tubNIBlgJBVV95cUxNNjZFZmdwQVhHZElndVhuUG1fdXk2QXFZS25zbFNIZ3JDT1luVElkN2t5bFZ4bTRIQUJRNGtBLUUzWkppODcwQ09JZXdDQjhxcGVKaDBJdlh6cmR3U0Z4c1h1OS1hTG9abW11dC1RWFJVemVWbGtVQVFMa1VUSmV4UzVmM04yOE9TcjFScmtCWmNwVkE0djdhZHNlZWxLMXZNelAxVnJ4bGVRR191V3VrcFUzSmtsTGJ6OUNuTDRSZGExVm02UllqblFXSWpEeDZkdlRHQnVuRkFtVzBPRjBaaVJwUXo4TThwV3pIOXFJM3ZHM1V3N21OY0V4bnMwd3lqbFl6Ym9SS3U0b0tkbHFrTjV5Q0g4QQ?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 08:45:03 GMT"
+    },
+    {
       "title": "Stock market prediction for today: Sensex, Nifty outlook for Tuesday | Kospi, Taiwan cues to watch | 6 Oct 2026 - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSWY1ZEZmSmY1SW0xX080ckZUeGJBRE5wMGVDczNWaEF3M0M2UnRsWjdqZGY5LXc5aVFSTkRiXzVIRDA2X2VpVEpVclQzLWUtX2JqYTVrbUxGNXNMei0xT2JjSHl0c3NKTFM0akowQnB3UFZwX0lnbHBQVkJDWFB3SW9lVks0QnNoc1BKa2w3YWg0VnMxN0ZCWGstLXVWN2hySWlZc3JFM3lVMFlOWjVjalUtWU5EMm9GUS1jOFJDNl9vX2QybGFFUVhvaTM1VVVTWF9jMUxOSDlTR1d2TEFlamU2VHJWWEk3YkpxeEVnUHdYY081UnVlaU5zdGhsN2tvX2RJc0ItSHTSAY4CQVVfeXFMT1JHb1VNQWdPdkdfSDl5RVJGd3k3LTBtTXptX05kQWU3ZEVvYlFjSTlCRkhyNFZqaGRNTWRXa3V4bjMwNThYc2VMZWZ3Y2x3SDFEbktma1p2eUJESl91U05sSy1wMS0tZnQtMl9zd2RONWN2aFlrc1ZXQmdKTzNxTERpQ25jYnNWV09wUF80U1lWWGJ3Qk9YMVpFZUlfZUlneHQ5cGtUUDZMdkhzNTRnSkdMNVhUck16Wi1QNDZ5OFd3eEFMUGdWNXg4TmJaZGRINFhUa2V4YXR4eU5DVHdVd3o3aW9mdUpnaU9HSWJEdkV4clNDdkdUaC14RHVKNHZMV0JVT004dEtTVS1jQnhB?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 10:22:44 GMT"
-    },
-    {
-      "title": "Stock Market Today: All You Need To Know Going Into Trade On October 7 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcm5ESnV3SFZpb0hFQm5tOWE4Ty1pYUN0NmNtN2RGNnVqQjU0WEo2UXQyd0hoNzBuTV93SVJEU1dCNWljQWxqRkhUeE82SjJLd1JydXhudmJMX0lTNVVIWTFkcWVmYXk4STFoRlhyTWx6T29PWFNGN0FHdjBScUU4RDRlenZFZE5RY3oxOFhrZFp0eXc5TVlKSmJFdnEyendzaFZrZGJvYXpEblM1a1VFY0g2QdIBuwFBVV95cUxNcGR0N0JQSXdqQmdycEFwa2R4dFp6LVQ1SklyWHZiR2VGT0hvbDk0dFN3TktEVkg4UnhLTXktbHJSSUc2SGpYLXZrUTZUeTZNNjRnOU90Y1ZUMFB1ZXFhWF9sTVNhNXlOZ3E2MDJLanJDV0xLMjFTVHB6djNtdkNBckdaMFJiWWQ3QkN1bUtFUm9BS3hDT1g5Y3p5UjFxTE9HWWJ5MGtEYXBqQ0FsVTdVSjQzdXFQNFdsRVFv?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 00:30:01 GMT"
     }
   ]
 }
