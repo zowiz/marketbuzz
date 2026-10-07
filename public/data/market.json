@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Falls 429 Points as RBI Hikes Interest Rates; Rupee Hits Five-Month Low",
+  "headline": "Sensex falls 429 points as RBI hikes interest rates; Nifty ends near 22,600 level",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,53 +7,62 @@
     "nextOpen": ""
   },
   "why": [
-    "The RBI hiked interest rates for the first time in nearly four years to combat persistent price pressures.",
-    "A hawkish pivot by the RBI caused the Indian Rupee to breach key support and hit a five-month low.",
-    "Significant selling in market heavyweights like Hindalco and Infosys dragged the benchmark indices lower.",
-    "Global sentiment was dampened by slipping US futures and a rebound in oil prices and bond yields."
+    "The RBI hiked interest rates for the first time in nearly four years to address price pressure",
+    "The Indian Rupee hit a five-month low following the RBI's hawkish pivot",
+    "Selling pressure in heavyweights like Hindalco, Infosys, and Adani Enterprises dragged indices lower",
+    "US futures slipped as treasury yields and oil prices rebounded, weighing on global sentiment"
   ],
   "whatHappening": [
-    "The BSE Sensex settled 429 points lower at 22,603, while the Nifty 50 closed near the 22,600 level.",
-    "Lupin launched a new fixed-dose triple combo inhaler in India for patients with chronic obstructive pulmonary disease.",
-    "Tata Motors' subsidiary Jaguar unveiled the Type 01, detailing its design, features, and pricing for the new model.",
-    "The GST Council is set to meet tomorrow to discuss potential reforms in tax processes and compliance."
+    "The BSE Sensex closed 429 points lower while the Nifty 50 slipped 0.76% to end near 22,600",
+    "Lupin launched a new fixed-dose triple combo inhaler for COPD patients in India",
+    "RBI Governor Malhotra stated that MDR on UPI is a small fee and will not impact volumes",
+    "The GST Council is scheduled to meet tomorrow to discuss reforms beyond tax rates"
   ],
   "stocksInNews": [
     {
       "symbol": "LUPIN",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         6
       ]
     },
     {
+      "symbol": "ADANIENT",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        15
+      ]
+    },
+    {
       "symbol": "HINDALCO",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/9 sources",
       "articleIds": [
-        13
+        15,
+        16
       ]
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        13
+        16
       ]
     },
     {
       "symbol": "TATAMOTORS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         4
       ]
     }
   ],
-  "summary": "Indian indices closed lower on October 7, 2026, as a surprise RBI rate hike triggered a market sell-off. The Sensex dropped 429 points while the Rupee hit a five-month low due to the central bank's hawkish stance. Despite the decline, Lupin and Tata Motors saw positive news with new product and vehicle launches.",
-  "updatedAt": "2026-10-07T13:03:07.875Z",
+  "summary": "Indian markets ended lower on Wednesday as the RBI surprised investors with an interest rate hike to tackle inflation. The Sensex dropped 429 points while the Rupee hit a five-month low against the dollar. Metal and IT stocks faced significant selling pressure, although Lupin and Tata Motors' subsidiary Jaguar made positive headlines.",
+  "updatedAt": "2026-10-07T13:31:34.667Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-07",
   "articleKeys": [
@@ -68,15 +77,15 @@
     "gst council meets tomorrow tax experts say reforms must move beyond rates to processes compliance",
     "dow jones nasdaq us stock market today live us futures slip as yields and oil rebound fed minutes in focus",
     "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
+    "closing bell nifty above 22500 sensex gains 473 pts media banks shine pharma drags moneycontrolcom",
+    "stock market today live updates markets end in green sensex gains 473 points nifty rises 134 points the times of india",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
-    "stock market today live updates bse sensex falls over 450 points nse nifty50 holds near 22600 the times of india",
+    "stock market today live updates bse sensex tumbles 400 points nse nifty50 closes below 22670 the times of india",
+    "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
     "sensex today nifty 50 stock market highlights sensex ends 429 pts lower nifty near 22600 hindalco drops 3 infy 2 the economic times",
     "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard",
-    "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 cnbc tv18",
     "stock market outlook today 7 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei kospi taiwan cues livemint",
-    "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene tradingview",
-    "why is stock market down today sensex crashes 500 points top 3 factors behind market selloff explained livemint",
-    "stock market crash highlights nifty sensex log 8th weekly decline in record bear run nselisted cos face rs 5 trillion mcap erosion ndtv profit"
+    "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 cnbc tv18"
   ],
   "articles": [
     {
@@ -146,16 +155,34 @@
       "publishedAt": "Tue, 06 Oct 2026 12:39:41 GMT"
     },
     {
+      "title": "Closing Bell: Nifty above 22,500, Sensex gains 473 pts; media, banks shine, pharma drags - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPQ2RCVkhBMW91d2lmQVlHelEzM2lKWGlZWlpaaW45aDQtVGM4SGRoS0ZJV2hYRnNGcFBfT1BkTFlBLVhIMDc4UVM0OTRlWk01S01aSjh3cUN2aGJLU3RXaXByVmJRVWRMdVlIN2sxdUc4WnlBV1NXbFgtTE5JTVg0Ml8yWDc4aU5zRmMyR3UtTXlVQXZ0YmcwdXZTWnRWZThfMmhESVFJZ0cyZlo5UTRkR0taQzFjOEloV20tMTRQSVVqdy00ay15cXlXbEs2MEFibGF3MFJzY2ZMNHRETVVSV005QXdxR2NHLTk1eWhLYlN3dDc5NVpfWlZLcHQxQkF4Y1JPaDE1OWdXQ0FvaUR0UUVDdl85UHpXRW5SQTVvUk9ZUkHSAagCQVVfeXFMUEtwb0E3Y2dhNDk5TG85SWdZMEtUeTdmNXFoWmNxLU94bnl0dzRqVzhSMDhNOVhLUzgwR3gwR1BidDVJbU15VmM4ZXFnTnprNUZORXNyb0lGUzROMGdjWW1YZ2tQR2tuMVNZV0xQTThGMUkyemItdU8yVHZwRDZIMWRwc29STXRzVGtwQ1BOaUhPazBxLWc1WklnLWNuZWQ1QXRoZXQ0T3FkQjgtWnB5RkFzYjRfMW1JZTNHWnljRm1vUTdwXzR3Q2k4RTlOMW91eEtZMFBqLVNhSWFya1Rjd2RYVWtqRnlILVIxUWk4eE1GUjlPbnpKVXBKV2VvZTVzRkt5VUpjeGUweUp3MXkxdDNJTUlHcUQyWE9vSmVoalpkRG5fSEpZTlI?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 10:53:12 GMT"
+    },
+    {
+      "title": "Stock Market Today Live Updates: Markets end in green; Sensex gains 473 points, Nifty rises 134 points - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPNmNJcUdxV1hoQVJhMVMzSElvZUtyWG1YYkh2ZVBCbUNVcFAzUW9TOUgwVDlrdHdUQ2hWNjJkdWtkRnNrUGZXMnJ1Y0V0SW8xSGs4M2t3a2NHWmFHVXVWUXQ0Y2JBeHdTWlpMWWF5Szc1OUo2cjBrMTBfMG1jejIyejVRU2lvOHF4d2NPQUhJajl6cHR4b1praUxpQXk1WWhQcFdwRE1nTHhUeHdTbXE3cjFLTkg4STBNNVJRWlkxbW43LUNGZXQ0SUNSNmhHTEVjRTB1b3FoSC15cnhqTHZwczFsaFdKZWMxakZtdnNxS2U5QWdLd3Fyc2l2cWMwaXFZTWdQREVoXzFuZmp0YmcweVY5RU5SbkE1WUZPMXMtVlhPaS1qRlFxYTI0ZmE0VXc5Rk43btIBugJBVV95cUxOYVFBU0NWN2JMUDFqNndOdGE4QlkwdndZaVZGOHUtYUl5dUVHOFNtMW1XUGpzekI3TV80WkFwdENackVHLWdTNEhxTWpSbEk0Z2VzZzAzUFJMdzV1SmthOGxOVTlWajc5THl2eU5nMnNlWlB3T01nUlk5eThLaDVBc3lfUXVKTlh3RkdDRkNaY0pENnpBWURTVGNXdU9iekE5NE03QUh5TnhmRHN5cUdkZ3FhMXNoY0k4TWVlemdJY2FOUW96Z2hqQ01UUFhURDYyT3RocWRYOVpERmk5cGlVOWE0clJ5Ync2NHRRMm9xQVYtRzBHNEdGZDlUczNvZEwzQ2ttdGIxZXg2VjZGVWw0LTdGWVBsRGYzNlFrdnBwUDE0dkVzMDJLWTFtdTNhR1dVQXlDU0FMcFNxZw?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 10:39:20 GMT"
+    },
+    {
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 23:13:11 GMT"
     },
     {
-      "title": "Stock Market Today Live Updates: BSE Sensex falls over 450 points, NSE Nifty50 holds near 22,600 - The Times of India",
+      "title": "Stock Market Today Live Updates: BSE Sensex tumbles 400 points, NSE Nifty50 closes below 22,670 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdGtJWjRVYnBxVGFxaDRTeF95S2laQU93Y2JBb0pFWUUtTnpmdGdOUkxva2Q2YTF6Y1pUcmV1VTNiZ0syS1V0dlNQSnp4Qjh2OWFoWS1fcHFsNmtCaU1BZEJ1RVBwOWZVZnhTVEpiSFZqU2lHVF9Ibm5iWWdQRU53T3V5SG5HRDhucVR4aXdlUnptV3FKakhhem8tMW9RZW5taVpuQWVfb2JVaFVWNmMtWHlaaXU4RGt6NXF5cU5jdUM1Ty1YbFlOWDl4bk83M3J5RXNlM1M2U3pySUIteTY2aTlrUlJLN0FHUGNFMTEtOU5IM3Z6cW8ySFNESHczaW1YMTJreEd4bXgzMlZXdEhPRnc3Qk9YcmV2a2FDbXJoN0gzUHA4b1ZqNWtxaGJTZmpUeHJUNdIBugJBVV95cUxPNnQxd2JiUHJORWFiSy12TktKQ0ZZS1o4Mmc2dzhMVmlRTTJKTkhIVkI1SzRzenpCelBGR1YzN283Nk9sSld6bFNrbUExN3V5aDRQaFRLcDRwdDFyaEtpTjRFNlBCTkxnOVY1LWJFdTZ2VkRiRk1aaUVwbURQQVZCRmwxWEVBQUhEM3UyNktiX1FmbE95OFpCUjRSRmJIcFFTTGtXOHVqbW5OMlI4dDhfY2tYUVpSSlp0YWxTTXpkclp4LW1XOGduTGRoTXVlNU5oZHZGek45WjJBdVZteWw3WVNDYVNmMXpvcmNDdmhONzlXeUk1S0RwOUs4RFFRazVMTlhxR0RudFVmLWFuY2xvZktnNHAwQmQ3RE1pQnRoZ0cxMW1lYmo4ZHlCR2JXQTltLURTbjN5T3Bndw?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 09:23:48 GMT"
+      "publishedAt": "Wed, 07 Oct 2026 10:30:22 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights: Sensex closes 429 pts, Nifty slips 0.76% as RBI rate hike; Adani Enterprises, Hindalco top losers - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGR5TnlkMndJT083em5pR3REcFoyc3ZqM3pwZGZtWVQwZTFVem55ZUtNX1BybHdxbzlzeldHd0F0SVBhTFF2V1A5bTl4bXBLQjZyaURLZzBwNkdmUUZQS0hWNEtDTTFNOVh2aWVGOGJKX1dsZW1FdFVmWU5oWElJZVJDTHFraWFKYWZQcWd3WEpGWnFrMzBNU2tvUTBqM011SzJISFRIbFV4a2FhUUVoYWIwd19jdmFQWnk2TWJLUzJkNzFnNl800gHOAUFVX3lxTFBROTVuc2NidldCWXgzd3BfRk5DQzBtLXZveHlhV3JnazRwNk9wTnNTWHFoNGRXM24yRlpHaDJJb1VYQVJWZ0Jrem9ibWk0em9BUG5YZFQ5VWtQbmRIZHpQZWF5ZWw2dEsxbjlPM1lUd0IybW1PY3J1bEFzVU12UmhqZHozbl9WSkJTMDdReGxJRmtVVndfY01xSk1pYkltWkRjRVVmdzhpUjJCNWV5NWM0WFd2Z3lsYWpXazB4Mk9wOVZkOUw0U3Y4U3o4ekJ3?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 11:45:44 GMT"
     },
     {
       "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 429 pts lower, Nifty near 22,600; Hindalco drops 3%, Infy 2% - The Economic Times",
@@ -170,34 +197,16 @@
       "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
     },
     {
-      "title": "Stock Market Highlights: Nifty at 22,600, Sensex falls 429 pts after RBI hikes rate for first time in nearly 4 - CNBC TV18",
-      "source": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZy1YSzEwaDdUbjhFREcwMWdpN0RIN2RXT2dfNmlMdmpEV0JoamZQLXdxNWdUeEp4TWxBdFdELVZ0djhoZzlScmd0WjR6dkRGQTlxMjhHcm0yZUZMRzFpRXZnczU1eGVlelMwTnFWZGJmZnREaFRtM2cxcWRXYnNTaXVza0E3SHF1SWxwdlM0OHZ2dl9WMHNyWE1udHd5cUpOZnoxZGFHN2YxMUl1OVV2cUNqYUdpZE5Rc0gzdzBvMlpja3BSRHVJaGVwcUtlbFBWdXJMWS1jREkxNlpoZjl1cTRMc0NxNUxELThsanR2UXJiS2VkSTN0RjZJY1FBRXZ4VzhvMUp3bVZiVFVzeVdCbzdR0gGXAkFVX3lxTFBtaHJIY3FvbThtWlNCaDJGbEk2WThHQ2JTbGVrOE9yT3pqcXdfa3BScVJ6LUNuSDRfZnA2RUVTSDJvUE53ZnFKM2tieTA1cTFFbGlfZmJhOGNHTzZKVkN5My1EWkJuZmVoT29sdXotYzNtTWVHaDZEMVFKRnR4bTBvcnh2Qk1DcWRfemJ2WVFzbk9OY3NKOUlGZEZfbVFTRnRQX0pOc095VlBZUjBVa2tsZkdCbndXbmthVEVfanJGTVNyR1hUc29UeWlxUUMtLUxNQ2tFS0ZyU1F5UkllY2h0ZUdkcmw2R2hXRmlEQ08tOUtSbllwTzY4clpUUGEycndyYXF2cVEteUFLLTZyZTlTeXBJbTFibw?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:15:12 GMT"
-    },
-    {
       "title": "Stock market outlook today, 7 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Kospi, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbGtjekNxdnA5QWRzLW5kQVJBWHR6U0RFQ2JneW9kbmRxM0JCWGw4cHRadzRZM2lldTlhQm5seUxqeUw5a0hzaTBsa0xOUC1hdEZZMm1wQ3ZScFFxYVlKeXdTdjI4bWpNZ2wtZ2pOWHViRG1YWlQ0ZnZhRnd1eThqZlFUblN3MmZYM1JETXdTQURuOGhwLXB2TzBKMkp2d2VET3AzSXRINldlemtxQTlqTmk5NnJqTFRHWG1McDFfZmxDdnFBLVB6eXFFc25VZkljZ2kwbFY1NGtWV3ZPN3E2WlhwVlJMbmUzaldha04zOHFIeUlJWTBJUUUtNGdROTNVbUNtR3dMRdIBjAJBVV95cUxORFBxdEVWTzdMLXE4eERrc2pZSjNxTjQ3cWtHc2NmdXJGNERWdEFOM3doOWk5WFQ3QUxrQW9mOGQxTEx0bXVndThpdzV4MFVVcEtRRkdVdUVYX2lNQzZvTXc3bWNUa3Y4TC1pNWJzYnVKR3FZeEF4VFNFZFlSSThPdnMtY0ViTU95YWdBUWw4N3dTVFY1bTdmc0gwbW1DNlFkUEJqQ3dERE5HQjdjWmJMdEpGa3ppcmJfaTZIWTk3OUI1ZGtVRVEtekZOMDBraHBCM0xsdE9fU2tKazcwZ2NBck9wdXFwU2kwR2pzLWxUYmtNU3pEbmpLbWxWZUxlRGEycVlKZk9JQ1pRQ2Yx?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 01:45:54 GMT"
     },
     {
-      "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUVVRRFFJdzJ5VTFzUmdlalpJVDhrSGRzdzRMYUxqdTh0S3J0QTBSOVBRTjZoeDNEbWZRMm5NdllXdk5jcUlIZjBfSTc1cjRXVVVMalE3cFlLcVp0WllkQm9kcWhuV2hyZjdtdjl0MmZYSDlJSHdMdUNEUUd5QTRBOWF1eFF3VDhrelpvaFlUUURZWW9vLVpaS2p3UkdFem44aDFCLXB6Vzh5RVU1UDU0UHgxZWwzZ0lTT3hxdGdRY25SbUFEeXlybFE0WmJoenZFNno2cDd0UHBvOWlRVVIwQUtweTFtSFhrODZBZUZFQzhyYVZhd3RlOVRyNzJzYUE?oc=5",
-      "publishedAt": "Sun, 04 Oct 2026 14:33:40 GMT"
-    },
-    {
-      "title": "Why is stock market down today? Sensex crashes 500 points - Top 3 factors behind market selloff explained - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcTVBbXFKdXd0b3pQV3dfcmZfZUpnamxSbHpNaEtXTVplR1lMb0FVUlhQOEU4V2p0TW1NTXFmVUExY1c4WThlTzlkVVNXa3lkVTBwTzNseFh2UkM0dzVIS0R2aTBUWmYzZHRhYnoxbS02Ym96UWFqdWpmaGVWbDFyekJ3dzhIRTFCNE5GRGRIUzRwVEdkdERDbVlFMWFvYm1PSkFVTU81RnhaN01XVEpQQ0ZlRFJvVzY4ajZza2Z0TE1qWlpCZTZ2d3RZT0Rha19FYWFESWNfVXNra2lDOEhoQWxBTGNrRUhGQVYxd2xRX0hqMk1uSzRpWGU0TXRrZGl0U1HSAYcCQVVfeXFMTWYxSFBpcEhQVVlUcmtuNDR1LUZ2Q3RDeG5ycUlYbTd1d21wYW5jLXZZenJBc0FEbFA5dE9zSUpQLVJ0M0k0NUd0N1BKdlI5YTJXeWp0Vi0ySWpwNkwtNzdNd014UTBRNVY5ZXdxdG1xSjhmaFVDNURFb0h3NElZalBlZ3ktLWxBTmF3NVlwWGtyalNqeGE1R3FjVGw4QzlUMDlpcWwwYUVrZUY4SDhsUFRaV1p2MzhjbjdjVkZ2WG5pa3B5MnBTWktHVHZaNDZ3OGdSTDg0UmJwcXFzaHdaa2w4OFVTT3RKRHZuUkZLUU00bWNGTE1zUzJKUzNGd3FuTDhOMXBlSlk?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 03:58:10 GMT"
-    },
-    {
-      "title": "Stock Market Crash Highlights: Nifty, Sensex Log 8th Weekly Decline In Record Bear Run; NSE-Listed Cos Face Rs 5 Trillion Mcap Erosion - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbVZ5VzZ3V2xkbGJPeXRZS3lPQ0FWUVVfeVlZNzJnbW40TGZaVElHVldxVWM4VUlydFRfNXRhbGcxZEFmcHVvZHNXWFhSV21FUDNkNUM1LTI3LVRTSlhXUDJsR3FvUWVQeVZ0Qk9FY0U3UXdDcERsQ0NGZXE4MkRYaVFXN1VBTjBMSV9sV3JTVkRBYUJMZ3U5OFRBTlFmdmJBazJ1OTlwTmM3emhTVUJBWjV3Qms0cE5jbGViTUptd242Y1ZNN3U0cGpNdHdEczY5X3hlWDU4T2JpMHpaUm5wY3BMaUFhUXJCQU9DTGJZZnd5VUNWS2RWbXBvMmlyQjVNR19XZEplT0xXWkIt0gGUAkFVX3lxTE5FWE1nc21QSUxXTVhJYWEwdGxDOG95ekdsejVQUjhhbXdwNVlSNVIyRXJGX0ZPZ2hzc3dhUVU5amJqTGRpYV9XS2hZY1pHcGpJWjlsYXY3QjZKY2pQUWc5dEFuY1BGRUVCc3g2TWF6MS10NEhyWDdGTll3TzhsUjFqY2dac3MzVmsxRkZETmRQUDByeTBZOV91SEpiZE5rVms5ZUt1bl9kQXdPN1RqMUotaS1lTjFGY2R2bFlITlNoaHJxT2hBVkRIZ2RkeGFYcTVjSVloZUlONkFPZEplajB6N2dZcGVKXy1oY1p1QlhEWWs2SW1KR2dVVUtLeWV2ZV9RYm00aWtUYm9PcFhvdXhIQWNBcQ?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 10:35:13 GMT"
+      "title": "Stock Market Highlights: Nifty at 22,600, Sensex falls 429 pts after RBI hikes rate for first time in nearly 4 - CNBC TV18",
+      "source": "CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZy1YSzEwaDdUbjhFREcwMWdpN0RIN2RXT2dfNmlMdmpEV0JoamZQLXdxNWdUeEp4TWxBdFdELVZ0djhoZzlScmd0WjR6dkRGQTlxMjhHcm0yZUZMRzFpRXZnczU1eGVlelMwTnFWZGJmZnREaFRtM2cxcWRXYnNTaXVza0E3SHF1SWxwdlM0OHZ2dl9WMHNyWE1udHd5cUpOZnoxZGFHN2YxMUl1OVV2cUNqYUdpZE5Rc0gzdzBvMlpja3BSRHVJaGVwcUtlbFBWdXJMWS1jREkxNlpoZjl1cTRMc0NxNUxELThsanR2UXJiS2VkSTN0RjZJY1FBRXZ4VzhvMUp3bVZiVFVzeVdCbzdR0gGXAkFVX3lxTFBtaHJIY3FvbThtWlNCaDJGbEk2WThHQ2JTbGVrOE9yT3pqcXdfa3BScVJ6LUNuSDRfZnA2RUVTSDJvUE53ZnFKM2tieTA1cTFFbGlfZmJhOGNHTzZKVkN5My1EWkJuZmVoT29sdXotYzNtTWVHaDZEMVFKRnR4bTBvcnh2Qk1DcWRfemJ2WVFzbk9OY3NKOUlGZEZfbVFTRnRQX0pOc095VlBZUjBVa2tsZkdCbndXbmthVEVfanJGTVNyR1hUc29UeWlxUUMtLUxNQ2tFS0ZyU1F5UkllY2h0ZUdkcmw2R2hXRmlEQ08tOUtSbllwTzY4clpUUGEycndyYXF2cVEteUFLLTZyZTlTeXBJbTFibw?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 10:15:12 GMT"
     }
   ]
 }
