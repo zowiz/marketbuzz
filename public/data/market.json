@@ -1,5 +1,5 @@
 {
-  "headline": "Indian Markets Gain as Bank Stocks Rally Ahead of RBI Decision and Easing Crude Prices",
+  "headline": "Indian markets focus on RBI MPC meeting, rising crude oil prices, and stock-specific actions",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,32 @@
     "nextOpen": ""
   },
   "why": [
-    "Bank stocks are lifting Indian markets as crude oil prices ease",
-    "Investors are closely monitoring the upcoming RBI monetary policy decision",
-    "Positive global cues as US markets reach record closing highs",
-    "Large-cap stocks are being favored by analysts amid rising bond yields"
+    "Brent crude oil prices rising above $101 per barrel impacts market sentiment.",
+    "Investors are closely tracking the RBI MPC meeting and Governor Sanjay Malhotra's speech.",
+    "Gift Nifty and global market cues are setting the expectations for Nifty 50 and Sensex.",
+    "Markets previously saw strong momentum with Sensex settling 685 points higher on October 6."
   ],
   "whatHappening": [
-    "Sensex and Nifty 50 closed significantly higher in the previous session on October 6",
-    "September demat account additions dropped to 2.89 million following a market selloff",
-    "S&P projects 12-14% credit growth this fiscal but warns of monsoon risks to rural lending",
-    "Jefferies is shifting preference toward Indian large-cap stocks"
+    "Trent shares jumped 13% to hit a 2-year high following a strong Q2 operational update.",
+    "HCLTech, Ola Electric, Mahindra Lifespace, Godrej Consumer, and Blue Dart Express are listed as key stocks to watch.",
+    "Saudi East-West Pipeline moved 5.8 million barrels as the Red Sea route gradually recovers.",
+    "Pimco is betting on bonds as yields reach 24-year highs."
   ],
   "stocksInNews": [
     {
-      "symbol": "TITAN",
+      "symbol": "TRENT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        2
       ]
     },
     {
@@ -32,135 +40,119 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        3
       ]
     },
     {
-      "symbol": "ADANIPORTS",
+      "symbol": "MAHLIFE",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        3
       ]
     },
     {
-      "symbol": "UTKARSHBNK",
+      "symbol": "GODREJCP",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        3
       ]
     },
     {
-      "symbol": "BHEL",
-      "sentiment": "Positive",
+      "symbol": "BLUEDART",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "RKFORGE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "VOLTAS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        4
+        3
       ]
     }
   ],
-  "summary": "Indian indices are showing strength led by banking stocks and easing crude prices as the market awaits the RBI's policy outcome. While demat account growth slowed in September due to recent volatility, global record highs in US indices are providing a supportive backdrop. Analysts are currently highlighting large-cap opportunities and specific stocks like BHEL and Voltas for today's trade.",
-  "updatedAt": "2026-10-07T01:31:47.186Z",
+  "summary": "Indian benchmark indices track key macroeconomic cues including the RBI MPC policy decision and elevated crude oil prices above $101. Trent leads corporate highlights following a 13% surge on strong Q2 updates. Stock-specific news surrounds HDFC Bank, HCLTech, and Godrej Consumer ahead of the trading session.",
+  "updatedAt": "2026-10-07T01:45:27.818Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-07",
   "articleKeys": [
-    "stocks in news titan hcl tech adani ports and utkarsh sfb",
-    "september demat account addition falls to 289 million amid market selloff",
-    "bank stocks lift indian markets as crude prices ease rbi decision eyed",
-    "jefferies favours indian largecap stocks amid rising bond yields",
-    "five stocks to buy today october 7 bhel ramkrishna forgings voltas and more",
-    "why charging for upi changes the math",
-    "us stocks sampp 500 nasdaq reach record closing highs as focus pivots to earnings",
-    "kalshi launches perpetual futures tied to us 500 stock index",
-    "private credit loses edge as new funding options open up for companies",
-    "sampp projects 1214 credit growth this fiscal warns weak monsoon may hit rural lending",
+    "oil prices today brent crude above 101 heres why prices are rising",
+    "red sea route gradually recovers saudi eastwest pipeline moves 58 million barrels",
+    "can a new ceo solve hdfc banks problems",
+    "stocks to watch today hcltech ola electric mahindra lifespace godrej consumer and blue dart express",
+    "stock market today gift nifty rbi policy to gold rate five key factors for sensex nifty 50 on october 7",
+    "rbi mpc meeting october 2026 date time and where to watch governor sanjay malhotras speech live",
+    "pimco bets on bonds as 24yearhigh yields lure",
+    "gold rate today check 24k 22k gold prices in mumbai delhi bengaluru chennai kolkata on october 7",
+    "stock market today all you need to know before going into trade on october 7",
+    "trent surges 13 to 2year high after strong q2 update",
     "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "stock markets rebound in early trade sensex jumps more than 700 points the hindu",
     "stock market prediction for tomorrow sensex nifty outlook for wednesday kospi taiwan cues to watch 7 oct 2026 tradingview",
+    "stock market today gift nifty rbi policy to gold rate five key factors for sensex nifty 50 on october 7 ndtv profit",
     "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene livemint",
     "ahead of market 10 things that will decide stock market action on wednesday the economic times",
-    "stock market today all you need to know going into trade on october 7 ndtv profit",
     "stock market prediction for today sensex nifty outlook for tuesday kospi taiwan cues to watch 6 oct 2026 livemint",
-    "sensex nifty up today why is indian stock market rising ahead of rbi mpc meeting outcome explained with 3 reasons livemint"
+    "stock market today all you need to know going into trade on october 7 ndtv profit"
   ],
   "articles": [
     {
-      "title": "Stocks in news: Titan, HCL Tech, Adani Ports and Utkarsh SFB",
+      "title": "Oil Prices Today: Brent Crude Above $101. Here's Why Prices Are Rising",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-titan-hcl-tech-adani-ports-and-utkarsh-sfb/articleshow/134746122.cms",
-      "publishedAt": "Wed, 07 Oct 2026 06:00:00 +0530"
+      "link": "https://www.ndtvprofit.com/markets/brent-crude-oil-price-today-above-100-again-heres-why-oil-prices-are-rising-today-12148766#publisher=newsstand",
+      "publishedAt": "Wed, 07 Oct 2026 07:02:45 +0530"
     },
     {
-      "title": "September demat account addition falls to 2.89 million amid market selloff",
+      "title": "Red Sea Route Gradually Recovers: Saudi East-West Pipeline Moves 5.8 Million Barrels",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/september-demat-account-addition-falls-to-2-89-million-amid-market-selloff/articleshow/134752521.cms",
-      "publishedAt": "Wed, 07 Oct 2026 05:47:16 +0530"
+      "link": "https://www.ndtvprofit.com/world/red-sea-route-gradually-recovers-saudi-east-west-pipeline-moves-5-8-million-barrels-12148788#publisher=newsstand",
+      "publishedAt": "Wed, 07 Oct 2026 07:01:22 +0530"
     },
     {
-      "title": "Bank stocks lift Indian markets as crude prices ease, RBI decision eyed",
+      "title": "Can a new CEO solve HDFC Bank's problems?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-lift-indices-ahead-of-rbi-policy/articleshow/134752640.cms",
-      "publishedAt": "Wed, 07 Oct 2026 05:44:19 +0530"
+      "link": "https://finshots.in/archive/can-a-new-ceo-solve-hdfc-banks-problems/",
+      "publishedAt": "Wed, 07 Oct 2026 07:00:41 +0530"
     },
     {
-      "title": "Jefferies favours Indian largecap stocks amid rising bond yields",
+      "title": "Stocks To Watch Today: HCLTech, Ola Electric, Mahindra Lifespace, Godrej Consumer And Blue Dart Express",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-favours-indian-largecap-stocks-amid-rising-bond-yields/articleshow/134752755.cms",
-      "publishedAt": "Wed, 07 Oct 2026 05:41:58 +0530"
+      "link": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-hcltech-ola-electric-mahindra-lifespace-godrej-consumer-and-blue-dart-express-12148108#publisher=newsstand",
+      "publishedAt": "Wed, 07 Oct 2026 07:00:01 +0530"
     },
     {
-      "title": "Five Stocks To Buy Today October 7: BHEL, Ramkrishna Forgings Voltas, And More",
+      "title": "Stock Market Today: Gift Nifty, RBI Policy To Gold Rate — Five Key Factors For Sensex, Nifty 50 On October 7",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-today-october-7-bhel-ramkrishna-forgings-voltas-dabur-go-digit-general-insurance-12148143#publisher=newsstand",
-      "publishedAt": "Wed, 07 Oct 2026 05:25:04 +0530"
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-gift-nifty-rbi-policy-to-gold-rate-five-key-factors-that-may-drive-sensex-nifty-50-on-october-7-12148780#publisher=newsstand",
+      "publishedAt": "Wed, 07 Oct 2026 06:58:39 +0530"
     },
     {
-      "title": "Why charging for UPI changes the math",
+      "title": "RBI MPC Meeting October 2026: Date, Time And Where To Watch Governor Sanjay Malhotra's Speech LIVE",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/opinion/op-ed/why-charging-for-upi-changes-the-math/article71552957.ece",
-      "publishedAt": "Wed, 07 Oct 2026 01:56:44 +0530"
+      "link": "https://www.ndtvprofit.com/economy/rbi-mpc-meeting-october-2026-date-time-and-where-to-watch-governor-sanjay-malhotras-speech-live-12148762#publisher=newsstand",
+      "publishedAt": "Wed, 07 Oct 2026 06:54:16 +0530"
     },
     {
-      "title": "US stocks: S&amp;P 500, Nasdaq reach record closing highs as focus pivots to earnings",
+      "title": "Pimco bets on bonds as 24-year-high yields lure",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-reach-record-closing-highs-as-focus-pivots-to-earnings/articleshow/134749835.cms",
-      "publishedAt": "Wed, 07 Oct 2026 01:40:11 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/pimco-bets-on-bonds-as-24-year-high-yields-lure/articleshow/134753343.cms",
+      "publishedAt": "Wed, 07 Oct 2026 06:52:44 +0530"
     },
     {
-      "title": "Kalshi launches perpetual futures tied to US 500 stock index",
+      "title": "Gold Rate Today: Check 24K, 22K Gold Prices In Mumbai, Delhi, Bengaluru, Chennai, Kolkata On October 7",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/kalshi-launches-perpetual-futures-tied-to-us-500-stock-index/articleshow/134749721.cms",
-      "publishedAt": "Wed, 07 Oct 2026 01:12:01 +0530"
+      "link": "https://www.ndtvprofit.com/markets/gold-rate-today-check-24k-22k-gold-prices-in-mumbai-delhi-bengaluru-chennai-kolkata-on-october-7-12148753#publisher=newsstand",
+      "publishedAt": "Wed, 07 Oct 2026 06:52:39 +0530"
     },
     {
-      "title": "Private credit loses edge as new funding options open up for companies",
+      "title": "Stock Market Today: All You Need To Know Before Going Into Trade On October 7",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/private-credit-loses-edge-as-new-funding-options-open-up-for-companies/articleshow/134753091.cms",
-      "publishedAt": "Wed, 07 Oct 2026 00:42:05 +0530"
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-october-7-12148014#publisher=newsstand",
+      "publishedAt": "Wed, 07 Oct 2026 06:51:46 +0530"
     },
     {
-      "title": "S&amp;P projects 12-14% credit growth this fiscal, warns weak monsoon may hit rural lending",
+      "title": "Trent surges 13% to 2-year high after strong Q2 update",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sp-projects-12-14-credit-growth-this-fiscal-warns-weak-monsoon-may-hit-rural-lending/articleshow/134753069.cms",
-      "publishedAt": "Wed, 07 Oct 2026 00:29:10 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-surge-nearly-13-on-robust-q2-updates/articleshow/134753290.cms",
+      "publishedAt": "Wed, 07 Oct 2026 06:43:02 +0530"
     },
     {
       "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
@@ -187,6 +179,12 @@
       "publishedAt": "Tue, 06 Oct 2026 13:34:29 GMT"
     },
     {
+      "title": "Stock Market Today: Gift Nifty, RBI Policy To Gold Rate — Five Key Factors For Sensex, Nifty 50 On October 7 - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa3hucG1MbGJ3QmdDelFwcEtRVDdTVDh1Z0ZSdTljYkJPeTloVUpOOVowMUk1bFRBQWV1VEUzQXpfTWpwZjJWWTM1RW1IMGszamZZYUxKTDVrV3h4M2FIeEJfQVBLX192bV8yckNLdERlYWlFa3lNOXR5aW9QSFNWZjluZGd6Vk1XdmhjNFNjVXRiR19INWVPc3NYWGdBdzRYSlhWemhFV2g4RkZUUXJlckFmVnRwRGJieXJUN0htT2dYdVdlYjFWdmJDbzZvYkcxdlk5YjZGMWxfX2EyVGJoUjJTN0JnS3dUbC0xeHJoTdIB9wFBVV95cUxQZGd2SnU0Ukl1bjBuVlJZSWROVGxUN091Vkh0b3VYWm1JQ2VqVGNmMy1aT1N0Vm1hdTQ2NFNoUnFWOVVfY2NlVG1Ta2V0VktOUXNiQldoeDNhd1JJdWE0eGRYZktGMDdGWFRaeG5pc3RDMWszbEpVMmRoeGMycmtZS3gxbUFMc2J5S2dLbmZfU3pIU3hBZlRlODBSWVhDTU01MDNVOHdYQWN3NE16MDJma0x4WVo3TUdQdi1Odm52a3JmWUNjY1VXOXV2TElkNFR2U3UxQ1VxY2JCUXlKNmVCbTMxTC1WV2tFU3k0Xzl5ZExZR1VkMTNB?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 01:28:39 GMT"
+    },
+    {
       "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNd0NvRVRSTDduVC1XRTZSdGF4N25IeTIzSVVRX2FTOVdyakkxTkd4aU9ZWDgzM2tiTDI4dG9meHNRbmJQNEtiOFdrd0R4ZzhGYUlMaC1pbkFkLTM1UXdydnpvYWxaanE5Z2MtRkpvV01ZeV91YkFuYkVPdXVLT1hYdTNvNER4WWtkcmlUVV93dEtUSldpRmFPbUp4YjUway1BcDJuQVJfS21tcWtLSE9vX051N1I4enFFanFrY0hmUFhSeW5ZSE5wVThybElpTFFGT202QllJdnVPUm0xMFV0Nm9HM3BJZDRlSnNjRXdrbi11N3plak83N0ZhN1Fhd01kWloxcW5MekFIZEZNbmRZOdIBlgJBVV95cUxOUm1GN0VHQ201M1JmT3JES3FLOVA3UkM2X1RjOS1zMGs3MlNkcmFjOWNTUTZWUU5MN2FtRFFUVThDTjhOQm5ZNVJSSFFnRWZ1Mk94dUx5NmhDX2VIMjhHZTgweTBCQURQdkNEVHhGMDM1eXBmRDZfcnRzOFFXanNZQ3NSRHB1aVkwM3h6N05TaEZDcTNmZzlURjF6R1BaRlIxTVhzQjJnRmowb3h2UWpWU2laSmgyY2ZUNjNTc1EwVjNvSzlicFRmQ1Nzbk9hTDI2UjN4QXVCQXItYVhrYi1xNjhNeERVb1kyam8xeXFhTHRLZHI3V0RreFdMbXhlRDlyOWNKWnFGanlib1hxYzhiNnZsMVg1Zw?oc=5",
@@ -199,22 +197,16 @@
       "publishedAt": "Tue, 06 Oct 2026 15:40:54 GMT"
     },
     {
-      "title": "Stock Market Today: All You Need To Know Going Into Trade On October 7 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcm5ESnV3SFZpb0hFQm5tOWE4Ty1pYUN0NmNtN2RGNnVqQjU0WEo2UXQyd0hoNzBuTV93SVJEU1dCNWljQWxqRkhUeE82SjJLd1JydXhudmJMX0lTNVVIWTFkcWVmYXk4STFoRlhyTWx6T29PWFNGN0FHdjBScUU4RDRlenZFZE5RY3oxOFhrZFp0eXc5TVlKSmJFdnEyendzaFZrZGJvYXpEblM1a1VFY0g2QdIBuwFBVV95cUxNcGR0N0JQSXdqQmdycEFwa2R4dFp6LVQ1SklyWHZiR2VGT0hvbDk0dFN3TktEVkg4UnhLTXktbHJSSUc2SGpYLXZrUTZUeTZNNjRnOU90Y1ZUMFB1ZXFhWF9sTVNhNXlOZ3E2MDJLanJDV0xLMjFTVHB6djNtdkNBckdaMFJiWWQ3QkN1bUtFUm9BS3hDT1g5Y3p5UjFxTE9HWWJ5MGtEYXBqQ0FsVTdVSjQzdXFQNFdsRVFv?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 00:30:01 GMT"
-    },
-    {
       "title": "Stock market prediction for today: Sensex, Nifty outlook for Tuesday | Kospi, Taiwan cues to watch | 6 Oct 2026 - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSWY1ZEZmSmY1SW0xX080ckZUeGJBRE5wMGVDczNWaEF3M0M2UnRsWjdqZGY5LXc5aVFSTkRiXzVIRDA2X2VpVEpVclQzLWUtX2JqYTVrbUxGNXNMei0xT2JjSHl0c3NKTFM0akowQnB3UFZwX0lnbHBQVkJDWFB3SW9lVks0QnNoc1BKa2w3YWg0VnMxN0ZCWGstLXVWN2hySWlZc3JFM3lVMFlOWjVjalUtWU5EMm9GUS1jOFJDNl9vX2QybGFFUVhvaTM1VVVTWF9jMUxOSDlTR1d2TEFlamU2VHJWWEk3YkpxeEVnUHdYY081UnVlaU5zdGhsN2tvX2RJc0ItSHTSAY4CQVVfeXFMT1JHb1VNQWdPdkdfSDl5RVJGd3k3LTBtTXptX05kQWU3ZEVvYlFjSTlCRkhyNFZqaGRNTWRXa3V4bjMwNThYc2VMZWZ3Y2x3SDFEbktma1p2eUJESl91U05sSy1wMS0tZnQtMl9zd2RONWN2aFlrc1ZXQmdKTzNxTERpQ25jYnNWV09wUF80U1lWWGJ3Qk9YMVpFZUlfZUlneHQ5cGtUUDZMdkhzNTRnSkdMNVhUck16Wi1QNDZ5OFd3eEFMUGdWNXg4TmJaZGRINFhUa2V4YXR4eU5DVHdVd3o3aW9mdUpnaU9HSWJEdkV4clNDdkdUaC14RHVKNHZMV0JVT004dEtTVS1jQnhB?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 10:22:44 GMT"
     },
     {
-      "title": "Sensex, Nifty up today: Why is Indian stock market rising ahead of RBI MPC meeting outcome? Explained with 3 reasons - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMmF0TGdKVDhMZFppQ1ZaWGdBWjRld0x4aTJHRTl5OWMyd1d3ZUZQTF9PeERyT2p1aGtlLVluYmdES0FjaTBIN0NlMk5KSHctMnhnVVVQaEFhVTU0YXBLZHJoMUptY216SHJudW9oU3llX280RWtiVEFGNldkWTlvYmdtaDZSZ2FfZmpvZzRYb0IwQ19kUW5mVVk1TkNSMzE0cm1QcjdOem8tNWlYcDNDWVNyY1FPb0FMTWZ6ekJBejJyWWl2NmhqQVNRQXNpUUpTZDU1VkVNWEZtVFhGSzBTYTZIbEZlUHFJdVpmTmFLZjUzRHh5SHRFUkJGQXRLTTRKY0Q1UGFGR2RldjN5Z2tubNIBlgJBVV95cUxNNjZFZmdwQVhHZElndVhuUG1fdXk2QXFZS25zbFNIZ3JDT1luVElkN2t5bFZ4bTRIQUJRNGtBLUUzWkppODcwQ09JZXdDQjhxcGVKaDBJdlh6cmR3U0Z4c1h1OS1hTG9abW11dC1RWFJVemVWbGtVQVFMa1VUSmV4UzVmM04yOE9TcjFScmtCWmNwVkE0djdhZHNlZWxLMXZNelAxVnJ4bGVRR191V3VrcFUzSmtsTGJ6OUNuTDRSZGExVm02UllqblFXSWpEeDZkdlRHQnVuRkFtVzBPRjBaaVJwUXo4TThwV3pIOXFJM3ZHM1V3N21OY0V4bnMwd3lqbFl6Ym9SS3U0b0tkbHFrTjV5Q0g4QQ?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 08:45:03 GMT"
+      "title": "Stock Market Today: All You Need To Know Going Into Trade On October 7 - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcm5ESnV3SFZpb0hFQm5tOWE4Ty1pYUN0NmNtN2RGNnVqQjU0WEo2UXQyd0hoNzBuTV93SVJEU1dCNWljQWxqRkhUeE82SjJLd1JydXhudmJMX0lTNVVIWTFkcWVmYXk4STFoRlhyTWx6T29PWFNGN0FHdjBScUU4RDRlenZFZE5RY3oxOFhrZFp0eXc5TVlKSmJFdnEyendzaFZrZGJvYXpEblM1a1VFY0g2QdIBuwFBVV95cUxNcGR0N0JQSXdqQmdycEFwa2R4dFp6LVQ1SklyWHZiR2VGT0hvbDk0dFN3TktEVkg4UnhLTXktbHJSSUc2SGpYLXZrUTZUeTZNNjRnOU90Y1ZUMFB1ZXFhWF9sTVNhNXlOZ3E2MDJLanJDV0xLMjFTVHB6djNtdkNBckdaMFJiWWQ3QkN1bUtFUm9BS3hDT1g5Y3p5UjFxTE9HWWJ5MGtEYXBqQ0FsVTdVSjQzdXFQNFdsRVFv?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 00:30:01 GMT"
     }
   ]
 }
