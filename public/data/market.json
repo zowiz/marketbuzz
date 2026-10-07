@@ -1,5 +1,5 @@
 {
-  "headline": "Indian Markets Slide as Unexpected RBI Rate Hike and Hawkish US Fed Signal Weaken Investor Sentiment",
+  "headline": "Indian stock markets face selling pressure following RBI rate hike and hawkish global cues",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -8,31 +8,24 @@
   },
   "why": [
     "RBI hiked interest rates for the first time in nearly four years, triggering market selling.",
-    "Foreign investors withdrew $26.3 billion from emerging markets in September as hawkish Fed policy pushed US Treasury yields higher.",
-    "US Fed minutes signaled another potential rate hike before year-end as US inflation remains persistent.",
-    "Losses in major stocks including Hindalco, Infosys, and Adani Enterprises weighed on broader market indices."
+    "US Fed minutes signaled another rate hike by year-end as inflation remains high.",
+    "Rising US Treasury yields caused foreign investors to pull out $26.3 billion from emerging markets in September.",
+    "Major heavyweights like Hindalco, Adani Enterprises, and Infosys faced notable decline."
   ],
   "whatHappening": [
-    "BSE Sensex dropped 429 points while NSE Nifty settled near the 22,600 mark following the RBI rate decision.",
-    "Hindalco declined 3% and Infosys dropped 2%, making them among top losers on the benchmark index.",
-    "An IndiGo flight operating Patna-Lucknow suffered nose damage from a mid-air lightning strike but landed safely.",
-    "RBI report highlighted that India's rural economy is increasingly decoupling from monsoon shocks."
+    "Sensex dropped 429 points while Nifty settled around 22,600 after the RBI rate announcement.",
+    "Hindalco declined by 3% and Infosys fell 2%, leading market losses.",
+    "RBI report noted that India's rural economy is increasingly decoupling from monsoon shocks.",
+    "US markets closed lower off record highs as Treasury yields continued to climb."
   ],
   "stocksInNews": [
     {
-      "symbol": "INDIGO",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
+      "symbol": "HINDALCO",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        7
+        15,
+        16
       ]
     },
     {
@@ -44,28 +37,36 @@
       ]
     },
     {
-      "symbol": "HINDALCO",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        15,
-        16
-      ]
-    },
-    {
       "symbol": "INFY",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         16
       ]
+    },
+    {
+      "symbol": "INDIGO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
+      ]
     }
   ],
-  "summary": "Indian equities fell sharply as Sensex dropped 429 points following the RBI's interest rate hike. Hawkish US Fed minutes and large foreign portfolio outflows from emerging markets added pressure. Top stock drag came from Hindalco, Infosys, and Adani Enterprises.",
-  "updatedAt": "2026-10-07T20:31:26.466Z",
+  "summary": "Indian benchmark indices closed sharply lower after the RBI increased interest rates for the first time in nearly four years.\nGlobal markets added pressure as hawkish Fed signals and rising US Treasury yields accelerated foreign capital outflows from emerging markets.\nHeavyweights including Hindalco, Infosys, and Adani Enterprises dragged the indices down amidst cautious investor sentiment.",
+  "updatedAt": "2026-10-07T21:01:35.760Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-08",
   "articleKeys": [
+    "us stocks us market ends lower off record highs as treasury yields climb",
     "property taxation needs structural reform",
     "us fed minutes signal another rate hike by yearend as inflation stays high",
     "elon musk alleges oligarch interference in starlinks india launch",
@@ -75,7 +76,6 @@
     "indias rural economy decoupling from monsoon shocks says rbi report",
     "tata aeris cng mileage can it really give 39 kmkg check official mileage stats",
     "euro nears 17month low as dollar strengthens ahead of us fed minutes",
-    "musk blames certain oligarchs for delay in starlinks entry into india",
     "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
     "closing bell nifty above 22500 sensex gains 473 pts media banks shine pharma drags moneycontrolcom",
     "stock market today live updates markets end in green sensex gains 473 points nifty rises 134 points the times of india",
@@ -88,6 +88,12 @@
     "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 cnbc tv18"
   ],
   "articles": [
+    {
+      "title": "US stocks: US market ends lower, off record highs, as Treasury yields climb",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-lower-off-record-highs-as-treasury-yields-climb/articleshow/134774342.cms",
+      "publishedAt": "Thu, 08 Oct 2026 01:40:05 +0530"
+    },
     {
       "title": "Property taxation needs structural reform",
       "source": "Zerodha Pulse",
@@ -141,12 +147,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/euro-nears-17-month-low-as-dollar-strengthens-ahead-of-us-fed-minutes-12153195#publisher=newsstand",
       "publishedAt": "Wed, 07 Oct 2026 23:20:44 +0530"
-    },
-    {
-      "title": "Musk blames 'certain oligarchs' for delay in Starlink's entry into India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/starlink-india-launch-approvals-security-clearance-gateways-spacex-126100700481_1.html",
-      "publishedAt": "Wed, 07 Oct 2026 23:20:37 +0530"
     },
     {
       "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
