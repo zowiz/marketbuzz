@@ -1,5 +1,5 @@
 {
-  "headline": "Indian Markets Under Pressure as Nifty Hits 52-Week Low Following RBI Rate Hike and IT Sector Concerns",
+  "headline": "Indian markets face volatility as RBI rate hike and US IT visa suspensions dampen investor sentiment",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,25 +7,33 @@
     "nextOpen": ""
   },
   "why": [
-    "The RBI hiked interest rates for the first time in nearly four years to address inflation concerns.",
-    "Major Indian IT firms face suspension from the US green card (PERM) programme, impacting sentiment.",
-    "Rising crude oil prices and high US bond yields are weighing heavily on global and domestic markets.",
-    "Concerns over a potential steep hike in rice prices and eroding housing demand due to high mortgage rates."
+    "RBI hiked interest rates for the first time in nearly four years to combat inflation.",
+    "Major Indian IT firms face suspension from the US green card programme, affecting talent mobility.",
+    "Nifty hit a fresh 52-week low following a significant market sell-off and crash.",
+    "Global sentiment is weak due to rising crude oil prices and high US Treasury yields."
   ],
   "whatHappening": [
-    "Nifty 50 has breached the 22,600 level and hit a fresh 52-week low following a sharp sell-off.",
-    "The Sensex plummeted over 1,000 points in a single session, snapping previous winning runs.",
-    "Metal and consumer durable stocks, including Hindalco and Titan, have emerged as top laggards.",
-    "US tech stocks are dragging global indices lower amid reports of revenue declines at major AI firms."
+    "Cochin Shipyard secured a major international order to build 40 ships for several nations.",
+    "TCS, Infosys, and Wipro are navigating the impact of the US PERM ban on green card processing.",
+    "Adani Enterprises, Hindalco, and Titan emerged as top losers in recent trading sessions.",
+    "Elon Musk questioned the Starlink authorization process in India, citing potential bias towards local giants."
   ],
   "stocksInNews": [
+    {
+      "symbol": "COCHINSHIP",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        6,
-        7
+        7,
+        8
       ]
     },
     {
@@ -33,8 +41,8 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        6,
-        7
+        7,
+        8
       ]
     },
     {
@@ -42,7 +50,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        7
+        8
       ]
     },
     {
@@ -66,7 +74,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        17
+        15
       ]
     },
     {
@@ -74,15 +82,16 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        3
+        4
       ]
     }
   ],
-  "summary": "Indian markets are facing significant volatility with the Nifty hitting a 52-week low after the RBI's first rate hike in nearly four years. The IT sector is under pressure following reports of a US green card programme suspension for major firms like TCS and Infosys. Global cues remain weak due to rising crude prices and high US mortgage rates affecting investor confidence.",
-  "updatedAt": "2026-10-08T22:21:05.558Z",
+  "summary": "The Indian stock market is experiencing significant volatility, with the Nifty hitting a 52-week low following a surprise RBI rate hike. Major IT firms like TCS and Infosys are facing headwinds due to US green card programme suspensions. However, Cochin Shipyard provided a positive highlight by securing a major international order for 40 ships.",
+  "updatedAt": "2026-10-08T23:34:23.949Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-09",
   "articleKeys": [
+    "cochin shipyard gets order to build 40 ships from us germany norway other nations sonowal",
     "us stocks sampp 500 nasdaq end lower as crude prices jump chip stocks weigh",
     "tech stocks drag nasdaq lower on report of openai revenue fall high yields",
     "adequate response on the rbi and inflation",
@@ -92,19 +101,24 @@
     "cognizant infy tata among it firms suspended for us green card programme",
     "working at tcs infosys wipro on h1b and waiting for a green card heres what the perm ban means for you",
     "math association accuses open ai of plagiarism copyright violation urges mathematicians not to work with firm",
-    "rice millers fear steep hike in rice prices",
     "why did market crash today nifty hits fresh 52week low sensex tanks over 1000 pts 7 triggers behind r the economic times",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
     "stock market today live updates bse sensex tumbles 400 points nse nifty50 closes below 22670 the times of india",
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom",
-    "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
-    "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 cnbc tv18",
     "stock market highlights sensex nifty snap 2day winning run smids mixed titan top loser ndtv profit",
-    "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom",
-    "why is stock market down today sensex crashes 500 points top 3 factors behind market selloff explained livemint"
+    "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 cnbc tv18",
+    "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
+    "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard",
+    "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Cochin Shipyard gets order to build 40 ships from U.S., Germany, Norway, other nations: Sonowal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/cochin-shipyard-gets-order-to-build-40-ships-from-us-germany-norway-other-nations-sonowal/article71561344.ece",
+      "publishedAt": "Fri, 09 Oct 2026 02:37:03 +0530"
+    },
     {
       "title": "US stocks: S&amp;P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
       "source": "Zerodha Pulse",
@@ -160,12 +174,6 @@
       "publishedAt": "Thu, 08 Oct 2026 23:19:51 +0530"
     },
     {
-      "title": "Rice millers fear steep hike in rice prices",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/rice-millers-fear-steep-hike-in-rice-prices/article71560973.ece",
-      "publishedAt": "Thu, 08 Oct 2026 23:16:04 +0530"
-    },
-    {
       "title": "Why did market crash today? Nifty hits fresh 52-week low, Sensex tanks over 1,000 pts. 7 triggers behind R - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZzlsa0lxZTQ5aTd4RFhxLU5rXzl3d0kyYmZXQTZXbDNpaG45d3FMVTJ2b2FjV083a0ZFQWhycGxKN2gzTkk3Ny1mVHJsX3BMdlBqOGpzZ2k2NjgtU0Jvd1J1bnlPSTdiMGdOOW11UjdMUWRWa0g5VGpwWm54MjctNE9HdEVCMGdoRkFYZ194ZFg4bXl4YlpmdnFJRndIblNOOE5KWVVBZEF6QWhTV2tBRVJxSVFZRXVfbnRsOTdCUTlEbk5XSm1wZG51N01CTElKeFJDdGR6MUFYOUt0N2xSaWJOZEpkdmRmV2VkS2JENzdiS09BbXM5WV9Ca2dEaUVuek4wa3Bpb2ZQSnk5QlB1QVdjYXRBWEhYX0YxWdIBogJBVV95cUxQMTRkWHRHZHpIYVMzUXVseW9tcUZrZVJxVi0xck9yc3VjR3gyaU01TXA2MkFTSzNXYWNxLXBteHdvdWJPSVVleEw5aWFSTkJWVkVueld0em9Wb1BKWGZKODJxcWJ4WFlLYklMM2ZvR3FIN0ppY2JLVXBDbEpmaFBLMGNPRk5ybXJWWE5nQnA3T3lqV0RISDlJZzE1NVpicGlISHV5Wm9oV2NfVjRLMTJhbmNoVWxERlowWjRWeGxGV0hiQk9WS1A4Z1ZBNWFpM1hmVUUtS1NDNzYybUFLanprM2VKSEhCb0w5aTRxbHFyLXhPcENseElCcDRJcHo1VHdCNk9sNUZTcmw0TEIxWmdzWTlKcWlnWGM5UWdOc21mME9PUQ?oc=5",
@@ -196,10 +204,10 @@
       "publishedAt": "Wed, 07 Oct 2026 10:55:08 GMT"
     },
     {
-      "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjdLa1Q4STc5UFU5VzcxNWpmcHBDaXd3U1ktUkJhTUk0ZjlJRHZ6YWtzTkRhNDg0WFlELXdwLUlkMkVCYm1GUHhQNUlwazJHWlZIaVlhZmVBcGdOVHZsNFd2QUg5VXJkNjRKSzlvMnc3dWN0SjVFTnlidVVZMzctRjdEVzF4X3B0TEpUNURhcHFRV2ZMb3VDUGtnNDZhNXdIQWNlTTBHRGZPXzNkLUVXY1ZONFNHYjhqbFQwS0JqMGROVjE2bmZJ0gHOAUFVX3lxTE8wN3RPazNfT2JQaWdsVUpBb01Jd1FBTU9qYkZrNnZ2eENBY1UwSTBwOU1FWEcteXJ3RDNBME40TTRJTGdWOGxRVGl6TC1FTTkzenVWTFczZ2Q4c19jSXcyU3VfdFVwdzVZaktpa0hsRWIyZWtRbkVYcWdtWHpUTWd2MWFlTG4xVWhTY1o3czQ0RmF6NU5xTXNTRUdPZXhTNGVlT1Z6TXZHUHN0aVlmeTVBalhXdVBYdl96OGxaSksyQ19wMks2em5jNDZOdDFn?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 12:39:41 GMT"
+      "title": "Stock Market Highlights: Sensex, Nifty Snap 2-Day Winning Run; SMIDs Mixed; Titan Top Loser - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV201N0J2ODk1UnVQTWQ2UHprOEl4eGxPOHp1ald1Q1hySWNTcS1OVVo1MjlrSXhqUEVIbTZDVUhQajhKZ2xFVTZIMHZEbHRiUHNfUmVQeHJuWVFLYkZYbm5OUVZGWkh1WlVmUlM0OUc0YUc1ZThjUEplZ1ZIYVBzVDRKUFZYRDlJNGpKQ0xzaDB1ZUNvSWN1T3hUZG12Q0t6RFV2Qzd6TjcxTXdaUzJ6MmtKdHZ4bU92M0t1NWZwemVUbXVFNGFNTEJmdXdzSEdCdFlN0gHbAUFVX3lxTE9Hc3dEbVUyamJ5d0JGZnlwdU0ydHdVWkpkUTdZckFFOGF2eTE5ZzY5c21LSENic1dQZTc4MHJLeVZ5SVRwMXR6QjhUSmtoaF9YQmhrdnhobjNzX1l3NFFWTmtScjNxZGxCWVB2eEd0cnZ4ellGdzBVRGhlb2hud3g3UzRPWWx1T1Z4OWVYZ3NlTjJfT3ZIclFnOExuQ1NkcHpNeEZ4NWx0aFRxRjEzeHBiQVBheWo4S3JNdThmVWRsbXBZcVBfV25Ybm1DQkUtOEMyOC1Hc1N5Q2hqQQ?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 10:14:40 GMT"
     },
     {
       "title": "Stock Market Highlights: Nifty at 22,600, Sensex falls 429 pts after RBI hikes rate for first time in nearly 4 - CNBC TV18",
@@ -208,22 +216,22 @@
       "publishedAt": "Wed, 07 Oct 2026 10:15:12 GMT"
     },
     {
-      "title": "Stock Market Highlights: Sensex, Nifty Snap 2-Day Winning Run; SMIDs Mixed; Titan Top Loser - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV201N0J2ODk1UnVQTWQ2UHprOEl4eGxPOHp1ald1Q1hySWNTcS1OVVo1MjlrSXhqUEVIbTZDVUhQajhKZ2xFVTZIMHZEbHRiUHNfUmVQeHJuWVFLYkZYbm5OUVZGWkh1WlVmUlM0OUc0YUc1ZThjUEplZ1ZIYVBzVDRKUFZYRDlJNGpKQ0xzaDB1ZUNvSWN1T3hUZG12Q0t6RFV2Qzd6TjcxTXdaUzJ6MmtKdHZ4bU92M0t1NWZwemVUbXVFNGFNTEJmdXdzSEdCdFlN0gHbAUFVX3lxTE9Hc3dEbVUyamJ5d0JGZnlwdU0ydHdVWkpkUTdZckFFOGF2eTE5ZzY5c21LSENic1dQZTc4MHJLeVZ5SVRwMXR6QjhUSmtoaF9YQmhrdnhobjNzX1l3NFFWTmtScjNxZGxCWVB2eEd0cnZ4ellGdzBVRGhlb2hud3g3UzRPWWx1T1Z4OWVYZ3NlTjJfT3ZIclFnOExuQ1NkcHpNeEZ4NWx0aFRxRjEzeHBiQVBheWo4S3JNdThmVWRsbXBZcVBfV25Ybm1DQkUtOEMyOC1Hc1N5Q2hqQQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:14:40 GMT"
+      "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjdLa1Q4STc5UFU5VzcxNWpmcHBDaXd3U1ktUkJhTUk0ZjlJRHZ6YWtzTkRhNDg0WFlELXdwLUlkMkVCYm1GUHhQNUlwazJHWlZIaVlhZmVBcGdOVHZsNFd2QUg5VXJkNjRKSzlvMnc3dWN0SjVFTnlidVVZMzctRjdEVzF4X3B0TEpUNURhcHFRV2ZMb3VDUGtnNDZhNXdIQWNlTTBHRGZPXzNkLUVXY1ZONFNHYjhqbFQwS0JqMGROVjE2bmZJ0gHOAUFVX3lxTE8wN3RPazNfT2JQaWdsVUpBb01Jd1FBTU9qYkZrNnZ2eENBY1UwSTBwOU1FWEcteXJ3RDNBME40TTRJTGdWOGxRVGl6TC1FTTkzenVWTFczZ2Q4c19jSXcyU3VfdFVwdzVZaktpa0hsRWIyZWtRbkVYcWdtWHpUTWd2MWFlTG4xVWhTY1o3czQ0RmF6NU5xTXNTRUdPZXhTNGVlT1Z6TXZHUHN0aVlmeTVBalhXdVBYdl96OGxaSksyQ19wMks2em5jNDZOdDFn?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 12:39:41 GMT"
+    },
+    {
+      "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
     },
     {
       "title": "Closing Bell: Nifty above 22,700, Sensex gains 685 pts ahead of RBI policy - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRURscmhwaTVEdDc2N3VsdmdmMXpBTEJHV21icXZodDF4ZWpIWTZBakVGR3pJTUNUSGREem55aFpkd1BiVjE3eThrOEhOMWJ0M3poRGpVVm9Oa3JFRTZGbmc1X2dYY1dLakJqYlVJcUJSUERla21TOVVBYXVlY3BkRU9ISERjLWdPRGV6NTZNRUlHMFJPS2c2OGUtRGlmQzhnZW9Bc2lOSjlqbTRIbEk1ZFYwOFRkcHhiMDZzY0tURjl4cEFrb1VFSEd4LUJ3OXllaXZzMFZFY0tXajVlWjJ3dm9qelBJMWJDU0N1NmF1N0wxRFlCN2VNRzdCd3lscWExMUl2UHRrb1NEb2FRRkZKd0JCUjMwQUJFU09NRFJ3MUYxLUXSAagCQVVfeXFMT1ZyWXNnc3c3SlRBSWpVSzZCWVNmRHpxbmFuTkY4aHlnUkNqdThPUnpaOFZ0a1I2V04yLVBkQVhRbVNUcV8tVUdEcExIb0s5eGdvWjlTMEI0amN3NUhIVlRxRG8yVUI2WFlyWnF5Rk52YWNTc1NMWDIxbjR3T2F4OEg1c3hsdjk4UEZDaFA4U3BPVlMtRXZJTDR3b1dDckYtYjFHZ25IbkpaMkZfbGJxU2hfMzJvZzJSY0JDV1lJT0hqRDFJY1lreU82bHV5NFg5aTBvb2tFYlNOcHZLV3RzV3JVeUVnNEFRQzUtTHNYUW1SN1ZjUkdEcGJUSTRZOFNtVVB1U19fUWhTcWNwRkxQLVN3eFpXVWQxWnEyY0lXS0lpcGd2TjBFWlA?oc=5",
       "publishedAt": "Tue, 06 Oct 2026 10:46:52 GMT"
-    },
-    {
-      "title": "Why is stock market down today? Sensex crashes 500 points - Top 3 factors behind market selloff explained - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcTVBbXFKdXd0b3pQV3dfcmZfZUpnamxSbHpNaEtXTVplR1lMb0FVUlhQOEU4V2p0TW1NTXFmVUExY1c4WThlTzlkVVNXa3lkVTBwTzNseFh2UkM0dzVIS0R2aTBUWmYzZHRhYnoxbS02Ym96UWFqdWpmaGVWbDFyekJ3dzhIRTFCNE5GRGRIUzRwVEdkdERDbVlFMWFvYm1PSkFVTU81RnhaN01XVEpQQ0ZlRFJvVzY4ajZza2Z0TE1qWlpCZTZ2d3RZT0Rha19FYWFESWNfVXNra2lDOEhoQWxBTGNrRUhGQVYxd2xRX0hqMk1uSzRpWGU0TXRrZGl0U1HSAYcCQVVfeXFMTWYxSFBpcEhQVVlUcmtuNDR1LUZ2Q3RDeG5ycUlYbTd1d21wYW5jLXZZenJBc0FEbFA5dE9zSUpQLVJ0M0k0NUd0N1BKdlI5YTJXeWp0Vi0ySWpwNkwtNzdNd014UTBRNVY5ZXdxdG1xSjhmaFVDNURFb0h3NElZalBlZ3ktLWxBTmF3NVlwWGtyalNqeGE1R3FjVGw4QzlUMDlpcWwwYUVrZUY4SDhsUFRaV1p2MzhjbjdjVkZ2WG5pa3B5MnBTWktHVHZaNDZ3OGdSTDg0UmJwcXFzaHdaa2w4OFVTT3RKRHZuUkZLUU00bWNGTE1zUzJKUzNGd3FuTDhOMXBlSlk?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 03:58:10 GMT"
     }
   ]
 }
