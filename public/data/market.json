@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Hits Three-Year Low as Rising Crude Prices and RBI Rate Hike Trigger Massive Market Selloff",
+  "headline": "Sensex hits three-year low and Nifty touches 52-week low following RBI rate hike and rising crude prices",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Rising crude oil prices impacting market sentiment",
-    "Reaction to the recent RBI interest rate hike",
-    "Nifty hitting a fresh 52-week low amid a broader market crash",
-    "Market selloff triggers including domestic price pressures"
+    "RBI hiked interest rates for the first time in nearly four years to combat price pressure",
+    "Rising global crude oil prices are weighing heavily on market sentiment",
+    "Significant sell-off triggered by inflationary concerns and the central bank's policy shift",
+    "Weak global cues and domestic triggers leading to a fresh 52-week low for Nifty"
   ],
   "whatHappening": [
-    "Sensex hitting a three-year low during today's trading session",
-    "TCS reporting AI-driven revenue crossing $3.1 billion in its Q2 results",
-    "Dr. Reddy’s facility in Andhra Pradesh receiving two observations from the US FDA",
-    "Government expressing confidence in hitting a $1 trillion export target by FY27"
+    "Sensex plummeted over 1,000 points to reach its lowest level in three years",
+    "TCS reported that AI-led revenue has crossed $3.1 billion, accounting for 10% of its overall revenue",
+    "Dr. Reddy’s facility in Andhra Pradesh received two observations from the U.S. FDA",
+    "Airlines like Air India and Akasa have hiked fuel surcharges in response to climbing operational costs"
   ],
   "stocksInNews": [
     {
@@ -58,10 +58,18 @@
       "articleIds": [
         14
       ]
+    },
+    {
+      "symbol": "TITAN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        16
+      ]
     }
   ],
-  "summary": "The Indian stock market witnessed a severe downturn today, with the Sensex hitting a three-year low and Nifty reaching a 52-week low. The crash was primarily driven by surging crude oil prices and investor reaction to the RBI's interest rate hike. While TCS reported strong AI-led growth, regulatory hurdles for Dr. Reddy's and broader selloffs in major stocks weighed heavily on the indices.",
-  "updatedAt": "2026-10-08T15:02:36.299Z",
+  "summary": "The Indian stock market faced a severe downturn with the Sensex hitting a three-year low and Nifty dropping below 22,600 following an RBI rate hike. While TCS provided a silver lining with strong AI revenue growth, broader markets were dragged down by rising crude prices and regulatory concerns for pharma majors. Investors remain cautious as key indices hit multi-year and 52-week lows amid multiple domestic and global triggers.",
+  "updatedAt": "2026-10-08T15:31:35.113Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-08",
   "articleKeys": [
@@ -81,10 +89,10 @@
     "stock market today live updates bse sensex tumbles 400 points nse nifty50 closes below 22670 the times of india",
     "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom",
+    "stock market highlights sensex nifty snap 2day winning run smids mixed titan top loser ndtv profit",
     "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom",
     "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard",
-    "why is stock market down today sensex crashes 500 points top 3 factors behind market selloff explained livemint",
-    "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline"
+    "why is stock market down today sensex crashes 500 points top 3 factors behind market selloff explained livemint"
   ],
   "articles": [
     {
@@ -184,6 +192,12 @@
       "publishedAt": "Wed, 07 Oct 2026 10:55:08 GMT"
     },
     {
+      "title": "Stock Market Highlights: Sensex, Nifty Snap 2-Day Winning Run; SMIDs Mixed; Titan Top Loser - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV201N0J2ODk1UnVQTWQ2UHprOEl4eGxPOHp1ald1Q1hySWNTcS1OVVo1MjlrSXhqUEVIbTZDVUhQajhKZ2xFVTZIMHZEbHRiUHNfUmVQeHJuWVFLYkZYbm5OUVZGWkh1WlVmUlM0OUc0YUc1ZThjUEplZ1ZIYVBzVDRKUFZYRDlJNGpKQ0xzaDB1ZUNvSWN1T3hUZG12Q0t6RFV2Qzd6TjcxTXdaUzJ6MmtKdHZ4bU92M0t1NWZwemVUbXVFNGFNTEJmdXdzSEdCdFlN?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 10:14:40 GMT"
+    },
+    {
       "title": "Closing Bell: Nifty above 22,700, Sensex gains 685 pts ahead of RBI policy - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRURscmhwaTVEdDc2N3VsdmdmMXpBTEJHV21icXZodDF4ZWpIWTZBakVGR3pJTUNUSGREem55aFpkd1BiVjE3eThrOEhOMWJ0M3poRGpVVm9Oa3JFRTZGbmc1X2dYY1dLakJqYlVJcUJSUERla21TOVVBYXVlY3BkRU9ISERjLWdPRGV6NTZNRUlHMFJPS2c2OGUtRGlmQzhnZW9Bc2lOSjlqbTRIbEk1ZFYwOFRkcHhiMDZzY0tURjl4cEFrb1VFSEd4LUJ3OXllaXZzMFZFY0tXajVlWjJ3dm9qelBJMWJDU0N1NmF1N0wxRFlCN2VNRzdCd3lscWExMUl2UHRrb1NEb2FRRkZKd0JCUjMwQUJFU09NRFJ3MUYxLUXSAagCQVVfeXFMT1ZyWXNnc3c3SlRBSWpVSzZCWVNmRHpxbmFuTkY4aHlnUkNqdThPUnpaOFZ0a1I2V04yLVBkQVhRbVNUcV8tVUdEcExIb0s5eGdvWjlTMEI0amN3NUhIVlRxRG8yVUI2WFlyWnF5Rk52YWNTc1NMWDIxbjR3T2F4OEg1c3hsdjk4UEZDaFA4U3BPVlMtRXZJTDR3b1dDckYtYjFHZ25IbkpaMkZfbGJxU2hfMzJvZzJSY0JDV1lJT0hqRDFJY1lreU82bHV5NFg5aTBvb2tFYlNOcHZLV3RzV3JVeUVnNEFRQzUtTHNYUW1SN1ZjUkdEcGJUSTRZOFNtVVB1U19fUWhTcWNwRkxQLVN3eFpXVWQxWnEyY0lXS0lpcGd2TjBFWlA?oc=5",
@@ -200,12 +214,6 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcTVBbXFKdXd0b3pQV3dfcmZfZUpnamxSbHpNaEtXTVplR1lMb0FVUlhQOEU4V2p0TW1NTXFmVUExY1c4WThlTzlkVVNXa3lkVTBwTzNseFh2UkM0dzVIS0R2aTBUWmYzZHRhYnoxbS02Ym96UWFqdWpmaGVWbDFyekJ3dzhIRTFCNE5GRGRIUzRwVEdkdERDbVlFMWFvYm1PSkFVTU81RnhaN01XVEpQQ0ZlRFJvVzY4ajZza2Z0TE1qWlpCZTZ2d3RZT0Rha19FYWFESWNfVXNra2lDOEhoQWxBTGNrRUhGQVYxd2xRX0hqMk1uSzRpWGU0TXRrZGl0U1HSAYcCQVVfeXFMTWYxSFBpcEhQVVlUcmtuNDR1LUZ2Q3RDeG5ycUlYbTd1d21wYW5jLXZZenJBc0FEbFA5dE9zSUpQLVJ0M0k0NUd0N1BKdlI5YTJXeWp0Vi0ySWpwNkwtNzdNd014UTBRNVY5ZXdxdG1xSjhmaFVDNURFb0h3NElZalBlZ3ktLWxBTmF3NVlwWGtyalNqeGE1R3FjVGw4QzlUMDlpcWwwYUVrZUY4SDhsUFRaV1p2MzhjbjdjVkZ2WG5pa3B5MnBTWktHVHZaNDZ3OGdSTDg0UmJwcXFzaHdaa2w4OFVTT3RKRHZuUkZLUU00bWNGTE1zUzJKUzNGd3FuTDhOMXBlSlk?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 03:58:10 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjdLa1Q4STc5UFU5VzcxNWpmcHBDaXd3U1ktUkJhTUk0ZjlJRHZ6YWtzTkRhNDg0WFlELXdwLUlkMkVCYm1GUHhQNUlwazJHWlZIaVlhZmVBcGdOVHZsNFd2QUg5VXJkNjRKSzlvMnc3dWN0SjVFTnlidVVZMzctRjdEVzF4X3B0TEpUNURhcHFRV2ZMb3VDUGtnNDZhNXdIQWNlTTBHRGZPXzNkLUVXY1ZONFNHYjhqbFQwS0JqMGROVjE2bmZJ0gHOAUFVX3lxTE8wN3RPazNfT2JQaWdsVUpBb01Jd1FBTU9qYkZrNnZ2eENBY1UwSTBwOU1FWEcteXJ3RDNBME40TTRJTGdWOGxRVGl6TC1FTTkzenVWTFczZ2Q4c19jSXcyU3VfdFVwdzVZaktpa0hsRWIyZWtRbkVYcWdtWHpUTWd2MWFlTG4xVWhTY1o3czQ0RmF6NU5xTXNTRUdPZXhTNGVlT1Z6TXZHUHN0aVlmeTVBalhXdVBYdl96OGxaSksyQ19wMks2em5jNDZOdDFn?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 12:39:41 GMT"
     }
   ]
 }
