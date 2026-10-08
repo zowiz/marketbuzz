@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex hits three-year low and Nifty touches 52-week low following RBI rate hike and rising crude prices",
+  "headline": "Sensex tanks 1,000 points as Nifty hits 52-week low; IT stocks plunge on US suspension",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,40 +7,72 @@
     "nextOpen": ""
   },
   "why": [
-    "RBI hiked interest rates for the first time in nearly four years to combat price pressure",
-    "Rising global crude oil prices are weighing heavily on market sentiment",
-    "Significant sell-off triggered by inflationary concerns and the central bank's policy shift",
-    "Weak global cues and domestic triggers leading to a fresh 52-week low for Nifty"
+    "Nifty hits a fresh 52-week low as Sensex crashes over 1,000 points due to multiple market triggers",
+    "US government suspends major Indian IT firms from the Labour Certification Programme",
+    "RBI interest rate hike in nearly four years continues to pressure equity markets",
+    "TCS Q2 results show revenue per employee slipping despite growth in AI revenue"
   ],
   "whatHappening": [
-    "Sensex plummeted over 1,000 points to reach its lowest level in three years",
-    "TCS reported that AI-led revenue has crossed $3.1 billion, accounting for 10% of its overall revenue",
-    "Dr. Reddy’s facility in Andhra Pradesh received two observations from the U.S. FDA",
-    "Airlines like Air India and Akasa have hiked fuel surcharges in response to climbing operational costs"
+    "Infosys, TCS, and Wipro ADRs fall following their suspension from the US immigration program",
+    "HDFC Bank's Anup Bagchi is set to become India's highest-paid bank CEO with a 43-crore package",
+    "HCLTech rolls out a new bouquet of industry-specific artificial intelligence solutions",
+    "IT sector remains under pressure as TCS Q2 results impact sentiment for Infosys, Wipro, and Tech Mahindra"
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "DRREDDY",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        1,
+        4,
+        5,
+        8
       ]
     },
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
+      "symbol": "INFY",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
+        1,
+        4,
         8
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1,
+        4,
+        8
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1,
+        6
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
       ]
     },
     {
@@ -68,21 +100,21 @@
       ]
     }
   ],
-  "summary": "The Indian stock market faced a severe downturn with the Sensex hitting a three-year low and Nifty dropping below 22,600 following an RBI rate hike. While TCS provided a silver lining with strong AI revenue growth, broader markets were dragged down by rising crude prices and regulatory concerns for pharma majors. Investors remain cautious as key indices hit multi-year and 52-week lows amid multiple domestic and global triggers.",
-  "updatedAt": "2026-10-08T15:31:35.113Z",
+  "summary": "The Indian stock market experienced a major crash on October 8, with the Sensex falling over 1,000 points and Nifty reaching a 52-week low. The IT sector was hit hardest following the suspension of giants like TCS and Infosys from a key US labor program. Investor sentiment remains fragile due to a recent RBI rate hike and mixed signals from early Q2 earnings.",
+  "updatedAt": "2026-10-08T16:00:34.121Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-08",
   "articleKeys": [
-    "air india akasa hike fuel surcharge as costs climb",
-    "jane street to sat sebi changed goalposts seeks order logs",
-    "confident of hitting 1 trn exports target in fy27 says piyush goyal",
-    "absence of ai in equities will become indias strength in a year mkts to start attracting flows cea",
-    "sensex hits a threeyear low amid rising crude prices reaction to rbi policy",
-    "dr reddys facility in andhra pradesh gets 2 us fda observations",
-    "what nana patekar do beyond acting work for farmers water conservation serving in army during kargil war",
-    "dot refutes bias in starlink authorisation says all licensees approvals pending",
-    "reliance digital festival of electronics 2026 top offers on iphone 17 pro dell xps 13 lg mini led tv more",
-    "tcs q2 concall live ai revenue crosses 31 billion 10 of overall revenue",
+    "with rs 43crore pay package hdfcs anup bagchi set to become indias highestpaid bank ceo",
+    "what tcs q2 results mean for infosys wipro hcltech and tech mahindra",
+    "market trading guide deepa jewellers among 2 stock recommendations for friday",
+    "amazon goes premium with androidbased alexa tablets to take on ipad galaxy tab",
+    "infosys tcs wipro among it giants suspended from us labour certification programme",
+    "tcs q2 concall live revenue per employee slips as ai revenue crosses 31 billion",
+    "hcltech rolls out a bouquet of industry ai solutions",
+    "ranabaali trailer out vijay deverakonda rashmika mandanna starrer brings action drama and emotion",
+    "indian it stocks under pressure infosys wipro adrs fall after us suspends major firms from immigration programme",
+    "mohun bagan crowned ifa shield champions after 10 win over east bengal",
     "why did market crash today nifty hits fresh 52week low sensex tanks over 1000 pts 7 triggers behind r the economic times",
     "stock market today highlights oct 6 sensex ends 685 points higher nifty at 22776 pharma oil gas shares outperform ndtv profit",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
@@ -96,64 +128,64 @@
   ],
   "articles": [
     {
-      "title": "Air India, Akasa hike fuel surcharge as costs climb",
+      "title": "With Rs 43-Crore Pay Package, HDFC's Anup Bagchi Set To Become India's Highest-Paid Bank CEO",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/air-india-akasa-hike-fuel-surcharge-as-costs-climb/article71560439.ece",
-      "publishedAt": "Thu, 08 Oct 2026 20:10:44 +0530"
+      "link": "https://www.ndtvprofit.com/business/with-rs-43-crore-pay-package-hdfc-banks-anup-bagchi-set-to-become-indias-highest-paid-bank-ceo-12157942#publisher=newsstand",
+      "publishedAt": "Thu, 08 Oct 2026 21:08:44 +0530"
     },
     {
-      "title": "Jane Street to SAT: Sebi changed goalposts, seeks order logs",
+      "title": "What TCS Q2 Results Mean For Infosys, Wipro, HCLTech And Tech Mahindra",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/jane-street-accuses-sebi-of-shifting-goalposts-in-sat-hearing-on-documents-126100801282_1.html",
-      "publishedAt": "Thu, 08 Oct 2026 19:51:21 +0530"
+      "link": "https://www.ndtvprofit.com/markets/what-tcs-q2-results-mean-for-infosys-wipro-hcltech-and-tech-mahindra-12158060#publisher=newsstand",
+      "publishedAt": "Thu, 08 Oct 2026 21:07:13 +0530"
     },
     {
-      "title": "Confident of hitting $1 trn exports target in FY27, says Piyush Goyal",
+      "title": "Market Trading Guide: Deepa Jewellers among 2 stock recommendations for Friday",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/confident-of-hitting-1-trn-exports-target-in-fy27-says-piyush-goyal-126100801310_1.html",
-      "publishedAt": "Thu, 08 Oct 2026 19:45:03 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-deepa-jewellers-among-2-stock-recommendations-for-friday/articleshow/134794477.cms",
+      "publishedAt": "Thu, 08 Oct 2026 21:00:03 +0530"
     },
     {
-      "title": "Absence of AI in equities will become India's strength in a year, mkts to start attracting flows: CEA",
+      "title": "Amazon Goes Premium With Android-Based Alexa Tablets To Take On iPad, Galaxy Tab",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/absence-of-ai-in-equities-will-become-indias-strength-in-a-year-mkts-to-start-attracting-flows-cea/articleshow/134793195.cms",
-      "publishedAt": "Thu, 08 Oct 2026 19:44:02 +0530"
+      "link": "https://www.ndtvprofit.com/technology/amazon-goes-premium-with-android-based-alexa-tablets-to-take-on-ipad-and-galaxy-tab-12157798#publisher=newsstand",
+      "publishedAt": "Thu, 08 Oct 2026 20:56:27 +0530"
     },
     {
-      "title": "Sensex hits a three-year low amid rising crude prices, reaction to RBI policy",
+      "title": "Infosys, TCS, Wipro Among IT Giants Suspended From US Labour Certification Programme",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/sensex-dives-1045-points-amid-sharp-spike-in-oil-prices-fears-of-further-monetary-tightening/article71559342.ece",
-      "publishedAt": "Thu, 08 Oct 2026 19:31:27 +0530"
+      "link": "https://www.ndtvprofit.com/world/infosys-tcs-wipro-among-it-giants-suspended-from-us-labour-certification-programme-12157882#publisher=newsstand",
+      "publishedAt": "Thu, 08 Oct 2026 20:49:03 +0530"
     },
     {
-      "title": "Dr. Reddy’s facility in Andhra Pradesh gets 2 U.S. FDA observations",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/dr-reddys-facility-in-andhra-pradesh-gets-2-us-fda-observations/article71560061.ece",
-      "publishedAt": "Thu, 08 Oct 2026 19:20:36 +0530"
-    },
-    {
-      "title": "What Nana Patekar Do Beyond Acting? Work For Farmers, Water Conservation, Serving In Army During Kargil War",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/what-did-nana-patekar-do-beyond-acting-his-work-for-farmers-water-conservation-and-charity-12155294#publisher=newsstand",
-      "publishedAt": "Thu, 08 Oct 2026 19:18:15 +0530"
-    },
-    {
-      "title": "DoT refutes bias in Starlink authorisation, says all licensees’ approvals pending",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/dot-refutes-bias-in-starlink-authorisation-says-all-licensees-approvals-pending/article71560045.ece",
-      "publishedAt": "Thu, 08 Oct 2026 19:15:31 +0530"
-    },
-    {
-      "title": "Reliance Digital Festival Of Electronics 2026: Top Offers On iPhone 17 Pro, Dell XPS 13, LG Mini LED TV & More",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/reliance-digital-festival-of-electronics-2026-top-offers-on-iphone-17-pro-dell-xps-13-lg-mini-led-tv-and-more-12157266#publisher=newsstand",
-      "publishedAt": "Thu, 08 Oct 2026 19:14:13 +0530"
-    },
-    {
-      "title": "TCS Q2 Concall Live: AI Revenue Crosses $3.1 Billion, 10% Of Overall Revenue",
+      "title": "TCS Q2 Concall Live: Revenue Per Employee Slips As AI Revenue Crosses $3.1 Billion",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/tcs-q2-results-live-updates-today-revenue-profit-dividend-share-price-management-commentary-share-price-markets-12154136#publisher=newsstand",
-      "publishedAt": "Thu, 08 Oct 2026 19:13:38 +0530"
+      "publishedAt": "Thu, 08 Oct 2026 20:48:28 +0530"
+    },
+    {
+      "title": "HCLTech rolls out a bouquet of industry AI solutions",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/hcltech-rolls-out-a-bouquet-of-industry-ai-solutions/article71560553.ece",
+      "publishedAt": "Thu, 08 Oct 2026 20:43:47 +0530"
+    },
+    {
+      "title": "Ranabaali Trailer Out: Vijay Deverakonda, Rashmika Mandanna Starrer Brings Action, Drama And Emotion",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/lifestyle/entertainment-cinema-tollywood-movie-ranabaali-trailer-release-vijay-deverakonda-rashmika-mandanna-telugu-film-12157886#publisher=newsstand",
+      "publishedAt": "Thu, 08 Oct 2026 20:41:38 +0530"
+    },
+    {
+      "title": "Indian IT Stocks Under Pressure: Infosys, Wipro ADRs Fall After US Suspends Major Firms From Immigration Programme",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/indian-it-stocks-under-pressure-infosys-wipro-adrs-fall-after-us-suspends-major-it-firms-from-immigration-programme-12157887#publisher=newsstand",
+      "publishedAt": "Thu, 08 Oct 2026 20:36:12 +0530"
+    },
+    {
+      "title": "Mohun Bagan Crowned IFA Shield Champions After 1-0 Win Over East Bengal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/football-mohun-bagan-crowned-ifa-shield-champions-after-1-0-win-over-east-bengal-12157817#publisher=newsstand",
+      "publishedAt": "Thu, 08 Oct 2026 20:34:47 +0530"
     },
     {
       "title": "Why did market crash today? Nifty hits fresh 52-week low, Sensex tanks over 1,000 pts. 7 triggers behind R - The Economic Times",
@@ -194,7 +226,7 @@
     {
       "title": "Stock Market Highlights: Sensex, Nifty Snap 2-Day Winning Run; SMIDs Mixed; Titan Top Loser - NDTV Profit",
       "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV201N0J2ODk1UnVQTWQ2UHprOEl4eGxPOHp1ald1Q1hySWNTcS1OVVo1MjlrSXhqUEVIbTZDVUhQajhKZ2xFVTZIMHZEbHRiUHNfUmVQeHJuWVFLYkZYbm5OUVZGWkh1WlVmUlM0OUc0YUc1ZThjUEplZ1ZIYVBzVDRKUFZYRDlJNGpKQ0xzaDB1ZUNvSWN1T3hUZG12Q0t6RFV2Qzd6TjcxTXdaUzJ6MmtKdHZ4bU92M0t1NWZwemVUbXVFNGFNTEJmdXdzSEdCdFlN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV201N0J2ODk1UnVQTWQ2UHprOEl4eGxPOHp1ald1Q1hySWNTcS1OVVo1MjlrSXhqUEVIbTZDVUhQajhKZ2xFVTZIMHZEbHRiUHNfUmVQeHJuWVFLYkZYbm5OUVZGWkh1WlVmUlM0OUc0YUc1ZThjUEplZ1ZIYVBzVDRKUFZYRDlJNGpKQ0xzaDB1ZUNvSWN1T3hUZG12Q0t6RFV2Qzd6TjcxTXdaUzJ6MmtKdHZ4bU92M0t1NWZwemVUbXVFNGFNTEJmdXdzSEdCdFlN0gHbAUFVX3lxTE9Hc3dEbVUyamJ5d0JGZnlwdU0ydHdVWkpkUTdZckFFOGF2eTE5ZzY5c21LSENic1dQZTc4MHJLeVZ5SVRwMXR6QjhUSmtoaF9YQmhrdnhobjNzX1l3NFFWTmtScjNxZGxCWVB2eEd0cnZ4ellGdzBVRGhlb2hud3g3UzRPWWx1T1Z4OWVYZ3NlTjJfT3ZIclFnOExuQ1NkcHpNeEZ4NWx0aFRxRjEzeHBiQVBheWo4S3JNdThmVWRsbXBZcVBfV25Ybm1DQkUtOEMyOC1Hc1N5Q2hqQQ?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 10:14:40 GMT"
     },
     {
