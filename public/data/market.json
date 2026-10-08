@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets slip as RBI rate hike and global hawkish cues weigh on investor sentiment",
+  "headline": "Indian markets face pressure as RBI raises repo rate to 5.5% amid global inflation concerns",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,18 +7,67 @@
     "nextOpen": ""
   },
   "why": [
-    "RBI hiked interest rates for the first time in nearly four years amid ongoing price pressures.",
-    "US Fed minutes signaled another rate hike by year-end as US Treasury yields climbed higher.",
-    "Foreign investors pulled out $26.3 billion from emerging markets in September due to a hawkish Fed policy outlook.",
-    "Global market weakness and rising US yields triggered selling pressure across major domestic sectors."
+    "The RBI raised the repo rate to 5.5% for the first time in nearly four years under Governor Sanjay Malhotra",
+    "FPIs sold Rs 21,745 crore in the second half of September, targeting oil & gas, auto, and financial sectors",
+    "Global markets are weak as Asian stocks drop on inflation concerns and US Treasury yields climb",
+    "US Fed minutes signal another potential interest rate hike by the end of the year as inflation remains high"
   ],
   "whatHappening": [
-    "Sensex ended 429 points lower while Nifty closed near the 22,600 mark following the central bank's rate decision.",
-    "Hindalco dropped 3% and Infosys fell 2%, featuring among the leading losers in recent trading.",
-    "Adani Enterprises and Hindalco were highlighted among the top losing stocks on the market.",
-    "An IndiGo Patna-Lucknow flight landed safely after its nose was damaged by a mid-air lightning strike."
+    "The Nifty 50 and Sensex closed significantly lower in the previous session following the RBI's rate hike announcement",
+    "The central bank has shifted its monetary policy stance to ‘calibrated tightening’ to manage price pressure",
+    "Home loan EMIs are expected to increase as a direct consequence of the higher repo rate",
+    "Adani Enterprises and Hindalco emerged as top losers in the market's recent downturn"
   ],
   "stocksInNews": [
+    {
+      "symbol": "TCS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "ADANIENT",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/10 sources",
+      "articleIds": [
+        2,
+        13
+      ]
+    },
+    {
+      "symbol": "OLAELEC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "TATAPOWER",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "VBL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        2
+      ]
+    },
     {
       "symbol": "HINDALCO",
       "sentiment": "Negative",
@@ -29,57 +78,71 @@
       ]
     },
     {
-      "symbol": "ADANIENT",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        13
-      ]
-    },
-    {
       "symbol": "INFY",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         14
       ]
-    },
-    {
-      "symbol": "INDIGO",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        6
-      ]
     }
   ],
-  "summary": "Indian benchmark indices closed lower as Sensex fell 429 points and Nifty slipped to near 22,600 following an RBI rate hike.\nHawkish US Fed rate expectations and rising Treasury yields led to foreign investor capital outflows from emerging markets.\nMajor equities including Hindalco, Infosys, and Adani Enterprises recorded losses amidst broader market selling pressure.",
-  "updatedAt": "2026-10-07T22:31:21.503Z",
+  "summary": "The Indian stock market is adjusting to a surprise RBI repo rate hike to 5.5% and a shift toward calibrated tightening. Sentiment is further weighed down by heavy FPI selling and weak global cues from both Asian and US markets. Major stocks like Hindalco and Adani Enterprises are under pressure as investors react to rising borrowing costs and persistent inflation.",
+  "updatedAt": "2026-10-08T01:02:34.198Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-08",
   "articleKeys": [
+    "global market today asian stocks drop on inflation concerns oil gains",
+    "fpis sell rs 21745 crore in second half of sep in oil amp gas auto amp financials",
+    "stocks in news tcs adani enterprises ola electric hcl tech tata power and varun beverages",
+    "premarket action heres the trade setup for todays session",
+    "rbi raises repo rate to 55 in first hike under governor sanjay malhotra shifts stance to calibrated tightening",
     "us stocks us market ends lower off record highs as treasury yields climb",
     "property taxation needs structural reform",
     "us fed minutes signal another rate hike by yearend as inflation stays high",
     "elon musk alleges oligarch interference in starlinks india launch",
-    "foreign investors pull out 263 billion from emerging markets in september as hawkish fed pushes us treasury yields higher",
-    "at least 24 dead as russian barrage pounds ukraine zelenskyy denounces vile strikes",
-    "indigo patnalucknow flight hit by lightning midair nose damaged lands safely",
-    "indias rural economy decoupling from monsoon shocks says rbi report",
-    "tata aeris cng mileage can it really give 39 kmkg check official mileage stats",
-    "euro nears 17month low as dollar strengthens ahead of us fed minutes",
+    "rbi rate hike your home loan emi just went up",
     "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "stock market today live updates bse sensex tumbles 400 points nse nifty50 closes below 22670 the times of india",
     "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
     "sensex today nifty 50 stock market highlights sensex ends 429 pts lower nifty near 22600 hindalco drops 3 infy 2 the economic times",
     "stock market prediction for today sensex nifty outlook for thursday kospi taiwan cues to watch 8 oct 2026 livemint",
-    "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard",
     "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 cnbc tv18",
+    "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard",
     "sensex nifty bank nifty prediction what will happen in the indian stock market on monday 3 reasons tell the scene tradingview",
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Global Market Today: Asian stocks drop on inflation concerns, oil gains",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-on-inflation-concerns-oil-gains/articleshow/134777205.cms",
+      "publishedAt": "Thu, 08 Oct 2026 06:07:13 +0530"
+    },
+    {
+      "title": "FPIs sell Rs 21,745 crore in second half of Sep, in oil &amp; gas, auto &amp; financials",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-sell-rs-21745-crore-in-second-half-of-sep-in-oil-gas-auto-financials/articleshow/134777179.cms",
+      "publishedAt": "Thu, 08 Oct 2026 06:05:29 +0530"
+    },
+    {
+      "title": "Stocks in news: TCS, Adani Enterprises, Ola Electric, HCL Tech, Tata Power and Varun Beverages",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-adani-enterprises-ola-electric-hcl-tech-tata-power-and-varun-beverages/articleshow/134771196.cms",
+      "publishedAt": "Thu, 08 Oct 2026 06:00:00 +0530"
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134770728.cms",
+      "publishedAt": "Thu, 08 Oct 2026 06:00:00 +0530"
+    },
+    {
+      "title": "RBI raises repo rate to 5.5% in first hike under Governor Sanjay Malhotra, shifts stance to ‘calibrated tightening’",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-repo-rate-to-5-5-in-first-hike-under-governor-sanjay-malhotra-shifts-stance-to-calibrated-tightening/articleshow/134777167.cms",
+      "publishedAt": "Thu, 08 Oct 2026 05:30:00 +0530"
+    },
     {
       "title": "US stocks: US market ends lower, off record highs, as Treasury yields climb",
       "source": "Zerodha Pulse",
@@ -105,40 +168,10 @@
       "publishedAt": "Thu, 08 Oct 2026 00:06:26 +0530"
     },
     {
-      "title": "Foreign investors pull out $26.3 billion from emerging markets in September as hawkish Fed pushes US Treasury yields higher",
+      "title": "RBI rate hike: Your home loan EMI just went up",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/foreign-investors-pull-out-26-3-billion-from-emerging-markets-in-september-as-hawkish-fed-pushes-us-treasury-yields-higher/articleshow/134772977.cms",
-      "publishedAt": "Wed, 07 Oct 2026 23:56:54 +0530"
-    },
-    {
-      "title": "At Least 24 Dead As Russian Barrage Pounds Ukraine; Zelenskyy Denounces 'Vile' Strikes",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/at-least-24-dead-as-russian-barrage-pounds-ukraine-zelenskyy-denounces-vile-strikes-12153245#publisher=newsstand",
-      "publishedAt": "Wed, 07 Oct 2026 23:53:09 +0530"
-    },
-    {
-      "title": "IndiGo Patna-Lucknow Flight Hit By Lightning Mid-Air, Nose Damaged; Lands Safely",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/indigo-patna-lucknow-flight-hit-by-lightning-mid-air-nose-damaged-lands-safely-12153297#publisher=newsstand",
-      "publishedAt": "Wed, 07 Oct 2026 23:42:51 +0530"
-    },
-    {
-      "title": "India's rural economy decoupling from monsoon shocks, says RBI report",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/agriculture/india-s-rural-economy-decoupling-from-monsoon-shocks-says-rbi-report-126100701363_1.html",
-      "publishedAt": "Wed, 07 Oct 2026 23:41:35 +0530"
-    },
-    {
-      "title": "Tata Aeris CNG Mileage: Can It Really Give 39 Km/kg? Check Official Mileage Stats",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/tata-aeris-cng-mileage-can-it-really-give-39-km-kg-check-official-mileage-stats-12153190#publisher=newsstand",
-      "publishedAt": "Wed, 07 Oct 2026 23:27:11 +0530"
-    },
-    {
-      "title": "Euro Nears 17-Month Low As Dollar Strengthens Ahead Of US Fed Minutes",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/euro-nears-17-month-low-as-dollar-strengthens-ahead-of-us-fed-minutes-12153195#publisher=newsstand",
-      "publishedAt": "Wed, 07 Oct 2026 23:20:44 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-rate-hike-your-home-loan-emi-just-went-up/articleshow/134777176.cms",
+      "publishedAt": "Thu, 08 Oct 2026 00:04:36 +0530"
     },
     {
       "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
@@ -177,16 +210,16 @@
       "publishedAt": "Wed, 07 Oct 2026 10:27:14 GMT"
     },
     {
-      "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
-    },
-    {
       "title": "Stock Market Highlights: Nifty at 22,600, Sensex falls 429 pts after RBI hikes rate for first time in nearly 4 - CNBC TV18",
       "source": "CNBC TV18",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZy1YSzEwaDdUbjhFREcwMWdpN0RIN2RXT2dfNmlMdmpEV0JoamZQLXdxNWdUeEp4TWxBdFdELVZ0djhoZzlScmd0WjR6dkRGQTlxMjhHcm0yZUZMRzFpRXZnczU1eGVlelMwTnFWZGJmZnREaFRtM2cxcWRXYnNTaXVza0E3SHF1SWxwdlM0OHZ2dl9WMHNyWE1udHd5cUpOZnoxZGFHN2YxMUl1OVV2cUNqYUdpZE5Rc0gzdzBvMlpja3BSRHVJaGVwcUtlbFBWdXJMWS1jREkxNlpoZjl1cTRMc0NxNUxELThsanR2UXJiS2VkSTN0RjZJY1FBRXZ4VzhvMUp3bVZiVFVzeVdCbzdR0gGXAkFVX3lxTFBtaHJIY3FvbThtWlNCaDJGbEk2WThHQ2JTbGVrOE9yT3pqcXdfa3BScVJ6LUNuSDRfZnA2RUVTSDJvUE53ZnFKM2tieTA1cTFFbGlfZmJhOGNHTzZKVkN5My1EWkJuZmVoT29sdXotYzNtTWVHaDZEMVFKRnR4bTBvcnh2Qk1DcWRfemJ2WVFzbk9OY3NKOUlGZEZfbVFTRnRQX0pOc095VlBZUjBVa2tsZkdCbndXbmthVEVfanJGTVNyR1hUc29UeWlxUUMtLUxNQ2tFS0ZyU1F5UkllY2h0ZUdkcmw2R2hXRmlEQ08tOUtSbllwTzY4clpUUGEycndyYXF2cVEteUFLLTZyZTlTeXBJbTFibw?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 10:15:12 GMT"
+    },
+    {
+      "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
     },
     {
       "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - TradingView",
