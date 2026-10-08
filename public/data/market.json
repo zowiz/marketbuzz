@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex flat at pre-open, Nifty near 22,600; market reacts to RBI rate hike and weak global cues",
+  "headline": "Sensex falls 400 points amid global sell-off and inflation fears, while IT stocks and Senco Gold gain",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,48 +7,24 @@
     "nextOpen": ""
   },
   "why": [
-    "Asian markets are declining, putting pressure on the Indian market opening",
-    "A recent RBI rate hike has dampened investor sentiment, leading to a sell-off in the previous session",
-    "US Fed minutes revealed concerns about potential market stress, affecting global risk appetite",
-    "Mixed cues from GIFT Nifty and international indices like Nikkei and Kospi are guiding the pre-open"
+    "FIIs offloaded Indian financial stocks worth Rs 13,000 crore in September",
+    "Weakness in Asian markets like Japan and South Korea due to interest rate fears",
+    "Rising oil prices fueling concerns over global inflation",
+    "Negative sentiment following a recent RBI rate hike"
   ],
   "whatHappening": [
-    "The Sensex remained flat during the pre-open session on October 8, while Nifty stayed near 22,600",
-    "Several stocks, including ITC, are experiencing a significant increase in futures open interest",
-    "Technical indicators show stocks like Chennai Petroleum and PTC Industries are exhibiting bullish patterns",
-    "Major companies like Hindalco and Infosys saw notable declines following the central bank's policy announcement"
+    "Sensex dropped 400 points while Nifty 50 traded around the 22,450 level",
+    "The Nifty IT index outperformed the broader market, rising over 2%",
+    "Senco Gold shares surged 6% after reporting a 31% year-on-year revenue growth",
+    "The Indian Rupee strengthened by 10 paise to 96.65 against the U.S. dollar"
   ],
   "stocksInNews": [
     {
-      "symbol": "ITC",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "RAINBOW",
+      "symbol": "SENCO",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "PTCIL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "CHENNPETRO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
+        0
       ]
     },
     {
@@ -56,7 +32,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        12
       ]
     },
     {
@@ -64,8 +40,8 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        13,
-        14
+        12,
+        13
       ]
     },
     {
@@ -73,104 +49,89 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        14
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        19
+        13
       ]
     }
   ],
-  "summary": "Indian indices opened flat on October 8, with Nifty hovering around 22,600 amid weak Asian market cues and global stress signals from Fed minutes. This follows a volatile session where an RBI rate hike led to a 429-point drop in the Sensex. While large-caps like Hindalco and Infosys faced pressure, technical strength is noted in mid-cap stocks like PTC Industries.",
-  "updatedAt": "2026-10-08T04:01:56.491Z",
+  "summary": "The Indian stock market is trading lower today with the Sensex falling 400 points, pressured by heavy FII selling and weak global cues. Despite the broader decline, the IT sector is showing strength and Senco Gold has gained significantly on strong quarterly results. Meanwhile, gold prices are nearing record highs as the Rupee sees a marginal recovery.",
+  "updatedAt": "2026-10-08T05:01:57.547Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-08",
   "articleKeys": [
-    "stock market live sensex flat at preopen nifty near 22600 asia markets decline",
-    "indias trade caught in the middle",
-    "fed minutes show some officials want to prepare for market stress",
-    "itc among 4 fampo stocks with sharp rise in futures open interest",
-    "rainbow childrens medicare among 3 stocks that closed above vwap",
-    "ptc industries among 3 stocks showing white marubozu pattern",
-    "iphone 16 to get cheaper by nearly rs 18000 in amazon great indian festival sale check effective price",
-    "amazon layoffs employees hit by fresh job cuts across several business units heres what we know so far",
-    "chennai petroleum corporation among 3 stocks showing rsi trending up",
-    "nana patekar cause of death veteran bollywood actor dies at 75 what we know",
+    "senco gold shares gain 6 on strong q2 business update revenue rises 31 yoy",
+    "rs 13000 crore blow in september why indian financial stocks are fastest to sell for fiis this year",
+    "rupee rises 10 paise to 9665 against us dollar in early trade",
+    "global market south korean stocks decline as samsung falls oil prices fuel inflation fears",
+    "gold prices near rs 15 lakh10 grams silver rises as dollar eases from multimonth high what lies ahead",
+    "strait of hormuz transits at lowest in over two months after attacks data shows",
+    "govt says satellite internet rules fair after musks starlink bias claim",
+    "global market japan stocks fall for second day as profittaking rate fears weigh",
+    "stock market live sensex falls 400 pts nifty around 22450 nifty it rises over 2",
     "stock market today highlights oct 6 sensex ends 685 points higher nifty at 22776 pharma oil gas shares outperform ndtv profit",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "stock market today live updates bse sensex tumbles 400 points nse nifty50 closes below 22670 the times of india",
     "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
     "sensex today nifty 50 stock market highlights sensex ends 429 pts lower nifty near 22600 hindalco drops 3 infy 2 the economic times",
-    "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom",
+    "sensex today stock market live updates sensex slips 350 pts nifty below 22500 it stocks shine moneycontrolcom",
     "stock market outlook today 8 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei kospi taiwan cues livemint",
+    "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom",
     "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
-    "stock market today highlights bse sensex surges 685 points nifty50 holds above 22770 the times of india",
-    "sensex today nifty 50 stock market highlights sensex rallies 685 pts nifty ends above 22750 ril the economic times"
+    "stock market today live updates markets end in green sensex gains 473 points nifty rises 134 points the times of india"
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex flat at pre-open, Nifty near 22,600; Asia markets decline",
+      "title": "Senco Gold shares gain 6% on strong Q2 business update; revenue rises 31% YoY",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/senco-gold-shares-gain-6-on-strong-q2-business-update-revenue-rises-31-yoy/articleshow/134779851.cms",
+      "publishedAt": "Thu, 08 Oct 2026 10:03:54 +0530"
+    },
+    {
+      "title": "Rs 13,000 crore blow in September! Why Indian financial stocks are fastest to sell for FIIs this year",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-13000-crore-blow-in-september-why-indian-financial-stocks-are-fastest-to-sell-for-fiis-this-year/articleshow/134779909.cms",
+      "publishedAt": "Thu, 08 Oct 2026 10:02:58 +0530"
+    },
+    {
+      "title": "Rupee rises 10 paise to 96.65 against U.S. dollar in early trade",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/rupee-rises-10-paise-to-9665-against-us-dollar-in-early-trade/article71558358.ece",
+      "publishedAt": "Thu, 08 Oct 2026 10:00:30 +0530"
+    },
+    {
+      "title": "Global Market: South Korean stocks decline as Samsung falls, oil prices fuel inflation fears",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-stocks-decline-as-samsung-falls-oil-prices-fuel-inflation-fears/articleshow/134779767.cms",
+      "publishedAt": "Thu, 08 Oct 2026 09:53:54 +0530"
+    },
+    {
+      "title": "Gold prices near Rs 1.5 lakh/10 grams; silver rises as dollar eases from multi-month high. What lies ahead?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-near-rs-1-5-lakh/10-grams-silver-rises-as-dollar-eases-from-multi-month-high-what-lies-ahead/articleshow/134779724.cms",
+      "publishedAt": "Thu, 08 Oct 2026 09:51:45 +0530"
+    },
+    {
+      "title": "Strait of Hormuz transits at lowest in over two months after attacks, data shows",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/strait-of-hormuz-transits-at-lowest-in-over-two-months-after-attacks-data-shows/article71558339.ece",
+      "publishedAt": "Thu, 08 Oct 2026 09:49:11 +0530"
+    },
+    {
+      "title": "Govt says satellite internet rules fair after Musk's Starlink bias claim",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/news/govt-rejects-elon-musk-starlink-discrimination-claims-satellite-internet-india-126100800210_1.html",
+      "publishedAt": "Thu, 08 Oct 2026 09:48:29 +0530"
+    },
+    {
+      "title": "Global Market: Japan stocks fall for second day as profit-taking, rate fears weigh",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-fall-for-second-day-as-profit-taking-rate-fears-weigh/articleshow/134779493.cms",
+      "publishedAt": "Thu, 08 Oct 2026 09:47:14 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex falls 400 pts, Nifty around 22,450; Nifty IT rises over 2%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-8-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-rbi-repo-rate-hike-ipo-today-126100800108_1.html",
-      "publishedAt": "Thu, 08 Oct 2026 09:10:31 +0530"
-    },
-    {
-      "title": "India’s trade caught in the middle",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/indias-trade-caught-in-the-middle/article71555534.ece",
-      "publishedAt": "Thu, 08 Oct 2026 09:01:33 +0530"
-    },
-    {
-      "title": "Fed minutes show some officials want to prepare for market stress",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-minutes-show-some-officials-want-to-prepare-for-market-stress/articleshow/134778894.cms",
-      "publishedAt": "Thu, 08 Oct 2026 08:47:37 +0530"
-    },
-    {
-      "title": "ITC among 4 F&amp;O stocks with sharp rise in futures open interest",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/134778865.cms",
-      "publishedAt": "Thu, 08 Oct 2026 08:41:41 +0530"
-    },
-    {
-      "title": "Rainbow Children's Medicare among 3 stocks that closed above VWAP",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rainbow-childrens-medicare-among-3-stocks-that-closed-above-vwap/slideshow/134778708.cms",
-      "publishedAt": "Thu, 08 Oct 2026 08:36:11 +0530"
-    },
-    {
-      "title": "PTC Industries among 3 stocks showing White Marubozu pattern",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ptc-industries-among-3-stocks-showing-white-marubozu-pattern/slideshow/134778653.cms",
-      "publishedAt": "Thu, 08 Oct 2026 08:32:40 +0530"
-    },
-    {
-      "title": "iPhone 16 To Get Cheaper By Nearly Rs 18,000 In Amazon Great Indian Festival Sale: Check Effective Price",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/gadgets/iphone-16-to-get-cheaper-by-nearly-rs-18-000-in-amazon-great-indian-festival-sale-check-effective-price-12146790#publisher=newsstand",
-      "publishedAt": "Thu, 08 Oct 2026 08:30:56 +0530"
-    },
-    {
-      "title": "Amazon Layoffs: Employees Hit By Fresh Job Cuts Across Several Business Units; Here's What We Know So Far",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/amazon-layoffs-employees-hit-by-fresh-job-cuts-across-several-business-units-heres-what-we-know-so-far-12154080#publisher=newsstand",
-      "publishedAt": "Thu, 08 Oct 2026 08:27:52 +0530"
-    },
-    {
-      "title": "Chennai Petroleum Corporation among 3 stocks showing RSI Trending Up",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/chennai-petroleum-corporation-among-3-stocks-showing-rsi-trending-up/slideshow/134778562.cms",
-      "publishedAt": "Thu, 08 Oct 2026 08:25:59 +0530"
-    },
-    {
-      "title": "Nana Patekar Cause Of Death: Veteran Bollywood Actor Dies At 75, What We Know",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/nana-patekar-cause-of-death-veteran-bollywood-actor-dies-at-75-what-we-know-12154045#publisher=newsstand",
-      "publishedAt": "Thu, 08 Oct 2026 08:24:47 +0530"
+      "publishedAt": "Thu, 08 Oct 2026 09:46:52 +0530"
     },
     {
       "title": "Stock Market Today Highlights, Oct 6: Sensex Ends 685 Points Higher, Nifty at 22,776; Pharma, Oil & Gas Shares Outperform - NDTV Profit",
@@ -203,10 +164,10 @@
       "publishedAt": "Wed, 07 Oct 2026 10:55:07 GMT"
     },
     {
-      "title": "Closing Bell: Nifty above 22,700, Sensex gains 685 pts ahead of RBI policy - Moneycontrol.com",
+      "title": "Sensex Today | Stock Market LIVE Updates: Sensex slips 350 pts, Nifty below 22,500; IT stocks shine - Moneycontrol.com",
       "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRURscmhwaTVEdDc2N3VsdmdmMXpBTEJHV21icXZodDF4ZWpIWTZBakVGR3pJTUNUSGREem55aFpkd1BiVjE3eThrOEhOMWJ0M3poRGpVVm9Oa3JFRTZGbmc1X2dYY1dLakJqYlVJcUJSUERla21TOVVBYXVlY3BkRU9ISERjLWdPRGV6NTZNRUlHMFJPS2c2OGUtRGlmQzhnZW9Bc2lOSjlqbTRIbEk1ZFYwOFRkcHhiMDZzY0tURjl4cEFrb1VFSEd4LUJ3OXllaXZzMFZFY0tXajVlWjJ3dm9qelBJMWJDU0N1NmF1N0wxRFlCN2VNRzdCd3lscWExMUl2UHRrb1NEb2FRRkZKd0JCUjMwQUJFU09NRFJ3MUYxLUXSAagCQVVfeXFMT1ZyWXNnc3c3SlRBSWpVSzZCWVNmRHpxbmFuTkY4aHlnUkNqdThPUnpaOFZ0a1I2V04yLVBkQVhRbVNUcV8tVUdEcExIb0s5eGdvWjlTMEI0amN3NUhIVlRxRG8yVUI2WFlyWnF5Rk52YWNTc1NMWDIxbjR3T2F4OEg1c3hsdjk4UEZDaFA4U3BPVlMtRXZJTDR3b1dDckYtYjFHZ25IbkpaMkZfbGJxU2hfMzJvZzJSY0JDV1lJT0hqRDFJY1lreU82bHV5NFg5aTBvb2tFYlNOcHZLV3RzV3JVeUVnNEFRQzUtTHNYUW1SN1ZjUkdEcGJUSTRZOFNtVVB1U19fUWhTcWNwRkxQLVN3eFpXVWQxWnEyY0lXS0lpcGd2TjBFWlA?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 10:46:52 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcTRfalFkYnFRamgwNHR4LUhVU2ZoWVNGZ0RqcTNXYmI5YkpScE1uZFpJTk50Y1FYRWxzMkM5OEZkeTk5bE9EMTdRUjR3SjJBQmVseGl2MVlocFdlcEhhYkZOTXYyTF80b3FLangxLWs2V3BIVk1WX1RsRS1tR2t3d3lPcVZaZlMtalRBemZ1OWE2QUpfN2F1UTF3eWxBQUFCMzFuUUtrckduMnF3S09EVVkzYVlnNXlzWXE2emNQdThEamN6M21Lam1KMVJTSkRGVUpwMmRWYXFYdzJKS2pQczBpTEN0Qm5CN3doQ3BhdzFDcHVybTZmbm1XWVY1VjBoMUc0azgxZmMyMzRiVGxBRDBpMHpoMEFBU0tYTmJrQkhLOXfSAagCQVVfeXFMUHhITTdaeFBha0g4cWc2VUt3OTZkd2FhaWVWREhGRlBuT0JhakhZNDdfeHJJVGNYM0tSTGFtUVh5aUhsc2FIMDdZcnk5Yno4cFI5d1dsN21WejBuRlEtVWpqeHYtcnUyYk5XZE03MXdsRmsyOEJ5V25BRmZwQkVPQUY1Sl9mWHhnNWZ1ZFZHUE1CZy1rWHJ5ckp3WnlKOEU4SFY4aEVueWdPQ3R0NUtZZklQcHhzWm1iV2xwdGxEbk9Gb0MxVEpORzdHdEE2dEJBWFVJbFJOR1hoUF9pbU1XaTBkTWVNWHZqMjRMbTJyVHR3NTJGVVVQaFVFaUpyTHZQQ1ZSeTJ5N1dxSnJ4YWhqeGd5VDlvdjRDQVpNTWF1RlJ0TTI2OHJwSkU?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 04:55:56 GMT"
     },
     {
       "title": "Stock market outlook today, 8 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Kospi, Taiwan cues - Livemint",
@@ -215,22 +176,22 @@
       "publishedAt": "Thu, 08 Oct 2026 01:20:20 GMT"
     },
     {
+      "title": "Closing Bell: Nifty above 22,700, Sensex gains 685 pts ahead of RBI policy - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRURscmhwaTVEdDc2N3VsdmdmMXpBTEJHV21icXZodDF4ZWpIWTZBakVGR3pJTUNUSGREem55aFpkd1BiVjE3eThrOEhOMWJ0M3poRGpVVm9Oa3JFRTZGbmc1X2dYY1dLakJqYlVJcUJSUERla21TOVVBYXVlY3BkRU9ISERjLWdPRGV6NTZNRUlHMFJPS2c2OGUtRGlmQzhnZW9Bc2lOSjlqbTRIbEk1ZFYwOFRkcHhiMDZzY0tURjl4cEFrb1VFSEd4LUJ3OXllaXZzMFZFY0tXajVlWjJ3dm9qelBJMWJDU0N1NmF1N0wxRFlCN2VNRzdCd3lscWExMUl2UHRrb1NEb2FRRkZKd0JCUjMwQUJFU09NRFJ3MUYxLUXSAagCQVVfeXFMT1ZyWXNnc3c3SlRBSWpVSzZCWVNmRHpxbmFuTkY4aHlnUkNqdThPUnpaOFZ0a1I2V04yLVBkQVhRbVNUcV8tVUdEcExIb0s5eGdvWjlTMEI0amN3NUhIVlRxRG8yVUI2WFlyWnF5Rk52YWNTc1NMWDIxbjR3T2F4OEg1c3hsdjk4UEZDaFA4U3BPVlMtRXZJTDR3b1dDckYtYjFHZ25IbkpaMkZfbGJxU2hfMzJvZzJSY0JDV1lJT0hqRDFJY1lreU82bHV5NFg5aTBvb2tFYlNOcHZLV3RzV3JVeUVnNEFRQzUtTHNYUW1SN1ZjUkdEcGJUSTRZOFNtVVB1U19fUWhTcWNwRkxQLVN3eFpXVWQxWnEyY0lXS0lpcGd2TjBFWlA?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 10:46:52 GMT"
+    },
+    {
       "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjdLa1Q4STc5UFU5VzcxNWpmcHBDaXd3U1ktUkJhTUk0ZjlJRHZ6YWtzTkRhNDg0WFlELXdwLUlkMkVCYm1GUHhQNUlwazJHWlZIaVlhZmVBcGdOVHZsNFd2QUg5VXJkNjRKSzlvMnc3dWN0SjVFTnlidVVZMzctRjdEVzF4X3B0TEpUNURhcHFRV2ZMb3VDUGtnNDZhNXdIQWNlTTBHRGZPXzNkLUVXY1ZONFNHYjhqbFQwS0JqMGROVjE2bmZJ0gHOAUFVX3lxTE8wN3RPazNfT2JQaWdsVUpBb01Jd1FBTU9qYkZrNnZ2eENBY1UwSTBwOU1FWEcteXJ3RDNBME40TTRJTGdWOGxRVGl6TC1FTTkzenVWTFczZ2Q4c19jSXcyU3VfdFVwdzVZaktpa0hsRWIyZWtRbkVYcWdtWHpUTWd2MWFlTG4xVWhTY1o3czQ0RmF6NU5xTXNTRUdPZXhTNGVlT1Z6TXZHUHN0aVlmeTVBalhXdVBYdl96OGxaSksyQ19wMks2em5jNDZOdDFn?oc=5",
       "publishedAt": "Tue, 06 Oct 2026 12:39:41 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: BSE Sensex surges 685 points; Nifty50 holds above 22,770 - The Times of India",
+      "title": "Stock Market Today Live Updates: Markets end in green; Sensex gains 473 points, Nifty rises 134 points - The Times of India",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNTk91QWdlWk50QkhrOF9IRmhzR01GUnJ3bC0wRURIbERyQjY0Vy05bmhvbnlQenRpZnRZNlE2aHc0VXpTc09pY21lVlI2anhkY2dKcmd0SlZIeVhDbGN1SWlTUEVtb0MzWmlCbS0wa0ZBb0lBM2tYcnBsUEpnMEN5SllSTHBpdGZ4SW1kNnFWZlgzeF9LT19iTFhLSWlWVEVIVG5FY3Z0ZzBfUnFrV3JLdW1rRExqaVMyVjI0cW82UUpZa1Y3R3NmeHM0Y3JSLU12RV9PREoyTzhQZmVVdExnTGZFVHlxeUJWSFpxSTRMNFdXcm92Z016TGtHb2cxSzZIbkNrMjhJUk83TWc5c25ES1R0eFlOSTVHY3JEV3ZoYTY3UmE0OV9HcDdRNUQ2WFZKVTdkQ9IBugJBVV95cUxQY3pfZDhza01JSWV3Q3pYdUtiVUJFY0M2TWNWc0xsRDFuV2RTdi1TU3p4Tk1ENG1mal9vYy16ZHUwZG03NHpBa0RkWWNyWUVQa1o2LXNTVk9ZUG9WM2JINml0YU9rQmgwdzVzbUlITEpiVkJxZUFvdU9ncUh4WVlnVUkxMnhuLVZfQ242M2RoWVUtekRMUTVyc0hIYzVqWF9JcjAzRUVyRFdWYWM5YmU5VVp0bjg3OWZ6SXAtRlFZbC1SckhOWER6Z2FjaF9nVWdRellnRnlhbGFXWGJNcjVYTG9lY2lvLVBIOHRkaFRibkVnZHEwdmpkbjJ4T093MWJKa0kzMlA5SkZWcGRjeUdMeEZrNThaWWVINEd0bzVWb2dUMXdFOFV2aUVfREE4SEYyVjlybnUxdkJYQQ?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 11:01:00 GMT"
-    },
-    {
-      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex rallies 685 pts, Nifty ends above 22,750; RIL, ... - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNU0xkSHhXaEZQVXA0WTUwSDJaUlNPemRsc2tBWUFMZHF0cUxUSHd2VVhkaG9vby1fOXVwY3J2Z1F5VE1oQzBJNzBEQkswZmNESEw3LVAyMFI4NkZoVzdyazBzbHFxTzVGc3puVUZjdlVuZHlUX3hScjFaWTE5cFpMZnAwemlaa3hsRmJpSmROUXVKN2phdGNTYXh1YVAteGt1VjM0enBLU01haEpjY3JWVkxhU0M5bFVkNjc3RUpLOEM5TnJMQmdSQ1lQWG5QR210aEhRcWNqTVNqdkZBXzB4blZ6RTNGdlVLUlBOcjBIRjExZ1pDOEk4SW1XVGRpWmtvSnFaX08yd25vM0MzWi14UtIBlgJBVV95cUxObmJSeXd6YUdiUGJuX0pMWUVNY2VseXlURHRmYTNBVmtBY2ZTaWhNV2RLbHFzZzNRdkUzSWpyWms4UXdPdVNmUUQ0dF9qa2FNU2JpSFJVZ01wUHhXLW1Rbnc4NjlEcUt0amdKa0NiYWo1NzZJb3lFZnhEdG8tWDRUVTBnRGo5SkdVUlpJMlp1M00yY3dfVEIzbVJtSGFCaWhtd0pRNFY1ZTBGemVTUHhKSjd3YTdjbUFXQmVaN0ZiZm9KVjlQQWI5ME5aYnBmQUxCTTkwNlVtaTRWZ3k2TnlqQ0tuY0tEaEZyaHY5SFFEOXl0RFR1Sjc0ZjAyNFVDampINzdXUXdhQXBtS00zbi1ROE9lRVVNUQ?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 11:02:29 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPNmNJcUdxV1hoQVJhMVMzSElvZUtyWG1YYkh2ZVBCbUNVcFAzUW9TOUgwVDlrdHdUQ2hWNjJkdWtkRnNrUGZXMnJ1Y0V0SW8xSGs4M2t3a2NHWmFHVXVWUXQ0Y2JBeHdTWlpMWWF5Szc1OUo2cjBrMTBfMG1jejIyejVRU2lvOHF4d2NPQUhJajl6cHR4b1praUxpQXk1WWhQcFdwRE1nTHhUeHdTbXE3cjFLTkg4STBNNVJRWlkxbW43LUNGZXQ0SUNSNmhHTEVjRTB1b3FoSC15cnhqTHZwczFsaFdKZWMxakZtdnNxS2U5QWdLd3Fyc2l2cWMwaXFZTWdQREVoXzFuZmp0YmcweVY5RU5SbkE1WUZPMXMtVlhPaS1qRlFxYTI0ZmE0VXc5Rk43btIBugJBVV95cUxOYVFBU0NWN2JMUDFqNndOdGE4QlkwdndZaVZGOHUtYUl5dUVHOFNtMW1XUGpzekI3TV80WkFwdENackVHLWdTNEhxTWpSbEk0Z2VzZzAzUFJMdzV1SmthOGxOVTlWajc5THl2eU5nMnNlWlB3T01nUlk5eThLaDVBc3lfUXVKTlh3RkdDRkNaY0pENnpBWURTVGNXdU9iekE5NE03QUh5TnhmRHN5cUdkZ3FhMXNoY0k4TWVlemdJY2FOUW96Z2hqQ01UUFhURDYyT3RocWRYOVpERmk5cGlVOWE0clJ5Ync2NHRRMm9xQVYtRzBHNEdGZDlUczNvZEwzQ2ttdGIxZXg2VjZGVWw0LTdGWVBsRGYzNlFrdnBwUDE0dkVzMDJLWTFtdTNhR1dVQXlDU0FMcFNxZw?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 10:39:20 GMT"
     }
   ]
 }
