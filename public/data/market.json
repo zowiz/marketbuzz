@@ -1,22 +1,22 @@
 {
-  "headline": "Last session: Sensex jumps 900 points and Nifty tops 22,500 as IT stocks lead rebound, snapping losing streak",
+  "headline": "Last session: Sensex jumps 900 points, Nifty tops 22,500 as IT stocks lead rebound, snapping eight-week losing streak",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 12 October.",
-    "nextOpen": "Monday, 12 October"
+    "nextOpen": "Monday, 12 October 2026"
   },
   "why": [
-    "IT sector led the rebound with a 3% jump in the last session, driven by gains in major stocks like TCS",
-    "All sectoral indices turned green, indicating a broad-based recovery across the Indian equity market",
-    "The market snapped its biggest weekly losing streak in 25 years, providing a significant relief rally",
-    "Strong performance in the FMCG sector, which gained over 2%, contributed to the benchmark's surge"
+    "IT stocks led the market rebound with the sector jumping 3% during the last session",
+    "The FMCG sector saw significant gains of over 2% contributing to the overall rally",
+    "Indian markets snapped an eight-week losing streak, the longest in 25 years",
+    "All sectoral indices turned green as Sensex recovered from previous sharp losses"
   ],
   "whatHappening": [
-    "Sensex gained nearly 900 points to close above the 22,500 mark on the last trading day",
-    "Elon Musk targeted Ambani over Starlink's entry into India, alleging monopolistic practices in the sector",
-    "Netflix is planning a major restructuring that puts approximately 850 jobs at risk globally",
-    "The Indian market is currently closed for the weekend and is scheduled to reopen on Monday, 12 October"
+    "Ambani heirs are conducting roadshows for a record-breaking Jio IPO",
+    "Elon Musk has doubled down on claims regarding Starlink's entry into the Indian market",
+    "Gold and silver price surges are driving record trading revenues for global banks",
+    "Delhi Metro has revised station closure lists for October 10 amid ongoing protests"
   ],
   "stocksInNews": [
     {
@@ -29,36 +29,29 @@
     },
     {
       "symbol": "RELIANCE",
-      "sentiment": "Neutral",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "BANDHANBNK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        6
+        4,
+        7
       ]
     }
   ],
-  "summary": "On the last trading day, Indian benchmarks surged as the Sensex gained nearly 900 points and Nifty reclaimed the 22,500 level. The rally was driven by a 3% jump in IT stocks and broad-based buying, successfully snapping a historic weekly losing streak. The market is currently closed for the weekend and will reopen for trading on Monday.",
-  "updatedAt": "2026-10-09T19:02:01.354Z",
+  "summary": "On the last trading day, Indian benchmarks surged as Sensex gained nearly 900 points and Nifty reclaimed the 22,500 level. The rally was driven by a 3% jump in IT stocks and strong performance in the FMCG sector. This rebound successfully snapped an eight-week losing streak, providing significant relief to investors.",
+  "updatedAt": "2026-10-09T20:01:58.960Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-10",
   "articleKeys": [
+    "delivery completed on the gst council meet reforms",
+    "gold silver boom puts us bank trading revenues on track for record 5 billion",
     "it stocks lead nifty rebound as benchmark snaps eightweek losing streak",
-    "elon musk targets ambani over starlinks entry into india alleges monopoly",
-    "netflix layoffs 850 jobs at risk as streaming giant plans major restructuring",
-    "tesla renamed full selfdriving label in europe switches to assisted driving",
-    "india vs west indies shai hope leads visitors to chase 250run target to win 2nd t20i by 6 wickets in ranchi",
-    "this bengaluru farmer makes rs 50000 a day by growing baby bottle gourds for qatar market",
-    "microcredit is business credit not personal loan former bandhan bank ceo",
-    "ab de villiers makes big claim on virat kohli says india star is better than his peak years",
-    "motorola signature 27 india launch confirmed 200mp camera snapdragon chipset and other key features",
-    "india to host world travel tourism council global summit",
+    "did not deny rahul gandhi says president asked for proof of vote chori amid cec row",
+    "dear pm ambani pls allow starlink elon musk doubles down on real boss of india claim",
+    "after sc rap delhi metro revises station closure list for oct 10 check all 45 affected stations",
+    "delhi protest from schools to liquor shops metro more heres what is open and closed on oct 10 amid cec row",
+    "ambani heirs face tough questions in roadshow for record jio ipo",
+    "oppo coloros 17 launch date confirmed enco x4 pad mini teased check details",
+    "he couldnt afford an iphone bought gold for rs 49770 3 years later its worth rs 114 lakh",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
@@ -72,64 +65,64 @@
   ],
   "articles": [
     {
+      "title": "Delivery completed: On the GST Council meet, reforms",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece",
+      "publishedAt": "Sat, 10 Oct 2026 00:38:54 +0530"
+    },
+    {
+      "title": "Gold, silver boom puts US bank trading revenues on track for record $5 billion",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms",
+      "publishedAt": "Sat, 10 Oct 2026 00:18:08 +0530"
+    },
+    {
       "title": "IT stocks lead Nifty rebound as benchmark snaps eight-week losing streak",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/it-stocks-lead-nifty-rebound-as-benchmark-snaps-eight-week-losing-streak-126100901255_1.html",
       "publishedAt": "Fri, 09 Oct 2026 23:39:01 +0530"
     },
     {
-      "title": "Elon Musk targets Ambani over Starlink's entry into India, alleges monopoly",
+      "title": "\"Did Not Deny...\": Rahul Gandhi Says President Asked For Proof Of 'Vote Chori' Amid CEC Row",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/technology/tech-news/elon-musk-targets-ambani-over-starlink-s-entry-into-india-alleges-monopoly-126100901493_1.html",
-      "publishedAt": "Fri, 09 Oct 2026 23:01:41 +0530"
+      "link": "https://www.ndtvprofit.com/india/did-not-deny-rahul-gandhi-says-president-asked-for-proof-of-vote-chori-amid-cec-row-12163633#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 23:31:43 +0530"
     },
     {
-      "title": "Netflix Layoffs: 850 Jobs At Risk As Streaming Giant Plans Major Restructuring",
+      "title": "'Dear PM Ambani… Pls Allow Starlink’: Elon Musk Doubles Down on 'Real Boss of India’ Claim",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/netflix-layoffs-850-jobs-at-risk-as-streaming-giant-plans-major-restructuring-12163559#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 22:55:44 +0530"
+      "link": "https://www.ndtvprofit.com/india/dear-pm-ambani-pls-allow-starlink-elon-musk-doubles-down-on-real-boss-of-india-claim-12163777#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 23:31:11 +0530"
     },
     {
-      "title": "Tesla Renamed 'Full Self-Driving’ Label In Europe, Switches To 'Assisted Driving’",
+      "title": "After SC Rap, Delhi Metro Revises Station Closure List For Oct 10: Check All 45 Affected Stations",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/tesla-renamed-full-self-driving-label-in-europe-switches-to-assisted-driving-12163318#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 22:54:25 +0530"
+      "link": "https://www.ndtvprofit.com/india/after-sc-rap-delhi-metro-revises-station-closure-list-for-oct-10-check-all-45-affected-stations-12163785#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 23:28:12 +0530"
     },
     {
-      "title": "India Vs West Indies: Shai Hope Leads Visitors To Chase 250-Run Target To Win 2nd T20I By 6 Wickets In Ranchi",
+      "title": "Delhi Protest: From Schools To Liquor Shops, Metro & More | Here's What Is Open And Closed On Oct 10 Amid CEC Row",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-vs-west-indies-shai-hope-leads-visitors-to-chase-250-run-target-to-win-2nd-t20i-by-6-wickets-in-ranchi-12163664#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 22:53:42 +0530"
+      "link": "https://www.ndtvprofit.com/india/delhi-protest-from-schools-to-liquor-shops-metro-more-heres-what-open-and-closed-on-oct-10-amid-cec-row-cjp-protest-jantar-mantar-12163758#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 23:17:52 +0530"
     },
     {
-      "title": "This Bengaluru Farmer Makes Rs 50,000 A Day By Growing Baby Bottle Gourds For Qatar Market",
+      "title": "Ambani Heirs Face Tough Questions In Roadshow For Record Jio IPO",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/this-bengaluru-farmer-makes-rs-50-000-a-day-by-growing-baby-bottle-gourds-for-qatar-market-12161891#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 22:52:05 +0530"
+      "link": "https://www.ndtvprofit.com/markets/ambani-heirs-face-tough-questions-in-roadshow-for-record-jio-ipo-12163759#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 23:17:10 +0530"
     },
     {
-      "title": "Microcredit is business credit, not personal loan: Former Bandhan Bank CEO",
+      "title": "Oppo ColorOS 17 Launch Date Confirmed: Enco X4, Pad Mini Teased — Check Details",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/people/microcredit-is-business-credit-not-personal-loan-bandhan-bank-ceo-ghosh-126100901308_1.html",
-      "publishedAt": "Fri, 09 Oct 2026 22:49:14 +0530"
+      "link": "https://www.ndtvprofit.com/technology/oppo-coloros-17-launch-date-confirmed-enco-x4-pad-mini-teased-check-details-12163671#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 23:03:53 +0530"
     },
     {
-      "title": "AB de Villiers Makes Big Claim On Virat Kohli, Says India Star Is Better Than His Peak Years",
+      "title": "He Couldn't Afford An iPhone; Bought Gold For Rs 49,770. 3 Years Later, Its Worth Rs 1.14 Lakh",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/ab-de-villiers-makes-big-claim-on-virat-kohli-says-india-star-is-better-than-his-peak-years-12163340#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 22:47:31 +0530"
-    },
-    {
-      "title": "Motorola Signature 27 India Launch Confirmed: 200MP Camera, Snapdragon Chipset And Other Key Features",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/motorola-signature-27-india-launch-confirmed-200mp-camera-snapdragon-chipset-and-other-key-features-12163304#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 22:44:19 +0530"
-    },
-    {
-      "title": "India To Host World Travel & Tourism Council Global Summit",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/india-to-host-world-travel-tourism-council-global-summit-12163634#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 22:43:02 +0530"
+      "link": "https://www.ndtvprofit.com/business/he-couldnt-afford-an-iphone-bought-gold-for-rs-49-770-3-years-later-its-worth-rs-1-14-lakh-12161693#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 23:03:07 +0530"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex jumps over 1000 points, Nifty50 climbs above 22,550 - The Times of India",
