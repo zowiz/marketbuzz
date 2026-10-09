@@ -1,5 +1,5 @@
 {
-  "headline": "Market under pressure as Nifty hits 52-week low amid RBI rate hike and rising crude oil prices",
+  "headline": "Market under pressure as Nifty hits 52-week low amid RBI rate hikes and surging crude oil prices",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,31 +7,39 @@
     "nextOpen": ""
   },
   "why": [
-    "RBI hiked interest rates for the first time in nearly four years to combat price pressure",
-    "Brent Crude oil prices surged near $104 due to Iran tanker attacks and hurricane threats",
-    "GQG Partners sold Indian stocks worth Rs 24,400 crore during 2026",
-    "U.S. sanctions imposed on Mumbai-based firms and Indian nationals over Iran oil trade"
+    "The RBI recently hiked interest rates for the first time in nearly four years to address price pressure",
+    "Brent crude oil prices have surged toward $104 due to Iran's tanker attacks and hurricane threats to US supply",
+    "GQG Partners offloaded Indian equities worth Rs 24,400 crore in 2026, including exits from ITC and Adani stocks",
+    "Geopolitical tensions rose as the U.S. sanctioned Indian nationals and Mumbai-based firms over Iran oil trade"
   ],
   "whatHappening": [
-    "Nifty 50 touched a fresh 52-week low while Sensex plummeted over 1,000 points",
-    "Cochin Shipyard secured a major international order to build 40 ships for multiple nations",
-    "Gold and silver imports by banks and nominated agencies now attract a 3% IGST",
-    "JM Financial emerged as the leader in the investment banking league table for H1 FY27"
+    "The Nifty 50 recently hit a fresh 52-week low while the Sensex plummeted over 1,000 points in a single session",
+    "Cochin Shipyard secured a major international order to build 40 ships for clients in the U.S., Germany, and Norway",
+    "JM Financial emerged as the leader in the investment banking league table for the first half of FY27",
+    "A 3% IGST has been introduced on gold and silver imports by banks and nominated agencies"
   ],
   "stocksInNews": [
     {
       "symbol": "COCHINSHIP",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         3,
         9
       ]
     },
     {
+      "symbol": "JMFINANCIL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
       "symbol": "ITC",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         3,
         6
@@ -40,48 +48,16 @@
     {
       "symbol": "ADANIENT",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
         6,
         12
       ]
     },
     {
-      "symbol": "JMFINANCIL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
       "symbol": "HINDALCO",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         12
       ]
@@ -89,14 +65,38 @@
     {
       "symbol": "TITAN",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         15
       ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
     }
   ],
-  "summary": "The Indian stock market is facing significant headwinds as the Nifty hits a 52-week low following a surprise RBI rate hike and heavy selling by GQG Partners. Global geopolitical tensions have pushed Brent crude toward $104, further dampening investor sentiment across major sectors. Despite the downturn, Cochin Shipyard stands out with positive momentum after securing a large-scale international shipbuilding order.",
-  "updatedAt": "2026-10-09T01:31:33.149Z",
+  "summary": "The Indian market is facing significant headwinds as the Nifty hit a 52-week low following a surprise RBI interest rate hike. Geopolitical tensions and supply threats have pushed Brent crude toward $104, while heavy selling by GQG Partners has further pressured major equities. Despite the broader volatility, Cochin Shipyard and JM Financial reported positive operational developments.",
+  "updatedAt": "2026-10-09T01:37:17.843Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-09",
   "articleKeys": [
@@ -116,10 +116,10 @@
     "stock market today live updates bse sensex tumbles 400 points nse nifty50 closes below 22670 the times of india",
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom",
     "stock market highlights sensex nifty snap 2day winning run smids mixed titan top loser ndtv profit",
-    "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 cnbc tv18",
     "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard",
-    "stock market today highlights oct 6 sensex ends 685 points higher nifty at 22776 pharma oil gas shares outperform ndtv profit",
-    "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom"
+    "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
+    "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom",
+    "stock market today highlights oct 6 sensex ends 685 points higher nifty at 22776 pharma oil gas shares outperform ndtv profit"
   ],
   "articles": [
     {
@@ -219,28 +219,28 @@
       "publishedAt": "Wed, 07 Oct 2026 10:14:40 GMT"
     },
     {
-      "title": "Stock Market Highlights: Nifty at 22,600, Sensex falls 429 pts after RBI hikes rate for first time in nearly 4 - CNBC TV18",
-      "source": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZy1YSzEwaDdUbjhFREcwMWdpN0RIN2RXT2dfNmlMdmpEV0JoamZQLXdxNWdUeEp4TWxBdFdELVZ0djhoZzlScmd0WjR6dkRGQTlxMjhHcm0yZUZMRzFpRXZnczU1eGVlelMwTnFWZGJmZnREaFRtM2cxcWRXYnNTaXVza0E3SHF1SWxwdlM0OHZ2dl9WMHNyWE1udHd5cUpOZnoxZGFHN2YxMUl1OVV2cUNqYUdpZE5Rc0gzdzBvMlpja3BSRHVJaGVwcUtlbFBWdXJMWS1jREkxNlpoZjl1cTRMc0NxNUxELThsanR2UXJiS2VkSTN0RjZJY1FBRXZ4VzhvMUp3bVZiVFVzeVdCbzdR0gGXAkFVX3lxTFBtaHJIY3FvbThtWlNCaDJGbEk2WThHQ2JTbGVrOE9yT3pqcXdfa3BScVJ6LUNuSDRfZnA2RUVTSDJvUE53ZnFKM2tieTA1cTFFbGlfZmJhOGNHTzZKVkN5My1EWkJuZmVoT29sdXotYzNtTWVHaDZEMVFKRnR4bTBvcnh2Qk1DcWRfemJ2WVFzbk9OY3NKOUlGZEZfbVFTRnRQX0pOc095VlBZUjBVa2tsZkdCbndXbmthVEVfanJGTVNyR1hUc29UeWlxUUMtLUxNQ2tFS0ZyU1F5UkllY2h0ZUdkcmw2R2hXRmlEQ08tOUtSbllwTzY4clpUUGEycndyYXF2cVEteUFLLTZyZTlTeXBJbTFibw?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:15:12 GMT"
-    },
-    {
       "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
     },
     {
-      "title": "Stock Market Today Highlights, Oct 6: Sensex Ends 685 Points Higher, Nifty at 22,776; Pharma, Oil & Gas Shares Outperform - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQazRRVUVURVY4enRBenFvbHVRSVZ4emtSV1k2OEtaQ0JRZ2Q5YlJPNTVWWG5LRE9qS3ZtMWVwQkZxTmRNWkQ5YlN1bHdmTTJIZVp6dWcybzRsdVIwWWpzZUFEN2JGcG1KT3N5cVplYVlVckV3SUxJMW5jZUVsUlN6MnhRUmh0Qko4WDBURU51by1yVFEyMzFNUkYxUXNYNThBWHlMa3pPNDRaS0lZeXJRQzQ3TEVmeVJTX1c3RlJSMmFJeTjSAcsBQVVfeXFMTXd5NTZPU1lneGFjZHVuUGZjYkdsSU5VM2R0S21rWTBOX0ZHdnlHRHQ4QTFtYVd0b1BXdVVKejRKYlNibjhUbHlHcHgzN3BNYzRkM0VZa1p3N1gtdVpqbmxQZFMzTmUycm1UbXp1TGJJRGZYWVFXNGRheXlkelBrbS1KUjk0RWtpTndDM2tnV01qdHlKSkVkTWRiNl9SVDFkbkg5N013S0lPMzk1bXVqbUZkaVlua0JUWVJBN1NHWGVYdXZ1Y1lEWHFiRU0?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 10:09:48 GMT"
+      "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjdLa1Q4STc5UFU5VzcxNWpmcHBDaXd3U1ktUkJhTUk0ZjlJRHZ6YWtzTkRhNDg0WFlELXdwLUlkMkVCYm1GUHhQNUlwazJHWlZIaVlhZmVBcGdOVHZsNFd2QUg5VXJkNjRKSzlvMnc3dWN0SjVFTnlidVVZMzctRjdEVzF4X3B0TEpUNURhcHFRV2ZMb3VDUGtnNDZhNXdIQWNlTTBHRGZPXzNkLUVXY1ZONFNHYjhqbFQwS0JqMGROVjE2bmZJ0gHOAUFVX3lxTE8wN3RPazNfT2JQaWdsVUpBb01Jd1FBTU9qYkZrNnZ2eENBY1UwSTBwOU1FWEcteXJ3RDNBME40TTRJTGdWOGxRVGl6TC1FTTkzenVWTFczZ2Q4c19jSXcyU3VfdFVwdzVZaktpa0hsRWIyZWtRbkVYcWdtWHpUTWd2MWFlTG4xVWhTY1o3czQ0RmF6NU5xTXNTRUdPZXhTNGVlT1Z6TXZHUHN0aVlmeTVBalhXdVBYdl96OGxaSksyQ19wMks2em5jNDZOdDFn?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 12:39:41 GMT"
     },
     {
       "title": "Closing Bell: Nifty above 22,700, Sensex gains 685 pts ahead of RBI policy - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRURscmhwaTVEdDc2N3VsdmdmMXpBTEJHV21icXZodDF4ZWpIWTZBakVGR3pJTUNUSGREem55aFpkd1BiVjE3eThrOEhOMWJ0M3poRGpVVm9Oa3JFRTZGbmc1X2dYY1dLakJqYlVJcUJSUERla21TOVVBYXVlY3BkRU9ISERjLWdPRGV6NTZNRUlHMFJPS2c2OGUtRGlmQzhnZW9Bc2lOSjlqbTRIbEk1ZFYwOFRkcHhiMDZzY0tURjl4cEFrb1VFSEd4LUJ3OXllaXZzMFZFY0tXajVlWjJ3dm9qelBJMWJDU0N1NmF1N0wxRFlCN2VNRzdCd3lscWExMUl2UHRrb1NEb2FRRkZKd0JCUjMwQUJFU09NRFJ3MUYxLUXSAagCQVVfeXFMT1ZyWXNnc3c3SlRBSWpVSzZCWVNmRHpxbmFuTkY4aHlnUkNqdThPUnpaOFZ0a1I2V04yLVBkQVhRbVNUcV8tVUdEcExIb0s5eGdvWjlTMEI0amN3NUhIVlRxRG8yVUI2WFlyWnF5Rk52YWNTc1NMWDIxbjR3T2F4OEg1c3hsdjk4UEZDaFA4U3BPVlMtRXZJTDR3b1dDckYtYjFHZ25IbkpaMkZfbGJxU2hfMzJvZzJSY0JDV1lJT0hqRDFJY1lreU82bHV5NFg5aTBvb2tFYlNOcHZLV3RzV3JVeUVnNEFRQzUtTHNYUW1SN1ZjUkdEcGJUSTRZOFNtVVB1U19fUWhTcWNwRkxQLVN3eFpXVWQxWnEyY0lXS0lpcGd2TjBFWlA?oc=5",
       "publishedAt": "Tue, 06 Oct 2026 10:46:52 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights, Oct 6: Sensex Ends 685 Points Higher, Nifty at 22,776; Pharma, Oil & Gas Shares Outperform - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQazRRVUVURVY4enRBenFvbHVRSVZ4emtSV1k2OEtaQ0JRZ2Q5YlJPNTVWWG5LRE9qS3ZtMWVwQkZxTmRNWkQ5YlN1bHdmTTJIZVp6dWcybzRsdVIwWWpzZUFEN2JGcG1KT3N5cVplYVlVckV3SUxJMW5jZUVsUlN6MnhRUmh0Qko4WDBURU51by1yVFEyMzFNUkYxUXNYNThBWHlMa3pPNDRaS0lZeXJRQzQ3TEVmeVJTX1c3RlJSMmFJeTjSAcsBQVVfeXFMTXd5NTZPU1lneGFjZHVuUGZjYkdsSU5VM2R0S21rWTBOX0ZHdnlHRHQ4QTFtYVd0b1BXdVVKejRKYlNibjhUbHlHcHgzN3BNYzRkM0VZa1p3N1gtdVpqbmxQZFMzTmUycm1UbXp1TGJJRGZYWVFXNGRheXlkelBrbS1KUjk0RWtpTndDM2tnV01qdHlKSkVkTWRiNl9SVDFkbkg5N013S0lPMzk1bXVqbUZkaVlua0JUWVJBN1NHWGVYdXZ1Y1lEWHFiRU0?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 10:09:48 GMT"
     }
   ]
 }
