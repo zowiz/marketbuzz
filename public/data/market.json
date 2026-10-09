@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets face volatility as RBI rate hike and US IT visa suspensions dampen investor sentiment",
+  "headline": "Indian markets face volatility following RBI rate hike and US PERM ban on IT firms while Cochin Shipyard gains",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "RBI hiked interest rates for the first time in nearly four years to combat inflation.",
-    "Major Indian IT firms face suspension from the US green card programme, affecting talent mobility.",
-    "Nifty hit a fresh 52-week low following a significant market sell-off and crash.",
-    "Global sentiment is weak due to rising crude oil prices and high US Treasury yields."
+    "RBI hiked interest rates for the first time in nearly four years to address inflation and price pressures.",
+    "US PERM green card application processing was suspended for major IT service providers including TCS, Infosys, and Wipro.",
+    "Rising crude oil prices and high US Treasury yields placed pressure on global tech stocks.",
+    "Nifty and Sensex witnessed sharp sell-offs led by heavyweights, with Nifty dropping towards 22,600 levels."
   ],
   "whatHappening": [
-    "Cochin Shipyard secured a major international order to build 40 ships for several nations.",
-    "TCS, Infosys, and Wipro are navigating the impact of the US PERM ban on green card processing.",
-    "Adani Enterprises, Hindalco, and Titan emerged as top losers in recent trading sessions.",
-    "Elon Musk questioned the Starlink authorization process in India, citing potential bias towards local giants."
+    "Cochin Shipyard secured contracts to build 40 ships from international clients across the US, Germany, Norway, and other nations.",
+    "Sensex dropped over 400 points following the RBI policy announcement while top losers included Adani Enterprises, Hindalco, and Titan.",
+    "Indian IT stocks faced headwind risks due to immigration policy suspensions affecting H-1B visa holders and green card processing.",
+    "The government notified a 3% IGST charge on gold and silver imports by banks and nominated agencies."
   ],
   "stocksInNews": [
     {
@@ -24,7 +24,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0
+        1
       ]
     },
     {
@@ -32,8 +32,8 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        7,
-        8
+        8,
+        9
       ]
     },
     {
@@ -41,8 +41,8 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        7,
-        8
+        8,
+        9
       ]
     },
     {
@@ -50,7 +50,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        8
+        9
       ]
     },
     {
@@ -82,15 +82,16 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        4
+        5
       ]
     }
   ],
-  "summary": "The Indian stock market is experiencing significant volatility, with the Nifty hitting a 52-week low following a surprise RBI rate hike. Major IT firms like TCS and Infosys are facing headwinds due to US green card programme suspensions. However, Cochin Shipyard provided a positive highlight by securing a major international order for 40 ships.",
-  "updatedAt": "2026-10-08T23:34:23.949Z",
+  "summary": "Indian benchmark indices closed sharply lower after the RBI announced an unexpected interest rate hike to curb persistent inflation pressures.\nIT stocks faced additional pressure amid news of US green card PERM program suspensions for major Indian tech firms.\nOn the stock-specific front, Cochin Shipyard stood out positively after securing massive international ship construction orders.",
+  "updatedAt": "2026-10-09T00:01:35.965Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-09",
   "articleKeys": [
+    "gold silver imports by banks nominated agencies to attract 3 igst",
     "cochin shipyard gets order to build 40 ships from us germany norway other nations sonowal",
     "us stocks sampp 500 nasdaq end lower as crude prices jump chip stocks weigh",
     "tech stocks drag nasdaq lower on report of openai revenue fall high yields",
@@ -100,7 +101,6 @@
     "us president donald trump buys 1 millionplus stakes in meta microsoft mcdonalds adds spacex debt",
     "cognizant infy tata among it firms suspended for us green card programme",
     "working at tcs infosys wipro on h1b and waiting for a green card heres what the perm ban means for you",
-    "math association accuses open ai of plagiarism copyright violation urges mathematicians not to work with firm",
     "why did market crash today nifty hits fresh 52week low sensex tanks over 1000 pts 7 triggers behind r the economic times",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
@@ -113,6 +113,12 @@
     "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/gold-silver-imports-by-banks-nominated-agencies-to-attract-3-igst/article71561342.ece",
+      "publishedAt": "Fri, 09 Oct 2026 04:19:16 +0530"
+    },
     {
       "title": "Cochin Shipyard gets order to build 40 ships from U.S., Germany, Norway, other nations: Sonowal",
       "source": "Zerodha Pulse",
@@ -166,12 +172,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/world/working-at-tcs-infosys-wipro-on-h-1b-and-waiting-for-a-green-card-heres-what-the-perm-ban-means-for-you-12158668#publisher=newsstand",
       "publishedAt": "Thu, 08 Oct 2026 23:20:08 +0530"
-    },
-    {
-      "title": "Math Association Accuses Open AI Of Plagiarism, Copyright Violation, Urges Mathematicians Not To Work With Firm",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/math-association-accuses-open-ai-of-plagiarism-copyright-violation-urges-mathematicians-not-to-work-with-firm-12158665#publisher=newsstand",
-      "publishedAt": "Thu, 08 Oct 2026 23:19:51 +0530"
     },
     {
       "title": "Why did market crash today? Nifty hits fresh 52-week low, Sensex tanks over 1,000 pts. 7 triggers behind R - The Economic Times",
