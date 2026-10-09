@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges over 700 points as TCS, ITC, and sectoral gains drive market recovery",
+  "headline": "Sensex and Nifty surge 800 points led by IT giants TCS and Wipro; hospital stocks rally despite price caps",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,31 +7,48 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex gains nearly 800 points as all sectoral indices turn green.",
-    "Rally in IT stocks led by TCS provides strong support to benchmark indices.",
-    "India VIX drops 5%, reflecting reduced market volatility.",
-    "Midcap stocks and hospital equities see strong buying interest."
+    "Heavy buying in IT stocks including TCS, Wipro, and HCL Tech",
+    "Broad-based recovery across all sectoral indices as market sentiment turned positive",
+    "Bullish analyst sentiment on hospital stocks despite government price caps on cancer drugs",
+    "Significant reduction in market volatility with the India VIX falling by 5%"
   ],
   "whatHappening": [
-    "Nifty trades near 22,500 while Sensex touches day's high with an 800-point jump.",
-    "TCS and ITC lead large-cap gainers, with Colgate and SAIL leading midcaps.",
-    "Hospital stocks like Apollo and Max Health rally up to 5% despite cancer drug price caps.",
-    "Multibagger stock Cupid jumps 3% to hit a fresh 52-week high."
+    "The Sensex surged over 800 points while the Nifty 50 traded above the 22,500 mark",
+    "Multibagger stock Cupid hit a fresh 52-week high following a 3% price jump",
+    "MidCap stocks like Colgate and SAIL emerged as top gainers in the afternoon session",
+    "IT giants TCS and Wipro led the market rally as sectoral indices turned green"
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 3/9 sources",
       "articleIds": [
         0,
-        14
+        14,
+        17
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        17
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        17
       ]
     },
     {
       "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         0
       ]
@@ -39,7 +56,7 @@
     {
       "symbol": "COLPAL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         0
       ]
@@ -47,7 +64,7 @@
     {
       "symbol": "SAIL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         0
       ]
@@ -55,7 +72,7 @@
     {
       "symbol": "CUPID",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         3
       ]
@@ -63,7 +80,7 @@
     {
       "symbol": "APOLLOHOSP",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         8
       ]
@@ -71,30 +88,14 @@
     {
       "symbol": "MAXHEALTH",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         8
       ]
-    },
-    {
-      "symbol": "ADANIENT",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        15
-      ]
-    },
-    {
-      "symbol": "HINDALCO",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        15
-      ]
     }
   ],
-  "summary": "Indian benchmark indices staged a strong recovery on October 9 with Sensex surging over 700 points.\nIT heavyweight TCS along with ITC drove the rally as all sectoral indices turned green.\nHospital stocks and midcap gainers like Colgate and SAIL also registered significant gains.",
-  "updatedAt": "2026-10-09T07:01:40.577Z",
+  "summary": "The Indian stock market experienced a robust rally on Friday, with the Sensex jumping 800 points and Nifty 50 crossing the 22,500 level. The surge was primarily driven by the IT sector, with TCS and Wipro leading the gains, alongside a strong performance from hospital stocks. Investor confidence was further bolstered by a 5% drop in the India VIX, indicating lower market volatility.",
+  "updatedAt": "2026-10-09T07:31:51.934Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-09",
   "articleKeys": [
@@ -108,16 +109,16 @@
     "cti seeks ban on protests in delhi till diwali says business hit",
     "apollo max health other hospital stocks rally up to 5 despite cancer drug price caps why jefferies stays bullish",
     "stock market live sensex at days high surges 800 pts nifty near 22500 vix down 5",
-    "why did market crash today nifty hits fresh 52week low sensex tanks over 1000 pts 7 triggers behind r the economic times",
-    "stock market today live october 9 sensex gains nearly 800 points nifty tops 22450 as all sectoral indices turn green businessline",
+    "stock market today live highlights sensex fell 1045 points to settle at 7159324 while nifty closed at 2223180 the times of india",
+    "sensex today stock market live sensex gains nearly 800 points nifty tops 22450 as all sectoral indices turn green businessline",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "why is stock market up today good friday for sensex nifty 5 biggest contributors to dstreet party livemint",
     "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
+    "why is market rising today sensex jumps 800 points nifty above 22500 6 key factors driving dstreet re the economic times",
     "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
-    "stock market outlook today 9 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei 225 cues livemint",
+    "stock market today live sensex jumps 800 points nifty 50 above 22500 led by it banks tcs wipro hcl tech lead ndtv profit",
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom",
-    "stock market prediction for today sensex nifty outlook for friday kospi taiwan cues to watch 9 oct 2026 livemint",
-    "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard"
+    "stock market prediction for today sensex nifty outlook for friday kospi taiwan cues to watch 9 oct 2026 livemint"
   ],
   "articles": [
     {
@@ -181,16 +182,16 @@
       "publishedAt": "Fri, 09 Oct 2026 11:01:01 +0530"
     },
     {
-      "title": "Why did market crash today? Nifty hits fresh 52-week low, Sensex tanks over 1,000 pts. 7 triggers behind R - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZzlsa0lxZTQ5aTd4RFhxLU5rXzl3d0kyYmZXQTZXbDNpaG45d3FMVTJ2b2FjV083a0ZFQWhycGxKN2gzTkk3Ny1mVHJsX3BMdlBqOGpzZ2k2NjgtU0Jvd1J1bnlPSTdiMGdOOW11UjdMUWRWa0g5VGpwWm54MjctNE9HdEVCMGdoRkFYZ194ZFg4bXl4YlpmdnFJRndIblNOOE5KWVVBZEF6QWhTV2tBRVJxSVFZRXVfbnRsOTdCUTlEbk5XSm1wZG51N01CTElKeFJDdGR6MUFYOUt0N2xSaWJOZEpkdmRmV2VkS2JENzdiS09BbXM5WV9Ca2dEaUVuek4wa3Bpb2ZQSnk5QlB1QVdjYXRBWEhYX0YxWdIBogJBVV95cUxQMTRkWHRHZHpIYVMzUXVseW9tcUZrZVJxVi0xck9yc3VjR3gyaU01TXA2MkFTSzNXYWNxLXBteHdvdWJPSVVleEw5aWFSTkJWVkVueld0em9Wb1BKWGZKODJxcWJ4WFlLYklMM2ZvR3FIN0ppY2JLVXBDbEpmaFBLMGNPRk5ybXJWWE5nQnA3T3lqV0RISDlJZzE1NVpicGlISHV5Wm9oV2NfVjRLMTJhbmNoVWxERlowWjRWeGxGV0hiQk9WS1A4Z1ZBNWFpM1hmVUUtS1NDNzYybUFLanprM2VKSEhCb0w5aTRxbHFyLXhPcENseElCcDRJcHo1VHdCNk9sNUZTcmw0TEIxWmdzWTlKcWlnWGM5UWdOc21mME9PUQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:16:29 GMT"
+      "title": "Stock Market Today Live Highlights: Sensex fell 1,045 points to settle at 71,593.24, while Nifty closed at 22,231.80 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxORkdKU1hkdFkwOW1pX1pLdHcxLTRlaWs3VUZzZkFVZzg2aUtBTkxGRWpXcVhlUk9tMDhMV1kzbEx5X29YM05hSmJSSkRwRnE5UHFKWERtRmMtQ2xFVWloMEZPbWM0ZUZBZnRMbHVDamp4dXhPMWFsSkhNYUw4c29SNUJ1MlV1d3p2bG00bGF2ZTVvZ3BzN2xBX1FUOHgzajljWUpNdHl5SGNSM2habjM0R0NRdzhNT2VVVE5HMXUxZTRfNWRuS2t2U1ZXYzZqN1FmaGJ1ZHYwR3hHTHVxdUVKb2RmWUlqM1ppWWg3d2ZtSlRPM1BXN0lUM1NkbERnRV9ULVdhY2xocnJFVERheTJ1Nll4YVpXQlo1aXBnbUt3eURoZ2ZPN0pMMlNkVEFmdDA2bzV1YdIBugJBVV95cUxOTVUxQXpUOWpKSVFPYnd2VFZxS3BWRlE3YmxDOEZmTU1Pdkk5ZUI0bFFPYVVQUjZVZVk0YV9kcmxQYjlyWEV2OXRISm0wQ2pERlZvdWpvOFVrSnNPekpjYjVOU19kRElGMjhFbTdPOGNfeEh0a0FnVWE2SlJMelU3a3pVeGdJWjFfY1FidGdsU2ZHSGFvZlZTN3habjUxSVhXcVZBYUp5VU5DZVlvYzhlTm9RYzNFNDk0Mm9pRURORU4tRHJDeFlpZnJlZ0hpVkd2cDN0R1hZNHAzTWZLTmdiamdhNTY2WGF5X0NRMmxEZUE2TUN1YlpEWVFIQ0RWZjVpMzR1aDlCcEE2VkZiZndVazM0VllYV09yRlVYNFpLa2p6aFRQWGRKXzdpMGRKX1pGVThIcVczMTJTdw?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 11:01:59 GMT"
     },
     {
-      "title": "Stock Market Today Live, October 9: Sensex gains nearly 800 points, Nifty tops 22,450 as all sectoral indices turn green - BusinessLine",
+      "title": "Sensex today | Stock Market Live: Sensex gains nearly 800 points, Nifty tops 22,450 as all sectoral indices turn green - BusinessLine",
       "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnliNTZxMzVPT08yZ1VxcWxnQlpwa210dXJjNWJ5MDU0MTVGZFR5U040WWk4Z3pOamc3dTNWSnJ0MXZPSlhYTWFSSko4UlFFYjU5anZQblNuTm9leXVWZnBiSlY3YlgzaVprTXVGX3QxRzNTXzNTME9jendma2JiTWV5SXQ5S1h1cjBra2Z5SjVoakV6cE1yVHpTeVkyRDViOFk5X1dMSjNfRHpCY283aHI5eGNzX25ENDBDcFZsamotcUhacGw00gHOAUFVX3lxTE9WTkdheGVJVU1ibjA3a1Y2S0xQVXVSbVdsOUp1OW12ZjVGVFJHVXpqb3hyZjY3bk1YRW01Y0dyVnJ3VkpfNVBtUmxlU3dSOGVKaG9vSWVFNDBfTGxNY1NabmdIRzdQU3RYX1BKbFE2M0h5T2ZBbTJUdjNkQTVoQ3hnOHlfR0pBNk9IRnlyOENQSHN2VnpWRE14ZTVXVFNjdV9sUW0wb3RSUGtfRE9pcTVBRl9GWDhaVkx5bUx2T1RzclpEdnF2c21zTm81WERR?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 06:26:59 GMT"
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnliNTZxMzVPT08yZ1VxcWxnQlpwa210dXJjNWJ5MDU0MTVGZFR5U040WWk4Z3pOamc3dTNWSnJ0MXZPSlhYTWFSSko4UlFFYjU5anZQblNuTm9leXVWZnBiSlY3YlgzaVprTXVGX3QxRzNTXzNTME9jendma2JiTWV5SXQ5S1h1cjBra2Z5SjVoakV6cE1yVHpTeVkyRDViOFk5X1dMSjNfRHpCY283aHI5eGNzX25ENDBDcFZsamotcUhacGw0?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 07:24:11 GMT"
     },
     {
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
@@ -211,16 +212,22 @@
       "publishedAt": "Fri, 09 Oct 2026 05:08:24 GMT"
     },
     {
+      "title": "Why is market rising today? Sensex jumps 800 points, Nifty above 22,500. 6 key factors driving D-Street re - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRE9ZWkktb1FyQjlBajAxS2x3QlUtVTlWQ1JrTExXZkJwR0lkdVU2eDUxVEVMS0tVM3laSzZJbGZTOXd5TDVaN2JxNnVQSUNWY0g4VkVIa3piNHRSOHNfMjdRUTI0OWxvUTZzR2o1emtid0cyeWlkYmVHVE55Q0tsMmg2NmZJanlfdk0xSEc1SHhHalJBenk1LWo1Z2NrcW16THh3QnBxZENlYk1OUEZQbWZ5c3lHdGphT19PandhUWlQTFg4LVQ4UlM1aElEWDlJRWlkRU5QZVVQdDNULXBxc2J4WnlRdjZYSHFBY2dDOTYwRzVMSWlhVjBhRVY4QmJHRmlkQUVDRmRZbGNwU2fSAZMCQVVfeXFMTUh3UmRvR19UV2ZJWl9ueHVKcURVdWVwX0ZDNndScmhMR05wZEJ1OFJtdkc3QzNaUUtvVWIyeEp5S0FNT2s4U3pUSDhhOXduZmhfZVZkd0wtTHBPRlVfTjMtbWVhb2tab2M5RDlrYW01R1NOQ2x4S1k1M1hIVUpWS2NxM1FFQkREcEl3bnFvZWFCNVVfV0xvUlFXVWUzM0VTRUozVVUtVUhCSUo0QjMwYXA5N3ZQekJvVXRuQnRXUFJocDV2cDhseENrejVvcE9yeW1ZQkJLT2RzYXR0Z2lHaVMzUGRScEgtYzF2U1BRVHNaYTRtcEdtVEZOdFVLRXkyMC01dFh4MS1HR2dPYl9PdEk1bTA?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 05:28:27 GMT"
+    },
+    {
       "title": "Stock Market Today Highlights: Sensex closes 429 pts, Nifty slips 0.76% as RBI rate hike; Adani Enterprises, Hindalco top losers - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGR5TnlkMndJT083em5pR3REcFoyc3ZqM3pwZGZtWVQwZTFVem55ZUtNX1BybHdxbzlzeldHd0F0SVBhTFF2V1A5bTl4bXBLQjZyaURLZzBwNkdmUUZQS0hWNEtDTTFNOVh2aWVGOGJKX1dsZW1FdFVmWU5oWElJZVJDTHFraWFKYWZQcWd3WEpGWnFrMzBNU2tvUTBqM011SzJISFRIbFV4a2FhUUVoYWIwd19jdmFQWnk2TWJLUzJkNzFnNl800gHOAUFVX3lxTFBROTVuc2NidldCWXgzd3BfRk5DQzBtLXZveHlhV3JnazRwNk9wTnNTWHFoNGRXM24yRlpHaDJJb1VYQVJWZ0Jrem9ibWk0em9BUG5YZFQ5VWtQbmRIZHpQZWF5ZWw2dEsxbjlPM1lUd0IybW1PY3J1bEFzVU12UmhqZHozbl9WSkJTMDdReGxJRmtVVndfY01xSk1pYkltWkRjRVVmdzhpUjJCNWV5NWM0WFd2Z3lsYWpXazB4Mk9wOVZkOUw0U3Y4U3o4ekJ3?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 11:45:44 GMT"
     },
     {
-      "title": "Stock market outlook today, 9 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei 225 cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC1WdnJRY19KdE54clZ4cUV4VDRleVlxTW9oUmFFUmNfYUFHVmJHT0V4bHVHS3liRV9CMHdQM1ZFWGpfeDZNOHQ5T243MU9Ua1NsWG5CUjJHYWs2WURxVnhnUGtTTnh6WU9MRVFONkNCMjJsMmhmNi1EQzZ4d3RmNWZCMmtvNlF1UEpxVHZLdF9RUDdtNVlyQjBKVHJsWVpwaW5VN3VSV29DZ3BlU2xDb0xQNXlsNlZ0QkI1R1N3bGJoUThzMUJyX2ZLc1dMR3F4aGQwa0FmcmZMdjN3UnRyT3N2am5ORlNiLUhVMlV4Yldjbkg5MEplbkJYSklqZ9IBgwJBVV95cUxQMXhlbG1PMWg3UTJrZXJqM0lvQVJmUDRDWHUybVhHdHJqalJmeFI3NDhWQmtSZTFJUkY5eGd2XzZEc0FHWm8xUUIwZDNhN3QxaVdnMVdRYWJGTTh2SjFxSXJWVmR1MUJjTElDOXM2bUJFejF1VXJoeWhpQTMtQ19COXNsR3V0ZHlSSU9RODctSTZfQnZjbTBYNWRfNDlFYjFrMlJQc21Hc0hUOXloYkRTWHk2Y0pBWW0xb2o3TTQzdUJnTE1ybEhDeHBlNzFaVTdTa0luM0w4dkNjZzIxcUhtUllOWjJqQmdHTWZ4REJESjMzWC0zZ2Q0NkJuOHJmOEd4Wlk0?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 01:18:06 GMT"
+      "title": "Stock Market Today LIVE: Sensex Jumps 800 Points, Nifty 50 Above 22,500 Led By IT, Banks; TCS, Wipro, HCL Tech Lead - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdThWY0JLR28yLVRNOUN1Qm16R1B5aXZtTDVqQW5Wdk80M2ZSZWpGQjNnSDJJUVh0SHluQjJpVVJvME5ja3FOWG1lampiaDlIUE43dDlJTkNJQXZOaGVSTUsxMk1TYVZDYjJqQjlqTFktWjhRX0d2RVpjVmZ3c0F1aWZTT3FFT0Ffc1IxazEzTHFEbkFtMno5bUlOemgxdldlRUJxMTRkSFlwNXRlM19oQXRpaHM4MW5SVktqQm1nNVNBa3hkZkF4cTNBNEZuZVVGbkNUWFNEVElPVUdFVTJRdVpuOXMxM3l0cVZIdWlsLWMtc1Y3YnBnQlBuYXE5YnowSW43aDZB0gGOAkFVX3lxTE5nMkdBSklYeG5TTHFuUXpvaEZ1WnRZT3BkZHR2OEQwUXRrMklMMlVmWVVOLUd2a2dWbVo5d2F1TFNZdk1OcUFkQzhJMnlaZzRrV0VYRFo1cEk0d2JqN2Q2VkduOFFLTDNJYURocV84bWVWZlZWeWpyS0RHVGhuWVh0bE0zd1BWSHNGNkpVcDJ1ZU1uYWt0WHZwZVlkRk1ZYm41bW5YNUo1UWJ4c0ZtT2NqVktTZzFCSlJZNnBWZmk0NTdpYzk4R0xPN1pPbFBDQ0txNGp5WTVhSkt3OHFLaVBTMl9tdXVobzhfN3pTQXgzX3RsbVByenNoSGpyVXpZdmR0MGo3Zlk5QmFyTVp3UQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 07:17:38 GMT"
     },
     {
       "title": "Closing Bell: Nifty at 22,600, Sensex down 429 pts after RBI hikes rate in nearly 4 yrs - Moneycontrol.com",
@@ -233,12 +240,6 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeDE5UC1qdXVTd0xUcHg5Mjkwdk9Sc2FsOGZjQlRTYkotbWswbEhKeHVZbkg0V3BfdlRsOEw2QTN1OUlmVWhTdUljWUJYLWN2X194WkFKWG1xdEFYeGZmQTUxLWpHcEt2LUlGUXg1blhlU3BfSGktQWVNN3hxX1ZXTkxjcUNzUVZfb1RpVU1xTUZ1Z3VGSW53cTdUcTFXTGVMRUdhLXBqd2RldDlDMHdKSkYyUlZ6WndVYTlKVUNGVUpfTFJ5dlp6eHNMUFJZZmdmYXJMcGRtR2JBZU5wN29ndUx2MEhGa2hlMnp6Z19DTm85OWlzLXdtN1hSWE5pdE82dkp2ZkRzZ9IBjAJBVV95cUxONGFvYzVfQlpCMXE2Z29oR2xGWGVOMFF3UTFWTGhkU1B0TVhBdXFmRlU0Q181TS1wOWQ3bVkyTXJHd1hvbmRZa254RkZJRTNic3pVTjRwLVE3cG1hRkU5NzB1U2lpSVlvTXFfN3hRbDVOLXdoYlRRSWV5VHNMTUQ5MWJ4RG1JNG0xWjZzaWNTcjhCdi0xbTJZSlRfYXZmc0Q3TXRfMUtMcFdRQ3pFNnpKb0hvejBPd1F5a19saE55RXQ5R2Roc0N0ejVmNzc2SnhnWWZWNWxfSHNjWHdDSXVGLXppSlREUlVidTFoM1Ywa2JSaGlqc0lkZl95V0hDci1qSDNHVWUtV2hJV3My?oc=5",
       "publishedAt": "Thu, 08 Oct 2026 11:46:16 GMT"
-    },
-    {
-      "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
     }
   ]
 }
