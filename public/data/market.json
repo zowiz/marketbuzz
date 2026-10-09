@@ -1,211 +1,61 @@
-{
-  "headline": "Sensex jumps 1,000 points and Nifty reclaims 22,500, snapping historic weekly losing streak",
-  "marketStatus": {
-    "isClosed": false,
-    "isMuhuratTrading": false,
-    "message": "Market is open for trading today.",
-    "nextOpen": ""
-  },
-  "why": [
-    "Strong rally in IT stocks led by a significant jump in TCS shares",
-    "Broad-based buying as all sectoral indices turned green",
-    "Relief rally snapping the biggest weekly losing streak in 25 years",
-    "Rupee recovery following RBI intervention despite persistent dollar demand"
-  ],
-  "whatHappening": [
-    "BSE Sensex surged over 1,000 points while Nifty50 climbed above the 22,550 mark",
-    "Persistent Systems secured a 94.04% stake in Nagarro following a takeover offer",
-    "Poonawalla Fincorp reported a fivefold surge in Q2 profit driven by rising income",
-    "Anthem Biosciences witnessed a block deal worth Rs 250 crore by Portsmouth Technologies"
-  ],
-  "stocksInNews": [
-    {
-      "symbol": "TCS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        15
-      ]
+[
+  {
+    "headline": "Sensex jumps 1,000 points and Nifty tops 22,550 as IT and FMCG sectors lead a major relief rally",
+    "marketStatus": {
+      "isClosed": false,
+      "isMuhuratTrading": false,
+      "message": "Market is open for trading today.",
+      "nextOpen": ""
     },
-    {
-      "symbol": "PERSISTENT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "POONAWALLA",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "BANDHANBNK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "TVSMOTOR",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        0
-      ]
-    }
-  ],
-  "summary": "The Indian stock market saw a massive recovery on Friday, with the Sensex gaining over 1,000 points and Nifty reclaiming the 22,500 level. The rally was supported by strong gains in the IT and FMCG sectors, ending a record-breaking weekly losing streak. Positive corporate developments, including robust Q2 results from Poonawalla Fincorp and acquisitions by Persistent Systems, further boosted investor confidence.",
-  "updatedAt": "2026-10-09T17:01:56.160Z",
-  "source": "zerodha-pulse",
-  "dateChecked": "2026-10-09",
-  "articleKeys": [
-    "ownership issues cloud tvs venu srinivasan family",
-    "anthem biosciences block deal portsmouth technologies sells 30 lakh shares worth rs 250 crore",
-    "poonawalla fincorp q2 profit surges fivefold as income rises",
-    "rupee recovers to 9673 vs us dollar after rbi intervention but dollar demand persists",
-    "microcredit is business credit not personal loan bandhan bank ceo ghosh",
-    "persistent systems secures 9404 stake in nagarro after takeover offer",
-    "tesla announces new experience centre in noida expands presence in delhincr",
-    "infinix gt 50 pro india launch date revealed flipkart availability confirmed",
-    "singapore gp verstappen beats russell to sprint pole antonelli struggles",
-    "trump reposts america hater attack on nobel peace prize winner navi pillay",
-    "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
-    "why did market crash today nifty hits fresh 52week low sensex tanks over 1000 pts 7 triggers behind r the economic times",
-    "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
-    "stock market today highlights october 9 sensex gains over 87909 points nifty tops 2252045 as all sectoral indices turn green businessline",
-    "why is stock market up today good friday for sensex nifty 5 biggest contributors to dstreet party livemint",
-    "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
-    "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
-    "relief rally in indian stock market biggest weekly losing streak in 25 years snapped whats next for sensex nifty livemint",
-    "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom",
-    "stock market outlook today 9 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei 225 cues livemint"
-  ],
-  "articles": [
-    {
-      "title": "Ownership issues cloud TVS’ Venu Srinivasan, family",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/ownership-issues-cloud-tvs-venu-srinivasan-family/article71565380.ece",
-      "publishedAt": "Fri, 09 Oct 2026 22:07:44 +0530"
-    },
-    {
-      "title": "Anthem Biosciences block deal: Portsmouth Technologies sells 30 lakh shares worth Rs 250 crore",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anthem-biosciences-block-deal-portsmouth-technologies-sells-30-lakh-shares-worth-rs-250-crore/articleshow/134838383.cms",
-      "publishedAt": "Fri, 09 Oct 2026 21:53:16 +0530"
-    },
-    {
-      "title": "Poonawalla Fincorp Q2 profit surges fivefold as income rises",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-surges-fivefold-as-income-rises/articleshow/134838286.cms",
-      "publishedAt": "Fri, 09 Oct 2026 21:45:36 +0530"
-    },
-    {
-      "title": "Rupee recovers to 96.73 vs US dollar after RBI intervention, but dollar demand persists",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-recovers-to-96-73-vs-us-dollar-after-rbi-intervention-but-dollar-demand-persists/articleshow/134838115.cms",
-      "publishedAt": "Fri, 09 Oct 2026 21:42:35 +0530"
-    },
-    {
-      "title": "Microcredit is business credit, not personal loan: Bandhan Bank CEO Ghosh",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/people/microcredit-is-business-credit-not-personal-loan-bandhan-bank-ceo-ghosh-126100901308_1.html",
-      "publishedAt": "Fri, 09 Oct 2026 21:21:47 +0530"
-    },
-    {
-      "title": "Persistent Systems Secures 94.04% Stake In Nagarro After Takeover Offer",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/persistent-systems-secures-94-04-stake-in-nagarro-after-takeover-offer-12163052#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 21:02:46 +0530"
-    },
-    {
-      "title": "Tesla Announces New Experience Centre In Noida, Expands Presence In Delhi-NCR",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/tesla-announces-new-experience-centre-in-noida-expands-presence-in-delhi-ncr-12162231#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 20:55:59 +0530"
-    },
-    {
-      "title": "Infinix GT 50 Pro India Launch Date Revealed, Flipkart Availability Confirmed",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/infinix-gt-50-pro-india-launch-date-revealed-flipkart-availability-confirmed-12162911#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 20:48:13 +0530"
-    },
-    {
-      "title": "Singapore GP: Verstappen Beats Russell To Sprint Pole, Antonelli Struggles",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/f1-singapore-gp-max-verstappen-beats-george-russell-to-sprint-pole-kimi-antonelli-struggles-12162864#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 20:32:08 +0530"
-    },
-    {
-      "title": "Trump Reposts 'America Hater' Attack On Nobel Peace Prize Winner Navi Pillay",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/trump-reposts-america-hater-attack-on-nobel-peace-prize-winner-navanethem-navi-pillay-12162898#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 20:28:13 +0530"
-    },
-    {
-      "title": "Stock Market Today Highlights: BSE Sensex jumps over 1000 points, Nifty50 climbs above 22,550 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQREJiUkQzbWYzbVdRNFpxSmx5bTZlRVU4ZWJfZHo5OU55Z1pkcW81d01PNE01ZEh4ZzFHNE81bVJkZG5odWc5SmppUzVFOG1PV2NqTzFDczExcld4WWZuajhrSFJseU5ja284d2VqRlNzNElPRkJTRXVmaUF3bUVUX0tvRHFyTnVDYmhKRGs1alpsQXM3aTF3ME16MWl1RnJRMTB4MWNlbVBIY2NaQzhBWnlZUk1fNWhaUlVfX2RGMVkydEZyVXlHWEtXVjIyLWR3N0Z1TGF3bTI2VWRMTWpEeHBSU25GUlFDNThQNlVkeldyLW9aS3lLWEw3QllickZweU9tZ2NtLUphZmxpRFpBbkl2Tnc3V2Rtd0VIMy1qM1VfWS1xS1lMbXRZQUkyYm9FS3M4VNIBugJBVV95cUxQNWdYLTMwNWdrMkNtc0JpYWNMbW50WFRuNTlBakNaSEVQbDA3VDZVSm9EN0lvQzFNWE5VT1Fhb2Q5LV93bHpPVWZMM0hDZlF0N2ZTSnZmeVZ2Q0EwX1l2aEQ1UlJpVVJiMXk4aE1PczlzV1J0T1cwOC1acXlPSWtZcU9CQTdfOVpCdXI3aExQSlI0VkVnV3FyRmhHaUJqQnl2eF80bjZQdWZqbzcyNkxzZ3RscmhpeFN4VUFGSEJScGJsMC10MndYMk1sY2tFZ2JOSVF4SVNTYWowcmFwSFl5X19LZDlQcWYzcXl2WVU3YUU4SDFjS09UUVJBeHdTRVlDQ2d3UTQzRUJkWEMtR01UNjQtV3VuUk9RV2hrMGFCeEVleWt1TGdJUnpNbkNBS3dRb2tSWDdSSzRTUQ?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:14:00 GMT"
-    },
-    {
-      "title": "Why did market crash today? Nifty hits fresh 52-week low, Sensex tanks over 1,000 pts. 7 triggers behind R - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZzlsa0lxZTQ5aTd4RFhxLU5rXzl3d0kyYmZXQTZXbDNpaG45d3FMVTJ2b2FjV083a0ZFQWhycGxKN2gzTkk3Ny1mVHJsX3BMdlBqOGpzZ2k2NjgtU0Jvd1J1bnlPSTdiMGdOOW11UjdMUWRWa0g5VGpwWm54MjctNE9HdEVCMGdoRkFYZ194ZFg4bXl4YlpmdnFJRndIblNOOE5KWVVBZEF6QWhTV2tBRVJxSVFZRXVfbnRsOTdCUTlEbk5XSm1wZG51N01CTElKeFJDdGR6MUFYOUt0N2xSaWJOZEpkdmRmV2VkS2JENzdiS09BbXM5WV9Ca2dEaUVuek4wa3Bpb2ZQSnk5QlB1QVdjYXRBWEhYX0YxWdIBogJBVV95cUxQMTRkWHRHZHpIYVMzUXVseW9tcUZrZVJxVi0xck9yc3VjR3gyaU01TXA2MkFTSzNXYWNxLXBteHdvdWJPSVVleEw5aWFSTkJWVkVueld0em9Wb1BKWGZKODJxcWJ4WFlLYklMM2ZvR3FIN0ppY2JLVXBDbEpmaFBLMGNPRk5ybXJWWE5nQnA3T3lqV0RISDlJZzE1NVpicGlISHV5Wm9oV2NfVjRLMTJhbmNoVWxERlowWjRWeGxGV0hiQk9WS1A4Z1ZBNWFpM1hmVUUtS1NDNzYybUFLanprM2VKSEhCb0w5aTRxbHFyLXhPcENseElCcDRJcHo1VHdCNk9sNUZTcmw0TEIxWmdzWTlKcWlnWGM5UWdOc21mME9PUQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 05:16:29 GMT"
-    },
-    {
-      "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNUnF3dDlGRElxWFhJTmNtRVZMOUlkN0pTSzRfbHFkN1lxaVRmYk90RnVfeVVrbURSQzZrVEkzUDlkVWhjblN4SnBoOGF4Y0xVSGNJSmNNR3FUM3BEQ2FiVlFqTjlDZGFEdUxDZG5fWXh1a2l4eGEzMGYxdmc1amNmTEZGaHJLbUozVUotQW5BRjdZcVBhY1NnZDNwUXlFLWlZcTVUcGlVSlF6Q2Y1bG9XeGRfV0hHTGgxU0hqZ3RXX2tJVm9kVmcwVWtQUzIyTGp5QjRRV083Nml4RVdsR09DUG9faUZNY0R2b25zUjFoeE9LVmpwNFgzZUh1ZFZua29kMzJWNUVoX1J5dzlqRjUtc3lnX3hLOTFNUlBVb0xhWElUQURnUzJTVG1Xd0lZMm_SAbQCQVVfeXFMTW9PcUtmdEk5ekRSbUVPX3RaZnhVMEpjTHNFRWxfaEZ6ZEVWbWhucHNnV1Q0WXRXMXBvZUxWejhKbXd4bEtQY0FpRE80VDRUZF8tLWVfWDZIQzZVRXllZHNBdS03c1VKLUdia1Uxa2pOVkRCcjlrUlgyWEZRemhRZVlZZWR0dG1DUkQ1NG1yelRBVDFKOG8zVWFSUjZ2MmdCOUdaOVprSlVCazZSUXlqbDlTSEtDVGc0YlR6ZXJweHQwQVEzZWRoWkxHbFBEa2tuX2tWNUpXTFE4WHU2UUlTdDRhUmNOQzBGdWJ4cjd4UnZUTkYzbU00RkpVbTVwWXRrdzUzQ0E3UzNBWWxJUFY2WndWSFh6RG03S0xTMkdhclVUelk4OGc4T3E0WXVqdHV1RGVTV2Y?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 10:16:27 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights, October 9: Sensex gains over 879.09 points, Nifty tops 22,520.45 as all sectoral indices turn green - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnliNTZxMzVPT08yZ1VxcWxnQlpwa210dXJjNWJ5MDU0MTVGZFR5U040WWk4Z3pOamc3dTNWSnJ0MXZPSlhYTWFSSko4UlFFYjU5anZQblNuTm9leXVWZnBiSlY3YlgzaVprTXVGX3QxRzNTXzNTME9jendma2JiTWV5SXQ5S1h1cjBra2Z5SjVoakV6cE1yVHpTeVkyRDViOFk5X1dMSjNfRHpCY283aHI5eGNzX25ENDBDcFZsamotcUhacGw00gHOAUFVX3lxTE9WTkdheGVJVU1ibjA3a1Y2S0xQVXVSbVdsOUp1OW12ZjVGVFJHVXpqb3hyZjY3bk1YRW01Y0dyVnJ3VkpfNVBtUmxlU3dSOGVKaG9vSWVFNDBfTGxNY1NabmdIRzdQU3RYX1BKbFE2M0h5T2ZBbTJUdjNkQTVoQ3hnOHlfR0pBNk9IRnlyOENQSHN2VnpWRE14ZTVXVFNjdV9sUW0wb3RSUGtfRE9pcTVBRl9GWDhaVkx5bUx2T1RzclpEdnF2c21zTm81WERR?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:19:51 GMT"
-    },
-    {
-      "title": "Why is stock market up today? 'Good Friday' for Sensex, Nifty - 5 biggest contributors to D-Street party - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRi1YdWNieUY2SkZOTGZlZ1RITmpuMXgxd2g2VlpRQlgwLTVrOWRXbHUwNnVkbWcwLUlmTmVQYmpxMldZek5EXzVjdHZQVjVqODZhU09PeV9tZ0MwLWdTS2RISkctLXAzWmhtTjNIT01XcDF5YXp5cFhxWlVrM19ZVXFlNW5hN01mZWtWM1k1cXpudEZHS2ZxN2RYTEQ3ZWR4YU1HcTBjZUt5MW1zNFhrcXh6TjYxOTVLUUpTbktoaHRFODJ0WGpGSG8wby1nN2dMWW9hTERKTjV3QzRzODRQRnhmVy1OZjU2MU1SVmRSNThFTnB4T0tidGU0VUrSAYICQVVfeXFMTTFEem1lem4xczd1REhmVXJneXFtY2xyd0pRdl9TSElaZWlMNlVxMjR5WldBQmpjRC1NT20xazJjV2RDMDdyZURlTVpUX3N4VzFneWtEUnRYRi1NU1REZU4tRDNTSENLVkNZNmh4V0c4d3B2SGJ4cTFxZDhEYk9nU0d6dkJ0M2poMkZhdkxVWjJZWjk5djBPTS1UWFNWV3RaSk40VTVTdmlhVWVGdGZYOFhWQXQ1ZDJxTUYxdTQzNTNuVjhndFNjUFRJWWZ1QXNWeDJVbVZieWN0N0VoV0VJWTJrakNiTk5CQmZTSkUzQUZNVXVTcVhya0hNMC1JSEhFVWxn?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 04:37:00 GMT"
-    },
-    {
-      "title": "Why Is Indian Stock Market Up Today? Sensex, Nifty Recover as TCS Shares Jump As IT Stock Rally; What Investors Should Know - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeU1OQkhwVEZWWkFuMHpXU0pNU1VOWF9aQU5jSFZEaUlvQ0h1amFYWlQ4ZzRhdW9Sd3doYW1FbFBRWDJXS3liS2RmOVNRSjd1eTNwNkYzNnZSb21fSEZOUG5EUE9weE8yZ2MzeTBWRkUwNC1NWHJGaDRwQTY4ZkltbmwtUUxQVmUta0x5ZV9VOWJpSUFmNDRKUVpHM0xaQkkyaEZjdFVxV2dRT3hPTHpkN0p5Nml1N1Uxb3IyMFdCUjRXVm9OX3p6bkszc2ZTYk5zMFJmdTF4cUk1enVzZENZbWx3Z1ZlbDdfN2ZMaGQ0VlJzYk1tdVJPUUVyOW7SAYICQVVfeXFMT01nd2N1dEozc1NDSjFyeG90ampwOURoTjdGS2hTM0dGekp5NW5NWFBIb3VERjUxekp2NjNZZjN2X3NzQmt2YTBVSnR6TDJPbEhZNHlrcEdSU2gzVk5PdzBiXy1QZFRndUZxQS1kLVFHbGoxaU05M2YwWjFxcERlbFhPRmlfSnVQcFVOUFMwV25TMGVQMXlQMjdub1I5RXRvbTNFQ3hieDY3cWJiRWdVWnlyTU9tTXlYVm91a1JMamJ4N095ekVTQ1FPVW5TNlNESmdvUHBDcmlGWHZFWGVlWEVsMWxFOVhBQTY4cmI2NXBZNk16YW5icWFXNTRjMm14QzZ3?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 05:08:24 GMT"
-    },
-    {
-      "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRE9ZWkktb1FyQjlBajAxS2x3QlUtVTlWQ1JrTExXZkJwR0lkdVU2eDUxVEVMS0tVM3laSzZJbGZTOXd5TDVaN2JxNnVQSUNWY0g4VkVIa3piNHRSOHNfMjdRUTI0OWxvUTZzR2o1emtid0cyeWlkYmVHVE55Q0tsMmg2NmZJanlfdk0xSEc1SHhHalJBenk1LWo1Z2NrcW16THh3QnBxZENlYk1OUEZQbWZ5c3lHdGphT19PandhUWlQTFg4LVQ4UlM1aElEWDlJRWlkRU5QZVVQdDNULXBxc2J4WnlRdjZYSHFBY2dDOTYwRzVMSWlhVjBhRVY4QmJHRmlkQUVDRmRZbGNwU2fSAZMCQVVfeXFMTUh3UmRvR19UV2ZJWl9ueHVKcURVdWVwX0ZDNndScmhMR05wZEJ1OFJtdkc3QzNaUUtvVWIyeEp5S0FNT2s4U3pUSDhhOXduZmhfZVZkd0wtTHBPRlVfTjMtbWVhb2tab2M5RDlrYW01R1NOQ2x4S1k1M1hIVUpWS2NxM1FFQkREcEl3bnFvZWFCNVVfV0xvUlFXVWUzM0VTRUozVVUtVUhCSUo0QjMwYXA5N3ZQekJvVXRuQnRXUFJocDV2cDhseENrejVvcE9yeW1ZQkJLT2RzYXR0Z2lHaVMzUGRScEgtYzF2U1BRVHNaYTRtcEdtVEZOdFVLRXkyMC01dFh4MS1HR2dPYl9PdEk1bTA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 03:59:14 GMT"
-    },
-    {
-      "title": "Relief rally in Indian stock market; biggest weekly losing streak in 25 years snapped: What's next for Sensex, Nifty? - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOYURzTF9MQm00ZDJnV2diTktoYmRCdXZBcmtIYjJ5UVhWZ0RPRmNHUkdqcTZIUk5KUUhkQUIyMFludlFZaGRSeUxVTVVKTkFNcDZSY0ZyTFFSd0hILU53aTloTGJJUHFNSVFDdEVpb25lNVNoWDNSSzhMX3p1OUpKWDhMcFFGR3UwMUVJZm1ObS1jMHM1dkJqTGVrYzBOTkFpVWhRbElfVFg3ZTR6NTFLZEdyV0JUTVpkZFVKRXJKcjJxTkFydGRtMFRTUUZORWVYR0NoQWUxMUtkYy1YdENocExtQnVEYkRnMmFvS29WN2dVc2FpTVRrU0dRN1R3ODBmQVNkZFBOR1JWcDZvMUJZ0gGUAkFVX3lxTE9GbHh0ZnlCX3Q3anFFa1NvelJKOHVqaXJFSUtVNXc4ZmM5OXZlQmRPX3hPZTFuWWVOTkFqTWNGbXhOa0tUc3NORFd3QnNvRlB5OTVCRVVqLWZRT2pIdGsyZlNQNWwxTW9wZlZHd2MtRl9qYUVZRVI1N0VKRVpuejFlellQQXR6Tjd3NWFkSzJfU09pRjk3REZsT1dlbktDUXItQVZaeEczWFV6bHE0c0NPbW94SldwcUVJN2xVbFlvZExoOU9BTWtJc1ZCcHdzYXRUTnFKODR3TXd2ZXRtZWltcXM4blMwakNnc3hhZldZN3JqQ2VmSGhCa2hTbFp6dnZmMkwyeE9iVG9FLUswT0sySV9aSA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 13:25:35 GMT"
-    },
-    {
-      "title": "Closing Bell: Nifty at 22,600, Sensex down 429 pts after RBI hikes rate in nearly 4 yrs - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbnotWFowYW95bVpVbXNzaG1zaEpON1VJOHhSbVkzZlM2eHM4TElrMGN4SkwwZ1I4Q09pSEcyTFlwVnVUTUxKbXdlNDFJWDh6RHFKNlFqR1ZLVXZUSmhGWEhfM09mWGZTaUdfb21ubFNxN3ViQ0I5UkY2RGRJbkwxR1RzOURjSkpVYlktS0R1MXRQOHRNVUQySmV1WXg3T3B6SmZHamRpYnVwMnZJZklRRHJZNzlpSkFqZ21WYi1yQS1LaFVGMExXZThNUm03SnJ1aGRqaElUYTczRlc1WDhfRVZtcldnRTNEUlVNcDI5dnZfdklnYTg5UG5LTk51QUNiMlppaEVtbmx5UWs1ejJqZm51dmU5eTZ6QWFIT2xVY0Y3RDg?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:55:08 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 9 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei 225 cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC1WdnJRY19KdE54clZ4cUV4VDRleVlxTW9oUmFFUmNfYUFHVmJHT0V4bHVHS3liRV9CMHdQM1ZFWGpfeDZNOHQ5T243MU9Ua1NsWG5CUjJHYWs2WURxVnhnUGtTTnh6WU9MRVFONkNCMjJsMmhmNi1EQzZ4d3RmNWZCMmtvNlF1UEpxVHZLdF9RUDdtNVlyQjBKVHJsWVpwaW5VN3VSV29DZ3BlU2xDb0xQNXlsNlZ0QkI1R1N3bGJoUThzMUJyX2ZLc1dMR3F4aGQwa0FmcmZMdjN3UnRyT3N2am5ORlNiLUhVMlV4Yldjbkg5MEplbkJYSklqZ9IBgwJBVV95cUxQMXhlbG1PMWg3UTJrZXJqM0lvQVJmUDRDWHUybVhHdHJqalJmeFI3NDhWQmtSZTFJUkY5eGd2XzZEc0FHWm8xUUIwZDNhN3QxaVdnMVdRYWJGTTh2SjFxSXJWVmR1MUJjTElDOXM2bUJFejF1VXJoeWhpQTMtQ19COXNsR3V0ZHlSSU9RODctSTZfQnZjbTBYNWRfNDlFYjFrMlJQc21Hc0hUOXloYkRTWHk2Y0pBWW0xb2o3TTQzdUJnTE1ybEhDeHBlNzFaVTdTa0luM0w4dkNjZzIxcUhtUllOWjJqQmdHTWZ4REJESjMzWC0zZ2Q0NkJuOHJmOEd4Wlk0?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 01:18:06 GMT"
-    }
-  ]
-}
+    "why": [
+      "A relief rally snapped the Indian stock market's biggest weekly losing streak in 25 years",
+      "The IT sector saw a significant rally, with TCS shares jumping as a major contributor to the gains",
+      "Strong performance in the FMCG sector, which gained over 2%, provided additional support to the market",
+      "Broad-based buying was evident as all sectoral indices turned green during the trading session"
+    ],
+    "whatHappening": [
+      "BSE Sensex surged over 1,000 points while the Nifty50 climbed above the 22,550 mark",
+      "Persistent Systems secured a 94.04% stake in Nagarro following a successful takeover offer",
+      "Poonawalla Fincorp reported a fivefold surge in Q2 profit driven by rising income",
+      "The Indian Rupee recovered to 96.73 against the US dollar following intervention by the RBI"
+    ],
+    "stocksInNews": [
+      {
+        "symbol": "TCS",
+        "sentiment": "Positive",
+        "articleIds": [
+          16
+        ]
+      },
+      {
+        "symbol": "PERSISTENT",
+        "sentiment": "Positive",
+        "articleIds": [
+          5
+        ]
+      },
+      {
+        "symbol": "POONAWALLA",
+        "sentiment": "Positive",
+        "articleIds": [
+          2
+        ]
+      },
+      {
+        "symbol": "BANDHANBNK",
+        "sentiment": "Neutral",
+        "articleIds": [
+          4
+        ]
+      },
+      {
+        "symbol": "TVSMOTOR",
+        "sentiment": "Negative",
+        "articleIds": [
+          0
+        ]
+      }
+    ],
+    "summary": "Indian markets witnessed a massive relief rally on October 9, with the Sensex jumping over 1,000 points and Nifty reclaiming 22,550. The surge was led by IT and FMCG sectors, snapping a historic weekly losing streak. Key corporate developments included Persistent Systems' stake acquisition and Poonawalla Fincorp's strong Q2 results."
+  }
+]
