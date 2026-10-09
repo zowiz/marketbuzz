@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty 50 gain in pre-open trade; IT stocks in focus amid TCS dividend and margin news",
+  "headline": "Sensex surges 800 points led by IT rally; NCC jumps 5% on major order win",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,180 +7,168 @@
     "nextOpen": ""
   },
   "why": [
-    "TCS expects to recoup margins as AI investments taper and bench strength is deployed",
-    "Markets are rebounding in pre-open trade after hitting 52-week lows earlier in the week",
-    "The RBI's recent interest rate hike continues to influence market sentiment and sector performance",
-    "TCS confirmed that the US green card program suspension will not affect its workforce strategy"
+    "IT heavyweights TCS and Infosys rally up to 5% following positive sentiment",
+    "NCC secured a significant road project order worth Rs 1,286 crore in Telangana",
+    "Global cues show the dollar retreating and the Yuan strengthening",
+    "Market recovery follows a period of sharp FII selloffs and a multi-week losing streak"
   ],
   "whatHappening": [
-    "TCS announced dividend details including record and payment dates",
-    "ITC is among the top F&O stocks seeing a rise in futures open interest",
-    "The Indian Rupee opened higher in early trade on Friday",
-    "Major IT stocks including Infosys and Wipro are being closely monitored by investors"
+    "Sensex rises over 600-800 points while Nifty moves above the 22,450 level",
+    "The Nifty IT index gains 3% as major tech firms lead the market recovery",
+    "Fusion CX announced its IPO price band for a Rs 702 crore issue opening October 14",
+    "Diamond Power Infrastructure is among stocks closing above their Volume Weighted Average Price (VWAP)"
   ],
   "stocksInNews": [
     {
+      "symbol": "NCC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        0,
-        1,
-        2,
-        4,
-        5,
-        8
+        6,
+        9,
+        11
       ]
     },
     {
       "symbol": "INFY",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        2
+        6,
+        11
       ]
     },
     {
-      "symbol": "WIPRO",
+      "symbol": "DIAMONDPOWER",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         8
       ]
     },
     {
-      "symbol": "ITC",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "JIOFIN",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
       "symbol": "ADANIENT",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        12
+        13
       ]
     },
     {
       "symbol": "HINDALCO",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        12
-      ]
-    },
-    {
-      "symbol": "TITAN",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        15
+        13
       ]
     }
   ],
-  "summary": "Indian markets show signs of recovery in pre-open trade after a volatile week marked by RBI rate hikes and 52-week lows. TCS remains a key focus following dividend announcements and clarifications on its US workforce strategy. IT and F&O stocks like ITC are seeing increased activity as the Rupee opens higher.",
-  "updatedAt": "2026-10-09T04:01:42.860Z",
+  "summary": "The Indian market witnessed a strong recovery on Friday, with the Sensex surging over 800 points driven by a 3% gain in the IT sector. NCC shares jumped 5% after securing a major road project, while TCS and Infosys saw significant rallies despite recent global volatility. Investors are closely watching if Nifty can break its historic losing streak amid mixed global cues and recent RBI rate hikes.",
+  "updatedAt": "2026-10-09T05:01:49.656Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-09",
   "articleKeys": [
-    "tcs reacts to us suspending tech firms from greencard programme dont expect impact on workforce strategy",
-    "suspension of us green card programme will not impact workforce strategy tcs",
-    "stock market today live sensex nifty 50 gain in preopen trade rupee opens higher tcs infosys other it stocks in focus",
-    "meta bans ads from tiktok on its apps in escalating feud",
-    "tcs expects to recoup margin as ai investments taper bench strength gets deployed",
-    "tcs dividend explained amount record date payment date and other details",
-    "itc among 4 fampo stocks with a sharp rise in futures open interest",
-    "gold rate today check 24k 22k gold prices in mumbai delhi chennai kolkata bengaluru on october 9",
-    "tcs wipro other it stocks will be in focus on friday here are 3 important triggers to watch",
-    "jio financial services share price live updates jio financial services trading volume overview",
+    "ncc shares jump 5 on rs 1286 crore telangana road project order",
+    "global market yuan strengthens as dollar retreats china pushes back against undervaluation claims",
+    "dst exit rush sectors that saw sharpest fii selloff in 2nd half of september",
+    "wazirx futures trading volume jumps 236 in q3 as exchange expands ai tools",
+    "the friday test will nifty extend its historic losing streak to nine weeks",
+    "us bank earnings in focus as treasury yields surge raising concerns over lending and dealmaking",
+    "stock market live sensex rises 600 pts nifty it gains 3 as tcs infosys shares lead",
+    "fusion cx sets price band for rs 702 crore ipo issue opens on october 14",
+    "diamond power infrastructure among 3 stocks that closed above vwap",
+    "perm suspension wont affect workforce strategy customer engagements tcs",
     "why did market crash today nifty hits fresh 52week low sensex tanks over 1000 pts 7 triggers behind r the economic times",
+    "sensex stock market live updates sensex surges over 800 pts nifty above 22450 tcs infy rally up to 5 the economic times",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
+    "stock market outlook today 9 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei 225 cues livemint",
     "stock market today live updates bse sensex tumbles 400 points nse nifty50 closes below 22670 the times of india",
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom",
-    "stock market highlights sensex nifty snap 2day winning run smids mixed titan top loser ndtv profit",
-    "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard",
+    "stock market prediction for today sensex nifty outlook for friday kospi taiwan cues to watch 9 oct 2026 livemint",
     "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
-    "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom",
-    "stock market outlook today 7 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei kospi taiwan cues livemint"
+    "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard"
   ],
   "articles": [
     {
-      "title": "TCS Reacts To US Suspending Tech Firms From Green-Card Programme: 'Don't Expect Impact On Workforce Strategy'",
+      "title": "NCC shares jump 5% on Rs 1,286 crore Telangana road project order",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/tcs-reacts-to-us-suspending-tech-firms-from-green-card-programme-dont-expect-impact-on-workforce-strategy-12159537#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 09:09:58 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ncc-shares-jump-5-on-rs-1286-crore-telangana-road-project-order/articleshow/134807647.cms",
+      "publishedAt": "Fri, 09 Oct 2026 10:08:58 +0530"
     },
     {
-      "title": "Suspension of U.S. green card programme will not impact workforce strategy: TCS",
+      "title": "Global Market: Yuan strengthens as dollar retreats; China pushes back against undervaluation claims",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/tcs-sees-no-impact-from-us-green-card-programme-suspension-workforce-hiring/article71562477.ece",
-      "publishedAt": "Fri, 09 Oct 2026 09:08:22 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-yuan-strengthens-as-dollar-retreats-china-pushes-back-against-undervaluation-claims/articleshow/134807325.cms",
+      "publishedAt": "Fri, 09 Oct 2026 10:00:27 +0530"
     },
     {
-      "title": "Stock Market Today LIVE: Sensex, Nifty 50 Gain In Pre-Open Trade; Rupee Opens Higher; TCS, Infosys, Other IT Stocks In Focus",
+      "title": "D-St Exit Rush! Sectors that saw sharpest FII selloff in 2nd half of September",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-share-market-news-nifty-50-sensex-today-gift-nifty-tcs-infosys-wipro-it-stocks-crude-oil-prices-us-iran-war-12159346#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 09:04:24 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-exit-rush-sectors-that-saw-sharpest-fii-selloff-in-2nd-half-of-september/slideshow/134807459.cms",
+      "publishedAt": "Fri, 09 Oct 2026 09:52:52 +0530"
     },
     {
-      "title": "Meta Bans Ads From TikTok On Its Apps In Escalating Feud",
+      "title": "WazirX futures trading volume jumps 236% in Q3 as exchange expands AI tools",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/meta-bans-ads-from-tiktok-on-its-apps-in-escalating-feud-12159586#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 09:04:03 +0530"
+      "link": "https://www.business-standard.com/companies/news/wazirx-futures-trading-volume-jumps-236-in-q3-as-exchange-expands-ai-tools-126100900174_1.html",
+      "publishedAt": "Fri, 09 Oct 2026 09:50:04 +0530"
     },
     {
-      "title": "TCS Expects To Recoup Margin As AI Investments Taper, Bench Strength Gets Deployed",
+      "title": "The Friday test: Will Nifty extend its historic losing streak to nine weeks?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/tcs-q2-earnings-interview-top-management-expects-to-recoup-margin-as-ai-investments-taper-bench-strength-gets-deployed-12159575#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 09:02:43 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-friday-test-will-nifty-extend-its-historic-losing-streak-to-nine-weeks/articleshow/134807004.cms",
+      "publishedAt": "Fri, 09 Oct 2026 09:49:23 +0530"
     },
     {
-      "title": "TCS Dividend Explained: Amount, Record Date, Payment Date, And Other Details",
+      "title": "US bank earnings in focus as Treasury yields surge, raising concerns over lending and dealmaking",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/tcs-dividend-explained-amount-record-date-payment-date-and-other-details-what-investors-should-know-12159464#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 09:01:04 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bank-earnings-in-focus-as-treasury-yields-surge-raising-concerns-over-lending-and-dealmaking/articleshow/134806882.cms",
+      "publishedAt": "Fri, 09 Oct 2026 09:48:30 +0530"
     },
     {
-      "title": "ITC among 4 F&amp;O stocks with a sharp rise in futures open interest",
+      "title": "Stock Market LIVE: Sensex rises 600 pts; Nifty IT gains 3% as TCS, Infosys shares lead",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/134805371.cms",
-      "publishedAt": "Fri, 09 Oct 2026 08:51:46 +0530"
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-it-stocks-today-126100900099_1.html",
+      "publishedAt": "Fri, 09 Oct 2026 09:47:31 +0530"
     },
     {
-      "title": "Gold Rate Today: Check 24K, 22K Gold Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On October 9",
+      "title": "Fusion CX sets price band for Rs 702 crore IPO; issue opens on October 14",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/gold-rate-today-check-24k-22k-gold-prices-in-mumbai-delhi-chennai-kolkata-bengaluru-on-october-9-12159399#publisher=newsstand",
-      "publishedAt": "Fri, 09 Oct 2026 08:48:16 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/fusion-cx-sets-price-band-for-rs-702-crore-ipo-issue-opens-on-october-14/articleshow/134806844.cms",
+      "publishedAt": "Fri, 09 Oct 2026 09:45:44 +0530"
     },
     {
-      "title": "TCS, Wipro, other IT stocks will be in focus on Friday: Here are 3 important triggers to watch",
+      "title": "Diamond Power Infrastructure among 3 stocks that closed above VWAP",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-will-be-in-focus-on-friday-here-are-3-important-triggers-to-watch/articleshow/134805016.cms",
-      "publishedAt": "Fri, 09 Oct 2026 08:41:03 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diamond-power-infrastructure-among-3-stocks-that-closed-above-vwap/slideshow/134806783.cms",
+      "publishedAt": "Fri, 09 Oct 2026 09:39:47 +0530"
     },
     {
-      "title": "Jio Financial Services Share Price Live Updates: Jio Financial Services Trading Volume Overview",
+      "title": "PERM suspension won't affect workforce strategy, customer engagements: TCS",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-share-price-today-live-09-oct-2026/liveblog/134805015.cms",
-      "publishedAt": "Fri, 09 Oct 2026 08:35:56 +0530"
+      "link": "https://www.business-standard.com/companies/news/tcs-says-perm-suspension-will-not-impact-workforce-strategy-customer-engagements-126100900211_1.html",
+      "publishedAt": "Fri, 09 Oct 2026 09:37:14 +0530"
     },
     {
       "title": "Why did market crash today? Nifty hits fresh 52-week low, Sensex tanks over 1,000 pts. 7 triggers behind R - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQZzlsa0lxZTQ5aTd4RFhxLU5rXzl3d0kyYmZXQTZXbDNpaG45d3FMVTJ2b2FjV083a0ZFQWhycGxKN2gzTkk3Ny1mVHJsX3BMdlBqOGpzZ2k2NjgtU0Jvd1J1bnlPSTdiMGdOOW11UjdMUWRWa0g5VGpwWm54MjctNE9HdEVCMGdoRkFYZ194ZFg4bXl4YlpmdnFJRndIblNOOE5KWVVBZEF6QWhTV2tBRVJxSVFZRXVfbnRsOTdCUTlEbk5XSm1wZG51N01CTElKeFJDdGR6MUFYOUt0N2xSaWJOZEpkdmRmV2VkS2JENzdiS09BbXM5WV9Ca2dEaUVuek4wa3Bpb2ZQSnk5QlB1QVdjYXRBWEhYX0YxWdIBogJBVV95cUxQMTRkWHRHZHpIYVMzUXVseW9tcUZrZVJxVi0xck9yc3VjR3gyaU01TXA2MkFTSzNXYWNxLXBteHdvdWJPSVVleEw5aWFSTkJWVkVueld0em9Wb1BKWGZKODJxcWJ4WFlLYklMM2ZvR3FIN0ppY2JLVXBDbEpmaFBLMGNPRk5ybXJWWE5nQnA3T3lqV0RISDlJZzE1NVpicGlISHV5Wm9oV2NfVjRLMTJhbmNoVWxERlowWjRWeGxGV0hiQk9WS1A4Z1ZBNWFpM1hmVUUtS1NDNzYybUFLanprM2VKSEhCb0w5aTRxbHFyLXhPcENseElCcDRJcHo1VHdCNk9sNUZTcmw0TEIxWmdzWTlKcWlnWGM5UWdOc21mME9PUQ?oc=5",
       "publishedAt": "Thu, 08 Oct 2026 05:16:29 GMT"
+    },
+    {
+      "title": "Sensex | Stock Market Live Updates: Sensex surges over 800 pts, Nifty above 22,450; TCS, Infy rally up to 5% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNFhlbHE4N3RHRHBFSVNyc29GNHd3Z0twajNMRVZlVXJVSFRxMlVVS0lqM0VPMnpwTFNKWlVUYVF6MW5RQmhpRkFnT0hRV2xHUTQtN1k5dlhBVDQyWGZ5WVlfOFhSbzM2UVBGanQxaUVDZHZuaU1seHZ6OXBIZjdQUS1LNUdHVTUwQml1VW1paGtWS0tHWExQNTJsTklSSGc5ZHpiRjZGNk40dFNyX2Jjcmt2eC1GS3VBa1JpcUNzRnBwd2hlbk9TTWRFNkV6eWtKampwSWZOY0ZlbjNQOVYtdUZEYTh6SWtpSG1vY0VZMkN2anFLd3lNYkpPa1B1V200MDMw0gGIAkFVX3lxTE96clZyUXlSUXpVTFQ5aXk2cnlvQVF5WHFOZmFpN0dKUkExOVoxUHh4LUNtNTlyUDdIN25ZMzFmZ0hmNmhQSWlMdk10TDl5Z0phc3NfY3JrQmo4SzlINnRvNXlWWm1Ja000RDlCUnZnOU43UEg5LWRNN19uWFgxdG5GVmdDUXB0OF9JRmlHUjJhaXFjZkRnTWF0S08wWlZDWHlwem1QT2JFZjVJdWlqYjRxY2ZneUpBUzFxMnB3VU11VVBFYXFUR2pWQnJZNnhNdF8zSFkzZDhmTjlNeUhKaEVUVDY0d1pMYVNBNEYyTWZVZkdwMWpTamZKSENPTm9RdXROLVJLSVR5MQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 04:50:21 GMT"
     },
     {
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
@@ -195,6 +183,12 @@
       "publishedAt": "Wed, 07 Oct 2026 11:45:44 GMT"
     },
     {
+      "title": "Stock market outlook today, 9 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei 225 cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC1WdnJRY19KdE54clZ4cUV4VDRleVlxTW9oUmFFUmNfYUFHVmJHT0V4bHVHS3liRV9CMHdQM1ZFWGpfeDZNOHQ5T243MU9Ua1NsWG5CUjJHYWs2WURxVnhnUGtTTnh6WU9MRVFONkNCMjJsMmhmNi1EQzZ4d3RmNWZCMmtvNlF1UEpxVHZLdF9RUDdtNVlyQjBKVHJsWVpwaW5VN3VSV29DZ3BlU2xDb0xQNXlsNlZ0QkI1R1N3bGJoUThzMUJyX2ZLc1dMR3F4aGQwa0FmcmZMdjN3UnRyT3N2am5ORlNiLUhVMlV4Yldjbkg5MEplbkJYSklqZ9IBgwJBVV95cUxQMXhlbG1PMWg3UTJrZXJqM0lvQVJmUDRDWHUybVhHdHJqalJmeFI3NDhWQmtSZTFJUkY5eGd2XzZEc0FHWm8xUUIwZDNhN3QxaVdnMVdRYWJGTTh2SjFxSXJWVmR1MUJjTElDOXM2bUJFejF1VXJoeWhpQTMtQ19COXNsR3V0ZHlSSU9RODctSTZfQnZjbTBYNWRfNDlFYjFrMlJQc21Hc0hUOXloYkRTWHk2Y0pBWW0xb2o3TTQzdUJnTE1ybEhDeHBlNzFaVTdTa0luM0w4dkNjZzIxcUhtUllOWjJqQmdHTWZ4REJESjMzWC0zZ2Q0NkJuOHJmOEd4Wlk0?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 01:18:06 GMT"
+    },
+    {
       "title": "Stock Market Today Live Updates: BSE Sensex tumbles 400 points, NSE Nifty50 closes below 22,670 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdGtJWjRVYnBxVGFxaDRTeF95S2laQU93Y2JBb0pFWUUtTnpmdGdOUkxva2Q2YTF6Y1pUcmV1VTNiZ0syS1V0dlNQSnp4Qjh2OWFoWS1fcHFsNmtCaU1BZEJ1RVBwOWZVZnhTVEpiSFZqU2lHVF9Ibm5iWWdQRU53T3V5SG5HRDhucVR4aXdlUnptV3FKakhhem8tMW9RZW5taVpuQWVfb2JVaFVWNmMtWHlaaXU4RGt6NXF5cU5jdUM1Ty1YbFlOWDl4bk83M3J5RXNlM1M2U3pySUIteTY2aTlrUlJLN0FHUGNFMTEtOU5IM3Z6cW8ySFNESHczaW1YMTJreEd4bXgzMlZXdEhPRnc3Qk9YcmV2a2FDbXJoN0gzUHA4b1ZqNWtxaGJTZmpUeHJUNdIBugJBVV95cUxPNnQxd2JiUHJORWFiSy12TktKQ0ZZS1o4Mmc2dzhMVmlRTTJKTkhIVkI1SzRzenpCelBGR1YzN283Nk9sSld6bFNrbUExN3V5aDRQaFRLcDRwdDFyaEtpTjRFNlBCTkxnOVY1LWJFdTZ2VkRiRk1aaUVwbURQQVZCRmwxWEVBQUhEM3UyNktiX1FmbE95OFpCUjRSRmJIcFFTTGtXOHVqbW5OMlI4dDhfY2tYUVpSSlp0YWxTTXpkclp4LW1XOGduTGRoTXVlNU5oZHZGek45WjJBdVZteWw3WVNDYVNmMXpvcmNDdmhONzlXeUk1S0RwOUs4RFFRazVMTlhxR0RudFVmLWFuY2xvZktnNHAwQmQ3RE1pQnRoZ0cxMW1lYmo4ZHlCR2JXQTltLURTbjN5T3Bndw?oc=5",
@@ -207,16 +201,10 @@
       "publishedAt": "Wed, 07 Oct 2026 10:55:08 GMT"
     },
     {
-      "title": "Stock Market Highlights: Sensex, Nifty Snap 2-Day Winning Run; SMIDs Mixed; Titan Top Loser - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV201N0J2ODk1UnVQTWQ2UHprOEl4eGxPOHp1ald1Q1hySWNTcS1OVVo1MjlrSXhqUEVIbTZDVUhQajhKZ2xFVTZIMHZEbHRiUHNfUmVQeHJuWVFLYkZYbm5OUVZGWkh1WlVmUlM0OUc0YUc1ZThjUEplZ1ZIYVBzVDRKUFZYRDlJNGpKQ0xzaDB1ZUNvSWN1T3hUZG12Q0t6RFV2Qzd6TjcxTXdaUzJ6MmtKdHZ4bU92M0t1NWZwemVUbXVFNGFNTEJmdXdzSEdCdFlN0gHbAUFVX3lxTE9Hc3dEbVUyamJ5d0JGZnlwdU0ydHdVWkpkUTdZckFFOGF2eTE5ZzY5c21LSENic1dQZTc4MHJLeVZ5SVRwMXR6QjhUSmtoaF9YQmhrdnhobjNzX1l3NFFWTmtScjNxZGxCWVB2eEd0cnZ4ellGdzBVRGhlb2hud3g3UzRPWWx1T1Z4OWVYZ3NlTjJfT3ZIclFnOExuQ1NkcHpNeEZ4NWx0aFRxRjEzeHBiQVBheWo4S3JNdThmVWRsbXBZcVBfV25Ybm1DQkUtOEMyOC1Hc1N5Q2hqQQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:14:40 GMT"
-    },
-    {
-      "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
+      "title": "Stock market prediction for today: Sensex, Nifty outlook for Friday | Kospi, Taiwan cues to watch | 9 Oct 2026 - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeDE5UC1qdXVTd0xUcHg5Mjkwdk9Sc2FsOGZjQlRTYkotbWswbEhKeHVZbkg0V3BfdlRsOEw2QTN1OUlmVWhTdUljWUJYLWN2X194WkFKWG1xdEFYeGZmQTUxLWpHcEt2LUlGUXg1blhlU3BfSGktQWVNN3hxX1ZXTkxjcUNzUVZfb1RpVU1xTUZ1Z3VGSW53cTdUcTFXTGVMRUdhLXBqd2RldDlDMHdKSkYyUlZ6WndVYTlKVUNGVUpfTFJ5dlp6eHNMUFJZZmdmYXJMcGRtR2JBZU5wN29ndUx2MEhGa2hlMnp6Z19DTm85OWlzLXdtN1hSWE5pdE82dkp2ZkRzZ9IBjAJBVV95cUxONGFvYzVfQlpCMXE2Z29oR2xGWGVOMFF3UTFWTGhkU1B0TVhBdXFmRlU0Q181TS1wOWQ3bVkyTXJHd1hvbmRZa254RkZJRTNic3pVTjRwLVE3cG1hRkU5NzB1U2lpSVlvTXFfN3hRbDVOLXdoYlRRSWV5VHNMTUQ5MWJ4RG1JNG0xWjZzaWNTcjhCdi0xbTJZSlRfYXZmc0Q3TXRfMUtMcFdRQ3pFNnpKb0hvejBPd1F5a19saE55RXQ5R2Roc0N0ejVmNzc2SnhnWWZWNWxfSHNjWHdDSXVGLXppSlREUlVidTFoM1Ywa2JSaGlqc0lkZl95V0hDci1qSDNHVWUtV2hJV3My?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 11:46:16 GMT"
     },
     {
       "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
@@ -225,16 +213,10 @@
       "publishedAt": "Tue, 06 Oct 2026 12:39:41 GMT"
     },
     {
-      "title": "Closing Bell: Nifty above 22,700, Sensex gains 685 pts ahead of RBI policy - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRURscmhwaTVEdDc2N3VsdmdmMXpBTEJHV21icXZodDF4ZWpIWTZBakVGR3pJTUNUSGREem55aFpkd1BiVjE3eThrOEhOMWJ0M3poRGpVVm9Oa3JFRTZGbmc1X2dYY1dLakJqYlVJcUJSUERla21TOVVBYXVlY3BkRU9ISERjLWdPRGV6NTZNRUlHMFJPS2c2OGUtRGlmQzhnZW9Bc2lOSjlqbTRIbEk1ZFYwOFRkcHhiMDZzY0tURjl4cEFrb1VFSEd4LUJ3OXllaXZzMFZFY0tXajVlWjJ3dm9qelBJMWJDU0N1NmF1N0wxRFlCN2VNRzdCd3lscWExMUl2UHRrb1NEb2FRRkZKd0JCUjMwQUJFU09NRFJ3MUYxLUXSAagCQVVfeXFMT1ZyWXNnc3c3SlRBSWpVSzZCWVNmRHpxbmFuTkY4aHlnUkNqdThPUnpaOFZ0a1I2V04yLVBkQVhRbVNUcV8tVUdEcExIb0s5eGdvWjlTMEI0amN3NUhIVlRxRG8yVUI2WFlyWnF5Rk52YWNTc1NMWDIxbjR3T2F4OEg1c3hsdjk4UEZDaFA4U3BPVlMtRXZJTDR3b1dDckYtYjFHZ25IbkpaMkZfbGJxU2hfMzJvZzJSY0JDV1lJT0hqRDFJY1lreU82bHV5NFg5aTBvb2tFYlNOcHZLV3RzV3JVeUVnNEFRQzUtTHNYUW1SN1ZjUkdEcGJUSTRZOFNtVVB1U19fUWhTcWNwRkxQLVN3eFpXVWQxWnEyY0lXS0lpcGd2TjBFWlA?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 10:46:52 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 7 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Kospi, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbGtjekNxdnA5QWRzLW5kQVJBWHR6U0RFQ2JneW9kbmRxM0JCWGw4cHRadzRZM2lldTlhQm5seUxqeUw5a0hzaTBsa0xOUC1hdEZZMm1wQ3ZScFFxYVlKeXdTdjI4bWpNZ2wtZ2pOWHViRG1YWlQ0ZnZhRnd1eThqZlFUblN3MmZYM1JETXdTQURuOGhwLXB2TzBKMkp2d2VET3AzSXRINldlemtxQTlqTmk5NnJqTFRHWG1McDFfZmxDdnFBLVB6eXFFc25VZkljZ2kwbFY1NGtWV3ZPN3E2WlhwVlJMbmUzaldha04zOHFIeUlJWTBJUUUtNGdROTNVbUNtR3dMRdIBjAJBVV95cUxORFBxdEVWTzdMLXE4eERrc2pZSjNxTjQ3cWtHc2NmdXJGNERWdEFOM3doOWk5WFQ3QUxrQW9mOGQxTEx0bXVndThpdzV4MFVVcEtRRkdVdUVYX2lNQzZvTXc3bWNUa3Y4TC1pNWJzYnVKR3FZeEF4VFNFZFlSSThPdnMtY0ViTU95YWdBUWw4N3dTVFY1bTdmc0gwbW1DNlFkUEJqQ3dERE5HQjdjWmJMdEpGa3ppcmJfaTZIWTk3OUI1ZGtVRVEtekZOMDBraHBCM0xsdE9fU2tKazcwZ2NBck9wdXFwU2kwR2pzLWxUYmtNU3pEbmpLbWxWZUxlRGEycVlKZk9JQ1pRQ2Yx?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 01:45:54 GMT"
+      "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
     }
   ]
 }
