@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets face volatility following RBI rate hike and US PERM ban on IT firms while Cochin Shipyard gains",
+  "headline": "Nifty, Sensex Face Pressure Amid RBI Rate Hike, Surging Brent Crude, and Foreign Capital Outflows",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "RBI hiked interest rates for the first time in nearly four years to address inflation and price pressures.",
-    "US PERM green card application processing was suspended for major IT service providers including TCS, Infosys, and Wipro.",
-    "Rising crude oil prices and high US Treasury yields placed pressure on global tech stocks.",
-    "Nifty and Sensex witnessed sharp sell-offs led by heavyweights, with Nifty dropping towards 22,600 levels."
+    "The Reserve Bank of India (RBI) hiked interest rates for the first time in nearly four years, triggering market sell-offs.",
+    "Brent crude oil prices climbed near $104 per barrel due to tanker attacks by Iran and hurricane threats to US supply.",
+    "GQG Partners exited significant Indian holdings, selling Rs 24,400 crore worth of stocks in 2026.",
+    "Nifty touched a fresh 52-week low after Sensex dropped over 1,000 points in recent trade."
   ],
   "whatHappening": [
-    "Cochin Shipyard secured contracts to build 40 ships from international clients across the US, Germany, Norway, and other nations.",
-    "Sensex dropped over 400 points following the RBI policy announcement while top losers included Adani Enterprises, Hindalco, and Titan.",
-    "Indian IT stocks faced headwind risks due to immigration policy suspensions affecting H-1B visa holders and green card processing.",
-    "The government notified a 3% IGST charge on gold and silver imports by banks and nominated agencies."
+    "Cochin Shipyard secured an order to build 40 ships from international clients including the U.S., Germany, and Norway.",
+    "JM Financial emerged at the top of the investment banking league table in H1 FY27.",
+    "Gold and silver imports by banks and nominated agencies will now attract a 3% IGST tax.",
+    "Two Mumbai-based companies and five Indian nationals were placed under U.S. sanctions for Iran oil trade involvement."
   ],
   "stocksInNews": [
     {
@@ -24,40 +24,33 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        8,
+        2,
         9
       ]
     },
     {
-      "symbol": "TCS",
-      "sentiment": "Negative",
+      "symbol": "JMFINANCIL",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        8,
-        9
+        5
       ]
     },
     {
-      "symbol": "WIPRO",
+      "symbol": "ITC",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        9
+        2,
+        6
       ]
     },
     {
       "symbol": "ADANIENT",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 2/9 sources",
       "articleIds": [
+        6,
         12
       ]
     },
@@ -78,29 +71,45 @@
       ]
     },
     {
+      "symbol": "TCS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
       "symbol": "RELIANCE",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        2
       ]
     }
   ],
-  "summary": "Indian benchmark indices closed sharply lower after the RBI announced an unexpected interest rate hike to curb persistent inflation pressures.\nIT stocks faced additional pressure amid news of US green card PERM program suspensions for major Indian tech firms.\nOn the stock-specific front, Cochin Shipyard stood out positively after securing massive international ship construction orders.",
-  "updatedAt": "2026-10-09T00:01:35.965Z",
+  "summary": "Indian equities remain volatile after the RBI raised interest rates for the first time in nearly four years amid rising inflation pressures. Geopolitical conflict in the Middle East has pushed Brent crude past $100 per barrel, further dampening investor sentiment. Meanwhile, Cochin Shipyard made positive headlines after securing a major 40-ship export deal.",
+  "updatedAt": "2026-10-09T01:01:45.378Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-09",
   "articleKeys": [
+    "brent crude oil near 104 iran attacks tankers hurricane threatens us supply",
+    "stock market today all you need to know going into trade on oct 9",
+    "stocks in news tcs itc infosys cochin shipyard and ril",
+    "premarket action heres the trade setup for todays session",
+    "anup bagchi set to become indias highestpaid bank ceo may earn rs 359 crore a year",
+    "jm financial tops investment banking league table in h1 fy27",
+    "gqg partners sells rs 24400 cr worth of indian stocks in 2026 itc adani shares among key exits",
     "gold silver imports by banks nominated agencies to attract 3 igst",
+    "two mumbaibased firms five indian nationals face us sanctions over iran oil trade",
     "cochin shipyard gets order to build 40 ships from us germany norway other nations sonowal",
-    "us stocks sampp 500 nasdaq end lower as crude prices jump chip stocks weigh",
-    "tech stocks drag nasdaq lower on report of openai revenue fall high yields",
-    "adequate response on the rbi and inflation",
-    "is ambani the real boss of india asks elon musk as centre refutes bias in starlink authorisation",
-    "us 30year fixedrate mortgage rate hits 740 likely to further erode housing demand",
-    "us president donald trump buys 1 millionplus stakes in meta microsoft mcdonalds adds spacex debt",
-    "cognizant infy tata among it firms suspended for us green card programme",
-    "working at tcs infosys wipro on h1b and waiting for a green card heres what the perm ban means for you",
     "why did market crash today nifty hits fresh 52week low sensex tanks over 1000 pts 7 triggers behind r the economic times",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
@@ -108,11 +117,53 @@
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom",
     "stock market highlights sensex nifty snap 2day winning run smids mixed titan top loser ndtv profit",
     "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 cnbc tv18",
-    "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
     "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard",
+    "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
     "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Brent Crude Oil Near $104: Iran Attacks Tankers, Hurricane Threatens US Supply",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/brent-crude-oil-prices-today-us-iran-tanker-attacks-hurricane-isaias-supply-middle-east-tensions-commodity-prices-12159244#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 06:05:16 +0530"
+    },
+    {
+      "title": "Stock Market Today: All You Need To Know Going Into Trade On Oct 9",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-9-12158588#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 06:00:01 +0530"
+    },
+    {
+      "title": "Stocks in news: TCS, ITC, Infosys, Cochin Shipyard and RIL",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-itc-infosys-cochin-shipyard-and-ril/articleshow/134798204.cms",
+      "publishedAt": "Fri, 09 Oct 2026 06:00:00 +0530"
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134797262.cms",
+      "publishedAt": "Fri, 09 Oct 2026 06:00:00 +0530"
+    },
+    {
+      "title": "Anup Bagchi set to become India's highest-paid bank CEO, may earn Rs 35.9 crore a year",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anup-bagchi-set-to-become-indias-highest-paid-bank-ceo-may-earn-rs-35-9-crore-a-year/articleshow/134803148.cms",
+      "publishedAt": "Fri, 09 Oct 2026 05:57:53 +0530"
+    },
+    {
+      "title": "JM Financial tops investment banking league table in H1 FY27",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-tops-investment-banking-league-table-in-h1-fy27-with-rs-75775-crore/articleshow/134802728.cms",
+      "publishedAt": "Fri, 09 Oct 2026 05:46:12 +0530"
+    },
+    {
+      "title": "GQG Partners sells Rs 24,400 cr worth of Indian stocks in 2026; ITC, Adani shares among key exits",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-partners-trims-stake-in-itc-to-rs-9395-crore-amidst-broader-market-sell-off-in-2026/articleshow/134803001.cms",
+      "publishedAt": "Fri, 09 Oct 2026 05:40:26 +0530"
+    },
     {
       "title": "Gold, silver imports by banks, nominated agencies to attract 3% IGST",
       "source": "Zerodha Pulse",
@@ -120,58 +171,16 @@
       "publishedAt": "Fri, 09 Oct 2026 04:19:16 +0530"
     },
     {
+      "title": "Two Mumbai-based firms, five Indian nationals face U.S. sanctions over Iran oil trade",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/two-mumbai-based-firms-five-indian-nationals-face-us-sanctions-over-iran-oil-trade/article71561446.ece",
+      "publishedAt": "Fri, 09 Oct 2026 03:06:05 +0530"
+    },
+    {
       "title": "Cochin Shipyard gets order to build 40 ships from U.S., Germany, Norway, other nations: Sonowal",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Industry/cochin-shipyard-gets-order-to-build-40-ships-from-us-germany-norway-other-nations-sonowal/article71561344.ece",
       "publishedAt": "Fri, 09 Oct 2026 02:37:03 +0530"
-    },
-    {
-      "title": "US stocks: S&amp;P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-end-lower-as-crude-prices-jump-chip-stocks-weigh/articleshow/134800283.cms",
-      "publishedAt": "Fri, 09 Oct 2026 01:38:56 +0530"
-    },
-    {
-      "title": "Tech stocks drag Nasdaq lower on report of OpenAI revenue fall, high yields",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/tech-stocks-drag-nasdaq-lower-on-report-of-openai-revenue-fall-high-yields/articleshow/134800145.cms",
-      "publishedAt": "Fri, 09 Oct 2026 01:26:06 +0530"
-    },
-    {
-      "title": "Adequate response: on the RBI and inflation",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/opinion/editorial/adequate-response-on-the-rbi-and-inflation/article71560012.ece",
-      "publishedAt": "Fri, 09 Oct 2026 01:08:33 +0530"
-    },
-    {
-      "title": "‘Is Ambani the real boss of India’, asks Elon Musk as Centre refutes bias in Starlink authorisation",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/dot-refutes-bias-in-starlink-authorisation-says-all-licensees-approvals-pending/article71560045.ece",
-      "publishedAt": "Fri, 09 Oct 2026 00:46:20 +0530"
-    },
-    {
-      "title": "US 30-year fixed-rate mortgage rate hits 7.40%, likely to further erode housing demand",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-30-year-fixed-rate-mortgage-rate-hits-7-40-likely-to-further-erode-housing-demand/articleshow/134798770.cms",
-      "publishedAt": "Thu, 08 Oct 2026 23:57:58 +0530"
-    },
-    {
-      "title": "US President Donald Trump buys $1 million-plus stakes in Meta, Microsoft, McDonald’s; adds SpaceX debt",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-president-donald-trump-buys-1-million-plus-stakes-in-meta-microsoft-mcdonalds-adds-spacex-debt/articleshow/134798553.cms",
-      "publishedAt": "Thu, 08 Oct 2026 23:47:47 +0530"
-    },
-    {
-      "title": "Cognizant, Infy, Tata among IT firms suspended for US green card programme",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/us-suspends-8-it-firms-from-permanent-labour-certification-programme-126100801495_1.html",
-      "publishedAt": "Thu, 08 Oct 2026 23:20:58 +0530"
-    },
-    {
-      "title": "Working At TCS, Infosys, Wipro On H-1B And Waiting For A Green Card? Here's What The PERM Ban Means For You",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/working-at-tcs-infosys-wipro-on-h-1b-and-waiting-for-a-green-card-heres-what-the-perm-ban-means-for-you-12158668#publisher=newsstand",
-      "publishedAt": "Thu, 08 Oct 2026 23:20:08 +0530"
     },
     {
       "title": "Why did market crash today? Nifty hits fresh 52-week low, Sensex tanks over 1,000 pts. 7 triggers behind R - The Economic Times",
@@ -216,16 +225,16 @@
       "publishedAt": "Wed, 07 Oct 2026 10:15:12 GMT"
     },
     {
-      "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjdLa1Q4STc5UFU5VzcxNWpmcHBDaXd3U1ktUkJhTUk0ZjlJRHZ6YWtzTkRhNDg0WFlELXdwLUlkMkVCYm1GUHhQNUlwazJHWlZIaVlhZmVBcGdOVHZsNFd2QUg5VXJkNjRKSzlvMnc3dWN0SjVFTnlidVVZMzctRjdEVzF4X3B0TEpUNURhcHFRV2ZMb3VDUGtnNDZhNXdIQWNlTTBHRGZPXzNkLUVXY1ZONFNHYjhqbFQwS0JqMGROVjE2bmZJ0gHOAUFVX3lxTE8wN3RPazNfT2JQaWdsVUpBb01Jd1FBTU9qYkZrNnZ2eENBY1UwSTBwOU1FWEcteXJ3RDNBME40TTRJTGdWOGxRVGl6TC1FTTkzenVWTFczZ2Q4c19jSXcyU3VfdFVwdzVZaktpa0hsRWIyZWtRbkVYcWdtWHpUTWd2MWFlTG4xVWhTY1o3czQ0RmF6NU5xTXNTRUdPZXhTNGVlT1Z6TXZHUHN0aVlmeTVBalhXdVBYdl96OGxaSksyQ19wMks2em5jNDZOdDFn?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 12:39:41 GMT"
-    },
-    {
       "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjdLa1Q4STc5UFU5VzcxNWpmcHBDaXd3U1ktUkJhTUk0ZjlJRHZ6YWtzTkRhNDg0WFlELXdwLUlkMkVCYm1GUHhQNUlwazJHWlZIaVlhZmVBcGdOVHZsNFd2QUg5VXJkNjRKSzlvMnc3dWN0SjVFTnlidVVZMzctRjdEVzF4X3B0TEpUNURhcHFRV2ZMb3VDUGtnNDZhNXdIQWNlTTBHRGZPXzNkLUVXY1ZONFNHYjhqbFQwS0JqMGROVjE2bmZJ0gHOAUFVX3lxTE8wN3RPazNfT2JQaWdsVUpBb01Jd1FBTU9qYkZrNnZ2eENBY1UwSTBwOU1FWEcteXJ3RDNBME40TTRJTGdWOGxRVGl6TC1FTTkzenVWTFczZ2Q4c19jSXcyU3VfdFVwdzVZaktpa0hsRWIyZWtRbkVYcWdtWHpUTWd2MWFlTG4xVWhTY1o3czQ0RmF6NU5xTXNTRUdPZXhTNGVlT1Z6TXZHUHN0aVlmeTVBalhXdVBYdl96OGxaSksyQ19wMks2em5jNDZOdDFn?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 12:39:41 GMT"
     },
     {
       "title": "Closing Bell: Nifty above 22,700, Sensex gains 685 pts ahead of RBI policy - Moneycontrol.com",
