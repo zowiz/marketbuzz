@@ -1,5 +1,5 @@
 {
-  "headline": "Nifty, Sensex Face Pressure Amid RBI Rate Hike, Surging Brent Crude, and Foreign Capital Outflows",
+  "headline": "Market under pressure as Nifty hits 52-week low amid RBI rate hike and rising crude oil prices",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "The Reserve Bank of India (RBI) hiked interest rates for the first time in nearly four years, triggering market sell-offs.",
-    "Brent crude oil prices climbed near $104 per barrel due to tanker attacks by Iran and hurricane threats to US supply.",
-    "GQG Partners exited significant Indian holdings, selling Rs 24,400 crore worth of stocks in 2026.",
-    "Nifty touched a fresh 52-week low after Sensex dropped over 1,000 points in recent trade."
+    "RBI hiked interest rates for the first time in nearly four years to combat price pressure",
+    "Brent Crude oil prices surged near $104 due to Iran tanker attacks and hurricane threats",
+    "GQG Partners sold Indian stocks worth Rs 24,400 crore during 2026",
+    "U.S. sanctions imposed on Mumbai-based firms and Indian nationals over Iran oil trade"
   ],
   "whatHappening": [
-    "Cochin Shipyard secured an order to build 40 ships from international clients including the U.S., Germany, and Norway.",
-    "JM Financial emerged at the top of the investment banking league table in H1 FY27.",
-    "Gold and silver imports by banks and nominated agencies will now attract a 3% IGST tax.",
-    "Two Mumbai-based companies and five Indian nationals were placed under U.S. sanctions for Iran oil trade involvement."
+    "Nifty 50 touched a fresh 52-week low while Sensex plummeted over 1,000 points",
+    "Cochin Shipyard secured a major international order to build 40 ships for multiple nations",
+    "Gold and silver imports by banks and nominated agencies now attract a 3% IGST",
+    "JM Financial emerged as the leader in the investment banking league table for H1 FY27"
   ],
   "stocksInNews": [
     {
@@ -24,8 +24,26 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2,
+        3,
         9
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3,
+        6
+      ]
+    },
+    {
+      "symbol": "ADANIENT",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        6,
+        12
       ]
     },
     {
@@ -37,21 +55,27 @@
       ]
     },
     {
-      "symbol": "ITC",
-      "sentiment": "Negative",
+      "symbol": "TCS",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2,
-        6
+        3
       ]
     },
     {
-      "symbol": "ADANIENT",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "symbol": "INFY",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        6,
-        12
+        3
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3
       ]
     },
     {
@@ -69,41 +93,17 @@
       "articleIds": [
         15
       ]
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        2
-      ]
     }
   ],
-  "summary": "Indian equities remain volatile after the RBI raised interest rates for the first time in nearly four years amid rising inflation pressures. Geopolitical conflict in the Middle East has pushed Brent crude past $100 per barrel, further dampening investor sentiment. Meanwhile, Cochin Shipyard made positive headlines after securing a major 40-ship export deal.",
-  "updatedAt": "2026-10-09T01:01:45.378Z",
+  "summary": "The Indian stock market is facing significant headwinds as the Nifty hits a 52-week low following a surprise RBI rate hike and heavy selling by GQG Partners. Global geopolitical tensions have pushed Brent crude toward $104, further dampening investor sentiment across major sectors. Despite the downturn, Cochin Shipyard stands out with positive momentum after securing a large-scale international shipbuilding order.",
+  "updatedAt": "2026-10-09T01:31:33.149Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-09",
   "articleKeys": [
     "brent crude oil near 104 iran attacks tankers hurricane threatens us supply",
     "stock market today all you need to know going into trade on oct 9",
-    "stocks in news tcs itc infosys cochin shipyard and ril",
     "premarket action heres the trade setup for todays session",
+    "stocks in news tcs itc infosys cochin shipyard and ril",
     "anup bagchi set to become indias highestpaid bank ceo may earn rs 359 crore a year",
     "jm financial tops investment banking league table in h1 fy27",
     "gqg partners sells rs 24400 cr worth of indian stocks in 2026 itc adani shares among key exits",
@@ -118,7 +118,7 @@
     "stock market highlights sensex nifty snap 2day winning run smids mixed titan top loser ndtv profit",
     "stock market highlights nifty at 22600 sensex falls 429 pts after rbi hikes rate for first time in nearly 4 cnbc tv18",
     "stock market close sensex falls 429 pts nifty ends at 22603 as rbi hikes rate amid price pressure business standard",
-    "stock market today highlights oct 6 sensex settles 685 pts higher nifty 50 rises 220 pts it realty psu banks end in red businessline",
+    "stock market today highlights oct 6 sensex ends 685 points higher nifty at 22776 pharma oil gas shares outperform ndtv profit",
     "closing bell nifty above 22700 sensex gains 685 pts ahead of rbi policy moneycontrolcom"
   ],
   "articles": [
@@ -135,15 +135,15 @@
       "publishedAt": "Fri, 09 Oct 2026 06:00:01 +0530"
     },
     {
-      "title": "Stocks in news: TCS, ITC, Infosys, Cochin Shipyard and RIL",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-itc-infosys-cochin-shipyard-and-ril/articleshow/134798204.cms",
-      "publishedAt": "Fri, 09 Oct 2026 06:00:00 +0530"
-    },
-    {
       "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134797262.cms",
+      "publishedAt": "Fri, 09 Oct 2026 06:00:00 +0530"
+    },
+    {
+      "title": "Stocks in news: TCS, ITC, Infosys, Cochin Shipyard and RIL",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-itc-infosys-cochin-shipyard-and-ril/articleshow/134798204.cms",
       "publishedAt": "Fri, 09 Oct 2026 06:00:00 +0530"
     },
     {
@@ -231,10 +231,10 @@
       "publishedAt": "Wed, 07 Oct 2026 10:22:07 GMT"
     },
     {
-      "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjdLa1Q4STc5UFU5VzcxNWpmcHBDaXd3U1ktUkJhTUk0ZjlJRHZ6YWtzTkRhNDg0WFlELXdwLUlkMkVCYm1GUHhQNUlwazJHWlZIaVlhZmVBcGdOVHZsNFd2QUg5VXJkNjRKSzlvMnc3dWN0SjVFTnlidVVZMzctRjdEVzF4X3B0TEpUNURhcHFRV2ZMb3VDUGtnNDZhNXdIQWNlTTBHRGZPXzNkLUVXY1ZONFNHYjhqbFQwS0JqMGROVjE2bmZJ0gHOAUFVX3lxTE8wN3RPazNfT2JQaWdsVUpBb01Jd1FBTU9qYkZrNnZ2eENBY1UwSTBwOU1FWEcteXJ3RDNBME40TTRJTGdWOGxRVGl6TC1FTTkzenVWTFczZ2Q4c19jSXcyU3VfdFVwdzVZaktpa0hsRWIyZWtRbkVYcWdtWHpUTWd2MWFlTG4xVWhTY1o3czQ0RmF6NU5xTXNTRUdPZXhTNGVlT1Z6TXZHUHN0aVlmeTVBalhXdVBYdl96OGxaSksyQ19wMks2em5jNDZOdDFn?oc=5",
-      "publishedAt": "Tue, 06 Oct 2026 12:39:41 GMT"
+      "title": "Stock Market Today Highlights, Oct 6: Sensex Ends 685 Points Higher, Nifty at 22,776; Pharma, Oil & Gas Shares Outperform - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQazRRVUVURVY4enRBenFvbHVRSVZ4emtSV1k2OEtaQ0JRZ2Q5YlJPNTVWWG5LRE9qS3ZtMWVwQkZxTmRNWkQ5YlN1bHdmTTJIZVp6dWcybzRsdVIwWWpzZUFEN2JGcG1KT3N5cVplYVlVckV3SUxJMW5jZUVsUlN6MnhRUmh0Qko4WDBURU51by1yVFEyMzFNUkYxUXNYNThBWHlMa3pPNDRaS0lZeXJRQzQ3TEVmeVJTX1c3RlJSMmFJeTjSAcsBQVVfeXFMTXd5NTZPU1lneGFjZHVuUGZjYkdsSU5VM2R0S21rWTBOX0ZHdnlHRHQ4QTFtYVd0b1BXdVVKejRKYlNibjhUbHlHcHgzN3BNYzRkM0VZa1p3N1gtdVpqbmxQZFMzTmUycm1UbXp1TGJJRGZYWVFXNGRheXlkelBrbS1KUjk0RWtpTndDM2tnV01qdHlKSkVkTWRiNl9SVDFkbkg5N013S0lPMzk1bXVqbUZkaVlua0JUWVJBN1NHWGVYdXZ1Y1lEWHFiRU0?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 10:09:48 GMT"
     },
     {
       "title": "Closing Bell: Nifty above 22,700, Sensex gains 685 pts ahead of RBI policy - Moneycontrol.com",
