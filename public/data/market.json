@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex jumps nearly 900 points, Nifty tops 22,500 led by rally in IT shares",
+  "headline": "Sensex Rebounds 879 Points as IT and FMCG Stocks Lead Market Recovery; TCS and ITC Surge",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,28 +7,47 @@
     "nextOpen": ""
   },
   "why": [
-    "IT shares outperformed and led the market recovery, boosted by gains in TCS.",
-    "All sectoral indices turned green during today's trading session.",
-    "FMCG sector gained over 2% providing strong support to benchmark indices.",
-    "Global market sentiment improved as European stocks rebounded and oil prices eased."
+    "TCS shares jumped 5% after earnings, boosting the entire IT sector",
+    "Broad-based buying helped Sensex rebound from previous sessions",
+    "All sectoral indices turned green during the day's trade",
+    "FMCG sector saw significant gains, with ITC surging up to 5%"
   ],
   "whatHappening": [
-    "Sensex climbed nearly 900 points to trade above 22,550 level.",
-    "Nifty recovered significantly to settle above 22,500.",
-    "Coal supplies to power plants increased 36% from September lows.",
-    "Zetwerk is reportedly planning an India IPO of up to $525 million next week."
+    "Sensex closed nearly 900 points higher, ending the day at 22,536",
+    "Nifty 50 reclaimed the 22,500 level as IT and FMCG packs outperformed",
+    "Foreign investors pulled $23.5 billion from Asian equities in September due to surging US yields",
+    "MV Electrosystems shares have more than doubled from their IPO price in just two months"
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 3/8 sources",
       "articleIds": [
-        16
+        6,
+        7,
+        12,
+        17
       ]
     },
     {
-      "symbol": "SAIL",
+      "symbol": "ITC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "POONAWALLA",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -36,11 +55,19 @@
       ]
     },
     {
+      "symbol": "MV Electrosystems",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
       "symbol": "ADANIENT",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        17
+        18
       ]
     },
     {
@@ -48,37 +75,91 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        17
+        18
       ]
     }
   ],
-  "summary": "Indian stock markets surged on October 9, with the Sensex jumping nearly 900 points and Nifty topping 22,500.\nThe rally was driven by strong buying in IT and FMCG stocks, with all sectoral indices trading in the green.\nThe market rebound comes after previous sessions of volatility caused by interest rate hikes and global economic concerns.",
-  "updatedAt": "2026-10-09T10:31:32.065Z",
+  "summary": "The Indian stock market witnessed a strong rebound on October 9, with the Sensex surging nearly 900 points and Nifty reclaiming the 22,500 mark. The rally was primarily driven by the IT sector, led by a 5% jump in TCS shares following its Q2 earnings, alongside gains in FMCG stocks like ITC. Despite global concerns over foreign fund outflows from Asia, domestic indices turned green across all sectors.",
+  "updatedAt": "2026-10-09T11:01:56.401Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-09",
   "articleKeys": [
+    "german machinery exports to india rise 11 as firms look beyond china",
+    "madhusudan kelabacked mv electrosystems shares more than double from ipo price in just 2 months should you buy",
+    "stock market close broadbased buying helps sensex rebound 879 pts nifty at 22536 it pack shines",
+    "global market foreign investors pull 235 billion from asian equities in september as us yields surge",
+    "norwegian mayor spotted exploring india in a tuktuk heres why he is doing it",
+    "global market european companies set for 21 q3 earnings growth led by energy firms",
+    "stock market today live sensex zooms nearly 1000 points nifty 50 near 22550 itc tcs surge up to 5 each ril top loser",
+    "q2 results live updates poonawalla fincorp buzzing in trade ahead of numbers tcs share price zooms 5 after earnings",
+    "vijay deverakonda on ranabaali vs jailer 2 clash 90 of it is manufactured",
     "stock market live sensex extends gains jumps 900 pts nifty above 22550 it shares outperform",
-    "why are us stocks rallying despite fed rate shock aswath damodaran explains in the context of ai",
-    "nonmetros emerge as key growth drivers for amazon vp saurabh srivastava",
-    "zetwerk said to plan up to 525 mn india ipo next week",
-    "indianorigin s african jurist navanethem pillay wins nobel peace prize",
-    "coal supplies to power plants rise 36 from sep low stock depletion slows",
-    "global market european stocks rebound as oil prices ease telecom shares slide on spacex deal",
-    "rs 1024crore market cap rs 10000crore order book this penny stock jumps 11 after sail deal",
-    "how do family offices hunt for multibagger startups",
-    "us 10year treasury yield could hit 6 as oil prices debt worries mount pimco cio",
+    "stock market today highlights oct 6 sensex ends 685 points higher nifty at 22776 pharma oil gas shares outperform ndtv profit",
     "why is market rising today sensex jumps 800 points nifty above 22500 6 key factors driving dstreet re the economic times",
-    "sensex today stock market live sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
+    "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "why did market crash today nifty hits fresh 52week low sensex tanks over 1000 pts 7 triggers behind r the economic times",
     "stock market today live october 9 sensex gains over 87909 points nifty tops 2252045 as all sectoral indices turn green businessline",
     "why is stock market up today good friday for sensex nifty 5 biggest contributors to dstreet party livemint",
     "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
     "stock market today highlights sensex closes 429 pts nifty slips 076 as rbi rate hike adani enterprises hindalco top losers businessline",
-    "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom",
-    "stock market highlights sensex jumps 879 points nifty settles at 22520 it stocks lead gains ndtv profit"
+    "stock market outlook today 9 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei 225 cues livemint"
   ],
   "articles": [
+    {
+      "title": "German machinery exports to India rise 11% as firms look beyond China",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/german-machinery-exports-to-india-rise-11-as-firms-look-beyond-china/article71563546.ece",
+      "publishedAt": "Fri, 09 Oct 2026 16:11:57 +0530"
+    },
+    {
+      "title": "Madhusudan Kela-backed MV Electrosystems shares more than double from IPO price in just 2 months. Should you buy?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kela-backed-mv-electrosystems-shares-more-than-double-from-ipo-price-in-just-2-months-should-you-buy/articleshow/134830534.cms",
+      "publishedAt": "Fri, 09 Oct 2026 15:55:38 +0530"
+    },
+    {
+      "title": "Stock Market Close: Broad-based buying helps Sensex rebound 879 pts; Nifty at 22,536; IT pack shines",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-it-stocks-today-126100900099_1.html",
+      "publishedAt": "Fri, 09 Oct 2026 15:39:50 +0530"
+    },
+    {
+      "title": "Global Market: Foreign investors pull $23.5 billion from Asian equities in September as US yields surge",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-investors-pull-23-5-billion-from-asian-equities-in-september-as-us-yields-surge/articleshow/134829780.cms",
+      "publishedAt": "Fri, 09 Oct 2026 15:26:02 +0530"
+    },
+    {
+      "title": "Norwegian Mayor Spotted Exploring India In A 'Tuk-Tuk’: Here’s Why He Is Doing It",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/norwegian-mayor-spotted-exploring-india-in-a-tuk-tuk-here-s-why-he-is-doing-it-12160922#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 15:14:09 +0530"
+    },
+    {
+      "title": "Global Market: European companies set for 21% Q3 earnings growth, led by energy firms",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-set-for-21-q3-earnings-growth-led-by-energy-firms/articleshow/134829464.cms",
+      "publishedAt": "Fri, 09 Oct 2026 15:09:48 +0530"
+    },
+    {
+      "title": "Stock Market Today LIVE: Sensex Zooms Nearly 1,000 Points, Nifty 50 Near 22,550; ITC, TCS Surge Up To 5% Each, RIL Top Loser",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-share-market-news-nifty-50-sensex-today-gift-nifty-tcs-infosys-wipro-it-stocks-crude-oil-prices-us-iran-war-12159346#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 15:07:56 +0530"
+    },
+    {
+      "title": "Q2 Results Live Updates: Poonawalla Fincorp Buzzing In Trade Ahead Of Numbers; TCS Share Price Zooms 5% After Earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-today-october-9-anand-rathi-poonawalla-fincorp-canara-hsbc-life-earnings-today-dividend-track-q2-fy27-results-live-12159731#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 15:07:19 +0530"
+    },
+    {
+      "title": "Vijay Deverakonda On Ranabaali Vs Jailer 2 Clash: \"90% Of It Is Manufactured\"",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/lifestyle/vijay-deverakonda-on-ranabaali-vs-jailer-2-clash-90-of-it-is-manufactured-12160884#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 15:05:57 +0530"
+    },
     {
       "title": "Stock Market LIVE: Sensex extends gains, jumps 900 pts, Nifty above 22,550; IT shares outperform",
       "source": "Zerodha Pulse",
@@ -86,58 +167,10 @@
       "publishedAt": "Fri, 09 Oct 2026 15:04:32 +0530"
     },
     {
-      "title": "Why are US stocks rallying despite Fed rate shock? Aswath Damodaran explains in the context of AI",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-are-us-stocks-rallying-despite-fed-rate-shock-aswath-damodaran-explains-in-the-context-of-ai/articleshow/134829268.cms",
-      "publishedAt": "Fri, 09 Oct 2026 14:57:01 +0530"
-    },
-    {
-      "title": "Non-metros emerge as key growth drivers for Amazon: V-P Saurabh Srivastava",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/amazon-india-non-metro-cities-drive-new-customer-growth-saurabh-srivastava-126100900662_1.html",
-      "publishedAt": "Fri, 09 Oct 2026 14:56:04 +0530"
-    },
-    {
-      "title": "Zetwerk said to plan up to $525 mn India IPO next week",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/zetwerk-said-to-plan-up-to-525-million-india-ipo-next-week/articleshow/134829141.cms",
-      "publishedAt": "Fri, 09 Oct 2026 14:53:42 +0530"
-    },
-    {
-      "title": "Indian-origin S African jurist Navanethem Pillay wins Nobel Peace Prize",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/indian-origin-s-african-jurist-navanethem-pillay-wins-nobel-peace-prize-126100900644_1.html",
-      "publishedAt": "Fri, 09 Oct 2026 14:45:10 +0530"
-    },
-    {
-      "title": "Coal supplies to power plants rise 36% from Sep low, stock depletion slows",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/coal-supplies-to-power-plants-rise-36-from-sep-low-stock-depletion-slows-126100900622_1.html",
-      "publishedAt": "Fri, 09 Oct 2026 14:44:05 +0530"
-    },
-    {
-      "title": "Global Market: European stocks rebound as oil prices ease; telecom shares slide on SpaceX deal",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-rebound-as-oil-prices-ease-telecom-shares-slide-on-spacex-deal/articleshow/134827199.cms",
-      "publishedAt": "Fri, 09 Oct 2026 14:25:02 +0530"
-    },
-    {
-      "title": "Rs 1,024-crore market cap, Rs 10,000-crore order book: This penny stock jumps 11% after SAIL deal",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1024-crore-market-cap-rs-10000-crore-order-book-this-penny-stock-jumps-11-after-sail-deal/articleshow/134827035.cms",
-      "publishedAt": "Fri, 09 Oct 2026 14:24:34 +0530"
-    },
-    {
-      "title": "How Do Family Offices Hunt for Multibagger Startups?",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-do-family-offices-hunt-for-multibagger-startups/videoshow/134827194.cms",
-      "publishedAt": "Fri, 09 Oct 2026 14:21:56 +0530"
-    },
-    {
-      "title": "US 10-year Treasury yield could hit 6% as oil prices, debt worries mount: Pimco CIO",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-could-hit-6-as-oil-prices-debt-worries-mount-pimco-cio/articleshow/134825801.cms",
-      "publishedAt": "Fri, 09 Oct 2026 14:07:18 +0530"
+      "title": "Stock Market Today Highlights, Oct 6: Sensex Ends 685 Points Higher, Nifty at 22,776; Pharma, Oil & Gas Shares Outperform - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQazRRVUVURVY4enRBenFvbHVRSVZ4emtSV1k2OEtaQ0JRZ2Q5YlJPNTVWWG5LRE9qS3ZtMWVwQkZxTmRNWkQ5YlN1bHdmTTJIZVp6dWcybzRsdVIwWWpzZUFEN2JGcG1KT3N5cVplYVlVckV3SUxJMW5jZUVsUlN6MnhRUmh0Qko4WDBURU51by1yVFEyMzFNUkYxUXNYNThBWHlMa3pPNDRaS0lZeXJRQzQ3TEVmeVJTX1c3RlJSMmFJeTjSAcsBQVVfeXFMTXd5NTZPU1lneGFjZHVuUGZjYkdsSU5VM2R0S21rWTBOX0ZHdnlHRHQ4QTFtYVd0b1BXdVVKejRKYlNibjhUbHlHcHgzN3BNYzRkM0VZa1p3N1gtdVpqbmxQZFMzTmUycm1UbXp1TGJJRGZYWVFXNGRheXlkelBrbS1KUjk0RWtpTndDM2tnV01qdHlKSkVkTWRiNl9SVDFkbkg5N013S0lPMzk1bXVqbUZkaVlua0JUWVJBN1NHWGVYdXZ1Y1lEWHFiRU0?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 10:09:48 GMT"
     },
     {
       "title": "Why is market rising today? Sensex jumps 800 points, Nifty above 22,500. 6 key factors driving D-Street re - The Economic Times",
@@ -146,7 +179,7 @@
       "publishedAt": "Fri, 09 Oct 2026 03:59:14 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
+      "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNUnF3dDlGRElxWFhJTmNtRVZMOUlkN0pTSzRfbHFkN1lxaVRmYk90RnVfeVVrbURSQzZrVEkzUDlkVWhjblN4SnBoOGF4Y0xVSGNJSmNNR3FUM3BEQ2FiVlFqTjlDZGFEdUxDZG5fWXh1a2l4eGEzMGYxdmc1amNmTEZGaHJLbUozVUotQW5BRjdZcVBhY1NnZDNwUXlFLWlZcTVUcGlVSlF6Q2Y1bG9XeGRfV0hHTGgxU0hqZ3RXX2tJVm9kVmcwVWtQUzIyTGp5QjRRV083Nml4RVdsR09DUG9faUZNY0R2b25zUjFoeE9LVmpwNFgzZUh1ZFZua29kMzJWNUVoX1J5dzlqRjUtc3lnX3hLOTFNUlBVb0xhWElUQURnUzJTVG1Xd0lZMm_SAbQCQVVfeXFMTW9PcUtmdEk5ekRSbUVPX3RaZnhVMEpjTHNFRWxfaEZ6ZEVWbWhucHNnV1Q0WXRXMXBvZUxWejhKbXd4bEtQY0FpRE80VDRUZF8tLWVfWDZIQzZVRXllZHNBdS03c1VKLUdia1Uxa2pOVkRCcjlrUlgyWEZRemhRZVlZZWR0dG1DUkQ1NG1yelRBVDFKOG8zVWFSUjZ2MmdCOUdaOVprSlVCazZSUXlqbDlTSEtDVGc0YlR6ZXJweHQwQVEzZWRoWkxHbFBEa2tuX2tWNUpXTFE4WHU2UUlTdDRhUmNOQzBGdWJ4cjd4UnZUTkYzbU00RkpVbTVwWXRrdzUzQ0E3UzNBWWxJUFY2WndWSFh6RG03S0xTMkdhclVUelk4OGc4T3E0WXVqdHV1RGVTV2Y?oc=5",
       "publishedAt": "Fri, 09 Oct 2026 10:16:27 GMT"
@@ -167,7 +200,7 @@
       "title": "Stock Market Today Live, October 9: Sensex gains over 879.09 points, Nifty tops 22,520.45 as all sectoral indices turn green - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnliNTZxMzVPT08yZ1VxcWxnQlpwa210dXJjNWJ5MDU0MTVGZFR5U040WWk4Z3pOamc3dTNWSnJ0MXZPSlhYTWFSSko4UlFFYjU5anZQblNuTm9leXVWZnBiSlY3YlgzaVprTXVGX3QxRzNTXzNTME9jendma2JiTWV5SXQ5S1h1cjBra2Z5SjVoakV6cE1yVHpTeVkyRDViOFk5X1dMSjNfRHpCY283aHI5eGNzX25ENDBDcFZsamotcUhacGw00gHOAUFVX3lxTE9WTkdheGVJVU1ibjA3a1Y2S0xQVXVSbVdsOUp1OW12ZjVGVFJHVXpqb3hyZjY3bk1YRW01Y0dyVnJ3VkpfNVBtUmxlU3dSOGVKaG9vSWVFNDBfTGxNY1NabmdIRzdQU3RYX1BKbFE2M0h5T2ZBbTJUdjNkQTVoQ3hnOHlfR0pBNk9IRnlyOENQSHN2VnpWRE14ZTVXVFNjdV9sUW0wb3RSUGtfRE9pcTVBRl9GWDhaVkx5bUx2T1RzclpEdnF2c21zTm81WERR?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 10:22:09 GMT"
+      "publishedAt": "Fri, 09 Oct 2026 10:47:40 GMT"
     },
     {
       "title": "Why is stock market up today? 'Good Friday' for Sensex, Nifty - 5 biggest contributors to D-Street party - Livemint",
@@ -188,16 +221,10 @@
       "publishedAt": "Wed, 07 Oct 2026 11:45:44 GMT"
     },
     {
-      "title": "Closing Bell: Nifty at 22,600, Sensex down 429 pts after RBI hikes rate in nearly 4 yrs - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbnotWFowYW95bVpVbXNzaG1zaEpON1VJOHhSbVkzZlM2eHM4TElrMGN4SkwwZ1I4Q09pSEcyTFlwVnVUTUxKbXdlNDFJWDh6RHFKNlFqR1ZLVXZUSmhGWEhfM09mWGZTaUdfb21ubFNxN3ViQ0I5UkY2RGRJbkwxR1RzOURjSkpVYlktS0R1MXRQOHRNVUQySmV1WXg3T3B6SmZHamRpYnVwMnZJZklRRHJZNzlpSkFqZ21WYi1yQS1LaFVGMExXZThNUm03SnJ1aGRqaElUYTczRlc1WDhfRVZtcldnRTNEUlVNcDI5dnZfdklnYTg5UG5LTk51QUNiMlppaEVtbmx5UWs1ejJqZm51dmU5eTZ6QWFIT2xVY0Y3RDg?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 10:55:08 GMT"
-    },
-    {
-      "title": "Stock Market Highlights: Sensex Jumps 879 Points, Nifty Settles At 22,520; IT Stocks Lead Gains - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdThWY0JLR28yLVRNOUN1Qm16R1B5aXZtTDVqQW5Wdk80M2ZSZWpGQjNnSDJJUVh0SHluQjJpVVJvME5ja3FOWG1lampiaDlIUE43dDlJTkNJQXZOaGVSTUsxMk1TYVZDYjJqQjlqTFktWjhRX0d2RVpjVmZ3c0F1aWZTT3FFT0Ffc1IxazEzTHFEbkFtMno5bUlOemgxdldlRUJxMTRkSFlwNXRlM19oQXRpaHM4MW5SVktqQm1nNVNBa3hkZkF4cTNBNEZuZVVGbkNUWFNEVElPVUdFVTJRdVpuOXMxM3l0cVZIdWlsLWMtc1Y3YnBnQlBuYXE5YnowSW43aDZB?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 10:07:51 GMT"
+      "title": "Stock market outlook today, 9 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei 225 cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC1WdnJRY19KdE54clZ4cUV4VDRleVlxTW9oUmFFUmNfYUFHVmJHT0V4bHVHS3liRV9CMHdQM1ZFWGpfeDZNOHQ5T243MU9Ua1NsWG5CUjJHYWs2WURxVnhnUGtTTnh6WU9MRVFONkNCMjJsMmhmNi1EQzZ4d3RmNWZCMmtvNlF1UEpxVHZLdF9RUDdtNVlyQjBKVHJsWVpwaW5VN3VSV29DZ3BlU2xDb0xQNXlsNlZ0QkI1R1N3bGJoUThzMUJyX2ZLc1dMR3F4aGQwa0FmcmZMdjN3UnRyT3N2am5ORlNiLUhVMlV4Yldjbkg5MEplbkJYSklqZ9IBgwJBVV95cUxQMXhlbG1PMWg3UTJrZXJqM0lvQVJmUDRDWHUybVhHdHJqalJmeFI3NDhWQmtSZTFJUkY5eGd2XzZEc0FHWm8xUUIwZDNhN3QxaVdnMVdRYWJGTTh2SjFxSXJWVmR1MUJjTElDOXM2bUJFejF1VXJoeWhpQTMtQ19COXNsR3V0ZHlSSU9RODctSTZfQnZjbTBYNWRfNDlFYjFrMlJQc21Hc0hUOXloYkRTWHk2Y0pBWW0xb2o3TTQzdUJnTE1ybEhDeHBlNzFaVTdTa0luM0w4dkNjZzIxcUhtUllOWjJqQmdHTWZ4REJESjMzWC0zZ2Q0NkJuOHJmOEd4Wlk0?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 01:18:06 GMT"
     }
   ]
 }
