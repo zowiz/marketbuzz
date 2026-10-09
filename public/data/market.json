@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex jumps over 1,000 points as IT and FMCG stocks lead a broad market recovery",
+  "headline": "Sensex and Nifty surge as IT stocks lead a broad-based market recovery, with Nifty closing above 22,500.",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,77 +7,86 @@
     "nextOpen": ""
   },
   "why": [
-    "IT shares led a rally following a recovery in TCS shares",
-    "Easing crude oil prices provided relief to the market",
-    "Strong Q2 earnings expectations for India Inc across banks, autos, and metals",
-    "Positive sentiment as all sectoral indices turned green"
+    "A significant rally in IT stocks, with the sector gaining 3% led by a jump in TCS shares.",
+    "Broad-based buying across D-Street as all sectoral indices ended the day in the green.",
+    "Strong performance in the FMCG sector, which saw gains of over 2% during the session.",
+    "Positive Q2 business updates, including a 16% sales increase for Mahindra & Mahindra."
   ],
   "whatHappening": [
-    "BSE Sensex jumped over 1,000 points while Nifty50 climbed above 22,550",
-    "The Indian Rupee rose 16 paise to close at 96.72 against the U.S. dollar",
-    "India bonds extended their weekly slide following the RBI's hawkish stance",
-    "Bitcoin fell to $82,000 amid OpenAI revenue concerns and geopolitical tensions"
+    "The BSE Sensex surged over 1,000 points intraday before settling nearly 900 points higher.",
+    "Nifty 50 successfully reclaimed the 22,500 level, closing the session at 22,520.",
+    "TCS is expanding its bench and increasing subcontracting to prepare for anticipated demand.",
+    "GQG Partners-managed entities reduced their stake in Adani Power from 5.74% to 5.72%."
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/8 sources",
+      "sources": "Mentioned by 4/8 sources",
       "articleIds": [
-        9,
+        0,
+        2,
         12,
-        16
+        16,
+        19
       ]
     },
     {
-      "symbol": "ITC",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
+      "symbol": "ADANIPOWER",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        9,
-        12
+        1
       ]
     },
     {
-      "symbol": "BSE",
+      "symbol": "M&M",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        9
+        6
       ]
     },
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "TATAAMC",
+      "symbol": "MAZDOCK",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        7
+      ]
+    },
+    {
+      "symbol": "SUZLON",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "RVNL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
       ]
     }
   ],
-  "summary": "Indian markets staged a strong recovery on Friday, with the Sensex jumping over 1,000 points and Nifty reclaiming the 22,550 level. The rally was primarily driven by IT and FMCG stocks, supported by easing crude oil prices and a positive Q2 earnings outlook. Despite the equity surge, bond markets remained under pressure following the RBI's recent hawkish policy shift.",
-  "updatedAt": "2026-10-09T13:34:44.118Z",
+  "summary": "Indian markets witnessed a sharp recovery on Friday, with the Sensex gaining nearly 900 points and Nifty settling above 22,500.\nThe rally was primarily driven by a 3% surge in IT stocks, led by TCS, alongside strong gains in the FMCG and Auto sectors.\nInvestor sentiment was bolstered by broad-based buying across all sectors and positive Q2 production updates from major firms.",
+  "updatedAt": "2026-10-09T14:02:26.780Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-09",
   "articleKeys": [
-    "et alpha wealth summit 20 sifs passive funds and gift city how indias wealth portfolios are evolving says tata amcs anand vardarajan",
-    "bitcoin falls to 82000 as openai revenue concerns and geopolitical tensions trigger nearly 1 billion in crypto liquidations",
-    "tiruppur domestic garment exhibition to be held in january",
-    "india bonds extend weekly slide struggle to shake off rbi hike hawkish stance shift",
-    "dow jones nasdaq us stock market today live us futures up as oil slips telecom stocks pressured by spacex spectrum acquisition",
-    "reissued bonds account for nearly 66 of state borrowings in h1 fy27 report",
-    "sensex nifty rebounds over 1 after two days of losses it shares lead rally amid easing crude prices",
-    "rupee rises 16 paise to close at 9672 against us dollar",
-    "india inc eyes 2022 q2 earnings growth as banks autos and metals lead",
-    "market wrap itc tcs bse ril top gainers and losers on nifty and sensex on friday",
+    "tcs builds higher bench increases subcontracting as it prepares for demand",
+    "adani power shares gqg partnersmanaged entities cut stake to 572 from 574",
+    "trumps move to suspend perm programme for indian it majors raises talentretention concerns",
+    "iphone 18 pro sales disappoint apple reportedly cuts component orders by 15",
+    "indias share of global greenfield investments more than double chinas in 202025",
+    "delhi airport hasnt imposed 48hour advance passenger manifest rule for inbound flights sources",
+    "mm q2 business update production hits 122 lakh units sales up 16",
+    "mazagon dock suzlon to rvnl how have indias retail stock darlings fared from their peaks",
+    "bjp scores massive nandigram bypoll win hasirani rath beats congress by 12 lakh votes",
+    "one of asias richest cities is choking on haze ahead of its biggest f1 weekend heres whats happening",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
@@ -91,64 +100,64 @@
   ],
   "articles": [
     {
-      "title": "ET Alpha Wealth Summit 2.0 | SIFs, passive funds and GIFT City: How India's wealth portfolios are evolving, says Tata AMC's Anand Vardarajan",
+      "title": "TCS builds higher bench, increases subcontracting as it prepares for demand",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-sifs-passive-funds-and-gift-city-how-indias-wealth-portfolios-are-evolving-says-tata-amcs-anand-vardarajan/articleshow/134833674.cms",
-      "publishedAt": "Fri, 09 Oct 2026 17:55:49 +0530"
+      "link": "https://www.thehindu.com/business/Industry/tcs-builds-higher-bench-increases-subcontracting-as-it-prepares-for-demand/article71561050.ece",
+      "publishedAt": "Fri, 09 Oct 2026 19:04:54 +0530"
     },
     {
-      "title": "Bitcoin falls to $82,000 as OpenAI revenue concerns and geopolitical tensions trigger nearly $1 billion in crypto liquidations",
+      "title": "Adani Power shares: GQG Partners-managed entities cut stake to 5.72% from 5.74%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-falls-to-82000-as-openai-revenue-concerns-and-geopolitical-tensions-trigger-nearly-1-billion-in-crypto-liquidations/articleshow/134833622.cms",
-      "publishedAt": "Fri, 09 Oct 2026 17:53:20 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-gqg-partners-managed-entities-cut-stake-to-5-72-from-5-74/articleshow/134834452.cms",
+      "publishedAt": "Fri, 09 Oct 2026 18:28:05 +0530"
     },
     {
-      "title": "Tiruppur domestic garment exhibition to be held in January",
+      "title": "Trump’s move to suspend PERM programme for Indian IT majors raises talent-retention concerns",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/tiruppur-domestic-garment-exhibition-to-be-held-in-january/article71563368.ece",
-      "publishedAt": "Fri, 09 Oct 2026 17:53:05 +0530"
+      "link": "https://www.thehindu.com/business/Industry/trumps-move-to-suspend-perm-programme-for-indian-it-majors-raises-talent-retention-concerns/article71563952.ece",
+      "publishedAt": "Fri, 09 Oct 2026 18:21:57 +0530"
     },
     {
-      "title": "India bonds extend weekly slide; struggle to shake off RBI hike, hawkish stance shift",
+      "title": "iPhone 18 Pro Sales Disappoint? Apple Reportedly Cuts Component Orders By 15%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-extend-weekly-slide-struggle-to-shake-off-rbi-hike-hawkish-stance-shift/articleshow/134833317.cms",
-      "publishedAt": "Fri, 09 Oct 2026 17:51:30 +0530"
+      "link": "https://www.ndtvprofit.com/technology/iphone-18-pro-sales-disappoint-apple-reportedly-cuts-component-orders-by-15-12162068#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 18:16:41 +0530"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures up as oil slips; telecom stocks pressured by SpaceX spectrum acquisition",
+      "title": "India’s share of global greenfield investments more than double China’s in 2020-25",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-yield-spacex-nvidia-tesla-apple-delta-ai-chip-stock-price-news-9th-october-2026/liveblog/134833667.cms",
-      "publishedAt": "Fri, 09 Oct 2026 17:48:29 +0530"
+      "link": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
+      "publishedAt": "Fri, 09 Oct 2026 18:15:52 +0530"
     },
     {
-      "title": "Reissued bonds account for nearly 66% of state borrowings in H1 FY27: Report",
+      "title": "Delhi Airport Hasn't Imposed 48-Hour Advance Passenger Manifest Rule For Inbound Flights: Sources",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/reissued-bonds-account-for-nearly-66-of-state-borrowings-in-h1-fy27-report/articleshow/134833291.cms",
-      "publishedAt": "Fri, 09 Oct 2026 17:39:33 +0530"
+      "link": "https://www.ndtvprofit.com/india/delhi-airport-hasnt-imposed-48-hour-advance-passenger-manifest-rule-for-inbound-flights-sources-12161303#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 18:13:31 +0530"
     },
     {
-      "title": "Sensex, Nifty rebounds over 1% after two days of losses; IT shares lead rally amid easing crude prices",
+      "title": "M&M Q2 Business Update: Production Hits 1.22 Lakh Units, Sales Up 16%",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/sensex-nifty-rebounds-over-1-after-two-days-of-losses-it-shares-lead-rally-amid-easing-crude-prices/article71563865.ece",
-      "publishedAt": "Fri, 09 Oct 2026 17:32:59 +0530"
+      "link": "https://www.ndtvprofit.com/markets/m-m-q2-business-update-production-hits-1-22-lakh-units-sales-up-16-12162166#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 18:11:59 +0530"
     },
     {
-      "title": "Rupee rises 16 paise to close at 96.72 against U.S. dollar",
+      "title": "Mazagon Dock, Suzlon To RVNL: How Have India's Retail Stock Darlings Fared From Their Peaks?",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/rupee-rises-16-paise-to-close-at-9672-against-us-dollar/article71563739.ece",
-      "publishedAt": "Fri, 09 Oct 2026 17:13:23 +0530"
+      "link": "https://www.ndtvprofit.com/markets/mazagon-dock-suzlon-tata-motors-itc-eternal-vodafone-idea-to-rvnl-how-have-indias-retail-stock-darlings-fared-from-their-peaks-12162147#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 18:09:36 +0530"
     },
     {
-      "title": "India Inc eyes 20-22% Q2 earnings growth as banks, autos and metals lead",
+      "title": "BJP Scores Massive Nandigram Bypoll Win, Hasirani Rath Beats Congress By 1.2 Lakh Votes",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/india-inc-eyes-20-22-q2-earnings-growth-as-banks-autos-and-metals-lead/article71563729.ece",
-      "publishedAt": "Fri, 09 Oct 2026 17:12:32 +0530"
+      "link": "https://www.ndtvprofit.com/india/bjp-scores-massive-nandigram-bypoll-win-hasirani-rath-beats-congress-by-1-2-lakh-votes-12162054#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 18:06:04 +0530"
     },
     {
-      "title": "Market wrap: ITC, TCS, BSE, RIL top gainers and losers on Nifty and Sensex on Friday",
+      "title": "One Of Asia's Richest Cities Is Choking On Haze Ahead Of Its Biggest F1 Weekend. Here's What's Happening",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-itc-tcs-bse-ril-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134832178.cms",
-      "publishedAt": "Fri, 09 Oct 2026 17:07:09 +0530"
+      "link": "https://www.ndtvprofit.com/world/one-of-asias-richest-cities-is-choking-on-haze-ahead-of-its-biggest-f1-weekend-heres-whats-happening-12162118#publisher=newsstand",
+      "publishedAt": "Fri, 09 Oct 2026 18:04:23 +0530"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex jumps over 1000 points, Nifty50 climbs above 22,550 - The Times of India",
