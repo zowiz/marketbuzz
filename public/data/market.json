@@ -1,22 +1,22 @@
 {
-  "headline": "On last trading session, Sensex rose nearly 900 points while Nifty crossed 22,500 driven by IT stock rally.",
+  "headline": "Last session: Sensex jumped nearly 900 points while Nifty reclaimed 22,500 led by a rally in IT stocks",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 12 October.",
-    "nextOpen": "Monday, 12 October 2026"
+    "nextOpen": "Monday, 12 October"
   },
   "why": [
-    "Markets rebounded strongly on Friday with Sensex surging nearly 900 points following a steep rally in IT and FMCG sectors.",
-    "TCS shares jumped, driving a 3% surge in the IT sector after heavy selling earlier in the week.",
-    "Rising Brent crude oil prices above $104 prompted the RBI to open a special dollar window for oil PSUs to ease rupee pressure.",
-    "Investors shrugged off previous sell-offs as buying interest returned across major heavyweights."
+    "IT stocks surged 3% in the last session, led by a significant recovery in TCS shares",
+    "The FMCG sector gained over 2% as the market rebounded from an 18-month low hit earlier in the week",
+    "Nifty bulls regained momentum after a sharp sell-off, pushing the index back above the 22,500 mark",
+    "Middle East supply risks are keeping Brent crude oil prices elevated with a war premium"
   ],
   "whatHappening": [
-    "On the last trading day, Sensex surged nearly 900 points and Nifty closed above 22,500.",
-    "IT sector led the market recovery with a 3% gain, while FMCG stocks rose over 2%.",
-    "RBI announced special regulatory measures allowing PSU oil companies to access a dedicated forex window for dollar requirements.",
-    "Akash and Isha Ambani initiated global investor roadshows for a proposed Rs 30,000 crore Jio IPO."
+    "Reliance's Jio is taking a Rs 30,000 crore IPO pitch to global marquee investors for a larger stake",
+    "Market experts are analyzing AI company valuations for Meta and Alphabet ahead of third-quarter earnings",
+    "Investors are monitoring five key factors that will decide the market's direction in the coming week",
+    "Political developments and protests are creating a backdrop of domestic uncertainty for the government"
   ],
   "stocksInNews": [
     {
@@ -25,6 +25,14 @@
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         12
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
       ]
     },
     {
@@ -42,31 +50,23 @@
       "articleIds": [
         11
       ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        0
-      ]
     }
   ],
-  "summary": "Indian benchmark indices rebounded sharply on the last trading session, with Sensex climbing nearly 900 points and Nifty reclaiming 22,500. The rally was spearheaded by IT and FMCG stocks, with TCS jumping significantly. Meanwhile, the RBI opened a special dollar window for oil PSUs to mitigate currency pressures arising from volatile global crude prices.",
-  "updatedAt": "2026-10-10T07:01:56.968Z",
+  "summary": "On the last trading day, Indian markets recovered sharply with the Sensex gaining 900 points and Nifty reclaiming the 22,500 level, driven by a 3% jump in IT stocks. Over the weekend, focus has shifted to Jio's global IPO pitch and geopolitical risks affecting oil prices. The market remains closed today for the weekend and will reopen on Monday.",
+  "updatedAt": "2026-10-10T08:03:22.797Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-10",
   "articleKeys": [
+    "the top four ai bets aswath damodaran cuts through the silicon valley valuation fog",
+    "meta to alphabet top ai companies to drive most thirdquarter us earnings gains",
     "exclusive akash isha ambani take rs 30000 crore jio ipo pitch global marquee investors seek bigger stake",
+    "signing deals is one thing making them work is another the week in whys",
+    "hanuman ansh box office collection day 64 neem karoli baba biopic sees 60 jump after telugu release",
     "nifty bulls regain momentum but can bears strike back 5 factors to decide dstreets fate next week",
     "cjp protest curbs rahul says govt will go aap calls it black emergency",
+    "they turned discarded banana stems into yoga mats and baskets made rs 25 crore in revenue",
     "brent commands a war premium as middle east supply risks keep oil on edge",
-    "as oil prices rise rbi opens special window for psu oil firms to meet their daily dollar need",
-    "market crash ahead warren buffetts guide to navigate through bear attacks",
-    "rbi opens special dollar window for oil firms as rupee comes under pressure",
-    "baththa box office collection day 9 vijay sethupathi starrer picks up after weekday dip",
-    "rbi announces regulatory measures for forex market what changes for oil psus",
-    "sanctions for thee crude for me the paradox of trumps energy doctrine",
+    "who is katie zacharia the new white house press secretary appointed by trump",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "stock market crash highlights nifty 50 hits 18month low sensex tanks 1100 points itc indigo among top losers ndtv profit",
     "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
@@ -80,10 +80,34 @@
   ],
   "articles": [
     {
+      "title": "The Top Four AI Bets: Aswath Damodaran Cuts Through The Silicon Valley Valuation Fog",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/fed-shock-vs-ai-euphoria-aswath-damodaran-decodes-wall-streets-defiance-top-four-strategies-12165209#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 12:08:27 +0530"
+    },
+    {
+      "title": "Meta To Alphabet: Top AI Companies To Drive Most Third-Quarter US Earnings Gains",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/meta-to-alphabet-top-ai-companies-to-drive-most-third-quarter-us-earnings-gains-12165203#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 12:06:53 +0530"
+    },
+    {
       "title": "Exclusive | Akash, Isha Ambani take Rs 30,000 crore Jio IPO pitch global; marquee investors seek bigger stake",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-akash-isha-ambani-take-rs-30000-crore-jio-ipo-pitch-global-marquee-investors-seek-bigger-stake/articleshow/134849084.cms",
       "publishedAt": "Sat, 10 Oct 2026 12:05:45 +0530"
+    },
+    {
+      "title": "Signing Deals Is One Thing; Making Them Work Is Another | The Week In Whys",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/signing-deals-is-one-thing-making-them-work-is-another-the-week-in-whys-12165193#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 12:03:46 +0530"
+    },
+    {
+      "title": "Hanuman Ansh Box Office Collection Day 64: Neem Karoli Baba Biopic Sees 60% Jump After Telugu Release",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/hanuman-ansh-box-office-collection-day-64-neem-karoli-baba-biopic-sees-60-jump-after-telugu-release-check-friday-earnings-12165184#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 12:01:57 +0530"
     },
     {
       "title": "Nifty bulls regain momentum, but can bears strike back? 5 factors to decide D-Street’s fate next week",
@@ -98,46 +122,22 @@
       "publishedAt": "Sat, 10 Oct 2026 11:31:43 +0530"
     },
     {
+      "title": "They Turned Discarded Banana Stems Into Yoga Mats And Baskets, Made Rs 2.5 Crore In Revenue",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/they-turned-discarded-banana-stems-into-yoga-mats-and-baskets-revenue-rs-2-5-crore-12165008#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 11:28:34 +0530"
+    },
+    {
       "title": "Brent commands a war premium as Middle East supply risks keep oil on edge",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-commands-a-war-premium-as-middle-east-supply-risks-keep-oil-on-edge/articleshow/134848278.cms",
       "publishedAt": "Sat, 10 Oct 2026 11:26:50 +0530"
     },
     {
-      "title": "As oil prices rise, RBI opens special window for PSU oil firms to meet their daily dollar need",
+      "title": "Who Is Katie Zacharia? The New White House Press Secretary Appointed By Trump",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/as-oil-prices-rise-rbi-opens-special-window-for-psu-oil-firms-tomeet-their-daily-dollar-need/article71567121.ece",
-      "publishedAt": "Sat, 10 Oct 2026 10:58:49 +0530"
-    },
-    {
-      "title": "Market crash ahead? Warren Buffett's guide to navigate through bear attacks",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/market-crash-ahead-warren-buffetts-guide-to-navigate-through-bear-attacks/articleshow/134847888.cms",
-      "publishedAt": "Sat, 10 Oct 2026 10:55:34 +0530"
-    },
-    {
-      "title": "RBI opens special dollar window for oil firms as rupee comes under pressure",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/finance/news/rbi-dollar-window-oil-companies-rupee-forex-derivatives-rules-126101000232_1.html",
-      "publishedAt": "Sat, 10 Oct 2026 10:54:53 +0530"
-    },
-    {
-      "title": "Baththa Box Office Collection Day 9: Vijay Sethupathi Starrer Picks Up After Weekday Dip",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/baththa-box-office-collection-day-9-vijay-sethupathi-starrer-picks-up-after-weekday-dip-check-friday-earnings-12164983#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 10:53:57 +0530"
-    },
-    {
-      "title": "RBI Announces Regulatory Measures For Forex Market: What Changes For Oil PSUs?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/rbi-announces-regulatory-measures-for-foreign-exchange-market-what-changes-for-contracts-oil-psus-12164978#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 10:51:47 +0530"
-    },
-    {
-      "title": "Sanctions For Thee, Crude For Me: The Paradox Of Trump's Energy Doctrine",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/tariff-threats-to-moscow-deal-inside-trumps-russian-oil-double-standard-12164970#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 10:48:31 +0530"
+      "link": "https://www.ndtvprofit.com/world/who-is-katie-zacharia-the-new-white-house-press-secretary-appointed-by-trump-12164997#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 11:16:22 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
