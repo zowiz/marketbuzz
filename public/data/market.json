@@ -1,22 +1,22 @@
 {
-  "headline": "On last trading day, Sensex recovered nearly 900 points as IT stocks jumped and Nifty crossed 22,500.",
+  "headline": "Last session: Sensex jumped nearly 900 points while Nifty crossed 22,500 led by gains in IT and FMCG stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 12 October.",
-    "nextOpen": "Monday, 12 October 2026"
+    "nextOpen": "Monday, 12 October"
   },
   "why": [
-    "IT stocks rallied with TCS shares jumping, driving the broader market recovery.",
-    "FMCG sector recorded gains of over 2% during the last trading session.",
-    "Markets bounced back after earlier sharp sell-offs driven by rising oil prices.",
-    "RBI announced liquidity tightening measures including bond sales and OMO auctions."
+    "IT and FMCG stocks rallied strongly, helping benchmark indices recover in the last session.",
+    "TCS shares jumped, spurring a broader rally across information technology stocks.",
+    "Markets faced earlier pressure from surging global crude oil prices topping $104 per barrel.",
+    "Investor sentiment had also been affected by a recent interest rate hike by the RBI."
   ],
   "whatHappening": [
-    "Indian stock markets are closed today, Saturday, 10 October 2026, for the weekend.",
-    "In the last trading session on Friday, Sensex surged nearly 900 points while Nifty settled above 22,500.",
-    "On Thursday, the market suffered a heavy drop of over 1,045 points as oil topped $104.",
-    "RBI scheduled a Rs 25,000 crore OMO sale auction of government securities for October 13."
+    "In the last trading session, Sensex closed nearly 900 points higher and Nifty moved above 22,500.",
+    "IT stocks surged around 3% while the FMCG sector gained over 2% during Friday's session.",
+    "Earlier in the week on Thursday, benchmark indices suffered a sharp drop of over 1,000 points.",
+    "Elon Musk highlighted reports regarding alleged links between Reliance and political campaign donations."
   ],
   "stocksInNews": [
     {
@@ -42,23 +42,31 @@
       "articleIds": [
         11
       ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        8
+      ]
     }
   ],
-  "summary": "Indian stock markets are closed today for the weekend and will reopen on Monday, 12 October. In the last trading session, benchmark indices staged a strong recovery with Sensex gaining nearly 900 points, led by IT and FMCG stocks. This rebounded from a sharp sell-off earlier in the week when crude oil prices surged past $104.",
-  "updatedAt": "2026-10-10T08:52:22.832Z",
+  "summary": "The Indian market rebounded strongly in its last session with Sensex gaining nearly 900 points and Nifty reclaiming 22,500 led by IT and FMCG stocks.\nThis recovery came after severe mid-week losses driven by spiking crude oil prices and the RBI's recent rate hike.\nThe stock market is closed today for the weekend and will reopen for trading on Monday, 12 October.",
+  "updatedAt": "2026-10-10T10:01:45.573Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-10",
   "articleKeys": [
-    "canara hsbc life q2 profit rises 5 yoy to rs 43 crore",
-    "he learned mushroom farming from youtube today he makes rs 4 lakh a month",
-    "rbi to conduct rs 25000 cr omo sale auction of government securities on oct 13",
-    "spacex falcon 9 launches sdas fourth tranche 1 mission",
-    "rbi to sell 26 billion of bonds tighten bank reserve need to squeeze cash",
-    "8 midcap stocks rally up to 135 in a year 2 turn multibaggers",
-    "everything everywhere all at once dalal streets week to forget joining the dots",
-    "delhi police deploy spike strips multilayer barricades to block cjp protest watch video",
-    "delhi police detain hundreds of cjp supporters opposition leaders ahead of jantar mantar protest",
-    "at 16 she founded an ai startup valued at rs 100 crore heres her story",
+    "nobel disgrace trump brands navi pillays peace prize an indelible stain on norway",
+    "meet ajinkya shinde the new face of cjps jantar mantar protest as abhijeet dipke detained",
+    "delhi cjp protest neha bora detained dipke saurav das ashutosh ranka taken to different locations",
+    "bengaluru fc vs sporting club delhi live streaming telecast when where to watch isl match on tv online",
+    "demise doesnt make one an angel chinmayi sripaada backs tanushree dutta after evil dead remark on late nana patekar",
+    "answers not lathis shashi tharoor criticises delhi security clampdown for cjp protests",
+    "samantha ruth prabhu reveals her go to morning routine during pregnancy",
+    "pm modi to visit chennai on oct 11 for inaugurating infra projects full list",
+    "musk steps up attack on ambani shares reports on alleged reliance links to bjp campaigns donations",
+    "g7 flow russian diesel what new supply streams mean for crude oil prices",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "stock market crash highlights nifty 50 hits 18month low sensex tanks 1100 points itc indigo among top losers ndtv profit",
     "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
@@ -72,64 +80,64 @@
   ],
   "articles": [
     {
-      "title": "Canara HSBC Life Q2 profit rises 5% YoY to Rs 43 crore",
+      "title": "Nobel 'Disgrace': Trump Brands Navi Pillay's Peace Prize 'An Indelible Stain' On Norway",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-hsbc-life-q2-profit-rises-5-yoy-to-rs-43-crore/articleshow/134850519.cms",
-      "publishedAt": "Sat, 10 Oct 2026 13:58:54 +0530"
+      "link": "https://www.ndtvprofit.com/world/nobel-disgrace-trump-brands-navi-pillays-peace-prize-an-indelible-stain-on-norway-12165745#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 15:07:17 +0530"
     },
     {
-      "title": "He Learned Mushroom Farming From YouTube. Today, He Makes Rs 4 Lakh A Month",
+      "title": "Meet Ajinkya Shinde: The New Face Of CJP's Jantar Mantar Protest As Abhijeet Dipke Detained",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/he-learned-mushroom-farming-from-youtube-today-he-makes-rs-4-lakh-a-month-12165479#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 13:50:59 +0530"
+      "link": "https://www.ndtvprofit.com/india/meet-ajinkya-shinde-the-new-face-of-cjps-jantar-mantar-protest-as-abhijeet-dipke-detained-12165792#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 15:01:46 +0530"
     },
     {
-      "title": "RBI to conduct Rs 25,000 cr OMO sale auction of government securities on Oct 13",
+      "title": "Delhi CJP Protest: Neha Bora Detained; Dipke, Saurav Das, Ashutosh Ranka Taken To Different Locations",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-to-conduct-rs-25000-cr-omo-sale-auction-of-government-securities-on-oct-13/articleshow/134850360.cms",
-      "publishedAt": "Sat, 10 Oct 2026 13:47:29 +0530"
+      "link": "https://www.ndtvprofit.com/india/delhi-cjp-protest-neha-bora-detained-dipke-saurav-das-ashutosh-ranka-taken-to-different-locations-12165742#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 15:00:47 +0530"
     },
     {
-      "title": "SpaceX Falcon 9 Launches SDA’s Fourth Tranche 1 Mission",
+      "title": "Bengaluru FC vs Sporting Club Delhi Live Streaming, Telecast: When, Where To Watch ISL Match On TV, Online?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/science/spacex-falcon-9-launches-sda-s-fourth-tranche-1-mission-12165452#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 13:46:08 +0530"
+      "link": "https://www.ndtvprofit.com/sports/football-indian-super-league-bengaluru-fc-vs-sporting-club-delhi-live-streaming-telecast-when-where-to-watch-isl-2026-27-match-on-tv-online-12156226#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 15:00:01 +0530"
     },
     {
-      "title": "RBI to sell $2.6 billion of bonds, tighten bank reserve need to squeeze cash",
+      "title": "\"Demise Doesn't Make One An Angel\": Chinmayi Sripaada Backs Tanushree Dutta After 'Evil Dead' Remark On Late Nana Patekar",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-to-sell-2-6-bln-of-bonds-tighten-bank-reserve-need-to-squeeze-cash/articleshow/134850313.cms",
-      "publishedAt": "Sat, 10 Oct 2026 13:43:28 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/demise-doesn-t-make-one-an-angel-chinmayi-sripaada-backs-tanushree-dutta-after-evil-dead-remark-on-late-nana-patekar-12165541#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 14:56:43 +0530"
     },
     {
-      "title": "8 midcap stocks rally up to 135% in a year; 2 turn multibaggers",
+      "title": "'Answers, Not Lathis': Shashi Tharoor Criticises Delhi Security Clampdown For CJP Protests",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-rally-up-to-135-in-a-year-2-turn-multibaggers/slideshow/134850262.cms",
-      "publishedAt": "Sat, 10 Oct 2026 13:30:25 +0530"
+      "link": "https://www.ndtvprofit.com/india/shashi-tharoor-criticises-delhi-security-clampdown-for-cjp-protests-12165769#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 14:54:35 +0530"
     },
     {
-      "title": "Everything, Everywhere, All At Once: Dalal Street's Week To Forget | Joining The Dots",
+      "title": "Samantha Ruth Prabhu Reveals Her Go To Morning Routine During Pregnancy",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/joining-the-dots-everything-everywhere-all-at-once-dalal-streets-week-to-forget-12165198#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 13:24:46 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/samantha-ruth-prabhu-reveals-her-go-to-morning-routine-during-pregnancy-12165743#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 14:50:10 +0530"
     },
     {
-      "title": "Delhi Police Deploy Spike Strips, Multi-Layer Barricades To Block CJP Protest | Watch Video",
+      "title": "PM Modi To Visit Chennai On Oct. 11 For Inaugurating Infra Projects: Full List",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-police-deploy-spike-strips-multi-layer-barricades-to-block-cjp-protest-watch-video-12165420#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 13:24:19 +0530"
+      "link": "https://www.ndtvprofit.com/india/pm-modi-to-visit-chennai-on-oct-11-for-inaugurating-infra-projects-full-list-of-projects-12165612#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 14:44:33 +0530"
     },
     {
-      "title": "Delhi Police Detain Hundreds Of CJP Supporters, Opposition Leaders Ahead Of Jantar Mantar Protest",
+      "title": "Musk Steps Up Attack On Ambani; Shares Reports On Alleged Reliance Links To BJP Campaigns, Donations",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-police-detain-hundreds-of-cjp-supporters-opposition-leaders-ahead-of-jantar-mantar-protest-12165456#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 13:24:03 +0530"
+      "link": "https://www.ndtvprofit.com/business/musk-steps-up-attack-on-ambani-shares-reports-on-alleged-reliance-links-to-bjp-campaigns-donations-12165667#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 14:35:42 +0530"
     },
     {
-      "title": "At 16, She Founded An AI Startup Valued At Rs 100 Crore. Here’s Her Story",
+      "title": "G7 Flow, Russian Diesel: What New Supply Streams Mean For Crude Oil Prices?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/at-16-she-founded-an-ai-startup-valued-at-rs-100-crore-here-s-her-story-12165298#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 13:13:48 +0530"
+      "link": "https://www.ndtvprofit.com/world/g7-flow-russian-diesel-what-new-supply-streams-mean-for-crude-oil-prices-12165587#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 14:04:17 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
