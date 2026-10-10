@@ -1,143 +1,157 @@
 {
-  "headline": "Last session: Sensex surged nearly 900 points as IT and FMCG stocks recovered strongly",
+  "headline": "Last session: Sensex jumped nearly 900 points while Nifty topped 22,500 led by IT and FMCG gains.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 12 October.",
-    "nextOpen": "Monday, 12 October 2026"
+    "nextOpen": "Monday, 12 October"
   },
   "why": [
-    "Sensex recovered nearly 900 points in the last trading session led by a broad rally in IT and FMCG stocks.",
-    "TCS shares jumped significantly, leading a 3% surge in the IT sector index.",
-    "Persistent selling pressure remains a concern as FIIs dumped Indian equities for eight straight weeks.",
-    "Earlier market declines were triggered by rising oil prices topping $104 and a rate hike by the RBI."
+    "IT sector jumped 3% led by a rally in major technology stocks",
+    "FMCG sector gained over 2% during the last trading session",
+    "Broad-based recovery as all sectoral indices turned green",
+    "Positive global cues from DJIA, S&P, and NASDAQ supported the domestic rally"
   ],
   "whatHappening": [
-    "On the last trading day, Sensex closed nearly 900 points higher and Nifty moved above 22,500.",
-    "DMart reported its Q2 results showing a consolidated profit rise of nearly 9% YoY to Rs 743 crore on an 18% revenue jump.",
-    "The IT sector jumped 3% while FMCG indices gained over 2% on Friday.",
-    "Earlier in the week on Thursday, Indian benchmarks suffered a massive drop of over 1,000 points."
+    "Avenue Supermarts reported an 8% rise in Q2 net profit but missed analyst estimates",
+    "Adani Green Energy reported a 32% jump in energy sales for its H1 update",
+    "Industrial and warehousing leasing reached a record 59.1 million sq ft across top cities",
+    "Twenty-two stocks, including Hero Motors and NSE, face IPO lock-in expiry in late October"
   ],
   "stocksInNews": [
     {
       "symbol": "DMART",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        0
+        2
+      ]
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        7
       ]
     },
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        12
+        17
       ]
     },
     {
-      "symbol": "ITC",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "symbol": "HEROMOTOCO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        11
+        5
       ]
     },
     {
-      "symbol": "INDIGO",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "symbol": "NSE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        11
+        5
       ]
     }
   ],
-  "summary": "On the last trading day, Indian benchmark indices rebounded strongly with Sensex surging nearly 900 points and Nifty closing above 22,500.\nThe gains were powered by a rally in IT stocks led by TCS alongside gains in the FMCG sector.\nMeanwhile, DMart posted a nearly 9% YoY increase in Q2 net profit to Rs 743 crore on strong revenue growth.",
-  "updatedAt": "2026-10-10T11:01:43.595Z",
+  "summary": "On the last trading day, Indian markets staged a strong recovery with the Sensex gaining nearly 900 points and Nifty closing above 22,500. The rally was primarily driven by the IT and FMCG sectors, with TCS leading the gains among technology stocks. Over the weekend, corporate updates included DMart's Q2 results missing estimates and Adani Green reporting significant operational growth.",
+  "updatedAt": "2026-10-10T12:01:54.492Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-10",
   "articleKeys": [
-    "dmart q2 results cons profit rises nearly 9 yoy to rs 743 crore revenue jumps 18",
-    "bitcoin reclaims 82500 as improved etf flows lift market sentiment here is what experts say",
-    "peter cundills investing lessons why patience research and value matter in stock picking",
-    "fiis dump indian stocks for eight straight weeks is a reversal on the cards or more pain ahead",
-    "nobel disgrace trump brands navi pillays peace prize an indelible stain on norway",
-    "meet ajinkya shinde the new face of cjps jantar mantar protest as abhijeet dipke detained",
-    "delhi cjp protest neha bora detained dipke saurav das ashutosh ranka taken to different locations",
-    "bengaluru fc vs sporting club delhi live streaming telecast when where to watch isl match on tv online",
-    "demise doesnt make one an angel chinmayi sripaada backs tanushree dutta after evil dead remark on late nana patekar",
-    "answers not lathis shashi tharoor criticises delhi security clampdown for cjp protests",
+    "industrial warehousing space leasing hits record 591 mn sq ft in top 24 cities in jansep savills",
+    "bptp sells 150 apartments in its new housing project at faridabad",
+    "dmart q2 results avenue supermarts net profit rises 8 to rs 804 crore misses estimates",
+    "nia registers case in flydubai incident under antihijacking act uapa",
+    "meesho mega blockbuster sale sees 75 jump in day 1 orders peak hits 75000 per minute",
+    "ipo lockin expiry nse hero motors among 22 stocks in focus in october second half",
+    "chelsea vs bournemouth live streaming likely lineups how to watch premier league match on tv online in india",
+    "adani green energy h1 update operational capacity rises 24 yoy to 20763 mw energy sales jump 32",
+    "vivo y600s pro with 10200mah battery launched check price specifications",
+    "wall streets rate shock spreads beneath aifueled market rally",
+    "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
-    "stock market crash highlights nifty 50 hits 18month low sensex tanks 1100 points itc indigo among top losers ndtv profit",
-    "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
-    "stock market close sensex tanks 1045 pts nifty ends at 22232 as oil tops 104 vix jumps 10 business standard",
     "stock market today live highlights sensex fell 1045 points to settle at 7159324 while nifty closed at 2223180 the times of india",
-    "closing bell market deep in red nifty below 22250 sensex tanks 1045 pts moneycontrolcom",
     "sensex stock market crash highlights sensex plunges 1045 pts nifty ends below 22250 metal realty indices drop over 3 the economic times",
-    "stock market crash terrible thursday for sensex nifty as over 7 lakh cr investors wealth eroded what went wrong livemint",
     "stock market today highlights oct 8 sensex tanks 1045 pts nifty sheds 371 pts to close lower businessline",
+    "stock market today highlights october 9 sensex gains over 87909 points nifty tops 2252045 as all sectoral indices turn green businessline",
+    "stock market outlook today 9 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei 225 cues livemint",
+    "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
+    "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom"
   ],
   "articles": [
     {
-      "title": "DMart Q2 Results: Cons profit rises nearly 9% YoY to Rs 743 crore, revenue jumps 18%",
+      "title": "Industrial, warehousing space leasing hits record 59.1 mn sq ft in top 24 cities in Jan-Sep: Savills",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q2-results-cons-profit-rises-nearly-9-yoy-to-rs-743-crore-revenue-jumps-18/articleshow/134851993.cms",
-      "publishedAt": "Sat, 10 Oct 2026 16:01:51 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/industrial-warehousing-space-leasing-hits-record-59-1-mn-sq-ft-in-top-24-cities-in-jan-sep-savills/articleshow/134853108.cms",
+      "publishedAt": "Sat, 10 Oct 2026 16:57:20 +0530"
     },
     {
-      "title": "Bitcoin reclaims $82,500 as improved ETF flows lift market sentiment. Here is what experts say",
+      "title": "BPTP sells 150 apartments in its new housing project at Faridabad",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-reclaims-82500-as-improved-etf-flows-lift-market-sentiment-here-is-what-experts-say/articleshow/134852150.cms",
-      "publishedAt": "Sat, 10 Oct 2026 15:55:39 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/bptp-sells-150-apartments-in-its-new-housing-project-at-faridabad/articleshow/134853093.cms",
+      "publishedAt": "Sat, 10 Oct 2026 16:56:30 +0530"
     },
     {
-      "title": "Peter Cundill’s investing lessons: Why patience, research and value matter in stock picking",
+      "title": "DMart Q2 results: Avenue Supermarts Net Profit Rises 8% to Rs 804 Crore, Misses Estimates",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/peter-cundills-investing-lessons-why-patience-research-and-value-matter-in-stock-picking/articleshow/134851796.cms",
-      "publishedAt": "Sat, 10 Oct 2026 15:34:20 +0530"
+      "link": "https://www.ndtvprofit.com/markets/dmart-q2-results-avenue-supermarts-net-profit-rises-8-to-rs-804-crore-misses-estimates-12165921#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 16:44:45 +0530"
     },
     {
-      "title": "FIIs dump Indian stocks for eight straight weeks: Is a reversal on the cards or more pain ahead?",
+      "title": "NIA Registers Case In Flydubai Incident Under Anti-Hijacking Act, UAPA",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-eight-straight-weeks-is-a-reversal-on-the-cards-or-more-pain-ahead/articleshow/134851502.cms",
-      "publishedAt": "Sat, 10 Oct 2026 15:11:53 +0530"
+      "link": "https://www.ndtvprofit.com/india/nia-registers-case-in-flydubai-incident-under-anti-hijacking-act-uapa-12166153#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 16:44:34 +0530"
     },
     {
-      "title": "Nobel 'Disgrace': Trump Brands Navi Pillay's Peace Prize 'An Indelible Stain' On Norway",
+      "title": "Meesho Mega Blockbuster Sale Sees 75% Jump In Day 1 Orders, Peak Hits 75,000 Per Minute",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/nobel-disgrace-trump-brands-navi-pillays-peace-prize-an-indelible-stain-on-norway-12165745#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 15:07:17 +0530"
+      "link": "https://www.ndtvprofit.com/business/meesho-mega-blockbuster-sale-sees-75-jump-in-day-1-orders-peak-hits-75-000-per-minute-12165981#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 16:40:10 +0530"
     },
     {
-      "title": "Meet Ajinkya Shinde: The New Face Of CJP's Jantar Mantar Protest As Abhijeet Dipke Detained",
+      "title": "IPO Lock-In Expiry: NSE, Hero Motors Among 22 Stocks In Focus In October Second Half",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/meet-ajinkya-shinde-the-new-face-of-cjps-jantar-mantar-protest-as-abhijeet-dipke-detained-12165792#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 15:01:46 +0530"
+      "link": "https://www.ndtvprofit.com/markets/ipo-lock-in-expiry-nse-hero-motors-among-22-stocks-in-focus-in-october-second-half-12166078#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 16:31:11 +0530"
     },
     {
-      "title": "Delhi CJP Protest: Neha Bora Detained; Dipke, Saurav Das, Ashutosh Ranka Taken To Different Locations",
+      "title": "Chelsea Vs Bournemouth Live Streaming: Likely Lineups; How To Watch Premier League Match On TV, Online In India?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-cjp-protest-neha-bora-detained-dipke-saurav-das-ashutosh-ranka-taken-to-different-locations-12165742#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 15:00:47 +0530"
+      "link": "https://www.ndtvprofit.com/sports/chelsea-vs-afc-bournemouth-live-streaming-likely-lineups-how-to-watch-premier-league-match-on-tv-online-in-india-12162220#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 16:30:01 +0530"
     },
     {
-      "title": "Bengaluru FC vs Sporting Club Delhi Live Streaming, Telecast: When, Where To Watch ISL Match On TV, Online?",
+      "title": "Adani Green Energy H1 Update: Operational capacity rises 24% YoY to 20,763 MW, energy sales jump 32%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/football-indian-super-league-bengaluru-fc-vs-sporting-club-delhi-live-streaming-telecast-when-where-to-watch-isl-2026-27-match-on-tv-online-12156226#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 15:00:01 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-h1-update-operational-capacity-rises-24-yoy-to-20763-mw-energy-sales-jump-32/articleshow/134852554.cms",
+      "publishedAt": "Sat, 10 Oct 2026 16:22:59 +0530"
     },
     {
-      "title": "\"Demise Doesn't Make One An Angel\": Chinmayi Sripaada Backs Tanushree Dutta After 'Evil Dead' Remark On Late Nana Patekar",
+      "title": "Vivo Y600s Pro With 10,200mAh Battery Launched: Check Price, Specifications",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/demise-doesn-t-make-one-an-angel-chinmayi-sripaada-backs-tanushree-dutta-after-evil-dead-remark-on-late-nana-patekar-12165541#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 14:56:43 +0530"
+      "link": "https://www.ndtvprofit.com/technology/vivo-y600s-pro-with-10-200mah-battery-launched-check-price-specifications-12166033#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 16:21:32 +0530"
     },
     {
-      "title": "'Answers, Not Lathis': Shashi Tharoor Criticises Delhi Security Clampdown For CJP Protests",
+      "title": "Wall Street's Rate Shock Spreads Beneath AI-Fueled Market Rally",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/shashi-tharoor-criticises-delhi-security-clampdown-for-cjp-protests-12165769#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 14:54:35 +0530"
+      "link": "https://www.ndtvprofit.com/world/wall-streets-rate-shock-spreads-beneath-ai-fueled-market-rally-12166091#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 16:19:58 +0530"
+    },
+    {
+      "title": "Stock Market Today Highlights: BSE Sensex jumps over 1000 points, Nifty50 climbs above 22,550 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQREJiUkQzbWYzbVdRNFpxSmx5bTZlRVU4ZWJfZHo5OU55Z1pkcW81d01PNE01ZEh4ZzFHNE81bVJkZG5odWc5SmppUzVFOG1PV2NqTzFDczExcld4WWZuajhrSFJseU5ja284d2VqRlNzNElPRkJTRXVmaUF3bUVUX0tvRHFyTnVDYmhKRGs1alpsQXM3aTF3ME16MWl1RnJRMTB4MWNlbVBIY2NaQzhBWnlZUk1fNWhaUlVfX2RGMVkydEZyVXlHWEtXVjIyLWR3N0Z1TGF3bTI2VWRMTWpEeHBSU25GUlFDNThQNlVkeldyLW9aS3lLWEw3QllickZweU9tZ2NtLUphZmxpRFpBbkl2Tnc3V2Rtd0VIMy1qM1VfWS1xS1lMbXRZQUkyYm9FS3M4VNIBugJBVV95cUxQNWdYLTMwNWdrMkNtc0JpYWNMbW50WFRuNTlBakNaSEVQbDA3VDZVSm9EN0lvQzFNWE5VT1Fhb2Q5LV93bHpPVWZMM0hDZlF0N2ZTSnZmeVZ2Q0EwX1l2aEQ1UlJpVVJiMXk4aE1PczlzV1J0T1cwOC1acXlPSWtZcU9CQTdfOVpCdXI3aExQSlI0VkVnV3FyRmhHaUJqQnl2eF80bjZQdWZqbzcyNkxzZ3RscmhpeFN4VUFGSEJScGJsMC10MndYMk1sY2tFZ2JOSVF4SVNTYWowcmFwSFl5X19LZDlQcWYzcXl2WVU3YUU4SDFjS09UUVJBeHdTRVlDQ2d3UTQzRUJkWEMtR01UNjQtV3VuUk9RV2hrMGFCeEVleWt1TGdJUnpNbkNBS3dRb2tSWDdSSzRTUQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 11:14:00 GMT"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
@@ -146,34 +160,10 @@
       "publishedAt": "Fri, 09 Oct 2026 10:16:27 GMT"
     },
     {
-      "title": "Stock Market Crash Highlights: Nifty 50 Hits 18-Month Low; Sensex Tanks 1,100 Points; ITC, IndiGo Among Top Losers - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNnY5dGpwLU9uMXo2anhpYXg0R19kMjExRUZUWXBkLTJOcEtCU2l0NHppLTFGUzlnQ2VKQWpwZjd1TEZwUzFQb0tnZ2JXWHNHSF9GTjdqWDAzVWJobnBvc0k4djY3N1I3TGZJYVlhaHRwSTV6Vy1NTk1FbzJGbHNNQzgwcHJIV3JveG9FN2VHOHMyUXgzN3hiemtDVk5KeHRtMGdSZzVFM2FRTlVjQVRzLXY2d0NCRUJpc2JsR2hLUGNwMGhUOUFtTXJHZ05ZenpPVUQxWmFrNG4yZTJKaFpQaFRUN3RqamvSAe8BQVVfeXFMT0FjZkx1RndhTldidlhVV0JDRkVrNlp6R3gxYzIzckZWRVVtWHFOZ3VGWmlxVjhXOGRvc05EcXMzSFNrN3pMa3pOTnNVZVZRakNkZHl6Ty1UdVk5a0wtUGk2cmQ1bDlGWURXZS1pMmhXZ09BZUg5TVhuazhtR0QwMy1iVFpQU19MV0o5YVBkTGExbjNyRFpKa0hGTzFZUk01OTZDdU1HSmQ0TTNNN3QzSG1PVHd2RHhTQ0Rsd3p4aDdWWXk1QTFvMWYyd2U3a0RaT1dBMFpYRzlGOUk3VVcxeTh6OER3VndQTE1UNEV2d2c?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 10:42:49 GMT"
-    },
-    {
-      "title": "Why Is Indian Stock Market Up Today? Sensex, Nifty Recover as TCS Shares Jump As IT Stock Rally; What Investors Should Know - The Sunday Guardian",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeU1OQkhwVEZWWkFuMHpXU0pNU1VOWF9aQU5jSFZEaUlvQ0h1amFYWlQ4ZzRhdW9Sd3doYW1FbFBRWDJXS3liS2RmOVNRSjd1eTNwNkYzNnZSb21fSEZOUG5EUE9weE8yZ2MzeTBWRkUwNC1NWHJGaDRwQTY4ZkltbmwtUUxQVmUta0x5ZV9VOWJpSUFmNDRKUVpHM0xaQkkyaEZjdFVxV2dRT3hPTHpkN0p5Nml1N1Uxb3IyMFdCUjRXVm9OX3p6bkszc2ZTYk5zMFJmdTF4cUk1enVzZENZbWx3Z1ZlbDdfN2ZMaGQ0VlJzYk1tdVJPUUVyOW7SAYICQVVfeXFMT01nd2N1dEozc1NDSjFyeG90ampwOURoTjdGS2hTM0dGekp5NW5NWFBIb3VERjUxekp2NjNZZjN2X3NzQmt2YTBVSnR6TDJPbEhZNHlrcEdSU2gzVk5PdzBiXy1QZFRndUZxQS1kLVFHbGoxaU05M2YwWjFxcERlbFhPRmlfSnVQcFVOUFMwV25TMGVQMXlQMjdub1I5RXRvbTNFQ3hieDY3cWJiRWdVWnlyTU9tTXlYVm91a1JMamJ4N095ekVTQ1FPVW5TNlNESmdvUHBDcmlGWHZFWGVlWEVsMWxFOVhBQTY4cmI2NXBZNk16YW5icWFXNTRjMm14QzZ3?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 05:08:24 GMT"
-    },
-    {
-      "title": "Stock Market Close: Sensex tanks 1,045 pts, Nifty ends at 22,232 as oil tops $104; VIX jumps 10% - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTEhBcExsVldGWlNpZzhjVFZpV3dzd0F3TjdSQVZtSlM0V1hUSzh1Mk1IZER2aUVNNUR3NXhZU3JrYnI4UjB2WFMxcWZNSlptU2xPN1RhVlJEOEVmYk1DMTdpUkhEMXVZSzQwM0V1MFdGQUlRQm1lTVVXWVc4VUdWYzQ5eFVpTHgyckJIczBWNFBYdEs2U21qNFNNV3V3Y1FZRDdoVlVBd0pjWEVSRFdQVzloSnFkZ2UxY3NyVkdVMndNSDNra1BnSEROcGN3X0pxNnR0aGJTZS1hWTlzS05UbFVwcTJMblMya0NIb2RnU1RGS3NKSFlwb3JfMDNhV0xQVGNLTXpoVTY2RHZP0gGSAkFVX3lxTFBHcEw3S0lnbVI0M1pwcnR5dnBlSDdGNWJCWXVMbWtOb2Vlc0tiZjFrTXYxY0laS3E5bjVzTF9yU19paUs5VlNKTzRZcF93RUxOZmM1N1lkM0RlWks1OVZ0cDFaUmk4TFRBbUQzcExMeUYtSEVTZ0E2UTZydldQMWFFVnhIRW94ZDFoZDBTb3NEaXZlYW4xdlBoSXY1VGVKTGIyNmphaW5VZjZDWmRlalNKZEVCYjM2RThTbXJRWU9JX21iWEZLaVAwbWE4WGZMdXhCTUlaRUp1VGNSOEg4cFV6LTY5VkxuT1l0UG9fTzdvY2cxSzkza1NxTmJ6NHV1UG9PWUd3UGQ2Q09yNHBWWEFmVmc?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 10:21:57 GMT"
-    },
-    {
       "title": "Stock Market Today Live Highlights: Sensex fell 1,045 points to settle at 71,593.24, while Nifty closed at 22,231.80 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxORkdKU1hkdFkwOW1pX1pLdHcxLTRlaWs3VUZzZkFVZzg2aUtBTkxGRWpXcVhlUk9tMDhMV1kzbEx5X29YM05hSmJSSkRwRnE5UHFKWERtRmMtQ2xFVWloMEZPbWM0ZUZBZnRMbHVDamp4dXhPMWFsSkhNYUw4c29SNUJ1MlV1d3p2bG00bGF2ZTVvZ3BzN2xBX1FUOHgzajljWUpNdHl5SGNSM2habjM0R0NRdzhNT2VVVE5HMXUxZTRfNWRuS2t2U1ZXYzZqN1FmaGJ1ZHYwR3hHTHVxdUVKb2RmWUlqM1ppWWg3d2ZtSlRPM1BXN0lUM1NkbERnRV9ULVdhY2xocnJFVERheTJ1Nll4YVpXQlo1aXBnbUt3eURoZ2ZPN0pMMlNkVEFmdDA2bzV1YdIBugJBVV95cUxOTVUxQXpUOWpKSVFPYnd2VFZxS3BWRlE3YmxDOEZmTU1Pdkk5ZUI0bFFPYVVQUjZVZVk0YV9kcmxQYjlyWEV2OXRISm0wQ2pERlZvdWpvOFVrSnNPekpjYjVOU19kRElGMjhFbTdPOGNfeEh0a0FnVWE2SlJMelU3a3pVeGdJWjFfY1FidGdsU2ZHSGFvZlZTN3habjUxSVhXcVZBYUp5VU5DZVlvYzhlTm9RYzNFNDk0Mm9pRURORU4tRHJDeFlpZnJlZ0hpVkd2cDN0R1hZNHAzTWZLTmdiamdhNTY2WGF5X0NRMmxEZUE2TUN1YlpEWVFIQ0RWZjVpMzR1aDlCcEE2VkZiZndVazM0VllYV09yRlVYNFpLa2p6aFRQWGRKXzdpMGRKX1pGVThIcVczMTJTdw?oc=5",
       "publishedAt": "Thu, 08 Oct 2026 11:01:59 GMT"
-    },
-    {
-      "title": "Closing Bell: Market deep in red; Nifty below 22,250, Sensex tanks 1045 pts - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcTRfalFkYnFRamgwNHR4LUhVU2ZoWVNGZ0RqcTNXYmI5YkpScE1uZFpJTk50Y1FYRWxzMkM5OEZkeTk5bE9EMTdRUjR3SjJBQmVseGl2MVlocFdlcEhhYkZOTXYyTF80b3FLangxLWs2V3BIVk1WX1RsRS1tR2t3d3lPcVZaZlMtalRBemZ1OWE2QUpfN2F1UTF3eWxBQUFCMzFuUUtrckduMnF3S09EVVkzYVlnNXlzWXE2emNQdThEamN6M21Lam1KMVJTSkRGVUpwMmRWYXFYdzJKS2pQczBpTEN0Qm5CN3doQ3BhdzFDcHVybTZmbm1XWVY1VjBoMUc0azgxZmMyMzRiVGxBRDBpMHpoMEFBU0tYTmJrQkhLOXfSAagCQVVfeXFMUHhITTdaeFBha0g4cWc2VUt3OTZkd2FhaWVWREhGRlBuT0JhakhZNDdfeHJJVGNYM0tSTGFtUVh5aUhsc2FIMDdZcnk5Yno4cFI5d1dsN21WejBuRlEtVWpqeHYtcnUyYk5XZE03MXdsRmsyOEJ5V25BRmZwQkVPQUY1Sl9mWHhnNWZ1ZFZHUE1CZy1rWHJ5ckp3WnlKOEU4SFY4aEVueWdPQ3R0NUtZZklQcHhzWm1iV2xwdGxEbk9Gb0MxVEpORzdHdEE2dEJBWFVJbFJOR1hoUF9pbU1XaTBkTWVNWHZqMjRMbTJyVHR3NTJGVVVQaFVFaUpyTHZQQ1ZSeTJ5N1dxSnJ4YWhqeGd5VDlvdjRDQVpNTWF1RlJ0TTI2OHJwSkU?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 12:27:44 GMT"
     },
     {
       "title": "Sensex | Stock Market Crash Highlights: Sensex plunges 1,045 pts, Nifty ends below 22,250; metal, realty indices drop over 3% - The Economic Times",
@@ -182,16 +172,34 @@
       "publishedAt": "Thu, 08 Oct 2026 10:05:02 GMT"
     },
     {
-      "title": "Stock market crash: Terrible Thursday for Sensex, Nifty as over ₹7 lakh cr investors' wealth eroded - what went wrong? - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMHdWSkx2dmplRmZpc2h6eWtHLWFzam5YYTNITzVPYkVPVXZmdzJVZWdMZ3RWenZta3YtSENxd3RHSXN6VnNpS0ozc25MX2F3d0RyN0FVM1hGbzFTQ0JkMy1CMnhBRllnS1BHVzFrMG11czVOZGwwRWR2Wm45QU1YVzdCeExDblcyV3JkYnRCX0lTOC1ScTgxaWhkTm9xT2JaNThfR1V6SkxibnRxa25tTlAwaXo3Tmw3S2ZLVUU3Wm52OHh4c2o0Z2RTWXdIM0RqbHg2bEZCNE5OQk9MRUpEM0YxQ1VDRWlkZWZqTHEzZHF2NVpoSTJJZXZWLVM3bXVkNDJ6NUxMS3Nsc21ESnVUV0pB0gGXAkFVX3lxTE9Qb19PVWt3amZZSjRjc0cwUVlzRXlxQ0ZPcktCd1hxWDZpOTMxUldPRy1uRnBteWNiSGtGOUpoS1hJaUNheEtSRGNPMWVZOTlsODNkOTFrMXdBVHF6TVFaa2RWN0plMkt5VG1VMFAtMVVhVTcyejdLVkhyaFBrOGIzb3RKU2NJVjFPOGF4TTVxdy1RSUJZQnkxaFVlNUdxWldXajFEZkFUS21UWUNvdDJwWlZuckh4azRPSllmeHNoWVJBYlhBQkNNdTNEMlhIdDhPNGd1NVN3b3V5UXJ1QkxyZGNyRU1mc2pKdUZoeGVxMWJEUHM3b29SSUNHVXhXSHMyOWFOb290b2FldUZTU1BGR0w1MGNrQQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 06:53:40 GMT"
-    },
-    {
       "title": "Stock Market Today Highlights, Oct 8: Sensex tanks 1,045 pts, Nifty sheds 371 pts to close lower - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkE0eE9DdVVvenQtSlhveFQ1azVITW1kLWRmd3hDMGItSjhnTXlVTVpPYTRKdmFMYjlfSmI0RjBoWW9mT01HNWFzclJ4aFJQTmRPdXVkR0hrTy1JSWtRel9YOU94Z3FpbUZrR3puMTVEY01nTlBYVXdHTHg0ME5MbzV1TzVENkxMUUc3ajU2UTRkeThydl9EZjFBOTNmZDZfUk5zWDFXbWxKcXNDMmxaOU1UYzF6Y0tMeTdJbWhoRk1BeEZJNmg40gHOAUFVX3lxTE9CQ1pKSUVlaV9iWDJ4VHZnVkx2R2phZ1ZxUG1HaTZNLVc1V2xkaVNrTERZSENfQ2pBUWlVb2V3amNDRU0yclVYaVAtMG1jQzhRZ0FER0JjUzNTcEFSUUpsblhPNkNOWk1SbUdpVjk2WFI0MzJDeTI2TjZzSmpIdjN3Wl94LUNsdTNDSXRCYXB2VHVreGxrRFNFN1NQcUYzNWFZdm9IWXNtZnJTcWo2VHoyZHpyTVRHX1ZXdHVYNUJVTnZ2YVVjcjFUa3MwTzB3?oc=5",
       "publishedAt": "Thu, 08 Oct 2026 10:58:57 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights, October 9: Sensex gains over 879.09 points, Nifty tops 22,520.45 as all sectoral indices turn green - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnliNTZxMzVPT08yZ1VxcWxnQlpwa210dXJjNWJ5MDU0MTVGZFR5U040WWk4Z3pOamc3dTNWSnJ0MXZPSlhYTWFSSko4UlFFYjU5anZQblNuTm9leXVWZnBiSlY3YlgzaVprTXVGX3QxRzNTXzNTME9jendma2JiTWV5SXQ5S1h1cjBra2Z5SjVoakV6cE1yVHpTeVkyRDViOFk5X1dMSjNfRHpCY283aHI5eGNzX25ENDBDcFZsamotcUhacGw00gHOAUFVX3lxTE9WTkdheGVJVU1ibjA3a1Y2S0xQVXVSbVdsOUp1OW12ZjVGVFJHVXpqb3hyZjY3bk1YRW01Y0dyVnJ3VkpfNVBtUmxlU3dSOGVKaG9vSWVFNDBfTGxNY1NabmdIRzdQU3RYX1BKbFE2M0h5T2ZBbTJUdjNkQTVoQ3hnOHlfR0pBNk9IRnlyOENQSHN2VnpWRE14ZTVXVFNjdV9sUW0wb3RSUGtfRE9pcTVBRl9GWDhaVkx5bUx2T1RzclpEdnF2c21zTm81WERR?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 11:19:51 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 9 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei 225 cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC1WdnJRY19KdE54clZ4cUV4VDRleVlxTW9oUmFFUmNfYUFHVmJHT0V4bHVHS3liRV9CMHdQM1ZFWGpfeDZNOHQ5T243MU9Ua1NsWG5CUjJHYWs2WURxVnhnUGtTTnh6WU9MRVFONkNCMjJsMmhmNi1EQzZ4d3RmNWZCMmtvNlF1UEpxVHZLdF9RUDdtNVlyQjBKVHJsWVpwaW5VN3VSV29DZ3BlU2xDb0xQNXlsNlZ0QkI1R1N3bGJoUThzMUJyX2ZLc1dMR3F4aGQwa0FmcmZMdjN3UnRyT3N2am5ORlNiLUhVMlV4Yldjbkg5MEplbkJYSklqZ9IBgwJBVV95cUxQMXhlbG1PMWg3UTJrZXJqM0lvQVJmUDRDWHUybVhHdHJqalJmeFI3NDhWQmtSZTFJUkY5eGd2XzZEc0FHWm8xUUIwZDNhN3QxaVdnMVdRYWJGTTh2SjFxSXJWVmR1MUJjTElDOXM2bUJFejF1VXJoeWhpQTMtQ19COXNsR3V0ZHlSSU9RODctSTZfQnZjbTBYNWRfNDlFYjFrMlJQc21Hc0hUOXloYkRTWHk2Y0pBWW0xb2o3TTQzdUJnTE1ybEhDeHBlNzFaVTdTa0luM0w4dkNjZzIxcUhtUllOWjJqQmdHTWZ4REJESjMzWC0zZ2Q0NkJuOHJmOEd4Wlk0?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 01:18:06 GMT"
+    },
+    {
+      "title": "Why Is Indian Stock Market Up Today? Sensex, Nifty Recover as TCS Shares Jump As IT Stock Rally; What Investors Should Know - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeU1OQkhwVEZWWkFuMHpXU0pNU1VOWF9aQU5jSFZEaUlvQ0h1amFYWlQ4ZzRhdW9Sd3doYW1FbFBRWDJXS3liS2RmOVNRSjd1eTNwNkYzNnZSb21fSEZOUG5EUE9weE8yZ2MzeTBWRkUwNC1NWHJGaDRwQTY4ZkltbmwtUUxQVmUta0x5ZV9VOWJpSUFmNDRKUVpHM0xaQkkyaEZjdFVxV2dRT3hPTHpkN0p5Nml1N1Uxb3IyMFdCUjRXVm9OX3p6bkszc2ZTYk5zMFJmdTF4cUk1enVzZENZbWx3Z1ZlbDdfN2ZMaGQ0VlJzYk1tdVJPUUVyOW7SAYICQVVfeXFMT01nd2N1dEozc1NDSjFyeG90ampwOURoTjdGS2hTM0dGekp5NW5NWFBIb3VERjUxekp2NjNZZjN2X3NzQmt2YTBVSnR6TDJPbEhZNHlrcEdSU2gzVk5PdzBiXy1QZFRndUZxQS1kLVFHbGoxaU05M2YwWjFxcERlbFhPRmlfSnVQcFVOUFMwV25TMGVQMXlQMjdub1I5RXRvbTNFQ3hieDY3cWJiRWdVWnlyTU9tTXlYVm91a1JMamJ4N095ekVTQ1FPVW5TNlNESmdvUHBDcmlGWHZFWGVlWEVsMWxFOVhBQTY4cmI2NXBZNk16YW5icWFXNTRjMm14QzZ3?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 05:08:24 GMT"
+    },
+    {
+      "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRE9ZWkktb1FyQjlBajAxS2x3QlUtVTlWQ1JrTExXZkJwR0lkdVU2eDUxVEVMS0tVM3laSzZJbGZTOXd5TDVaN2JxNnVQSUNWY0g4VkVIa3piNHRSOHNfMjdRUTI0OWxvUTZzR2o1emtid0cyeWlkYmVHVE55Q0tsMmg2NmZJanlfdk0xSEc1SHhHalJBenk1LWo1Z2NrcW16THh3QnBxZENlYk1OUEZQbWZ5c3lHdGphT19PandhUWlQTFg4LVQ4UlM1aElEWDlJRWlkRU5QZVVQdDNULXBxc2J4WnlRdjZYSHFBY2dDOTYwRzVMSWlhVjBhRVY4QmJHRmlkQUVDRmRZbGNwU2fSAZMCQVVfeXFMTUh3UmRvR19UV2ZJWl9ueHVKcURVdWVwX0ZDNndScmhMR05wZEJ1OFJtdkc3QzNaUUtvVWIyeEp5S0FNT2s4U3pUSDhhOXduZmhfZVZkd0wtTHBPRlVfTjMtbWVhb2tab2M5RDlrYW01R1NOQ2x4S1k1M1hIVUpWS2NxM1FFQkREcEl3bnFvZWFCNVVfV0xvUlFXVWUzM0VTRUozVVUtVUhCSUo0QjMwYXA5N3ZQekJvVXRuQnRXUFJocDV2cDhseENrejVvcE9yeW1ZQkJLT2RzYXR0Z2lHaVMzUGRScEgtYzF2U1BRVHNaYTRtcEdtVEZOdFVLRXkyMC01dFh4MS1HR2dPYl9PdEk1bTA?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 03:59:14 GMT"
     },
     {
       "title": "Closing Bell: Nifty at 22,600, Sensex down 429 pts after RBI hikes rate in nearly 4 yrs - Moneycontrol.com",
