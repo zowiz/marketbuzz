@@ -1,32 +1,46 @@
 {
-  "headline": "Last session: Sensex jumped 900 points as IT and FMCG stocks rallied, recovering from previous sharp losses",
+  "headline": "Last session: Sensex jumped nearly 900 points as Nifty reclaimed 22,500 led by IT stocks rally.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 12 October.",
-    "nextOpen": "Monday, 12 October 2026"
+    "nextOpen": "Monday, 12 October"
   },
   "why": [
-    "The IT sector surged 3% in the last session, led by a rally in TCS shares",
-    "FMCG stocks gained over 2%, providing significant support to the indices",
-    "Market recovered after a sharp 1,045-point plunge on Thursday",
-    "Positive sentiment returned after the Nifty hit an 18-month low earlier in the week"
+    "In the last trading session, Sensex gained nearly 900 points while Nifty climbed above 22,500.",
+    "A strong rally in IT stocks led by TCS helped drive the overall market recovery.",
+    "Dalal Street broke an 8-week losing run supported by broad-based gains in IT and FMCG sectors.",
+    "RBI introduced tighter forex derivative rules affecting hedging and cancelled trades."
   ],
   "whatHappening": [
-    "TCS is withholding quarterly bonuses for senior staff after missing performance targets",
-    "Reliance-backed firms are under scrutiny following reports of political donations",
-    "ESDS Solution's stock is experiencing high volatility according to recent reports",
-    "Investors' wealth was eroded by over ₹7 lakh crore during the 'Terrible Thursday' crash"
+    "Poonawalla Fincorp reported a five-fold jump in Q2 net profit to Rs 375 crore.",
+    "Airtel Money made its debut on the London Stock Exchange in its biggest listing in 5 years.",
+    "SEBI notified a new settlement rule featuring a fast-track route and formula details.",
+    "Gold prices hit a one-week high while crude oil prices and dollar demand fluctuated."
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/9 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0,
-        10,
         12
+      ]
+    },
+    {
+      "symbol": "POONAWALLA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        9
       ]
     },
     {
@@ -44,110 +58,94 @@
       "articleIds": [
         11
       ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "ESDS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        8
-      ]
     }
   ],
-  "summary": "On the last trading day, the Sensex surged nearly 900 points, driven by a 3% jump in IT stocks and gains in FMCG. This recovery followed a massive crash on Thursday where the Nifty hit an 18-month low and oil prices topped $104. TCS shares rallied significantly, helping the market bounce back despite internal news regarding withheld senior staff bonuses.",
-  "updatedAt": "2026-10-10T04:01:55.966Z",
+  "summary": "On the last trading day, Indian benchmark indices staged a sharp recovery with Sensex surging nearly 900 points and Nifty crossing 22,500. The rally was spearheaded by IT stocks such as TCS, helping D-Street end an eight-week losing streak. Stock-specific developments included strong Q2 results from Poonawalla Fincorp and Airtel Money's LSE debut.",
+  "updatedAt": "2026-10-10T05:01:40.739Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-10",
   "articleKeys": [
-    "tcs withholds quarterly bonuses for senior staff after missing targets",
-    "25000 cops metro curbs travel advisory delhi under thick security blanket ahead of cjp protest",
-    "navratri 2026 daywise list of colours significance and all you need to know",
-    "isl 202627 schedule fixtures match timings where to watch live streaming telecast",
-    "drishyam 3 the conclusion box office collection day 8 ajay devgn starrer crosses rs 400 crore worldwide",
-    "delhi traffic advisory for oct 10 30 key routes may be affected from 6 am ahead of protests check full list",
-    "anthropic cites new ai misbehaviour including on us government websites",
-    "elon musk shares reports of reliancebacked firms donations to bjp",
-    "esds solutions volatile stock nikes problems and more",
-    "us stocks us market posts weekly gains with earnings inflation data on tap",
+    "rbi tightens forex derivative rules what changes for hedging cancelled trades",
+    "wall street week ahead bank earnings cpi headline busy markets week as sampp 500 hovers near records",
+    "euro falls set for fifth straight weekly drop as oil prices rise",
+    "it stocks surge despite us immigration curbs",
+    "gold hits oneweek high heads for weekly gain on bargainhunting",
+    "poonawalla fincorp q2 profit soars fivefold yoy to rs 375 crore",
+    "rupee rises to intraday high then slips on dollar demand",
+    "sebi notifies new settlement rule unveils formula fasttrack route check details",
+    "dstreet breaks 8week losing run outlook stays cautious though",
+    "airtel money debuts on lse in biggest listing in 5 years",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "stock market crash highlights nifty 50 hits 18month low sensex tanks 1100 points itc indigo among top losers ndtv profit",
     "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
     "stock market close sensex tanks 1045 pts nifty ends at 22232 as oil tops 104 vix jumps 10 business standard",
     "stock market today live highlights sensex fell 1045 points to settle at 7159324 while nifty closed at 2223180 the times of india",
-    "sensex stock market crash highlights sensex plunges 1045 pts nifty ends below 22250 metal realty indices drop over 3 the economic times",
     "closing bell market deep in red nifty below 22250 sensex tanks 1045 pts moneycontrolcom",
+    "sensex stock market crash highlights sensex plunges 1045 pts nifty ends below 22250 metal realty indices drop over 3 the economic times",
     "stock market crash terrible thursday for sensex nifty as over 7 lakh cr investors wealth eroded what went wrong livemint",
     "stock market today highlights oct 8 sensex tanks 1045 pts nifty sheds 371 pts to close lower businessline",
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom"
   ],
   "articles": [
     {
-      "title": "TCS withholds quarterly bonuses for senior staff after missing targets",
+      "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/tcs-withholds-quarterly-bonuses-for-senior-staff-after-missing-targets-126101000060_1.html",
-      "publishedAt": "Sat, 10 Oct 2026 08:25:03 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms",
+      "publishedAt": "Sat, 10 Oct 2026 10:05:34 +0530"
     },
     {
-      "title": "25,000 Cops, Metro Curbs, Travel Advisory: Delhi Under Thick Security Blanket Ahead Of CJP Protest",
+      "title": "Wall Street Week Ahead: Bank earnings, CPI headline busy markets week as S&amp;P 500 hovers near records",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/cjp-protests-in-jantar-mantar-25-000-delhi-police-metro-curbs-travel-advisory-12164588#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 08:15:25 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-bank-earnings-cpi-headline-busy-markets-week-as-sp-500-hovers-near-records/articleshow/134847295.cms",
+      "publishedAt": "Sat, 10 Oct 2026 09:59:09 +0530"
     },
     {
-      "title": "Navratri 2026: Day-Wise List Of Colours, Significance And All You Need To Know",
+      "title": "Euro falls, set for fifth straight weekly drop as oil prices rise",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/navratri-2026-day-wise-colours-list-significance-and-all-you-need-to-know-12164550#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 08:14:21 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/euro-falls-set-for-fifth-straight-weekly-drop-as-oil-prices-rise/articleshow/134847274.cms",
+      "publishedAt": "Sat, 10 Oct 2026 09:55:51 +0530"
     },
     {
-      "title": "ISL 2026-27 Schedule: Fixtures; Match Timings; Where To Watch Live Streaming, Telecast?",
+      "title": "IT stocks surge despite US immigration curbs",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/football-indian-super-league-isl-2026-27-schedule-fixtures-match-dates-timings-where-to-watch-live-streaming-telecast-tv-online-12152932#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 08:00:01 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-surge-despite-us-immigration-curbs/articleshow/134847206.cms",
+      "publishedAt": "Sat, 10 Oct 2026 09:49:39 +0530"
     },
     {
-      "title": "Drishyam 3: The Conclusion Box Office Collection Day 8: Ajay Devgn Starrer Crosses Rs 400 Crore Worldwide",
+      "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/drishyam-3-the-conclusion-box-office-collection-day-8-ajay-devgn-starrer-crosses-rs-400-crore-worldwide-check-friday-earnings-12164556#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 07:59:07 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
+      "publishedAt": "Sat, 10 Oct 2026 09:48:40 +0530"
     },
     {
-      "title": "Delhi Traffic Advisory For Oct 10: 30 Key Routes May Be Affected From 6 AM Ahead Of Protests. Check Full List",
+      "title": "Poonawalla Fincorp Q2 profit soars five-fold YoY to Rs 375 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-traffic-advisory-for-oct-10-30-key-routes-may-be-affected-from-6-am-ahead-of-protests-check-full-list-12163906#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 07:50:53 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-soars-five-fold-yoy-to-rs-375-crore/articleshow/134847141.cms",
+      "publishedAt": "Sat, 10 Oct 2026 09:41:23 +0530"
     },
     {
-      "title": "Anthropic Cites New AI Misbehaviour, Including On US Government Websites",
+      "title": "Rupee rises to intra-day high, then slips on dollar demand",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/anthropic-cites-new-ai-misbehaviour-including-on-us-government-websites-12164543#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 07:50:34 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-to-intra-day-high-then-slips-on-dollar-demand/articleshow/134847163.cms",
+      "publishedAt": "Sat, 10 Oct 2026 09:40:30 +0530"
     },
     {
-      "title": "Elon Musk shares reports of Reliance-backed firms' donations to BJP",
+      "title": "Sebi notifies new settlement rule; unveils formula, fast-track route. Check details",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/elon-musk-shares-reports-of-reliance-backed-firms-donations-to-bjp-126101000090_1.html",
-      "publishedAt": "Sat, 10 Oct 2026 07:43:59 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-notifies-new-settlement-rule-unveils-formula-fast-track-route-check-details/articleshow/134847119.cms",
+      "publishedAt": "Sat, 10 Oct 2026 09:36:27 +0530"
     },
     {
-      "title": "ESDS Solution's volatile stock, Nike's problems, and more...",
+      "title": "D-Street breaks 8-week losing run, outlook stays cautious though",
       "source": "Zerodha Pulse",
-      "link": "https://finshots.in/archive/esds-solutions-volatile-stock-nikes-problems-and-more/",
-      "publishedAt": "Sat, 10 Oct 2026 07:00:01 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-breaks-8-week-losing-run-outlook-stays-cautious-though/articleshow/134847017.cms",
+      "publishedAt": "Sat, 10 Oct 2026 09:29:44 +0530"
     },
     {
-      "title": "US stocks:  US market posts weekly gains with earnings, inflation data on tap",
+      "title": "Airtel Money debuts on LSE in biggest listing in 5 years",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms",
-      "publishedAt": "Sat, 10 Oct 2026 01:39:34 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/airtel-money-debuts-on-lse-in-biggest-listing-in-5-years/articleshow/134846990.cms",
+      "publishedAt": "Sat, 10 Oct 2026 09:26:23 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
@@ -180,16 +178,16 @@
       "publishedAt": "Thu, 08 Oct 2026 11:01:59 GMT"
     },
     {
-      "title": "Sensex | Stock Market Crash Highlights: Sensex plunges 1,045 pts, Nifty ends below 22,250; metal, realty indices drop over 3% - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVTNJMkF3SEZ0cUtHaExjQmZSZ3FEN1NDd0ZxS0VaaWZha216Y1hBQ25YYmx3UXlQX09OZDc4eHlmMXBSZnVmcXE1N29WNXZZc2lNUjVSTnFvMnh0VkRMeXhNZ01zTUk0NlpEWXhxcXRrbVpSb3BsSlR0dEcwWklRX1JRa1hPdTBFanpxZ2NwbWhVZUlSMHR1aS1RX1pJeFZ3QVhHU3JRMVlvUzhvVkQ1Umo3dW9ILTBzbkh1bGJNNV9yWWc0UVZER2lwVFlpUDhwb1hfekxWVnM0Nm5WazJkT2NRdWlBeU1xdXZqZC1Ma0dYR2hMSTEyUmMxeDl1X1hNcV9GZGF3d3dhd9IBjwJBVV95cUxORW5LT0hNWERDbWllaVhuNmFDYUo2cmdYOFNxUnphUUN4VG9WdFJuYVBmY2txNjJMMHJmYWlGTVR3ZGgxQzV3WG9oQnhhbTlkMzBtN1JRXzZmTXc0ZjZMaTMtWl83a1A1eXNxQ2lPblRDOXZRRjNMREFtTV9iVVBJUGhYVWZ4U2JaSUtFcnBfdDZYRVpmQ2VoSjVnQmZ6UjNNMUdOS3llTGRCZmw4aEJSRDZocHJzdkVmTWhBQlhrWV9INjZnam81eUlhTVVaV3hKekotTm9ZWHdjLXNzdGZVRjRQVW56S0tGQzIxajRXZWZmU21hQ1V4SXZLQVlUM0diZHpzQUVBNURvbFM5cWln?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 10:05:02 GMT"
-    },
-    {
       "title": "Closing Bell: Market deep in red; Nifty below 22,250, Sensex tanks 1045 pts - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcTRfalFkYnFRamgwNHR4LUhVU2ZoWVNGZ0RqcTNXYmI5YkpScE1uZFpJTk50Y1FYRWxzMkM5OEZkeTk5bE9EMTdRUjR3SjJBQmVseGl2MVlocFdlcEhhYkZOTXYyTF80b3FLangxLWs2V3BIVk1WX1RsRS1tR2t3d3lPcVZaZlMtalRBemZ1OWE2QUpfN2F1UTF3eWxBQUFCMzFuUUtrckduMnF3S09EVVkzYVlnNXlzWXE2emNQdThEamN6M21Lam1KMVJTSkRGVUpwMmRWYXFYdzJKS2pQczBpTEN0Qm5CN3doQ3BhdzFDcHVybTZmbm1XWVY1VjBoMUc0azgxZmMyMzRiVGxBRDBpMHpoMEFBU0tYTmJrQkhLOXfSAagCQVVfeXFMUHhITTdaeFBha0g4cWc2VUt3OTZkd2FhaWVWREhGRlBuT0JhakhZNDdfeHJJVGNYM0tSTGFtUVh5aUhsc2FIMDdZcnk5Yno4cFI5d1dsN21WejBuRlEtVWpqeHYtcnUyYk5XZE03MXdsRmsyOEJ5V25BRmZwQkVPQUY1Sl9mWHhnNWZ1ZFZHUE1CZy1rWHJ5ckp3WnlKOEU4SFY4aEVueWdPQ3R0NUtZZklQcHhzWm1iV2xwdGxEbk9Gb0MxVEpORzdHdEE2dEJBWFVJbFJOR1hoUF9pbU1XaTBkTWVNWHZqMjRMbTJyVHR3NTJGVVVQaFVFaUpyTHZQQ1ZSeTJ5N1dxSnJ4YWhqeGd5VDlvdjRDQVpNTWF1RlJ0TTI2OHJwSkU?oc=5",
       "publishedAt": "Thu, 08 Oct 2026 12:27:44 GMT"
+    },
+    {
+      "title": "Sensex | Stock Market Crash Highlights: Sensex plunges 1,045 pts, Nifty ends below 22,250; metal, realty indices drop over 3% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVTNJMkF3SEZ0cUtHaExjQmZSZ3FEN1NDd0ZxS0VaaWZha216Y1hBQ25YYmx3UXlQX09OZDc4eHlmMXBSZnVmcXE1N29WNXZZc2lNUjVSTnFvMnh0VkRMeXhNZ01zTUk0NlpEWXhxcXRrbVpSb3BsSlR0dEcwWklRX1JRa1hPdTBFanpxZ2NwbWhVZUlSMHR1aS1RX1pJeFZ3QVhHU3JRMVlvUzhvVkQ1Umo3dW9ILTBzbkh1bGJNNV9yWWc0UVZER2lwVFlpUDhwb1hfekxWVnM0Nm5WazJkT2NRdWlBeU1xdXZqZC1Ma0dYR2hMSTEyUmMxeDl1X1hNcV9GZGF3d3dhd9IBjwJBVV95cUxORW5LT0hNWERDbWllaVhuNmFDYUo2cmdYOFNxUnphUUN4VG9WdFJuYVBmY2txNjJMMHJmYWlGTVR3ZGgxQzV3WG9oQnhhbTlkMzBtN1JRXzZmTXc0ZjZMaTMtWl83a1A1eXNxQ2lPblRDOXZRRjNMREFtTV9iVVBJUGhYVWZ4U2JaSUtFcnBfdDZYRVpmQ2VoSjVnQmZ6UjNNMUdOS3llTGRCZmw4aEJSRDZocHJzdkVmTWhBQlhrWV9INjZnam81eUlhTVVaV3hKekotTm9ZWHdjLXNzdGZVRjRQVW56S0tGQzIxajRXZWZmU21hQ1V4SXZLQVlUM0diZHpzQUVBNURvbFM5cWln?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 10:05:02 GMT"
     },
     {
       "title": "Stock market crash: Terrible Thursday for Sensex, Nifty as over ₹7 lakh cr investors' wealth eroded - what went wrong? - Livemint",
