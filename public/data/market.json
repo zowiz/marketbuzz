@@ -1,32 +1,38 @@
 {
-  "headline": "Last session: Sensex jumped over 1,000 points as Nifty reclaimed 22,550 led by IT and FMCG gains",
+  "headline": "Last session: Sensex surged nearly 900 points as Nifty reclaimed 22,500 led by IT and FMCG sector gains.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 13 October.",
-    "nextOpen": "Tuesday, 13 October"
+    "nextOpen": "Tuesday, 13 October 2026"
   },
   "why": [
-    "IT stocks rallied significantly with the sector jumping 3% led by TCS",
-    "FMCG sector saw strong gains of over 2% during the session",
-    "Market staged a sharp recovery from the previous session's 1,000-point crash",
-    "Positive investor sentiment following the CAS announcement"
+    "Strong rally in IT stocks following gains in TCS shares",
+    "Positive sentiment after Sebi's CAS guidelines update",
+    "FMCG sector gains of over 2% supported market recovery",
+    "Recovery from the previous session's sharp 1,045-point crash"
   ],
   "whatHappening": [
-    "Sensex ended nearly 900-1000 points higher on the last trading day to settle above 71,500",
-    "Nifty 50 climbed back above the 22,500 and 22,550 levels after hitting recent lows",
-    "TCS is reportedly withholding quarterly bonuses for senior staff while paying juniors in full",
-    "India and the EU are discussing a trade deal described by envoys as an absolute game changer"
+    "Sensex ended nearly 900 points higher, settling above 72,000 levels",
+    "Nifty50 recovered to close above the 22,500 mark after recent lows",
+    "KEC International secured new orders worth Rs 1,014 crore in India",
+    "AI data-center expansion is putting pressure on India's power grid"
   ],
   "stocksInNews": [
     {
+      "symbol": "KEC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4,
-        11,
-        14
+        13
       ]
     },
     {
@@ -34,7 +40,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        14
       ]
     },
     {
@@ -42,30 +48,30 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        14
       ]
     }
   ],
-  "summary": "On the last trading day, Indian markets staged a massive recovery with the Sensex surging over 1,000 points and Nifty reclaiming the 22,550 mark. The rally was primarily driven by a 3% jump in IT stocks and strong performance in the FMCG sector. Markets are currently closed for the weekend and will reopen this coming Tuesday.",
-  "updatedAt": "2026-10-10T14:31:30.970Z",
+  "summary": "On the last trading day, Indian benchmarks rebounded sharply with the Sensex gaining nearly 900 points and Nifty reclaiming 22,500. The IT sector led the surge with a 3% gain, supported by a rally in TCS shares. Market sentiment was further bolstered by KEC International's new order wins and updates on Sebi's CAS guidelines.",
+  "updatedAt": "2026-10-10T15:05:03.868Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-10",
   "articleKeys": [
+    "one year after 19 billion crash crypto faces a new reality",
+    "sebis cas guidelines likely within a week says chief tuhin kanta pandey",
+    "ai datacentre boom puts indias power grid under pressure drives up upgrade costs",
+    "goldman is bullish jefferies is wary clsa is counting extremes three brokerages one ai trade",
+    "kec international bags rs 1014 crore transmission and distribution orders in india",
+    "fc barcelona vs getafe live streaming when where to watch laliga match on tv online",
     "delhi court refuses to cancel sharjeel imam bail but says he flouted terms",
-    "this bihar man earns rs 80000 from rent he still drives uber 12 hours a day",
-    "indiaeu fta an absolute game changer eu envoy on trade deal defence ties",
-    "ramayana new posters lara dutta as kaikeyi sheeba chadha as manthara revealed",
-    "tcs withholds quarterly bonus for senior staff junior employees to get full payout report",
-    "bjp slams rahul gandhi congress amid cjp protest crackdown in delhi india is not a banana republic",
-    "india champions vs south africa champions live streaming when and where to watch wcl 2026 match",
-    "jaishankar on indiaafrica ties trade ai healthcare and development cooperation in focus",
-    "dragon ball super beerus ott india release date streaming all you need to know",
-    "xiaomi 18 pro india launch confirmed dual displays snapdragon 8 elite extreme gen 6",
+    "from demolition to dream house inside prosenjit chatterjees fourstorey kolkata home",
+    "trump lashes out after missing out on nobel peace prize settled 8 wars freed israeli hostages",
+    "delhi police offers to help detained cjp chief abhijeet dipke reach home for gramdmothers last rites",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
-    "stock market crash highlights nifty 50 hits 18month low sensex tanks 1100 points itc indigo among top losers ndtv profit",
     "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
+    "stock market crash highlights nifty 50 hits 18month low sensex tanks 1100 points itc indigo among top losers ndtv profit",
     "stock market close sensex tanks 1045 pts nifty ends at 22232 as oil tops 104 vix jumps 10 business standard",
     "stock market today live highlights sensex fell 1045 points to settle at 7159324 while nifty closed at 2223180 the times of india",
     "closing bell market deep in red nifty below 22250 sensex tanks 1045 pts moneycontrolcom",
@@ -74,64 +80,64 @@
   ],
   "articles": [
     {
+      "title": "One Year After $19 Billion Crash, Crypto Faces A New Reality",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/one-year-after-19-billion-crash-crypto-faces-a-new-reality-12166834#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 19:34:04 +0530"
+    },
+    {
+      "title": "Sebi’s CAS guidelines likely within a week, says chief Tuhin Kanta Pandey",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebis-cas-guidelines-likely-within-a-week-says-chief-tuhin-kanta-pandey/articleshow/134855486.cms",
+      "publishedAt": "Sat, 10 Oct 2026 19:28:00 +0530"
+    },
+    {
+      "title": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
+      "publishedAt": "Sat, 10 Oct 2026 19:11:55 +0530"
+    },
+    {
+      "title": "Goldman Is Bullish, Jefferies Is Wary, CLSA Is Counting Extremes: Three Brokerages, One AI Trade",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/goldman-is-bullish-jefferies-is-wary-clsa-is-counting-extremes-three-brokerages-one-ai-trade-12166729#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 19:06:58 +0530"
+    },
+    {
+      "title": "KEC International Bags Rs 1,014 Crore Transmission And Distribution Orders In India",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/kec-international-bags-rs-1-014-crore-transmission-and-distribution-orders-in-india-12166577#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 19:00:24 +0530"
+    },
+    {
+      "title": "FC Barcelona vs Getafe Live Streaming: When, Where To Watch LaLiga Match On TV, Online?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/football-fc-barcelona-vs-getafe-live-streaming-date-time-where-to-watch-laliga-match-on-tv-online-12155809#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 19:00:01 +0530"
+    },
+    {
       "title": "Delhi court refuses to cancel Sharjeel Imam bail, but says he flouted terms",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/india-news/delhi-court-cancels-sharjeel-imam-s-interim-bail-for-violating-conditions-126101000565_1.html",
       "publishedAt": "Sat, 10 Oct 2026 18:58:57 +0530"
     },
     {
-      "title": "This Bihar Man Earns Rs 80,000 From Rent. He Still Drives Uber 12 Hours A Day",
+      "title": "From Demolition To Dream House: Inside Prosenjit Chatterjee’s Four-Storey Kolkata Home",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/this-bihar-man-earns-rs-80-000-from-rent-he-still-drives-uber-12-hours-a-day-12166147#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 18:25:33 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/from-demolition-to-dream-house-inside-prosenjit-chatterjees-four-storey-kolkata-home-12166540#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 18:54:48 +0530"
     },
     {
-      "title": "India-EU FTA 'An Absolute Game Changer': EU Envoy On Trade Deal, Defence Ties",
+      "title": "Trump Lashes Out After Missing Out On Nobel Peace Prize: 'Settled 8 Wars, Freed Israeli Hostages'",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/india-eu-fta-an-absolute-game-changer-eu-envoy-on-trade-deal-defence-ties-12166393#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 18:23:45 +0530"
+      "link": "https://www.ndtvprofit.com/world/trump-lashes-out-after-missing-out-on-nobel-peace-prize-settled-8-wars-freed-israeli-hostages-12166676#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 18:52:30 +0530"
     },
     {
-      "title": "Ramayana New Posters: Lara Dutta As Kaikeyi, Sheeba Chadha As Manthara Revealed",
+      "title": "Delhi Police Offers To Help Detained CJP Chief Abhijeet Dipke Reach Home For Gramdmother's Last Rites",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/ramayana-new-posters-lara-dutta-as-kaikeyi-sheeba-chadha-as-manthara-revealed-12166465#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 18:22:13 +0530"
-    },
-    {
-      "title": "TCS Withholds Quarterly Bonus For Senior Staff; Junior Employees To Get Full Payout: Report",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/tcs-withholds-quarterly-bonus-for-senior-staff-junior-employees-to-get-full-payout-report-12166523#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 18:09:49 +0530"
-    },
-    {
-      "title": "BJP Slams Rahul Gandhi, Congress Amid CJP Protest Crackdown In Delhi: 'India Is Not A Banana Republic’",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/bjp-slams-rahul-gandhi-congress-amid-cjp-protest-crackdown-in-delhi-india-is-not-a-banana-republic-12166435#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 18:05:50 +0530"
-    },
-    {
-      "title": "India Champions Vs South Africa Champions Live Streaming: When And Where To Watch WCL 2026 Match",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-champions-vs-south-africa-champions-live-streaming-when-and-where-to-watch-wcl-2026-match-12163538#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 18:00:01 +0530"
-    },
-    {
-      "title": "Jaishankar On India-Africa Ties: Trade, AI, Healthcare And Development Cooperation In Focus",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/jaishankar-on-india-africa-ties-trade-ai-healthcare-and-development-cooperation-in-focus-12165993#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 17:20:45 +0530"
-    },
-    {
-      "title": "Dragon Ball Super: Beerus OTT India Release Date, Streaming — All You Need To Know",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/dragon-ball-super-beerus-ott-india-release-date-streaming-all-you-need-to-know-12166227#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 17:12:01 +0530"
-    },
-    {
-      "title": "Xiaomi 18 Pro India Launch Confirmed: Dual Displays, Snapdragon 8 Elite Extreme Gen 6",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/xiaomi-18-pro-india-launch-confirmed-dual-displays-snapdragon-8-elite-extreme-gen-6-12166138#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 17:03:04 +0530"
+      "link": "https://www.ndtvprofit.com/india/delhi-police-offers-to-help-detained-cjp-chief-abhijeet-dipke-reach-home-for-gramdmothers-last-rites-12166542#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 18:49:05 +0530"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex jumps over 1000 points, Nifty50 climbs above 22,550 - The Times of India",
@@ -152,16 +158,16 @@
       "publishedAt": "Fri, 09 Oct 2026 03:59:14 GMT"
     },
     {
-      "title": "Stock Market Crash Highlights: Nifty 50 Hits 18-Month Low; Sensex Tanks 1,100 Points; ITC, IndiGo Among Top Losers - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNnY5dGpwLU9uMXo2anhpYXg0R19kMjExRUZUWXBkLTJOcEtCU2l0NHppLTFGUzlnQ2VKQWpwZjd1TEZwUzFQb0tnZ2JXWHNHSF9GTjdqWDAzVWJobnBvc0k4djY3N1I3TGZJYVlhaHRwSTV6Vy1NTk1FbzJGbHNNQzgwcHJIV3JveG9FN2VHOHMyUXgzN3hiemtDVk5KeHRtMGdSZzVFM2FRTlVjQVRzLXY2d0NCRUJpc2JsR2hLUGNwMGhUOUFtTXJHZ05ZenpPVUQxWmFrNG4yZTJKaFpQaFRUN3RqamvSAe8BQVVfeXFMT0FjZkx1RndhTldidlhVV0JDRkVrNlp6R3gxYzIzckZWRVVtWHFOZ3VGWmlxVjhXOGRvc05EcXMzSFNrN3pMa3pOTnNVZVZRakNkZHl6Ty1UdVk5a0wtUGk2cmQ1bDlGWURXZS1pMmhXZ09BZUg5TVhuazhtR0QwMy1iVFpQU19MV0o5YVBkTGExbjNyRFpKa0hGTzFZUk01OTZDdU1HSmQ0TTNNN3QzSG1PVHd2RHhTQ0Rsd3p4aDdWWXk1QTFvMWYyd2U3a0RaT1dBMFpYRzlGOUk3VVcxeTh6OER3VndQTE1UNEV2d2c?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 10:42:49 GMT"
-    },
-    {
       "title": "Why Is Indian Stock Market Up Today? Sensex, Nifty Recover as TCS Shares Jump As IT Stock Rally; What Investors Should Know - The Sunday Guardian",
       "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeU1OQkhwVEZWWkFuMHpXU0pNU1VOWF9aQU5jSFZEaUlvQ0h1amFYWlQ4ZzRhdW9Sd3doYW1FbFBRWDJXS3liS2RmOVNRSjd1eTNwNkYzNnZSb21fSEZOUG5EUE9weE8yZ2MzeTBWRkUwNC1NWHJGaDRwQTY4ZkltbmwtUUxQVmUta0x5ZV9VOWJpSUFmNDRKUVpHM0xaQkkyaEZjdFVxV2dRT3hPTHpkN0p5Nml1N1Uxb3IyMFdCUjRXVm9OX3p6bkszc2ZTYk5zMFJmdTF4cUk1enVzZENZbWx3Z1ZlbDdfN2ZMaGQ0VlJzYk1tdVJPUUVyOW7SAYICQVVfeXFMT01nd2N1dEozc1NDSjFyeG90ampwOURoTjdGS2hTM0dGekp5NW5NWFBIb3VERjUxekp2NjNZZjN2X3NzQmt2YTBVSnR6TDJPbEhZNHlrcEdSU2gzVk5PdzBiXy1QZFRndUZxQS1kLVFHbGoxaU05M2YwWjFxcERlbFhPRmlfSnVQcFVOUFMwV25TMGVQMXlQMjdub1I5RXRvbTNFQ3hieDY3cWJiRWdVWnlyTU9tTXlYVm91a1JMamJ4N095ekVTQ1FPVW5TNlNESmdvUHBDcmlGWHZFWGVlWEVsMWxFOVhBQTY4cmI2NXBZNk16YW5icWFXNTRjMm14QzZ3?oc=5",
       "publishedAt": "Fri, 09 Oct 2026 05:08:24 GMT"
+    },
+    {
+      "title": "Stock Market Crash Highlights: Nifty 50 Hits 18-Month Low; Sensex Tanks 1,100 Points; ITC, IndiGo Among Top Losers - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNnY5dGpwLU9uMXo2anhpYXg0R19kMjExRUZUWXBkLTJOcEtCU2l0NHppLTFGUzlnQ2VKQWpwZjd1TEZwUzFQb0tnZ2JXWHNHSF9GTjdqWDAzVWJobnBvc0k4djY3N1I3TGZJYVlhaHRwSTV6Vy1NTk1FbzJGbHNNQzgwcHJIV3JveG9FN2VHOHMyUXgzN3hiemtDVk5KeHRtMGdSZzVFM2FRTlVjQVRzLXY2d0NCRUJpc2JsR2hLUGNwMGhUOUFtTXJHZ05ZenpPVUQxWmFrNG4yZTJKaFpQaFRUN3RqamvSAe8BQVVfeXFMT0FjZkx1RndhTldidlhVV0JDRkVrNlp6R3gxYzIzckZWRVVtWHFOZ3VGWmlxVjhXOGRvc05EcXMzSFNrN3pMa3pOTnNVZVZRakNkZHl6Ty1UdVk5a0wtUGk2cmQ1bDlGWURXZS1pMmhXZ09BZUg5TVhuazhtR0QwMy1iVFpQU19MV0o5YVBkTGExbjNyRFpKa0hGTzFZUk01OTZDdU1HSmQ0TTNNN3QzSG1PVHd2RHhTQ0Rsd3p4aDdWWXk1QTFvMWYyd2U3a0RaT1dBMFpYRzlGOUk3VVcxeTh6OER3VndQTE1UNEV2d2c?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 10:42:49 GMT"
     },
     {
       "title": "Stock Market Close: Sensex tanks 1,045 pts, Nifty ends at 22,232 as oil tops $104; VIX jumps 10% - Business Standard",
