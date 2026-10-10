@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex surges nearly 900 points as IT stocks rebound and Nifty reclaims 22,500",
+  "headline": "Last session: Sensex jumped 900 points as IT and FMCG stocks rallied, recovering from previous sharp losses",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,33 +7,26 @@
     "nextOpen": "Monday, 12 October 2026"
   },
   "why": [
-    "On the last trading day, IT stocks led a strong market rebound, helping snap an eight-week losing streak.",
-    "Sensex surged nearly 900 points while Nifty closed above the 22,500 mark.",
-    "TCS shares jumped, driving a strong rally across the IT sector.",
-    "FMCG sector backed the market rally with gains exceeding 2%."
+    "The IT sector surged 3% in the last session, led by a rally in TCS shares",
+    "FMCG stocks gained over 2%, providing significant support to the indices",
+    "Market recovered after a sharp 1,045-point plunge on Thursday",
+    "Positive sentiment returned after the Nifty hit an 18-month low earlier in the week"
   ],
   "whatHappening": [
-    "Indian benchmark indices recovered sharply on Friday after facing heavy losses on Thursday.",
-    "India's forex kitty shrank by $51 billion over a four-week period following recent highs.",
-    "Telecom Minister Scindia stated that India does not permit monopoly in any sector amidst the Starlink controversy.",
-    "U.S. lifted sanctions on the sale of Russian diesel in global markets."
+    "TCS is withholding quarterly bonuses for senior staff after missing performance targets",
+    "Reliance-backed firms are under scrutiny following reports of political donations",
+    "ESDS Solution's stock is experiencing high volatility according to recent reports",
+    "Investors' wealth was eroded by over ₹7 lakh crore during the 'Terrible Thursday' crash"
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        12
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 3/9 sources",
       "articleIds": [
         0,
-        4
+        10,
+        12
       ]
     },
     {
@@ -53,29 +46,37 @@
       ]
     },
     {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
       "symbol": "ESDS",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1
+        8
       ]
     }
   ],
-  "summary": "On the last trading session, Indian markets staged a major recovery with Sensex soaring nearly 900 points and Nifty reclaiming 22,500. The rally was spearheaded by IT stocks, notably TCS, along with solid gains in the FMCG sector. The market is closed today for the weekend and will reopen on Monday, 12 October.",
-  "updatedAt": "2026-10-10T03:01:40.556Z",
+  "summary": "On the last trading day, the Sensex surged nearly 900 points, driven by a 3% jump in IT stocks and gains in FMCG. This recovery followed a massive crash on Thursday where the Nifty hit an 18-month low and oil prices topped $104. TCS shares rallied significantly, helping the market bounce back despite internal news regarding withheld senior staff bonuses.",
+  "updatedAt": "2026-10-10T04:01:55.966Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-10",
   "articleKeys": [
+    "tcs withholds quarterly bonuses for senior staff after missing targets",
+    "25000 cops metro curbs travel advisory delhi under thick security blanket ahead of cjp protest",
+    "navratri 2026 daywise list of colours significance and all you need to know",
+    "isl 202627 schedule fixtures match timings where to watch live streaming telecast",
+    "drishyam 3 the conclusion box office collection day 8 ajay devgn starrer crosses rs 400 crore worldwide",
+    "delhi traffic advisory for oct 10 30 key routes may be affected from 6 am ahead of protests check full list",
+    "anthropic cites new ai misbehaviour including on us government websites",
     "elon musk shares reports of reliancebacked firms donations to bjp",
     "esds solutions volatile stock nikes problems and more",
     "us stocks us market posts weekly gains with earnings inflation data on tap",
-    "us lifts sanctions on sale of russian diesel in global markets",
-    "elon musk ups ante in starlink row sarcastically calls ambani prime minister alleges monopoly",
-    "delivery completed on the gst council meet reforms",
-    "gold silver boom puts us bank trading revenues on track for record 5 billion",
-    "india doesnt allow monopoly in any sector says telecom minister scindia",
-    "after fcnrb highs forex kitty shrinks by 51 billion in four weeks",
-    "it stocks lead nifty rebound as benchmark snaps eightweek losing streak",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "stock market crash highlights nifty 50 hits 18month low sensex tanks 1100 points itc indigo among top losers ndtv profit",
     "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
@@ -88,6 +89,48 @@
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "TCS withholds quarterly bonuses for senior staff after missing targets",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/tcs-withholds-quarterly-bonuses-for-senior-staff-after-missing-targets-126101000060_1.html",
+      "publishedAt": "Sat, 10 Oct 2026 08:25:03 +0530"
+    },
+    {
+      "title": "25,000 Cops, Metro Curbs, Travel Advisory: Delhi Under Thick Security Blanket Ahead Of CJP Protest",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/cjp-protests-in-jantar-mantar-25-000-delhi-police-metro-curbs-travel-advisory-12164588#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 08:15:25 +0530"
+    },
+    {
+      "title": "Navratri 2026: Day-Wise List Of Colours, Significance And All You Need To Know",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/navratri-2026-day-wise-colours-list-significance-and-all-you-need-to-know-12164550#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 08:14:21 +0530"
+    },
+    {
+      "title": "ISL 2026-27 Schedule: Fixtures; Match Timings; Where To Watch Live Streaming, Telecast?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/football-indian-super-league-isl-2026-27-schedule-fixtures-match-dates-timings-where-to-watch-live-streaming-telecast-tv-online-12152932#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 08:00:01 +0530"
+    },
+    {
+      "title": "Drishyam 3: The Conclusion Box Office Collection Day 8: Ajay Devgn Starrer Crosses Rs 400 Crore Worldwide",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/drishyam-3-the-conclusion-box-office-collection-day-8-ajay-devgn-starrer-crosses-rs-400-crore-worldwide-check-friday-earnings-12164556#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 07:59:07 +0530"
+    },
+    {
+      "title": "Delhi Traffic Advisory For Oct 10: 30 Key Routes May Be Affected From 6 AM Ahead Of Protests. Check Full List",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/delhi-traffic-advisory-for-oct-10-30-key-routes-may-be-affected-from-6-am-ahead-of-protests-check-full-list-12163906#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 07:50:53 +0530"
+    },
+    {
+      "title": "Anthropic Cites New AI Misbehaviour, Including On US Government Websites",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/anthropic-cites-new-ai-misbehaviour-including-on-us-government-websites-12164543#publisher=newsstand",
+      "publishedAt": "Sat, 10 Oct 2026 07:50:34 +0530"
+    },
     {
       "title": "Elon Musk shares reports of Reliance-backed firms' donations to BJP",
       "source": "Zerodha Pulse",
@@ -105,48 +148,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms",
       "publishedAt": "Sat, 10 Oct 2026 01:39:34 +0530"
-    },
-    {
-      "title": "U.S. lifts sanctions on sale of Russian diesel in global markets",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/international/us-lifts-sanctions-on-sale-of-russian-diesel-in-global-markets/article71565823.ece",
-      "publishedAt": "Sat, 10 Oct 2026 01:37:53 +0530"
-    },
-    {
-      "title": "Elon Musk ups ante in Starlink row, sarcastically calls Ambani ‘Prime Minister’, alleges monopoly",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/elon-musk-ups-ante-in-starlink-row-sarcastically-calls-ambani-prime-minister-alleges-monopoly/article71565795.ece",
-      "publishedAt": "Sat, 10 Oct 2026 00:45:27 +0530"
-    },
-    {
-      "title": "Delivery completed: On the GST Council meet, reforms",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece",
-      "publishedAt": "Sat, 10 Oct 2026 00:38:54 +0530"
-    },
-    {
-      "title": "Gold, silver boom puts US bank trading revenues on track for record $5 billion",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms",
-      "publishedAt": "Sat, 10 Oct 2026 00:18:08 +0530"
-    },
-    {
-      "title": "India doesn't allow monopoly in any sector, says Telecom Minister Scindia",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/technology/tech-news/no-monopoly-in-satcom-firms-must-meet-security-norms-to-operate-scindia-126100901190_1.html",
-      "publishedAt": "Sat, 10 Oct 2026 00:17:14 +0530"
-    },
-    {
-      "title": "After FCNR(B) highs, forex kitty shrinks by $51 billion in four weeks",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/india-s-forex-reserves-drop-for-fourth-week-down-12-95-bn-to-734-6-bn-126100901061_1.html",
-      "publishedAt": "Sat, 10 Oct 2026 00:13:10 +0530"
-    },
-    {
-      "title": "IT stocks lead Nifty rebound as benchmark snaps eight-week losing streak",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/it-stocks-lead-nifty-rebound-as-benchmark-snaps-eight-week-losing-streak-126100901255_1.html",
-      "publishedAt": "Fri, 09 Oct 2026 23:39:01 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
