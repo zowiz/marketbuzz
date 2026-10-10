@@ -1,24 +1,32 @@
 {
-  "headline": "Last session: Sensex jumped nearly 900 points while Nifty crossed 22,500 led by gains in IT and FMCG stocks.",
+  "headline": "Last session: Sensex surged nearly 900 points as IT and FMCG stocks recovered strongly",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 12 October.",
-    "nextOpen": "Monday, 12 October"
+    "nextOpen": "Monday, 12 October 2026"
   },
   "why": [
-    "IT and FMCG stocks rallied strongly, helping benchmark indices recover in the last session.",
-    "TCS shares jumped, spurring a broader rally across information technology stocks.",
-    "Markets faced earlier pressure from surging global crude oil prices topping $104 per barrel.",
-    "Investor sentiment had also been affected by a recent interest rate hike by the RBI."
+    "Sensex recovered nearly 900 points in the last trading session led by a broad rally in IT and FMCG stocks.",
+    "TCS shares jumped significantly, leading a 3% surge in the IT sector index.",
+    "Persistent selling pressure remains a concern as FIIs dumped Indian equities for eight straight weeks.",
+    "Earlier market declines were triggered by rising oil prices topping $104 and a rate hike by the RBI."
   ],
   "whatHappening": [
-    "In the last trading session, Sensex closed nearly 900 points higher and Nifty moved above 22,500.",
-    "IT stocks surged around 3% while the FMCG sector gained over 2% during Friday's session.",
-    "Earlier in the week on Thursday, benchmark indices suffered a sharp drop of over 1,000 points.",
-    "Elon Musk highlighted reports regarding alleged links between Reliance and political campaign donations."
+    "On the last trading day, Sensex closed nearly 900 points higher and Nifty moved above 22,500.",
+    "DMart reported its Q2 results showing a consolidated profit rise of nearly 9% YoY to Rs 743 crore on an 18% revenue jump.",
+    "The IT sector jumped 3% while FMCG indices gained over 2% on Friday.",
+    "Earlier in the week on Thursday, Indian benchmarks suffered a massive drop of over 1,000 points."
   ],
   "stocksInNews": [
+    {
+      "symbol": "DMART",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
     {
       "symbol": "TCS",
       "sentiment": "Positive",
@@ -42,31 +50,23 @@
       "articleIds": [
         11
       ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        8
-      ]
     }
   ],
-  "summary": "The Indian market rebounded strongly in its last session with Sensex gaining nearly 900 points and Nifty reclaiming 22,500 led by IT and FMCG stocks.\nThis recovery came after severe mid-week losses driven by spiking crude oil prices and the RBI's recent rate hike.\nThe stock market is closed today for the weekend and will reopen for trading on Monday, 12 October.",
-  "updatedAt": "2026-10-10T10:01:45.573Z",
+  "summary": "On the last trading day, Indian benchmark indices rebounded strongly with Sensex surging nearly 900 points and Nifty closing above 22,500.\nThe gains were powered by a rally in IT stocks led by TCS alongside gains in the FMCG sector.\nMeanwhile, DMart posted a nearly 9% YoY increase in Q2 net profit to Rs 743 crore on strong revenue growth.",
+  "updatedAt": "2026-10-10T11:01:43.595Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-10",
   "articleKeys": [
+    "dmart q2 results cons profit rises nearly 9 yoy to rs 743 crore revenue jumps 18",
+    "bitcoin reclaims 82500 as improved etf flows lift market sentiment here is what experts say",
+    "peter cundills investing lessons why patience research and value matter in stock picking",
+    "fiis dump indian stocks for eight straight weeks is a reversal on the cards or more pain ahead",
     "nobel disgrace trump brands navi pillays peace prize an indelible stain on norway",
     "meet ajinkya shinde the new face of cjps jantar mantar protest as abhijeet dipke detained",
     "delhi cjp protest neha bora detained dipke saurav das ashutosh ranka taken to different locations",
     "bengaluru fc vs sporting club delhi live streaming telecast when where to watch isl match on tv online",
     "demise doesnt make one an angel chinmayi sripaada backs tanushree dutta after evil dead remark on late nana patekar",
     "answers not lathis shashi tharoor criticises delhi security clampdown for cjp protests",
-    "samantha ruth prabhu reveals her go to morning routine during pregnancy",
-    "pm modi to visit chennai on oct 11 for inaugurating infra projects full list",
-    "musk steps up attack on ambani shares reports on alleged reliance links to bjp campaigns donations",
-    "g7 flow russian diesel what new supply streams mean for crude oil prices",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "stock market crash highlights nifty 50 hits 18month low sensex tanks 1100 points itc indigo among top losers ndtv profit",
     "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
@@ -79,6 +79,30 @@
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "DMart Q2 Results: Cons profit rises nearly 9% YoY to Rs 743 crore, revenue jumps 18%",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q2-results-cons-profit-rises-nearly-9-yoy-to-rs-743-crore-revenue-jumps-18/articleshow/134851993.cms",
+      "publishedAt": "Sat, 10 Oct 2026 16:01:51 +0530"
+    },
+    {
+      "title": "Bitcoin reclaims $82,500 as improved ETF flows lift market sentiment. Here is what experts say",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-reclaims-82500-as-improved-etf-flows-lift-market-sentiment-here-is-what-experts-say/articleshow/134852150.cms",
+      "publishedAt": "Sat, 10 Oct 2026 15:55:39 +0530"
+    },
+    {
+      "title": "Peter Cundill’s investing lessons: Why patience, research and value matter in stock picking",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/peter-cundills-investing-lessons-why-patience-research-and-value-matter-in-stock-picking/articleshow/134851796.cms",
+      "publishedAt": "Sat, 10 Oct 2026 15:34:20 +0530"
+    },
+    {
+      "title": "FIIs dump Indian stocks for eight straight weeks: Is a reversal on the cards or more pain ahead?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-eight-straight-weeks-is-a-reversal-on-the-cards-or-more-pain-ahead/articleshow/134851502.cms",
+      "publishedAt": "Sat, 10 Oct 2026 15:11:53 +0530"
+    },
     {
       "title": "Nobel 'Disgrace': Trump Brands Navi Pillay's Peace Prize 'An Indelible Stain' On Norway",
       "source": "Zerodha Pulse",
@@ -114,30 +138,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/india/shashi-tharoor-criticises-delhi-security-clampdown-for-cjp-protests-12165769#publisher=newsstand",
       "publishedAt": "Sat, 10 Oct 2026 14:54:35 +0530"
-    },
-    {
-      "title": "Samantha Ruth Prabhu Reveals Her Go To Morning Routine During Pregnancy",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/samantha-ruth-prabhu-reveals-her-go-to-morning-routine-during-pregnancy-12165743#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 14:50:10 +0530"
-    },
-    {
-      "title": "PM Modi To Visit Chennai On Oct. 11 For Inaugurating Infra Projects: Full List",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/pm-modi-to-visit-chennai-on-oct-11-for-inaugurating-infra-projects-full-list-of-projects-12165612#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 14:44:33 +0530"
-    },
-    {
-      "title": "Musk Steps Up Attack On Ambani; Shares Reports On Alleged Reliance Links To BJP Campaigns, Donations",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/musk-steps-up-attack-on-ambani-shares-reports-on-alleged-reliance-links-to-bjp-campaigns-donations-12165667#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 14:35:42 +0530"
-    },
-    {
-      "title": "G7 Flow, Russian Diesel: What New Supply Streams Mean For Crude Oil Prices?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/g7-flow-russian-diesel-what-new-supply-streams-mean-for-crude-oil-prices-12165587#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 14:04:17 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
