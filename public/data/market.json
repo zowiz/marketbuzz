@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex jumped nearly 900 points while Nifty topped 22,500 led by IT and FMCG gains.",
+  "headline": "Last session: Sensex surged 900 points as Nifty crossed 22,500 led by IT and FMCG gains",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,22 +7,22 @@
     "nextOpen": "Monday, 12 October"
   },
   "why": [
-    "IT sector jumped 3% led by a rally in major technology stocks",
-    "FMCG sector gained over 2% during the last trading session",
-    "Broad-based recovery as all sectoral indices turned green",
-    "Positive global cues from DJIA, S&P, and NASDAQ supported the domestic rally"
+    "IT sector jumped 3% during the last session led by a rally in TCS shares",
+    "FMCG sector gained over 2% providing significant support to the indices",
+    "Market recovered sharply from the previous session's crash where Sensex had dropped 1,045 points",
+    "Positive sentiment following CAS helped Nifty settle above the 22,500 mark"
   ],
   "whatHappening": [
-    "Avenue Supermarts reported an 8% rise in Q2 net profit but missed analyst estimates",
-    "Adani Green Energy reported a 32% jump in energy sales for its H1 update",
-    "Industrial and warehousing leasing reached a record 59.1 million sq ft across top cities",
-    "Twenty-two stocks, including Hero Motors and NSE, face IPO lock-in expiry in late October"
+    "Avenue Supermarts (DMart) reported an 8% rise in Q2 net profit but missed market estimates",
+    "Adani Green Energy's operational capacity increased 24% YoY to 20,763 MW in the first half",
+    "Industrial and warehousing space leasing hit a record 59.1 million sq ft across top 24 cities",
+    "Twenty-two stocks including Hero Motors and NSE are under focus for upcoming IPO lock-in expiries"
   ],
   "stocksInNews": [
     {
       "symbol": "DMART",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         2
       ]
@@ -30,7 +30,7 @@
     {
       "symbol": "ADANIGREEN",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         7
       ]
@@ -38,15 +38,15 @@
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        17
+        12
       ]
     },
     {
       "symbol": "HEROMOTOCO",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         5
       ]
@@ -54,14 +54,30 @@
     {
       "symbol": "NSE",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         5
       ]
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        11
+      ]
+    },
+    {
+      "symbol": "INDIGO",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        11
+      ]
     }
   ],
-  "summary": "On the last trading day, Indian markets staged a strong recovery with the Sensex gaining nearly 900 points and Nifty closing above 22,500. The rally was primarily driven by the IT and FMCG sectors, with TCS leading the gains among technology stocks. Over the weekend, corporate updates included DMart's Q2 results missing estimates and Adani Green reporting significant operational growth.",
-  "updatedAt": "2026-10-10T12:01:54.492Z",
+  "summary": "The Indian stock market is closed for the weekend following a strong recovery on Friday where the Sensex gained nearly 900 points. The rally was primarily driven by a 3% surge in IT stocks and gains in the FMCG sector. Investors are also processing Q2 results from Avenue Supermarts and operational updates from Adani Green Energy.",
+  "updatedAt": "2026-10-10T12:31:46.385Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-10",
   "articleKeys": [
@@ -75,15 +91,15 @@
     "adani green energy h1 update operational capacity rises 24 yoy to 20763 mw energy sales jump 32",
     "vivo y600s pro with 10200mah battery launched check price specifications",
     "wall streets rate shock spreads beneath aifueled market rally",
-    "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
-    "stock market today live highlights sensex fell 1045 points to settle at 7159324 while nifty closed at 2223180 the times of india",
-    "sensex stock market crash highlights sensex plunges 1045 pts nifty ends below 22250 metal realty indices drop over 3 the economic times",
-    "stock market today highlights oct 8 sensex tanks 1045 pts nifty sheds 371 pts to close lower businessline",
-    "stock market today highlights october 9 sensex gains over 87909 points nifty tops 2252045 as all sectoral indices turn green businessline",
-    "stock market outlook today 9 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei 225 cues livemint",
+    "stock market crash highlights nifty 50 hits 18month low sensex tanks 1100 points itc indigo among top losers ndtv profit",
     "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
-    "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
+    "stock market close sensex tanks 1045 pts nifty ends at 22232 as oil tops 104 vix jumps 10 business standard",
+    "stock market today live highlights sensex fell 1045 points to settle at 7159324 while nifty closed at 2223180 the times of india",
+    "closing bell market deep in red nifty below 22250 sensex tanks 1045 pts moneycontrolcom",
+    "sensex stock market crash highlights sensex plunges 1045 pts nifty ends below 22250 metal realty indices drop over 3 the economic times",
+    "stock market crash terrible thursday for sensex nifty as over 7 lakh cr investors wealth eroded what went wrong livemint",
+    "stock market today highlights oct 8 sensex tanks 1045 pts nifty sheds 371 pts to close lower businessline",
     "closing bell nifty at 22600 sensex down 429 pts after rbi hikes rate in nearly 4 yrs moneycontrolcom"
   ],
   "articles": [
@@ -148,46 +164,16 @@
       "publishedAt": "Sat, 10 Oct 2026 16:19:58 +0530"
     },
     {
-      "title": "Stock Market Today Highlights: BSE Sensex jumps over 1000 points, Nifty50 climbs above 22,550 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQREJiUkQzbWYzbVdRNFpxSmx5bTZlRVU4ZWJfZHo5OU55Z1pkcW81d01PNE01ZEh4ZzFHNE81bVJkZG5odWc5SmppUzVFOG1PV2NqTzFDczExcld4WWZuajhrSFJseU5ja284d2VqRlNzNElPRkJTRXVmaUF3bUVUX0tvRHFyTnVDYmhKRGs1alpsQXM3aTF3ME16MWl1RnJRMTB4MWNlbVBIY2NaQzhBWnlZUk1fNWhaUlVfX2RGMVkydEZyVXlHWEtXVjIyLWR3N0Z1TGF3bTI2VWRMTWpEeHBSU25GUlFDNThQNlVkeldyLW9aS3lLWEw3QllickZweU9tZ2NtLUphZmxpRFpBbkl2Tnc3V2Rtd0VIMy1qM1VfWS1xS1lMbXRZQUkyYm9FS3M4VNIBugJBVV95cUxQNWdYLTMwNWdrMkNtc0JpYWNMbW50WFRuNTlBakNaSEVQbDA3VDZVSm9EN0lvQzFNWE5VT1Fhb2Q5LV93bHpPVWZMM0hDZlF0N2ZTSnZmeVZ2Q0EwX1l2aEQ1UlJpVVJiMXk4aE1PczlzV1J0T1cwOC1acXlPSWtZcU9CQTdfOVpCdXI3aExQSlI0VkVnV3FyRmhHaUJqQnl2eF80bjZQdWZqbzcyNkxzZ3RscmhpeFN4VUFGSEJScGJsMC10MndYMk1sY2tFZ2JOSVF4SVNTYWowcmFwSFl5X19LZDlQcWYzcXl2WVU3YUU4SDFjS09UUVJBeHdTRVlDQ2d3UTQzRUJkWEMtR01UNjQtV3VuUk9RV2hrMGFCeEVleWt1TGdJUnpNbkNBS3dRb2tSWDdSSzRTUQ?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:14:00 GMT"
-    },
-    {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNUnF3dDlGRElxWFhJTmNtRVZMOUlkN0pTSzRfbHFkN1lxaVRmYk90RnVfeVVrbURSQzZrVEkzUDlkVWhjblN4SnBoOGF4Y0xVSGNJSmNNR3FUM3BEQ2FiVlFqTjlDZGFEdUxDZG5fWXh1a2l4eGEzMGYxdmc1amNmTEZGaHJLbUozVUotQW5BRjdZcVBhY1NnZDNwUXlFLWlZcTVUcGlVSlF6Q2Y1bG9XeGRfV0hHTGgxU0hqZ3RXX2tJVm9kVmcwVWtQUzIyTGp5QjRRV083Nml4RVdsR09DUG9faUZNY0R2b25zUjFoeE9LVmpwNFgzZUh1ZFZua29kMzJWNUVoX1J5dzlqRjUtc3lnX3hLOTFNUlBVb0xhWElUQURnUzJTVG1Xd0lZMm_SAbQCQVVfeXFMTW9PcUtmdEk5ekRSbUVPX3RaZnhVMEpjTHNFRWxfaEZ6ZEVWbWhucHNnV1Q0WXRXMXBvZUxWejhKbXd4bEtQY0FpRE80VDRUZF8tLWVfWDZIQzZVRXllZHNBdS03c1VKLUdia1Uxa2pOVkRCcjlrUlgyWEZRemhRZVlZZWR0dG1DUkQ1NG1yelRBVDFKOG8zVWFSUjZ2MmdCOUdaOVprSlVCazZSUXlqbDlTSEtDVGc0YlR6ZXJweHQwQVEzZWRoWkxHbFBEa2tuX2tWNUpXTFE4WHU2UUlTdDRhUmNOQzBGdWJ4cjd4UnZUTkYzbU00RkpVbTVwWXRrdzUzQ0E3UzNBWWxJUFY2WndWSFh6RG03S0xTMkdhclVUelk4OGc4T3E0WXVqdHV1RGVTV2Y?oc=5",
       "publishedAt": "Fri, 09 Oct 2026 10:16:27 GMT"
     },
     {
-      "title": "Stock Market Today Live Highlights: Sensex fell 1,045 points to settle at 71,593.24, while Nifty closed at 22,231.80 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxORkdKU1hkdFkwOW1pX1pLdHcxLTRlaWs3VUZzZkFVZzg2aUtBTkxGRWpXcVhlUk9tMDhMV1kzbEx5X29YM05hSmJSSkRwRnE5UHFKWERtRmMtQ2xFVWloMEZPbWM0ZUZBZnRMbHVDamp4dXhPMWFsSkhNYUw4c29SNUJ1MlV1d3p2bG00bGF2ZTVvZ3BzN2xBX1FUOHgzajljWUpNdHl5SGNSM2habjM0R0NRdzhNT2VVVE5HMXUxZTRfNWRuS2t2U1ZXYzZqN1FmaGJ1ZHYwR3hHTHVxdUVKb2RmWUlqM1ppWWg3d2ZtSlRPM1BXN0lUM1NkbERnRV9ULVdhY2xocnJFVERheTJ1Nll4YVpXQlo1aXBnbUt3eURoZ2ZPN0pMMlNkVEFmdDA2bzV1YdIBugJBVV95cUxOTVUxQXpUOWpKSVFPYnd2VFZxS3BWRlE3YmxDOEZmTU1Pdkk5ZUI0bFFPYVVQUjZVZVk0YV9kcmxQYjlyWEV2OXRISm0wQ2pERlZvdWpvOFVrSnNPekpjYjVOU19kRElGMjhFbTdPOGNfeEh0a0FnVWE2SlJMelU3a3pVeGdJWjFfY1FidGdsU2ZHSGFvZlZTN3habjUxSVhXcVZBYUp5VU5DZVlvYzhlTm9RYzNFNDk0Mm9pRURORU4tRHJDeFlpZnJlZ0hpVkd2cDN0R1hZNHAzTWZLTmdiamdhNTY2WGF5X0NRMmxEZUE2TUN1YlpEWVFIQ0RWZjVpMzR1aDlCcEE2VkZiZndVazM0VllYV09yRlVYNFpLa2p6aFRQWGRKXzdpMGRKX1pGVThIcVczMTJTdw?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 11:01:59 GMT"
-    },
-    {
-      "title": "Sensex | Stock Market Crash Highlights: Sensex plunges 1,045 pts, Nifty ends below 22,250; metal, realty indices drop over 3% - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVTNJMkF3SEZ0cUtHaExjQmZSZ3FEN1NDd0ZxS0VaaWZha216Y1hBQ25YYmx3UXlQX09OZDc4eHlmMXBSZnVmcXE1N29WNXZZc2lNUjVSTnFvMnh0VkRMeXhNZ01zTUk0NlpEWXhxcXRrbVpSb3BsSlR0dEcwWklRX1JRa1hPdTBFanpxZ2NwbWhVZUlSMHR1aS1RX1pJeFZ3QVhHU3JRMVlvUzhvVkQ1Umo3dW9ILTBzbkh1bGJNNV9yWWc0UVZER2lwVFlpUDhwb1hfekxWVnM0Nm5WazJkT2NRdWlBeU1xdXZqZC1Ma0dYR2hMSTEyUmMxeDl1X1hNcV9GZGF3d3dhd9IBjwJBVV95cUxORW5LT0hNWERDbWllaVhuNmFDYUo2cmdYOFNxUnphUUN4VG9WdFJuYVBmY2txNjJMMHJmYWlGTVR3ZGgxQzV3WG9oQnhhbTlkMzBtN1JRXzZmTXc0ZjZMaTMtWl83a1A1eXNxQ2lPblRDOXZRRjNMREFtTV9iVVBJUGhYVWZ4U2JaSUtFcnBfdDZYRVpmQ2VoSjVnQmZ6UjNNMUdOS3llTGRCZmw4aEJSRDZocHJzdkVmTWhBQlhrWV9INjZnam81eUlhTVVaV3hKekotTm9ZWHdjLXNzdGZVRjRQVW56S0tGQzIxajRXZWZmU21hQ1V4SXZLQVlUM0diZHpzQUVBNURvbFM5cWln?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 10:05:02 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights, Oct 8: Sensex tanks 1,045 pts, Nifty sheds 371 pts to close lower - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkE0eE9DdVVvenQtSlhveFQ1azVITW1kLWRmd3hDMGItSjhnTXlVTVpPYTRKdmFMYjlfSmI0RjBoWW9mT01HNWFzclJ4aFJQTmRPdXVkR0hrTy1JSWtRel9YOU94Z3FpbUZrR3puMTVEY01nTlBYVXdHTHg0ME5MbzV1TzVENkxMUUc3ajU2UTRkeThydl9EZjFBOTNmZDZfUk5zWDFXbWxKcXNDMmxaOU1UYzF6Y0tMeTdJbWhoRk1BeEZJNmg40gHOAUFVX3lxTE9CQ1pKSUVlaV9iWDJ4VHZnVkx2R2phZ1ZxUG1HaTZNLVc1V2xkaVNrTERZSENfQ2pBUWlVb2V3amNDRU0yclVYaVAtMG1jQzhRZ0FER0JjUzNTcEFSUUpsblhPNkNOWk1SbUdpVjk2WFI0MzJDeTI2TjZzSmpIdjN3Wl94LUNsdTNDSXRCYXB2VHVreGxrRFNFN1NQcUYzNWFZdm9IWXNtZnJTcWo2VHoyZHpyTVRHX1ZXdHVYNUJVTnZ2YVVjcjFUa3MwTzB3?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 10:58:57 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights, October 9: Sensex gains over 879.09 points, Nifty tops 22,520.45 as all sectoral indices turn green - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnliNTZxMzVPT08yZ1VxcWxnQlpwa210dXJjNWJ5MDU0MTVGZFR5U040WWk4Z3pOamc3dTNWSnJ0MXZPSlhYTWFSSko4UlFFYjU5anZQblNuTm9leXVWZnBiSlY3YlgzaVprTXVGX3QxRzNTXzNTME9jendma2JiTWV5SXQ5S1h1cjBra2Z5SjVoakV6cE1yVHpTeVkyRDViOFk5X1dMSjNfRHpCY283aHI5eGNzX25ENDBDcFZsamotcUhacGw00gHOAUFVX3lxTE9WTkdheGVJVU1ibjA3a1Y2S0xQVXVSbVdsOUp1OW12ZjVGVFJHVXpqb3hyZjY3bk1YRW01Y0dyVnJ3VkpfNVBtUmxlU3dSOGVKaG9vSWVFNDBfTGxNY1NabmdIRzdQU3RYX1BKbFE2M0h5T2ZBbTJUdjNkQTVoQ3hnOHlfR0pBNk9IRnlyOENQSHN2VnpWRE14ZTVXVFNjdV9sUW0wb3RSUGtfRE9pcTVBRl9GWDhaVkx5bUx2T1RzclpEdnF2c21zTm81WERR?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 11:19:51 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 9 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei 225 cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC1WdnJRY19KdE54clZ4cUV4VDRleVlxTW9oUmFFUmNfYUFHVmJHT0V4bHVHS3liRV9CMHdQM1ZFWGpfeDZNOHQ5T243MU9Ua1NsWG5CUjJHYWs2WURxVnhnUGtTTnh6WU9MRVFONkNCMjJsMmhmNi1EQzZ4d3RmNWZCMmtvNlF1UEpxVHZLdF9RUDdtNVlyQjBKVHJsWVpwaW5VN3VSV29DZ3BlU2xDb0xQNXlsNlZ0QkI1R1N3bGJoUThzMUJyX2ZLc1dMR3F4aGQwa0FmcmZMdjN3UnRyT3N2am5ORlNiLUhVMlV4Yldjbkg5MEplbkJYSklqZ9IBgwJBVV95cUxQMXhlbG1PMWg3UTJrZXJqM0lvQVJmUDRDWHUybVhHdHJqalJmeFI3NDhWQmtSZTFJUkY5eGd2XzZEc0FHWm8xUUIwZDNhN3QxaVdnMVdRYWJGTTh2SjFxSXJWVmR1MUJjTElDOXM2bUJFejF1VXJoeWhpQTMtQ19COXNsR3V0ZHlSSU9RODctSTZfQnZjbTBYNWRfNDlFYjFrMlJQc21Hc0hUOXloYkRTWHk2Y0pBWW0xb2o3TTQzdUJnTE1ybEhDeHBlNzFaVTdTa0luM0w4dkNjZzIxcUhtUllOWjJqQmdHTWZ4REJESjMzWC0zZ2Q0NkJuOHJmOEd4Wlk0?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 01:18:06 GMT"
+      "title": "Stock Market Crash Highlights: Nifty 50 Hits 18-Month Low; Sensex Tanks 1,100 Points; ITC, IndiGo Among Top Losers - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNnY5dGpwLU9uMXo2anhpYXg0R19kMjExRUZUWXBkLTJOcEtCU2l0NHppLTFGUzlnQ2VKQWpwZjd1TEZwUzFQb0tnZ2JXWHNHSF9GTjdqWDAzVWJobnBvc0k4djY3N1I3TGZJYVlhaHRwSTV6Vy1NTk1FbzJGbHNNQzgwcHJIV3JveG9FN2VHOHMyUXgzN3hiemtDVk5KeHRtMGdSZzVFM2FRTlVjQVRzLXY2d0NCRUJpc2JsR2hLUGNwMGhUOUFtTXJHZ05ZenpPVUQxWmFrNG4yZTJKaFpQaFRUN3RqamvSAe8BQVVfeXFMT0FjZkx1RndhTldidlhVV0JDRkVrNlp6R3gxYzIzckZWRVVtWHFOZ3VGWmlxVjhXOGRvc05EcXMzSFNrN3pMa3pOTnNVZVZRakNkZHl6Ty1UdVk5a0wtUGk2cmQ1bDlGWURXZS1pMmhXZ09BZUg5TVhuazhtR0QwMy1iVFpQU19MV0o5YVBkTGExbjNyRFpKa0hGTzFZUk01OTZDdU1HSmQ0TTNNN3QzSG1PVHd2RHhTQ0Rsd3p4aDdWWXk1QTFvMWYyd2U3a0RaT1dBMFpYRzlGOUk3VVcxeTh6OER3VndQTE1UNEV2d2c?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 10:42:49 GMT"
     },
     {
       "title": "Why Is Indian Stock Market Up Today? Sensex, Nifty Recover as TCS Shares Jump As IT Stock Rally; What Investors Should Know - The Sunday Guardian",
@@ -196,10 +182,40 @@
       "publishedAt": "Fri, 09 Oct 2026 05:08:24 GMT"
     },
     {
-      "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
+      "title": "Stock Market Close: Sensex tanks 1,045 pts, Nifty ends at 22,232 as oil tops $104; VIX jumps 10% - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTEhBcExsVldGWlNpZzhjVFZpV3dzd0F3TjdSQVZtSlM0V1hUSzh1Mk1IZER2aUVNNUR3NXhZU3JrYnI4UjB2WFMxcWZNSlptU2xPN1RhVlJEOEVmYk1DMTdpUkhEMXVZSzQwM0V1MFdGQUlRQm1lTVVXWVc4VUdWYzQ5eFVpTHgyckJIczBWNFBYdEs2U21qNFNNV3V3Y1FZRDdoVlVBd0pjWEVSRFdQVzloSnFkZ2UxY3NyVkdVMndNSDNra1BnSEROcGN3X0pxNnR0aGJTZS1hWTlzS05UbFVwcTJMblMya0NIb2RnU1RGS3NKSFlwb3JfMDNhV0xQVGNLTXpoVTY2RHZP0gGSAkFVX3lxTFBHcEw3S0lnbVI0M1pwcnR5dnBlSDdGNWJCWXVMbWtOb2Vlc0tiZjFrTXYxY0laS3E5bjVzTF9yU19paUs5VlNKTzRZcF93RUxOZmM1N1lkM0RlWks1OVZ0cDFaUmk4TFRBbUQzcExMeUYtSEVTZ0E2UTZydldQMWFFVnhIRW94ZDFoZDBTb3NEaXZlYW4xdlBoSXY1VGVKTGIyNmphaW5VZjZDWmRlalNKZEVCYjM2RThTbXJRWU9JX21iWEZLaVAwbWE4WGZMdXhCTUlaRUp1VGNSOEg4cFV6LTY5VkxuT1l0UG9fTzdvY2cxSzkza1NxTmJ6NHV1UG9PWUd3UGQ2Q09yNHBWWEFmVmc?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 10:21:57 GMT"
+    },
+    {
+      "title": "Stock Market Today Live Highlights: Sensex fell 1,045 points to settle at 71,593.24, while Nifty closed at 22,231.80 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxORkdKU1hkdFkwOW1pX1pLdHcxLTRlaWs3VUZzZkFVZzg2aUtBTkxGRWpXcVhlUk9tMDhMV1kzbEx5X29YM05hSmJSSkRwRnE5UHFKWERtRmMtQ2xFVWloMEZPbWM0ZUZBZnRMbHVDamp4dXhPMWFsSkhNYUw4c29SNUJ1MlV1d3p2bG00bGF2ZTVvZ3BzN2xBX1FUOHgzajljWUpNdHl5SGNSM2habjM0R0NRdzhNT2VVVE5HMXUxZTRfNWRuS2t2U1ZXYzZqN1FmaGJ1ZHYwR3hHTHVxdUVKb2RmWUlqM1ppWWg3d2ZtSlRPM1BXN0lUM1NkbERnRV9ULVdhY2xocnJFVERheTJ1Nll4YVpXQlo1aXBnbUt3eURoZ2ZPN0pMMlNkVEFmdDA2bzV1YdIBugJBVV95cUxOTVUxQXpUOWpKSVFPYnd2VFZxS3BWRlE3YmxDOEZmTU1Pdkk5ZUI0bFFPYVVQUjZVZVk0YV9kcmxQYjlyWEV2OXRISm0wQ2pERlZvdWpvOFVrSnNPekpjYjVOU19kRElGMjhFbTdPOGNfeEh0a0FnVWE2SlJMelU3a3pVeGdJWjFfY1FidGdsU2ZHSGFvZlZTN3habjUxSVhXcVZBYUp5VU5DZVlvYzhlTm9RYzNFNDk0Mm9pRURORU4tRHJDeFlpZnJlZ0hpVkd2cDN0R1hZNHAzTWZLTmdiamdhNTY2WGF5X0NRMmxEZUE2TUN1YlpEWVFIQ0RWZjVpMzR1aDlCcEE2VkZiZndVazM0VllYV09yRlVYNFpLa2p6aFRQWGRKXzdpMGRKX1pGVThIcVczMTJTdw?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 11:01:59 GMT"
+    },
+    {
+      "title": "Closing Bell: Market deep in red; Nifty below 22,250, Sensex tanks 1045 pts - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQcTRfalFkYnFRamgwNHR4LUhVU2ZoWVNGZ0RqcTNXYmI5YkpScE1uZFpJTk50Y1FYRWxzMkM5OEZkeTk5bE9EMTdRUjR3SjJBQmVseGl2MVlocFdlcEhhYkZOTXYyTF80b3FLangxLWs2V3BIVk1WX1RsRS1tR2t3d3lPcVZaZlMtalRBemZ1OWE2QUpfN2F1UTF3eWxBQUFCMzFuUUtrckduMnF3S09EVVkzYVlnNXlzWXE2emNQdThEamN6M21Lam1KMVJTSkRGVUpwMmRWYXFYdzJKS2pQczBpTEN0Qm5CN3doQ3BhdzFDcHVybTZmbm1XWVY1VjBoMUc0azgxZmMyMzRiVGxBRDBpMHpoMEFBU0tYTmJrQkhLOXfSAagCQVVfeXFMUHhITTdaeFBha0g4cWc2VUt3OTZkd2FhaWVWREhGRlBuT0JhakhZNDdfeHJJVGNYM0tSTGFtUVh5aUhsc2FIMDdZcnk5Yno4cFI5d1dsN21WejBuRlEtVWpqeHYtcnUyYk5XZE03MXdsRmsyOEJ5V25BRmZwQkVPQUY1Sl9mWHhnNWZ1ZFZHUE1CZy1rWHJ5ckp3WnlKOEU4SFY4aEVueWdPQ3R0NUtZZklQcHhzWm1iV2xwdGxEbk9Gb0MxVEpORzdHdEE2dEJBWFVJbFJOR1hoUF9pbU1XaTBkTWVNWHZqMjRMbTJyVHR3NTJGVVVQaFVFaUpyTHZQQ1ZSeTJ5N1dxSnJ4YWhqeGd5VDlvdjRDQVpNTWF1RlJ0TTI2OHJwSkU?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 12:27:44 GMT"
+    },
+    {
+      "title": "Sensex | Stock Market Crash Highlights: Sensex plunges 1,045 pts, Nifty ends below 22,250; metal, realty indices drop over 3% - The Economic Times",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRE9ZWkktb1FyQjlBajAxS2x3QlUtVTlWQ1JrTExXZkJwR0lkdVU2eDUxVEVMS0tVM3laSzZJbGZTOXd5TDVaN2JxNnVQSUNWY0g4VkVIa3piNHRSOHNfMjdRUTI0OWxvUTZzR2o1emtid0cyeWlkYmVHVE55Q0tsMmg2NmZJanlfdk0xSEc1SHhHalJBenk1LWo1Z2NrcW16THh3QnBxZENlYk1OUEZQbWZ5c3lHdGphT19PandhUWlQTFg4LVQ4UlM1aElEWDlJRWlkRU5QZVVQdDNULXBxc2J4WnlRdjZYSHFBY2dDOTYwRzVMSWlhVjBhRVY4QmJHRmlkQUVDRmRZbGNwU2fSAZMCQVVfeXFMTUh3UmRvR19UV2ZJWl9ueHVKcURVdWVwX0ZDNndScmhMR05wZEJ1OFJtdkc3QzNaUUtvVWIyeEp5S0FNT2s4U3pUSDhhOXduZmhfZVZkd0wtTHBPRlVfTjMtbWVhb2tab2M5RDlrYW01R1NOQ2x4S1k1M1hIVUpWS2NxM1FFQkREcEl3bnFvZWFCNVVfV0xvUlFXVWUzM0VTRUozVVUtVUhCSUo0QjMwYXA5N3ZQekJvVXRuQnRXUFJocDV2cDhseENrejVvcE9yeW1ZQkJLT2RzYXR0Z2lHaVMzUGRScEgtYzF2U1BRVHNaYTRtcEdtVEZOdFVLRXkyMC01dFh4MS1HR2dPYl9PdEk1bTA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 03:59:14 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVTNJMkF3SEZ0cUtHaExjQmZSZ3FEN1NDd0ZxS0VaaWZha216Y1hBQ25YYmx3UXlQX09OZDc4eHlmMXBSZnVmcXE1N29WNXZZc2lNUjVSTnFvMnh0VkRMeXhNZ01zTUk0NlpEWXhxcXRrbVpSb3BsSlR0dEcwWklRX1JRa1hPdTBFanpxZ2NwbWhVZUlSMHR1aS1RX1pJeFZ3QVhHU3JRMVlvUzhvVkQ1Umo3dW9ILTBzbkh1bGJNNV9yWWc0UVZER2lwVFlpUDhwb1hfekxWVnM0Nm5WazJkT2NRdWlBeU1xdXZqZC1Ma0dYR2hMSTEyUmMxeDl1X1hNcV9GZGF3d3dhd9IBjwJBVV95cUxORW5LT0hNWERDbWllaVhuNmFDYUo2cmdYOFNxUnphUUN4VG9WdFJuYVBmY2txNjJMMHJmYWlGTVR3ZGgxQzV3WG9oQnhhbTlkMzBtN1JRXzZmTXc0ZjZMaTMtWl83a1A1eXNxQ2lPblRDOXZRRjNMREFtTV9iVVBJUGhYVWZ4U2JaSUtFcnBfdDZYRVpmQ2VoSjVnQmZ6UjNNMUdOS3llTGRCZmw4aEJSRDZocHJzdkVmTWhBQlhrWV9INjZnam81eUlhTVVaV3hKekotTm9ZWHdjLXNzdGZVRjRQVW56S0tGQzIxajRXZWZmU21hQ1V4SXZLQVlUM0diZHpzQUVBNURvbFM5cWln?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 10:05:02 GMT"
+    },
+    {
+      "title": "Stock market crash: Terrible Thursday for Sensex, Nifty as over ₹7 lakh cr investors' wealth eroded - what went wrong? - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMHdWSkx2dmplRmZpc2h6eWtHLWFzam5YYTNITzVPYkVPVXZmdzJVZWdMZ3RWenZta3YtSENxd3RHSXN6VnNpS0ozc25MX2F3d0RyN0FVM1hGbzFTQ0JkMy1CMnhBRllnS1BHVzFrMG11czVOZGwwRWR2Wm45QU1YVzdCeExDblcyV3JkYnRCX0lTOC1ScTgxaWhkTm9xT2JaNThfR1V6SkxibnRxa25tTlAwaXo3Tmw3S2ZLVUU3Wm52OHh4c2o0Z2RTWXdIM0RqbHg2bEZCNE5OQk9MRUpEM0YxQ1VDRWlkZWZqTHEzZHF2NVpoSTJJZXZWLVM3bXVkNDJ6NUxMS3Nsc21ESnVUV0pB0gGXAkFVX3lxTE9Qb19PVWt3amZZSjRjc0cwUVlzRXlxQ0ZPcktCd1hxWDZpOTMxUldPRy1uRnBteWNiSGtGOUpoS1hJaUNheEtSRGNPMWVZOTlsODNkOTFrMXdBVHF6TVFaa2RWN0plMkt5VG1VMFAtMVVhVTcyejdLVkhyaFBrOGIzb3RKU2NJVjFPOGF4TTVxdy1RSUJZQnkxaFVlNUdxWldXajFEZkFUS21UWUNvdDJwWlZuckh4azRPSllmeHNoWVJBYlhBQkNNdTNEMlhIdDhPNGd1NVN3b3V5UXJ1QkxyZGNyRU1mc2pKdUZoeGVxMWJEUHM3b29SSUNHVXhXSHMyOWFOb290b2FldUZTU1BGR0w1MGNrQQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 06:53:40 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights, Oct 8: Sensex tanks 1,045 pts, Nifty sheds 371 pts to close lower - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkE0eE9DdVVvenQtSlhveFQ1azVITW1kLWRmd3hDMGItSjhnTXlVTVpPYTRKdmFMYjlfSmI0RjBoWW9mT01HNWFzclJ4aFJQTmRPdXVkR0hrTy1JSWtRel9YOU94Z3FpbUZrR3puMTVEY01nTlBYVXdHTHg0ME5MbzV1TzVENkxMUUc3ajU2UTRkeThydl9EZjFBOTNmZDZfUk5zWDFXbWxKcXNDMmxaOU1UYzF6Y0tMeTdJbWhoRk1BeEZJNmg40gHOAUFVX3lxTE9CQ1pKSUVlaV9iWDJ4VHZnVkx2R2phZ1ZxUG1HaTZNLVc1V2xkaVNrTERZSENfQ2pBUWlVb2V3amNDRU0yclVYaVAtMG1jQzhRZ0FER0JjUzNTcEFSUUpsblhPNkNOWk1SbUdpVjk2WFI0MzJDeTI2TjZzSmpIdjN3Wl94LUNsdTNDSXRCYXB2VHVreGxrRFNFN1NQcUYzNWFZdm9IWXNtZnJTcWo2VHoyZHpyTVRHX1ZXdHVYNUJVTnZ2YVVjcjFUa3MwTzB3?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 10:58:57 GMT"
     },
     {
       "title": "Closing Bell: Nifty at 22,600, Sensex down 429 pts after RBI hikes rate in nearly 4 yrs - Moneycontrol.com",
