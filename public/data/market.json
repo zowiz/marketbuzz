@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex surged nearly 900 points and Nifty reclaimed 22,500 led by IT and FMCG gains.",
+  "headline": "Last session: Sensex surged nearly 900 points as Nifty reclaimed 22,500 led by IT and FMCG sectors.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,24 +7,33 @@
     "nextOpen": "Monday, 12 October 2026"
   },
   "why": [
-    "IT sector jumped 3% during the last session, providing significant momentum to the benchmarks",
-    "FMCG sector saw strong buying interest, gaining over 2% on the last trading day",
-    "Market recovered sharply after a 1,000-point plunge earlier in the week",
-    "TCS shares jumped, triggering a broader rally across the information technology space"
+    "IT sector rally triggered by a significant jump in TCS shares",
+    "Market recovery following a major 1,000-point plunge in the previous session",
+    "Strong buying interest in the FMCG sector which gained over 2%",
+    "Positive reaction to CAS leading Nifty to close above the 22,500 level"
   ],
   "whatHappening": [
-    "HCL Tech is in focus as investors await Q2 results and a potential narrowing of its guidance",
-    "The government has released the draft National Steel Policy 2047, targeting a capacity of 604 MT",
-    "FMCG companies face margin pressure due to rising input costs despite a recovery in demand",
-    "The RBI is under pressure to defend the rupee as global economic factors mount"
+    "Nifty has successfully snapped an eight-week losing streak",
+    "Over 120 companies, including HDFC Bank and Wipro, are scheduled to report Q2 earnings this week",
+    "Fourteen stocks are scheduled to turn ex-record date for dividends, bonuses, and stock splits",
+    "Analysts are monitoring if the Nifty can maintain its position above the 200-week moving average"
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
       "sentiment": "Positive",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        5,
+        13
+      ]
+    },
+    {
+      "symbol": "HDFC BANK",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        1
       ]
     },
     {
@@ -32,7 +41,32 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        1,
+        6
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "VEDANTA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "OLA ELECTRIC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
       ]
     },
     {
@@ -52,29 +86,29 @@
       ]
     },
     {
-      "symbol": "ADANIENT",
+      "symbol": "ADANI CEMENT",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        2
+        8
       ]
     }
   ],
-  "summary": "The Indian stock market ended the last session on a high note, with the Sensex gaining nearly 900 points to recover from a previous crash. IT and FMCG sectors led the rally, with TCS seeing significant gains. Investors are now monitoring HCL Tech's upcoming Q2 results and the newly released National Steel Policy 2047.",
-  "updatedAt": "2026-10-11T06:01:51.668Z",
+  "summary": "The Indian stock market ended its last session on a high note, with the Sensex gaining nearly 900 points and Nifty closing above 22,500. This rally, driven by IT and FMCG sectors, helped Nifty snap an eight-week losing streak ahead of the Q2 earnings season. Investors are now preparing for a busy week featuring results from HDFC Bank and HCL Tech, alongside several corporate actions.",
+  "updatedAt": "2026-10-11T07:02:07.020Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-11",
   "articleKeys": [
+    "fampo talk niftys break above 22750 could open doors for 23000 sudeep shah picks 5 stocks for next week",
+    "earnings tracker hdfc bank hcl tech wipro among 129 companies set to report q2 results this week",
+    "weekly market outlook nifty snaps 8week losing streak but can bulls reclaim the crucial 200week moving average",
+    "michael prices investing tips avoid spreadsheet traps ignore market consensus and be a contrarian",
+    "cjp leaders released by magistrate told to maintain peace for one year",
+    "bonus dividends rights issues and stock splits tcs vedanta ola electric among 14 stocks turning exrecord date this week",
     "hcl tech q2 preview will the it major narrow its guidance 5 things to watch out for",
     "us may consider direct intervention in saudihouthi conflict after riyadh airport strike what trump said",
     "adani cement marks navratri with a 15000bag aerial tribute to maa durga",
     "situation remains tense in manipur as toll rises to 9 cm calls for peace",
-    "govt releases draft national steel policy 2047 targets 604 mt capacity",
-    "rising input costs to weigh on fmcg margins despite demand recovery in q2",
-    "delhi protest day 2 cjp leaders released traffic curbs to continue",
-    "delhi cjp protests abhijeet dipke saurav das ashutosh ranka released by court on second day",
-    "rupee defence raises question of how far rbi will go as pressure mounts",
-    "dhruv rathee released from detention police says can be detained again",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
@@ -87,6 +121,42 @@
     "five reasons indias stock market is sinking even when its economy is growing bbc"
   ],
   "articles": [
+    {
+      "title": "F&amp;O Talk: Nifty’s break above 22,750 could open doors for 23,000; Sudeep Shah picks 5 stocks for next week",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-22750-could-open-doors-for-23000-sudeep-shah-picks-5-stocks-for-next-week/articleshow/134866209.cms",
+      "publishedAt": "Sun, 11 Oct 2026 11:50:50 +0530"
+    },
+    {
+      "title": "Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/earnings-tracker-hdfc-bank-hcl-tech-wipro-among-129-companies-set-to-report-q2-results-this-week/articleshow/134866148.cms",
+      "publishedAt": "Sun, 11 Oct 2026 11:44:41 +0530"
+    },
+    {
+      "title": "Weekly Market Outlook: Nifty snaps 8-week losing streak, but can bulls reclaim the crucial 200-week moving average?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-market-outlook-nifty-snaps-8-week-losing-streak-but-can-bulls-reclaim-the-crucial-200-week-moving-average/articleshow/134865763.cms",
+      "publishedAt": "Sun, 11 Oct 2026 11:26:55 +0530"
+    },
+    {
+      "title": "Michael Price’s investing tips: Avoid spreadsheet traps, ignore market consensus and be a contrarian",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/michael-prices-investing-tips-avoid-spreadsheet-traps-ignore-market-consensus-and-be-a-contrarian/articleshow/134865689.cms",
+      "publishedAt": "Sun, 11 Oct 2026 11:18:03 +0530"
+    },
+    {
+      "title": "CJP leaders released by magistrate, told to maintain peace for one year",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/cjp-leaders-released-by-magistrate-told-to-maintain-peace-for-one-year-126101100154_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 11:10:45 +0530"
+    },
+    {
+      "title": "Bonus, dividends, rights issues and stock splits: TCS, Vedanta, Ola Electric among 14 stocks turning ex-record date this week",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-rights-issues-and-stock-splits-tcs-vedanta-ola-electric-among-14-stocks-turning-ex-record-date-this-week/articleshow/134865638.cms",
+      "publishedAt": "Sun, 11 Oct 2026 11:09:05 +0530"
+    },
     {
       "title": "HCL Tech Q2 Preview: Will the IT major narrow its guidance? 5 things to watch out for",
       "source": "Zerodha Pulse",
@@ -110,42 +180,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/india-news/situation-remains-tense-in-manipur-as-toll-rises-to-9-cm-calls-for-peace-126101100131_1.html",
       "publishedAt": "Sun, 11 Oct 2026 10:43:22 +0530"
-    },
-    {
-      "title": "Govt releases draft National Steel Policy 2047, targets 604 MT capacity",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/govt-releases-draft-national-steel-policy-2047-targets-604-mt-capacity-126101100130_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 10:42:51 +0530"
-    },
-    {
-      "title": "Rising input costs to weigh on FMCG margins despite demand recovery in Q2",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/rising-input-costs-to-weigh-on-fmcg-margins-despite-demand-recovery-in-q2-126101100107_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 10:34:21 +0530"
-    },
-    {
-      "title": "Delhi protest Day 2: CJP leaders released, traffic curbs to continue",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/delhi-protests-cjp-abhijeet-dipke-ranka-detained-police-traffic-diversions-126101100117_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 10:33:47 +0530"
-    },
-    {
-      "title": "Delhi CJP Protests: Abhijeet Dipke, Saurav Das, Ashutosh Ranka Released By Court On Second Day",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-cjp-protests-abhijeet-dipke-saurav-das-ashutosh-ranka-released-by-court-on-second-day-of-standoff-12168643#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 10:32:49 +0530"
-    },
-    {
-      "title": "Rupee defence raises question of how far RBI will go as pressure mounts",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/finance/news/rupee-defence-raises-question-of-how-far-rbi-will-go-as-pressure-mounts-126101100137_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 10:27:15 +0530"
-    },
-    {
-      "title": "Dhruv Rathee Released From Detention, Police Says Can Be Detained Again",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/cjp-protest-in-jantar-mantar-youtuber-dhruv-rathee-released-from-detention-delhi-police-12168574#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 10:21:45 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
