@@ -1,47 +1,97 @@
 {
-  "headline": "On last trading day, Sensex surged 1,000 points and Nifty reclaimed 22,550 led by an IT sector rally.",
+  "headline": "On last trading day, Sensex jumped over 1,000 points as Nifty reclaimed 22,550 led by IT sector rally.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 12 October.",
-    "nextOpen": "Monday, 12 October"
+    "nextOpen": "Monday, 12 October 2026"
   },
   "why": [
-    "IT sector surged 3% led by a significant rally in TCS shares",
-    "FMCG sector gained over 2% providing strong market support",
-    "Indices recovered sharply from the previous session's 1,000-point crash",
-    "Sensex jumped over 1,000 points to reclaim the 22,550 level"
+    "IT stocks rallied significantly, with the sector jumping 3% on Friday.",
+    "Sensex jumped over 1,000 points as Nifty reclaimed the 22,550 level.",
+    "FMCG sector gains of over 2% provided additional support to the indices.",
+    "TCS shares surged, leading a broader recovery in the IT index."
   ],
   "whatHappening": [
-    "Multiple IPOs including HD Fire Protect and Fusion CX are hitting the primary market this week",
-    "Investors are tracking dividend record dates for major stocks like TCS and Vedanta",
-    "FM Sitharaman met top executives of global investment funds to discuss India opportunities",
-    "Geopolitical tensions escalated following a missile attack on Riyadh airport"
+    "Multiple IPOs including HD Fire Protect and Fusion CX are set to launch this week.",
+    "Corporate actions are scheduled for companies including TCS, Ola Electric, and Anand Rathi.",
+    "Dividend record dates are approaching for Vedanta, Canara Robeco, and TCS.",
+    "Geopolitical tensions rose following a missile strike and casualties at Riyadh airport."
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 3/8 sources",
       "articleIds": [
-        2,
+        4,
+        6,
+        12,
         13
       ]
     },
     {
-      "symbol": "VEDL",
+      "symbol": "OLA ELECTRIC",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        2
+        4
       ]
     },
     {
-      "symbol": "ITC",
-      "sentiment": "Negative",
+      "symbol": "ANAND RATHI",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        14
+        4
+      ]
+    },
+    {
+      "symbol": "VEDANTA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "CANARA ROBECO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "HD FIRE PROTECT",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "FUSION CX",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "VAIBHAV VYAPAAR",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "RAVITA ENGINEERING SERVICES",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
       ]
     },
     {
@@ -53,21 +103,21 @@
       ]
     }
   ],
-  "summary": "The Indian market ended the last session with a strong recovery as the Sensex gained over 1,000 points.\nIT and FMCG sectors led the gains, while investors now focus on upcoming IPOs and dividend record dates.\nGlobal geopolitical tensions and FM Sitharaman's meetings with international investors remain key highlights over the weekend.",
-  "updatedAt": "2026-10-11T02:02:03.548Z",
+  "summary": "The Indian market is closed for the weekend after a strong Friday session where the Sensex surged over 1,000 points.\nInvestors are preparing for a busy week featuring multiple IPO launches and significant corporate actions from companies like TCS.\nGlobal sentiment is being monitored following reports of a missile attack on Riyadh airport.",
+  "updatedAt": "2026-10-11T03:34:52.657Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-11",
   "articleKeys": [
+    "anthropic reveals claude ai model went rogue submitted fake tip to police submitted false tip in homicide case",
+    "india bloc plans protest march in delhi on monday seeks cjis intervention",
+    "12 killed over 300 injured in latest attack on saudis riyadh airport",
     "how a fistfight helped fix your eyesight and more",
+    "corporate actions this week tcs ola electric anand rathi more in focus full list",
     "ipos this week hd fire protect fusion cx vaibhav vyapaar ravita engineering services to hit primary market",
     "dividend stocks to watch this week tcs vedanta canara robeco check amount record date",
     "delhi traffic curbs to continue sunday diversions likely at 30 key points",
     "missile strikes passenger terminal at riyadh airport many wounded",
     "goa welcomes 769 million tourists in first nine months as govt pushes yearround travel",
-    "us may join saudi strikes on houthis after riyadh airport attack trump",
-    "this sisterduo left stable corporate jobs they now run a rs 735 crore suta business",
-    "us wanted israel to strike iran alone then backed off over election fears report",
-    "fm sitharaman meets top executives of global investment funds banks discusses investment opportunities in india",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
@@ -81,10 +131,34 @@
   ],
   "articles": [
     {
+      "title": "Anthropic Reveals Claude AI Model Went Rogue, Submitted Fake Tip To Police Submitted False Tip In Homicide Case",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/anthropic-reveals-claude-ai-model-went-rogue-submitted-fake-tip-to-police-submitted-false-tip-in-homicide-case-12168216#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 07:41:17 +0530"
+    },
+    {
+      "title": "INDIA bloc plans protest march in Delhi on Monday, seeks CJI's intervention",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/politics/india-bloc-plans-protest-march-in-delhi-on-monday-seeks-cji-s-intervention-126101100006_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 07:40:45 +0530"
+    },
+    {
+      "title": "12 killed, over 300 injured in latest attack on Saudi's Riyadh airport",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/world-news/12-killed-over-300-injured-in-latest-attack-on-saudi-s-riyadh-airport-126101100047_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 07:27:48 +0530"
+    },
+    {
       "title": "How a fistfight helped fix your eyesight and more...",
       "source": "Zerodha Pulse",
       "link": "https://finshots.in/archive/how-a-fistfight-helped-fix-your-eyesight-and-more/",
       "publishedAt": "Sun, 11 Oct 2026 07:00:11 +0530"
+    },
+    {
+      "title": "Corporate Actions This Week: TCS, Ola Electric, Anand Rathi & More In Focus | Full List",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-tcs-ola-electric-anand-rathi-more-in-focus-full-list-12166717#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 07:00:01 +0530"
     },
     {
       "title": "IPOs This Week: HD Fire Protect, Fusion CX, Vaibhav Vyapaar, Ravita Engineering Services To Hit Primary Market",
@@ -115,30 +189,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/economy/goa-welcomes-7-69-million-tourists-in-first-nine-months-as-govt-pushes-year-round-travel-12167609#publisher=newsstand",
       "publishedAt": "Sat, 10 Oct 2026 23:28:56 +0530"
-    },
-    {
-      "title": "US 'may' join Saudi strikes on Houthis after Riyadh airport attack: Trump",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/us-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attack-trump-126101000984_1.html",
-      "publishedAt": "Sat, 10 Oct 2026 23:05:19 +0530"
-    },
-    {
-      "title": "This Sister-Duo Left Stable Corporate Jobs. They Now Run A Rs 73.5 Crore 'Suta' Business",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/this-sister-duo-left-stable-corporate-jobs-they-now-run-a-rs-73-5-crore-suta-business-12165891#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 22:42:59 +0530"
-    },
-    {
-      "title": "US Wanted Israel To Strike Iran Alone, Then Backed Off Over Election Fears: Report",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/us-wanted-israel-to-strike-iran-alone-then-backed-off-over-election-fears-report-12167516#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 22:40:18 +0530"
-    },
-    {
-      "title": "FM Sitharaman Meets Top Executives Of Global Investment Funds, Banks; Discusses Investment Opportunities In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/fm-sitharaman-meets-top-executives-of-global-investment-funds-banks-discusses-investment-opportunities-in-india-12167510#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 22:39:24 +0530"
     },
     {
       "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
