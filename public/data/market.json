@@ -1,60 +1,107 @@
 {
-  "headline": "Last session: Sensex jumped nearly 900 points and Nifty topped 22,500 amid a broad sectoral rally.",
+  "headline": "On last trading day, Sensex jumped 900 points as IT and FMCG stocks led a sharp recovery",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 13 October.",
-    "nextOpen": "Tuesday, 13 October 2026"
+    "nextOpen": "Tuesday, 13 October"
   },
   "why": [
-    "Strong recovery in IT stocks led by TCS",
-    "FMCG sector gains of over 2%",
-    "Broad-based buying across all sectoral indices",
-    "Positive market sentiment following the CAS announcement"
+    "IT stocks rallied significantly with major gains in heavyweights like TCS",
+    "Strong buying interest in the FMCG sector boosted overall market sentiment",
+    "All sectoral indices turned green as the market recovered from eight weeks of losses",
+    "Positive global cues and short-covering contributed to the Sensex jumping over 800 points"
   ],
   "whatHappening": [
-    "Brigade Enterprises aims for 21% rise in FY27 pre-sales",
-    "Udaan targets an IPO by early 2028 as turnaround takes hold",
-    "Investors prepare for Q2 earnings, inflation data, and US CPI",
-    "Gold and silver prices expected to remain range-bound"
+    "Government unveils New Steel Policy Vision 2047 targeting 600 MT output and raw material security",
+    "Adani's Kutch Copper plans to integrate 115-MW renewable energy to lower emissions",
+    "RBI's rupee defence measures are expected to drain banking system liquidity",
+    "Reports emerge of an 'energy ceasefire' between Russia and Ukraine according to Donald Trump"
   ],
   "stocksInNews": [
     {
-      "symbol": "BRIGADE",
+      "symbol": "TCS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        0
+        15
       ]
     },
     {
-      "symbol": "TCS",
+      "symbol": "ADANIENT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/11 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        11,
-        15
+        5
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "SUZLON",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "CANBK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "MANAPPURAM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "PGHH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "ATHER",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        9
       ]
     }
   ],
-  "summary": "On the last trading day, the Indian market saw a robust recovery with the Sensex gaining nearly 900 points and Nifty closing above 22,500. This rally was primarily driven by the IT and FMCG sectors, with TCS leading the gains. Currently, the market is closed for the weekend and will reopen on Tuesday.",
-  "updatedAt": "2026-10-11T15:34:42.309Z",
+  "summary": "The Indian stock market ended its last session with a massive rally, as the Sensex surged nearly 900 points and the Nifty reclaimed the 22,500 level. The recovery was broad-based, led by a 3% jump in IT stocks and strong performance in the FMCG sector. While the market remains closed for the weekend, investors are monitoring new government steel policies and geopolitical developments in the Middle East and Ukraine.",
+  "updatedAt": "2026-10-11T17:02:14.634Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-11",
   "articleKeys": [
-    "brigade enterprises aims 21 rise in fy27 presales on strong housing demand md",
-    "ramayana part 1 advance bookings to open on dussehra",
-    "rahul gandhi announces march to sc on monday seeks cecs resignation",
-    "around 1000 exflipkart staff approach walmart over stock option liquidity",
-    "amazon sale 2026 premium smartphones under rs 80000",
-    "gold silver set for rangebound week as rupee weakness offers support analysts",
-    "hanuman ansh box office collection day 65 vishal chaturvedis spiritual drama shows strong growth",
-    "the week ahead inflation data q2 earnings ipos us cpi in focus",
-    "b2b ecom platform udaan targets ipo by early 2028 as turnaround takes hold",
-    "upi mdr framework needs rationalisation to protect public trust report",
-    "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
+    "new steel policy vision 2047 aims 600 mt steel output increased raw material security higher exports",
+    "riyadh airport hit again trump weighs joining saudi campaign",
+    "drishyam the conclusion box office collection day 10 ajay devgn starrer continues strong run",
+    "russia ukraine agree to energy ceasefire says donald trump",
+    "rbis rupee defence may drain banking liquidity ease currency pressure",
+    "adanis kutch copper plans 115mw renewable energy integration targets lower emissions",
+    "gulf markets end lower as riyadh airport attack fuels tensions",
+    "trump says russia and ukraine reach energy ceasefire but gives no details",
+    "jailer 2 day 1 advance bookings rajinikanth starrer sees strong ticket sales before release",
+    "buy sell or hold sbi ather energy suzlon canara bank manappuram finance pg hygiene ask profit",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
+    "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "stock market today highlights october 9 sensex gains over 87909 points nifty tops 2252045 as all sectoral indices turn green businessline",
     "indian stock market outlook next week 1216 oct sensex nifty likely to extend recovery after 8week losses goodreturns",
     "why is indian stock market up today sensex nifty recover as tcs shares jump as it stock rally what investors should know the sunday guardian",
@@ -65,70 +112,64 @@
   ],
   "articles": [
     {
-      "title": "Brigade Enterprises Aims 21% Rise In FY27 Pre-Sales On Strong Housing Demand: MD",
+      "title": "New Steel Policy Vision 2047 Aims 600 MT Steel Output, Increased Raw Material Security, Higher Exports",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/brigade-enterprises-aims-21-per-cent-rise-in-fy27-pre-sales-on-strong-housing-demand-md-pavitra-shankar-12170378#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 19:57:54 +0530"
+      "link": "https://www.ndtvprofit.com/economy/new-steel-policy-vision-2047-aims-600-mt-steel-output-increased-raw-material-security-higher-exports-12170745#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 21:55:48 +0530"
     },
     {
-      "title": "Ramayana Part 1 Advance Bookings To Open On Dussehra",
+      "title": "Riyadh Airport Hit Again, Trump Weighs Joining Saudi Campaign",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/ramayana-part-1-advance-bookings-to-open-on-dussehra-12170272#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 19:26:12 +0530"
+      "link": "https://www.ndtvprofit.com/world/riyadh-airport-hit-again-trump-weighs-joining-saudi-campaign-12170626#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 21:13:08 +0530"
     },
     {
-      "title": "Rahul Gandhi announces march to SC on Monday, seeks CEC's resignation",
+      "title": "Drishyam: The Conclusion Box Office Collection Day 10: Ajay Devgn Starrer Continues Strong Run",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/politics/rahul-gandhi-announces-march-to-sc-on-monday-seeks-cec-s-resignation-126101100586_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 19:15:02 +0530"
+      "link": "https://www.ndtvprofit.com/business/drishyam-the-conclusion-box-office-collection-day-10-ajay-devgn-starrer-continues-strong-run-12170625#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 21:08:47 +0530"
     },
     {
-      "title": "Around 1,000 ex-Flipkart staff approach Walmart over stock option liquidity",
+      "title": "Russia, Ukraine Agree To 'Energy Ceasefire', Says Donald Trump",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/around-1-000-ex-flipkart-staff-approach-walmart-over-stock-option-liquidity-126101100585_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 19:13:31 +0530"
+      "link": "https://www.ndtvprofit.com/markets/russia-ukraine-agree-to-energy-ceasefire-says-donald-trump-12170485#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 20:59:52 +0530"
     },
     {
-      "title": "Amazon Sale 2026: Premium Smartphones Under Rs 80,000",
+      "title": "RBI's Rupee Defence May Drain Banking Liquidity, Ease Currency Pressure",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/amazon-sale-2026-premium-smartphones-under-rs-80-000-12170093#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 19:07:18 +0530"
+      "link": "https://www.ndtvprofit.com/economy/rbis-rupee-defence-may-drain-banking-liquidity-ease-currency-pressure-12170563#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 20:53:41 +0530"
     },
     {
-      "title": "Gold, Silver Set For Range-Bound Week As Rupee Weakness Offers Support: Analysts",
+      "title": "Adani's Kutch Copper Plans 115-Mw Renewable Energy Integration, Targets Lower Emissions",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/gold-silver-set-for-range-bound-week-as-rupee-weakness-offers-support-analysts-12170035#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 18:59:10 +0530"
+      "link": "https://www.ndtvprofit.com/business/adanis-kutch-copper-plans-115-mw-renewable-energy-integration-targets-lower-emissions-12170587#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 20:42:58 +0530"
     },
     {
-      "title": "Hanuman Ansh Box Office Collection Day 65: Vishal Chaturvedi's Spiritual Drama Shows Strong Growth",
+      "title": "Gulf Markets End Lower As Riyadh Airport Attack Fuels Tensions",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/hanuman-ansh-box-office-collection-day-65-vishal-chaturvedi-film-shows-strong-growth-12170167#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 18:52:51 +0530"
+      "link": "https://www.ndtvprofit.com/markets/gulf-markets-end-lower-as-riyadh-airport-attack-fuels-tensions-12170469#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 20:27:50 +0530"
     },
     {
-      "title": "The Week Ahead: Inflation Data, Q2 Earnings, IPOs, US CPI In Focus",
+      "title": "Trump says Russia and Ukraine reach 'energy ceasefire' but gives no details",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/the-week-ahead-inflation-data-q2-earnings-ipos-us-cpi-in-focus-12170174#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 18:44:39 +0530"
+      "link": "https://www.business-standard.com/world-news/trump-says-russia-and-ukraine-reach-energy-ceasefire-but-gives-no-details-126101100668_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 20:25:17 +0530"
     },
     {
-      "title": "B2B ecom platform Udaan targets IPO by early 2028 as turnaround takes hold",
+      "title": "Jailer 2 Day 1 Advance Bookings: Rajinikanth Starrer Sees Strong Ticket Sales Before Release",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/b2b-ecom-platform-udaan-targets-ipo-by-early-2028-as-turnaround-takes-hold-126101100549_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 18:41:04 +0530"
+      "link": "https://www.ndtvprofit.com/business/entertainment-cinema-kollywood-movie-jailer-2-day-1-advance-bookings-rajinikanth-tamil-film-ticket-sales-pre-release-box-office-collection-12170410#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 20:19:54 +0530"
     },
     {
-      "title": "UPI MDR Framework Needs Rationalisation To Protect Public Trust: Report",
+      "title": "Buy, Sell Or Hold: SBI, Ather Energy, Suzlon, Canara Bank, Manappuram Finance, P&G Hygiene | Ask Profit",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/upi-mdr-framework-needs-rationalisation-to-protect-public-trust-report-12170116#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 18:38:45 +0530"
-    },
-    {
-      "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRE9ZWkktb1FyQjlBajAxS2x3QlUtVTlWQ1JrTExXZkJwR0lkdVU2eDUxVEVMS0tVM3laSzZJbGZTOXd5TDVaN2JxNnVQSUNWY0g4VkVIa3piNHRSOHNfMjdRUTI0OWxvUTZzR2o1emtid0cyeWlkYmVHVE55Q0tsMmg2NmZJanlfdk0xSEc1SHhHalJBenk1LWo1Z2NrcW16THh3QnBxZENlYk1OUEZQbWZ5c3lHdGphT19PandhUWlQTFg4LVQ4UlM1aElEWDlJRWlkRU5QZVVQdDNULXBxc2J4WnlRdjZYSHFBY2dDOTYwRzVMSWlhVjBhRVY4QmJHRmlkQUVDRmRZbGNwU2fSAZMCQVVfeXFMTUh3UmRvR19UV2ZJWl9ueHVKcURVdWVwX0ZDNndScmhMR05wZEJ1OFJtdkc3QzNaUUtvVWIyeEp5S0FNT2s4U3pUSDhhOXduZmhfZVZkd0wtTHBPRlVfTjMtbWVhb2tab2M5RDlrYW01R1NOQ2x4S1k1M1hIVUpWS2NxM1FFQkREcEl3bnFvZWFCNVVfV0xvUlFXVWUzM0VTRUozVVUtVUhCSUo0QjMwYXA5N3ZQekJvVXRuQnRXUFJocDV2cDhseENrejVvcE9yeW1ZQkJLT2RzYXR0Z2lHaVMzUGRScEgtYzF2U1BRVHNaYTRtcEdtVEZOdFVLRXkyMC01dFh4MS1HR2dPYl9PdEk1bTA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 03:59:14 GMT"
+      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-sbi-ather-energy-suzlon-canara-bank-manappuram-finance-pg-hygiene-cupid-urban-company-ask-profit-12169437#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 20:10:17 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
@@ -141,6 +182,12 @@
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQREJiUkQzbWYzbVdRNFpxSmx5bTZlRVU4ZWJfZHo5OU55Z1pkcW81d01PNE01ZEh4ZzFHNE81bVJkZG5odWc5SmppUzVFOG1PV2NqTzFDczExcld4WWZuajhrSFJseU5ja284d2VqRlNzNElPRkJTRXVmaUF3bUVUX0tvRHFyTnVDYmhKRGs1alpsQXM3aTF3ME16MWl1RnJRMTB4MWNlbVBIY2NaQzhBWnlZUk1fNWhaUlVfX2RGMVkydEZyVXlHWEtXVjIyLWR3N0Z1TGF3bTI2VWRMTWpEeHBSU25GUlFDNThQNlVkeldyLW9aS3lLWEw3QllickZweU9tZ2NtLUphZmxpRFpBbkl2Tnc3V2Rtd0VIMy1qM1VfWS1xS1lMbXRZQUkyYm9FS3M4VNIBugJBVV95cUxQNWdYLTMwNWdrMkNtc0JpYWNMbW50WFRuNTlBakNaSEVQbDA3VDZVSm9EN0lvQzFNWE5VT1Fhb2Q5LV93bHpPVWZMM0hDZlF0N2ZTSnZmeVZ2Q0EwX1l2aEQ1UlJpVVJiMXk4aE1PczlzV1J0T1cwOC1acXlPSWtZcU9CQTdfOVpCdXI3aExQSlI0VkVnV3FyRmhHaUJqQnl2eF80bjZQdWZqbzcyNkxzZ3RscmhpeFN4VUFGSEJScGJsMC10MndYMk1sY2tFZ2JOSVF4SVNTYWowcmFwSFl5X19LZDlQcWYzcXl2WVU3YUU4SDFjS09UUVJBeHdTRVlDQ2d3UTQzRUJkWEMtR01UNjQtV3VuUk9RV2hrMGFCeEVleWt1TGdJUnpNbkNBS3dRb2tSWDdSSzRTUQ?oc=5",
       "publishedAt": "Fri, 09 Oct 2026 11:14:00 GMT"
+    },
+    {
+      "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRE9ZWkktb1FyQjlBajAxS2x3QlUtVTlWQ1JrTExXZkJwR0lkdVU2eDUxVEVMS0tVM3laSzZJbGZTOXd5TDVaN2JxNnVQSUNWY0g4VkVIa3piNHRSOHNfMjdRUTI0OWxvUTZzR2o1emtid0cyeWlkYmVHVE55Q0tsMmg2NmZJanlfdk0xSEc1SHhHalJBenk1LWo1Z2NrcW16THh3QnBxZENlYk1OUEZQbWZ5c3lHdGphT19PandhUWlQTFg4LVQ4UlM1aElEWDlJRWlkRU5QZVVQdDNULXBxc2J4WnlRdjZYSHFBY2dDOTYwRzVMSWlhVjBhRVY4QmJHRmlkQUVDRmRZbGNwU2fSAZMCQVVfeXFMTUh3UmRvR19UV2ZJWl9ueHVKcURVdWVwX0ZDNndScmhMR05wZEJ1OFJtdkc3QzNaUUtvVWIyeEp5S0FNT2s4U3pUSDhhOXduZmhfZVZkd0wtTHBPRlVfTjMtbWVhb2tab2M5RDlrYW01R1NOQ2x4S1k1M1hIVUpWS2NxM1FFQkREcEl3bnFvZWFCNVVfV0xvUlFXVWUzM0VTRUozVVUtVUhCSUo0QjMwYXA5N3ZQekJvVXRuQnRXUFJocDV2cDhseENrejVvcE9yeW1ZQkJLT2RzYXR0Z2lHaVMzUGRScEgtYzF2U1BRVHNaYTRtcEdtVEZOdFVLRXkyMC01dFh4MS1HR2dPYl9PdEk1bTA?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 03:59:14 GMT"
     },
     {
       "title": "Stock Market Today Highlights, October 9: Sensex gains over 879.09 points, Nifty tops 22,520.45 as all sectoral indices turn green - BusinessLine",
