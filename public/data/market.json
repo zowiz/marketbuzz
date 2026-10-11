@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex jumped over 800 points as Nifty reclaimed 22,500 led by IT and FMCG.",
+  "headline": "Last session: Sensex jumped nearly 900 points as Nifty reclaimed 22,500 led by a rally in IT stocks",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,32 +7,43 @@
     "nextOpen": "Monday, 12 October 2026"
   },
   "why": [
-    "Strong rally in IT stocks with TCS shares jumping as part of a sectoral surge.",
-    "Market recovery after the Sensex plunged 1,045 points in the previous session.",
-    "Positive sentiment following SEBI's announcement regarding upcoming CAS guidelines.",
-    "Broad-based buying across all sectoral indices with FMCG gaining over 2%."
+    "Significant jump in IT stocks, with the sector gaining 3% in the last session",
+    "Broad-based recovery as all sectoral indices ended in the green on Friday",
+    "Positive sentiment following SEBI's plan to issue new CAS guidelines within a week",
+    "Strong buying in FMCG stocks which gained over 2% during Friday's trade"
   ],
   "whatHappening": [
-    "FM Sitharaman met with global investment fund executives to discuss Indian opportunities.",
-    "A missile strike at Riyadh airport has wounded many, raising geopolitical concerns.",
-    "Goa's tourism sector recorded 7.69 million visitors in the first nine months of 2026.",
-    "Delhi traffic curbs and diversions are expected to continue through Sunday at 30 points."
+    "Sensex surged nearly 900 points to settle at higher levels after Thursday's sharp crash",
+    "TCS and Vedanta are among the key stocks in focus this week due to dividend record dates",
+    "Finance Minister Sitharaman is engaging with global investors to discuss Indian market opportunities",
+    "Geopolitical risks have escalated following a missile strike on a passenger terminal at Riyadh airport"
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
       "sentiment": "Positive",
+      "sources": "Mentioned by 3/7 sources",
+      "articleIds": [
+        0,
+        12,
+        15
+      ]
+    },
+    {
+      "symbol": "VEDL",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        15
+        0
       ]
     }
   ],
-  "summary": "The Indian stock market is closed for the weekend following a strong recovery in the last session. The Sensex and Nifty surged as IT and FMCG sectors rallied, with TCS showing significant gains. Investors are now looking ahead to new SEBI guidelines and monitoring geopolitical developments in the Middle East.",
-  "updatedAt": "2026-10-10T23:48:00.251Z",
+  "summary": "On the last trading day, Indian markets staged a strong recovery with the Sensex jumping nearly 900 points to close above 22,500. The rally was driven by a 3% surge in IT stocks and gains in the FMCG sector. Markets are currently closed for the weekend and will resume trading on Monday.",
+  "updatedAt": "2026-10-11T01:01:53.430Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-11",
   "articleKeys": [
+    "dividend stocks to watch this week tcs vedanta canara robeco check amount record date",
     "delhi traffic curbs to continue sunday diversions likely at 30 key points",
     "missile strikes passenger terminal at riyadh airport many wounded",
     "goa welcomes 769 million tourists in first nine months as govt pushes yearround travel",
@@ -42,7 +53,6 @@
     "fm sitharaman meets top executives of global investment funds banks discusses investment opportunities in india",
     "sebi to issue guidelines on cas in a week chairman pandey",
     "super micro contractor pleads guilty in 25 billion ai chip diversion case linked to china",
-    "ranveer singh adds bmw i7 luxury electric sedan to his car collection",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
@@ -55,6 +65,12 @@
     "stock market outlook today 9 oct sensex nifty prediction djia sp nasdaq gift nifty nikkei 225 cues livemint"
   ],
   "articles": [
+    {
+      "title": "Dividend Stocks To Watch This Week: TCS, Vedanta, Canara Robeco; Check Amount, Record Date",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/dividend-stocks-to-watch-this-week-tcs-vedanta-canara-robeco-check-amount-record-date-12165864#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 05:22:11 +0530"
+    },
     {
       "title": "Delhi traffic curbs to continue Sunday, diversions likely at 30 key points",
       "source": "Zerodha Pulse",
@@ -108,12 +124,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/world/super-micro-contractor-pleads-guilty-in-2-5-billion-ai-chip-diversion-case-linked-to-china-12167240#publisher=newsstand",
       "publishedAt": "Sat, 10 Oct 2026 22:18:42 +0530"
-    },
-    {
-      "title": "Ranveer Singh Adds BMW i7 Luxury Electric Sedan To His Car Collection",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/ranveer-singh-adds-bmw-i7-luxury-electric-sedan-to-his-car-collection-12166478#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 22:14:45 +0530"
     },
     {
       "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
