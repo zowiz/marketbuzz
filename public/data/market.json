@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex jumped 900 points as IT and FMCG stocks led a sharp recovery",
+  "headline": "On last trading day, Sensex jumped nearly 900 points and Nifty reclaimed 22,500 led by IT and FMCG gains.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Tuesday, 13 October"
   },
   "why": [
-    "IT stocks rallied significantly with major gains in heavyweights like TCS",
-    "Strong buying interest in the FMCG sector boosted overall market sentiment",
-    "All sectoral indices turned green as the market recovered from eight weeks of losses",
-    "Positive global cues and short-covering contributed to the Sensex jumping over 800 points"
+    "IT sector jumped 3% and FMCG gained over 2% during the last trading session",
+    "Sensex and Nifty recovered significantly after eight consecutive weeks of losses",
+    "All sectoral indices turned green as the Sensex gained over 879 points",
+    "TCS shares saw a notable jump, driving a rally across the IT stock segment"
   ],
   "whatHappening": [
-    "Government unveils New Steel Policy Vision 2047 targeting 600 MT output and raw material security",
-    "Adani's Kutch Copper plans to integrate 115-MW renewable energy to lower emissions",
-    "RBI's rupee defence measures are expected to drain banking system liquidity",
-    "Reports emerge of an 'energy ceasefire' between Russia and Ukraine according to Donald Trump"
+    "RBI's rupee defense measures are expected to drain banking liquidity to ease currency pressure",
+    "The government has unveiled the New Steel Policy Vision 2047 targeting 600 MT output",
+    "Adani's Kutch Copper is integrating 115-MW of renewable energy to reduce emissions",
+    "Reports indicate Russia and Ukraine have reached an energy ceasefire agreement"
   ],
   "stocksInNews": [
     {
@@ -32,63 +32,17 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "SUZLON",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "CANBK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "MANAPPURAM",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "PGHH",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "ATHER",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
+        7
       ]
     }
   ],
-  "summary": "The Indian stock market ended its last session with a massive rally, as the Sensex surged nearly 900 points and the Nifty reclaimed the 22,500 level. The recovery was broad-based, led by a 3% jump in IT stocks and strong performance in the FMCG sector. While the market remains closed for the weekend, investors are monitoring new government steel policies and geopolitical developments in the Middle East and Ukraine.",
-  "updatedAt": "2026-10-11T17:02:14.634Z",
+  "summary": "The Indian stock market ended its last session with a strong recovery, as the Sensex surged nearly 900 points to reclaim key levels. Gains were driven by a 3% jump in IT stocks and a 2% rise in the FMCG sector, breaking an eight-week losing streak. Markets remain closed for the weekend and are expected to reopen on Tuesday.",
+  "updatedAt": "2026-10-11T18:02:03.820Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-11",
   "articleKeys": [
+    "cji surya kant declines to meet rahul gandhi kharge over vote chori",
+    "1000 exflipkart staffers approach walmart over stock option liquidity",
     "new steel policy vision 2047 aims 600 mt steel output increased raw material security higher exports",
     "riyadh airport hit again trump weighs joining saudi campaign",
     "drishyam the conclusion box office collection day 10 ajay devgn starrer continues strong run",
@@ -97,8 +51,6 @@
     "adanis kutch copper plans 115mw renewable energy integration targets lower emissions",
     "gulf markets end lower as riyadh airport attack fuels tensions",
     "trump says russia and ukraine reach energy ceasefire but gives no details",
-    "jailer 2 day 1 advance bookings rajinikanth starrer sees strong ticket sales before release",
-    "buy sell or hold sbi ather energy suzlon canara bank manappuram finance pg hygiene ask profit",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
@@ -111,6 +63,18 @@
     "indias sensex slumps to 32month low on oil surge foreign exodus reuters"
   ],
   "articles": [
+    {
+      "title": "CJI Surya Kant declines to meet Rahul Gandhi, Kharge over 'vote chori'",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/cji-surya-kant-declines-to-meet-rahul-gandhi-kharge-over-vote-chori-126101100813_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 22:49:53 +0530"
+    },
+    {
+      "title": "1,000 ex-Flipkart staffers approach Walmart over stock option liquidity",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/around-1-000-ex-flipkart-staff-approach-walmart-over-stock-option-liquidity-126101100585_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 22:03:20 +0530"
+    },
     {
       "title": "New Steel Policy Vision 2047 Aims 600 MT Steel Output, Increased Raw Material Security, Higher Exports",
       "source": "Zerodha Pulse",
@@ -158,18 +122,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/world-news/trump-says-russia-and-ukraine-reach-energy-ceasefire-but-gives-no-details-126101100668_1.html",
       "publishedAt": "Sun, 11 Oct 2026 20:25:17 +0530"
-    },
-    {
-      "title": "Jailer 2 Day 1 Advance Bookings: Rajinikanth Starrer Sees Strong Ticket Sales Before Release",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/entertainment-cinema-kollywood-movie-jailer-2-day-1-advance-bookings-rajinikanth-tamil-film-ticket-sales-pre-release-box-office-collection-12170410#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 20:19:54 +0530"
-    },
-    {
-      "title": "Buy, Sell Or Hold: SBI, Ather Energy, Suzlon, Canara Bank, Manappuram Finance, P&G Hygiene | Ask Profit",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-sbi-ather-energy-suzlon-canara-bank-manappuram-finance-pg-hygiene-cupid-urban-company-ask-profit-12169437#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 20:10:17 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
