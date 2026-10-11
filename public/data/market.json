@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex jumped nearly 900 points and Nifty reclaimed 22,500 led by a rally in IT.",
+  "headline": "Last session: Sensex surges nearly 900 points as Nifty reclaims 22,500 led by IT stock rally",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Tuesday, 13 October 2026"
   },
   "why": [
-    "IT sector stocks like TCS witnessed a sharp rally, with the sectoral index gaining 3%",
-    "The FMCG sector provided strong support, gaining over 2% during the last trading session",
-    "Broad-based buying was seen as all sectoral indices ended in the green on Friday",
-    "The market recovered from an 8-week losing streak, driven by positive domestic buying"
+    "Sharp recovery in IT stocks, led by gains in TCS, lifted market sentiment in the last trading session.",
+    "Broad-based buying was witnessed as all sectoral indices turned green on Friday.",
+    "IT sector jumped around 3% while FMCG stocks gained over 2% during the previous trade.",
+    "Markets bounced back strongly after previous sharp losses where Sensex had fallen over 1,000 points."
   ],
   "whatHappening": [
-    "Sensex surged nearly 900 points while Nifty settled above 22,500 in the last session",
-    "E-commerce platforms reported robust festive sales of Rs 24,000 crore in just two days",
-    "India's nuclear sector is poised for a boost with a projected Rs 7.5 lakh crore private investment",
-    "IndiGo reported a smoke alert on a Delhi-Chennai flight, which safely diverted to Hyderabad"
+    "In the last trading session, Sensex climbed nearly 900 points while Nifty settled above 22,500.",
+    "An IndiGo Delhi-Chennai flight was diverted and landed safely in Hyderabad due to a power bank smoke alert.",
+    "India's nuclear energy sector is projected to attract ₹7.5 lakh crore in private investment by 2047.",
+    "Stock markets are closed today for the weekend and will resume trading in the next session."
   ],
   "stocksInNews": [
     {
@@ -28,37 +28,30 @@
       ]
     },
     {
-      "symbol": "KOTAKBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
       "symbol": "INDIGO",
-      "sentiment": "Neutral",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1
+        0,
+        6
       ]
     }
   ],
-  "summary": "The Indian stock market saw a strong recovery in the last session, with the Sensex gaining nearly 900 points. This rally, which ended an eight-week losing streak, was primarily driven by significant gains in the IT and FMCG sectors. Markets are currently closed for the weekend and are scheduled to reopen this coming Tuesday.",
-  "updatedAt": "2026-10-11T13:35:02.564Z",
+  "summary": "In the last trading session, Indian markets rebounded sharply with the Sensex jumping nearly 900 points and Nifty closing above 22,500. The rally was spearheaded by IT stocks such as TCS alongside gains in FMCG and other sectors. Markets remain closed today for the weekend.",
+  "updatedAt": "2026-10-11T14:01:40.019Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-11",
   "articleKeys": [
+    "indigo delhichennai flight diverted after power bank catches fire on board",
+    "nana patekar died of heart attack caused by blood clot in coronary artery autopsy report",
     "75 lakh crore private investment likely in nuke sector 30 gw contribution by 2047 aec chief mohanty",
+    "liverpool vs man city live streaming likely lineups how to watch premier league match on tv online in india",
+    "nearly 1 in 4 travellers took repeat festive trips bookings for 2026 up 50 report",
+    "amazon great indian festival 2026 best oled tv deals from samsung sony lg and haier",
     "indigos delhichennai flight lands safely in hyderabad after smoke alert",
-    "mea rejects un rights bodys concerns over delhi protest restrictions",
-    "kotak mahindra life ashish kacholia others invest rs 120 crore in fusion cx ahead of ipo",
-    "audi india mulls local ev production aims to double mkt share in 35 years",
-    "other mommy box office collection day 2 jessica chastain horror film shows improvement",
-    "trade setup for oct 12 nifty bulls break 8week slide will the relief really sustain",
-    "ecommerce firms sell goods worth rs 24000 crore in first 2 days of festive sales redseer",
-    "ahead of market 10 things that will decide stock market action on monday",
-    "akasa air extends flight suspension to riyadh jeddah until october 13 check details",
+    "amazon great indian festival 2026 top gaming phones at big discounts check full list",
+    "baththa box office collection day 10 vijay sethupathi starrer sees sharp rise",
+    "amazon sale 2026 top laptop deals under rs 75000",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
@@ -72,10 +65,40 @@
   ],
   "articles": [
     {
+      "title": "IndiGo Delhi-Chennai Flight Diverted After Power Bank Catches Fire On Board",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/indigo-flight-diverted-to-hyderabad-after-power-bank-fire-12170007#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 18:21:00 +0530"
+    },
+    {
+      "title": "Nana Patekar Died Of Heart Attack Caused By Blood Clot In Coronary Artery: Autopsy Report",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/nana-patekar-died-of-heart-attack-caused-by-blood-clot-in-coronary-artery-autopsy-report-12170037#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 18:12:51 +0530"
+    },
+    {
       "title": "₹7.5 lakh crore private investment likely in nuke sector; 30 GW contribution by 2047: AEC chief Mohanty",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Industry/75-lakh-crore-private-investment-likely-in-nuke-sector-30-gw-contribution-by-2047-aec-chief-mohanty/article71571310.ece",
       "publishedAt": "Sun, 11 Oct 2026 18:10:13 +0530"
+    },
+    {
+      "title": "Liverpool Vs Man City Live Streaming: Likely Lineups; How To Watch Premier League Match On TV, Online In India?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/liverpool-vs-man-city-live-streaming-likely-lineups-how-to-watch-premier-league-match-on-tv-online-in-india-12161713#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 18:00:01 +0530"
+    },
+    {
+      "title": "Nearly 1 In 4 Travellers Took Repeat Festive Trips, Bookings For 2026 Up 50%: Report",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/nearly-1-in-4-travellers-took-repeat-festive-trips-bookings-for-2026-up-50-report-12169942#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 17:48:13 +0530"
+    },
+    {
+      "title": "Amazon Great Indian Festival 2026: Best OLED TV Deals From Samsung, Sony, LG And Haier",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/amazon-great-indian-festival-2026-best-oled-tv-deals-from-samsung-sony-lg-and-haier-12169495#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 17:47:45 +0530"
     },
     {
       "title": "IndiGo's Delhi-Chennai flight lands safely in Hyderabad after 'smoke' alert",
@@ -84,52 +107,22 @@
       "publishedAt": "Sun, 11 Oct 2026 17:45:02 +0530"
     },
     {
-      "title": "MEA rejects UN rights body's concerns over Delhi protest restrictions",
+      "title": "Amazon Great Indian Festival 2026: Top Gaming Phones At Big Discounts, Check Full List",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/external-affairs-defence-security/news/mea-rejects-un-rights-body-s-concerns-over-delhi-protest-restrictions-126101100424_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 17:21:55 +0530"
+      "link": "https://www.ndtvprofit.com/technology/amazon-great-indian-festival-2026-top-gaming-phones-at-big-discounts-check-full-list-12169613#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 17:44:31 +0530"
     },
     {
-      "title": "Kotak Mahindra Life, Ashish Kacholia, Others Invest Rs 120 Crore In Fusion Cx Ahead Of IPO",
+      "title": "Baththa Box Office Collection Day 10: Vijay Sethupathi Starrer Sees Sharp Rise",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/kotak-mahindra-life-ashish-kacholia-others-invest-rs-120-crore-in-fusion-cx-ahead-of-ipo-12169821#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 17:17:45 +0530"
+      "link": "https://www.ndtvprofit.com/business/baththa-box-office-collection-day-10-vijay-sethupathi-starrer-sees-sharp-rise-india-net-crosses-rs-20-crore-12169951#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 17:41:23 +0530"
     },
     {
-      "title": "Audi India mulls local EV production, aims to double mkt share in 3-5 years",
+      "title": "Amazon Sale 2026: Top Laptop Deals Under Rs 75,000",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/audi-india-mulls-local-ev-production-aims-to-double-mkt-share-in-3-5-years-126101100396_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 17:04:20 +0530"
-    },
-    {
-      "title": "Other Mommy Box Office Collection Day 2: Jessica Chastain Horror Film Shows Improvement",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/other-mommy-box-office-collection-day-2-jessica-chastain-horror-film-shows-improvement-over-opening-day-12169797#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 17:00:30 +0530"
-    },
-    {
-      "title": "Trade Setup For Oct 12: Nifty Bulls Break 8-Week Slide; Will The Relief Really Sustain?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-12-nifty-bulls-break-8-week-slide-will-the-relief-really-sustain-12163607#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 17:00:01 +0530"
-    },
-    {
-      "title": "E-Commerce Firms Sell Goods Worth Rs 24,000 Crore In First 2 Days Of Festive Sales: Redseer",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/e-commerce-firms-sell-goods-worth-rs-24-000-crore-in-first-2-days-of-festive-sales-redseer-12169612#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 16:50:12 +0530"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134869422.cms",
-      "publishedAt": "Sun, 11 Oct 2026 16:48:54 +0530"
-    },
-    {
-      "title": "Akasa Air Extends Flight Suspension To Riyadh, Jeddah Until October 13: Check Details",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/akasa-air-extends-flight-suspension-to-riyadh-jeddah-until-october-13-check-details-12169752#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 16:47:11 +0530"
+      "link": "https://www.ndtvprofit.com/trending/amazon-sale-2026-top-laptop-deals-under-rs-75-000-12169892#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 17:34:01 +0530"
     },
     {
       "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
