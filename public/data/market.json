@@ -1,31 +1,30 @@
 {
-  "headline": "Last session: Sensex jumped nearly 900 points as Nifty reclaimed 22,500 led by IT and FMCG sectors",
+  "headline": "On last trading day, Sensex surged 1,000 points and Nifty reclaimed 22,550 led by an IT sector rally.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 12 October.",
-    "nextOpen": "Monday, 12 October 2026"
+    "nextOpen": "Monday, 12 October"
   },
   "why": [
-    "IT sector stocks surged 3% during the last session with TCS leading the recovery",
-    "Market participants reacted positively to news of upcoming SEBI guidelines on CAS",
-    "FMCG stocks saw significant buying interest, gaining over 2% in the last trading day",
-    "The market rebounded strongly after hitting an 18-month low in the previous Thursday session"
+    "IT sector surged 3% led by a significant rally in TCS shares",
+    "FMCG sector gained over 2% providing strong market support",
+    "Indices recovered sharply from the previous session's 1,000-point crash",
+    "Sensex jumped over 1,000 points to reclaim the 22,550 level"
   ],
   "whatHappening": [
-    "SEBI is set to issue new guidelines on CAS within the next week according to Chairman Pandey",
-    "Finance Minister Sitharaman is discussing investment opportunities with global fund executives and banks",
-    "Geopolitical risks have escalated following a missile attack on a passenger terminal at Riyadh airport",
-    "Several major companies including TCS and Vedanta have upcoming dividend record dates this week"
+    "Multiple IPOs including HD Fire Protect and Fusion CX are hitting the primary market this week",
+    "Investors are tracking dividend record dates for major stocks like TCS and Vedanta",
+    "FM Sitharaman met top executives of global investment funds to discuss India opportunities",
+    "Geopolitical tensions escalated following a missile attack on Riyadh airport"
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/8 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        0,
-        12,
+        2,
         13
       ]
     },
@@ -34,7 +33,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        2
       ]
     },
     {
@@ -54,11 +53,13 @@
       ]
     }
   ],
-  "summary": "The Indian market is closed for the weekend following a sharp recovery on Friday where the Sensex gained nearly 900 points. The rally was supported by a 3% jump in IT stocks and optimism surrounding new SEBI regulatory guidelines. Investors remain cautious of global geopolitical tensions while tracking upcoming corporate dividends.",
-  "updatedAt": "2026-10-11T01:27:05.362Z",
+  "summary": "The Indian market ended the last session with a strong recovery as the Sensex gained over 1,000 points.\nIT and FMCG sectors led the gains, while investors now focus on upcoming IPOs and dividend record dates.\nGlobal geopolitical tensions and FM Sitharaman's meetings with international investors remain key highlights over the weekend.",
+  "updatedAt": "2026-10-11T02:02:03.548Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-11",
   "articleKeys": [
+    "how a fistfight helped fix your eyesight and more",
+    "ipos this week hd fire protect fusion cx vaibhav vyapaar ravita engineering services to hit primary market",
     "dividend stocks to watch this week tcs vedanta canara robeco check amount record date",
     "delhi traffic curbs to continue sunday diversions likely at 30 key points",
     "missile strikes passenger terminal at riyadh airport many wounded",
@@ -67,8 +68,6 @@
     "this sisterduo left stable corporate jobs they now run a rs 735 crore suta business",
     "us wanted israel to strike iran alone then backed off over election fears report",
     "fm sitharaman meets top executives of global investment funds banks discusses investment opportunities in india",
-    "sebi to issue guidelines on cas in a week chairman pandey",
-    "super micro contractor pleads guilty in 25 billion ai chip diversion case linked to china",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
@@ -81,6 +80,18 @@
     "stock market today live highlights sensex fell 1045 points to settle at 7159324 while nifty closed at 2223180 the times of india"
   ],
   "articles": [
+    {
+      "title": "How a fistfight helped fix your eyesight and more...",
+      "source": "Zerodha Pulse",
+      "link": "https://finshots.in/archive/how-a-fistfight-helped-fix-your-eyesight-and-more/",
+      "publishedAt": "Sun, 11 Oct 2026 07:00:11 +0530"
+    },
+    {
+      "title": "IPOs This Week: HD Fire Protect, Fusion CX, Vaibhav Vyapaar, Ravita Engineering Services To Hit Primary Market",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/ipos-this-week-hd-fire-protect-fusion-cx-vaibhav-vyapaar-ravita-engineering-services-to-hit-primary-market-12167649#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 05:42:15 +0530"
+    },
     {
       "title": "Dividend Stocks To Watch This Week: TCS, Vedanta, Canara Robeco; Check Amount, Record Date",
       "source": "Zerodha Pulse",
@@ -128,18 +139,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/business/fm-sitharaman-meets-top-executives-of-global-investment-funds-banks-discusses-investment-opportunities-in-india-12167510#publisher=newsstand",
       "publishedAt": "Sat, 10 Oct 2026 22:39:24 +0530"
-    },
-    {
-      "title": "SEBI to issue guidelines on CAS in a week: Chairman Pandey",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/sebi-to-issue-guidelines-on-cas-in-a-week-chairman-pandey/article71569322.ece",
-      "publishedAt": "Sat, 10 Oct 2026 22:24:03 +0530"
-    },
-    {
-      "title": "Super Micro Contractor Pleads Guilty In $2.5 Billion AI Chip Diversion Case Linked To China",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/super-micro-contractor-pleads-guilty-in-2-5-billion-ai-chip-diversion-case-linked-to-china-12167240#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 22:18:42 +0530"
     },
     {
       "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
