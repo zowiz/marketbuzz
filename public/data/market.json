@@ -1,72 +1,38 @@
 {
-  "headline": "On last trading session, Sensex rallied over 800 points and Nifty reclaimed 22,500 led by IT and FMCG stocks.",
+  "headline": "Last session: Sensex surged over 800 points and Nifty reclaimed 22,500, led by strong gains in IT stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 12 October.",
-    "nextOpen": "Monday, 12 October"
+    "nextOpen": "Monday, 12 October 2026"
   },
   "why": [
-    "IT stocks rallied strongly, with IT sector jumping 3% led by TCS.",
-    "FMCG sector gained over 2% in the last session to support market recovery.",
-    "Markets snapped an 8-week losing streak as bulls pushed Nifty back above 22,500.",
-    "Investors are positioning ahead of major Q2 earnings releases starting this week."
+    "Strong buying interest in IT stocks, led by TCS, drove market recovery in the last trading session.",
+    "FMCG stocks witnessed buying support, with the index rising over 2% on Friday.",
+    "Investors engaged in short covering after heavy market selloffs earlier in the week.",
+    "FII selling pressures persist with foreign investors pulling out over Rs 44,000 crore in October."
   ],
   "whatHappening": [
-    "In the last trading session, Sensex surged nearly 900-1,000 points while Nifty ended above 22,500.",
-    "129 companies including HDFC Bank, HCL Tech, and Wipro are scheduled to report Q2 results this week.",
-    "Fourteen stocks including TCS, Vedanta, and Ola Electric turn ex-record date for corporate actions this week.",
-    "The sharp rebound followed Thursday's steep fall where Sensex plunged over 1,000 points to an 18-month low."
+    "On the last trading day, Sensex jumped 800 to 1,000 points while Nifty closed above 22,500.",
+    "IT sector led market gains with a 3% surge during Friday's session.",
+    "FPI outflows crossed Rs 3 trillion for 2026 after intense selling over recent sessions.",
+    "Primary market remains active with companies like Jio and Zetwerk set to launch IPOs in October."
   ],
   "stocksInNews": [
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        5,
         14
       ]
     },
     {
-      "symbol": "HCLTECH",
-      "sentiment": "Neutral",
+      "symbol": "NTPC",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        1,
-        6
-      ]
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "WIPRO",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "VEDL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "OLAELEC",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        5
+        7
       ]
     },
     {
@@ -86,21 +52,21 @@
       ]
     }
   ],
-  "summary": "On the last trading day, Indian benchmark indices surged nearly 900 to 1,000 points with Nifty closing above 22,500.\nIT and FMCG stocks drove the sharp recovery, helping the market snap an eight-week losing streak.\nMarkets remain closed today for the weekend and will reopen on Monday as investors track major Q2 earnings releases.",
-  "updatedAt": "2026-10-11T07:31:37.379Z",
+  "summary": "Indian equities rallied sharply during the last trading session, with Sensex gaining around 900 points to close above 22,500 on Nifty. The recovery was driven by a robust performance in IT and FMCG sectors, offsetting persistent high foreign fund outflows. Markets remain closed today for the weekend and will resume trading on Monday, 12 October.",
+  "updatedAt": "2026-10-11T08:01:41.146Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-11",
   "articleKeys": [
-    "fampo talk niftys break above 22750 could open doors for 23000 sudeep shah picks 5 stocks for next week",
-    "earnings tracker hdfc bank hcl tech wipro among 129 companies set to report q2 results this week",
-    "weekly market outlook nifty snaps 8week losing streak but can bulls reclaim the crucial 200week moving average",
-    "michael prices investing tips avoid spreadsheet traps ignore market consensus and be a contrarian",
-    "cjp leaders released by magistrate told to maintain peace for one year",
-    "bonus dividends rights issues and stock splits tcs vedanta ola electric among 14 stocks turning exrecord date this week",
-    "hcl tech q2 preview will the it major narrow its guidance 5 things to watch out for",
-    "us may consider direct intervention in saudihouthi conflict after riyadh airport strike what trump said",
-    "adani cement marks navratri with a 15000bag aerial tribute to maa durga",
-    "situation remains tense in manipur as toll rises to 9 cm calls for peace",
+    "delhi protests sc says no illegal detention orders metro internet back",
+    "was flydubai midair attack a coordinated plot nia takes over cockpit breach case",
+    "unacceptable india condemns dastardly riyadh airport missile strike that killed 12",
+    "fii selloff intensifies foreign investors sell indian equities worth rs 45000 crore in just 6 sessions what can reverse the trend",
+    "no degree required google deepminds rs 11 crore job listing sparks tech debate",
+    "fpis pull out 44166 cr from equities in oct 2026 outflows cross 3 trn",
+    "et alpha wealth summit 20 what do shah rukh khan and sifs have in common radhika gupta explains",
+    "ntpc invites industrial partners for 26 equity in cogeneration projects",
+    "no offer made iaf chiefs take on f35 buzz with us commander by his side",
+    "ipo rush continues jio zetwerk among cos set to tap primary market in oct",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
@@ -114,64 +80,64 @@
   ],
   "articles": [
     {
-      "title": "F&amp;O Talk: Nifty’s break above 22,750 could open doors for 23,000; Sudeep Shah picks 5 stocks for next week",
+      "title": "Delhi protests: SC says no illegal detention, orders Metro, internet back",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-22750-could-open-doors-for-23000-sudeep-shah-picks-5-stocks-for-next-week/articleshow/134866209.cms",
-      "publishedAt": "Sun, 11 Oct 2026 11:50:50 +0530"
+      "link": "https://www.business-standard.com/india-news/delhi-protests-sc-says-no-illegal-detention-orders-metro-internet-back-126101100233_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 13:01:36 +0530"
     },
     {
-      "title": "Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",
+      "title": "Was Flydubai Mid-Air Attack a Coordinated Plot? NIA Takes Over Cockpit Breach Case",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/earnings-tracker-hdfc-bank-hcl-tech-wipro-among-129-companies-set-to-report-q2-results-this-week/articleshow/134866148.cms",
-      "publishedAt": "Sun, 11 Oct 2026 11:44:41 +0530"
+      "link": "https://www.ndtvprofit.com/india/was-flydubai-mid-air-attack-a-coordinated-plot-nia-takes-over-cockpit-breach-case-12168968#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 12:51:41 +0530"
     },
     {
-      "title": "Weekly Market Outlook: Nifty snaps 8-week losing streak, but can bulls reclaim the crucial 200-week moving average?",
+      "title": "'Unacceptable’: India Condemns 'Dastardly’ Riyadh Airport Missile Strike That Killed 12",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-market-outlook-nifty-snaps-8-week-losing-streak-but-can-bulls-reclaim-the-crucial-200-week-moving-average/articleshow/134865763.cms",
-      "publishedAt": "Sun, 11 Oct 2026 11:26:55 +0530"
+      "link": "https://www.ndtvprofit.com/india/unacceptable-india-condemns-dastardly-riyadh-airport-missile-strike-that-killed-12-12168687#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 12:51:15 +0530"
     },
     {
-      "title": "Michael Price’s investing tips: Avoid spreadsheet traps, ignore market consensus and be a contrarian",
+      "title": "FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. What can reverse the trend?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/michael-prices-investing-tips-avoid-spreadsheet-traps-ignore-market-consensus-and-be-a-contrarian/articleshow/134865689.cms",
-      "publishedAt": "Sun, 11 Oct 2026 11:18:03 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selloff-intensifies-foreign-investors-sell-indian-equities-worth-rs-45000-crore-in-just-6-sessions-what-can-reverse-the-trend/articleshow/134866745.cms",
+      "publishedAt": "Sun, 11 Oct 2026 12:44:14 +0530"
     },
     {
-      "title": "CJP leaders released by magistrate, told to maintain peace for one year",
+      "title": "'No Degree Required': Google DeepMind's Rs 11 Crore Job Listing Sparks Tech Debate",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/cjp-leaders-released-by-magistrate-told-to-maintain-peace-for-one-year-126101100154_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 11:10:45 +0530"
+      "link": "https://www.ndtvprofit.com/technology/google-deepmind-opens-ai-roles-up-to-rs-11-crore-with-zero-degree-prerequisite-tech-world-divided-12168962#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 12:41:20 +0530"
     },
     {
-      "title": "Bonus, dividends, rights issues and stock splits: TCS, Vedanta, Ola Electric among 14 stocks turning ex-record date this week",
+      "title": "FPIs pull out ₹44,166 cr from equities in Oct, 2026 outflows cross ₹3 trn",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-dividends-rights-issues-and-stock-splits-tcs-vedanta-ola-electric-among-14-stocks-turning-ex-record-date-this-week/articleshow/134865638.cms",
-      "publishedAt": "Sun, 11 Oct 2026 11:09:05 +0530"
+      "link": "https://www.business-standard.com/finance/news/fpis-pull-out-44-166-cr-from-equities-in-oct-2026-outflows-cross-3-trn-126101100210_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 12:40:39 +0530"
     },
     {
-      "title": "HCL Tech Q2 Preview: Will the IT major narrow its guidance? 5 things to watch out for",
+      "title": "ET Alpha Wealth Summit 2.0: What do Shah Rukh Khan and SIFs have in common? Radhika Gupta explains",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-q2-preview-will-the-it-major-narrow-its-guidance-5-things-to-watch-out-for/articleshow/134865454.cms",
-      "publishedAt": "Sun, 11 Oct 2026 10:54:16 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-what-do-shah-rukh-khan-and-sifs-have-in-common-radhika-gupta-explains/articleshow/134866717.cms",
+      "publishedAt": "Sun, 11 Oct 2026 12:40:18 +0530"
     },
     {
-      "title": "US May Consider Direct Intervention in Saudi-Houthi Conflict After Riyadh Airport Strike: What Trump Said",
+      "title": "NTPC invites industrial partners for 26% equity in co-generation projects",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/us-may-consider-direct-intervention-in-saudi-houthi-conflict-after-riyadh-airport-strike-what-trump-said-12168263#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 10:50:02 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ntpc-invites-industrial-partners-for-26-equity-in-co-generation-projects/articleshow/134866656.cms",
+      "publishedAt": "Sun, 11 Oct 2026 12:32:04 +0530"
     },
     {
-      "title": "Adani Cement Marks Navratri With A 15,000-Bag Aerial Tribute To Maa Durga",
+      "title": "'No Offer Made’: IAF Chief’s Take On F-35 Buzz With US Commander By His Side",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/adani-cement-marks-navratri-with-a-15-000-bag-aerial-tribute-to-maa-durga-12168677#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 10:46:11 +0530"
+      "link": "https://www.ndtvprofit.com/india/no-offer-made-iaf-chief-s-take-on-f-35-buzz-with-us-commander-by-his-side-12168480#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 12:30:53 +0530"
     },
     {
-      "title": "Situation remains tense in Manipur as toll rises to 9, CM calls for peace",
+      "title": "IPO rush continues: Jio, Zetwerk among cos set to tap primary market in Oct",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/situation-remains-tense-in-manipur-as-toll-rises-to-9-cm-calls-for-peace-126101100131_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 10:43:22 +0530"
+      "link": "https://www.business-standard.com/markets/ipo/ipo-rush-continues-jio-zetwerk-among-cos-set-to-tap-primary-market-in-oct-126101100192_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 12:15:38 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
