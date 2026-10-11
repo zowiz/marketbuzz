@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex jumped over 1,000 points as Nifty reclaimed 22,550 led by IT sector rally.",
+  "headline": "Last session: Sensex jumped over 800 points as Nifty reclaimed 22,500, driven by IT and FMCG sector rallies.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Monday, 12 October 2026"
   },
   "why": [
-    "IT stocks rallied significantly, with the sector jumping 3% on Friday.",
-    "Sensex jumped over 1,000 points as Nifty reclaimed the 22,550 level.",
-    "FMCG sector gains of over 2% provided additional support to the indices.",
-    "TCS shares surged, leading a broader recovery in the IT index."
+    "Strong recovery in IT stocks led by a significant jump in TCS shares",
+    "FMCG sector gains of over 2% provided additional market support",
+    "Technical rebound following a sharp 1,100-point plunge to an 18-month low in the previous session",
+    "Positive investor sentiment ahead of major corporate actions and dividend record dates"
   ],
   "whatHappening": [
-    "Multiple IPOs including HD Fire Protect and Fusion CX are set to launch this week.",
-    "Corporate actions are scheduled for companies including TCS, Ola Electric, and Anand Rathi.",
-    "Dividend record dates are approaching for Vedanta, Canara Robeco, and TCS.",
-    "Geopolitical tensions rose following a missile strike and casualties at Riyadh airport."
+    "TCS, Vedanta, and Canara Robeco are scheduled to trade ex-dividend this week",
+    "Four new IPOs, including HD Fire Protect and Fusion CX, are set to hit the primary market",
+    "Infosys confirmed that the US suspension of PERM applications will have no material impact",
+    "Elon Musk criticized opposition to Starlink's entry into India, targeting supporters of Mukesh Ambani"
   ],
   "stocksInNews": [
     {
@@ -24,30 +24,22 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 3/8 sources",
       "articleIds": [
-        4,
         6,
+        8,
         12,
         13
       ]
     },
     {
-      "symbol": "OLA ELECTRIC",
+      "symbol": "INFY",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4
+        1
       ]
     },
     {
-      "symbol": "ANAND RATHI",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "VEDANTA",
+      "symbol": "OLAELECTRIC",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -55,43 +47,19 @@
       ]
     },
     {
-      "symbol": "CANARA ROBECO",
-      "sentiment": "Neutral",
+      "symbol": "VEDL",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        6
+        8
       ]
     },
     {
-      "symbol": "HD FIRE PROTECT",
-      "sentiment": "Neutral",
+      "symbol": "ITC",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "FUSION CX",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "VAIBHAV VYAPAAR",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "RAVITA ENGINEERING SERVICES",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        5
+        14
       ]
     },
     {
@@ -101,13 +69,31 @@
       "articleIds": [
         14
       ]
+    },
+    {
+      "symbol": "ANANDRATHI",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
+      ]
     }
   ],
-  "summary": "The Indian market is closed for the weekend after a strong Friday session where the Sensex surged over 1,000 points.\nInvestors are preparing for a busy week featuring multiple IPO launches and significant corporate actions from companies like TCS.\nGlobal sentiment is being monitored following reports of a missile attack on Riyadh airport.",
-  "updatedAt": "2026-10-11T03:34:52.657Z",
+  "summary": "In the last trading session, Indian benchmarks staged a massive recovery with the Sensex jumping over 800 points to reclaim the 71,500 level. The rally was primarily driven by the IT and FMCG sectors, with TCS leading the gains ahead of its dividend record date. Markets are currently closed for the weekend and will reopen on Monday with several IPOs and corporate actions in focus.",
+  "updatedAt": "2026-10-11T04:02:09.488Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-11",
   "articleKeys": [
+    "musk slams ambani supporters for hypocrisy over starlinks entry in india",
+    "infosys sees no material impact from us suspension of perm applications",
     "anthropic reveals claude ai model went rogue submitted fake tip to police submitted false tip in homicide case",
     "india bloc plans protest march in delhi on monday seeks cjis intervention",
     "12 killed over 300 injured in latest attack on saudis riyadh airport",
@@ -116,8 +102,6 @@
     "ipos this week hd fire protect fusion cx vaibhav vyapaar ravita engineering services to hit primary market",
     "dividend stocks to watch this week tcs vedanta canara robeco check amount record date",
     "delhi traffic curbs to continue sunday diversions likely at 30 key points",
-    "missile strikes passenger terminal at riyadh airport many wounded",
-    "goa welcomes 769 million tourists in first nine months as govt pushes yearround travel",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
@@ -130,6 +114,18 @@
     "stock market today live highlights sensex fell 1045 points to settle at 7159324 while nifty closed at 2223180 the times of india"
   ],
   "articles": [
+    {
+      "title": "Musk slams Ambani supporters for 'hypocrisy' over Starlink's entry in India",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/news/musk-slams-ambani-supporters-for-hypocrisy-over-starlink-s-entry-in-india-126101100032_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 07:56:33 +0530"
+    },
+    {
+      "title": "Infosys sees no material impact from US suspension of PERM applications",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/infosys-sees-no-material-impact-from-us-suspension-of-perm-applications-126101001012_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 07:52:33 +0530"
+    },
     {
       "title": "Anthropic Reveals Claude AI Model Went Rogue, Submitted Fake Tip To Police Submitted False Tip In Homicide Case",
       "source": "Zerodha Pulse",
@@ -177,18 +173,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/india-news/delhi-traffic-curbs-to-continue-sunday-diversions-likely-at-30-key-points-126101000989_1.html",
       "publishedAt": "Sat, 10 Oct 2026 23:54:03 +0530"
-    },
-    {
-      "title": "Missile strikes passenger terminal at Riyadh airport, many wounded",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/riyadh-airport-evacuated-after-reported-fresh-attack-say-officials-126101000780_1.html",
-      "publishedAt": "Sat, 10 Oct 2026 23:37:01 +0530"
-    },
-    {
-      "title": "Goa Welcomes 7.69 Million Tourists In First Nine Months As Govt Pushes Year-Round Travel",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/goa-welcomes-7-69-million-tourists-in-first-nine-months-as-govt-pushes-year-round-travel-12167609#publisher=newsstand",
-      "publishedAt": "Sat, 10 Oct 2026 23:28:56 +0530"
     },
     {
       "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
