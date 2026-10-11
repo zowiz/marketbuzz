@@ -1,22 +1,22 @@
 {
-  "headline": "On last trading day, Sensex jumped nearly 900 points and Nifty reclaimed 22,500 led by IT and FMCG gains.",
+  "headline": "Sensex and Nifty aim to extend recovery as markets open for the week of October 12",
   "marketStatus": {
-    "isClosed": true,
+    "isClosed": false,
     "isMuhuratTrading": false,
-    "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 13 October.",
-    "nextOpen": "Tuesday, 13 October"
+    "message": "Market is open for trading today.",
+    "nextOpen": ""
   },
   "why": [
-    "IT sector jumped 3% and FMCG gained over 2% during the last trading session",
-    "Sensex and Nifty recovered significantly after eight consecutive weeks of losses",
-    "All sectoral indices turned green as the Sensex gained over 879 points",
-    "TCS shares saw a notable jump, driving a rally across the IT stock segment"
+    "Sensex and Nifty are likely to extend their recovery after eight weeks of losses",
+    "The IT sector rally was led by a significant jump in TCS shares",
+    "Market recovery follows a period of pressure caused by RBI rate hikes and rising oil prices",
+    "Positive market sentiment followed a Friday rally where the Sensex gained nearly 900 points"
   ],
   "whatHappening": [
-    "RBI's rupee defense measures are expected to drain banking liquidity to ease currency pressure",
-    "The government has unveiled the New Steel Policy Vision 2047 targeting 600 MT output",
-    "Adani's Kutch Copper is integrating 115-MW of renewable energy to reduce emissions",
-    "Reports indicate Russia and Ukraine have reached an energy ceasefire agreement"
+    "Markets are opening for the week of October 12-16 following a sharp recovery",
+    "The government has unveiled the New Steel Policy Vision 2047 to boost output",
+    "Former Flipkart employees are seeking stock option liquidity from parent company Walmart",
+    "Geopolitical tensions are being monitored after a second attack on Riyadh Airport"
   ],
   "stocksInNews": [
     {
@@ -26,31 +26,23 @@
       "articleIds": [
         15
       ]
-    },
-    {
-      "symbol": "ADANIENT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        7
-      ]
     }
   ],
-  "summary": "The Indian stock market ended its last session with a strong recovery, as the Sensex surged nearly 900 points to reclaim key levels. Gains were driven by a 3% jump in IT stocks and a 2% rise in the FMCG sector, breaking an eight-week losing streak. Markets remain closed for the weekend and are expected to reopen on Tuesday.",
-  "updatedAt": "2026-10-11T18:02:03.820Z",
+  "summary": "Indian markets are expected to open with positive momentum, aiming to extend the recovery seen last Friday after an eight-week losing streak. The IT sector is in focus following a rally led by TCS, while the Sensex and Nifty look to maintain levels above 22,500. Investors are also monitoring the new national steel policy and ongoing geopolitical developments in the Middle East.",
+  "updatedAt": "2026-10-11T19:04:39.478Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-10-11",
+  "dateChecked": "2026-10-12",
   "articleKeys": [
+    "delhi traffic police issues advisory warns of disruptions on october 12",
+    "cji surya kant declines to meet rahul gandhi over vote chori allegations",
+    "starlink services in india need to be affordable spacex ceo elon musk",
     "cji surya kant declines to meet rahul gandhi kharge over vote chori",
+    "indian national killed in riyadh airport attack jaishankar assures family of assistance",
+    "ai regulation must balance safety with innovation google deepminds chief ai readiness officer",
     "1000 exflipkart staffers approach walmart over stock option liquidity",
     "new steel policy vision 2047 aims 600 mt steel output increased raw material security higher exports",
     "riyadh airport hit again trump weighs joining saudi campaign",
     "drishyam the conclusion box office collection day 10 ajay devgn starrer continues strong run",
-    "russia ukraine agree to energy ceasefire says donald trump",
-    "rbis rupee defence may drain banking liquidity ease currency pressure",
-    "adanis kutch copper plans 115mw renewable energy integration targets lower emissions",
-    "gulf markets end lower as riyadh airport attack fuels tensions",
-    "trump says russia and ukraine reach energy ceasefire but gives no details",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "stock market today highlights bse sensex jumps over 1000 points nifty50 climbs above 22550 the times of india",
     "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
@@ -64,10 +56,40 @@
   ],
   "articles": [
     {
+      "title": "Delhi Traffic Police issues advisory, warns of disruptions on October 12",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/delhi-traffic-police-issues-advisory-warns-of-disruptions-on-october-12-126101100863_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 23:44:31 +0530"
+    },
+    {
+      "title": "CJI Surya Kant declines to meet Rahul Gandhi over 'vote chori' allegations",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/cji-surya-kant-declines-to-meet-rahul-gandhi-kharge-over-vote-chori-126101100813_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 23:27:44 +0530"
+    },
+    {
+      "title": "Starlink services in India need to be affordable: SpaceX CEO Elon Musk",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/technology/tech-news/starlink-services-in-india-to-be-affordable-spacex-founder-elon-musk-126101100722_1.html",
+      "publishedAt": "Sun, 11 Oct 2026 22:54:27 +0530"
+    },
+    {
       "title": "CJI Surya Kant declines to meet Rahul Gandhi, Kharge over 'vote chori'",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/india-news/cji-surya-kant-declines-to-meet-rahul-gandhi-kharge-over-vote-chori-126101100813_1.html",
       "publishedAt": "Sun, 11 Oct 2026 22:49:53 +0530"
+    },
+    {
+      "title": "Indian National Killed In Riyadh Airport Attack; Jaishankar Assures Family Of Assistance",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/indian-national-killed-in-riyadh-airport-attack-jaishankar-assures-family-of-assistance-12170992#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 22:46:48 +0530"
+    },
+    {
+      "title": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/google-deepminds-chief-ai-readiness-officer-lila-ibrahim-says-ai-regulation-must-balance-safety-with-innovation-12170875#publisher=newsstand",
+      "publishedAt": "Sun, 11 Oct 2026 22:13:11 +0530"
     },
     {
       "title": "1,000 ex-Flipkart staffers approach Walmart over stock option liquidity",
@@ -92,36 +114,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/business/drishyam-the-conclusion-box-office-collection-day-10-ajay-devgn-starrer-continues-strong-run-12170625#publisher=newsstand",
       "publishedAt": "Sun, 11 Oct 2026 21:08:47 +0530"
-    },
-    {
-      "title": "Russia, Ukraine Agree To 'Energy Ceasefire', Says Donald Trump",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/russia-ukraine-agree-to-energy-ceasefire-says-donald-trump-12170485#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 20:59:52 +0530"
-    },
-    {
-      "title": "RBI's Rupee Defence May Drain Banking Liquidity, Ease Currency Pressure",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/rbis-rupee-defence-may-drain-banking-liquidity-ease-currency-pressure-12170563#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 20:53:41 +0530"
-    },
-    {
-      "title": "Adani's Kutch Copper Plans 115-Mw Renewable Energy Integration, Targets Lower Emissions",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/adanis-kutch-copper-plans-115-mw-renewable-energy-integration-targets-lower-emissions-12170587#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 20:42:58 +0530"
-    },
-    {
-      "title": "Gulf Markets End Lower As Riyadh Airport Attack Fuels Tensions",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/gulf-markets-end-lower-as-riyadh-airport-attack-fuels-tensions-12170469#publisher=newsstand",
-      "publishedAt": "Sun, 11 Oct 2026 20:27:50 +0530"
-    },
-    {
-      "title": "Trump says Russia and Ukraine reach 'energy ceasefire' but gives no details",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/trump-says-russia-and-ukraine-reach-energy-ceasefire-but-gives-no-details-126101100668_1.html",
-      "publishedAt": "Sun, 11 Oct 2026 20:25:17 +0530"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
