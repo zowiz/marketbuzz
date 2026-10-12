@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex plunges over 700 points as Nifty slips below 22,400; telecom and IT stocks lead the decline",
+  "headline": "Sensex slumps 700 points from day's high as IT, FMCG, and financial stocks drag",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,68 +7,24 @@
     "nextOpen": ""
   },
   "why": [
-    "Starlink's spectrum acquisition from Grain Management caused telecom stocks to sink up to 13%",
-    "Foreign Institutional Investors (FIIs) reduced their holdings in 12 stocks during the September quarter",
-    "Drought in three states has flagged concerns over rising food inflation",
-    "A slide in US telecom stocks negatively impacted Indian IT shares like Tech Mahindra"
+    "Sensex crashed over 1,000 points from day's high as markets turned red.",
+    "Heavy drag from IT, FMCG, and financial sector stocks.",
+    "India VIX jumped 7%, indicating rising market volatility.",
+    "Global cues including oil price adjustments and US-Russia diesel deal developments influenced sentiment."
   ],
   "whatHappening": [
-    "The Sensex plunged over 700 points while the Nifty 50 index slipped below 22,400",
-    "SIP contributions reached a record monthly high of ₹32,490 crore",
-    "Swaraj Engines shares surged 15% following the announcement of its Q2 results",
-    "New India Assurance shares rose 14%, extending gains for the second consecutive session"
+    "Nifty dropped below 22,400 while Sensex shed over 700 points in intraday trading.",
+    "Mutual Fund SIP inflows hit a record high of ₹32,490 crore in September 2026.",
+    "Swaraj Engines surged 15% following strong Q2 financial performance.",
+    "New India Assurance shares jumped 14%, extending gains for the second straight session."
   ],
   "stocksInNews": [
-    {
-      "symbol": "TECHM",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        1,
-        9,
-        12
-      ]
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        1,
-        12
-      ]
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        1,
-        12
-      ]
-    },
-    {
-      "symbol": "COALINDIA",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        1
-      ]
-    },
     {
       "symbol": "SWARAJENG",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "HCLTECH",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        3
+        8
       ]
     },
     {
@@ -76,36 +32,76 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4
+        9
       ]
     },
     {
-      "symbol": "LT",
+      "symbol": "HCLTECH",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "TECHM",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        12
+        6
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "CHENNPETRO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        2
       ]
     }
   ],
-  "summary": "Indian benchmark indices witnessed a sharp sell-off on October 12, with the Sensex plunging over 700 points and Nifty falling below 22,400. Telecom and IT sectors were the hardest hit following global sector weakness and Starlink's spectrum deal, though SIP contributions hit a record high. Despite the downturn, Swaraj Engines and New India Assurance posted double-digit gains on positive corporate developments.",
-  "updatedAt": "2026-10-12T09:31:48.420Z",
+  "summary": "Indian equities turned sharply red with the Sensex slipping over 700 points from intraday highs due to pressure on IT and FMCG stocks. On the macro front, SIP contributions hit an all-time record of ₹32,490 crore in September 2026. Outperformers included Swaraj Engines and New India Assurance, both rallying over 14% in individual stock action.",
+  "updatedAt": "2026-10-12T10:01:43.080Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-12",
   "articleKeys": [
+    "global market european shares rise as easing oil prices lift sentiment earnings in focus",
+    "sips register recorded 32490 crore of inflows in september 2026",
+    "dolly khanna portfolio ace investor sells 4 lakh shares of chennai petroleum in q2 stock up 82 in one year",
+    "stock market live sensex slumps 700 pts nifty near 22400 vix jumps 7",
+    "volvo car india introduces electric luxury suv ex90 at 126 crore",
     "stock market live sensex down 500 pts sip contribution hits record high of 32490 crore",
     "stock market today live sensex cracks 500 points nifty below 22400 techm itc sbi coal india top losers",
     "three reasons why market is falling today sensex down 1000 points from days high nifty below 22400",
     "q2 results live updates swaraj engines shares skyrocket 15 on q2 show hcltech rise ahead of earnings",
     "new india assurance shares surge 14 extend gains for second session",
-    "drought in 3 states 2 more flagged all eyes on food inflation",
-    "us bull market nears fouryear milestone as ai boom fuels profits growth",
-    "telecom stocks under fire sink up to 13 as elon musks starlink buys spectrum from grain management",
-    "fiis cut stakes in 12 stocks in september quarter shares fall up to 27 in 3 months",
-    "tech mahindra shares fall 4 as us telecom stocks slide",
     "stock market today live markets turn red sensex down 740 points nifty sheds almost 200 points businessline",
-    "why is market falling today sensex slumps over 600 points nifty below 22400 5 key factors behind sello the economic times",
-    "sensex today stock market live sensex plunges 770 pts nifty below 22350 tech mahindra itc lt sbi top losers moneycontrolcom",
+    "why is market falling today sensex sinks 1200 pts from days high nifty below 22350 5 key triggers be the economic times",
+    "sensex today stock market live sensex slips 700 points nifty nears 22300 as it fmcg and financial stocks drag moneycontrolcom",
     "stock market today gift nifty usrussia diesel deal to oil prices five key factors for sensex nifty 50 on oct 12 ndtv profit",
     "indian stock market outlook next week 1216 oct sensex nifty likely to extend recovery after 8week losses goodreturns",
     "stock market outlook today 12 oct sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint",
@@ -115,6 +111,36 @@
     "five reasons indias stock market is sinking even when its economy is growing bbc"
   ],
   "articles": [
+    {
+      "title": "Global Market: European shares rise as easing oil prices lift sentiment; earnings in focus",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-easing-oil-prices-lift-sentiment-earnings-in-focus/articleshow/134888533.cms",
+      "publishedAt": "Mon, 12 Oct 2026 15:03:35 +0530"
+    },
+    {
+      "title": "SIPs register recorded ₹32,490 crore of inflows in September 2026",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/sips-register-recorded-32490-crore-of-inflows-in-september-2026/article71574295.ece",
+      "publishedAt": "Mon, 12 Oct 2026 14:50:54 +0530"
+    },
+    {
+      "title": "Dolly Khanna portfolio: Ace investor sells 4 lakh shares of Chennai Petroleum in Q2, stock up 82% in one year",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dolly-khanna-portfolio-ace-investor-sells-4-lakh-shares-of-chennai-petroleum-in-q2-stock-up-82-in-one-year/articleshow/134888180.cms",
+      "publishedAt": "Mon, 12 Oct 2026 14:43:17 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex slumps 700 pts, Nifty near 22,400; VIX jumps 7%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-12-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-126101200057_1.html",
+      "publishedAt": "Mon, 12 Oct 2026 14:30:54 +0530"
+    },
+    {
+      "title": "Volvo Car India introduces electric luxury SUV EX90 at ₹1.26 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/volvo-car-india-introduces-electric-luxury-suv-ex90-at-126-crore/article71574275.ece",
+      "publishedAt": "Mon, 12 Oct 2026 14:24:40 +0530"
+    },
     {
       "title": "Stock Market LIVE: Sensex down 500 pts; SIP contribution hits record high of ₹32,490 crore",
       "source": "Zerodha Pulse",
@@ -146,52 +172,22 @@
       "publishedAt": "Mon, 12 Oct 2026 13:46:30 +0530"
     },
     {
-      "title": "Drought in 3 States, 2 More Flagged: All Eyes on Food Inflation",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/drought-in-madhya-pradesh-rajasthan-telangana-maharashtra-and-andhra-pradesh-all-eyes-on-food-inflation-12172916#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 13:45:22 +0530"
-    },
-    {
-      "title": "US bull market nears four-year milestone as AI boom fuels profits, growth",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bull-market-nears-four-year-milestone-as-ai-boom-fuels-profits-growth/articleshow/134886825.cms",
-      "publishedAt": "Mon, 12 Oct 2026 13:38:22 +0530"
-    },
-    {
-      "title": "Telecom stocks under fire, sink up to 13% as Elon Musk’s Starlink buys spectrum from Grain Management",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/telecom-stocks-under-fire-sink-up-to-13-as-elon-musks-starlink-buys-spectrum-from-grain-management/articleshow/134886760.cms",
-      "publishedAt": "Mon, 12 Oct 2026 13:34:26 +0530"
-    },
-    {
-      "title": "FIIs cut stakes in 12 stocks in September quarter; shares fall up to 27% in 3 months",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-in-12-stocks-in-september-quarter-shares-fall-up-to-27-in-3-months/slideshow/134886941.cms",
-      "publishedAt": "Mon, 12 Oct 2026 13:30:14 +0530"
-    },
-    {
-      "title": "Tech Mahindra Shares Fall 4% As US Telecom Stocks Slide",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/tech-mahindra-shares-fall-4-as-us-telecom-stocks-slide-12172320#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 13:28:09 +0530"
-    },
-    {
       "title": "Stock Market Today Live: Markets turn red; Sensex down 740 points, Nifty sheds almost 200 points - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnlaU3Z2c25wYl9wRWhUZlc1RHdxUVhiLUMyRzNkd3dLdGlPUXZPMHdhSXVodDB1R1oyZWxOTkZIWWtpa1BfbmQySF9DRl9fTUlVcEFPbHRMazZNd1pLMkRBWHh2RHpvU3pTMjZfZDdyVUtEQzJRME5FUk11N0pXRjNPYjJHRjhRMUZQRTBVcXVrWDZRakRZVlhqN1IyYVRic2tzcFI5Wm1SNm1YSXJXbXQ2a0N3dENNem1uendCSkdKM1JYX0HSAcwBQVVfeXFMTm9XbU4zSDFPeVUwOV9ZZEplc0o3dEJ2OThsbDRQWllEYXh3OTJLelBZZmJVc1VlVE1VR1ozaHlLY3NBWlUwb3NiNWxPdy1hUFVNLTBsaDB2THJuOUR6QVZwUFlzTDFTWkxWbVE1c0NNN0ZqM1l1aDNESHdzWlc1Z3llVnFCUE95X3R1cWRXYWVqd0tFSlNRTE4wWlowMm1CZGF4cjJoMGlSNGJfREtlei02RUlIS25TUEYyQTZFM2lQMDVSQjh6WDFsTUhK?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 09:12:04 GMT"
+      "publishedAt": "Mon, 12 Oct 2026 09:55:55 GMT"
     },
     {
-      "title": "Why is market falling today? Sensex slumps over 600 points, Nifty below 22,400. 5 key factors behind sello - The Economic Times",
+      "title": "Why is market falling today? Sensex sinks 1,200 pts from day’s high, Nifty below 22,350. 5 key triggers be - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQnpXVTdHZUdZaUpLZWlyX1d1TTFRcGRITFRrYVJFY1NqS29PaUhtNmpxcVVuMmhobC1UOFpQd2R0OF9Kdm5jX1ozdnFPcFZiUFVJVEt4OWlMeEZkZm9IdmRQcndqNkJfc3RoYVB1Zm5iQzRRcEp6U2ViSWlwNXJ3SjdWaUNSSU56UzRXbTFGclB5cnR0a0tGNVN0SXZwYTEyV2c3VWp2WnFrcHRCbmptVlhUVExFdmFaT3VfaVBnMmJzSVMtaEZZbm9XNnE3cnR1OWp0RUMwM1ZwdTRLaU9ydnhQdGxrQmFFZlZJdXpOWjJyMlZGNnd0WTQwOUdOUjFlaW53ejY0OG5LMllCdk9ZY3NJczjSAZoCQVVfeXFMT0lDem83emZzSDZxdURPVzRtaUkxb1ROZWtRR0NCNTgxamp2Z3czUHRaZzBzV0Zkc0g0WlVPVURISjNqLS0tX1VaeHBSUW1XSHJLdzFyRG9NZEpMRnhBRTZxOWRDSU5TODYyMC1RTUx2MFlDeDlNY0RpQkZFZlRXelMxZ0Z6b3B2R1FDNTRPeFZGM25lYS1tRXZvdDRuVktKZFVKcjVCU0JMQWJ6QTAyVDFfeGZja2dlX19MSGcwR3FQbDZ2UTA1X0FQTTNkVmN4MHVURVVhZ1JpdzhHY09VWlZ2Ulk4MGpyRXBVSktmR21pV1d3MDR0QkRUTExpZDB6T3BRRS02Y2ZEanlERmtIRW16UV93cmdDRVhB?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 06:00:13 GMT"
+      "publishedAt": "Mon, 12 Oct 2026 09:18:19 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Sensex plunges 770 pts, Nifty below 22,350; Tech Mahindra, ITC, L&T, SBI top losers - Moneycontrol.com",
+      "title": "Sensex Today | Stock Market Live: Sensex slips 700 points, Nifty nears 22,300 as IT, FMCG and financial stocks drag - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZ3U2eHMwdTdvaDFlbXNJX0tRYTBHZXh4eVVDa0NGQzIxcjY3Xy0tbjVyb2hZcXRsVW5hTlB0TWNXXzJGanY3TExoLTVaeF9JWHlEbVNjYVhjZE91em56bEZra3pQSWdmRU9uaTdzNlpQQWw0VG1SVmRmMjAzZ0dXZkp3Y3ZXbW1VOVJwYkpBVlZfeEVpaU8ydVlXRUFOeV9vQ2d3a05KTEZNQjl4ZlhjMGpYYWFlMHlsYXFDWEZqd3pabjh0QWhkbi0wQXh1Y3FWaE9ZQ25xNkgyQmFTdkNKUjQ0WlV1UHRJRUt6bWV3TVBHTV9Hcjgtb0hlazZtT2FsQWNhclBVcUVOUHNYbXpuVXd5d2hNSEUzMFlhY1RPc2ZvZzTSAagCQVVfeXFMT0R4RTBTMzdRU2R2MVVIZUFMVUl0QjVmaVhOSUJOLXViUjVHeG5OSkZ6cV9QUWF5NHZjVDRRYzVsMG1BNkozOG90NmZwNkFTMTVNbWkySG0xMDVvaEpsdmtfOG5QaXdoOVBuRHhsZENGc1FnelgxbkpiUEREY2dzZGM0TUV0LXlUWUk4Q1F3TmVLcGVWU3BtbkF4dHVLSE0tY0Z3V05tdHgweElsUjZxbVpYYlFQWmF1YVhWM0RlcWFHNmJlQU1zTnZzck5JZm8yQl82T3FlSndpaUJ5RlRlQkp4Q0I1bGR1NkFqR0drbTlWakxlMmtMaGVpNGh1c18yb0VFWGdIMF95UnF1OUdkNDlLeE5rdzRUSG9YVlo1WGRfVG54NHZYWnk?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 09:26:51 GMT"
+      "publishedAt": "Mon, 12 Oct 2026 09:58:00 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty, US-Russia Diesel Deal To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Oct 12 - NDTV Profit",
