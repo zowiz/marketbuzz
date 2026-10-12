@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Sinks 548 Points Amid Oil Price Spike and Foreign Fund Outflows; Nifty Drops Below 22,400",
+  "headline": "Sensex and Nifty tumble 548 points on oil price spike and foreign fund outflows",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -8,15 +8,15 @@
   },
   "why": [
     "Spike in global oil prices impacting market sentiment",
-    "Continuous foreign fund outflows from the Indian market",
+    "Persistent foreign fund outflows from the Indian market",
     "Significant drag from IT, FMCG, and financial sector stocks",
-    "Global cues including the US-Russia diesel deal and upcoming US bank earnings"
+    "Concerns over restrictive US Fed monetary policy"
   ],
   "whatHappening": [
-    "Sensex and Nifty experienced a sharp selloff, with the Sensex closing 548 points lower",
+    "Sensex dropped 548 points while Nifty settled below the 22,400 mark",
     "HCLTech reported an 11% rise in Q2 profit and declared a second interim dividend",
-    "Polycab is set to exit the F&O segment following an NSE deadline of December 30",
-    "The TVS family has not yet reached an economic settlement according to family members"
+    "Polycab is scheduled to exit the F&O segment following an NSE deadline",
+    "TVS family members report that no economic settlement has been reached"
   ],
   "stocksInNews": [
     {
@@ -24,16 +24,16 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        5,
-        7
+        7,
+        9
       ]
     },
     {
       "symbol": "POLYCAB",
-      "sentiment": "Neutral",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        0
+        2
       ]
     },
     {
@@ -54,18 +54,20 @@
     },
     {
       "symbol": "TVSMOTOR",
-      "sentiment": "Negative",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        6
+        8
       ]
     }
   ],
-  "summary": "The Indian stock market faced a sharp decline as the Sensex fell 548 points, driven by rising oil prices and foreign institutional selling. While HCLTech posted strong Q2 results and a dividend, heavyweights like ITC and Tech Mahindra dragged the indices down. Investors are also monitoring sector-specific news such as Polycab's F&O exit and ongoing family disputes within the TVS group.",
-  "updatedAt": "2026-10-12T19:01:52.559Z",
+  "summary": "Indian markets faced a sharp decline on Monday as the Sensex fell 548 points due to rising oil prices and foreign selling. HCLTech stood out with strong Q2 earnings and dividend news, while Polycab prepared for an F&O exit. Investors are now looking toward global cues and upcoming earnings for further direction.",
+  "updatedAt": "2026-10-12T19:59:55.449Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-13",
   "articleKeys": [
+    "cleveland feds hammack backs restrictive policy says better if it comes relatively quickly",
+    "us stocks dating app bumble shares surge 52 on talks to go private at 1 billion valuation",
     "polycab to exit fo as nse sets dec 30 deadline nclat puts insolvency order on hold",
     "us bank stocks near correction as earnings loom consumer outlook in focus",
     "tata trusts seeks more time to reply charity commissioner grants a week",
@@ -74,8 +76,6 @@
     "hcltech downplays us perm clampdown sees no material business impact heres why",
     "no economic settlement reached in tvs family lakshmi venu mallika",
     "q2 results highlights hcltech q2 profit rises 11 declares second interim dividend",
-    "apples smart home display to be called homeview launch expected midnovember mark gurman",
-    "broken levers to forward guidance how two us economists won the 2026 nobel by fixing central banking",
     "why did market fall today sensex ends 548 pts lower nifty below 22400 5 triggers behind todays sellof the economic times",
     "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
     "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom",
@@ -88,6 +88,18 @@
     "stock market outlook today 12 oct sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint"
   ],
   "articles": [
+    {
+      "title": "Cleveland Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly'",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cleveland-feds-hammack-backs-restrictive-policy-says-better-if-it-comes-relatively-quickly/articleshow/134901637.cms",
+      "publishedAt": "Tue, 13 Oct 2026 00:33:57 +0530"
+    },
+    {
+      "title": "US Stocks: Dating app Bumble shares surge 52% on talks to go private at $1 billion valuation",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dating-app-bumble-shares-surge-52-on-talks-to-go-private-at-1-billion-valuation-report/articleshow/134901295.cms",
+      "publishedAt": "Tue, 13 Oct 2026 00:11:25 +0530"
+    },
     {
       "title": "Polycab To Exit F&O As NSE Sets Dec. 30 Deadline; NCLAT Puts Insolvency Order On Hold",
       "source": "Zerodha Pulse",
@@ -137,18 +149,6 @@
       "publishedAt": "Mon, 12 Oct 2026 22:55:43 +0530"
     },
     {
-      "title": "Apple’s Smart Home Display to Be Called HomeView, Launch Expected Mid-November: Mark Gurman",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/apple-s-smart-home-display-to-be-called-homeview-launch-expected-mid-november-mark-gurman-12175325#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 22:55:13 +0530"
-    },
-    {
-      "title": "Broken Levers To Forward Guidance: How Two US Economists Won The 2026 Nobel By Fixing Central Banking",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/broken-levers-to-forward-guidance-how-two-us-economists-won-the-2026-nobel-by-fixing-central-banking-12175336#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 22:54:30 +0530"
-    },
-    {
       "title": "Why did market fall today? Sensex ends 548 pts lower, Nifty below 22,400. 5 triggers behind today's sellof - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQnpXVTdHZUdZaUpLZWlyX1d1TTFRcGRITFRrYVJFY1NqS29PaUhtNmpxcVVuMmhobC1UOFpQd2R0OF9Kdm5jX1ozdnFPcFZiUFVJVEt4OWlMeEZkZm9IdmRQcndqNkJfc3RoYVB1Zm5iQzRRcEp6U2ViSWlwNXJ3SjdWaUNSSU56UzRXbTFGclB5cnR0a0tGNVN0SXZwYTEyV2c3VWp2WnFrcHRCbmptVlhUVExFdmFaT3VfaVBnMmJzSVMtaEZZbm9XNnE3cnR1OWp0RUMwM1ZwdTRLaU9ydnhQdGxrQmFFZlZJdXpOWjJyMlZGNnd0WTQwOUdOUjFlaW53ejY0OG5LMllCdk9ZY3NJczjSAZoCQVVfeXFMT0lDem83emZzSDZxdURPVzRtaUkxb1ROZWtRR0NCNTgxamp2Z3czUHRaZzBzV0Zkc0g0WlVPVURISjNqLS0tX1VaeHBSUW1XSHJLdzFyRG9NZEpMRnhBRTZxOWRDSU5TODYyMC1RTUx2MFlDeDlNY0RpQkZFZlRXelMxZ0Z6b3B2R1FDNTRPeFZGM25lYS1tRXZvdDRuVktKZFVKcjVCU0JMQWJ6QTAyVDFfeGZja2dlX19MSGcwR3FQbDZ2UTA1X0FQTTNkVmN4MHVURVVhZ1JpdzhHY09VWlZ2Ulk4MGpyRXBVSktmR21pV1d3MDR0QkRUTExpZDB6T3BRRS02Y2ZEanlERmtIRW16UV93cmdDRVhB?oc=5",
@@ -170,7 +170,7 @@
       "title": "Stock Market Close Highlights: Sensex Ends 548 Points Lower, Nifty At 22,363; FMCG, PSU Bank Top Drags - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeDhzM005ekRFeWVyVUpXVkdubTBLYmNtTWI1MmRQNEVfZnRNUGdDa253d3pZaW85VXhGbzFKVV83Z01TV3RicmNnbjU0TmpMaEZEUUIyek00MWFBN05uVGtmaU41Tzd4N28xY3V5ejgzZUpPRHVFQVJuM0xMeko3ZXFUQzlZaTlrY3puckFHWmNfWnJOZmtXSHhSRmY1TTNnM01ES2FuN0JOdXA2d3B1MGhKZXZ4WDdyNmoyU3ZGd1RLYl9TMDB3TUFoZExiSmpNa2VIZk84a1AzMzRIM1cwQldZYTU1VkY50gHwAUFVX3lxTE1UQ0xZZXplR2NzbGtpOXlPX3B1TkVkN3JNaHdIOHplZ0R4YUVNNHk2bXZCTHpObEE3bHVXMG5tbm9BNGdVM1lmYi0tc29nVmRDeWl2M0IxUzZJWEhfODJWS0FCck5scUNKeUlieFZnaEFHSnJ3Nzk5S3BCa3pHYV9qQWRqMVEzQ2NnRjhvbEQwMVRQTEU3UDV3S2tnTl9xWGh0NjNacXk4a2Jna3dQWXBKbi1ndkQ4azYzcXhuMWJDY3hfTXZWdnBJbmxBTl8xWWI2N3NwM2pSeWlSajVmV3VETHVMdWNRMkFZR1dkdkhhbA?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 09:40:00 GMT"
+      "publishedAt": "Mon, 12 Oct 2026 10:07:22 GMT"
     },
     {
       "title": "Why is stock market down today? Sensex, Nifty 50 crash - Top 3 factors behind stock market decline explained - Livemint",
