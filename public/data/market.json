@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex sinks 548 points as oil price surge and foreign fund outflows trigger broad market selloff",
+  "headline": "Sensex sinks 548 points, Nifty falls below 22,400 amid oil price spike and foreign fund outflows",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,18 +7,26 @@
     "nextOpen": ""
   },
   "why": [
-    "Spike in global oil prices impacting market sentiment",
-    "Significant foreign fund outflows from the Indian market",
-    "Heavy selling pressure in IT, FMCG, and financial sectors",
-    "Concerns over shipping disruptions potentially leading to inevitable price hikes"
+    "Spike in global oil prices",
+    "Significant foreign fund outflows",
+    "Selling pressure in IT, FMCG, and financial sectors",
+    "RBI intervention to curb speculative currency trades"
   ],
   "whatHappening": [
-    "Sensex dropped 548 points to close at 22,363 while Nifty ended below the 22,400 mark",
-    "BMI raised India's FY27 growth forecast to 7.5% citing economic optimism",
-    "Securitisation volumes in India hit a record ₹1.47 trillion in the first half of FY27",
-    "CreditAccess Grameen successfully raised $175 million through a syndicated social loan"
+    "Sensex and Nifty 50 indices crashed, ending significantly lower",
+    "Nifty closed at 22,363, slipping below the 22,400 level",
+    "The Rupee rebounded nearly 1% after RBI measures to curb speculation",
+    "Tejas Networks announced expansion plans for Europe and the Global South"
   ],
   "stocksInNews": [
+    {
+      "symbol": "TEJASNET",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
     {
       "symbol": "ITC",
       "sentiment": "Negative",
@@ -36,37 +44,29 @@
       ]
     },
     {
-      "symbol": "CREDITACC",
+      "symbol": "BHARTIARTL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "ICRA",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        3
+        6
       ]
     }
   ],
-  "summary": "The Indian stock market witnessed a sharp decline today, with the Sensex falling 548 points due to rising oil prices and persistent foreign fund outflows. Major stocks like ITC and Tech Mahindra saw significant losses as the IT and FMCG sectors dragged the indices lower. Despite the market volatility, BMI upgraded India's growth forecast and securitisation volumes reached record levels.",
-  "updatedAt": "2026-10-12T15:02:14.351Z",
+  "summary": "Indian benchmark indices ended sharply lower with the Sensex falling 548 points due to rising oil prices and FII selling. IT and FMCG sectors were the primary laggards, while the Rupee recovered following RBI intervention. Tejas Networks and Bharti Airtel remained in focus due to expansion plans and international recognition.",
+  "updatedAt": "2026-10-12T16:02:30.297Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-12",
   "articleKeys": [
+    "ge to double india sourcing to 400 mn by 2030 gecfm engines set to power 9 in 10 aircraft",
+    "coffee sector plans ailed mechanisation push with support from iit dharwad iit roorkee",
+    "rupee rebounds nearly 1 after rbi moves to curb speculative trades",
+    "hsbc to end fixedpay allowances in 2028 as uk scraps bonus pay cap",
+    "tatabacked tejas plans entry into new markets in europe global south",
     "goldman upgrades global equities on earnings optimism",
+    "sunil bharti mittal named knight of frances legion of honour what this means",
+    "delhi cjp protests 20000 paramilitary personnel deployed in capital for one month",
+    "ciel hr eyes 2600 crore revenue this fiscal says k pandiarajan",
     "agilisium aims to cut cs hire below 30 eyes 500 mn revenue in next 57 years",
-    "the 2026 nobelwinning insights into how governments should stabilise economies",
-    "securitisation volume hits record 147 trillion in h1 fy27 icra",
-    "shipping disruptions may make price hikes inevitable volvo cars india md",
-    "us stocks oil surge keeps sampp 500 nasdaq in check before earnings salesforce lifts dow",
-    "fitch solutions company bmi raises fy27 growth forecast for india to 75",
-    "creditaccess grameen raises 175 million via syndicated social loan",
-    "sahara refund not received understanding eligibility claim process and next steps",
-    "navratri 2026 which colour to wear today check day 3 colour goddess and significance",
     "why did market fall today sensex ends 548 pts lower nifty below 22400 5 triggers behind todays sellof the economic times",
     "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
     "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom",
@@ -80,64 +80,64 @@
   ],
   "articles": [
     {
+      "title": "GE to double India sourcing to $400 mn by 2030; GE-CFM engines set to power 9 in 10 aircraft",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/ge-to-double-india-sourcing-to-400-mn-by-2030-ge-cfm-engines-set-to-power-9-in-10-aircraft/article71575196.ece",
+      "publishedAt": "Mon, 12 Oct 2026 21:01:25 +0530"
+    },
+    {
+      "title": "Coffee sector plans AI-led mechanisation push with support from IIT Dharwad, IIT \nRoorkee",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/coffee-sector-plans-ai-led-mechanisation-push-with-support-from-iit-dharwad-iit-roorkee/article71576200.ece",
+      "publishedAt": "Mon, 12 Oct 2026 20:48:01 +0530"
+    },
+    {
+      "title": "Rupee rebounds nearly 1% after RBI moves to curb speculative trades",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rebounds-nearly-1-after-rbi-moves-to-curb-speculative-trades/articleshow/134896489.cms",
+      "publishedAt": "Mon, 12 Oct 2026 20:37:39 +0530"
+    },
+    {
+      "title": "HSBC To End Fixed-Pay Allowances In 2028 As UK Scraps Bonus Pay Cap",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/hsbc-to-end-fixed-pay-allowances-in-2028-as-uk-scraps-bonus-pay-cap-12174771#publisher=newsstand",
+      "publishedAt": "Mon, 12 Oct 2026 20:22:27 +0530"
+    },
+    {
+      "title": "Tata-backed Tejas plans entry into new markets in Europe, Global South",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/tata-backed-tejas-plans-entry-into-new-markets-in-europe-global-south-126101201146_1.html",
+      "publishedAt": "Mon, 12 Oct 2026 20:11:45 +0530"
+    },
+    {
       "title": "Goldman upgrades global equities on earnings optimism",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-upgrades-global-equities-on-earnings-optimism/articleshow/134895714.cms",
       "publishedAt": "Mon, 12 Oct 2026 19:54:20 +0530"
     },
     {
+      "title": "Sunil Bharti Mittal Named Knight of France's Legion of Honour: What This Means",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/trending/sunil-bharti-mittal-named-knight-of-frances-legion-of-honour-what-this-means-12175003#publisher=newsstand",
+      "publishedAt": "Mon, 12 Oct 2026 19:54:15 +0530"
+    },
+    {
+      "title": "Delhi CJP Protests: 20,000 Paramilitary Personnel Deployed In Capital For One Month",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/delhi-cjp-protests-20-000-paramilitary-personnel-deployed-in-capital-for-one-month-12174456#publisher=newsstand",
+      "publishedAt": "Mon, 12 Oct 2026 19:54:10 +0530"
+    },
+    {
+      "title": "CIEL HR eyes ₹2,600 crore revenue this fiscal, says K Pandiarajan",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/ciel-hr-eyes-2-600-crore-revenue-this-fiscal-says-k-pandiarajan-126101201116_1.html",
+      "publishedAt": "Mon, 12 Oct 2026 19:52:03 +0530"
+    },
+    {
       "title": "Agilisium aims to cut CS hire below 30%, eyes $500 mn revenue in next 5-7 years",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Industry/agilisium-aims-to-cut-cs-hire-below-30-eyes-500-mn-revenue-in-next-5-7-years/article71575204.ece",
       "publishedAt": "Mon, 12 Oct 2026 19:50:21 +0530"
-    },
-    {
-      "title": "The 2026 Nobel-winning insights into how governments should stabilise economies",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/the-2026-nobel-winning-insights-into-how-govts-should-stabilise-economies/article71574871.ece",
-      "publishedAt": "Mon, 12 Oct 2026 19:31:51 +0530"
-    },
-    {
-      "title": "Securitisation volume hits record ₹1.47 trillion in H1 FY27: ICRA",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/securitisation-volume-hits-record-1-47-trillion-in-h1-fy27-icra-126101201067_1.html",
-      "publishedAt": "Mon, 12 Oct 2026 19:24:56 +0530"
-    },
-    {
-      "title": "Shipping disruptions may make price hikes inevitable: Volvo Cars India MD",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/shipping-disruptions-may-make-price-hikes-inevitable-volvo-cars-india-md-126101201059_1.html",
-      "publishedAt": "Mon, 12 Oct 2026 19:21:33 +0530"
-    },
-    {
-      "title": "US Stocks | Oil surge keeps S&amp;P 500, Nasdaq in check before earnings; Salesforce lifts Dow",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-steady-at-open-as-oil-jumps-ahead-of-key-earnings/articleshow/134894878.cms",
-      "publishedAt": "Mon, 12 Oct 2026 19:15:03 +0530"
-    },
-    {
-      "title": "Fitch Solutions company BMI raises FY27 growth forecast for India to 7.5%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/fitch-solutions-company-bmi-raises-fy27-growth-forecast-for-india-to-7-5-126101201028_1.html",
-      "publishedAt": "Mon, 12 Oct 2026 19:09:11 +0530"
-    },
-    {
-      "title": "CreditAccess Grameen raises $175 million via syndicated social loan",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/creditaccess-grameen-raises-175-million-via-syndicated-social-loan-126101200999_1.html",
-      "publishedAt": "Mon, 12 Oct 2026 18:56:12 +0530"
-    },
-    {
-      "title": "Sahara Refund Not Received? Understanding Eligibility, Claim Process And Next Steps",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/sahara-refund-not-received-understanding-eligibility-claim-process-and-next-steps-12174071#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 18:54:32 +0530"
-    },
-    {
-      "title": "Navratri 2026: Which Colour To Wear Today? Check Day 3 Colour, Goddess And Significance",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/navratri-2026-which-colour-to-wear-today-check-day-3-colour-goddess-and-significance-12174074#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 18:52:31 +0530"
     },
     {
       "title": "Why did market fall today? Sensex ends 548 pts lower, Nifty below 22,400. 5 triggers behind today's sellof - The Economic Times",
