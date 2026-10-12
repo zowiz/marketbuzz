@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex sinks 548 points amid oil price spikes and foreign outflows; HCLTech reports 11% profit growth",
+  "headline": "Sensex Plunges 548 Points as Surging Oil Prices and Foreign Outflows Dampen Market Sentiment",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,33 +7,32 @@
     "nextOpen": ""
   },
   "why": [
-    "Global spike in oil prices impacting investor sentiment",
-    "Significant outflows of foreign funds from the Indian market",
-    "Selling pressure in major sectors including IT, FMCG, and financial stocks",
-    "Concerns regarding the US-Russia diesel deal and global market cues"
+    "Surge in global oil prices",
+    "Persistent foreign fund outflows",
+    "Weakness in IT and FMCG sectors",
+    "Negative global cues from US markets"
   ],
   "whatHappening": [
-    "Sensex dropped 548 points to close below the 22,400 level",
-    "HCLTech reported an 11% rise in Q2 net profit and declared a second interim dividend",
-    "Polycab is scheduled to exit the F&O segment by December 30 following an NSE deadline",
-    "ITC and Tech Mahindra shares declined by 3% each during the market selloff"
+    "Sensex dropped 548 points to close at 22,363",
+    "Nifty 50 ended the session below the 22,400 mark",
+    "Polycab India is scheduled to exit the F&O segment by December 30",
+    "HCLTech dismissed concerns regarding the US PERM clampdown impact"
   ],
   "stocksInNews": [
-    {
-      "symbol": "HCLTECH",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        7,
-        9
-      ]
-    },
     {
       "symbol": "POLYCAB",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        2
+        3
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        8
       ]
     },
     {
@@ -57,15 +56,16 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        8
+        9
       ]
     }
   ],
-  "summary": "Indian markets witnessed a sharp selloff as the Sensex fell 548 points, driven by rising oil prices and foreign fund outflows. HCLTech provided a positive highlight with strong Q2 results and a dividend announcement, while ITC and Tech Mahindra faced significant declines. Investors are also monitoring Polycab's upcoming exit from the F&O segment and ongoing disputes within the TVS family.",
-  "updatedAt": "2026-10-12T20:31:48.881Z",
+  "summary": "Indian benchmark indices witnessed a sharp sell-off on Monday, with the Sensex plunging 548 points to close below 22,400. The decline was primarily driven by a spike in global oil prices and persistent foreign fund outflows. Major drags included IT and FMCG heavyweights like Tech Mahindra and ITC, while Polycab prepared for its F&O exit.",
+  "updatedAt": "2026-10-12T21:01:56.059Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-13",
   "articleKeys": [
+    "us stocks nasdaq ends lower as oil prices surge ahead of earnings economic data",
     "cleveland feds hammack backs restrictive policy says better if it comes relatively quickly",
     "us stocks dating app bumble shares surge 52 on talks to go private at 1 billion valuation",
     "polycab to exit fo as nse sets dec 30 deadline nclat puts insolvency order on hold",
@@ -75,7 +75,6 @@
     "koffee with karan season 9 salman khan is the first guest on karan johars final season promo out",
     "hcltech downplays us perm clampdown sees no material business impact heres why",
     "no economic settlement reached in tvs family lakshmi venu mallika",
-    "q2 results highlights hcltech q2 profit rises 11 declares second interim dividend",
     "why did market fall today sensex ends 548 pts lower nifty below 22400 5 triggers behind todays sellof the economic times",
     "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
     "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom",
@@ -88,6 +87,12 @@
     "stock market outlook today 12 oct sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint"
   ],
   "articles": [
+    {
+      "title": "US stocks: Nasdaq ends lower as oil prices surge ahead of earnings, economic data",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-lower-as-oil-prices-surge-ahead-of-earnings-economic-data/articleshow/134902064.cms",
+      "publishedAt": "Tue, 13 Oct 2026 01:39:06 +0530"
+    },
     {
       "title": "Cleveland Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly'",
       "source": "Zerodha Pulse",
@@ -141,12 +146,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/companies/news/no-economic-settlement-reached-in-tvs-family-lakshmi-venu-mallika-126101201342_1.html",
       "publishedAt": "Mon, 12 Oct 2026 22:59:57 +0530"
-    },
-    {
-      "title": "Q2 Results Highlights: HCLTech Q2 Profit Rises 11%, Declares Second Interim Dividend",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-hcltech-rbl-bank-icici-prudential-amc-among-18-companies-to-announce-earnings-today-12171852#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 22:55:43 +0530"
     },
     {
       "title": "Why did market fall today? Sensex ends 548 pts lower, Nifty below 22,400. 5 triggers behind today's sellof - The Economic Times",
