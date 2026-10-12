@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Cracks Over 500 Points while Nifty Slips Below 22,400 Led by Tech and Telecom Losses",
+  "headline": "Sensex plunges over 700 points as Nifty slips below 22,400; telecom and IT stocks lead the decline",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex dropped over 500 points and slipped 1,000 points from the day's high, driving Nifty below 22,400.",
-    "Tech and telecom stocks faced selling pressure, with Tech Mahindra falling 4% following a slide in US telecom stocks.",
-    "FMCG and PSU bank sectors saw broad declines while India VIX jumped 7%.",
-    "FIIs reduced stakes in 12 stocks during the September quarter, weighing on market sentiment."
+    "Starlink's spectrum acquisition from Grain Management caused telecom stocks to sink up to 13%",
+    "Foreign Institutional Investors (FIIs) reduced their holdings in 12 stocks during the September quarter",
+    "Drought in three states has flagged concerns over rising food inflation",
+    "A slide in US telecom stocks negatively impacted Indian IT shares like Tech Mahindra"
   ],
   "whatHappening": [
-    "Monthly SIP contributions reached a record high of ₹32,490 crore despite the market correction.",
-    "Telecom stocks fell up to 13% after Elon Musk's Starlink acquired spectrum from Grain Management.",
-    "Swaraj Engines surged 15% on strong Q2 results, while HCLTech rose ahead of its earnings release.",
-    "New India Assurance shares climbed 14%, continuing gains for a second straight session."
+    "The Sensex plunged over 700 points while the Nifty 50 index slipped below 22,400",
+    "SIP contributions reached a record monthly high of ₹32,490 crore",
+    "Swaraj Engines shares surged 15% following the announcement of its Q2 results",
+    "New India Assurance shares rose 14%, extending gains for the second consecutive session"
   ],
   "stocksInNews": [
     {
@@ -26,7 +26,7 @@
       "articleIds": [
         1,
         9,
-        14
+        12
       ]
     },
     {
@@ -35,24 +35,24 @@
       "sources": "Mentioned by 2/8 sources",
       "articleIds": [
         1,
-        14
+        12
       ]
     },
     {
       "symbol": "SBIN",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        1
+        1,
+        12
       ]
     },
     {
       "symbol": "COALINDIA",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        1,
-        14
+        1
       ]
     },
     {
@@ -78,10 +78,18 @@
       "articleIds": [
         4
       ]
+    },
+    {
+      "symbol": "LT",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        12
+      ]
     }
   ],
-  "summary": "Indian benchmark indices fell sharply today, with the Sensex dropping over 500 points and Nifty breaking below 22,400.\nTech Mahindra, ITC, Coal India, and SBI were among the top drags on the market as FMCG, IT, and PSU bank sectors declined.\nBucking the trend, Swaraj Engines, New India Assurance, and HCLTech traded higher on Q2 results and positive earnings outlooks.",
-  "updatedAt": "2026-10-12T09:01:42.294Z",
+  "summary": "Indian benchmark indices witnessed a sharp sell-off on October 12, with the Sensex plunging over 700 points and Nifty falling below 22,400. Telecom and IT sectors were the hardest hit following global sector weakness and Starlink's spectrum deal, though SIP contributions hit a record high. Despite the downturn, Swaraj Engines and New India Assurance posted double-digit gains on positive corporate developments.",
+  "updatedAt": "2026-10-12T09:31:48.420Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-12",
   "articleKeys": [
@@ -95,13 +103,13 @@
     "telecom stocks under fire sink up to 13 as elon musks starlink buys spectrum from grain management",
     "fiis cut stakes in 12 stocks in september quarter shares fall up to 27 in 3 months",
     "tech mahindra shares fall 4 as us telecom stocks slide",
-    "sensex today stock market live sensex plunges nearly 700 pts nifty slips below 22350 fmcg psu banks slide vix jumps 7 moneycontrolcom",
-    "stock market today live sensex nifty turn lower sensex down 470 points nifty sheds 110 points businessline",
+    "stock market today live markets turn red sensex down 740 points nifty sheds almost 200 points businessline",
+    "why is market falling today sensex slumps over 600 points nifty below 22400 5 key factors behind sello the economic times",
+    "sensex today stock market live sensex plunges 770 pts nifty below 22350 tech mahindra itc lt sbi top losers moneycontrolcom",
     "stock market today gift nifty usrussia diesel deal to oil prices five key factors for sensex nifty 50 on oct 12 ndtv profit",
-    "stock market outlook today 12 oct sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint",
-    "stock market today live sensex slides 600 points nifty below 22400 techm itc coal india top drags ndtv profit",
-    "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "indian stock market outlook next week 1216 oct sensex nifty likely to extend recovery after 8week losses goodreturns",
+    "stock market outlook today 12 oct sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint",
+    "why did market rise today sensex jumps over 800 points nifty closes above 22500 6 key factors behind d the economic times",
     "sensex today stock market highlights sensex ends nearly 900 pts higher nifty above 22500 after cas it jumps 3 fmcg gains over 2 moneycontrolcom",
     "stock market today highlights october 9 sensex gains over 87909 points nifty tops 2252045 as all sectoral indices turn green businessline",
     "five reasons indias stock market is sinking even when its economy is growing bbc"
@@ -168,16 +176,22 @@
       "publishedAt": "Mon, 12 Oct 2026 13:28:09 +0530"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Sensex plunges nearly 700 pts, Nifty slips below 22,350; FMCG, PSU banks slide, VIX jumps 7% - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZ3U2eHMwdTdvaDFlbXNJX0tRYTBHZXh4eVVDa0NGQzIxcjY3Xy0tbjVyb2hZcXRsVW5hTlB0TWNXXzJGanY3TExoLTVaeF9JWHlEbVNjYVhjZE91em56bEZra3pQSWdmRU9uaTdzNlpQQWw0VG1SVmRmMjAzZ0dXZkp3Y3ZXbW1VOVJwYkpBVlZfeEVpaU8ydVlXRUFOeV9vQ2d3a05KTEZNQjl4ZlhjMGpYYWFlMHlsYXFDWEZqd3pabjh0QWhkbi0wQXh1Y3FWaE9ZQ25xNkgyQmFTdkNKUjQ0WlV1UHRJRUt6bWV3TVBHTV9Hcjgtb0hlazZtT2FsQWNhclBVcUVOUHNYbXpuVXd5d2hNSEUzMFlhY1RPc2ZvZzTSAagCQVVfeXFMT0R4RTBTMzdRU2R2MVVIZUFMVUl0QjVmaVhOSUJOLXViUjVHeG5OSkZ6cV9QUWF5NHZjVDRRYzVsMG1BNkozOG90NmZwNkFTMTVNbWkySG0xMDVvaEpsdmtfOG5QaXdoOVBuRHhsZENGc1FnelgxbkpiUEREY2dzZGM0TUV0LXlUWUk4Q1F3TmVLcGVWU3BtbkF4dHVLSE0tY0Z3V05tdHgweElsUjZxbVpYYlFQWmF1YVhWM0RlcWFHNmJlQU1zTnZzck5JZm8yQl82T3FlSndpaUJ5RlRlQkp4Q0I1bGR1NkFqR0drbTlWakxlMmtMaGVpNGh1c18yb0VFWGdIMF95UnF1OUdkNDlLeE5rdzRUSG9YVlo1WGRfVG54NHZYWnk?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 08:56:52 GMT"
-    },
-    {
-      "title": "Stock Market Today Live: Sensex, Nifty turn lower; Sensex down 470 points, Nifty sheds 110 points - BusinessLine",
+      "title": "Stock Market Today Live: Markets turn red; Sensex down 740 points, Nifty sheds almost 200 points - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnlaU3Z2c25wYl9wRWhUZlc1RHdxUVhiLUMyRzNkd3dLdGlPUXZPMHdhSXVodDB1R1oyZWxOTkZIWWtpa1BfbmQySF9DRl9fTUlVcEFPbHRMazZNd1pLMkRBWHh2RHpvU3pTMjZfZDdyVUtEQzJRME5FUk11N0pXRjNPYjJHRjhRMUZQRTBVcXVrWDZRakRZVlhqN1IyYVRic2tzcFI5Wm1SNm1YSXJXbXQ2a0N3dENNem1uendCSkdKM1JYX0HSAcwBQVVfeXFMTm9XbU4zSDFPeVUwOV9ZZEplc0o3dEJ2OThsbDRQWllEYXh3OTJLelBZZmJVc1VlVE1VR1ozaHlLY3NBWlUwb3NiNWxPdy1hUFVNLTBsaDB2THJuOUR6QVZwUFlzTDFTWkxWbVE1c0NNN0ZqM1l1aDNESHdzWlc1Z3llVnFCUE95X3R1cWRXYWVqd0tFSlNRTE4wWlowMm1CZGF4cjJoMGlSNGJfREtlei02RUlIS25TUEYyQTZFM2lQMDVSQjh6WDFsTUhK?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 08:15:59 GMT"
+      "publishedAt": "Mon, 12 Oct 2026 09:12:04 GMT"
+    },
+    {
+      "title": "Why is market falling today? Sensex slumps over 600 points, Nifty below 22,400. 5 key factors behind sello - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQnpXVTdHZUdZaUpLZWlyX1d1TTFRcGRITFRrYVJFY1NqS29PaUhtNmpxcVVuMmhobC1UOFpQd2R0OF9Kdm5jX1ozdnFPcFZiUFVJVEt4OWlMeEZkZm9IdmRQcndqNkJfc3RoYVB1Zm5iQzRRcEp6U2ViSWlwNXJ3SjdWaUNSSU56UzRXbTFGclB5cnR0a0tGNVN0SXZwYTEyV2c3VWp2WnFrcHRCbmptVlhUVExFdmFaT3VfaVBnMmJzSVMtaEZZbm9XNnE3cnR1OWp0RUMwM1ZwdTRLaU9ydnhQdGxrQmFFZlZJdXpOWjJyMlZGNnd0WTQwOUdOUjFlaW53ejY0OG5LMllCdk9ZY3NJczjSAZoCQVVfeXFMT0lDem83emZzSDZxdURPVzRtaUkxb1ROZWtRR0NCNTgxamp2Z3czUHRaZzBzV0Zkc0g0WlVPVURISjNqLS0tX1VaeHBSUW1XSHJLdzFyRG9NZEpMRnhBRTZxOWRDSU5TODYyMC1RTUx2MFlDeDlNY0RpQkZFZlRXelMxZ0Z6b3B2R1FDNTRPeFZGM25lYS1tRXZvdDRuVktKZFVKcjVCU0JMQWJ6QTAyVDFfeGZja2dlX19MSGcwR3FQbDZ2UTA1X0FQTTNkVmN4MHVURVVhZ1JpdzhHY09VWlZ2Ulk4MGpyRXBVSktmR21pV1d3MDR0QkRUTExpZDB6T3BRRS02Y2ZEanlERmtIRW16UV93cmdDRVhB?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 06:00:13 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Sensex plunges 770 pts, Nifty below 22,350; Tech Mahindra, ITC, L&T, SBI top losers - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZ3U2eHMwdTdvaDFlbXNJX0tRYTBHZXh4eVVDa0NGQzIxcjY3Xy0tbjVyb2hZcXRsVW5hTlB0TWNXXzJGanY3TExoLTVaeF9JWHlEbVNjYVhjZE91em56bEZra3pQSWdmRU9uaTdzNlpQQWw0VG1SVmRmMjAzZ0dXZkp3Y3ZXbW1VOVJwYkpBVlZfeEVpaU8ydVlXRUFOeV9vQ2d3a05KTEZNQjl4ZlhjMGpYYWFlMHlsYXFDWEZqd3pabjh0QWhkbi0wQXh1Y3FWaE9ZQ25xNkgyQmFTdkNKUjQ0WlV1UHRJRUt6bWV3TVBHTV9Hcjgtb0hlazZtT2FsQWNhclBVcUVOUHNYbXpuVXd5d2hNSEUzMFlhY1RPc2ZvZzTSAagCQVVfeXFMT0R4RTBTMzdRU2R2MVVIZUFMVUl0QjVmaVhOSUJOLXViUjVHeG5OSkZ6cV9QUWF5NHZjVDRRYzVsMG1BNkozOG90NmZwNkFTMTVNbWkySG0xMDVvaEpsdmtfOG5QaXdoOVBuRHhsZENGc1FnelgxbkpiUEREY2dzZGM0TUV0LXlUWUk4Q1F3TmVLcGVWU3BtbkF4dHVLSE0tY0Z3V05tdHgweElsUjZxbVpYYlFQWmF1YVhWM0RlcWFHNmJlQU1zTnZzck5JZm8yQl82T3FlSndpaUJ5RlRlQkp4Q0I1bGR1NkFqR0drbTlWakxlMmtMaGVpNGh1c18yb0VFWGdIMF95UnF1OUdkNDlLeE5rdzRUSG9YVlo1WGRfVG54NHZYWnk?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 09:26:51 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty, US-Russia Diesel Deal To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Oct 12 - NDTV Profit",
@@ -186,28 +200,22 @@
       "publishedAt": "Mon, 12 Oct 2026 01:37:28 GMT"
     },
     {
+      "title": "Indian Stock Market Outlook Next Week, 12-16 Oct: Sensex, Nifty Likely to Extend Recovery After 8-Week Losses - Goodreturns",
+      "source": "Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGg2TzBpb1F2d3NvQmI1LW5QODBFa2JkTWJTWHIzbGtGX0toSWhpVVgtaExWQlV2YzYwRmtMOW13TUlPY3RvTmxEM25XaVZpRXFDR0Z2SkFnWkU3aGplcmhiMmRJU1IyTTZYcnB6VGowQTZVaVVtQjhuQVY4QmVMdWFGekpqeENIT2JQN1d0S1BYUjUtNUpnVE9uOXZqcjlZOS1sNGd0SkF6Vml6TDlzaGhkWGg4bXJPZFpsd1ZONkZ4RTBoRWY3bnZRQ0ZfMVJhNDhzNTNjeURXa0hXNHc?oc=5",
+      "publishedAt": "Sun, 11 Oct 2026 04:42:41 GMT"
+    },
+    {
       "title": "Stock market outlook today, 12 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdElobnFRdkhBaW55dkdTbjNrNGlBZjhGcjE0em00Y1JNVmRhY1dhNjBCa05QbnpMVG5iV0hfcUxDV0ZwTFVYT1lJUF93ZjlhUGNJS2JKNTlPYndRSGdFcU43eDFERnVsYWZoRjJVNjlSa1ZHRURsUm9oaXpmeGM3bjZseDJRR0hERnd0aVFPSm0xLWNHU1VkSnRpZ3daVVlVZlE1RmZ0TXVpbFJicWhWUDB4ZUNrU1lzNThzY3duMThqZUhHd0lPU0tYZ21TaVFaV0J6U1JFSnVxcEs5NG0yTTRuZnZkNGZLZWQycElBeHBETmY0UkJ0VXBhTDROYU83X0HSAYcCQVVfeXFMTV93NTFOWk1nTnVTOGk3M0llNGhjZkdrckNJNHV3bWxGWG5OaVd0VkR5NjBwZkNZV2ZvajZSTE52TDViYjJxYTEwOXVRaUhOaUtDeGNneTQ2dEpxNHQteHdmaXQ4Zy1CYm51R19idlNmUUtBaHRrSGo3QVh0d01ESTFOYjFRX1IxelEzWHFwNUNVbDBWcFRROFhGTS1iOVN5OWY1QUU5RDRUVWJNWHZQajlPVXFnSmVXczlmQlJ4R0IzLThYVktGNDRIRTRZUVVscU5iNmptb2YyS0lacE9JRURrM3JLaUJCTWhLV0tBbG92V3pFYVpWRlNDZHBqMnRCbTdTZWlHVUU?oc=5",
       "publishedAt": "Mon, 12 Oct 2026 01:27:56 GMT"
     },
     {
-      "title": "Stock Market Today LIVE: Sensex Slides 600 Points, Nifty Below 22,400; TechM, ITC, Coal India Top Drags - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeDhzM005ekRFeWVyVUpXVkdubTBLYmNtTWI1MmRQNEVfZnRNUGdDa253d3pZaW85VXhGbzFKVV83Z01TV3RicmNnbjU0TmpMaEZEUUIyek00MWFBN05uVGtmaU41Tzd4N28xY3V5ejgzZUpPRHVFQVJuM0xMeko3ZXFUQzlZaTlrY3puckFHWmNfWnJOZmtXSHhSRmY1TTNnM01ES2FuN0JOdXA2d3B1MGhKZXZ4WDdyNmoyU3ZGd1RLYl9TMDB3TUFoZExiSmpNa2VIZk84a1AzMzRIM1cwQldZYTU1VkY5?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 08:50:00 GMT"
-    },
-    {
       "title": "Why did market rise today? Sensex jumps over 800 points, Nifty closes above 22,500. 6 key factors behind D - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRE9ZWkktb1FyQjlBajAxS2x3QlUtVTlWQ1JrTExXZkJwR0lkdVU2eDUxVEVMS0tVM3laSzZJbGZTOXd5TDVaN2JxNnVQSUNWY0g4VkVIa3piNHRSOHNfMjdRUTI0OWxvUTZzR2o1emtid0cyeWlkYmVHVE55Q0tsMmg2NmZJanlfdk0xSEc1SHhHalJBenk1LWo1Z2NrcW16THh3QnBxZENlYk1OUEZQbWZ5c3lHdGphT19PandhUWlQTFg4LVQ4UlM1aElEWDlJRWlkRU5QZVVQdDNULXBxc2J4WnlRdjZYSHFBY2dDOTYwRzVMSWlhVjBhRVY4QmJHRmlkQUVDRmRZbGNwU2fSAZMCQVVfeXFMTUh3UmRvR19UV2ZJWl9ueHVKcURVdWVwX0ZDNndScmhMR05wZEJ1OFJtdkc3QzNaUUtvVWIyeEp5S0FNT2s4U3pUSDhhOXduZmhfZVZkd0wtTHBPRlVfTjMtbWVhb2tab2M5RDlrYW01R1NOQ2x4S1k1M1hIVUpWS2NxM1FFQkREcEl3bnFvZWFCNVVfV0xvUlFXVWUzM0VTRUozVVUtVUhCSUo0QjMwYXA5N3ZQekJvVXRuQnRXUFJocDV2cDhseENrejVvcE9yeW1ZQkJLT2RzYXR0Z2lHaVMzUGRScEgtYzF2U1BRVHNaYTRtcEdtVEZOdFVLRXkyMC01dFh4MS1HR2dPYl9PdEk1bTA?oc=5",
       "publishedAt": "Fri, 09 Oct 2026 03:59:14 GMT"
-    },
-    {
-      "title": "Indian Stock Market Outlook Next Week, 12-16 Oct: Sensex, Nifty Likely to Extend Recovery After 8-Week Losses - Goodreturns",
-      "source": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGg2TzBpb1F2d3NvQmI1LW5QODBFa2JkTWJTWHIzbGtGX0toSWhpVVgtaExWQlV2YzYwRmtMOW13TUlPY3RvTmxEM25XaVZpRXFDR0Z2SkFnWkU3aGplcmhiMmRJU1IyTTZYcnB6VGowQTZVaVVtQjhuQVY4QmVMdWFGekpqeENIT2JQN1d0S1BYUjUtNUpnVE9uOXZqcjlZOS1sNGd0SkF6Vml6TDlzaGhkWGg4bXJPZFpsd1ZONkZ4RTBoRWY3bnZRQ0ZfMVJhNDhzNTNjeURXa0hXNHc?oc=5",
-      "publishedAt": "Sun, 11 Oct 2026 04:42:41 GMT"
     },
     {
       "title": "Sensex Today | Stock Market Highlights: Sensex ends nearly 900 pts higher, Nifty above 22,500 after CAS; IT jumps 3%, FMCG gains over 2% - Moneycontrol.com",
