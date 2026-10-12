@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex falls 548 points as oil price spikes and foreign fund outflows trigger market selloff",
+  "headline": "Sensex falls 548 points as oil prices and foreign outflows hit Indian markets; RBL Bank, HCLTech post strong earnings.",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -8,31 +8,39 @@
   },
   "why": [
     "Spike in global oil prices",
-    "Significant foreign fund outflows",
-    "Selling pressure in IT, FMCG, and financial sectors",
-    "Speculative trades in the currency market"
+    "Persistent foreign fund outflows",
+    "Heavy selling in IT, FMCG, and financial sectors",
+    "Global triggers including the US-Russia diesel deal"
   ],
   "whatHappening": [
-    "Sensex dropped 548 points to close significantly lower",
-    "Nifty 50 ended the session below the 22,400 level",
-    "Rupee rebounded nearly 1% following RBI intervention to curb speculation",
-    "Tejas Networks announced expansion plans for Europe and the Global South"
+    "Sensex closed 548 points lower at 22,363, while Nifty slipped below the 22,400 level",
+    "RBL Bank's Q2 net profit surged 170% YoY, and HCLTech reported a 21% profit jump",
+    "Polycab India faces an F&O exit deadline of December 30, though NCLAT stayed an insolvency order",
+    "ITC and Tech Mahindra were among the top laggards, each falling by 3%"
   ],
   "stocksInNews": [
     {
-      "symbol": "TEJASNET",
+      "symbol": "RBLBANK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4
+        3
       ]
     },
     {
-      "symbol": "BHARTIARTL",
+      "symbol": "HCLTECH",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         6
+      ]
+    },
+    {
+      "symbol": "POLYCAB",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        2
       ]
     },
     {
@@ -52,21 +60,21 @@
       ]
     }
   ],
-  "summary": "Indian benchmark indices crashed as the Sensex fell 548 points, driven by rising oil prices and persistent foreign fund outflows. Major sectoral laggards included IT and FMCG, with ITC and Tech Mahindra both dropping 3%. Despite the market decline, the Rupee recovered following RBI action, and Tejas Networks shared positive global expansion plans.",
-  "updatedAt": "2026-10-12T16:31:39.416Z",
+  "summary": "The Indian stock market faced a significant downturn on Monday, with the Sensex falling 548 points amid rising oil prices and foreign fund selling. While RBL Bank and HCLTech reported strong quarterly earnings, heavyweights in the IT and FMCG sectors dragged the indices lower. Polycab India also remained in focus following news of its upcoming exit from the F&O segment.",
+  "updatedAt": "2026-10-12T17:05:28.842Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-12",
   "articleKeys": [
-    "ge to double india sourcing to 400 mn by 2030 gecfm engines set to power 9 in 10 aircraft",
-    "coffee sector plans ailed mechanisation push with support from iit dharwad iit roorkee",
-    "rupee rebounds nearly 1 after rbi moves to curb speculative trades",
-    "hsbc to end fixedpay allowances in 2028 as uk scraps bonus pay cap",
-    "tatabacked tejas plans entry into new markets in europe global south",
-    "goldman upgrades global equities on earnings optimism",
-    "sunil bharti mittal named knight of frances legion of honour what this means",
-    "delhi cjp protests 20000 paramilitary personnel deployed in capital for one month",
-    "ciel hr eyes 2600 crore revenue this fiscal says k pandiarajan",
-    "agilisium aims to cut cs hire below 30 eyes 500 mn revenue in next 57 years",
+    "qualcomm sells nearly 1 stake in shadowfax technologies for rs 157 crore",
+    "pc market witnessed a massive contraction in q3 of 2026 gartner",
+    "polycab indias fampo exit nse sets december 30 deadline nclat stays insolvency order",
+    "rbl banks q2 net profit jumps 170 yoy",
+    "president appoints 4 new state governors switches governors for 2 states",
+    "indias eu uk trade pacts to spur global automakers to set up units goyal",
+    "hcltech posts 21 yoy jump in q2 net profit",
+    "fm sitharaman urges global action on steel overcapacity invites worldsteel",
+    "salesforce jumps 5 as bank of america doubleupgrades stock on ai integration check target price",
+    "uk to evaluate ai models before release reversing trump policy",
     "why did market fall today sensex ends 548 pts lower nifty below 22400 5 triggers behind todays sellof the economic times",
     "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
     "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom",
@@ -80,64 +88,64 @@
   ],
   "articles": [
     {
-      "title": "GE to double India sourcing to $400 mn by 2030; GE-CFM engines set to power 9 in 10 aircraft",
+      "title": "Qualcomm Sells Nearly 1% Stake In Shadowfax Technologies For Rs 157 Crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/ge-to-double-india-sourcing-to-400-mn-by-2030-ge-cfm-engines-set-to-power-9-in-10-aircraft/article71575196.ece",
-      "publishedAt": "Mon, 12 Oct 2026 21:01:25 +0530"
+      "link": "https://www.ndtvprofit.com/business/qualcomm-sells-nearly-1-pc-stake-in-shadowfax-technologies-for-rs-157-cr-12175514#publisher=newsstand",
+      "publishedAt": "Mon, 12 Oct 2026 22:00:04 +0530"
     },
     {
-      "title": "Coffee sector plans AI-led mechanisation push with support from IIT Dharwad, IIT \nRoorkee",
+      "title": "PC market witnessed a massive contraction in Q3 of 2026: Gartner",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/coffee-sector-plans-ai-led-mechanisation-push-with-support-from-iit-dharwad-iit-roorkee/article71576200.ece",
-      "publishedAt": "Mon, 12 Oct 2026 20:48:01 +0530"
+      "link": "https://www.thehindu.com/business/pc-market-witnessed-a-massive-contraction-in-q3-of-2026-gartner/article71576559.ece",
+      "publishedAt": "Mon, 12 Oct 2026 21:59:51 +0530"
     },
     {
-      "title": "Rupee rebounds nearly 1% after RBI moves to curb speculative trades",
+      "title": "Polycab India’s F&amp;O exit: NSE sets December 30 deadline; NCLAT stays insolvency order",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rebounds-nearly-1-after-rbi-moves-to-curb-speculative-trades/articleshow/134896489.cms",
-      "publishedAt": "Mon, 12 Oct 2026 20:37:39 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/polycab-indias-fo-exit-nse-sets-december-30-deadline-nclat-stays-insolvency-order/articleshow/134898074.cms",
+      "publishedAt": "Mon, 12 Oct 2026 21:54:24 +0530"
     },
     {
-      "title": "HSBC To End Fixed-Pay Allowances In 2028 As UK Scraps Bonus Pay Cap",
+      "title": "RBL Bank’s Q2 net profit jumps 170% YoY",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/hsbc-to-end-fixed-pay-allowances-in-2028-as-uk-scraps-bonus-pay-cap-12174771#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 20:22:27 +0530"
+      "link": "https://www.thehindu.com/business/rbl-banks-q2-net-profit-jumps-170-yoy/article71576398.ece",
+      "publishedAt": "Mon, 12 Oct 2026 21:52:48 +0530"
     },
     {
-      "title": "Tata-backed Tejas plans entry into new markets in Europe, Global South",
+      "title": "President appoints 4 new state governors; switches governors for 2 states",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/tata-backed-tejas-plans-entry-into-new-markets-in-europe-global-south-126101201146_1.html",
-      "publishedAt": "Mon, 12 Oct 2026 20:11:45 +0530"
+      "link": "https://www.business-standard.com/politics/president-appoints-4-new-state-governors-switches-governors-for-2-states-126101201291_1.html",
+      "publishedAt": "Mon, 12 Oct 2026 21:50:58 +0530"
     },
     {
-      "title": "Goldman upgrades global equities on earnings optimism",
+      "title": "India's EU, UK trade pacts to spur global automakers to set up units: Goyal",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-upgrades-global-equities-on-earnings-optimism/articleshow/134895714.cms",
-      "publishedAt": "Mon, 12 Oct 2026 19:54:20 +0530"
+      "link": "https://www.business-standard.com/economy/news/india-s-eu-uk-trade-pacts-to-spur-global-automakers-to-set-up-units-goyal-126101201155_1.html",
+      "publishedAt": "Mon, 12 Oct 2026 21:47:05 +0530"
     },
     {
-      "title": "Sunil Bharti Mittal Named Knight of France's Legion of Honour: What This Means",
+      "title": "HCLTech posts 21% YoY jump in Q2 net profit",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/sunil-bharti-mittal-named-knight-of-frances-legion-of-honour-what-this-means-12175003#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 19:54:15 +0530"
+      "link": "https://www.thehindu.com/business/hcltech-posts-21-yoy-jump-in-q2-net-profit/article71576496.ece",
+      "publishedAt": "Mon, 12 Oct 2026 21:44:45 +0530"
     },
     {
-      "title": "Delhi CJP Protests: 20,000 Paramilitary Personnel Deployed In Capital For One Month",
+      "title": "FM Sitharaman urges global action on steel overcapacity, invites worldsteel",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-cjp-protests-20-000-paramilitary-personnel-deployed-in-capital-for-one-month-12174456#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 19:54:10 +0530"
+      "link": "https://www.business-standard.com/industry/news/fm-sitharaman-urges-global-action-on-steel-overcapacity-invites-worldsteel-126101201300_1.html",
+      "publishedAt": "Mon, 12 Oct 2026 21:37:31 +0530"
     },
     {
-      "title": "CIEL HR eyes ₹2,600 crore revenue this fiscal, says K Pandiarajan",
+      "title": "Salesforce Jumps 5% As Bank Of America Double-Upgrades Stock On AI Integration: Check Target Price",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/ciel-hr-eyes-2-600-crore-revenue-this-fiscal-says-k-pandiarajan-126101201116_1.html",
-      "publishedAt": "Mon, 12 Oct 2026 19:52:03 +0530"
+      "link": "https://www.ndtvprofit.com/markets/salesforce-jumps-5-from-previous-close-as-bank-of-america-double-upgrades-stock-on-ai-integration-check-target-price-12175475#publisher=newsstand",
+      "publishedAt": "Mon, 12 Oct 2026 21:37:10 +0530"
     },
     {
-      "title": "Agilisium aims to cut CS hire below 30%, eyes $500 mn revenue in next 5-7 years",
+      "title": "UK To Evaluate AI Models Before Release, Reversing Trump Policy",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/agilisium-aims-to-cut-cs-hire-below-30-eyes-500-mn-revenue-in-next-5-7-years/article71575204.ece",
-      "publishedAt": "Mon, 12 Oct 2026 19:50:21 +0530"
+      "link": "https://www.ndtvprofit.com/world/uk-to-evaluate-ai-models-before-release-reversing-trump-policy-12175489#publisher=newsstand",
+      "publishedAt": "Mon, 12 Oct 2026 21:34:12 +0530"
     },
     {
       "title": "Why did market fall today? Sensex ends 548 pts lower, Nifty below 22,400. 5 triggers behind today's sellof - The Economic Times",
