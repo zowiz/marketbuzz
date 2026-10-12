@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex slumps 700 points as market volatility jumps; SIP inflows hit record ₹32,490 crore in September",
+  "headline": "Sensex drops 548 points as Nifty ends at 22,363; IT, FMCG and financials drag",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,101 +7,61 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex plummeted over 1,000 points from its intraday high due to sharp profit booking",
-    "The India VIX jumped 7%, indicating a significant rise in market volatility and investor anxiety",
-    "Heavy selling in IT, FMCG, and financial sectors dragged the benchmark indices lower",
-    "Global market sentiment was mixed as investors focused on easing oil prices and upcoming corporate earnings"
+    "Sensex sank over 1,200 points from the day's high due to profit booking and selling pressure.",
+    "Major sectoral indices like IT, FMCG, PSU Banks, and Financials heavily underperformed.",
+    "Global market cues and oil price developments added to investor caution.",
+    "Markets surrendered early session gains as widespread selling emerged across heavyweights."
   ],
   "whatHappening": [
-    "Nifty 50 dropped below the 22,400 level during a volatile trading session",
-    "Mutual fund SIP contributions reached a historic record high of ₹32,490 crore for September 2026",
-    "Swaraj Engines shares skyrocketed 15% following the announcement of strong Q2 financial results",
-    "New India Assurance shares surged 14%, extending gains for the second consecutive session"
+    "Sensex ended 548 points lower, while Nifty 50 closed below 22,400 at 22,363.",
+    "Goodluck India shares surged 17% following business restructuring involving its defence and green energy units.",
+    "Tata Power Renewable doubled its Q2 FY27 capacity addition to 419 MW.",
+    "Robert E. Hall and Michael Woodford won the 2026 Nobel Prize in Economics."
   ],
   "stocksInNews": [
     {
-      "symbol": "CHENNPETRO",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "TECHM",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "COALINDIA",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "SWARAJENG",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "HCLTECH",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "NIACL",
+      "symbol": "GOODLUCK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         9
       ]
+    },
+    {
+      "symbol": "TATAPOWER",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "CYIENTDLM",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
     }
   ],
-  "summary": "The Indian stock market witnessed a sharp correction today with the Sensex falling over 700 points and Nifty slipping below 22,400. Despite the broad-based sell-off led by IT and financial stocks, mutual fund SIP inflows hit a record high of ₹32,490 crore. Individual stocks like Swaraj Engines and New India Assurance bucked the trend with significant double-digit gains.",
-  "updatedAt": "2026-10-12T10:31:43.964Z",
+  "summary": "Indian benchmark indices closed sharply lower on October 12, with the Sensex dropping 548 points and Nifty closing at 22,363.\nThe fall was driven by losses in IT, FMCG, financial, and PSU Bank stocks after the market erased intraday gains.\nIn stock-specific news, Goodluck India surged 17% on merger plans, while Tata Power Renewable doubled its Q2 capacity additions.",
+  "updatedAt": "2026-10-12T11:02:10.444Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-12",
   "articleKeys": [
-    "global market european shares rise as easing oil prices lift sentiment earnings in focus",
-    "sips register recorded 32490 crore of inflows in september 2026",
-    "dolly khanna portfolio ace investor sells 4 lakh shares of chennai petroleum in q2 stock up 82 in one year",
-    "stock market live sensex slumps 700 pts nifty near 22400 vix jumps 7",
-    "volvo car india introduces electric luxury suv ex90 at 126 crore",
-    "stock market live sensex down 500 pts sip contribution hits record high of 32490 crore",
-    "stock market today live sensex cracks 500 points nifty below 22400 techm itc sbi coal india top losers",
-    "three reasons why market is falling today sensex down 1000 points from days high nifty below 22400",
-    "q2 results live updates swaraj engines shares skyrocket 15 on q2 show hcltech rise ahead of earnings",
-    "new india assurance shares surge 14 extend gains for second session",
-    "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom",
+    "robert e hall michael woodford win nobel prize in economics 2026",
+    "michael burry screams big market crash ahead why legendary investor peter lynch ignored such predictions",
+    "coal stocks at thermal plants hold above 18 mt as supply deficit narrows",
+    "americans robert e hall michael woodford win economics nobel 2026",
+    "tata power renewable doubles capacity addition to 419 mw in q2 fy27",
+    "stock market close sensex sheds 548 pts nifty ends at 22363 fmcg psu bank indices underperform",
+    "sunil singhania adds new stock to portfolio in q2 after 140 rally likely exits cyient dlm",
+    "smallcaps have surged 23x since april 2023 why vikas khemani still sees indias next multibaggers here",
+    "excess more to pay not more to receive",
+    "goodluck india shares surge 17 as merger expands defence arm to join firm along with green energy unit",
     "why is market falling today sensex sinks 1200 pts from days high nifty below 22350 5 key triggers be the economic times",
-    "stock market today live sensex tumbles to 7192468 nifty drops to 2236335 businessline",
+    "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom",
+    "stock market today live markets turn red sensex down 740 points nifty sheds almost 200 points businessline",
     "stock market today gift nifty usrussia diesel deal to oil prices five key factors for sensex nifty 50 on oct 12 ndtv profit",
     "indian stock market outlook next week 1216 oct sensex nifty likely to extend recovery after 8week losses goodreturns",
     "stock market outlook today 12 oct sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint",
@@ -112,70 +72,64 @@
   ],
   "articles": [
     {
-      "title": "Global Market: European shares rise as easing oil prices lift sentiment; earnings in focus",
+      "title": "Robert E Hall, Michael Woodford win Nobel Prize in Economics 2026",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-easing-oil-prices-lift-sentiment-earnings-in-focus/articleshow/134888533.cms",
-      "publishedAt": "Mon, 12 Oct 2026 15:03:35 +0530"
+      "link": "https://www.business-standard.com/economy/news/robert-e-hall-michael-woodford-win-nobel-prize-in-economics-2026-126101200573_1.html",
+      "publishedAt": "Mon, 12 Oct 2026 16:01:30 +0530"
     },
     {
-      "title": "SIPs register recorded ₹32,490 crore of inflows in September 2026",
+      "title": "Michael Burry screams big market crash ahead! Why legendary investor Peter Lynch ignored such predictions",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/sips-register-recorded-32490-crore-of-inflows-in-september-2026/article71574295.ece",
-      "publishedAt": "Mon, 12 Oct 2026 14:50:54 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/michael-burry-screams-big-market-crash-ahead-why-legendary-investor-peter-lynch-ignored-such-predictions/articleshow/134889767.cms",
+      "publishedAt": "Mon, 12 Oct 2026 15:53:29 +0530"
     },
     {
-      "title": "Dolly Khanna portfolio: Ace investor sells 4 lakh shares of Chennai Petroleum in Q2, stock up 82% in one year",
+      "title": "Coal stocks at thermal plants hold above 18 MT as supply deficit narrows",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dolly-khanna-portfolio-ace-investor-sells-4-lakh-shares-of-chennai-petroleum-in-q2-stock-up-82-in-one-year/articleshow/134888180.cms",
-      "publishedAt": "Mon, 12 Oct 2026 14:43:17 +0530"
+      "link": "https://www.thehindu.com/business/Economy/coal-stocks-at-thermal-plants-hold-above-18-mt-as-supply-deficit-narrows/article71574429.ece",
+      "publishedAt": "Mon, 12 Oct 2026 15:52:40 +0530"
     },
     {
-      "title": "Stock Market LIVE: Sensex slumps 700 pts, Nifty near 22,400; VIX jumps 7%",
+      "title": "Americans Robert E. Hall, Michael Woodford win Economics Nobel 2026",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/nobel-prize-in-economics-2026-announced-robert-e-hall-michael-woodford/article71573945.ece",
+      "publishedAt": "Mon, 12 Oct 2026 15:51:09 +0530"
+    },
+    {
+      "title": "Tata Power Renewable doubles capacity addition to 419 MW in Q2 FY27",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/tata-power-renewable-doubles-capacity-addition-to-419-mw-in-q2-fy27-126101200567_1.html",
+      "publishedAt": "Mon, 12 Oct 2026 15:49:11 +0530"
+    },
+    {
+      "title": "Stock Market Close: Sensex sheds 548 pts, Nifty ends at 22,363; FMCG, PSU Bank indices underperform",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-12-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-126101200057_1.html",
-      "publishedAt": "Mon, 12 Oct 2026 14:30:54 +0530"
+      "publishedAt": "Mon, 12 Oct 2026 15:40:20 +0530"
     },
     {
-      "title": "Volvo Car India introduces electric luxury SUV EX90 at ₹1.26 crore",
+      "title": "Sunil Singhania adds new stock to portfolio in Q2 after 140% rally; likely exits Cyient DLM",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/volvo-car-india-introduces-electric-luxury-suv-ex90-at-126-crore/article71574275.ece",
-      "publishedAt": "Mon, 12 Oct 2026 14:24:40 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sunil-singhania-adds-new-stock-to-portfolio-in-q2-after-140-rally-likely-exits-cyient-dlm/articleshow/134889116.cms",
+      "publishedAt": "Mon, 12 Oct 2026 15:27:43 +0530"
     },
     {
-      "title": "Stock Market LIVE: Sensex down 500 pts; SIP contribution hits record high of ₹32,490 crore",
+      "title": "Smallcaps have surged 2.3x since April 2023. Why Vikas Khemani still sees India’s next multibaggers here",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-12-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-126101200057_1.html",
-      "publishedAt": "Mon, 12 Oct 2026 13:59:49 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/smallcaps-have-surged-2-3x-since-april-2023-why-vikas-khemani-still-sees-indias-next-multibaggers-here/articleshow/134889046.cms",
+      "publishedAt": "Mon, 12 Oct 2026 15:25:39 +0530"
     },
     {
-      "title": "Stock Market Today LIVE: Sensex Cracks 500 Points, Nifty Below 22,400; TechM, ITC, SBI, Coal India Top Losers",
+      "title": "‘Excess’: More to pay, not more to receive",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-sensex-today-nifty-50-us-russia-deal-us-iran-war-crude-oil-prices-hcl-tech-q2-results-12171695#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 13:59:03 +0530"
+      "link": "https://www.thehindu.com/business/Economy/excess-more-to-pay-not-more-to-receive/article71570551.ece",
+      "publishedAt": "Mon, 12 Oct 2026 15:23:53 +0530"
     },
     {
-      "title": "Three Reasons Why Market Is Falling Today: Sensex Down 1,000 Points From Day's High, Nifty Below 22,400",
+      "title": "Goodluck India shares surge 17% as merger expands, defence arm to join firm along with green energy unit",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/three-reasons-why-market-is-falling-today-sensex-down-1-000-points-from-days-high-nifty-below-22-400-12172954#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 13:53:59 +0530"
-    },
-    {
-      "title": "Q2 Results Live Updates: Swaraj Engines Shares Skyrocket 15% On Q2 Show; HCLTech Rise Ahead of Earnings",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-hcltech-rbl-bank-icici-prudential-amc-among-18-companies-to-announce-earnings-today-12171852#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 13:49:09 +0530"
-    },
-    {
-      "title": "New India Assurance Shares Surge 14%, Extend Gains For Second Session",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/new-india-assurance-shares-surge-14-extend-gains-for-second-session-12172879#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 13:46:30 +0530"
-    },
-    {
-      "title": "Closing Bell: Sensex sinks 548 pts, Nifty below 22,400; IT, FMCG and financial stocks drag - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZ3U2eHMwdTdvaDFlbXNJX0tRYTBHZXh4eVVDa0NGQzIxcjY3Xy0tbjVyb2hZcXRsVW5hTlB0TWNXXzJGanY3TExoLTVaeF9JWHlEbVNjYVhjZE91em56bEZra3pQSWdmRU9uaTdzNlpQQWw0VG1SVmRmMjAzZ0dXZkp3Y3ZXbW1VOVJwYkpBVlZfeEVpaU8ydVlXRUFOeV9vQ2d3a05KTEZNQjl4ZlhjMGpYYWFlMHlsYXFDWEZqd3pabjh0QWhkbi0wQXh1Y3FWaE9ZQ25xNkgyQmFTdkNKUjQ0WlV1UHRJRUt6bWV3TVBHTV9Hcjgtb0hlazZtT2FsQWNhclBVcUVOUHNYbXpuVXd5d2hNSEUzMFlhY1RPc2ZvZzTSAagCQVVfeXFMT0R4RTBTMzdRU2R2MVVIZUFMVUl0QjVmaVhOSUJOLXViUjVHeG5OSkZ6cV9QUWF5NHZjVDRRYzVsMG1BNkozOG90NmZwNkFTMTVNbWkySG0xMDVvaEpsdmtfOG5QaXdoOVBuRHhsZENGc1FnelgxbkpiUEREY2dzZGM0TUV0LXlUWUk4Q1F3TmVLcGVWU3BtbkF4dHVLSE0tY0Z3V05tdHgweElsUjZxbVpYYlFQWmF1YVhWM0RlcWFHNmJlQU1zTnZzck5JZm8yQl82T3FlSndpaUJ5RlRlQkp4Q0I1bGR1NkFqR0drbTlWakxlMmtMaGVpNGh1c18yb0VFWGdIMF95UnF1OUdkNDlLeE5rdzRUSG9YVlo1WGRfVG54NHZYWnk?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:20:19 GMT"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goodluck-india-shares-surge-17-as-merger-expands-defence-arm-to-join-firm-along-with-green-energy-unit/articleshow/134888841.cms",
+      "publishedAt": "Mon, 12 Oct 2026 15:16:54 +0530"
     },
     {
       "title": "Why is market falling today? Sensex sinks 1,200 pts from day’s high, Nifty below 22,350. 5 key triggers be - The Economic Times",
@@ -184,10 +138,16 @@
       "publishedAt": "Mon, 12 Oct 2026 09:18:19 GMT"
     },
     {
-      "title": "Stock Market Today Live: Sensex tumbles to 71,924.68; Nifty drops to 22,363.35 - BusinessLine",
+      "title": "Closing Bell: Sensex sinks 548 pts, Nifty below 22,400; IT, FMCG and financial stocks drag - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZ3U2eHMwdTdvaDFlbXNJX0tRYTBHZXh4eVVDa0NGQzIxcjY3Xy0tbjVyb2hZcXRsVW5hTlB0TWNXXzJGanY3TExoLTVaeF9JWHlEbVNjYVhjZE91em56bEZra3pQSWdmRU9uaTdzNlpQQWw0VG1SVmRmMjAzZ0dXZkp3Y3ZXbW1VOVJwYkpBVlZfeEVpaU8ydVlXRUFOeV9vQ2d3a05KTEZNQjl4ZlhjMGpYYWFlMHlsYXFDWEZqd3pabjh0QWhkbi0wQXh1Y3FWaE9ZQ25xNkgyQmFTdkNKUjQ0WlV1UHRJRUt6bWV3TVBHTV9Hcjgtb0hlazZtT2FsQWNhclBVcUVOUHNYbXpuVXd5d2hNSEUzMFlhY1RPc2ZvZzTSAagCQVVfeXFMT0R4RTBTMzdRU2R2MVVIZUFMVUl0QjVmaVhOSUJOLXViUjVHeG5OSkZ6cV9QUWF5NHZjVDRRYzVsMG1BNkozOG90NmZwNkFTMTVNbWkySG0xMDVvaEpsdmtfOG5QaXdoOVBuRHhsZENGc1FnelgxbkpiUEREY2dzZGM0TUV0LXlUWUk4Q1F3TmVLcGVWU3BtbkF4dHVLSE0tY0Z3V05tdHgweElsUjZxbVpYYlFQWmF1YVhWM0RlcWFHNmJlQU1zTnZzck5JZm8yQl82T3FlSndpaUJ5RlRlQkp4Q0I1bGR1NkFqR0drbTlWakxlMmtMaGVpNGh1c18yb0VFWGdIMF95UnF1OUdkNDlLeE5rdzRUSG9YVlo1WGRfVG54NHZYWnk?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 10:44:50 GMT"
+    },
+    {
+      "title": "Stock Market Today Live: Markets turn red; Sensex down 740 points, Nifty sheds almost 200 points - BusinessLine",
       "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnlaU3Z2c25wYl9wRWhUZlc1RHdxUVhiLUMyRzNkd3dLdGlPUXZPMHdhSXVodDB1R1oyZWxOTkZIWWtpa1BfbmQySF9DRl9fTUlVcEFPbHRMazZNd1pLMkRBWHh2RHpvU3pTMjZfZDdyVUtEQzJRME5FUk11N0pXRjNPYjJHRjhRMUZQRTBVcXVrWDZRakRZVlhqN1IyYVRic2tzcFI5Wm1SNm1YSXJXbXQ2a0N3dENNem1uendCSkdKM1JYX0HSAcwBQVVfeXFMTm9XbU4zSDFPeVUwOV9ZZEplc0o3dEJ2OThsbDRQWllEYXh3OTJLelBZZmJVc1VlVE1VR1ozaHlLY3NBWlUwb3NiNWxPdy1hUFVNLTBsaDB2THJuOUR6QVZwUFlzTDFTWkxWbVE1c0NNN0ZqM1l1aDNESHdzWlc1Z3llVnFCUE95X3R1cWRXYWVqd0tFSlNRTE4wWlowMm1CZGF4cjJoMGlSNGJfREtlei02RUlIS25TUEYyQTZFM2lQMDVSQjh6WDFsTUhK?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:22:27 GMT"
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnlaU3Z2c25wYl9wRWhUZlc1RHdxUVhiLUMyRzNkd3dLdGlPUXZPMHdhSXVodDB1R1oyZWxOTkZIWWtpa1BfbmQySF9DRl9fTUlVcEFPbHRMazZNd1pLMkRBWHh2RHpvU3pTMjZfZDdyVUtEQzJRME5FUk11N0pXRjNPYjJHRjhRMUZQRTBVcXVrWDZRakRZVlhqN1IyYVRic2tzcFI5Wm1SNm1YSXJXbXQ2a0N3dENNem1uendCSkdKM1JYX0E?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 09:12:04 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty, US-Russia Diesel Deal To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Oct 12 - NDTV Profit",
