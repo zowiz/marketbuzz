@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex jumps 1,109 points and Nifty ends above 22,700 following FM's comments on LTCG and STT.",
+  "headline": "Sensex jumps 1,109 points as markets rebound led by IT firms and HDFC Bank",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,33 +7,58 @@
     "nextOpen": ""
   },
   "why": [
-    "Finance Minister's comments regarding Long-Term Capital Gains (LTCG) and Securities Transaction Tax (STT)",
-    "Strong outperformance in the IT and Realty sectors during the trading session",
-    "RBI intervention in the forex market and fresh curbs that supported the Indian Rupee",
-    "Market rebound following previous session losses caused by oil price spikes and foreign fund outflows"
+    "Strong rally in IT firms and HDFC Bank",
+    "Outperformance in the Realty sector",
+    "Market rebound following previous sessions of losses",
+    "Nifty successfully closing above the 22,700 mark"
   ],
   "whatHappening": [
-    "The Sensex closed 1,109 points higher while the Nifty 50 ended at 22,722",
-    "The Indian Rupee outperformed its Asian peers following central bank intervention and new FX curbs",
-    "Global safe-haven demand rose following a selloff in international tech stocks and falling bond yields",
-    "The market recovery follows an extended period of losses over the previous eight weeks"
+    "Sensex surged 1,109 points while Nifty ended at 22,722",
+    "ICICI Prudential Life reported a 25% rise in Q2 profit",
+    "RBL Bank shares plunged over 7% due to higher provisions weighing on earnings",
+    "Sebi extended relaxation for revising fresh issue sizes until March 2027"
   ],
-  "stocksInNews": [],
-  "summary": "The Indian stock market witnessed a major rally today, with the Sensex surging 1,109 points and Nifty closing above 22,700. Gains were driven by the Finance Minister's remarks on LTCG and STT, alongside significant strength in IT and Realty sectors. Additionally, the Rupee appreciated against Asian peers following RBI intervention and new currency curbs.",
-  "updatedAt": "2026-10-13T11:32:57.536Z",
+  "stocksInNews": [
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "ICICIPRULI",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "RBLBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        8
+      ]
+    }
+  ],
+  "summary": "The Indian stock market saw a sharp recovery today, with the Sensex surging 1,109 points and Nifty closing above 22,700. The rally was primarily driven by IT stocks, HDFC Bank, and the realty sector, offsetting recent downward trends. While ICICI Prudential reported strong Q2 growth, RBL Bank shares faced significant pressure following its quarterly results.",
+  "updatedAt": "2026-10-13T12:02:10.005Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-13",
   "articleKeys": [
-    "bitcoin trades near 83000 as macro headwinds and us political uncertainty weigh on sentiment",
-    "global market eurozone bond yields fall as tech stock selloff boosts safehaven demand",
-    "china is about to get a highincome economy tag but beijing doesnt want it",
-    "rupee outpaces asian peers on fresh fx curbs rbi intervention",
-    "shah rukh khan starts filming the final leg of king in mumbai ahead of december release",
-    "is your retirement corpus enough study flags a longterm savings gap among women",
-    "us uk or canada how rbis latest move could affect your childs studyabroad costs",
-    "wall street to open mixed chip selloff among key reasons weighing on us stock futures",
-    "stock market close sensex zooms 1109 pts after fms comments on ltcg stt nifty ends at 22722",
-    "first came ai slop now ai slime mold is taking over the web",
+    "sebi extends relaxation to revise fresh issue size till march 2027",
+    "us consumer cracks pizza groceries flash a warning wall street isnt hearing",
+    "how to choose trustworthy online loan platforms for personal loans in india",
+    "icici prudential life q2 results profit rises 25 net premium income up 17",
+    "air india cancels all flights to riyadh jeddah dammam till october 17",
+    "rbi to continue efforts to curb rupee volatility external factors driving currency fall nirmala sitharaman",
+    "oppo find x10 series launch date time and products to expect",
+    "stock markets rebound led by rally in it firms hdfc bank sensex jumps 1109 points",
+    "rbl bank shares plunge 755 as higher provisions weigh on q2 earnings",
+    "netflix wins exclusive broadcast rights for fifa world cup 2030 in spain",
     "why did market rally today sensex surges 1100 points nifty closes above 22700 5 key factors behind d the economic times",
     "closing bell markets rebound nifty above 22700 sensex jumps 1100 pts moneycontrolcom",
     "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
@@ -47,64 +72,64 @@
   ],
   "articles": [
     {
-      "title": "Bitcoin trades near $83,000 as macro headwinds and US political uncertainty weigh on sentiment",
+      "title": "Sebi extends relaxation to revise fresh issue size till March 2027",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-83000-as-macro-headwinds-and-us-political-uncertainty-weigh-on-sentiment/articleshow/134915379.cms",
-      "publishedAt": "Tue, 13 Oct 2026 16:09:35 +0530"
+      "link": "https://www.business-standard.com/markets/ipo/sebi-extends-relaxation-to-revise-fresh-issue-size-till-march-2027-126101300928_1.html",
+      "publishedAt": "Tue, 13 Oct 2026 17:12:17 +0530"
     },
     {
-      "title": "Global Market: Eurozone bond yields fall as tech stock selloff boosts safe-haven demand",
+      "title": "US Consumer Cracks? Pizza, Groceries Flash A Warning Wall Street Isn't Hearing",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-fall-as-tech-stock-selloff-boosts-safe-haven-demand/articleshow/134915060.cms",
-      "publishedAt": "Tue, 13 Oct 2026 15:58:40 +0530"
+      "link": "https://www.ndtvprofit.com/markets/us-consumer-cracks-pizza-groceries-flash-a-warning-wall-street-isnt-hearing-12179065#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 17:11:44 +0530"
     },
     {
-      "title": "China Is About To Get A 'High-Income' Economy Tag. But Beijing Doesn't Want It",
+      "title": "How To Choose Trustworthy Online Loan Platforms For Personal Loans In India",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/china-is-about-to-get-a-high-income-economy-tag-but-beijing-doesnt-want-it-12178604#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 15:58:22 +0530"
+      "link": "https://www.ndtvprofit.com/business/how-to-choose-trustworthy-online-loan-platforms-for-personal-loans-in-india-12179024#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 17:09:13 +0530"
     },
     {
-      "title": "Rupee outpaces Asian peers on fresh FX curbs, RBI intervention",
+      "title": "ICICI Prudential Life Q2 Results: Profit Rises 25%, Net Premium Income Up 17%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-outpaces-asian-peers-on-fresh-fx-curbs-rbi-intervention/articleshow/134915016.cms",
-      "publishedAt": "Tue, 13 Oct 2026 15:56:18 +0530"
+      "link": "https://www.ndtvprofit.com/markets/icici-prudential-life-q2-results-profit-rises-25-net-premium-income-up-17-12177989#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 17:04:27 +0530"
     },
     {
-      "title": "Shah Rukh Khan Starts Filming The Final Leg Of King In Mumbai Ahead Of December Release",
+      "title": "Air India Cancels All Flights To Riyadh, Jeddah, Dammam Till October 17",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/shah-rukh-khan-starts-filming-the-final-leg-of-king-in-mumbai-ahead-of-december-release-12177057#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 15:54:50 +0530"
+      "link": "https://www.ndtvprofit.com/business/air-india-cancels-all-flights-to-riyadh-jeddah-dammam-till-october-17-12178662#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 17:01:07 +0530"
     },
     {
-      "title": "Is Your Retirement Corpus Enough? Study Flags A Long-Term Savings Gap Among Women",
+      "title": "RBI to continue efforts to curb rupee volatility; external factors driving currency fall: Nirmala Sitharaman",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/is-your-retirement-corpus-enough-study-flags-a-long-term-savings-gap-among-women-12176858#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 15:50:36 +0530"
+      "link": "https://www.thehindu.com/business/Economy/rbi-to-continue-efforts-to-curb-rupee-volatility-external-factors-driving-currency-fall-nirmala-sitharaman/article71579023.ece",
+      "publishedAt": "Tue, 13 Oct 2026 16:58:58 +0530"
     },
     {
-      "title": "US, UK Or Canada? How RBI’s Latest Move Could Affect Your Child’s Study-Abroad Costs",
+      "title": "Oppo Find X10 Series Launch: Date, Time, And Products To Expect",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/us-uk-or-canada-how-rbi-s-latest-move-could-affect-your-child-s-study-abroad-costs-12176880#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 15:43:46 +0530"
+      "link": "https://www.ndtvprofit.com/technology/oppo-find-x10-series-launch-date-time-and-what-products-to-expect-12178049#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 16:52:31 +0530"
     },
     {
-      "title": "Wall Street To Open Mixed? Chip Selloff Among Key Reasons Weighing On US Stock Futures",
+      "title": "Stock markets rebound, led by rally in IT firms, HDFC Bank; Sensex jumps 1,109 points",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/wall-street-to-open-mixed-chip-selloff-among-key-reasons-weighing-on-us-stock-futures-12178547#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 15:43:37 +0530"
+      "link": "https://www.thehindu.com/business/markets/stock-markets-rebound-led-by-rally-in-it-firms-hdfc-bank-sensex-jumps-1109-points/article71579099.ece",
+      "publishedAt": "Tue, 13 Oct 2026 16:52:24 +0530"
     },
     {
-      "title": "Stock Market Close: Sensex zooms 1,109 pts after FM's comments on LTCG, STT; Nifty ends at 22,722",
+      "title": "RBL Bank shares plunge 7.55% as higher provisions weigh on Q2 earnings",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-13-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101300081_1.html",
-      "publishedAt": "Tue, 13 Oct 2026 15:37:34 +0530"
+      "link": "https://www.business-standard.com/companies/news/rbl-bank-shares-plunge-7-55-as-higher-provisions-weigh-on-q2-earnings-126101300881_1.html",
+      "publishedAt": "Tue, 13 Oct 2026 16:50:27 +0530"
     },
     {
-      "title": "First Came AI Slop. Now AI Slime Mold' is Taking Over the Web",
+      "title": "Netflix Wins Exclusive Broadcast Rights For FIFA World Cup 2030 In Spain",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/first-came-ai-slop-now-ai-slime-mold-is-taking-over-the-web-12178451#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 15:35:02 +0530"
+      "link": "https://www.ndtvprofit.com/sports/netflix-wins-exclusive-broadcast-rights-for-fifa-world-cup-2030-in-spain-12178910#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 16:48:59 +0530"
     },
     {
       "title": "Why did market rally today? Sensex surges 1,100 points, Nifty closes above 22,700. 5 key factors behind D- - The Economic Times",
