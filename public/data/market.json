@@ -1,5 +1,5 @@
 {
-  "headline": "Indian Markets Slump as Sensex Drops 548 Points Amid Oil Price Surge and Foreign Outflows",
+  "headline": "Indian Markets Face Pressure as Oil Prices Surge and Bond Yields Reach Three-Year High",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,56 @@
     "nextOpen": ""
   },
   "why": [
-    "Surge in global oil prices impacting investor sentiment",
-    "Persistent foreign fund outflows from the Indian equity market",
-    "Heavy selling pressure in IT, FMCG, and financial sectors",
-    "Concerns over restrictive US Fed policies and global economic data"
+    "Surge in global oil prices impacting investor sentiment and market stability",
+    "RBI liquidity cuts pushing Indian bond yields to a three-year high",
+    "Significant foreign fund outflows contributing to recent market selloffs",
+    "Restrictive monetary policy stance from the US Federal Reserve affecting global cues"
   ],
   "whatHappening": [
-    "Sensex tumbled 548 points to close below the 22,400 level",
-    "Polycab is scheduled to exit the F&O segment following an NSE deadline",
-    "ITC and Tech Mahindra shares experienced a 3% decline",
-    "NCLAT has placed an insolvency order against Polycab on hold"
+    "Sensex and Nifty crashed in the previous session, with Nifty falling below the 22,400 level",
+    "Top 10 blue-chip companies' share of India's total market capitalization has dropped to its lowest since 2017",
+    "India-UK trade pact implementation begins as goods like whisky and salmon reach Indian shores",
+    "Investors are focusing on dividend eligibility deadlines for major stocks like TCS and Vedanta"
   ],
   "stocksInNews": [
     {
-      "symbol": "POLYCAB",
-      "sentiment": "Neutral",
+      "symbol": "PNGADGIL",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        7
+        2
+      ]
+    },
+    {
+      "symbol": "TARIL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "ANGELONE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "VEDL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
       ]
     },
     {
@@ -44,21 +76,21 @@
       ]
     }
   ],
-  "summary": "Indian markets fell sharply with the Sensex dropping 548 points, driven by surging oil prices and foreign fund outflows. Heavyweights ITC and Tech Mahindra were among the top losers, each declining by 3% as the IT and FMCG sectors dragged. Polycab remained in focus following news of its upcoming F&O exit and a legal stay on its insolvency proceedings.",
-  "updatedAt": "2026-10-12T23:31:57.453Z",
+  "summary": "Indian markets are under pressure following a 548-point Sensex drop driven by rising oil prices and foreign fund outflows. Bond yields have hit a three-year high due to RBI liquidity measures, while blue-chip market dominance has reached a multi-year low. Investors are currently tracking dividend deadlines for TCS and Vedanta and the rollout of the India-UK trade pact.",
+  "updatedAt": "2026-10-13T01:02:15.531Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-13",
   "articleKeys": [
+    "bond yields rise to 3year high on rbi liquidity cut",
+    "top 10 bluechips share of indias mcap drops to lowest since 2017",
+    "five stocks to buy today october 13 pn gadgil taril angel one and more",
+    "tcs vedanta dividends last day to buy shares today to qualify",
+    "whisky salmon to annual data audits what the indiauk trade pact entails as goods hit indian shores",
     "us stocks nasdaq ends lower as oil prices surge ahead of earnings economic data",
     "cleveland feds hammack backs restrictive policy says better if it comes relatively quickly",
     "sunny deol unveils first look of suryaa ant se aarambh tak gritty crime thriller gets release date",
     "us stocks dating app bumble shares surge 52 on talks to go private at 1 billion valuation",
     "abhishek porel breaks down after ranji trophy ton opens up on alleged rape case",
-    "lords mark industries acquires radio electric private limited combining engineering heritage with new growth opportunities",
-    "cec row 14 defects rs 220 fee shortfall how rahul gandhis sc move hit an early roadblock",
-    "polycab to exit fo as nse sets dec 30 deadline nclat puts insolvency order on hold",
-    "us bank stocks near correction as earnings loom consumer outlook in focus",
-    "tata trusts seeks more time to reply charity commissioner grants a week",
     "why did market fall today sensex ends 548 pts lower nifty below 22400 5 triggers behind todays sellof the economic times",
     "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
     "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom",
@@ -71,6 +103,36 @@
     "stock market outlook today 12 oct sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint"
   ],
   "articles": [
+    {
+      "title": "Bond yields rise to 3-year high on RBI liquidity cut",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/bond-yields-rise-to-3-year-high-on-rbi-liquidity-cut/articleshow/134905259.cms",
+      "publishedAt": "Tue, 13 Oct 2026 05:39:04 +0530"
+    },
+    {
+      "title": "Top 10 blue-chips’ share of India’s m-cap drops to lowest since 2017",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/blue-chips-get-the-blues-top-10s-mcap-share-hits-decade-low/articleshow/134905097.cms",
+      "publishedAt": "Tue, 13 Oct 2026 05:28:48 +0530"
+    },
+    {
+      "title": "Five Stocks To Buy, Today October 13: PN Gadgil, TARIL, Angel One, And More",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-today-october-13-pn-gadgil-taril-leela-palaces-kwality-walls-angel-one-12175941#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 05:26:53 +0530"
+    },
+    {
+      "title": "TCS, Vedanta Dividends: Last Day To Buy Shares Today To Qualify",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/tcs-vedanta-dividends-last-day-to-buy-shares-today-to-qualify-12175257#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 05:22:09 +0530"
+    },
+    {
+      "title": "Whisky, Salmon To Annual Data Audits: What The India-UK Trade Pact Entails As Goods Hit Indian Shores",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/whisky-salmon-to-annual-data-audits-what-the-india-uk-trade-pact-entails-as-goods-hit-indian-shores-12175821#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 02:31:40 +0530"
+    },
     {
       "title": "US stocks: Nasdaq ends lower as oil prices surge ahead of earnings, economic data",
       "source": "Zerodha Pulse",
@@ -100,36 +162,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/sports/abhishek-porel-breaks-down-after-ranji-trophy-ton-opens-up-on-alleged-rape-case-12175308#publisher=newsstand",
       "publishedAt": "Mon, 12 Oct 2026 23:56:31 +0530"
-    },
-    {
-      "title": "Lord's Mark Industries Acquires Radio Electric Private Limited, Combining Engineering Heritage With New Growth Opportunities",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/lords-mark-industries-limited-acquires-radio-electric-private-limited-combining-engineering-heritage-with-new-growth-opportunities-12176145#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 23:45:52 +0530"
-    },
-    {
-      "title": "CEC Row: 14 Defects, Rs 220 Fee Shortfall — How Rahul Gandhi's SC Move Hit an Early Roadblock",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/cec-row-14-defects-rs-220-fee-shortfall-how-rahul-gandhis-sc-move-hit-an-early-roadblock-12175946#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 23:43:06 +0530"
-    },
-    {
-      "title": "Polycab To Exit F&O As NSE Sets Dec. 30 Deadline; NCLAT Puts Insolvency Order On Hold",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/polycab-to-exit-f-o-as-nse-sets-dec-30-deadline-nclat-puts-insolvency-order-on-hold-12175948#publisher=newsstand",
-      "publishedAt": "Mon, 12 Oct 2026 23:32:11 +0530"
-    },
-    {
-      "title": "US bank stocks near correction as earnings loom, consumer outlook in focus",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bank-stocks-near-correction-as-earnings-loom-consumer-outlook-in-focus/articleshow/134900177.cms",
-      "publishedAt": "Mon, 12 Oct 2026 23:29:50 +0530"
-    },
-    {
-      "title": "Tata Trusts seeks more time to reply; Charity Commissioner grants a week",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/tata-trusts-seeks-more-time-to-reply-charity-commissioner-grants-a-week-126101201420_1.html",
-      "publishedAt": "Mon, 12 Oct 2026 23:17:44 +0530"
     },
     {
       "title": "Why did market fall today? Sensex ends 548 pts lower, Nifty below 22,400. 5 triggers behind today's sellof - The Economic Times",
