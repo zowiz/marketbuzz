@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Surges 1,100 Points to Reclaim 22,700 Level Amid Strong Market Rebound",
+  "headline": "Sensex Surges 1,100 Points as Nifty Reclaims 22,700; Titan and Fusion CX in Focus",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,40 @@
     "nextOpen": ""
   },
   "why": [
-    "Markets rebounded from oversold levels after an 8-week losing streak and Monday's sharp decline.",
-    "Positive global market cues and short covering by investors fueled the 1,100-point Sensex surge.",
-    "Strong buying in heavyweight stocks across IT and financial sectors supported the Nifty's recovery.",
-    "The strategic partnership between NSEIX and the London Stock Exchange boosted investor confidence in market links."
+    "Sensex surged 1,100 points and Nifty closed above 22,700 in a sharp market rebound",
+    "Recovery follows an 8-week losing streak and recent pressure from oil price spikes",
+    "Positive global cues and domestic investor interest supported the market rally",
+    "Markets recovered from previous sessions' losses caused by foreign fund outflows"
   ],
   "whatHappening": [
-    "The Sensex and Nifty 50 staged a massive recovery, reclaiming key psychological levels of 74,000 and 22,700.",
-    "OPEC reduced its 2026 oil demand growth forecast for India to 40,000 barrels per day.",
-    "Sebi proposed a review of the framework for monitoring how companies utilize funds raised through public issues.",
-    "Fusion CX successfully raised Rs 315 crore from anchor investors including Ashish Kacholia and Kotak Life."
+    "NSEIX and London Stock Exchange signed a pact to strengthen India-UK market links",
+    "Titan partnered with Squarespace to provide custom-domain email services",
+    "Fusion CX secured Rs 315 crore from anchor investors including Ashish Kacholia and Kotak Life",
+    "SEBI proposed new monitoring rules for the utilization of issue proceeds from IPOs"
   ],
   "stocksInNews": [
+    {
+      "symbol": "BANKBARODA",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        6
+      ]
+    },
     {
       "symbol": "FUSION",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        1
+        4
       ]
     },
     {
@@ -32,33 +48,25 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "NSE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        2
+        4
       ]
     }
   ],
-  "summary": "The Indian market staged a strong recovery on October 13, with the Sensex jumping 1,100 points and Nifty reclaiming 22,700. The rally was driven by a rebound from oversold levels and positive news such as the NSEIX-LSE pact and Fusion CX's anchor book success. Despite the surge, investors remain cautious of global factors like OPEC's lowered oil demand forecast and US tech volatility.",
-  "updatedAt": "2026-10-13T17:49:19.547Z",
+  "summary": "Indian indices staged a massive recovery with the Sensex jumping 1,100 points to reclaim the 22,700 level. Market sentiment improved significantly despite earlier concerns regarding oil prices and foreign institutional outflows. Notable corporate activities include Titan's strategic partnership and strong anchor interest in the Fusion CX IPO.",
+  "updatedAt": "2026-10-13T19:31:38.160Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-10-13",
+  "dateChecked": "2026-10-14",
   "articleKeys": [
+    "nmc healthcare founder b r shetty seeks 15 billion in damages from bob",
+    "the quality of our data influences the quality of our decisions p k mishra",
     "us chip stocks slide as chinas cxmt advances ai spending fears rattle investors",
+    "toothsi parent makeo raises 90 crore to expand dental care operations",
     "ashish kacholia kotak life lead fusion cxs rs 315crore anchor book ahead of rs 702crore ipo",
     "nseix london stock exchange sign pact to deepen indiauk market links",
+    "titan partners with squarespace to offer customdomain email to users",
     "845 billion windfall in 2026 ai boom drives unprecedented wealth creation for tech billionaires",
     "sebi proposes review of framework for monitoring utilization of issue proceeds",
     "india doesnt get level playing field in china us trade talks in right direction jaishankar",
-    "opec cuts indias 2026 oil demand growth forecast to 40000 barrels per day",
-    "atletico madrid vs manchester united live streaming likely lineups how to watch champions league match",
-    "galatasaray vs barcelona live streaming likely lineups how to watch champions league match",
-    "arsenal vs lille live streaming likely lineups how to watch champions league match on tv online",
     "why did market rally today sensex surges 1100 points nifty closes above 22700 5 key factors behind d the economic times",
     "closing bell markets rebound nifty above 22700 sensex jumps 1100 pts moneycontrolcom",
     "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
@@ -72,10 +80,28 @@
   ],
   "articles": [
     {
+      "title": "NMC Healthcare founder B R Shetty seeks $15 billion in damages from BoB",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/nmc-healthcare-founder-b-r-shetty-seeks-15-billion-in-damages-from-bob-126101301232_1.html",
+      "publishedAt": "Tue, 13 Oct 2026 23:52:30 +0530"
+    },
+    {
+      "title": "The quality of our data influences the quality of our decisions: P K Mishra",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/economy/news/strong-statistical-systems-key-to-achieving-viksit-bharat-goal-p-k-mishra-126101301118_1.html",
+      "publishedAt": "Tue, 13 Oct 2026 23:37:09 +0530"
+    },
+    {
       "title": "US chip stocks slide as China’s CXMT advances; AI spending fears rattle investors",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-chip-stocks-slide-as-chinas-cxmt-advances-ai-spending-fears-rattle-investors/articleshow/134923498.cms",
       "publishedAt": "Tue, 13 Oct 2026 22:56:34 +0530"
+    },
+    {
+      "title": "Toothsi parent MakeO raises ₹90 crore to expand dental care operations",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/toothsi-parent-makeo-raises-90-crore-to-expand-dental-care-operations-126101301218_1.html",
+      "publishedAt": "Tue, 13 Oct 2026 22:41:36 +0530"
     },
     {
       "title": "Ashish Kacholia, Kotak Life lead Fusion CX’s Rs 315-crore anchor book ahead of Rs 702-crore IPO",
@@ -88,6 +114,12 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/nseix-london-stock-exchange-sign-pact-to-deepen-india-uk-market-links/articleshow/134923014.cms",
       "publishedAt": "Tue, 13 Oct 2026 22:30:07 +0530"
+    },
+    {
+      "title": "Titan partners with Squarespace to offer custom-domain email to users",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/titan-partners-with-squarespace-to-offer-custom-domain-email-to-users-126101301214_1.html",
+      "publishedAt": "Tue, 13 Oct 2026 22:21:36 +0530"
     },
     {
       "title": "$845 billion windfall in 2026: AI boom drives unprecedented wealth creation for tech billionaires",
@@ -106,30 +138,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/india/india-doesnt-get-level-playing-field-in-china-us-trade-talks-in-right-direction-jaishankar-12180796#publisher=newsstand",
       "publishedAt": "Tue, 13 Oct 2026 22:00:36 +0530"
-    },
-    {
-      "title": "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/opec-cuts-indias-2026-oil-demand-growth-forecast-to-40000-barrels-per-day/article71580576.ece",
-      "publishedAt": "Tue, 13 Oct 2026 21:35:22 +0530"
-    },
-    {
-      "title": "Atletico Madrid Vs Manchester United Live Streaming: Likely Lineups; How To Watch Champions League Match?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/atletico-madrid-vs-manchester-united-live-streaming-likely-lineups-how-to-watch-champions-league-match-12179878#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 21:30:01 +0530"
-    },
-    {
-      "title": "Galatasaray Vs Barcelona Live Streaming: Likely Lineups; How To Watch Champions League Match?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/galatasaray-vs-barcelona-live-streaming-likely-lineups-how-to-watch-champions-league-match-12180136#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 21:30:01 +0530"
-    },
-    {
-      "title": "Arsenal Vs Lille Live Streaming: Likely Lineups; How To Watch Champions League Match On TV, Online?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/arsenal-vs-lille-live-streaming-likely-lineups-how-to-watch-champions-league-match-on-tv-online-12180292#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 21:30:01 +0530"
     },
     {
       "title": "Why did market rally today? Sensex surges 1,100 points, Nifty closes above 22,700. 5 key factors behind D- - The Economic Times",
