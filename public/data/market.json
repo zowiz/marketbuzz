@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Surges 1,100 Points as Nifty Reclaims 22,700; Titan and Fusion CX in Focus",
+  "headline": "Sensex and Nifty Rebound as Hero Motors Profit Doubles While Bank of Baroda Faces Legal Claim",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex surged 1,100 points and Nifty closed above 22,700 in a sharp market rebound",
-    "Recovery follows an 8-week losing streak and recent pressure from oil price spikes",
-    "Positive global cues and domestic investor interest supported the market rally",
-    "Markets recovered from previous sessions' losses caused by foreign fund outflows"
+    "Sensex surged 1,100 points and Nifty closed above 22,700 in the previous session's rebound",
+    "Hero Motors reported a doubling of profit in its Q2 results highlights",
+    "Tata Elxsi revenue increased by 3% in its latest quarterly performance",
+    "Markets are attempting to extend a recovery following an eight-week period of losses"
   ],
   "whatHappening": [
-    "NSEIX and London Stock Exchange signed a pact to strengthen India-UK market links",
-    "Titan partnered with Squarespace to provide custom-domain email services",
-    "Fusion CX secured Rs 315 crore from anchor investors including Ashish Kacholia and Kotak Life",
-    "SEBI proposed new monitoring rules for the utilization of issue proceeds from IPOs"
+    "NMC Healthcare founder B R Shetty is seeking $15 billion in damages from Bank of Baroda",
+    "RBI Governor Malhotra is weighing trade-offs regarding rate hikes to stabilize the rupee",
+    "US Nasdaq ended lower as chipmakers fell and bank earnings began rolling in",
+    "Previous market declines were attributed to oil price spikes and foreign fund outflows"
   ],
   "stocksInNews": [
     {
@@ -24,61 +24,81 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        0
+        2
       ]
     },
     {
-      "symbol": "TITAN",
+      "symbol": "HEROMOTOCO",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        6
+        7
       ]
     },
     {
-      "symbol": "FUSION",
+      "symbol": "TATAELXSI",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        4
+        7
       ]
     },
     {
-      "symbol": "KOTAKBANK",
-      "sentiment": "Positive",
+      "symbol": "ITC",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        4
+        15
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        15
       ]
     }
   ],
-  "summary": "Indian indices staged a massive recovery with the Sensex jumping 1,100 points to reclaim the 22,700 level. Market sentiment improved significantly despite earlier concerns regarding oil prices and foreign institutional outflows. Notable corporate activities include Titan's strategic partnership and strong anchor interest in the Fusion CX IPO.",
-  "updatedAt": "2026-10-13T19:31:38.160Z",
+  "summary": "Indian markets staged a strong recovery with the Sensex jumping 1,100 points, supported by robust Q2 results from Hero Motors. However, Bank of Baroda faces a massive $15 billion legal claim, and global tech stocks remain under pressure. Investors are monitoring the RBI's stance on interest rates and the ongoing corporate earnings season.",
+  "updatedAt": "2026-10-13T23:31:52.445Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-14",
   "articleKeys": [
+    "us stocks nasdaq ends down as chipmakers fall and bank earnings roll in",
+    "ny fed president williams sees no need for a rate hike in 2027",
     "nmc healthcare founder b r shetty seeks 15 billion in damages from bob",
     "the quality of our data influences the quality of our decisions p k mishra",
-    "us chip stocks slide as chinas cxmt advances ai spending fears rattle investors",
-    "toothsi parent makeo raises 90 crore to expand dental care operations",
-    "ashish kacholia kotak life lead fusion cxs rs 315crore anchor book ahead of rs 702crore ipo",
-    "nseix london stock exchange sign pact to deepen indiauk market links",
-    "titan partners with squarespace to offer customdomain email to users",
-    "845 billion windfall in 2026 ai boom drives unprecedented wealth creation for tech billionaires",
-    "sebi proposes review of framework for monitoring utilization of issue proceeds",
-    "india doesnt get level playing field in china us trade talks in right direction jaishankar",
+    "ram kapoor shares new selfie after dramatic weight loss fans say he has lost too much weight",
+    "suriyas scene gets diwali release date plot what we know about tamil action comedy",
+    "the vvaan force of the forrest box office day 19 sidharth malhotra film maintains its grip at theatres",
+    "q2 results highlights hero motors profit doubles tata elxsi revenue up 3",
+    "can rbi hike rates to save the rupee governor malhotra explains the tradeoff",
+    "bihar tragedy children among 11 dead after boat capsizes in ganga river",
     "why did market rally today sensex surges 1100 points nifty closes above 22700 5 key factors behind d the economic times",
     "closing bell markets rebound nifty above 22700 sensex jumps 1100 pts moneycontrolcom",
     "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
     "stock market outlook today 13 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian stock market outlook next week 1216 oct sensex nifty likely to extend recovery after 8week losses goodreturns",
+    "sensex today nifty 50 stock market highlights sensex falls 548 pts nifty ends below 22400 itc techm drop 3 each the economic times",
     "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom",
     "why is stock market up today top 3 reasons behind a jump in sensex nifty 50 explained livemint",
     "why is stock market down today sensex nifty 50 crash top 3 factors behind stock market decline explained livemint",
-    "stock market prediction for today sensex nifty outlook for tuesday kospi taiwan cues to watch 13 oct 2026 livemint",
-    "stock market outlook today 12 oct sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint"
+    "stock market prediction for today sensex nifty outlook for tuesday kospi taiwan cues to watch 13 oct 2026 livemint"
   ],
   "articles": [
+    {
+      "title": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-chipmakers-fall-and-bank-earnings-roll-in/articleshow/134926328.cms",
+      "publishedAt": "Wed, 14 Oct 2026 01:43:21 +0530"
+    },
+    {
+      "title": "NY Fed President Williams sees no need for a rate hike in 2027",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms",
+      "publishedAt": "Wed, 14 Oct 2026 00:28:02 +0530"
+    },
     {
       "title": "NMC Healthcare founder B R Shetty seeks $15 billion in damages from BoB",
       "source": "Zerodha Pulse",
@@ -92,52 +112,40 @@
       "publishedAt": "Tue, 13 Oct 2026 23:37:09 +0530"
     },
     {
-      "title": "US chip stocks slide as China’s CXMT advances; AI spending fears rattle investors",
+      "title": "Ram Kapoor Shares New Selfie After Dramatic Weight Loss; Fans Say He Has Lost Too Much Weight",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-chip-stocks-slide-as-chinas-cxmt-advances-ai-spending-fears-rattle-investors/articleshow/134923498.cms",
-      "publishedAt": "Tue, 13 Oct 2026 22:56:34 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/ram-kapoor-shares-new-selfie-after-dramatic-weight-loss-fans-say-he-has-lost-too-much-weight-12178069#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 23:34:58 +0530"
     },
     {
-      "title": "Toothsi parent MakeO raises ₹90 crore to expand dental care operations",
+      "title": "Suriya's Scene Gets Diwali Release Date: Plot, What We Know About Tamil Action Comedy",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/toothsi-parent-makeo-raises-90-crore-to-expand-dental-care-operations-126101301218_1.html",
-      "publishedAt": "Tue, 13 Oct 2026 22:41:36 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/suriyas-scene-gets-diwali-release-date-plot-what-we-know-about-tamil-action-comedy-12175802#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 23:32:54 +0530"
     },
     {
-      "title": "Ashish Kacholia, Kotak Life lead Fusion CX’s Rs 315-crore anchor book ahead of Rs 702-crore IPO",
+      "title": "The Vvaan- Force of the Forrest Box Office Day 19: Sidharth Malhotra Film Maintains Its Grip At Theatres",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ashish-kacholia-kotak-life-lead-fusion-cxs-rs-315-crore-anchor-book-ahead-of-rs-702-crore-ipo/articleshow/134923207.cms",
-      "publishedAt": "Tue, 13 Oct 2026 22:38:00 +0530"
+      "link": "https://www.ndtvprofit.com/business/the-vvaan-force-of-the-forrest-box-office-day-19-sidharth-malhotra-film-maintains-its-grip-at-theatres-12180889#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 23:27:41 +0530"
     },
     {
-      "title": "NSEIX, London Stock Exchange sign pact to deepen India-UK market links",
+      "title": "Q2 Results Highlights: Hero Motors Profit Doubles, Tata Elxsi Revenue Up 3%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nseix-london-stock-exchange-sign-pact-to-deepen-india-uk-market-links/articleshow/134923014.cms",
-      "publishedAt": "Tue, 13 Oct 2026 22:30:07 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-tata-elxsi-icici-prudential-life-insurance-among-22-companies-to-announce-earnings-today-12176989#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 23:26:16 +0530"
     },
     {
-      "title": "Titan partners with Squarespace to offer custom-domain email to users",
+      "title": "Can RBI Hike Rates To Save The Rupee? Governor Malhotra Explains The Trade-Off",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/titan-partners-with-squarespace-to-offer-custom-domain-email-to-users-126101301214_1.html",
-      "publishedAt": "Tue, 13 Oct 2026 22:21:36 +0530"
+      "link": "https://www.ndtvprofit.com/economy/no-price-stability-without-financial-stability-rbi-governor-on-rupee-pressure-12181184#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 23:25:33 +0530"
     },
     {
-      "title": "$845 billion windfall in 2026: AI boom drives unprecedented wealth creation for tech billionaires",
+      "title": "Bihar Tragedy: Children Among 11 Dead After Boat Capsizes In Ganga River",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/845-billion-windfall-in-2026-ai-boom-drives-unprecedented-wealth-creation-for-tech-billionaires/articleshow/134922384.cms",
-      "publishedAt": "Tue, 13 Oct 2026 22:06:44 +0530"
-    },
-    {
-      "title": "Sebi proposes review of framework for monitoring utilization of issue proceeds",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-review-of-framework-for-monitoring-utilization-of-issue-proceeds/articleshow/134922472.cms",
-      "publishedAt": "Tue, 13 Oct 2026 22:05:54 +0530"
-    },
-    {
-      "title": "India Doesn't Get 'Level Playing Field' In China; US Trade Talks In Right Direction: Jaishankar",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/india-doesnt-get-level-playing-field-in-china-us-trade-talks-in-right-direction-jaishankar-12180796#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 22:00:36 +0530"
+      "link": "https://www.ndtvprofit.com/india/bihar-tragedy-children-among-11-dead-after-boat-capsizes-in-ganga-river-12181147#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 23:21:17 +0530"
     },
     {
       "title": "Why did market rally today? Sensex surges 1,100 points, Nifty closes above 22,700. 5 key factors behind D- - The Economic Times",
@@ -170,6 +178,12 @@
       "publishedAt": "Sun, 11 Oct 2026 04:42:41 GMT"
     },
     {
+      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex falls 548 pts, Nifty ends below 22,400; ITC, TechM drop 3% each - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXpoTnFHckttNUZNZXhZUDluQ0tWcWVuUkxQaUJFZVhpYTRabkpwczdmcHJwMERabnEwMFlUYVl2U19fZmo1M3NZcGUzRE82Mzl3WUdGSWV6bzZTUElDRnhYT2NmU1hDTWZ1dUNzNkYxbG9FemJoVG0tSlI5eUlGZ2NOVXNQUWhVS21qZjY5dk1IeHpUVmRkdzhFN0hKeDU1eDkzdWV6LWNuS2M2Z25pd3ZCYXhPSWZ1Rk41cHhCcWxSaVgtOV94dENHU1V0bHZuWkM4NGR4MXhRcFBlakpKWTF0cEJibWRvckFodmlaSlJKNDZoQWNxREpjQ1R6NmRhN3FORm9KMUdGQ1JnRGN5UEc0R1rSAZoCQVVfeXFMTTdvU0tvSE1lanpQYm9QN2ZHVXlBRkxaWExVd0JzanloVTAxZU1hVWhvX0VfSUF3MXltX19ScEM4TEVWNGt0R2JDZlluV0pvd0taMEpCV1NVeDVIdTdxWTZHQUZkY3d0azNOMVlCRmhWSktPRGViNENwNDVZM2hvMU9MUWNubWR3YTBScng3MGo0dHNQSk1EcUNDdk5uZGJ1c3l0dnVIOW9EWUx5aGJUeUFaS1FmX3JaRkU4dWxBZFVveVhCRTJYUWtiS2tKTzIwQU1rQ1pJeXVYejZSOUR1dkQ1LS1fbWlNU3FwMzZFTjM1bEs0dXNtUUpMOTE4MXNGWWZGZlhPQnZsS09iQ0ZDNnpyTmV5dHMzamd3?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 10:04:52 GMT"
+    },
+    {
       "title": "Closing Bell: Sensex sinks 548 pts, Nifty below 22,400; IT, FMCG and financial stocks drag - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZ3U2eHMwdTdvaDFlbXNJX0tRYTBHZXh4eVVDa0NGQzIxcjY3Xy0tbjVyb2hZcXRsVW5hTlB0TWNXXzJGanY3TExoLTVaeF9JWHlEbVNjYVhjZE91em56bEZra3pQSWdmRU9uaTdzNlpQQWw0VG1SVmRmMjAzZ0dXZkp3Y3ZXbW1VOVJwYkpBVlZfeEVpaU8ydVlXRUFOeV9vQ2d3a05KTEZNQjl4ZlhjMGpYYWFlMHlsYXFDWEZqd3pabjh0QWhkbi0wQXh1Y3FWaE9ZQ25xNkgyQmFTdkNKUjQ0WlV1UHRJRUt6bWV3TVBHTV9Hcjgtb0hlazZtT2FsQWNhclBVcUVOUHNYbXpuVXd5d2hNSEUzMFlhY1RPc2ZvZzTSAagCQVVfeXFMT0R4RTBTMzdRU2R2MVVIZUFMVUl0QjVmaVhOSUJOLXViUjVHeG5OSkZ6cV9QUWF5NHZjVDRRYzVsMG1BNkozOG90NmZwNkFTMTVNbWkySG0xMDVvaEpsdmtfOG5QaXdoOVBuRHhsZENGc1FnelgxbkpiUEREY2dzZGM0TUV0LXlUWUk4Q1F3TmVLcGVWU3BtbkF4dHVLSE0tY0Z3V05tdHgweElsUjZxbVpYYlFQWmF1YVhWM0RlcWFHNmJlQU1zTnZzck5JZm8yQl82T3FlSndpaUJ5RlRlQkp4Q0I1bGR1NkFqR0drbTlWakxlMmtMaGVpNGh1c18yb0VFWGdIMF95UnF1OUdkNDlLeE5rdzRUSG9YVlo1WGRfVG54NHZYWnk?oc=5",
@@ -192,12 +206,6 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNcEF4NVZWcEFpTldnaHptSE4xTUgwSFBXbE5wd1ZxYWo4bVdMaHFNMW40WnV5dmxpQVFiR1BTbFpPRmpUN3FtbWNlbmVHczhfcFZmVFQ2b0VxRlVISkd0TnZ3VVhlU3BhdnZmV3VOYlBWaURwaVJLaDZPTFkwbXRmMWpVSEV4TE5VSlpTQWQ5cHpiR19pNnoxWGptSFN2YzF4UUgzX1UwVkdIVFYxVXNPOHdRbFd0Z1ZRMTN3ZldiLXBNZmVObVl3MnZXR0ZjRU1QVWRkVmZxSmZUVHE0bzVYODRoRlJISnpHXzI3ck44azRYLWloZlhSa0E4d1BvbnJCblQtQnZjb3djQdIBjwJBVV95cUxNVUZhelRUXzBISVQ2V3hoajlXcy05d3V0TEpwaGYyWDk5S3hVcExKSGQ4eER3dGRQRFZGWGdvQm14R1QzUXVvT1NzREw0QWJyVnIzdl9MUk5MajVDQjgzbmVwQTZTdVY5T0dZN0lKU0ZWem9BTlRvdGZxaXAtNlQ2dGxaZElFdFAxQzJnWkxENEJSZk9acm9oMFFyUHZDbk01SWx1dENjVDZKcVYyYTdSNFdqcHhhcC1OMHM3V3JUcDBtcWtWNk50N1MtbzhrRTRGdVhVVkNDRjJtdC1rY1pRS3dNRjFmaW1MU1hwVU1NR19IblBFdXJoQXZERGpRUjI2SkxlcXVHbnJpUWlXWGRZ?oc=5",
       "publishedAt": "Mon, 12 Oct 2026 11:27:35 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 12 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdElobnFRdkhBaW55dkdTbjNrNGlBZjhGcjE0em00Y1JNVmRhY1dhNjBCa05QbnpMVG5iV0hfcUxDV0ZwTFVYT1lJUF93ZjlhUGNJS2JKNTlPYndRSGdFcU43eDFERnVsYWZoRjJVNjlSa1ZHRURsUm9oaXpmeGM3bjZseDJRR0hERnd0aVFPSm0xLWNHU1VkSnRpZ3daVVlVZlE1RmZ0TXVpbFJicWhWUDB4ZUNrU1lzNThzY3duMThqZUhHd0lPU0tYZ21TaVFaV0J6U1JFSnVxcEs5NG0yTTRuZnZkNGZLZWQycElBeHBETmY0UkJ0VXBhTDROYU83X0HSAYcCQVVfeXFMTV93NTFOWk1nTnVTOGk3M0llNGhjZkdrckNJNHV3bWxGWG5OaVd0VkR5NjBwZkNZV2ZvajZSTE52TDViYjJxYTEwOXVRaUhOaUtDeGNneTQ2dEpxNHQteHdmaXQ4Zy1CYm51R19idlNmUUtBaHRrSGo3QVh0d01ESTFOYjFRX1IxelEzWHFwNUNVbDBWcFRROFhGTS1iOVN5OWY1QUU5RDRUVWJNWHZQajlPVXFnSmVXczlmQlJ4R0IzLThYVktGNDRIRTRZUVVscU5iNmptb2YyS0lacE9JRURrM3JLaUJCTWhLV0tBbG92V3pFYVpWRlNDZHBqMnRCbTdTZWlHVUU?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 01:27:56 GMT"
     }
   ]
 }
