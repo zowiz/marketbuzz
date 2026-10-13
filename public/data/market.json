@@ -1,5 +1,5 @@
 {
-  "headline": "GIFT Nifty signals positive start for Indian markets; TCS and HD Fire Protect IPO in focus",
+  "headline": "Sensex gains 400 points as Nifty IT surges 4 percent; Ola Electric and New India Assurance in focus",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,29 +7,37 @@
     "nextOpen": ""
   },
   "why": [
-    "GIFT Nifty signals a positive opening for the Indian stock market today",
-    "Crude oil prices fell to $105 per barrel, easing some pressure on the economy",
-    "Markets are looking to recover from the previous session's 548-point Sensex decline",
-    "Geopolitical risks and a strong US dollar continue to influence global investor sentiment"
+    "Nifty IT index extends gains, rising 4% as technology stocks lead the market recovery.",
+    "Rupee jumps 177 paise against the dollar following strong intervention by the RBI.",
+    "PM Modi highlights strong economic fundamentals and innovation at the New Economy Forum.",
+    "Market recovers from a 548-point drop triggered by oil price spikes and foreign fund outflows."
   ],
   "whatHappening": [
-    "TCS shares are in focus as today is the last day to buy for the Rs 12 dividend eligibility",
-    "The HD Fire Protect IPO opens today with grey market signals suggesting 30% listing gains",
-    "HCL Tech is under observation following reports of a revenue rebound despite AI concerns",
-    "Seven Indian stocks have achieved a positive breakout by crossing above their 200-day moving averages"
+    "Sensex gains over 400 points while Nifty 50 trades above the 22,500 level.",
+    "Ola Electric shares undergo a price adjustment following the company's ex-rights issue.",
+    "New India Assurance shares fall more than 3% after erasing earlier gains in the session.",
+    "Hyundai Motor India prepares for the launch of its new Bayon model in the Indian market."
   ],
   "stocksInNews": [
     {
-      "symbol": "TCS",
-      "sentiment": "Positive",
+      "symbol": "OLAELEC",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        0
+        3
       ]
     },
     {
-      "symbol": "HCLTECH",
-      "sentiment": "Neutral",
+      "symbol": "HYUNDAI",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "NIACL",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         8
@@ -45,107 +53,101 @@
     },
     {
       "symbol": "TECHM",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        15
-      ]
-    },
-    {
-      "symbol": "HD Fire Protect",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 3/7 sources",
       "articleIds": [
-        2
+        6,
+        15,
+        16
       ]
     }
   ],
-  "summary": "Indian markets are expected to open higher today following positive cues from GIFT Nifty, despite a significant selloff in the previous session. Key focus remains on TCS for its dividend deadline and the opening of the HD Fire Protect IPO. Global factors, including falling crude oil prices and rising geopolitical risks, continue to drive market volatility.",
-  "updatedAt": "2026-10-13T03:31:56.793Z",
+  "summary": "The Indian stock market rebounded on October 13, with the Sensex gaining 400 points and Nifty IT surging 4%. This recovery follows a sharp sell-off in the previous session caused by oil price spikes and foreign fund outflows. Key stocks in focus include Ola Electric, New India Assurance, and Hyundai Motor India.",
+  "updatedAt": "2026-10-13T07:05:14.084Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-13",
   "articleKeys": [
-    "tcs dividend alert last day to buy it majors shares for rs 12 dividend",
-    "stock market live gift nifty signals positive open kospi tumbles over 6 brent below 106",
-    "hd fire protect ipo opens today gmp signals 30 listing gains key details inside",
-    "positive breakout these 7 stocks cross above their 200 dmas",
-    "oil price today october 13 crude oil falls to 105 as traders assess russian supply mideast attacks whats next",
-    "dollar holds near 18month high as geopolitical risks rise",
-    "gold subdued with spotlight on us inflation data",
-    "oil ticks lower as russia diesel supply prospects counter gulf supply risks",
-    "hcl tech sees revenue rebound but ai deflation remains a concern",
-    "sensex today nifty 50 stock market live updates gift nifty signals a positive start asian shares trade lower",
+    "india grows with the world not at anyones cost cites strong economic fundamentals says pm modi",
+    "kawasaki ninja z300 launch first look expected price specifications bookings and more",
+    "power to empower innovation essential but benefits must reach more people says pm modi at new economy forum",
+    "ola electric shares adjust after trading exrights issue",
+    "today technology is power data is power pm modi at new economy forum",
+    "rupee jumps 177 paise in 2 days against dollar after rbis strong defence before rs 97 goal post what lies ahead",
+    "stock market live sensex gains 400 pts nifty it extends gains up 4",
+    "hyundai bayon launch expected price features variants colours and more",
+    "new india assurance share price erases gains falls over 3 in trade",
+    "bumbles billiondollar buyout why investors are betting on a turnaround",
     "why did market fall today sensex ends 548 pts lower nifty below 22400 5 triggers behind todays sellof the economic times",
     "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
     "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom",
     "stock market close highlights sensex ends 548 points lower nifty at 22363 fmcg psu bank top drags ndtv profit",
     "why is stock market down today sensex nifty 50 crash top 3 factors behind stock market decline explained livemint",
     "sensex today nifty 50 stock market highlights sensex falls 548 pts nifty ends below 22400 itc techm drop 3 each the economic times",
+    "sensex today stock market live nifty above 22500 sensex rises 520 pts vix down 6 it stocks shine moneycontrolcom",
     "stock market outlook today 13 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian stock market outlook next week 1216 oct sensex nifty likely to extend recovery after 8week losses goodreturns",
-    "stock market prediction for today sensex nifty outlook for tuesday kospi taiwan cues to watch 13 oct 2026 livemint",
-    "stock market outlook today 12 oct sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint"
+    "stock market prediction for today sensex nifty outlook for tuesday kospi taiwan cues to watch 13 oct 2026 livemint"
   ],
   "articles": [
     {
-      "title": "TCS dividend alert! Last day to buy IT major's shares for Rs 12 dividend",
+      "title": "India grows ‘with the world, not at anyone's cost’, cites strong economic fundamentals, says PM Modi",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-dividend-alert-last-day-to-buy-it-majors-shares-for-rs-12-dividend/articleshow/134906371.cms",
-      "publishedAt": "Tue, 13 Oct 2026 08:10:41 +0530"
+      "link": "https://www.thehindu.com/business/Economy/pm-modi-bloomberg-economic-forum-october-13-2026/article71578206.ece",
+      "publishedAt": "Tue, 13 Oct 2026 12:08:28 +0530"
     },
     {
-      "title": "Stock Market LIVE: GIFT Nifty signals positive open; KOSPI tumbles over 6%; Brent below $106",
+      "title": "Kawasaki Ninja Z300 Launch: First Look, Expected Price, Specifications, Bookings And More",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/kawasaki-ninja-z300-launch-first-look-expected-price-specifications-bookings-and-more-12177363#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 12:02:11 +0530"
+    },
+    {
+      "title": "'Power To Empower': Innovation Essential, But Benefits Must Reach More People, Says PM Modi At New Economy Forum",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/prime-minister-modi-highlights-technology-and-innovation-as-tools-to-empower-millions-at-bloomberg-forum-12177289#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 12:00:11 +0530"
+    },
+    {
+      "title": "Ola Electric Shares Adjust After Trading Ex-Rights Issue",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/ola-electric-shares-adjust-after-trading-ex-rights-issue-12177053#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 11:59:33 +0530"
+    },
+    {
+      "title": "'Today, Technology Is Power, Data Is Power': PM Modi At New Economy Forum",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/pm-modi-to-participate-in-bloomberg-new-economy-forum-watch-live-video-here-12176980#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 11:59:25 +0530"
+    },
+    {
+      "title": "Rupee jumps 177 paise in 2 days against dollar after RBI's strong defence before Rs 97 goal post. What lies ahead?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-177-paise-in-2-days-against-dollar-after-rbis-strong-defence-before-rs-97-goal-post-what-lies-ahead/articleshow/134910145.cms",
+      "publishedAt": "Tue, 13 Oct 2026 11:59:19 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex gains 400 pts; Nifty IT extends gains, up 4%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-13-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101300081_1.html",
-      "publishedAt": "Tue, 13 Oct 2026 07:52:33 +0530"
+      "publishedAt": "Tue, 13 Oct 2026 11:58:55 +0530"
     },
     {
-      "title": "HD Fire Protect IPO opens today; GMP signals 30% listing gains, key details inside",
+      "title": "Hyundai Bayon Launch: Expected Price, Features, Variants, Colours And More",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hd-fire-protect-ipo-opens-today-gmp-signals-30-listing-gains-key-details-inside/articleshow/134906126.cms",
-      "publishedAt": "Tue, 13 Oct 2026 07:51:23 +0530"
+      "link": "https://www.ndtvprofit.com/business/hyundai-bayon-launch-expected-price-features-variants-colours-and-more-12177240#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 11:56:04 +0530"
     },
     {
-      "title": "Positive Breakout: These 7 stocks cross above their 200 DMAs",
+      "title": "New India Assurance Share Price Erases Gains, Falls Over 3% In Trade",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-7-stocks-cross-above-their-200-dmas/slideshow/134906121.cms",
-      "publishedAt": "Tue, 13 Oct 2026 07:40:11 +0530"
+      "link": "https://www.ndtvprofit.com/markets/new-india-assurance-share-price-erases-gains-falls-over-3-percent-in-trade-12177385#publisher=newsstand",
+      "publishedAt": "Tue, 13 Oct 2026 11:54:11 +0530"
     },
     {
-      "title": "Oil Price Today (October 13): Crude oil falls to $105 as traders assess Russian supply, Mideast attacks. What’s next?",
+      "title": "Bumble’s billion-dollar buyout: Why investors are betting on a turnaround",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-13-crude-oil-falls-to-105-as-traders-assess-russian-supply-mideast-attacks-whats-next/articleshow/134906049.cms",
-      "publishedAt": "Tue, 13 Oct 2026 07:38:35 +0530"
-    },
-    {
-      "title": "Dollar holds near 18-month high as geopolitical risks rise",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-near-18-month-high-as-geopolitical-risks-rise/articleshow/134906029.cms",
-      "publishedAt": "Tue, 13 Oct 2026 07:34:24 +0530"
-    },
-    {
-      "title": "Gold subdued with spotlight on US inflation data",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-subdued-with-spotlight-on-us-inflation-data/articleshow/134906003.cms",
-      "publishedAt": "Tue, 13 Oct 2026 07:32:50 +0530"
-    },
-    {
-      "title": "Oil ticks lower as Russia diesel supply prospects counter Gulf supply risks",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-ticks-lower-as-russia-diesel-supply-prospects-counter-gulf-supply-risks/articleshow/134905984.cms",
-      "publishedAt": "Tue, 13 Oct 2026 07:29:13 +0530"
-    },
-    {
-      "title": "HCL Tech sees revenue rebound, but AI deflation remains a concern",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-stays-cautious-amid-global-upheavals-ai-deflation/articleshow/134905880.cms",
-      "publishedAt": "Tue, 13 Oct 2026 07:24:23 +0530"
-    },
-    {
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-rbl-bank-share-price-13-october-2026/liveblog/134905965.cms",
-      "publishedAt": "Tue, 13 Oct 2026 07:21:31 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bumbles-billion-dollar-buyout-why-investors-are-betting-on-a-turnaround/slideshow/134910098.cms",
+      "publishedAt": "Tue, 13 Oct 2026 11:50:20 +0530"
     },
     {
       "title": "Why did market fall today? Sensex ends 548 pts lower, Nifty below 22,400. 5 triggers behind today's sellof - The Economic Times",
@@ -180,8 +182,14 @@
     {
       "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex falls 548 pts, Nifty ends below 22,400; ITC, TechM drop 3% each - The Economic Times",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXpoTnFHckttNUZNZXhZUDluQ0tWcWVuUkxQaUJFZVhpYTRabkpwczdmcHJwMERabnEwMFlUYVl2U19fZmo1M3NZcGUzRE82Mzl3WUdGSWV6bzZTUElDRnhYT2NmU1hDTWZ1dUNzNkYxbG9FemJoVG0tSlI5eUlGZ2NOVXNQUWhVS21qZjY5dk1IeHpUVmRkdzhFN0hKeDU1eDkzdWV6LWNuS2M2Z25pd3ZCYXhPSWZ1Rk41cHhCcWxSaVgtOV94dENHU1V0bHZuWkM4NGR4MXhRcFBlakpKWTF0cEJibWRvckFodmlaSlJKNDZoQWNxREpjQ1R6NmRhN3FORm9KMUdGQ1JnRGN5UEc0R1o?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXpoTnFHckttNUZNZXhZUDluQ0tWcWVuUkxQaUJFZVhpYTRabkpwczdmcHJwMERabnEwMFlUYVl2U19fZmo1M3NZcGUzRE82Mzl3WUdGSWV6bzZTUElDRnhYT2NmU1hDTWZ1dUNzNkYxbG9FemJoVG0tSlI5eUlGZ2NOVXNQUWhVS21qZjY5dk1IeHpUVmRkdzhFN0hKeDU1eDkzdWV6LWNuS2M2Z25pd3ZCYXhPSWZ1Rk41cHhCcWxSaVgtOV94dENHU1V0bHZuWkM4NGR4MXhRcFBlakpKWTF0cEJibWRvckFodmlaSlJKNDZoQWNxREpjQ1R6NmRhN3FORm9KMUdGQ1JnRGN5UEc0R1rSAZoCQVVfeXFMTTdvU0tvSE1lanpQYm9QN2ZHVXlBRkxaWExVd0JzanloVTAxZU1hVWhvX0VfSUF3MXltX19ScEM4TEVWNGt0R2JDZlluV0pvd0taMEpCV1NVeDVIdTdxWTZHQUZkY3d0azNOMVlCRmhWSktPRGViNENwNDVZM2hvMU9MUWNubWR3YTBScng3MGo0dHNQSk1EcUNDdk5uZGJ1c3l0dnVIOW9EWUx5aGJUeUFaS1FmX3JaRkU4dWxBZFVveVhCRTJYUWtiS2tKTzIwQU1rQ1pJeXVYejZSOUR1dkQ1LS1fbWlNU3FwMzZFTjM1bEs0dXNtUUpMOTE4MXNGWWZGZlhPQnZsS09iQ0ZDNnpyTmV5dHMzamd3?oc=5",
       "publishedAt": "Mon, 12 Oct 2026 10:04:52 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Nifty above 22,500, Sensex rises 520 pts; VIX down 6%, IT stocks shine - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPOUhGc1RJM0o4ajc5Q3V5RFNEMVM5WERUSFhnb2Y0T0F0Rlc0S0h6UnoyWnNJMzl4RmZVV2ZJNFBHS2pINTVwX2dqVTIxNzdNNlpaRnlGNWR4aXpOdmducWZ4bUprdlBwYXhtZGxLTGhoZzY2S0JZT1htVUVTTjkwRHNQX1JzS3FXekZ3YmxrNUtpVEJLU3cybnE5c0ItamNCRmo0X25TSkczUkZTN0ZhdVN3Wm5ZV2lFNHhnNjJwZ2ZoUDB2QnotRGNLb0d6LXlCcjIyVUFqTEdDb0twYWtWMHNiSjVPeEliTlZNSmQ0cVhoakRSTG9jMkU3YXdvRlYyWUgwVG1QVWYxRnB0dkZkQ2J5ZGo1QjBGTnIzek5vbC1OQXfSAagCQVVfeXFMTmliUXc5T1d2X20tZmhOTW0yNEJqWDdQS2hkNEtpeXVESUVYN3lJd2p3MWxXd052dEhHWWZvV05pZUF6T1h3N2F1ZVFRYzJ5V21BZVR5OGc5M2g2cGIyNFdRTnRxdkp1elNERkdfN0RScDE1VjVwenpzcnZaRUNZaGZuaFU5N3hQcjY2azJROTloeG9vSzdRelczRm1Wd2dXSk1aQWdTaDAwbTNkVTlkYTAtVlljZ01taTZ0eTVLalFzTHJkYTJFUjJzSmg4RWZYUndrOEQ1MWZOVUpFLVpQS25HY0UteVFTUUdNSy05ZzRFb09VbmVjM01FRHNJRHlQNEFmLUVfMzJ2TnlEaTZOeE1rUkpobDVab1FJeDFwOFZUVTlJelIxSFc?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 06:57:14 GMT"
     },
     {
       "title": "Stock market outlook today, 13 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -200,12 +208,6 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNcEF4NVZWcEFpTldnaHptSE4xTUgwSFBXbE5wd1ZxYWo4bVdMaHFNMW40WnV5dmxpQVFiR1BTbFpPRmpUN3FtbWNlbmVHczhfcFZmVFQ2b0VxRlVISkd0TnZ3VVhlU3BhdnZmV3VOYlBWaURwaVJLaDZPTFkwbXRmMWpVSEV4TE5VSlpTQWQ5cHpiR19pNnoxWGptSFN2YzF4UUgzX1UwVkdIVFYxVXNPOHdRbFd0Z1ZRMTN3ZldiLXBNZmVObVl3MnZXR0ZjRU1QVWRkVmZxSmZUVHE0bzVYODRoRlJISnpHXzI3ck44azRYLWloZlhSa0E4d1BvbnJCblQtQnZjb3djQdIBjwJBVV95cUxNVUZhelRUXzBISVQ2V3hoajlXcy05d3V0TEpwaGYyWDk5S3hVcExKSGQ4eER3dGRQRFZGWGdvQm14R1QzUXVvT1NzREw0QWJyVnIzdl9MUk5MajVDQjgzbmVwQTZTdVY5T0dZN0lKU0ZWem9BTlRvdGZxaXAtNlQ2dGxaZElFdFAxQzJnWkxENEJSZk9acm9oMFFyUHZDbk01SWx1dENjVDZKcVYyYTdSNFdqcHhhcC1OMHM3V3JUcDBtcWtWNk50N1MtbzhrRTRGdVhVVkNDRjJtdC1rY1pRS3dNRjFmaW1MU1hwVU1NR19IblBFdXJoQXZERGpRUjI2SkxlcXVHbnJpUWlXWGRZ?oc=5",
       "publishedAt": "Mon, 12 Oct 2026 11:27:35 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 12 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdElobnFRdkhBaW55dkdTbjNrNGlBZjhGcjE0em00Y1JNVmRhY1dhNjBCa05QbnpMVG5iV0hfcUxDV0ZwTFVYT1lJUF93ZjlhUGNJS2JKNTlPYndRSGdFcU43eDFERnVsYWZoRjJVNjlSa1ZHRURsUm9oaXpmeGM3bjZseDJRR0hERnd0aVFPSm0xLWNHU1VkSnRpZ3daVVlVZlE1RmZ0TXVpbFJicWhWUDB4ZUNrU1lzNThzY3duMThqZUhHd0lPU0tYZ21TaVFaV0J6U1JFSnVxcEs5NG0yTTRuZnZkNGZLZWQycElBeHBETmY0UkJ0VXBhTDROYU83X0HSAYcCQVVfeXFMTV93NTFOWk1nTnVTOGk3M0llNGhjZkdrckNJNHV3bWxGWG5OaVd0VkR5NjBwZkNZV2ZvajZSTE52TDViYjJxYTEwOXVRaUhOaUtDeGNneTQ2dEpxNHQteHdmaXQ4Zy1CYm51R19idlNmUUtBaHRrSGo3QVh0d01ESTFOYjFRX1IxelEzWHFwNUNVbDBWcFRROFhGTS1iOVN5OWY1QUU5RDRUVWJNWHZQajlPVXFnSmVXczlmQlJ4R0IzLThYVktGNDRIRTRZUVVscU5iNmptb2YyS0lacE9JRURrM3JLaUJCTWhLV0tBbG92V3pFYVpWRlNDZHBqMnRCbTdTZWlHVUU?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 01:27:56 GMT"
     }
   ]
 }
