@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty end lower on Wednesday amid rising inflation and elevated crude oil prices",
+  "headline": "Sensex and Nifty end lower as banking and pharma drag, while IT stocks and Reliance Jio IPO news provide support.",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,42 +7,41 @@
     "nextOpen": ""
   },
   "why": [
-    "Elevated crude oil prices and rising inflation concerns weighed heavily on investor sentiment",
-    "Wholesale inflation hit a series-high of 11.4% in September 2026 driven by food and fuel",
-    "Hawkish RBI commentary and inflation fears caused Indian bonds to sink deeper",
-    "Selling pressure in banking, pharma, and auto sectors dragged the major indices down"
+    "Selling pressure in banking, pharma, and auto sectors weighed on the market.",
+    "Hot US inflation data boosted expectations for further Federal Reserve rate hikes.",
+    "Investors booked profits following a massive 1,100-point rally in the previous session.",
+    "IT stocks like Infosys and TCS rallied, helping to cushion the overall market decline."
   ],
   "whatHappening": [
-    "Sensex settled at 72,781.89, down over 220 points, while Nifty finished below the 22,650 mark",
-    "The Cabinet approved the sale of a 60.72% stake in IDBI Bank to Fairfax for ₹52,878 crore",
-    "IT stocks including Infosys and TCS rallied, providing a necessary cushion to the broader market fall",
-    "SEBI proposed new market cap-based norms for SME IPOs to overhaul regulatory frameworks"
+    "Reliance Jio filed its RHP and announced IPO subscription dates for October 21-23.",
+    "Bajaj Consumer Care reported a 66% year-on-year jump in Q2 net profit to Rs 70 crore.",
+    "The government proposed tougher BS VII pollution norms, including real-world emission tests for vehicles.",
+    "Noel and Neville Tata filed legal caveats in Mumbai courts regarding the Tata Trusts row."
   ],
   "stocksInNews": [
     {
-      "symbol": "IDBI",
+      "symbol": "RELIANCE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        1,
-        4,
-        9
+        0,
+        2
       ]
     },
     {
-      "symbol": "DYNAMATIC",
+      "symbol": "BAJAJCON",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
+        3,
         5
       ]
     },
     {
       "symbol": "INFY",
       "sentiment": "Positive",
-      "sources": "Mentioned by 4/8 sources",
+      "sources": "Mentioned by 3/8 sources",
       "articleIds": [
-        7,
         11,
         13,
         16
@@ -51,58 +50,49 @@
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 3/8 sources",
       "articleIds": [
+        11,
         13,
         16
       ]
     },
     {
-      "symbol": "NESTLEIND",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
       "symbol": "SHRIRAMFIN",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        7,
-        13
+        11
       ]
     },
     {
       "symbol": "HDFCLIFE",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        7,
-        13
+        11
       ]
     }
   ],
-  "summary": "Indian markets closed lower on Wednesday as Sensex dropped 252 points and Nifty slipped below 22,650 due to high inflation and crude prices. While IT stocks like Infosys and TCS gained, sectors like banking and pharma faced selling pressure. A major highlight was the Cabinet's approval of IDBI Bank's stake sale to Fairfax for ₹52,878 crore.",
-  "updatedAt": "2026-10-14T13:02:01.395Z",
+  "summary": "The Indian market ended lower on October 14, with the Sensex falling 252 points to settle at 72,781.89. While IT stocks like Infosys and TCS rallied, sectors such as banking and pharma faced selling pressure following hot US inflation data. Key highlights included Reliance Jio's IPO announcement and strong quarterly earnings from Bajaj Consumer Care.",
+  "updatedAt": "2026-10-14T14:02:25.513Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-14",
   "articleKeys": [
-    "rupee rises 19 paise to close at 9517 against us dollar",
-    "ccea approves sale of 6072 stake in idbi bank to fairfax for 52878 cr",
-    "stock markets close lower amid elevated crude oil rising inflation",
-    "india bonds sink deeper on rbi commentary inflation concerns",
-    "largestever fdi in indias financial sector cabinet approves sale of idbi bank to fairfax for 52878 crore",
-    "dynamatic technologies among 7 stocks hitting 52week highs rally up to 32 in a month",
-    "sebi proposes market capbased sme ipo norms seeks public comments on regulatory overhaul",
-    "market wrap nestle india infosys shriram finance hdfc life top gainers and losers on nifty and sensex on wednesday",
-    "food and fuel push wholesale inflation to serieshigh of 114 in september 2026",
-    "cabinet approves fairfaxs 52878crore bid for idbi bank largest fdi ever in indias financial sector",
+    "jio platforms ipo to open for subscription on october 2123 filing",
+    "gold drops over 1 as hot us inflation data boosts fed hike bets",
+    "reliance jio files rhp announces ipo dates for indias biggest listing",
+    "bajaj consumer care q2 results profit jumps 66 yoy to rs 70 crore revenue rises 25",
+    "tata trusts row noel son neville tata move bombay hc and mumbai civil court with caveats",
+    "bajaj consumer q2 results net profit jumps 66 to rs 70 crore revenue rises 26",
+    "incomes are eroding lawyer exposes the burden of rising rents",
+    "bumrah above two bowling legends buttler broad reveal their top 10 bowlers of 21st century",
+    "bs vii govt drafts tougher pollution norms for vehicles monitors real world tests proposed key details",
+    "alanna panday flaunts baby bump at pinkthemed baby shower ananya panday attends see pics",
     "stock market highlights 13 oct sensex jumps 1109 points nifty rises 16 as it stocks rally businessline",
-    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
-    "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline",
     "stock market live highlights sensex drops 226 points nifty 50 below 22650 infosys tcs jump shriram fin hdfc life top losers ndtv profit",
+    "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline",
+    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
     "stock market close sensex zooms 1109 pts after fms comments on ltcg stt nifty ends at 22722 business standard",
     "stock market outlook today 14 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
@@ -112,64 +102,64 @@
   ],
   "articles": [
     {
-      "title": "Rupee rises 19 paise to close at 95.17 against U.S. dollar",
+      "title": "Jio Platforms IPO to open for subscription on October 21-23: Filing",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/rupee-rises-19-paise-to-close-at-9517-against-us-dollar/article71583687.ece",
-      "publishedAt": "Wed, 14 Oct 2026 18:00:41 +0530"
+      "link": "https://www.business-standard.com/markets/ipo/jio-platforms-ipo-to-open-for-subscription-on-october-21-23-filing-126101401189_1.html",
+      "publishedAt": "Wed, 14 Oct 2026 19:01:13 +0530"
     },
     {
-      "title": "CCEA approves sale of 60.72% stake in IDBI Bank to Fairfax for ₹52,878 cr",
+      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/banking/ccea-approves-sale-of-60-72-stake-in-idbi-bank-to-fairfax-for-52-878-cr-126101401052_1.html",
-      "publishedAt": "Wed, 14 Oct 2026 17:52:42 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-drops-over-1-as-hot-us-inflation-data-boosts-fed-hike-bets/articleshow/134944020.cms",
+      "publishedAt": "Wed, 14 Oct 2026 19:00:20 +0530"
     },
     {
-      "title": "Stock markets close lower amid elevated crude oil, rising inflation",
+      "title": "Reliance Jio files RHP, announces IPO dates for India's biggest listing",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/stock-markets-close-lower-amid-elevated-crude-oil-rising-inflation/article71583631.ece",
-      "publishedAt": "Wed, 14 Oct 2026 17:48:16 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-files-rhp-announces-ipo-dates-for-record-issue/articleshow/134943768.cms",
+      "publishedAt": "Wed, 14 Oct 2026 18:50:41 +0530"
     },
     {
-      "title": "India bonds sink deeper on RBI commentary, inflation concerns",
+      "title": "Bajaj Consumer Care Q2 Results: Profit jumps 66% YoY to Rs 70 crore, revenue rises 25%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-deeper-on-rbi-commentary-inflation-concerns/articleshow/134942525.cms",
-      "publishedAt": "Wed, 14 Oct 2026 17:41:19 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-consumer-care-q2-results-profit-jumps-66-yoy-to-rs-70-crore-revenue-rises-25/articleshow/134943855.cms",
+      "publishedAt": "Wed, 14 Oct 2026 18:50:13 +0530"
     },
     {
-      "title": "Largest-ever FDI in India’s financial sector: Cabinet approves sale of IDBI Bank to Fairfax for ₹52,878 crore",
+      "title": "Tata Trusts row: Noel, son Neville Tata move Bombay HC and Mumbai civil court with caveats",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/cabinet-approves-fairfaxs-52878-cr-bid-for-idbi-bank-largest-fdi-ever-in-indias-financial-sector/article71583489.ece",
-      "publishedAt": "Wed, 14 Oct 2026 17:36:38 +0530"
+      "link": "https://www.thehindu.com/business/tata-trusts-row-noel-son-neville-tata-move-bombay-hc-and-mumbai-civil-court-with-caveats/article71583924.ece",
+      "publishedAt": "Wed, 14 Oct 2026 18:48:03 +0530"
     },
     {
-      "title": "Dynamatic Technologies among 7 stocks hitting 52-week highs; rally up to 32% in a month",
+      "title": "Bajaj Consumer Q2 Results: Net Profit Jumps 66% To Rs 70 Crore, Revenue Rises 26%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-among-7-stocks-hitting-52-week-highs-rally-up-to-32-in-a-month/slideshow/134942503.cms",
-      "publishedAt": "Wed, 14 Oct 2026 17:35:40 +0530"
+      "link": "https://www.ndtvprofit.com/markets/bajaj-consumer-q2-results-net-profit-jumps-66-to-rs-70-crore-revenue-rises-26-12184963#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 18:25:01 +0530"
     },
     {
-      "title": "Sebi proposes market cap-based SME IPO norms, seeks public comments on regulatory overhaul",
+      "title": "\"Incomes Are Eroding\": Lawyer Exposes The Burden Of Rising Rents",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-market-cap-based-sme-ipo-norms-seeks-public-comments-on-regulatory-overhaul/articleshow/134942348.cms",
-      "publishedAt": "Wed, 14 Oct 2026 17:34:28 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/a-salary-a-job-no-savings-how-the-rental-crisis-is-trapping-working-people-12184442#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 18:19:36 +0530"
     },
     {
-      "title": "Market wrap:  Nestle India, Infosys, Shriram Finance, HDFC Life top gainers and losers on Nifty and Sensex on Wednesday",
+      "title": "Bumrah Above Two Bowling Legends: Buttler, Broad Reveal Their Top 10 Bowlers Of 21st Century",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-nestle-india-infosys-shriram-finance-hdfc-life-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/134942022.cms",
-      "publishedAt": "Wed, 14 Oct 2026 17:26:38 +0530"
+      "link": "https://www.ndtvprofit.com/sports/bumrah-above-two-bowling-legends-buttler-broad-reveal-their-top-10-bowlers-of-21st-century-12184709#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 18:18:34 +0530"
     },
     {
-      "title": "Food and fuel push wholesale inflation to series-high of 11.4% in September 2026",
+      "title": "BS VII: Govt Drafts Tougher Pollution Norms For Vehicles; Monitors, Real World Tests Proposed | Key Details",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/september-wpi-inflation-rises-to-1139-as-food-fuel-and-manufactured-goods-prices-increase/article71582698.ece",
-      "publishedAt": "Wed, 14 Oct 2026 17:21:24 +0530"
+      "link": "https://www.ndtvprofit.com/india/bs-vii-govt-drafts-tougher-pollution-norms-for-vehicles-monitors-real-world-tests-proposed-key-details-12184918#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 18:16:26 +0530"
     },
     {
-      "title": "Cabinet approves Fairfax’s ₹52,878-crore bid for IDBI Bank; largest FDI ever in India’s financial sector",
+      "title": "Alanna Panday Flaunts Baby Bump At Pink-Themed Baby Shower, Ananya Panday Attends: See Pics",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/cabinet-approves-fairfaxs-52878-cr-bid-for-idbi-bank-largest-fdi-ever-in-indias-financial-sector/article71583489.ece",
-      "publishedAt": "Wed, 14 Oct 2026 17:10:35 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/alanna-panday-flaunts-baby-bump-at-pink-themed-baby-shower-ananya-panday-attends-see-pics-12184174#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 18:13:17 +0530"
     },
     {
       "title": "Stock Market Highlights, 13 Oct: Sensex jumps 1,109 points, Nifty rises 1.6% as IT stocks rally - BusinessLine",
@@ -178,22 +168,22 @@
       "publishedAt": "Tue, 13 Oct 2026 10:41:29 GMT"
     },
     {
-      "title": "Closing Bell: Nifty below 22,650, Sensex down 252 pts in volatile trade; IT shines, pharma drags - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
+      "title": "Stock Market Live Highlights: Sensex Drops 226 Points, Nifty 50 Below 22,650; Infosys, TCS Jump; Shriram Fin, HDFC Life Top Losers - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWDFwMTlpWnRkTnVzazZjXzNUYXNvc0U1c0lrVk1TX2xMMXhTWkNpQTVOU3pJQTBjbmxYNHNWbEllczRJODZXT3NfNnZ6MHZMc2R2XzFVejdGSlM1UkhLN2I4bXE2Xzk5S19GSUJxRnNwbDNESEdGWDcxQWgxUnNwUWpKLV9RcWtOeFdoYVFSQUttcXZ6X0NFSHZWSndlWTVXdFE5QjVfN29ka2lHN0tVZlp4NzRpd0REVC1PLVVETzdKT1Z0UmZ1VlN4cjVlRnZ3M2R4ZUtKaU9aZnEybDZ3d2dlX08xN3VWRGIwcFdISG1KdGhxMUZILWx4M0hLMThDRmRZ0gGLAkFVX3lxTE9YSjZlTU5waThiUjN3MVhEemg3SU1IaXl0cDREeUVMV2NZYWprUW4tdk5QamJJcDdpVFhVWXQ2LWxjSGMtcE0tNEpIeW5tNlZnbUg3bUtUUlMzSldtdTVqUGZSRlNnN1dpcWcwWXdLYUtwcExQeDlvMFZjbUlZUHYwR01tZFBINHZQak5tanBrajZUd3RXdVNQRzNHZXpHbVFYLWlTQ2dNcHBWYkExRno0YUJJWXF0aVg3Y24zcEVLNE9SNnhpY0EzU2J2R1JEN1pxbnpBYWhwUDJ2bVBtV0JZQlZRSTdsT3dTNzRVekh5TzJFVHJodTBMd3RSSDdUVDQxZDlnT0RjWkswcw?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:15:44 GMT"
     },
     {
       "title": "Stock Market Today Live, Oct 14: Sensex settles at 72,781.89; Nifty down 99.25 points to 22,622.70 - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjJxdGxpUHA1S1U5S2ZPU215c3dsa1NHOWZJX096MzN6NERSeTk5U0xFUVp2ZnB3T1VCUGlhWkdJMXJsRng2QkQxSWNHdWhTN2tkX0pTbHRleEVmS0RTU0pSX2Y2NWp2Wlo5blpaN1gtZzdsbnEtTTNSZ1B6WVF0N1JvUTlWT0dqdVZNZjFDcXhFc3JTVXB5cThhSnRFck1JZ3V4VzVQRXMxZ2lsYUxZQndxTWt4NmtSZk1fUlpPZEs1aGN0MXc?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 08:28:27 GMT"
+      "publishedAt": "Wed, 14 Oct 2026 10:40:35 GMT"
     },
     {
-      "title": "Stock Market Live Highlights: Sensex Drops 226 Points, Nifty 50 Below 22,650; Infosys, TCS Jump; Shriram Fin, HDFC Life Top Losers - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWDFwMTlpWnRkTnVzazZjXzNUYXNvc0U1c0lrVk1TX2xMMXhTWkNpQTVOU3pJQTBjbmxYNHNWbEllczRJODZXT3NfNnZ6MHZMc2R2XzFVejdGSlM1UkhLN2I4bXE2Xzk5S19GSUJxRnNwbDNESEdGWDcxQWgxUnNwUWpKLV9RcWtOeFdoYVFSQUttcXZ6X0NFSHZWSndlWTVXdFE5QjVfN29ka2lHN0tVZlp4NzRpd0REVC1PLVVETzdKT1Z0UmZ1VlN4cjVlRnZ3M2R4ZUtKaU9aZnEybDZ3d2dlX08xN3VWRGIwcFdISG1KdGhxMUZILWx4M0hLMThDRmRZ0gGLAkFVX3lxTE9YSjZlTU5waThiUjN3MVhEemg3SU1IaXl0cDREeUVMV2NZYWprUW4tdk5QamJJcDdpVFhVWXQ2LWxjSGMtcE0tNEpIeW5tNlZnbUg3bUtUUlMzSldtdTVqUGZSRlNnN1dpcWcwWXdLYUtwcExQeDlvMFZjbUlZUHYwR01tZFBINHZQak5tanBrajZUd3RXdVNQRzNHZXpHbVFYLWlTQ2dNcHBWYkExRno0YUJJWXF0aVg3Y24zcEVLNE9SNnhpY0EzU2J2R1JEN1pxbnpBYWhwUDJ2bVBtV0JZQlZRSTdsT3dTNzRVekh5TzJFVHJodTBMd3RSSDdUVDQxZDlnT0RjWkswcw?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 10:15:44 GMT"
+      "title": "Closing Bell: Nifty below 22,650, Sensex down 252 pts in volatile trade; IT shines, pharma drags - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
     },
     {
       "title": "Stock Market Close: Sensex zooms 1,109 pts after FM's comments on LTCG, STT; Nifty ends at 22,722 - Business Standard",
