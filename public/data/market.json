@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty Rebound as Hero Motors Profit Doubles While Bank of Baroda Faces Legal Claim",
+  "headline": "Sensex and Nifty eye recovery after 1,100-point surge; Sebi updates and Adani stake sales in focus",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,40 +7,33 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex surged 1,100 points and Nifty closed above 22,700 in the previous session's rebound",
-    "Hero Motors reported a doubling of profit in its Q2 results highlights",
-    "Tata Elxsi revenue increased by 3% in its latest quarterly performance",
-    "Markets are attempting to extend a recovery following an eight-week period of losses"
+    "Markets rebounded on October 13 with Sensex surging 1,100 points and Nifty closing above 22,700",
+    "Sebi extended IPO size flexibility by six months to March 2027 to aid market participants",
+    "Ircon plans to unlock Rs 3,000 crore value through the monetization of four highway assets",
+    "RBI's rupee defense measures are curbing speculation despite raising hedging costs"
   ],
   "whatHappening": [
-    "NMC Healthcare founder B R Shetty is seeking $15 billion in damages from Bank of Baroda",
-    "RBI Governor Malhotra is weighing trade-offs regarding rate hikes to stabilize the rupee",
-    "US Nasdaq ended lower as chipmakers fell and bank earnings began rolling in",
-    "Previous market declines were attributed to oil price spikes and foreign fund outflows"
+    "GQG Partners reduced its stake in Adani companies by Rs 8,000 crore during the September quarter",
+    "Sebi proposed a Rs 50,000 fine for firms failing to cooperate with monitors",
+    "US markets saw Nasdaq ending lower due to declines in chipmaker stocks and bank earnings",
+    "Indian markets are attempting to extend a recovery after experiencing eight consecutive weeks of losses"
   ],
   "stocksInNews": [
     {
-      "symbol": "BANKBARODA",
+      "symbol": "ADANIENT",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        2
+        2,
+        4
       ]
     },
     {
-      "symbol": "HEROMOTOCO",
+      "symbol": "IRCON",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "TATAELXSI",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        7
+        8
       ]
     },
     {
@@ -58,23 +51,63 @@
       "articleIds": [
         15
       ]
+    },
+    {
+      "symbol": "BHEL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "BEL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "TATAELXSI",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "RAILTEL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "HYUNDAI",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
     }
   ],
-  "summary": "Indian markets staged a strong recovery with the Sensex jumping 1,100 points, supported by robust Q2 results from Hero Motors. However, Bank of Baroda faces a massive $15 billion legal claim, and global tech stocks remain under pressure. Investors are monitoring the RBI's stance on interest rates and the ongoing corporate earnings season.",
-  "updatedAt": "2026-10-13T23:31:52.445Z",
+  "summary": "Indian markets are showing signs of a strong rebound with the Sensex and Nifty recovering significantly from recent lows. While regulatory updates from Sebi and PSU asset monetization provide a positive backdrop, large stake sales in the Adani group and global cues from the US remain under observation. Investors are monitoring pre-market setups as the market attempts to break an eight-week losing streak.",
+  "updatedAt": "2026-10-14T01:01:49.467Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-14",
   "articleKeys": [
+    "sebi proposes rs 50000 fine for firms not cooperating with monitors",
+    "premarket action heres the trade setup for todays session",
+    "stocks in news adani enterprises hyundai motor india bhel bel groww tata elxsi and railtel",
+    "rbis rupee defence curbs speculation raises hedging costs",
+    "gqg pares rs 8000 crore of adani stakes in september quarter as fpi bets turn mixed",
+    "sebi extends ipo size flexibility by six months to march 2027",
+    "navratri 2026 which colour to wear today check day 4 colour goddess and significance",
     "us stocks nasdaq ends down as chipmakers fall and bank earnings roll in",
+    "ircon to monetise 4 highway assets psu plans to unlock 3000cr value as part of gois infra monetisation",
     "ny fed president williams sees no need for a rate hike in 2027",
-    "nmc healthcare founder b r shetty seeks 15 billion in damages from bob",
-    "the quality of our data influences the quality of our decisions p k mishra",
-    "ram kapoor shares new selfie after dramatic weight loss fans say he has lost too much weight",
-    "suriyas scene gets diwali release date plot what we know about tamil action comedy",
-    "the vvaan force of the forrest box office day 19 sidharth malhotra film maintains its grip at theatres",
-    "q2 results highlights hero motors profit doubles tata elxsi revenue up 3",
-    "can rbi hike rates to save the rupee governor malhotra explains the tradeoff",
-    "bihar tragedy children among 11 dead after boat capsizes in ganga river",
     "why did market rally today sensex surges 1100 points nifty closes above 22700 5 key factors behind d the economic times",
     "closing bell markets rebound nifty above 22700 sensex jumps 1100 pts moneycontrolcom",
     "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
@@ -88,64 +121,64 @@
   ],
   "articles": [
     {
+      "title": "Sebi proposes Rs 50,000 fine for firms not cooperating with monitors",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-rs-50000-fine-for-firms-not-cooperating-with-monitors/articleshow/134929434.cms",
+      "publishedAt": "Wed, 14 Oct 2026 06:02:33 +0530"
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134929327.cms",
+      "publishedAt": "Wed, 14 Oct 2026 06:00:00 +0530"
+    },
+    {
+      "title": "Stocks in news: Adani Enterprises, Hyundai Motor India, BHEL, BEL, Groww, Tata Elxsi and RailTel",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-adani-enterprises-hyundai-motor-india-bhel-bel-groww-tata-elxsi-and-railtel/articleshow/134922286.cms",
+      "publishedAt": "Wed, 14 Oct 2026 06:00:00 +0530"
+    },
+    {
+      "title": "RBI’s rupee defence curbs speculation, raises hedging costs",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-rupee-defence-curbs-speculation-raises-hedging-costs/articleshow/134929407.cms",
+      "publishedAt": "Wed, 14 Oct 2026 05:53:32 +0530"
+    },
+    {
+      "title": "GQG pares Rs 8,000 crore of Adani stakes in September quarter as FPI bets turn mixed",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-pares-rs-8000-crore-of-adani-stakes-in-september-quarter-as-fpi-bets-turn-mixed/articleshow/134929382.cms",
+      "publishedAt": "Wed, 14 Oct 2026 05:43:29 +0530"
+    },
+    {
+      "title": "Sebi extends IPO size flexibility by six months to March 2027",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-ipo-size-flexibility-by-six-months/articleshow/134929354.cms",
+      "publishedAt": "Wed, 14 Oct 2026 05:30:07 +0530"
+    },
+    {
+      "title": "Navratri 2026: Which Colour To Wear Today? Check Day 4 Colour, Goddess and Significance",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/trending/navratri-2026-which-colour-to-wear-today-check-day-4-colour-goddess-and-significance-12178305#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 05:30:01 +0530"
+    },
+    {
       "title": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-chipmakers-fall-and-bank-earnings-roll-in/articleshow/134926328.cms",
       "publishedAt": "Wed, 14 Oct 2026 01:43:21 +0530"
     },
     {
+      "title": "Ircon to monetise 4 highway assets; PSU plans to unlock 3,000cr value as part of GoI's infra monetisation",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ircon-to-monetise-4-highway-assets-psu-plans-to-unlock-3000cr-value-as-part-of-gois-infra-monetisation/articleshow/134929376.cms",
+      "publishedAt": "Wed, 14 Oct 2026 01:07:37 +0530"
+    },
+    {
       "title": "NY Fed President Williams sees no need for a rate hike in 2027",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms",
       "publishedAt": "Wed, 14 Oct 2026 00:28:02 +0530"
-    },
-    {
-      "title": "NMC Healthcare founder B R Shetty seeks $15 billion in damages from BoB",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/nmc-healthcare-founder-b-r-shetty-seeks-15-billion-in-damages-from-bob-126101301232_1.html",
-      "publishedAt": "Tue, 13 Oct 2026 23:52:30 +0530"
-    },
-    {
-      "title": "The quality of our data influences the quality of our decisions: P K Mishra",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/strong-statistical-systems-key-to-achieving-viksit-bharat-goal-p-k-mishra-126101301118_1.html",
-      "publishedAt": "Tue, 13 Oct 2026 23:37:09 +0530"
-    },
-    {
-      "title": "Ram Kapoor Shares New Selfie After Dramatic Weight Loss; Fans Say He Has Lost Too Much Weight",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/ram-kapoor-shares-new-selfie-after-dramatic-weight-loss-fans-say-he-has-lost-too-much-weight-12178069#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 23:34:58 +0530"
-    },
-    {
-      "title": "Suriya's Scene Gets Diwali Release Date: Plot, What We Know About Tamil Action Comedy",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/suriyas-scene-gets-diwali-release-date-plot-what-we-know-about-tamil-action-comedy-12175802#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 23:32:54 +0530"
-    },
-    {
-      "title": "The Vvaan- Force of the Forrest Box Office Day 19: Sidharth Malhotra Film Maintains Its Grip At Theatres",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/the-vvaan-force-of-the-forrest-box-office-day-19-sidharth-malhotra-film-maintains-its-grip-at-theatres-12180889#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 23:27:41 +0530"
-    },
-    {
-      "title": "Q2 Results Highlights: Hero Motors Profit Doubles, Tata Elxsi Revenue Up 3%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-tata-elxsi-icici-prudential-life-insurance-among-22-companies-to-announce-earnings-today-12176989#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 23:26:16 +0530"
-    },
-    {
-      "title": "Can RBI Hike Rates To Save The Rupee? Governor Malhotra Explains The Trade-Off",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/no-price-stability-without-financial-stability-rbi-governor-on-rupee-pressure-12181184#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 23:25:33 +0530"
-    },
-    {
-      "title": "Bihar Tragedy: Children Among 11 Dead After Boat Capsizes In Ganga River",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/bihar-tragedy-children-among-11-dead-after-boat-capsizes-in-ganga-river-12181147#publisher=newsstand",
-      "publishedAt": "Tue, 13 Oct 2026 23:21:17 +0530"
     },
     {
       "title": "Why did market rally today? Sensex surges 1,100 points, Nifty closes above 22,700. 5 key factors behind D- - The Economic Times",
