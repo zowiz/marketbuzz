@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty end lower as Reliance Jio announces IPO details and ICICI Lombard reports profit growth",
+  "headline": "Indian markets face pressure from US inflation fears while IT stocks rally and Jio announces mega IPO",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,138 +7,188 @@
     "nextOpen": ""
   },
   "why": [
-    "Nifty 50 fell 99.25 points to settle at 22,622.70 in a volatile trading session",
-    "Reliance Jio announced a price band for its upcoming Rs 30,000 crore initial public offering",
-    "ICICI Lombard reported a 15% increase in net profit for the second quarter",
-    "Market sentiment was weighed down by drags in the pharma sector despite gains in IT"
+    "Hot US inflation data has stirred global worries regarding potential interest rate hikes",
+    "A sharp sell-off in US tech and AI shares has dampened global investor sentiment",
+    "Selling pressure in domestic banking, pharma, and auto sectors has weighed on the indices",
+    "Nifty has slipped below key psychological levels including 22,700 and 22,650"
   ],
   "whatHappening": [
-    "SEBI exempted the Allcargo Logistics promoter family trust from open offer obligations",
-    "A Domino's outlet in Kanpur was ordered to shut down due to food safety violations",
-    "Reliance Jio's IPO is set to close on the birthdays of Akash and Isha Ambani",
-    "ICICI Lombard declared an interim dividend of Rs 7 per share for its shareholders"
+    "Jio Platforms has announced India's largest ever IPO of ₹30,213 crore, set for October 21",
+    "The CCEA has cleared Fairfax to take the reins at IDBI Bank in a major FDI move",
+    "IT giants Infosys and TCS are rallying, providing a necessary cushion to the broader market",
+    "HDB Financial Services reported a significant 34% jump in Q2FY27 net profit to ₹780 crore"
   ],
   "stocksInNews": [
+    {
+      "symbol": "IDBI",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        4,
+        5
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/7 sources",
+      "articleIds": [
+        12,
+        18
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/7 sources",
+      "articleIds": [
+        12,
+        18
+      ]
+    },
     {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        7,
-        9
+        2
       ]
     },
     {
-      "symbol": "ICICIGI",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "ALLCARGO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "JUBLFOOD",
+      "symbol": "SHRIRAMFIN",
       "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        12
+      ]
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        12
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         1
       ]
     }
   ],
-  "summary": "The Indian stock market closed lower on October 14, with the Nifty 50 ending at 22,622.70. Reliance Jio's mega IPO price band announcement and ICICI Lombard's 15% profit growth were the day's major corporate highlights. Regulatory actions impacted Allcargo Logistics and Jubilant FoodWorks' Domino's operations.",
-  "updatedAt": "2026-10-14T16:04:49.148Z",
+  "summary": "The Indian stock market is navigating volatility as hot US inflation data fuels global rate-hike fears, impacting tech and AI sectors. Despite broader indices like the Nifty slipping below 22,650, IT stocks like Infosys and TCS are showing resilience. Major corporate news includes Jio Platforms' upcoming ₹30,213 crore IPO and the government's clearance for Fairfax to acquire a stake in IDBI Bank.",
+  "updatedAt": "2026-10-14T21:11:38.629Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-10-14",
+  "dateChecked": "2026-10-15",
   "articleKeys": [
-    "carnival by tresind trupti farsan darjeeling lepcha among 17 mumbai food outlets to face fda heat",
-    "tukaram mundhe effect dominos outlet in kanpurs fatehpur ordered to shut over nonveg food safety violation",
-    "the vvaan force of the forrest box office day 20 sidharth malhotratamannaah bhatia starrer holds its ground",
-    "drought playbook can a rs 5000 handout rescue maharashtras 85 parched heartland",
-    "the world needs more diesel the reason why",
-    "sebi exempts allcargo logistics promoter family trust from open offer obligation",
-    "drishyam the conclusion box office day 13 ajay devgn starrer continues its blockbuster run with steady collections",
-    "jio announces price band for over rs 30000 crore ipo check key dates gmp and other details",
-    "icici lombard q2 results net profit up 15 dividend of rs 7share declared",
-    "akash isha ambanis birthday to mark close of reliance jios mega ipo",
+    "us stocks nasdaq ends sharply lower as hot inflation data stirs ratehike worries",
+    "blackrock sbi mf lead tonbo imagings rs 255 crore anchor round ahead of ipo",
+    "jio platforms set to bring indias biggest ipo on oct 21 seeks 30213 cr",
+    "us stocks ai shares tumble up to 16 erasing 80 billion as hot us inflation fuels rate fears",
+    "ccea clears largest financial sector fdi fairfax to take reins at idbi",
+    "21 strategic psu stake sales in 26 years as idbi bank joins the list",
+    "hedge against inflation spot gold hits oneweek low as hot us inflation drives fed hike bets",
+    "openai names indianorigin uday ruddarraju to lead data center computing unit",
+    "hdb financial services sees 34 profit jump to 780 crore in q2fy27",
+    "air france follows israels crew rules after flydubai incident pakistan 30 other muslimmajority countries affected",
+    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
+    "stock market highlights 13 oct sensex jumps 1109 points nifty rises 16 as it stocks rally businessline",
+    "stock market live highlights sensex drops 226 points nifty 50 below 22650 infosys tcs jump shriram fin hdfc life top losers ndtv profit",
+    "stock market outlook today 14 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline",
     "closing bell markets rebound nifty above 22700 sensex jumps 1100 pts moneycontrolcom",
-    "stock market outlook today 14 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market close highlights sensex ends 548 points lower nifty at 22363 fmcg psu bank top drags ndtv profit",
-    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
-    "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
     "why is stock market up today top 3 reasons behind a jump in sensex nifty 50 explained livemint",
     "stock market outlook today 13 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "indian stock market outlook next week 1216 oct sensex nifty likely to extend recovery after 8week losses goodreturns",
+    "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
     "five reasons indias stock market is sinking even when its economy is growing bbc"
   ],
   "articles": [
     {
-      "title": "Carnival By Tresind, Trupti Farsan, Darjeeling Lepcha Among 17 Mumbai Food Outlets To Face FDA Heat",
+      "title": "US stocks: Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/carnival-by-tresind-trupti-farsan-darjeeling-lepcha-among-17-mumbai-food-outlets-to-face-fda-heat-12185856#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 20:36:58 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-sharply-lower-as-hot-inflation-data-stirs-rate-hike-worries/articleshow/134951150.cms",
+      "publishedAt": "Thu, 15 Oct 2026 01:46:53 +0530"
     },
     {
-      "title": "Tukaram Mundhe Effect: Domino's Outlet In Kanpur's Fatehpur Ordered To Shut Over Non-Veg Food Safety Violation",
+      "title": "BlackRock, SBI MF lead Tonbo Imaging’s Rs 255 crore anchor round ahead of IPO",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/tukaram-mundhe-effect-dominos-outlet-in-kanpurs-fatehpur-ordered-to-shut-over-non-veg-food-safety-violation-12185331#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 20:33:10 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/blackrock-sbi-mf-lead-tonbo-imagings-rs-255-crore-anchor-round-ahead-of-ipo/articleshow/134950868.cms",
+      "publishedAt": "Thu, 15 Oct 2026 01:16:52 +0530"
     },
     {
-      "title": "The Vvaan Force Of The Forrest Box Office Day 20: Sidharth Malhotra-Tamannaah Bhatia Starrer Holds Its Ground",
+      "title": "Jio Platforms set to bring India's biggest IPO on Oct 21, seeks ₹30,213 cr",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/the-vvaan-force-of-the-forrest-box-office-day-20-sidharth-malhotra-tamannaah-bhatia-starrer-holds-its-ground-12185779#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 20:31:20 +0530"
+      "link": "https://www.business-standard.com/markets/news/jio-platforms-set-to-bring-india-s-biggest-ipo-on-oct-21-seeks-30-213-cr-126101401333_1.html",
+      "publishedAt": "Thu, 15 Oct 2026 00:56:31 +0530"
     },
     {
-      "title": "Drought Playbook: Can A Rs 5,000 Handout Rescue Maharashtra’s 85% Parched Heartland?",
+      "title": "US stocks: AI shares tumble up to 16%, erasing $80 billion as hot US inflation fuels rate fears",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/drought-playbook-can-a-rs-5-000-handout-rescue-maharashtra-s-85-parched-heartland-12185059#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 20:29:14 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ai-shares-tumble-erasing-80-billion-as-hot-us-inflation-fuels-rate-fears/articleshow/134950204.cms",
+      "publishedAt": "Thu, 15 Oct 2026 00:22:22 +0530"
     },
     {
-      "title": "The World Needs More Diesel | The Reason Why",
+      "title": "CCEA clears largest financial sector FDI: Fairfax to take reins at IDBI",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/opinion-the-world-needs-more-diesel-the-reason-why-12185789#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 20:29:02 +0530"
+      "link": "https://www.business-standard.com/industry/banking/ccea-approves-sale-of-60-72-stake-in-idbi-bank-to-fairfax-for-52-878-cr-126101401052_1.html",
+      "publishedAt": "Thu, 15 Oct 2026 00:13:07 +0530"
     },
     {
-      "title": "SEBI Exempts Allcargo Logistics Promoter Family Trust From Open Offer Obligation",
+      "title": "21 strategic PSU stake sales in 26 years as IDBI Bank joins the list",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/sebi-exempts-allcargo-logistics-promoter-family-trust-from-open-offer-obligation-12185797#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 20:28:03 +0530"
+      "link": "https://www.business-standard.com/industry/banking/21-strategic-psu-stake-sales-in-26-years-as-idbi-bank-joins-the-list-126101401305_1.html",
+      "publishedAt": "Thu, 15 Oct 2026 00:02:08 +0530"
     },
     {
-      "title": "Drishyam: The Conclusion Box Office Day 13: Ajay Devgn Starrer Continues Its Blockbuster Run With Steady Collections",
+      "title": "Hedge Against Inflation? Spot Gold Hits One-Week Low As Hot US Inflation Drives Fed Hike Bets",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/drishyam-the-conclusion-box-office-collection-day-13-ajay-devgn-starrer-continues-its-blockbuster-run-with-steady-collections-12185568#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 20:26:31 +0530"
+      "link": "https://www.ndtvprofit.com/markets/hedge-against-inflation-spot-gold-hits-one-week-low-as-hot-us-inflation-drives-fed-hike-bets-12186756#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 23:47:55 +0530"
     },
     {
-      "title": "Jio announces price band for over Rs 30,000 crore IPO. Check key dates, GMP and other details",
+      "title": "OpenAI Names Indian-Origin Uday Ruddarraju To Lead Data Center, Computing Unit",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-announces-price-band-for-over-rs-30000-crore-ipo-check-key-dates-gmp-and-other-details/articleshow/134945465.cms",
-      "publishedAt": "Wed, 14 Oct 2026 20:24:51 +0530"
+      "link": "https://www.ndtvprofit.com/business/openai-names-indian-origin-former-xai-executive-uday-ruddarraju-to-lead-data-center-computing-unit-12186726#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 23:41:46 +0530"
     },
     {
-      "title": "ICICI Lombard Q2 Results: Net Profit Up 15%; Dividend Of Rs 7/Share Declared",
+      "title": "HDB Financial Services sees 34% profit jump to ₹780 crore in Q2FY27",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/icici-lombard-q2-results-net-profit-up-15-dividend-of-rs-7-share-declared-12185616#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 20:19:37 +0530"
+      "link": "https://www.business-standard.com/companies/news/hdb-financial-services-sees-34-profit-jump-to-780-crore-in-q2fy27-126101401045_1.html",
+      "publishedAt": "Wed, 14 Oct 2026 23:38:11 +0530"
     },
     {
-      "title": "Akash, Isha Ambani's birthday to mark close of Reliance Jio's mega IPO",
+      "title": "Air France Follows Israel's Crew Rules After Flydubai Incident: Pakistan, 30 Other Muslim-Majority Countries Affected",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/akash-isha-ambanis-birthday-to-mark-close-of-reliance-jios-mega-ipo/articleshow/134945459.cms",
-      "publishedAt": "Wed, 14 Oct 2026 20:19:28 +0530"
+      "link": "https://www.ndtvprofit.com/world/air-france-follows-israels-crew-rules-after-flydubai-incident-pakistan-30-other-muslim-majority-countries-affected-12186658#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 23:32:36 +0530"
+    },
+    {
+      "title": "Closing Bell: Nifty below 22,650, Sensex down 252 pts in volatile trade; IT shines, pharma drags - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
+    },
+    {
+      "title": "Stock Market Highlights, 13 Oct: Sensex jumps 1,109 points, Nifty rises 1.6% as IT stocks rally - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUpRdDJiYU9ObXpkQmJITlZQdE9iMXZrZk5SVDVDb2wxTjJ3MFJIUDc2ZTViVUM0SFp1TnFMUThPcW5WSlBKeDl4dElUTEFZU2Yxc0JGSkJnSE9QUU1PZDJUY1J6aUpGRy1qbTA0YWNESy1CbVJsellDWVRaallkeWRTOUc5cjAxRDBUS3dCZE1pdlVrd2c1M0JnQWhHcGlFcXN2Sk1YNUQtUGlZcmpSUnA4d2dURGtSa3hJ0gHCAUFVX3lxTE5WX3hzTVJCWi0wYTZyclNHUnA5TDAtcnFpdEZTRnl2TTJ2V1VCbUVIV0ZRajc0RlNqaWg1VjhQTkVhSG5ETzJIUmNKWmR6aXRVaEpQd09mdnFHN0prNDA3U2NwaGFVcHlLVU1FUnZiVEZkWTYzbVJBc2lYa08yOHdiVWFibnBtRnl6T2Y4Wm1odGRmaE5sOVduNU5FaXpGekRqYS00MUtVTVAwcWQ1SXNZekVsa0Nvb2lmYl9iQ1ZobDh3?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 10:41:29 GMT"
+    },
+    {
+      "title": "Stock Market Live Highlights: Sensex Drops 226 Points, Nifty 50 Below 22,650; Infosys, TCS Jump; Shriram Fin, HDFC Life Top Losers - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWDFwMTlpWnRkTnVzazZjXzNUYXNvc0U1c0lrVk1TX2xMMXhTWkNpQTVOU3pJQTBjbmxYNHNWbEllczRJODZXT3NfNnZ6MHZMc2R2XzFVejdGSlM1UkhLN2I4bXE2Xzk5S19GSUJxRnNwbDNESEdGWDcxQWgxUnNwUWpKLV9RcWtOeFdoYVFSQUttcXZ6X0NFSHZWSndlWTVXdFE5QjVfN29ka2lHN0tVZlp4NzRpd0REVC1PLVVETzdKT1Z0UmZ1VlN4cjVlRnZ3M2R4ZUtKaU9aZnEybDZ3d2dlX08xN3VWRGIwcFdISG1KdGhxMUZILWx4M0hLMThDRmRZ0gGLAkFVX3lxTE9YSjZlTU5waThiUjN3MVhEemg3SU1IaXl0cDREeUVMV2NZYWprUW4tdk5QamJJcDdpVFhVWXQ2LWxjSGMtcE0tNEpIeW5tNlZnbUg3bUtUUlMzSldtdTVqUGZSRlNnN1dpcWcwWXdLYUtwcExQeDlvMFZjbUlZUHYwR01tZFBINHZQak5tanBrajZUd3RXdVNQRzNHZXpHbVFYLWlTQ2dNcHBWYkExRno0YUJJWXF0aVg3Y24zcEVLNE9SNnhpY0EzU2J2R1JEN1pxbnpBYWhwUDJ2bVBtV0JZQlZRSTdsT3dTNzRVekh5TzJFVHJodTBMd3RSSDdUVDQxZDlnT0RjWkswcw?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:15:44 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 14 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVFNuM21rRXlRRnp5dTJuSmVIRkRpX2o0NjZhNjNqdGZLT2YtVy1kVElsU3FFUHpLYkZiUDZzZDBNTHVMeDNDYmY3N3RtTXIyNjA5VVZUQWtnZTRrRWE3Mi1PeUF1TVRlSWljQkNpTDk5cjB2UVEwc1l2X1NkblVRQzRKUElKTE1JMndldlZ4YXRwYUEzN0xydng4dl9Sb25lcDFYNnJqRkQwcllpSE03MDhmZEZHbFNVOXZ6RVIwUWNQWkx5TUV0bWVodHJjVTk3X1RPSzRxUC1MRFk4SXk1QTRqY1FLQzNzUUlrbmsyLVhhbWlLeHJ1UE1LS0poZGdiZExLOdIBigJBVV95cUxPVVdxeUZkQ0drbDJXb1ZUUXR0WmNtYkVoTnlrcDBlRHBTY3N1dmVNNmY2SEQ2ZjYyUlA0Y1kzZS1peEx0Z18yTEJvQW91V2xXRDA3U1Q3ZmRSTGlxQWxpNWNKQzZXQ21mZ19kQkVPeldRRzJRcDNESW1YWEgzWVFOMFY4YmNDVXE3OUNEeDR0V082bEVITkt2NlRNdUZySVVrcjJxY3JSVUFNVTJseURuLV8zYlI5ZkRMbUQzeFBlWUljOGxTYUpCWURxakNHTmE5cVhpdGlTa18wYUhEVFotTmlHSHpGTE80RGZNeTR1TlB4Z2d4eXVaT0padFllTWVYSkFRYmpzX2VKUQ?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 01:18:46 GMT"
     },
     {
       "title": "Stock Market Today Live, Oct 14: Sensex settles at 72,781.89; Nifty down 99.25 points to 22,622.70 - BusinessLine",
@@ -153,30 +203,6 @@
       "publishedAt": "Tue, 13 Oct 2026 10:29:54 GMT"
     },
     {
-      "title": "Stock market outlook today, 14 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVFNuM21rRXlRRnp5dTJuSmVIRkRpX2o0NjZhNjNqdGZLT2YtVy1kVElsU3FFUHpLYkZiUDZzZDBNTHVMeDNDYmY3N3RtTXIyNjA5VVZUQWtnZTRrRWE3Mi1PeUF1TVRlSWljQkNpTDk5cjB2UVEwc1l2X1NkblVRQzRKUElKTE1JMndldlZ4YXRwYUEzN0xydng4dl9Sb25lcDFYNnJqRkQwcllpSE03MDhmZEZHbFNVOXZ6RVIwUWNQWkx5TUV0bWVodHJjVTk3X1RPSzRxUC1MRFk4SXk1QTRqY1FLQzNzUUlrbmsyLVhhbWlLeHJ1UE1LS0poZGdiZExLOdIBigJBVV95cUxPVVdxeUZkQ0drbDJXb1ZUUXR0WmNtYkVoTnlrcDBlRHBTY3N1dmVNNmY2SEQ2ZjYyUlA0Y1kzZS1peEx0Z18yTEJvQW91V2xXRDA3U1Q3ZmRSTGlxQWxpNWNKQzZXQ21mZ19kQkVPeldRRzJRcDNESW1YWEgzWVFOMFY4YmNDVXE3OUNEeDR0V082bEVITkt2NlRNdUZySVVrcjJxY3JSVUFNVTJseURuLV8zYlI5ZkRMbUQzeFBlWUljOGxTYUpCWURxakNHTmE5cVhpdGlTa18wYUhEVFotTmlHSHpGTE80RGZNeTR1TlB4Z2d4eXVaT0padFllTWVYSkFRYmpzX2VKUQ?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 01:18:46 GMT"
-    },
-    {
-      "title": "Stock Market Close Highlights: Sensex Ends 548 Points Lower, Nifty At 22,363; FMCG, PSU Bank Top Drags - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeDhzM005ekRFeWVyVUpXVkdubTBLYmNtTWI1MmRQNEVfZnRNUGdDa253d3pZaW85VXhGbzFKVV83Z01TV3RicmNnbjU0TmpMaEZEUUIyek00MWFBN05uVGtmaU41Tzd4N28xY3V5ejgzZUpPRHVFQVJuM0xMeko3ZXFUQzlZaTlrY3puckFHWmNfWnJOZmtXSHhSRmY1TTNnM01ES2FuN0JOdXA2d3B1MGhKZXZ4WDdyNmoyU3ZGd1RLYl9TMDB3TUFoZExiSmpNa2VIZk84a1AzMzRIM1cwQldZYTU1VkY50gHwAUFVX3lxTE1UQ0xZZXplR2NzbGtpOXlPX3B1TkVkN3JNaHdIOHplZ0R4YUVNNHk2bXZCTHpObEE3bHVXMG5tbm9BNGdVM1lmYi0tc29nVmRDeWl2M0IxUzZJWEhfODJWS0FCck5scUNKeUlieFZnaEFHSnJ3Nzk5S3BCa3pHYV9qQWRqMVEzQ2NnRjhvbEQwMVRQTEU3UDV3S2tnTl9xWGh0NjNacXk4a2Jna3dQWXBKbi1ndkQ4azYzcXhuMWJDY3hfTXZWdnBJbmxBTl8xWWI2N3NwM2pSeWlSajVmV3VETHVMdWNRMkFZR1dkdkhhbA?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:07:22 GMT"
-    },
-    {
-      "title": "Closing Bell: Nifty below 22,650, Sensex down 252 pts in volatile trade; IT shines, pharma drags - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU0?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights: Stock markets tumble on oil price spike, foreign fund outflows; Sensex drops 548 points - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnlaU3Z2c25wYl9wRWhUZlc1RHdxUVhiLUMyRzNkd3dLdGlPUXZPMHdhSXVodDB1R1oyZWxOTkZIWWtpa1BfbmQySF9DRl9fTUlVcEFPbHRMazZNd1pLMkRBWHh2RHpvU3pTMjZfZDdyVUtEQzJRME5FUk11N0pXRjNPYjJHRjhRMUZQRTBVcXVrWDZRakRZVlhqN1IyYVRic2tzcFI5Wm1SNm1YSXJXbXQ2a0N3dENNem1uendCSkdKM1JYX0HSAcoBQVVfeXFMUEFjdFpPSDNnVE11WXRLYXpBck9qbG5DOFZXamlrOGI0TEdfSDBxQzAzVmRqRjNEZXAwTndadC04MnJQMTVFcG5Ka2ZEQk1memdXYWJSMjJLa3RXNVVIV0x0X0ZyZmhhV2FFaU1Gaks5TTNZLUEyVjRaQmJfX1REaDBGcnBON2Jzbzl2Vm5iLXBZN3pWNFhVWUExclRFQm92ejFFeGh3YjMtQ0pZdVlPc1NtN1FqZkVBcjFocUh2elc5OEFyZlhrZS1nQQ?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:45:20 GMT"
-    },
-    {
       "title": "Why is stock market up today? Top 3 reasons behind a jump in Sensex, Nifty 50 explained - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcC1vVkFmOE5nbF95Z09lbVk5YmQ4ak91WE1YZWd5WDdIR0pteHhoQlYwZHM4bE9rQXVycjVMNVoyalpIcXNnMERma1Q4YW5rMjkyV2F0RGVlcElMaVlpdHZJNS1aNnhndjVtZi1xNUx2QlI1VFltc3pMUlgwakd6ZElkU1lTekVnV3NOMkZkSXpreEhIR2N1UHNWN0oyOHhxMW1NanU1R0VPVGFMcU45MlQ4NHlKSVB0RERqdE1QdWdTTGlmdVBuRFpXZ0g5MlRNNFkwblRjVDRqd0VuRlRrcnA1cG40X2FhVDB3Nl9B0gHzAUFVX3lxTE1uVm1iTklGWVNIY19VMDRfekxQdVJGeU9kRUFtdmVkN0lfeWptZ1RndUpud0ZPZVNUNkVkY3NHM2lQZ1M3NUdLazBfejFCMEQtU1BfVEFJQ2NqOFIwQ19iVi1rT0lxQ3RoM2xLRWd4OTRNRWZvMVEtQ205MDY1NktWU0tqWWd2YkQ3UkdfTlprN0o5cXQ3WktTbERuNnRrZ19sTHFQLS01XzdDejFHaktrSFZmdGxjV3VwNjQ0VTdyeU5TNWgwdEpkYkxzYk01Tm91U1piWGZQRTZIUm1RdWZlMy1hVDFySmE5ckwyaVR0bWRGcw?oc=5",
@@ -189,10 +215,10 @@
       "publishedAt": "Tue, 13 Oct 2026 01:15:02 GMT"
     },
     {
-      "title": "Indian Stock Market Outlook Next Week, 12-16 Oct: Sensex, Nifty Likely to Extend Recovery After 8-Week Losses - Goodreturns",
-      "source": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGg2TzBpb1F2d3NvQmI1LW5QODBFa2JkTWJTWHIzbGtGX0toSWhpVVgtaExWQlV2YzYwRmtMOW13TUlPY3RvTmxEM25XaVZpRXFDR0Z2SkFnWkU3aGplcmhiMmRJU1IyTTZYcnB6VGowQTZVaVVtQjhuQVY4QmVMdWFGekpqeENIT2JQN1d0S1BYUjUtNUpnVE9uOXZqcjlZOS1sNGd0SkF6Vml6TDlzaGhkWGg4bXJPZFpsd1ZONkZ4RTBoRWY3bnZRQ0ZfMVJhNDhzNTNjeURXa0hXNHc?oc=5",
-      "publishedAt": "Sun, 11 Oct 2026 04:42:41 GMT"
+      "title": "Sensex Today | Nifty 50 | Indian Stock Market Live: Sensex Crashes 173 Points, Nifty Slips Below 22,700 As Banking, Pharma And Auto Stocks Bleed; Infosys, TCS Rally To Cushion Market Fall - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQ3J3NHdzcmpHdzBkeU9oUnIxQjJHOXV3R3NRcTNkVnpiQTVPTTJJVHIzQXN2RHlRSUltODBuR19rT2pyZVV3RVRaTTVBa1J4WHBvNU5pX1NCcld2VkhsYVJVNDVZNWstM1NTQ0FxbXJmVHRjNW9Xa0M3Q2lfSXVYYkJtWnI5czZILWdrTWl2R1doS0FjV21NRVlEdWk5WkNaUEtjQTQwd0s0d1FiNEUwSnlKWFUtTUo0bG1rZmZJY3dpa1U5VHIxazl5V1RsdHlkN250T3lmYmlmZHZ5Yk4zNWJRUG1yVW5UNlBsdmltZE9EY0hRY1Rza3VBcWlQMEozTXo4WkRzVmZ5SWd0dlRGRW44bXVfLUtlUmFGNmVhWHRUS3hRekpHMEhxbGJVZmtyNm5ZZG1ucElLUWRFSEdOT2JqS2k2UG9O0gHOAkFVX3lxTE1iZ1lnU1J1NExhamd0Xzd0bDVudDFSMDkzM0hTRGVVZ3JydDFhN0hYWU5wZ3M0SVQ5TUt3OGVDem5JUEZfVWU1VVRtZHFkUDNIWnd0U1ZTLXVGWnhqTlRFUGhCdmFabi10RUNnRmdScm1PNnBvN2VyeXVIMFhmdWlTZElaYUNtN1NZZDEtSDNDbFZjd0xkbWxqSkM4eVJOVXM5Yk5hdXozcDlRLTZXSlJ0WjBUaXRxYzJtTXNkTUViRHBjVUtKOVZMRkNtMUVsb2lUNmVDN0FvOGFsMFo4WmtCZ0l2dE1IeTB4emZtM0sxa0k4T2pycVVsWGVZSWhUOTVidGRHRWIxeWNXMnVBcXl5dDBxeWo5VEJRTEY2SFg2bnVjaExGaFJFdnZSR19GWFMxNk52d3ZHQXV4eWVpTWhFTV9pYlBxTk1wUlh6LXc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 09:44:44 GMT"
     },
     {
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
