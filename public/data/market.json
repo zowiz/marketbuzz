@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex drops in volatile trading while Nifty stays below 22,650 despite IT stocks rally",
+  "headline": "Sensex and Nifty end lower as banking and pharma stocks drag, while IT stocks rally",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,164 +7,181 @@
     "nextOpen": ""
   },
   "why": [
-    "Continued FII outflows since the capital gains tax hike weighed on sentiment.",
-    "Importer hedging and persistent outflows put pressure on the rupee.",
-    "Profit-taking in banking, pharma, and auto sectors dragged indices lower.",
-    "IT sector gains cushioned broader market losses."
+    "Banking, pharma, and auto stocks witnessed significant selling pressure",
+    "Volatility in trade led to Sensex dropping over 200 points from previous levels",
+    "Margin contractions in corporate earnings impacted investor sentiment",
+    "Pharma and financial sectors struggled throughout the trading session"
   ],
   "whatHappening": [
-    "Sensex dropped over 220 points, while Nifty 50 traded below the 22,650 level.",
-    "IT stocks like Infosys and TCS rallied during the trading session.",
-    "Pharma, banking, and auto stocks faced heavy selling pressure.",
-    "Shriram Finance and HDFC Life were among the top losers of the day."
+    "Cabinet approved Fairfax’s ₹52,878-crore bid for IDBI Bank, the largest FDI in India’s financial sector",
+    "IT stocks including Infosys and TCS rallied to cushion the broader market fall",
+    "Tata Technologies reported a 5% decline in Q2 net profit due to contracting margins",
+    "SEBI called a SMAC meeting to review public feedback on Consolidated Account Statements"
   ],
   "stocksInNews": [
     {
-      "symbol": "TCS",
+      "symbol": "IDBI",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        2,
-        5,
-        12,
-        16
+        0
+      ]
+    },
+    {
+      "symbol": "TATATECH",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "ICICIPRULI",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        9
       ]
     },
     {
       "symbol": "INFY",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/9 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        5,
-        12,
-        16
+        13,
+        19
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        13,
+        19
       ]
     },
     {
       "symbol": "SHRIRAMFIN",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        5,
-        12
+        13
       ]
     },
     {
       "symbol": "HDFCLIFE",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        5,
-        12
-      ]
-    },
-    {
-      "symbol": "TEAMLEASE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        6
+        13
       ]
     }
   ],
-  "summary": "Indian equities fell in volatile trade on October 14 as Nifty dropped below 22,650 and Sensex lost over 200 points. Selling across banking, pharma, and auto sectors weighed on the benchmark indices. However, gains in major IT stocks including TCS and Infosys helped limit further downside.",
-  "updatedAt": "2026-10-14T11:01:57.930Z",
+  "summary": "The Indian stock market ended lower on October 14, with the Nifty 50 closing below 22,650 amid volatile trading. While the IT sector saw gains led by Infosys and TCS, heavy selling in banking, pharma, and auto stocks weighed on the indices. A significant development was the government's approval of the ₹52,878-crore Fairfax bid for IDBI Bank.",
+  "updatedAt": "2026-10-14T12:01:49.529Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-14",
   "articleKeys": [
-    "10 nifty500 stocks that have fallen up to 58 in a year",
-    "rs 6 lakh crore worth fii outflows since 2024 capital gains tax hike batter dalal street is a reversal on the cards",
-    "tcs looks to quantum computing to solve complex what if problems",
-    "rupee extends rise but falters past 95usd on importer hedging outflows",
-    "inside ektaa kapoor and tusshar kapoors rs 65 crore pune apartment with gold mosaics luxury dining space",
-    "stock market live highlights sensex drops 226 points nifty 50 below 22650 infosys tcs jump shriram fin hdfc life top losers",
-    "every entrant has to become aifirst teamlease digital ceo on it fresher hiring",
-    "tallest buildings in the world how many have you visited",
-    "maseratis updated luxury cars to make a festiveseason splash in india",
-    "aifs to play crucial role in indias economic growth ai offers significant opportunities partner bcg",
+    "cabinet approves fairfaxs 52878crore bid for idbi bank largest fdi ever in indias financial sector",
+    "sebi calls singlepoint agenda smac meeting on thursday to review cas public feedback",
+    "tata technologies q2 results net profit falls 5 to rs 171 crore as margins contract",
+    "rs 1 lakh to rs 336 lakh in 6 years how this engineering stock became a multibagger",
+    "diwali bonanza govt approves rs 2009crore 78day bonus for over 11 lakh railway employees",
+    "meerut blue drum murder case death penalty for muskaan rastogi sahil shukla",
+    "is buying gold on emi a smart financial decision",
+    "indias it exports deliver the code chase the cash",
+    "hdb financial declares interim dividend of rs 2 per share check record date",
+    "icici life insurance q2 margin pop masks sales lull why brokerages trimmed targets despite strong results",
+    "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline",
+    "sensex today nifty 50 stock market live updates sensex tumbles 550 pts from days high nifty below 22550 pharma financials struggle the economic times",
     "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
-    "stock market today live oct 14 sensex crashes 442 pts nifty below 22575 in afternoon trade businessline",
     "stock market live highlights sensex drops 226 points nifty 50 below 22650 infosys tcs jump shriram fin hdfc life top losers ndtv profit",
-    "why did market rally today sensex surges 1100 points nifty closes above 22700 5 key factors behind d the economic times",
+    "why is stock market down today sensex nifty 50 crash top 3 factors behind stock market decline explained livemint",
+    "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom",
+    "stock market today highlights stock markets tumble on oil price spike foreign fund outflows sensex drops 548 points businessline",
     "stock market close sensex zooms 1109 pts after fms comments on ltcg stt nifty ends at 22722 business standard",
     "stock market outlook today 14 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
-    "indian stock market outlook next week 1216 oct sensex nifty likely to extend recovery after 8week losses goodreturns",
-    "stock market highlights 13 oct sensex jumps 1109 points nifty rises 16 as it stocks rally businessline",
-    "closing bell markets rebound nifty above 22700 sensex jumps 1100 pts moneycontrolcom"
+    "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian"
   ],
   "articles": [
     {
-      "title": "10 Nifty500 stocks that have fallen up to 58% in a year",
+      "title": "Cabinet approves Fairfax’s ₹52,878-crore bid for IDBI Bank; largest FDI ever in India’s financial sector",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-nifty500-stocks-that-have-fallen-up-to-58-in-a-year/slideshow/134939701.cms",
-      "publishedAt": "Wed, 14 Oct 2026 16:03:42 +0530"
+      "link": "https://www.thehindu.com/business/Industry/cabinet-approves-fairfaxs-52878-cr-bid-for-idbi-bank-largest-fdi-ever-in-indias-financial-sector/article71583489.ece",
+      "publishedAt": "Wed, 14 Oct 2026 17:10:35 +0530"
     },
     {
-      "title": "Rs 6 lakh crore worth FII outflows since 2024 capital gains tax hike batter Dalal Street. Is a reversal on the cards?",
+      "title": "SEBI Calls Single-Point Agenda SMAC Meeting On Thursday To Review CAS Public Feedback",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-6-lakh-crore-worth-fii-outflows-since-2024-capital-gains-tax-hike-batter-dalal-street-is-a-reversal-on-the-cards/articleshow/134939069.cms",
-      "publishedAt": "Wed, 14 Oct 2026 15:55:30 +0530"
+      "link": "https://www.ndtvprofit.com/markets/sebi-calls-single-point-agenda-smac-meeting-on-thursday-to-review-cas-public-feedback-12184361#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 17:02:01 +0530"
     },
     {
-      "title": "TCS looks to quantum computing to solve complex ‘what if’ problems",
+      "title": "Tata Technologies Q2 Results: Net Profit Falls 5% To Rs 171 Crore As Margins Contract",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/tcs-looks-to-quantum-computing-to-solve-complex-what-if-problems/article71583048.ece",
-      "publishedAt": "Wed, 14 Oct 2026 15:54:32 +0530"
+      "link": "https://www.ndtvprofit.com/markets/tata-technologies-q2-results-net-profit-falls-5-to-rs-171-crore-as-margins-contract-12184396#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 16:58:18 +0530"
     },
     {
-      "title": "Rupee extends rise but falters past 95/USD on importer hedging, outflows",
+      "title": "Rs 1 Lakh To Rs 33.6 Lakh In 6 Years: How This Engineering Stock Became A Multibagger",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-extends-rise-but-falters-past-95/usd-on-importer-hedging-outflows/articleshow/134939222.cms",
-      "publishedAt": "Wed, 14 Oct 2026 15:53:39 +0530"
+      "link": "https://www.ndtvprofit.com/markets/rs-1-lakh-to-rs-33-6-lakh-in-6-years-how-this-engineering-stock-became-a-multibagger-12183942#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 16:57:36 +0530"
     },
     {
-      "title": "Inside Ektaa Kapoor And Tusshar Kapoor's Rs 6.5 Crore Pune Apartment With Gold Mosaics, Luxury Dining Space",
+      "title": "Diwali Bonanza! Govt Approves Rs 2,009-Crore 78-Day Bonus For Over 11 Lakh Railway Employees",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/inside-ektaa-kapoor-and-tusshar-kapoors-rs-6-5-crore-pune-apartment-with-gold-mosaics-luxury-dining-space-12183374#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 15:46:06 +0530"
+      "link": "https://www.ndtvprofit.com/economy/diwali-bonanza-govt-approves-rs-2-009-crore-78-day-bonus-for-over-11-lakh-railway-employees-12184437#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 16:55:44 +0530"
     },
     {
-      "title": "Stock Market Live Highlights: Sensex Drops 226 Points, Nifty 50 Below 22,650; Infosys, TCS Jump; Shriram Fin, HDFC Life Top Losers",
+      "title": "Meerut Blue Drum Murder Case: Death Penalty For Muskaan Rastogi, Sahil Shukla",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/markets-stock-market-sensex-nifty50-gift-nifty-live-updates-q2-earnings-us-iran-war-oil-prices-today-sensex-today-october-14-2026-12181800#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 15:44:54 +0530"
+      "link": "https://www.ndtvprofit.com/india/meerut-blue-drum-murder-case-death-penalty-for-muskaan-rastogi-sahil-shukla-12184430#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 16:52:49 +0530"
     },
     {
-      "title": "'Every Entrant Has To Become AI-First': TeamLease Digital CEO On IT Fresher Hiring",
+      "title": "Is Buying Gold On EMI A Smart Financial Decision?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/every-entrant-has-to-become-ai-first-teamlease-digital-ceo-on-it-fresher-hiring-12183770#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 15:41:36 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/is-buying-gold-on-emi-a-smart-financial-decision-12184082#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 16:51:27 +0530"
     },
     {
-      "title": "Tallest Buildings In The World: How Many Have You Visited",
+      "title": "India’s IT exports: Deliver the code, chase the cash",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/tallest-buildings-in-the-world-burj-khalifa-jeddah-tower-and-more-how-many-have-you-visited-12183064#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 15:37:07 +0530"
+      "link": "https://www.thehindu.com/business/Industry/indias-it-exports-deliver-the-code-chase-the-cash/article71523892.ece",
+      "publishedAt": "Wed, 14 Oct 2026 16:46:18 +0530"
     },
     {
-      "title": "Maserati's Updated Luxury Cars To Make A Festive-Season Splash In India",
+      "title": "HDB Financial Declares Interim Dividend Of Rs 2 Per Share; Check Record Date",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/maseratis-updated-luxury-cars-to-make-a-festive-season-splash-in-india-12183672#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 15:33:46 +0530"
+      "link": "https://www.ndtvprofit.com/markets/hdb-financial-declares-interim-dividend-of-rs-2-per-share-check-record-date-12184199#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 16:45:40 +0530"
     },
     {
-      "title": "AIFs to play crucial role in India's economic growth, AI offers significant opportunities: Partner BCG",
+      "title": "ICICI Life Insurance Q2 Margin Pop Masks Sales Lull? Why Brokerages Trimmed Targets Despite Strong Results",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/aif-pms/aifs-to-play-crucial-role-in-indias-economic-growth-ai-offers-significant-opportunities-partner-bcg/articleshow/134938664.cms",
-      "publishedAt": "Wed, 14 Oct 2026 15:32:35 +0530"
+      "link": "https://www.ndtvprofit.com/markets/icici-life-insurance-q2-margin-pop-masks-sales-lull-why-brokerages-trimmed-targets-despite-strong-results-12184374#publisher=newsstand",
+      "publishedAt": "Wed, 14 Oct 2026 16:43:40 +0530"
+    },
+    {
+      "title": "Stock Market Today Live, Oct 14: Sensex settles at 72,781.89; Nifty down 99.25 points to 22,622.70 - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjJxdGxpUHA1S1U5S2ZPU215c3dsa1NHOWZJX096MzN6NERSeTk5U0xFUVp2ZnB3T1VCUGlhWkdJMXJsRng2QkQxSWNHdWhTN2tkX0pTbHRleEVmS0RTU0pSX2Y2NWp2Wlo5blpaN1gtZzdsbnEtTTNSZ1B6WVF0N1JvUTlWT0dqdVZNZjFDcXhFc3JTVXB5cThhSnRFck1JZ3V4VzVQRXMxZ2lsYUxZQndxTWt4NmtSZk1fUlpPZEs1aGN0MXc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:40:35 GMT"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex tumbles 550 pts from day's high, Nifty below 22,550; pharma, financials struggle - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNcXU2SUhFUjhQcDdidkdHZHNwRjBBUkJMVXIxWVJjVnNUTF91aFRXb0sxTHFwSWVIR3gxallaX0NsXzg0bTcwcEJHSUw0aTd5SV9nZ0ZjMXd0bG9YSTVXaDVaTVBhdmxsYVZaRGNWeDl3MGwwYVNaSEpEUC1qdFhoWlV6M2lYWFh5STNrUGR0bFl5eXNpQ3BsMHR2SG1NY0JOaFdDUHJVZk5zbnJmbENGckdoRVZyc1NYaXRXU1FFUEllTjU2a2hTNXFwdlBoNWkwT3hXVmo5NmZQQ19MVlZGM0czbzhkNS0yTlZJQzN1bXBFUWdWdHRoZzE4VGVYSkNoaGVpaGdnVkcyVzdxU05rMS15aTY4TlVLd2FQXzVxZF9fRnpQ0gGqAkFVX3lxTFB4SXJuQ3JCWjY3ZXdwVVctY2tLcTF4YWdpY19EUjFzQU1OMElNUGluUnlnM2pnd090N09zRVl1MURITUxCcmdxWFB0TTZhUGs4TnBULUNzNUFycHJYRTNQaXAxRWgyV1drQW9tQnZzajJ4bmhNOC1YQnNyTGlfUnByTmtJMWdKR0JvVURrZ1RzSmNORE1yZTFGaFdacVpkXzg0ZW9mUDg0Zll2c2dxYW8takljNHdPdEtxZ3VFLV9JN3hXU3pLdWdCNDVNX09rQlBOdDczQUZfekFIY0hURTlOZHVYZ1JKWnVXTHNHN0trNXZNZVVlWTJkaGp0MzZtNGY3ZEtiNDhvRUJmNnB1eUxfVUYxWU5CdzVMS2JvMzdkR05JbDE2Y3ptR0E?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 09:31:51 GMT"
     },
     {
       "title": "Closing Bell: Nifty below 22,650, Sensex down 252 pts in volatile trade; IT shines, pharma drags - Moneycontrol.com",
       "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU0?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
-    },
-    {
-      "title": "Stock Market Today Live, Oct 14: Sensex crashes 442 pts, Nifty below 22,575 in afternoon trade - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjJxdGxpUHA1S1U5S2ZPU215c3dsa1NHOWZJX096MzN6NERSeTk5U0xFUVp2ZnB3T1VCUGlhWkdJMXJsRng2QkQxSWNHdWhTN2tkX0pTbHRleEVmS0RTU0pSX2Y2NWp2Wlo5blpaN1gtZzdsbnEtTTNSZ1B6WVF0N1JvUTlWT0dqdVZNZjFDcXhFc3JTVXB5cThhSnRFck1JZ3V4VzVQRXMxZ2lsYUxZQndxTWt4NmtSZk1fUlpPZEs1aGN0MXfSAcwBQVVfeXFMTTZBYjFWeWE3bVc2LVNrOGpGalppbDZiQ0tRaFZJWU1hQXI4VGdQeFRHT0l4cU9vdmMwU1ZxTzdsLVl6eEVLaEdZb1gxeWV1ZFRHX1ZDWl9QM0xBdEVGdlhKUVNja0NXLUt4MlZaLWtrUTV4WnJGY05fQXA0RWlMTW1BSWhXdENXNXpoTndUZTZ2ZV9CeGlGcGIxUUczaHhwMTFDRG1ycHJ6NGNFbjU5RHYtS3JSYlk2RUhFZnpOQmJGR3B6YjRxYTZRdGZx?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 08:28:27 GMT"
     },
     {
       "title": "Stock Market Live Highlights: Sensex Drops 226 Points, Nifty 50 Below 22,650; Infosys, TCS Jump; Shriram Fin, HDFC Life Top Losers - NDTV Profit",
@@ -173,10 +190,22 @@
       "publishedAt": "Wed, 14 Oct 2026 10:15:44 GMT"
     },
     {
-      "title": "Why did market rally today? Sensex surges 1,100 points, Nifty closes above 22,700. 5 key factors behind D- - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMWNoVGY2ZEY0ODFQMThwbU1fd25ObG85V0tMVkxfYVZ0UVNtVXJZV2hQY19WNjJrMnc0Sms5bGxfZ00xdkNpR0I5b0hlVVQtTjlrLUVTVmxZVExFZHhuOUZPSkFadkVQWS1HOVNnNHN2RDVnOGN0T1A2WGdfZ084bk9Bc216WU9aQm1KUGRYMkxaVDQ2aDROZmU5UVY0LWdreEhLN1drQXdiZkc5di1oVTJRbzJJR19tM0ZuVUdqVEphRS12cU5XRGZVdHhMTkwweFVzNWt5REF2bGhaaU9oaTljaTE3N2R3VW5EaHQ0WHlnOEtneElFU1dZRUwyR0JhWW9HSElIQnBmU2dF0gGSAkFVX3lxTE9YWXdLSjc0NGYycjJjbkwtbFZsNnctR2hoeng0cUxRdHBuNXRwNnptRTVrRHpMc0pyZ0xRU3ozTlBDUG0zOHZkSks1REdobk02WlNIOXl2TkFxNzBQOTRkVW4yQW1JZ3JGejJKUGtfeGszbXl6R1Vqd1hHT29xUnQ1RUlIdEE2X2NjT1hDS1RxSGdzYUc2dl9uUzdKNWg1aHZSWXhOaUpyMXNFMjBWYnVUVEhfMEswUmhBbEZjSmlPM2RMbk1IVVlfQ0JGMFVoVXlOcDFGeTV6TWdrTF80ZHVhVEljMXRGTnRZUWhpekk3VEJ1MTRiVXdfbzFVTGFrTnl0VTFtR3F6dm1zdlBjUk9tM1E?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 04:26:57 GMT"
+      "title": "Why is stock market down today? Sensex, Nifty 50 crash - Top 3 factors behind stock market decline explained - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRkF5OVJkVnk0dGJCck1lTlloc1lRRUg2bXlQYlgzOUh2Z0RmeWpVQmJrV01BLTJlTTE1anRjd1NXdmlRR1ZPQVREMjRpR3F4elotUmJ6RnRxTW9faUNWOWxGY1Q2T2lGNUQ0dlN4VE5Yc1hXME5XbTU0cFMyRFFQQVVmeHYtYlk3Um9ELUJLQnBhc0Vkd2plOGFkR1ZsR0RDVFNSRmlpR2RzQTRVNXpGQmZ2Q0l6SDhfSlNXRWhHUVFOS213UHExTDZtU2NteUxZOG5TbTNKdFg3MlRaWXl1c0JONTc3b0x4alFfUmUwWFpINUN0TXE2b1QzM1drSVM5TWVGONIBigJBVV95cUxNdkVHVHdLcWFVSU50TlNPYkpIUVBpaUNSYzlxZUJxdEdGTmNCeDJJeUVwLThqSDVkQ3ZaWGlpS1dMMnRBOWllYnNCZGZkOEszV0RUYVBmNHNyQjhJd0VlbnJqU2kyLTVqLW9zb2Z3WUxTY1ZPc0hQcTUxYV9Xc19abU1TeXNzRDhqRXd3Wjl5SE1uMlEycjhwOHVVanlTZHRHeHVyU1F0YmxhVmR5ekMwcXNBNjc5NjJKMkRJOF9hMHZKdVdKNXB1TVRaX0hmUVAzVkIwbWtFR3dpaE9ld3R3M2JFWGVhblRzYUM3Q2ZZaTNxREJGUU5yX2ZnS241R2h2bkNTTURSUmVsZw?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 08:25:53 GMT"
+    },
+    {
+      "title": "Closing Bell: Sensex sinks 548 pts, Nifty below 22,400; IT, FMCG and financial stocks drag - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZ3U2eHMwdTdvaDFlbXNJX0tRYTBHZXh4eVVDa0NGQzIxcjY3Xy0tbjVyb2hZcXRsVW5hTlB0TWNXXzJGanY3TExoLTVaeF9JWHlEbVNjYVhjZE91em56bEZra3pQSWdmRU9uaTdzNlpQQWw0VG1SVmRmMjAzZ0dXZkp3Y3ZXbW1VOVJwYkpBVlZfeEVpaU8ydVlXRUFOeV9vQ2d3a05KTEZNQjl4ZlhjMGpYYWFlMHlsYXFDWEZqd3pabjh0QWhkbi0wQXh1Y3FWaE9ZQ25xNkgyQmFTdkNKUjQ0WlV1UHRJRUt6bWV3TVBHTV9Hcjgtb0hlazZtT2FsQWNhclBVcUVOUHNYbXpuVXd5d2hNSEUzMFlhY1RPc2ZvZzTSAagCQVVfeXFMT0R4RTBTMzdRU2R2MVVIZUFMVUl0QjVmaVhOSUJOLXViUjVHeG5OSkZ6cV9QUWF5NHZjVDRRYzVsMG1BNkozOG90NmZwNkFTMTVNbWkySG0xMDVvaEpsdmtfOG5QaXdoOVBuRHhsZENGc1FnelgxbkpiUEREY2dzZGM0TUV0LXlUWUk4Q1F3TmVLcGVWU3BtbkF4dHVLSE0tY0Z3V05tdHgweElsUjZxbVpYYlFQWmF1YVhWM0RlcWFHNmJlQU1zTnZzck5JZm8yQl82T3FlSndpaUJ5RlRlQkp4Q0I1bGR1NkFqR0drbTlWakxlMmtMaGVpNGh1c18yb0VFWGdIMF95UnF1OUdkNDlLeE5rdzRUSG9YVlo1WGRfVG54NHZYWnk?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 10:44:50 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights: Stock markets tumble on oil price spike, foreign fund outflows; Sensex drops 548 points - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnlaU3Z2c25wYl9wRWhUZlc1RHdxUVhiLUMyRzNkd3dLdGlPUXZPMHdhSXVodDB1R1oyZWxOTkZIWWtpa1BfbmQySF9DRl9fTUlVcEFPbHRMazZNd1pLMkRBWHh2RHpvU3pTMjZfZDdyVUtEQzJRME5FUk11N0pXRjNPYjJHRjhRMUZQRTBVcXVrWDZRakRZVlhqN1IyYVRic2tzcFI5Wm1SNm1YSXJXbXQ2a0N3dENNem1uendCSkdKM1JYX0HSAcoBQVVfeXFMUEFjdFpPSDNnVE11WXRLYXpBck9qbG5DOFZXamlrOGI0TEdfSDBxQzAzVmRqRjNEZXAwTndadC04MnJQMTVFcG5Ka2ZEQk1memdXYWJSMjJLa3RXNVVIV0x0X0ZyZmhhV2FFaU1Gaks5TTNZLUEyVjRaQmJfX1REaDBGcnBON2Jzbzl2Vm5iLXBZN3pWNFhVWUExclRFQm92ejFFeGh3YjMtQ0pZdVlPc1NtN1FqZkVBcjFocUh2elc5OEFyZlhrZS1nQQ?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 10:45:20 GMT"
     },
     {
       "title": "Stock Market Close: Sensex zooms 1,109 pts after FM's comments on LTCG, STT; Nifty ends at 22,722 - Business Standard",
@@ -195,24 +224,6 @@
       "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQ3J3NHdzcmpHdzBkeU9oUnIxQjJHOXV3R3NRcTNkVnpiQTVPTTJJVHIzQXN2RHlRSUltODBuR19rT2pyZVV3RVRaTTVBa1J4WHBvNU5pX1NCcld2VkhsYVJVNDVZNWstM1NTQ0FxbXJmVHRjNW9Xa0M3Q2lfSXVYYkJtWnI5czZILWdrTWl2R1doS0FjV21NRVlEdWk5WkNaUEtjQTQwd0s0d1FiNEUwSnlKWFUtTUo0bG1rZmZJY3dpa1U5VHIxazl5V1RsdHlkN250T3lmYmlmZHZ5Yk4zNWJRUG1yVW5UNlBsdmltZE9EY0hRY1Rza3VBcWlQMEozTXo4WkRzVmZ5SWd0dlRGRW44bXVfLUtlUmFGNmVhWHRUS3hRekpHMEhxbGJVZmtyNm5ZZG1ucElLUWRFSEdOT2JqS2k2UG9O0gHOAkFVX3lxTE1iZ1lnU1J1NExhamd0Xzd0bDVudDFSMDkzM0hTRGVVZ3JydDFhN0hYWU5wZ3M0SVQ5TUt3OGVDem5JUEZfVWU1VVRtZHFkUDNIWnd0U1ZTLXVGWnhqTlRFUGhCdmFabi10RUNnRmdScm1PNnBvN2VyeXVIMFhmdWlTZElaYUNtN1NZZDEtSDNDbFZjd0xkbWxqSkM4eVJOVXM5Yk5hdXozcDlRLTZXSlJ0WjBUaXRxYzJtTXNkTUViRHBjVUtKOVZMRkNtMUVsb2lUNmVDN0FvOGFsMFo4WmtCZ0l2dE1IeTB4emZtM0sxa0k4T2pycVVsWGVZSWhUOTVidGRHRWIxeWNXMnVBcXl5dDBxeWo5VEJRTEY2SFg2bnVjaExGaFJFdnZSR19GWFMxNk52d3ZHQXV4eWVpTWhFTV9pYlBxTk1wUlh6LXc?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 09:44:44 GMT"
-    },
-    {
-      "title": "Indian Stock Market Outlook Next Week, 12-16 Oct: Sensex, Nifty Likely to Extend Recovery After 8-Week Losses - Goodreturns",
-      "source": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGg2TzBpb1F2d3NvQmI1LW5QODBFa2JkTWJTWHIzbGtGX0toSWhpVVgtaExWQlV2YzYwRmtMOW13TUlPY3RvTmxEM25XaVZpRXFDR0Z2SkFnWkU3aGplcmhiMmRJU1IyTTZYcnB6VGowQTZVaVVtQjhuQVY4QmVMdWFGekpqeENIT2JQN1d0S1BYUjUtNUpnVE9uOXZqcjlZOS1sNGd0SkF6Vml6TDlzaGhkWGg4bXJPZFpsd1ZONkZ4RTBoRWY3bnZRQ0ZfMVJhNDhzNTNjeURXa0hXNHc?oc=5",
-      "publishedAt": "Sun, 11 Oct 2026 04:42:41 GMT"
-    },
-    {
-      "title": "Stock Market Highlights, 13 Oct: Sensex jumps 1,109 points, Nifty rises 1.6% as IT stocks rally - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUpRdDJiYU9ObXpkQmJITlZQdE9iMXZrZk5SVDVDb2wxTjJ3MFJIUDc2ZTViVUM0SFp1TnFMUThPcW5WSlBKeDl4dElUTEFZU2Yxc0JGSkJnSE9QUU1PZDJUY1J6aUpGRy1qbTA0YWNESy1CbVJsellDWVRaallkeWRTOUc5cjAxRDBUS3dCZE1pdlVrd2c1M0JnQWhHcGlFcXN2Sk1YNUQtUGlZcmpSUnA4d2dURGtSa3hJ0gHCAUFVX3lxTE5WX3hzTVJCWi0wYTZyclNHUnA5TDAtcnFpdEZTRnl2TTJ2V1VCbUVIV0ZRajc0RlNqaWg1VjhQTkVhSG5ETzJIUmNKWmR6aXRVaEpQd09mdnFHN0prNDA3U2NwaGFVcHlLVU1FUnZiVEZkWTYzbVJBc2lYa08yOHdiVWFibnBtRnl6T2Y4Wm1odGRmaE5sOVduNU5FaXpGekRqYS00MUtVTVAwcWQ1SXNZekVsa0Nvb2lmYl9iQ1ZobDh3?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 10:41:29 GMT"
-    },
-    {
-      "title": "Closing Bell: Markets rebound; Nifty above 22,700, Sensex jumps 1,100 pts - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPOUhGc1RJM0o4ajc5Q3V5RFNEMVM5WERUSFhnb2Y0T0F0Rlc0S0h6UnoyWnNJMzl4RmZVV2ZJNFBHS2pINTVwX2dqVTIxNzdNNlpaRnlGNWR4aXpOdmducWZ4bUprdlBwYXhtZGxLTGhoZzY2S0JZT1htVUVTTjkwRHNQX1JzS3FXekZ3YmxrNUtpVEJLU3cybnE5c0ItamNCRmo0X25TSkczUkZTN0ZhdVN3Wm5ZV2lFNHhnNjJwZ2ZoUDB2QnotRGNLb0d6LXlCcjIyVUFqTEdDb0twYWtWMHNiSjVPeEliTlZNSmQ0cVhoakRSTG9jMkU3YXdvRlYyWUgwVG1QVWYxRnB0dkZkQ2J5ZGo1QjBGTnIzek5vbC1OQXfSAagCQVVfeXFMTmliUXc5T1d2X20tZmhOTW0yNEJqWDdQS2hkNEtpeXVESUVYN3lJd2p3MWxXd052dEhHWWZvV05pZUF6T1h3N2F1ZVFRYzJ5V21BZVR5OGc5M2g2cGIyNFdRTnRxdkp1elNERkdfN0RScDE1VjVwenpzcnZaRUNZaGZuaFU5N3hQcjY2azJROTloeG9vSzdRelczRm1Wd2dXSk1aQWdTaDAwbTNkVTlkYTAtVlljZ01taTZ0eTVLalFzTHJkYTJFUjJzSmg4RWZYUndrOEQ1MWZOVUpFLVpQS25HY0UteVFTUUdNSy05ZzRFb09VbmVjM01FRHNJRHlQNEFmLUVfMzJ2TnlEaTZOeE1rUkpobDVab1FJeDFwOFZUVTlJelIxSFc?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 10:29:54 GMT"
     }
   ]
 }
