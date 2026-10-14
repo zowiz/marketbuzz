@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty end lower as banking and pharma drag, while IT stocks and Reliance Jio IPO news provide support.",
+  "headline": "Sensex and Nifty end lower as banking and pharma drag; IT stocks and Reliance Jio IPO news provide support.",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,60 +7,70 @@
     "nextOpen": ""
   },
   "why": [
-    "Selling pressure in banking, pharma, and auto sectors weighed on the market.",
-    "Hot US inflation data boosted expectations for further Federal Reserve rate hikes.",
-    "Investors booked profits following a massive 1,100-point rally in the previous session.",
-    "IT stocks like Infosys and TCS rallied, helping to cushion the overall market decline."
+    "Banking, pharma, and auto stocks witnessed significant selling pressure throughout the session.",
+    "Hot US consumer inflation data fueled expectations of further interest rate hikes, dampening global sentiment.",
+    "US FDA observations at a Zydus manufacturing plant weighed heavily on the pharmaceutical sector.",
+    "Strong performance and rallies in major IT stocks like Infosys and TCS helped cushion the overall market fall."
   ],
   "whatHappening": [
-    "Reliance Jio filed its RHP and announced IPO subscription dates for October 21-23.",
-    "Bajaj Consumer Care reported a 66% year-on-year jump in Q2 net profit to Rs 70 crore.",
-    "The government proposed tougher BS VII pollution norms, including real-world emission tests for vehicles.",
-    "Noel and Neville Tata filed legal caveats in Mumbai courts regarding the Tata Trusts row."
+    "Reliance Jio announced its IPO subscription will open from October 21 to October 23, 2026.",
+    "Bajaj Consumer Care reported a strong Q2 performance with profit surging 66% year-on-year to Rs 70 crore.",
+    "The Nifty 50 closed below the 22,650 mark following a volatile trading session on October 14.",
+    "The Indian government is set to roll out the National Electricity Data Sharing framework later this month."
   ],
   "stocksInNews": [
     {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        0,
-        2
+        4,
+        6,
+        8
+      ]
+    },
+    {
+      "symbol": "ZYDUSLIFE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 3/7 sources",
+      "articleIds": [
+        2,
+        13,
+        15
       ]
     },
     {
       "symbol": "BAJAJCON",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        3,
-        5
+        9
       ]
     },
     {
       "symbol": "INFY",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/8 sources",
+      "sources": "Mentioned by 3/7 sources",
       "articleIds": [
         11,
         13,
-        16
+        15
       ]
     },
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/8 sources",
+      "sources": "Mentioned by 3/7 sources",
       "articleIds": [
         11,
         13,
-        16
+        15
       ]
     },
     {
       "symbol": "SHRIRAMFIN",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         11
       ]
@@ -68,39 +78,75 @@
     {
       "symbol": "HDFCLIFE",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         11
       ]
     }
   ],
-  "summary": "The Indian market ended lower on October 14, with the Sensex falling 252 points to settle at 72,781.89. While IT stocks like Infosys and TCS rallied, sectors such as banking and pharma faced selling pressure following hot US inflation data. Key highlights included Reliance Jio's IPO announcement and strong quarterly earnings from Bajaj Consumer Care.",
-  "updatedAt": "2026-10-14T14:02:25.513Z",
+  "summary": "Indian markets closed lower on October 14, with the Sensex dropping 252 points amid volatility and sector-specific pressure. While banking and pharma sectors struggled, the IT sector and news of Reliance Jio's upcoming IPO provided some relief to investors. Global cues remained weak following hot US inflation data and rising Treasury yields.",
+  "updatedAt": "2026-10-14T15:01:55.620Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-14",
   "articleKeys": [
+    "govt to roll out national electricity data sharing framework in october power secretary",
+    "global market boes huw pill wary of market bets on four rate hikes over next year",
+    "zydus manufacturing plant gets 5 us fda observations",
+    "us yields jump as hot consumer inflation boosts rate hike bets",
+    "diwali offer for ril shareholders reliance jio sets aside rs 2500 crore shares in ipo reservation",
+    "us stocks us market opens lower after hot cpi data fuels ratehike bets",
     "jio platforms ipo to open for subscription on october 2123 filing",
     "gold drops over 1 as hot us inflation data boosts fed hike bets",
     "reliance jio files rhp announces ipo dates for indias biggest listing",
     "bajaj consumer care q2 results profit jumps 66 yoy to rs 70 crore revenue rises 25",
-    "tata trusts row noel son neville tata move bombay hc and mumbai civil court with caveats",
-    "bajaj consumer q2 results net profit jumps 66 to rs 70 crore revenue rises 26",
-    "incomes are eroding lawyer exposes the burden of rising rents",
-    "bumrah above two bowling legends buttler broad reveal their top 10 bowlers of 21st century",
-    "bs vii govt drafts tougher pollution norms for vehicles monitors real world tests proposed key details",
-    "alanna panday flaunts baby bump at pinkthemed baby shower ananya panday attends see pics",
     "stock market highlights 13 oct sensex jumps 1109 points nifty rises 16 as it stocks rally businessline",
     "stock market live highlights sensex drops 226 points nifty 50 below 22650 infosys tcs jump shriram fin hdfc life top losers ndtv profit",
     "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline",
     "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
-    "stock market close sensex zooms 1109 pts after fms comments on ltcg stt nifty ends at 22722 business standard",
     "stock market outlook today 14 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
     "indian stock market outlook next week 1216 oct sensex nifty likely to extend recovery after 8week losses goodreturns",
     "closing bell markets rebound nifty above 22700 sensex jumps 1100 pts moneycontrolcom",
-    "why is stock market up today top 3 reasons behind a jump in sensex nifty 50 explained livemint"
+    "why is stock market up today top 3 reasons behind a jump in sensex nifty 50 explained livemint",
+    "stock market outlook today 13 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
   ],
   "articles": [
+    {
+      "title": "Govt. to roll out National Electricity Data Sharing framework in October: Power Secretary",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/govt-to-roll-out-national-electricity-data-sharing-framework-in-october-power-secretary/article71584372.ece",
+      "publishedAt": "Wed, 14 Oct 2026 20:07:49 +0530"
+    },
+    {
+      "title": "Global Market: BoE's Huw Pill wary of market bets on four rate hikes over next year",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boes-huw-pill-wary-of-market-bets-on-four-rate-hikes-over-next-year/articleshow/134944944.cms",
+      "publishedAt": "Wed, 14 Oct 2026 19:50:25 +0530"
+    },
+    {
+      "title": "Zydus’ manufacturing plant gets 5 U.S. FDA observations",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/zydus-manufacturing-plant-gets-5-us-fda-observations/article71584361.ece",
+      "publishedAt": "Wed, 14 Oct 2026 19:38:56 +0530"
+    },
+    {
+      "title": "US yields jump as hot consumer inflation boosts rate hike bets",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-jump-as-hot-consumer-inflation-boosts-rate-hike-bets/articleshow/134944738.cms",
+      "publishedAt": "Wed, 14 Oct 2026 19:38:53 +0530"
+    },
+    {
+      "title": "Diwali offer for RIL shareholders! Reliance Jio sets aside Rs 2,500 crore shares in IPO reservation",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/diwali-offer-for-ril-shareholders-reliance-jio-sets-aside-rs-2500-crore-shares-in-ipo-reservation/articleshow/134944234.cms",
+      "publishedAt": "Wed, 14 Oct 2026 19:16:59 +0530"
+    },
+    {
+      "title": "US stocks: US market opens lower after hot CPI data fuels rate-hike bets",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-hot-cpi-data-fuels-rate-hike-bets/articleshow/134944281.cms",
+      "publishedAt": "Wed, 14 Oct 2026 19:16:03 +0530"
+    },
     {
       "title": "Jio Platforms IPO to open for subscription on October 21-23: Filing",
       "source": "Zerodha Pulse",
@@ -126,42 +172,6 @@
       "publishedAt": "Wed, 14 Oct 2026 18:50:13 +0530"
     },
     {
-      "title": "Tata Trusts row: Noel, son Neville Tata move Bombay HC and Mumbai civil court with caveats",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/tata-trusts-row-noel-son-neville-tata-move-bombay-hc-and-mumbai-civil-court-with-caveats/article71583924.ece",
-      "publishedAt": "Wed, 14 Oct 2026 18:48:03 +0530"
-    },
-    {
-      "title": "Bajaj Consumer Q2 Results: Net Profit Jumps 66% To Rs 70 Crore, Revenue Rises 26%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/bajaj-consumer-q2-results-net-profit-jumps-66-to-rs-70-crore-revenue-rises-26-12184963#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 18:25:01 +0530"
-    },
-    {
-      "title": "\"Incomes Are Eroding\": Lawyer Exposes The Burden Of Rising Rents",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/a-salary-a-job-no-savings-how-the-rental-crisis-is-trapping-working-people-12184442#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 18:19:36 +0530"
-    },
-    {
-      "title": "Bumrah Above Two Bowling Legends: Buttler, Broad Reveal Their Top 10 Bowlers Of 21st Century",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/bumrah-above-two-bowling-legends-buttler-broad-reveal-their-top-10-bowlers-of-21st-century-12184709#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 18:18:34 +0530"
-    },
-    {
-      "title": "BS VII: Govt Drafts Tougher Pollution Norms For Vehicles; Monitors, Real World Tests Proposed | Key Details",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/bs-vii-govt-drafts-tougher-pollution-norms-for-vehicles-monitors-real-world-tests-proposed-key-details-12184918#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 18:16:26 +0530"
-    },
-    {
-      "title": "Alanna Panday Flaunts Baby Bump At Pink-Themed Baby Shower, Ananya Panday Attends: See Pics",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/alanna-panday-flaunts-baby-bump-at-pink-themed-baby-shower-ananya-panday-attends-see-pics-12184174#publisher=newsstand",
-      "publishedAt": "Wed, 14 Oct 2026 18:13:17 +0530"
-    },
-    {
       "title": "Stock Market Highlights, 13 Oct: Sensex jumps 1,109 points, Nifty rises 1.6% as IT stocks rally - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUpRdDJiYU9ObXpkQmJITlZQdE9iMXZrZk5SVDVDb2wxTjJ3MFJIUDc2ZTViVUM0SFp1TnFMUThPcW5WSlBKeDl4dElUTEFZU2Yxc0JGSkJnSE9QUU1PZDJUY1J6aUpGRy1qbTA0YWNESy1CbVJsellDWVRaallkeWRTOUc5cjAxRDBUS3dCZE1pdlVrd2c1M0JnQWhHcGlFcXN2Sk1YNUQtUGlZcmpSUnA4d2dURGtSa3hJ0gHCAUFVX3lxTE5WX3hzTVJCWi0wYTZyclNHUnA5TDAtcnFpdEZTRnl2TTJ2V1VCbUVIV0ZRajc0RlNqaWg1VjhQTkVhSG5ETzJIUmNKWmR6aXRVaEpQd09mdnFHN0prNDA3U2NwaGFVcHlLVU1FUnZiVEZkWTYzbVJBc2lYa08yOHdiVWFibnBtRnl6T2Y4Wm1odGRmaE5sOVduNU5FaXpGekRqYS00MUtVTVAwcWQ1SXNZekVsa0Nvb2lmYl9iQ1ZobDh3?oc=5",
@@ -182,14 +192,8 @@
     {
       "title": "Closing Bell: Nifty below 22,650, Sensex down 252 pts in volatile trade; IT shines, pharma drags - Moneycontrol.com",
       "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU0?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
-    },
-    {
-      "title": "Stock Market Close: Sensex zooms 1,109 pts after FM's comments on LTCG, STT; Nifty ends at 22,722 - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN2N6SHlCbFhPczNBVC1fWWJzbk90NlU1Qkt3YWsxMmZIclRiN2tTTVF1aWtsMThweE9VVjNEajRWeERFaEtNTUxTUldkS2hHOWU1UzJUY19VbFFVZ2dyNVNsTjNMUGp0d213UW91cnFHTTBRcHU3Q0NieGgxcVhVa2NqUGpOZGJZdVJhSlQ2bWFIUHhaaEFJZFMwQV9DYVlFWkN5Y0pjMTVCdTVIbVRFLWlGM1M4cXNXUkU4RWxwb3RQZUUxV2JYbEhVUTVqNjdOVmFENUdfR1Z4ZWlPYTVUWjJRT294dkxwa2NVc0ZzWUJsVFF5dWxCeHh0dlJkd9IBgwJBVV95cUxPSnRkY3pUaEFneUwyTDMwdzA2RS1MTGl1UF9MVlNEZXFkVWFCU3RvV0ZhdjJzNU5RUEFnMDQxdkhiV1AxNXNLVHkyajhrZzFVTHpGT3VmRXVWblBtUWVDSHFLeXFnOXdER2pJLUZhc2txaE1FUTE4VkpYWHJ1RVJRT0VZdkw4bkpnMEFkWlJIdEgxbWZjTVVGZUVKMUdBTEp2b044ZmoxSEhIRUVTRi0xWGJyeTJHWjl3eFBkTjRTY3Q3OWM3Z2VoU3V2RkJheWprY1FCelJiUlkyU1U1ZlJMa19Rc3RoMHBmQVk3TGEtd2hrSG5RM3c0WDR2M3FRbDFmaGR3?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 10:30:12 GMT"
     },
     {
       "title": "Stock market outlook today, 14 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -220,6 +224,12 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcC1vVkFmOE5nbF95Z09lbVk5YmQ4ak91WE1YZWd5WDdIR0pteHhoQlYwZHM4bE9rQXVycjVMNVoyalpIcXNnMERma1Q4YW5rMjkyV2F0RGVlcElMaVlpdHZJNS1aNnhndjVtZi1xNUx2QlI1VFltc3pMUlgwakd6ZElkU1lTekVnV3NOMkZkSXpreEhIR2N1UHNWN0oyOHhxMW1NanU1R0VPVGFMcU45MlQ4NHlKSVB0RERqdE1QdWdTTGlmdVBuRFpXZ0g5MlRNNFkwblRjVDRqd0VuRlRrcnA1cG40X2FhVDB3Nl9B0gHzAUFVX3lxTE1uVm1iTklGWVNIY19VMDRfekxQdVJGeU9kRUFtdmVkN0lfeWptZ1RndUpud0ZPZVNUNkVkY3NHM2lQZ1M3NUdLazBfejFCMEQtU1BfVEFJQ2NqOFIwQ19iVi1rT0lxQ3RoM2xLRWd4OTRNRWZvMVEtQ205MDY1NktWU0tqWWd2YkQ3UkdfTlprN0o5cXQ3WktTbERuNnRrZ19sTHFQLS01XzdDejFHaktrSFZmdGxjV3VwNjQ0VTdyeU5TNWgwdEpkYkxzYk01Tm91U1piWGZQRTZIUm1RdWZlMy1hVDFySmE5ckwyaVR0bWRGcw?oc=5",
       "publishedAt": "Tue, 13 Oct 2026 04:44:55 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 13 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZ29zV2t0QTZVWXJjQnl0QXVLZW5IczJOcmRuWmtRVGh0SkkzU2k1dzVwazJTOEVEZnM0NzFrVUFKNHlVUEZ1M1d5YkRRYi01bU1NdVZGT1M2T3EwOVd6V3FrOTBhR1VSRk1YWk5Gdnh3Vmw0UW1mWHhLY0Z0d09vbXdoZzhPNW1sQUV6NUwyOHpuOHdiaWFGUFVPSDg4MU9mVE95cGRwNUl2QUlvLVZFRWlicmQ1eXNobDdzaUZFTS1uU0JLcjBta3FKbGoyT3ZUbU56QlhydktfTUlNTnkyOUx1MDljeWtMblZsaGVwa3d4bjVRM1VJNEEzNlZ3RldsZW5MX9IBigJBVV95cUxOWWFob3JvbmdURmFpVkJJazVtMUkycDdaZHJKLVVUMW44bElPcUs3NzVaSW5jUWpCenJFTXdFdlJKQV9MX0Fzam5mU0JsYVVaMzBzb1BjNFV2YW5fRlBvRGZsRHB6RmJaQUNLZXJGWlZGUzhHMW5aZWM2TGZBaG9ZZ25aZ0FrRWF6WnhfWDFadlRTbXlWb2VWQ2pVVkYzSlZNU0ZmYThwem4wcHdSMkNBel9zbGJNSGM0LW9TeWNEVWZtVWk0RE5uTTJiNXZyN1pGZE9jSC11TXlLcFp5WlU3UDZKX2dFYnhuVGk2MUNkUEYxWWdHYVVzV0d0dl80WUZyQ3JwQWFZYVNyQQ?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 01:15:02 GMT"
     }
   ]
 }
