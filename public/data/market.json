@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Surges 1,534 Points as IT and Banking Stocks Lead Massive Market Rally",
+  "headline": "Sensex zooms 1,534 points as Nifty nears 23,000 mark led by IT and banking stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,34 +7,18 @@
     "nextOpen": ""
   },
   "why": [
-    "Strong quarterly performance expectations for major IT firms like Tech Mahindra and Wipro",
-    "UCO Bank reported a significant 27% increase in net profit for the July-September quarter",
-    "Positive sentiment regarding Jio Platforms' IPO plans to become a net-debt-free company",
-    "Broad-based buying across IT, auto, and private banking sectors driving indices to two-week highs"
+    "Sensex surged 1,534 points driven by a massive rally in IT, auto, and private banking sectors",
+    "Falling bond yields helped ease the selloff in AI-related stocks globally",
+    "Investors showed optimism ahead of Q2 earnings from major IT companies",
+    "The Indian rupee extended gains as the market hit two-week highs"
   ],
   "whatHappening": [
-    "The Sensex jumped 1,534 points while the Nifty 50 closed just below the 23,000 mark",
-    "Cert-In warned that AI agents have accessed Indian firms' records without authorization",
-    "Jio Platforms' MD announced that IPO proceeds will be used to eliminate company debt",
-    "Space startup Cosmochute raised $1.5 million in a funding round led by Prosus Ventures"
+    "Nifty 50 closed at 22,997, just points away from the 23,000 psychological milestone",
+    "Jio Platforms MD announced that IPO proceeds will make the company net-debt-free",
+    "Cert-In reported that AI agents accessed records of Indian firms without authorization",
+    "Prosus Ventures led a $1.5 million funding round in the space startup Cosmochute"
   ],
   "stocksInNews": [
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "UCOBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        7
-      ]
-    },
     {
       "symbol": "TECHM",
       "sentiment": "Positive",
@@ -52,7 +36,15 @@
       ]
     },
     {
-      "symbol": "INFY",
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "INFOSYS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -68,21 +60,21 @@
       ]
     }
   ],
-  "summary": "The Indian stock market witnessed a powerful rally with the Sensex gaining over 1,500 points and Nifty nearing the 23,000 level. Gains were driven by the IT sector and strong earnings from UCO Bank, alongside optimism for Jio Platforms' upcoming IPO. Investors remain alert following Cert-In's warning about unauthorized AI data access in corporate records.",
-  "updatedAt": "2026-10-15T20:02:13.747Z",
+  "summary": "Indian markets witnessed a powerful rally with the Sensex jumping over 1,500 points and Nifty closing near the 23,000 mark. The surge was led by the IT and banking sectors, with specific gains in Tech Mahindra and Wipro ahead of their Q2 results. Meanwhile, Jio Platforms is preparing for an IPO to achieve a net-debt-free status.",
+  "updatedAt": "2026-10-15T21:31:53.872Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-16",
   "articleKeys": [
+    "us stocks dow sampp 500 end higher as traders shift from ai to healthcare",
+    "ai stock selloff eases as investors buy on dips amid falling bond yields",
+    "land shortage cripples agriculture ministrys weather network rollout",
     "ai agents accessed indian firms records without authorisation certin",
     "ship sinking hormuz control us deaths centcom flags 3 false iran claims",
     "ipo proceeds will make us netdebtfree company jio platforms md",
     "prosus ventures leads 15 million funding in space startup cosmochute",
     "anthropics q3 revenue jumps to 168 billion ahead of planned ipo",
+    "korea to explore business opportunities in karnataka sectors",
     "student elections to return in maharashtra universities new rules likely by january",
-    "would you switch to xbox for minecraft microsoft asks players in new survey",
-    "uco bank net profit rises 27 to 786 crore in julyseptember quarter",
-    "prithvi shaw reveals how playing fifa gta helps him regain confidence amid india snub",
-    "delhi traffic advisory for oct 16 21 key routes may be affected ahead of protests check full list",
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
@@ -95,6 +87,24 @@
     "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "US stocks: Dow, S&amp;P 500 end higher as traders shift from AI to healthcare",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-traders-shift-from-ai-to-healthcare/articleshow/134976395.cms",
+      "publishedAt": "Fri, 16 Oct 2026 01:40:37 +0530"
+    },
+    {
+      "title": "AI stock selloff eases as investors buy on dips amid falling bond yields",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stock-selloff-eases-as-investors-buy-on-dips-amid-falling-bond-yields/articleshow/134976163.cms",
+      "publishedAt": "Fri, 16 Oct 2026 01:29:42 +0530"
+    },
+    {
+      "title": "Land shortage cripples Agriculture Ministry’s weather network rollout",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece",
+      "publishedAt": "Fri, 16 Oct 2026 01:00:37 +0530"
+    },
     {
       "title": "AI agents accessed Indian firms' records without authorisation: Cert-In",
       "source": "Zerodha Pulse",
@@ -126,34 +136,16 @@
       "publishedAt": "Thu, 15 Oct 2026 23:43:03 +0530"
     },
     {
+      "title": "Korea to explore business opportunities in Karnataka sectors",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/korea-to-explore-business-opportunities-in-karnataka-sectors/article71541371.ece",
+      "publishedAt": "Thu, 15 Oct 2026 23:37:15 +0530"
+    },
+    {
       "title": "Student Elections To Return In Maharashtra Universities? New Rules Likely By January",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/india/student-elections-to-return-in-maharashtra-universities-new-rules-likely-by-january-12189130#publisher=newsstand",
       "publishedAt": "Thu, 15 Oct 2026 23:33:20 +0530"
-    },
-    {
-      "title": "Would You Switch To Xbox For Minecraft? Microsoft Asks Players In New Survey",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/would-you-switch-to-xbox-for-minecraft-microsoft-asks-players-in-new-survey-12190287#publisher=newsstand",
-      "publishedAt": "Thu, 15 Oct 2026 23:31:54 +0530"
-    },
-    {
-      "title": "UCO Bank net profit rises 27% to ₹786 crore in July-September quarter",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/uco-bank-net-profit-rises-27-to-786-crore-in-july-september-quarter-126101500756_1.html",
-      "publishedAt": "Thu, 15 Oct 2026 23:31:09 +0530"
-    },
-    {
-      "title": "Prithvi Shaw Reveals How Playing FIFA, GTA Helps Him Regain Confidence Amid India Snub",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/prithvi-shaw-reveals-how-playing-fifa-gta-helps-him-regain-confidence-amid-india-snub-12192041#publisher=newsstand",
-      "publishedAt": "Thu, 15 Oct 2026 23:30:11 +0530"
-    },
-    {
-      "title": "Delhi Traffic Advisory For Oct 16: 21 Key Routes May Be Affected Ahead Of Protests. Check Full List",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-traffic-advisory-for-oct-16-21-key-routes-may-be-affected-ahead-of-protests-check-full-list-12192022#publisher=newsstand",
-      "publishedAt": "Thu, 15 Oct 2026 23:28:36 +0530"
     },
     {
       "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
