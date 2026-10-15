@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges 1,534 points as IT stocks and Jio IPO news trigger massive bull run",
+  "headline": "Sensex zooms 1,534 points, Nifty nears 23,000 as IT stocks and strong export data fuel massive market rally",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,102 +7,93 @@
     "nextOpen": ""
   },
   "why": [
-    "Tech Mahindra's 1:1 bonus issue and dividend announcement boosted IT sector sentiment",
-    "Excitement over the Jio Platforms IPO and its push towards net debt-free status",
-    "Strong buying interest in private banks and auto stocks during the weekly expiry",
-    "Positive global cues and short-covering led Nifty to reclaim the 23,000 level"
+    "India's exports surged 23% in September, leading to a narrowed trade deficit of $30.21 billion",
+    "Tech Mahindra reported a significant 32.7% increase in Q2 net profit, boosting investor confidence in the IT sector",
+    "Strong investor interest in the upcoming Jio IPO and positive commentary from Akash Ambani on tariff hikes",
+    "A strengthening rupee and broad-based buying in IT, auto, and private banking sectors supported the rally"
   ],
   "whatHappening": [
-    "The Sensex and Nifty closed at 2-week highs following a stunning market rebound",
-    "Jio Platforms announced a Rs 30,213 crore IPO issue to be spearheaded by Akash and Isha Ambani",
-    "Zydus Lifesciences' joint venture finalized a $20 million investment for a pharma plant in Sri Lanka",
-    "SEBI is reviewing position limits for non-agricultural contracts to improve market liquidity"
+    "The Sensex soared 1,534 points while the Nifty 50 closed just points away from the 23,000 milestone",
+    "Cemindia Projects successfully saw its Rs 1,400-crore QIP oversubscribed by 2.3 times by major institutional investors",
+    "Indian Bank and UCO Bank reported strong Q2 profit growth despite facing a slump in treasury income",
+    "Paras Healthcare set its IPO price band at Rs 660-693, with the subscription period starting on October 21"
   ],
   "stocksInNews": [
     {
       "symbol": "TECHM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/9 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        5,
-        12,
+        2,
+        13
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        6,
         13
       ]
     },
     {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        6,
-        8,
-        17
+        1,
+        3
       ]
     },
     {
-      "symbol": "WIPRO",
+      "symbol": "CEMINDIA",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        5
       ]
     },
     {
-      "symbol": "ZYDUSLIFE",
+      "symbol": "INDIANB",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        8
       ]
     },
     {
-      "symbol": "HINDZINC",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "IDBIBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "HLV",
+      "symbol": "UCOBANK",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        7
+        8
       ]
     },
     {
-      "symbol": "SBIN",
+      "symbol": "PARAS",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         9
       ]
     }
   ],
-  "summary": "The Indian markets recorded a spectacular rally with the Sensex surging 1,534 points, driven by a 1:1 bonus issue from Tech Mahindra and Jio IPO updates. Nifty 50 reclaimed the 23,000 mark as IT and private banking sectors outperformed. Investor sentiment was further bolstered by positive corporate developments and strong buying across major indices.",
-  "updatedAt": "2026-10-15T14:31:48.310Z",
+  "summary": "Indian markets witnessed a spectacular rally with the Sensex jumping 1,534 points and Nifty nearing the 23,000 level. The surge was driven by robust export growth data and strong Q2 results from Tech Mahindra, alongside excitement over the Jio IPO. IT and banking stocks led the gains as the rupee strengthened, marking a significant rebound from previous sessions.",
+  "updatedAt": "2026-10-15T15:26:40.569Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-15",
   "articleKeys": [
-    "zydussunshine jv signs pact with sri lankas boi for 20 mn pharma plant",
-    "nilesh shah on psu privatisation how hindustan zinc offers a lesson for idbi bank",
-    "sebi examining position limits for nonagri contracts to boost liquidity",
-    "telecom operators to show kyc name of incoming callers from november 1",
-    "nayara energy hikes petrol by 5 diesel by 3",
-    "tech mahindra announces 11 bonus issue rs 15 interim dividend check record date",
-    "jio platforms ipo akash and isha ambani speak at jio press conference",
-    "leela palaces hotels amp resorts among 4 stocks hitting 52week highs rally up to 32 in a month",
-    "jio ipo akash ambani says rs 30213 crore issue will push company towards net debtfree status",
-    "rbi should curb nonessential lrs outflows scrutinise odi sbi research",
+    "indias exports jump 23 in september trade deficit narrows to 3021 billion",
+    "what akash ambani said on jio tariff hikes ahead of record ipo launch",
+    "tech mahindra q2 profit rises 327 to 1586 crore revenue up 156",
+    "jio ipo valuation gmp amp key numbers of ambanis telecom giant decoded",
+    "china launches antidumping probe into eu chemical imports ahead of trade talks",
+    "cemindia projects rs 1400crore qip oversubscribed 23x edelweiss life nuvama motilal mf among investors",
+    "wipro q2 results net profit falls 14 to 3201 crore revenue rises 91",
+    "indian markets continue rally nifty and sensex close 2 up as rupee strengthens",
+    "indian bank uco bank lead q2 profit growth as treasury income slumps",
+    "paras healthcare fixes ipo price band at rs 660693 issue opens on oct 21",
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
@@ -110,75 +101,75 @@
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
     "bull charge on dstreet sensex nifty close at 2week highs after stunning rally financial express",
     "closing bell markets rebound nifty above 22700 sensex jumps 1100 pts moneycontrolcom",
-    "jio platforms ipo jio ipo press conference akash and isha ambani speak at jio press conference catch all updates here the economic times",
     "stock market outlook today 15 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian"
+    "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
+    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom"
   ],
   "articles": [
     {
-      "title": "Zydus-Sunshine JV signs pact with Sri Lanka’s BOI for $20 mn pharma plant",
+      "title": "India’s exports jump 23% in September; trade deficit narrows to $30.21 billion",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/zydus-sunshine-jv-signs-pact-with-sri-lankas-boi-for-20-mn-pharma-plant/article71587665.ece",
-      "publishedAt": "Thu, 15 Oct 2026 19:11:17 +0530"
+      "link": "https://www.thehindu.com/business/Economy/indias-exports-jump-23-in-september-trade-deficit-narrows-to-3021-billion/article71588471.ece",
+      "publishedAt": "Thu, 15 Oct 2026 19:55:05 +0530"
     },
     {
-      "title": "Nilesh Shah on PSU privatisation: How Hindustan Zinc offers a lesson for IDBI Bank",
+      "title": "What Akash Ambani said on Jio tariff hikes ahead of record IPO launch",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nilesh-shah-on-psu-privatisation-how-hindustan-zinc-offers-a-lesson-for-idbi-bank/articleshow/134969215.cms",
-      "publishedAt": "Thu, 15 Oct 2026 18:57:49 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/what-akash-ambani-said-jio-tariff-hikes-ahead-of-record-ipo-launch/articleshow/134970180.cms",
+      "publishedAt": "Thu, 15 Oct 2026 19:48:30 +0530"
     },
     {
-      "title": "SEBI examining position limits for non-agri contracts to boost liquidity",
+      "title": "Tech Mahindra Q2 profit rises 32.7% to ₹1,586 crore; revenue up 15.6%",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/article71540271.ece",
-      "publishedAt": "Thu, 15 Oct 2026 18:56:22 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/tech-mahindra-q2-profit-rises-32-7-to-1-586-crore-revenue-up-15-6-126101501369_1.html",
+      "publishedAt": "Thu, 15 Oct 2026 19:48:01 +0530"
     },
     {
-      "title": "Telecom operators to show KYC name of incoming callers from November 1",
+      "title": "Jio IPO: Valuation, GMP &amp; Key Numbers of Ambani’s Telecom Giant Decoded",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/telecom-operators-to-show-kyc-name-of-incoming-callers-from-november-1/article71587959.ece",
-      "publishedAt": "Thu, 15 Oct 2026 18:52:20 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-valuation-gmp-key-numbers-of-ambanis-telecom-giant-decoded/videoshow/134970140.cms",
+      "publishedAt": "Thu, 15 Oct 2026 19:44:51 +0530"
     },
     {
-      "title": "Nayara Energy hikes petrol by ₹5, diesel by ₹3",
+      "title": "China launches anti-dumping probe into EU chemical imports ahead of trade talks",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/nayara-energy-hikes-petrol-by-5-diesel-by-3/article71540153.ece",
-      "publishedAt": "Thu, 15 Oct 2026 18:38:50 +0530"
+      "link": "https://www.thehindu.com/business/china-launches-anti-dumping-probe-into-eu-p-nitrotoluene-imports/article71539807.ece",
+      "publishedAt": "Thu, 15 Oct 2026 19:39:53 +0530"
     },
     {
-      "title": "Tech Mahindra announces 1:1 bonus issue, Rs 15 interim dividend; check record date",
+      "title": "Cemindia Projects’ Rs 1,400-crore QIP oversubscribed 2.3x; Edelweiss Life, Nuvama, Motilal MF among investors",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-announces-11-bonus-issue-rs-15-interim-dividend-check-record-date/articleshow/134968892.cms",
-      "publishedAt": "Thu, 15 Oct 2026 18:37:04 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cemindia-projects-rs-1400-crore-qip-oversubscribed-2-3x-edelweiss-life-nuvama-motilal-mf-among-investors/articleshow/134969998.cms",
+      "publishedAt": "Thu, 15 Oct 2026 19:37:02 +0530"
     },
     {
-      "title": "Jio Platforms IPO | Akash and Isha Ambani speak at Jio Press Conference",
+      "title": "Wipro Q2 results: Net profit falls 1.4% to ₹3,201 crore, revenue rises 9.1%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-akash-and-isha-ambani-speak-at-jio-press-conference/videoshow/134968659.cms",
-      "publishedAt": "Thu, 15 Oct 2026 18:24:05 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/wipro-q2-results-net-profit-falls-1-4-to-3-200-6-cr-revenue-rises-9-126101500857_1.html",
+      "publishedAt": "Thu, 15 Oct 2026 19:34:14 +0530"
     },
     {
-      "title": "Leela Palaces Hotels &amp; Resorts among 4 stocks hitting 52-week highs; rally up to 32% in a month",
+      "title": "Indian markets continue rally; Nifty and Sensex close 2% up as rupee strengthens",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/leela-palaces-hotels-amp-resorts-among-4-stocks-hitting-52-week-highs-rally-up-to-32-in-a-month/slideshow/134968563.cms",
-      "publishedAt": "Thu, 15 Oct 2026 18:18:10 +0530"
+      "link": "https://www.thehindu.com/business/markets/indian-markets-continue-rally-nifty-and-sensex-close-2-up-as-rupee-strengths/article71587788.ece",
+      "publishedAt": "Thu, 15 Oct 2026 19:34:02 +0530"
     },
     {
-      "title": "Jio IPO: Akash Ambani says Rs 30,213 crore issue will push company towards net debt-free status",
+      "title": "Indian Bank, UCO Bank lead Q2 profit growth as treasury income slumps",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-akash-ambani-says-rs-30213-crore-issue-will-push-company-towards-net-debt-free-status/articleshow/134968408.cms",
-      "publishedAt": "Thu, 15 Oct 2026 18:15:08 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-bank-uco-bank-lead-q2-profit-growth-as-treasury-income-slumps/articleshow/134969955.cms",
+      "publishedAt": "Thu, 15 Oct 2026 19:34:00 +0530"
     },
     {
-      "title": "RBI should curb non-essential LRS outflows, scrutinise ODI: SBI Research",
+      "title": "Paras Healthcare fixes IPO price band at Rs 660-693; issue opens on Oct 21",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/rbi-should-curb-non-essential-lrs-outflows-scrutinise-odi-sbi-research-126101501146_1.html",
-      "publishedAt": "Thu, 15 Oct 2026 18:12:28 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-fixes-ipo-price-band-at-rs-660-693-issue-opens-on-oct-21/articleshow/134969891.cms",
+      "publishedAt": "Thu, 15 Oct 2026 19:31:53 +0530"
     },
     {
       "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPSjd3cS1xeFFJV1o3cUl5d0drVko0ck5CelB2S20wUWtXV3pRUDJVOUlLWDk3WEktcHVhVDRnUkhHOEgyanp0Zm1CdDNYVzN2OXc2QndfYmN2SXRoQnUwOWJqV1VLQnpIMEJsbl9QUTZ2ZTN4clV1YlM2aDBoYnpaRzd2U01WRlFVSHFreVlITV9qWXg3SFhodncyeGVIOHIzelh5RGlzbXZNTWtTblJ2bmRiX2lfV1lISThJazVNVVF6WkZhNHNPUmVucnNES09FUDVyaUk0UkxrN3NsTWg2THRxMzF3UlNidjhjQ3REYklFeFMzUjhkTXVHMkxiTDdpZXZWS25BcTlNeTRMM3RveG5VRTg3WVgwWlJ2TWhkOFJ2RGpiMnUwLTdkckcxbGRDVUpQTw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPSjd3cS1xeFFJV1o3cUl5d0drVko0ck5CelB2S20wUWtXV3pRUDJVOUlLWDk3WEktcHVhVDRnUkhHOEgyanp0Zm1CdDNYVzN2OXc2QndfYmN2SXRoQnUwOWJqV1VLQnpIMEJsbl9QUTZ2ZTN4clV1YlM2aDBoYnpaRzd2U01WRlFVSHFreVlITV9qWXg3SFhodncyeGVIOHIzelh5RGlzbXZNTWtTblJ2bmRiX2lfV1lISThJazVNVVF6WkZhNHNPUmVucnNES09FUDVyaUk0UkxrN3NsTWg2THRxMzF3UlNidjhjQ3REYklFeFMzUjhkTXVHMkxiTDdpZXZWS25BcTlNeTRMM3RveG5VRTg3WVgwWlJ2TWhkOFJ2RGpiMnUwLTdkckcxbGRDVUpQT9IBugJBVV95cUxQY2NBSWx0dlpOaU85aGZfaG5maWdGbVZ6ZTlhTnVMcTN5SHgtZGJvS0h1NmlWbWt0UVhRNFFXZ3BiUmdKOG5iNDNral82WlFDZFlQVzF6MFN3SkJDOGFKQlYtTzd6dndUd0EzdFZRS3V5OThWejR1X3FKUzE4WC1uREFjQjN0dkVzUERGclRZX2FaTGxYRXRrNk02MXlPZ0h3Y2VqUkVsSk8tYVlsd1Y0RkFCZUxoZFd4dnZpem5oeHJZRzNBRUgyYXpvakM2UVNpbl94NktSdjdtNnRub0U1YlVZbUVXS0VYX1F4WWV1QVdxeDQ4aDhaN0N0QmNYR1RBaW1JbTRaU21aMi14a2xMZlhJNE9rb0hMcVJsSzRacC04WTJoN3VoeDJqa3FuV29zRmxGSV84VnFhUQ?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 10:18:14 GMT"
     },
     {
@@ -218,12 +209,6 @@
       "publishedAt": "Tue, 13 Oct 2026 10:29:54 GMT"
     },
     {
-      "title": "Jio Platforms IPO | Jio IPO Press Conference: Akash and Isha Ambani speak at Jio Press Conference. Catch all updates here - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcU9QZmlPN2xkcXk3MTNkTDZEVEhjSkZaTHpCTG8tLVVMUC1CSEU4S0ItRUtnVk1LaGN5eUtneFg1OVpxc25FcDVzZ3dudThVRnpFeEI3MkdJQm53S0ZsRkVKa1pTTEIxdnRwYkc2UnA3N3VNMWd3dDdmZy1VY3A2c3V3X1Q0S0tNbGl1VEY0R3ZZWmp5UkFscnRleHBzZUtyNHdsclRFX0d2MGV4VGRBMkZrV1BLallkNTFQSXN1ekpNcWhTc2VYTUNXZmg2eUY1MnNPaDRveEdmaG1tM1Q5c0M4S3h0ejJEQlZrTU5FdGZJRUVraF9HQk1jNWRKd3F1X3RnY3BTUnQyQk3SAZACQVVfeXFMTV9CV3JBbHlxb2gyVG9yelFCekxjMEVpZzNXaDNLVnB1UUxQcXVEVU8wWU5MVHQ3WF9GY0ZNYXJrdDhUbTMzTnE0WExoMnNwWDRiVlRqTERJU0ZNT2JqR2lYZGhJaTRmVnU1eTEwR3Y0MkYzX19GYWxlVllPT3UzUlZWYVVEdFRqZVRHTTN5T2VFZmNjNTItZElhM2pJZUR2ZVFWdDltdU1DVlcxelptV1Q3VkQySHVweUF3enpIaVNIbXZrU3hxMkptbUVOREY5QndQRzllV1ZzNnNiYXdnZDF6Y2M5UG1EUG9nZDF5UWRRUEx0Zzc0WXVRWklSWHdDN2tvUEo3LW5MN0Nlb1E0VWw?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 10:54:12 GMT"
-    },
-    {
       "title": "Stock market outlook today, 15 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQmt4MElPMFdzZEZHaGlsSnRoTGZRQ3lua2F1ZnZnQ3hLT2dOUDlSRzluaUtMZ2I3eEgyUmEyOVJEYlJmV2ZJcUI5TTZia1IxVEk2V1hSUlVyT2JXTkN2WTZSWXFlV0wtTDFnTmhvX2llUXJhTEVoRURmVDQtc2dIVm10MVRrSjV6TTJUUXFqZEZlbEg3ek5LazBkVzM0QUZnNVFMVTV6VU92X0tXRU5Fa1FFb2ltTzJHY2s2N1UwMWtzeEpubHEzNnhvUGpWSlU2VzBIaTU0TWlFNkhGczJhVWdKTGYwdjRLczYzRllRaGQzQmloZnN5dkF2Nk1JbjUxaU5YcdIBigJBVV95cUxQeGloY3FkM2YwOXhZR1NQb1NSUXVPdS1pYzZzVkZMeVRaX1d2M3hDaVRJQ3NKQ0gzeV83X0h0S1FSTlRlbjRIXzY0T3I0dzZTV3dHWWs3dWo4emFzcVlsbnRLVFJ4VHYyRHlJOWJhWEpJZjl3MDI0RjBRaHFiRk92OUJtZGo3ZTZTTm9FMGprdTY4dXFUUjR5ekY0cWtjeVlRbldaOFk4dXB3VDgwNWpPQm9FSXVIYmUtc0t0dGo0SnpidG5sQV9aaW9zSFJoM21VWURzckNiYnc3NTZwVGs2Nk1GZGVPNGxSWGMwbDlvd0NXTmxUc1liczd0QTJydWpjYjdqb3BOVl92QQ?oc=5",
@@ -234,6 +219,12 @@
       "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQ3J3NHdzcmpHdzBkeU9oUnIxQjJHOXV3R3NRcTNkVnpiQTVPTTJJVHIzQXN2RHlRSUltODBuR19rT2pyZVV3RVRaTTVBa1J4WHBvNU5pX1NCcld2VkhsYVJVNDVZNWstM1NTQ0FxbXJmVHRjNW9Xa0M3Q2lfSXVYYkJtWnI5czZILWdrTWl2R1doS0FjV21NRVlEdWk5WkNaUEtjQTQwd0s0d1FiNEUwSnlKWFUtTUo0bG1rZmZJY3dpa1U5VHIxazl5V1RsdHlkN250T3lmYmlmZHZ5Yk4zNWJRUG1yVW5UNlBsdmltZE9EY0hRY1Rza3VBcWlQMEozTXo4WkRzVmZ5SWd0dlRGRW44bXVfLUtlUmFGNmVhWHRUS3hRekpHMEhxbGJVZmtyNm5ZZG1ucElLUWRFSEdOT2JqS2k2UG9O0gHOAkFVX3lxTE1iZ1lnU1J1NExhamd0Xzd0bDVudDFSMDkzM0hTRGVVZ3JydDFhN0hYWU5wZ3M0SVQ5TUt3OGVDem5JUEZfVWU1VVRtZHFkUDNIWnd0U1ZTLXVGWnhqTlRFUGhCdmFabi10RUNnRmdScm1PNnBvN2VyeXVIMFhmdWlTZElaYUNtN1NZZDEtSDNDbFZjd0xkbWxqSkM4eVJOVXM5Yk5hdXozcDlRLTZXSlJ0WjBUaXRxYzJtTXNkTUViRHBjVUtKOVZMRkNtMUVsb2lUNmVDN0FvOGFsMFo4WmtCZ0l2dE1IeTB4emZtM0sxa0k4T2pycVVsWGVZSWhUOTVidGRHRWIxeWNXMnVBcXl5dDBxeWo5VEJRTEY2SFg2bnVjaExGaFJFdnZSR19GWFMxNk52d3ZHQXV4eWVpTWhFTV9pYlBxTk1wUlh6LXc?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 09:44:44 GMT"
+    },
+    {
+      "title": "Closing Bell: Nifty below 22,650, Sensex down 252 pts in volatile trade; IT shines, pharma drags - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
     }
   ]
 }
