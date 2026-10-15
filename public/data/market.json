@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex zooms 1,534 points and Nifty touches 23,000 as IT, auto, and private banks rally",
+  "headline": "Sensex zooms 1,534 points to close at 2-week high; Nifty hits 23,000 led by IT and banking stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,38 +7,38 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex surged 1,534 points and Nifty hit 23,000 propelled by strong buying across IT, auto, and private banking stocks.",
-    "The Indian Rupee strengthened by 2 units against the US Dollar in a week, lifting market confidence.",
-    "Key corporate earnings announcements and bonus announcements boosted trader sentiment.",
-    "Markets rebounded strongly following previous sessions of volatility and sector drag."
+    "Massive rally in IT, auto, and private banking sectors",
+    "Tech Mahindra's 1:1 bonus share announcement and dividend",
+    "Strengthening of the Indian Rupee against the US Dollar",
+    "Positive Q2 earnings reports from major companies like HDFC Life"
   ],
   "whatHappening": [
-    "Tech Mahindra announced a 1:1 bonus share issue alongside a Rs 15 per share dividend.",
-    "HDFC Life reported a 16% rise in Q2 net profit to Rs 522 crore.",
-    "Cyient DLM's Q2 revenue jumped 26.5% to Rs 393 crore despite margin contraction.",
-    "Torrent Power is planning a $500 million bond sale according to bankers."
+    "Sensex surged 1,534 points while Nifty 50 closed near the 23,000 mark",
+    "Tech Mahindra's board recommended a 1:1 bonus issue and a Rs 15 per share dividend",
+    "HDFC Life reported a 16% increase in net profit to Rs 522 crore",
+    "Torrent Power is planning a $500 million bond sale according to bankers"
   ],
   "stocksInNews": [
     {
       "symbol": "TECHM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        2
+        2,
+        13
       ]
     },
     {
       "symbol": "HDFCLIFE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        9,
-        18
+        9
       ]
     },
     {
       "symbol": "CYIENTDLM",
-      "sentiment": "Positive",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         1
@@ -46,41 +46,23 @@
     },
     {
       "symbol": "TORNTPOWER",
-      "sentiment": "Neutral",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         7
       ]
     },
     {
-      "symbol": "INFY",
+      "symbol": "WIPRO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        15,
-        18
-      ]
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        15,
-        18
-      ]
-    },
-    {
-      "symbol": "SHRIRAMFIN",
-      "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        18
+        13
       ]
     }
   ],
-  "summary": "Indian equities surged sharply on October 15, with Sensex jumping 1,534 points and Nifty hitting 23,000.\nThe rally was driven by strong gains in IT, auto, and private banking sectors along with rupee recovery.\nKey corporate updates included Q2 results from HDFC Life and Cyient DLM, and a 1:1 bonus share recommendation by Tech Mahindra.",
-  "updatedAt": "2026-10-15T13:31:33.317Z",
+  "summary": "Indian markets witnessed a massive rally with the Sensex jumping 1,534 points and Nifty nearing 23,000. The surge was driven by strong gains in IT and banking stocks alongside positive corporate announcements. Tech Mahindra and HDFC Life were among the top newsmakers following their quarterly results.",
+  "updatedAt": "2026-10-15T13:38:32.731Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-15",
   "articleKeys": [
@@ -97,13 +79,13 @@
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
-    "jio platforms ipo jio ipo press conference akash and isha ambani speak at jio press conference catch all updates here the economic times",
+    "stock market highlights sensex ends 1534 points higher nifty 50 at 22997 amid weekly expiry tech mahindra wipro gain ahead of q2 ndtv profit",
+    "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
+    "bull charge on dstreet sensex nifty close at 2week highs after stunning rally financial express",
+    "closing bell markets rebound nifty above 22700 sensex jumps 1100 pts moneycontrolcom",
     "stock market outlook today 15 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
-    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
-    "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline",
-    "stock market live highlights sensex drops 226 points nifty 50 below 22650 infosys tcs jump shriram fin hdfc life top losers ndtv profit",
-    "closing bell sensex sinks 548 pts nifty below 22400 it fmcg and financial stocks drag moneycontrolcom"
+    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom"
   ],
   "articles": [
     {
@@ -185,10 +167,28 @@
       "publishedAt": "Thu, 15 Oct 2026 10:46:52 GMT"
     },
     {
-      "title": "Jio Platforms IPO | Jio IPO Press Conference: Akash and Isha Ambani speak at Jio Press Conference. Catch all updates here - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcU9QZmlPN2xkcXk3MTNkTDZEVEhjSkZaTHpCTG8tLVVMUC1CSEU4S0ItRUtnVk1LaGN5eUtneFg1OVpxc25FcDVzZ3dudThVRnpFeEI3MkdJQm53S0ZsRkVKa1pTTEIxdnRwYkc2UnA3N3VNMWd3dDdmZy1VY3A2c3V3X1Q0S0tNbGl1VEY0R3ZZWmp5UkFscnRleHBzZUtyNHdsclRFX0d2MGV4VGRBMkZrV1BLallkNTFQSXN1ekpNcWhTc2VYTUNXZmg2eUY1MnNPaDRveEdmaG1tM1Q5c0M4S3h0ejJEQlZrTU5FdGZJRUVraF9HQk1jNWRKd3F1X3RnY3BTUnQyQk0?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 12:03:00 GMT"
+      "title": "Stock Market Highlights: Sensex Ends 1,534 Points Higher, Nifty 50 At 22,997 Amid Weekly Expiry; Tech Mahindra, Wipro Gain Ahead Of Q2 - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV002NDJqRUcwQ29jVXh5enl3b0ppUE02aUJJVl9rcWJvYTBQeVVyVXJHaTdReG1WS0J3NVUwNGtfcklqZElYbEFfSDBhN3AwVTZnTHVYSFdBTUZSZHpaMmJ4MTJnLVluQ3NFOEo4R3h0VGtuakJ6dzdPV1M1UlZuRURvMEYzb2ZwX0xUMzBxcjRuYUJ4cDRiUWppSEpMVUltdEJxdk9vMW0zdDZJWm9MZDNrcVFzc0x4TC1vSVNRQ19SX3VzZThVWXpERWFoZ1p0RTQzek56S0NiVzJxM29XUWd3dzlPaDFiWmlXclg0NEF5SnZwREJwNjQ1eGpUWTQz0gGIAkFVX3lxTE5WUldNX3haeUNQOGUySzA5eTl6Zkh5M2VSamtVcTRqXy05anppcHZsTE1jcjNHSHU5ODRXS09sY0dLYXdBU2NPSWZ3akRBemxpZkdFcU41bEdOUVlfbk5QZElsdGQxLUstWDVkeklaWnZKenc1dzhPeUZZX3NIb0lmQXZ4a3d1MHdTMnhRck1kZzhZRjJ6VEIxdmI5MFIyVG9OVlFZUlBrd0p6eXFjbkk3NnZJdG9hbHNOaUtlbmZqWmhUZUFNWGg0VGk3NVZmaktuRkRCODlRQWlSekdCQUVTRGhmUm5YZXdQVnhncmNGLW9XbDZOXzBRRHRyZEJZV2FnZExBdGcxNw?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 10:07:09 GMT"
+    },
+    {
+      "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQblA3NmloLThJMUN0dFg3X1lJOXFTbmZaUnd3bV9CT2dyZHNNc3JsMnhIQkJqNnItU3p5dDBSQ1Itc3hfN3BUOGVUN2dqR3cxZ3ZoQUVvekNacm9qZ3llcG5sTk8xaGxXVmlPRHdUUUZEczJkUXI0STZZa1FGTWh3UkRxTVNLXzRPVGthWHVsZkNHMjR4cWJmbDh1TDRHUUVQaUg1b0dJTG9EdnZxOE8xWGNhT0ZHS2lSS0wtQTRMY1dRUWVoSWVNZ1I3cVJkU2IyaHFlWlRhUVBIMFJPZDZKYk4yaU9oQUI0ZmFIMGplTVlhbUcwRkJXd9IB_gFBVV95cUxQVUpDZVJxVzVmeFBaSDFHSHozZkFXOGFKQWtEUnkzbnR3M0FiQWlGc3l6dlBSM1h2X2hHLXRBMEtIa0M4NjdITWtTQW8xMjJlVHF4bDlIUGV3UDNzdXhkV3h4TXdMNGM4emdaczFjT3R2ZXZReENCR20tZlltZ1VwTF9vTzBka0RhQmYwMTVRNGJ4a1gwX01vQTJyemhPYldyYVlheWJYbVhqOUFoX0tJMjdTaUU1QUNsd0ptLUNFWEh1N1lwcTducGZXS3AwWXJYTnZvd0MyX1oxdnU1aXRnNHFjMXFRQ3EwVXd2dUNPU3AxNzhsR0sxNXRJVXZPUQ?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 10:25:44 GMT"
+    },
+    {
+      "title": "Bull charge on D’Street: Sensex, Nifty close at 2-week highs after stunning rally - Financial Express",
+      "source": "Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQkVEbmw0NEprRTk2SjE5MUVmQTVob3VLcjVIQTZ1UDREWVNYYVhTSXY2YWxVOWV4S09Zc3BYNW1SZlVrSzA1bFhfX1N1SG55eEtIT2E0RnRNOE03Q3o4c0dtOFlJRlR3U2NrT0lLejJ3b3dRVUJCN0NvSnk2eXhLbWpWbWZlWE9hTGJHSzlmZi1zdlVPQlBXZW5IdEZ6S2lzNWtPTzJmVG14RUh1cjdRTWFLR004N2duOVVKeF9Qd3ZSejdNOFJ6QUR5eVRNRUFrVzZPMlhHeXNPWXFrSk5Mbkk3b3JsRGxRdmVtZG1SUno?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 10:17:57 GMT"
+    },
+    {
+      "title": "Closing Bell: Markets rebound; Nifty above 22,700, Sensex jumps 1,100 pts - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPOUhGc1RJM0o4ajc5Q3V5RFNEMVM5WERUSFhnb2Y0T0F0Rlc0S0h6UnoyWnNJMzl4RmZVV2ZJNFBHS2pINTVwX2dqVTIxNzdNNlpaRnlGNWR4aXpOdmducWZ4bUprdlBwYXhtZGxLTGhoZzY2S0JZT1htVUVTTjkwRHNQX1JzS3FXekZ3YmxrNUtpVEJLU3cybnE5c0ItamNCRmo0X25TSkczUkZTN0ZhdVN3Wm5ZV2lFNHhnNjJwZ2ZoUDB2QnotRGNLb0d6LXlCcjIyVUFqTEdDb0twYWtWMHNiSjVPeEliTlZNSmQ0cVhoakRSTG9jMkU3YXdvRlYyWUgwVG1QVWYxRnB0dkZkQ2J5ZGo1QjBGTnIzek5vbC1OQXfSAagCQVVfeXFMTmliUXc5T1d2X20tZmhOTW0yNEJqWDdQS2hkNEtpeXVESUVYN3lJd2p3MWxXd052dEhHWWZvV05pZUF6T1h3N2F1ZVFRYzJ5V21BZVR5OGc5M2g2cGIyNFdRTnRxdkp1elNERkdfN0RScDE1VjVwenpzcnZaRUNZaGZuaFU5N3hQcjY2azJROTloeG9vSzdRelczRm1Wd2dXSk1aQWdTaDAwbTNkVTlkYTAtVlljZ01taTZ0eTVLalFzTHJkYTJFUjJzSmg4RWZYUndrOEQ1MWZOVUpFLVpQS25HY0UteVFTUUdNSy05ZzRFb09VbmVjM01FRHNJRHlQNEFmLUVfMzJ2TnlEaTZOeE1rUkpobDVab1FJeDFwOFZUVTlJelIxSFc?oc=5",
+      "publishedAt": "Tue, 13 Oct 2026 10:29:54 GMT"
     },
     {
       "title": "Stock market outlook today, 15 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -207,24 +207,6 @@
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
-    },
-    {
-      "title": "Stock Market Today Live, Oct 14: Sensex settles at 72,781.89; Nifty down 99.25 points to 22,622.70 - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjJxdGxpUHA1S1U5S2ZPU215c3dsa1NHOWZJX096MzN6NERSeTk5U0xFUVp2ZnB3T1VCUGlhWkdJMXJsRng2QkQxSWNHdWhTN2tkX0pTbHRleEVmS0RTU0pSX2Y2NWp2Wlo5blpaN1gtZzdsbnEtTTNSZ1B6WVF0N1JvUTlWT0dqdVZNZjFDcXhFc3JTVXB5cThhSnRFck1JZ3V4VzVQRXMxZ2lsYUxZQndxTWt4NmtSZk1fUlpPZEs1aGN0MXc?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 10:40:35 GMT"
-    },
-    {
-      "title": "Stock Market Live Highlights: Sensex Drops 226 Points, Nifty 50 Below 22,650; Infosys, TCS Jump; Shriram Fin, HDFC Life Top Losers - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWDFwMTlpWnRkTnVzazZjXzNUYXNvc0U1c0lrVk1TX2xMMXhTWkNpQTVOU3pJQTBjbmxYNHNWbEllczRJODZXT3NfNnZ6MHZMc2R2XzFVejdGSlM1UkhLN2I4bXE2Xzk5S19GSUJxRnNwbDNESEdGWDcxQWgxUnNwUWpKLV9RcWtOeFdoYVFSQUttcXZ6X0NFSHZWSndlWTVXdFE5QjVfN29ka2lHN0tVZlp4NzRpd0REVC1PLVVETzdKT1Z0UmZ1VlN4cjVlRnZ3M2R4ZUtKaU9aZnEybDZ3d2dlX08xN3VWRGIwcFdISG1KdGhxMUZILWx4M0hLMThDRmRZ0gGLAkFVX3lxTE9YSjZlTU5waThiUjN3MVhEemg3SU1IaXl0cDREeUVMV2NZYWprUW4tdk5QamJJcDdpVFhVWXQ2LWxjSGMtcE0tNEpIeW5tNlZnbUg3bUtUUlMzSldtdTVqUGZSRlNnN1dpcWcwWXdLYUtwcExQeDlvMFZjbUlZUHYwR01tZFBINHZQak5tanBrajZUd3RXdVNQRzNHZXpHbVFYLWlTQ2dNcHBWYkExRno0YUJJWXF0aVg3Y24zcEVLNE9SNnhpY0EzU2J2R1JEN1pxbnpBYWhwUDJ2bVBtV0JZQlZRSTdsT3dTNzRVekh5TzJFVHJodTBMd3RSSDdUVDQxZDlnT0RjWkswcw?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 10:15:44 GMT"
-    },
-    {
-      "title": "Closing Bell: Sensex sinks 548 pts, Nifty below 22,400; IT, FMCG and financial stocks drag - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZ3U2eHMwdTdvaDFlbXNJX0tRYTBHZXh4eVVDa0NGQzIxcjY3Xy0tbjVyb2hZcXRsVW5hTlB0TWNXXzJGanY3TExoLTVaeF9JWHlEbVNjYVhjZE91em56bEZra3pQSWdmRU9uaTdzNlpQQWw0VG1SVmRmMjAzZ0dXZkp3Y3ZXbW1VOVJwYkpBVlZfeEVpaU8ydVlXRUFOeV9vQ2d3a05KTEZNQjl4ZlhjMGpYYWFlMHlsYXFDWEZqd3pabjh0QWhkbi0wQXh1Y3FWaE9ZQ25xNkgyQmFTdkNKUjQ0WlV1UHRJRUt6bWV3TVBHTV9Hcjgtb0hlazZtT2FsQWNhclBVcUVOUHNYbXpuVXd5d2hNSEUzMFlhY1RPc2ZvZzTSAagCQVVfeXFMT0R4RTBTMzdRU2R2MVVIZUFMVUl0QjVmaVhOSUJOLXViUjVHeG5OSkZ6cV9QUWF5NHZjVDRRYzVsMG1BNkozOG90NmZwNkFTMTVNbWkySG0xMDVvaEpsdmtfOG5QaXdoOVBuRHhsZENGc1FnelgxbkpiUEREY2dzZGM0TUV0LXlUWUk4Q1F3TmVLcGVWU3BtbkF4dHVLSE0tY0Z3V05tdHgweElsUjZxbVpYYlFQWmF1YVhWM0RlcWFHNmJlQU1zTnZzck5JZm8yQl82T3FlSndpaUJ5RlRlQkp4Q0I1bGR1NkFqR0drbTlWakxlMmtMaGVpNGh1c18yb0VFWGdIMF95UnF1OUdkNDlLeE5rdzRUSG9YVlo1WGRfVG54NHZYWnk?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 10:44:50 GMT"
     }
   ]
 }
