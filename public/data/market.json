@@ -1,81 +1,30 @@
 {
-  "headline": "Indian markets rise for second day as Nifty tops 23,100; IT and banking stocks lead gains",
+  "headline": "Last session: Nifty ends above 23,100 as Sensex gains 413 points led by IT and metal stocks",
   "marketStatus": {
-    "isClosed": false,
+    "isClosed": true,
     "isMuhuratTrading": false,
-    "message": "Market is open for trading today.",
-    "nextOpen": ""
+    "message": "Market is closed today because it is a weekend. It will reopen on Monday, 19 October.",
+    "nextOpen": "Monday, 19 October"
   },
   "why": [
-    "Strong buying interest in IT majors like Tech Mahindra and TCS",
-    "Robust Q2 earnings from Federal Bank and Punjab National Bank",
-    "RBI intervention supporting the rupee's rise against the US dollar",
-    "Positive sentiment surrounding the Jio Platforms IPO and global investor stakes"
+    "Gains in IT, media, and metal sectors drove the Nifty above the 23,100 mark in the last session",
+    "The market maintained strong momentum following a massive 1,534-point surge on Thursday",
+    "Positive sentiment prevailed ahead of Q2 earnings reports for major technology companies",
+    "Recovery in private banking and auto stocks contributed to the overall market rally"
   ],
   "whatHappening": [
-    "Sensex and Nifty continued their upward trajectory, closing at two-week highs",
-    "Federal Bank achieved a record quarterly profit of ₹1,386 crore",
-    "Yes Bank's CET1 ratio may be impacted by AT-1 bond reinstatement",
-    "Bajaj Housing Finance reported a 25% growth in Assets Under Management"
+    "The Indian government halted sugar diversion for ethanol production due to record-high retail prices",
+    "CERT-In issued a warning regarding AI agents unauthorizedly accessing live systems of Indian companies",
+    "US crude oil prices surged past $100 per barrel following escalations in the Strait of Hormuz",
+    "Urban Company reported a widening net loss of ₹182.48 crore for the second quarter"
   ],
   "stocksInNews": [
     {
-      "symbol": "FEDERALBNK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "PNB",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        2,
-        7,
-        9
-      ]
-    },
-    {
-      "symbol": "YESBANK",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
       "symbol": "TECHM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/7 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        8,
         14
-      ]
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "BAJAJHFL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        9
       ]
     },
     {
@@ -85,39 +34,23 @@
       "articleIds": [
         14
       ]
-    },
-    {
-      "symbol": "INDIGO",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "BSE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        8
-      ]
     }
   ],
-  "summary": "Indian benchmark indices extended their rally for a second day, with Nifty crossing the 23,100 mark led by IT and banking sectors. Federal Bank and PNB reported strong Q2 earnings, while the rupee strengthened against the dollar. However, Yes Bank faced headwinds due to bond reinstatement concerns and Urban Company reported widening losses.",
-  "updatedAt": "2026-10-16T12:31:43.287Z",
+  "summary": "On the last trading day, Indian markets extended their rally with the Nifty closing above 23,100 and the Sensex gaining 413 points. The surge was primarily driven by the IT, media, and metal sectors, building on the momentum of Thursday's 1,534-point jump. Key developments included a government ban on sugar-to-ethanol diversion and a CERT-In security alert regarding AI agents.",
+  "updatedAt": "2026-10-16T19:32:00.721Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-10-16",
+  "dateChecked": "2026-10-17",
   "articleKeys": [
-    "federal bank q2 profit jumps 45 to record 1386 crore",
-    "rupee rises 7 paise to close at 9492 against us dollar on rbi intervention",
-    "punjab national bank q2 results net profit rises 13 to 5532 crore",
-    "yes bank at1 bond reinstatement may hit cet1 ratio by 250 basis points",
-    "stock markets end higher for second day led by strong buying in it firms",
-    "jio platforms ipo meta google other global investors see their stake more than double in value",
-    "urban company q2 results loss widens to rs 182 crore revenue jumps 41 yoy",
-    "pnb q2 results net profit rises 13 to rs 5582 crore nii up 11 asset quality improves",
-    "market wrap tech mahindra tcs interglobe bse top gainers and losers on nifty and sensex on friday",
-    "q2 results live urban company net loss more than doubles pnb profit nii jumps 11 bajaj housing aum grows 25",
+    "urban company q2 net loss widens to 18248 crore revenue up 414",
+    "katie zacharia is out after 5 days as white house press secretary",
+    "us crude oil tops 100 as iran escalates hormuz attacks wti up 9 this week",
+    "mastercard citigroup in focus as us presses china on market access report",
+    "chip selloff deepens wall street losses as doubts grew over ai returns",
+    "govt halts sugar diversion for ethanol in 202627 as retail prices hit record high",
+    "ranbir kapoor wins hearts with kannada speech at ramayanas international trailer launch",
+    "ai agents broke into indian companies live systems without permission certin warns",
+    "certin alert on ai agents an early warning no major financial loss",
+    "china says ready to address each others concerns after sitharaman flags trade barriers",
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
@@ -131,64 +64,64 @@
   ],
   "articles": [
     {
-      "title": "Federal Bank Q2 profit jumps 45% to record ₹1,386 crore",
+      "title": "Urban Company Q2 net loss widens to ₹182.48 crore; revenue up 41.4%",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/federal-bank-q2-profit-jumps-45-to-record-1386-crore/article71592134.ece",
-      "publishedAt": "Fri, 16 Oct 2026 17:00:40 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/urban-company-q2-net-loss-widens-to-182-48-crore-revenue-up-41-4-126101600949_1.html",
+      "publishedAt": "Fri, 16 Oct 2026 23:54:27 +0530"
     },
     {
-      "title": "Rupee rises 7 paise to close at 94.92 against U.S. dollar on RBI intervention",
+      "title": "Katie Zacharia is out after 5 days as White House Press Secretary",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9492-against-us-dollar-on-rbi-intervention/article71592196.ece",
-      "publishedAt": "Fri, 16 Oct 2026 16:54:59 +0530"
+      "link": "https://www.business-standard.com/world-news/katie-zacharia-is-out-after-5-days-as-white-house-press-secretary-126101601556_1.html",
+      "publishedAt": "Fri, 16 Oct 2026 23:49:44 +0530"
     },
     {
-      "title": "Punjab National Bank Q2 results: Net profit rises 13% to ₹5,532 crore",
+      "title": "US Crude Oil Tops $100 As Iran Escalates Hormuz Attacks, WTI Up 9% This Week",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/banking/punjab-national-bank-q2-results-net-profit-rises-13-to-5-532-crore-126101600854_1.html",
-      "publishedAt": "Fri, 16 Oct 2026 16:48:01 +0530"
+      "link": "https://www.ndtvprofit.com/markets/us-crude-oil-tops-100-as-iran-escalates-hormuz-attacks-wti-up-9-this-week-12196970#publisher=newsstand",
+      "publishedAt": "Fri, 16 Oct 2026 23:36:44 +0530"
     },
     {
-      "title": "Yes Bank AT-1 bond reinstatement may hit CET1 ratio by 250 basis points",
+      "title": "Mastercard, Citigroup In Focus As US Presses China On Market Access: Report",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/yes-bank-at1-bond-reinstatement-may-hit-cet1-ratio-by-250-bps-126101600516_1.html",
-      "publishedAt": "Fri, 16 Oct 2026 16:44:01 +0530"
+      "link": "https://www.ndtvprofit.com/world/mastercard-citigroup-in-focus-as-us-presses-china-on-market-access-report-12196751#publisher=newsstand",
+      "publishedAt": "Fri, 16 Oct 2026 23:33:21 +0530"
     },
     {
-      "title": "Stock markets end higher for second day, led by strong buying in IT firms",
+      "title": "Chip selloff deepens Wall Street losses as doubts grew over AI returns",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/stock-markets-end-higher-for-second-day-led-by-strong-buying-in-it-firms/article71592103.ece",
-      "publishedAt": "Fri, 16 Oct 2026 16:41:52 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chip-selloff-deepens-wall-street-losses-as-doubts-grew-over-ai-returns/articleshow/135001236.cms",
+      "publishedAt": "Fri, 16 Oct 2026 23:29:09 +0530"
     },
     {
-      "title": "Jio Platforms IPO: Meta, Google, Other Global Investors See Their Stake More Than Double in Value",
+      "title": "Govt Halts Sugar Diversion For Ethanol In 2026-27 As Retail Prices Hit Record High",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/jio-ipo-how-much-meta-google-kkr-and-other-early-investors-stand-to-gain-at-rs-1-119-per-share-12194338#publisher=newsstand",
-      "publishedAt": "Fri, 16 Oct 2026 16:40:36 +0530"
+      "link": "https://www.ndtvprofit.com/economy/govt-halts-sugar-diversion-for-ethanol-in-2026-27-as-retail-prices-hit-record-high-12196922#publisher=newsstand",
+      "publishedAt": "Fri, 16 Oct 2026 23:26:39 +0530"
     },
     {
-      "title": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
+      "title": "Ranbir Kapoor Wins Hearts With Kannada Speech At Ramayana's International Trailer Launch",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q2-results-loss-widens-to-rs-182-crore-revenue-rises-41/articleshow/134992492.cms",
-      "publishedAt": "Fri, 16 Oct 2026 16:39:43 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/ranbir-kapoor-wins-hearts-with-kannada-speech-at-ramayanas-international-trailer-launch-12193870#publisher=newsstand",
+      "publishedAt": "Fri, 16 Oct 2026 23:23:38 +0530"
     },
     {
-      "title": "PNB Q2 Results: Net Profit Rises 13% To Rs 5,582 Crore, NII Up 11%; Asset Quality Improves",
+      "title": "AI Agents Broke Into Indian Companies' Live Systems Without Permission, CERT-In Warns",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/punjab-national-bank-pnb-q2-results-net-profit-rises-13-to-rs-5-582-crore-nii-up-11-asset-quality-improves-12194878#publisher=newsstand",
-      "publishedAt": "Fri, 16 Oct 2026 16:39:03 +0530"
+      "link": "https://www.ndtvprofit.com/technology/ai-agents-broke-into-indian-companies-live-systems-without-permission-cert-in-warns-12196729#publisher=newsstand",
+      "publishedAt": "Fri, 16 Oct 2026 23:17:18 +0530"
     },
     {
-      "title": "Market wrap: Tech Mahindra, TCS, InterGlobe, BSE top gainers and losers on Nifty and Sensex on Friday",
+      "title": "'Cert-In alert on AI agents an early warning, no major financial loss'",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tech-mahindra-tcs-interglobe-bse-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134992216.cms",
-      "publishedAt": "Fri, 16 Oct 2026 16:34:23 +0530"
+      "link": "https://www.business-standard.com/technology/artificial-intelligence/cert-in-alert-on-ai-agents-an-early-warning-no-major-financial-loss-126101601525_1.html",
+      "publishedAt": "Fri, 16 Oct 2026 23:07:13 +0530"
     },
     {
-      "title": "Q2 Results Live: Urban Company Net Loss More Than Doubles; PNB Profit NII Jumps 11%, Bajaj Housing AUM Grows 25%",
+      "title": "China Says Ready To Address Each Other's Concerns After Sitharaman Flags Trade Barriers",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-fy27-results-live-updates-dlf-punjab-national-bank-bajaj-housing-finance-federal-bank-ltm-oberoi-realty-to-announce-earnings-12193208#publisher=newsstand",
-      "publishedAt": "Fri, 16 Oct 2026 16:34:23 +0530"
+      "link": "https://www.ndtvprofit.com/economy/china-says-ready-to-address-each-others-concerns-after-sitharaman-flags-trade-barriers-12196871#publisher=newsstand",
+      "publishedAt": "Fri, 16 Oct 2026 23:05:24 +0530"
     },
     {
       "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
@@ -217,7 +150,7 @@
     {
       "title": "Stock Market Highlights: Sensex Ends 1,534 Points Higher, Nifty 50 At 22,997 Amid Weekly Expiry; Tech Mahindra, Wipro Gain Ahead Of Q2 - NDTV Profit",
       "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV002NDJqRUcwQ29jVXh5enl3b0ppUE02aUJJVl9rcWJvYTBQeVVyVXJHaTdReG1WS0J3NVUwNGtfcklqZElYbEFfSDBhN3AwVTZnTHVYSFdBTUZSZHpaMmJ4MTJnLVluQ3NFOEo4R3h0VGtuakJ6dzdPV1M1UlZuRURvMEYzb2ZwX0xUMzBxcjRuYUJ4cDRiUWppSEpMVUltdEJxdk9vMW0zdDZJWm9MZDNrcVFzc0x4TC1vSVNRQ19SX3VzZThVWXpERWFoZ1p0RTQzek56S0NiVzJxM29XUWd3dzlPaDFiWmlXclg0NEF5SnZwREJwNjQ1eGpUWTQz0gGIAkFVX3lxTE5WUldNX3haeUNQOGUySzA5eTl6Zkh5M2VSamtVcTRqXy05anppcHZsTE1jcjNHSHU5ODRXS09sY0dLYXdBU2NPSWZ3akRBemxpZkdFcU41bEdOUVlfbk5QZElsdGQxLUstWDVkeklaWnZKenc1dzhPeUZZX3NIb0lmQXZ4a3d1MHdTMnhRck1kZzhZRjJ6VEIxdmI5MFIyVG9OVlFZUlBrd0p6eXFjbkk3NnZJdG9hbHNOaUtlbmZqWmhUZUFNWGg0VGk3NVZmaktuRkRCODlRQWlSekdCQUVTRGhmUm5YZXdQVnhncmNGLW9XbDZOXzBRRHRyZEJZV2FnZExBdGcxNw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV002NDJqRUcwQ29jVXh5enl3b0ppUE02aUJJVl9rcWJvYTBQeVVyVXJHaTdReG1WS0J3NVUwNGtfcklqZElYbEFfSDBhN3AwVTZnTHVYSFdBTUZSZHpaMmJ4MTJnLVluQ3NFOEo4R3h0VGtuakJ6dzdPV1M1UlZuRURvMEYzb2ZwX0xUMzBxcjRuYUJ4cDRiUWppSEpMVUltdEJxdk9vMW0zdDZJWm9MZDNrcVFzc0x4TC1vSVNRQ19SX3VzZThVWXpERWFoZ1p0RTQzek56S0NiVzJxM29XUWd3dzlPaDFiWmlXclg0NEF5SnZwREJwNjQ1eGpUWTQz?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 17:52:11 GMT"
     },
     {
