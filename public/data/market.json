@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty rise for second day as IT index zooms 4% and Ujjivan SFB profit triples",
+  "headline": "Indian markets rise for second day as Nifty tops 23,100; IT and banking stocks lead gains",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,55 @@
     "nextOpen": ""
   },
   "why": [
-    "The IT index surged 4%, providing a major boost to the benchmark indices during the session.",
-    "Ujjivan Small Finance Bank reported stellar Q2 results with net profit tripling and NII jumping 35%.",
-    "Positive global cues, with European shares heading for their best week since August on earnings optimism.",
-    "Continued bullish momentum following the previous session's massive 1,534-point Sensex rally."
+    "Strong buying interest in IT majors like Tech Mahindra and TCS",
+    "Robust Q2 earnings from Federal Bank and Punjab National Bank",
+    "RBI intervention supporting the rupee's rise against the US dollar",
+    "Positive sentiment surrounding the Jio Platforms IPO and global investor stakes"
   ],
   "whatHappening": [
-    "Nifty 50 closed above the 23,100 level, while the Sensex gained 414 points to settle at 23,146.",
-    "Laurus Labs is pivoting towards its CDMO business, which analysts see as a key growth driver with 24% upside.",
-    "Yes Bank is under scrutiny ahead of its Q2 results and developments regarding the AT-1 bond saga.",
-    "The market is searching for stability amid an AI rout while the rupee shows signs of rebounding."
+    "Sensex and Nifty continued their upward trajectory, closing at two-week highs",
+    "Federal Bank achieved a record quarterly profit of ₹1,386 crore",
+    "Yes Bank's CET1 ratio may be impacted by AT-1 bond reinstatement",
+    "Bajaj Housing Finance reported a 25% growth in Assets Under Management"
   ],
   "stocksInNews": [
     {
-      "symbol": "UJJIVANSFB",
+      "symbol": "FEDERALBNK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "PNB",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2,
+        7,
+        9
+      ]
+    },
+    {
+      "symbol": "YESBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/7 sources",
+      "articleIds": [
+        8,
+        14
+      ]
+    },
+    {
+      "symbol": "TCS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
@@ -28,27 +63,19 @@
       ]
     },
     {
-      "symbol": "LAURUSLABS",
+      "symbol": "RELIANCE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        4
+        5
       ]
     },
     {
-      "symbol": "YESBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "TECHM",
+      "symbol": "BAJAJHFL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        14
+        9
       ]
     },
     {
@@ -58,94 +85,110 @@
       "articleIds": [
         14
       ]
+    },
+    {
+      "symbol": "INDIGO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "BSE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        8
+      ]
     }
   ],
-  "summary": "Indian markets extended their rally for a second consecutive day, with the Nifty closing above 23,100 led by a 4% jump in IT stocks. Ujjivan SFB was a top performer after reporting a three-fold increase in net profit, while Laurus Labs gained on a positive brokerage outlook for its CDMO segment. Investors remain focused on the ongoing Q2 earnings season and global market stability.",
-  "updatedAt": "2026-10-16T11:31:39.041Z",
+  "summary": "Indian benchmark indices extended their rally for a second day, with Nifty crossing the 23,100 mark led by IT and banking sectors. Federal Bank and PNB reported strong Q2 earnings, while the rupee strengthened against the dollar. However, Yes Bank faced headwinds due to bond reinstatement concerns and Urban Company reported widening losses.",
+  "updatedAt": "2026-10-16T12:31:43.287Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-16",
   "articleKeys": [
-    "magicbricks names excardekho executive mayank jain as ceo effective oct 1",
-    "stock market close sensex gains for 2nd day rises 414 pts nifty at 23146 it index zooms 4",
-    "yes bank q2 preview will strong profit nii growth offer relief for investors amid at1 bond saga",
-    "indonesia stocks rupiah tumble as msci weighs market downgrade",
-    "laurus labs shifts gears as cdmo emerges as key growth driver nuvama sees 24 upside",
-    "snabbit operator posts 168 cr loss in fy26 revenue rises to 1225 cr",
-    "global market european shares set for biggest weekly gain since august on earnings optimism",
-    "stock market live updates sensex rises 360 points nifty atop 23100 cas underway",
-    "ujjivan sfb q2 results net profit triples nii jumps 35",
-    "talking points this week ai rout rupee rebound and the search for market stability",
+    "federal bank q2 profit jumps 45 to record 1386 crore",
+    "rupee rises 7 paise to close at 9492 against us dollar on rbi intervention",
+    "punjab national bank q2 results net profit rises 13 to 5532 crore",
+    "yes bank at1 bond reinstatement may hit cet1 ratio by 250 basis points",
+    "stock markets end higher for second day led by strong buying in it firms",
+    "jio platforms ipo meta google other global investors see their stake more than double in value",
+    "urban company q2 results loss widens to rs 182 crore revenue jumps 41 yoy",
+    "pnb q2 results net profit rises 13 to rs 5582 crore nii up 11 asset quality improves",
+    "market wrap tech mahindra tcs interglobe bse top gainers and losers on nifty and sensex on friday",
+    "q2 results live urban company net loss more than doubles pnb profit nii jumps 11 bajaj housing aum grows 25",
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
-    "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
+    "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
     "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market highlights sensex ends 1534 points higher nifty 50 at 22997 amid weekly expiry tech mahindra wipro gain ahead of q2 ndtv profit",
     "bull charge on dstreet sensex nifty close at 2week highs after stunning rally financial express",
-    "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
+    "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
     "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
     "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline"
   ],
   "articles": [
     {
-      "title": "Magicbricks names ex-CarDekho executive Mayank Jain as CEO, effective Oct 1",
+      "title": "Federal Bank Q2 profit jumps 45% to record ₹1,386 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/magicbricks-names-ex-cardekho-executive-mayank-jain-as-ceo-effective-oct-1-126101600697_1.html",
-      "publishedAt": "Fri, 16 Oct 2026 15:36:27 +0530"
+      "link": "https://www.thehindu.com/business/federal-bank-q2-profit-jumps-45-to-record-1386-crore/article71592134.ece",
+      "publishedAt": "Fri, 16 Oct 2026 17:00:40 +0530"
     },
     {
-      "title": "Stock Market Close: Sensex gains for 2nd day, rises 414 pts, Nifty at 23,146; IT index zooms 4%",
+      "title": "Rupee rises 7 paise to close at 94.92 against U.S. dollar on RBI intervention",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-16-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126101600083_1.html",
-      "publishedAt": "Fri, 16 Oct 2026 15:34:33 +0530"
+      "link": "https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9492-against-us-dollar-on-rbi-intervention/article71592196.ece",
+      "publishedAt": "Fri, 16 Oct 2026 16:54:59 +0530"
     },
     {
-      "title": "Yes Bank Q2 preview: Will strong profit, NII growth offer relief for investors amid AT-1 bond saga?",
+      "title": "Punjab National Bank Q2 results: Net profit rises 13% to ₹5,532 crore",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q2-preview-will-strong-profit-nii-growth-offer-relief-for-investors-amid-at-1-bond-saga/articleshow/134990515.cms",
-      "publishedAt": "Fri, 16 Oct 2026 15:28:59 +0530"
+      "link": "https://www.business-standard.com/industry/banking/punjab-national-bank-q2-results-net-profit-rises-13-to-5-532-crore-126101600854_1.html",
+      "publishedAt": "Fri, 16 Oct 2026 16:48:01 +0530"
     },
     {
-      "title": "Indonesia stocks, rupiah tumble as MSCI weighs market downgrade",
+      "title": "Yes Bank AT-1 bond reinstatement may hit CET1 ratio by 250 basis points",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/indonesia-stocks-rupiah-tumble-as-msci-weighs-market-downgrade/articleshow/134990424.cms",
-      "publishedAt": "Fri, 16 Oct 2026 15:25:49 +0530"
+      "link": "https://www.business-standard.com/companies/news/yes-bank-at1-bond-reinstatement-may-hit-cet1-ratio-by-250-bps-126101600516_1.html",
+      "publishedAt": "Fri, 16 Oct 2026 16:44:01 +0530"
     },
     {
-      "title": "Laurus Labs shifts gears as CDMO emerges as key growth driver; Nuvama sees 24% upside",
+      "title": "Stock markets end higher for second day, led by strong buying in IT firms",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/laurus-labs-shifts-gears-as-cdmo-emerges-as-key-growth-driver-nuvama-sees-24-upside/articleshow/134990332.cms",
-      "publishedAt": "Fri, 16 Oct 2026 15:22:43 +0530"
+      "link": "https://www.thehindu.com/business/stock-markets-end-higher-for-second-day-led-by-strong-buying-in-it-firms/article71592103.ece",
+      "publishedAt": "Fri, 16 Oct 2026 16:41:52 +0530"
     },
     {
-      "title": "Snabbit operator posts ₹168 cr loss in FY26; revenue rises to ₹12.25 cr",
+      "title": "Jio Platforms IPO: Meta, Google, Other Global Investors See Their Stake More Than Double in Value",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/snabbit-operator-posts-168-cr-loss-in-fy26-revenue-rises-to-12-25-cr-126101600679_1.html",
-      "publishedAt": "Fri, 16 Oct 2026 15:20:46 +0530"
+      "link": "https://www.ndtvprofit.com/markets/jio-ipo-how-much-meta-google-kkr-and-other-early-investors-stand-to-gain-at-rs-1-119-per-share-12194338#publisher=newsstand",
+      "publishedAt": "Fri, 16 Oct 2026 16:40:36 +0530"
     },
     {
-      "title": "Global Market: European shares set for biggest weekly gain since August on earnings optimism",
+      "title": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-set-for-biggest-weekly-gain-since-august-on-earnings-optimism/articleshow/134990268.cms",
-      "publishedAt": "Fri, 16 Oct 2026 15:19:40 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q2-results-loss-widens-to-rs-182-crore-revenue-rises-41/articleshow/134992492.cms",
+      "publishedAt": "Fri, 16 Oct 2026 16:39:43 +0530"
     },
     {
-      "title": "Stock Market Live Updates: Sensex Rises 360 Points, Nifty Atop 23,100; CAS Underway",
+      "title": "PNB Q2 Results: Net Profit Rises 13% To Rs 5,582 Crore, NII Up 11%; Asset Quality Improves",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-markets-sensex-nifty50-gift-nifty-live-updates-today-october-16-2026-oil-prices-q2-earnings-fiis-cas-12192685#publisher=newsstand",
-      "publishedAt": "Fri, 16 Oct 2026 15:17:35 +0530"
+      "link": "https://www.ndtvprofit.com/markets/punjab-national-bank-pnb-q2-results-net-profit-rises-13-to-rs-5-582-crore-nii-up-11-asset-quality-improves-12194878#publisher=newsstand",
+      "publishedAt": "Fri, 16 Oct 2026 16:39:03 +0530"
     },
     {
-      "title": "Ujjivan SFB Q2 Results: Net Profit Triples, NII Jumps 35%",
+      "title": "Market wrap: Tech Mahindra, TCS, InterGlobe, BSE top gainers and losers on Nifty and Sensex on Friday",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/ujjivan-sfb-q2-results-net-profit-triples-nii-jumps-35-12194259#publisher=newsstand",
-      "publishedAt": "Fri, 16 Oct 2026 15:16:02 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tech-mahindra-tcs-interglobe-bse-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134992216.cms",
+      "publishedAt": "Fri, 16 Oct 2026 16:34:23 +0530"
     },
     {
-      "title": "Talking Points This Week: AI Rout, Rupee Rebound And The Search For Market Stability",
+      "title": "Q2 Results Live: Urban Company Net Loss More Than Doubles; PNB Profit NII Jumps 11%, Bajaj Housing AUM Grows 25%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/opinion-talking-points-this-week-ai-rout-rupee-rebound-and-the-search-for-market-stability-12194428#publisher=newsstand",
-      "publishedAt": "Fri, 16 Oct 2026 15:08:36 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2-fy27-results-live-updates-dlf-punjab-national-bank-bajaj-housing-finance-federal-bank-ltm-oberoi-realty-to-announce-earnings-12193208#publisher=newsstand",
+      "publishedAt": "Fri, 16 Oct 2026 16:34:23 +0530"
     },
     {
       "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
@@ -154,10 +197,10 @@
       "publishedAt": "Thu, 15 Oct 2026 10:18:14 GMT"
     },
     {
-      "title": "Closing Bell: Nifty at 23,000, Sensex zooms 1,534 pts; IT, auto, private banks shine - Moneycontrol.com",
+      "title": "Closing Bell: Nifty above 23,100, Sensex gains 413 pts led by IT, media and metal stocks - Moneycontrol.com",
       "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYVRKNUxJMGVpblhHNy1JUTBBMUlmUTV4ZnhfUDhqWjZLQ0ZQeTFVX2dOWE9ibmF1OFUxMVRLUVVueXgwdkZSWTAzUVBVQTd5TDMxSVNOZVJRLXRVdzdRUWM4eURfS0lSRHpUWWVjVmhiMVp1Uzl5a1B2VmJPaHRNc0g1LXhXZjAyX0p0a0FjaGppMzdnNExta0VOWHhvX0RlRUlYMDNIMVlHUy03dFIxNkJHWnRwM3htNXp5bDhXN19GWDdZQi1wWS13UGlFNG92OFdXa0xzVFNQRUlFcVB3YXAyUWY2dThiWVM3UC1ZOUQxY3kybGEydzA3Z29xb0tPWmozMmdhNmFiTGdOSXNKRWVESHo2aXVGU200MWxZVFJHR0XSAagCQVVfeXFMTm9xMzV4c3RONGUtY2hUdU9LbjBlWS0zM0ZYYW4zb3RhbnNCMjhnM3pkRXhLTmRsS0hoc1M0LTFvazNtODNkd2FLbEpzbk0zR2lRaDBXQmFrY0xzLXpTM2VIZzhLeGxTS0wzb25TdWxGZHFTTERTejRMbC1oS0I4UEp3V2QxLUI3eUFUbUNvUEdHcDEyVk5leXJKdG1ORE5fQW5BczVIaGw5Rnk2STFQQWVyV3dnYUd2MUZuM2dCVzVlc25FZXdaS25oUVVILTlHczJJOTV2b0pnWWZ1NG1rUVVnbzFkY3cza3BlX3BiaUZIdzV5Xy1BYjA5X3cxT2FjNTZYZmVVV2Rta0Q1TTFmUE8zZHpIQVRKMkhTNU0tOTlORll5c2JUNUw?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 10:46:52 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1RaUEd4ZUh3T1J5Mko5WklaS3gxYlI3eldzd2ZjZHJjNUkxTG45VEZhTDluWUZpMXdRU3VLOE9zQjc0ZHR4X0FLUmVNV252Q1JXNTN6VDZFNlVoczhhQ1ZqTjItMndJd0oyYm14a0pHSWpkRG9HZnZoWTM2ZmRHSTE3bTlzOE9qeExoNzk5NUxTNkZROVB5QVRGVGhGaC1MNi1kZDZCLWNKekU2Mk52cWJhcFQ1U3VienQzVFlTZVo5YzhmeDJ1VjRlVGJwc05oTGk4TXlmbUM2RWRIaUZhZVRNTzNteGZIUkRlMk41YjF2UXNodWttRWlYRHo1TmJoOVlzNWU2V2ItZHFnbHVqS2dWQm5vRUNwY0JneHlpQ05RS3fSAagCQVVfeXFMTVdoY0ZLYl9fN0RUekVyM1JIVm1kSng4aFBWMzFKcmlOOF8zT2JqWVBOMG1aVWFiZjhlRlRnbVNoYW5rVS0wYmlrUUpYVEdZWXRnRDlERTJXbUN5VUtGRmhrc1NwWjNoWUVRV1M5UnpFaUtPOGJfV01fZ2VpRGZtcDZwR0Y2RjFMYXl4eGJLUkJTVTdmTFdLRFRDM2swa1Vyc1dUX1RaVHFmWEM2TWFmYVo3T0xFWXNiZTQzTm9zSF9RN19DbDVhR2dxaXIxWEdEX25hYUtFdGRKMlNqRU5GbmFZQi14MmJYUHZYZ0JJbm5SNmxxSkYtOGljSDdseld5ZlJBYkpFRW1kU3drMnk4UnpRX0VmM3lvUHFnWmcwdHN2ZFVyc2pvaGQ?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 10:35:24 GMT"
     },
     {
       "title": "Stock Market Today Live, Oct 15: Sensex jumps over 1,500 points, Nifty nears 23,000; rupee extends gains - BusinessLine",
@@ -184,10 +227,10 @@
       "publishedAt": "Thu, 15 Oct 2026 10:17:57 GMT"
     },
     {
-      "title": "Closing Bell: Nifty above 23,100, Sensex gains 413 pts led by IT, media and metal stocks - Moneycontrol.com",
+      "title": "Closing Bell: Nifty at 23,000, Sensex zooms 1,534 pts; IT, auto, private banks shine - Moneycontrol.com",
       "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1RaUEd4ZUh3T1J5Mko5WklaS3gxYlI3eldzd2ZjZHJjNUkxTG45VEZhTDluWUZpMXdRU3VLOE9zQjc0ZHR4X0FLUmVNV252Q1JXNTN6VDZFNlVoczhhQ1ZqTjItMndJd0oyYm14a0pHSWpkRG9HZnZoWTM2ZmRHSTE3bTlzOE9qeExoNzk5NUxTNkZROVB5QVRGVGhGaC1MNi1kZDZCLWNKekU2Mk52cWJhcFQ1U3VienQzVFlTZVo5YzhmeDJ1VjRlVGJwc05oTGk4TXlmbUM2RWRIaUZhZVRNTzNteGZIUkRlMk41YjF2UXNodWttRWlYRHo1TmJoOVlzNWU2V2ItZHFnbHVqS2dWQm5vRUNwY0JneHlpQ05RS3fSAagCQVVfeXFMTVdoY0ZLYl9fN0RUekVyM1JIVm1kSng4aFBWMzFKcmlOOF8zT2JqWVBOMG1aVWFiZjhlRlRnbVNoYW5rVS0wYmlrUUpYVEdZWXRnRDlERTJXbUN5VUtGRmhrc1NwWjNoWUVRV1M5UnpFaUtPOGJfV01fZ2VpRGZtcDZwR0Y2RjFMYXl4eGJLUkJTVTdmTFdLRFRDM2swa1Vyc1dUX1RaVHFmWEM2TWFmYVo3T0xFWXNiZTQzTm9zSF9RN19DbDVhR2dxaXIxWEdEX25hYUtFdGRKMlNqRU5GbmFZQi14MmJYUHZYZ0JJbm5SNmxxSkYtOGljSDdseld5ZlJBYkpFRW1kU3drMnk4UnpRX0VmM3lvUHFnWmcwdHN2ZFVyc2pvaGQ?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 10:35:24 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYVRKNUxJMGVpblhHNy1JUTBBMUlmUTV4ZnhfUDhqWjZLQ0ZQeTFVX2dOWE9ibmF1OFUxMVRLUVVueXgwdkZSWTAzUVBVQTd5TDMxSVNOZVJRLXRVdzdRUWM4eURfS0lSRHpUWWVjVmhiMVp1Uzl5a1B2VmJPaHRNc0g1LXhXZjAyX0p0a0FjaGppMzdnNExta0VOWHhvX0RlRUlYMDNIMVlHUy03dFIxNkJHWnRwM3htNXp5bDhXN19GWDdZQi1wWS13UGlFNG92OFdXa0xzVFNQRUlFcVB3YXAyUWY2dThiWVM3UC1ZOUQxY3kybGEydzA3Z29xb0tPWmozMmdhNmFiTGdOSXNKRWVESHo2aXVGU200MWxZVFJHR0XSAagCQVVfeXFMTm9xMzV4c3RONGUtY2hUdU9LbjBlWS0zM0ZYYW4zb3RhbnNCMjhnM3pkRXhLTmRsS0hoc1M0LTFvazNtODNkd2FLbEpzbk0zR2lRaDBXQmFrY0xzLXpTM2VIZzhLeGxTS0wzb25TdWxGZHFTTERTejRMbC1oS0I4UEp3V2QxLUI3eUFUbUNvUEdHcDEyVk5leXJKdG1ORE5fQW5BczVIaGw5Rnk2STFQQWVyV3dnYUd2MUZuM2dCVzVlc25FZXdaS25oUVVILTlHczJJOTV2b0pnWWZ1NG1rUVVnbzFkY3cza3BlX3BiaUZIdzV5Xy1BYjA5X3cxT2FjNTZYZmVVV2Rta0Q1TTFmUE8zZHpIQVRKMkhTNU0tOTlORll5c2JUNUw?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 10:46:52 GMT"
     },
     {
       "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
