@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex rises 414 points and Nifty closes above 23,100 led by IT sector gains",
+  "headline": "Last session: Sensex gained 413 points to close above 23,100 led by IT, media, and metal stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,20 +7,53 @@
     "nextOpen": "Monday, 19 October 2026"
   },
   "why": [
-    "IT stocks led the rally on Friday, driving Indian equity indices higher for a second consecutive session.",
-    "Sensex gained over 400 points while Nifty comfortably settled above the 23,100 mark in the previous session.",
-    "The Indian government halted sugar diversion for ethanol for 2026-27 as retail sugar prices touched record highs.",
-    "Global market sentiment faced headwinds as US crude oil crossed $100 per barrel amid escalating Middle East tensions."
+    "Strong performance in IT, media, and metal sectors during the last trading session",
+    "Bullish momentum carried over from a massive 1,534-point surge on Thursday",
+    "Gains in Tech Mahindra and Wipro ahead of their Q2 earnings announcements",
+    "Positive sentiment in private banks and auto stocks earlier in the week"
   ],
   "whatHappening": [
-    "Indian stock markets closed on a positive note on Friday, October 16, with IT stocks leading the overall gains.",
-    "Urban Company reported its Q2 financial results, with net loss widening to ₹182.48 crore despite a 41.4% increase in revenue.",
-    "US Wall Street indices closed down sharply on Friday due to a chip sell-off, AI growth doubts, and surging oil prices.",
-    "Indian equity markets are closed today, October 17, for the weekend and will resume trading on Monday, October 19."
+    "Nifty 50 finished the last session above the 23,100 mark following a steady rally",
+    "The Indian government has halted sugar diversion for ethanol production due to record-high retail prices",
+    "US markets ended sharply lower on Friday due to worries about AI trade and high oil prices",
+    "Urban Company reported a widened Q2 net loss of ₹182.48 crore despite a 41.4% revenue increase"
   ],
-  "stocksInNews": [],
-  "summary": "On the last trading session, Indian benchmark indices Sensex and Nifty closed higher for a second straight day, boosted by strong gains in IT stocks.\nMeanwhile, global markets faced pressure on Friday as Wall Street dropped and US crude oil prices climbed above $100 per barrel.\nIndian stock markets are closed today for the weekend and will reopen on Monday, 19 October.",
-  "updatedAt": "2026-10-16T21:31:21.046Z",
+  "stocksInNews": [
+    {
+      "symbol": "TECHM",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        13
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        13
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        18
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        18
+      ]
+    }
+  ],
+  "summary": "The Indian stock market ended the last session on a positive note, with the Nifty closing above 23,100 and the Sensex gaining 413 points. This followed a significant mid-week rally driven by IT and private banking sectors. However, global markets face pressure as US stocks fell sharply and crude oil prices topped $100.",
+  "updatedAt": "2026-10-16T21:36:16.182Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-17",
   "articleKeys": [
@@ -34,16 +67,16 @@
     "chip selloff deepens wall street losses as doubts grew over ai returns",
     "govt halts sugar diversion for ethanol in 202627 as retail prices hit record high",
     "ranbir kapoor wins hearts with kannada speech at ramayanas international trailer launch",
-    "indian markets close higher on friday as it stocks lead gains the new indian express",
-    "sensex nifty rise again it stocks lead rally hdfc sky",
+    "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
+    "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
+    "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
+    "stock market highlights sensex ends 1534 points higher nifty 50 at 22997 amid weekly expiry tech mahindra wipro gain ahead of q2 ndtv profit",
     "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today sensex rises 414 points nifty closes above 23100 it stocks lead gains apac media",
-    "sensex nifty extend gains for second day as it stocks rally the new indian express",
-    "sensex rallies 1534 points nifty nears 23000 hdfc sky",
+    "bull charge on dstreet sensex nifty close at 2week highs after stunning rally financial express",
+    "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
-    "indian stock market gains on october 16 as sensex rises 056 and green energy stocks show mixed trends solarquarter",
-    "stock markets trade lower during early session amid profittaking dd india",
-    "sensex jumped 1500 points despite global selloff why markets rose today india today"
+    "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
+    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom"
   ],
   "articles": [
     {
@@ -107,16 +140,28 @@
       "publishedAt": "Fri, 16 Oct 2026 23:23:38 +0530"
     },
     {
-      "title": "Indian markets close higher on Friday as IT stocks lead gains - The New Indian Express",
-      "source": "The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGpjc041Wm82bVlKdUI4SVhQQjRrNVlhRXozM0NSblRsTmoxU0labkhjeFVMYkQ3eE82N2FqOGEwbHN1OFZOd1RaM1Rkek5BLWszS09PTWFkWGVIaGV6UVpnUHhzT1AzLTFuUmxfaUVwY1hubnRpZ3JGZC0xb213NGpOTVhOQkpld0FlQ3laazVkTWlaTlRUYnNjMnpTMkFyZ1FVQ09LcGVIeVNrWnVNTWp4V3FkUdIBwwFBVV95cUxPSEEwRDlBTGJYOHM2SHNoaVE4cWktYjlOUVNYSVBXcWtUM1lsMlNmQ040YzhCZ3ZnTlB4cHhjN3pGbm5sS1QtWmNFQ09lellfbWdjcGhWeU80cl8yRElHUi1ZNXR0T2RRRG4tRlVMYTUzck5YUnJkNWxLeUdlRTFhSFJKUkhwU1A5WFl2MzZNenZKWC1SdHAwWXZZaXF1TUtlOHZYelVrcmtsdFptOHNvcV90SjgzbnE0Zlo1ZVBUbDFpTEE?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 10:44:54 GMT"
+      "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPSjd3cS1xeFFJV1o3cUl5d0drVko0ck5CelB2S20wUWtXV3pRUDJVOUlLWDk3WEktcHVhVDRnUkhHOEgyanp0Zm1CdDNYVzN2OXc2QndfYmN2SXRoQnUwOWJqV1VLQnpIMEJsbl9QUTZ2ZTN4clV1YlM2aDBoYnpaRzd2U01WRlFVSHFreVlITV9qWXg3SFhodncyeGVIOHIzelh5RGlzbXZNTWtTblJ2bmRiX2lfV1lISThJazVNVVF6WkZhNHNPUmVucnNES09FUDVyaUk0UkxrN3NsTWg2THRxMzF3UlNidjhjQ3REYklFeFMzUjhkTXVHMkxiTDdpZXZWS25BcTlNeTRMM3RveG5VRTg3WVgwWlJ2TWhkOFJ2RGpiMnUwLTdkckcxbGRDVUpQT9IBugJBVV95cUxQY2NBSWx0dlpOaU85aGZfaG5maWdGbVZ6ZTlhTnVMcTN5SHgtZGJvS0h1NmlWbWt0UVhRNFFXZ3BiUmdKOG5iNDNral82WlFDZFlQVzF6MFN3SkJDOGFKQlYtTzd6dndUd0EzdFZRS3V5OThWejR1X3FKUzE4WC1uREFjQjN0dkVzUERGclRZX2FaTGxYRXRrNk02MXlPZ0h3Y2VqUkVsSk8tYVlsd1Y0RkFCZUxoZFd4dnZpem5oeHJZRzNBRUgyYXpvakM2UVNpbl94NktSdjdtNnRub0U1YlVZbUVXS0VYX1F4WWV1QVdxeDQ4aDhaN0N0QmNYR1RBaW1JbTRaU21aMi14a2xMZlhJNE9rb0hMcVJsSzRacC04WTJoN3VoeDJqa3FuV29zRmxGSV84VnFhUQ?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 10:18:14 GMT"
     },
     {
-      "title": "Sensex, Nifty Rise Again; IT Stocks Lead Rally - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb0MyR2JybndJRkFyVzhpUGVpT2xnSW5XUjNYNmZveDVDZi1jOXpYbGZZbjU5OW1HRGhmd2xMRXo4cmdUeEN2M1BUMkVWSkk3RUhoTFdVUkJUVzBTVEZIdmFQcTFfazNOR0I4VDAzU2NtTDhwRDk5ZmdtcHR1RDBvTTRUTDhKbDFXVy00QV9ZMFl6c2lkbW9aQjdyWDdCUjRZME9YVVhoaFh6OF9Dd01NNWZwSFV3NllnbFFLSGFxV0hCeWVQOWc?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 10:56:13 GMT"
+      "title": "Closing Bell: Nifty above 23,100, Sensex gains 413 pts led by IT, media and metal stocks - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1RaUEd4ZUh3T1J5Mko5WklaS3gxYlI3eldzd2ZjZHJjNUkxTG45VEZhTDluWUZpMXdRU3VLOE9zQjc0ZHR4X0FLUmVNV252Q1JXNTN6VDZFNlVoczhhQ1ZqTjItMndJd0oyYm14a0pHSWpkRG9HZnZoWTM2ZmRHSTE3bTlzOE9qeExoNzk5NUxTNkZROVB5QVRGVGhGaC1MNi1kZDZCLWNKekU2Mk52cWJhcFQ1U3VienQzVFlTZVo5YzhmeDJ1VjRlVGJwc05oTGk4TXlmbUM2RWRIaUZhZVRNTzNteGZIUkRlMk41YjF2UXNodWttRWlYRHo1TmJoOVlzNWU2V2ItZHFnbHVqS2dWQm5vRUNwY0JneHlpQ05RS3fSAagCQVVfeXFMTVdoY0ZLYl9fN0RUekVyM1JIVm1kSng4aFBWMzFKcmlOOF8zT2JqWVBOMG1aVWFiZjhlRlRnbVNoYW5rVS0wYmlrUUpYVEdZWXRnRDlERTJXbUN5VUtGRmhrc1NwWjNoWUVRV1M5UnpFaUtPOGJfV01fZ2VpRGZtcDZwR0Y2RjFMYXl4eGJLUkJTVTdmTFdLRFRDM2swa1Vyc1dUX1RaVHFmWEM2TWFmYVo3T0xFWXNiZTQzTm9zSF9RN19DbDVhR2dxaXIxWEdEX25hYUtFdGRKMlNqRU5GbmFZQi14MmJYUHZYZ0JJbm5SNmxxSkYtOGljSDdseld5ZlJBYkpFRW1kU3drMnk4UnpRX0VmM3lvUHFnWmcwdHN2ZFVyc2pvaGQ?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 10:35:24 GMT"
+    },
+    {
+      "title": "Stock Market Today Live, Oct 15: Sensex jumps over 1,500 points, Nifty nears 23,000; rupee extends gains - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkJpc2lLT01aRzh3ZTlSeTdmUnZnazF3VW43c1ZzeXpuLUM0ckNVd1A3M0p1MU1Ma1RoOGRPNFNCM3ZlOWRfWlI0T2xvZHl4ZmRicDZsSGF4RzZ0OHRjQzFpdGxzV3RkaVZnSmUyLXI2SWo3Ym9qcmJuNkxtbFJMWTc1SmJ3NWdxUk5SSHRQT0hQTmpRUU1QenJEczRfUFNxMElIZ0doNENNRDNWclUzLWIwekFqMGpzQTlKN29jWHd3OWRhbXfSAcwBQVVfeXFMUHFHRERzWHVCYWpNWnJFMnhIbXdHaTBmNDhHRzRTZl9kdGNjTXBWMTNVY3lqSVVBVVF4RlBpS3NidFlSOEVuclR0U3A0UW5GNjZpUENXbnNhbk9vUHRONFpQaGljQjRhbVZQUmpkcHMyQmUxdVI5RHk2VFI2aE15di14NExsLThyaDBwQThkNy05TUtYcTkzcmNaVDdSTDNSbndUU0U3OTRvc0cxeVRkdE1uMVVQZ3ZJNGhBWkRMYzBsTDdXVG9NcWdoNkhX?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 10:49:21 GMT"
+    },
+    {
+      "title": "Stock Market Highlights: Sensex Ends 1,534 Points Higher, Nifty 50 At 22,997 Amid Weekly Expiry; Tech Mahindra, Wipro Gain Ahead Of Q2 - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV002NDJqRUcwQ29jVXh5enl3b0ppUE02aUJJVl9rcWJvYTBQeVVyVXJHaTdReG1WS0J3NVUwNGtfcklqZElYbEFfSDBhN3AwVTZnTHVYSFdBTUZSZHpaMmJ4MTJnLVluQ3NFOEo4R3h0VGtuakJ6dzdPV1M1UlZuRURvMEYzb2ZwX0xUMzBxcjRuYUJ4cDRiUWppSEpMVUltdEJxdk9vMW0zdDZJWm9MZDNrcVFzc0x4TC1vSVNRQ19SX3VzZThVWXpERWFoZ1p0RTQzek56S0NiVzJxM29XUWd3dzlPaDFiWmlXclg0NEF5SnZwREJwNjQ1eGpUWTQz0gGIAkFVX3lxTE5WUldNX3haeUNQOGUySzA5eTl6Zkh5M2VSamtVcTRqXy05anppcHZsTE1jcjNHSHU5ODRXS09sY0dLYXdBU2NPSWZ3akRBemxpZkdFcU41bEdOUVlfbk5QZElsdGQxLUstWDVkeklaWnZKenc1dzhPeUZZX3NIb0lmQXZ4a3d1MHdTMnhRck1kZzhZRjJ6VEIxdmI5MFIyVG9OVlFZUlBrd0p6eXFjbkk3NnZJdG9hbHNOaUtlbmZqWmhUZUFNWGg0VGk3NVZmaktuRkRCODlRQWlSekdCQUVTRGhmUm5YZXdQVnhncmNGLW9XbDZOXzBRRHRyZEJZV2FnZExBdGcxNw?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 17:52:11 GMT"
     },
     {
       "title": "Stock market outlook today, 16 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -125,22 +170,16 @@
       "publishedAt": "Fri, 16 Oct 2026 01:19:58 GMT"
     },
     {
-      "title": "Stock Market Today: Sensex Rises 414 Points, Nifty Closes Above 23,100; IT Stocks Lead Gains - APAC Media",
-      "source": "APAC Media",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOGdqRkVQd1I1bmlUSGJqM2tpeC1CT1N5a3ptNll5RnJ1OEJuUy1oUlozVk1jbHFndUNsczhfWWpQenloWmhBTVRnZzF0SjNDbnBjQ1JvZTJvenA0ZzdZUEs0X2tzQTVUX2FONHdrbW5ObWJOWTRoVWRlX2VKQXVFSFhmSHozaXc?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 10:38:54 GMT"
+      "title": "Bull charge on D’Street: Sensex, Nifty close at 2-week highs after stunning rally - Financial Express",
+      "source": "Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQkVEbmw0NEprRTk2SjE5MUVmQTVob3VLcjVIQTZ1UDREWVNYYVhTSXY2YWxVOWV4S09Zc3BYNW1SZlVrSzA1bFhfX1N1SG55eEtIT2E0RnRNOE03Q3o4c0dtOFlJRlR3U2NrT0lLejJ3b3dRVUJCN0NvSnk2eXhLbWpWbWZlWE9hTGJHSzlmZi1zdlVPQlBXZW5IdEZ6S2lzNWtPTzJmVG14RUh1cjdRTWFLR004N2duOVVKeF9Qd3ZSejdNOFJ6QUR5eVRNRUFrVzZPMlhHeXNPWXFrSk5Mbkk3b3JsRGxRdmVtZG1SUno?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 10:17:57 GMT"
     },
     {
-      "title": "Sensex, Nifty extend gains for second day as IT stocks rally - The New Indian Express",
-      "source": "The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNekFXb2hzckdSaDgzZ016a0N2cVNUUGJwdUdNd0F3VjBmZnBGbW9lUW52Rk9xM2g1VU5iVVF0QnB5ajB5WEVEVXBqbkRvUllVNXhkUldtMjJXeXBDWlljNHVmMzJsdm5LMEFLWnlLY19nSXJqZi1OeFJjS0VNV2xzWkVEZ25SaWNHa1ZIVmJVNlZaMlJ4UW1lYk1lT05MWTRRUnZCT3JISXE5WVhVeFpUUFJ5Yw?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 11:17:18 GMT"
-    },
-    {
-      "title": "Sensex Rallies 1,534 Points, Nifty Nears 23,000 - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZm9OVkR1OGdhcTl5ZnZTbjhsUldMLTBnbER2QmpLZ0hIUXJ1SWpTSmlHcTRRSDJOYmJnUUVMa3o4a25hX2VpTENtVEVJT1ZUdmJqRUo5T3ZEZkkxYkpZWFRqTkl3QUw2Q1hUblJ0Mm51Ym5RdHlHZzBySHlrNXB3OHN6MWI0UjNhejVQRlBLN254b040b3NPazNMdmNRRE04NGFnM01LcEVFRExnZ3R4U0FkM2F6bXlXUGJ2Q01ONXdZbzZpbGdQVnY4YTNiN3QwQzJhYmFfOWhCN241NUhXSEs5MFJJM1JlTzhQVHYwM3pXSUVaS3ZCMUgzTUVvYzRI?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 11:23:38 GMT"
+      "title": "Closing Bell: Nifty at 23,000, Sensex zooms 1,534 pts; IT, auto, private banks shine - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYVRKNUxJMGVpblhHNy1JUTBBMUlmUTV4ZnhfUDhqWjZLQ0ZQeTFVX2dOWE9ibmF1OFUxMVRLUVVueXgwdkZSWTAzUVBVQTd5TDMxSVNOZVJRLXRVdzdRUWM4eURfS0lSRHpUWWVjVmhiMVp1Uzl5a1B2VmJPaHRNc0g1LXhXZjAyX0p0a0FjaGppMzdnNExta0VOWHhvX0RlRUlYMDNIMVlHUy03dFIxNkJHWnRwM3htNXp5bDhXN19GWDdZQi1wWS13UGlFNG92OFdXa0xzVFNQRUlFcVB3YXAyUWY2dThiWVM3UC1ZOUQxY3kybGEydzA3Z29xb0tPWmozMmdhNmFiTGdOSXNKRWVESHo2aXVGU200MWxZVFJHR0XSAagCQVVfeXFMTm9xMzV4c3RONGUtY2hUdU9LbjBlWS0zM0ZYYW4zb3RhbnNCMjhnM3pkRXhLTmRsS0hoc1M0LTFvazNtODNkd2FLbEpzbk0zR2lRaDBXQmFrY0xzLXpTM2VIZzhLeGxTS0wzb25TdWxGZHFTTERTejRMbC1oS0I4UEp3V2QxLUI3eUFUbUNvUEdHcDEyVk5leXJKdG1ORE5fQW5BczVIaGw5Rnk2STFQQWVyV3dnYUd2MUZuM2dCVzVlc25FZXdaS25oUVVILTlHczJJOTV2b0pnWWZ1NG1rUVVnbzFkY3cza3BlX3BiaUZIdzV5Xy1BYjA5X3cxT2FjNTZYZmVVV2Rta0Q1TTFmUE8zZHpIQVRKMkhTNU0tOTlORll5c2JUNUw?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 10:46:52 GMT"
     },
     {
       "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
@@ -149,22 +188,16 @@
       "publishedAt": "Thu, 15 Oct 2026 04:33:59 GMT"
     },
     {
-      "title": "Indian Stock Market Gains on October 16 as Sensex Rises 0.56% and Green Energy Stocks Show Mixed Trends - SolarQuarter",
-      "source": "SolarQuarter",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWkhwLW8wWTFKdHJFTlJEc09uN09obFhkV1RKdEZfY2I2ZlhVYTdHbFJvOVlNZ2lzQ0pxWWdtejVkbDdETWJINHFDc1FXQnZRakc0ZWowRkV2RmExMWhYRU9zQy1aSjhVQ1RoSHFPMGhkejFrYU1nam9PekQ5R2ZqYXJNNlFJYUt3a3FmTHRLQWZHZnZNMlZtUUlKRGZtTlVramtmWXZnQlRyU3kwZzIwU0h3UnpSNDc1ZmRXd09VcUJPX0RLVmk5eWpfaDB0N2hHZXZxNS1n?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 12:34:29 GMT"
+      "title": "Sensex Today | Nifty 50 | Indian Stock Market Live: Sensex Crashes 173 Points, Nifty Slips Below 22,700 As Banking, Pharma And Auto Stocks Bleed; Infosys, TCS Rally To Cushion Market Fall - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQ3J3NHdzcmpHdzBkeU9oUnIxQjJHOXV3R3NRcTNkVnpiQTVPTTJJVHIzQXN2RHlRSUltODBuR19rT2pyZVV3RVRaTTVBa1J4WHBvNU5pX1NCcld2VkhsYVJVNDVZNWstM1NTQ0FxbXJmVHRjNW9Xa0M3Q2lfSXVYYkJtWnI5czZILWdrTWl2R1doS0FjV21NRVlEdWk5WkNaUEtjQTQwd0s0d1FiNEUwSnlKWFUtTUo0bG1rZmZJY3dpa1U5VHIxazl5V1RsdHlkN250T3lmYmlmZHZ5Yk4zNWJRUG1yVW5UNlBsdmltZE9EY0hRY1Rza3VBcWlQMEozTXo4WkRzVmZ5SWd0dlRGRW44bXVfLUtlUmFGNmVhWHRUS3hRekpHMEhxbGJVZmtyNm5ZZG1ucElLUWRFSEdOT2JqS2k2UG9O0gHOAkFVX3lxTE1iZ1lnU1J1NExhamd0Xzd0bDVudDFSMDkzM0hTRGVVZ3JydDFhN0hYWU5wZ3M0SVQ5TUt3OGVDem5JUEZfVWU1VVRtZHFkUDNIWnd0U1ZTLXVGWnhqTlRFUGhCdmFabi10RUNnRmdScm1PNnBvN2VyeXVIMFhmdWlTZElaYUNtN1NZZDEtSDNDbFZjd0xkbWxqSkM4eVJOVXM5Yk5hdXozcDlRLTZXSlJ0WjBUaXRxYzJtTXNkTUViRHBjVUtKOVZMRkNtMUVsb2lUNmVDN0FvOGFsMFo4WmtCZ0l2dE1IeTB4emZtM0sxa0k4T2pycVVsWGVZSWhUOTVidGRHRWIxeWNXMnVBcXl5dDBxeWo5VEJRTEY2SFg2bnVjaExGaFJFdnZSR19GWFMxNk52d3ZHQXV4eWVpTWhFTV9pYlBxTk1wUlh6LXc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 09:44:44 GMT"
     },
     {
-      "title": "Stock markets trade lower during early session amid profit-taking - DD India",
-      "source": "DD India",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHVQM2RIX1ZUNTBfNUJfbE1mdTJPUExrNHI2OHo4d3EwaUE5QjZuLVRST0hRZ2dRZWdvbjVPcWxQc25JNXVvSGJ0Y0ZiTy1rTGtuZmFod1NpRVo4emRDTTF0QUt3V2hOeVJ5X3dpNmdPQWR1NTF4YnFxdjZ2WXBjUHZEekQtMVBMTTBXWmdFdFR6UW5Ba000dU15N2s?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 05:10:07 GMT"
-    },
-    {
-      "title": "Sensex jumped 1,500 points despite global sell-off: Why markets rose today? - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbm5sZlFwaFZURFlJRExscDg3NmVFTVFBRWlGMXRiblFqX25DQmh0YlJHT2p1S282Ny1YR2JXWXgxaVQ3THNSOUhITTdsbFBaeUpBMEFlQ1JXOHF0LW51ZXBsNW9sckNOYk5EX2xQRkFSVDdpekI5T1pfM3pjd05Hdm9yejJfekNwODVQVnBaSnJBZk1fVzhoQUZXTmozbmd3Q21SSFo0NDBNMXBIcXN2UTlGakt4TjBSM00xeXZSSkxDUFVqc2RuRUdKN2RCR1d1UFFYa19sWV9yX0xMUzFJejBMVGVxR2hzY0I0UVl1UjTSAfYBQVVfeXFMTnpmY05OXzl1a0dYUV9OLVNaa3NlejBIdktNR19rT1A2TFU4TlJxb0dHbzF2Yk1YYjg4QU1HcVNzS3pQN0pSaW5JcEN6QXFBaTdyVmx1M01jLXgtNnZla3pEc1d2WC0yN25pZzZCN0FobWFILWRoRUtONHFHLXBudEZaRzV6WkFJeWxXbmJ2UzY0ejRvRzIwalY1U0h6a3ZDTlEzWUdRejhweENwQ0VCTHFPS2dzVGZIM3ZPQ0lieGlkYnBhU05nQUJFSmh0UGVibDNhZG9Lakc3cEVab09uQ3BVZk9UV2hheTlSakRxSUs5eGctNlZ3?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 05:02:02 GMT"
+      "title": "Closing Bell: Nifty below 22,650, Sensex down 252 pts in volatile trade; IT shines, pharma drags - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
     }
   ]
 }
