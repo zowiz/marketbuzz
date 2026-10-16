@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Nifty ends above 23,100 as Sensex gains 413 points led by IT and metal stocks",
+  "headline": "Last session: Sensex gains 413 points and Nifty closes above 23,100 led by IT and metal stocks",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,22 +7,22 @@
     "nextOpen": "Monday, 19 October"
   },
   "why": [
-    "Gains in IT, media, and metal sectors drove the Nifty above the 23,100 mark in the last session",
-    "The market maintained strong momentum following a massive 1,534-point surge on Thursday",
-    "Positive sentiment prevailed ahead of Q2 earnings reports for major technology companies",
-    "Recovery in private banking and auto stocks contributed to the overall market rally"
+    "On the last trading day (16 Oct), Nifty closed above 23,100 while Sensex gained 413 points led by IT, media, and metal stocks.",
+    "In the previous session on 15 Oct, Sensex surged 1,534 points and Nifty touched 22,997 amid strong rallies in IT, auto, and private banks.",
+    "Tech Mahindra and Wipro recorded gains ahead of their Q2 earnings announcements.",
+    "Infosys and TCS rallied in earlier trading sessions to cushion broader market declines."
   ],
   "whatHappening": [
-    "The Indian government halted sugar diversion for ethanol production due to record-high retail prices",
-    "CERT-In issued a warning regarding AI agents unauthorizedly accessing live systems of Indian companies",
-    "US crude oil prices surged past $100 per barrel following escalations in the Strait of Hormuz",
-    "Urban Company reported a widening net loss of ₹182.48 crore for the second quarter"
+    "Nifty closed above the 23,100 level and Sensex gained 413 points on the last trading day on 16 October.",
+    "US Crude Oil crossed $100 per barrel as WTI gained 9% in the week amid escalation in Hormuz attacks.",
+    "The government halted sugar diversion for ethanol for 2026-27 after retail sugar prices touched record highs.",
+    "CERT-In issued a warning regarding AI agents breaching live systems of Indian companies without authorization."
   ],
   "stocksInNews": [
     {
       "symbol": "TECHM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         14
       ]
@@ -30,17 +30,34 @@
     {
       "symbol": "WIPRO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         14
       ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        18
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        18
+      ]
     }
   ],
-  "summary": "On the last trading day, Indian markets extended their rally with the Nifty closing above 23,100 and the Sensex gaining 413 points. The surge was primarily driven by the IT, media, and metal sectors, building on the momentum of Thursday's 1,534-point jump. Key developments included a government ban on sugar-to-ethanol diversion and a CERT-In security alert regarding AI agents.",
-  "updatedAt": "2026-10-16T19:32:00.721Z",
+  "summary": "On the last trading day, Indian benchmarks ended higher with Nifty crossing 23,100 and Sensex adding 413 points.\nBuying momentum was primarily supported by IT, media, auto, and metal stocks.\nThe stock market is closed today for the weekend and will reopen on Monday, 19 October 2026.",
+  "updatedAt": "2026-10-16T20:31:23.437Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-17",
   "articleKeys": [
+    "big us bank stocks head for longest weekly losing streak since 2008",
     "urban company q2 net loss widens to 18248 crore revenue up 414",
     "katie zacharia is out after 5 days as white house press secretary",
     "us crude oil tops 100 as iran escalates hormuz attacks wti up 9 this week",
@@ -50,7 +67,6 @@
     "ranbir kapoor wins hearts with kannada speech at ramayanas international trailer launch",
     "ai agents broke into indian companies live systems without permission certin warns",
     "certin alert on ai agents an early warning no major financial loss",
-    "china says ready to address each others concerns after sitharaman flags trade barriers",
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
@@ -59,10 +75,16 @@
     "bull charge on dstreet sensex nifty close at 2week highs after stunning rally financial express",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
-    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
-    "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline"
+    "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
+    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Big US bank stocks head for longest weekly losing streak since 2008",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-us-bank-stocks-head-for-longest-weekly-losing-streak-since-2008/articleshow/135002546.cms",
+      "publishedAt": "Sat, 17 Oct 2026 00:24:46 +0530"
+    },
     {
       "title": "Urban Company Q2 net loss widens to ₹182.48 crore; revenue up 41.4%",
       "source": "Zerodha Pulse",
@@ -118,12 +140,6 @@
       "publishedAt": "Fri, 16 Oct 2026 23:07:13 +0530"
     },
     {
-      "title": "China Says Ready To Address Each Other's Concerns After Sitharaman Flags Trade Barriers",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/china-says-ready-to-address-each-others-concerns-after-sitharaman-flags-trade-barriers-12196871#publisher=newsstand",
-      "publishedAt": "Fri, 16 Oct 2026 23:05:24 +0530"
-    },
-    {
       "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPSjd3cS1xeFFJV1o3cUl5d0drVko0ck5CelB2S20wUWtXV3pRUDJVOUlLWDk3WEktcHVhVDRnUkhHOEgyanp0Zm1CdDNYVzN2OXc2QndfYmN2SXRoQnUwOWJqV1VLQnpIMEJsbl9QUTZ2ZTN4clV1YlM2aDBoYnpaRzd2U01WRlFVSHFreVlITV9qWXg3SFhodncyeGVIOHIzelh5RGlzbXZNTWtTblJ2bmRiX2lfV1lISThJazVNVVF6WkZhNHNPUmVucnNES09FUDVyaUk0UkxrN3NsTWg2THRxMzF3UlNidjhjQ3REYklFeFMzUjhkTXVHMkxiTDdpZXZWS25BcTlNeTRMM3RveG5VRTg3WVgwWlJ2TWhkOFJ2RGpiMnUwLTdkckcxbGRDVUpQT9IBugJBVV95cUxQY2NBSWx0dlpOaU85aGZfaG5maWdGbVZ6ZTlhTnVMcTN5SHgtZGJvS0h1NmlWbWt0UVhRNFFXZ3BiUmdKOG5iNDNral82WlFDZFlQVzF6MFN3SkJDOGFKQlYtTzd6dndUd0EzdFZRS3V5OThWejR1X3FKUzE4WC1uREFjQjN0dkVzUERGclRZX2FaTGxYRXRrNk02MXlPZ0h3Y2VqUkVsSk8tYVlsd1Y0RkFCZUxoZFd4dnZpem5oeHJZRzNBRUgyYXpvakM2UVNpbl94NktSdjdtNnRub0U1YlVZbUVXS0VYX1F4WWV1QVdxeDQ4aDhaN0N0QmNYR1RBaW1JbTRaU21aMi14a2xMZlhJNE9rb0hMcVJsSzRacC04WTJoN3VoeDJqa3FuV29zRmxGSV84VnFhUQ?oc=5",
@@ -150,7 +166,7 @@
     {
       "title": "Stock Market Highlights: Sensex Ends 1,534 Points Higher, Nifty 50 At 22,997 Amid Weekly Expiry; Tech Mahindra, Wipro Gain Ahead Of Q2 - NDTV Profit",
       "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV002NDJqRUcwQ29jVXh5enl3b0ppUE02aUJJVl9rcWJvYTBQeVVyVXJHaTdReG1WS0J3NVUwNGtfcklqZElYbEFfSDBhN3AwVTZnTHVYSFdBTUZSZHpaMmJ4MTJnLVluQ3NFOEo4R3h0VGtuakJ6dzdPV1M1UlZuRURvMEYzb2ZwX0xUMzBxcjRuYUJ4cDRiUWppSEpMVUltdEJxdk9vMW0zdDZJWm9MZDNrcVFzc0x4TC1vSVNRQ19SX3VzZThVWXpERWFoZ1p0RTQzek56S0NiVzJxM29XUWd3dzlPaDFiWmlXclg0NEF5SnZwREJwNjQ1eGpUWTQz?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV002NDJqRUcwQ29jVXh5enl3b0ppUE02aUJJVl9rcWJvYTBQeVVyVXJHaTdReG1WS0J3NVUwNGtfcklqZElYbEFfSDBhN3AwVTZnTHVYSFdBTUZSZHpaMmJ4MTJnLVluQ3NFOEo4R3h0VGtuakJ6dzdPV1M1UlZuRURvMEYzb2ZwX0xUMzBxcjRuYUJ4cDRiUWppSEpMVUltdEJxdk9vMW0zdDZJWm9MZDNrcVFzc0x4TC1vSVNRQ19SX3VzZThVWXpERWFoZ1p0RTQzek56S0NiVzJxM29XUWd3dzlPaDFiWmlXclg0NEF5SnZwREJwNjQ1eGpUWTQz0gGIAkFVX3lxTE5WUldNX3haeUNQOGUySzA5eTl6Zkh5M2VSamtVcTRqXy05anppcHZsTE1jcjNHSHU5ODRXS09sY0dLYXdBU2NPSWZ3akRBemxpZkdFcU41bEdOUVlfbk5QZElsdGQxLUstWDVkeklaWnZKenc1dzhPeUZZX3NIb0lmQXZ4a3d1MHdTMnhRck1kZzhZRjJ6VEIxdmI5MFIyVG9OVlFZUlBrd0p6eXFjbkk3NnZJdG9hbHNOaUtlbmZqWmhUZUFNWGg0VGk3NVZmaktuRkRCODlRQWlSekdCQUVTRGhmUm5YZXdQVnhncmNGLW9XbDZOXzBRRHRyZEJZV2FnZExBdGcxNw?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 17:52:11 GMT"
     },
     {
@@ -172,16 +188,16 @@
       "publishedAt": "Thu, 15 Oct 2026 04:33:59 GMT"
     },
     {
+      "title": "Sensex Today | Nifty 50 | Indian Stock Market Live: Sensex Crashes 173 Points, Nifty Slips Below 22,700 As Banking, Pharma And Auto Stocks Bleed; Infosys, TCS Rally To Cushion Market Fall - The Sunday Guardian",
+      "source": "The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQ3J3NHdzcmpHdzBkeU9oUnIxQjJHOXV3R3NRcTNkVnpiQTVPTTJJVHIzQXN2RHlRSUltODBuR19rT2pyZVV3RVRaTTVBa1J4WHBvNU5pX1NCcld2VkhsYVJVNDVZNWstM1NTQ0FxbXJmVHRjNW9Xa0M3Q2lfSXVYYkJtWnI5czZILWdrTWl2R1doS0FjV21NRVlEdWk5WkNaUEtjQTQwd0s0d1FiNEUwSnlKWFUtTUo0bG1rZmZJY3dpa1U5VHIxazl5V1RsdHlkN250T3lmYmlmZHZ5Yk4zNWJRUG1yVW5UNlBsdmltZE9EY0hRY1Rza3VBcWlQMEozTXo4WkRzVmZ5SWd0dlRGRW44bXVfLUtlUmFGNmVhWHRUS3hRekpHMEhxbGJVZmtyNm5ZZG1ucElLUWRFSEdOT2JqS2k2UG9O0gHOAkFVX3lxTE1iZ1lnU1J1NExhamd0Xzd0bDVudDFSMDkzM0hTRGVVZ3JydDFhN0hYWU5wZ3M0SVQ5TUt3OGVDem5JUEZfVWU1VVRtZHFkUDNIWnd0U1ZTLXVGWnhqTlRFUGhCdmFabi10RUNnRmdScm1PNnBvN2VyeXVIMFhmdWlTZElaYUNtN1NZZDEtSDNDbFZjd0xkbWxqSkM4eVJOVXM5Yk5hdXozcDlRLTZXSlJ0WjBUaXRxYzJtTXNkTUViRHBjVUtKOVZMRkNtMUVsb2lUNmVDN0FvOGFsMFo4WmtCZ0l2dE1IeTB4emZtM0sxa0k4T2pycVVsWGVZSWhUOTVidGRHRWIxeWNXMnVBcXl5dDBxeWo5VEJRTEY2SFg2bnVjaExGaFJFdnZSR19GWFMxNk52d3ZHQXV4eWVpTWhFTV9pYlBxTk1wUlh6LXc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 09:44:44 GMT"
+    },
+    {
       "title": "Closing Bell: Nifty below 22,650, Sensex down 252 pts in volatile trade; IT shines, pharma drags - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
-    },
-    {
-      "title": "Stock Market Today Live, Oct 14: Sensex settles at 72,781.89; Nifty down 99.25 points to 22,622.70 - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjJxdGxpUHA1S1U5S2ZPU215c3dsa1NHOWZJX096MzN6NERSeTk5U0xFUVp2ZnB3T1VCUGlhWkdJMXJsRng2QkQxSWNHdWhTN2tkX0pTbHRleEVmS0RTU0pSX2Y2NWp2Wlo5blpaN1gtZzdsbnEtTTNSZ1B6WVF0N1JvUTlWT0dqdVZNZjFDcXhFc3JTVXB5cThhSnRFck1JZ3V4VzVQRXMxZ2lsYUxZQndxTWt4NmtSZk1fUlpPZEs1aGN0MXc?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 10:40:35 GMT"
     }
   ]
 }
