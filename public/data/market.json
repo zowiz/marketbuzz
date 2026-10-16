@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex zooms over 1,500 points led by IT rally while Jio IPO draws strong global interest",
+  "headline": "Sensex jumps 1,534 points as Nifty nears 23,000; IPO activity and IT stocks lead market momentum",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,57 @@
     "nextOpen": ""
   },
   "why": [
-    "IT stocks powered Dalal Street rally as investors rotated into tech shares ahead of Q2 results.",
-    "Tech Mahindra and Wipro saw gains ahead of their second-quarter financial results.",
-    "Infosys and TCS rallied, helping cushion prior market declines.",
-    "Positive cues from US markets as Dow and S&P 500 closed higher."
+    "Sensex and Nifty recorded a massive rally on October 15, gaining over 1,500 and 375 points respectively",
+    "IT and auto sectors led the market charge, with Tech Mahindra and Wipro gaining ahead of Q2 results",
+    "Positive global cues from DJIA, S&P, and NASDAQ are influencing the current market outlook",
+    "Technical indicators like VWAP crossovers and RSI uptrends are signaling bullish momentum in specific stocks"
   ],
   "whatHappening": [
-    "Sensex surged 1,534 points while Nifty 50 closed near the 23,000 level.",
-    "Jio's mega IPO attracted strong interest from global investors and funds.",
-    "Supreme Court ruled against Yes Bank regarding its write-off of Rs 8,415 crore AT1 bonds.",
-    "Government raised the deepwater gas price ceiling to $9.89/MMBtu while keeping the APM gas cap at $7."
+    "Multiple IPOs including Fusion CX and Sahajanand Medical Technologies are in their final subscription days",
+    "Sebi has reverted to VWAP settlement for market transactions following a period of volatility",
+    "Reliance Industries has publicly addressed and rebutted regulatory allegations made by Elon Musk",
+    "Technical patterns such as the White Marubozu have been identified in stocks like HPCL"
   ],
   "stocksInNews": [
     {
-      "symbol": "YESBANK",
-      "sentiment": "Negative",
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        2,
+        7
+      ]
+    },
+    {
+      "symbol": "ZENTECH",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "HINDPETRO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "TATACOMM",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         6
+      ]
+    },
+    {
+      "symbol": "CIPLA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        9
       ]
     },
     {
@@ -32,7 +65,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        14
       ]
     },
     {
@@ -40,7 +73,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        14
       ]
     },
     {
@@ -48,7 +81,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        18
+        17
       ]
     },
     {
@@ -56,96 +89,96 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        18
+        17
       ]
     }
   ],
-  "summary": "Indian equities witnessed a massive rally as the Sensex surged over 1,500 points and Nifty reached near 23,000, powered by strong gains in IT majors like Tech Mahindra, Wipro, TCS, and Infosys ahead of Q2 earnings.\nJio's mega IPO continues to draw significant interest from global funds as investor confidence remains strong.\nMeanwhile, the Supreme Court ruled against Yes Bank's decision to write off Rs 8,415 crore in AT1 bonds.",
-  "updatedAt": "2026-10-16T01:01:42.830Z",
+  "summary": "The Indian market experienced a significant surge with the Sensex gaining 1,534 points, driven by strong performance in IT and banking sectors. Investors are closely monitoring multiple IPOs and technical breakouts in stocks like HPCL and Tata Communications. Reliance remains in focus following Jio IPO pricing details and a rebuttal of regulatory allegations.",
+  "updatedAt": "2026-10-16T04:02:14.433Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-16",
   "articleKeys": [
-    "jio ipo bonanza how global investors stakes have grown since 2020",
-    "stock market today all you need to know going into trade on oct 16",
-    "where jio stands among telecom peers a look at the key numbers",
-    "jios mega ipo draws strong interest from global funds",
-    "tata trusts case mehil mistry matter hearing postponed to nov 5",
-    "it stocks power dalal street rally as global ai trade loses steam",
-    "supreme court rules against yes banks writeoff of rs 8415 crore at1 bonds",
-    "experts poll rbi may hike rates by 025 in october policy amid inflationary pressures",
-    "government raises deepwater gas price ceiling to 989mmbtu apm gas cap at 7",
-    "us stocks dow sampp 500 end higher as traders shift from ai to healthcare",
+    "fusion cx ipo day 3 check gmp subscription status should you apply",
+    "sahajanand medical technologies ipo day 2 check gmp subscription status and key details",
+    "reliance rebuts musks allegations says rules apply equally to all",
+    "zen technologies among 3 stocks that closed crossing above vwap",
+    "bonfiglioli transmissions ipo day 2 gmp at 24 check subscription status should you subscribe",
+    "hpcl among 3 stocks showing white marubozu pattern",
+    "tata communications among 3 stocks showing rsi trending up",
+    "jio ipo priced accessibly proceeds to help clear 3b net debt isha amp akash",
+    "following chaos sebi goes back to vwap settlement",
+    "cipla share price live updates ciplas previous day close",
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
-    "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
+    "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
+    "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market highlights sensex ends 1534 points higher nifty 50 at 22997 amid weekly expiry tech mahindra wipro gain ahead of q2 ndtv profit",
-    "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
     "bull charge on dstreet sensex nifty close at 2week highs after stunning rally financial express",
-    "closing bell markets rebound nifty above 22700 sensex jumps 1100 pts moneycontrolcom",
-    "stock market outlook today 15 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
     "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
-    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom"
+    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
+    "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline"
   ],
   "articles": [
     {
-      "title": "Jio IPO Bonanza: How global investors’ stakes have grown since 2020",
+      "title": "Fusion CX IPO Day 3: Check GMP, subscription status; Should you apply?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-bonanza-how-global-investors-stakes-have-grown-since-2020/articleshow/134979595.cms",
-      "publishedAt": "Fri, 16 Oct 2026 06:03:55 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/fusion-cx-ipo-day-3-check-gmp-subscription-status-should-you-apply/articleshow/134981321.cms",
+      "publishedAt": "Fri, 16 Oct 2026 08:56:28 +0530"
     },
     {
-      "title": "Stock Market Today: All You Need To Know Going Into Trade On Oct 16",
+      "title": "Sahajanand Medical Technologies IPO Day 2: Check GMP, subscription status and key details",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-16-12192055#publisher=newsstand",
-      "publishedAt": "Fri, 16 Oct 2026 06:00:01 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sahajanand-medical-technologies-ipo-day-2-check-gmp-subscription-status-and-key-details/articleshow/134981288.cms",
+      "publishedAt": "Fri, 16 Oct 2026 08:51:17 +0530"
     },
     {
-      "title": "Where Jio stands among telecom peers: A look at the key numbers",
+      "title": "Reliance rebuts Musk's allegations, says rules apply equally to all",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/where-jio-stands-among-telecom-peers-a-look-at-the-key-numbers/articleshow/134979570.cms",
-      "publishedAt": "Fri, 16 Oct 2026 05:57:05 +0530"
+      "link": "https://www.business-standard.com/companies/news/reliance-rebuts-musk-s-allegations-says-rules-apply-equally-to-all-126101600112_1.html",
+      "publishedAt": "Fri, 16 Oct 2026 08:47:20 +0530"
     },
     {
-      "title": "Jio’s mega IPO draws strong interest from global funds",
+      "title": "Zen Technologies among 3 stocks that closed crossing above VWAP",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-mega-ipo-draws-strong-interest-from-global-funds/articleshow/134979555.cms",
-      "publishedAt": "Fri, 16 Oct 2026 05:47:03 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/zen-technologies-among-3-stocks-that-closed-crossing-above-vwap/slideshow/134981285.cms",
+      "publishedAt": "Fri, 16 Oct 2026 08:46:28 +0530"
     },
     {
-      "title": "Tata Trusts case: Mehil Mistry matter hearing postponed to Nov 5",
+      "title": "Bonfiglioli Transmissions IPO Day 2: GMP at 24%; Check subscription status. Should you subscribe?",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/tata-trusts-case-mehil-mistry-matter-hearing-postponed-tonov-5/article71589584.ece",
-      "publishedAt": "Fri, 16 Oct 2026 05:34:27 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-ipo-day-2-gmp-at-24-check-subscription-status-should-you-subscribe/articleshow/134981228.cms",
+      "publishedAt": "Fri, 16 Oct 2026 08:44:38 +0530"
     },
     {
-      "title": "IT stocks power Dalal Street rally as global AI trade loses steam",
+      "title": "HPCL among 3 stocks showing White Marubozu pattern",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-power-dalal-street-rally-as-global-ai-trade-loses-steam/articleshow/134979518.cms",
-      "publishedAt": "Fri, 16 Oct 2026 05:29:44 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hpcl-among-3-stocks-showing-white-marubozu-pattern/slideshow/134981188.cms",
+      "publishedAt": "Fri, 16 Oct 2026 08:35:24 +0530"
     },
     {
-      "title": "Supreme Court rules against Yes Bank's write-off of Rs 8,415 crore AT1 bonds",
+      "title": "Tata Communications among 3 stocks showing RSI trending up",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/supreme-court-rules-against-yes-banks-write-off-of-rs-8415-crore-at1-bonds/articleshow/134979517.cms",
-      "publishedAt": "Fri, 16 Oct 2026 05:00:00 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-communications-among-3-stocks-showing-rsi-trending-up/slideshow/134981120.cms",
+      "publishedAt": "Fri, 16 Oct 2026 08:31:04 +0530"
     },
     {
-      "title": "Experts’ poll: RBI may hike rates by 0.25% in October policy amid inflationary pressures",
+      "title": "Jio IPO Priced Accessibly, Proceeds to Help Clear $3b Net Debt: Isha &amp; Akash",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/experts-poll-rbi-may-hike-rates-by-025-in-october-policy-amid-inflationary-pressures/article71543381.ece",
-      "publishedAt": "Fri, 16 Oct 2026 03:02:51 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-priced-accessibly-proceeds-to-help-clear-3b-net-debt-isha-akash/articleshow/134980908.cms",
+      "publishedAt": "Fri, 16 Oct 2026 08:25:45 +0530"
     },
     {
-      "title": "Government raises deepwater gas price ceiling to $9.89/MMBtu; APM gas cap at $7",
+      "title": "Following CHAOS, Sebi Goes Back to VWAP Settlement",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/government-raises-deepwater-gas-price-ceiling-to-989mmbtu-apm-gas-cap-at-7/article71543103.ece",
-      "publishedAt": "Fri, 16 Oct 2026 02:39:56 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/following-chaos-sebi-goes-back-to-vwap-settlement/articleshow/134980701.cms",
+      "publishedAt": "Fri, 16 Oct 2026 08:22:03 +0530"
     },
     {
-      "title": "US stocks: Dow, S&amp;P 500 end higher as traders shift from AI to healthcare",
+      "title": "Cipla Share Price Live Updates: Cipla's Previous Day Close",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-traders-shift-from-ai-to-healthcare/articleshow/134976395.cms",
-      "publishedAt": "Fri, 16 Oct 2026 01:40:37 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-16-oct-2026/liveblog/134980880.cms",
+      "publishedAt": "Fri, 16 Oct 2026 08:17:24 +0530"
     },
     {
       "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
@@ -154,16 +187,22 @@
       "publishedAt": "Thu, 15 Oct 2026 10:18:14 GMT"
     },
     {
+      "title": "Closing Bell: Nifty at 23,000, Sensex zooms 1,534 pts; IT, auto, private banks shine - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYVRKNUxJMGVpblhHNy1JUTBBMUlmUTV4ZnhfUDhqWjZLQ0ZQeTFVX2dOWE9ibmF1OFUxMVRLUVVueXgwdkZSWTAzUVBVQTd5TDMxSVNOZVJRLXRVdzdRUWM4eURfS0lSRHpUWWVjVmhiMVp1Uzl5a1B2VmJPaHRNc0g1LXhXZjAyX0p0a0FjaGppMzdnNExta0VOWHhvX0RlRUlYMDNIMVlHUy03dFIxNkJHWnRwM3htNXp5bDhXN19GWDdZQi1wWS13UGlFNG92OFdXa0xzVFNQRUlFcVB3YXAyUWY2dThiWVM3UC1ZOUQxY3kybGEydzA3Z29xb0tPWmozMmdhNmFiTGdOSXNKRWVESHo2aXVGU200MWxZVFJHR0XSAagCQVVfeXFMTm9xMzV4c3RONGUtY2hUdU9LbjBlWS0zM0ZYYW4zb3RhbnNCMjhnM3pkRXhLTmRsS0hoc1M0LTFvazNtODNkd2FLbEpzbk0zR2lRaDBXQmFrY0xzLXpTM2VIZzhLeGxTS0wzb25TdWxGZHFTTERTejRMbC1oS0I4UEp3V2QxLUI3eUFUbUNvUEdHcDEyVk5leXJKdG1ORE5fQW5BczVIaGw5Rnk2STFQQWVyV3dnYUd2MUZuM2dCVzVlc25FZXdaS25oUVVILTlHczJJOTV2b0pnWWZ1NG1rUVVnbzFkY3cza3BlX3BiaUZIdzV5Xy1BYjA5X3cxT2FjNTZYZmVVV2Rta0Q1TTFmUE8zZHpIQVRKMkhTNU0tOTlORll5c2JUNUw?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 10:46:52 GMT"
+    },
+    {
       "title": "Stock Market Today Live, Oct 15: Sensex jumps over 1,500 points, Nifty nears 23,000; rupee extends gains - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkJpc2lLT01aRzh3ZTlSeTdmUnZnazF3VW43c1ZzeXpuLUM0ckNVd1A3M0p1MU1Ma1RoOGRPNFNCM3ZlOWRfWlI0T2xvZHl4ZmRicDZsSGF4RzZ0OHRjQzFpdGxzV3RkaVZnSmUyLXI2SWo3Ym9qcmJuNkxtbFJMWTc1SmJ3NWdxUk5SSHRQT0hQTmpRUU1QenJEczRfUFNxMElIZ0doNENNRDNWclUzLWIwekFqMGpzQTlKN29jWHd3OWRhbXfSAcwBQVVfeXFMUHFHRERzWHVCYWpNWnJFMnhIbXdHaTBmNDhHRzRTZl9kdGNjTXBWMTNVY3lqSVVBVVF4RlBpS3NidFlSOEVuclR0U3A0UW5GNjZpUENXbnNhbk9vUHRONFpQaGljQjRhbVZQUmpkcHMyQmUxdVI5RHk2VFI2aE15di14NExsLThyaDBwQThkNy05TUtYcTkzcmNaVDdSTDNSbndUU0U3OTRvc0cxeVRkdE1uMVVQZ3ZJNGhBWkRMYzBsTDdXVG9NcWdoNkhX?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 10:49:21 GMT"
     },
     {
-      "title": "Closing Bell: Nifty at 23,000, Sensex zooms 1,534 pts; IT, auto, private banks shine - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYVRKNUxJMGVpblhHNy1JUTBBMUlmUTV4ZnhfUDhqWjZLQ0ZQeTFVX2dOWE9ibmF1OFUxMVRLUVVueXgwdkZSWTAzUVBVQTd5TDMxSVNOZVJRLXRVdzdRUWM4eURfS0lSRHpUWWVjVmhiMVp1Uzl5a1B2VmJPaHRNc0g1LXhXZjAyX0p0a0FjaGppMzdnNExta0VOWHhvX0RlRUlYMDNIMVlHUy03dFIxNkJHWnRwM3htNXp5bDhXN19GWDdZQi1wWS13UGlFNG92OFdXa0xzVFNQRUlFcVB3YXAyUWY2dThiWVM3UC1ZOUQxY3kybGEydzA3Z29xb0tPWmozMmdhNmFiTGdOSXNKRWVESHo2aXVGU200MWxZVFJHR0XSAagCQVVfeXFMTm9xMzV4c3RONGUtY2hUdU9LbjBlWS0zM0ZYYW4zb3RhbnNCMjhnM3pkRXhLTmRsS0hoc1M0LTFvazNtODNkd2FLbEpzbk0zR2lRaDBXQmFrY0xzLXpTM2VIZzhLeGxTS0wzb25TdWxGZHFTTERTejRMbC1oS0I4UEp3V2QxLUI3eUFUbUNvUEdHcDEyVk5leXJKdG1ORE5fQW5BczVIaGw5Rnk2STFQQWVyV3dnYUd2MUZuM2dCVzVlc25FZXdaS25oUVVILTlHczJJOTV2b0pnWWZ1NG1rUVVnbzFkY3cza3BlX3BiaUZIdzV5Xy1BYjA5X3cxT2FjNTZYZmVVV2Rta0Q1TTFmUE8zZHpIQVRKMkhTNU0tOTlORll5c2JUNUw?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 10:46:52 GMT"
+      "title": "Stock market outlook today, 16 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRXpHZ3doYXNTeF9qM3VvdXVqbHNIX3VfVGJoOFdkenk2WkRYZWxfdnc4RW1iRXZ0TlEwSUVYMndvSE5pNGVxcExQVFFjMzFpT3lXVlVGOThGVE9abnJpY0ZhSDAtd3hzRUE1NGtTN2llejRaajFfeWZLUHY4R1cxZGFSYUQyMW9Kd3BxS2ZjWW5aaExPT2FySzZROTJaR05hUDZSYVFlR294dVp6T295bHRrN1QtaHZybTZmRkRNcmxJNXJ6TVhBWjQ5dG1BRlJXR1ZoTmhRV3Zkak5qcmhDOW9uYTN5WnpQZnpOWmpPMFJ5bDlJSzE1SmtTLTVXQlB1STF5dNIBigJBVV95cUxPclAyUk55S1duaUUwWGo1VWhsTWJveG52amFVZWxGX1BvbmItSnFIUERkaGFLZjlILUxsNmZheWFyWDcxQWxZOVBmNXFYV0xRYTljZDlkTkpsbG4yNkhMNVpTanNYU01YU21YOGpQWTZJbnpsakN5TmdKX0x1ODdfR0dvWVlZVDFyd3I5M0ZBd0JyUi1DbW0zcDVhMk1hdGpDTXVCNUNESUVrSjdDcXJFRW9vRzNHODVXNGRCZ3M1Z0RlajhNVW1CUi1sbnZtbkozVl9tSUdDYnRwMmhoeTJUVzNyOEZvRTI1a0xERlBQckJta0FOWlNFSUxVSzE1MEpCUmRjc05hWkJUZw?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 01:19:58 GMT"
     },
     {
       "title": "Stock Market Highlights: Sensex Ends 1,534 Points Higher, Nifty 50 At 22,997 Amid Weekly Expiry; Tech Mahindra, Wipro Gain Ahead Of Q2 - NDTV Profit",
@@ -172,28 +211,16 @@
       "publishedAt": "Thu, 15 Oct 2026 17:52:11 GMT"
     },
     {
-      "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQblA3NmloLThJMUN0dFg3X1lJOXFTbmZaUnd3bV9CT2dyZHNNc3JsMnhIQkJqNnItU3p5dDBSQ1Itc3hfN3BUOGVUN2dqR3cxZ3ZoQUVvekNacm9qZ3llcG5sTk8xaGxXVmlPRHdUUUZEczJkUXI0STZZa1FGTWh3UkRxTVNLXzRPVGthWHVsZkNHMjR4cWJmbDh1TDRHUUVQaUg1b0dJTG9EdnZxOE8xWGNhT0ZHS2lSS0wtQTRMY1dRUWVoSWVNZ1I3cVJkU2IyaHFlWlRhUVBIMFJPZDZKYk4yaU9oQUI0ZmFIMGplTVlhbUcwRkJXd9IB_gFBVV95cUxQVUpDZVJxVzVmeFBaSDFHSHozZkFXOGFKQWtEUnkzbnR3M0FiQWlGc3l6dlBSM1h2X2hHLXRBMEtIa0M4NjdITWtTQW8xMjJlVHF4bDlIUGV3UDNzdXhkV3h4TXdMNGM4emdaczFjT3R2ZXZReENCR20tZlltZ1VwTF9vTzBka0RhQmYwMTVRNGJ4a1gwX01vQTJyemhPYldyYVlheWJYbVhqOUFoX0tJMjdTaUU1QUNsd0ptLUNFWEh1N1lwcTducGZXS3AwWXJYTnZvd0MyX1oxdnU1aXRnNHFjMXFRQ3EwVXd2dUNPU3AxNzhsR0sxNXRJVXZPUQ?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 04:33:59 GMT"
-    },
-    {
       "title": "Bull charge on D’Street: Sensex, Nifty close at 2-week highs after stunning rally - Financial Express",
       "source": "Financial Express",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQkVEbmw0NEprRTk2SjE5MUVmQTVob3VLcjVIQTZ1UDREWVNYYVhTSXY2YWxVOWV4S09Zc3BYNW1SZlVrSzA1bFhfX1N1SG55eEtIT2E0RnRNOE03Q3o4c0dtOFlJRlR3U2NrT0lLejJ3b3dRVUJCN0NvSnk2eXhLbWpWbWZlWE9hTGJHSzlmZi1zdlVPQlBXZW5IdEZ6S2lzNWtPTzJmVG14RUh1cjdRTWFLR004N2duOVVKeF9Qd3ZSejdNOFJ6QUR5eVRNRUFrVzZPMlhHeXNPWXFrSk5Mbkk3b3JsRGxRdmVtZG1SUno?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 10:17:57 GMT"
     },
     {
-      "title": "Closing Bell: Markets rebound; Nifty above 22,700, Sensex jumps 1,100 pts - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPOUhGc1RJM0o4ajc5Q3V5RFNEMVM5WERUSFhnb2Y0T0F0Rlc0S0h6UnoyWnNJMzl4RmZVV2ZJNFBHS2pINTVwX2dqVTIxNzdNNlpaRnlGNWR4aXpOdmducWZ4bUprdlBwYXhtZGxLTGhoZzY2S0JZT1htVUVTTjkwRHNQX1JzS3FXekZ3YmxrNUtpVEJLU3cybnE5c0ItamNCRmo0X25TSkczUkZTN0ZhdVN3Wm5ZV2lFNHhnNjJwZ2ZoUDB2QnotRGNLb0d6LXlCcjIyVUFqTEdDb0twYWtWMHNiSjVPeEliTlZNSmQ0cVhoakRSTG9jMkU3YXdvRlYyWUgwVG1QVWYxRnB0dkZkQ2J5ZGo1QjBGTnIzek5vbC1OQXfSAagCQVVfeXFMTmliUXc5T1d2X20tZmhOTW0yNEJqWDdQS2hkNEtpeXVESUVYN3lJd2p3MWxXd052dEhHWWZvV05pZUF6T1h3N2F1ZVFRYzJ5V21BZVR5OGc5M2g2cGIyNFdRTnRxdkp1elNERkdfN0RScDE1VjVwenpzcnZaRUNZaGZuaFU5N3hQcjY2azJROTloeG9vSzdRelczRm1Wd2dXSk1aQWdTaDAwbTNkVTlkYTAtVlljZ01taTZ0eTVLalFzTHJkYTJFUjJzSmg4RWZYUndrOEQ1MWZOVUpFLVpQS25HY0UteVFTUUdNSy05ZzRFb09VbmVjM01FRHNJRHlQNEFmLUVfMzJ2TnlEaTZOeE1rUkpobDVab1FJeDFwOFZUVTlJelIxSFc?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 10:29:54 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 15 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
       "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQmt4MElPMFdzZEZHaGlsSnRoTGZRQ3lua2F1ZnZnQ3hLT2dOUDlSRzluaUtMZ2I3eEgyUmEyOVJEYlJmV2ZJcUI5TTZia1IxVEk2V1hSUlVyT2JXTkN2WTZSWXFlV0wtTDFnTmhvX2llUXJhTEVoRURmVDQtc2dIVm10MVRrSjV6TTJUUXFqZEZlbEg3ek5LazBkVzM0QUZnNVFMVTV6VU92X0tXRU5Fa1FFb2ltTzJHY2s2N1UwMWtzeEpubHEzNnhvUGpWSlU2VzBIaTU0TWlFNkhGczJhVWdKTGYwdjRLczYzRllRaGQzQmloZnN5dkF2Nk1JbjUxaU5YcdIBigJBVV95cUxQeGloY3FkM2YwOXhZR1NQb1NSUXVPdS1pYzZzVkZMeVRaX1d2M3hDaVRJQ3NKQ0gzeV83X0h0S1FSTlRlbjRIXzY0T3I0dzZTV3dHWWs3dWo4emFzcVlsbnRLVFJ4VHYyRHlJOWJhWEpJZjl3MDI0RjBRaHFiRk92OUJtZGo3ZTZTTm9FMGprdTY4dXFUUjR5ekY0cWtjeVlRbldaOFk4dXB3VDgwNWpPQm9FSXVIYmUtc0t0dGo0SnpidG5sQV9aaW9zSFJoM21VWURzckNiYnc3NTZwVGs2Nk1GZGVPNGxSWGMwbDlvd0NXTmxUc1liczd0QTJydWpjYjdqb3BOVl92QQ?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 01:19:47 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQblA3NmloLThJMUN0dFg3X1lJOXFTbmZaUnd3bV9CT2dyZHNNc3JsMnhIQkJqNnItU3p5dDBSQ1Itc3hfN3BUOGVUN2dqR3cxZ3ZoQUVvekNacm9qZ3llcG5sTk8xaGxXVmlPRHdUUUZEczJkUXI0STZZa1FGTWh3UkRxTVNLXzRPVGthWHVsZkNHMjR4cWJmbDh1TDRHUUVQaUg1b0dJTG9EdnZxOE8xWGNhT0ZHS2lSS0wtQTRMY1dRUWVoSWVNZ1I3cVJkU2IyaHFlWlRhUVBIMFJPZDZKYk4yaU9oQUI0ZmFIMGplTVlhbUcwRkJXd9IB_gFBVV95cUxQVUpDZVJxVzVmeFBaSDFHSHozZkFXOGFKQWtEUnkzbnR3M0FiQWlGc3l6dlBSM1h2X2hHLXRBMEtIa0M4NjdITWtTQW8xMjJlVHF4bDlIUGV3UDNzdXhkV3h4TXdMNGM4emdaczFjT3R2ZXZReENCR20tZlltZ1VwTF9vTzBka0RhQmYwMTVRNGJ4a1gwX01vQTJyemhPYldyYVlheWJYbVhqOUFoX0tJMjdTaUU1QUNsd0ptLUNFWEh1N1lwcTducGZXS3AwWXJYTnZvd0MyX1oxdnU1aXRnNHFjMXFRQ3EwVXd2dUNPU3AxNzhsR0sxNXRJVXZPUQ?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 04:33:59 GMT"
     },
     {
       "title": "Sensex Today | Nifty 50 | Indian Stock Market Live: Sensex Crashes 173 Points, Nifty Slips Below 22,700 As Banking, Pharma And Auto Stocks Bleed; Infosys, TCS Rally To Cushion Market Fall - The Sunday Guardian",
@@ -206,6 +233,12 @@
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
+    },
+    {
+      "title": "Stock Market Today Live, Oct 14: Sensex settles at 72,781.89; Nifty down 99.25 points to 22,622.70 - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjJxdGxpUHA1S1U5S2ZPU215c3dsa1NHOWZJX096MzN6NERSeTk5U0xFUVp2ZnB3T1VCUGlhWkdJMXJsRng2QkQxSWNHdWhTN2tkX0pTbHRleEVmS0RTU0pSX2Y2NWp2Wlo5blpaN1gtZzdsbnEtTTNSZ1B6WVF0N1JvUTlWT0dqdVZNZjFDcXhFc3JTVXB5cThhSnRFck1JZ3V4VzVQRXMxZ2lsYUxZQndxTWt4NmtSZk1fUlpPZEs1aGN0MXc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:40:35 GMT"
     }
   ]
 }
