@@ -1,48 +1,24 @@
 {
-  "headline": "Last session: Sensex gained 413 points and Nifty closed above 23,100 led by IT, media, and metal stocks.",
+  "headline": "On last trading day, Sensex gained 413 points and Nifty closed above 23,100 led by IT and metals.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 19 October.",
-    "nextOpen": "Monday, 19 October 2026"
+    "nextOpen": "Monday, 19 October"
   },
   "why": [
-    "IT, media, and metal stocks led the gains during the last trading session on Friday",
-    "Market sentiment remained positive following a significant 1,534-point rally earlier in the week",
-    "Investors are focused on Q2 earnings reports from major private sector banks scheduled for today",
-    "Starlink's progress toward an India launch provided a boost to the satcom sector outlook"
+    "Gains in IT, media, and metal stocks propelled the indices higher during Friday's closing session.",
+    "Solid buying interest in IT heavyweights like Tech Mahindra and Wipro provided support ahead of Q2 earnings.",
+    "A massive rally earlier in the week saw the market surge over 1,500 points across auto, IT, and private bank shares.",
+    "Global market sentiment remained mixed with fading Fed rate hike bets and softening dollar strength."
   ],
   "whatHappening": [
-    "The Nifty 50 finished the last session above the 23,100 level",
-    "Axis Bank, HDFC Bank, and ICICI Bank are among 18 firms scheduled to report Q2 results today",
-    "Starlink says its infrastructure has government approval and is ready for launch in India",
-    "Indian markets are closed for the weekend and will reopen on October 19"
+    "On the last trading day, Nifty closed above 23,100 while Sensex gained 413 points.",
+    "Sensex had previously zoomed 1,534 points to reach 2-week highs during Thursday's trading session.",
+    "Jio's planned $3.2 billion IPO is testing investor appetite among young Indian retail market participants.",
+    "Global equities experienced weekly shifts with US dollar heading for a weekly loss and gold facing price drops."
   ],
   "stocksInNews": [
-    {
-      "symbol": "AXISBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "ICICIBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
     {
       "symbol": "TECHM",
       "sentiment": "Positive",
@@ -64,7 +40,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        18
+        17
       ]
     },
     {
@@ -72,25 +48,25 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        18
+        17
       ]
     }
   ],
-  "summary": "In the last session, Indian indices extended gains with the Nifty closing above 23,100, supported by IT and metal sectors. The market is closed today for the weekend, but focus remains on Q2 results from HDFC Bank and ICICI Bank. Additionally, Starlink announced it is ready for launch in India following regulatory approvals.",
-  "updatedAt": "2026-10-17T04:01:57.167Z",
+  "summary": "On the last trading day, Indian markets closed on a positive note with Nifty crossing 23,100 and Sensex gaining 413 points.\nMajor contributions came from IT, media, and metal stocks following a broader 1,500-point rally earlier in the week.\nThe Indian stock market is closed today for the weekend and will resume trading on Monday, 19 October.",
+  "updatedAt": "2026-10-17T05:02:05.339Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-17",
   "articleKeys": [
+    "dollar heads for weekly loss as fed hike bets fade ai jitters linger",
+    "gold set for a weekly drop as traders assess fed signals",
+    "european shares close out best week since june as earnings soften blow from tech selloff",
+    "global markets stocks slip as dollar heads for weekly loss",
+    "wall street week ahead as ai rally wobbles stock markets spotlight turns to earnings",
+    "jios 32 billion ipo tests ambani appeal with young indians",
     "satcom row starlink says india infra has govt approvals ready for launch",
     "neha bora released dipke to be produced before sem court delhi police",
     "kanya pujan 2026 dates time when to perform rituals dos and donts",
     "trumps new white house press secretary katie zacharia out after five days",
-    "bank holiday today are banks open or closed on saturday oct 17 check here",
-    "nepal vs canada live streaming when and where to watch icc cricket world cup league 2 match live in india",
-    "veteran bjp leader lk advani admitted to delhi hospital with chest infection",
-    "trump waives russia energy tariffs and sanctions under graham law",
-    "q2 results today axis bank hdfc bank icici bank among 18 firms to report earnings on oct 17",
-    "navratri 2026 day 7 which colour to wear today check colour goddess and significance",
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
@@ -98,11 +74,47 @@
     "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "bull charge on dstreet sensex nifty close at 2week highs after stunning rally financial express",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
-    "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
     "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
-    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom"
+    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
+    "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline"
   ],
   "articles": [
+    {
+      "title": "Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms",
+      "publishedAt": "Sat, 17 Oct 2026 09:38:05 +0530"
+    },
+    {
+      "title": "Gold set for a weekly drop as traders assess Fed signals",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-a-weekly-drop-as-traders-assess-fed-signals/articleshow/135007093.cms",
+      "publishedAt": "Sat, 17 Oct 2026 09:36:22 +0530"
+    },
+    {
+      "title": "European shares close out best week since June as earnings soften blow from tech selloff",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-close-out-best-week-since-june-as-earnings-soften-blow-from-tech-selloff/articleshow/135007075.cms",
+      "publishedAt": "Sat, 17 Oct 2026 09:34:44 +0530"
+    },
+    {
+      "title": "Global markets: Stocks slip as dollar heads for weekly loss",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-stocks-slip-as-dollar-heads-for-weekly-loss/articleshow/135007060.cms",
+      "publishedAt": "Sat, 17 Oct 2026 09:32:22 +0530"
+    },
+    {
+      "title": "Wall Street Week Ahead: As AI rally wobbles, stock market's spotlight turns to earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings/articleshow/135007046.cms",
+      "publishedAt": "Sat, 17 Oct 2026 09:29:31 +0530"
+    },
+    {
+      "title": "Jio’s $3.2 billion IPO tests Ambani appeal with young Indians",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-3-2-billion-ipo-tests-ambani-appeal-with-young-indians/articleshow/135006812.cms",
+      "publishedAt": "Sat, 17 Oct 2026 09:18:41 +0530"
+    },
     {
       "title": "Satcom row: Starlink says India infra has govt approvals, ready for launch",
       "source": "Zerodha Pulse",
@@ -126,42 +138,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/world/trumps-new-white-house-press-secretary-katie-zacharia-out-after-five-days-12197635#publisher=newsstand",
       "publishedAt": "Sat, 17 Oct 2026 08:05:29 +0530"
-    },
-    {
-      "title": "Bank Holiday Today: Are Banks Open Or Closed On Saturday, Oct 17? Check Here",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/bank-holiday-today-are-banks-open-or-closed-on-saturday-oct-17-check-here-12197096#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 08:00:34 +0530"
-    },
-    {
-      "title": "Nepal Vs Canada Live Streaming: When And Where To Watch ICC Cricket World Cup League 2 Match Live In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/nepal-vs-canada-cricket-live-streaming-when-and-where-to-watch-icc-cricket-world-cup-league-2-match-live-in-india-12195541#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 08:00:01 +0530"
-    },
-    {
-      "title": "Veteran BJP Leader LK Advani Admitted To Delhi Hospital With Chest Infection",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/lk-advani-admitted-to-delhi-hospital-with-chest-infection-12197595#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 07:32:21 +0530"
-    },
-    {
-      "title": "Trump waives Russia energy tariffs and sanctions under Graham law",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/trump-waives-russia-energy-tariffs-and-sanctions-under-graham-law-126101700093_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 07:25:45 +0530"
-    },
-    {
-      "title": "Q2 Results Today: Axis Bank, HDFC Bank, ICICI Bank Among 18 Firms To Report Earnings On Oct. 17",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-today-axis-bank-hdfc-bank-icici-bank-among-9-firms-to-report-earnings-on-oct-17-12196475#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 07:00:52 +0530"
-    },
-    {
-      "title": "Navratri 2026 Day 7: Which Colour To Wear Today? Check Colour, Goddess And Significance",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/navratri-2026-day-7-saturday-october-17-which-colour-to-wear-today-check-colour-goddess-and-significance-12193445#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 06:00:01 +0530"
     },
     {
       "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
@@ -206,12 +182,6 @@
       "publishedAt": "Thu, 15 Oct 2026 10:46:52 GMT"
     },
     {
-      "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQblA3NmloLThJMUN0dFg3X1lJOXFTbmZaUnd3bV9CT2dyZHNNc3JsMnhIQkJqNnItU3p5dDBSQ1Itc3hfN3BUOGVUN2dqR3cxZ3ZoQUVvekNacm9qZ3llcG5sTk8xaGxXVmlPRHdUUUZEczJkUXI0STZZa1FGTWh3UkRxTVNLXzRPVGthWHVsZkNHMjR4cWJmbDh1TDRHUUVQaUg1b0dJTG9EdnZxOE8xWGNhT0ZHS2lSS0wtQTRMY1dRUWVoSWVNZ1I3cVJkU2IyaHFlWlRhUVBIMFJPZDZKYk4yaU9oQUI0ZmFIMGplTVlhbUcwRkJXd9IB_gFBVV95cUxQVUpDZVJxVzVmeFBaSDFHSHozZkFXOGFKQWtEUnkzbnR3M0FiQWlGc3l6dlBSM1h2X2hHLXRBMEtIa0M4NjdITWtTQW8xMjJlVHF4bDlIUGV3UDNzdXhkV3h4TXdMNGM4emdaczFjT3R2ZXZReENCR20tZlltZ1VwTF9vTzBka0RhQmYwMTVRNGJ4a1gwX01vQTJyemhPYldyYVlheWJYbVhqOUFoX0tJMjdTaUU1QUNsd0ptLUNFWEh1N1lwcTducGZXS3AwWXJYTnZvd0MyX1oxdnU1aXRnNHFjMXFRQ3EwVXd2dUNPU3AxNzhsR0sxNXRJVXZPUQ?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 04:33:59 GMT"
-    },
-    {
       "title": "Sensex Today | Nifty 50 | Indian Stock Market Live: Sensex Crashes 173 Points, Nifty Slips Below 22,700 As Banking, Pharma And Auto Stocks Bleed; Infosys, TCS Rally To Cushion Market Fall - The Sunday Guardian",
       "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQ3J3NHdzcmpHdzBkeU9oUnIxQjJHOXV3R3NRcTNkVnpiQTVPTTJJVHIzQXN2RHlRSUltODBuR19rT2pyZVV3RVRaTTVBa1J4WHBvNU5pX1NCcld2VkhsYVJVNDVZNWstM1NTQ0FxbXJmVHRjNW9Xa0M3Q2lfSXVYYkJtWnI5czZILWdrTWl2R1doS0FjV21NRVlEdWk5WkNaUEtjQTQwd0s0d1FiNEUwSnlKWFUtTUo0bG1rZmZJY3dpa1U5VHIxazl5V1RsdHlkN250T3lmYmlmZHZ5Yk4zNWJRUG1yVW5UNlBsdmltZE9EY0hRY1Rza3VBcWlQMEozTXo4WkRzVmZ5SWd0dlRGRW44bXVfLUtlUmFGNmVhWHRUS3hRekpHMEhxbGJVZmtyNm5ZZG1ucElLUWRFSEdOT2JqS2k2UG9O0gHOAkFVX3lxTE1iZ1lnU1J1NExhamd0Xzd0bDVudDFSMDkzM0hTRGVVZ3JydDFhN0hYWU5wZ3M0SVQ5TUt3OGVDem5JUEZfVWU1VVRtZHFkUDNIWnd0U1ZTLXVGWnhqTlRFUGhCdmFabi10RUNnRmdScm1PNnBvN2VyeXVIMFhmdWlTZElaYUNtN1NZZDEtSDNDbFZjd0xkbWxqSkM4eVJOVXM5Yk5hdXozcDlRLTZXSlJ0WjBUaXRxYzJtTXNkTUViRHBjVUtKOVZMRkNtMUVsb2lUNmVDN0FvOGFsMFo4WmtCZ0l2dE1IeTB4emZtM0sxa0k4T2pycVVsWGVZSWhUOTVidGRHRWIxeWNXMnVBcXl5dDBxeWo5VEJRTEY2SFg2bnVjaExGaFJFdnZSR19GWFMxNk52d3ZHQXV4eWVpTWhFTV9pYlBxTk1wUlh6LXc?oc=5",
@@ -222,6 +192,12 @@
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
+    },
+    {
+      "title": "Stock Market Today Live, Oct 14: Sensex settles at 72,781.89; Nifty down 99.25 points to 22,622.70 - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjJxdGxpUHA1S1U5S2ZPU215c3dsa1NHOWZJX096MzN6NERSeTk5U0xFUVp2ZnB3T1VCUGlhWkdJMXJsRng2QkQxSWNHdWhTN2tkX0pTbHRleEVmS0RTU0pSX2Y2NWp2Wlo5blpaN1gtZzdsbnEtTTNSZ1B6WVF0N1JvUTlWT0dqdVZNZjFDcXhFc3JTVXB5cThhSnRFck1JZ3V4VzVQRXMxZ2lsYUxZQndxTWt4NmtSZk1fUlpPZEs1aGN0MXc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:40:35 GMT"
     }
   ]
 }
