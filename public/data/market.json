@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex climbed 414 points to settle at 74,729 while Nifty closed above 23,100",
+  "headline": "Last session: Sensex gains 414 points to settle at 74,729, Nifty closes above 23,100 led by IT stocks",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,22 +7,30 @@
     "nextOpen": "Monday, 19 October 2026"
   },
   "why": [
-    "Strong performance in IT, media, and metal stocks supported the indices during the last session",
-    "Reliance's Jio Platforms filing its final IPO prospectus boosted investor confidence in the conglomerate",
-    "Hyundai's plan to invest ₹4,000 crore in its Pune plant signaled positive industrial growth",
-    "Markets maintained momentum following a massive 1,500-point rally in the preceding session"
+    "Strong gains in IT, media, and metal sectors lifted benchmark indices in the last trading session.",
+    "Positive earnings expectations ahead of Q2 results fueled momentum across IT and banking stocks.",
+    "Global oil prices retreated as investors evaluated supply outlooks and West Asia tensions.",
+    "Domestic market sentiment remains supported by major investment and IPO announcements."
   ],
   "whatHappening": [
-    "Sensex and Nifty reached 74,729 and 23,146 respectively on the last trading day",
-    "Bank of Baroda shares dropped 3.5% after the NMC founder filed a $15 billion lawsuit",
-    "Zydus Lifesciences' manufacturing facility received five observations from the U.S. FDA",
-    "The government proposed new BS-VII emission norms and a National Electricity Data Sharing framework"
+    "Reliance Industries' Jio Platforms filed its final IPO prospectus with the offer opening on October 21.",
+    "Hyundai announced an additional investment of ₹4,000 crore in its Pune plant to boost output to 3,20,000 units.",
+    "Bank of Baroda stock fell 3.5% after NMC founder BR Shetty filed a $15 billion lawsuit against the lender.",
+    "Zydus Lifesciences received 5 observations from the U.S. FDA for one of its manufacturing plants."
   ],
   "stocksInNews": [
     {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
       "symbol": "BANKBARODA",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         6
       ]
@@ -30,23 +38,15 @@
     {
       "symbol": "ZYDUSLIFE",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         0
       ]
     },
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
       "symbol": "HYUNDAI",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         5
       ]
@@ -54,22 +54,23 @@
     {
       "symbol": "TECHM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 2/7 sources",
       "articleIds": [
-        13
+        13,
+        17
       ]
     },
     {
       "symbol": "WIPRO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         13
       ]
     }
   ],
-  "summary": "On the last trading day, Indian markets closed higher with the Sensex gaining 413 points, led by IT and metal stocks. Key corporate developments included Jio Platforms' IPO filing and Hyundai's investment plans, though Bank of Baroda faced legal pressure. The market remains closed today for the weekend and will reopen on Monday.",
-  "updatedAt": "2026-10-17T21:02:16.725Z",
+  "summary": "In the last trading session, Indian markets closed higher with Sensex at 74,729 and Nifty at 23,146, led by IT and metal stocks.\nKey corporate events over the weekend include Jio Platforms filing its final IPO prospectus and Hyundai announcing a ₹4,000 crore plant expansion.\nThe stock market is closed today, Sunday, for the weekend and will reopen on Monday, October 19.",
+  "updatedAt": "2026-10-17T21:17:41.704Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-18",
   "articleKeys": [
@@ -91,8 +92,8 @@
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
     "sensex today nifty 50 stock market highlights sensex falls 548 pts nifty ends below 22400 itc techm drop 3 each the economic times",
-    "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
-    "sensex rallies 1534 points nifty nears 23000 hdfc sky"
+    "share market live share market today latest share market news share market live updates on the economic times the economic times",
+    "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint"
   ],
   "articles": [
     {
@@ -204,16 +205,16 @@
       "publishedAt": "Mon, 12 Oct 2026 10:04:52 GMT"
     },
     {
+      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+      "publishedAt": "Sat, 17 Oct 2026 12:41:02 GMT"
+    },
+    {
       "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQblA3NmloLThJMUN0dFg3X1lJOXFTbmZaUnd3bV9CT2dyZHNNc3JsMnhIQkJqNnItU3p5dDBSQ1Itc3hfN3BUOGVUN2dqR3cxZ3ZoQUVvekNacm9qZ3llcG5sTk8xaGxXVmlPRHdUUUZEczJkUXI0STZZa1FGTWh3UkRxTVNLXzRPVGthWHVsZkNHMjR4cWJmbDh1TDRHUUVQaUg1b0dJTG9EdnZxOE8xWGNhT0ZHS2lSS0wtQTRMY1dRUWVoSWVNZ1I3cVJkU2IyaHFlWlRhUVBIMFJPZDZKYk4yaU9oQUI0ZmFIMGplTVlhbUcwRkJXd9IB_gFBVV95cUxQVUpDZVJxVzVmeFBaSDFHSHozZkFXOGFKQWtEUnkzbnR3M0FiQWlGc3l6dlBSM1h2X2hHLXRBMEtIa0M4NjdITWtTQW8xMjJlVHF4bDlIUGV3UDNzdXhkV3h4TXdMNGM4emdaczFjT3R2ZXZReENCR20tZlltZ1VwTF9vTzBka0RhQmYwMTVRNGJ4a1gwX01vQTJyemhPYldyYVlheWJYbVhqOUFoX0tJMjdTaUU1QUNsd0ptLUNFWEh1N1lwcTducGZXS3AwWXJYTnZvd0MyX1oxdnU1aXRnNHFjMXFRQ3EwVXd2dUNPU3AxNzhsR0sxNXRJVXZPUQ?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 04:33:59 GMT"
-    },
-    {
-      "title": "Sensex Rallies 1,534 Points, Nifty Nears 23,000 - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZm9OVkR1OGdhcTl5ZnZTbjhsUldMLTBnbER2QmpLZ0hIUXJ1SWpTSmlHcTRRSDJOYmJnUUVMa3o4a25hX2VpTENtVEVJT1ZUdmJqRUo5T3ZEZkkxYkpZWFRqTkl3QUw2Q1hUblJ0Mm51Ym5RdHlHZzBySHlrNXB3OHN6MWI0UjNhejVQRlBLN254b040b3NPazNMdmNRRE04NGFnM01LcEVFRExnZ3R4U0FkM2F6bXlXUGJ2Q01ONXdZbzZpbGdQVnY4YTNiN3QwQzJhYmFfOWhCN241NUhXSEs5MFJJM1JlTzhQVHYwM3pXSUVaS3ZCMUgzTUVvYzRI?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 11:23:38 GMT"
     }
   ]
 }
