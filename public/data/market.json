@@ -1,46 +1,53 @@
 {
-  "headline": "Last session: Sensex climbed 413 points to 74,729 led by IT and metal stocks as Nifty crossed 23,100",
+  "headline": "Last session: Sensex climbed 414 points to 74,729 while Nifty closed at 23,146 led by IT stocks",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 19 October.",
-    "nextOpen": "Monday, 19 October"
+    "nextOpen": "Monday, 19 October 2026"
   },
   "why": [
-    "IT, media, and metal stocks led the gains during the final trading session of the week",
-    "Positive momentum continued from Thursday's massive rally where the Sensex jumped over 1,500 points",
-    "The Nifty 50 successfully closed above the 23,100 level, settling at 23,146",
-    "Investor sentiment was bolstered by expectations of strong quarterly earnings from major blue-chip companies"
+    "On the last trading day, Sensex climbed 413.66 points to 74,729 and Nifty closed at 23,146 driven by gains in IT, media, and metal stocks.",
+    "Strong buying momentum continued from earlier in the week when markets jumped over 1,500 points ahead of weekly expiry.",
+    "Heavyweight IT stocks including Infosys, TCS, Tech Mahindra, and Wipro cushioned the market and drove sectoral gains.",
+    "Q2 earnings results and strong key financial disclosures from major banking institutions boosted investor confidence."
   ],
   "whatHappening": [
-    "Axis Bank reported a 38% year-on-year jump in Q2 net profit to ₹7,003 crore",
-    "FSSAI has taken legal action against the manufacturer of Priyagold over cattle feed bran concerns",
-    "Coal supplies to Indian power plants have surged 36% from their September lows",
-    "Ownership issues have surfaced involving Venu Srinivasan and the family behind TVS"
+    "HDFC Bank reported a 4.7% YoY increase in Q2 net profit to ₹19,510 crore supported by NII growth, though profit lagged some estimates.",
+    "Central Bank of India posted a 26% jump in Q2 Net Interest Income alongside a 79% YoY drop in provisions.",
+    "Indian Bank announced a target of 14% loan growth for FY27 focusing on margin expansion.",
+    "Ten smallcap stocks posted gains of up to 65% over the past three months despite broader market volatility."
   ],
   "stocksInNews": [
     {
-      "symbol": "AXISBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        1,
-        5,
-        9
+        0,
+        1
       ]
     },
     {
-      "symbol": "TVSMOTOR",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "symbol": "CENTRALBK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        2
+        7
+      ]
+    },
+    {
+      "symbol": "INDIANB",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        5
       ]
     },
     {
       "symbol": "TECHM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         13
       ]
@@ -48,7 +55,7 @@
     {
       "symbol": "WIPRO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         13
       ]
@@ -56,112 +63,112 @@
     {
       "symbol": "INFY",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        18
+        17
       ]
     },
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        18
+        17
       ]
     }
   ],
-  "summary": "The Indian stock market ended its last session on Friday with the Sensex rising 413 points to settle at 74,729. Gains were driven by the IT and metal sectors, extending the momentum from Thursday's significant rally. Over the weekend, Axis Bank reported a 38% rise in Q2 profit, while TVS faced ownership concerns.",
-  "updatedAt": "2026-10-17T09:31:47.448Z",
+  "summary": "On the last trading session, Indian benchmark indices closed higher with Sensex rising 414 points to 74,729 and Nifty settling above 23,100 led by IT and metal stocks. Weekend news highlights include Q2 earnings updates from HDFC Bank and Central Bank of India as well as loan growth plans from Indian Bank. The market is closed today for the weekend and will resume trading on Monday, 19 October 2026.",
+  "updatedAt": "2026-10-17T09:58:24.055Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-17",
   "articleKeys": [
-    "cryptos leverage machine finds new life beyond bitcoin bets",
-    "axis bank q2fy27 result profit rises 38 to 7003 crore misses estimates",
-    "ownership issues cloud tvs venu srinivasan family",
-    "fssai initiates legal action against priyagold maker over cattle feed bran",
-    "usukraineeuropean negotiators meet in miami as trump announces diesel deal with russia",
-    "axis bank q2 results net profit rises 37 provisions fall by over 50 to rs 1694 crore",
-    "after msci warning indonesian stocks crash to levels last seen 28 years ago",
-    "coal supplies to power plants rise 36 from september lows rail loading hits 465 rakes a day",
-    "indias share of global greenfield investments more than double chinas in 202025",
-    "axis bank q2 results net profit jumps 38 yoy to rs 7003 crore nii rises 12",
-    "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
+    "hdfc bank q2 net profit rises 47 to 19510 crore as nii grows",
+    "hdfc bank q2 results net profit below estimates provisions rise marginally",
+    "ranabaali box office collection day 2 vijay deverakonda starrer sees dip after strong opening",
+    "gurugram tops residential launches at 138 lakh cr in 2025 ncr sees 450 postcovid appreciation",
+    "the new hybrid renault duster comes with a 30 fuel savings pitch starting price of rs 1699 lakh",
+    "indian bank targets 14 loan growth for fy27 eyes margin expansion over rate hike",
+    "indias russian crude binge to continue after trump waives new sanctions law",
+    "central bank q2 results net interest income jumps 26 provisions fall by 79 yoy",
+    "ai datacentre boom puts indias power grid under pressure drives up upgrade costs",
+    "10 smallcap stocks surge up to 65 in 3 months despite market weakness",
+    "stock market today highlights sensex climbs 41366 points to settle at 74729 nifty closes at 23146 the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
     "stock market highlights sensex ends 1534 points higher nifty 50 at 22997 amid weekly expiry tech mahindra wipro gain ahead of q2 ndtv profit",
     "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today highlights sensex climbs 41366 points to settle at 74729 nifty closes at 23146 the times of india",
-    "bull charge on dstreet sensex nifty close at 2week highs after stunning rally financial express",
+    "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
     "sensex today nifty 50 indian stock market live sensex crashes 173 points nifty slips below 22700 as banking pharma and auto stocks bleed infosys tcs rally to cushion market fall the sunday guardian",
-    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom"
+    "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
+    "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline"
   ],
   "articles": [
     {
-      "title": "Crypto’s leverage machine finds new life beyond Bitcoin bets",
+      "title": "HDFC Bank Q2 net profit rises 4.7% to ₹19,510 crore as NII grows",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/cryptos-leverage-machine-finds-new-life-beyond-bitcoin-bets/articleshow/135007267.cms",
-      "publishedAt": "Sat, 17 Oct 2026 13:57:30 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/hdfc-bank-q2fy27-result-net-profit-rises-4-7-to-19-510-cr-nii-up-9-7-126101700465_1.html",
+      "publishedAt": "Sat, 17 Oct 2026 15:08:29 +0530"
     },
     {
-      "title": "Axis Bank Q2FY27 result: Profit rises 38% to ₹7,003 crore, misses estimates",
+      "title": "HDFC Bank Q2 Results: Net Profit Below Estimates, Provisions Rise Marginally",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/axis-bank-q2fy27-result-profit-rises-38-to-7-003-crore-misses-estimates-126101700435_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 13:47:49 +0530"
+      "link": "https://www.ndtvprofit.com/markets/hdfc-bank-q2-results-net-profit-below-estimates-provisions-rise-marginally-12198605#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 14:41:08 +0530"
     },
     {
-      "title": "Ownership issues cloud TVS’ Venu Srinivasan, family",
+      "title": "Ranabaali Box Office Collection Day 2: Vijay Deverakonda Starrer Sees Dip After Strong Opening",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/ownership-issues-cloud-tvs-venu-srinivasan-family/article71565380.ece",
-      "publishedAt": "Sat, 17 Oct 2026 13:43:56 +0530"
+      "link": "https://www.ndtvprofit.com/business/ranabaali-box-office-collection-day-2-vijay-deverakonda-starrer-sees-dip-after-strong-opening-check-friday-earnings-12198716#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 14:38:46 +0530"
     },
     {
-      "title": "FSSAI initiates legal action against Priyagold maker over cattle feed bran",
+      "title": "Gurugram tops residential launches at ₹1.38 lakh cr in 2025; NCR sees 450% post-Covid appreciation",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/fssai-initiates-legal-action-against-priyagold-maker-over-cattle-feed-bran-126101700340_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 13:35:00 +0530"
+      "link": "https://www.thehindu.com/business/Industry/gurugram-tops-residential-launches-at-138-lakh-cr-in-2025-ncr-sees-450-post-covid-appreciation/article71568980.ece",
+      "publishedAt": "Sat, 17 Oct 2026 14:33:06 +0530"
     },
     {
-      "title": "U.S.-Ukraine-European negotiators meet in Miami as Trump announces diesel deal with Russia",
+      "title": "The New Hybrid Renault Duster Comes With A 30% Fuel Savings Pitch, Starting Price Of Rs 16.99 Lakh",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/international/us-ukraine-european-negotiators-meet-in-miami-as-trump-announces-diesel-deal-with-russia/article71567031.ece",
-      "publishedAt": "Sat, 17 Oct 2026 13:28:53 +0530"
+      "link": "https://www.ndtvprofit.com/business/the-new-hybrid-duster-comes-with-a-30-fuel-savings-pitch-from-renault-all-you-need-to-know-12198648#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 14:31:38 +0530"
     },
     {
-      "title": "Axis Bank Q2 Results: Net Profit Rises 37%, Provisions Fall By Over 50% To Rs 1,694 Crore",
+      "title": "Indian Bank Targets 14% Loan Growth For FY27, Eyes Margin Expansion Over Rate Hike",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/axis-bank-q2-results-net-profit-rises-37-provisions-fall-by-over-50-to-rs-1-694-crore-12198433#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 13:27:29 +0530"
+      "link": "https://www.ndtvprofit.com/markets/indian-bank-targets-14-loan-growth-for-fy27-eyes-margin-expansion-over-rate-hike-12194135#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 14:30:54 +0530"
     },
     {
-      "title": "After MSCI Warning, Indonesian Stocks Crash To Levels Last Seen 28 Years Ago",
+      "title": "India’s Russian crude binge to continue after Trump waives new sanctions law",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/after-msci-warning-indonesian-stocks-crash-to-levels-last-seen-28-years-ago-12198493#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 13:26:02 +0530"
+      "link": "https://www.thehindu.com/business/Economy/indias-russian-crude-binge-to-continue-after-trump-waives-new-sanctions-law/article71595889.ece",
+      "publishedAt": "Sat, 17 Oct 2026 14:29:54 +0530"
     },
     {
-      "title": "Coal supplies to power plants rise 36% from September lows; rail loading hits 465 rakes a day",
+      "title": "Central Bank Q2 Results: Net Interest Income Jumps 26%, Provisions Fall By 79% YoY",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/coal-supplies-to-power-plants-rise-36-from-september-lows-rail-loading-hits-465-rakes-a-day/article71564570.ece",
-      "publishedAt": "Sat, 17 Oct 2026 13:24:31 +0530"
+      "link": "https://www.ndtvprofit.com/markets/central-bank-q2-results-net-interest-income-jumps-26-provisions-fall-by-79-yoy-12198595#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 14:24:27 +0530"
     },
     {
-      "title": "India’s share of global greenfield investments more than double China’s in 2020-25",
+      "title": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece",
-      "publishedAt": "Sat, 17 Oct 2026 13:24:20 +0530"
+      "link": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
+      "publishedAt": "Sat, 17 Oct 2026 14:22:03 +0530"
     },
     {
-      "title": "Axis Bank Q2 Results: Net profit jumps 38% YoY to Rs 7,003 crore, NII rises 12%",
+      "title": "10 smallcap stocks surge up to 65% in 3 months despite market weakness",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q2-results-net-profit-jumps-38-yoy-to-rs-7003-crore-nii-rises-12/articleshow/135009892.cms",
-      "publishedAt": "Sat, 17 Oct 2026 13:12:58 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-smallcap-stocks-surge-up-to-65-in-3-months-despite-market-weakness/slideshow/135010857.cms",
+      "publishedAt": "Sat, 17 Oct 2026 14:16:40 +0530"
     },
     {
-      "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
+      "title": "Stock Market Today Highlights: Sensex climbs 413.66 points to settle at 74,729; Nifty closes at 23,146 - The Times of India",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPSjd3cS1xeFFJV1o3cUl5d0drVko0ck5CelB2S20wUWtXV3pRUDJVOUlLWDk3WEktcHVhVDRnUkhHOEgyanp0Zm1CdDNYVzN2OXc2QndfYmN2SXRoQnUwOWJqV1VLQnpIMEJsbl9QUTZ2ZTN4clV1YlM2aDBoYnpaRzd2U01WRlFVSHFreVlITV9qWXg3SFhodncyeGVIOHIzelh5RGlzbXZNTWtTblJ2bmRiX2lfV1lISThJazVNVVF6WkZhNHNPUmVucnNES09FUDVyaUk0UkxrN3NsTWg2THRxMzF3UlNidjhjQ3REYklFeFMzUjhkTXVHMkxiTDdpZXZWS25BcTlNeTRMM3RveG5VRTg3WVgwWlJ2TWhkOFJ2RGpiMnUwLTdkckcxbGRDVUpQT9IBugJBVV95cUxQY2NBSWx0dlpOaU85aGZfaG5maWdGbVZ6ZTlhTnVMcTN5SHgtZGJvS0h1NmlWbWt0UVhRNFFXZ3BiUmdKOG5iNDNral82WlFDZFlQVzF6MFN3SkJDOGFKQlYtTzd6dndUd0EzdFZRS3V5OThWejR1X3FKUzE4WC1uREFjQjN0dkVzUERGclRZX2FaTGxYRXRrNk02MXlPZ0h3Y2VqUkVsSk8tYVlsd1Y0RkFCZUxoZFd4dnZpem5oeHJZRzNBRUgyYXpvakM2UVNpbl94NktSdjdtNnRub0U1YlVZbUVXS0VYX1F4WWV1QVdxeDQ4aDhaN0N0QmNYR1RBaW1JbTRaU21aMi14a2xMZlhJNE9rb0hMcVJsSzRacC04WTJoN3VoeDJqa3FuV29zRmxGSV84VnFhUQ?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 10:18:14 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNemV4TVUtV1dQRHhOemFwVTFNY292WWNPWUcwbzFrTkpINFA4dWI1LWc5cjRUdlQ4VzVMTEZnUXNaS0p0VjVUNXl1Vm1CUmprWmVpVTZnOXkwMUZ0NXRiVnBUWHFMNFZFb05JeTJ1cDJwVWxGQXJQQnJBZElWZUFHUmxYcm5ZRnJoMUFrWi1VeC1PQnRRYzZCYWtBTnltb2o1UEVibUQ3ekwxLUI1SkRWaFdMMVpzdEtxbmE0LXl3Um45VGRkR2lRS21TSktLdTBCZWhYZDJEZEdiMkN5ZFBSVlRKZ0hhV3NmUTBiQTIzUlVHczZtLXpDZzhseWtFR1gzODhCLXpMLWZVbGEwZWJyRk80MFFWVXFJQ3l6aVVvWjJNUHdSZkJ0WURHb3JVdGxsdDBZLdIBugJBVV95cUxQa0cwbGJ5VDdYTjVGeHNqNVBFM0YxS1pqTHpoalNzQmFUOVlwVXhsc3BxZElHRlNkOFpYbjBYYXFWT2ZNaldNZmxMdlY4R3QwcUxzemdjdVVUeWdxd3FpR1NYRFI3aWxodHRVY2dEdnh3YnZvREpPTVhTc2swbFlXdTlLTG12bFZjb2xKV0l4NEJpcHZBYWVsazdlSGd6cmE5NWs2VHh4bkg0VFJMSjNSNHpHT3NHeDloMWVFX0l5ejF0V1JqQTJVRzU3NWYzQzljREd1NUNEVWdDS181Y0pxSmZ5VUZ0YUt6RkFHSTQxellNTFJjLUthS3dVaUlvMGY0V2ZjMXVZSnVOV0NVcTNZNWxDTHNmMVdfMUtXaFRYazBlSW1rTGZrLS0tb0ZMcWo3U0t1QV9JeVJYdw?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 10:46:36 GMT"
     },
     {
       "title": "Closing Bell: Nifty above 23,100, Sensex gains 413 pts led by IT, media and metal stocks - Moneycontrol.com",
@@ -188,16 +195,10 @@
       "publishedAt": "Fri, 16 Oct 2026 01:19:58 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: Sensex climbs 413.66 points to settle at 74,729; Nifty closes at 23,146 - The Times of India",
+      "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
       "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNemV4TVUtV1dQRHhOemFwVTFNY292WWNPWUcwbzFrTkpINFA4dWI1LWc5cjRUdlQ4VzVMTEZnUXNaS0p0VjVUNXl1Vm1CUmprWmVpVTZnOXkwMUZ0NXRiVnBUWHFMNFZFb05JeTJ1cDJwVWxGQXJQQnJBZElWZUFHUmxYcm5ZRnJoMUFrWi1VeC1PQnRRYzZCYWtBTnltb2o1UEVibUQ3ekwxLUI1SkRWaFdMMVpzdEtxbmE0LXl3Um45VGRkR2lRS21TSktLdTBCZWhYZDJEZEdiMkN5ZFBSVlRKZ0hhV3NmUTBiQTIzUlVHczZtLXpDZzhseWtFR1gzODhCLXpMLWZVbGEwZWJyRk80MFFWVXFJQ3l6aVVvWjJNUHdSZkJ0WURHb3JVdGxsdDBZLdIBugJBVV95cUxQa0cwbGJ5VDdYTjVGeHNqNVBFM0YxS1pqTHpoalNzQmFUOVlwVXhsc3BxZElHRlNkOFpYbjBYYXFWT2ZNaldNZmxMdlY4R3QwcUxzemdjdVVUeWdxd3FpR1NYRFI3aWxodHRVY2dEdnh3YnZvREpPTVhTc2swbFlXdTlLTG12bFZjb2xKV0l4NEJpcHZBYWVsazdlSGd6cmE5NWs2VHh4bkg0VFJMSjNSNHpHT3NHeDloMWVFX0l5ejF0V1JqQTJVRzU3NWYzQzljREd1NUNEVWdDS181Y0pxSmZ5VUZ0YUt6RkFHSTQxellNTFJjLUthS3dVaUlvMGY0V2ZjMXVZSnVOV0NVcTNZNWxDTHNmMVdfMUtXaFRYazBlSW1rTGZrLS0tb0ZMcWo3U0t1QV9JeVJYdw?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 10:46:36 GMT"
-    },
-    {
-      "title": "Bull charge on D’Street: Sensex, Nifty close at 2-week highs after stunning rally - Financial Express",
-      "source": "Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQkVEbmw0NEprRTk2SjE5MUVmQTVob3VLcjVIQTZ1UDREWVNYYVhTSXY2YWxVOWV4S09Zc3BYNW1SZlVrSzA1bFhfX1N1SG55eEtIT2E0RnRNOE03Q3o4c0dtOFlJRlR3U2NrT0lLejJ3b3dRVUJCN0NvSnk2eXhLbWpWbWZlWE9hTGJHSzlmZi1zdlVPQlBXZW5IdEZ6S2lzNWtPTzJmVG14RUh1cjdRTWFLR004N2duOVVKeF9Qd3ZSejdNOFJ6QUR5eVRNRUFrVzZPMlhHeXNPWXFrSk5Mbkk3b3JsRGxRdmVtZG1SUno?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 10:17:57 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPSjd3cS1xeFFJV1o3cUl5d0drVko0ck5CelB2S20wUWtXV3pRUDJVOUlLWDk3WEktcHVhVDRnUkhHOEgyanp0Zm1CdDNYVzN2OXc2QndfYmN2SXRoQnUwOWJqV1VLQnpIMEJsbl9QUTZ2ZTN4clV1YlM2aDBoYnpaRzd2U01WRlFVSHFreVlITV9qWXg3SFhodncyeGVIOHIzelh5RGlzbXZNTWtTblJ2bmRiX2lfV1lISThJazVNVVF6WkZhNHNPUmVucnNES09FUDVyaUk0UkxrN3NsTWg2THRxMzF3UlNidjhjQ3REYklFeFMzUjhkTXVHMkxiTDdpZXZWS25BcTlNeTRMM3RveG5VRTg3WVgwWlJ2TWhkOFJ2RGpiMnUwLTdkckcxbGRDVUpQT9IBugJBVV95cUxQY2NBSWx0dlpOaU85aGZfaG5maWdGbVZ6ZTlhTnVMcTN5SHgtZGJvS0h1NmlWbWt0UVhRNFFXZ3BiUmdKOG5iNDNral82WlFDZFlQVzF6MFN3SkJDOGFKQlYtTzd6dndUd0EzdFZRS3V5OThWejR1X3FKUzE4WC1uREFjQjN0dkVzUERGclRZX2FaTGxYRXRrNk02MXlPZ0h3Y2VqUkVsSk8tYVlsd1Y0RkFCZUxoZFd4dnZpem5oeHJZRzNBRUgyYXpvakM2UVNpbl94NktSdjdtNnRub0U1YlVZbUVXS0VYX1F4WWV1QVdxeDQ4aDhaN0N0QmNYR1RBaW1JbTRaU21aMi14a2xMZlhJNE9rb0hMcVJsSzRacC04WTJoN3VoeDJqa3FuV29zRmxGSV84VnFhUQ?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 10:18:14 GMT"
     },
     {
       "title": "Closing Bell: Nifty at 23,000, Sensex zooms 1,534 pts; IT, auto, private banks shine - Moneycontrol.com",
@@ -216,6 +217,12 @@
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQMjhKMXV4X1A2RUZLTW5vV0ZjVnl5ZnNtVDY3NVpfZ0NWMXJ5M3ZqUkp1ZmNxR1RtYVg3M1FuOWp3d3lsVlRWdDk1dVVIMkIzaG1zREd1UVZiNHZSNHZDNC1YMkhyaFJBRkVFdnNnMG9Dc250REp4V1JzLWs1R2ladTZRR2F3QkpfY0tKb1J6ZVVIUVJieUEtb0ltTG5fSG5CMW9KQXJuSl9wQVdXYnNtTjZRLXNhTlZ2ZEJiY0hfTEFZX2NmWGJvT0VITTU2S00za3BDc1R3LU5TRkRrZTl1VE8xMk10clFhUjdZNlpxMUlJSlVJbFhQcFpnUUl1aEZpc2dyUVBWYmprT1UwZUZ3bDdzQ2lBWGJFS0V1QTZsT29uaU3SAagCQVVfeXFMTmhXQVRjZ3NCcGNvSGFKVEJFYUl3MWN5TXRsbm1Yakl3VWhTc29zVVY4ZXRYbExsOWlsa2ZSRDByanhjV0s1ZVRRRUJTMHRxNi1JVGJ2OEtkbWVoejliMGoxRkJBLVhWalNQNElKSFljSmFfaTNJUXR0WlFiMlBCa2xiWmNyUVBJS3M1Zms3azhVTmM0dVhURU5Lb3d2dDg3azNtV1R5ODhDQmZVemxSV0JaN1I1YlcxVGdZbVBndmQ0Q0RDb3ZXZml0ZUVyOG0yblBsSGlRQ1o5TnJmVUhfOEFFSjZLbXNjV1pDejBMczBWcmdKaVM2WmdDeGJxb29oYkU2YXV0YnB3blV1X3RRaEV3WVd0aWw4TmptZkhfZENLS3ZwazhqMkc?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
+    },
+    {
+      "title": "Stock Market Today Live, Oct 14: Sensex settles at 72,781.89; Nifty down 99.25 points to 22,622.70 - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjJxdGxpUHA1S1U5S2ZPU215c3dsa1NHOWZJX096MzN6NERSeTk5U0xFUVp2ZnB3T1VCUGlhWkdJMXJsRng2QkQxSWNHdWhTN2tkX0pTbHRleEVmS0RTU0pSX2Y2NWp2Wlo5blpaN1gtZzdsbnEtTTNSZ1B6WVF0N1JvUTlWT0dqdVZNZjFDcXhFc3JTVXB5cThhSnRFck1JZ3V4VzVQRXMxZ2lsYUxZQndxTWt4NmtSZk1fUlpPZEs1aGN0MXc?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:40:35 GMT"
     }
   ]
 }
