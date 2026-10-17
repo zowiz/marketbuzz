@@ -1,72 +1,132 @@
 {
-  "headline": "On last trading day, Sensex gained 413 points and Nifty closed above 23,100 led by IT and metals.",
+  "headline": "Last session: Sensex gained 413 points as Nifty IT index recorded its best weekly rally since 2008.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 19 October.",
-    "nextOpen": "Monday, 19 October"
+    "nextOpen": "Monday, 19 October 2026"
   },
   "why": [
-    "Gains in IT, media, and metal stocks propelled the indices higher during Friday's closing session.",
-    "Solid buying interest in IT heavyweights like Tech Mahindra and Wipro provided support ahead of Q2 earnings.",
-    "A massive rally earlier in the week saw the market surge over 1,500 points across auto, IT, and private bank shares.",
-    "Global market sentiment remained mixed with fading Fed rate hike bets and softening dollar strength."
+    "IT, media, and metal stocks led the gains in the final session of the week.",
+    "The Nifty IT index surged 11.7% over the week, marking its biggest rally since 2008.",
+    "Anticipation of Q2FY27 earnings from major private sector banks supported investor sentiment.",
+    "Global market trends and a softening dollar provided a supportive backdrop for domestic equities."
   ],
   "whatHappening": [
-    "On the last trading day, Nifty closed above 23,100 while Sensex gained 413 points.",
-    "Sensex had previously zoomed 1,534 points to reach 2-week highs during Thursday's trading session.",
-    "Jio's planned $3.2 billion IPO is testing investor appetite among young Indian retail market participants.",
-    "Global equities experienced weekly shifts with US dollar heading for a weekly loss and gold facing price drops."
+    "Sensex and Nifty ended the week on a high note, with Nifty closing above the 23,100 level.",
+    "The RBI has reportedly utilized $60 billion in six weeks to defend the Indian rupee.",
+    "Several major companies, including HDFC Bank and ICICI Bank, are set to report quarterly results.",
+    "The government is progressing with the IDBI Bank disinvestment, citing the 2003 Act and court rulings."
   ],
   "stocksInNews": [
     {
-      "symbol": "TECHM",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        13
-      ]
-    },
-    {
-      "symbol": "WIPRO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        13
-      ]
-    },
-    {
       "symbol": "INFY",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 3/8 sources",
       "articleIds": [
+        5,
+        11,
         17
       ]
     },
     {
       "symbol": "TCS",
       "sentiment": "Positive",
+      "sources": "Mentioned by 3/8 sources",
+      "articleIds": [
+        5,
+        11,
+        17
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 3/8 sources",
+      "articleIds": [
+        5,
+        11,
+        13
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 3/8 sources",
+      "articleIds": [
+        5,
+        11,
+        13
+      ]
+    },
+    {
+      "symbol": "IDBI",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        17
+        2,
+        4
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        4,
+        16
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        4,
+        16
+      ]
+    },
+    {
+      "symbol": "AXISBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        4,
+        16
+      ]
+    },
+    {
+      "symbol": "YESBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "INDIACEM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
       ]
     }
   ],
-  "summary": "On the last trading day, Indian markets closed on a positive note with Nifty crossing 23,100 and Sensex gaining 413 points.\nMajor contributions came from IT, media, and metal stocks following a broader 1,500-point rally earlier in the week.\nThe Indian stock market is closed today for the weekend and will resume trading on Monday, 19 October.",
-  "updatedAt": "2026-10-17T05:02:05.339Z",
+  "summary": "On the last trading day, the Sensex gained 413 points while the Nifty closed above 23,100. The Nifty IT index recorded an 11.7% weekly surge, its strongest performance since 2008. Markets are currently closed for the weekend and will reopen on Monday, October 19.",
+  "updatedAt": "2026-10-17T06:02:32.811Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-17",
   "articleKeys": [
+    "bjp veteran lk advani admitted to delhi hospital with pulmonary issues",
+    "60 billion in 6 weeks rbis rupee defence comes at a cost",
+    "idbi bank disinvestment govt cites 2003 act delhi hc ruling on stake dilution",
+    "ai bubble burst may trigger 2008like banking crisis says gary marcus",
+    "q2fy27 results live updates hdfc bank icici bank axis bank idbi bank yes bank india cements to announce earnings",
+    "its time to celebrate when chips are down nifty it soars 117 to log biggest weekly rally since 2008",
     "dollar heads for weekly loss as fed hike bets fade ai jitters linger",
     "gold set for a weekly drop as traders assess fed signals",
     "european shares close out best week since june as earnings soften blow from tech selloff",
     "global markets stocks slip as dollar heads for weekly loss",
-    "wall street week ahead as ai rally wobbles stock markets spotlight turns to earnings",
-    "jios 32 billion ipo tests ambani appeal with young indians",
-    "satcom row starlink says india infra has govt approvals ready for launch",
-    "neha bora released dipke to be produced before sem court delhi police",
-    "kanya pujan 2026 dates time when to perform rituals dos and donts",
-    "trumps new white house press secretary katie zacharia out after five days",
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
@@ -79,6 +139,42 @@
     "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline"
   ],
   "articles": [
+    {
+      "title": "BJP veteran LK Advani admitted to Delhi hospital with pulmonary issues",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/bjp-veteran-lk-advani-admitted-to-delhi-hospital-with-pulmonary-issues-126101700143_1.html",
+      "publishedAt": "Sat, 17 Oct 2026 10:29:39 +0530"
+    },
+    {
+      "title": "$60 billion in 6 weeks: RBI's rupee defence comes at a cost",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
+      "publishedAt": "Sat, 17 Oct 2026 10:26:20 +0530"
+    },
+    {
+      "title": "IDBI Bank Disinvestment: Govt Cites 2003 Act, Delhi HC Ruling On Stake Dilution",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/idbi-bank-disinvestment-govt-cites-2003-act-delhi-hc-ruling-on-stake-dilution-12197964#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 10:21:05 +0530"
+    },
+    {
+      "title": "AI bubble burst may trigger 2008-like banking crisis, says Gary Marcus",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135007219.cms",
+      "publishedAt": "Sat, 17 Oct 2026 09:56:04 +0530"
+    },
+    {
+      "title": "Q2FY27 Results Live Updates: HDFC Bank, ICICI Bank, Axis Bank, IDBI Bank, Yes Bank, India Cements To Announce Earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/q2fy27-results-live-updates-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-india-cements-to-announce-earnings-12197871#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 09:53:36 +0530"
+    },
+    {
+      "title": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
+      "publishedAt": "Sat, 17 Oct 2026 09:46:40 +0530"
+    },
     {
       "title": "Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger",
       "source": "Zerodha Pulse",
@@ -102,42 +198,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-stocks-slip-as-dollar-heads-for-weekly-loss/articleshow/135007060.cms",
       "publishedAt": "Sat, 17 Oct 2026 09:32:22 +0530"
-    },
-    {
-      "title": "Wall Street Week Ahead: As AI rally wobbles, stock market's spotlight turns to earnings",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings/articleshow/135007046.cms",
-      "publishedAt": "Sat, 17 Oct 2026 09:29:31 +0530"
-    },
-    {
-      "title": "Jio’s $3.2 billion IPO tests Ambani appeal with young Indians",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-3-2-billion-ipo-tests-ambani-appeal-with-young-indians/articleshow/135006812.cms",
-      "publishedAt": "Sat, 17 Oct 2026 09:18:41 +0530"
-    },
-    {
-      "title": "Satcom row: Starlink says India infra has govt approvals, ready for launch",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/satcom-row-starlink-says-india-infra-has-govt-approvals-ready-for-launch-126101700036_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 09:01:59 +0530"
-    },
-    {
-      "title": "Neha Bora released, Dipke to be produced before SEM court: Delhi Police",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/neha-bora-released-dipke-to-be-produced-before-sem-court-delhi-police-126101700085_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 08:48:40 +0530"
-    },
-    {
-      "title": "Kanya Pujan 2026: Dates, Time, When To Perform Rituals, Do's And Don'ts",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/kanya-pujan-2026-dates-time-when-to-perform-rituals-dos-and-donts-12197643#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 08:30:47 +0530"
-    },
-    {
-      "title": "Trump's New White House Press Secretary Katie Zacharia Out After Five Days",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/trumps-new-white-house-press-secretary-katie-zacharia-out-after-five-days-12197635#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 08:05:29 +0530"
     },
     {
       "title": "Stock market today highlights: Sensex jumps 1,534 points, Nifty gains 375 points - The Times of India",
