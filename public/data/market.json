@@ -1,46 +1,65 @@
 {
-  "headline": "On last trading day, Sensex climbed 414 points and Nifty closed above 23,100 led by IT and metals",
+  "headline": "Last session: Sensex climbed 413 points to 74,729 while Nifty settled above 23,100 led by IT and metals.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
-    "message": "Market is closed today because it is a weekend. It will reopen on Monday, 19 October.",
-    "nextOpen": "Monday, 19 October"
+    "message": "Market is closed today because it is a weekend. It will reopen on Wednesday, 21 October.",
+    "nextOpen": "Wednesday, 21 October"
   },
   "why": [
-    "In the last session, Sensex climbed 413.66 points to settle at 74,729 while Nifty closed at 23,146.",
-    "Gains were primarily driven by strong buying interest in IT, media, and metal stocks.",
-    "Positive earnings sentiment boosted confidence as companies like ixigo posted strong Q2 profits.",
-    "Markets sustained momentum after a sharp rally on Thursday led by technology and automobile shares."
+    "Gains in IT, media, and metal stocks drove the indices higher in the last session",
+    "Positive momentum following a massive 1,500-point surge in the preceding session",
+    "Strong Q2 earnings reports from major banking institutions",
+    "Buying interest in private banks and auto stocks"
   ],
   "whatHappening": [
-    "HDFC Bank MD Kaizad Bharucha requested cessation of services effective Dec. 31, 2026.",
-    "ixigo reported a Q2 profit of Rs 63 crore supported by strong performance in its hotel booking business.",
-    "Corporate actions were announced for stocks including Tech Mahindra, IRFC, Angel One, and ICICI Prudential AMC.",
-    "IT giants Tech Mahindra and Wipro recorded gains in recent sessions ahead of their Q2 financial results."
+    "ICICI Bank reported a 20% rise in Q2 net profit to ₹14,843 crore as provisions fell",
+    "HDFC Bank's Deputy MD Kaizad Bharucha announced his exit effective December 31, 2026",
+    "Central Bank of India's Q2 profit grew 21% supported by 30% loan growth",
+    "DLF eyes significant revenue growth from FY28 as ₹75,000 crore in projects near completion"
   ],
   "stocksInNews": [
     {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
+      "symbol": "CENTRALBK",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
         0
       ]
     },
     {
-      "symbol": "IXIGO",
+      "symbol": "DLF",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        3,
+        4,
+        5,
+        8
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        5,
         7
       ]
     },
     {
       "symbol": "TECHM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/6 sources",
+      "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        8,
         13
       ]
     },
@@ -53,27 +72,11 @@
       ]
     },
     {
-      "symbol": "IRFC",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "ANGELONE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
       "symbol": "INFY",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        18
+        19
       ]
     },
     {
@@ -81,41 +84,25 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        18
-      ]
-    },
-    {
-      "symbol": "SHRIRAMFIN",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        18
-      ]
-    },
-    {
-      "symbol": "HDFCLIFE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        18
+        19
       ]
     }
   ],
-  "summary": "In the last trading session, Indian benchmark indices closed higher with Sensex gaining 414 points to 74,729 and Nifty reaching 23,146. IT, media, and metal stocks led the market gains alongside upbeat corporate updates like ixigo's Q2 earnings. Markets are closed today for the weekend and will reopen on Monday, 19 October.",
-  "updatedAt": "2026-10-17T12:31:26.062Z",
+  "summary": "On the last trading day, Indian markets extended their rally with the Sensex closing at 74,729 and Nifty above 23,100. Weekend news is dominated by strong Q2 results from ICICI Bank and Central Bank of India, alongside leadership changes at HDFC Bank. DLF also projected a positive long-term revenue outlook as major projects approach completion.",
+  "updatedAt": "2026-10-17T13:01:57.048Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-17",
   "articleKeys": [
+    "central bank of india q2 profit rises 21 as loans grow 30",
+    "joining the dots a week of closure yet crude delivers a reality check",
+    "dlf eyes revenue growth from fy28 as 75000 cr projects near completion",
+    "the last original standing kaizad bharuchas threedecade run inside indias largest private bank",
+    "kaizad bharucha to exit hdfc bank at end of december after three decades",
+    "q2fy27 results live updates icici bank to reverse agri portfolio provisions upon rbi nod hdfc bank profit below estimates",
+    "take it down now neha sharma warns of legal action over ai images and videos using her likeness",
+    "icici bank q2 net rises 20 to 14843 crore as provisions fall",
     "hdfc bank md kaizad bharucha requests cessation of services from dec 31 2026",
     "rising borrowing costs signal funding risks for global ai expansion jefferies report",
-    "ai race may depend more on access to power infrastructure than chip supply morgan stanley",
-    "manchester city vs ipswich town live streaming likely lineups how to watch premier league match on tv online in india",
-    "brentford vsliverpool live streaming likely lineups how to watch premier league match on tv online in india",
-    "from festive spending to financial goals how individual attitudes towards money are changing",
-    "drishyam 3 star ajay devgns juhu bungalow partly demolished by bmc here why",
-    "ixigo q2 profit at rs 63 cr on robust show in hotel booking biz",
-    "corporate actions this week icici prudential amc tech mahindra ltm irfc and angel one",
-    "india vs west indies live streaming when and where to watch 5th t20i",
     "stock market today highlights sensex climbs 41366 points to settle at 74729 nifty closes at 23146 the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
@@ -124,10 +111,58 @@
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
     "closing bell nifty below 22650 sensex down 252 pts in volatile trade it shines pharma drags moneycontrolcom",
-    "stock market live highlights sensex drops 226 points nifty 50 below 22650 infosys tcs jump shriram fin hdfc life top losers ndtv profit",
-    "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline"
+    "stock market today live oct 14 sensex settles at 7278189 nifty down 9925 points to 2262270 businessline",
+    "stock market live highlights sensex drops 226 points nifty 50 below 22650 infosys tcs jump shriram fin hdfc life top losers ndtv profit"
   ],
   "articles": [
+    {
+      "title": "Central Bank of India Q2 profit rises 21% as loans grow 30%",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-india-q2-profit-rises-21-as-loans-grow-30/articleshow/135014014.cms",
+      "publishedAt": "Sat, 17 Oct 2026 17:44:25 +0530"
+    },
+    {
+      "title": "Joining The Dots | A Week Of Closure, Yet Crude Delivers A Reality Check",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/opinion-joining-the-dots-a-week-of-closure-yet-crude-delivers-a-reality-check-12198927#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 17:22:39 +0530"
+    },
+    {
+      "title": "DLF eyes revenue growth from FY28 as ₹75,000 cr projects near completion",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/dlf-eyes-revenue-growth-from-fy28-as-75-000-cr-projects-near-completion-126101700688_1.html",
+      "publishedAt": "Sat, 17 Oct 2026 17:19:12 +0530"
+    },
+    {
+      "title": "The Last Original Standing: Kaizad Bharucha’s Three-Decade Run Inside India’s Largest Private Bank",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/the-last-original-standing-kaizad-bharucha-s-three-decade-run-inside-india-s-largest-private-bank-12199278#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 17:19:07 +0530"
+    },
+    {
+      "title": "Kaizad Bharucha to exit HDFC Bank at end of December after three decades",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/kaizad-bharucha-to-exit-hdfc-bank-at-end-of-december-after-three-decades-126101700674_1.html",
+      "publishedAt": "Sat, 17 Oct 2026 17:10:18 +0530"
+    },
+    {
+      "title": "Q2FY27 Results Live Updates: ICICI Bank To Reverse Agri Portfolio Provisions Upon RBI Nod, HDFC Bank Profit Below Estimates",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/q2fy27-results-live-updates-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-india-cements-to-announce-earnings-12197871#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 17:10:02 +0530"
+    },
+    {
+      "title": "'Take It Down Now': Neha Sharma Warns of Legal Action Over AI Images and Videos Using Her Likeness",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/neha-sharma-warns-of-legal-action-over-ai-images-and-videos-using-her-likeness-12199220#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 17:02:44 +0530"
+    },
+    {
+      "title": "ICICI Bank Q2 net rises 20% to ₹14,843 crore as provisions fall",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/icici-bank-q2-fy27-result-net-profit-rises-22-3-to-16-333-crore-126101700550_1.html",
+      "publishedAt": "Sat, 17 Oct 2026 16:53:48 +0530"
+    },
     {
       "title": "HDFC Bank MD Kaizad Bharucha Requests Cessation Of Services From Dec. 31, 2026",
       "source": "Zerodha Pulse",
@@ -139,54 +174,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-jefferies-report/articleshow/135012567.cms",
       "publishedAt": "Sat, 17 Oct 2026 16:34:01 +0530"
-    },
-    {
-      "title": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley/articleshow/135012540.cms",
-      "publishedAt": "Sat, 17 Oct 2026 16:32:52 +0530"
-    },
-    {
-      "title": "Manchester City Vs Ipswich Town Live Streaming: Likely Lineups; How To Watch Premier League Match On TV, Online In India?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/manchester-city-vs-ipswich-town-football-live-streaming-likely-lineups-how-to-watch-premier-league-match-on-tv-online-in-india-12196033#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 16:30:01 +0530"
-    },
-    {
-      "title": "Brentford VsLiverpool Live Streaming: Likely Lineups; How To Watch Premier League Match On TV, Online In India?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/brentford-vsliverpool-football-live-streaming-likely-lineups-how-to-watch-premier-league-match-on-tv-online-in-india-12194515#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 16:30:01 +0530"
-    },
-    {
-      "title": "From Festive Spending to Financial Goals: How Individual Attitudes Towards Money Are Changing",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/how-individual-attitudes-towards-money-are-changing-12199072#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 16:24:24 +0530"
-    },
-    {
-      "title": "Drishyam 3 Star Ajay Devgn's Juhu Bungalow Partly Demolished By BMC, Here Why",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/drishyam-3-star-ajay-devgns-juhu-bungalow-partly-demolished-by-bmc-here-why-12199064#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 16:22:35 +0530"
-    },
-    {
-      "title": "ixigo Q2 profit at Rs 63 cr on robust show in hotel booking biz",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ixigo-q2-profit-at-rs-63-cr-on-robust-show-in-hotel-booking-biz/articleshow/135012396.cms",
-      "publishedAt": "Sat, 17 Oct 2026 16:21:46 +0530"
-    },
-    {
-      "title": "Corporate Actions This Week: ICICI Prudential AMC, Tech Mahindra, LTM, IRFC And Angel One",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-icici-prudential-amc-tech-mahindra-ltm-irfc-and-angel-one-12198932#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 16:09:36 +0530"
-    },
-    {
-      "title": "India Vs West Indies Live Streaming: When And Where To Watch 5th T20I",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-vs-west-indies-cricket-live-streaming-when-and-where-to-watch-ind-vs-wi-5th-t20i-12196417#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 16:00:01 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex climbs 413.66 points to settle at 74,729; Nifty closes at 23,146 - The Times of India",
@@ -237,16 +224,16 @@
       "publishedAt": "Wed, 14 Oct 2026 10:33:12 GMT"
     },
     {
-      "title": "Stock Market Live Highlights: Sensex Drops 226 Points, Nifty 50 Below 22,650; Infosys, TCS Jump; Shriram Fin, HDFC Life Top Losers - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWDFwMTlpWnRkTnVzazZjXzNUYXNvc0U1c0lrVk1TX2xMMXhTWkNpQTVOU3pJQTBjbmxYNHNWbEllczRJODZXT3NfNnZ6MHZMc2R2XzFVejdGSlM1UkhLN2I4bXE2Xzk5S19GSUJxRnNwbDNESEdGWDcxQWgxUnNwUWpKLV9RcWtOeFdoYVFSQUttcXZ6X0NFSHZWSndlWTVXdFE5QjVfN29ka2lHN0tVZlp4NzRpd0REVC1PLVVETzdKT1Z0UmZ1VlN4cjVlRnZ3M2R4ZUtKaU9aZnEybDZ3d2dlX08xN3VWRGIwcFdISG1KdGhxMUZILWx4M0hLMThDRmRZ0gGLAkFVX3lxTE9YSjZlTU5waThiUjN3MVhEemg3SU1IaXl0cDREeUVMV2NZYWprUW4tdk5QamJJcDdpVFhVWXQ2LWxjSGMtcE0tNEpIeW5tNlZnbUg3bUtUUlMzSldtdTVqUGZSRlNnN1dpcWcwWXdLYUtwcExQeDlvMFZjbUlZUHYwR01tZFBINHZQak5tanBrajZUd3RXdVNQRzNHZXpHbVFYLWlTQ2dNcHBWYkExRno0YUJJWXF0aVg3Y24zcEVLNE9SNnhpY0EzU2J2R1JEN1pxbnpBYWhwUDJ2bVBtV0JZQlZRSTdsT3dTNzRVekh5TzJFVHJodTBMd3RSSDdUVDQxZDlnT0RjWkswcw?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 10:15:44 GMT"
-    },
-    {
       "title": "Stock Market Today Live, Oct 14: Sensex settles at 72,781.89; Nifty down 99.25 points to 22,622.70 - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjJxdGxpUHA1S1U5S2ZPU215c3dsa1NHOWZJX096MzN6NERSeTk5U0xFUVp2ZnB3T1VCUGlhWkdJMXJsRng2QkQxSWNHdWhTN2tkX0pTbHRleEVmS0RTU0pSX2Y2NWp2Wlo5blpaN1gtZzdsbnEtTTNSZ1B6WVF0N1JvUTlWT0dqdVZNZjFDcXhFc3JTVXB5cThhSnRFck1JZ3V4VzVQRXMxZ2lsYUxZQndxTWt4NmtSZk1fUlpPZEs1aGN0MXc?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 10:40:35 GMT"
+    },
+    {
+      "title": "Stock Market Live Highlights: Sensex Drops 226 Points, Nifty 50 Below 22,650; Infosys, TCS Jump; Shriram Fin, HDFC Life Top Losers - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWDFwMTlpWnRkTnVzazZjXzNUYXNvc0U1c0lrVk1TX2xMMXhTWkNpQTVOU3pJQTBjbmxYNHNWbEllczRJODZXT3NfNnZ6MHZMc2R2XzFVejdGSlM1UkhLN2I4bXE2Xzk5S19GSUJxRnNwbDNESEdGWDcxQWgxUnNwUWpKLV9RcWtOeFdoYVFSQUttcXZ6X0NFSHZWSndlWTVXdFE5QjVfN29ka2lHN0tVZlp4NzRpd0REVC1PLVVETzdKT1Z0UmZ1VlN4cjVlRnZ3M2R4ZUtKaU9aZnEybDZ3d2dlX08xN3VWRGIwcFdISG1KdGhxMUZILWx4M0hLMThDRmRZ0gGLAkFVX3lxTE9YSjZlTU5waThiUjN3MVhEemg3SU1IaXl0cDREeUVMV2NZYWprUW4tdk5QamJJcDdpVFhVWXQ2LWxjSGMtcE0tNEpIeW5tNlZnbUg3bUtUUlMzSldtdTVqUGZSRlNnN1dpcWcwWXdLYUtwcExQeDlvMFZjbUlZUHYwR01tZFBINHZQak5tanBrajZUd3RXdVNQRzNHZXpHbVFYLWlTQ2dNcHBWYkExRno0YUJJWXF0aVg3Y24zcEVLNE9SNnhpY0EzU2J2R1JEN1pxbnpBYWhwUDJ2bVBtV0JZQlZRSTdsT3dTNzRVekh5TzJFVHJodTBMd3RSSDdUVDQxZDlnT0RjWkswcw?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 10:15:44 GMT"
     }
   ]
 }
