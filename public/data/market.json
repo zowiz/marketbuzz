@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex climbed 414 points to 74,729 and Nifty settled above 23,100 led by IT and metal stocks.",
+  "headline": "Last session: Sensex climbed 414 points to settle at 74,729 while Nifty closed above 23,100",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,32 +7,48 @@
     "nextOpen": "Monday, 19 October 2026"
   },
   "why": [
-    "Strong performance in IT, media, and metal sectors during Friday's session.",
-    "Continued investor optimism following a massive 1,534-point rally on Thursday.",
-    "Robust Q2 financial results from banking institutions like Yes Bank and Central Bank.",
-    "Strengthening of the Indian rupee against the dollar provided additional support."
+    "Strong performance in IT, media, and metal stocks supported the indices during the last session",
+    "Reliance's Jio Platforms filing its final IPO prospectus boosted investor confidence in the conglomerate",
+    "Hyundai's plan to invest ₹4,000 crore in its Pune plant signaled positive industrial growth",
+    "Markets maintained momentum following a massive 1,500-point rally in the preceding session"
   ],
   "whatHappening": [
-    "Sensex climbed 413.66 points to settle at 74,729.36 in the last session.",
-    "Nifty 50 ended the week above the 23,100 mark at 23,146.",
-    "Yes Bank reported a 63% jump in Q2 net profit to ₹1,084 crore.",
-    "Central Bank of India saw a 21% rise in quarterly profit to ₹1,469 crore."
+    "Sensex and Nifty reached 74,729 and 23,146 respectively on the last trading day",
+    "Bank of Baroda shares dropped 3.5% after the NMC founder filed a $15 billion lawsuit",
+    "Zydus Lifesciences' manufacturing facility received five observations from the U.S. FDA",
+    "The government proposed new BS-VII emission norms and a National Electricity Data Sharing framework"
   ],
   "stocksInNews": [
     {
-      "symbol": "CENTRALBK",
-      "sentiment": "Positive",
+      "symbol": "BANKBARODA",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         6
       ]
     },
     {
-      "symbol": "YESBANK",
+      "symbol": "ZYDUSLIFE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        9
+        8
+      ]
+    },
+    {
+      "symbol": "HYUNDAI",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
       ]
     },
     {
@@ -52,21 +68,21 @@
       ]
     }
   ],
-  "summary": "On the last trading day, Indian indices extended their rally with the Sensex gaining 414 points to close at 74,729.\nThe Nifty finished above 23,100, supported by gains in IT and metal sectors alongside strong Q2 results from banks.\nThe market is currently closed for the weekend and will resume trading on Monday, 19 October.",
-  "updatedAt": "2026-10-17T20:04:30.059Z",
+  "summary": "On the last trading day, Indian markets closed higher with the Sensex gaining 413 points, led by IT and metal stocks. Key corporate developments included Jio Platforms' IPO filing and Hyundai's investment plans, though Bank of Baroda faced legal pressure. The market remains closed today for the weekend and will reopen on Monday.",
+  "updatedAt": "2026-10-17T21:02:16.725Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-18",
   "articleKeys": [
-    "spectacle over safety what makes durga puja pandals world famous and why crowd control is important",
-    "kolkata puja pandal stampede amit shah cancels scheduled programmes in bengal",
-    "kolkata durga puja stampede pm modi announces rs 2 lakh exgratia to kin of deceased rs 50000 for injured",
-    "nostalgia at rs 56 lakh why sonys ultraluxury walkman costs more than a hatchback",
-    "at least 10 feared dead in kolkata durga puja pandal stampede report",
-    "kolkata durga puja stampede entry exit were narrow many fainted eyewitnesses recount horror",
-    "central bank of india q2 net profit jumps 21 to 1469 crore on higher core income",
-    "cola wars stunner why kfc swapped pepsi for cocacola after nearly four decade explained",
-    "the ai solution to americas debt crisis elon musk says robots can fix deficit heres how",
-    "yes bank q2 net profit rises 63 to 1084 crore",
+    "zydus manufacturing plant gets 5 us fda observations",
+    "centre sets up panel to study problems of sugarcane farmers",
+    "oil prices retreat as investors weigh supply outlook west asia tensions",
+    "beyond harvard envy why indian bschools must stop imitating the west",
+    "govt proposes bsvii emission norms from april 2029 adds brake tyre batterydurability rules",
+    "hyundai to invest additional 4000 crore in pune plant to raise output to 320000 units",
+    "bob stock tanks 35 as nmc founder shetty sues bank for 15 bn",
+    "itla better transport economics will depend on more than an apex label",
+    "reliances jio platforms files final ipo prospectus offer to open on october 21",
+    "govt to roll out national electricity data sharing framework in october power secretary",
     "stock market today highlights sensex climbs 41366 points to settle at 74729 nifty closes at 23146 the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
@@ -74,70 +90,70 @@
     "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
+    "sensex today nifty 50 stock market highlights sensex falls 548 pts nifty ends below 22400 itc techm drop 3 each the economic times",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
-    "sensex rallies 1534 points nifty nears 23000 hdfc sky",
-    "indian markets continue rally nifty and sensex close 2 up as rupee strengthens the hindu"
+    "sensex rallies 1534 points nifty nears 23000 hdfc sky"
   ],
   "articles": [
     {
-      "title": "Spectacle Over Safety? What Makes Durga Puja Pandals World Famous And Why Crowd Control Is Important?",
+      "title": "Zydus’ manufacturing plant gets 5 U.S. FDA observations",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/spectacle-over-safety-what-makes-kolkatas-durga-puja-pandals-world-famous-and-why-crowd-control-is-important-12200557#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 23:48:33 +0530"
+      "link": "https://www.thehindu.com/business/Industry/zydus-manufacturing-plant-gets-5-us-fda-observations/article71584361.ece",
+      "publishedAt": "Sun, 18 Oct 2026 01:15:00 +0530"
     },
     {
-      "title": "Kolkata Puja Pandal Stampede: Amit Shah Cancels Scheduled Programmes In Bengal",
+      "title": "Centre sets up panel to study problems of sugarcane farmers",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/kolkata-puja-pandal-stampede-amit-shah-cancels-scheduled-programmes-in-bengal-12200508#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 23:25:37 +0530"
+      "link": "https://www.thehindu.com/business/agri-business/centre-sets-up-panel-to-study-problems-of-sugarcane-farmers/article71584866.ece",
+      "publishedAt": "Sun, 18 Oct 2026 01:14:34 +0530"
     },
     {
-      "title": "Kolkata Durga Puja Stampede: PM Modi Announces Rs 2 Lakh Ex-Gratia To Kin Of Deceased; Rs 50,000 For Injured",
+      "title": "Oil prices retreat as investors weigh supply outlook, West Asia tensions",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/kolkata-durga-puja-stampede-pm-modi-announces-rs-2-lakh-ex-gratia-to-kin-of-deceased-rs-50-000-for-injured-12200503#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 23:23:41 +0530"
+      "link": "https://www.thehindu.com/business/oil-prices-dip-as-supply-risks-from-west-asia-tensions-clash/article71586615.ece",
+      "publishedAt": "Sun, 18 Oct 2026 01:12:40 +0530"
     },
     {
-      "title": "Nostalgia At Rs 5.6 Lakh: Why Sony's Ultra-Luxury Walkman Costs More Than A Hatchback",
+      "title": "Beyond ‘Harvard Envy’: why Indian B-Schools must stop imitating the West",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/nostalgia-at-rs-5-6-lakh-why-sonys-ultra-luxury-walkman-costs-more-than-a-hatchback-12200479#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 23:15:11 +0530"
+      "link": "https://www.thehindu.com/education/beyond-harvard-envy-why-indian-b-schools-must-stop-imitating-the-west/article71573988.ece",
+      "publishedAt": "Sun, 18 Oct 2026 01:12:01 +0530"
     },
     {
-      "title": "At least 10 feared dead in Kolkata Durga Puja pandal stampede: Report",
+      "title": "Govt proposes BS-VII emission norms from April 2029; adds brake, tyre, battery-durability rules",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/at-least-25-injured-in-crowd-surge-at-durga-puja-pandal-in-north-kolkata-126101700952_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 23:02:23 +0530"
+      "link": "https://www.thehindu.com/business/Industry/govt-proposes-bs-vii-emission-norms-from-april-2029-adds-brake-tyre-battery-durability-rules/article71585240.ece",
+      "publishedAt": "Sun, 18 Oct 2026 00:43:13 +0530"
     },
     {
-      "title": "Kolkata Durga Puja Stampede: 'Entry & Exit Were Narrow, Many Fainted', Eyewitnesses Recount Horror",
+      "title": "Hyundai to invest additional ₹4,000 crore in Pune plant, to raise output to 3,20,000 units",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/kolkata-durga-puja-stampede-entry-exit-were-narrow-many-fainted-eyewitnesses-recount-horror-12200429#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 22:56:02 +0530"
+      "link": "https://www.thehindu.com/business/hyundai-to-invest-additional-4000-crore-in-pune-plant-to-raise-output-to-320000-units/article71585147.ece",
+      "publishedAt": "Sun, 18 Oct 2026 00:34:29 +0530"
     },
     {
-      "title": "Central Bank of India Q2 net profit jumps 21% to ₹1,469 crore on higher core income",
+      "title": "BoB stock tanks 3.5% as NMC founder Shetty sues bank for $15 bn",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/central-bank-of-india-q2-net-profit-jumps-21-to-1469-crore-on-higher-core-income/article71597653.ece",
-      "publishedAt": "Sat, 17 Oct 2026 22:50:35 +0530"
+      "link": "https://www.thehindu.com/business/bob-stock-tanks-35-as-nmc-founder-shetty-sues-bank-for-15-bn/article71584927.ece",
+      "publishedAt": "Sun, 18 Oct 2026 00:31:26 +0530"
     },
     {
-      "title": "Cola Wars Stunner: Why KFC Swapped Pepsi For Coca-Cola After Nearly Four Decade - Explained",
+      "title": "ITLA: Better transport economics will depend on more than an apex label",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/cola-wars-stunner-why-kfc-swapped-pepsi-for-coca-cola-after-nearly-four-decade-explained-12200395#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 22:49:53 +0530"
+      "link": "https://www.thehindu.com/business/itla-better-transport-economics-will-depend-on-more-than-an-apex-label/article71582825.ece",
+      "publishedAt": "Sun, 18 Oct 2026 00:28:33 +0530"
     },
     {
-      "title": "The AI Solution To America's Debt Crisis? Elon Musk Says Robots Can Fix Deficit: Here's How",
+      "title": "Reliance’s Jio Platforms files final IPO prospectus; offer to open on October 21",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/the-ai-solution-to-americas-debt-crisis-elon-musk-says-ai-robots-to-fix-deficit-12200271#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 22:44:32 +0530"
+      "link": "https://www.thehindu.com/business/markets/reliances-jio-platforms-files-final-ipo-prospectus-offer-to-open-on-october-21/article71584837.ece",
+      "publishedAt": "Sun, 18 Oct 2026 00:28:03 +0530"
     },
     {
-      "title": "Yes Bank Q2 net profit rises 63% to ₹1,084 crore",
+      "title": "Govt. to roll out National Electricity Data Sharing framework in October: Power Secretary",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/yes-bank-q2-net-profit-rises-63-to-1084-crore/article71597630.ece",
-      "publishedAt": "Sat, 17 Oct 2026 22:40:26 +0530"
+      "link": "https://www.thehindu.com/business/Industry/govt-to-roll-out-national-electricity-data-sharing-framework-in-october-power-secretary/article71584372.ece",
+      "publishedAt": "Sun, 18 Oct 2026 00:18:08 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex climbs 413.66 points to settle at 74,729; Nifty closes at 23,146 - The Times of India",
@@ -182,6 +198,12 @@
       "publishedAt": "Thu, 15 Oct 2026 10:46:52 GMT"
     },
     {
+      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex falls 548 pts, Nifty ends below 22,400; ITC, TechM drop 3% each - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPMXpoTnFHckttNUZNZXhZUDluQ0tWcWVuUkxQaUJFZVhpYTRabkpwczdmcHJwMERabnEwMFlUYVl2U19fZmo1M3NZcGUzRE82Mzl3WUdGSWV6bzZTUElDRnhYT2NmU1hDTWZ1dUNzNkYxbG9FemJoVG0tSlI5eUlGZ2NOVXNQUWhVS21qZjY5dk1IeHpUVmRkdzhFN0hKeDU1eDkzdWV6LWNuS2M2Z25pd3ZCYXhPSWZ1Rk41cHhCcWxSaVgtOV94dENHU1V0bHZuWkM4NGR4MXhRcFBlakpKWTF0cEJibWRvckFodmlaSlJKNDZoQWNxREpjQ1R6NmRhN3FORm9KMUdGQ1JnRGN5UEc0R1rSAZoCQVVfeXFMTTdvU0tvSE1lanpQYm9QN2ZHVXlBRkxaWExVd0JzanloVTAxZU1hVWhvX0VfSUF3MXltX19ScEM4TEVWNGt0R2JDZlluV0pvd0taMEpCV1NVeDVIdTdxWTZHQUZkY3d0azNOMVlCRmhWSktPRGViNENwNDVZM2hvMU9MUWNubWR3YTBScng3MGo0dHNQSk1EcUNDdk5uZGJ1c3l0dnVIOW9EWUx5aGJUeUFaS1FmX3JaRkU4dWxBZFVveVhCRTJYUWtiS2tKTzIwQU1rQ1pJeXVYejZSOUR1dkQ1LS1fbWlNU3FwMzZFTjM1bEs0dXNtUUpMOTE4MXNGWWZGZlhPQnZsS09iQ0ZDNnpyTmV5dHMzamd3?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 10:04:52 GMT"
+    },
+    {
       "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQblA3NmloLThJMUN0dFg3X1lJOXFTbmZaUnd3bV9CT2dyZHNNc3JsMnhIQkJqNnItU3p5dDBSQ1Itc3hfN3BUOGVUN2dqR3cxZ3ZoQUVvekNacm9qZ3llcG5sTk8xaGxXVmlPRHdUUUZEczJkUXI0STZZa1FGTWh3UkRxTVNLXzRPVGthWHVsZkNHMjR4cWJmbDh1TDRHUUVQaUg1b0dJTG9EdnZxOE8xWGNhT0ZHS2lSS0wtQTRMY1dRUWVoSWVNZ1I3cVJkU2IyaHFlWlRhUVBIMFJPZDZKYk4yaU9oQUI0ZmFIMGplTVlhbUcwRkJXd9IB_gFBVV95cUxQVUpDZVJxVzVmeFBaSDFHSHozZkFXOGFKQWtEUnkzbnR3M0FiQWlGc3l6dlBSM1h2X2hHLXRBMEtIa0M4NjdITWtTQW8xMjJlVHF4bDlIUGV3UDNzdXhkV3h4TXdMNGM4emdaczFjT3R2ZXZReENCR20tZlltZ1VwTF9vTzBka0RhQmYwMTVRNGJ4a1gwX01vQTJyemhPYldyYVlheWJYbVhqOUFoX0tJMjdTaUU1QUNsd0ptLUNFWEh1N1lwcTducGZXS3AwWXJYTnZvd0MyX1oxdnU1aXRnNHFjMXFRQ3EwVXd2dUNPU3AxNzhsR0sxNXRJVXZPUQ?oc=5",
@@ -192,12 +214,6 @@
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZm9OVkR1OGdhcTl5ZnZTbjhsUldMLTBnbER2QmpLZ0hIUXJ1SWpTSmlHcTRRSDJOYmJnUUVMa3o4a25hX2VpTENtVEVJT1ZUdmJqRUo5T3ZEZkkxYkpZWFRqTkl3QUw2Q1hUblJ0Mm51Ym5RdHlHZzBySHlrNXB3OHN6MWI0UjNhejVQRlBLN254b040b3NPazNMdmNRRE04NGFnM01LcEVFRExnZ3R4U0FkM2F6bXlXUGJ2Q01ONXdZbzZpbGdQVnY4YTNiN3QwQzJhYmFfOWhCN241NUhXSEs5MFJJM1JlTzhQVHYwM3pXSUVaS3ZCMUgzTUVvYzRI?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 11:23:38 GMT"
-    },
-    {
-      "title": "Indian markets continue rally; Nifty and Sensex close 2% up as rupee strengthens - The Hindu",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHUtRzN2UjV5YThrUUlsXzhqbTFLeDZxVjFnMVRScXhCQUlFUXZKekg2a2lweDBlSEE3TFhVaXdPMHllbmpCM1dIUVE4NUtSWGllTEI0bnp2dHdHaXNvajdxeWZETEpUNnJ0WlV2bVVfWk1paEFpYkNVZkxuVmdvLWxjSW43dDI1RlNuRE5sUWR2Tkw1RFhxTE5tbUFqd3c5MFN0ZnJNRUUtUXdQZ0wtNldySG5FVFVSTjNkNWVtZ1UwTlliaGZaekExcy1PaDlaVkhXdNIB2wFBVV95cUxPek8yeXhXRG81V0xWQmFWcERtS09uaEVWcmdLNmtERmNac2g0OWhsTWhsOUswaVdIanZKQVpNOHVRV00yLTVoTGxHME91Tnk1SlRVUVZZV2Y4MktFWHBJVmctcHhsQTVNcm9kQTEzN0xCZm9udnF4LXlGNXpValEzampRdENicVlmVGo5VE8zaWVMU1MwdndTMmFFckxFY3Q3OThjeWpnVG9VVU5OZEtONG0zQ0c2dDVITndBUEVqakM0RHFQNjg3RkNBVDZVYkdwcy00N1BuV3lmVmc?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 11:27:50 GMT"
     }
   ]
 }
