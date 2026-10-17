@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex climbed 413 points to 74,729 while Nifty settled at 23,146 led by IT and metals.",
+  "headline": "Last session: Sensex climbed 413 points to 74,729 while Nifty settled above 23,100 led by IT and metal stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,34 +7,18 @@
     "nextOpen": "Monday, 19 October 2026"
   },
   "why": [
-    "Strong buying interest in IT, media, and metal sectors during Friday's trading session.",
-    "Positive carry-over sentiment from the massive 1,534-point Sensex rally observed on Thursday.",
-    "Anticipation of strong Q2 earnings from major technology companies like Tech Mahindra and Wipro.",
-    "Supportive global market cues and favorable domestic liquidity conditions boosting investor confidence."
+    "IT, media, and metal stocks led the market rally during the last trading session on Friday.",
+    "Reliance’s Jio Platforms filed its final IPO prospectus, with the offer set to open on October 21.",
+    "Hyundai announced an additional ₹4,000 crore investment to expand its Pune plant's production capacity.",
+    "Strengthening of the rupee and positive global cues supported the upward momentum in Indian equities."
   ],
   "whatHappening": [
-    "Jio Platforms has filed its final IPO prospectus with the offering scheduled to open on October 21.",
-    "Bank of Baroda shares fell 3.5% following a $15 billion lawsuit filed by NMC founder BR Shetty.",
-    "Hyundai Motor India announced an additional ₹4,000 crore investment to expand its Pune manufacturing plant.",
-    "Zydus Lifesciences received five U.S. FDA observations for its manufacturing facility after a recent inspection."
+    "Bank of Baroda shares fell 3.5% after being sued for $15 billion by NMC founder BR Shetty.",
+    "Zydus Lifesciences' manufacturing facility received five observations from the U.S. FDA following an inspection.",
+    "The government proposed new BS-VII emission norms and a National Electricity Data Sharing framework for October.",
+    "Oil prices retreated as investors weighed supply outlooks against ongoing tensions in West Asia."
   ],
   "stocksInNews": [
-    {
-      "symbol": "BANKBARODA",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
     {
       "symbol": "ZYDUSLIFE",
       "sentiment": "Negative",
@@ -52,12 +36,27 @@
       ]
     },
     {
+      "symbol": "BANKBARODA",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
       "symbol": "TECHM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        11,
-        13
+        12
       ]
     },
     {
@@ -65,12 +64,12 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        12
       ]
     }
   ],
-  "summary": "In the last trading session, the Sensex and Nifty closed higher, driven by significant gains in IT and metal stocks. Key corporate developments include Reliance Jio's IPO filing and Hyundai's ₹4,000 crore investment in its Pune plant. However, Bank of Baroda and Zydus Lifesciences faced pressure from a major lawsuit and regulatory observations respectively.",
-  "updatedAt": "2026-10-17T21:31:35.506Z",
+  "summary": "The Indian market is closed for the weekend after the Sensex and Nifty ended Friday higher, led by IT stocks. Major corporate developments include Jio Platforms' IPO filing and Hyundai's expansion, while Bank of Baroda faced legal pressure. Investors are also monitoring new government policies on emission norms and electricity data sharing.",
+  "updatedAt": "2026-10-17T22:02:11.108Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-18",
   "articleKeys": [
@@ -86,14 +85,14 @@
     "govt to roll out national electricity data sharing framework in october power secretary",
     "stock market today highlights sensex climbs 41366 points to settle at 74729 nifty closes at 23146 the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
-    "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
     "stock market highlights sensex ends 1534 points higher nifty 50 at 22997 amid weekly expiry tech mahindra wipro gain ahead of q2 ndtv profit",
     "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
     "sensex today nifty 50 stock market highlights sensex falls 548 pts nifty ends below 22400 itc techm drop 3 each the economic times",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
-    "sensex rallies 1534 points nifty nears 23000 hdfc sky"
+    "sensex rallies 1534 points nifty nears 23000 hdfc sky",
+    "indian markets continue rally nifty and sensex close 2 up as rupee strengthens the hindu"
   ],
   "articles": [
     {
@@ -169,12 +168,6 @@
       "publishedAt": "Fri, 16 Oct 2026 10:35:24 GMT"
     },
     {
-      "title": "Stock Market Today Live, Oct 15: Sensex jumps over 1,500 points, Nifty nears 23,000; rupee extends gains - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkJpc2lLT01aRzh3ZTlSeTdmUnZnazF3VW43c1ZzeXpuLUM0ckNVd1A3M0p1MU1Ma1RoOGRPNFNCM3ZlOWRfWlI0T2xvZHl4ZmRicDZsSGF4RzZ0OHRjQzFpdGxzV3RkaVZnSmUyLXI2SWo3Ym9qcmJuNkxtbFJMWTc1SmJ3NWdxUk5SSHRQT0hQTmpRUU1QenJEczRfUFNxMElIZ0doNENNRDNWclUzLWIwekFqMGpzQTlKN29jWHd3OWRhbXfSAcwBQVVfeXFMUHFHRERzWHVCYWpNWnJFMnhIbXdHaTBmNDhHRzRTZl9kdGNjTXBWMTNVY3lqSVVBVVF4RlBpS3NidFlSOEVuclR0U3A0UW5GNjZpUENXbnNhbk9vUHRONFpQaGljQjRhbVZQUmpkcHMyQmUxdVI5RHk2VFI2aE15di14NExsLThyaDBwQThkNy05TUtYcTkzcmNaVDdSTDNSbndUU0U3OTRvc0cxeVRkdE1uMVVQZ3ZJNGhBWkRMYzBsTDdXVG9NcWdoNkhX?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 10:49:21 GMT"
-    },
-    {
       "title": "Stock Market Highlights: Sensex Ends 1,534 Points Higher, Nifty 50 At 22,997 Amid Weekly Expiry; Tech Mahindra, Wipro Gain Ahead Of Q2 - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV002NDJqRUcwQ29jVXh5enl3b0ppUE02aUJJVl9rcWJvYTBQeVVyVXJHaTdReG1WS0J3NVUwNGtfcklqZElYbEFfSDBhN3AwVTZnTHVYSFdBTUZSZHpaMmJ4MTJnLVluQ3NFOEo4R3h0VGtuakJ6dzdPV1M1UlZuRURvMEYzb2ZwX0xUMzBxcjRuYUJ4cDRiUWppSEpMVUltdEJxdk9vMW0zdDZJWm9MZDNrcVFzc0x4TC1vSVNRQ19SX3VzZThVWXpERWFoZ1p0RTQzek56S0NiVzJxM29XUWd3dzlPaDFiWmlXclg0NEF5SnZwREJwNjQ1eGpUWTQz0gGIAkFVX3lxTE5WUldNX3haeUNQOGUySzA5eTl6Zkh5M2VSamtVcTRqXy05anppcHZsTE1jcjNHSHU5ODRXS09sY0dLYXdBU2NPSWZ3akRBemxpZkdFcU41bEdOUVlfbk5QZElsdGQxLUstWDVkeklaWnZKenc1dzhPeUZZX3NIb0lmQXZ4a3d1MHdTMnhRck1kZzhZRjJ6VEIxdmI5MFIyVG9OVlFZUlBrd0p6eXFjbkk3NnZJdG9hbHNOaUtlbmZqWmhUZUFNWGg0VGk3NVZmaktuRkRCODlRQWlSekdCQUVTRGhmUm5YZXdQVnhncmNGLW9XbDZOXzBRRHRyZEJZV2FnZExBdGcxNw?oc=5",
@@ -215,6 +208,12 @@
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZm9OVkR1OGdhcTl5ZnZTbjhsUldMLTBnbER2QmpLZ0hIUXJ1SWpTSmlHcTRRSDJOYmJnUUVMa3o4a25hX2VpTENtVEVJT1ZUdmJqRUo5T3ZEZkkxYkpZWFRqTkl3QUw2Q1hUblJ0Mm51Ym5RdHlHZzBySHlrNXB3OHN6MWI0UjNhejVQRlBLN254b040b3NPazNMdmNRRE04NGFnM01LcEVFRExnZ3R4U0FkM2F6bXlXUGJ2Q01ONXdZbzZpbGdQVnY4YTNiN3QwQzJhYmFfOWhCN241NUhXSEs5MFJJM1JlTzhQVHYwM3pXSUVaS3ZCMUgzTUVvYzRI?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 11:23:38 GMT"
+    },
+    {
+      "title": "Indian markets continue rally; Nifty and Sensex close 2% up as rupee strengthens - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHUtRzN2UjV5YThrUUlsXzhqbTFLeDZxVjFnMVRScXhCQUlFUXZKekg2a2lweDBlSEE3TFhVaXdPMHllbmpCM1dIUVE4NUtSWGllTEI0bnp2dHdHaXNvajdxeWZETEpUNnJ0WlV2bVVfWk1paEFpYkNVZkxuVmdvLWxjSW43dDI1RlNuRE5sUWR2Tkw1RFhxTE5tbUFqd3c5MFN0ZnJNRUUtUXdQZ0wtNldySG5FVFVSTjNkNWVtZ1UwTlliaGZaekExcy1PaDlaVkhXdNIB2wFBVV95cUxPek8yeXhXRG81V0xWQmFWcERtS09uaEVWcmdLNmtERmNac2g0OWhsTWhsOUswaVdIanZKQVpNOHVRV00yLTVoTGxHME91Tnk1SlRVUVZZV2Y4MktFWHBJVmctcHhsQTVNcm9kQTEzN0xCZm9udnF4LXlGNXpValEzampRdENicVlmVGo5VE8zaWVMU1MwdndTMmFFckxFY3Q3OThjeWpnVG9VVU5OZEtONG0zQ0c2dDVITndBUEVqakM0RHFQNjg3RkNBVDZVYkdwcy00N1BuV3lmVmc?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 11:27:50 GMT"
     }
   ]
 }
