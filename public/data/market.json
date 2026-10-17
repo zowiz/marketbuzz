@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex climbed 414 points to 74,729 while Nifty closed at 23,146 led by IT stocks",
+  "headline": "On last trading day, Sensex climbed 414 points to 74,729 while Nifty settled at 23,146",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,41 +7,51 @@
     "nextOpen": "Monday, 19 October 2026"
   },
   "why": [
-    "On the last trading day, Sensex climbed 413.66 points to 74,729 and Nifty closed at 23,146 driven by gains in IT, media, and metal stocks.",
-    "Strong buying momentum continued from earlier in the week when markets jumped over 1,500 points ahead of weekly expiry.",
-    "Heavyweight IT stocks including Infosys, TCS, Tech Mahindra, and Wipro cushioned the market and drove sectoral gains.",
-    "Q2 earnings results and strong key financial disclosures from major banking institutions boosted investor confidence."
+    "IT, media, and metal stocks led the market gains during the last trading session",
+    "ICICI Bank reported a strong 20% year-on-year growth in Q2 net profit",
+    "Axis Bank's net profit surged 38% to Rs 7,003 crore as provisions for bad loans fell",
+    "Nifty reclaimed its 200-week moving average, signaling positive technical momentum"
   ],
   "whatHappening": [
-    "HDFC Bank reported a 4.7% YoY increase in Q2 net profit to ₹19,510 crore supported by NII growth, though profit lagged some estimates.",
-    "Central Bank of India posted a 26% jump in Q2 Net Interest Income alongside a 79% YoY drop in provisions.",
-    "Indian Bank announced a target of 14% loan growth for FY27 focusing on margin expansion.",
-    "Ten smallcap stocks posted gains of up to 65% over the past three months despite broader market volatility."
+    "Sensex settled at 74,729 and Nifty closed at 23,146 on the last trading day",
+    "IDBI Bank reported a weak Q2 with net profit falling 39% and NII dipping 49%",
+    "HDFC Bank's quarterly profit results came in below market expectations",
+    "Tech Mahindra and Wipro shares gained in anticipation of their upcoming quarterly results"
   ],
   "stocksInNews": [
     {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
+      "symbol": "ICICIBANK",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         0,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "symbol": "IDBI",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
         1
       ]
     },
     {
-      "symbol": "CENTRALBK",
-      "sentiment": "Positive",
+      "symbol": "HDFCBANK",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        7
+        3
       ]
     },
     {
-      "symbol": "INDIANB",
+      "symbol": "AXISBANK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        5
+        9
       ]
     },
     {
@@ -77,21 +87,21 @@
       ]
     }
   ],
-  "summary": "On the last trading session, Indian benchmark indices closed higher with Sensex rising 414 points to 74,729 and Nifty settling above 23,100 led by IT and metal stocks. Weekend news highlights include Q2 earnings updates from HDFC Bank and Central Bank of India as well as loan growth plans from Indian Bank. The market is closed today for the weekend and will resume trading on Monday, 19 October 2026.",
-  "updatedAt": "2026-10-17T09:58:24.055Z",
+  "summary": "In the last session, Sensex rose 414 points to 74,729 while Nifty closed at 23,146 led by IT stocks. Weekend earnings reports showed ICICI Bank and Axis Bank posting strong profits, while IDBI Bank's profit declined significantly. The market is currently closed for the weekend and is scheduled to reopen on Monday, 19 October.",
+  "updatedAt": "2026-10-17T11:01:57.493Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-17",
   "articleKeys": [
-    "hdfc bank q2 net profit rises 47 to 19510 crore as nii grows",
-    "hdfc bank q2 results net profit below estimates provisions rise marginally",
-    "ranabaali box office collection day 2 vijay deverakonda starrer sees dip after strong opening",
-    "gurugram tops residential launches at 138 lakh cr in 2025 ncr sees 450 postcovid appreciation",
-    "the new hybrid renault duster comes with a 30 fuel savings pitch starting price of rs 1699 lakh",
-    "indian bank targets 14 loan growth for fy27 eyes margin expansion over rate hike",
-    "indias russian crude binge to continue after trump waives new sanctions law",
-    "central bank q2 results net interest income jumps 26 provisions fall by 79 yoy",
-    "ai datacentre boom puts indias power grid under pressure drives up upgrade costs",
-    "10 smallcap stocks surge up to 65 in 3 months despite market weakness",
+    "icici bank q2 results net profit jumps 20 yoy to rs 14843 crore nii rises 18",
+    "idbi bank q2 results net profit tanks 39 yoy to rs 2205 crore nii dips 49 yoy",
+    "wont let you go home supreme court pulls up centre over delhi hc road safety",
+    "q2fy27 results live updates icici bank net profit hits rs 14843 crore hdfc bank profit below estimates",
+    "icici bank q2 fy27 result net profit rises 223 to 16333 crore",
+    "icici bank q2 results net profit rises 20 to rs 14843 crore nim dips to 418",
+    "nifty reclaims 200 wma eyes further gains as key resistance shapes next move",
+    "vescents bet on profitable quantum technology one precision clock at a time",
+    "rs 50000 basic salary see how much your epf could grow in 10 20 and 30 years",
+    "axis bank q2 net profit rises 38 to 7003 crore as provisions fall",
     "stock market today highlights sensex climbs 41366 points to settle at 74729 nifty closes at 23146 the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
@@ -105,64 +115,64 @@
   ],
   "articles": [
     {
-      "title": "HDFC Bank Q2 net profit rises 4.7% to ₹19,510 crore as NII grows",
+      "title": "ICICI Bank Q2 Results: Net profit jumps 20% YoY to Rs 14,843 crore, NII rises 18%",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/hdfc-bank-q2fy27-result-net-profit-rises-4-7-to-19-510-cr-nii-up-9-7-126101700465_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 15:08:29 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-net-profit-jumps-20-to-rs-14843-crore-nii-rises-18-yoy/articleshow/135011810.cms",
+      "publishedAt": "Sat, 17 Oct 2026 15:47:31 +0530"
     },
     {
-      "title": "HDFC Bank Q2 Results: Net Profit Below Estimates, Provisions Rise Marginally",
+      "title": "IDBI Bank Q2 results: Net profit tanks 39% YoY to Rs 2,205 crore; NII dips 49% YoY",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/hdfc-bank-q2-results-net-profit-below-estimates-provisions-rise-marginally-12198605#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 14:41:08 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q2-results-net-profit-tanks-39-yoy-to-rs-2205-crore-nii-dips-49-yoy/articleshow/135011867.cms",
+      "publishedAt": "Sat, 17 Oct 2026 15:44:42 +0530"
     },
     {
-      "title": "Ranabaali Box Office Collection Day 2: Vijay Deverakonda Starrer Sees Dip After Strong Opening",
+      "title": "'Won't Let You Go Home': Supreme Court Pulls Up Centre Over Delhi HC Road Safety",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/ranabaali-box-office-collection-day-2-vijay-deverakonda-starrer-sees-dip-after-strong-opening-check-friday-earnings-12198716#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 14:38:46 +0530"
+      "link": "https://www.ndtvprofit.com/india/wont-let-you-go-home-supreme-court-pulls-up-centre-over-delhi-hc-road-safety-12198925#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 15:42:33 +0530"
     },
     {
-      "title": "Gurugram tops residential launches at ₹1.38 lakh cr in 2025; NCR sees 450% post-Covid appreciation",
+      "title": "Q2FY27 Results Live Updates: ICICI Bank Net Profit Hits Rs 14,843 Crore; HDFC Bank Profit Below Estimates",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/gurugram-tops-residential-launches-at-138-lakh-cr-in-2025-ncr-sees-450-post-covid-appreciation/article71568980.ece",
-      "publishedAt": "Sat, 17 Oct 2026 14:33:06 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2fy27-results-live-updates-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-india-cements-to-announce-earnings-12197871#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 15:41:31 +0530"
     },
     {
-      "title": "The New Hybrid Renault Duster Comes With A 30% Fuel Savings Pitch, Starting Price Of Rs 16.99 Lakh",
+      "title": "ICICI Bank Q2 FY27 result: Net profit rises 22.3% to ₹16,333 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/the-new-hybrid-duster-comes-with-a-30-fuel-savings-pitch-from-renault-all-you-need-to-know-12198648#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 14:31:38 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/icici-bank-q2-fy27-result-net-profit-rises-22-3-to-16-333-crore-126101700550_1.html",
+      "publishedAt": "Sat, 17 Oct 2026 15:40:06 +0530"
     },
     {
-      "title": "Indian Bank Targets 14% Loan Growth For FY27, Eyes Margin Expansion Over Rate Hike",
+      "title": "ICICI Bank Q2 Results: Net Profit Rises 20% To Rs 14,843 Crore; NIM Dips To 4.18%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/indian-bank-targets-14-loan-growth-for-fy27-eyes-margin-expansion-over-rate-hike-12194135#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 14:30:54 +0530"
+      "link": "https://www.ndtvprofit.com/markets/icici-bank-q2-results-net-profit-rises-20-to-rs-14-843-crore-nim-dips-to-4-18-12198888#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 15:36:01 +0530"
     },
     {
-      "title": "India’s Russian crude binge to continue after Trump waives new sanctions law",
+      "title": "Nifty reclaims 200 WMA; eyes further gains as key resistance shapes next move",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/indias-russian-crude-binge-to-continue-after-trump-waives-new-sanctions-law/article71595889.ece",
-      "publishedAt": "Sat, 17 Oct 2026 14:29:54 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-reclaims-200-wma-eyes-further-gains-as-key-resistance-shapes-next-move/articleshow/135011480.cms",
+      "publishedAt": "Sat, 17 Oct 2026 15:19:28 +0530"
     },
     {
-      "title": "Central Bank Q2 Results: Net Interest Income Jumps 26%, Provisions Fall By 79% YoY",
+      "title": "Vescent's Bet On Profitable Quantum Technology, One Precision Clock At A Time",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/central-bank-q2-results-net-interest-income-jumps-26-provisions-fall-by-79-yoy-12198595#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 14:24:27 +0530"
+      "link": "https://www.ndtvprofit.com/business/vescents-bet-on-profitable-quantum-technology-one-precision-clock-at-a-time-12198856#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 15:18:53 +0530"
     },
     {
-      "title": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
+      "title": "Rs 50,000 Basic Salary? See How Much Your EPF Could Grow In 10, 20 And 30 Years",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
-      "publishedAt": "Sat, 17 Oct 2026 14:22:03 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/rs-50-000-basic-salary-see-how-much-your-epf-could-grow-in-10-20-and-30-years-12198148#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 15:13:04 +0530"
     },
     {
-      "title": "10 smallcap stocks surge up to 65% in 3 months despite market weakness",
+      "title": "Axis Bank Q2 net profit rises 38% to ₹7,003 crore as provisions fall",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-smallcap-stocks-surge-up-to-65-in-3-months-despite-market-weakness/slideshow/135010857.cms",
-      "publishedAt": "Sat, 17 Oct 2026 14:16:40 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/axis-bank-q2-fy27-net-profit-nii-provisions-asset-quality-126101700517_1.html",
+      "publishedAt": "Sat, 17 Oct 2026 15:12:04 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex climbs 413.66 points to settle at 74,729; Nifty closes at 23,146 - The Times of India",
