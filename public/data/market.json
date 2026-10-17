@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex climbed 413 points to 74,729 and Nifty settled at 23,146 led by IT and metals",
+  "headline": "Last session: Sensex climbed 413 points to 74,729 while Nifty settled at 23,146 led by IT and metals",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,40 +7,28 @@
     "nextOpen": "Wednesday, 21 October 2026"
   },
   "why": [
-    "IT, media, and metal stocks led the gains in the final trading session of the week",
-    "Yes Bank reported a significant 65% surge in Q2 net profit, boosting banking sector sentiment",
-    "RBL Bank saw a massive 170% year-on-year jump in its second-quarter net profit",
-    "Markets maintained momentum following a 1,534-point rally on Thursday driven by IT giants"
+    "Strong gains in IT, media, and metal stocks drove the market higher during the last session",
+    "Positive Q2 earnings from major private lenders including ICICI Bank and HDFC Bank",
+    "A robust weekly rally where Sensex and Nifty50 jumped 3% led by Tech Mahindra and TCS",
+    "Finance Minister Sitharaman's comments on hearing views regarding LTCG and STT matters"
   ],
   "whatHappening": [
-    "HDFC Bank is navigating a squeeze in CASA deposits due to structural savings shifts",
-    "Axis Bank is managing an 11 basis points margin drag from FCNR-B deposits",
-    "The PC market experienced a significant contraction during the third quarter of 2026",
-    "India is adapting its crude oil purchase strategies amid ongoing global shipping disruptions"
+    "ICICI Bank reported a 20.1% rise in Q2 net profit to ₹14,843 crore",
+    "HDFC Bank posted a 4.7% growth in Q2 net profit reaching ₹19,510 crore",
+    "FSSAI has issued notices to Nestle India and HUL over allegedly misleading product claims",
+    "The Centre has finalized a 30% trade margin cap for 137 non-scheduled cancer drugs"
   ],
   "stocksInNews": [
     {
-      "symbol": "YESBANK",
+      "symbol": "ICICIBANK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        1,
-        2,
-        5
+        3
       ]
     },
     {
       "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        4,
-        5,
-        6
-      ]
-    },
-    {
-      "symbol": "RBLBANK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -48,19 +36,19 @@
       ]
     },
     {
-      "symbol": "AXISBANK",
+      "symbol": "NESTLEIND",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        9
+        2
       ]
     },
     {
-      "symbol": "ICICIBANK",
+      "symbol": "HINDUNILVR",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        5
+        2
       ]
     },
     {
@@ -69,15 +57,7 @@
       "sources": "Mentioned by 2/8 sources",
       "articleIds": [
         13,
-        18
-      ]
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        18
+        19
       ]
     },
     {
@@ -87,23 +67,31 @@
       "articleIds": [
         13
       ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        19
+      ]
     }
   ],
-  "summary": "Sensex and Nifty ended the last session higher, gaining 413 points and 149 points respectively to reach new levels. Strong Q2 results from Yes Bank and RBL Bank highlighted the session despite margin pressures reported at ICICI and HDFC Bank. The market is currently closed for the weekend and will resume trading on Wednesday, October 21.",
-  "updatedAt": "2026-10-17T16:01:53.290Z",
+  "summary": "On the last trading day, the Sensex gained 413 points to close at 74,729, capping a strong 3% weekly rally. Major private banks reported solid Q2 earnings, while IT stocks like Tech Mahindra and TCS led the market gains. The market is currently closed for the weekend and will reopen on October 21.",
+  "updatedAt": "2026-10-17T16:46:32.708Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-17",
   "articleKeys": [
-    "defying global slowdown how india flipped postcovid gloom into a historic rally economist explains",
-    "yes bank q2 results net profit surges 65 to rs 1080 crore nii up 23 yoy asset quality stable",
-    "yes bank q2 profit up 65 on nii at1 ruling impact not yet reflected",
-    "as conflicts disrupt shipping indias crude purchases show how fast it can adapt",
-    "hdfc bank bets on 25 bps hike tailwind in q3 as structural savings shift squeezes casa",
-    "q2fy27 results live updates yes bank profit surges icici margin dips hdfc bank pat below estimates",
-    "hdfc bank may explore ways to reduce pressure from corporate deposits",
-    "pc market witnessed a massive contraction in q3 of 2026 gartner",
-    "rbl banks q2 net profit jumps 170 yoy",
-    "axis bank battles 11 bps nim drag from fcnrb eyes margin uptick on asset mix",
+    "at least 25 injured in crowd surge at durga puja pandal in north kolkata",
+    "indonesia revives fears five times major stock markets delivered zero returns for decades",
+    "fssai issues notices to nestle india hul over allegedly misleading product claims labelling violations",
+    "icici bank q2 pat rises 201 to 14843 crore nim down to 418",
+    "will keenly hear views on ltcg and stt matters finance minister sitharaman says",
+    "centre finalises 30 trade margin cap for 137 nonscheduled cancer drugs",
+    "ibm india pitches digital swaraj with countryspecific tools for sovereign ai",
+    "dubaibound emirates flight delayed at delhi airport after bird strike watch video",
+    "hdfc bank q2 net profit grows 47 to 19510 crore",
+    "614 growth registered in freight loading in september 2026 over september 2025 indian railways",
     "stock market today highlights sensex climbs 41366 points to settle at 74729 nifty closes at 23146 the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
@@ -112,69 +100,69 @@
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
-    "market weekly wrap sensex nifty50 jump 3 led by strong rally in it stocks tech mahindra tcs lead gains upstox",
-    "sensex rallies 1534 points nifty nears 23000 hdfc sky"
+    "sensex rallies 1534 points nifty nears 23000 hdfc sky",
+    "market weekly wrap sensex nifty50 jump 3 led by strong rally in it stocks tech mahindra tcs lead gains upstox"
   ],
   "articles": [
     {
-      "title": "Defying Global Slowdown: How India Flipped Post-Covid Gloom Into A Historic Rally, Economist Explains",
+      "title": "At least 25 injured in crowd surge at Durga Puja pandal in north Kolkata",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/defying-global-slowdown-how-india-flipped-post-covid-gloom-into-a-historic-rally-economist-explains-12199556#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 20:32:49 +0530"
+      "link": "https://www.business-standard.com/india-news/at-least-25-injured-in-crowd-surge-at-durga-puja-pandal-in-north-kolkata-126101700952_1.html",
+      "publishedAt": "Sat, 17 Oct 2026 22:08:46 +0530"
     },
     {
-      "title": "Yes Bank Q2 Results: Net Profit Surges 65% To Rs 1,080 Crore, NII Up 23% YoY; Asset Quality Stable",
+      "title": "Indonesia Revives Fears: Five Times Major Stock Markets Delivered Zero Returns For Decades",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/yes-bank-q2-results-net-profit-surges-655-to-rs-1-080-crore-nii-up-23-yoy-asset-quality-stable-12199741#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 20:20:27 +0530"
+      "link": "https://www.ndtvprofit.com/markets/indonesia-revives-fears-five-times-major-stock-markets-delivered-zero-returns-for-decades-12200199#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 21:46:04 +0530"
     },
     {
-      "title": "YES Bank Q2 profit up 65% on NII; AT1 ruling impact not yet reflected",
+      "title": "FSSAI Issues Notices to Nestle India, HUL Over Allegedly Misleading Product Claims, Labelling Violations",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/yes-bank-q2-profit-up-65-on-nii-at1-ruling-impact-not-yet-reflected-126101700861_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 20:14:14 +0530"
+      "link": "https://www.ndtvprofit.com/business/fssai-issues-notices-to-nestle-india-hul-over-allegedly-misleading-product-claims-labelling-violations-12200174#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 21:39:29 +0530"
     },
     {
-      "title": "As conflicts disrupt shipping, India’s crude purchases show how fast it can adapt",
+      "title": "ICICI Bank Q2 PAT rises 20.1% to ₹14,843 crore, NIM down to 4.18%",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/as-conflicts-disrupt-shipping-indias-crude-purchases-show-how-fast-it-can-adapt/article71592461.ece",
-      "publishedAt": "Sat, 17 Oct 2026 20:10:58 +0530"
+      "link": "https://www.thehindu.com/business/icici-bank-q2-pat-rises-201-to-14843-crore-nim-down-to-418/article71596780.ece",
+      "publishedAt": "Sat, 17 Oct 2026 21:37:31 +0530"
     },
     {
-      "title": "HDFC Bank Bets On 25 Bps Hike Tailwind In Q3 As Structural Savings Shift Squeezes CASA",
+      "title": "Will keenly hear views on LTCG and STT matters, Finance Minister Sitharaman says",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/hdfc-bank-bets-on-25-bps-hike-tailwind-in-q3-as-structural-savings-shift-squeezes-casa-12199843#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 20:09:05 +0530"
+      "link": "https://www.thehindu.com/business/Economy/rbi-to-continue-efforts-to-curb-rupee-volatility-external-factors-driving-currency-fall-nirmala-sitharaman/article71579023.ece",
+      "publishedAt": "Sat, 17 Oct 2026 21:34:31 +0530"
     },
     {
-      "title": "Q2FY27 Results Live Updates: Yes Bank Profit Surges, ICICI Margin Dips; HDFC Bank PAT Below Estimates",
+      "title": "Centre finalises 30% trade margin cap for 137 non-scheduled cancer drugs",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2fy27-results-live-updates-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-india-cements-to-announce-earnings-12197871#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 20:04:01 +0530"
+      "link": "https://www.business-standard.com/industry/news/centre-finalises-30-trade-margin-cap-for-137-non-scheduled-cancer-drugs-126101700942_1.html",
+      "publishedAt": "Sat, 17 Oct 2026 21:33:33 +0530"
     },
     {
-      "title": "HDFC Bank May Explore Ways To Reduce Pressure From Corporate Deposits",
+      "title": "IBM India pitches ‘digital swaraj’ with country-specific tools for sovereign AI",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/hdfc-bank-may-explore-ways-to-reduce-pressure-from-corporate-deposits-12199794#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 19:44:53 +0530"
+      "link": "https://www.thehindu.com/business/Industry/ibm-india-pitches-digital-swaraj-with-country-specific-tools-for-sovereign-ai/article71579473.ece",
+      "publishedAt": "Sat, 17 Oct 2026 21:28:20 +0530"
     },
     {
-      "title": "PC market witnessed a massive contraction in Q3 of 2026: Gartner",
+      "title": "Dubai-Bound Emirates Flight Delayed At Delhi Airport After Bird Strike | Watch Video",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/pc-market-witnessed-a-massive-contraction-in-q3-of-2026-gartner/article71576559.ece",
-      "publishedAt": "Sat, 17 Oct 2026 19:35:12 +0530"
+      "link": "https://www.ndtvprofit.com/india/dubai-bound-emirates-flight-delayed-at-delhi-airport-after-bird-strike-watch-video-12200016#publisher=newsstand",
+      "publishedAt": "Sat, 17 Oct 2026 21:27:11 +0530"
     },
     {
-      "title": "RBL Bank’s Q2 net profit jumps 170% YoY",
+      "title": "HDFC Bank Q2 net profit grows 4.7% to ₹19,510 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/rbl-banks-q2-net-profit-jumps-170-yoy/article71576398.ece",
-      "publishedAt": "Sat, 17 Oct 2026 19:34:56 +0530"
+      "link": "https://www.thehindu.com/business/hdfc-bank-q2-net-profit-grows-47-to-19510-crore/article71597377.ece",
+      "publishedAt": "Sat, 17 Oct 2026 21:27:06 +0530"
     },
     {
-      "title": "Axis Bank Battles 11 Bps NIM Drag From FCNR-B, Eyes Margin Uptick On Asset Mix",
+      "title": "6.14% growth registered in freight loading in September 2026 over September 2025: Indian Railways",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/axis-bank-battles-11-bps-nim-drag-from-fcnr-b-eyes-margin-uptick-on-asset-mix-12199744#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 19:34:12 +0530"
+      "link": "https://www.thehindu.com/business/Economy/614-growth-registered-in-freight-loading-in-september-2026-over-september-2025-indian-railways/article71579378.ece",
+      "publishedAt": "Sat, 17 Oct 2026 21:25:17 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex climbs 413.66 points to settle at 74,729; Nifty closes at 23,146 - The Times of India",
@@ -225,16 +213,16 @@
       "publishedAt": "Thu, 15 Oct 2026 04:33:59 GMT"
     },
     {
-      "title": "Market weekly wrap: SENSEX, NIFTY50 jump 3% led by strong rally in IT stocks; Tech Mahindra, TCS lead gains - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLTZLdHhhUzZ4eG5wdXVvZzZBSHdCYmJqMDM1cHBaTm9URXhVd3FiR0U3UTc3aHctNDRNS3NqWjZHSGQtR1RReTFIT1dPZlBiZmVxMllmME80S1FOQ1ZCQ1hZc2Vjd29MeDVNMW9jMFlQNXNKcmJrLW9qS1BZaUF5VndkT2Q3MmtCR0toaEoxWDluU1RPcW02MmVESW5uLWVtclRZZ3FuMjFMZVl5dWJ5RGpBa2VsTUlmdlgxVEhFTVo1VElYaXBfVC1IVmFMM1NlNHBiU19KRTJ6RkNiWnVkc0ZtNWs2NzJvMmRUWXUxUHFXbmh6?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 04:02:18 GMT"
-    },
-    {
       "title": "Sensex Rallies 1,534 Points, Nifty Nears 23,000 - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZm9OVkR1OGdhcTl5ZnZTbjhsUldMLTBnbER2QmpLZ0hIUXJ1SWpTSmlHcTRRSDJOYmJnUUVMa3o4a25hX2VpTENtVEVJT1ZUdmJqRUo5T3ZEZkkxYkpZWFRqTkl3QUw2Q1hUblJ0Mm51Ym5RdHlHZzBySHlrNXB3OHN6MWI0UjNhejVQRlBLN254b040b3NPazNMdmNRRE04NGFnM01LcEVFRExnZ3R4U0FkM2F6bXlXUGJ2Q01ONXdZbzZpbGdQVnY4YTNiN3QwQzJhYmFfOWhCN241NUhXSEs5MFJJM1JlTzhQVHYwM3pXSUVaS3ZCMUgzTUVvYzRI?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 11:23:38 GMT"
+    },
+    {
+      "title": "Market weekly wrap: SENSEX, NIFTY50 jump 3% led by strong rally in IT stocks; Tech Mahindra, TCS lead gains - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLTZLdHhhUzZ4eG5wdXVvZzZBSHdCYmJqMDM1cHBaTm9URXhVd3FiR0U3UTc3aHctNDRNS3NqWjZHSGQtR1RReTFIT1dPZlBiZmVxMllmME80S1FOQ1ZCQ1hZc2Vjd29MeDVNMW9jMFlQNXNKcmJrLW9qS1BZaUF5VndkT2Q3MmtCR0toaEoxWDluU1RPcW02MmVESW5uLWVtclRZZ3FuMjFMZVl5dWJ5RGpBa2VsTUlmdlgxVEhFTVo1VElYaXBfVC1IVmFMM1NlNHBiU19KRTJ6RkNiWnVkc0ZtNWs2NzJvMmRUWXUxUHFXbmh6?oc=5",
+      "publishedAt": "Sat, 17 Oct 2026 04:02:18 GMT"
     }
   ]
 }
