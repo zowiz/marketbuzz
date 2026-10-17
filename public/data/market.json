@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex climbed 413 points to 74,729 while Nifty settled above 23,100 led by IT and metals.",
+  "headline": "Last session: Sensex climbed 413 points to 74,729 as Nifty ended above 23,100 led by IT stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,20 +7,20 @@
     "nextOpen": "Wednesday, 21 October"
   },
   "why": [
-    "Gains in IT, media, and metal stocks drove the indices higher in the last session",
-    "Positive momentum following a massive 1,500-point surge in the preceding session",
-    "Strong Q2 earnings reports from major banking institutions",
-    "Buying interest in private banks and auto stocks"
+    "IT, media, and metal stocks led gains in the previous trading session.",
+    "Mutual fund SIP inflows hit a record high of ₹32,490 crore in September 2026.",
+    "Strong quarterly earnings expectations supported market sentiment.",
+    "Rally extended following a massive 1,534-point surge in Sensex earlier in the week."
   ],
   "whatHappening": [
-    "ICICI Bank reported a 20% rise in Q2 net profit to ₹14,843 crore as provisions fell",
-    "HDFC Bank's Deputy MD Kaizad Bharucha announced his exit effective December 31, 2026",
-    "Central Bank of India's Q2 profit grew 21% supported by 30% loan growth",
-    "DLF eyes significant revenue growth from FY28 as ₹75,000 crore in projects near completion"
+    "Sensex settled at 74,729 with a 413-point gain, while Nifty closed at 23,146 on the last trading day.",
+    "HDFC Bank posted a 5.55% growth in Q2 net profit to ₹20,700 crore.",
+    "Tata Motors deepened its strategic partnership with Stellantis to develop global vehicles in India.",
+    "Maha FDA named Blinkit leadership and Reliance officials in an expired food probe."
   ],
   "stocksInNews": [
     {
-      "symbol": "CENTRALBK",
+      "symbol": "LTTS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
@@ -28,7 +28,7 @@
       ]
     },
     {
-      "symbol": "DLF",
+      "symbol": "HDFCBANK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
@@ -36,22 +36,18 @@
       ]
     },
     {
-      "symbol": "HDFCBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        3,
-        4,
-        5,
-        8
-      ]
-    },
-    {
-      "symbol": "ICICIBANK",
+      "symbol": "TATAMOTORS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        5,
+        3
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
         7
       ]
     },
@@ -86,23 +82,39 @@
       "articleIds": [
         19
       ]
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        19
+      ]
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        19
+      ]
     }
   ],
-  "summary": "On the last trading day, Indian markets extended their rally with the Sensex closing at 74,729 and Nifty above 23,100. Weekend news is dominated by strong Q2 results from ICICI Bank and Central Bank of India, alongside leadership changes at HDFC Bank. DLF also projected a positive long-term revenue outlook as major projects approach completion.",
-  "updatedAt": "2026-10-17T13:01:57.048Z",
+  "summary": "The stock market is closed today for the weekend and will reopen on Wednesday, 21 October. In the last session, Sensex rose 413 points to 74,729 while Nifty closed above 23,100, powered by IT and metal stocks. In corporate developments, HDFC Bank reported a Q2 net profit of ₹20,700 crore, while Tata Motors expanded its partnership with Stellantis.",
+  "updatedAt": "2026-10-17T14:01:41.783Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-17",
   "articleKeys": [
-    "central bank of india q2 profit rises 21 as loans grow 30",
-    "joining the dots a week of closure yet crude delivers a reality check",
-    "dlf eyes revenue growth from fy28 as 75000 cr projects near completion",
-    "the last original standing kaizad bharuchas threedecade run inside indias largest private bank",
-    "kaizad bharucha to exit hdfc bank at end of december after three decades",
-    "q2fy27 results live updates icici bank to reverse agri portfolio provisions upon rbi nod hdfc bank profit below estimates",
-    "take it down now neha sharma warns of legal action over ai images and videos using her likeness",
-    "icici bank q2 net rises 20 to 14843 crore as provisions fall",
-    "hdfc bank md kaizad bharucha requests cessation of services from dec 31 2026",
-    "rising borrowing costs signal funding risks for global ai expansion jefferies report",
+    "ltts bets on manufacturing ai eyes 80 revenue from six strategic areas in next 5 years",
+    "stock markets tumble on oil price spike fii outflows sensex drops 548 points",
+    "hdfc bank q2 net profit grows 555 to 20700 crore",
+    "tata motors stellantis deepen partnership to develop global vehicles in india",
+    "explained rbis worries about pressure on rupee and measures to curb volatility in forex market",
+    "rupee jumps 96 paise to close at 9575 against us dollar",
+    "coal stocks at thermal plants hold above 18 mt as supply deficit narrows",
+    "maha fda names blinkits dhindsa reliance officials in expired food probe",
+    "sips register recorded 32490 crore of inflows in september 2026",
+    "excess more to pay not more to receive",
     "stock market today highlights sensex climbs 41366 points to settle at 74729 nifty closes at 23146 the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
     "stock market today live oct 15 sensex jumps over 1500 points nifty nears 23000 rupee extends gains businessline",
@@ -116,64 +128,64 @@
   ],
   "articles": [
     {
-      "title": "Central Bank of India Q2 profit rises 21% as loans grow 30%",
+      "title": "LTTS bets on manufacturing AI; eyes 80% revenue from six strategic areas in next 5 years",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-india-q2-profit-rises-21-as-loans-grow-30/articleshow/135014014.cms",
-      "publishedAt": "Sat, 17 Oct 2026 17:44:25 +0530"
+      "link": "https://www.thehindu.com/business/Industry/ltts-bets-on-manufacturing-ai-eyes-80-revenue-from-six-strategic-areas-in-next-5-years/article71575004.ece",
+      "publishedAt": "Sat, 17 Oct 2026 18:39:36 +0530"
     },
     {
-      "title": "Joining The Dots | A Week Of Closure, Yet Crude Delivers A Reality Check",
+      "title": "Stock markets tumble on oil price spike, FII outflows; Sensex drops 548 points",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/opinion-joining-the-dots-a-week-of-closure-yet-crude-delivers-a-reality-check-12198927#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 17:22:39 +0530"
+      "link": "https://www.thehindu.com/business/markets/stock-markets-tumble-on-oil-price-spike-fii-outflows-sensex-drops-548-points/article71574919.ece",
+      "publishedAt": "Sat, 17 Oct 2026 18:38:00 +0530"
     },
     {
-      "title": "DLF eyes revenue growth from FY28 as ₹75,000 cr projects near completion",
+      "title": "HDFC Bank Q2 net profit grows 5.55% to ₹20,700 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/dlf-eyes-revenue-growth-from-fy28-as-75-000-cr-projects-near-completion-126101700688_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 17:19:12 +0530"
+      "link": "https://www.thehindu.com/business/Industry/hdfc-bank-q2-net-profit-grows-555-to-20700-crore/article71596506.ece",
+      "publishedAt": "Sat, 17 Oct 2026 18:36:54 +0530"
     },
     {
-      "title": "The Last Original Standing: Kaizad Bharucha’s Three-Decade Run Inside India’s Largest Private Bank",
+      "title": "Tata Motors, Stellantis deepen partnership to develop global vehicles in India",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/the-last-original-standing-kaizad-bharucha-s-three-decade-run-inside-india-s-largest-private-bank-12199278#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 17:19:07 +0530"
+      "link": "https://www.thehindu.com/business/Industry/tata-motors-stellantis-deepen-partnership-to-develop-global-vehicles-in-india/article71574776.ece",
+      "publishedAt": "Sat, 17 Oct 2026 18:30:49 +0530"
     },
     {
-      "title": "Kaizad Bharucha to exit HDFC Bank at end of December after three decades",
+      "title": "Explained | RBI’s worries about pressure on rupee and measures to curb volatility in forex market",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/kaizad-bharucha-to-exit-hdfc-bank-at-end-of-december-after-three-decades-126101700674_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 17:10:18 +0530"
+      "link": "https://www.thehindu.com/business/Economy/explained-rbis-worries-about-pressure-on-rupee-and-measures-to-curb-volatility-in-forex-market/article71574231.ece",
+      "publishedAt": "Sat, 17 Oct 2026 18:29:33 +0530"
     },
     {
-      "title": "Q2FY27 Results Live Updates: ICICI Bank To Reverse Agri Portfolio Provisions Upon RBI Nod, HDFC Bank Profit Below Estimates",
+      "title": "Rupee jumps 96 paise to close at 95.75 against U.S. dollar",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2fy27-results-live-updates-hdfc-bank-icici-bank-axis-bank-idbi-bank-yes-bank-india-cements-to-announce-earnings-12197871#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 17:10:02 +0530"
+      "link": "https://www.thehindu.com/business/Industry/rupee-jumps-96-paise-to-close-at-9575-against-us-dollar/article71574673.ece",
+      "publishedAt": "Sat, 17 Oct 2026 18:29:18 +0530"
     },
     {
-      "title": "'Take It Down Now': Neha Sharma Warns of Legal Action Over AI Images and Videos Using Her Likeness",
+      "title": "Coal stocks at thermal plants hold above 18 MT as supply deficit narrows",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/neha-sharma-warns-of-legal-action-over-ai-images-and-videos-using-her-likeness-12199220#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 17:02:44 +0530"
+      "link": "https://www.thehindu.com/business/Economy/coal-stocks-at-thermal-plants-hold-above-18-mt-as-supply-deficit-narrows/article71574429.ece",
+      "publishedAt": "Sat, 17 Oct 2026 18:21:19 +0530"
     },
     {
-      "title": "ICICI Bank Q2 net rises 20% to ₹14,843 crore as provisions fall",
+      "title": "Maha FDA names Blinkit's Dhindsa, Reliance officials in expired food probe",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/icici-bank-q2-fy27-result-net-profit-rises-22-3-to-16-333-crore-126101700550_1.html",
-      "publishedAt": "Sat, 17 Oct 2026 16:53:48 +0530"
+      "link": "https://www.business-standard.com/industry/news/maha-fda-names-blinkit-s-dhindsa-reliance-officials-in-expired-food-probe-126101700541_1.html",
+      "publishedAt": "Sat, 17 Oct 2026 18:20:24 +0530"
     },
     {
-      "title": "HDFC Bank MD Kaizad Bharucha Requests Cessation Of Services From Dec. 31, 2026",
+      "title": "SIPs register recorded ₹32,490 crore of inflows in September 2026",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/hdfc-bank-md-kaizad-bharucha-requests-cessation-of-services-from-dec-31-2026-12199067#publisher=newsstand",
-      "publishedAt": "Sat, 17 Oct 2026 16:36:31 +0530"
+      "link": "https://www.thehindu.com/business/Industry/sips-register-recorded-32490-crore-of-inflows-in-september-2026/article71574295.ece",
+      "publishedAt": "Sat, 17 Oct 2026 18:17:46 +0530"
     },
     {
-      "title": "Rising borrowing costs signal funding risks for global AI expansion: Jefferies report",
+      "title": "‘Excess’: More to pay, not more to receive",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-jefferies-report/articleshow/135012567.cms",
-      "publishedAt": "Sat, 17 Oct 2026 16:34:01 +0530"
+      "link": "https://www.thehindu.com/business/Economy/excess-more-to-pay-not-more-to-receive/article71570551.ece",
+      "publishedAt": "Sat, 17 Oct 2026 18:16:27 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex climbs 413.66 points to settle at 74,729; Nifty closes at 23,146 - The Times of India",
