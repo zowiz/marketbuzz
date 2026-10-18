@@ -1,22 +1,22 @@
 {
-  "headline": "Last session: Indian markets closed higher led by IT stocks; market remains closed today for the weekend.",
+  "headline": "Last session: Indian markets closed higher led by gains in IT stocks as market remains closed today.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 19 October.",
-    "nextOpen": "Monday, 19 October 2026"
+    "nextOpen": "Monday, 19 October"
   },
   "why": [
-    "Market capitalization of nine of the top-10 most valued firms surged by Rs 3.65 lakh crore, with TCS leading.",
-    "IT sector stocks led the gains in recent trading sessions.",
-    "Strengthening rupee boosted sentiment across benchmark indices.",
-    "FPI outflows of Rs 52,100 crore in October continue to pose global headwinds."
+    "IT stocks led market gains pushing benchmarks higher in recent trading.",
+    "Market capitalization of nine of the top-10 most valued firms surged by ₹3.65 lakh crore.",
+    "FPIs pulled out ₹52,100 crore from Indian equities in October amid global headwinds.",
+    "India's crude import bill surged 47% in September as import volume rose 7%."
   ],
   "whatHappening": [
-    "Indian stock markets remain closed on Sunday for the weekend.",
-    "HDFC Bank issued 14 lakh credit cards over three months amidst strong retail expansion.",
-    "TCS and Wipro differ on hiring and salary hike policies as AI alters the workforce dynamic.",
-    "FPIs pulled out Rs 52,100 crore from Indian equities in October so far."
+    "The market is closed today for the weekend and reopens on Monday, 19 October.",
+    "TCS led the surge in market capitalization among top valued Indian companies.",
+    "HDFC Bank registered strong growth by issuing 14 lakh credit cards in three months.",
+    "Indian refiners' fuel exports to the West surged 43% amid Russian crude imports."
   ],
   "stocksInNews": [
     {
@@ -25,16 +25,8 @@
       "sources": "Mentioned by 2/7 sources",
       "articleIds": [
         2,
-        9,
+        5,
         14
-      ]
-    },
-    {
-      "symbol": "WIPRO",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        9
       ]
     },
     {
@@ -42,7 +34,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        5
+        9
       ]
     },
     {
@@ -94,21 +86,21 @@
       ]
     }
   ],
-  "summary": "Markets are closed today for the weekend after strong gains in recent sessions driven by IT stocks. Nine of the top 10 most valued companies saw market capitalization surge by Rs 3.65 lakh crore, led by TCS. Foreign portfolio investors have withdrawn Rs 52,100 crore from Indian equities in October amid global headwinds.",
-  "updatedAt": "2026-10-18T07:31:23.970Z",
+  "summary": "Indian stock markets are closed today for the weekend and will reopen on Monday, 19 October. In the last session, indices closed sharply higher driven by strong gains in IT stocks and major firms. Meanwhile, foreign portfolio investors pulled out over ₹52,100 crore from equities in October due to global headwinds.",
+  "updatedAt": "2026-10-18T08:01:39.325Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-18",
   "articleKeys": [
+    "jefferies chris wood says its time to diversify beyond ai where should investors look now",
+    "indian refiners fuel exports to west surge 43 amid russian crude imports",
+    "mcap of nine of top10 most valued firms surges by 365 trn tcs shines",
     "received rs 45 lakh inheritance at age 45 how will that money be taxed where you can use it next",
     "fpis pull out rs 52100 cr from equities in oct so far amid global headwinds",
     "mcap of nine of top10 most valued firms surges by rs 365 lakh cr tcs shines",
+    "indias crude imports rise 7 in september bill surges 47",
     "mystery incident sparks deadly fire at canada military base what we know so far",
     "what happens to your indian ppf and nps tier ii investments after moving abroad",
     "hdfc bank issued 14 lakh credit cards in three months whats behind the surge",
-    "elon musk listed among ravans faces in lucknows poster",
-    "got a 6lpa job but no contract or laptop young developer turns to reddit for help",
-    "noida drug lab racket busted ncb seizes contraband worth rs 50 crore",
-    "tcs vs wipro it giants differ on salary hikes hiring as ai reshapes workforce",
     "share market live share market today latest share market news share market live updates on the economic times the economic times",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
     "sensex rallies 1534 points nifty nears 23000 hdfc sky",
@@ -121,6 +113,24 @@
     "top 3 stocks to buy under 100 irfc motherson sumi lloyds engineering works by sumeet bagadia target price sl livemint"
   ],
   "articles": [
+    {
+      "title": "Jefferies’ Chris Wood says it’s time to diversify beyond AI. Where should investors look now?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-chris-wood-says-its-time-to-diversify-beyond-ai-where-should-investors-look-now/articleshow/135025560.cms",
+      "publishedAt": "Sun, 18 Oct 2026 13:01:53 +0530"
+    },
+    {
+      "title": "Indian refiners’ fuel exports to West surge 43% amid Russian crude imports",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/indian-refiners-fuel-exports-to-west-surge-43-amid-russian-crude-imports/article71599323.ece",
+      "publishedAt": "Sun, 18 Oct 2026 12:29:46 +0530"
+    },
+    {
+      "title": "Mcap of nine of top-10 most valued firms surges by ₹3.65 trn, TCS shines",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/mcap-of-nine-of-top-10-most-valued-firms-surges-by-3-65-trn-tcs-shines-126101800187_1.html",
+      "publishedAt": "Sun, 18 Oct 2026 12:11:19 +0530"
+    },
     {
       "title": "Received Rs 45 Lakh Inheritance At Age 45: How Will That Money Be Taxed; Where You Can Use It Next",
       "source": "Zerodha Pulse",
@@ -138,6 +148,12 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-surges-by-rs-3-65-lakh-cr-tcs-shines/articleshow/135024970.cms",
       "publishedAt": "Sun, 18 Oct 2026 12:01:44 +0530"
+    },
+    {
+      "title": "India’s crude imports rise 7% in September, bill surges 47%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/indias-crude-imports-rise-7-in-september-bill-surges-47/article71593638.ece",
+      "publishedAt": "Sun, 18 Oct 2026 11:52:16 +0530"
     },
     {
       "title": "Mystery Incident Sparks Deadly Fire At Canada Military Base. What We Know So Far",
@@ -158,34 +174,10 @@
       "publishedAt": "Sun, 18 Oct 2026 11:34:46 +0530"
     },
     {
-      "title": "Elon Musk Listed Among Ravan’s Faces in Lucknow’s Poster",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/elon-musk-listed-among-ravan-s-faces-in-lucknow-s-poster-12201627#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 11:32:00 +0530"
-    },
-    {
-      "title": "Got A 6LPA Job, But No Contract Or Laptop; Young Developer Turns To Reddit For Help",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/got-a-6lpa-job-but-no-contract-or-laptop-young-developer-turns-to-reddit-for-help-12201503#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 11:30:12 +0530"
-    },
-    {
-      "title": "Noida Drug Lab Racket Busted; NCB Seizes Contraband Worth Rs 50 Crore",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/noida-drug-lab-racket-busted-ncb-seizes-contraband-worth-rs-50-crore-12201646#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 11:28:24 +0530"
-    },
-    {
-      "title": "TCS Vs Wipro: IT Giants Differ On Salary Hikes, Hiring As AI Reshapes Workforce",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/tcs-vs-wipro-it-giants-differ-on-salary-hikes-hiring-as-ai-reshapes-workforce-12201690#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 11:24:39 +0530"
-    },
-    {
       "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 12:42:02 GMT"
+      "publishedAt": "Sat, 17 Oct 2026 12:47:01 GMT"
     },
     {
       "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
