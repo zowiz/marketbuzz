@@ -1,24 +1,32 @@
 {
-  "headline": "Last session: Indian markets closed higher driven by IT stock gains as Nifty defies strong FPI selling",
+  "headline": "On last trading day, Indian markets closed higher led by IT stocks as Nifty maintains positive momentum",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 19 October.",
-    "nextOpen": "Monday, 19 October"
+    "nextOpen": "Monday, 19 October 2026"
   },
   "why": [
-    "IT stocks led gains in the recent trading sessions, boosting benchmark indices.",
-    "The strengthening Indian rupee supported gains across key market sectors.",
-    "Nifty defied a major foreign exodus despite heavy foreign portfolio investor selling.",
-    "FPI selling crossed Rs 52,000 crore in October, yet benchmark indices held up strong."
+    "IT stocks led the market gains during the final trading session of the week on Friday",
+    "Anticipation of strong Q2 results for Bajaj Finance with projected 29% profit growth",
+    "Domestic Institutional Investors (DIIs) increased stakes in eight midcap stocks during Q2FY27",
+    "Positive momentum following a significant 1,534-point rally in the Sensex earlier in the week"
   ],
   "whatHappening": [
-    "Indian stock markets are closed today, Sunday, 18 October 2026, for the weekend.",
-    "In recent trading, Sensex jumped 1,534 points and Nifty neared the 23,000 mark.",
-    "Foreign Portfolio Investors (FPIs) have pulled out over Rs 52,000 crore in October.",
-    "Market experts highlighted stocks like Mphasis, HAL, and Indian Hotel ahead of Monday's session."
+    "The Indian stock market is closed today for the weekend and will reopen on Monday, 19 October",
+    "Nifty 50 is hovering near the 23,000 mark after a series of strong trading sessions",
+    "Market experts have recommended Mphasis, HAL, and Indian Hotel as top stocks to buy for Monday",
+    "Apple's new iPhone models saw exceptional demand in India, selling out within minutes of launch"
   ],
   "stocksInNews": [
+    {
+      "symbol": "BAJFINANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
+      ]
+    },
     {
       "symbol": "MPHASIS",
       "sentiment": "Positive",
@@ -44,11 +52,13 @@
       ]
     }
   ],
-  "summary": "The stock market is closed today, Sunday, October 18, due to the weekend and will reopen on Monday, October 19.\nIn the last trading session, Indian benchmark indices closed higher, led by significant gains in IT stocks.\nDespite foreign portfolio investors pulling out over Rs 52,000 crore in October, Nifty continues to demonstrate resilience.",
-  "updatedAt": "2026-10-18T10:01:39.528Z",
+  "summary": "Indian markets concluded the last trading session on a high note, driven by gains in the IT sector and strong institutional interest. Investors are optimistic ahead of Q2 earnings previews for major firms like Bajaj Finance and expert buy recommendations for the upcoming week. The market remains closed today for the weekend and will resume trading on Monday.",
+  "updatedAt": "2026-10-18T11:02:05.835Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-18",
   "articleKeys": [
+    "diis increase stake in 8 midcap stocks in q2fy27",
+    "bajaj finance q2 preview profit may jump 29 nii 24 as strong loan growth lifts earnings",
     "why big tech is giving away openweight ai models and what it wants in return explained",
     "84 percent stocks in correction yet sp 500 nears record high whats behind the bullbear market",
     "ranbir kapoors rs 78 lakh jacob co watch steals spotlight at ramayana trailer launch",
@@ -57,8 +67,6 @@
     "84 stocks in correction yet sp 500 at record highs whats behind the bullbear market",
     "apples rs 3 lakh iphone duo sells out within minutes deliveries pushed to january 2027",
     "youre joking right woman draws stunned reaction for quitting wall street job to camp across us",
-    "fpi selling crosses rs 52000 crore in october as nifty defies foreign exodus",
-    "spoiled food and stolen data french supermarket hack exposes realworld risks of smart appliances",
     "share market live share market today latest share market news share market live updates on the economic times the economic times",
     "share market news nifty 50 outlook prediction liquide blog",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
@@ -71,6 +79,18 @@
     "stock market outlook today 15 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
   ],
   "articles": [
+    {
+      "title": "DIIs increase stake in 8 midcap stocks in Q2FY27",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diis-increase-stake-in-8-midcap-stocks-in-q2fy27/slideshow/135027062.cms",
+      "publishedAt": "Sun, 18 Oct 2026 15:40:35 +0530"
+    },
+    {
+      "title": "Bajaj Finance Q2 preview: Profit may jump 29%, NII 24% as strong loan growth lifts earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-preview-profit-may-jump-29-nii-24-as-strong-loan-growth-lifts-earnings/articleshow/135026829.cms",
+      "publishedAt": "Sun, 18 Oct 2026 15:20:55 +0530"
+    },
     {
       "title": "Why Big Tech is giving away open-weight AI models, and what it wants in return | Explained",
       "source": "Zerodha Pulse",
@@ -120,18 +140,6 @@
       "publishedAt": "Sun, 18 Oct 2026 13:42:48 +0530"
     },
     {
-      "title": "FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-selling-crosses-rs-52000-crore-in-october-as-nifty-defies-foreign-exodus/articleshow/135025955.cms",
-      "publishedAt": "Sun, 18 Oct 2026 13:41:02 +0530"
-    },
-    {
-      "title": "Spoiled Food And Stolen Data: French Supermarket Hack Exposes Real-World Risks Of Smart Appliances",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/spoiled-food-and-stolen-data-french-supermarket-hack-exposes-real-world-risks-of-smart-appliances-12201819#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 13:36:56 +0530"
-    },
-    {
       "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
@@ -141,7 +149,7 @@
       "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
       "source": "Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWl3bzY2TEl0WEJaRWtLS0ZfV1l4NU5pdzJFbTl0NDgwZ2VEWHBBYzdBUGFXYnFYRGdRZm1UMHhPZjA0Y1VHSXowUkROclY5cDNwZ2VYMURJN0kxV0ZzSHpFcEI0TWtLMlpKd2ZwVlRMQm02S1hiRVFnVjQzaFNFenRXZC1KVm9KbTdrd29MWUh2blh6Z3dvU1Nn?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 09:46:26 GMT"
+      "publishedAt": "Sun, 18 Oct 2026 09:46:20 GMT"
     },
     {
       "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
