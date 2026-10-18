@@ -1,100 +1,148 @@
 {
-  "headline": "On last trading day, Sensex surged over 1,500 points as IT stocks led a broad-based market rally",
+  "headline": "Last session: Indian markets closed higher led by gains in IT stocks and positive momentum",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 19 October.",
-    "nextOpen": "Monday, 19 October"
+    "nextOpen": "Monday, 19 October 2026"
   },
   "why": [
-    "IT stocks led strong gains across Dalal Street during the last session.",
-    "Strengthening of the Indian rupee boosted investor confidence.",
-    "Markets rallied despite global sell-off pressures, pushing Nifty towards 23,000.",
-    "Bulls returned to the market as Sensex jumped over 1,500 points in a massive surge."
+    "Strong buying momentum in IT sector stocks drove market gains in the recent session.",
+    "Rupee appreciation against the U.S. dollar boosted investor confidence.",
+    "Unemployment rate remained stable at 5% in September according to NSO data.",
+    "Benchmark indices Sensex and Nifty posted strong rallies despite global sell-off pressures."
   ],
   "whatHappening": [
-    "Reliance's Jio Platforms filed its final IPO prospectus with the offer opening on October 21.",
-    "Bank of Baroda shares dropped 3.5% following a $15 billion lawsuit by NMC founder BR Shetty.",
-    "Hyundai announced an additional ₹4,000 crore investment in its Pune plant to boost output.",
-    "Zydus received 5 observations from the U.S. FDA for its manufacturing facility."
+    "Indian stock markets closed higher on Friday with IT equities leading the rally.",
+    "The government increased export levy on petrol while reducing duty on diesel.",
+    "National Sample Survey Office reported the national unemployment rate held steady at 5% in September.",
+    "Multiple dividend announcements and stock recommendations keep select equities in focus ahead of the upcoming trading week."
   ],
   "stocksInNews": [
     {
-      "symbol": "RELIANCE",
+      "symbol": "IGL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "BANKBARODA",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "ZYDUSLIFE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "HYUNDAI",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         6
       ]
     },
     {
       "symbol": "TECHM",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        8
       ]
     },
     {
       "symbol": "ANGELONE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        8
+      ]
+    },
+    {
+      "symbol": "IRFC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "MOTHERSON",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "LLOYDSENGG",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        16
       ]
     }
   ],
-  "summary": "On the last trading day, Indian benchmark indices witnessed a massive rally with Sensex surging over 1,500 points, propelled by IT sector gains and a stronger rupee. Key corporate headlines include Reliance's Jio Platforms finalizing its IPO prospectus and Hyundai expanding its Pune manufacturing capacity. Meanwhile, Bank of Baroda faced pressure after being sued for $15 billion by NMC's founder.",
-  "updatedAt": "2026-10-18T01:31:19.886Z",
+  "summary": "In the last trading session, Indian benchmark indices closed higher with IT stocks leading the gains and rupee strengthening. Macroeconomic data showed stable unemployment at 5% in September while fuel export levies were adjusted. The market is closed today for the weekend and will reopen on Monday, 19 October.",
+  "updatedAt": "2026-10-18T03:01:43.967Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-18",
   "articleKeys": [
+    "at least 19 dead 25 injured in stampede at durga puja pandal in kolkata",
+    "a nobel dating app hacked refrigerators and more",
+    "air india sets up multidisciplinary panel to identify costsaving opportunities",
+    "export levy on petrol hiked diesel lowered",
+    "why the gcceu summit was recently postponed explained",
+    "rupee rises 20 paise to 9479 against us dollar in early trade",
+    "igl launches aipowered pilot project for hydrotesting verification",
+    "stock markets trade lower during early session amid profittaking",
     "dividend stocks this week icici prudential amc ltm tech mahindra angel one among 15 companies in focus",
-    "zydus manufacturing plant gets 5 us fda observations",
-    "centre sets up panel to study problems of sugarcane farmers",
-    "oil prices retreat as investors weigh supply outlook west asia tensions",
-    "beyond harvard envy why indian bschools must stop imitating the west",
-    "govt proposes bsvii emission norms from april 2029 adds brake tyre batterydurability rules",
-    "hyundai to invest additional 4000 crore in pune plant to raise output to 320000 units",
-    "bob stock tanks 35 as nmc founder shetty sues bank for 15 bn",
-    "itla better transport economics will depend on more than an apex label",
-    "reliances jio platforms files final ipo prospectus offer to open on october 21",
+    "unemployment rate in country stands at 5 in september stable compared to august nso",
     "share market live share market today latest share market news share market live updates on the economic times the economic times",
-    "sensex rallies 1534 points nifty nears 23000 hdfc sky",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
+    "sensex rallies 1534 points nifty nears 23000 hdfc sky",
     "sensex jumped 1500 points despite global selloff why markets rose today india today",
-    "indian markets close higher on friday as it stocks lead gains the new indian express",
-    "sensex jumps over 1500 points 5 reasons why the stock market is rising today firstpost",
-    "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market outlook today 15 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian markets continue rally nifty and sensex close 2 up as rupee strengthens the hindu",
+    "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "top 3 stocks to buy under 100 irfc motherson sumi lloyds engineering works by sumeet bagadia target price sl livemint",
+    "stock market outlook today 15 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "indian markets close higher on friday as it stocks lead gains the new indian express",
     "bulls return to dalal street stock markets rise as sensex nifty skyrocket it stocks rally etv bharat"
   ],
   "articles": [
+    {
+      "title": "At least 19 dead, 25 injured in stampede at Durga Puja pandal in Kolkata",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/at-least-25-injured-in-crowd-surge-at-durga-puja-pandal-in-north-kolkata-126101700952_1.html",
+      "publishedAt": "Sun, 18 Oct 2026 07:28:09 +0530"
+    },
+    {
+      "title": "A Nobel dating app, hacked refrigerators, and more...",
+      "source": "Zerodha Pulse",
+      "link": "https://finshots.in/archive/a-nobel-dating-app-hacked-refrigerators-and-more/",
+      "publishedAt": "Sun, 18 Oct 2026 07:00:19 +0530"
+    },
+    {
+      "title": "Air India sets up multi-disciplinary panel to identify cost-saving opportunities",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/air-india-sets-up-multi-disciplinary-panel-to-identify-cost-saving-opportunities/article71591329.ece",
+      "publishedAt": "Sun, 18 Oct 2026 05:55:47 +0530"
+    },
+    {
+      "title": "Export levy on petrol hiked, diesel lowered",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/india-raises-windfall-tax-on-petrol-cuts-duty-on-diesel/article71590967.ece",
+      "publishedAt": "Sun, 18 Oct 2026 05:46:50 +0530"
+    },
+    {
+      "title": "Why the GCC-EU summit was recently postponed | Explained",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/news/international/why-the-gcc-eu-summit-was-recently-postponed-explained/article71590081.ece",
+      "publishedAt": "Sun, 18 Oct 2026 05:44:37 +0530"
+    },
+    {
+      "title": "Rupee rises 20 paise to 94.79 against U.S. dollar in early trade",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/rupee-rises-20-paise-to-9479-against-the-dollar-in-early-trade/article71591138.ece",
+      "publishedAt": "Sun, 18 Oct 2026 05:30:30 +0530"
+    },
+    {
+      "title": "IGL launches AI-powered pilot project for hydrotesting verification",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/igl-launches-ai-powered-pilot-project-for-hydrotesting-verification/article71589562.ece",
+      "publishedAt": "Sun, 18 Oct 2026 05:28:25 +0530"
+    },
+    {
+      "title": "Stock markets trade lower during early session amid profit-taking",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/stock-markets-trade-lower-during-early-session-amid-profit-taking/article71591139.ece",
+      "publishedAt": "Sun, 18 Oct 2026 05:28:21 +0530"
+    },
     {
       "title": "Dividend Stocks This Week: ICICI Prudential AMC, LTM, Tech Mahindra, Angel One Among 15 Companies in Focus",
       "source": "Zerodha Pulse",
@@ -102,70 +150,16 @@
       "publishedAt": "Sun, 18 Oct 2026 05:18:11 +0530"
     },
     {
-      "title": "Zydus’ manufacturing plant gets 5 U.S. FDA observations",
+      "title": "Unemployment rate in country stands at 5% in September, stable compared to August: NSO",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/zydus-manufacturing-plant-gets-5-us-fda-observations/article71584361.ece",
-      "publishedAt": "Sun, 18 Oct 2026 01:15:00 +0530"
-    },
-    {
-      "title": "Centre sets up panel to study problems of sugarcane farmers",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/agri-business/centre-sets-up-panel-to-study-problems-of-sugarcane-farmers/article71584866.ece",
-      "publishedAt": "Sun, 18 Oct 2026 01:14:34 +0530"
-    },
-    {
-      "title": "Oil prices retreat as investors weigh supply outlook, West Asia tensions",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/oil-prices-dip-as-supply-risks-from-west-asia-tensions-clash/article71586615.ece",
-      "publishedAt": "Sun, 18 Oct 2026 01:12:40 +0530"
-    },
-    {
-      "title": "Beyond ‘Harvard Envy’: why Indian B-Schools must stop imitating the West",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/education/beyond-harvard-envy-why-indian-b-schools-must-stop-imitating-the-west/article71573988.ece",
-      "publishedAt": "Sun, 18 Oct 2026 01:12:01 +0530"
-    },
-    {
-      "title": "Govt proposes BS-VII emission norms from April 2029; adds brake, tyre, battery-durability rules",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/govt-proposes-bs-vii-emission-norms-from-april-2029-adds-brake-tyre-battery-durability-rules/article71585240.ece",
-      "publishedAt": "Sun, 18 Oct 2026 00:43:13 +0530"
-    },
-    {
-      "title": "Hyundai to invest additional ₹4,000 crore in Pune plant, to raise output to 3,20,000 units",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/hyundai-to-invest-additional-4000-crore-in-pune-plant-to-raise-output-to-320000-units/article71585147.ece",
-      "publishedAt": "Sun, 18 Oct 2026 00:34:29 +0530"
-    },
-    {
-      "title": "BoB stock tanks 3.5% as NMC founder Shetty sues bank for $15 bn",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/bob-stock-tanks-35-as-nmc-founder-shetty-sues-bank-for-15-bn/article71584927.ece",
-      "publishedAt": "Sun, 18 Oct 2026 00:31:26 +0530"
-    },
-    {
-      "title": "ITLA: Better transport economics will depend on more than an apex label",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/itla-better-transport-economics-will-depend-on-more-than-an-apex-label/article71582825.ece",
-      "publishedAt": "Sun, 18 Oct 2026 00:28:33 +0530"
-    },
-    {
-      "title": "Reliance’s Jio Platforms files final IPO prospectus; offer to open on October 21",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/reliances-jio-platforms-files-final-ipo-prospectus-offer-to-open-on-october-21/article71584837.ece",
-      "publishedAt": "Sun, 18 Oct 2026 00:28:03 +0530"
+      "link": "https://www.thehindu.com/business/Economy/unemployment-rate-in-country-stands-at-5-in-september-stable-compared-to-august-nso/article71589002.ece",
+      "publishedAt": "Sun, 18 Oct 2026 05:08:32 +0530"
     },
     {
       "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 12:52:01 GMT"
-    },
-    {
-      "title": "Sensex Rallies 1,534 Points, Nifty Nears 23,000 - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZm9OVkR1OGdhcTl5ZnZTbjhsUldMLTBnbER2QmpLZ0hIUXJ1SWpTSmlHcTRRSDJOYmJnUUVMa3o4a25hX2VpTENtVEVJT1ZUdmJqRUo5T3ZEZkkxYkpZWFRqTkl3QUw2Q1hUblJ0Mm51Ym5RdHlHZzBySHlrNXB3OHN6MWI0UjNhejVQRlBLN254b040b3NPazNMdmNRRE04NGFnM01LcEVFRExnZ3R4U0FkM2F6bXlXUGJ2Q01ONXdZbzZpbGdQVnY4YTNiN3QwQzJhYmFfOWhCN241NUhXSEs5MFJJM1JlTzhQVHYwM3pXSUVaS3ZCMUgzTUVvYzRI?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 11:23:38 GMT"
+      "publishedAt": "Sat, 17 Oct 2026 09:41:01 GMT"
     },
     {
       "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
@@ -174,22 +168,22 @@
       "publishedAt": "Thu, 15 Oct 2026 04:33:59 GMT"
     },
     {
+      "title": "Sensex Rallies 1,534 Points, Nifty Nears 23,000 - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZm9OVkR1OGdhcTl5ZnZTbjhsUldMLTBnbER2QmpLZ0hIUXJ1SWpTSmlHcTRRSDJOYmJnUUVMa3o4a25hX2VpTENtVEVJT1ZUdmJqRUo5T3ZEZkkxYkpZWFRqTkl3QUw2Q1hUblJ0Mm51Ym5RdHlHZzBySHlrNXB3OHN6MWI0UjNhejVQRlBLN254b040b3NPazNMdmNRRE04NGFnM01LcEVFRExnZ3R4U0FkM2F6bXlXUGJ2Q01ONXdZbzZpbGdQVnY4YTNiN3QwQzJhYmFfOWhCN241NUhXSEs5MFJJM1JlTzhQVHYwM3pXSUVaS3ZCMUgzTUVvYzRI?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 11:23:38 GMT"
+    },
+    {
       "title": "Sensex jumped 1,500 points despite global sell-off: Why markets rose today? - India Today",
       "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbm5sZlFwaFZURFlJRExscDg3NmVFTVFBRWlGMXRiblFqX25DQmh0YlJHT2p1S282Ny1YR2JXWXgxaVQ3THNSOUhITTdsbFBaeUpBMEFlQ1JXOHF0LW51ZXBsNW9sckNOYk5EX2xQRkFSVDdpekI5T1pfM3pjd05Hdm9yejJfekNwODVQVnBaSnJBZk1fVzhoQUZXTmozbmd3Q21SSFo0NDBNMXBIcXN2UTlGakt4TjBSM00xeXZSSkxDUFVqc2RuRUdKN2RCR1d1UFFYa19sWV9yX0xMUzFJejBMVGVxR2hzY0I0UVl1UjTSAfYBQVVfeXFMTnpmY05OXzl1a0dYUV9OLVNaa3NlejBIdktNR19rT1A2TFU4TlJxb0dHbzF2Yk1YYjg4QU1HcVNzS3pQN0pSaW5JcEN6QXFBaTdyVmx1M01jLXgtNnZla3pEc1d2WC0yN25pZzZCN0FobWFILWRoRUtONHFHLXBudEZaRzV6WkFJeWxXbmJ2UzY0ejRvRzIwalY1U0h6a3ZDTlEzWUdRejhweENwQ0VCTHFPS2dzVGZIM3ZPQ0lieGlkYnBhU05nQUJFSmh0UGVibDNhZG9Lakc3cEVab09uQ3BVZk9UV2hheTlSakRxSUs5eGctNlZ3?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 05:02:02 GMT"
     },
     {
-      "title": "Indian markets close higher on Friday as IT stocks lead gains - The New Indian Express",
-      "source": "The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGpjc041Wm82bVlKdUI4SVhQQjRrNVlhRXozM0NSblRsTmoxU0labkhjeFVMYkQ3eE82N2FqOGEwbHN1OFZOd1RaM1Rkek5BLWszS09PTWFkWGVIaGV6UVpnUHhzT1AzLTFuUmxfaUVwY1hubnRpZ3JGZC0xb213NGpOTVhOQkpld0FlQ3laazVkTWlaTlRUYnNjMnpTMkFyZ1FVQ09LcGVIeVNrWnVNTWp4V3FkUdIBwwFBVV95cUxPSEEwRDlBTGJYOHM2SHNoaVE4cWktYjlOUVNYSVBXcWtUM1lsMlNmQ040YzhCZ3ZnTlB4cHhjN3pGbm5sS1QtWmNFQ09lellfbWdjcGhWeU80cl8yRElHUi1ZNXR0T2RRRG4tRlVMYTUzck5YUnJkNWxLeUdlRTFhSFJKUkhwU1A5WFl2MzZNenZKWC1SdHAwWXZZaXF1TUtlOHZYelVrcmtsdFptOHNvcV90SjgzbnE0Zlo1ZVBUbDFpTEE?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 10:44:54 GMT"
-    },
-    {
-      "title": "Sensex jumps over 1,500 points: 5 reasons why the stock market is rising today - Firstpost",
-      "source": "Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFMzaHg4dlhjYTJLX1hod2FPQXIwSG5WVHJRYVJyOWExWHNlYXZONExLTG9hOE80M1VNU25LdThoX0IwSk9lTkVPem5zS3U0OE1NVTk0SVp1UHV5SXc3X0ZMLTlPN21NUjZMXzV4RWplc19FekVQcFpqTGFYemJ1WjRSSG5BTkFWT1JZeEhFREVfZjViUU1yOGNpZHA5TERPRFNZM1lReEZfX1M1bEhCSlQ4eG1WbXczR1hTR2Y4cTZURDjSAcgBQVVfeXFMTUlYcUVaSGhTQTJyd09RMHhQSWdjRW9MSE4wYnVBSENNeVVtbkprWXpDR1ZMNjg0Tkpsc2V2eHFxRkhuUlo3aG5CajMzQ0ZzdzVadXl1RndWTU1YVlhHaE1fUFJPbTFhZzFzRWZkOWRYMkN2UnBxUkhFX0RrWG51eXo2MW5NTElLVnR3Tl9JQXlXQ0Z5V0k3NTFCeFRWOV9nZnhlWVhxNGlMTkJCbzctZnN1NEV5LW44M191eHktakJtOVlnbjRtRlg?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 08:57:21 GMT"
+      "title": "Indian markets continue rally; Nifty and Sensex close 2% up as rupee strengthens - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHUtRzN2UjV5YThrUUlsXzhqbTFLeDZxVjFnMVRScXhCQUlFUXZKekg2a2lweDBlSEE3TFhVaXdPMHllbmpCM1dIUVE4NUtSWGllTEI0bnp2dHdHaXNvajdxeWZETEpUNnJ0WlV2bVVfWk1paEFpYkNVZkxuVmdvLWxjSW43dDI1RlNuRE5sUWR2Tkw1RFhxTE5tbUFqd3c5MFN0ZnJNRUUtUXdQZ0wtNldySG5FVFVSTjNkNWVtZ1UwTlliaGZaekExcy1PaDlaVkhXdNIB2wFBVV95cUxPek8yeXhXRG81V0xWQmFWcERtS09uaEVWcmdLNmtERmNac2g0OWhsTWhsOUswaVdIanZKQVpNOHVRV00yLTVoTGxHME91Tnk1SlRVUVZZV2Y4MktFWHBJVmctcHhsQTVNcm9kQTEzN0xCZm9udnF4LXlGNXpValEzampRdENicVlmVGo5VE8zaWVMU1MwdndTMmFFckxFY3Q3OThjeWpnVG9VVU5OZEtONG0zQ0c2dDVITndBUEVqakM0RHFQNjg3RkNBVDZVYkdwcy00N1BuV3lmVmc?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 11:27:50 GMT"
     },
     {
       "title": "Stock market outlook today, 16 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -198,16 +192,22 @@
       "publishedAt": "Fri, 16 Oct 2026 01:19:58 GMT"
     },
     {
+      "title": "Top 3 stocks to buy under ₹100: IRFC, Motherson Sumi, Lloyds Engineering Works by Sumeet Bagadia | Target price, SL - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM2hUVE1KMkp0LXgyOG1rcHYwMVVpSVNEZlFPZDd1QUY0ZjNSNG1mUkhIVFpmRVlaUl94NkVQXzdsOURiWklnaHEtWjRZWUlPQmpqaEdjclR6YVJ4dEpvajh4dXRhem9MUWNfSDR2QlRqOEhZUHpvMkxLYTlHcmZCdlZadlEwMm16RUVQRU5sVGVfUjU4TF9rQ1E4Ni1YLTQyN1J2SW5ZV3MyVW5aSENFQ2xWcV81eThvNWJ5OTRyVlNyWkp3NVZ4X3FnSHMyOUhhaU1qbzRjdGFKbzFDek8zRGpuZDJSYzNDekJvTDI2amJMLUVqN3UxN2FRdGpHRGp1M0oyZnJIcUxLS0pfTEHSAZMCQVVfeXFMTU5qZFFkbDM3WVhlSVRaOFA0Z0ZWZGtibmRKb3F4WWx6OFkxYm54bDJMdEg5bmd4Mk5fLWx3ZXVFUTJ6R3p6NDl0dS1MUzItQmVuV1hPWVFTT2ZUZmpaME5iRjRnbkFwSG1sWjU5Um9QU3MxVWRQeWlNTnExN1FmbWlLT0pwTGp6eFRQRk4waGhZS3Bscl9LQzlfV0NVX1dCU2RUQThpYnBremJTU0taTkhTTUhEbDdZMG1hSVhPdmNhdFZQOUgwRlNiY1lqeF9PZVZoZmk3T0RWWHJ2aDVRZldXcXJ2X25WOGszVTZfc005TXN0bm1wbjVZajl3aUg3X3pKRDlDS0V3Wk4xV3I1Y0xlcUU?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 01:00:25 GMT"
+    },
+    {
       "title": "Stock market outlook today, 15 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQmt4MElPMFdzZEZHaGlsSnRoTGZRQ3lua2F1ZnZnQ3hLT2dOUDlSRzluaUtMZ2I3eEgyUmEyOVJEYlJmV2ZJcUI5TTZia1IxVEk2V1hSUlVyT2JXTkN2WTZSWXFlV0wtTDFnTmhvX2llUXJhTEVoRURmVDQtc2dIVm10MVRrSjV6TTJUUXFqZEZlbEg3ek5LazBkVzM0QUZnNVFMVTV6VU92X0tXRU5Fa1FFb2ltTzJHY2s2N1UwMWtzeEpubHEzNnhvUGpWSlU2VzBIaTU0TWlFNkhGczJhVWdKTGYwdjRLczYzRllRaGQzQmloZnN5dkF2Nk1JbjUxaU5YcdIBigJBVV95cUxQeGloY3FkM2YwOXhZR1NQb1NSUXVPdS1pYzZzVkZMeVRaX1d2M3hDaVRJQ3NKQ0gzeV83X0h0S1FSTlRlbjRIXzY0T3I0dzZTV3dHWWs3dWo4emFzcVlsbnRLVFJ4VHYyRHlJOWJhWEpJZjl3MDI0RjBRaHFiRk92OUJtZGo3ZTZTTm9FMGprdTY4dXFUUjR5ekY0cWtjeVlRbldaOFk4dXB3VDgwNWpPQm9FSXVIYmUtc0t0dGo0SnpidG5sQV9aaW9zSFJoM21VWURzckNiYnc3NTZwVGs2Nk1GZGVPNGxSWGMwbDlvd0NXTmxUc1liczd0QTJydWpjYjdqb3BOVl92QQ?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 01:19:47 GMT"
     },
     {
-      "title": "Indian markets continue rally; Nifty and Sensex close 2% up as rupee strengthens - The Hindu",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHUtRzN2UjV5YThrUUlsXzhqbTFLeDZxVjFnMVRScXhCQUlFUXZKekg2a2lweDBlSEE3TFhVaXdPMHllbmpCM1dIUVE4NUtSWGllTEI0bnp2dHdHaXNvajdxeWZETEpUNnJ0WlV2bVVfWk1paEFpYkNVZkxuVmdvLWxjSW43dDI1RlNuRE5sUWR2Tkw1RFhxTE5tbUFqd3c5MFN0ZnJNRUUtUXdQZ0wtNldySG5FVFVSTjNkNWVtZ1UwTlliaGZaekExcy1PaDlaVkhXdNIB2wFBVV95cUxPek8yeXhXRG81V0xWQmFWcERtS09uaEVWcmdLNmtERmNac2g0OWhsTWhsOUswaVdIanZKQVpNOHVRV00yLTVoTGxHME91Tnk1SlRVUVZZV2Y4MktFWHBJVmctcHhsQTVNcm9kQTEzN0xCZm9udnF4LXlGNXpValEzampRdENicVlmVGo5VE8zaWVMU1MwdndTMmFFckxFY3Q3OThjeWpnVG9VVU5OZEtONG0zQ0c2dDVITndBUEVqakM0RHFQNjg3RkNBVDZVYkdwcy00N1BuV3lmVmc?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 11:27:50 GMT"
+      "title": "Indian markets close higher on Friday as IT stocks lead gains - The New Indian Express",
+      "source": "The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGpjc041Wm82bVlKdUI4SVhQQjRrNVlhRXozM0NSblRsTmoxU0labkhjeFVMYkQ3eE82N2FqOGEwbHN1OFZOd1RaM1Rkek5BLWszS09PTWFkWGVIaGV6UVpnUHhzT1AzLTFuUmxfaUVwY1hubnRpZ3JGZC0xb213NGpOTVhOQkpld0FlQ3laazVkTWlaTlRUYnNjMnpTMkFyZ1FVQ09LcGVIeVNrWnVNTWp4V3FkUdIBwwFBVV95cUxPSEEwRDlBTGJYOHM2SHNoaVE4cWktYjlOUVNYSVBXcWtUM1lsMlNmQ040YzhCZ3ZnTlB4cHhjN3pGbm5sS1QtWmNFQ09lellfbWdjcGhWeU80cl8yRElHUi1ZNXR0T2RRRG4tRlVMYTUzck5YUnJkNWxLeUdlRTFhSFJKUkhwU1A5WFl2MzZNenZKWC1SdHAwWXZZaXF1TUtlOHZYelVrcmtsdFptOHNvcV90SjgzbnE0Zlo1ZVBUbDFpTEE?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 10:44:54 GMT"
     },
     {
       "title": "Bulls Return To Dalal Street! Stock Markets Rise as Sensex, Nifty Skyrocket; IT Stocks Rally - ETV Bharat",
