@@ -1,30 +1,46 @@
 {
-  "headline": "On last trading day, Indian markets closed higher led by IT stocks as Nifty maintains positive momentum",
+  "headline": "On last trading day, Indian markets closed higher led by IT stocks, extending weekly gains.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 19 October.",
-    "nextOpen": "Monday, 19 October 2026"
+    "nextOpen": "Monday, 19 October"
   },
   "why": [
-    "IT stocks led the market gains during the final trading session of the week on Friday",
-    "Anticipation of strong Q2 results for Bajaj Finance with projected 29% profit growth",
-    "Domestic Institutional Investors (DIIs) increased stakes in eight midcap stocks during Q2FY27",
-    "Positive momentum following a significant 1,534-point rally in the Sensex earlier in the week"
+    "IT stocks led the gains, driving benchmark indices higher during the last trading session.",
+    "A strengthening rupee provided additional support to Indian market sentiment.",
+    "Strong buying momentum and positive FII flows helped Sensex and Nifty extend their rally.",
+    "Positive brokerage commentary and target price hikes boosted confidence in select banking and industrial stocks."
   ],
   "whatHappening": [
-    "The Indian stock market is closed today for the weekend and will reopen on Monday, 19 October",
-    "Nifty 50 is hovering near the 23,000 mark after a series of strong trading sessions",
-    "Market experts have recommended Mphasis, HAL, and Indian Hotel as top stocks to buy for Monday",
-    "Apple's new iPhone models saw exceptional demand in India, selling out within minutes of launch"
+    "PNB received target price hikes, while Crompton Greaves and Federal Bank stayed under bullish brokerage focus.",
+    "Market experts recommended Mphasis, HAL, and Indian Hotel as top stocks to watch for Monday, October 19.",
+    "Sensex had rallied over 1,500 points during the week with Nifty approaching the 23,000 mark.",
+    "Markets remain closed on Sunday, October 18 for the weekend and will resume trading on October 19."
   ],
   "stocksInNews": [
     {
-      "symbol": "BAJFINANCE",
+      "symbol": "PNB",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        1
+        4
+      ]
+    },
+    {
+      "symbol": "CROMPTON",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
       ]
     },
     {
@@ -32,7 +48,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        17
+        18
       ]
     },
     {
@@ -40,7 +56,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        17
+        18
       ]
     },
     {
@@ -48,102 +64,96 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        17
+        18
       ]
     }
   ],
-  "summary": "Indian markets concluded the last trading session on a high note, driven by gains in the IT sector and strong institutional interest. Investors are optimistic ahead of Q2 earnings previews for major firms like Bajaj Finance and expert buy recommendations for the upcoming week. The market remains closed today for the weekend and will resume trading on Monday.",
-  "updatedAt": "2026-10-18T11:02:05.835Z",
+  "summary": "Indian benchmark indices closed higher in the last trading session, boosted by gains in IT stocks and a strengthening rupee.\nBrokerage houses maintained a bullish outlook on select banking, consumer, and defence stocks ahead of the new trading week.\nMarkets are closed today for the weekend and will reopen for trading on Monday, October 19.",
+  "updatedAt": "2026-10-18T12:01:34.793Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-18",
   "articleKeys": [
-    "diis increase stake in 8 midcap stocks in q2fy27",
-    "bajaj finance q2 preview profit may jump 29 nii 24 as strong loan growth lifts earnings",
-    "why big tech is giving away openweight ai models and what it wants in return explained",
-    "84 percent stocks in correction yet sp 500 nears record high whats behind the bullbear market",
-    "ranbir kapoors rs 78 lakh jacob co watch steals spotlight at ramayana trailer launch",
-    "how did china build the worlds factory one citys 500 million gamble offers a clue",
-    "falling returns is it time to pause your sip pocket money podcast",
-    "84 stocks in correction yet sp 500 at record highs whats behind the bullbear market",
-    "apples rs 3 lakh iphone duo sells out within minutes deliveries pushed to january 2027",
-    "youre joking right woman draws stunned reaction for quitting wall street job to camp across us",
-    "share market live share market today latest share market news share market live updates on the economic times the economic times",
+    "akasa air suspends flights to riyadh jeddah till oct 27 check refund rescheduling rules",
+    "renault duster hybrid launched at 1699 lakh mileage specs features and more",
+    "northeast united fc vs kerala blasters fc live streaming telecast when where to watch isl match on tv online",
+    "india women vs zimbabwe women live streaming when and where to watch 2nd t20i",
+    "brokerage radar pnb gets target price hikes crompton greaves and federal bank stay under bullish lens",
+    "leeds united vs man united live streaming likely lineups how to watch premier league match on tv online",
+    "five snapdragon smartphones under rs 45000 in india oneplus nord 6 redmi note 17 pro and more",
+    "49 seconds of panic video shows kolkata puja pandal crowd crush that killed 19 watch",
+    "ferrari luce makes india debut with 1000 ps power 530 km range key details",
+    "flipkart sale ends october 19 macbook air m5 hp omnibook 3 and more laptop deals",
     "share market news nifty 50 outlook prediction liquide blog",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
     "sensex rallies 1534 points nifty nears 23000 hdfc sky",
     "indian markets continue rally nifty and sensex close 2 up as rupee strengthens the hindu",
+    "indian stock market outlook next week october 1923 sensex nifty may extend rally amid it buying fii flows goodreturns",
     "indian markets close higher on friday as it stocks lead gains the new indian express",
     "bulls return to dalal street stock markets rise as sensex nifty skyrocket it stocks rally etv bharat",
-    "top 3 stocks to buy tomorrow mphasis hal indian hotel by market expert check stoploss target price for mon 19 oct livemint",
     "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "top 3 stocks to buy tomorrow mphasis hal indian hotel by market expert check stoploss target price for mon 19 oct livemint",
     "stock market outlook today 15 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
   ],
   "articles": [
     {
-      "title": "DIIs increase stake in 8 midcap stocks in Q2FY27",
+      "title": "Akasa Air Suspends Flights To Riyadh, Jeddah Till Oct 27: Check Refund, Rescheduling Rules",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diis-increase-stake-in-8-midcap-stocks-in-q2fy27/slideshow/135027062.cms",
-      "publishedAt": "Sun, 18 Oct 2026 15:40:35 +0530"
+      "link": "https://www.ndtvprofit.com/business/akasa-air-suspends-flights-to-riyadh-jeddah-till-oct-27-check-refund-rescheduling-rules-12202541#publisher=newsstand",
+      "publishedAt": "Sun, 18 Oct 2026 16:32:40 +0530"
     },
     {
-      "title": "Bajaj Finance Q2 preview: Profit may jump 29%, NII 24% as strong loan growth lifts earnings",
+      "title": "Renault Duster Hybrid Launched at 16.99 Lakh: Mileage, Specs, Features And More",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-preview-profit-may-jump-29-nii-24-as-strong-loan-growth-lifts-earnings/articleshow/135026829.cms",
-      "publishedAt": "Sun, 18 Oct 2026 15:20:55 +0530"
+      "link": "https://www.ndtvprofit.com/business/renault-duster-hybrid-launched-at-16-99-lakh-mileage-specs-features-and-more-12201900#publisher=newsstand",
+      "publishedAt": "Sun, 18 Oct 2026 16:32:16 +0530"
     },
     {
-      "title": "Why Big Tech is giving away open-weight AI models, and what it wants in return | Explained",
+      "title": "NorthEast United FC vs Kerala Blasters FC Live Streaming, Telecast: When, Where To Watch ISL Match On TV, Online?",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/why-big-tech-is-giving-away-open-weight-ai-models-and-what-it-wants-in-return-explained/article71596411.ece",
-      "publishedAt": "Sun, 18 Oct 2026 15:05:55 +0530"
+      "link": "https://www.ndtvprofit.com/sports/northeast-united-fc-vs-kerala-blasters-fc-football-live-streaming-telecast-when-where-to-watch-isl-match-on-tv-online-12200951#publisher=newsstand",
+      "publishedAt": "Sun, 18 Oct 2026 16:30:01 +0530"
     },
     {
-      "title": "84 Percent Stocks In Correction, Yet S&P 500 Nears Record High: What's Behind The 'Bull-Bear' Market?",
+      "title": "India Women Vs Zimbabwe Women Live Streaming: When And Where To Watch 2nd T20I",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/84-percent-stocks-in-correction-yet-s-p-500-at-record-highs-whats-behind-the-bull-bear-market-12202140#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 14:45:44 +0530"
+      "link": "https://www.ndtvprofit.com/sports/india-women-vs-zimbabwe-women-cricket-live-streaming-when-and-where-to-watch-2nd-t20i-12197144#publisher=newsstand",
+      "publishedAt": "Sun, 18 Oct 2026 16:21:29 +0530"
     },
     {
-      "title": "Ranbir Kapoor's Rs 78 Lakh Jacob & Co. Watch Steals Spotlight At Ramayana Trailer Launch",
+      "title": "Brokerage Radar: PNB Gets Target Price Hikes; Crompton Greaves And Federal Bank Stay Under Bullish Lens",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ranbir-kapoors-rs-78-lakh-jacob-co-watch-steals-spotlight-at-ramayana-trailer-launch-12201864#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 14:14:34 +0530"
+      "link": "https://www.ndtvprofit.com/markets/brokerage-radar-pnb-gets-target-price-hikes-crompton-greaves-and-federal-bank-stay-under-bullish-lens-12202502#publisher=newsstand",
+      "publishedAt": "Sun, 18 Oct 2026 16:15:46 +0530"
     },
     {
-      "title": "How Did China Build The World's Factory? One City's $500 Million Gamble Offers A Clue",
+      "title": "Leeds United vs Man United Live Streaming: Likely Lineups; How To Watch Premier League Match On TV, Online?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/how-did-china-build-the-worlds-factory-one-citys-500-million-gamble-offers-a-clue-12202163#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 14:02:02 +0530"
+      "link": "https://www.ndtvprofit.com/sports/leeds-united-vs-man-united-live-streaming-likely-lineups-how-to-watch-premier-league-match-on-tv-online-12197094#publisher=newsstand",
+      "publishedAt": "Sun, 18 Oct 2026 16:12:38 +0530"
     },
     {
-      "title": "Falling returns: Is it time to pause your SIP? | Pocket Money Podcast",
+      "title": "Five Snapdragon Smartphones Under Rs 45,000 In India: OnePlus Nord 6, Redmi Note 17 Pro And More",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/podcast/falling-returns-is-it-time-to-pause-your-sip-pocket-money-podcast/article71592527.ece",
-      "publishedAt": "Sun, 18 Oct 2026 14:01:41 +0530"
+      "link": "https://www.ndtvprofit.com/technology/5-snapdragon-smartphones-under-rs-45-000-in-india-oneplus-nord-6-redmi-note-17-pro-and-more-12202276#publisher=newsstand",
+      "publishedAt": "Sun, 18 Oct 2026 16:09:13 +0530"
     },
     {
-      "title": "84% Stocks In Correction, Yet S&P 500 At Record Highs: What's Behind The 'Bull-Bear' Market?",
+      "title": "49 Seconds Of Panic: Video Shows Kolkata Puja Pandal Crowd Crush That Killed 19. Watch",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/84-percent-stocks-in-correction-yet-s-p-500-at-record-highs-whats-behind-the-bull-bear-market-12202140#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 13:55:40 +0530"
+      "link": "https://www.ndtvprofit.com/india/49-seconds-of-panic-video-shows-kolkata-puja-pandal-crowd-crush-that-killed-19-watch-chorebagan-12202520#publisher=newsstand",
+      "publishedAt": "Sun, 18 Oct 2026 16:04:39 +0530"
     },
     {
-      "title": "Apple's Rs 3 Lakh iPhone Duo Sells Out Within Minutes; Deliveries Pushed To January 2027",
+      "title": "Ferrari Luce Makes India Debut With 1,000 PS Power, 530 Km Range: Key Details",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/apple-s-rs-3-lakh-iphone-duo-sells-out-within-minutes-deliveries-pushed-to-january-2027-12202029#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 13:53:12 +0530"
+      "link": "https://www.ndtvprofit.com/business/ferrari-luce-makes-india-debut-with-1-000-ps-power-530-km-range-key-details-12202031#publisher=newsstand",
+      "publishedAt": "Sun, 18 Oct 2026 16:03:17 +0530"
     },
     {
-      "title": "'You're Joking, Right?' Woman Draws Stunned Reaction For Quitting Wall Street Job To Camp Across US",
+      "title": "Flipkart Sale Ends October 19: MacBook Air M5, HP OmniBook 3 And More Laptop Deals",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/youre-joking-right-woman-draws-stunned-reaction-for-quitting-wall-street-job-to-camp-across-us-12202076#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 13:42:48 +0530"
-    },
-    {
-      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 12:47:01 GMT"
+      "link": "https://www.ndtvprofit.com/technology/flipkart-sale-ends-october-19-macbook-air-m5-hp-omnibook-3-and-more-laptop-deals-12202433#publisher=newsstand",
+      "publishedAt": "Sun, 18 Oct 2026 15:59:40 +0530"
     },
     {
       "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
@@ -170,6 +180,12 @@
       "publishedAt": "Thu, 15 Oct 2026 11:27:50 GMT"
     },
     {
+      "title": "Indian Stock Market Outlook Next Week, October 19-23: Sensex, Nifty May Extend Rally Amid IT Buying, FII Flows - Goodreturns",
+      "source": "Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXl0blpwbkdnWU85U0dNWnVoLXREMGMyT1ZUaVJCaWRvM3owdzZTODhiVS1TQk1fUk9ac1dtd1c2RHZ3MXJiWE1mbEktRUtfNzNxSnFyYTZNTVpHV053UF9lcWJBYlVzWVVpdzM5XzNiMU1XZldYSUVpOHEwY1ZxRWpWb29iNUhZSTdNQ0R0b0cwV3llMGJ3dWFkOHY1TnVHVDFHamlUUG1GNm42cHJnZVdFWjd6ZTRQbDNQRDVRX3dReXhKaHAwQVVQU00zQzZBbGtrSzJ4cWg2dw?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 11:53:55 GMT"
+    },
+    {
       "title": "Indian markets close higher on Friday as IT stocks lead gains - The New Indian Express",
       "source": "The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGpjc041Wm82bVlKdUI4SVhQQjRrNVlhRXozM0NSblRsTmoxU0labkhjeFVMYkQ3eE82N2FqOGEwbHN1OFZOd1RaM1Rkek5BLWszS09PTWFkWGVIaGV6UVpnUHhzT1AzLTFuUmxfaUVwY1hubnRpZ3JGZC0xb213NGpOTVhOQkpld0FlQ3laazVkTWlaTlRUYnNjMnpTMkFyZ1FVQ09LcGVIeVNrWnVNTWp4V3FkUdIBwwFBVV95cUxPSEEwRDlBTGJYOHM2SHNoaVE4cWktYjlOUVNYSVBXcWtUM1lsMlNmQ040YzhCZ3ZnTlB4cHhjN3pGbm5sS1QtWmNFQ09lellfbWdjcGhWeU80cl8yRElHUi1ZNXR0T2RRRG4tRlVMYTUzck5YUnJkNWxLeUdlRTFhSFJKUkhwU1A5WFl2MzZNenZKWC1SdHAwWXZZaXF1TUtlOHZYelVrcmtsdFptOHNvcV90SjgzbnE0Zlo1ZVBUbDFpTEE?oc=5",
@@ -182,16 +198,16 @@
       "publishedAt": "Thu, 15 Oct 2026 04:59:14 GMT"
     },
     {
-      "title": "Top 3 stocks to buy tomorrow: Mphasis, HAL, Indian Hotel by market expert; check stop-loss, target price for Mon, 19 Oct - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbnk1SVBXTHliUFlTOUJyOUw0VlBQOXpiVGdEZVJ6SmJkZ0t0Rmk0Z0U3NW5PRnZXQmQxSER2cHlVeFY0NzVnaUVSUmVrR1lQbTdvdGhlZC0zSng4NXAxZHRBVzhYOGVRcmlyVzBFUGFIa1JZcFE2bzFnYUFnWmYzYjdjU2huWVlPX0Ffb1kxVG9YUWVycm83MFdHQ2dUbnBMdVN1UVhPdk01QllvblZsejRweEgwZWxobW9NeHRsVWpVejFQQWx3b0NPZUFZQ2RrTFVnek9LcXVpeWp2OWc2ZVVUeHJjUFpwTDlIV2JNYUdBeFNNeFBtUVFqZUp6MDZXQkFLajhrNnpYdGtxdGRuQ9IBlgJBVV95cUxOQVo4eVdKVkVPSTRpaS1ZU3JjUm5oeUhDbE9xdlBtYktqRnhhWlhIMHd1dTJ6X1dtbUwwaHpFTTNJY2tKMFQwMDEwclA3a3IwTlhLX1lpUGdoazhCOXhsRThfSzlwY1ZWWmxIUWZlSFZKdUhQT1JpbHlOckJBcnBOZnh4LVVKSVVicl9DbDN5aDNoaFJrV0ZsVW5hYTZLRnZMRzdFZmpLMTA2enVIbUVxT1VnVDdxZWtXdFF2UHhGd0dmWThvZHltNDZsYmRPcHBWMzBxeGF0QnEtdEQyZUZNcU9zRHdhN1FsdVVQS05fMFd6WkRNYm9mVjJxR2NEc3pjT2JRWHJQSFE3Q3NpWEdoaTZscjV6UQ?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 05:52:30 GMT"
-    },
-    {
       "title": "Stock market outlook today, 16 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRXpHZ3doYXNTeF9qM3VvdXVqbHNIX3VfVGJoOFdkenk2WkRYZWxfdnc4RW1iRXZ0TlEwSUVYMndvSE5pNGVxcExQVFFjMzFpT3lXVlVGOThGVE9abnJpY0ZhSDAtd3hzRUE1NGtTN2llejRaajFfeWZLUHY4R1cxZGFSYUQyMW9Kd3BxS2ZjWW5aaExPT2FySzZROTJaR05hUDZSYVFlR294dVp6T295bHRrN1QtaHZybTZmRkRNcmxJNXJ6TVhBWjQ5dG1BRlJXR1ZoTmhRV3Zkak5qcmhDOW9uYTN5WnpQZnpOWmpPMFJ5bDlJSzE1SmtTLTVXQlB1STF5dNIBigJBVV95cUxPclAyUk55S1duaUUwWGo1VWhsTWJveG52amFVZWxGX1BvbmItSnFIUERkaGFLZjlILUxsNmZheWFyWDcxQWxZOVBmNXFYV0xRYTljZDlkTkpsbG4yNkhMNVpTanNYU01YU21YOGpQWTZJbnpsakN5TmdKX0x1ODdfR0dvWVlZVDFyd3I5M0ZBd0JyUi1DbW0zcDVhMk1hdGpDTXVCNUNESUVrSjdDcXJFRW9vRzNHODVXNGRCZ3M1Z0RlajhNVW1CUi1sbnZtbkozVl9tSUdDYnRwMmhoeTJUVzNyOEZvRTI1a0xERlBQckJta0FOWlNFSUxVSzE1MEpCUmRjc05hWkJUZw?oc=5",
       "publishedAt": "Fri, 16 Oct 2026 01:19:58 GMT"
+    },
+    {
+      "title": "Top 3 stocks to buy tomorrow: Mphasis, HAL, Indian Hotel by market expert; check stop-loss, target price for Mon, 19 Oct - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbnk1SVBXTHliUFlTOUJyOUw0VlBQOXpiVGdEZVJ6SmJkZ0t0Rmk0Z0U3NW5PRnZXQmQxSER2cHlVeFY0NzVnaUVSUmVrR1lQbTdvdGhlZC0zSng4NXAxZHRBVzhYOGVRcmlyVzBFUGFIa1JZcFE2bzFnYUFnWmYzYjdjU2huWVlPX0Ffb1kxVG9YUWVycm83MFdHQ2dUbnBMdVN1UVhPdk01QllvblZsejRweEgwZWxobW9NeHRsVWpVejFQQWx3b0NPZUFZQ2RrTFVnek9LcXVpeWp2OWc2ZVVUeHJjUFpwTDlIV2JNYUdBeFNNeFBtUVFqZUp6MDZXQkFLajhrNnpYdGtxdGRuQ9IBlgJBVV95cUxOQVo4eVdKVkVPSTRpaS1ZU3JjUm5oeUhDbE9xdlBtYktqRnhhWlhIMHd1dTJ6X1dtbUwwaHpFTTNJY2tKMFQwMDEwclA3a3IwTlhLX1lpUGdoazhCOXhsRThfSzlwY1ZWWmxIUWZlSFZKdUhQT1JpbHlOckJBcnBOZnh4LVVKSVVicl9DbDN5aDNoaFJrV0ZsVW5hYTZLRnZMRzdFZmpLMTA2enVIbUVxT1VnVDdxZWtXdFF2UHhGd0dmWThvZHltNDZsYmRPcHBWMzBxeGF0QnEtdEQyZUZNcU9zRHdhN1FsdVVQS05fMFd6WkRNYm9mVjJxR2NEc3pjT2JRWHJQSFE3Q3NpWEdoaTZscjV6UQ?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 05:52:30 GMT"
     },
     {
       "title": "Stock market outlook today, 15 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
