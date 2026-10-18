@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex climbed 413 points to 74,729 while Nifty settled above 23,100.",
+  "headline": "Last session: Sensex climbed 414 points to 74,729 while Nifty closed above 23,100 led by IT stocks",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,22 +7,22 @@
     "nextOpen": "Monday, 19 October 2026"
   },
   "why": [
-    "Strong performance in IT, media, and metal sectors drove the Sensex and Nifty higher during the last session.",
-    "Reliance Industries' subsidiary Jio Platforms filed its final IPO prospectus, boosting investor sentiment.",
-    "Hyundai announced a ₹4,000 crore investment in its Pune plant to increase production capacity.",
-    "Continued buying interest following Thursday's massive 1,534-point rally sustained market momentum."
+    "In the last session, Sensex climbed 413.66 points led by strong buying in IT, media, and metal stocks.",
+    "Nifty extended its upward momentum to close firmly above the 23,100 mark.",
+    "Bulls maintained control following a major rally in preceding sessions driven by earnings expectations.",
+    "Sustained domestic buying interest supported the benchmarks despite volatile global commodity cues."
   ],
   "whatHappening": [
-    "Sensex climbed 413.66 points to settle at 74,729 while Nifty closed at 23,146 on Friday.",
-    "Bank of Baroda shares fell 3.5% after being sued for $15 billion by NMC founder B.R. Shetty.",
-    "Zydus Lifesciences reported that its manufacturing facility received five observations from the U.S. FDA.",
-    "The government proposed implementing BS-VII emission norms starting April 2029, including new durability rules."
+    "Reliance Industries' Jio Platforms filed its final IPO prospectus with the offer scheduled to open on October 21.",
+    "Bank of Baroda equity came under pressure after NMC founder sued the lender for $15 billion.",
+    "Zydus Lifesciences received 5 observations from the U.S. FDA following an inspection of its manufacturing plant.",
+    "Hyundai announced an additional investment of ₹4,000 crore to expand capacity at its Pune manufacturing facility."
   ],
   "stocksInNews": [
     {
       "symbol": "ZYDUSLIFE",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         0
       ]
@@ -30,7 +30,7 @@
     {
       "symbol": "BANKBARODA",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         6
       ]
@@ -38,25 +38,16 @@
     {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         8
       ]
     },
     {
-      "symbol": "HYUNDAI",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
       "symbol": "TECHM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 3/7 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        11,
         12,
         16
       ]
@@ -64,15 +55,22 @@
     {
       "symbol": "WIPRO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        11,
         12
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        16
       ]
     }
   ],
-  "summary": "In the last session, Indian markets extended their rally with the Sensex rising 413 points, driven by IT and metal stocks. Reliance's Jio Platforms filed for its upcoming IPO, while Bank of Baroda shares fell following a major lawsuit. The market is currently closed for the weekend and will reopen on Monday.",
-  "updatedAt": "2026-10-17T23:43:05.106Z",
+  "summary": "On the last trading day, Indian benchmarks closed higher as Sensex gained 413 points to 74,729 and Nifty settled above 23,100.\nGains were primarily driven by IT, media, and metal sectors alongside positive corporate announcements.\nThe stock market is closed today for the weekend and will reopen for normal trading on Monday, 19 October.",
+  "updatedAt": "2026-10-18T00:01:38.794Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-18",
   "articleKeys": [
@@ -93,9 +91,9 @@
     "stock market today highlights sensex jumps 1534 points nifty gains 375 points the times of india",
     "closing bell nifty at 23000 sensex zooms 1534 pts it auto private banks shine moneycontrolcom",
     "sensex today nifty 50 stock market highlights sensex falls 548 pts nifty ends below 22400 itc techm drop 3 each the economic times",
-    "share market live share market today latest share market news share market live updates on the economic times the economic times",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
-    "sensex rallies 1534 points nifty nears 23000 hdfc sky"
+    "sensex rallies 1534 points nifty nears 23000 hdfc sky",
+    "indian markets continue rally nifty and sensex close 2 up as rupee strengthens the hindu"
   ],
   "articles": [
     {
@@ -201,12 +199,6 @@
       "publishedAt": "Mon, 12 Oct 2026 10:04:52 GMT"
     },
     {
-      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 12:41:02 GMT"
-    },
-    {
       "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQblA3NmloLThJMUN0dFg3X1lJOXFTbmZaUnd3bV9CT2dyZHNNc3JsMnhIQkJqNnItU3p5dDBSQ1Itc3hfN3BUOGVUN2dqR3cxZ3ZoQUVvekNacm9qZ3llcG5sTk8xaGxXVmlPRHdUUUZEczJkUXI0STZZa1FGTWh3UkRxTVNLXzRPVGthWHVsZkNHMjR4cWJmbDh1TDRHUUVQaUg1b0dJTG9EdnZxOE8xWGNhT0ZHS2lSS0wtQTRMY1dRUWVoSWVNZ1I3cVJkU2IyaHFlWlRhUVBIMFJPZDZKYk4yaU9oQUI0ZmFIMGplTVlhbUcwRkJXd9IB_gFBVV95cUxQVUpDZVJxVzVmeFBaSDFHSHozZkFXOGFKQWtEUnkzbnR3M0FiQWlGc3l6dlBSM1h2X2hHLXRBMEtIa0M4NjdITWtTQW8xMjJlVHF4bDlIUGV3UDNzdXhkV3h4TXdMNGM4emdaczFjT3R2ZXZReENCR20tZlltZ1VwTF9vTzBka0RhQmYwMTVRNGJ4a1gwX01vQTJyemhPYldyYVlheWJYbVhqOUFoX0tJMjdTaUU1QUNsd0ptLUNFWEh1N1lwcTducGZXS3AwWXJYTnZvd0MyX1oxdnU1aXRnNHFjMXFRQ3EwVXd2dUNPU3AxNzhsR0sxNXRJVXZPUQ?oc=5",
@@ -217,6 +209,12 @@
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZm9OVkR1OGdhcTl5ZnZTbjhsUldMLTBnbER2QmpLZ0hIUXJ1SWpTSmlHcTRRSDJOYmJnUUVMa3o4a25hX2VpTENtVEVJT1ZUdmJqRUo5T3ZEZkkxYkpZWFRqTkl3QUw2Q1hUblJ0Mm51Ym5RdHlHZzBySHlrNXB3OHN6MWI0UjNhejVQRlBLN254b040b3NPazNMdmNRRE04NGFnM01LcEVFRExnZ3R4U0FkM2F6bXlXUGJ2Q01ONXdZbzZpbGdQVnY4YTNiN3QwQzJhYmFfOWhCN241NUhXSEs5MFJJM1JlTzhQVHYwM3pXSUVaS3ZCMUgzTUVvYzRI?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 11:23:38 GMT"
+    },
+    {
+      "title": "Indian markets continue rally; Nifty and Sensex close 2% up as rupee strengthens - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeHUtRzN2UjV5YThrUUlsXzhqbTFLeDZxVjFnMVRScXhCQUlFUXZKekg2a2lweDBlSEE3TFhVaXdPMHllbmpCM1dIUVE4NUtSWGllTEI0bnp2dHdHaXNvajdxeWZETEpUNnJ0WlV2bVVfWk1paEFpYkNVZkxuVmdvLWxjSW43dDI1RlNuRE5sUWR2Tkw1RFhxTE5tbUFqd3c5MFN0ZnJNRUUtUXdQZ0wtNldySG5FVFVSTjNkNWVtZ1UwTlliaGZaekExcy1PaDlaVkhXdNIB2wFBVV95cUxPek8yeXhXRG81V0xWQmFWcERtS09uaEVWcmdLNmtERmNac2g0OWhsTWhsOUswaVdIanZKQVpNOHVRV00yLTVoTGxHME91Tnk1SlRVUVZZV2Y4MktFWHBJVmctcHhsQTVNcm9kQTEzN0xCZm9udnF4LXlGNXpValEzampRdENicVlmVGo5VE8zaWVMU1MwdndTMmFFckxFY3Q3OThjeWpnVG9VVU5OZEtONG0zQ0c2dDVITndBUEVqakM0RHFQNjg3RkNBVDZVYkdwcy00N1BuV3lmVmc?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 11:27:50 GMT"
     }
   ]
 }
