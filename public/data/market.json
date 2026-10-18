@@ -1,40 +1,24 @@
 {
-  "headline": "Last session: Indian markets closed higher on Friday as IT stocks led gains, extending the week's strong rally.",
+  "headline": "Indian markets set to extend rally driven by IT buying, Q2 earnings, and global cues",
   "marketStatus": {
-    "isClosed": true,
+    "isClosed": false,
     "isMuhuratTrading": false,
-    "message": "Market is closed today because it is a weekend. It will reopen on Wednesday, 21 October.",
-    "nextOpen": "Wednesday, 21 October 2026"
+    "message": "Market is open for trading today.",
+    "nextOpen": ""
   },
   "why": [
-    "Continued buying interest in the IT sector drove gains during the last trading session",
-    "Positive momentum from Thursday's significant 1,534-point Sensex rally boosted sentiment",
-    "Strengthening of the Indian rupee against the US dollar supported domestic equities",
-    "Anticipation of the Reliance Jio IPO and upcoming Q2 corporate earnings results"
+    "Sensex surged 1,534 points while Nifty neared the 23,000 mark in recent trading.",
+    "IT sector buying provided strong support to Indian equity benchmarks.",
+    "Strengthening of the Indian rupee boosted broader market sentiment.",
+    "Investors are tracking key factors including Reliance Jio IPO updates, crude oil volatility, and Q2 earnings results."
   ],
   "whatHappening": [
-    "Nifty 50 approached the 23,000 mark after closing approximately 2% higher in recent sessions",
-    "Nestle India clarified that its Nescafe products are safe following FSSAI labelling concerns",
-    "Market experts have issued buy recommendations for Mphasis, HAL, and Indian Hotel",
-    "Investors are closely monitoring FII activity and volatility in global crude oil prices"
+    "Indian stock markets closed nearly 2% higher with IT stocks leading the gains.",
+    "Market analysts anticipate Nifty and Sensex may extend their rally in the October 19-23 trading week.",
+    "Expert picks for trading on Monday, October 19 include Mphasis, HAL, and Indian Hotel.",
+    "Foreign Institutional Investor (FII) flows and global market cues remain under close observation."
   ],
   "stocksInNews": [
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        10
-      ]
-    },
-    {
-      "symbol": "NESTLEIND",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        9
-      ]
-    },
     {
       "symbol": "MPHASIS",
       "sentiment": "Positive",
@@ -58,13 +42,22 @@
       "articleIds": [
         19
       ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        10
+      ]
     }
   ],
-  "summary": "Indian markets ended the last session higher, with IT stocks leading the gains on Friday. This followed a massive 1,534-point surge in the Sensex on Thursday as Nifty neared 23,000. Markets are currently closed for the weekend and will reopen on Wednesday.",
-  "updatedAt": "2026-10-18T17:02:34.435Z",
+  "summary": "Indian stock markets maintain strong upward momentum as Sensex rallied over 1,500 points and Nifty neared 23,000. Heavy buying in IT stocks and a strengthening rupee continue to lift investor sentiment ahead of the October 19-23 trading week. Market focus remains on upcoming Q2 corporate earnings, FII activity, and key stock recommendations like Mphasis, HAL, and Indian Hotel.",
+  "updatedAt": "2026-10-18T18:50:23.244Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-10-18",
+  "dateChecked": "2026-10-19",
   "articleKeys": [
+    "russia sanctions waiver a 60day pause us secretary of state marco rubio",
     "tiger shroff assassination attempt fadnavis seeks swift probe 15 teams to investigate",
     "real madrid vs sevilla live streaming likely lineups where to watch laliga match on tv online in india",
     "tiger shroff assassination attempt bishnoi gang claim salman khan threat what we know",
@@ -74,11 +67,10 @@
     "maha navami 2026 is it on october 19 or 20 date tithi timings puja vidhi and fasting rules",
     "unidentified persons fire at tiger shroff in juhu no injuries reported",
     "unidentified persons fire at tiger shroff in mumbais juhu actor safe",
-    "nestle says nescafe drinks are safe after fssai flags labelling issues",
     "stock market this week with top 7 factors for sensex nifty reliance jio ipo crude volatility fii selling q2 results livemint",
     "share market news nifty 50 outlook prediction liquide blog",
-    "indian stock market outlook next week october 1923 sensex nifty may extend rally amid it buying fii flows goodreturns",
     "sensex rallies 1534 points nifty nears 23000 hdfc sky",
+    "indian stock market outlook next week october 1923 sensex nifty may extend rally amid it buying fii flows goodreturns",
     "indian markets continue rally nifty and sensex close 2 up as rupee strengthens the hindu",
     "indian markets close higher on friday as it stocks lead gains the new indian express",
     "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
@@ -87,6 +79,12 @@
     "top 3 stocks to buy tomorrow mphasis hal indian hotel by market expert check stoploss target price for mon 19 oct livemint"
   ],
   "articles": [
+    {
+      "title": "Russia sanctions waiver a 60-day pause: US Secretary of State Marco Rubio",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/external-affairs-defence-security/news/russia-sanctions-waiver-a-60-day-pause-us-secretary-of-state-marco-rubio-126101800831_1.html",
+      "publishedAt": "Sun, 18 Oct 2026 23:42:00 +0530"
+    },
     {
       "title": "Tiger Shroff Assassination Attempt: Fadnavis Seeks Swift Probe; 15 Teams To Investigate",
       "source": "Zerodha Pulse",
@@ -142,12 +140,6 @@
       "publishedAt": "Sun, 18 Oct 2026 20:06:00 +0530"
     },
     {
-      "title": "Nestle Says Nescafe Drinks Are Safe After FSSAI Flags Labelling Issues",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/nestle-says-nescafe-coffee-drinks-are-safe-after-fssai-flags-labelling-issues-12203266#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 20:04:12 +0530"
-    },
-    {
       "title": "Stock market this week with top 7 factors for Sensex, Nifty: Reliance Jio IPO, crude volatility, FII selling, Q2 results - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPR0RobWp1YVc2NXZIU0tuZmFneC05dEtONGl6dzJlZGpUTXZSQjllbEJoRHB0ZWlsNFdPeVdDVG1KSWU2bDNtLXd0WWdaZjNkcnEzTTdUdFpPak5zc1pMUFhGb2dDOEFOVnFfS1NmVUI2WWdlcUlQVklEekROdUowcWctRDZCdjlCa3RBVGJPZlIxUlV3T3RENlpxZTZKLXpibDNWU3didm9FSWJKb21KZU5DYnc1dmdnVllkY2U3eHpVeXRPWkFHZmM0cjJWRXdaVnczSWV5RVpGZWpLMl8yZTdSQVNNeDJWX29iLTY0OWVmRUw5WjRKOE43SU43dW9hZFE4ZzFWSXR5MWYzMS1aclZn0gGXAkFVX3lxTE1FVlJkdzFrOUNMTU1fTGxDcGFaZ29FT01scnJWS2FTX1BENEU4cUxtSmVNYm5TNm9MTlFPMXp1RDF3dEwtTDZvQzlBdEQyZzc5RVF0Uy1qSUJ0cDZ0Ylk5RVNQRlRIQnVFWk5VQXFxRTA3WUVBcFd1anQwRngtQ1pycHZHb0NKU3NTWnZpbVEzbkFiaU1kODVrV2FYZy1DSFJJS0QtTzV4WlVxTVk3MWx3cDM1TTRWbm9IenhfMU51R2o2VVd5UXAyM1h5TUFkd0s2ckZndWExS3dUNGxjSEdUcTM3VVVRNDBWMkVrNGZiUjh4ZHFxZHZITzMxMElobi1UeE9NYjNzVUZYNXA4d3ZMNmFtTDg5bw?oc=5",
@@ -160,16 +152,16 @@
       "publishedAt": "Sun, 18 Oct 2026 09:46:20 GMT"
     },
     {
-      "title": "Indian Stock Market Outlook Next Week, October 19-23: Sensex, Nifty May Extend Rally Amid IT Buying, FII Flows - Goodreturns",
-      "source": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXl0blpwbkdnWU85U0dNWnVoLXREMGMyT1ZUaVJCaWRvM3owdzZTODhiVS1TQk1fUk9ac1dtd1c2RHZ3MXJiWE1mbEktRUtfNzNxSnFyYTZNTVpHV053UF9lcWJBYlVzWVVpdzM5XzNiMU1XZldYSUVpOHEwY1ZxRWpWb29iNUhZSTdNQ0R0b0cwV3llMGJ3dWFkOHY1TnVHVDFHamlUUG1GNm42cHJnZVdFWjd6ZTRQbDNQRDVRX3dReXhKaHAwQVVQU00zQzZBbGtrSzJ4cWg2dw?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 11:53:55 GMT"
-    },
-    {
       "title": "Sensex Rallies 1,534 Points, Nifty Nears 23,000 - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZm9OVkR1OGdhcTl5ZnZTbjhsUldMLTBnbER2QmpLZ0hIUXJ1SWpTSmlHcTRRSDJOYmJnUUVMa3o4a25hX2VpTENtVEVJT1ZUdmJqRUo5T3ZEZkkxYkpZWFRqTkl3QUw2Q1hUblJ0Mm51Ym5RdHlHZzBySHlrNXB3OHN6MWI0UjNhejVQRlBLN254b040b3NPazNMdmNRRE04NGFnM01LcEVFRExnZ3R4U0FkM2F6bXlXUGJ2Q01ONXdZbzZpbGdQVnY4YTNiN3QwQzJhYmFfOWhCN241NUhXSEs5MFJJM1JlTzhQVHYwM3pXSUVaS3ZCMUgzTUVvYzRI?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 11:23:38 GMT"
+    },
+    {
+      "title": "Indian Stock Market Outlook Next Week, October 19-23: Sensex, Nifty May Extend Rally Amid IT Buying, FII Flows - Goodreturns",
+      "source": "Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXl0blpwbkdnWU85U0dNWnVoLXREMGMyT1ZUaVJCaWRvM3owdzZTODhiVS1TQk1fUk9ac1dtd1c2RHZ3MXJiWE1mbEktRUtfNzNxSnFyYTZNTVpHV053UF9lcWJBYlVzWVVpdzM5XzNiMU1XZldYSUVpOHEwY1ZxRWpWb29iNUhZSTdNQ0R0b0cwV3llMGJ3dWFkOHY1TnVHVDFHamlUUG1GNm42cHJnZVdFWjd6ZTRQbDNQRDVRX3dReXhKaHAwQVVQU00zQzZBbGtrSzJ4cWg2dw?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 11:53:55 GMT"
     },
     {
       "title": "Indian markets continue rally; Nifty and Sensex close 2% up as rupee strengthens - The Hindu",
