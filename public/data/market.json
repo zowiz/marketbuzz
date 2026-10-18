@@ -1,52 +1,52 @@
 {
-  "headline": "Last session: Indian markets closed higher as IT stocks led gains and Sensex surged.",
+  "headline": "On last trading session, Indian markets rallied sharply with Sensex jumping 1,534 points led by IT stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
-    "message": "Market is closed today because it is a weekend. It will reopen on Monday, 19 October.",
-    "nextOpen": "Monday, 19 October 2026"
+    "message": "Market is closed today because it is a weekend. It will reopen on Wednesday, 21 October.",
+    "nextOpen": "Wednesday, 21 October 2026"
   },
   "why": [
-    "IT stocks led the gains, driving positive market sentiment.",
-    "Strengthening of the Indian rupee provided support to benchmark indices.",
-    "Strong foreign institutional investor (FII) flows supported the rally.",
-    "Upward target price revisions for key financial and industrial stocks raised buying interest."
+    "IT stocks led significant gains across the broad market during the last trading session.",
+    "Strengthening of the Indian Rupee boosted overall market sentiment.",
+    "Positive cues from global markets supported heavy buying in benchmark indices.",
+    "Sensex surged 1,534 points while Nifty closed near the 23,000 milestone mark."
   ],
   "whatHappening": [
-    "Sensex and Nifty extended their rally in recent trading sessions.",
-    "Brokerages upgraded target prices for PNB while remaining bullish on Federal Bank and Crompton Greaves.",
-    "Market analysts recommended stocks like Mphasis, HAL, and Indian Hotels ahead of trading next week.",
-    "Markets are expected to remain focused on IT sector buying and FII activity as trading resumes on Monday."
+    "Market participants are tracking key upcoming triggers including Jio IPO updates, crude oil volatility, and Q2 results.",
+    "Brokerages maintained a bullish stance on PNB, Crompton Greaves, and Federal Bank with target price hikes.",
+    "Market analysts recommended buys on Mphasis, HAL, and Indian Hotels ahead of the upcoming trading week.",
+    "Private bank margins face pressure in Q2FY27 results due to FCNR(B) deposit inflows."
   ],
   "stocksInNews": [
     {
       "symbol": "PNB",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        4
+        5
       ]
     },
     {
       "symbol": "CROMPTON",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        4
+        5
       ]
     },
     {
       "symbol": "FEDERALBNK",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        4
+        5
       ]
     },
     {
       "symbol": "MPHASIS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         18
       ]
@@ -54,7 +54,7 @@
     {
       "symbol": "HAL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         18
       ]
@@ -62,17 +62,18 @@
     {
       "symbol": "INDHOTEL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         18
       ]
     }
   ],
-  "summary": "Indian benchmark indices closed substantially higher in recent sessions driven by heavy buying in IT stocks and positive foreign capital flows.\nBrokerages maintained an optimistic view on select banking and defense counters ahead of the new trading week.\nMarkets remain closed today for the weekend and are scheduled to reopen on Monday, 19 October.",
-  "updatedAt": "2026-10-18T12:09:27.063Z",
+  "summary": "Indian benchmark indices closed substantially higher in the last trading session, with Sensex rallying 1,534 points and Nifty nearing 23,000 driven by strong IT buying and rupee appreciation. Markets are closed today for the weekend and will reopen on Wednesday, 21 October. Key factors to track next week include corporate Q2 earnings, crude oil volatility, and foreign institutional investment flows.",
+  "updatedAt": "2026-10-18T13:01:37.378Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-18",
   "articleKeys": [
+    "fcnrb deposit inflows weigh on private banks margins in q2fy27 results",
     "akasa air suspends flights to riyadh jeddah till oct 27 check refund rescheduling rules",
     "renault duster hybrid launched at 1699 lakh mileage specs features and more",
     "northeast united fc vs kerala blasters fc live streaming telecast when where to watch isl match on tv online",
@@ -81,20 +82,25 @@
     "leeds united vs man united live streaming likely lineups how to watch premier league match on tv online",
     "five snapdragon smartphones under rs 45000 in india oneplus nord 6 redmi note 17 pro and more",
     "49 seconds of panic video shows kolkata puja pandal crowd crush that killed 19 watch",
-    "ferrari luce makes india debut with 1000 ps power 530 km range key details",
-    "flipkart sale ends october 19 macbook air m5 hp omnibook 3 and more laptop deals",
+    "jlr india expands presence in delhi gurugram sees ncr as key market",
     "share market news nifty 50 outlook prediction liquide blog",
-    "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
+    "stock market this week jio ipo crude volatility fii selling q2 results among 7 factors to watch nifty outlook livemint",
+    "indian stock market outlook next week october 1923 sensex nifty may extend rally amid it buying fii flows goodreturns",
     "sensex rallies 1534 points nifty nears 23000 hdfc sky",
     "indian markets continue rally nifty and sensex close 2 up as rupee strengthens the hindu",
-    "indian stock market outlook next week october 1923 sensex nifty may extend rally amid it buying fii flows goodreturns",
     "indian markets close higher on friday as it stocks lead gains the new indian express",
+    "why is stock market up today sensex jumps 1534 points nifty ends at 22997 top 3 reasons explained livemint",
     "stock market outlook today 16 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "share market live share market today latest share market news share market live updates on the economic times the economic times",
     "top 3 stocks to buy tomorrow mphasis hal indian hotel by market expert check stoploss target price for mon 19 oct livemint",
     "stock market outlook today 15 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
   ],
   "articles": [
+    {
+      "title": "FCNR(B) deposit inflows weigh on private banks' margins in Q2FY27 results",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/banking/fcnr-b-deposit-inflows-weigh-on-private-banks-margins-in-q2fy27-results-126101800480_1.html",
+      "publishedAt": "Sun, 18 Oct 2026 17:24:33 +0530"
+    },
     {
       "title": "Akasa Air Suspends Flights To Riyadh, Jeddah Till Oct 27: Check Refund, Rescheduling Rules",
       "source": "Zerodha Pulse",
@@ -144,16 +150,10 @@
       "publishedAt": "Sun, 18 Oct 2026 16:04:39 +0530"
     },
     {
-      "title": "Ferrari Luce Makes India Debut With 1,000 PS Power, 530 Km Range: Key Details",
+      "title": "JLR India expands presence in Delhi, Gurugram, sees NCR as key market",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/ferrari-luce-makes-india-debut-with-1-000-ps-power-530-km-range-key-details-12202031#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 16:03:17 +0530"
-    },
-    {
-      "title": "Flipkart Sale Ends October 19: MacBook Air M5, HP OmniBook 3 And More Laptop Deals",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/flipkart-sale-ends-october-19-macbook-air-m5-hp-omnibook-3-and-more-laptop-deals-12202433#publisher=newsstand",
-      "publishedAt": "Sun, 18 Oct 2026 15:59:40 +0530"
+      "link": "https://www.business-standard.com/companies/news/jlr-india-expands-presence-in-delhi-gurugram-sees-ncr-as-key-market-126101800367_1.html",
+      "publishedAt": "Sun, 18 Oct 2026 16:04:25 +0530"
     },
     {
       "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
@@ -162,10 +162,16 @@
       "publishedAt": "Sun, 18 Oct 2026 09:46:20 GMT"
     },
     {
-      "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
+      "title": "Stock market this week: Jio IPO, crude volatility, FII selling, Q2 results among 7 factors to watch | Nifty outlook - Livemint",
       "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQblA3NmloLThJMUN0dFg3X1lJOXFTbmZaUnd3bV9CT2dyZHNNc3JsMnhIQkJqNnItU3p5dDBSQ1Itc3hfN3BUOGVUN2dqR3cxZ3ZoQUVvekNacm9qZ3llcG5sTk8xaGxXVmlPRHdUUUZEczJkUXI0STZZa1FGTWh3UkRxTVNLXzRPVGthWHVsZkNHMjR4cWJmbDh1TDRHUUVQaUg1b0dJTG9EdnZxOE8xWGNhT0ZHS2lSS0wtQTRMY1dRUWVoSWVNZ1I3cVJkU2IyaHFlWlRhUVBIMFJPZDZKYk4yaU9oQUI0ZmFIMGplTVlhbUcwRkJXd9IB_gFBVV95cUxQVUpDZVJxVzVmeFBaSDFHSHozZkFXOGFKQWtEUnkzbnR3M0FiQWlGc3l6dlBSM1h2X2hHLXRBMEtIa0M4NjdITWtTQW8xMjJlVHF4bDlIUGV3UDNzdXhkV3h4TXdMNGM4emdaczFjT3R2ZXZReENCR20tZlltZ1VwTF9vTzBka0RhQmYwMTVRNGJ4a1gwX01vQTJyemhPYldyYVlheWJYbVhqOUFoX0tJMjdTaUU1QUNsd0ptLUNFWEh1N1lwcTducGZXS3AwWXJYTnZvd0MyX1oxdnU1aXRnNHFjMXFRQ3EwVXd2dUNPU3AxNzhsR0sxNXRJVXZPUQ?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 04:33:59 GMT"
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPR0RobWp1YVc2NXZIU0tuZmFneC05dEtONGl6dzJlZGpUTXZSQjllbEJoRHB0ZWlsNFdPeVdDVG1KSWU2bDNtLXd0WWdaZjNkcnEzTTdUdFpPak5zc1pMUFhGb2dDOEFOVnFfS1NmVUI2WWdlcUlQVklEekROdUowcWctRDZCdjlCa3RBVGJPZlIxUlV3T3RENlpxZTZKLXpibDNWU3didm9FSWJKb21KZU5DYnc1dmdnVllkY2U3eHpVeXRPWkFHZmM0cjJWRXdaVnczSWV5RVpGZWpLMl8yZTdSQVNNeDJWX29iLTY0OWVmRUw5WjRKOE43SU43dW9hZFE4ZzFWSXR5MWYzMS1aclZn0gGXAkFVX3lxTE1FVlJkdzFrOUNMTU1fTGxDcGFaZ29FT01scnJWS2FTX1BENEU4cUxtSmVNYm5TNm9MTlFPMXp1RDF3dEwtTDZvQzlBdEQyZzc5RVF0Uy1qSUJ0cDZ0Ylk5RVNQRlRIQnVFWk5VQXFxRTA3WUVBcFd1anQwRngtQ1pycHZHb0NKU3NTWnZpbVEzbkFiaU1kODVrV2FYZy1DSFJJS0QtTzV4WlVxTVk3MWx3cDM1TTRWbm9IenhfMU51R2o2VVd5UXAyM1h5TUFkd0s2ckZndWExS3dUNGxjSEdUcTM3VVVRNDBWMkVrNGZiUjh4ZHFxZHZITzMxMElobi1UeE9NYjNzVUZYNXA4d3ZMNmFtTDg5bw?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 12:37:27 GMT"
+    },
+    {
+      "title": "Indian Stock Market Outlook Next Week, October 19-23: Sensex, Nifty May Extend Rally Amid IT Buying, FII Flows - Goodreturns",
+      "source": "Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXl0blpwbkdnWU85U0dNWnVoLXREMGMyT1ZUaVJCaWRvM3owdzZTODhiVS1TQk1fUk9ac1dtd1c2RHZ3MXJiWE1mbEktRUtfNzNxSnFyYTZNTVpHV053UF9lcWJBYlVzWVVpdzM5XzNiMU1XZldYSUVpOHEwY1ZxRWpWb29iNUhZSTdNQ0R0b0cwV3llMGJ3dWFkOHY1TnVHVDFHamlUUG1GNm42cHJnZVdFWjd6ZTRQbDNQRDVRX3dReXhKaHAwQVVQU00zQzZBbGtrSzJ4cWg2dw?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 11:53:55 GMT"
     },
     {
       "title": "Sensex Rallies 1,534 Points, Nifty Nears 23,000 - HDFC Sky",
@@ -180,28 +186,22 @@
       "publishedAt": "Thu, 15 Oct 2026 11:27:50 GMT"
     },
     {
-      "title": "Indian Stock Market Outlook Next Week, October 19-23: Sensex, Nifty May Extend Rally Amid IT Buying, FII Flows - Goodreturns",
-      "source": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXl0blpwbkdnWU85U0dNWnVoLXREMGMyT1ZUaVJCaWRvM3owdzZTODhiVS1TQk1fUk9ac1dtd1c2RHZ3MXJiWE1mbEktRUtfNzNxSnFyYTZNTVpHV053UF9lcWJBYlVzWVVpdzM5XzNiMU1XZldYSUVpOHEwY1ZxRWpWb29iNUhZSTdNQ0R0b0cwV3llMGJ3dWFkOHY1TnVHVDFHamlUUG1GNm42cHJnZVdFWjd6ZTRQbDNQRDVRX3dReXhKaHAwQVVQU00zQzZBbGtrSzJ4cWg2dw?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 11:53:55 GMT"
-    },
-    {
       "title": "Indian markets close higher on Friday as IT stocks lead gains - The New Indian Express",
       "source": "The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGpjc041Wm82bVlKdUI4SVhQQjRrNVlhRXozM0NSblRsTmoxU0labkhjeFVMYkQ3eE82N2FqOGEwbHN1OFZOd1RaM1Rkek5BLWszS09PTWFkWGVIaGV6UVpnUHhzT1AzLTFuUmxfaUVwY1hubnRpZ3JGZC0xb213NGpOTVhOQkpld0FlQ3laazVkTWlaTlRUYnNjMnpTMkFyZ1FVQ09LcGVIeVNrWnVNTWp4V3FkUdIBwwFBVV95cUxPSEEwRDlBTGJYOHM2SHNoaVE4cWktYjlOUVNYSVBXcWtUM1lsMlNmQ040YzhCZ3ZnTlB4cHhjN3pGbm5sS1QtWmNFQ09lellfbWdjcGhWeU80cl8yRElHUi1ZNXR0T2RRRG4tRlVMYTUzck5YUnJkNWxLeUdlRTFhSFJKUkhwU1A5WFl2MzZNenZKWC1SdHAwWXZZaXF1TUtlOHZYelVrcmtsdFptOHNvcV90SjgzbnE0Zlo1ZVBUbDFpTEE?oc=5",
       "publishedAt": "Fri, 16 Oct 2026 10:44:54 GMT"
     },
     {
+      "title": "Why is stock market up today? Sensex jumps 1,534 points, Nifty ends at 22,997 - Top 3 reasons explained - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQblA3NmloLThJMUN0dFg3X1lJOXFTbmZaUnd3bV9CT2dyZHNNc3JsMnhIQkJqNnItU3p5dDBSQ1Itc3hfN3BUOGVUN2dqR3cxZ3ZoQUVvekNacm9qZ3llcG5sTk8xaGxXVmlPRHdUUUZEczJkUXI0STZZa1FGTWh3UkRxTVNLXzRPVGthWHVsZkNHMjR4cWJmbDh1TDRHUUVQaUg1b0dJTG9EdnZxOE8xWGNhT0ZHS2lSS0wtQTRMY1dRUWVoSWVNZ1I3cVJkU2IyaHFlWlRhUVBIMFJPZDZKYk4yaU9oQUI0ZmFIMGplTVlhbUcwRkJXd9IB_gFBVV95cUxQVUpDZVJxVzVmeFBaSDFHSHozZkFXOGFKQWtEUnkzbnR3M0FiQWlGc3l6dlBSM1h2X2hHLXRBMEtIa0M4NjdITWtTQW8xMjJlVHF4bDlIUGV3UDNzdXhkV3h4TXdMNGM4emdaczFjT3R2ZXZReENCR20tZlltZ1VwTF9vTzBka0RhQmYwMTVRNGJ4a1gwX01vQTJyemhPYldyYVlheWJYbVhqOUFoX0tJMjdTaUU1QUNsd0ptLUNFWEh1N1lwcTducGZXS3AwWXJYTnZvd0MyX1oxdnU1aXRnNHFjMXFRQ3EwVXd2dUNPU3AxNzhsR0sxNXRJVXZPUQ?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 04:33:59 GMT"
+    },
+    {
       "title": "Stock market outlook today, 16 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRXpHZ3doYXNTeF9qM3VvdXVqbHNIX3VfVGJoOFdkenk2WkRYZWxfdnc4RW1iRXZ0TlEwSUVYMndvSE5pNGVxcExQVFFjMzFpT3lXVlVGOThGVE9abnJpY0ZhSDAtd3hzRUE1NGtTN2llejRaajFfeWZLUHY4R1cxZGFSYUQyMW9Kd3BxS2ZjWW5aaExPT2FySzZROTJaR05hUDZSYVFlR294dVp6T295bHRrN1QtaHZybTZmRkRNcmxJNXJ6TVhBWjQ5dG1BRlJXR1ZoTmhRV3Zkak5qcmhDOW9uYTN5WnpQZnpOWmpPMFJ5bDlJSzE1SmtTLTVXQlB1STF5dNIBigJBVV95cUxPclAyUk55S1duaUUwWGo1VWhsTWJveG52amFVZWxGX1BvbmItSnFIUERkaGFLZjlILUxsNmZheWFyWDcxQWxZOVBmNXFYV0xRYTljZDlkTkpsbG4yNkhMNVpTanNYU01YU21YOGpQWTZJbnpsakN5TmdKX0x1ODdfR0dvWVlZVDFyd3I5M0ZBd0JyUi1DbW0zcDVhMk1hdGpDTXVCNUNESUVrSjdDcXJFRW9vRzNHODVXNGRCZ3M1Z0RlajhNVW1CUi1sbnZtbkozVl9tSUdDYnRwMmhoeTJUVzNyOEZvRTI1a0xERlBQckJta0FOWlNFSUxVSzE1MEpCUmRjc05hWkJUZw?oc=5",
       "publishedAt": "Fri, 16 Oct 2026 01:19:58 GMT"
-    },
-    {
-      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "publishedAt": "Sat, 17 Oct 2026 12:45:02 GMT"
     },
     {
       "title": "Top 3 stocks to buy tomorrow: Mphasis, HAL, Indian Hotel by market expert; check stop-loss, target price for Mon, 19 Oct - Livemint",
