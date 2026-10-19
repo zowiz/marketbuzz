@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty trade volatile as private bank losses offset gains in PSU banks and Reliance",
+  "headline": "Sensex and Nifty trade lower amid global market volatility, weak Asian cues, and high crude oil prices",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,36 +7,36 @@
     "nextOpen": ""
   },
   "why": [
-    "High crude oil prices and weak Asian market cues weighed on investor sentiment early in the session.",
-    "Earnings pressure in major private banks, including Axis Bank and HDFC Bank, dragged down benchmark indices.",
-    "PSU banking stocks saw strong buying interest, helping offset broader market losses.",
-    "Stock-specific buying in Reliance Industries and SBI helped the market trim its sharp early losses."
+    "High crude oil prices and weak Asian market cues created cautious sentiment among investors.",
+    "Government's decision to halt sugarcane-based ethanol diversion hit Indian sugar stocks.",
+    "Global markets experienced fresh volatility as Q2 earnings season gained momentum.",
+    "Bernstein trimmed its Nifty target to 25,000, stating LTCG tax cuts alone won't attract FPIs."
   ],
   "whatHappening": [
-    "Sensex and Nifty traded volatile, hovering around the 23,000 to 23,100 Nifty levels.",
-    "PNB zoomed 6% and the Nifty PSU Bank index gained 2%.",
-    "Axis Bank fell 4% and HDFC Bank featured among the top losers.",
-    "Buying in Reliance Industries and SBI supported indices off lower levels."
+    "Sensex dropped over 300 to 400 points while Nifty slipped around 23,050 to 23,100 levels.",
+    "Stock markets trimmed early losses due to selective buying in State Bank of India and Reliance Industries.",
+    "Punjab National Bank surged 8% following Q2 earnings that surpassed estimates.",
+    "PC Jeweller soared 26% over two sessions, and Kross hit a 52-week high with a 16% rally after Q2 profits rose 143% YoY."
   ],
   "stocksInNews": [
     {
-      "symbol": "ICICIBANK",
+      "symbol": "PNB",
       "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "JINDALSAW",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         2
       ]
     },
     {
-      "symbol": "YESBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "ANGELONE",
+      "symbol": "PCJEWELLER",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
@@ -44,20 +44,11 @@
       ]
     },
     {
-      "symbol": "PNB",
+      "symbol": "KROSS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "AXISBANK",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/11 sources",
-      "articleIds": [
-        5,
-        14
+        6
       ]
     },
     {
@@ -83,94 +74,102 @@
       "articleIds": [
         14
       ]
+    },
+    {
+      "symbol": "AXISBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        14
+      ]
     }
   ],
-  "summary": "Indian benchmark indices opened flat to lower amid weak global cues and high crude oil prices. Private bank earnings dragged indices down, with Axis Bank and HDFC Bank leading losses. However, strong gains in PSU banks like PNB alongside buying in Reliance Industries helped markets recover from early lows.",
-  "updatedAt": "2026-10-19T05:31:24.283Z",
+  "summary": "Indian benchmark indices opened flat to lower as high crude oil prices and weak Asian cues weighed on investor sentiment.\nSensex slipped over 300 points while Nifty struggled near the 23,050 level, though buying in Reliance Industries and SBI trimmed early losses.\nIndividual stocks like PNB, PC Jeweller, and Kross rallied strongly on upbeat Q2 results and triggering events.",
+  "updatedAt": "2026-10-19T06:01:40.887Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-19",
   "articleKeys": [
-    "stock market live sensex down 300 pts nifty around 2300 nifty psu bank rises 2",
-    "urban company shares slide 7 as q2 net loss triples yoy on instahelp burn should you buy sell or hold",
-    "icici bank share price target after q2 results what are jefferies other analysts saying",
-    "yes bank sees no immediate need for capital raise after supreme courts at1 bond ruling",
-    "from ltm to angel one hdfc securities sees up to 30 upside after q2 results check target prices",
-    "stock market live updates sensex volatile nifty holds 23100 pnb zooms 6 axis bank down 4",
-    "us market wall streets ai rally faces test as meta earnings loom",
-    "11 years zero net fii flow how a 64 billion outflow erased 9 years of equity buying",
-    "bonfiglioli transmissions ipo day 3 gmp at 22 issue subscribed 99 should you apply",
-    "sahajanand medical technologies ipo day 3 gmp at 7 check subscription status and key details",
+    "pnb shares jump 8 after q2 results beat estimates jefferies motilal oswal others raise target prices",
+    "india sugar stocks slide as government halts sugarcanebased ethanol diversion",
+    "stock market live sensex down 300 pts nifty around 23050 jindal saw drops over 7",
+    "global markets face fresh volatility as earnings season gains pace",
+    "pc jeweller shares soar 26 in just two sessions heres whats triggering the sharp surge",
+    "easy exits hurting indian stocks nirmala sitharaman explains why equities are underperforming",
+    "kross shares rally 16 after q2 profit jumps 143 yoy stock hits 52week high",
+    "ltcg tax cut alone wont lure fpis says bernstein nifty target cut to 25k",
+    "stock market holiday 2026 are nse bse closed on october 20 for dussehra check remaining holidays for the year",
+    "global market chinas yuan hits fouryear high as strong gdp data ease stimulus concerns",
     "stock market outlook today 19 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex nifty open flat as high crude oil prices offset banking stocks gains chinimandi",
     "stock markets trim most of sharp early losses amid buying in sbi reliance industries deccan herald",
     "sensex nifty mixed at open amid weak asian markets hdfc sky",
     "sensex today trades lower nifty below 23050 hdfc bank axis bank top losers equitymaster",
+    "stock markets today asian markets fall on ai valuation concerns crude oil risks will sensex nifty follow fortune india",
     "sensex nifty open flat as mixed global cues keep investors cautious telangana today",
-    "stock market today asian markets fall on ai valuation concerns crude oil risks will sensex nifty follow fortune india",
     "stock market today sensex gains 120 points nifty near 23150 psu banks shine zee business",
-    "sensex nifty trade flat as private bank earnings weigh psu banks rally india today",
-    "stock market today gift nifty banks q2 results to oil prices five key factors for sensex nifty 50 on october 19 ndtv profit"
+    "stock market today gift nifty banks q2 results to oil prices five key factors for sensex nifty 50 on october 19 ndtv profit",
+    "bulls retreat as sensex falls over 400 points nifty slips below 23100 whats next for dstreet the economic times"
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex down 300 pts, Nifty around 23,00; Nifty PSU Bank rises 2%",
+      "title": "PNB shares jump 8% after Q2 results beat estimates; Jefferies, Motilal Oswal, others raise target prices",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-8-after-q2-results-beat-estimates-jefferies-motilal-oswal-others-raise-target-prices/articleshow/135040821.cms",
+      "publishedAt": "Mon, 19 Oct 2026 11:05:53 +0530"
+    },
+    {
+      "title": "India sugar stocks slide as government halts sugarcane-based ethanol diversion",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/india-sugar-stocks-slide-as-government-halts-sugarcane-based-ethanol-diversion/article71602108.ece",
+      "publishedAt": "Mon, 19 Oct 2026 11:03:08 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex down 300 pts, Nifty around 23,050; Jindal Saw drops over 7%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 10:01:41 +0530"
+      "publishedAt": "Mon, 19 Oct 2026 11:00:25 +0530"
     },
     {
-      "title": "Urban Company shares slide 7% as Q2 net loss triples YoY on InstaHelp burn. Should you buy, sell or hold?",
+      "title": "Global markets face fresh volatility as earnings season gains pace",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-slide-7-as-q2-net-loss-triples-yoy-on-instahelp-burn-should-you-buy-sell-or-hold/articleshow/135039550.cms",
-      "publishedAt": "Mon, 19 Oct 2026 09:53:11 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-face-fresh-volatility-as-earnings-season-gains-pace/slideshow/135040791.cms",
+      "publishedAt": "Mon, 19 Oct 2026 10:54:10 +0530"
     },
     {
-      "title": "ICICI Bank share price target after Q2 results: What are Jefferies, other analysts saying?",
+      "title": "PC Jeweller shares soar 26% in just two sessions. Here’s what’s triggering the sharp surge",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-share-price-target-after-q2-results-what-are-jefferies-other-analysts-saying/articleshow/135039483.cms",
-      "publishedAt": "Mon, 19 Oct 2026 09:48:13 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-soar-26-in-just-two-sessions-heres-whats-triggering-the-sharp-surge/articleshow/135040565.cms",
+      "publishedAt": "Mon, 19 Oct 2026 10:51:56 +0530"
     },
     {
-      "title": "Yes Bank Sees No Immediate Need For Capital Raise After Supreme Court's AT1 Bond Ruling",
+      "title": "Easy exits hurting Indian stocks: Nirmala Sitharaman explains why equities are underperforming",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/yes-bank-sees-no-immediate-need-for-capital-raise-after-supreme-courts-at1-bond-ruling-12204530#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 09:47:54 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/easy-exits-hurting-indian-stocks-nirmala-sitharaman-explains-why-equities-are-underperforming/articleshow/135040491.cms",
+      "publishedAt": "Mon, 19 Oct 2026 10:46:00 +0530"
     },
     {
-      "title": "From LTM To Angel One: HDFC Securities Sees Up To 30% Upside After Q2 Results; Check Target Prices",
+      "title": "Kross shares rally 16% after Q2 profit jumps 143% YoY; stock hits 52-week high",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/ltm-federal-bank-l-t-finance-angel-one-in-focus-after-q2-results-hdfc-securities-sees-up-to-30-percent-upside-details-inside-12204546#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 09:47:14 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kross-shares-rally-16-after-q2-profit-jumps-143-yoy-stock-hits-52-week-high/articleshow/135040431.cms",
+      "publishedAt": "Mon, 19 Oct 2026 10:42:40 +0530"
     },
     {
-      "title": "Stock Market Live Updates: Sensex Volatile, Nifty Holds 23,100; PNB Zooms 6%, Axis Bank Down 4%",
+      "title": "​LTCG tax cut alone won't lure FPIs, says Bernstein; Nifty target cut to 25k",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-live-blog-sensex-today-nifty50-gift-nifty-live-updates-today-russia-ukraine-q2-earnings-october-19-2026-12204238#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 09:46:37 +0530"
+      "link": "https://www.business-standard.com/markets/news/ltcg-tax-cut-alone-won-t-lure-fpis-says-bernstein-nifty-target-cut-to-25k-126101900230_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 10:39:38 +0530"
     },
     {
-      "title": "US Market: Wall Street’s AI rally faces test as Meta earnings loom",
+      "title": "Stock Market Holiday 2026: Are NSE, BSE closed on October 20 for Dussehra? Check remaining holidays for the year",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-wall-streets-ai-rally-faces-test-as-meta-earnings-loom/articleshow/135039431.cms",
-      "publishedAt": "Mon, 19 Oct 2026 09:45:16 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-are-nse-bse-closed-on-october-20-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135040341.cms",
+      "publishedAt": "Mon, 19 Oct 2026 10:39:02 +0530"
     },
     {
-      "title": "11 years, zero net FII flow: How a $64 billion outflow erased 9 years of equity buying",
+      "title": "Global Market: China’s yuan hits four-year high as strong GDP data ease stimulus concerns",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/11-years-zero-net-fii-flow-how-a-64-billion-outflow-erased-9-years-of-equity-buying/articleshow/135039441.cms",
-      "publishedAt": "Mon, 19 Oct 2026 09:45:13 +0530"
-    },
-    {
-      "title": "Bonfiglioli Transmissions IPO Day 3: GMP at 22%, issue subscribed 99%; Should you apply?",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-ipo-day-3-gmp-at-22-issue-subscribed-99-should-you-apply/articleshow/135039410.cms",
-      "publishedAt": "Mon, 19 Oct 2026 09:42:49 +0530"
-    },
-    {
-      "title": "Sahajanand Medical Technologies IPO Day 3: GMP at 7%; check subscription status and key details",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sahajanand-medical-technologies-ipo-day-3-gmp-at-7-check-subscription-status-and-key-details/articleshow/135039386.cms",
-      "publishedAt": "Mon, 19 Oct 2026 09:41:09 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-as-strong-gdp-data-ease-stimulus-concerns/articleshow/135040279.cms",
+      "publishedAt": "Mon, 19 Oct 2026 10:36:21 +0530"
     },
     {
       "title": "Stock market outlook today, 19 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -203,16 +202,16 @@
       "publishedAt": "Mon, 19 Oct 2026 04:25:03 GMT"
     },
     {
+      "title": "Stock markets today: Asian markets fall on AI valuation concerns, crude oil risks; will Sensex, Nifty follow? - Fortune India",
+      "source": "Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWlNUQVFmVlZwM3RjMFNGOUVuNk9BdDFjRVVGb3dKUkVaaWhJaXRkQmxKUUpUVkhFcGVlRkRwck9TR3JFZVowaXdCNEZ1aHFvV25jbUlkNF83XzBvTXVWYmdsOVhZQnBVNmlEdWlVZnc3OFY5eXdELVQ3MTNoLWFJdmJBdTZfYXlzS3IxNWZXTTNqUlpJai1pb24zeGNyWV9wTHgxTXowdTNDLVJ2QzROdHBLQ2tENjVnYlRLTW04UnMxRTA1SjBZbEVZUVhJRWFVbmVsZzV3dU9yQWgyTl8tQdIB7gFBVV95cUxQb1JDcWxJaUxJZlFmek9tcnVQVDY5a3dKeGwyYUhQWkN3YnFQYlZoUXBaUzVIWm0xbXp6cHpQY3gtZmV3a2drQXVadGNtT0kzYXNYelRlOVVGMjFhczVWaDlsVUljN0N3Y3dIQ1pWdG10aXVZWWlKLWIyS19uVjNoalhhdTB2bUhBN0d3T3NSRndMaFVIb3c1WjZ5MWhURHRoTl9oajNoUklVSC13ZkdfM05hMEswdUxDRlNOcHBwVWVfcEc5Y3EtMkdQdUFjVy1DY0xHT2R6M1dOOWprb05QUXBweUNnMTkySERYZzFR?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 03:03:58 GMT"
+    },
+    {
       "title": "Sensex, Nifty open flat as mixed global cues keep investors cautious - Telangana Today",
       "source": "Telangana Today",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUk92bkdaTll3NVFFRGtrQm1aN0gtb0JuT3htTkMzOVZiN3lCd0JBbENLdlExbml0ZnFLUEhFTFlTYTZLOUFNSTltVXhyQWZVTjI1WmJTN1NJQ2lmYkhXUHUydUhMZkJ3OWg4SHBZMUFfRW83UXJCUW1lVkdpdE9YX3BCc3laQWUyZU5BUzRpRk02TVEzRGV5alJR?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 04:13:00 GMT"
-    },
-    {
-      "title": "Stock market today: Asian markets fall on AI valuation concerns, crude oil risks; will Sensex, Nifty follow? - Fortune India",
-      "source": "Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWlNUQVFmVlZwM3RjMFNGOUVuNk9BdDFjRVVGb3dKUkVaaWhJaXRkQmxKUUpUVkhFcGVlRkRwck9TR3JFZVowaXdCNEZ1aHFvV25jbUlkNF83XzBvTXVWYmdsOVhZQnBVNmlEdWlVZnc3OFY5eXdELVQ3MTNoLWFJdmJBdTZfYXlzS3IxNWZXTTNqUlpJai1pb24zeGNyWV9wTHgxTXowdTNDLVJ2QzROdHBLQ2tENjVnYlRLTW04UnMxRTA1SjBZbEVZUVhJRWFVbmVsZzV3dU9yQWgyTl8tQdIB7gFBVV95cUxQb1JDcWxJaUxJZlFmek9tcnVQVDY5a3dKeGwyYUhQWkN3YnFQYlZoUXBaUzVIWm0xbXp6cHpQY3gtZmV3a2drQXVadGNtT0kzYXNYelRlOVVGMjFhczVWaDlsVUljN0N3Y3dIQ1pWdG10aXVZWWlKLWIyS19uVjNoalhhdTB2bUhBN0d3T3NSRndMaFVIb3c1WjZ5MWhURHRoTl9oajNoUklVSC13ZkdfM05hMEswdUxDRlNOcHBwVWVfcEc5Y3EtMkdQdUFjVy1DY0xHT2R6M1dOOWprb05QUXBweUNnMTkySERYZzFR?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 03:03:58 GMT"
     },
     {
       "title": "Stock Market Today: Sensex gains 120 points, Nifty near 23,150; PSU banks shine - Zee Business",
@@ -221,16 +220,16 @@
       "publishedAt": "Mon, 19 Oct 2026 03:49:40 GMT"
     },
     {
-      "title": "Sensex, Nifty trade flat as private bank earnings weigh, PSU banks rally - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdFhNWERIbVlPR2FYTTVLbTVkUVB0WjRtSnZQd2YwY0JUTXNacnNmZTBtS09LRDFKZnd5T1NINVJiVlpid1NFampUUTQ5alo5YWpwR2NFSXBkYktKSGJMRFBLc3dOUVUxUGY3WGRTWFZOeHc5enJiZ0pYVHkxQnFXSzFwSnkwdGRpLTM4SGVKNEEyNkFRM1BNVVNqcWFsZjQ4OGVIR25Dcjlfd0NWZElUOTFvT2Vkei1qWG5iYUsyMHRWXy1PdlpibmdlZC1ZQkRWa3dMdkZkc0JEem9vTDN2Z0UzczMxT2fSAewBQVVfeXFMTTlIMklJWHJXYmlGcm9IRVlxa1pZOS1FUTU0SVlnLUdtVkx6c0pmTVlVbVdoV2ppUUtyRkx1MzRpX3ExdzRBRTlEQkw4bkZ0Z2hTZnh6cE1qQlRpemVLNmFuem1xWGUtbl80b19nXzZrM0JzSW5VMWcwS3N5Mng4bEhvZUFvVFJKS2laRl8zUHJ2QXBoMDBEMkg5RlAtMVNWbXVRRXFvTHJUUG1qanFBbUNvSzk3R2tZR0VRQ1FFVlNpWFBUSXJpQTRFVl9fUHN0Vzc1QnQ2am85TWd5ODVBRFV5R2tjdERfaUF4ZHA?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 04:18:37 GMT"
-    },
-    {
       "title": "Stock Market Today: Gift Nifty, Banks Q2 Results To Oil Prices; Five Key Factors For Sensex, Nifty 50 On October 19 - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcmh6N0VDc1RJUTkycE9zTHBuVzFuUU1XYnIzczk0clpLM214V1cySWpUZ2tmQzRkZENZZmNPRjV3Mm1KVlVSOV9EUGluRm45em50YVZ3UU82cjFtMTNmT1hHZkc5Z0pJeGkxV2RleGJTbnFFSkRFd0w5TE04VnVCSzVIQklUaUpIREZWMzRQblNYdVRLbDVtYmNEYk5XbzhDakJ1Zlh6QV8zYXh0Qk1fYTc1cjRlVzB0eHhWUmVQNFI3T0I0bXRGUjJkWHlYQVNDLXl4NmktTjQySE51MjV5NjlHeVRDb3YtTkF2VWVzWE80SlNNRkoxR3Zn0gGCAkFVX3lxTE01T0NzZUttbFFLaG1MQmtSRXBzaEFXc3dwc1ZtNnZtUmZrS0ZVaDZSUTc4THJHNk82dEZlRUdCTXdRNjc3TkhwUXJHMXlhOXVSY21HM0pYS2lXOFVCMFFQQlJ0VG1FeWRVRnVoOW55T3pUOWJWazcycFZWNXF5TzZMalVJdUpPcnF1QWM4dXFzaERJTXNlYmRSSnB5aUx1RWdURHNCWDVuWHV5OS1GWjQ5U0tMbHllY3NlbDhGcUtGeG9DQnpBS1RlaEZ5RndSZWc3NEJ5cTlwQ2hURXRsc2ZjbXdxc2x5OF9mSGI3WWNqTnRtNTJqMWxmTk40bGFoUEZ4Zw?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 01:38:52 GMT"
+    },
+    {
+      "title": "Bulls retreat as Sensex falls over 400 points, Nifty slips below 23,100. What's next for D-Street? - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVE1WVFozNExmdnRCZ1gtTE1heUt1SG1OZWRWeUloZWtaWWEteFNQWVdJN21GNnY3MlltdldxdThKcENBSjFnYXM2dDhueWFORFloZTl3REF2bHVETjlKVUZVUzFZd01OOU8tYUh4RTZGYnVCckZONU14amQ0cWppdE91R0JUcEZwcDJEb0o0TUVuSUI0ai1qclpIZHNXNW13aGpOYWhKMmpvcWJ6VjVWYzVnQWlpRmZQUzJXS2dPVlQ3ZFp6ZWVnSFJYTDBwZG5PaHdHaE90RjJoN1hLZ2fSAeMBQVVfeXFMUFVnLTFLcFpoQlNpTmZnemlTOERpSHdidk51SjMzdTJyeXkwckdEbjZ0MWVubmRDQVdCUmlDSUNaeFNlTDNvWHloMkZiMGwwelZfcHJZNzduSUZ1X2dCOExIa0xpLUF2UzlSV081eXl4cXhPMk9MbG1MdklXdXRqTmtQWmJfbHpTeVFWQkg0dG9MRERkdHFGb1lLQWVOb1Y1d0VHQ3VBWlZIV1BrLV9WZFg3ejdkSG5GNjlDV1pvVFdCQmFkOGpsOXZMSEFxMnlsMWRaRjRqZE4tZ08wU2lGVzJLRlE?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 04:34:53 GMT"
     }
   ]
 }
