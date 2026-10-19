@@ -1,32 +1,30 @@
 {
-  "headline": "Last session: Sensex plunged 876 points, Nifty fell below 22,900 as private banks and IT stocks dragged.",
+  "headline": "Last session: Sensex plunged 876 points and Nifty fell below 22,900; Jio IPO anchor book sees record demand",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 21 October.",
-    "nextOpen": "Wednesday, 21 October"
+    "nextOpen": "Wednesday, 21 October 2026"
   },
   "why": [
-    "Heavy selling in private banking and IT sectors dragged the benchmarks lower",
-    "Massive wealth erosion as investors lost approximately ₹4-5 lakh crore in a single session",
-    "Weakness in major heavyweights including Axis Bank, Infosys, and Tata Motors",
-    "Negative global cues and concerns over liquidity paradoxes affecting stock exits"
+    "Heavy selling in private banks and IT stocks dragged the Sensex over 980 points lower at one point",
+    "Major heavyweights like Infosys and Axis Bank faced significant losses",
+    "Bulls lost ground as the Nifty failed to sustain levels above 22,900",
+    "Negative sentiment led to investors losing between 4 to 5 lakh crore in a single session"
   ],
   "whatHappening": [
-    "Sensex tumbled 876.37 points to settle at 73,852.90 on the last trading day",
-    "Nifty 50 dropped significantly to end at 22,888.95, slipping below the 22,900 level",
-    "Jio IPO anchor book received record-breaking bids worth ₹2.5 trillion from 212 investors",
-    "PSU banks showed resilience and bucked the overall negative market trend"
+    "Sensex tumbled 876.37 points to settle at 73,852.90 during the last trading session",
+    "Nifty 50 dropped to 22,888.95, ending the day below the crucial 22,900 mark",
+    "Jio IPO anchor book received record bids worth ₹2.5 trillion with over 30x demand",
+    "PSU banks and metal stocks showed resilience, bucking the overall negative market trend"
   ],
   "stocksInNews": [
     {
-      "symbol": "JIO",
+      "symbol": "RELIANCE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0,
-        3,
-        6
+        0
       ]
     },
     {
@@ -34,7 +32,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        1
+        4
       ]
     },
     {
@@ -42,32 +40,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "IREDA",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "WAAREERTL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        4,
-        15
+        6
       ]
     },
     {
@@ -76,6 +49,15 @@
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         15
+      ]
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        15,
+        17
       ]
     },
     {
@@ -88,35 +70,34 @@
       ]
     },
     {
-      "symbol": "TATAMOTORS",
+      "symbol": "BAJFINANCE",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        15,
-        17
+        15
       ]
     }
   ],
-  "summary": "On the last trading day, Indian benchmarks crashed nearly 900 points due to heavy selling in IT and private banking stocks.\nDespite the broader sell-off, PSU banks showed resilience while Jio's IPO anchor book saw record-breaking demand.\nPiramal Finance and Punjab & Sind Bank reported strong quarterly earnings growth amid the market volatility.",
-  "updatedAt": "2026-10-19T19:31:53.739Z",
+  "summary": "On the last trading session, Indian benchmarks crashed over 1% as the Sensex fell 876 points, wiping out trillions in investor wealth. While IT and private banking sectors dragged the indices down, PSU banks and metals remained resilient. Meanwhile, Jio's IPO saw record-breaking anchor demand and Piramal Finance reported a 67% surge in quarterly profit.",
+  "updatedAt": "2026-10-19T20:01:58.460Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-20",
   "articleKeys": [
     "jio ipo anchor book sees over 30x demand draws record bids worth 25 trn",
+    "apple sets oct 28 pro and tell event touchscreen macbook tipped to debut",
+    "sampp global flags potentially hidden ai debt at hyperscalers as ai spending surges",
+    "preached starvation to meet jesus kenyan cult leader convicted over starvation deaths of 200 minors",
     "piramal finance q2fy27 results net profit zooms 67 to 545 crore",
+    "meta blames botdetection glitch for suspending no kings account during mass protests",
     "punjab sind bank q2 net profit surges 40 to 412 cr on improved income",
-    "jio ipo lic blackrock fidelity gic among 212 anchor investors to pour rs 8110 crore",
-    "q2 results update ireda profit flat at rs 549 crore waaree renewable profit dips 37 bajaj finance nii rises 24",
-    "nasdaq jumps 16 as chip stocks set to end nineday losing streak intel amd micron lead gains",
-    "jio platforms anchor book draws record 25 trillion in bids ahead of ipo",
-    "india flags off first shipment to new zealand under free trade agreement",
-    "no long hours why an indianorigin ceo is rethinking silicon valleys 996 work culture",
-    "the liquidity paradox why fm sitharaman says deep cash pools accelerate stock exits",
+    "iqoo neo 12 launch date set for october 28 in china design and colour options revealed",
+    "tecno spark 50s 5g goes on sale in india tomorrow price offers and specifications",
+    "cjps ashutosh ranka saurav das in tihar jail till oct 21 judicial custody extended by two days",
     "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
     "stock market highlights for october 19 2026 sensex tumbles 87637 points to settle at 7385290 nifty drops to 2288895 the times of india",
     "stock market down bulls lose ground sensex sinks nearly 900 points nifty ends below 22900 5 key trigg the economic times",
-    "closing bell sensex crashes 876 pts nifty below 22900 psu banks buck the trend moneycontrolcom",
     "stock market today live private banks it drag sensex over 980 points lower at noon metals buck the slide businessline",
+    "closing bell sensex crashes 876 pts nifty below 22900 psu banks buck the trend moneycontrolcom",
     "stock market highlights sensex slumps 876 points nifty 50 ends below 22900 axis bank tata motors pv infosys bajaj fin losses ndtv profit",
     "sensex nifty crash why is stock market down today massive wealth eroded investors lose 4 lakh crore top 3 reasons livemint",
     "sensex today nifty 50 stock market highlights sensex plunges 876 pts nifty ends below 22900 tmpv infy drop 3 each the economic times",
@@ -131,10 +112,34 @@
       "publishedAt": "Mon, 19 Oct 2026 23:54:36 +0530"
     },
     {
+      "title": "Apple Sets Oct 28 'Pro And Tell’ Event; Touchscreen MacBook Tipped To Debut",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/apple-sets-oct-28-pro-and-tell-event-touchscreen-macbook-tipped-to-debut-12208294#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 23:50:20 +0530"
+    },
+    {
+      "title": "S&amp;P Global flags potentially hidden AI debt at hyperscalers as AI spending surges",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sp-global-flags-potentially-hidden-ai-debt-at-hyperscalers-as-ai-spending-surges/articleshow/135054758.cms",
+      "publishedAt": "Mon, 19 Oct 2026 23:49:26 +0530"
+    },
+    {
+      "title": "Preached Starvation To Meet Jesus': Kenyan Cult Leader Convicted Over Starvation Deaths Of 200 Minors",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/kenyan-doomsday-cult-leader-convicted-over-starvation-deaths-of-200-minors-12208275#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 23:42:34 +0530"
+    },
+    {
       "title": "Piramal Finance Q2FY27 results: Net profit zooms 67% to ₹545 crore",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/companies/news/piramal-finance-q2fy27-results-net-profit-zooms-67-to-545-crore-126101901131_1.html",
       "publishedAt": "Mon, 19 Oct 2026 23:28:09 +0530"
+    },
+    {
+      "title": "Meta Blames Bot-Detection Glitch For Suspending 'No Kings’ Account During Mass Protests",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/meta-blames-bot-detection-glitch-for-suspending-no-kings-account-during-mass-protests-12207911#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 23:22:11 +0530"
     },
     {
       "title": "Punjab & Sind Bank Q2 net profit surges 40% to ₹412 cr on improved income",
@@ -143,46 +148,22 @@
       "publishedAt": "Mon, 19 Oct 2026 23:21:46 +0530"
     },
     {
-      "title": "Jio IPO: LIC, BlackRock, Fidelity, GIC among 212 anchor investors to pour Rs 8,110 crore",
+      "title": "iQOO Neo 12 Launch Date Set For October 28 In China; Design And Colour Options Revealed",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-lic-blackrock-fidelity-gic-among-212-anchor-investors-pour-rs-8110-crore/articleshow/135053762.cms",
-      "publishedAt": "Mon, 19 Oct 2026 23:04:53 +0530"
+      "link": "https://www.ndtvprofit.com/technology/iqoo-neo-12-launch-date-set-for-october-28-in-china-design-and-colour-options-revealed-12207530#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 23:20:10 +0530"
     },
     {
-      "title": "Q2 Results Update: Ireda Profit Flat At Rs 549 Crore; Waaree Renewable Profit Dips 37%, Bajaj Finance NII Rises 24%",
+      "title": "Tecno Spark 50S 5G Goes On Sale In India Tomorrow: Price, Offers And Specifications",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-bajaj-finance-hfcl-hindustan-zinc-ultratech-cement-union-bank-35-companies-to-announce-earnings-today-12204899#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 22:51:52 +0530"
+      "link": "https://www.ndtvprofit.com/technology/tecno-spark-50s-5g-goes-on-sale-in-india-tomorrow-price-offers-and-specifications-12207347#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 23:19:41 +0530"
     },
     {
-      "title": "Nasdaq Jumps 1.6% As Chip Stocks Set To End Nine-Day Losing Streak; Intel, AMD, Micron Lead Gains",
+      "title": "CJP's Ashutosh Ranka, Saurav Das In Tihar Jail Till Oct 21; Judicial Custody Extended By Two Days",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nasdaq-jumps-1-6-as-chip-stocks-set-to-end-nine-day-losing-streak-intel-amd-micron-lead-gains-12208088#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 22:43:25 +0530"
-    },
-    {
-      "title": "Jio Platforms' anchor book draws record ₹2.5 trillion in bids ahead of IPO",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/jio-platforms-ipo-anchor-investor-quota-nearly-30-times-oversubscribed-126101900538_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 22:43:22 +0530"
-    },
-    {
-      "title": "India flags off first shipment to New Zealand under free trade agreement",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/india-flags-off-first-consignment-to-new-zealand-under-free-trade-pact-126101900935_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 22:32:00 +0530"
-    },
-    {
-      "title": "No Long Hours: Why An Indian-Origin CEO Is Rethinking Silicon Valley's 9-9-6 Work Culture",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/no-long-hours-why-an-indian-origin-ceo-is-rethinking-silicon-valleys-9-9-6-work-culture-12208045#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 22:31:03 +0530"
-    },
-    {
-      "title": "The Liquidity Paradox: Why FM Sitharaman Says Deep Cash Pools Accelerate Stock Exits",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/domestic-liquidity-cushions-indian-market-as-foreign-funds-tap-easy-exits-fm-sitharaman-12208012#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 22:22:53 +0530"
+      "link": "https://www.ndtvprofit.com/india/cjps-ashutosh-ranka-saurav-das-in-tihar-jail-till-oct-21-judicial-custody-extended-by-two-days-12207464#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 23:18:41 +0530"
     },
     {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
@@ -203,16 +184,16 @@
       "publishedAt": "Mon, 19 Oct 2026 04:34:53 GMT"
     },
     {
-      "title": "Closing Bell: Sensex crashes 876 pts, Nifty below 22,900; PSU banks buck the trend - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOME5jeVRBaWF1d2V2M2NTOXJXOTg2ZEUtWWpTMm85Z3BmZk9GQWZpUDMtbTc4UkVwaGpneThVNDRhWnRZUmk3UGpxU21IcUR1cnlLdmgwdDU5b0hxOEt0TE9OTGo4Yk9MVlV1VXZiWFBtV3pFaDR1T3AzbURvalpyN3VZQWxEbnBkaUVIcjkxNXg5WmEzbGtBa0VOQkJjczhBemN5UTRVWF82cVBacEZTZlp5WjJxTEVna1FsOEdtOW0tVkJvTFUzMDRHeDZNTkF5Q2x5VWZpeTl0R0ZHMHhpYnZHdGdJckJxTENSdGNiRjBRMWJZbmxFYTMyWHpmUFMtTllXc3piUWx0d3ZERmF5dmVzS20zRG9YR3pLcEhrbVN3enPSAagCQVVfeXFMTU5fSm03QnFZNm93a05FWFE0aFhPRS0yR3Brb1N6cXVaZHM5d1hPRTNBXzY5d29RMHp5VnZCUE55enZqQl9WbEx5UFh1R3RQY05SNXhUQ1l6WGhuVlpNZnBTMUZRbWJjamdSSWRWUEI5b0EzeFE4Nmx5OUNjaUNsRDc1NHJtMTU1MjI0R0pKQWxZQmg0R1ZKeGQyNTJfR3lZU1U1UWhiV201NDR6N1ZCS01oQ3BmUzFGYUNDOUpaNG1PeC14THNaV0pjZTNPZk03S1hWVEF0clV1SWVXRFRqekJOOGFyM2hocmF3VjQ2Nm40aHowT3ltX19kMkNxbTFfbW1oNVQtZkJzLUc1VkRQemMtSUFYem9jcE9vaVlWSEFnTzdmaG5QT04?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 10:36:09 GMT"
-    },
-    {
       "title": "Stock Market Today Live: Private banks, IT drag Sensex over 980 points lower at noon; metals buck the slide - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODNuTXZqSnhxTUxpamlFY0JKb0hkekFyU3B6M2MxOFUxVUlGeVlJOVZfSWtvdzZZLUVvZkhYVXBXNnhFUXVWMGJfVzZMV3pKdUloTm9OeTZvUUtlT0h2Rk1NNUFsaHVUREdFbXUtWHMwRjJqaHd4U1NOWUNaSFB2UFpPNjk3bkZDTjVCQm9wQmY0cXZ6V19aYUlqeXI1ZEU5QkNRd09Jd28teWNKWjUyTExEMkc5RENSbXJNRWhOWjU1d1d1QlU5StIBzwFBVV95cUxOZVJjSG1IelREZWRTRFNlSWlMaTVvQ3FIMDdsNFYxYUFaelFCYW1GelQyTEtmdzNWZURFbFFxOFFZNDNDZnVPVkZWbE5HQjVDeVY2cGp3anhHT25qcUpwcFV1Vzk0SlJsT3lxQXNTc1NZNFZITUpyQVJSOU9nczhRc2RLUXpxSFJBdmxNQ1ZzbVNXMjhtX0NQTHZmRWJ2Yjk1akVDS3BzVHRxWW50U0J3VHFYT3lwWXFtaGFxUlFXUWZVYlZETU4xdGUtMWduQ1E?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 09:13:01 GMT"
+    },
+    {
+      "title": "Closing Bell: Sensex crashes 876 pts, Nifty below 22,900; PSU banks buck the trend - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOME5jeVRBaWF1d2V2M2NTOXJXOTg2ZEUtWWpTMm85Z3BmZk9GQWZpUDMtbTc4UkVwaGpneThVNDRhWnRZUmk3UGpxU21IcUR1cnlLdmgwdDU5b0hxOEt0TE9OTGo4Yk9MVlV1VXZiWFBtV3pFaDR1T3AzbURvalpyN3VZQWxEbnBkaUVIcjkxNXg5WmEzbGtBa0VOQkJjczhBemN5UTRVWF82cVBacEZTZlp5WjJxTEVna1FsOEdtOW0tVkJvTFUzMDRHeDZNTkF5Q2x5VWZpeTl0R0ZHMHhpYnZHdGdJckJxTENSdGNiRjBRMWJZbmxFYTMyWHpmUFMtTllXc3piUWx0d3ZERmF5dmVzS20zRG9YR3pLcEhrbVN3enPSAagCQVVfeXFMTU5fSm03QnFZNm93a05FWFE0aFhPRS0yR3Brb1N6cXVaZHM5d1hPRTNBXzY5d29RMHp5VnZCUE55enZqQl9WbEx5UFh1R3RQY05SNXhUQ1l6WGhuVlpNZnBTMUZRbWJjamdSSWRWUEI5b0EzeFE4Nmx5OUNjaUNsRDc1NHJtMTU1MjI0R0pKQWxZQmg0R1ZKeGQyNTJfR3lZU1U1UWhiV201NDR6N1ZCS01oQ3BmUzFGYUNDOUpaNG1PeC14THNaV0pjZTNPZk03S1hWVEF0clV1SWVXRFRqekJOOGFyM2hocmF3VjQ2Nm40aHowT3ltX19kMkNxbTFfbW1oNVQtZkJzLUc1VkRQemMtSUFYem9jcE9vaVlWSEFnTzdmaG5QT04?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 10:36:09 GMT"
     },
     {
       "title": "Stock Market Highlights: Sensex Slumps 876 Points, Nifty 50 Ends Below 22,900; Axis Bank, Tata Motors PV, Infosys, Bajaj Fin Losses - NDTV Profit",
