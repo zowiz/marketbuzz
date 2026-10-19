@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex drops over 500 points as private banks decline while PSU bank stocks surge following Q2 results",
+  "headline": "Sensex Slumps Nearly 800 Points, Nifty Cracks Below 23,000 Led by Banking Sell-off",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,50 +7,63 @@
     "nextOpen": ""
   },
   "why": [
-    "Private banks and financial stocks faced selling pressure following Q2 earnings results.",
-    "High crude oil prices created concerns across broader benchmark indices.",
-    "Nifty IT index dropped by 1% adding pressure on the main indices.",
-    "Weak Asian market cues dampened investor sentiment in early trading."
+    "Heavy sell-off in private banking and financial stocks weighed down the main indices.",
+    "Sustained Foreign Portfolio Investor (FPI) selling pressured intraday market movements.",
+    "Rising crude oil prices created investor apprehension and clipped market upside.",
+    "Weak cues from Asian markets dragged on sentiment from early trade."
   ],
   "whatHappening": [
-    "Sensex dropped over 500 points with Nifty testing levels below 23,000.",
-    "PSU bank stocks surged up to 8%, driven by strong Q2 earnings performance.",
-    "Private bank stocks including HDFC Bank and Axis Bank fell by up to 5%.",
-    "Buying in SBI and Reliance Industries helped the market trim some early losses."
+    "Sensex crashed up to 800 points intraday, pushing Nifty near the 22,900-23,000 mark.",
+    "HFCL surged 5% to hit its upper circuit following a 448% YoY jump in Q2 net profit.",
+    "Union Bank reported a 30% increase in Q2 net profit driven by lower provisions and better asset quality.",
+    "Selective buying in Reliance Industries and SBI helped trim early steep market losses."
   ],
   "stocksInNews": [
     {
-      "symbol": "PNB",
+      "symbol": "HFCL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        9
+        3
       ]
     },
     {
-      "symbol": "RELIANCE",
+      "symbol": "UNIONBANK",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/10 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        3,
-        18
+        5
+      ]
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        7
       ]
     },
     {
       "symbol": "SBIN",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/10 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        3,
+        18
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
         18
       ]
     },
     {
       "symbol": "AXISBANK",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/10 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        2,
         13
       ]
     },
@@ -59,30 +72,46 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        2,
+        9,
         13
+      ]
+    },
+    {
+      "symbol": "TRENT",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        13
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        9
       ]
     }
   ],
-  "summary": "Indian stock markets traded lower today as the Sensex dropped over 500 points due to weakness in private banks and IT stocks.\nPSU banks outperformed significantly, jumping up to 8% led by PNB's strong Q2 results, while private lenders like HDFC Bank and Axis Bank struggled.\nBuying in heavyweights such as Reliance Industries and SBI helped indices recover from their sharp early morning losses.",
-  "updatedAt": "2026-10-19T07:31:24.423Z",
+  "summary": "Indian benchmark indices experienced a major drop as Sensex plunged nearly 800 points and Nifty tested levels below 23,000.\nPrivate bank stocks, FPI outflows, and elevated crude oil prices were the key catalysts behind the broad market drop.\nBucking the trend, stock-specific earnings action lifted HFCL, while buying in Reliance and SBI offered minor support.",
+  "updatedAt": "2026-10-19T08:01:56.302Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-19",
   "articleKeys": [
-    "stock market live sensex drops over 500 pts nifty below 23000 nifty it down 1",
-    "india bonds rise after flat open as sharp drop in us yields spurs value buying",
-    "psu bank stocks soar up to 8 but hdfc axis and other private lenders fall up to 5 after q2 results why the sharp divide",
-    "stock markets trim most of sharp early losses amid buying in sbi reliance industries",
-    "global market south korea regulator says solidigm us listing may breach duallisting rules",
-    "jio platforms ipo gmp signals 22 potential listing gain issue opens on october 21",
-    "truecaller expects 91 million tax claim from india over transfer pricing",
-    "phonepe invest aims to bring everyday savers into equities rahul chari",
-    "did mutual funds stop gold investments what investors need to know",
-    "pnb shares jump 8 after q2 results beat estimates jefferies motilal oswal others raise target prices",
+    "stock market live sensex at days low falls nearly 800 pts nifty near 22900 bank shares weigh",
+    "three reasons why markets are falling today sensex slumps 700 points nifty cracks below 23000",
+    "sensex crashes 765 pts intraday bank stocks fpi selling among key factors",
+    "hfcl q2 results profit zooms 448 yoy to rs 394 crore stock hits 5 upper circuit",
+    "mahindra xuv 3xo zng bookings open on tuesday 5 things car buyers must know",
+    "union bank of india q2 results profit rises 30 on falling provisions asset quality improves",
+    "investing in us stocks through zerodha charges tax rules and lrs limits explained",
+    "federal bank to explore inorganic opportunities eyes highteens growth if business improves",
+    "terrifying scene in daylight like film shoot aicwa president writes to amit shah on tiger shroff car firing",
+    "hdfc bank vs icici bank one has the growth the other has the valuation edge which stock to buy",
     "sensex today nifty 50 stock market live updates sensex drops over 500 pts nifty tests 23000 private banks financial stocks struggle the economic times",
     "stock market today live crude fears clip wings sensex falls over 550 pts nifty dips by 04 businessline",
     "sensex today stock market live updates nifty at 23100 sensex down 190 pts psu banks gain private banks down moneycontrolcom",
-    "stock market live updates sensex falls nifty 50 below 23100 axis hdfc bank top losers psu banks jump ndtv profit",
+    "stock market live updates sensex slips 700 points nifty 50 below 23000 axis hdfc bank trent top losers ndtv profit",
     "stock market outlook today 19 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market today highlights sensex climbs 41366 points to settle at 74729 nifty closes at 23146 the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
@@ -92,64 +121,64 @@
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex drops over 500 pts, Nifty below 23,000; Nifty IT down 1%;",
+      "title": "Stock Market LIVE: Sensex at day's low, falls nearly 800 pts, Nifty near 22,900; bank shares weigh",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 12:01:03 +0530"
+      "publishedAt": "Mon, 19 Oct 2026 13:02:31 +0530"
     },
     {
-      "title": "India bonds rise after flat open as sharp drop in US yields spurs value buying",
+      "title": "Three Reasons Why Markets Are Falling Today: Sensex Slumps 700 Points, Nifty Cracks Below 23,000",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-after-flat-open-as-sharp-drop-in-us-yields-spurs-value-buying/articleshow/135041797.cms",
-      "publishedAt": "Mon, 19 Oct 2026 11:58:58 +0530"
+      "link": "https://www.ndtvprofit.com/markets/three-reasons-why-markets-are-falling-today-sensex-slumps-700-points-nifty-cracks-below-23-000-12205257#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 12:53:12 +0530"
     },
     {
-      "title": "PSU bank stocks soar up to 8%, but HDFC, Axis and other private lenders fall up to 5% after Q2 results. Why the sharp divide?",
+      "title": "Sensex crashes 765 pts intraday: Bank stocks, FPI selling among key factors",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/psu-bank-stocks-soar-up-to-8-but-hdfc-axis-and-other-private-lenders-fall-up-to-5-after-q2-results-why-the-sharp-divide/articleshow/135041687.cms",
-      "publishedAt": "Mon, 19 Oct 2026 11:54:40 +0530"
+      "link": "https://www.business-standard.com/markets/news/sensex-crashes-765-pts-intraday-bank-stocks-fpi-selling-among-key-factors-126101900390_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 12:45:45 +0530"
     },
     {
-      "title": "Stock markets trim most of sharp early losses amid buying in SBI, Reliance Industries",
+      "title": "HFCL Q2 Results: Profit zooms 448% YoY to Rs 394 crore; stock hits 5% upper circuit",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/stock-markets-trim-most-of-sharp-early-losses-amid-buying-in-sbi-reliance-industries/article71602187.ece",
-      "publishedAt": "Mon, 19 Oct 2026 11:50:02 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-results-profit-zooms-448-yoy-to-rs-394-crore-stock-hits-5-upper-circuit/articleshow/135042693.cms",
+      "publishedAt": "Mon, 19 Oct 2026 12:42:14 +0530"
     },
     {
-      "title": "Global Market: South Korea regulator says Solidigm US listing may breach dual-listing rules",
+      "title": "Mahindra XUV 3XO ZNG Bookings Open On Tuesday: 5 Things Car Buyers Must Know",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-south-korea-regulator-says-solidigm-us-listing-may-breach-dual-listing-rules/articleshow/135041638.cms",
-      "publishedAt": "Mon, 19 Oct 2026 11:49:13 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/mahindra-xuv-3xo-zng-bookings-open-on-tuesday-5-things-car-buyers-must-know-12205107#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 12:39:44 +0530"
     },
     {
-      "title": "Jio Platforms IPO GMP signals 22% potential listing gain; issue opens on October 21",
+      "title": "Union Bank Of India Q2 Results: Profit Rises 30% On Falling Provisions, Asset Quality Improves",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-gmp-signals-22-potential-listing-gain-issue-opens-on-october-21/articleshow/135041581.cms",
-      "publishedAt": "Mon, 19 Oct 2026 11:45:54 +0530"
+      "link": "https://www.ndtvprofit.com/markets/union-bank-of-india-q2-results-profit-rises-30-asset-quality-improves-12205171#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 12:35:20 +0530"
     },
     {
-      "title": "Truecaller expects $91 million tax claim from India over transfer pricing",
+      "title": "Investing In US Stocks Through Zerodha? Charges, Tax Rules And LRS Limits Explained",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/truecaller-expects-91-million-tax-claim-from-india-over-transfer-pricing-126101900284_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 11:36:08 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/investing-in-us-stocks-through-zerodha-charges-tax-rules-and-lrs-limits-explained-12205187#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 12:33:40 +0530"
     },
     {
-      "title": "PhonePe Invest aims to bring everyday savers into equities: Rahul Chari",
+      "title": "Federal Bank To Explore Inorganic Opportunities, Eyes High-Teens Growth If Business Improves",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/phonepe-invest-aims-to-bring-everyday-savers-into-equities-rahul-chari-126101900227_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 11:30:37 +0530"
+      "link": "https://www.ndtvprofit.com/markets/federal-bank-ed-venkatraman-v-explore-inorganic-opportunities-eyes-high-teens-growth-if-business-improves-q2-earnings-sensex-today-12205064#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 12:33:31 +0530"
     },
     {
-      "title": "Did Mutual Funds Stop Gold Investments? What Investors Need to Know",
+      "title": "'Terrifying Scene In Daylight, Like Film Shoot': AICWA President Writes To Amit Shah On Tiger Shroff Car Firing",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/did-mutual-funds-stop-gold-investments-what-investors-need-to-know/videoshow/135040974.cms",
-      "publishedAt": "Mon, 19 Oct 2026 11:11:55 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/terrifying-scene-in-daylight-like-film-shoot-aicwa-president-writes-to-amit-shah-on-tiger-shroff-car-firing-12204918#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 12:28:33 +0530"
     },
     {
-      "title": "PNB shares jump 8% after Q2 results beat estimates; Jefferies, Motilal Oswal, others raise target prices",
+      "title": "HDFC Bank vs ICICI Bank: One has the growth, the other has the valuation edge. Which stock to buy?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-jump-8-after-q2-results-beat-estimates-jefferies-motilal-oswal-others-raise-target-prices/articleshow/135040821.cms",
-      "publishedAt": "Mon, 19 Oct 2026 11:05:53 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-vs-icici-bank-one-has-the-growth-the-other-has-the-valuation-edge-which-stock-to-buy/articleshow/135042271.cms",
+      "publishedAt": "Mon, 19 Oct 2026 12:26:19 +0530"
     },
     {
       "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex drops over 500 pts, Nifty tests 23,000; private banks, financial stocks struggle - The Economic Times",
@@ -170,15 +199,15 @@
       "publishedAt": "Mon, 19 Oct 2026 05:02:05 GMT"
     },
     {
-      "title": "Stock Market LIVE Updates: Sensex Falls, Nifty 50 Below 23,100; Axis, HDFC Bank Top Losers; PSU Banks Jump - NDTV Profit",
+      "title": "Stock Market LIVE Updates: Sensex Slips 700 Points, Nifty 50 Below 23,000; Axis, HDFC Bank, Trent Top Losers - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeUk3QjlvX0RkNm5ROFpPY1VYa1QtYzNZZmVHR2h4MC1vM0plMFRLOC11T3plNXQtWGNKLXF3elExZEZjTmNJQkxXblI2RUxwdVJvVUlOLTVndWx6Sl9Odm5USzQ4YjRURjFyMXlXeElLeC1fVGxzNHdfWmpOVVBjbldfaFNDc2ItQ1VxYXdzck10a1JSaEFTaThpSHdUMlMwQTBabTJ1RUVyZ0JlMDVZR2JDb0dvcDZhd2xlNjFpcW1GbXdyQ29wMkpmUmltOWRURTRzWnFXcU1wbEpVSGVtcUotYzNoRVQ1WmhHY1JtcWw4Z9IB-gFBVV95cUxQVW4wRGZPU0tsc0RtcmgySHM1TklQWFNocTV4Ry1kOGM0T21zSG9GeExocC1UNmJ5S3ZzaHcwVWRaWnZTcXFmbGpsdEtjalE2MXJXZnB3bWhHMHJQaHBGd2JvbmNTUUFKQkJyMGhtT1VrbHZMUGRQNWxBRjA0bzhadW5zQnlMdnJoY3lKYTBQcXhobHptMDRTOFdqcjZLQ1hvVUk4MldwRms1TDNIRE9qdzlBWlRNVldhMnpVQ240Sy1teDZ2SnRYeC02TXlmY1V4aW5nZDVmS2ZyMy0yVW5Lc1F5RXpEZW5yLXV0NWZxWXVxbHlPN3BGZUt3?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 05:40:08 GMT"
+      "publishedAt": "Mon, 19 Oct 2026 06:52:06 GMT"
     },
     {
       "title": "Stock market outlook today, 19 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeWk3MHF0dmg0MHRLelJLeXFud2JOV1Zxd0N0NVFtZWFOMWdqb2RxS3UxakwwbGM4dC1FZFdlYnNrNExjZ2xlNnpoenhDWm1OQ1VFcjRMMGhtMUN4aEppWlQ5MTZha2pSdURpSkF5V0M3VEtkTDk5Q3NXVkVUMFBMREpaODdYZ201alFLT2ZpVGpEemdKbzNReXYyQkdPZEM2N1o5UFYwQnQ4UzVqSWd4ZTFtOGFBZjJCUXJDajF0T0ZpMHdVVzRkenBfM1MxeV9lZkN1LU9CVUI3QU1YZnc2U1ZNS19ReWF4RE5MeWtyTERyOEZWZU8xN2VKZlFHU0htYWVxag?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeWk3MHF0dmg0MHRLelJLeXFud2JOV1Zxd0N0NVFtZWFOMWdqb2RxS3UxakwwbGM4dC1FZFdlYnNrNExjZ2xlNnpoenhDWm1OQ1VFcjRMMGhtMUN4aEppWlQ5MTZha2pSdURpSkF5V0M3VEtkTDk5Q3NXVkVUMFBMREpaODdYZ201alFLT2ZpVGpEemdKbzNReXYyQkdPZEM2N1o5UFYwQnQ4UzVqSWd4ZTFtOGFBZjJCUXJDajF0T0ZpMHdVVzRkenBfM1MxeV9lZkN1LU9CVUI3QU1YZnc2U1ZNS19ReWF4RE5MeWtyTERyOEZWZU8xN2VKZlFHU0htYWVxatIBigJBVV95cUxPSVBpdEpkTmRrYi1KMjlhamUwbWM1cHV2NjVnRjc5N0p5NzZHakpfUG5EX0pWNC1zYnByZ0REcFJiaGlGaVBiTlQyc3NPWHJpc3BEdDNkYXB5MVdKX3BhMkxramtPdkFHTndQcHZKb3JoMnVYQ2Z3TktVVTNycDZjQ3RoSDZOS2Y4MlQ4Y0x5dVBPMVdhQmVrM0xOS21vVTdueFlrbGY0bWtWOWxxT29IcnFnSGI1aVFJN0EtMm1DVE9DSkRTMGJvTnB4WW41X193V2xVc3BqZkVva3BJNUxiOEIwUFZWMm9Fd1dMa0F4T29nRUd5bHFaa1NjYkpyWHN6eUJLVEkxbjFmQQ?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 01:19:32 GMT"
     },
     {
