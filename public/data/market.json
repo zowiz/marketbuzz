@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex crashes over 900 points and Nifty drops below 22,900 amid heavy sell-off",
+  "headline": "Sensex and Nifty crash over 900 points as private banks and IT stocks drag the market lower",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,41 @@
     "nextOpen": ""
   },
   "why": [
-    "FPI selling pressure across Indian equity markets",
-    "Heavy drag and sell-off in private banking and IT stocks",
-    "Spike in volatility with India VIX rising over 6%",
-    "Cautiousness ahead of major Q2 corporate earnings reports"
+    "Heavy selling pressure in private banking and IT sectors",
+    "Global market sentiment weighed down by French political unrest and high energy prices",
+    "A 6% spike in the India VIX, indicating heightened market volatility",
+    "Significant wealth erosion with investors losing approximately 5 lakh crore rupees"
   ],
   "whatHappening": [
-    "Sensex plunged over 900 points while Nifty 50 broke below 22,900",
-    "Investor wealth reduced significantly with ₹4 to ₹4.5 lakh crore market cap eroded",
-    "Jio's IPO received anchor demand worth ₹2.5 lakh crore from major institutions",
-    "Metals sector bucked the market trend while private banks pulled indices down"
+    "Sensex plunged over 900 points while Nifty 50 fell below the 22,900 level",
+    "Jio's IPO anchor book saw record demand of 2.5 lakh crore rupees from major investors",
+    "UltraTech Cement reported a 21% increase in Q2 net profit to 1,494 crore rupees",
+    "HFCL's profit surged to 394 crore rupees due to increased demand for AI data centers"
   ],
   "stocksInNews": [
+    {
+      "symbol": "ULTRACEMCO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5,
+        6
+      ]
+    },
+    {
+      "symbol": "HFCL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
+      ]
+    },
     {
       "symbol": "BEPL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        8
       ]
     },
     {
@@ -32,31 +49,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "LLOYDSENGG",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "FEDERALBNK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "JANABANK",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        9
+        8
       ]
     },
     {
@@ -64,7 +57,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        11
+        12
       ]
     },
     {
@@ -72,7 +65,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        14
       ]
     },
     {
@@ -80,7 +73,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        14
       ]
     },
     {
@@ -88,37 +81,101 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        14
+      ]
+    },
+    {
+      "symbol": "ACMESOLAR",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        9
       ]
     }
   ],
-  "summary": "Indian benchmark indices witnessed a severe intraday sell-off as Sensex fell over 900 points and Nifty slipped below 22,900.\nHeavy selling in private banking and IT majors along with sustained foreign portfolio investor outflows erased over ₹4 lakh crore of investor market cap.\nAmid the broader market crash, Federal Bank and select Q2 earnings performers like Bhansali Engineering traded with gains.",
-  "updatedAt": "2026-10-19T09:31:28.558Z",
+  "summary": "The Indian stock market crashed today with the Sensex plunging over 900 points, driven by losses in private banks and IT. Despite the downturn, UltraTech Cement and HFCL posted strong Q2 results, and Jio's IPO saw record anchor demand. Investors lost nearly 5 lakh crore rupees as market volatility spiked.",
+  "updatedAt": "2026-10-19T10:05:56.731Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-19",
   "articleKeys": [
+    "india corporate bond boom may scale record in 2026 as borrowers lock in rates",
+    "fiis raise stakes in 8 smallcap stocks in q2 shares surge over 200 in fy27 so far",
+    "stock market live sensex at days low down over 900 pts nifty near 22850 45 trn mcap gone",
+    "acme solar signs 300 mw power supply pact with seci at 6 per unit",
+    "global market euro falls as french political unrest high energy prices weigh on sentiment",
+    "ultratech cement q2 profit rises 21 to 1494 crore sales up 19 on year",
+    "ultratech cement q2 results net profit jumps 21 yoy to rs 1494 crore revenue up 19",
+    "hfcl q2 results profit surges to 394 crore as ai data centre demand rises",
     "q2 results live bhansali engineering profit jumps 47 union bank profit zooms 30",
     "jios mega ipo breaks all records with rs 25 lakh crore anchor demand blackrock gic lic participate",
-    "lloyds engineering shares rise 94 in six months can defence drive the next leg",
-    "stock market live sensex at days low falls 800 pts nifty below 22900 45 trillion mcap gone",
-    "why nebius shares are falling amid ai funding fears",
-    "sensex crashes 950 pts intraday bank stocks fpi selling among key factors",
-    "global market china backs imf scrutiny of fiscal risks in major economies",
-    "jailer 2 vs drishyam 3 vs hanuman ansh box office collection three films different runs and one box office race",
-    "tiger shroff firing karan veer mehra recalls chaos says children ran for safety",
-    "federal bank shares jump 4 after acquisition comments jana sfb falls nearly 10",
     "sensex today nifty 50 stock market live updates sensex slumps over 900 pts nifty below 22900 india vix spikes 6 the economic times",
+    "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
     "sensex today stock market live sensex nifty at days low bajaj finance slips 2 ahead of earnings moneycontrolcom",
     "stock market today live private banks it drag sensex over 980 points lower at noon metals buck the slide businessline",
     "stock market live updates sensex crashes 900 points nifty 50 below 22900 axis hdfc bank trent top losers ndtv profit",
-    "sensex nifty crash why is stock market down today massive wealth eroded investors lose 4 lakh crore top 3 reasons livemint",
     "stock market outlook today 19 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "sensex nifty crash why is stock market down today massive wealth eroded investors lose 4 lakh crore top 3 reasons livemint",
     "stock market today highlights sensex climbs 41366 points to settle at 74729 nifty closes at 23146 the times of india",
     "closing bell nifty above 23100 sensex gains 413 pts led by it media and metal stocks moneycontrolcom",
-    "stock market crash investors lose rs 4 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
     "stock market crash today sensex plunges over 900 points nifty50 below 22900 top reasons for fall the times of india"
   ],
   "articles": [
+    {
+      "title": "India corporate bond boom may scale record in 2026 as borrowers lock in rates",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-corporate-bond-boom-may-scale-record-in-2026-as-borrowers-lock-in-rates/articleshow/135045053.cms",
+      "publishedAt": "Mon, 19 Oct 2026 14:56:25 +0530"
+    },
+    {
+      "title": "FIIs raise stakes in 8 smallcap stocks in Q2; shares surge over 200% in FY27 so far",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-raise-stakes-in-8-smallcap-stocks-in-q2-shares-surge-over-200-in-fy27-so-far/slideshow/135045033.cms",
+      "publishedAt": "Mon, 19 Oct 2026 14:51:11 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex at day's low, down over 900 pts, Nifty near 22,850; ₹4.5 trn m-cap gone",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 14:46:24 +0530"
+    },
+    {
+      "title": "ACME Solar signs 300 MW power supply pact with Seci at ₹6 per unit",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/acme-solar-signs-300-mw-power-supply-pact-with-seci-at-6-per-unit-126101900500_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 14:28:53 +0530"
+    },
+    {
+      "title": "Global Market: Euro falls as French political unrest, high energy prices weigh on sentiment",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-falls-as-french-political-unrest-high-energy-prices-weigh-on-sentiment/articleshow/135044480.cms",
+      "publishedAt": "Mon, 19 Oct 2026 14:21:17 +0530"
+    },
+    {
+      "title": "UltraTech Cement Q2 profit rises 21% to ₹1,494 crore; sales up 19% on year",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/quarterly-results-ultratech-cement-q2fy27-profit-sales-volume-results-126101900492_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 14:13:38 +0530"
+    },
+    {
+      "title": "UltraTech Cement Q2 Results: Net profit jumps 21% YoY to Rs 1,494 crore; revenue up 19%",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-results-net-profit-rises-21-yoy-to-rs-1494-crore-revenue-up-19/articleshow/135044076.cms",
+      "publishedAt": "Mon, 19 Oct 2026 14:02:25 +0530"
+    },
+    {
+      "title": "HFCL Q2 results: Profit surges to ₹394 crore as AI data centre demand rises",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/hfcl-q2-results-profit-surges-to-394-crore-as-ai-data-centre-demand-rises-126101900444_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 13:53:40 +0530"
+    },
     {
       "title": "Q2 Results Live: Bhansali Engineering Profit Jumps 47%, Union Bank Profit Zooms 30%",
       "source": "Zerodha Pulse",
@@ -132,58 +189,16 @@
       "publishedAt": "Mon, 19 Oct 2026 13:40:18 +0530"
     },
     {
-      "title": "Lloyds Engineering Shares Rise 94% in Six Months: Can Defence Drive The Next Leg?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/lloyds-engineering-shares-rise-94-in-six-months-can-defence-drive-the-next-leg-12205451#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 13:39:01 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex at day's low, falls 800 pts, Nifty below 22,900; ₹4.5 trillion m-cap gone",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 13:33:29 +0530"
-    },
-    {
-      "title": "Why Nebius shares are falling amid AI funding fears",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-nebius-shares-are-falling-amid-ai-funding-fears/slideshow/135043802.cms",
-      "publishedAt": "Mon, 19 Oct 2026 13:33:17 +0530"
-    },
-    {
-      "title": "Sensex crashes 950 pts intraday: Bank stocks, FPI selling among key factors",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/sensex-crashes-765-pts-intraday-bank-stocks-fpi-selling-among-key-factors-126101900390_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 13:32:20 +0530"
-    },
-    {
-      "title": "Global Market: China backs IMF scrutiny of fiscal risks in major economies",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-backs-imf-scrutiny-of-fiscal-risks-in-major-economies/articleshow/135043610.cms",
-      "publishedAt": "Mon, 19 Oct 2026 13:31:53 +0530"
-    },
-    {
-      "title": "Jailer 2 Vs Drishyam 3 Vs Hanuman Ansh Box Office Collection: Three Films, Different Runs And One Box Office Race",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/jailer-2-vs-drishyam-3-vs-hanuman-ansh-box-office-collection-three-films-different-runs-and-one-box-office-race-12204980#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 13:27:17 +0530"
-    },
-    {
-      "title": "Tiger Shroff Firing: Karan Veer Mehra Recalls Chaos, Says Children Ran For Safety",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/tiger-shroff-firing-karan-veer-mehra-recalls-chaos-says-children-ran-for-safety-12205207#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 13:25:20 +0530"
-    },
-    {
-      "title": "Federal Bank Shares Jump 4% After Acquisition Comments, Jana SFB Falls Nearly 10%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/federal-bank-to-explore-acquisitions-but-no-active-talks-under-way-says-executive-director-venkataraman-v-12205364#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 13:24:53 +0530"
-    },
-    {
       "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex slumps over 900 pts, Nifty below 22,900; India VIX spikes 6% - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbkhWNG5wTWNtS2Y2aDB1OVhSWlpneGlZRFZreUJzWFRIUjI2VnF2X2tWNlp2bUdLc2JteVh2LXd3dkVGajZhMGhBX2hLLWxRcmc0TmdVSFFQSEdjajJib0FSNUhMaEhqSDhxenpSZzVsOHNtVEZxSzdCblJ5NngzMk1HWlVMenRheEhmTWoxSEJfS01icHpUc1Z0dVVWT2xOOTFOTHZaX0hZcjQyUzhLdmtmOVpFeVg5U3Z4LUN0Q0J6YmdMNldRTmIxR3hxc01ncGJTNVJIS3pZVmxMV3NYemhIWlpnLTlaYjdXSTJ3RnFiTEp1MXExNUhRSkcyaUM4aHlTZ2JJaW1FN0FsLWxmTNIBlgJBVV95cUxNM0xpZjFpU1FPTGZqOG5BMVI5clBXWVdFU2M2enItLS1aR2VrUVJyUlNqVExOU0FHWUFmcDNvTGFaSnpST0JOcFN5MVVNWUJWOS0tMm81bVFWT1NQU1FyVVpMOWxURzVEZGp2UnZ2dHl0alAwbnUteENMVzVnVVhfY21PdTNOU2dTUlpVeUxNM0xkcUNiUGdZVWtpcEI3S3lMZWNCbVhvb2tURGRjOHd6N1lNSW1uZWpUbkJMOHpmQl9qeERVQjBkQzhLNDdvUjNlRG1JRi1mZmdlY1loOFVSRGsyOEZ3N3B3UkRXbHBHQm96QzE1dlRPN2dneEhTVnNJWGQ0cjYyVFNFRElLVmZTMDNwX0JqZw?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 09:22:12 GMT"
+    },
+    {
+      "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr0gHDAUFVX3lxTE02Zk9MNDBpdm1fQlg5MVEzdkowOTlLQ1pZMUY1VDRoWERQMmwzVXJKaHBVaGdDR3lOWHdmeHN1ZG5uVG1ZRUliWTg4eHpDa21JUGxQdThZQjNPeTQ5dkxMbldPei1Gb1RJU1RjR1dLUGRGX0NWRVZyTDNXSGhUU1J6ZjBoYk51SGVDV2FPVzhpZ1VXNjFmMHM3T01ZLU82Q0w5Z2I1NUo2aFhpd3BoOUNISlkxZDBVWE1Na2F3TWo3Z3J4aw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
     },
     {
       "title": "Sensex Today | Stock Market Live: Sensex, Nifty at day's low; Bajaj Finance slips 2% ahead of earnings - Moneycontrol.com",
@@ -204,16 +219,16 @@
       "publishedAt": "Mon, 19 Oct 2026 08:24:56 GMT"
     },
     {
-      "title": "Sensex, Nifty crash: Why is stock market down today? Massive wealth eroded; investors lose ₹4 lakh crore - Top 3 reasons - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQkZkTVdzeDR2dTBJQUtyMGhuaE5VMGNSTThUYWowbmV3enoyaHZ0UTRFQmtqSGlTT3NoNXZtUWl1TlpmWFJLODZCSi1XVE9zVXd5UUhnNEZPVllURExHcU1VWGwyTm5XWlpFbENWV3oxQ0l4VUxYOGdLMU5Zc2x3cTEtajQ3cFdLRlBVRGthUEhhMTZfZzd0Sm5ReG5jSzB6Yk9WTFl4ZEd4SXVWa3F6b1Rob3l2NmNCYzNfR21nWFEwbkw0SXgybzdZNzRHal9MWGh5b3BLTzl5SjVOel9pbEpRb0M3Z3hCODI2aWRQdlNWRVNFQkhZWFdYaTJ5d2hab05zMEk4dzJTWktIVzhrV9IBlgJBVV95cUxQdnlpS1lEQzRVWVdTOU1qenF6THdDQWxTZGZuUHI3a3VFclo4cWoxMDNNaWk4LVBQWS1fdS1STHRBQm1UWGZyOTI4T3Itc083RThDbGR4b2hpYks4S0dvbnAyYS1wM194NTZYSWhTQ3hoV2IzaExtRm5LUjdfYnk5cEV2UHFoYjJUejAwQmE4QTA2SXNTc29OVnRyVXJXRHNhWXVWTHhWYmNscmNlVnNPQURrY0xZVDV1c2VXZEpkYld0MlFwNkRnNm1nU2hqVlVMQnJEM1oyMW40SHF5WFJoQ3U5d0xSMUNNN1VSY2pQMjB5YWtwSU5zMGsyTHYyX2pfOTl0OWEwVjc5b0pHUXNvMjVWVXlzdw?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 08:19:09 GMT"
-    },
-    {
       "title": "Stock market outlook today, 19 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeWk3MHF0dmg0MHRLelJLeXFud2JOV1Zxd0N0NVFtZWFOMWdqb2RxS3UxakwwbGM4dC1FZFdlYnNrNExjZ2xlNnpoenhDWm1OQ1VFcjRMMGhtMUN4aEppWlQ5MTZha2pSdURpSkF5V0M3VEtkTDk5Q3NXVkVUMFBMREpaODdYZ201alFLT2ZpVGpEemdKbzNReXYyQkdPZEM2N1o5UFYwQnQ4UzVqSWd4ZTFtOGFBZjJCUXJDajF0T0ZpMHdVVzRkenBfM1MxeV9lZkN1LU9CVUI3QU1YZnc2U1ZNS19ReWF4RE5MeWtyTERyOEZWZU8xN2VKZlFHU0htYWVxatIBigJBVV95cUxPSVBpdEpkTmRrYi1KMjlhamUwbWM1cHV2NjVnRjc5N0p5NzZHakpfUG5EX0pWNC1zYnByZ0REcFJiaGlGaVBiTlQyc3NPWHJpc3BEdDNkYXB5MVdKX3BhMkxramtPdkFHTndQcHZKb3JoMnVYQ2Z3TktVVTNycDZjQ3RoSDZOS2Y4MlQ4Y0x5dVBPMVdhQmVrM0xOS21vVTdueFlrbGY0bWtWOWxxT29IcnFnSGI1aVFJN0EtMm1DVE9DSkRTMGJvTnB4WW41X193V2xVc3BqZkVva3BJNUxiOEIwUFZWMm9Fd1dMa0F4T29nRUd5bHFaa1NjYkpyWHN6eUJLVEkxbjFmQQ?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 01:19:32 GMT"
+    },
+    {
+      "title": "Sensex, Nifty crash: Why is stock market down today? Massive wealth eroded; investors lose ₹4 lakh crore - Top 3 reasons - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQkZkTVdzeDR2dTBJQUtyMGhuaE5VMGNSTThUYWowbmV3enoyaHZ0UTRFQmtqSGlTT3NoNXZtUWl1TlpmWFJLODZCSi1XVE9zVXd5UUhnNEZPVllURExHcU1VWGwyTm5XWlpFbENWV3oxQ0l4VUxYOGdLMU5Zc2x3cTEtajQ3cFdLRlBVRGthUEhhMTZfZzd0Sm5ReG5jSzB6Yk9WTFl4ZEd4SXVWa3F6b1Rob3l2NmNCYzNfR21nWFEwbkw0SXgybzdZNzRHal9MWGh5b3BLTzl5SjVOel9pbEpRb0M3Z3hCODI2aWRQdlNWRVNFQkhZWFdYaTJ5d2hab05zMEk4dzJTWktIVzhrV9IBlgJBVV95cUxQdnlpS1lEQzRVWVdTOU1qenF6THdDQWxTZGZuUHI3a3VFclo4cWoxMDNNaWk4LVBQWS1fdS1STHRBQm1UWGZyOTI4T3Itc083RThDbGR4b2hpYks4S0dvbnAyYS1wM194NTZYSWhTQ3hoV2IzaExtRm5LUjdfYnk5cEV2UHFoYjJUejAwQmE4QTA2SXNTc29OVnRyVXJXRHNhWXVWTHhWYmNscmNlVnNPQURrY0xZVDV1c2VXZEpkYld0MlFwNkRnNm1nU2hqVlVMQnJEM1oyMW40SHF5WFJoQ3U5d0xSMUNNN1VSY2pQMjB5YWtwSU5zMGsyTHYyX2pfOTl0OWEwVjc5b0pHUXNvMjVWVXlzdw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 08:19:09 GMT"
     },
     {
       "title": "Stock Market Today Highlights: Sensex climbs 413.66 points to settle at 74,729; Nifty closes at 23,146 - The Times of India",
@@ -226,12 +241,6 @@
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1RaUEd4ZUh3T1J5Mko5WklaS3gxYlI3eldzd2ZjZHJjNUkxTG45VEZhTDluWUZpMXdRU3VLOE9zQjc0ZHR4X0FLUmVNV252Q1JXNTN6VDZFNlVoczhhQ1ZqTjItMndJd0oyYm14a0pHSWpkRG9HZnZoWTM2ZmRHSTE3bTlzOE9qeExoNzk5NUxTNkZROVB5QVRGVGhGaC1MNi1kZDZCLWNKekU2Mk52cWJhcFQ1U3VienQzVFlTZVo5YzhmeDJ1VjRlVGJwc05oTGk4TXlmbUM2RWRIaUZhZVRNTzNteGZIUkRlMk41YjF2UXNodWttRWlYRHo1TmJoOVlzNWU2V2ItZHFnbHVqS2dWQm5vRUNwY0JneHlpQ05RS3fSAagCQVVfeXFMTVdoY0ZLYl9fN0RUekVyM1JIVm1kSng4aFBWMzFKcmlOOF8zT2JqWVBOMG1aVWFiZjhlRlRnbVNoYW5rVS0wYmlrUUpYVEdZWXRnRDlERTJXbUN5VUtGRmhrc1NwWjNoWUVRV1M5UnpFaUtPOGJfV01fZ2VpRGZtcDZwR0Y2RjFMYXl4eGJLUkJTVTdmTFdLRFRDM2swa1Vyc1dUX1RaVHFmWEM2TWFmYVo3T0xFWXNiZTQzTm9zSF9RN19DbDVhR2dxaXIxWEdEX25hYUtFdGRKMlNqRU5GbmFZQi14MmJYUHZYZ0JJbm5SNmxxSkYtOGljSDdseld5ZlJBYkpFRW1kU3drMnk4UnpRX0VmM3lvUHFnWmcwdHN2ZFVyc2pvaGQ?oc=5",
       "publishedAt": "Fri, 16 Oct 2026 10:35:24 GMT"
-    },
-    {
-      "title": "Stock Market Crash: Investors Lose Rs 4 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
-      "source": "NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr0gHDAUFVX3lxTE02Zk9MNDBpdm1fQlg5MVEzdkowOTlLQ1pZMUY1VDRoWERQMmwzVXJKaHBVaGdDR3lOWHdmeHN1ZG5uVG1ZRUliWTg4eHpDa21JUGxQdThZQjNPeTQ5dkxMbldPei1Gb1RJU1RjR1dLUGRGX0NWRVZyTDNXSGhUU1J6ZjBoYk51SGVDV2FPVzhpZ1VXNjFmMHM3T01ZLU82Q0w5Z2I1NUo2aFhpd3BoOUNISlkxZDBVWE1Na2F3TWo3Z3J4aw?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
     },
     {
       "title": "Stock market crash today: Sensex plunges over 900 points, Nifty50 below 22,900 - top reasons for fall - The Times of India",
