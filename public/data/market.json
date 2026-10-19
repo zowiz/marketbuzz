@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty crash over 900 points as private banks and IT stocks drag the market lower",
+  "headline": "Sensex slumps over 800 points, Nifty drops below 22,900 dragged by banking and IT stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,65 +7,67 @@
     "nextOpen": ""
   },
   "why": [
-    "Heavy selling pressure in private banking and IT sectors",
-    "Global market sentiment weighed down by French political unrest and high energy prices",
-    "A 6% spike in the India VIX, indicating heightened market volatility",
-    "Significant wealth erosion with investors losing approximately 5 lakh crore rupees"
+    "Heavy sell-off in private banking and IT stocks led the broader market decline.",
+    "Investor wealth worth Rs 4 to 5 lakh crore was eroded during the market crash.",
+    "India VIX spiked 6%, reflecting rising market volatility and fear.",
+    "Importer hedging and equity slumps offset potential gains for the Indian Rupee."
   ],
   "whatHappening": [
-    "Sensex plunged over 900 points while Nifty 50 fell below the 22,900 level",
-    "Jio's IPO anchor book saw record demand of 2.5 lakh crore rupees from major investors",
-    "UltraTech Cement reported a 21% increase in Q2 net profit to 1,494 crore rupees",
-    "HFCL's profit surged to 394 crore rupees due to increased demand for AI data centers"
+    "Sensex crashed over 870 points while Nifty 50 closed below 22,900.",
+    "Hindustan Zinc reported a 17% rise in Q2 net profit to Rs 6,412 crore with margin expansion.",
+    "Alembic Pharma received USFDA approval for its generic ear infection drug.",
+    "Cyient DLM crashed 29% despite posting a record order book."
   ],
   "stocksInNews": [
     {
-      "symbol": "ULTRACEMCO",
+      "symbol": "HINDZINC",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        5,
-        6
+        2,
+        3
       ]
     },
     {
-      "symbol": "HFCL",
+      "symbol": "ALEMBICPH",
       "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "CYIENTDLM",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         7
       ]
     },
     {
-      "symbol": "BEPL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "UNIONBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
       "symbol": "BAJFINANCE",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        12
+        9,
+        10
       ]
     },
     {
       "symbol": "AXISBANK",
       "sentiment": "Negative",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        9,
+        14
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        14
+        9
       ]
     },
     {
@@ -85,40 +87,32 @@
       ]
     },
     {
-      "symbol": "ACMESOLAR",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         9
       ]
     }
   ],
-  "summary": "The Indian stock market crashed today with the Sensex plunging over 900 points, driven by losses in private banks and IT. Despite the downturn, UltraTech Cement and HFCL posted strong Q2 results, and Jio's IPO saw record anchor demand. Investors lost nearly 5 lakh crore rupees as market volatility spiked.",
-  "updatedAt": "2026-10-19T10:05:56.731Z",
+  "summary": "Indian equity benchmark indices suffered a sharp decline today as Sensex plunged over 870 points and Nifty closed below 22,900.\nThe crash was led by heavy selling in private banks and IT stocks, eroding around Rs 5 lakh crore of investor wealth.\nIn stock-specific action, Hindustan Zinc gained on strong Q2 profit growth, while Cyient DLM crashed despite a record order book.",
+  "updatedAt": "2026-10-19T11:01:45.642Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-19",
   "articleKeys": [
-    "india corporate bond boom may scale record in 2026 as borrowers lock in rates",
-    "fiis raise stakes in 8 smallcap stocks in q2 shares surge over 200 in fy27 so far",
-    "stock market live sensex at days low down over 900 pts nifty near 22850 45 trn mcap gone",
-    "acme solar signs 300 mw power supply pact with seci at 6 per unit",
-    "global market euro falls as french political unrest high energy prices weigh on sentiment",
-    "ultratech cement q2 profit rises 21 to 1494 crore sales up 19 on year",
-    "ultratech cement q2 results net profit jumps 21 yoy to rs 1494 crore revenue up 19",
-    "hfcl q2 results profit surges to 394 crore as ai data centre demand rises",
-    "q2 results live bhansali engineering profit jumps 47 union bank profit zooms 30",
-    "jios mega ipo breaks all records with rs 25 lakh crore anchor demand blackrock gic lic participate",
-    "sensex today nifty 50 stock market live updates sensex slumps over 900 pts nifty below 22900 india vix spikes 6 the economic times",
-    "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
+    "ltm says ai push is reshaping deal mix as clients reallocate technology budgets",
+    "rupee ends flat as stock slump importer hedging erodes bounce",
+    "hindustan zinc q2 results net profit rises 17 to rs 6412 crore margin expands",
+    "q2 results live piramal finance net profit surges 65 hindustan zinc net profit up 17",
+    "alembic pharma receives usfda approval for generic ear infection drug",
+    "moneyrecovery gap after a digital scam 5 steps you must take immediately",
+    "8th pay commission bigger basic pay or more allowances which could give you more financial security",
+    "cyient dlms record order book cant stop a 29 crash heres why",
+    "watch aruna irani returns to work months after husband kuku kohlis death thanks fans for support",
+    "stock market highlights sensex slumps 876 points nifty 50 ends below 22900 axis bank tata motors pv infosys bajaj fin losses",
     "sensex today stock market live sensex nifty at days low bajaj finance slips 2 ahead of earnings moneycontrolcom",
+    "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
+    "sensex today nifty 50 stock market live updates sensex slumps over 900 pts nifty below 22900 india vix spikes 6 the economic times",
     "stock market today live private banks it drag sensex over 980 points lower at noon metals buck the slide businessline",
     "stock market live updates sensex crashes 900 points nifty 50 below 22900 axis hdfc bank trent top losers ndtv profit",
     "stock market outlook today 19 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
@@ -129,70 +123,70 @@
   ],
   "articles": [
     {
-      "title": "India corporate bond boom may scale record in 2026 as borrowers lock in rates",
+      "title": "LTM Says AI Push Is Reshaping Deal Mix As Clients Reallocate Technology Budgets",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-corporate-bond-boom-may-scale-record-in-2026-as-borrowers-lock-in-rates/articleshow/135045053.cms",
-      "publishedAt": "Mon, 19 Oct 2026 14:56:25 +0530"
+      "link": "https://www.ndtvprofit.com/business/ltm-says-ai-push-is-reshaping-deal-mix-as-clients-reallocate-technology-budgets-12206080#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 15:57:22 +0530"
     },
     {
-      "title": "FIIs raise stakes in 8 smallcap stocks in Q2; shares surge over 200% in FY27 so far",
+      "title": "Rupee ends flat as stock slump, importer hedging erodes bounce",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-raise-stakes-in-8-smallcap-stocks-in-q2-shares-surge-over-200-in-fy27-so-far/slideshow/135045033.cms",
-      "publishedAt": "Mon, 19 Oct 2026 14:51:11 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-flat-as-stock-slump-importer-hedging-erodes-bounce/articleshow/135046027.cms",
+      "publishedAt": "Mon, 19 Oct 2026 15:48:51 +0530"
     },
     {
-      "title": "Stock Market LIVE: Sensex at day's low, down over 900 pts, Nifty near 22,850; ₹4.5 trn m-cap gone",
+      "title": "Hindustan Zinc Q2 Results: Net Profit Rises 17% To Rs 6,412 Crore, Margin Expands",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-19-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-q2-results-hind-zinc-share-price-today-ipo-today-126101900052_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 14:46:24 +0530"
+      "link": "https://www.ndtvprofit.com/markets/hindustan-zinc-q2-results-net-profit-rises-17-to-rs-6-412-crore-margin-expands-12206035#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 15:48:32 +0530"
     },
     {
-      "title": "ACME Solar signs 300 MW power supply pact with Seci at ₹6 per unit",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/acme-solar-signs-300-mw-power-supply-pact-with-seci-at-6-per-unit-126101900500_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 14:28:53 +0530"
-    },
-    {
-      "title": "Global Market: Euro falls as French political unrest, high energy prices weigh on sentiment",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-falls-as-french-political-unrest-high-energy-prices-weigh-on-sentiment/articleshow/135044480.cms",
-      "publishedAt": "Mon, 19 Oct 2026 14:21:17 +0530"
-    },
-    {
-      "title": "UltraTech Cement Q2 profit rises 21% to ₹1,494 crore; sales up 19% on year",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/quarterly-results-ultratech-cement-q2fy27-profit-sales-volume-results-126101900492_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 14:13:38 +0530"
-    },
-    {
-      "title": "UltraTech Cement Q2 Results: Net profit jumps 21% YoY to Rs 1,494 crore; revenue up 19%",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-results-net-profit-rises-21-yoy-to-rs-1494-crore-revenue-up-19/articleshow/135044076.cms",
-      "publishedAt": "Mon, 19 Oct 2026 14:02:25 +0530"
-    },
-    {
-      "title": "HFCL Q2 results: Profit surges to ₹394 crore as AI data centre demand rises",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/hfcl-q2-results-profit-surges-to-394-crore-as-ai-data-centre-demand-rises-126101900444_1.html",
-      "publishedAt": "Mon, 19 Oct 2026 13:53:40 +0530"
-    },
-    {
-      "title": "Q2 Results Live: Bhansali Engineering Profit Jumps 47%, Union Bank Profit Zooms 30%",
+      "title": "Q2 Results Live: Piramal Finance Net Profit Surges 65% ; Hindustan Zinc Net Profit Up 17%",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-bajaj-finance-hfcl-hindustan-zinc-ultratech-cement-union-bank-35-companies-to-announce-earnings-today-12204899#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 13:53:25 +0530"
+      "publishedAt": "Mon, 19 Oct 2026 15:46:36 +0530"
     },
     {
-      "title": "Jio’s mega IPO breaks all records with Rs 2.5 lakh crore anchor demand: BlackRock, GIC, LIC participate",
+      "title": "Alembic Pharma receives USFDA approval for generic ear infection drug",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jios-mega-ipo-breaks-all-records-with-rs-2-5-lakh-crore-anchor-demand-blackrock-gic-lic-participate/articleshow/135043514.cms",
-      "publishedAt": "Mon, 19 Oct 2026 13:40:18 +0530"
+      "link": "https://www.business-standard.com/companies/news/alembic-pharma-receives-usfda-approval-for-generic-ear-infection-drug-126101900600_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 15:43:46 +0530"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex slumps over 900 pts, Nifty below 22,900; India VIX spikes 6% - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbkhWNG5wTWNtS2Y2aDB1OVhSWlpneGlZRFZreUJzWFRIUjI2VnF2X2tWNlp2bUdLc2JteVh2LXd3dkVGajZhMGhBX2hLLWxRcmc0TmdVSFFQSEdjajJib0FSNUhMaEhqSDhxenpSZzVsOHNtVEZxSzdCblJ5NngzMk1HWlVMenRheEhmTWoxSEJfS01icHpUc1Z0dVVWT2xOOTFOTHZaX0hZcjQyUzhLdmtmOVpFeVg5U3Z4LUN0Q0J6YmdMNldRTmIxR3hxc01ncGJTNVJIS3pZVmxMV3NYemhIWlpnLTlaYjdXSTJ3RnFiTEp1MXExNUhRSkcyaUM4aHlTZ2JJaW1FN0FsLWxmTNIBlgJBVV95cUxNM0xpZjFpU1FPTGZqOG5BMVI5clBXWVdFU2M2enItLS1aR2VrUVJyUlNqVExOU0FHWUFmcDNvTGFaSnpST0JOcFN5MVVNWUJWOS0tMm81bVFWT1NQU1FyVVpMOWxURzVEZGp2UnZ2dHl0alAwbnUteENMVzVnVVhfY21PdTNOU2dTUlpVeUxNM0xkcUNiUGdZVWtpcEI3S3lMZWNCbVhvb2tURGRjOHd6N1lNSW1uZWpUbkJMOHpmQl9qeERVQjBkQzhLNDdvUjNlRG1JRi1mZmdlY1loOFVSRGsyOEZ3N3B3UkRXbHBHQm96QzE1dlRPN2dneEhTVnNJWGQ0cjYyVFNFRElLVmZTMDNwX0JqZw?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 09:22:12 GMT"
+      "title": "Money-Recovery Gap After A Digital Scam: 5 Steps You Must Take Immediately",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/personal-finance/money-recovery-gap-after-a-digital-scam-5-steps-you-must-take-immediately-12205529#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 15:42:56 +0530"
+    },
+    {
+      "title": "8th Pay Commission: Bigger Basic Pay Or More Allowances, Which Could Give You More Financial Security",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-bigger-basic-pay-or-more-allowances-which-could-give-you-more-financial-security-12205092#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 15:42:51 +0530"
+    },
+    {
+      "title": "Cyient DLM's Record Order Book Can't Stop A 29% Crash. Here's Why",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/cyient-dlms-record-order-book-cant-stop-a-29-crash-heres-why-12205985#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 15:41:25 +0530"
+    },
+    {
+      "title": "Watch: Aruna Irani Returns To Work Months After Husband Kuku Kohli’s Death, Thanks Fans For Support",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/watch-aruna-irani-returns-to-work-months-after-husband-kuku-kohli-s-death-thanks-fans-for-support-12205396#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 15:40:34 +0530"
+    },
+    {
+      "title": "Stock Market Highlights: Sensex Slumps 876 Points, Nifty 50 Ends Below 22,900; Axis Bank, Tata Motors PV, Infosys, Bajaj Fin Losses",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-blog-sensex-today-nifty50-gift-nifty-live-updates-today-russia-ukraine-q2-earnings-october-19-2026-12204238#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 15:39:46 +0530"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Sensex, Nifty at day's low; Bajaj Finance slips 2% ahead of earnings - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOME5jeVRBaWF1d2V2M2NTOXJXOTg2ZEUtWWpTMm85Z3BmZk9GQWZpUDMtbTc4UkVwaGpneThVNDRhWnRZUmk3UGpxU21IcUR1cnlLdmgwdDU5b0hxOEt0TE9OTGo4Yk9MVlV1VXZiWFBtV3pFaDR1T3AzbURvalpyN3VZQWxEbnBkaUVIcjkxNXg5WmEzbGtBa0VOQkJjczhBemN5UTRVWF82cVBacEZTZlp5WjJxTEVna1FsOEdtOW0tVkJvTFUzMDRHeDZNTkF5Q2x5VWZpeTl0R0ZHMHhpYnZHdGdJckJxTENSdGNiRjBRMWJZbmxFYTMyWHpmUFMtTllXc3piUWx0d3ZERmF5dmVzS20zRG9YR3pLcEhrbVN3enPSAagCQVVfeXFMTU5fSm03QnFZNm93a05FWFE0aFhPRS0yR3Brb1N6cXVaZHM5d1hPRTNBXzY5d29RMHp5VnZCUE55enZqQl9WbEx5UFh1R3RQY05SNXhUQ1l6WGhuVlpNZnBTMUZRbWJjamdSSWRWUEI5b0EzeFE4Nmx5OUNjaUNsRDc1NHJtMTU1MjI0R0pKQWxZQmg0R1ZKeGQyNTJfR3lZU1U1UWhiV201NDR6N1ZCS01oQ3BmUzFGYUNDOUpaNG1PeC14THNaV0pjZTNPZk03S1hWVEF0clV1SWVXRFRqekJOOGFyM2hocmF3VjQ2Nm40aHowT3ltX19kMkNxbTFfbW1oNVQtZkJzLUc1VkRQemMtSUFYem9jcE9vaVlWSEFnTzdmaG5QT04?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 08:03:11 GMT"
     },
     {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
@@ -201,10 +195,10 @@
       "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Sensex, Nifty at day's low; Bajaj Finance slips 2% ahead of earnings - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOME5jeVRBaWF1d2V2M2NTOXJXOTg2ZEUtWWpTMm85Z3BmZk9GQWZpUDMtbTc4UkVwaGpneThVNDRhWnRZUmk3UGpxU21IcUR1cnlLdmgwdDU5b0hxOEt0TE9OTGo4Yk9MVlV1VXZiWFBtV3pFaDR1T3AzbURvalpyN3VZQWxEbnBkaUVIcjkxNXg5WmEzbGtBa0VOQkJjczhBemN5UTRVWF82cVBacEZTZlp5WjJxTEVna1FsOEdtOW0tVkJvTFUzMDRHeDZNTkF5Q2x5VWZpeTl0R0ZHMHhpYnZHdGdJckJxTENSdGNiRjBRMWJZbmxFYTMyWHpmUFMtTllXc3piUWx0d3ZERmF5dmVzS20zRG9YR3pLcEhrbVN3enPSAagCQVVfeXFMTU5fSm03QnFZNm93a05FWFE0aFhPRS0yR3Brb1N6cXVaZHM5d1hPRTNBXzY5d29RMHp5VnZCUE55enZqQl9WbEx5UFh1R3RQY05SNXhUQ1l6WGhuVlpNZnBTMUZRbWJjamdSSWRWUEI5b0EzeFE4Nmx5OUNjaUNsRDc1NHJtMTU1MjI0R0pKQWxZQmg0R1ZKeGQyNTJfR3lZU1U1UWhiV201NDR6N1ZCS01oQ3BmUzFGYUNDOUpaNG1PeC14THNaV0pjZTNPZk03S1hWVEF0clV1SWVXRFRqekJOOGFyM2hocmF3VjQ2Nm40aHowT3ltX19kMkNxbTFfbW1oNVQtZkJzLUc1VkRQemMtSUFYem9jcE9vaVlWSEFnTzdmaG5QT04?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 08:03:11 GMT"
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex slumps over 900 pts, Nifty below 22,900; India VIX spikes 6% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbkhWNG5wTWNtS2Y2aDB1OVhSWlpneGlZRFZreUJzWFRIUjI2VnF2X2tWNlp2bUdLc2JteVh2LXd3dkVGajZhMGhBX2hLLWxRcmc0TmdVSFFQSEdjajJib0FSNUhMaEhqSDhxenpSZzVsOHNtVEZxSzdCblJ5NngzMk1HWlVMenRheEhmTWoxSEJfS01icHpUc1Z0dVVWT2xOOTFOTHZaX0hZcjQyUzhLdmtmOVpFeVg5U3Z4LUN0Q0J6YmdMNldRTmIxR3hxc01ncGJTNVJIS3pZVmxMV3NYemhIWlpnLTlaYjdXSTJ3RnFiTEp1MXExNUhRSkcyaUM4aHlTZ2JJaW1FN0FsLWxmTNIBlgJBVV95cUxNM0xpZjFpU1FPTGZqOG5BMVI5clBXWVdFU2M2enItLS1aR2VrUVJyUlNqVExOU0FHWUFmcDNvTGFaSnpST0JOcFN5MVVNWUJWOS0tMm81bVFWT1NQU1FyVVpMOWxURzVEZGp2UnZ2dHl0alAwbnUteENMVzVnVVhfY21PdTNOU2dTUlpVeUxNM0xkcUNiUGdZVWtpcEI3S3lMZWNCbVhvb2tURGRjOHd6N1lNSW1uZWpUbkJMOHpmQl9qeERVQjBkQzhLNDdvUjNlRG1JRi1mZmdlY1loOFVSRGsyOEZ3N3B3UkRXbHBHQm96QzE1dlRPN2dneEhTVnNJWGQ0cjYyVFNFRElLVmZTMDNwX0JqZw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 09:22:12 GMT"
     },
     {
       "title": "Stock Market Today Live: Private banks, IT drag Sensex over 980 points lower at noon; metals buck the slide - BusinessLine",
