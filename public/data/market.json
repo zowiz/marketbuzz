@@ -1,44 +1,79 @@
 {
-  "headline": "Sensex crashes 876 points, Nifty falls below 22,900 as banking and IT stocks lead market slump",
+  "headline": "Last session: Sensex plunged 876 points, Nifty fell below 22,900 as private banks and IT stocks dragged.",
   "marketStatus": {
-    "isClosed": false,
+    "isClosed": true,
     "isMuhuratTrading": false,
-    "message": "Market is open for trading today.",
-    "nextOpen": ""
+    "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 21 October.",
+    "nextOpen": "Wednesday, 21 October"
   },
   "why": [
-    "Heavy selling pressure in private banking and IT sectors",
-    "Significant losses in heavyweights like Infosys, Axis Bank, and Tata Motors",
-    "Market sentiment dampened by a crash that eroded approximately Rs 5 lakh crore in investor wealth",
-    "Technical breakdown as Nifty slipped below the psychological 22,900 level"
+    "Heavy selling in private banking and IT sectors dragged the benchmarks lower",
+    "Massive wealth erosion as investors lost approximately ₹4-5 lakh crore in a single session",
+    "Weakness in major heavyweights including Axis Bank, Infosys, and Tata Motors",
+    "Negative global cues and concerns over liquidity paradoxes affecting stock exits"
   ],
   "whatHappening": [
-    "Sensex plummeted 876.37 points to settle at 73,852.90",
-    "IREDA reported a net profit growth to Rs 554 crore for the September quarter",
-    "Jaiprakash Power's net profit fell 81% YoY due to a one-time loss",
-    "PSU banks and metal stocks showed resilience, bucking the overall downward trend"
+    "Sensex tumbled 876.37 points to settle at 73,852.90 on the last trading day",
+    "Nifty 50 dropped significantly to end at 22,888.95, slipping below the 22,900 level",
+    "Jio IPO anchor book received record-breaking bids worth ₹2.5 trillion from 212 investors",
+    "PSU banks showed resilience and bucked the overall negative market trend"
   ],
   "stocksInNews": [
     {
-      "symbol": "IREDA",
+      "symbol": "JIO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0,
+        3,
+        6
+      ]
+    },
+    {
+      "symbol": "PEL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         1
       ]
     },
     {
-      "symbol": "JPPOWER",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "symbol": "PSB",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        6
+        2
+      ]
+    },
+    {
+      "symbol": "IREDA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "WAAREERTL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        4,
+        15
       ]
     },
     {
       "symbol": "AXISBANK",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         15
       ]
@@ -46,7 +81,7 @@
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
         15,
         17
@@ -55,36 +90,28 @@
     {
       "symbol": "TATAMOTORS",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
         15,
         17
       ]
-    },
-    {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        15
-      ]
     }
   ],
-  "summary": "The Indian stock market witnessed a sharp sell-off today, with the Sensex crashing 876 points and Nifty closing below 22,900. Banking and IT sectors were the primary laggards, while PSU banks and metals showed some strength. IREDA stood out with positive quarterly results despite the broader market crash.",
-  "updatedAt": "2026-10-19T17:41:56.114Z",
+  "summary": "On the last trading day, Indian benchmarks crashed nearly 900 points due to heavy selling in IT and private banking stocks.\nDespite the broader sell-off, PSU banks showed resilience while Jio's IPO anchor book saw record-breaking demand.\nPiramal Finance and Punjab & Sind Bank reported strong quarterly earnings growth amid the market volatility.",
+  "updatedAt": "2026-10-19T19:31:53.739Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-10-19",
+  "dateChecked": "2026-10-20",
   "articleKeys": [
-    "ai stocks rebound as coreweave jumps on goldman sachs upgrade",
-    "ireda net profit grows to rs 554 cr in sep qtr",
-    "amazon says its ai chips will work with popular coding language challenging nvidia",
-    "8th pay commission 14 then 140 now what past precedent reveals about current salary hike demands",
-    "tiger shroff attack how a rapido rider allegedly helped plan the shooting",
-    "indias agrivoltaic capacity is expected to be more than 5gigawatts in next 34 years mnre secretary",
-    "jaiprakash power q2 results net profit slips 81 to rs 33 crore on onetime loss revenue up 5 yoy",
-    "prahaar box office collection day 4 rajkummar raos courtroom drama keeps the momentum going",
-    "karan johars student of the year franchise gets darker webseries spinoff starring shanaya kapoor",
-    "inside musks 105b payout how many spacex shares does he own and how deep it cuts into his holding",
+    "jio ipo anchor book sees over 30x demand draws record bids worth 25 trn",
+    "piramal finance q2fy27 results net profit zooms 67 to 545 crore",
+    "punjab sind bank q2 net profit surges 40 to 412 cr on improved income",
+    "jio ipo lic blackrock fidelity gic among 212 anchor investors to pour rs 8110 crore",
+    "q2 results update ireda profit flat at rs 549 crore waaree renewable profit dips 37 bajaj finance nii rises 24",
+    "nasdaq jumps 16 as chip stocks set to end nineday losing streak intel amd micron lead gains",
+    "jio platforms anchor book draws record 25 trillion in bids ahead of ipo",
+    "india flags off first shipment to new zealand under free trade agreement",
+    "no long hours why an indianorigin ceo is rethinking silicon valleys 996 work culture",
+    "the liquidity paradox why fm sitharaman says deep cash pools accelerate stock exits",
     "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
     "stock market highlights for october 19 2026 sensex tumbles 87637 points to settle at 7385290 nifty drops to 2288895 the times of india",
     "stock market down bulls lose ground sensex sinks nearly 900 points nifty ends below 22900 5 key trigg the economic times",
@@ -94,68 +121,68 @@
     "sensex nifty crash why is stock market down today massive wealth eroded investors lose 4 lakh crore top 3 reasons livemint",
     "sensex today nifty 50 stock market highlights sensex plunges 876 pts nifty ends below 22900 tmpv infy drop 3 each the economic times",
     "stock market outlook today 19 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "nifty sensex today stock market crashes as sensex falls 876 points nifty drops 111 banking and it stocks lead the losses india infoline"
+    "stock market crash today sensex plunges over 900 points nifty50 below 22900 top reasons for fall the times of india"
   ],
   "articles": [
     {
-      "title": "AI stocks rebound as CoreWeave jumps on Goldman Sachs upgrade",
+      "title": "Jio IPO anchor book sees over 30x demand, draws record bids worth ₹2.5 trn",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rebound-as-coreweave-jumps-on-goldman-upgrade/articleshow/135052127.cms",
-      "publishedAt": "Mon, 19 Oct 2026 21:47:35 +0530"
+      "link": "https://www.business-standard.com/markets/ipo/jio-ipo-anchor-book-sees-over-30x-demand-draws-record-bids-worth-2-5-trn-126101901316_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 23:54:36 +0530"
     },
     {
-      "title": "Ireda net profit grows to Rs 554 cr in Sep qtr",
+      "title": "Piramal Finance Q2FY27 results: Net profit zooms 67% to ₹545 crore",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ireda-net-profit-grows-to-rs-554-cr-in-sep-qtr/articleshow/135051929.cms",
-      "publishedAt": "Mon, 19 Oct 2026 21:29:01 +0530"
+      "link": "https://www.business-standard.com/companies/news/piramal-finance-q2fy27-results-net-profit-zooms-67-to-545-crore-126101901131_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 23:28:09 +0530"
     },
     {
-      "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia",
+      "title": "Punjab & Sind Bank Q2 net profit surges 40% to ₹412 cr on improved income",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-nvidia/articleshow/135051867.cms",
-      "publishedAt": "Mon, 19 Oct 2026 21:22:49 +0530"
+      "link": "https://www.business-standard.com/companies/news/punjab-sind-bank-q2-net-profit-surges-40-pc-to-rs-412-cr-on-improved-income-126101700865_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 23:21:46 +0530"
     },
     {
-      "title": "8th Pay Commission: 14% Then, 140% Now? What Past Precedent Reveals About Current Salary Hike Demands",
+      "title": "Jio IPO: LIC, BlackRock, Fidelity, GIC among 212 anchor investors to pour Rs 8,110 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/8th-pay-commission-14-then-140-now-what-past-precedent-reveals-about-current-salary-hike-demands-12207764#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 21:20:51 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-lic-blackrock-fidelity-gic-among-212-anchor-investors-pour-rs-8110-crore/articleshow/135053762.cms",
+      "publishedAt": "Mon, 19 Oct 2026 23:04:53 +0530"
     },
     {
-      "title": "Tiger Shroff Attack: How A Rapido Rider Allegedly Helped Plan The Shooting",
+      "title": "Q2 Results Update: Ireda Profit Flat At Rs 549 Crore; Waaree Renewable Profit Dips 37%, Bajaj Finance NII Rises 24%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/tiger-shroff-attack-how-a-rapido-rider-allegedly-helped-plan-the-shooting-12207733#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 21:12:55 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-bajaj-finance-hfcl-hindustan-zinc-ultratech-cement-union-bank-35-companies-to-announce-earnings-today-12204899#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 22:51:52 +0530"
     },
     {
-      "title": "India’s agrivoltaic capacity is expected to be more than 5-gigawatts in next 3-4 years: MNRE Secretary",
+      "title": "Nasdaq Jumps 1.6% As Chip Stocks Set To End Nine-Day Losing Streak; Intel, AMD, Micron Lead Gains",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/indias-agrivoltaic-capacity-is-expected-to-be-more-than-5-gigawatts-in-next-3-4-years-5-gigawatts/article71602893.ece",
-      "publishedAt": "Mon, 19 Oct 2026 21:11:40 +0530"
+      "link": "https://www.ndtvprofit.com/markets/nasdaq-jumps-1-6-as-chip-stocks-set-to-end-nine-day-losing-streak-intel-amd-micron-lead-gains-12208088#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 22:43:25 +0530"
     },
     {
-      "title": "Jaiprakash Power Q2 Results: Net Profit Slips 81% To Rs 33 Crore On One-Time Loss, Revenue Up 5% YoY",
+      "title": "Jio Platforms' anchor book draws record ₹2.5 trillion in bids ahead of IPO",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/jaiprakash-power-q2-results-net-profit-slips-81-to-rs-33-crore-on-one-time-loss-revenue-up-5-yoy-12207715#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 21:08:59 +0530"
+      "link": "https://www.business-standard.com/companies/news/jio-platforms-ipo-anchor-investor-quota-nearly-30-times-oversubscribed-126101900538_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 22:43:22 +0530"
     },
     {
-      "title": "Prahaar Box Office Collection Day 4: Rajkummar Rao's Courtroom Drama Keeps The Momentum Going",
+      "title": "India flags off first shipment to New Zealand under free trade agreement",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/prahaar-box-office-collection-day-4-rajkummar-raos-courtroom-drama-keeps-the-momentum-going-12206907#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 21:00:01 +0530"
+      "link": "https://www.business-standard.com/economy/news/india-flags-off-first-consignment-to-new-zealand-under-free-trade-pact-126101900935_1.html",
+      "publishedAt": "Mon, 19 Oct 2026 22:32:00 +0530"
     },
     {
-      "title": "Karan Johar's 'Student of the Year' Franchise Gets Darker Web-Series Spin-Off Starring Shanaya Kapoor",
+      "title": "No Long Hours: Why An Indian-Origin CEO Is Rethinking Silicon Valley's 9-9-6 Work Culture",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/karan-johars-student-of-the-year-franchise-gets-darker-web-series-spin-off-starring-shanaya-kapoor-12207039#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 20:58:27 +0530"
+      "link": "https://www.ndtvprofit.com/world/no-long-hours-why-an-indian-origin-ceo-is-rethinking-silicon-valleys-9-9-6-work-culture-12208045#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 22:31:03 +0530"
     },
     {
-      "title": "Inside Musk's $10.5B Payout: How Many SpaceX Shares Does He Own And How Deep It Cuts Into His Holding?",
+      "title": "The Liquidity Paradox: Why FM Sitharaman Says Deep Cash Pools Accelerate Stock Exits",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/inside-musks-10-5b-payout-how-many-spacex-shares-does-he-own-and-how-deep-it-cuts-into-his-holding-12207664#publisher=newsstand",
-      "publishedAt": "Mon, 19 Oct 2026 20:57:14 +0530"
+      "link": "https://www.ndtvprofit.com/economy/domestic-liquidity-cushions-indian-market-as-foreign-funds-tap-easy-exits-fm-sitharaman-12208012#publisher=newsstand",
+      "publishedAt": "Mon, 19 Oct 2026 22:22:53 +0530"
     },
     {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
@@ -212,10 +239,10 @@
       "publishedAt": "Mon, 19 Oct 2026 01:19:32 GMT"
     },
     {
-      "title": "Nifty Sensex Today: Stock Market Crashes as Sensex Falls 876 Points, Nifty Drops 1.11%; Banking and IT Stocks Lead the Losses - India Infoline",
-      "source": "India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa1ZydU56V2ZLWkw1MTV6bW0zNThMcTRUVU44WFN4SHpfMHlmTndYMm9YZXJMVmE3V0w5S05ZU19Mc2F6Z1drT05NOG5vQzg3X0diWkh0eFV2dzhkMzV5WXVlbEYxaUtiY0RmT3B3bGVMWXVCTHRNdUloNzctX3d2eEdPRnlZaGp2eUhkQmhydkNwOEl4cFdiNklIYnc2ZjZUQ3BhZlZlY05Hb2dFVm1lS3B3M3dlb1NqM3BEQ0xtaWtfY0pNSlIyRkQ0MzR0ZGJLQkt5U3R5S3FDU01saE1NdGxwRXQyc1d2ZDRldE5wbDNRTjl4aXBv?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 13:06:04 GMT"
+      "title": "Stock market crash today: Sensex plunges over 900 points, Nifty50 below 22,900 - top reasons for fall - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQWkZVTHdkeGI4ek1UVHR2Nnd5d0ZMVDZGQVhteW1LcnBaVl8zVDNhcmhodjI2elk2VnlEOWlYc29WdWdpUGd1NWpkOUVoVU9WOEhoYlJ4S3pZaFNWaXhzdmRGam1oYjMyYUJ5eFIxYnZ6YlhBSVpua2R1dnZ0bUk1R3MzLXVsazZVbVROUXIyaU5ONWQ2OTBsN3ptamk1eGpjaF9wcXNvUEpULWIzQWpSTVBJVThqNTR3NzU3b0FSUUdKaHRIeE9DZ2RodFdCVEFDeVZEUVhLRFR0SkxFUEcxbHJwOU1VVVZJbEpSa1NuTy1NWkMyY1ZrSnhQRjdxdW5KUzNBc2NPVlNURF9oeFNDVEd2ZFV6ckVRTVROMklQTHFPMWVtZ0J5LUJTMDB2bk1tdlk4YWh5WG5SS0pKaUpMNEg2cWZlVWR0SlBJS2hQUGzSAdYCQVVfeXFMTUt2TjUwU3BGTUZPSHpNbzV3ZkpiYkd6a1RSOW5mYlNHSXhmZ1Q1TENsdTJYVmV4WXhqejJmTUVOU19kUWVfZGhmQkUxYTlWVGcxNnY0ZXp2VTBYb0VVZGNSUXZNTzJvckNIVHlnQWZWZ3pzcXBpeXk2cWdNMW1SbjRxcVVKZ3VoVTlTTVd1THdTNF9LTXNFSHNtOUdyeHR6ZFl5SEVWa1g5WW9HaUkwTUc1S3pyY1B2Y1JkY3dTVVNoaFQ4VVNXMERkVTdSbHNOS1loMEZNNHFzQ0NZM3d1amg5WEFwVXFvdnFLNkZhUlZkaGU2RE4zZWd6eThBMjlRRDRBT2lqR1hhMzhzTGpOQWtUWkU4Z2V2b2UxUHBBVFVJWmoxM21haWtJQzVYWXBtdzktYVRybmpPdDdzQ0ZvQmpWU041ZVJvM1BERGdlSDRsVXJLSDFn?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 08:34:00 GMT"
     }
   ]
 }
