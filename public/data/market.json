@@ -1,30 +1,54 @@
 {
-  "headline": "Last session: Sensex plunged 876 points and Nifty fell below 22,900 amid banking and IT sell-off",
+  "headline": "Last session: Sensex plunged 876 points and Nifty fell below 22,900 as banking and IT stocks dragged",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 21 October.",
-    "nextOpen": "Wednesday, 21 October 2026"
+    "nextOpen": "Wednesday, 21 October"
   },
   "why": [
-    "Heavy selling in private banking and IT sectors dragged the indices lower",
-    "High oil prices weighed on investor sentiment during the last session",
-    "Tightening liquidity conditions ahead of the festive season prompted RBI intervention",
-    "Global cues including hedge funds retreating from tech stocks at a record pace"
+    "Heavy selling in private banking and IT stocks led the market decline",
+    "Significant losses in heavyweights like Infosys, Axis Bank, and Bajaj Finance",
+    "Negative global cues and investor caution ahead of key earnings",
+    "Nifty breached the psychological support level of 22,900"
   ],
   "whatHappening": [
-    "On the last trading day, Sensex tumbled 876.37 points to settle at 73,852.90",
-    "Nifty 50 dropped 1.11% to close at 22,888.95, losing the 22,900 level",
-    "Jio Platforms' IPO anchor book received record bids worth Rs 2.5 lakh crore",
-    "RBI injected Rs 1 lakh crore into the system to address liquidity tightening"
+    "HFCL reported a massive 448% jump in Q2 net profit to Rs 394 crore",
+    "UltraTech Cement's September quarter net profit rose by 21%",
+    "Jio Platforms' IPO attracted anchor bids worth Rs 2.5 lakh crore",
+    "NSE and BSE have scheduled Diwali Muhurat trading for November 8"
   ],
   "stocksInNews": [
+    {
+      "symbol": "HFCL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "UNIONBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        7
+      ]
+    },
     {
       "symbol": "ICICIBANK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0
+        8
       ]
     },
     {
@@ -32,7 +56,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0
+        8
       ]
     },
     {
@@ -40,24 +64,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1,
-        5
-      ]
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "YESBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        8
+        9
       ]
     },
     {
@@ -66,15 +73,6 @@
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         16
-      ]
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
-      "articleIds": [
-        16,
-        17
       ]
     },
     {
@@ -88,6 +86,15 @@
       ]
     },
     {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        16,
+        17
+      ]
+    },
+    {
       "symbol": "BAJFINANCE",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
@@ -96,21 +103,21 @@
       ]
     }
   ],
-  "summary": "On the last trading day, Indian benchmarks crashed as Sensex fell 876 points, led by sharp losses in banking and IT stocks. While Jio Platforms' IPO drew record anchor bids, SBI faced reports of a potential data breach affecting 3.75 lakh accounts. The market is closed today for an NSE holiday and will resume trading on Wednesday.",
-  "updatedAt": "2026-10-20T01:31:59.756Z",
+  "summary": "On the last trading day, Indian indices crashed with the Sensex falling over 876 points due to pressure in banking and IT sectors. Today, the market is closed for an NSE holiday and will reopen on Wednesday. Corporate earnings remain in focus with HFCL and UltraTech Cement reporting significant profit growth.",
+  "updatedAt": "2026-10-20T02:02:31.592Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-20",
   "articleKeys": [
+    "oil eases as markets assess potential waiver on russian energy middle east supply risks",
+    "hfcl q2 net profit jumps 448 to rs 394 crore",
+    "steelmakers may outperform nonferrous peers in q2 as higher volumes support earnings",
+    "ultratech cement q2 net profit up 21 in september quarter",
+    "ed freezes trading accounts in scam tied to social media",
+    "maharajah bonds gain investor appeal with tds exemption",
+    "nse bse to hold diwali muhurat trading on november 8",
+    "union bank q2 net profit up 30 as margins improve",
     "brokerages back icici bank on strong q2 earnings see hdfc bank recovery ahead",
     "jio platforms ipo draws rs 25 lakh crore in anchor bids",
-    "banking stocks high oil prices drag indian markets lower",
-    "apple india in sweet spot as fy26 revenue crosses rs 1 lakh crore profit soars",
-    "us stocks today nasdaq leads wall street gains as chip ai stocks rebound",
-    "jio platforms anchor book draws record 25 lakh crore in bids ahead of ipo",
-    "sbi data breach claim hackers allegedly access 375 lakh accounts",
-    "rbi injects rs 1 lakh crore as liquidity tightens before festive season",
-    "yes banks evaluating capital actions to back growth plans",
-    "hedge funds retreat from tech at fastest pace in a decade as ai trade weakens",
     "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
     "stock market highlights for october 19 2026 sensex tumbles 87637 points to settle at 7385290 nifty drops to 2288895 the times of india",
     "stock market down bulls lose ground sensex sinks nearly 900 points nifty ends below 22900 5 key trigg the economic times",
@@ -124,6 +131,54 @@
   ],
   "articles": [
     {
+      "title": "Oil eases as markets assess potential waiver on Russian energy, Middle East supply risks",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-eases-as-markets-assess-potential-waiver-on-russian-energy-middle-east-supply-risks/articleshow/135059323.cms",
+      "publishedAt": "Tue, 20 Oct 2026 06:56:33 +0530"
+    },
+    {
+      "title": "HFCL Q2 net profit jumps 448% to Rs 394 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hfcl-q2-net-profit-jumps-448-to-rs-394-crore/articleshow/135059308.cms",
+      "publishedAt": "Tue, 20 Oct 2026 06:54:08 +0530"
+    },
+    {
+      "title": "Steelmakers may outperform non-ferrous peers in Q2 as higher volumes support earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/steelmakers-may-outperform-non-ferrous-peers-in-q2-as-higher-volumes-support-earnings/articleshow/135059274.cms",
+      "publishedAt": "Tue, 20 Oct 2026 06:48:51 +0530"
+    },
+    {
+      "title": "UltraTech Cement Q2 net profit up 21% in September quarter",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-net-profit-up-21-in-september-quarter/articleshow/135059234.cms",
+      "publishedAt": "Tue, 20 Oct 2026 06:38:06 +0530"
+    },
+    {
+      "title": "ED freezes trading accounts in scam tied to social media",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ed-freezes-trading-accounts-in-scam-tied-to-social-media/articleshow/135059209.cms",
+      "publishedAt": "Tue, 20 Oct 2026 06:33:49 +0530"
+    },
+    {
+      "title": "Maharajah Bonds gain investor appeal with TDS exemption",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/maharajah-bonds-gain-investor-appeal-with-tds-exemption/articleshow/135059192.cms",
+      "publishedAt": "Tue, 20 Oct 2026 06:28:57 +0530"
+    },
+    {
+      "title": "NSE, BSE to hold Diwali Muhurat trading on November 8",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-bse-to-hold-diwali-muhurat-trading-on-november-8/articleshow/135059161.cms",
+      "publishedAt": "Tue, 20 Oct 2026 06:20:51 +0530"
+    },
+    {
+      "title": "Union Bank Q2 net profit up 30% as margins improve",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/union-bank-q2-net-profit-up-30-as-margins-improve/articleshow/135059129.cms",
+      "publishedAt": "Tue, 20 Oct 2026 06:14:43 +0530"
+    },
+    {
       "title": "Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-back-icici-bank-on-strong-q2-earnings-see-hdfc-bank-recovery-ahead/articleshow/135059089.cms",
@@ -134,54 +189,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
       "publishedAt": "Tue, 20 Oct 2026 05:56:17 +0530"
-    },
-    {
-      "title": "Banking stocks, high oil prices drag Indian markets lower",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/banking-stocks-high-oil-prices-drag-indian-markets-lower/articleshow/135058914.cms",
-      "publishedAt": "Tue, 20 Oct 2026 05:35:48 +0530"
-    },
-    {
-      "title": "Apple India in sweet spot as FY26 revenue crosses Rs 1 lakh crore, profit soars",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-india-in-sweet-spot-as-fy26-revenue-crosses-rs-1-lakh-crore-profit-soars/articleshow/135058877.cms",
-      "publishedAt": "Tue, 20 Oct 2026 05:30:00 +0530"
-    },
-    {
-      "title": "US stocks today: Nasdaq leads Wall Street gains as chip, AI stocks rebound",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-gains-as-chip-ai-stocks-rebound/articleshow/135056194.cms",
-      "publishedAt": "Tue, 20 Oct 2026 01:48:35 +0530"
-    },
-    {
-      "title": "Jio Platforms' anchor book draws record ₹2.5 lakh crore in bids ahead of IPO",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/jio-platforms-anchor-book-draws-record-25-lakh-crore-in-bids-ahead-of-ipo/article71603087.ece",
-      "publishedAt": "Tue, 20 Oct 2026 01:47:32 +0530"
-    },
-    {
-      "title": "SBI data breach claim: Hackers allegedly access 3.75 lakh accounts",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-data-breach-claim-hackers-allegedly-access-3-75-lakh-accounts/articleshow/135059062.cms",
-      "publishedAt": "Tue, 20 Oct 2026 01:23:13 +0530"
-    },
-    {
-      "title": "RBI injects Rs 1 lakh crore as liquidity tightens before festive season",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-injects-rs-1-lakh-crore-as-liquidity-tightens-before-festive-season/articleshow/135059068.cms",
-      "publishedAt": "Tue, 20 Oct 2026 01:17:23 +0530"
-    },
-    {
-      "title": "Yes Bank's evaluating capital actions to back growth plans",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-banks-evaluating-capital-actions-to-back-growth-plans/articleshow/135059065.cms",
-      "publishedAt": "Tue, 20 Oct 2026 01:14:25 +0530"
-    },
-    {
-      "title": "Hedge funds retreat from tech at fastest pace in a decade as AI trade weakens",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/hedge-funds-retreat-from-tech-at-fastest-pace-in-a-decade-as-ai-trade-weakens/articleshow/135055531.cms",
-      "publishedAt": "Tue, 20 Oct 2026 00:46:29 +0530"
     },
     {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
@@ -228,7 +235,7 @@
     {
       "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex plunges 876 pts, Nifty ends below 22,900; TMPV, Infy drop 3% each - The Economic Times",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbkhWNG5wTWNtS2Y2aDB1OVhSWlpneGlZRFZreUJzWFRIUjI2VnF2X2tWNlp2bUdLc2JteVh2LXd3dkVGajZhMGhBX2hLLWxRcmc0TmdVSFFQSEdjajJib0FSNUhMaEhqSDhxenpSZzVsOHNtVEZxSzdCblJ5NngzMk1HWlVMenRheEhmTWoxSEJfS01icHpUc1Z0dVVWT2xOOTFOTHZaX0hZcjQyUzhLdmtmOVpFeVg5U3Z4LUN0Q0J6YmdMNldRTmIxR3hxc01ncGJTNVJIS3pZVmxMV3NYemhIWlpnLTlaYjdXSTJ3RnFiTEp1MXExNUhRSkcyaUM4aHlTZ2JJaW1FN0FsLWxmTA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbkhWNG5wTWNtS2Y2aDB1OVhSWlpneGlZRFZreUJzWFRIUjI2VnF2X2tWNlp2bUdLc2JteVh2LXd3dkVGajZhMGhBX2hLLWxRcmc0TmdVSFFQSEdjajJib0FSNUhMaEhqSDhxenpSZzVsOHNtVEZxSzdCblJ5NngzMk1HWlVMenRheEhmTWoxSEJfS01icHpUc1Z0dVVWT2xOOTFOTHZaX0hZcjQyUzhLdmtmOVpFeVg5U3Z4LUN0Q0J6YmdMNldRTmIxR3hxc01ncGJTNVJIS3pZVmxMV3NYemhIWlpnLTlaYjdXSTJ3RnFiTEp1MXExNUhRSkcyaUM4aHlTZ2JJaW1FN0FsLWxmTNIBlgJBVV95cUxNM0xpZjFpU1FPTGZqOG5BMVI5clBXWVdFU2M2enItLS1aR2VrUVJyUlNqVExOU0FHWUFmcDNvTGFaSnpST0JOcFN5MVVNWUJWOS0tMm81bVFWT1NQU1FyVVpMOWxURzVEZGp2UnZ2dHl0alAwbnUteENMVzVnVVhfY21PdTNOU2dTUlpVeUxNM0xkcUNiUGdZVWtpcEI3S3lMZWNCbVhvb2tURGRjOHd6N1lNSW1uZWpUbkJMOHpmQl9qeERVQjBkQzhLNDdvUjNlRG1JRi1mZmdlY1loOFVSRGsyOEZ3N3B3UkRXbHBHQm96QzE1dlRPN2dneEhTVnNJWGQ0cjYyVFNFRElLVmZTMDNwX0JqZw?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 10:42:29 GMT"
     },
     {
