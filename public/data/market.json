@@ -1,48 +1,56 @@
 {
-  "headline": "Last session: Indian markets crashed as Sensex plunged over 870 points led by banking and IT losses",
+  "headline": "On last trading day, Sensex crashed 1,000 points as banking and IT stocks led a major market sell-off",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Thursday, 22 October.",
-    "nextOpen": "Thursday, 22 October"
+    "nextOpen": "Thursday, 22 October 2026"
   },
   "why": [
-    "Indian stock markets are closed today, October 20, 2026, on account of Dussehra.",
-    "In the last trading session on October 19, Sensex plunged between 876 and 1,000 points while Nifty dropped below 22,900.",
-    "Banking and IT sector stocks led the sharp selloff in the market on Monday.",
-    "Investors lost approximately Rs 5 lakh crore in market capitalization during the previous session's crash."
+    "Banking and IT stocks led the losses during the previous trading session on Monday",
+    "Investors lost approximately Rs 5 lakh crore as major indices tanked significantly",
+    "The Sensex plunged over 900 points, causing the Nifty50 to drop below the 22,900 level",
+    "Broad-based selling pressure across sectors contributed to the sharp market crash"
   ],
   "whatHappening": [
-    "BSE, NSE, and MCX are shut for trading today due to the Dussehra holiday.",
-    "Harish Bhat resigned as non-executive and non-independent director of Trent.",
-    "On Monday's trading session, Nifty dropped 1.11% as heavy selling hit key sectoral indices.",
-    "Delhi airport reported passenger traffic of 38.5 million during the first half of FY27."
+    "Indian stock markets are closed today, October 20, 2026, for the Dussehra holiday",
+    "Reports indicate hackers claim to have accessed confidential data of 3.75 lakh SBI accounts",
+    "Akash Ambani emphasized Jio's identity as a technology company ahead of its planned IPO",
+    "US Senator Marco Rubio met with Jaishankar in Mumbai to discuss energy as a transformative alternative"
   ],
   "stocksInNews": [
     {
-      "symbol": "TRENT",
-      "sentiment": "Neutral",
+      "symbol": "SBIN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         2
       ]
     }
   ],
-  "summary": "Indian stock markets (BSE and NSE) are closed today, October 20, 2026, for the Dussehra holiday.\nIn the last trading session on Monday, benchmark indices suffered a massive crash with Sensex losing over 870 points and Nifty falling below 22,900.\nBanking and IT stocks spearheaded the downturn, causing investors to lose around Rs 5 lakh crore in market value.",
-  "updatedAt": "2026-10-20T13:31:54.232Z",
+  "summary": "The Indian stock market is closed today for Dussehra after a volatile Monday session where the Sensex crashed nearly 1,000 points. Investors lost Rs 5 lakh crore as banking and IT stocks faced heavy selling pressure, dragging the Nifty below 22,900. Corporate news remains active with reports of a data breach at SBI and Jio's technology-focused IPO positioning.",
+  "updatedAt": "2026-10-20T13:49:16.076Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-20",
   "articleKeys": [
-    "uk woman spends rs 37 lakh on content creation degree internet asks worth it",
-    "what is form 173a cbdts new mandatory rule for claiming tax exemption on govt securities",
-    "harish bhat resigns as nonexecutive and nonindependent director of trent",
-    "dow jones nasdaq sampp 500 us stock market today live updates nasdaq futures slip as oil rises ai stocks weaken ahead of earnings",
-    "india is a refining superpower can process venezuelan oil marco rubio",
-    "planning a thailand trip you may soon pay over rs 4100 in new entry and exit fees",
-    "galaxy s25 edge amazon deal price exchange offer bank discount",
-    "latenight navratri outing turns tragic two ashram school students die in bike crash 3 critical",
-    "delhi airports passenger traffic rises to 385 mn in first half of fy27",
-    "general motors stock crashes 5 premarket after earnings release what spooked investors",
+    "hackers claim access to confidential data of 375 lakh sbi accounts report",
+    "rubio pitches us energy as transformative alternative for india in mumbai meet with jaishankar",
+    "jio is a technology company not just a telco akash ambani ahead of ipo",
+    "hilton to move stock listing to nasdaq",
+    "chinas catl thirdquarter profit growth slowest in nearly two years as competition intensifies",
+    "apples pro and tell event on october 28 macbook pro imac and ipad mini upgrades expected",
+    "deepika ranveer reveal second daughters name as devi padukone singh share first family photo",
+    "jailer 2 box office day 6 rajinikanth starrer holds strong as action drama continues its theatrical run",
+    "iphone 18 could get a wider camera module suggest images ahead of rumoured 2027 launch",
+    "ramayana overseas advance bookings cross 1 million as india sales open",
     "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
     "stock market holiday today bse nse to remain closed for dussehra moneycontrolcom",
     "stock market holiday bse nse shut for trading today due to dussehra business standard",
@@ -56,64 +64,64 @@
   ],
   "articles": [
     {
-      "title": "UK Woman Spends Rs 37 Lakh On Content Creation Degree, Internet Asks: 'Worth It?'",
+      "title": "Hackers Claim Access To Confidential Data Of 3.75 Lakh SBI Accounts: Report",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/uk-woman-spends-rs-37-lakh-on-content-creation-degree-internet-asks-worth-it-12210977#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 17:42:57 +0530"
+      "link": "https://www.ndtvprofit.com/business/hackers-claim-access-to-confidential-data-of-3-75-lakh-sbi-accounts-report-12211082#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 18:53:40 +0530"
     },
     {
-      "title": "What Is Form 173A? CBDT's New Mandatory Rule For Claiming Tax Exemption On Govt Securities",
+      "title": "Rubio Pitches US Energy As Transformative' Alternative For India In Mumbai Meet With Jaishankar",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/what-is-form-173a-cbdts-new-mandatory-rule-for-claiming-tax-exemption-on-govt-securities-12210747#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 17:41:03 +0530"
+      "link": "https://www.ndtvprofit.com/world/rubio-pitches-us-energy-as-transformative-alternative-for-india-in-mumbai-meet-with-jaishankar-12211323#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 18:53:19 +0530"
     },
     {
-      "title": "Harish Bhat resigns as non-executive and non-independent director of Trent",
+      "title": "Jio is a technology company, not just a telco: Akash Ambani ahead of IPO",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/harish-bhat-resigns-as-non-executive-and-non-independent-director-of-trent-126102000571_1.html",
-      "publishedAt": "Tue, 20 Oct 2026 17:35:01 +0530"
+      "link": "https://www.business-standard.com/companies/news/jio-is-a-technology-company-not-just-a-telco-akash-ambani-ahead-of-ipo-126102000661_1.html",
+      "publishedAt": "Tue, 20 Oct 2026 18:44:45 +0530"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: Nasdaq futures slip as oil rises, AI stocks weaken ahead of earnings",
+      "title": "Hilton to move stock listing to Nasdaq",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-treasury-yields-earnings-forecast-nvidia-macys-gamestop-stock-price-news-20th-september-2026/liveblog/135069926.cms",
-      "publishedAt": "Tue, 20 Oct 2026 17:31:22 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hilton-to-move-stock-listing-to-nasdaq/articleshow/135070768.cms",
+      "publishedAt": "Tue, 20 Oct 2026 18:43:06 +0530"
     },
     {
-      "title": "India is a refining superpower, can process Venezuelan oil: Marco Rubio",
+      "title": "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/india-is-a-refining-superpower-can-process-venezuelan-oil-marco-rubio-126102000549_1.html",
-      "publishedAt": "Tue, 20 Oct 2026 17:30:58 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinas-catl-third-quarter-profit-growth-slowest-in-nearly-two-years-as-competition-intensifies/articleshow/135070675.cms",
+      "publishedAt": "Tue, 20 Oct 2026 18:38:17 +0530"
     },
     {
-      "title": "Planning A Thailand Trip? You May Soon Pay Over Rs 4,100 In New Entry And Exit Fees",
+      "title": "Apple’s 'Pro and Tell’ Event On October 28: MacBook Pro, iMac And iPad Mini Upgrades Expected",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/planning-a-thailand-trip-you-may-soon-pay-over-rs-4-100-in-new-entry-and-exit-fees-12210347#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 17:19:48 +0530"
+      "link": "https://www.ndtvprofit.com/technology/apple-s-pro-and-tell-event-on-october-28-macbook-pro-imac-and-ipad-mini-upgrades-expected-12210894#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 18:34:48 +0530"
     },
     {
-      "title": "Galaxy S25 Edge Amazon Deal: Price, Exchange Offer, Bank Discount",
+      "title": "Deepika, Ranveer Reveal Second Daughter's Name As Devi Padukone Singh, Share First Family Photo",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/galaxy-s25-edge-amazon-deal-price-exchange-offer-bank-discount-12210320#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 17:19:30 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/deepika-padukone-ranveer-singh-reveal-second-daughter-s-name-as-devi-padukone-singh-share-first-family-photo-12211179#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 18:32:48 +0530"
     },
     {
-      "title": "Late-Night Navratri Outing Turns Tragic: Two Ashram School Students Die In Bike Crash, 3 Critical",
+      "title": "Jailer 2 Box Office Day 6: Rajinikanth Starrer Holds Strong As Action Drama Continues Its Theatrical Run",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/late-night-navratri-outing-turns-tragic-two-ashram-school-students-die-in-bike-crash-3-critical-12210798#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 17:11:47 +0530"
+      "link": "https://www.ndtvprofit.com/business/jailer-2-box-office-day-6-rajinikanth-starrer-holds-strong-as-action-drama-continues-its-theatrical-run-12210918#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 18:31:00 +0530"
     },
     {
-      "title": "Delhi airport's passenger traffic rises to 38.5 mn in first half of FY27",
+      "title": "iPhone 18 Could Get A Wider Camera Module, Suggest Images Ahead Of Rumoured 2027 Launch",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/aviation/delhi-airport-s-passenger-traffic-rises-to-38-5-mn-in-first-half-of-fy27-126102000522_1.html",
-      "publishedAt": "Tue, 20 Oct 2026 17:09:36 +0530"
+      "link": "https://www.ndtvprofit.com/technology/iphone-18-could-get-a-wider-camera-module-suggest-images-ahead-of-rumoured-2027-launch-12210787#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 18:30:07 +0530"
     },
     {
-      "title": "General Motors Stock Crashes 5% Pre-Market After Earnings Release. What Spooked Investors",
+      "title": "'Ramayana' Overseas Advance Bookings Cross $1 Million As India Sales Open",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/general-motors-stock-crashes-5-pre-market-after-earnings-release-what-spooked-investors-12210797#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 17:08:55 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/ramayana-overseas-advance-bookings-cross-1-million-as-india-sales-open-12210444#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 18:28:24 +0530"
     },
     {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
