@@ -1,22 +1,22 @@
 {
-  "headline": "Last session: Sensex crashed 876 points as Nifty fell below 22,900 amid heavy selling in banking and IT stocks.",
+  "headline": "On last trading day, Sensex tumbled 876 points while Nifty dropped below 22,900 amid heavy selling.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Thursday, 22 October.",
-    "nextOpen": "Thursday, 22 October 2026"
+    "nextOpen": "Thursday, 22 October"
   },
   "why": [
-    "Banking and IT stocks led the losses during the last trading session",
-    "Sensex crashed 876 points while Nifty 50 dropped below the 22,900 level",
-    "Selling pressure intensified across major sectors, causing a 1.11% drop in Nifty",
-    "PSU banks were among the few segments that bucked the negative trend"
+    "Market is closed today for the Dussehra holiday",
+    "Banking and IT stocks led losses in the previous session",
+    "Sensex fell 876 points on Monday due to broad selling pressure",
+    "Nifty settled below the 22,900 level in the last session"
   ],
   "whatHappening": [
-    "NSE and BSE are closed today, October 20, 2026, for the Dussehra holiday",
-    "Pune Police detained Schaeffler India's CEO in connection with a factory accident investigation",
-    "Akash Ambani highlighted the Jio IPO as a significant milestone for the Indian market",
-    "Garment exports are projected to potentially grow by 25% next year according to the ITF"
+    "NSE and BSE are shut today for Dussehra; trading resumes Thursday",
+    "Pune Police detained Schaeffler India CEO Harsha Kadam over a factory accident",
+    "Akash Ambani termed the Jio IPO a landmark for Indian capital markets",
+    "Aerospace and military contractors have increased their 2026 profit outlooks"
   ],
   "stocksInNews": [
     {
@@ -24,7 +24,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0
+        3
       ]
     },
     {
@@ -32,15 +32,18 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        6
+        9
       ]
     }
   ],
-  "summary": "Indian markets are closed today for Dussehra after the Sensex plummeted 876 points in the previous session. Banking and IT sectors led the decline, while PSU banks showed relative strength despite the broader market crash. Trading is scheduled to resume on Thursday, October 22.",
-  "updatedAt": "2026-10-20T15:02:02.809Z",
+  "summary": "Indian markets are closed today for Dussehra after the Sensex crashed 876 points in the previous session. Key news includes the detention of Schaeffler India's CEO and Akash Ambani's positive outlook on the Jio IPO. Trading is scheduled to resume on Thursday, October 22.",
+  "updatedAt": "2026-10-20T16:02:57.233Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-20",
   "articleKeys": [
+    "amazon targets nvidias software edge with new ai tool",
+    "ahead of market 10 things that will decide stock market action on wednesday",
+    "aerospace and military contractors raise 2026 profit forecasts",
     "pune police detain schaeffler india ceo harsha kadam over factory accident probe",
     "cristiano ronaldo from being undisputed portugal goat to being banned from national team what went wrong",
     "oppo reno 17 pro phone specs leak dual 200mp cameras widescreen dimensity chips and big batteries",
@@ -48,10 +51,7 @@
     "ramayana advance booking ranbir kapooryash starrer begins its countdown to a bigscreen debut",
     "mscitriggered crash exposes hidden risks rattling indonesias economy the reason why",
     "jio ipo is a landmark for indian capital markets says akash ambani",
-    "garment exports have the potential to grow 25 next year itf",
-    "doors of chardham shrines to close in november check date and time",
-    "rubio pitches us energy as transformative alternative for india in mumbai meet with jaishankar",
-    "closing bell sensex crashes 876 pts nifty below 22900 psu banks buck the trend moneycontrolcom",
+    "stock market highlights for october 19 2026 sensex tumbles 87637 points to settle at 7385290 nifty drops to 2288895 the times of india",
     "stock market holiday today bse nse to remain closed for dussehra moneycontrolcom",
     "stock market holiday bse nse shut for trading today due to dussehra business standard",
     "nifty sensex today stock market crashes as sensex falls 876 points nifty drops 111 banking and it stocks lead the losses india infoline",
@@ -63,6 +63,24 @@
     "stock market holiday on dussehra are nse bse mcx open or closed for trading on october 20 the times of india"
   ],
   "articles": [
+    {
+      "title": "Amazon targets Nvidia’s software edge with new AI tool",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/amazon-targets-nvidias-software-edge-with-new-ai-tool/article71604712.ece",
+      "publishedAt": "Tue, 20 Oct 2026 20:48:55 +0530"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms",
+      "publishedAt": "Tue, 20 Oct 2026 20:42:11 +0530"
+    },
+    {
+      "title": "Aerospace and military contractors raise 2026 profit forecasts",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
+      "publishedAt": "Tue, 20 Oct 2026 20:39:22 +0530"
+    },
     {
       "title": "Pune Police Detain Schaeffler India CEO Harsha Kadam Over Factory Accident Probe",
       "source": "Zerodha Pulse",
@@ -106,28 +124,10 @@
       "publishedAt": "Tue, 20 Oct 2026 19:33:39 +0530"
     },
     {
-      "title": "Garment exports have the potential to grow 25% next year: ITF",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/garment-exports-have-the-potential-to-grow-25-next-year-itf/article71604867.ece",
-      "publishedAt": "Tue, 20 Oct 2026 19:31:36 +0530"
-    },
-    {
-      "title": "Doors Of Chardham Shrines To Close In November: Check Date And Time",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/portals-of-chardham-shrines-to-close-in-november-check-date-and-time-12211481#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 19:30:09 +0530"
-    },
-    {
-      "title": "Rubio Pitches US Energy As 'Transformative' Alternative For India In Mumbai Meet With Jaishankar",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/rubio-pitches-us-energy-as-transformative-alternative-for-india-in-mumbai-meet-with-jaishankar-12211323#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 19:21:55 +0530"
-    },
-    {
-      "title": "Closing Bell: Sensex crashes 876 pts, Nifty below 22,900; PSU banks buck the trend - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOME5jeVRBaWF1d2V2M2NTOXJXOTg2ZEUtWWpTMm85Z3BmZk9GQWZpUDMtbTc4UkVwaGpneThVNDRhWnRZUmk3UGpxU21IcUR1cnlLdmgwdDU5b0hxOEt0TE9OTGo4Yk9MVlV1VXZiWFBtV3pFaDR1T3AzbURvalpyN3VZQWxEbnBkaUVIcjkxNXg5WmEzbGtBa0VOQkJjczhBemN5UTRVWF82cVBacEZTZlp5WjJxTEVna1FsOEdtOW0tVkJvTFUzMDRHeDZNTkF5Q2x5VWZpeTl0R0ZHMHhpYnZHdGdJckJxTENSdGNiRjBRMWJZbmxFYTMyWHpmUFMtTllXc3piUWx0d3ZERmF5dmVzS20zRG9YR3pLcEhrbVN3enPSAagCQVVfeXFMTU5fSm03QnFZNm93a05FWFE0aFhPRS0yR3Brb1N6cXVaZHM5d1hPRTNBXzY5d29RMHp5VnZCUE55enZqQl9WbEx5UFh1R3RQY05SNXhUQ1l6WGhuVlpNZnBTMUZRbWJjamdSSWRWUEI5b0EzeFE4Nmx5OUNjaUNsRDc1NHJtMTU1MjI0R0pKQWxZQmg0R1ZKeGQyNTJfR3lZU1U1UWhiV201NDR6N1ZCS01oQ3BmUzFGYUNDOUpaNG1PeC14THNaV0pjZTNPZk03S1hWVEF0clV1SWVXRFRqekJOOGFyM2hocmF3VjQ2Nm40aHowT3ltX19kMkNxbTFfbW1oNVQtZkJzLUc1VkRQemMtSUFYem9jcE9vaVlWSEFnTzdmaG5QT04?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 10:36:09 GMT"
+      "title": "Stock Market Highlights For October 19, 2026: Sensex tumbles 876.37 points to settle at 73,852.90; Nifty drops to 22,888.95 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNMzdELWs1MUo4Mk4yZXpKQi1TRjdFWkRrOWM5cWpRcFYtX0Y2b0dvRno4OUhjLVdURXZjRWNPSFYtam9RZXp2ZkJENldfRnNZREc1WmNteVM0S3pld3JBcDlXbS03aHlmakxhSWc2YkRJbktUcnlyN1pWVFltcGlrUWVxS0VFbXo4N3Z0TmZuOHd1ejBxdE5sQUZXM19aeFhSVmE2SndidUlWZU1CME94VE1wcjZWaWRGN3NZYlBBeElVeVZ2YWpxc1FMV3gzcnVDaW5FRHNaN1JJSXZqWXFuS18yRGxXMjIwNFlUQ1ZvX3BWVUIzM2twaThDTU1nbkdrQ0c2UV9NeGxJNHE2X2w3V0lid0FEUzlqLWUwVXcwcV83WGdoZTlBN2Nnb2FWejNWb0t6ZdIBugJBVV95cUxQdkNjLVdEdEFOaS1YV1F2MjR6bzdGWWZoTUdBTTBLLTRGd1ZmS2VLYXhRdl84bHEwcEtyTl9NQnVMLUhpUEhfTmJxLTk4R05NbWNrQURvSHh1RW9qMWlnMEdteWhMbDRObmQ3WFpRUG56TjQ2TjhyVHRiV0tndW5wNGwxMFNJckJnUUNPTTA2ZFk3bjZqWDZlUGtzUmI4LTZkZjdPTGR2S19SbkRqYnlXejFDX2hzcFIybVVra1h5aFRIVmg2SG5ab0ttbFdab3Z2MmxIMk1kNFhFT3N6cWxRRFI5a0xUellLWFdNZDh4T1RIMnhPSEFKeXpsQ0FXVTNpUU5GTEVBTFVJYzdIVUNOa19tRUdUMjQ3MUlxMDhBX2Q5RXRCYUU0SnczMmp6azE5UzZVN1ZTdC1CQQ?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 10:19:38 GMT"
     },
     {
       "title": "Stock market holiday today: BSE, NSE to remain closed for Dussehra - Moneycontrol.com",
