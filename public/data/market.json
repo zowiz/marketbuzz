@@ -1,5 +1,5 @@
 {
-  "headline": "Indian stock market closed today for Dussehra; Sensex fell 876 points in last trading session",
+  "headline": "On last trading day, Sensex and Nifty crashed as banking and IT stocks led a sharp sell-off",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,43 +7,68 @@
     "nextOpen": "Wednesday, 21 October 2026"
   },
   "why": [
-    "BSE and NSE are closed on Tuesday, October 20, 2026, due to the Dussehra holiday.",
-    "On the last trading day, Sensex crashed 876 points and Nifty dropped 1.11% as investors lost Rs 5 lakh crore.",
-    "Private banking and IT stocks led the market drop during the previous session.",
-    "Anticipation around major upcoming issues like the Jio IPO opening on October 21 is driving market focus."
+    "Banking and IT stocks led significant losses during the previous trading session",
+    "Investors lost approximately Rs 5 lakh crore as the Sensex and Nifty plummeted",
+    "NSE and BSE are closed today, October 20, in observance of the Dussehra holiday",
+    "Weakening China and Hong Kong shares impacted global market sentiment"
   ],
   "whatHappening": [
-    "Stock exchanges BSE, NSE, and commodity markets are closed today for Dussehra.",
-    "Trading on Indian stock markets will resume on Wednesday, October 21.",
-    "In the previous session, Sensex fell up to 1,000 points dragged by private bank and IT shares.",
-    "Jio IPO grey market premium (GMP) reached 22% ahead of its opening on October 21."
+    "Sensex crashed by 876 points while Nifty dropped 1.11% in the last session",
+    "Paras Healthcare secured Rs 652 crore from anchor investors ahead of its IPO opening on October 21",
+    "UltraTech Cement is considering price hikes to offset rising fuel costs squeezing its margins",
+    "Bajaj Finance is in focus following the release of its second-quarter financial results"
   ],
   "stocksInNews": [
     {
-      "symbol": "BHARTIARTL",
+      "symbol": "ULTRACEMCO",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2
+        6
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "PARAS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        4
       ]
     }
   ],
-  "summary": "Indian stock exchanges BSE and NSE are closed today, October 20, for Dussehra.\nIn the last trading session, Sensex and Nifty fell over 1% led by losses in banking and IT stocks.\nTrading will resume on Wednesday, October 21, as investors track upcoming market events like the Jio IPO.",
-  "updatedAt": "2026-10-20T05:01:42.249Z",
+  "summary": "The Indian stock market is closed today for Dussehra after the Sensex and Nifty crashed over 1% in the previous session. Banking and IT sectors dragged the indices down, resulting in a Rs 5 lakh crore loss in investor wealth. Key corporate updates include UltraTech Cement's margin pressures and Paras Healthcare's upcoming IPO.",
+  "updatedAt": "2026-10-20T06:01:44.052Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-20",
   "articleKeys": [
-    "jio ipos gmp rises to 22 as indias largest ever issue set to open on october 21 should you subscribe",
-    "koreas kospi crashes another 5 as ai rout deepens ai bellwether down over 40 from peak",
-    "jio ipo vs airtel shares which telecom giant offers greater valuation comfort to investors",
-    "warren buffett warned about stock valuations but berkshire hathaway is aggressively purchasing stocks",
-    "from 228 a gb to 75 how mukesh ambanis jio rewired indias internet and is now seeking a 10 lakh crore valuation",
-    "how peter lynch turned fidelity magellan funds 18 million into 14 billion in 13 years",
-    "global market south koreas elice shares plunge 28 in market debut as data centre stocks shunned",
-    "global market japans nikkei falls as higher yields inflation fears weigh",
-    "houthi strike kills 58 at yemen army camp as fighting intensifies across country",
-    "da hike after dussehra what central government employees are waiting for",
+    "govt has no plans to regulate airfares may cap prices during emergencies",
+    "global market china and hong kong shares weaken as stable growth eases stimulus bets",
+    "japans 2ndlargest bank leases property in mumbais bkc for rs 189 crore for 5 years",
+    "jaguar unveils 130000 pound electric car in uk brands reboot",
+    "paras healthcare secures rs 652 cr from anchor investors ipo to open on oct 21",
+    "rubio begins india visit to hold crucial talks with jaishankar in mumbai",
+    "ultratech cement sees further cement price hikes as fuel costs squeeze margins",
+    "china slaps export curbs on more drones and industrial machinery",
+    "buying a flat realty firm reveals the hidden factor that can make an apartment more attractive",
+    "bajaj finance shares to be in focus after q2 results should you buy sell or hold the nbfc stock",
     "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
+    "stock market holiday on dussehra are nse bse mcx open or closed for trading on october 20 the times of india",
     "stock market holiday bse nse shut for trading today due to dussehra business standard",
     "nifty sensex today stock market crashes as sensex falls 876 points nifty drops 111 banking and it stocks lead the losses india infoline",
     "sensex crashes 1000 points why is stock market down today india today",
@@ -51,75 +76,80 @@
     "stock market holiday today bse nse to remain closed for dussehra moneycontrolcom",
     "stock market holiday 2026 are nse bse closed on october 20 for dussehra check remaining holidays for th the economic times",
     "dussehra 2026 stock market holiday today or not nse bse to remain open or closed on 20 oct tuesday exchange calendar livemint",
-    "sensex nifty end in red as private banks it stocks drag markets india today",
-    "stock market holiday on dussehra are nse bse mcx open or closed for trading on october 20 the times of india"
+    "sensex nifty end in red as private banks it stocks drag markets india today"
   ],
   "articles": [
     {
-      "title": "Jio IPO’s GMP rises to 22% as India’s largest ever issue set to open on October 21. Should you subscribe?",
+      "title": "Govt has no plans to regulate airfares, may cap prices during emergencies",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-      "publishedAt": "Tue, 20 Oct 2026 09:52:31 +0530"
+      "link": "https://www.business-standard.com/india-news/govt-has-no-plans-to-regulate-airfares-may-cap-prices-during-emergencies-126102000197_1.html",
+      "publishedAt": "Tue, 20 Oct 2026 11:05:52 +0530"
     },
     {
-      "title": "Korea’s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
+      "title": "Global Market: China and Hong Kong shares weaken as stable growth eases stimulus bets",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
-      "publishedAt": "Tue, 20 Oct 2026 09:38:50 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-and-hong-kong-shares-weaken-as-stable-growth-eases-stimulus-bets/articleshow/135061983.cms",
+      "publishedAt": "Tue, 20 Oct 2026 10:52:35 +0530"
     },
     {
-      "title": "Jio IPO vs Airtel shares: Which telecom giant offers greater valuation comfort to investors?",
+      "title": "Japan's 2nd-largest bank leases property in Mumbai's BKC for Rs 189 crore for 5 years",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
-      "publishedAt": "Tue, 20 Oct 2026 09:30:00 +0530"
+      "link": "https://www.ndtvprofit.com/india/japanese-bank-smbc-leases-property-in-mumbais-bkc-for-rs-189-crore-for-5-years-12209329#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 10:35:55 +0530"
     },
     {
-      "title": "Warren Buffett warned about stock valuations but Berkshire Hathaway is aggressively purchasing stocks",
+      "title": "Jaguar Unveils 130,000 Pound Electric Car in UK Brand's Reboot",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-warned-about-stock-valuations-but-berkshire-hathaway-is-aggressively-purchasing-stocks/articleshow/135051738.cms",
-      "publishedAt": "Tue, 20 Oct 2026 09:30:00 +0530"
+      "link": "https://www.ndtvprofit.com/business/jaguar-unveils-130-000-pound-electric-car-in-uk-brands-reboot-12209308#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 10:31:28 +0530"
     },
     {
-      "title": "From ₹228 a GB to ₹7.5: How Mukesh Ambani’s Jio rewired India’s internet and is now seeking a ₹10 lakh crore valuation",
+      "title": "Paras Healthcare secures Rs 652 cr from anchor investors; IPO to open on Oct 21",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
-      "publishedAt": "Tue, 20 Oct 2026 09:30:00 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-secures-rs-652-cr-from-anchor-investors-ipo-to-open-on-oct-21/articleshow/135061692.cms",
+      "publishedAt": "Tue, 20 Oct 2026 10:28:38 +0530"
     },
     {
-      "title": "How Peter Lynch turned Fidelity Magellan Fund’s $18 million into $14 billion in 13 years",
+      "title": "Rubio begins India visit, to hold crucial talks with Jaishankar in Mumbai",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-peter-lynch-turned-fidelity-magellan-funds-18-million-into-14-billion-in-13-years/articleshow/135051656.cms",
-      "publishedAt": "Tue, 20 Oct 2026 09:30:00 +0530"
+      "link": "https://www.business-standard.com/external-affairs-defence-security/news/rubio-begins-india-visit-to-hold-crucial-talks-with-jaishankar-in-mumbai-126102000134_1.html",
+      "publishedAt": "Tue, 20 Oct 2026 10:23:36 +0530"
     },
     {
-      "title": "Global Market: South Korea's Elice shares plunge 28% in market debut as data centre stocks shunned",
+      "title": "UltraTech Cement Sees Further Cement Price Hikes As Fuel Costs Squeeze Margins",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-elice-shares-plunge-28-in-market-debut-as-data-centre-stocks-shunned/articleshow/135060541.cms",
-      "publishedAt": "Tue, 20 Oct 2026 08:53:42 +0530"
+      "link": "https://www.ndtvprofit.com/markets/ultratech-cement-sees-further-cement-price-hikes-as-fuel-costs-squeeze-margins-12209268#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 10:18:38 +0530"
     },
     {
-      "title": "Global Market: Japan's Nikkei falls as higher yields, inflation fears weigh",
+      "title": "China Slaps Export Curbs on More Drones and Industrial Machinery",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-as-higher-yields-inflation-fears-weigh/articleshow/135060522.cms",
-      "publishedAt": "Tue, 20 Oct 2026 08:50:23 +0530"
+      "link": "https://www.ndtvprofit.com/world/china-slaps-export-curbs-on-more-drones-and-industrial-machinery-12209248#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 10:10:49 +0530"
     },
     {
-      "title": "Houthi Strike Kills 58 At Yemen Army Camp As Fighting Intensifies Across Country",
+      "title": "Buying A Flat? Realty Firm Reveals The Hidden Factor That Can Make An Apartment More Attractive",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/houthi-strike-kills-58-at-yemen-army-camp-as-fighting-intensifies-across-country-12209023#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 08:49:21 +0530"
+      "link": "https://www.ndtvprofit.com/business/buying-a-flat-oberoi-realty-reveals-the-hidden-factor-that-can-make-an-apartment-more-attractive-12209224#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 10:03:51 +0530"
     },
     {
-      "title": "DA Hike After Dussehra? What Central Government Employees Are Waiting For",
+      "title": "Bajaj Finance Shares To Be In Focus After Q2 Results. Should You Buy, Sell Or Hold The NBFC Stock?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/da-hike-after-dussehra-what-central-government-employees-are-waiting-for-12208989#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 08:38:14 +0530"
+      "link": "https://www.ndtvprofit.com/markets/bajaj-finance-shares-to-be-in-focus-after-q2-results-should-you-buy-sell-or-hold-the-nbfc-stock-12209200#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 09:58:06 +0530"
     },
     {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr0gHDAUFVX3lxTE02Zk9MNDBpdm1fQlg5MVEzdkowOTlLQ1pZMUY1VDRoWERQMmwzVXJKaHBVaGdDR3lOWHdmeHN1ZG5uVG1ZRUliWTg4eHpDa21JUGxQdThZQjNPeTQ5dkxMbldPei1Gb1RJU1RjR1dLUGRGX0NWRVZyTDNXSGhUU1J6ZjBoYk51SGVDV2FPVzhpZ1VXNjFmMHM3T01ZLU82Q0w5Z2I1NUo2aFhpd3BoOUNISlkxZDBVWE1Na2F3TWo3Z3J4aw?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
+    },
+    {
+      "title": "Stock market holiday on Dussehra: Are NSE, BSE, MCX open or closed for trading on October 20 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQV2lhaUhXMWt4MEVJYmc4bWNFLThDY25IaG1KeHRjOVJocFpQSGJ3RzFMZ0lwQ3RueEg1ajN4ZHdtQmw5U25RT2p3U3NXRkxSekcwbVNjZTlKamoyRC1sMkhIZXluV2VYNHd1UmtxNUthaldiZkdMQ29pRl92M3ZEdENMaDN0RFZ2cXBGRnAtNl96dmR5cXllTjFhQVFoR1EzTlgwUkNQSHVEOEhENi1NV0lFRFh3bHFoM2pjREZpcDM2TTZnMEgzcG1DY29kajlobV9HSHB0dW1iUTRPa2plcVU4S0NyemdCMGVrZVNmb3lKMGJwMEdHbzhuc3JCS2VUTXN1cG9B0gGLAkFVX3lxTE85RlNCSVRvN1NvZ0g2VnMwUzNISlBMcE1BUXM3X25jYVFxenlvdV9uT3p1dFJHMGtMUlhlekJnRWVJcWhGeVdHNzVRQUdzMDZyOE1rd05Tb242a2NYTVJyUUVTb3U4Mk5qME1MLW9Ka2V0OFlyaDJuQmxDcDBBQkItTEN4c2RxN09Yd0JhZXBVd0NKUFZZNWtEakF0Q3VCVVRTZE5YSEpKTWVuZ0tYMHZGSnZKWTFveEVRa3N1dnVaTlREd3RCUm03ZEM5NzgySDVmMFQyYkk3eTBzXzJ2VTM3Qmhlb2RlY1ZMd3VYMkc3YVBrRTJSRkhhZDM5U1pOSkNXZW9QczJPZ2lESQ?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 02:42:00 GMT"
     },
     {
       "title": "Stock market holiday: BSE, NSE shut for trading today due to Dussehra - Business Standard",
@@ -168,12 +198,6 @@
       "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdWpja3REU2lGNkJZWWFXanJ0MDhUdGI0YzRJa0xNa01USmgwMWEtWF9uTHlyLWNmTGg4c1FyVGdMbi1ISEJsOVJYZE54eFVmZVBISXJVSERPdGRfdFBWUS1aeGdvZTlTSWpWTWMxU1lpWXBvRUhGWncxRUUzbW5PVHF1R0kyM1VuY0p3MUM5aE9GRkxuSTVxUlRZck51ekNlaVFiYk92NXNVZVVaendsN041RG11NjV1YlNlUE14aC1fSFBiTWpKXzIyMTZkX1NrQWhBWUdyVDZ4WEp1SVHSAeMBQVVfeXFMTzNRUW84cGJRc3FSU2lGcm9abHFtM2g1SWVIaE1tTDB5al8yVndkUzJCU3hUVFJiZkZLWG9OdWhwVHY2bEtLWmg5R2pBLUZQTWl6QjU3MEVJWFc4bXhpd3J3dFk4SWxRdm9fT2dQS2VocE0wbHNta3VYeEt6WnM4Qk9VVEVIZFlCVjZMMDdvSjNQNVVMTThtNmxaTzhPcHFrX2RRVXMwRnRtZGprb0Q2OC1kbXpkLUxydkY1ZkpidEdYMUdUbFBSNDd4bzlYV1dYWnl4aDBaTEFncXZPZUdLZC00LWc?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 10:06:32 GMT"
-    },
-    {
-      "title": "Stock market holiday on Dussehra: Are NSE, BSE, MCX open or closed for trading on October 20 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQV2lhaUhXMWt4MEVJYmc4bWNFLThDY25IaG1KeHRjOVJocFpQSGJ3RzFMZ0lwQ3RueEg1ajN4ZHdtQmw5U25RT2p3U3NXRkxSekcwbVNjZTlKamoyRC1sMkhIZXluV2VYNHd1UmtxNUthaldiZkdMQ29pRl92M3ZEdENMaDN0RFZ2cXBGRnAtNl96dmR5cXllTjFhQVFoR1EzTlgwUkNQSHVEOEhENi1NV0lFRFh3bHFoM2pjREZpcDM2TTZnMEgzcG1DY29kajlobV9HSHB0dW1iUTRPa2plcVU4S0NyemdCMGVrZVNmb3lKMGJwMEdHbzhuc3JCS2VUTXN1cG9B0gGLAkFVX3lxTE85RlNCSVRvN1NvZ0g2VnMwUzNISlBMcE1BUXM3X25jYVFxenlvdV9uT3p1dFJHMGtMUlhlekJnRWVJcWhGeVdHNzVRQUdzMDZyOE1rd05Tb242a2NYTVJyUUVTb3U4Mk5qME1MLW9Ka2V0OFlyaDJuQmxDcDBBQkItTEN4c2RxN09Yd0JhZXBVd0NKUFZZNWtEakF0Q3VCVVRTZE5YSEpKTWVuZ0tYMHZGSnZKWTFveEVRa3N1dnVaTlREd3RCUm03ZEM5NzgySDVmMFQyYkk3eTBzXzJ2VTM3Qmhlb2RlY1ZMd3VYMkc3YVBrRTJSRkhhZDM5U1pOSkNXZW9QczJPZ2lESQ?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 02:42:00 GMT"
     }
   ]
 }
