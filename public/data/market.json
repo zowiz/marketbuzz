@@ -1,64 +1,64 @@
 {
-  "headline": "On last trading day, Sensex crashed nearly 1,000 points as banking and IT stocks led a sharp decline",
+  "headline": "On last trading day, Sensex crashed 1,000 points as Nifty fell below 22,900 amid broad sell-off",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 21 October.",
-    "nextOpen": "Wednesday, 21 October 2026"
+    "nextOpen": "Wednesday, 21 October"
   },
   "why": [
-    "The NSE and BSE are closed today, October 20, 2026, in observance of the Dussehra holiday.",
-    "In the last session, the Sensex crashed nearly 1,000 points, wiping out Rs 5 lakh crore in wealth.",
-    "Banking and IT stocks led the market decline during Monday's significant sell-off.",
-    "The Nifty50 dropped 1.11%, closing below the 22,900 mark on the previous trading day."
+    "Banking and IT stocks led significant losses during the previous session",
+    "The Sensex plummeted by nearly 1,000 points during a broad market crash",
+    "Investors lost approximately Rs 5 lakh crore as indices tanked on Monday",
+    "Nifty 50 dropped 1.11% to finish the last session below the 22,900 mark"
   ],
   "whatHappening": [
-    "Paras Healthcare raised Rs 652.50 crore from anchor investors ahead of its Wednesday IPO opening.",
-    "PNB has issued a warning to its customers regarding a surge in AI-led cyberattacks and fraud.",
-    "Federal Bank is identified as a top stock recommendation for the upcoming trading session on Wednesday.",
-    "The India-New Zealand Free Trade Agreement has officially come into effect as of today, October 20."
+    "NSE and BSE are closed today, 20 October 2026, in observance of the Dussehra holiday",
+    "Reliance is in discussions regarding refining Venezuelan crude as India diversifies energy supplies",
+    "OYO-parent PRISM is reportedly halving its IPO fresh issue size to up to Rs 3,350 crore",
+    "Artha Bharat is shifting two GIFT City funds to Abu Dhabi citing tax hurdles"
   ],
   "stocksInNews": [
     {
-      "symbol": "PNB",
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "PRISM",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0
+        1
       ]
     },
     {
-      "symbol": "FEDERALBNK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "PARAS",
-      "sentiment": "Positive",
+      "symbol": "ARTHA",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         8
       ]
     }
   ],
-  "summary": "The Indian stock market is closed today for Dussehra following a volatile session on Monday where the Sensex crashed nearly 1,000 points. Banking and IT stocks led the losses, wiping out Rs 5 lakh crore in investor wealth. Trading will resume on Wednesday, October 21.",
-  "updatedAt": "2026-10-20T11:32:18.384Z",
+  "summary": "Indian markets are closed today for Dussehra following a sharp crash on Monday where the Sensex dropped 1,000 points. Banking and IT sectors led the decline, wiping out Rs 5 lakh crore in investor wealth. Meanwhile, Reliance's energy diversification and OYO-parent PRISM's IPO downsizing remain key points of interest.",
+  "updatedAt": "2026-10-20T12:02:27.748Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-20",
   "articleKeys": [
-    "pnb cautions customers of ailed cyberattacks amid cyber fraud surge",
-    "grocery to overtake mobiles as indias online retail market to cross 90 bn",
-    "market trading guide federal bank among 4 stock recommendations for wednesday",
-    "indianew zealand fta comes into force what changes from today",
-    "mysuru all set for grand dussehra 2026 celebrations 54yearold elephant to carry 750 kg golden savari",
-    "ill quit singing if you see him drinking mika singh defends daler mehndi over alcohol allegations",
-    "i am so sorry sonu nigam apologises to kannadigas over pahalgam remark ahead of bengaluru concert",
-    "us bars chinas deepseek from federal contracts orders removal from agency systems",
-    "ipo bound paras healthcare raises rs 65250 crore from anchor investors as issue set to open on october 21",
-    "durga puja celebrations sourav ganguly takes actor rajkummar rao pandal hopping in kolkata",
+    "qualcomm plans worldwide job cuts in performancefocused layoffs",
+    "oyoparent prism to nearly halve ipo fresh issue size to up to rs 3350 cr sources",
+    "french bond yields near 24year high as new protests loom",
+    "rubio says us to discuss refining venezuelan crude with reliance adds india made substantial progress in diversifying energy supplies",
+    "number of branded housing projects in india set to jump over 2fold in 6 years savills",
+    "us stocks 3m lifts annual profit forecast on cost controls price hikes",
+    "us stocks ge aerospace raises 2026 profit forecast as services strength drives growth",
+    "us stocks gms core profit rises 22 on strength of pickuptruck business",
+    "artha bharat to shift two gift city funds to abu dhabi over tax hurdles",
+    "qualcomm layoffs thousands of jobs to be trimmed globally starting november says report",
     "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
     "stock market holiday today bse nse to remain closed for dussehra moneycontrolcom",
     "stock market holiday bse nse shut for trading today due to dussehra business standard",
@@ -72,64 +72,64 @@
   ],
   "articles": [
     {
-      "title": "PNB cautions customers of AI-led cyberattacks amid cyber fraud surge",
+      "title": "Qualcomm plans worldwide job cuts in performance-focused layoffs",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/banking/pnb-cautions-customers-of-ai-led-cyberattacks-amid-cyber-fraud-surge-126102000455_1.html",
-      "publishedAt": "Tue, 20 Oct 2026 16:00:09 +0530"
+      "link": "https://www.business-standard.com/technology/tech-news/qualcomm-plans-worldwide-job-cuts-in-performance-focused-layoffs-126102000538_1.html",
+      "publishedAt": "Tue, 20 Oct 2026 17:02:19 +0530"
     },
     {
-      "title": "Grocery to overtake mobiles as India's online retail market to cross $90 bn",
+      "title": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/grocery-to-overtake-mobiles-as-india-s-online-retail-market-to-cross-90-bn-126102000451_1.html",
-      "publishedAt": "Tue, 20 Oct 2026 15:57:29 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-to-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr-sources/articleshow/135068962.cms",
+      "publishedAt": "Tue, 20 Oct 2026 17:00:10 +0530"
     },
     {
-      "title": "Market Trading Guide: Federal Bank among 4 stock recommendations for Wednesday",
+      "title": "French bond yields near 24-year high as new protests loom",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-federal-bank-among-4-stock-recommendations-for-wednesday/slideshow/135067773.cms",
-      "publishedAt": "Tue, 20 Oct 2026 15:48:27 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/french-bond-yields-near-24-year-high-as-new-protests-loom/articleshow/135068905.cms",
+      "publishedAt": "Tue, 20 Oct 2026 16:57:57 +0530"
     },
     {
-      "title": "India-New Zealand FTA comes into force: What changes from today",
+      "title": "Rubio says U.S. to discuss refining Venezuelan crude with Reliance, adds India made ‘substantial progress’ in diversifying energy supplies",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/india-new-zealand-fta-comes-into-force-what-changes-from-today-126102000422_1.html",
-      "publishedAt": "Tue, 20 Oct 2026 15:06:23 +0530"
+      "link": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece",
+      "publishedAt": "Tue, 20 Oct 2026 16:57:10 +0530"
     },
     {
-      "title": "Mysuru all set for grand Dussehra 2026 celebrations: 54-year-old elephant to carry 750 kg golden 'Savari'",
+      "title": "Number of branded housing projects in India set to jump over 2-fold in 6 years: Savills",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/mysuru-all-set-for-grand-dussehra-2026-celebrations-54-year-old-prashantha-will-carry-750-kg-golden-savari-12210167#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 14:39:59 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/number-of-branded-housing-projects-in-india-set-to-jump-over-2-fold-in-6-years-savills/articleshow/135068870.cms",
+      "publishedAt": "Tue, 20 Oct 2026 16:54:17 +0530"
     },
     {
-      "title": "'I'll Quit Singing If You See Him Drinking': Mika Singh Defends Daler Mehndi Over Alcohol Allegations",
+      "title": "US Stocks: 3M lifts annual profit forecast on cost controls, price hikes",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/i-ll-quit-singing-if-you-see-him-drinking-mika-singh-defends-daler-mehndi-over-alcohol-allegations-12209937#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 14:29:48 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-3m-lifts-annual-profit-forecast-on-cost-controls-price-hikes/articleshow/135068806.cms",
+      "publishedAt": "Tue, 20 Oct 2026 16:52:09 +0530"
     },
     {
-      "title": "'I Am So Sorry': Sonu Nigam Apologises To Kannadigas Over Pahalgam Remark Ahead Of Bengaluru Concert",
+      "title": "US Stocks: GE Aerospace raises 2026 profit forecast as services strength drives growth",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/i-am-so-sorry-sonu-nigam-apologises-to-kannadigas-over-pahalgam-remark-ahead-of-bengaluru-concert-12209783#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 14:22:19 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-ge-aerospace-raises-2026-profit-forecast-as-services-strength-drives-growth/articleshow/135068763.cms",
+      "publishedAt": "Tue, 20 Oct 2026 16:49:35 +0530"
     },
     {
-      "title": "US Bars China's DeepSeek From Federal Contracts, Orders Removal From Agency Systems",
+      "title": "US Stocks: GM's core profit rises 22% on strength of pickup-truck business",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/us-bars-chinas-deepseek-from-federal-contracts-orders-removal-from-agency-systems-12210086#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 14:16:21 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-gms-core-profit-rises-22-on-strength-of-pickup-truck-business/articleshow/135068643.cms",
+      "publishedAt": "Tue, 20 Oct 2026 16:47:32 +0530"
     },
     {
-      "title": "IPO bound Paras Healthcare raises Rs 652.50 crore from anchor investors as issue set to open on October 21",
+      "title": "Artha Bharat to shift two GIFT City funds to Abu Dhabi over tax hurdles",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-paras-healthcare-raises-rs-652-50-crore-from-anchor-investors-as-issue-set-to-open-on-october-21/articleshow/135065506.cms",
-      "publishedAt": "Tue, 20 Oct 2026 14:14:06 +0530"
+      "link": "https://www.business-standard.com/markets/news/artha-bharat-to-shift-two-gift-city-funds-to-abu-dhabi-over-tax-hurdles-126102000508_1.html",
+      "publishedAt": "Tue, 20 Oct 2026 16:37:17 +0530"
     },
     {
-      "title": "Durga Puja celebrations: Sourav Ganguly takes actor Rajkummar Rao Pandal hopping in Kolkata",
+      "title": "Qualcomm Layoffs: Thousands Of Jobs To Be Trimmed 'Globally' Starting November, Says Report",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/sourav-ganguly-takes-actor-rajkummar-rao-pandal-hopping-in-kolkata-12210040#publisher=newsstand",
-      "publishedAt": "Tue, 20 Oct 2026 14:13:19 +0530"
+      "link": "https://www.ndtvprofit.com/business/qualcomm-layoffs-thousands-of-jobs-to-be-trimmed-globally-starting-november-says-report-12210639#publisher=newsstand",
+      "publishedAt": "Tue, 20 Oct 2026 16:34:06 +0530"
     },
     {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
