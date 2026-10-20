@@ -1,5 +1,5 @@
 {
-  "headline": "Indian market reopens on Wednesday following earlier drop driven by elevated crude oil prices and global factors",
+  "headline": "Indian Markets Reopen After Holiday; OYO Halves IPO Size Amid Recovery Hopes From Monday's Crash",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,62 @@
     "nextOpen": ""
   },
   "why": [
-    "Markets faced heavy selling pressure on October 19 with Sensex dropping over 800 points and Nifty falling below 22,900.",
-    "Elevated crude oil prices were highlighted among key factors driving market declines.",
-    "Banking and IT stocks led the losses during the major market drop.",
-    "Global factors including US tariff uncertainty and inflation risks weighed on investor sentiment."
+    "Markets are reopening after the Dussehra holiday observed on October 20",
+    "Investors are reacting to a major crash on Monday where the Sensex dropped over 850 points",
+    "Global sentiment is mixed with US markets ending higher while tech stocks took a breather",
+    "Domestic industrial concerns are rising as newsprint manufacturers face a critical coal shortage"
   ],
   "whatHappening": [
-    "Indian stock markets reopen today, Wednesday, October 21, after being closed for Dussehra on October 20.",
-    "OYO parent is planning to nearly halve its IPO fresh issue size to up to ₹3,350 crore.",
-    "The festive e-commerce season started on a strong note with Flipkart daily active users reaching new highs.",
-    "US stocks ended higher as healthcare stocks boosted the Dow while tech took a breather."
+    "OYO's parent company Oravel Stays has decided to nearly halve its IPO fresh issue size",
+    "Flipkart achieved a new high in Daily Active Users during the start of the festive season",
+    "The Sensex and Nifty experienced a sharp decline on Monday led by Banking and IT sectors",
+    "US healthcare stocks boosted the Dow Jones, providing a positive lead for global markets"
   ],
-  "stocksInNews": [],
-  "summary": "Indian stock markets reopen for trading today following the Dussehra market holiday on October 20. In the previous trading session on October 19, markets crashed sharply with Sensex falling over 800 points led by banking and IT losses amid elevated crude oil prices. Traders are now monitoring global market cues and commodity trends for direction.",
-  "updatedAt": "2026-10-20T21:31:20.482Z",
+  "stocksInNews": [
+    {
+      "symbol": "SENSEX",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 6/9 sources",
+      "articleIds": [
+        10,
+        12,
+        13,
+        14,
+        17,
+        19
+      ]
+    },
+    {
+      "symbol": "NIFTY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 5/9 sources",
+      "articleIds": [
+        10,
+        12,
+        13,
+        17,
+        19
+      ]
+    },
+    {
+      "symbol": "OYO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "FLIPKART",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        7
+      ]
+    }
+  ],
+  "summary": "Indian markets reopen today following a holiday break and a sharp sell-off on Monday that wiped out significant investor wealth. While positive US cues and strong festive e-commerce data provide some optimism, concerns over coal shortages and high crude prices remain. Corporate attention is centered on OYO's revised IPO plans and Flipkart's record user engagement.",
+  "updatedAt": "2026-10-20T22:05:09.029Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-21",
   "articleKeys": [
@@ -34,7 +76,7 @@
     "festive ecommerce season off to strong start flipkart daus hit new high bofa report",
     "two men rearrested in uk on suspicion of assisting iran over suspected plot at usrun air base",
     "oyo parent to nearly halve ipo fresh issue size to up to 3350 crore",
-    "stock market highlights for october 19 2026 sensex tumbles 87637 points to settle at 7385290 nifty drops to 2288895 the times of india",
+    "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
     "stock market holiday today bse nse to remain closed for dussehra moneycontrolcom",
     "ahead of market 10 things that will decide stock market action on wednesday the economic times",
     "nifty sensex today stock market crashes as sensex falls 876 points nifty drops 111 banking and it stocks lead the losses india infoline",
@@ -107,10 +149,10 @@
       "publishedAt": "Tue, 20 Oct 2026 22:55:46 +0530"
     },
     {
-      "title": "Stock Market Highlights For October 19, 2026: Sensex tumbles 876.37 points to settle at 73,852.90; Nifty drops to 22,888.95 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNMzdELWs1MUo4Mk4yZXpKQi1TRjdFWkRrOWM5cWpRcFYtX0Y2b0dvRno4OUhjLVdURXZjRWNPSFYtam9RZXp2ZkJENldfRnNZREc1WmNteVM0S3pld3JBcDlXbS03aHlmakxhSWc2YkRJbktUcnlyN1pWVFltcGlrUWVxS0VFbXo4N3Z0TmZuOHd1ejBxdE5sQUZXM19aeFhSVmE2SndidUlWZU1CME94VE1wcjZWaWRGN3NZYlBBeElVeVZ2YWpxc1FMV3gzcnVDaW5FRHNaN1JJSXZqWXFuS18yRGxXMjIwNFlUQ1ZvX3BWVUIzM2twaThDTU1nbkdrQ0c2UV9NeGxJNHE2X2w3V0lid0FEUzlqLWUwVXcwcV83WGdoZTlBN2Nnb2FWejNWb0t6ZdIBugJBVV95cUxQdkNjLVdEdEFOaS1YV1F2MjR6bzdGWWZoTUdBTTBLLTRGd1ZmS2VLYXhRdl84bHEwcEtyTl9NQnVMLUhpUEhfTmJxLTk4R05NbWNrQURvSHh1RW9qMWlnMEdteWhMbDRObmQ3WFpRUG56TjQ2TjhyVHRiV0tndW5wNGwxMFNJckJnUUNPTTA2ZFk3bjZqWDZlUGtzUmI4LTZkZjdPTGR2S19SbkRqYnlXejFDX2hzcFIybVVra1h5aFRIVmg2SG5ab0ttbFdab3Z2MmxIMk1kNFhFT3N6cWxRRFI5a0xUellLWFdNZDh4T1RIMnhPSEFKeXpsQ0FXVTNpUU5GTEVBTFVJYzdIVUNOa19tRUdUMjQ3MUlxMDhBX2Q5RXRCYUU0SnczMmp6azE5UzZVN1ZTdC1CQQ?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 10:19:38 GMT"
+      "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr0gHDAUFVX3lxTE02Zk9MNDBpdm1fQlg5MVEzdkowOTlLQ1pZMUY1VDRoWERQMmwzVXJKaHBVaGdDR3lOWHdmeHN1ZG5uVG1ZRUliWTg4eHpDa21JUGxQdThZQjNPeTQ5dkxMbldPei1Gb1RJU1RjR1dLUGRGX0NWRVZyTDNXSGhUU1J6ZjBoYk51SGVDV2FPVzhpZ1VXNjFmMHM3T01ZLU82Q0w5Z2I1NUo2aFhpd3BoOUNISlkxZDBVWE1Na2F3TWo3Z3J4aw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
     },
     {
       "title": "Stock market holiday today: BSE, NSE to remain closed for Dussehra - Moneycontrol.com",
