@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty decline from day highs as crude oil prices surge and banking stocks drag",
+  "headline": "Sensex and Nifty end lower as RBI flags inflation; Mahindra Finance profits jump 55%",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,22 +7,22 @@
     "nextOpen": ""
   },
   "why": [
-    "Surging crude oil prices put downward pressure on benchmark indices.",
-    "Banking stocks dragged the market down, erasing early morning gains.",
-    "Sensex slumped over 900 points from its day high during the trading session.",
-    "RBI MPC flagged widening inflationary pressures."
+    "RBI MPC flagged widening inflationary pressures and maintained a hawkish stance.",
+    "Bajaj Finance shares fell 3%, leading the losers in the market.",
+    "Trent and Eicher Motors both dropped 2%, contributing to the decline in Nifty.",
+    "Late-session profit booking erased early gains made by the IT sector."
   ],
   "whatHappening": [
-    "Sensex declined 143.21 points to settle at 73,709.69 while Nifty dropped to 22,811.35.",
-    "Mahindra Finance reported a 55% jump in Q2 net profit to ₹882 crore on strong loan growth.",
-    "Navratri retail vehicle sales reached 11.23 lakh units led by two-wheelers and passenger vehicles.",
-    "IT stocks showed resilience and outperformed the broader weak market sentiment."
+    "Sensex declined 143.21 points to settle at 73,709.69.",
+    "Nifty 50 dropped to 22,811.35, failing to hold the 22,850 level.",
+    "Mahindra Finance reported a 55% rise in Q2 net profit to ₹882 crore.",
+    "Navratri retail vehicle sales reached 11.23 lakh units, led by two-wheelers."
   ],
   "stocksInNews": [
     {
       "symbol": "M&MFIN",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         5
       ]
@@ -30,14 +30,41 @@
     {
       "symbol": "WIPRO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 3/10 sources",
       "articleIds": [
-        7
+        7,
+        11,
+        18
+      ]
+    },
+    {
+      "symbol": "TRENT",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        12
+      ]
+    },
+    {
+      "symbol": "EICHERMOT",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        12
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/10 sources",
+      "articleIds": [
+        13,
+        16
       ]
     }
   ],
-  "summary": "Indian benchmark indices fell on October 21 after an early morning rally fizzled out. Sensex dropped 143 points to settle at 73,709.69, while Nifty ended near 22,811 amid spiking crude oil prices and banking sell-off. Mahindra Finance surged after posting a 55% increase in Q2 net profit.",
-  "updatedAt": "2026-10-21T17:01:53.261Z",
+  "summary": "The Indian market closed lower on Wednesday, with the Sensex dropping 143 points to 73,709.69. While IT stocks like Wipro showed early strength and Mahindra Finance reported a 55% profit jump, selling in Bajaj Finance and Eicher Motors dragged the indices down. Investors remained cautious following the RBI MPC's hawkish commentary on widening inflationary pressures.",
+  "updatedAt": "2026-10-21T17:34:54.993Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-21",
   "articleKeys": [
@@ -52,15 +79,15 @@
     "navratri sees retail sales of 1123 lakh vehicles led by 2ws pvs",
     "jailer 2 box office collection day 7 rajinikanth starrer continues to make a strong impact check earnings",
     "stock market highlights sensex declines 14321 points to settle at 7370969 nifty drops to 2281135 the times of india",
-    "stock market today live private banks it drag sensex over 980 points lower at noon metals buck the slide businessline",
+    "closing bell nifty below 22850 sensex down 143 pts it stocks shine moneycontrolcom",
+    "sensex today nifty 50 stock market highlights sensex ends 143 pts lower nifty below 22850 trent eicher motors drop 2 each the economic times",
+    "stock market today highlights october 21 sensex drops over 400 pts nifty at 22700 eternal bajaj fin lead losers businessline",
+    "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
+    "stock market outlook today 21 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "sensex falls 143 points nifty settles below 22900 bajaj finance down 3 financial express",
+    "closing bell sensex crashes 876 pts nifty below 22900 psu banks buck the trend moneycontrolcom",
     "sensex nifty rally up to 1 in early trade on it stocks firm global cues the hindu",
-    "sensex up 500 points 3 reasons why the stock market is rising today india today",
-    "stock market today sensex falls 143 points nifty 50 slips as crude oil prices surge apac media",
-    "nifty sensex fall as crude spikes it stocks outperform hdfc sky",
-    "indian stock market today sensex and nifty fall for second straight session telangana today",
-    "sensex slumps over 900 points from day high nifty settles near 22800 know what triggered the fall outlook money",
-    "indian market rally fizzles banking stocks drag sensex nifty rediff moneywiz",
-    "stock market crash key factors behind the steep sensexnifty selloff on oct 21 cnbc tv18"
+    "sensex up 500 points 3 reasons why the stock market is rising today india today"
   ],
   "articles": [
     {
@@ -130,10 +157,46 @@
       "publishedAt": "Wed, 21 Oct 2026 10:44:52 GMT"
     },
     {
-      "title": "Stock Market Today Live: Private banks, IT drag Sensex over 980 points lower at noon; metals buck the slide - BusinessLine",
+      "title": "Closing Bell: Nifty below 22,850, Sensex down 143 pts; IT stocks shine - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQeXRPWXpQSnVsQ3QwbjdPWVc2SmtnR2lWUk1URXh3M2dGUW0ybGlxd3BOQzBOV3ptNU8yTnltR2RPTXJYckZRTzJlNXRGS240ZmFCTWphb1I1MHJ3end1eUFENDh4QlVSVW1YTDU4MVEzTXh3YnRtaW5ldnZ3RDNUQllQYmg5OTloMkloamU4MDBwbDlTQ3d6NVJMSjEyQjV6NjBXM3I0YlZYX3pGM1dRa3ZZZUY2RmFpaGpYeldOQzAtVUZiTjFrUmZjVUhFRlN6TGg4MWNiYzdLT2hXRUJReWVoRDlqakJNZXI2SlpXNlA4OVVETDhYQkZsTzBXSHJIZGRndGZiVFNIYWZQcC1VSHYwOEx2czFPSzJKNjlIdW8tSFHSAagCQVVfeXFMUGtMWUtma2pxSWNWdjRlX2xldEI2emZEaGhDcHRSRDJjUjEza1VQT290TDliM0xQQ2JqUFhyek5NVGNrVlVOaENCR2xUMnhHSnJ1RlVSLUEtNW5XbmNhN2xjd2dwMnpxeHNEWVdzRE5CandhVWZlbkp2YVNTYXpUazdzYm9YdnpITEpGSUxldlRyaWlqWk50QkJDZTN5UHdwZTJES2VuUURIcWJybDBYbUVXSExNMXNzUzdFcUI5RTdfclB3b1VpZm93Tno5QnMwdmpCZk1kMk1ycGtsQlIxRzg0RnlERTl5d0V6cmc0bXpiOVJZQng0SmFDM1I5cEVCQ2FMR0paeXM3ai14Mm5lUjhPeF81UjdqZ0Fyd3JCMUNxNC1ya2d2RFk?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 10:45:26 GMT"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 143 pts lower, Nifty below 22,850; Trent, Eicher Motors drop 2% each - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSWtFemdLZThNS29lWDZ0allRa01ucXJVMVFXLVNxS2VuZlpwVk1Ya09uZC1BZG0zZHlPVFdwYTlLNi1QUklIMGlfV2hxTFJzWW5KS0p1bFl3THR4dHlrbDlvVnVuWGJ0VHJnWnZNRlA3bFBVWXZwbjBDM2J3Mll5Snl2Yi0xZmZlRWtBZTlzbmlwQU92cFdlQjJkN2lWVE1iUEhmYkd6MVN4dkRnOWw2SFA1UTRmWkVLX1ZhcWxDWWNndWs4Wm1mQ3RSRUVZa294UVd1UGpCNFhKVHNhcEhMYzJfMGpneVZTdXIyd2t1UEtta2lfUE8wQi1GbjVUNlcwRTFGZnFCalrSAY4CQVVfeXFMTTFtbTZUYjhjb3Q0Ukk4ZGtIQ01yNmloU2FrdlM5cnN0aDNYYU53clNERWRxZ1FqZnZvRjQydUQzc1U3ZHJYVXRsSDF6ekpRYkJpNWFrNHlwZnU0dThrclhMamJyOFE2Q05nN0p6MEtfVTctTnl1VlkwVnVyZDZMNWZNREV0X084N2FpamFTaU5RcVJOX3hhcFNYMjlyLXNNZjd1Y0c4c3RBdGp0bk1ZQXZoc0FhTUItTDRTcUtNeWItc3JUNUZTT0ZaUERTRnRYWXNyajRxOVN3R1RJNFlsZDFKbS1zSUZFUGRHTFlQQUlOc1NYdEh6enNxX09JNURJT3A1UDhmeXpOVDRTWDlB?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 10:04:08 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights, October 21: Sensex drops over 400 pts, Nifty at 22,700; Eternal, Bajaj Fin lead losers - BusinessLine",
       "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODNuTXZqSnhxTUxpamlFY0JKb0hkekFyU3B6M2MxOFUxVUlGeVlJOVZfSWtvdzZZLUVvZkhYVXBXNnhFUXVWMGJfVzZMV3pKdUloTm9OeTZvUUtlT0h2Rk1NNUFsaHVUREdFbXUtWHMwRjJqaHd4U1NOWUNaSFB2UFpPNjk3bkZDTjVCQm9wQmY0cXZ6V19aYUlqeXI1ZEU5QkNRd09Jd28teWNKWjUyTExEMkc5RENSbXJNRWhOWjU1d1d1QlU5StIBzwFBVV95cUxOZVJjSG1IelREZWRTRFNlSWlMaTVvQ3FIMDdsNFYxYUFaelFCYW1GelQyTEtmdzNWZURFbFFxOFFZNDNDZnVPVkZWbE5HQjVDeVY2cGp3anhHT25qcUpwcFV1Vzk0SlJsT3lxQXNTc1NZNFZITUpyQVJSOU9nczhRc2RLUXpxSFJBdmxNQ1ZzbVNXMjhtX0NQTHZmRWJ2Yjk1akVDS3BzVHRxWW50U0J3VHFYT3lwWXFtaGFxUlFXUWZVYlZETU4xdGUtMWduQ1E?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 09:13:01 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGpacU1SSlh2MUgtVFM1Q203NXFJX1ZpWXZBU0FIMVdlUmx2Yk5ORWpUQ1BjcEdLbndSekU3ZEIyMjZPVkppX09yNU4xaGhaRlU4QUF4RVAxUGJFdWU1WFFxSTZwMmpINzVWU1ZIZm9sVkhZR3Y1dUVaZnhydGpwR2lwUzRnVUpHNWpoSE9WSTU2eWhNQTc5T0JQX01vWkZTbllaUGdXWG9fX09CMHhwaWxxaWxmLU1vc2ZoLWtlZTk3U2IzUEtORA?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 10:51:05 GMT"
+    },
+    {
+      "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr0gHDAUFVX3lxTE02Zk9MNDBpdm1fQlg5MVEzdkowOTlLQ1pZMUY1VDRoWERQMmwzVXJKaHBVaGdDR3lOWHdmeHN1ZG5uVG1ZRUliWTg4eHpDa21JUGxQdThZQjNPeTQ5dkxMbldPei1Gb1RJU1RjR1dLUGRGX0NWRVZyTDNXSGhUU1J6ZjBoYk51SGVDV2FPVzhpZ1VXNjFmMHM3T01ZLU82Q0w5Z2I1NUo2aFhpd3BoOUNISlkxZDBVWE1Na2F3TWo3Z3J4aw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 21 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdk5aaDRyQ3pTVVM3dFVDYVNkY0Exc25vZldMM2JpMzhGXzk5UF84Q3JsaWNyWVNMcVBaYWgzcFIzaTZMOHgtZkJmTThiUWtEYlRSZHpkcDJGTTM5NC1ZeTJUUmFZalJGdk5RRlVPa0l5amRWOVhha3dBd3RJMU02aklhSS16YU1WMFNZWktqWU9tV3FNUXZaRGpKTWp3QkkzcHViWGhUcjlUdHhhWFRFcW91WVNTeHp6Q3A5dnhMRlM2MGQyTHA4dzlGQ285dWxOTFJuR1JIVEZZcWpwa2NJQ1pLSzloNl90RVZkUF9DOTZvRElGdzZDamtuSE9XTjY4ZUFxcdIBigJBVV95cUxQanlHMkJyVzZRNjVKZTZ3T2N3d2xFenlMT0tsXzlNUG8yVk40anV4TzgwZDV1YVVLaTZlalRZYkkwOE5OSmdERzVPcTVDMzM0eFllUjFLTHNPNTZ4djFxZGJvVjhWWHUtcE9jWUZjdWR5Vlh1Y3JBQ3NCVEp1djdhclB3VlI2S1I4d1UzTkFVV2ZvcXRtYkdZOTA3a3BtZTVaSTRpZHp2akMxYnkwVlNmNWVMRWh2WDVuRFNYdHdSN1RKbnA3RklRX3h5anQwemk3aXFKRzUyUVllRHQ3MXMyLWZpSE0weHBVanpKXzZZR3NlUU1iMXBZNzNoSzZfR0x0X3JLOEFaTkt3QQ?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 01:28:03 GMT"
+    },
+    {
+      "title": "Sensex falls 143 points, Nifty settles below 22,900; Bajaj Finance down 3% - Financial Express",
+      "source": "Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbkNfQVY0ZjVLNjhIaU5PWFVnVkNjMHlNTkUyWnJFLVlOYWVJUXcybnNGenVZM1YzWFlvb0Y2NGpJMkJPRENZSTBYZzRrMGxwVWdRSEdkZlBSVXB0clRMNUlUX29jSjFvSzR0ZHJkOFBTYXlmcm5lT0pieVNjRnJpR1MwTGhxaHNHRGhsQnhhc3VZQXNPX1VoVVJqQ0RHRVp5Sk4xazEtUElwbWVnalFNcDdLbzYzRGs1VFE3Q1RESE93ZVhtVVBkcDRSaUUtZw?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 10:08:11 GMT"
+    },
+    {
+      "title": "Closing Bell: Sensex crashes 876 pts, Nifty below 22,900; PSU banks buck the trend - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOME5jeVRBaWF1d2V2M2NTOXJXOTg2ZEUtWWpTMm85Z3BmZk9GQWZpUDMtbTc4UkVwaGpneThVNDRhWnRZUmk3UGpxU21IcUR1cnlLdmgwdDU5b0hxOEt0TE9OTGo4Yk9MVlV1VXZiWFBtV3pFaDR1T3AzbURvalpyN3VZQWxEbnBkaUVIcjkxNXg5WmEzbGtBa0VOQkJjczhBemN5UTRVWF82cVBacEZTZlp5WjJxTEVna1FsOEdtOW0tVkJvTFUzMDRHeDZNTkF5Q2x5VWZpeTl0R0ZHMHhpYnZHdGdJckJxTENSdGNiRjBRMWJZbmxFYTMyWHpmUFMtTllXc3piUWx0d3ZERmF5dmVzS20zRG9YR3pLcEhrbVN3enPSAagCQVVfeXFMTU5fSm03QnFZNm93a05FWFE0aFhPRS0yR3Brb1N6cXVaZHM5d1hPRTNBXzY5d29RMHp5VnZCUE55enZqQl9WbEx5UFh1R3RQY05SNXhUQ1l6WGhuVlpNZnBTMUZRbWJjamdSSWRWUEI5b0EzeFE4Nmx5OUNjaUNsRDc1NHJtMTU1MjI0R0pKQWxZQmg0R1ZKeGQyNTJfR3lZU1U1UWhiV201NDR6N1ZCS01oQ3BmUzFGYUNDOUpaNG1PeC14THNaV0pjZTNPZk03S1hWVEF0clV1SWVXRFRqekJOOGFyM2hocmF3VjQ2Nm40aHowT3ltX19kMkNxbTFfbW1oNVQtZkJzLUc1VkRQemMtSUFYem9jcE9vaVlWSEFnTzdmaG5QT04?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 10:36:09 GMT"
     },
     {
       "title": "Sensex, Nifty rally up to 1% in early trade on IT stocks, firm global cues - The Hindu",
@@ -146,42 +209,6 @@
       "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdlJGREhQM0lLTXhOQUk0RWxLeWs1d2p3Rkg0ZGY1dlltZUF4VWdfc0NXR09QaDJJVWNERlVWSFVMZU5fMXVnOGlFZkh0bXZ4dVVzU1V0eFJMS0FKazEzM0FZbXM0N3FSbU8xQXVSczBhd1pRNnoya1l2NXZDWDI0cUlYZmU3R3lQRWJUWERmR2RyUXJ5REp6Y3hxT1dXNWpCdnVoTWhqamxGZm5ZMjBONHpkelUzQXR2VXRDNy1fMG8wZkFBQzJtd1RMai1JWF9sWm51NjNxNUVxUVVfdmRSVzRPTdIB6AFBVV95cUxNaDczS1AtTEFqNm9adnJtVWFLbGJYakR4WERPVl9WWjRmZ0hNdWpvTVU4bkt5OHdLaVZZMTBtMmNMaW41WHdjMkhXekxsYXR0a3JEWUlXb1piTVVxaTNkaXFZb2hBUFV0OFZrY211THl5Uzl3SDYzcFNBM0dyTXhJSHlrT29aOHJscmZPUFpfSVV5RVF3SFdUNFVHRXVHTlNIdlpHNi1TeDlEMktZT0g1UC02cGF5OHcyaVFhTjlPbU43SmVFSFM2LWdwRkwwZVNZaWk1amJoS1JGUWw2TEFQWE9nYktBbnBG?oc=5",
       "publishedAt": "Wed, 21 Oct 2026 04:23:26 GMT"
-    },
-    {
-      "title": "Stock Market Today: Sensex Falls 143 Points, Nifty 50 Slips as Crude Oil Prices Surge - APAC Media",
-      "source": "APAC Media",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONVhSUTN0UVVBaWp4WFZnTERSQklsV1FTcld3TGpkSWs0cnA5V2ZKdmZTM1ZETXZ2RGFiZGk4TzdJZ1h5dU05MGRmUWxGckhyZU1ZTFF2M05PbjFUMkliQjF4Wk1oVE8yME1yd2xjUmZEUkNBUXBCWjhSRGVydl91bmowSzNLeGs?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 11:29:59 GMT"
-    },
-    {
-      "title": "Nifty, Sensex Fall as Crude Spikes; IT Stocks Outperform - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSC1OUkVPMEpSVlpIcVNUZG52TmhYbV8wNzlvZDJlcDk5bkJxOG1kTVJYMW5VRFI0RDBKdnFOcGViemt1VkZ0VUNxcVhpMjNRMEtKa21od1lkZ3FqNFVaYS1DUDVIZGJydXlreWZWMUloN2xnM0NuN0NfdHBabEZjZE5QQmhqbXBlUThyR1RncVNjQQ?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 11:03:20 GMT"
-    },
-    {
-      "title": "Indian stock market today: Sensex and Nifty fall for second straight session - Telangana Today",
-      "source": "Telangana Today",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTNFMUJiZ1Yta3hDU09iRHk1MFNNNVpUS0pOYzdMc1ZGcjZyU3h6aW5faVlJYlpVa1d2UHdKVXhmaWtXNFBwWlNRaU1HOEJ5dzlGWnZzVGZkNndOc2J1SVo1N2NLTHhGcTlOeFg0M3pVRE1qenZONFRtRjNEVTNONVgtSHdhaXllMUk5TThCQkI2SmR0VzhNRDFmX21zTjE4TjMzYg?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 10:43:30 GMT"
-    },
-    {
-      "title": "Sensex Slumps Over 900 Points From Day High, Nifty Settles Near 22,800, Know What Triggered The Fall - Outlook Money",
-      "source": "Outlook Money",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVTlZOG81RTVnWjBYRHRQMDIwcGZBeFctckxfN2w0bVg1ZFpDTUFoSFltOVA4MGdqT3N3LWhRdm96WFQyNHZTRG5heVUtRU5naDFxZ25mMEFYR1Z3aC1INkJ4RFBRQ1Itci1OSWpHam5aMl9zZzNnUTRjVlFXYzREZmFYVGVZd1RpRXljZTMxNFdQckJCeDRaQUZTSTROQmdLTTBHUHNic0I2UURCNjN3ekNwN1JULTAyT2NWYWpIMjFCN2FqQ2hPcUU5YmxMQdIB2wFBVV95cUxNM0tMVE80aXdoc254clRDZXlWUXdIcnAyMkVmajg0WlEyR01TVEVEeHpBbnhLMkVJaWJaV1M3Wlg3M2lfRURXR3UwWGNGX2pPdEJHSnp4R2stZzI5b0hiN0xDT0lWRno5cVhFd1ozc2xWbTZoMGxaVDhPOWFiT2JiSDdFSmpvWjZYalIyZTJDdlItSURqNjM0TjJFSnFadVBXWGNwLWNuejhuSVBaaHVSYXRQNUFqcUJHQ2M0b2wzZnI1UHR4TDh1Z3NwV1JxcDdvZXRoaTdpbVVfbFk?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 11:20:11 GMT"
-    },
-    {
-      "title": "Indian Market Rally Fizzles: Banking Stocks Drag Sensex, Nifty - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHl3Ri14Q0tHMjdZRll3TFp2cWs5bmNNV1huQWdmcUtNZVJ0c2NsRW9KaF83VEJSZUIzSldyM0M1UWhlS1UwRlM1OWptdUNCZHl3c3VGSHRqR3I2Zm1mRzZIS3ZfcUZ3WXRZNmF1RXlHMWR1alBnZkdMeDVtNnEwQlJ4UUw5dEdQSWFxUTN2bDlrMjlQdmFnS01IWGl3TkVIQXlyUVc1Q01Db2tMQUJvZjBR0gG3AUFVX3lxTFByT3lubXlZTHJfcDNQUE1JdkJVdmFHbGZKUDFWczlWQnM0bEM4c2RRdUkwOWY1RUpNUTVlYkJEbUc0RHVnSzFpcExqQ3owU21NN3lacnZWR1FLTGVvaURrdHNXXzBnUkR0OWZ6MVNtOXRfWXNQeFRaUVd3OTVDX2V5bHBab2ZWQlpWMUVwejc5Y25DWjROSDV5TmxVVkVjT2NpTEUwNkwwV3BpRGc1ZTBzNEtFWlZHdw?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 08:45:11 GMT"
-    },
-    {
-      "title": "Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21 - CNBC TV18",
-      "source": "CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVnZaeXZ1dUxtWlE3eVNEdU5ickVTYTdEUjVSYl9ycW9iRkNKX0lobjRpclFLWFN5UDdiNzRPREZmcWgzR2JpZk9pSzhaQl91NElZZDZ3YUFoNWd3V0V3UmgtNjdxb25iTkVWQUZEWDFQTnZSUVNPeFp4QUNzZWI2Q3RjTnNLYWV5d1JGS0UwRlBVZm5hRzZGajU4LUxTTGRLYlFKbjl5RkR0Rkd5NWZSSkV1aVQyaFFWX3hZVU5BaFJUVFNQck10MkJhSTZPRjZvemhfOEc0NEJvTFhJcl9EcHJWc1_SAeoBQVVfeXFMTjBNZDc1ZVFWNHJSamZNNFNtX3VXc2swblIwbzZpNWhIOEM5Q1JYLU5Pa1NsNGZVUnZTZm5pWnFPVldJRFE0T2VGSk5ZQzZaalBhcUxrbEJVVVkzcndJNGhsNmpYWWZRVkVfWFRKRFgwUVpEZEthOW1UR2ZpQkxDVWw4eHdXZ240SV9LNk10SkJLZ0pua1E2VmRZMXpDSzFiU0FhMHpmWEhoUnVxZFA3T2syejVTVFpkRWkwbktkemVmeWlCMWt4RmxMN21mSW5IeDBaUl9RT2xUa1c5ZWFjU1VqUld6Q3FqTTd3?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 08:40:45 GMT"
     }
   ]
 }
