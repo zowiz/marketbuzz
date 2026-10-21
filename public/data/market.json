@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty rebound as L&T Tech jumps 15% and Jio IPO sees strong Day 1 demand",
+  "headline": "Sensex and Nifty Erase Early Gains Amid Volatility; Piramal Finance Jumps While eMudhra Shares Crash",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,28 +7,20 @@
     "nextOpen": ""
   },
   "why": [
-    "L&T Technology Services shares surged 15% following positive market developments",
-    "The Jio IPO witnessed massive demand, becoming fully subscribed on its opening day",
-    "Transrail Lighting secured new orders worth Rs 927 crore, leading to a 9% stock rally",
-    "Markets showed recovery signs after a significant crash earlier in the week"
+    "Sensex fell 800 points from its intraday high as early gains in IT stocks were erased",
+    "The Nifty Auto index dropped by more than 2%, contributing to the market's downward pressure",
+    "eMudhra shares crashed 20% after global browsers moved to distrust its TLS certificates",
+    "Profit booking emerged after an initial rally driven by firm global cues and positive IT sentiment"
   ],
   "whatHappening": [
-    "BSE Sensex traded 400 points higher while NSE Nifty50 moved past the 23,100 level",
-    "SBI is investigating a potential dark web leak involving thousands of customer records",
-    "Bajaj Finance shares dropped 3% as investors reacted to the company's Q2 results",
-    "HD Fire Protect made a strong market debut with a 24% listing premium"
+    "Piramal Finance shares jumped 4% following a 67% year-on-year increase in second-quarter profits",
+    "Jio Platforms' IPO was fully subscribed within 100 minutes, marking the fastest-ever subscription for a major offer",
+    "The Indian Rupee strengthened by 29 paise to 94.62 against the U.S. dollar in early trade",
+    "Goldman Sachs estimated that AI-focused IPOs could potentially add $100 billion to India's market capitalization"
   ],
   "stocksInNews": [
     {
-      "symbol": "SBIN",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "LTTS",
+      "symbol": "PEL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -36,54 +28,19 @@
       ]
     },
     {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        3,
-        16
-      ]
-    },
-    {
-      "symbol": "TRANSRAIL",
+      "symbol": "RELIANCE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4
+        2
       ]
     },
     {
-      "symbol": "JIO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        5,
-        14
-      ]
-    },
-    {
-      "symbol": "HDFIRE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "AXISBANK",
+      "symbol": "EMUDHRA",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        16
-      ]
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        16,
-        17
+        7
       ]
     },
     {
@@ -91,97 +48,122 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        16,
-        17
+        14,
+        19
+      ]
+    },
+    {
+      "symbol": "AXISBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        14
+      ]
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        14,
+        19
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        14
       ]
     }
   ],
-  "summary": "The Indian stock market rebounded on October 21, with the Sensex rising 400 points and Nifty crossing the 23,100 mark. L&T Technology Services and Transrail Lighting saw significant gains, while the Jio IPO was fully subscribed on its first day. However, SBI faced scrutiny over a suspected data leak and Bajaj Finance shares fell following its quarterly results.",
-  "updatedAt": "2026-10-21T06:02:02.442Z",
+  "summary": "Indian markets witnessed high volatility as Sensex and Nifty erased early gains of 1% to trade in the red. While Piramal Finance and Jio Platforms saw positive momentum, eMudhra shares crashed 20% due to security certificate concerns. The Nifty Auto index fell over 2% as the broader market struggled to maintain higher levels.",
+  "updatedAt": "2026-10-21T07:02:17.490Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-21",
   "articleKeys": [
-    "sbi probes suspected dark web leak involving 3897 customer records",
-    "stock market live sensex rises 400 pts nifty tops 22950 lt tech shares jump 15",
-    "rubio meets jaishankar in mumbai pushes for early indiaus trade deal",
-    "bajaj finance shares fall 3 after q2 results what jefferies nomura other brokerages now expect",
-    "transrail lighting shares rally 9 after bagging orders worth rs 927 crore",
-    "jio ipo opens with a bang issue gets fully booked on day 1 as qibs drive demand check gmp",
-    "global market safehaven assets under pressure dollar swiss franc german bonds and gold in focus",
-    "global market japanese government bond yields fall as safehaven demand returns",
-    "global market chinas yuan hits fouryear high on export strength weak dollar",
-    "hd fire protect ipo listing shares debut with 24 on nse bse",
+    "rupee rises 29 paise to 9462 against us dollar in early trade",
+    "piramal finance shares jump 4 as q2 profit rises 67 yoy to rs 545 crore nii jumps 35 yoy",
+    "jio platforms ipo fully subscribed in 100 minutes of opening marks fastestever subscribed offer",
+    "sensex nifty rally up to 1 in early trade on it stocks firm global cues",
+    "eaaa india alternatives fixes price band for rs 1200 ipo issue opens on october 26",
+    "stock market live sensex off 800 pts from days high nifty below 22900 nifty auto falls over 2",
+    "ailed ipos may add up to 100 billion to indias marketcap goldman sachs",
+    "emudhra shares crash 20 after browsers move to distrust some of its global tls certificates",
+    "sara ali khan breaks down in tears at golden temple ahead of udta teer release videos",
+    "gold prices near rs 147 lakh10 grams silver falls by rs 1144kg as traders await fed rate signals what lies ahead",
     "stock market today live updates bse sensex trades 400 points higher nse nifty50 inches beyond 23100 mark the times of india",
     "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
-    "stock market highlights for october 19 2026 sensex tumbles 87637 points to settle at 7385290 nifty drops to 2288895 the times of india",
-    "stock market today live private banks it drag sensex over 980 points lower at noon metals buck the slide businessline",
-    "sensex today stock market live updates nifty above 22900 sensex up 150 pts jio platforms ipo fully subscribed moneycontrolcom",
     "stock market outlook today 21 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market today live october 21 sensex down 400 pts nifty below 22800 as markets erase early gains businessline",
     "stock market highlights sensex slumps 876 points nifty 50 ends below 22900 axis bank tata motors pv infosys bajaj fin losses ndtv profit",
-    "sensex today nifty 50 stock market highlights sensex plunges 876 pts nifty ends below 22900 tmpv infy drop 3 each the economic times",
     "stock market crash today sensex ends over 870 points down nifty50 below 22900 top reasons for fall the times of india",
-    "closing bell sensex crashes 876 pts nifty below 22900 psu banks buck the trend moneycontrolcom"
+    "stock market highlights for october 19 2026 sensex tumbles 87637 points to settle at 7385290 nifty drops to 2288895 the times of india",
+    "closing bell sensex crashes 876 pts nifty below 22900 psu banks buck the trend moneycontrolcom",
+    "stock market today live private banks it drag sensex over 980 points lower at noon metals buck the slide businessline",
+    "sensex today nifty 50 stock market highlights sensex plunges 876 pts nifty ends below 22900 tmpv infy drop 3 each the economic times"
   ],
   "articles": [
     {
-      "title": "SBI probes suspected dark web leak involving 3,897 customer records",
+      "title": "Rupee rises 29 paise to 94.62 against U.S. dollar in early trade",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/banking/sbi-customer-data-dark-web-cybersecurity-pii-cert-in-126102100304_1.html",
-      "publishedAt": "Wed, 21 Oct 2026 11:05:22 +0530"
+      "link": "https://www.thehindu.com/business/markets/rupee-rises-29-paise-to-9462-against-us-dollar-in-early-trade/article71606541.ece",
+      "publishedAt": "Wed, 21 Oct 2026 12:09:29 +0530"
     },
     {
-      "title": "Stock Market LIVE: Sensex rises 400 pts, Nifty tops 22,950; L&T Tech shares jump 15%",
+      "title": "Piramal Finance shares jump 4% as Q2 profit rises 67% YoY to Rs 545 crore, NII jumps 35% YoY",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/piramal-finance-shares-jump-4-as-q2-profit-rises-67-yoy-to-rs-545-crore-nii-jumps-35-yoy/articleshow/135084284.cms",
+      "publishedAt": "Wed, 21 Oct 2026 12:04:16 +0530"
+    },
+    {
+      "title": "Jio Platforms' IPO fully subscribed in 100 minutes of opening, marks fastest-ever subscribed offer",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/jio-platforms-ipo-fully-subscribed-in-100-minutes/article71606464.ece",
+      "publishedAt": "Wed, 21 Oct 2026 12:03:37 +0530"
+    },
+    {
+      "title": "Sensex, Nifty rally up to 1% in early trade on IT stocks, firm global cues",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/sensex-nifty-rally-up-to-1-in-early-trade-on-it-stocks-firm-global-cues/article71606505.ece",
+      "publishedAt": "Wed, 21 Oct 2026 12:03:30 +0530"
+    },
+    {
+      "title": "EAAA India Alternatives fixes price band for Rs 1,200 IPO; issue opens on October 26",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-fixes-price-band-for-rs-1200-ipo-issue-opens-on-october-26/articleshow/135084124.cms",
+      "publishedAt": "Wed, 21 Oct 2026 11:58:53 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex off 800 pts from day's high, Nifty below 22,900; Nifty Auto falls over 2%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-21-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-platforms-ipo-today-hd-fire-protect-share-price-126102100078_1.html",
-      "publishedAt": "Wed, 21 Oct 2026 11:00:30 +0530"
+      "publishedAt": "Wed, 21 Oct 2026 11:54:28 +0530"
     },
     {
-      "title": "Rubio meets Jaishankar in Mumbai, pushes for early India-US trade deal",
+      "title": "AI-led IPOs may add up to $100 billion to India's market-cap: Goldman Sachs",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/rubio-meets-jaishankar-in-mumbai-pushes-for-early-india-us-trade-deal-126102100227_1.html",
-      "publishedAt": "Wed, 21 Oct 2026 10:49:50 +0530"
+      "link": "https://www.business-standard.com/markets/news/ai-led-ipos-may-add-up-to-100-billion-to-india-s-market-cap-goldman-sachs-126102100382_1.html",
+      "publishedAt": "Wed, 21 Oct 2026 11:51:44 +0530"
     },
     {
-      "title": "Bajaj Finance shares fall 3% after Q2 results. What Jefferies, Nomura, other brokerages now expect?",
+      "title": "eMudhra Shares Crash 20% After Browsers Move To Distrust Some Of Its Global TLS Certificates",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-shares-fall-3-after-q2-results-what-jefferies-nomura-other-brokerages-now-expect/articleshow/135082829.cms",
-      "publishedAt": "Wed, 21 Oct 2026 10:47:04 +0530"
+      "link": "https://www.ndtvprofit.com/markets/emudhra-shares-crash-20-after-browsers-move-to-distrust-some-of-its-global-tls-certificates-12213738#publisher=newsstand",
+      "publishedAt": "Wed, 21 Oct 2026 11:48:16 +0530"
     },
     {
-      "title": "Transrail Lighting shares rally 9% after bagging orders worth Rs 927 crore",
+      "title": "Sara Ali Khan Breaks Down In Tears At Golden Temple Ahead Of 'Udta Teer' Release | Videos",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/transrail-lighting-shares-rally-9-after-bagging-orders-worth-rs-927-crore/articleshow/135082787.cms",
-      "publishedAt": "Wed, 21 Oct 2026 10:44:15 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/sara-ali-khan-breaks-down-in-tears-at-golden-temple-ahead-of-udta-teer-release-videos-12213784#publisher=newsstand",
+      "publishedAt": "Wed, 21 Oct 2026 11:47:38 +0530"
     },
     {
-      "title": "Jio IPO opens with a bang, issue gets fully booked on Day 1 as QIBs drive demand. Check GMP",
+      "title": "Gold prices near Rs 1.47 lakh/10 grams, silver falls by Rs 1,144/kg as traders await Fed rate signals. What lies ahead?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-opens-with-a-bang-issue-booked-over-90-as-qibs-drive-demand-check-gmp/articleshow/135082741.cms",
-      "publishedAt": "Wed, 21 Oct 2026 10:40:25 +0530"
-    },
-    {
-      "title": "Global Market | Safe-haven assets under pressure: Dollar, Swiss franc, German bonds and gold in focus",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-safe-haven-assets-under-pressure-dollar-swiss-franc-german-bonds-and-gold-in-focus/articleshow/135082673.cms",
-      "publishedAt": "Wed, 21 Oct 2026 10:40:06 +0530"
-    },
-    {
-      "title": "Global Market: Japanese government bond yields fall as safe-haven demand returns",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-government-bond-yields-fall-as-safe-haven-demand-returns/articleshow/135082602.cms",
-      "publishedAt": "Wed, 21 Oct 2026 10:34:32 +0530"
-    },
-    {
-      "title": "Global Market: China's yuan hits four-year high on export strength, weak dollar",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-on-export-strength-weak-dollar/articleshow/135082502.cms",
-      "publishedAt": "Wed, 21 Oct 2026 10:21:41 +0530"
-    },
-    {
-      "title": "HD Fire Protect IPO Listing: Shares Debut With 24% On NSE, BSE",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/hd-fire-protect-ipo-listing-shares-debut-with-over-23-percent-on-nse-bse-12213445#publisher=newsstand",
-      "publishedAt": "Wed, 21 Oct 2026 10:19:54 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-near-rs-1-47-lakh/10-grams-silver-falls-by-rs-1144/kg-as-traders-await-fed-rate-signals-what-lies-ahead/articleshow/135083841.cms",
+      "publishedAt": "Wed, 21 Oct 2026 11:40:30 +0530"
     },
     {
       "title": "Stock Market Today Live Updates: BSE Sensex trades 400 points higher, NSE Nifty50 inches beyond 23,100 mark - The Times of India",
@@ -196,28 +178,16 @@
       "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
     },
     {
-      "title": "Stock Market Highlights For October 19, 2026: Sensex tumbles 876.37 points to settle at 73,852.90; Nifty drops to 22,888.95 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNMzdELWs1MUo4Mk4yZXpKQi1TRjdFWkRrOWM5cWpRcFYtX0Y2b0dvRno4OUhjLVdURXZjRWNPSFYtam9RZXp2ZkJENldfRnNZREc1WmNteVM0S3pld3JBcDlXbS03aHlmakxhSWc2YkRJbktUcnlyN1pWVFltcGlrUWVxS0VFbXo4N3Z0TmZuOHd1ejBxdE5sQUZXM19aeFhSVmE2SndidUlWZU1CME94VE1wcjZWaWRGN3NZYlBBeElVeVZ2YWpxc1FMV3gzcnVDaW5FRHNaN1JJSXZqWXFuS18yRGxXMjIwNFlUQ1ZvX3BWVUIzM2twaThDTU1nbkdrQ0c2UV9NeGxJNHE2X2w3V0lid0FEUzlqLWUwVXcwcV83WGdoZTlBN2Nnb2FWejNWb0t6ZdIBugJBVV95cUxQdkNjLVdEdEFOaS1YV1F2MjR6bzdGWWZoTUdBTTBLLTRGd1ZmS2VLYXhRdl84bHEwcEtyTl9NQnVMLUhpUEhfTmJxLTk4R05NbWNrQURvSHh1RW9qMWlnMEdteWhMbDRObmQ3WFpRUG56TjQ2TjhyVHRiV0tndW5wNGwxMFNJckJnUUNPTTA2ZFk3bjZqWDZlUGtzUmI4LTZkZjdPTGR2S19SbkRqYnlXejFDX2hzcFIybVVra1h5aFRIVmg2SG5ab0ttbFdab3Z2MmxIMk1kNFhFT3N6cWxRRFI5a0xUellLWFdNZDh4T1RIMnhPSEFKeXpsQ0FXVTNpUU5GTEVBTFVJYzdIVUNOa19tRUdUMjQ3MUlxMDhBX2Q5RXRCYUU0SnczMmp6azE5UzZVN1ZTdC1CQQ?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 10:19:38 GMT"
-    },
-    {
-      "title": "Stock Market Today Live: Private banks, IT drag Sensex over 980 points lower at noon; metals buck the slide - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODNuTXZqSnhxTUxpamlFY0JKb0hkekFyU3B6M2MxOFUxVUlGeVlJOVZfSWtvdzZZLUVvZkhYVXBXNnhFUXVWMGJfVzZMV3pKdUloTm9OeTZvUUtlT0h2Rk1NNUFsaHVUREdFbXUtWHMwRjJqaHd4U1NOWUNaSFB2UFpPNjk3bkZDTjVCQm9wQmY0cXZ6V19aYUlqeXI1ZEU5QkNRd09Jd28teWNKWjUyTExEMkc5RENSbXJNRWhOWjU1d1d1QlU5StIBzwFBVV95cUxOZVJjSG1IelREZWRTRFNlSWlMaTVvQ3FIMDdsNFYxYUFaelFCYW1GelQyTEtmdzNWZURFbFFxOFFZNDNDZnVPVkZWbE5HQjVDeVY2cGp3anhHT25qcUpwcFV1Vzk0SlJsT3lxQXNTc1NZNFZITUpyQVJSOU9nczhRc2RLUXpxSFJBdmxNQ1ZzbVNXMjhtX0NQTHZmRWJ2Yjk1akVDS3BzVHRxWW50U0J3VHFYT3lwWXFtaGFxUlFXUWZVYlZETU4xdGUtMWduQ1E?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 09:13:01 GMT"
-    },
-    {
-      "title": "Sensex Today | Stock Market LIVE Updates: Nifty above 22,900, Sensex up 150 pts; Jio Platforms IPO fully subscribed - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQeXRPWXpQSnVsQ3QwbjdPWVc2SmtnR2lWUk1URXh3M2dGUW0ybGlxd3BOQzBOV3ptNU8yTnltR2RPTXJYckZRTzJlNXRGS240ZmFCTWphb1I1MHJ3end1eUFENDh4QlVSVW1YTDU4MVEzTXh3YnRtaW5ldnZ3RDNUQllQYmg5OTloMkloamU4MDBwbDlTQ3d6NVJMSjEyQjV6NjBXM3I0YlZYX3pGM1dRa3ZZZUY2RmFpaGpYeldOQzAtVUZiTjFrUmZjVUhFRlN6TGg4MWNiYzdLT2hXRUJReWVoRDlqakJNZXI2SlpXNlA4OVVETDhYQkZsTzBXSHJIZGRndGZiVFNIYWZQcC1VSHYwOEx2czFPSzJKNjlIdW8tSFHSAagCQVVfeXFMUGtMWUtma2pxSWNWdjRlX2xldEI2emZEaGhDcHRSRDJjUjEza1VQT290TDliM0xQQ2JqUFhyek5NVGNrVlVOaENCR2xUMnhHSnJ1RlVSLUEtNW5XbmNhN2xjd2dwMnpxeHNEWVdzRE5CandhVWZlbkp2YVNTYXpUazdzYm9YdnpITEpGSUxldlRyaWlqWk50QkJDZTN5UHdwZTJES2VuUURIcWJybDBYbUVXSExNMXNzUzdFcUI5RTdfclB3b1VpZm93Tno5QnMwdmpCZk1kMk1ycGtsQlIxRzg0RnlERTl5d0V6cmc0bXpiOVJZQng0SmFDM1I5cEVCQ2FMR0paeXM3ai14Mm5lUjhPeF81UjdqZ0Fyd3JCMUNxNC1ya2d2RFk?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 05:58:56 GMT"
-    },
-    {
       "title": "Stock market outlook today, 21 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdk5aaDRyQ3pTVVM3dFVDYVNkY0Exc25vZldMM2JpMzhGXzk5UF84Q3JsaWNyWVNMcVBaYWgzcFIzaTZMOHgtZkJmTThiUWtEYlRSZHpkcDJGTTM5NC1ZeTJUUmFZalJGdk5RRlVPa0l5amRWOVhha3dBd3RJMU02aklhSS16YU1WMFNZWktqWU9tV3FNUXZaRGpKTWp3QkkzcHViWGhUcjlUdHhhWFRFcW91WVNTeHp6Q3A5dnhMRlM2MGQyTHA4dzlGQ285dWxOTFJuR1JIVEZZcWpwa2NJQ1pLSzloNl90RVZkUF9DOTZvRElGdzZDamtuSE9XTjY4ZUFxcdIBigJBVV95cUxQanlHMkJyVzZRNjVKZTZ3T2N3d2xFenlMT0tsXzlNUG8yVk40anV4TzgwZDV1YVVLaTZlalRZYkkwOE5OSmdERzVPcTVDMzM0eFllUjFLTHNPNTZ4djFxZGJvVjhWWHUtcE9jWUZjdWR5Vlh1Y3JBQ3NCVEp1djdhclB3VlI2S1I4d1UzTkFVV2ZvcXRtYkdZOTA3a3BtZTVaSTRpZHp2akMxYnkwVlNmNWVMRWh2WDVuRFNYdHdSN1RKbnA3RklRX3h5anQwemk3aXFKRzUyUVllRHQ3MXMyLWZpSE0weHBVanpKXzZZR3NlUU1iMXBZNzNoSzZfR0x0X3JLOEFaTkt3QQ?oc=5",
       "publishedAt": "Wed, 21 Oct 2026 01:28:03 GMT"
+    },
+    {
+      "title": "Stock Market Today Live, October 21: Sensex down 400 pts, Nifty below 22,800 as markets erase early gains - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGpacU1SSlh2MUgtVFM1Q203NXFJX1ZpWXZBU0FIMVdlUmx2Yk5ORWpUQ1BjcEdLbndSekU3ZEIyMjZPVkppX09yNU4xaGhaRlU4QUF4RVAxUGJFdWU1WFFxSTZwMmpINzVWU1ZIZm9sVkhZR3Y1dUVaZnhydGpwR2lwUzRnVUpHNWpoSE9WSTU2eWhNQTc5T0JQX01vWkZTbllaUGdXWG9fX09CMHhwaWxxaWxmLU1vc2ZoLWtlZTk3U2IzUEtORNIBzwFBVV95cUxOWkVaY2QteWY0VkRMdVJ1TVZlcEw4bDZZdlBaZG8xQ3Q0YlhTMFlTWENEV1hvczFiYkJCV1BlUUl4Q2t4eHFieWxZX1A3MUtoclQ5QWYtemxnTUgtZlhDeFRGQXhFN1Bzci1TWWd1RmpaMkNOcmstM1NEaFA5ZXhidmlkRnZxTkVFOXY0cF9XWTFDc0RZbVR0NHduWEo0MDFuYk1ZY3A2Sm9zNklGRkJwMmIxOHJRWjdHajdwWDlxeVo3N0JrT194NnBDck1YOXM?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 06:56:07 GMT"
     },
     {
       "title": "Stock Market Highlights: Sensex Slumps 876 Points, Nifty 50 Ends Below 22,900; Axis Bank, Tata Motors PV, Infosys, Bajaj Fin Losses - NDTV Profit",
@@ -226,22 +196,34 @@
       "publishedAt": "Mon, 19 Oct 2026 10:09:46 GMT"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex plunges 876 pts, Nifty ends below 22,900; TMPV, Infy drop 3% each - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbkhWNG5wTWNtS2Y2aDB1OVhSWlpneGlZRFZreUJzWFRIUjI2VnF2X2tWNlp2bUdLc2JteVh2LXd3dkVGajZhMGhBX2hLLWxRcmc0TmdVSFFQSEdjajJib0FSNUhMaEhqSDhxenpSZzVsOHNtVEZxSzdCblJ5NngzMk1HWlVMenRheEhmTWoxSEJfS01icHpUc1Z0dVVWT2xOOTFOTHZaX0hZcjQyUzhLdmtmOVpFeVg5U3Z4LUN0Q0J6YmdMNldRTmIxR3hxc01ncGJTNVJIS3pZVmxMV3NYemhIWlpnLTlaYjdXSTJ3RnFiTEp1MXExNUhRSkcyaUM4aHlTZ2JJaW1FN0FsLWxmTNIBlgJBVV95cUxNM0xpZjFpU1FPTGZqOG5BMVI5clBXWVdFU2M2enItLS1aR2VrUVJyUlNqVExOU0FHWUFmcDNvTGFaSnpST0JOcFN5MVVNWUJWOS0tMm81bVFWT1NQU1FyVVpMOWxURzVEZGp2UnZ2dHl0alAwbnUteENMVzVnVVhfY21PdTNOU2dTUlpVeUxNM0xkcUNiUGdZVWtpcEI3S3lMZWNCbVhvb2tURGRjOHd6N1lNSW1uZWpUbkJMOHpmQl9qeERVQjBkQzhLNDdvUjNlRG1JRi1mZmdlY1loOFVSRGsyOEZ3N3B3UkRXbHBHQm96QzE1dlRPN2dneEhTVnNJWGQ0cjYyVFNFRElLVmZTMDNwX0JqZw?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 10:42:29 GMT"
-    },
-    {
       "title": "Stock market crash today: Sensex ends over 870 points down, Nifty50 below 22,900 - top reasons for fall - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQWkZVTHdkeGI4ek1UVHR2Nnd5d0ZMVDZGQVhteW1LcnBaVl8zVDNhcmhodjI2elk2VnlEOWlYc29WdWdpUGd1NWpkOUVoVU9WOEhoYlJ4S3pZaFNWaXhzdmRGam1oYjMyYUJ5eFIxYnZ6YlhBSVpua2R1dnZ0bUk1R3MzLXVsazZVbVROUXIyaU5ONWQ2OTBsN3ptamk1eGpjaF9wcXNvUEpULWIzQWpSTVBJVThqNTR3NzU3b0FSUUdKaHRIeE9DZ2RodFdCVEFDeVZEUVhLRFR0SkxFUEcxbHJwOU1VVVZJbEpSa1NuTy1NWkMyY1ZrSnhQRjdxdW5KUzNBc2NPVlNURF9oeFNDVEd2ZFV6ckVRTVROMklQTHFPMWVtZ0J5LUJTMDB2bk1tdlk4YWh5WG5SS0pKaUpMNEg2cWZlVWR0SlBJS2hQUGzSAdYCQVVfeXFMTUt2TjUwU3BGTUZPSHpNbzV3ZkpiYkd6a1RSOW5mYlNHSXhmZ1Q1TENsdTJYVmV4WXhqejJmTUVOU19kUWVfZGhmQkUxYTlWVGcxNnY0ZXp2VTBYb0VVZGNSUXZNTzJvckNIVHlnQWZWZ3pzcXBpeXk2cWdNMW1SbjRxcVVKZ3VoVTlTTVd1THdTNF9LTXNFSHNtOUdyeHR6ZFl5SEVWa1g5WW9HaUkwTUc1S3pyY1B2Y1JkY3dTVVNoaFQ4VVNXMERkVTdSbHNOS1loMEZNNHFzQ0NZM3d1amg5WEFwVXFvdnFLNkZhUlZkaGU2RE4zZWd6eThBMjlRRDRBT2lqR1hhMzhzTGpOQWtUWkU4Z2V2b2UxUHBBVFVJWmoxM21haWtJQzVYWXBtdzktYVRybmpPdDdzQ0ZvQmpWU041ZVJvM1BERGdlSDRsVXJLSDFn?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 08:34:00 GMT"
     },
     {
+      "title": "Stock Market Highlights For October 19, 2026: Sensex tumbles 876.37 points to settle at 73,852.90; Nifty drops to 22,888.95 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNMzdELWs1MUo4Mk4yZXpKQi1TRjdFWkRrOWM5cWpRcFYtX0Y2b0dvRno4OUhjLVdURXZjRWNPSFYtam9RZXp2ZkJENldfRnNZREc1WmNteVM0S3pld3JBcDlXbS03aHlmakxhSWc2YkRJbktUcnlyN1pWVFltcGlrUWVxS0VFbXo4N3Z0TmZuOHd1ejBxdE5sQUZXM19aeFhSVmE2SndidUlWZU1CME94VE1wcjZWaWRGN3NZYlBBeElVeVZ2YWpxc1FMV3gzcnVDaW5FRHNaN1JJSXZqWXFuS18yRGxXMjIwNFlUQ1ZvX3BWVUIzM2twaThDTU1nbkdrQ0c2UV9NeGxJNHE2X2w3V0lid0FEUzlqLWUwVXcwcV83WGdoZTlBN2Nnb2FWejNWb0t6ZdIBugJBVV95cUxQdkNjLVdEdEFOaS1YV1F2MjR6bzdGWWZoTUdBTTBLLTRGd1ZmS2VLYXhRdl84bHEwcEtyTl9NQnVMLUhpUEhfTmJxLTk4R05NbWNrQURvSHh1RW9qMWlnMEdteWhMbDRObmQ3WFpRUG56TjQ2TjhyVHRiV0tndW5wNGwxMFNJckJnUUNPTTA2ZFk3bjZqWDZlUGtzUmI4LTZkZjdPTGR2S19SbkRqYnlXejFDX2hzcFIybVVra1h5aFRIVmg2SG5ab0ttbFdab3Z2MmxIMk1kNFhFT3N6cWxRRFI5a0xUellLWFdNZDh4T1RIMnhPSEFKeXpsQ0FXVTNpUU5GTEVBTFVJYzdIVUNOa19tRUdUMjQ3MUlxMDhBX2Q5RXRCYUU0SnczMmp6azE5UzZVN1ZTdC1CQQ?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 10:19:38 GMT"
+    },
+    {
       "title": "Closing Bell: Sensex crashes 876 pts, Nifty below 22,900; PSU banks buck the trend - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOME5jeVRBaWF1d2V2M2NTOXJXOTg2ZEUtWWpTMm85Z3BmZk9GQWZpUDMtbTc4UkVwaGpneThVNDRhWnRZUmk3UGpxU21IcUR1cnlLdmgwdDU5b0hxOEt0TE9OTGo4Yk9MVlV1VXZiWFBtV3pFaDR1T3AzbURvalpyN3VZQWxEbnBkaUVIcjkxNXg5WmEzbGtBa0VOQkJjczhBemN5UTRVWF82cVBacEZTZlp5WjJxTEVna1FsOEdtOW0tVkJvTFUzMDRHeDZNTkF5Q2x5VWZpeTl0R0ZHMHhpYnZHdGdJckJxTENSdGNiRjBRMWJZbmxFYTMyWHpmUFMtTllXc3piUWx0d3ZERmF5dmVzS20zRG9YR3pLcEhrbVN3enPSAagCQVVfeXFMTU5fSm03QnFZNm93a05FWFE0aFhPRS0yR3Brb1N6cXVaZHM5d1hPRTNBXzY5d29RMHp5VnZCUE55enZqQl9WbEx5UFh1R3RQY05SNXhUQ1l6WGhuVlpNZnBTMUZRbWJjamdSSWRWUEI5b0EzeFE4Nmx5OUNjaUNsRDc1NHJtMTU1MjI0R0pKQWxZQmg0R1ZKeGQyNTJfR3lZU1U1UWhiV201NDR6N1ZCS01oQ3BmUzFGYUNDOUpaNG1PeC14THNaV0pjZTNPZk03S1hWVEF0clV1SWVXRFRqekJOOGFyM2hocmF3VjQ2Nm40aHowT3ltX19kMkNxbTFfbW1oNVQtZkJzLUc1VkRQemMtSUFYem9jcE9vaVlWSEFnTzdmaG5QT04?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 10:36:09 GMT"
+    },
+    {
+      "title": "Stock Market Today Live: Private banks, IT drag Sensex over 980 points lower at noon; metals buck the slide - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODNuTXZqSnhxTUxpamlFY0JKb0hkekFyU3B6M2MxOFUxVUlGeVlJOVZfSWtvdzZZLUVvZkhYVXBXNnhFUXVWMGJfVzZMV3pKdUloTm9OeTZvUUtlT0h2Rk1NNUFsaHVUREdFbXUtWHMwRjJqaHd4U1NOWUNaSFB2UFpPNjk3bkZDTjVCQm9wQmY0cXZ6V19aYUlqeXI1ZEU5QkNRd09Jd28teWNKWjUyTExEMkc5RENSbXJNRWhOWjU1d1d1QlU5StIBzwFBVV95cUxOZVJjSG1IelREZWRTRFNlSWlMaTVvQ3FIMDdsNFYxYUFaelFCYW1GelQyTEtmdzNWZURFbFFxOFFZNDNDZnVPVkZWbE5HQjVDeVY2cGp3anhHT25qcUpwcFV1Vzk0SlJsT3lxQXNTc1NZNFZITUpyQVJSOU9nczhRc2RLUXpxSFJBdmxNQ1ZzbVNXMjhtX0NQTHZmRWJ2Yjk1akVDS3BzVHRxWW50U0J3VHFYT3lwWXFtaGFxUlFXUWZVYlZETU4xdGUtMWduQ1E?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 09:13:01 GMT"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex plunges 876 pts, Nifty ends below 22,900; TMPV, Infy drop 3% each - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbkhWNG5wTWNtS2Y2aDB1OVhSWlpneGlZRFZreUJzWFRIUjI2VnF2X2tWNlp2bUdLc2JteVh2LXd3dkVGajZhMGhBX2hLLWxRcmc0TmdVSFFQSEdjajJib0FSNUhMaEhqSDhxenpSZzVsOHNtVEZxSzdCblJ5NngzMk1HWlVMenRheEhmTWoxSEJfS01icHpUc1Z0dVVWT2xOOTFOTHZaX0hZcjQyUzhLdmtmOVpFeVg5U3Z4LUN0Q0J6YmdMNldRTmIxR3hxc01ncGJTNVJIS3pZVmxMV3NYemhIWlpnLTlaYjdXSTJ3RnFiTEp1MXExNUhRSkcyaUM4aHlTZ2JJaW1FN0FsLWxmTNIBlgJBVV95cUxNM0xpZjFpU1FPTGZqOG5BMVI5clBXWVdFU2M2enItLS1aR2VrUVJyUlNqVExOU0FHWUFmcDNvTGFaSnpST0JOcFN5MVVNWUJWOS0tMm81bVFWT1NQU1FyVVpMOWxURzVEZGp2UnZ2dHl0alAwbnUteENMVzVnVVhfY21PdTNOU2dTUlpVeUxNM0xkcUNiUGdZVWtpcEI3S3lMZWNCbVhvb2tURGRjOHd6N1lNSW1uZWpUbkJMOHpmQl9qeERVQjBkQzhLNDdvUjNlRG1JRi1mZmdlY1loOFVSRGsyOEZ3N3B3UkRXbHBHQm96QzE1dlRPN2dneEhTVnNJWGQ0cjYyVFNFRElLVmZTMDNwX0JqZw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 10:42:29 GMT"
     }
   ]
 }
