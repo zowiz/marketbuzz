@@ -1,5 +1,5 @@
 {
-  "headline": "Indian Markets Reopen After Dussehra Holiday Following Monday's Sharp 1,000-Point Sensex Crash and Global Cues",
+  "headline": "Indian markets reopen after holiday; OYO slashes IPO size while Flipkart reports record festive user engagement.",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,36 +7,37 @@
     "nextOpen": ""
   },
   "why": [
-    "Markets are reopening today after being closed for the Dussehra holiday on October 20",
-    "Investors are reacting to a significant crash on Monday where the Sensex dropped over 850 points",
-    "Elevated crude oil prices are weighing on investor sentiment and domestic market stability",
-    "US stocks ended higher overnight as healthcare gains offset a breather in the technology sector"
+    "Indian markets are reopening after the Dussehra holiday observed on October 20.",
+    "Investors are reacting to a sharp market crash on Monday where the Sensex fell over 850 points.",
+    "Elevated crude oil prices and global inflation risks are weighing on investor sentiment.",
+    "Private banking and IT stocks led the recent market downturn, dragging down major indices."
   ],
   "whatHappening": [
-    "OYO's parent company Oravel Stays plans to nearly halve its IPO fresh issue size to ₹3,350 crore",
-    "Flipkart reported record daily active users during the festive e-commerce season according to BofA",
-    "Newsprint manufacturers have sought PM intervention to resolve a coal crisis affecting the industry",
-    "The North of England is initiating moves to unlock and expand trade opportunities with India"
+    "OYO's parent company is nearly halving its IPO fresh issue size to up to ₹3,350 crore.",
+    "Flipkart hit a new high in daily active users during the start of the festive e-commerce season.",
+    "Newsprint manufacturers are seeking PM intervention to resolve a critical coal supply crisis.",
+    "US markets ended higher on Tuesday as healthcare gains offset a breather in technology stocks."
   ],
   "stocksInNews": [
     {
-      "symbol": "BSE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 6/9 sources",
+      "symbol": "OYO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        10,
-        11,
-        13,
-        14,
-        16,
-        17,
-        18,
-        19
+        9
+      ]
+    },
+    {
+      "symbol": "FLIPKART",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
       ]
     }
   ],
-  "summary": "Indian markets resume trading today after a holiday, facing pressure from Monday's significant sell-off and rising crude oil prices. While US markets provided positive overnight cues, domestic sentiment remains cautious due to sector-specific challenges in banking and IT. Key corporate developments include OYO's revised IPO plans and strong festive demand in the e-commerce sector.",
-  "updatedAt": "2026-10-21T00:02:09.154Z",
+  "summary": "Indian markets resume trading today following the Dussehra holiday and a significant 1,000-point Sensex crash on Monday. OYO has significantly reduced its IPO fresh issue target, while Flipkart reports record-breaking user engagement during the festive season. Global cues are mixed as US markets recovered on Tuesday despite ongoing concerns over oil prices and inflation.",
+  "updatedAt": "2026-10-21T00:21:31.928Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-21",
   "articleKeys": [
@@ -59,7 +60,7 @@
     "stock market holiday today are nse bse banks open on october 20 ndtv",
     "stock market holiday on dussehra are nse bse mcx open or closed for trading on october 20 the times of india",
     "sensex settles 850 pts lower nifty ends below 22900 elevated crude oil prices among key factors behind moneycontrolcom",
-    "three reasons why markets are falling today sensex slumps 700 points nifty cracks below 23000 ndtv profit"
+    "sensex nifty end in red as private banks it stocks drag markets india today"
   ],
   "articles": [
     {
@@ -177,10 +178,10 @@
       "publishedAt": "Mon, 19 Oct 2026 04:27:35 GMT"
     },
     {
-      "title": "Three Reasons Why Markets Are Falling Today: Sensex Slumps 700 Points, Nifty Cracks Below 23,000 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTFM5R1hmT2Z2RkotRklzTXVoTHRCTmFmSEQwS1U4dlA2SzQ5YXZrQmhTN2ZQVU0wUGU4THJDd0lKNmpRdU5na09uclloQXhEQ3pNbmotYXcxZXNPSlJQLU1qeFlnb3NPMWVlUHI2Z2NaSHBCaXhIc3RvWndQTU9veFVwSWVCa2RYVTlod0U0YllMcHE5bU1RdXoxQ01mcHpuY1N5Z1k4OXlUUF8tNzl2N2dhV25VZ0dva2lKOUJ4a1BxMjN5TGRSUGxkMFhIemhsaVE2R9IB3AFBVV95cUxOY0pnQy1RZEE3LWwzMmVzVXlMQU9zX1dKeFVudGp6NlNCMlpIM0ZFa2RCekpqWjdjWDVMdFMxOHFId3UzWjgtUW1pb1QtZTRfbzR3NjEtU2Rnb2wyWnRtQWdBaXRLQlNQV0cxeklvdk1WRE04ZWdmMzF4R0NRYWctQ2cweUVOMEpXT084d1l6c0J3RGlwQlRFLTdRLXpoMHpacnIxbHBiYXB2NXZsTUhNUVFSM1ZGU2dhaFduXzNQaEhtRHJIODZ0LWJsREtaNGhaTjFwdFdldXRuaGkw?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 07:21:53 GMT"
+      "title": "Sensex, Nifty end in red as private banks, IT stocks drag markets - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdWpja3REU2lGNkJZWWFXanJ0MDhUdGI0YzRJa0xNa01USmgwMWEtWF9uTHlyLWNmTGg4c1FyVGdMbi1ISEJsOVJYZE54eFVmZVBISXJVSERPdGRfdFBWUS1aeGdvZTlTSWpWTWMxU1lpWXBvRUhGWncxRUUzbW5PVHF1R0kyM1VuY0p3MUM5aE9GRkxuSTVxUlRZck51ekNlaVFiYk92NXNVZVVaendsN041RG11NjV1YlNlUE14aC1fSFBiTWpKXzIyMTZkX1NrQWhBWUdyVDZ4WEp1SVHSAeMBQVVfeXFMTzNRUW84cGJRc3FSU2lGcm9abHFtM2g1SWVIaE1tTDB5al8yVndkUzJCU3hUVFJiZkZLWG9OdWhwVHY2bEtLWmg5R2pBLUZQTWl6QjU3MEVJWFc4bXhpd3J3dFk4SWxRdm9fT2dQS2VocE0wbHNta3VYeEt6WnM4Qk9VVEVIZFlCVjZMMDdvSjNQNVVMTThtNmxaTzhPcHFrX2RRVXMwRnRtZGprb0Q2OC1kbXpkLUxydkY1ZkpidEdYMUdUbFBSNDd4bzlYV1dYWnl4aDBaTEFncXZPZUdLZC00LWc?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 10:06:32 GMT"
     }
   ]
 }
