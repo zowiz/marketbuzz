@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty decline for second straight session as early rally fizzles out",
+  "headline": "Sensex and Nifty end lower after volatile session; Reliance and HDFC Bank in focus",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,71 +7,87 @@
     "nextOpen": ""
   },
   "why": [
-    "Banking and private bank stocks dragged benchmark indices lower from intraday highs.",
-    "Surging crude oil prices put pressure on market sentiment.",
-    "Early trade gains supported by IT stocks and firm global cues failed to sustain.",
-    "Steep sell-off caused Sensex to slump over 900 points from its day high."
+    "Surge in crude oil prices weighed on investor sentiment",
+    "Sharp sell-off from day highs after an initial 500-point rally",
+    "Selling pressure in private banking and IT sectors during the afternoon session",
+    "Global concerns over a severe AI-detected security bug affecting global websites"
   ],
   "whatHappening": [
-    "Sensex fell 143.21 points to settle at 73,709.69, while Nifty dropped to near 22,811.35.",
-    "Reliance Industries discussed energy and technology partnerships during Marco Rubio's visit to Jamnagar.",
-    "HDFC Bank launched an internal probe into an alleged data leak by two senior executives.",
-    "IHCL outlined plans to reach 700 hotels in its portfolio within FY27."
+    "Sensex declined 143.21 points to settle at 73,709.69 after a volatile Wednesday session",
+    "Nifty 50 slipped to 22,811.35, giving up early gains driven by IT stocks",
+    "Reliance Industries discussed energy and technology partnerships with US Senator Rubio at Jamnagar",
+    "HDFC Bank initiated an internal probe into an alleged data leak involving senior executives"
   ],
   "stocksInNews": [
     {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        0,
-        2
+        4,
+        6
       ]
     },
     {
       "symbol": "HDFCBANK",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "INDHOTEL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        6
+        7
       ]
     }
   ],
-  "summary": "Indian markets recorded a second consecutive session of losses as early gains dissolved under drag from banking stocks and rising crude oil prices. Sensex tumbled over 900 points from its day high to settle near 73,709. In stock-specific news, Reliance Industries discussed energy partnerships in Jamnagar, while HDFC Bank initiated an internal probe over data leak allegations.",
-  "updatedAt": "2026-10-21T19:01:52.225Z",
+  "summary": "The Indian stock market ended lower on Wednesday as early gains from IT stocks were erased by a sharp afternoon sell-off. The Sensex fell over 140 points amid rising crude oil prices and volatility in the private banking sector. Key corporate developments include Reliance Industries' new partnership talks and an internal data probe at HDFC Bank.",
+  "updatedAt": "2026-10-21T21:01:55.085Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-22",
   "articleKeys": [
+    "us stocks today nasdaq leads wall street higher as spacex super micro lift ai sentiment",
+    "meta raises ai spending forecast to 145 billion plans new share issue q3 revenue beats estimates",
+    "blackrock expands ai push with new robotics etf as investor enthusiasm cools",
+    "php2shell alert ajay bagga flags most severe aidetected bug that puts 70 of global websites at risk",
     "rubio mukesh ambani discuss energy technology partnerships at jamnagar",
     "chip stocks lift nasdaq as nvidia amd jump 3 meta defies 25b penalty ahead of earnings",
     "discussed opportunities for partnerships in conventional new energy ril on rubio visit",
     "hdfc bank initiates internal probe into alleged data leak by two senior executives",
     "gurugram residents store water 24hour shutdown to hit these areas from friday",
     "meta hit with 25billion penalty in historic new mexico verdict over data privacy violations",
-    "ihcl to have 700 hotels within fy27 says md ceo puneet chhatwal",
-    "us treasury yields slip as ai concerns boost safe haven demand ahead of 20 year auction",
-    "ranbir kapoor apologises for dussehra speech slipup explains his mistake and recalls rockstar song",
-    "trump said no why israels planned october attack on iran was called off",
     "stock market highlights sensex declines 14321 points to settle at 7370969 nifty drops to 2281135 the times of india",
     "stock market today live private banks it drag sensex over 980 points lower at noon metals buck the slide businessline",
     "stock market crash key factors behind the steep sensexnifty selloff on oct 21 cnbc tv18",
     "sensex nifty rally up to 1 in early trade on it stocks firm global cues the hindu",
     "sensex up 500 points 3 reasons why the stock market is rising today india today",
     "sensex slumps over 900 points from day high nifty settles near 22800 know what triggered the fall outlook money",
-    "stock market today sensex falls 143 points nifty 50 slips as crude oil prices surge apac media",
     "indian stock market today sensex and nifty fall for second straight session telangana today",
-    "indian market rally fizzles banking stocks drag sensex nifty rediff moneywiz",
-    "share market today nifty 50 bank nifty oct 21 2026 liquide blog"
+    "stock market today sensex falls 143 points nifty 50 slips as crude oil prices surge apac media",
+    "sensex nifty gives up gains to close lower it stocks shine india today",
+    "wibbly wobbly wednesday for stock market sensex nifty first soars and then crashes from days high fall reasons livemint"
   ],
   "articles": [
+    {
+      "title": "US stocks today: Nasdaq leads Wall Street higher as SpaceX, Super Micro lift AI sentiment",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-higher-as-spacex-super-micro-lift-ai-sentiment/articleshow/135100483.cms",
+      "publishedAt": "Thu, 22 Oct 2026 01:45:59 +0530"
+    },
+    {
+      "title": "Meta raises AI spending forecast to $145 billion, plans new share issue; Q3 revenue beats estimates",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-raises-ai-spending-forecast-to-145-billion-plans-new-share-issue-q3-revenue-beats-estimates/articleshow/135100437.cms",
+      "publishedAt": "Thu, 22 Oct 2026 01:42:20 +0530"
+    },
+    {
+      "title": "BlackRock expands AI push with new robotics ETF as investor enthusiasm cools",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/blackrock-expands-ai-push-with-new-robotics-etf-as-investor-enthusiasm-cools/articleshow/135099678.cms",
+      "publishedAt": "Thu, 22 Oct 2026 00:56:44 +0530"
+    },
+    {
+      "title": "'PHP2Shell' Alert: Ajay Bagga Flags 'Most Severe' AI-Detected Bug That Puts 70% Of Global Websites At Risk",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/php2shell-alert-ajay-bagga-flags-most-severe-ai-detected-online-bug-that-puts-70-of-global-websites-at-risk-12217076#publisher=newsstand",
+      "publishedAt": "Thu, 22 Oct 2026 00:49:21 +0530"
+    },
     {
       "title": "Rubio, Mukesh Ambani discuss energy, technology partnerships at Jamnagar",
       "source": "Zerodha Pulse",
@@ -107,30 +123,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/technology/meta-hit-with-25-billion-penalty-in-historic-new-mexico-verdict-over-data-privacy-violations-12217161#publisher=newsstand",
       "publishedAt": "Wed, 21 Oct 2026 23:34:10 +0530"
-    },
-    {
-      "title": "IHCL to have 700 hotels within FY27, says MD & CEO Puneet Chhatwal",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/ihcl-to-have-700-hotels-within-fy27-says-md-ceo-puneet-chhatwal-126102101449_1.html",
-      "publishedAt": "Wed, 21 Oct 2026 23:33:53 +0530"
-    },
-    {
-      "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
-      "publishedAt": "Wed, 21 Oct 2026 23:19:52 +0530"
-    },
-    {
-      "title": "Ranbir Kapoor Apologises For Dussehra Speech Slip-Up, Explains His Mistake And Recalls Rockstar Song",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ranbir-kapoor-apologises-for-dussehra-speech-slip-up-explains-his-mistake-and-recalls-rockstar-song-12217071#publisher=newsstand",
-      "publishedAt": "Wed, 21 Oct 2026 23:18:55 +0530"
-    },
-    {
-      "title": "Trump Said No: Why Israel's Planned October Attack On Iran Was Called Off",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/trump-said-no-why-israel-s-planned-october-attack-on-iran-was-called-off-12217112#publisher=newsstand",
-      "publishedAt": "Wed, 21 Oct 2026 23:17:20 +0530"
     },
     {
       "title": "Stock Market Highlights: Sensex declines 143.21 points to settle at 73,709.69; Nifty drops to 22,811.35 - The Times of India",
@@ -169,28 +161,28 @@
       "publishedAt": "Wed, 21 Oct 2026 11:20:11 GMT"
     },
     {
-      "title": "Stock Market Today: Sensex Falls 143 Points, Nifty 50 Slips as Crude Oil Prices Surge - APAC Media",
-      "source": "APAC Media",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONVhSUTN0UVVBaWp4WFZnTERSQklsV1FTcld3TGpkSWs0cnA5V2ZKdmZTM1ZETXZ2RGFiZGk4TzdJZ1h5dU05MGRmUWxGckhyZU1ZTFF2M05PbjFUMkliQjF4Wk1oVE8yME1yd2xjUmZEUkNBUXBCWjhSRGVydl91bmowSzNLeGs?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 11:29:48 GMT"
-    },
-    {
       "title": "Indian stock market today: Sensex and Nifty fall for second straight session - Telangana Today",
       "source": "Telangana Today",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTNFMUJiZ1Yta3hDU09iRHk1MFNNNVpUS0pOYzdMc1ZGcjZyU3h6aW5faVlJYlpVa1d2UHdKVXhmaWtXNFBwWlNRaU1HOEJ5dzlGWnZzVGZkNndOc2J1SVo1N2NLTHhGcTlOeFg0M3pVRE1qenZONFRtRjNEVTNONVgtSHdhaXllMUk5TThCQkI2SmR0VzhNRDFmX21zTjE4TjMzYg?oc=5",
       "publishedAt": "Wed, 21 Oct 2026 10:43:30 GMT"
     },
     {
-      "title": "Indian Market Rally Fizzles: Banking Stocks Drag Sensex, Nifty - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUHl3Ri14Q0tHMjdZRll3TFp2cWs5bmNNV1huQWdmcUtNZVJ0c2NsRW9KaF83VEJSZUIzSldyM0M1UWhlS1UwRlM1OWptdUNCZHl3c3VGSHRqR3I2Zm1mRzZIS3ZfcUZ3WXRZNmF1RXlHMWR1alBnZkdMeDVtNnEwQlJ4UUw5dEdQSWFxUTN2bDlrMjlQdmFnS01IWGl3TkVIQXlyUVc1Q01Db2tMQUJvZjBR0gG3AUFVX3lxTFByT3lubXlZTHJfcDNQUE1JdkJVdmFHbGZKUDFWczlWQnM0bEM4c2RRdUkwOWY1RUpNUTVlYkJEbUc0RHVnSzFpcExqQ3owU21NN3lacnZWR1FLTGVvaURrdHNXXzBnUkR0OWZ6MVNtOXRfWXNQeFRaUVd3OTVDX2V5bHBab2ZWQlpWMUVwejc5Y25DWjROSDV5TmxVVkVjT2NpTEUwNkwwV3BpRGc1ZTBzNEtFWlZHdw?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 08:45:11 GMT"
+      "title": "Stock Market Today: Sensex Falls 143 Points, Nifty 50 Slips as Crude Oil Prices Surge - APAC Media",
+      "source": "APAC Media",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONVhSUTN0UVVBaWp4WFZnTERSQklsV1FTcld3TGpkSWs0cnA5V2ZKdmZTM1ZETXZ2RGFiZGk4TzdJZ1h5dU05MGRmUWxGckhyZU1ZTFF2M05PbjFUMkliQjF4Wk1oVE8yME1yd2xjUmZEUkNBUXBCWjhSRGVydl91bmowSzNLeGs?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 11:29:48 GMT"
     },
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Oct 21, 2026 - Liquide Blog",
-      "source": "Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0ptQm9rVUR3WmhXT1hsYVFkZ1FDeXFBQ21Ma0hFU3N5Uzg5V3A4WW9ydXFNNW1BMFNRalB2V0NZNUZrMTB6SmlvMnBfUzYtaUdSTUt3emRnTjdZakRpRERJMkdiZ2lYX3hEQ2RRZ0pMamRYWi1RUzh3T0VwdmhkSXowNUtmcDRaYXR0dVdySHlRWjRFblRMWlJoZnBQZ3B6d05RVnA5b3BxeHhNal9xeWF3Y2hUXzhlVEF2SkxPSHlVOXVwNU1RWHpfTzl2bHM?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 11:12:17 GMT"
+      "title": "Sensex, Nifty gives up gains to close lower; IT stocks shine - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaWFxVEdUZElGaEVTNF9VTVEwVFpXUlRXcUZ1S1FTMVpIMnZVdFVJbTlqRVpvN056WXdXOEtfaHFDV2tXb0lvR1hrZERSMGFsUGdGYmtyemdiZmdoTXRkWHV4WWFWaWpSdjFGclVuaERMQ0xsd2pldlNfZGJudk9EZDc0QlNSa3JneHY1MUpIbE1TbVRoOEozY3NJbFdNYTJLZ1Jyd0hPMWpMbmI4NG5kUWRUZ01VY3FSTjExQ3k5VVBwSDhFeW5TMjZiblhsYzNG0gHWAUFVX3lxTE1YUXhCVEZnOTJHbktEQzZ6OWxrMzBibktwWGs0RWp3aGE4LW9LSHRkYlByYUpfaEVoQUphenV0U3pPc1BOSFA3cV83ajkxSkstTWZoYkdEN2pVT01KcmgtMWdBbWNBd01UZG54SmVHcFNpSno1d0dfZW1Qak9PeW1wV3hnbk1VdUczeXhQanhTQVZBOWZ3cTFtSmR0eEN0d25OdFF6VHdnN1lLYkVTaUZUYmRfdmVaUWIxRExPYWxwYkwwc1JSdUgxUGRqajkwbmxzMmtPRHc?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 10:37:43 GMT"
+    },
+    {
+      "title": "Wibbly wobbly Wednesday for stock market! Sensex, Nifty first soars, and then crashes from day's high - Fall reasons? - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOUk0VGdPTlRvNUFYeEliMno2QWszekZLRm5HR19EYVZad3Q2alhueDB3MGI1eGV0SHdDTlJibTczVk9UV21COXdHOXNZRkFqWDduU3NfTUxsVjdMSURUNkZBLTc3ZnYtT3cxN2l6eDJ1Nld3clN1UElUdmZoTEhlTUM4aWZ5QVlidUZJbGxxN1pqQmJWamo5aWhtWVlMSWlqbTM2YmRYc0JWMXd4T2x3SDhSakxTMHozVDVQbU9vYXBvanU0WTF1T0lGeVhBRklQT3ltMkR0di16ajE4UXNFYnVRUzlNVkY4ck9zeTZPVEl0dkdzMk5TWEZFVlNSNnpJdDJRRm55U3FEbmQ00gGSAkFVX3lxTFBHZ3FKVWF5eDA0Sm1vajV4Yk9PRjhuYlE0R01mbEd2TFhTYWdNUTROQ0xZWE94YzVYdmNOOFYyOVJjcVVFWm1xZTBGS2NhcjlXN1h1RmJzd3JjR20tTFNtVTBjYm93WWJsd0ZkNExLUUVDOE9iSUluQnNxX29PVUJFd2duZ1pYM3NzYXVLTlAwM0JYUWpwVmE3ZlNEdHc0THZrbUxnbGk3WVZHaER3MXZ4S0ZwSXA2a0syYk9yU2lPeFJLYjBfeTJFN0M4ZzI2dHQydHFnQVV0bHZuNnFYdjdwOVpUczRyNjdNeFo4TUVGQ1hJSmRCbkIwVTVaUmZOa19uVEl0Q0toNW51b19nVUFQSkE?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 07:24:44 GMT"
     }
   ]
 }
