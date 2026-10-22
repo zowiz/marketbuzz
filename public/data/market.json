@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty Plunge for Third Day as Crude Oil Prices Surge Above $110",
+  "headline": "Sensex drops 460 points, Nifty closes below 22,700 led by weakness in IT, Media, and FMCG stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,56 +7,54 @@
     "nextOpen": ""
   },
   "why": [
-    "Crude oil prices topped $110-$111 per barrel, weighing on market sentiment",
-    "Significant selling pressure in Media, FMCG, and IT stocks",
-    "Technical breakdown as Nifty fell below the 22,700 mark",
-    "Continued bearish momentum leading to a third consecutive day of losses"
+    "Media, FMCG, and IT stocks dragged market benchmarks lower.",
+    "Benchmark Nifty broke support levels to close below 22,700 at 22,688.",
+    "Sharp drop in specific stocks like KEI Industries which fell 8%.",
+    "Broad-based selling pressure pulled Sensex down over 400 points."
   ],
   "whatHappening": [
-    "Sensex plunged over 460 points to close significantly lower",
-    "Jio Platforms IPO subscription crossed 5.5 times on its second day",
-    "eMudhra announced its exit from the global SSL/TLS certificate business due to security flaws",
-    "Colgate-Palmolive reported a 12% jump in sales and declared a Rs 24 dividend"
+    "Sensex closed 460 points lower while Nifty ended below the 22,700 level.",
+    "CPCL reported Q2 net profit tripling to ₹2,271 crore.",
+    "Adani Energy Solutions reported Q2 net profit more than doubling to ₹1,364 crore.",
+    "HDFC Bank announced an internal review on potential violations."
   ],
   "stocksInNews": [
     {
-      "symbol": "EMUDHRA",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "CPCL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0,
+        0
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "ADANIENSOL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
         2
       ]
     },
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        1,
-        4
-      ]
-    },
-    {
-      "symbol": "NDTV",
+      "symbol": "CYIENT",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "COLPAL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        8
+        4
       ]
     },
     {
       "symbol": "KEI",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         16
       ]
@@ -64,7 +62,7 @@
     {
       "symbol": "BAJFINANCE",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         19
       ]
@@ -72,7 +70,7 @@
     {
       "symbol": "CIPLA",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         19
       ]
@@ -80,104 +78,110 @@
     {
       "symbol": "NESTLEIND",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         19
       ]
     }
   ],
-  "summary": "Indian markets fell for the third straight session as Sensex dropped over 460 points and Nifty slipped below 22,700, pressured by rising crude oil prices exceeding $110. \nWhile Jio Platforms' IPO saw record-breaking demand and high GMP, broader market sentiment remained weak due to drags in IT and FMCG sectors. \nColgate-Palmolive reported positive Q2 results with a dividend declaration, contrasting with the overall bearish trend and sharp declines in stocks like KEI Industries.",
-  "updatedAt": "2026-10-22T14:31:41.436Z",
+  "summary": "Indian benchmark indices fell sharply today, with the Sensex closing 460 points lower and Nifty slipping below 22,700.\nSelling pressure in Media, FMCG, and IT stocks dragged the broader market down.\nKey stock highlights included strong Q2 earnings from CPCL and Adani Energy Solutions, while HDFC Bank initiated an internal review.",
+  "updatedAt": "2026-10-22T17:31:29.679Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-22",
   "articleKeys": [
-    "emudhra to exit global ssltls certificate business after security flaws",
-    "record galore jio ipo claims crown for highest qib demand among indias 5 largest issues edges past nse",
-    "emudhra exits global website security business after weak keys found in eight certificates",
-    "ndtv world summit 2026 live updates pm modi set to arrive eam jaishankar to speak",
-    "jio platforms ipo day 2 live overall subscription crosses 55 times gmp signals 22 gains",
-    "lockheed martin raises guidance set for record f35 deal as us plans 850 more jets",
-    "buying a skoda car this october check discounts on kylaq kushaq and slavia",
-    "sitra in coimbatore signs mou with taiwan institute",
-    "colgate q2 results net profit rises 4 sales jump 12 rs 24 dividend declared",
-    "your sip shows rs 50 lakh how much of it is your real wealth",
+    "cpcl net profit more than triples to 2271 crore in q2",
+    "internal review underway on potential violations hdfc bank",
+    "adani energy solutions profit more than doubles to 1364 crore",
+    "what is sepaktakraw that pm modi spoke about at ndtv world summit 2026",
+    "cyient q2 net dips on higher income declares 12 interim dividend",
+    "the rbi and its growing fiscal role",
+    "ndtv world summit 2026 highlights day 1 ends with pm modis address ai and global order in focus",
+    "india targets 23nm chip design as students develop over 325 chips says pm modi",
+    "no game pass xbox now lets insiders buy cloud gaming hours in packs",
+    "ge aerospace to deliver 3200plus engines over next decade says vikram rai",
     "stock market today highlights sensex plunges over 400 points nifty50 tumbles below 22700 the times of india",
+    "why is stock market up today sensex rises 829 points nifty surges 1 top 4 reasons behind dstreet soar explained livemint",
     "sensex down 500 points today why is stock market falling today india today",
     "three reasons why market is falling today sensex tumbles 600 points nifty tests 22600 ndtv profit",
     "stock market today sensex falls 460 points nifty closes below 22700 media fmcg and it stocks drag india infoline",
-    "market close nifty sensex fall for 3rd day as oil tops 110 hdfc sky",
     "why is stock market down today sensex drops 460 points nifty ends at 22688 top 3 reasons explained livemint",
     "sensex today ends 460 points lower nifty below 22700 kei industries down 8 equitymaster",
     "why is stock market down today sensex drops over 700 points nifty crashes 1 top 3 reasons explained tradingview",
-    "sensex nifty end in red as crude oil tops 111 markets decline for 3rd day india today",
+    "ahead of market 10 things that will decide stock market action on friday the economic times",
     "market wrap bajaj finance cipla nestle india eternal top gainers and losers on nifty and sensex on thu the economic times"
   ],
   "articles": [
     {
-      "title": "eMudhra to exit global SSL/TLS certificate business after security flaws",
+      "title": "CPCL net profit more than triples to ₹2,271 crore in Q2",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/emudhra-to-exit-global-ssl-tls-certificate-business-after-security-flaws-126102201129_1.html",
-      "publishedAt": "Thu, 22 Oct 2026 19:04:26 +0530"
+      "link": "https://www.thehindu.com/business/cpcl-net-profit-more-than-triples-to-2271-crore-in-q2/article71612767.ece",
+      "publishedAt": "Thu, 22 Oct 2026 22:11:20 +0530"
     },
     {
-      "title": "Record galore! Jio IPO claims crown for highest QIB demand among India’s 5 largest issues, edges past NSE",
+      "title": "Internal review underway on potential violations: HDFC Bank",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/record-galore-jio-ipo-claims-crown-for-highest-qib-demand-among-indias-5-largest-issues-edges-past-nse/articleshow/135120259.cms",
-      "publishedAt": "Thu, 22 Oct 2026 18:51:18 +0530"
+      "link": "https://www.thehindu.com/business/internal-review-underway-on-potential-violations-hdfc-bank/article71612652.ece",
+      "publishedAt": "Thu, 22 Oct 2026 22:05:12 +0530"
     },
     {
-      "title": "eMudhra Exits Global Website Security Business After Weak Keys Found In Eight Certificates",
+      "title": "Adani Energy Solutions’ profit more than doubles to ₹1,364 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/emudhra-exits-global-website-security-business-after-weak-keys-found-in-eight-certificates-12221008#publisher=newsstand",
-      "publishedAt": "Thu, 22 Oct 2026 18:42:56 +0530"
+      "link": "https://www.thehindu.com/business/Industry/adani-energy-solutions-profit-more-than-doubles-to-1364-crore/article71612676.ece",
+      "publishedAt": "Thu, 22 Oct 2026 22:04:45 +0530"
     },
     {
-      "title": "NDTV World Summit 2026 Live Updates: PM Modi Set To Arrive, EAM Jaishankar To Speak",
+      "title": "What Is Sepaktakraw That PM Modi Spoke About At NDTV World Summit 2026",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/what-is-sepaktakraw-that-pm-modi-spoke-about-at-ndtv-world-summit-2026-12222150#publisher=newsstand",
+      "publishedAt": "Thu, 22 Oct 2026 22:00:53 +0530"
+    },
+    {
+      "title": "Cyient Q2 net dips on higher income, declares ₹12 interim dividend",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/cyient-q2-net-dips-on-higher-income-declares-12-interim-dividend/article71612463.ece",
+      "publishedAt": "Thu, 22 Oct 2026 22:00:43 +0530"
+    },
+    {
+      "title": "The RBI and its growing fiscal role",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/the-rbi-and-its-growing-fiscal-role/article71113535.ece",
+      "publishedAt": "Thu, 22 Oct 2026 21:53:52 +0530"
+    },
+    {
+      "title": "NDTV World Summit 2026 Highlights: Day 1 Ends With PM Modi's Address, AI And Global Order In Focus",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/india/ndtv-world-summit-2026-live-updates-mumbai-is-becoming-a-much-better-city-to-live-in-says-raymonds-gautam-singhania-12218267#publisher=newsstand",
-      "publishedAt": "Thu, 22 Oct 2026 18:35:09 +0530"
+      "publishedAt": "Thu, 22 Oct 2026 21:51:58 +0530"
     },
     {
-      "title": "Jio Platforms IPO Day 2 Live: Overall Subscription Crosses 5.5 Times; GMP Signals 22% Gains",
+      "title": "India Targets 2-3nm Chip Design As Students Develop Over 325 Chips, Says PM Modi",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/jio-platforms-ipo-day-2-live-updates-check-gmp-subscription-lot-size-price-band-12218160#publisher=newsstand",
-      "publishedAt": "Thu, 22 Oct 2026 18:29:43 +0530"
+      "link": "https://www.ndtvprofit.com/india/india-targets-2-3nm-chip-design-as-students-develop-over-325-chips-says-pm-modi-12222055#publisher=newsstand",
+      "publishedAt": "Thu, 22 Oct 2026 21:40:30 +0530"
     },
     {
-      "title": "Lockheed Martin Raises Guidance, Set For Record F-35 Deal As US Plans 850 More Jets",
+      "title": "No Game Pass? Xbox Now Lets Insiders Buy Cloud Gaming Hours In Packs",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/lockheed-martin-raises-guidance-set-for-record-f-35-deal-as-us-plans-850-more-jets-12220292#publisher=newsstand",
-      "publishedAt": "Thu, 22 Oct 2026 18:29:11 +0530"
+      "link": "https://www.ndtvprofit.com/technology/no-game-pass-xbox-now-lets-insiders-buy-cloud-gaming-hours-in-packs-12220548#publisher=newsstand",
+      "publishedAt": "Thu, 22 Oct 2026 21:39:59 +0530"
     },
     {
-      "title": "Buying A Skoda Car This October? Check Discounts On Kylaq, Kushaq And Slavia",
+      "title": "GE Aerospace To Deliver 3,200-Plus Engines Over Next Decade, Says Vikram Rai",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/buying-a-skoda-car-this-october-check-discounts-on-kylaq-kushaq-and-slavia-12220911#publisher=newsstand",
-      "publishedAt": "Thu, 22 Oct 2026 18:28:00 +0530"
-    },
-    {
-      "title": "SITRA in Coimbatore signs MoU with Taiwan institute",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/sitra-in-coimbatore-signs-mou-with-taiwan-institute/article71611045.ece",
-      "publishedAt": "Thu, 22 Oct 2026 18:28:00 +0530"
-    },
-    {
-      "title": "Colgate Q2 Results: Net Profit Rises 4%, Sales Jump 12%; Rs 24 Dividend Declared",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/colgate-q2-results-net-profit-rises-sales-jump-rs-24-dividend-declared-12220685#publisher=newsstand",
-      "publishedAt": "Thu, 22 Oct 2026 18:27:11 +0530"
-    },
-    {
-      "title": "Your SIP Shows Rs 50 Lakh. How Much Of It Is Your Real Wealth?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/your-sip-shows-rs-50-lakh-how-much-of-it-is-your-real-wealth-12220278#publisher=newsstand",
-      "publishedAt": "Thu, 22 Oct 2026 18:23:18 +0530"
+      "link": "https://www.ndtvprofit.com/business/ge-aerospace-to-deliver-3-200-plus-engines-over-next-decade-says-vikram-rai-12222048#publisher=newsstand",
+      "publishedAt": "Thu, 22 Oct 2026 21:39:53 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex plunges over 400 points, Nifty50 tumbles below 22,700 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQOGM2dXlRcmFhTlY1dWRJSjJadld4aVBEVEJNY19XY2FSdHFZMjcxZ21ueXh4MVlvb3hGN3NjenFxYW9Fa1RLSEFBdkFndVNObFU1RV9kWV9UZ2hBQ19XSnhhQWhSdGZLX3BqbGZfVVJnT0ZxZlZqYk01QUxVSm9JeWJzanRtVmVoVExaVHhXOUx4YnpGMWZXTVpZaWtHaGpGX1lpRUVzU0VCSGZIaXlCR3JybmVROVVKc2ZIVnJDQ3lqaFBNZEpwclRQYU4xODIzZ01oZV9fd3dROWhSQWFmZVVKMlYwbzRJYkgtUzdaakdiWlBtd3JnUTQxYlhadG52aWJZM1BTaVJ0cG5FRHpJX2pBcHZ0YkEwT2hMNElyYW5tSDZhaHJoWV9ZNmNoOHVtS25wN9IBugJBVV95cUxPMUpvN2hDSmV6aEU3WVFKU3ZNZ1A5bFlSWjd1akQ0M0kxak15WjZSMmFmMllmQWxvbkNHaGViMUhkQU52ZjRUV0JIWHB3RlkwSkF5SXQ3c2hTbGsycjhmcEVLbzFibVY3MWo3SFVxSFg0WXlpU19YaGV5Q2ozcGlLMjZVeHlLVTFKblNrUU55TzBtVkdzR3MxeXZIc1o1akwyeFo2WXNoMnk0OEZQajdWNG04R2VINFVTc3lodWE3Q0t5NG52SU8yc1lDenVsMXBmeUw2djVpSjhFR3U0Y1NodDFOU3B3M3h2YXZIQzlBSHdPQXpyU0RiTHpzaVd3X0hVOXJBcHh0djM2RHFLeW9yNG5oTlZMWjdVUmdlMzJqUExFc1NfNW1IZjdvaTh5N19ZVVA0U3lGenlyUQ?oc=5",
       "publishedAt": "Thu, 22 Oct 2026 10:46:20 GMT"
+    },
+    {
+      "title": "Why is stock market up today? Sensex rises 829 points, Nifty surges 1% | Top 4 reasons behind D-Street soar explained - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMkNuSVZMT1VaeTE2Q2psdDdVNVJsVnpwb3pST2s0VkpYbmJQVUw3RjlXMVJlaXZ0cF9EZFZmUzdaWDhEclIybFE3YUhCYnFiQUgtbWozemJhTjJUTndSMERuS2FIUUgxaUx3Vl85MzlraDZVdE9nZ1kxTEo4LWZUSTE3d0NVc3RIWWFsVkh2RVM4ODRCOXIwNXZrLTF4WGlJYUpYbE5OUFhlT0JJck9KN04xQlNxbVp3TUY3dUJHLWdkdkRvVlZBX1l6TjV5ekV4T205WTBSRldDczJuWWdDZTZ5U0t4VzNoWXkwVENwc0RQaW1COGZfVnliOEgtX0MyemNjcTZRNlM1Y3N5MXZBd1NR0gGXAkFVX3lxTE5SYld1Nzlvd0RCUjU3bGpfYjNNSjFLS2Y4bW41LUZQS3FVbUx3RUtNM2JuVEsxSWVzSjFFcloxQWQ0cTQtZC1XYWp0ZlFHc3U5ZWJFMXhYZWVKTWxaSVdTVFBRTzczN1Y1cmJGUUl0b1NUM2ZTUjNfNjdueTZYWVgwUnVPdVFpSm82YS12MHFKdVdXVklpYnBlSURDUmx3M2taOWl4dTczaXQ0dWs4Z053RDFSLXNfZHVBd2Z5dFJTQXVrakdxR0ZheXlOdl9QRnE0R1RGTml6bEpMNFpZbFF6dG9oelpkYjRhb2xRdUFtMVpVZlJxbHlVSndFWGVhRHRhN0ZQc2k4ZTRYbGdMS3NneEozOGhoYw?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 04:54:59 GMT"
     },
     {
       "title": "Sensex down 500 points today: Why is stock market falling today? - India Today",
@@ -198,12 +202,6 @@
       "publishedAt": "Thu, 22 Oct 2026 11:03:41 GMT"
     },
     {
-      "title": "Market Close: Nifty, Sensex Fall for 3rd Day as Oil Tops $110 - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVWZ6SVVVcjFqY1V2c3B6dG5jbENlXzVxc2t2R0EtV1RZeWVLNmhEX3FQMl9lcDdTZ1JVdkpWYjhJelhSOTZyVEsyd2l5YTRNQ1hNckVrTzkzUWRGb3hHS0FCdXZKOGwzVWduQTBkcFYtelg0M3ZTYnk1N2RkXzhId0pZMi1McXM0ZmUtalZ6Y0FZRklxUmFUb1JRRE1HVEpMZ1doeUtSWDFTN3V4QjRiSQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 10:58:32 GMT"
-    },
-    {
       "title": "Why is stock market down today? Sensex drops 460 points, Nifty ends at 22,688 - Top 3 reasons explained - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcV8ySzdzNTZxT0NaYzdxb0RlZ1d0SGd3aTRvSDdQRGFNNGZIeUxfOEl5cDZtN0xsOWtOZ2RDNTlSTjBtT0oyZjRXYUtNTHB0QnNMWXpCZlBEenlQSFlPRkVhb0djaTdMcDNMNTJMRkhIU2k3Tmp3MTMybjZTSk1OekdmNng3b2JpQlhiT2tQbDlETEZ0YkZEOFNrZEpqdTl4ZDRMZEw0R0FOUnFIa2puNVZyVWN5QmRWLVR6ZkFEcnlSdjQ1b09TZlR6aTFYX2lu0gHWAUFVX3lxTE43bURuemx2MzU3eXVBay0zY3otTkRfekRrdC14NU5fS0tWcnkxSjUyVWl1RFUwUUlfMHlOckEwbGJ5VHpjTHh2RTJ1Ykg2SlpTWEIzZmpLbzhBbDZsWEU5UERhcjhRTERvMTZsZHlCQUpOY185OEpJZ0hreWZpbkd6Q2dnMkdxYlJUaHhIbUJxd3N0M2VRdXpvY0syTEw2bmRYLWVHUVNmNWI4UXl3OTBYUElWX0R4UGJzYWFaVlhnWDYzUVVNWHh2eThmNUNVTlpCYVpsMFE?oc=5",
@@ -222,10 +220,10 @@
       "publishedAt": "Thu, 22 Oct 2026 07:33:12 GMT"
     },
     {
-      "title": "Sensex, Nifty end in red as crude oil tops $111; markets decline for 3rd day - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTHlsMUkzOEkyOHJKY3BSNWdlX0dkR3JFRG90QS03UlBZN2M2M3RCVXc2RDJhNGR3SFFoUGJ6YkpQaFVLN0tVZDYwOWV4MWhVLXEzZkN5ZElEbmpHOU5fLWIyd3FwSmllUkxPLWhsTnBzWHlEdFNLdmlia3dQa2hPWDlzU0dkbFhYQWZSLS16R242SmZFam1iV1VtaFpXQ2kta29mWHI2ZWtfbHlMWGhsUUJ4dGdqeGk3S1JaaUhSTU5XRGRyX01US3htcnp0bGhPOHdYLWFn0gHbAUFVX3lxTE5ZRTRndFFQbk9PWVB5dUJGMXhsUHBFN0pBRWxzM2hubXdZZVJfM0tLRUZVRmJMRUR5cEU3ODZSTXZiWGFFYkE3OXZEazJyNWNUSEhIel9ENWNfU2VNQlZHTGd2VXdmVldZLTZEXy1xUU5KREZmOHUwQWNSYzFieVpKaU0tMFVRRC1WTVRCRFNab0F4Q0tHd2p0aE1mUEdmdDJLWk8yM1YtY2VXZXptR3Z5WmhMYVhDQkQ3ZU1TTnM0NHQ5b2JqTW9QbzExejkxTGdYcmlMTHM0WXczWQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 10:04:11 GMT"
+      "title": "Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOckdibWhSdW5jRW1oSmRoQWtrenFhdmxEUzM0ZHRZWHNCdkM0VWZoY01WbTZRcHQyYWN4OW9NQ2o4NFdkZ3RjTkdMekNjR08zNTN6aTdzWWY3UzMtZG9VTk1WNFhxT1ZzbHhjWGFva1pQOWhVaUh2Y1pkRGhMT3JTLVZmY0NpLU9pMmFSaWxGVFU2NGYwNl9VWkdESG5tSzdzQ05MVEVpT1JmVV95MkJxN1YzdS14UTZ0WktiSl94dFZkdFM2VUI2V1BlaWxtb3F2eWdhSS11M3pwT3BkYk5R0gHkAUFVX3lxTE9oRXJBaTRoTW5GbHQ0VGxXNzdXVVhBSDJUMnB1SGFKaElMNW13THpxT2xmSXczVkRwNkgtckxiQjY3dEowdm5nWmszN2N4ZEd5cGRsQXhXU1hzVXlxSG5tTjJGRloxVXM1NGtoZXFIeTFCbTZTVjVZV3lia1o4QVU2Wjg1RVlWM255TW9vU01YZzJURUNhbWZMTTRvbVJObmVTSDdoT2hHTHFCdGZjeHRjN0xpRXZFbm9DbUZSWmY2X1dDVW41RW9jODlPdEgyNkh0VkFFaEZVQjRZYUo4YlZxRll4Sw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 16:03:41 GMT"
     },
     {
       "title": "Market wrap: Bajaj Finance, Cipla, Nestle India, Eternal top gainers and losers on Nifty and Sensex on Thu - The Economic Times",
