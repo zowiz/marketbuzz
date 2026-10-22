@@ -1,5 +1,5 @@
 {
-  "headline": "Indian market remains under pressure as crude oil surges and midcaps enter correction zone",
+  "headline": "Market sell-off deepens as midcaps enter correction zone amid rising crude oil and bond yields",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Crude oil prices topping $110 have put pressure on Sensex and Nifty.",
-    "Bond yields rose to 7.44% on higher oil prices and global cues.",
-    "Market sell-off has deepened with midcaps entering a correction zone.",
-    "Selling pressure in private banks and IT stocks dragged the market down."
+    "Midcap stocks entering a correction zone as the market sell-off intensifies",
+    "Crude oil prices surging above $110 per barrel, putting pressure on Indian equities",
+    "Indian bond yields rising to 7.44% due to global cues and high oil prices",
+    "Significant wealth erosion in recent sessions with Sensex and Nifty falling for consecutive days"
   ],
   "whatHappening": [
-    "Rupee surged to a 6-week high supported by Jio IPO flows and a weaker US dollar.",
-    "Indian banks opened ₹10,000 crore-plus in M&A funding following an RBI rule change.",
-    "Jefferies sees valuation upside in select IT stocks despite a muted growth forecast.",
-    "HDFC Bank began an investigation into an alleged internal data leak."
+    "The Indian rupee reached a six-week high, supported by dollar inflows for the Jio IPO",
+    "Banks are preparing over ₹10,000 crore for M&A funding following a change in RBI rules",
+    "HDFC Bank has initiated an internal probe regarding an alleged data leak",
+    "Jefferies has identified potential valuation upsides in specific IT stocks despite muted growth projections"
   ],
   "stocksInNews": [
     {
@@ -24,8 +24,47 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        1,
-        5
+        2
+      ]
+    },
+    {
+      "symbol": "ALKEM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "BEL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "HPCL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "SWIGGY",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "GMDC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
       ]
     },
     {
@@ -37,54 +76,39 @@
       ]
     },
     {
-      "symbol": "ALKEM",
-      "sentiment": "Neutral",
+      "symbol": "AXISBANK",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        1
+        11
       ]
     },
     {
-      "symbol": "BEL",
-      "sentiment": "Neutral",
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        1
+        11
       ]
     },
     {
-      "symbol": "HPCL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/11 sources",
       "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "SWIGGY",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "GMDC",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        1
+        11,
+        14
       ]
     }
   ],
-  "summary": "Indian benchmark indices face headwinds as crude oil surges above $110 and midcaps slip into correction territory. Rising bond yields and selling pressure in banking and IT stocks continue to weigh on investor sentiment. However, the rupee strengthened to a 6-week high driven by Jio IPO inflows, and banks opened major M&A funding lines following RBI rule updates.",
-  "updatedAt": "2026-10-22T01:01:46.513Z",
+  "summary": "Indian markets are under pressure as midcaps enter a correction zone and crude oil prices climb above $110. While the rupee has strengthened due to Jio IPO flows, rising bond yields and internal bank probes are weighing on investor sentiment. Major indices like Sensex and Nifty continue to face volatility following consecutive sessions of decline.",
+  "updatedAt": "2026-10-22T01:31:41.522Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-22",
   "articleKeys": [
     "market selloff deepens as midcaps enter correction zone",
-    "stocks in news reliance industries eternal alkem labs bel hpcl swiggy and gmdc",
     "premarket action heres the trade setup for todays session",
+    "stocks in news reliance industries eternal alkem labs bel hpcl swiggy and gmdc",
     "bond yield rises to 744 on higher oil prices global cues",
     "jefferies sees valuation upside in select it stocks despite muted growth forecast",
     "rupee soars to 6week high on jio ipo flows weaker dollar",
@@ -93,7 +117,7 @@
     "meta raises ai spending forecast to 145 billion plans new share issue q3 revenue beats estimates",
     "hdfc bank begins probe into alleged internal data leak",
     "stock market highlights sensex declines 14321 points to settle at 7370969 nifty drops to 2281135 the times of india",
-    "stock market today live private banks it drag sensex over 980 points lower at noon metals buck the slide businessline",
+    "stock market highlights sensex slumps 876 points nifty 50 ends below 22900 axis bank tata motors pv infosys bajaj fin losses ndtv profit",
     "stock market outlook today october 22 sensex nifty likely to remain under pressure as crude oil tops 110 goodreturns",
     "stock market crash key factors behind the steep sensexnifty selloff on oct 21 cnbc tv18",
     "sensex nifty rally up to 1 in early trade on it stocks firm global cues the hindu",
@@ -111,15 +135,15 @@
       "publishedAt": "Thu, 22 Oct 2026 06:03:42 +0530"
     },
     {
-      "title": "Stocks in news: Reliance Industries, Eternal, Alkem Labs, BEL, HPCL, Swiggy and GMDC",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-alkem-labs-bel-hpcl-swiggy-and-gmdc/articleshow/135102947.cms",
-      "publishedAt": "Thu, 22 Oct 2026 06:00:00 +0530"
-    },
-    {
       "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135102916.cms",
+      "publishedAt": "Thu, 22 Oct 2026 06:00:00 +0530"
+    },
+    {
+      "title": "Stocks in news: Reliance Industries, Eternal, Alkem Labs, BEL, HPCL, Swiggy and GMDC",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-alkem-labs-bel-hpcl-swiggy-and-gmdc/articleshow/135102947.cms",
       "publishedAt": "Thu, 22 Oct 2026 06:00:00 +0530"
     },
     {
@@ -171,10 +195,10 @@
       "publishedAt": "Wed, 21 Oct 2026 10:44:52 GMT"
     },
     {
-      "title": "Stock Market Today Live: Private banks, IT drag Sensex over 980 points lower at noon; metals buck the slide - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODNuTXZqSnhxTUxpamlFY0JKb0hkekFyU3B6M2MxOFUxVUlGeVlJOVZfSWtvdzZZLUVvZkhYVXBXNnhFUXVWMGJfVzZMV3pKdUloTm9OeTZvUUtlT0h2Rk1NNUFsaHVUREdFbXUtWHMwRjJqaHd4U1NOWUNaSFB2UFpPNjk3bkZDTjVCQm9wQmY0cXZ6V19aYUlqeXI1ZEU5QkNRd09Jd28teWNKWjUyTExEMkc5RENSbXJNRWhOWjU1d1d1QlU5StIBzwFBVV95cUxOZVJjSG1IelREZWRTRFNlSWlMaTVvQ3FIMDdsNFYxYUFaelFCYW1GelQyTEtmdzNWZURFbFFxOFFZNDNDZnVPVkZWbE5HQjVDeVY2cGp3anhHT25qcUpwcFV1Vzk0SlJsT3lxQXNTc1NZNFZITUpyQVJSOU9nczhRc2RLUXpxSFJBdmxNQ1ZzbVNXMjhtX0NQTHZmRWJ2Yjk1akVDS3BzVHRxWW50U0J3VHFYT3lwWXFtaGFxUlFXUWZVYlZETU4xdGUtMWduQ1E?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 09:13:01 GMT"
+      "title": "Stock Market Highlights: Sensex Slumps 876 Points, Nifty 50 Ends Below 22,900; Axis Bank, Tata Motors PV, Infosys, Bajaj Fin Losses - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeUk3QjlvX0RkNm5ROFpPY1VYa1QtYzNZZmVHR2h4MC1vM0plMFRLOC11T3plNXQtWGNKLXF3elExZEZjTmNJQkxXblI2RUxwdVJvVUlOLTVndWx6Sl9Odm5USzQ4YjRURjFyMXlXeElLeC1fVGxzNHdfWmpOVVBjbldfaFNDc2ItQ1VxYXdzck10a1JSaEFTaThpSHdUMlMwQTBabTJ1RUVyZ0JlMDVZR2JDb0dvcDZhd2xlNjFpcW1GbXdyQ29wMkpmUmltOWRURTRzWnFXcU1wbEpVSGVtcUotYzNoRVQ1WmhHY1JtcWw4Z9IB-gFBVV95cUxQVW4wRGZPU0tsc0RtcmgySHM1TklQWFNocTV4Ry1kOGM0T21zSG9GeExocC1UNmJ5S3ZzaHcwVWRaWnZTcXFmbGpsdEtjalE2MXJXZnB3bWhHMHJQaHBGd2JvbmNTUUFKQkJyMGhtT1VrbHZMUGRQNWxBRjA0bzhadW5zQnlMdnJoY3lKYTBQcXhobHptMDRTOFdqcjZLQ1hvVUk4MldwRms1TDNIRE9qdzlBWlRNVldhMnpVQ240Sy1teDZ2SnRYeC02TXlmY1V4aW5nZDVmS2ZyMy0yVW5Lc1F5RXpEZW5yLXV0NWZxWXVxbHlPN3BGZUt3?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 10:09:46 GMT"
     },
     {
       "title": "Stock Market Outlook Today, October 22: Sensex, Nifty Likely To Remain Under Pressure As Crude Oil Tops $110 - Goodreturns",
