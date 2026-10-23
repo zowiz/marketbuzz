@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets set for firm start after three-session drop; GIFT Nifty signals recovery despite oil price concerns",
+  "headline": "Sensex and Nifty volatile as markets crash from day's highs amid rising oil prices and Jio IPO interest",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,193 +7,177 @@
     "nextOpen": ""
   },
   "why": [
-    "GIFT Nifty signals a firm start for D-Street, rising over 100 points",
-    "Indian equities are likely to snap a three-session losing streak",
-    "Crude oil prices topping $112 per barrel cloud the market outlook",
-    "Global markets face pressure from US tech selloffs and AI-spending concerns"
+    "Sensex crashed over 1,000 points from its intraday high as selling pressure intensified throughout the session.",
+    "Global oil prices surged above $113 per barrel, weighing heavily on investor sentiment and domestic indices.",
+    "India VIX spiked by 7%, signaling a sharp increase in market volatility and investor anxiety.",
+    "Negative global cues, including a selloff in US technology stocks, pressured the Indian markets."
   ],
   "whatHappening": [
-    "The Jio IPO closes today while the Core4 Engineers SME IPO opens for subscription",
-    "Technical indicators show Kaynes Technology and Tata Teleservices exhibiting bullish patterns",
-    "Sensex and Nifty previously tumbled below the 22,700 level during a three-day decline",
-    "Bajaj Finance and Hindalco are under scrutiny following recent declines in returns"
+    "Jio Platforms IPO Day 3 witnessed strong demand with the issue being subscribed over 5 times and a 22% GMP.",
+    "Cyient shares surged 9% following the announcement of strong second-quarter financial results.",
+    "Kotak Mahindra Bank is in focus ahead of its Q2 results with analysts expecting a 32% year-on-year PAT growth.",
+    "The Nifty IT index gained nearly 3% earlier in the day, providing some support despite the broader market decline."
   ],
   "stocksInNews": [
     {
-      "symbol": "CORE4",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        0
-      ]
-    },
-    {
       "symbol": "JIO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/10 sources",
+      "articleIds": [
+        1,
+        5,
+        13
+      ]
+    },
+    {
+      "symbol": "CYIENT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "CLEANSCI",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "SWIGGY",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "KAYNES",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "TTML",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         7
       ]
     },
     {
-      "symbol": "HINDALCO",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
+      "symbol": "LT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        8
+        14
       ]
     },
     {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
+      "symbol": "TCS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        9
+        14
       ]
     }
   ],
-  "summary": "Indian equities are expected to open higher today, potentially ending a three-session losing streak as GIFT Nifty shows positive momentum. Investors are monitoring the closing of the Jio IPO and the start of the Core4 Engineers SME IPO. However, rising crude oil prices and global tech volatility remain key concerns for the trading session.",
-  "updatedAt": "2026-10-23T04:01:54.805Z",
+  "summary": "The Indian market experienced a sharp reversal as the Sensex crashed over 1,000 points from its intraday high, with Nifty slipping below 22,500. Rising oil prices and a spike in India VIX contributed to the downturn despite robust interest in the Jio Platforms IPO. Cyient and IT stocks remained bright spots amid the broader market volatility.",
+  "updatedAt": "2026-10-23T05:31:51.934Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-23",
   "articleKeys": [
-    "core4 engineers sme ipo opens today check price band and other key details",
-    "jio ipo closes today will it deliver a doubledigit listing gain or become a longterm compounder",
-    "why was meta ordered to pay a 25 billion penalty to new mexico explained",
-    "from cdmo to aerospace how vikas khemani finds indias next big themes",
-    "clean science and technology among 3 stocks rose above vwap",
-    "swiggy among 4 fampo stocks with sharp rise in futures open interest",
-    "kaynes technology among 3 stocks showing white marubozu pattern",
-    "tata teleservices among 4 stocks showing rsi trending up",
-    "hindalco share price live updates hindalcos performance under scrutiny with negative returns",
-    "bajaj finance share price live updates bajaj finance experiences a decline in returns",
-    "indian shares seen opening higher after 3session drop oil surge clouds outlook reuters",
-    "equities likely to snap 3session fall as gift nifty signals firm start for dstreet moneycontrolcom",
-    "stock market today highlights sensex plunges over 400 points nifty50 tumbles below 22700 the times of india",
-    "ahead of market 10 things that will decide stock market action on friday the economic times",
+    "etmarkets smart talk smallcap investors should consider a fiveyear sip horizon amid volatility sorbh gupta",
+    "jio ipo day 3 gmp at 22 issue subscribed over 5x check brokerage views and key details",
+    "cyient shares surge 9 after q2 results",
+    "too many people drain my energy alia bhatt reveals how social gatherings affect her amid adhd anxiety struggles",
+    "eu inviting disaster by imposing carbon tax on steel says piyush goyal",
+    "jio platforms ipo day 3 check subscription size gmp lot size price band",
+    "stock market live sensex off high nifty below 22700 india vix rises over 4",
+    "kotak mahindra bank q2 results preview pat may rise up to 32 yoy margins loan growth in focus",
+    "us crude stays costly for india despite rubio push venezuela offers value",
+    "etmarkets smart talk a 25000 monthly sip can grow to 217 crore in 15 yearswith a 10 annual stepup jeet marwadi",
+    "sensex today nifty 50 stock market live updates sensex crashes over 1000 pts from days high nifty below 22500 india vix spikes 7 the economic times",
+    "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
+    "sensex falls 450 points nifty slips below 22500 as oil tops 113 jio ipo in focus firstpost",
+    "sensex today trades higher nifty above 22750 lt tcs top gainer equitymaster",
     "stock market today gift nifty us tech stocks selloff to oil prices five key factors for sensex nifty 50 on october 23 ndtv profit",
-    "stock market live gift nifty rises over 100 pts asia markets tumble on aispending concern business standard",
-    "why is stock market up today sensex rises 829 points nifty surges 1 top 4 reasons behind dstreet soar explained livemint",
-    "indian stock market today sensex and nifty fall for second straight session telangana today",
+    "sensex falls 500 pts from days high nifty near 22600 key reasons behind markets turning red moneycontrolcom",
+    "three reasons why market is falling today sensex tumbles 600 points nifty tests 22600 ndtv profit",
     "stock market today sensex falls 460 points nifty closes below 22700 media fmcg and it stocks drag india infoline",
-    "sensex nifty50 fall for third straight session as crude tops 112 per barrel upstox"
+    "sensex rises over 400 points as nifty it gains nearly 3 per cent telangana today"
   ],
   "articles": [
     {
-      "title": "Core4 Engineers SME IPO opens today: Check price band and other key details",
+      "title": "ETMarkets Smart Talk: Smallcap investors should consider a five-year SIP horizon amid volatility: Sorbh Gupta",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/core4-engineers-sme-ipo-opens-today-check-price-band-and-other-key-details/articleshow/135133511.cms",
-      "publishedAt": "Fri, 23 Oct 2026 09:08:07 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-smallcap-investors-should-consider-a-five-year-sip-horizon-amid-volatility-sorbh-gupta/articleshow/135134298.cms",
+      "publishedAt": "Fri, 23 Oct 2026 10:09:06 +0530"
     },
     {
-      "title": "Jio IPO closes today: Will it deliver a double-digit listing gain or become a long-term compounder?",
+      "title": "Jio IPO Day 3: GMP at 22%, issue subscribed over 5X; check brokerage views and key details",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-closes-today-will-it-deliver-a-double-digit-listing-gain-or-become-a-long-term-compounder/articleshow/135133412.cms",
-      "publishedAt": "Fri, 23 Oct 2026 09:02:38 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-day-3-gmp-at-22-issue-subscribed-over-5x-check-brokerage-views-and-key-details/articleshow/135134397.cms",
+      "publishedAt": "Fri, 23 Oct 2026 10:06:55 +0530"
     },
     {
-      "title": "Why was Meta ordered to pay a $25 billion penalty to New Mexico? | Explained",
+      "title": "Cyient Shares Surge 9% After Q2 Results",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/meta-ordered-to-pay-25-billion-over-cambridge-analytica-privacy-case/article71614455.ece",
-      "publishedAt": "Fri, 23 Oct 2026 09:01:15 +0530"
+      "link": "https://www.ndtvprofit.com/markets/cyient-shares-surge-9-after-q2-results-ebit-margin-expands-to-10-2-12223474#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 10:04:18 +0530"
     },
     {
-      "title": "From CDMO to aerospace: How Vikas Khemani finds India’s next big themes",
+      "title": "'Too Many People Drain My Energy': Alia Bhatt Reveals How Social Gatherings Affect Her Amid ADHD, Anxiety Struggles",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/from-cdmo-to-aerospace-how-vikas-khemani-finds-indias-next-big-themes/articleshow/135133021.cms",
-      "publishedAt": "Fri, 23 Oct 2026 09:00:45 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/too-many-people-drain-my-energy-alia-bhatt-reveals-how-social-gatherings-affect-her-amid-adhd-anxiety-struggles-12223532#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 10:02:36 +0530"
     },
     {
-      "title": "Clean Science and Technology among 3 stocks rose above VWAP",
+      "title": "EU 'Inviting Disaster' By Imposing Carbon Tax On Steel, Says Piyush Goyal",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/clean-science-and-technology-among-3-stocks-rose-above-vwap/slideshow/135133394.cms",
-      "publishedAt": "Fri, 23 Oct 2026 08:58:24 +0530"
+      "link": "https://www.ndtvprofit.com/world/eu-inviting-disaster-by-imposing-carbon-tax-on-steel-says-piyush-goyal-12223516#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 10:01:58 +0530"
     },
     {
-      "title": "Swiggy among 4 F&amp;O stocks with sharp rise in futures open interest",
+      "title": "Jio Platforms IPO Day 3: Check Subscription Size, GMP, Lot Size, Price Band",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-among-4-fampo-stocks-with-sharp-rise-in-futures-open-interest/slideshow/135133277.cms",
-      "publishedAt": "Fri, 23 Oct 2026 08:54:10 +0530"
+      "link": "https://www.ndtvprofit.com/markets/jio-platforms-ipo-day-3-live-updates-check-subscription-size-gmp-lot-size-price-band-jio-listing-date-12223513#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 09:56:36 +0530"
     },
     {
-      "title": "Kaynes Technology among 3 stocks showing White Marubozu pattern",
+      "title": "Stock Market LIVE: Sensex off high, Nifty below 22,700; India VIX rises over 4%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-technology-among-3-stocks-showing-white-marubozu-pattern/slideshow/135133148.cms",
-      "publishedAt": "Fri, 23 Oct 2026 08:50:45 +0530"
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-q2-results-today-126102300078_1.html",
+      "publishedAt": "Fri, 23 Oct 2026 09:55:27 +0530"
     },
     {
-      "title": "Tata Teleservices among 4 stocks showing RSI trending up",
+      "title": "Kotak Mahindra Bank Q2 results preview: PAT may rise up to 32% YoY; margins, loan growth in focus",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-teleservices-among-4-stocks-showing-rsi-trending-up/slideshow/135132941.cms",
-      "publishedAt": "Fri, 23 Oct 2026 08:38:25 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-preview-pat-may-rise-up-to-32-yoy-margins-loan-growth-in-focus/articleshow/135134211.cms",
+      "publishedAt": "Fri, 23 Oct 2026 09:54:08 +0530"
     },
     {
-      "title": "Hindalco Share Price Live Updates: Hindalco's performance under scrutiny with negative returns",
+      "title": "US crude stays costly for India despite Rubio push; Venezuela offers value",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-23-oct-2026/liveblog/135132301.cms",
-      "publishedAt": "Fri, 23 Oct 2026 08:15:45 +0530"
+      "link": "https://www.business-standard.com/economy/news/india-us-venezuela-crude-oil-imports-rubio-refiners-freight-126102300221_1.html",
+      "publishedAt": "Fri, 23 Oct 2026 09:53:11 +0530"
     },
     {
-      "title": "Bajaj Finance Share Price Live Updates: Bajaj Finance experiences a decline in returns",
+      "title": "ETMarkets Smart Talk| A ₹25,000 monthly SIP can grow to ₹2.17 crore in 15 years—with a 10% annual step-up: Jeet Marwadi",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finance-stock-price-today-live-23-oct-2026/liveblog/135132027.cms",
-      "publishedAt": "Fri, 23 Oct 2026 08:01:30 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-a-25000-monthly-sip-can-grow-to-2-17-crore-in-15-yearswith-a-10-annual-step-up-jeet-marwadi/articleshow/135134089.cms",
+      "publishedAt": "Fri, 23 Oct 2026 09:52:48 +0530"
     },
     {
-      "title": "Indian shares seen opening higher after 3-session drop; oil surge clouds outlook - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVk5bXN2THRVWVBubnpudHpPQ2dreFhuVUxXSUFqZWJLa2psTU1rbjl3UktXTlVabEpvVEM0YUpuZVBUWkJQSjB4X1o1QlI5OEZYNE1fNE5QREZ1RjZqeURTcEFZSm5DbkFGYkFCLVNVYkpRNXRCQ3RMTDExMGVJdS1lUjUtdlBFVkJQY1VXdVBZTF9qVklpbU1YRXp6dHpXNWhqcHVFVFNsZUtQeXV6SGNBTnJYaHBzWlE5SF9EeFpiYllha3c?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 02:17:00 GMT"
-    },
-    {
-      "title": "Equities likely to snap 3-session fall as GIFT Nifty signals firm start for D-Street - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZGRObVlNTDdPaUlkdjllU3VLcVJwamdXSTRTSVZZaTRpQUNOZXZpRjh4NW1jdEU3NnlmV3dzUWdGRk5PcFRnTU1oMHNGRkh6dTc4OU56VHBHZ0EtMGdHUmNPX2pMRjlvRnY0ZnFvTXc1eDdwbDBsczVYZlN1cS02RGJBdmJUX3ZENElBWWFtMnVNdExUYXJSLTZNdFA4UXQyaFFRWUMxNUh4TEtqUlJNN1F5b2FhM1BTa1Z5eml1RWs0cVFzMHJSSC1yRXZFeHZoRXY0c1YzOVU2SUc5MkJxWjV3MNIB6AFBVV95cUxPQVdDZDZ3ak5lZ0hDVzVTSVFPSS1EVUFVUVdSTHpZc2xDM0V1Zkh2LVk1UlEyQ0NXSFZZLUgzWF9KWGhjMVdsUDlBelZLSEp4Ykx1emZoMTExQkVVZUZpWmp2RUxldFFIQlUxeXROSnRobDA1Mk5HNGZDaXItdFFCazk5bHNlQklqZ0tMX1VPbHpzaUNRcGlsSGpZeGhjZDlaRU9NTjlkb191aE1RYWluYlcwQWJfdWNfaERwQkZxYkpoYm1iUVd6S0NkYnRqRzA1VENPZjJPS3ZPZENjd0lheUloYTUzalc2?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 03:06:14 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights: Sensex plunges over 400 points, Nifty50 tumbles below 22,700 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQOGM2dXlRcmFhTlY1dWRJSjJadld4aVBEVEJNY19XY2FSdHFZMjcxZ21ueXh4MVlvb3hGN3NjenFxYW9Fa1RLSEFBdkFndVNObFU1RV9kWV9UZ2hBQ19XSnhhQWhSdGZLX3BqbGZfVVJnT0ZxZlZqYk01QUxVSm9JeWJzanRtVmVoVExaVHhXOUx4YnpGMWZXTVpZaWtHaGpGX1lpRUVzU0VCSGZIaXlCR3JybmVROVVKc2ZIVnJDQ3lqaFBNZEpwclRQYU4xODIzZ01oZV9fd3dROWhSQWFmZVVKMlYwbzRJYkgtUzdaakdiWlBtd3JnUTQxYlhadG52aWJZM1BTaVJ0cG5FRHpJX2pBcHZ0YkEwT2hMNElyYW5tSDZhaHJoWV9ZNmNoOHVtS25wN9IBugJBVV95cUxPMUpvN2hDSmV6aEU3WVFKU3ZNZ1A5bFlSWjd1akQ0M0kxak15WjZSMmFmMllmQWxvbkNHaGViMUhkQU52ZjRUV0JIWHB3RlkwSkF5SXQ3c2hTbGsycjhmcEVLbzFibVY3MWo3SFVxSFg0WXlpU19YaGV5Q2ozcGlLMjZVeHlLVTFKblNrUU55TzBtVkdzR3MxeXZIc1o1akwyeFo2WXNoMnk0OEZQajdWNG04R2VINFVTc3lodWE3Q0t5NG52SU8yc1lDenVsMXBmeUw2djVpSjhFR3U0Y1NodDFOU3B3M3h2YXZIQzlBSHdPQXpyU0RiTHpzaVd3X0hVOXJBcHh0djM2RHFLeW9yNG5oTlZMWjdVUmdlMzJqUExFc1NfNW1IZjdvaTh5N19ZVVA0U3lGenlyUQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 10:46:20 GMT"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex crashes over 1,000 pts from day's high; Nifty below 22,500; India VIX spikes 7% - The Economic Times",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOckdibWhSdW5jRW1oSmRoQWtrenFhdmxEUzM0ZHRZWHNCdkM0VWZoY01WbTZRcHQyYWN4OW9NQ2o4NFdkZ3RjTkdMekNjR08zNTN6aTdzWWY3UzMtZG9VTk1WNFhxT1ZzbHhjWGFva1pQOWhVaUh2Y1pkRGhMT3JTLVZmY0NpLU9pMmFSaWxGVFU2NGYwNl9VWkdESG5tSzdzQ05MVEVpT1JmVV95MkJxN1YzdS14UTZ0WktiSl94dFZkdFM2VUI2V1BlaWxtb3F2eWdhSS11M3pwT3BkYk5R0gHkAUFVX3lxTE9oRXJBaTRoTW5GbHQ0VGxXNzdXVVhBSDJUMnB1SGFKaElMNW13THpxT2xmSXczVkRwNkgtckxiQjY3dEowdm5nWmszN2N4ZEd5cGRsQXhXU1hzVXlxSG5tTjJGRloxVXM1NGtoZXFIeTFCbTZTVjVZV3lia1o4QVU2Wjg1RVlWM255TW9vU01YZzJURUNhbWZMTTRvbVJObmVTSDdoT2hHTHFCdGZjeHRjN0xpRXZFbm9DbUZSWmY2X1dDVW41RW9jODlPdEgyNkh0VkFFaEZVQjRZYUo4YlZxRll4Sw?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 16:03:41 GMT"
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHBrVjVoSUg2N2FhZUM0VnJmZWxFT21sRW1aZE5scnJldnh4NkgyTVVhRG9PZnVxSjlCb3VGSlEtaDd4NGJzaVlKcVdnekZvbEp3TW1fN0pKM28yNEtTeUFRNFhQOVlDbFpCZHpyUTNSNm1UMzVJYTJnRE1VRHFtV1lCQVp4VXhPUUdUc3FaZXM4RDRleHFndHAyRm1XcHdxVExGUkV1Z1Vibk5GdEdFWVJHWkkwVXRwRC0wUVNXTmpxN0VRanU4anNxS1FlelRuN3d1dkhFZG5jN3VmdFhzcHowYUhzUEJ0cHRxVGVuTVVEOXRaMkRtUzRpUm0zZHBnTC1hQTZ1ak5hV3RJ0gGSAkFVX3lxTE9KUGRsMTExTTlDMUxBeGV3Z2t4Vlo4QlYyOWY3bU1ZMEIwMGJpbm9rS24yTVc4NlpCMjV6VjBoeDFuWHd1c3ZpbWNtZ2MySlZFcnlEdW41aHFJcXdVVFpiaTk3YUxQQkV1bEFMem5XajdfUFhfVTA4Um9kSnZKTkdzTnpHQzg5N0tTQThqMEJMS3IzTWVabG15NGFjXzFYUS1hV1RUUXREUzNMbFY3dnl6NmZoc0sxUVl3VW15LTZBWVZvTEMxQ0d4Y3Fsc2NzbTdmcFFGWlhZVERCdmtxU1ctQ2Q2d18tV0ItLUVIMVhqUW5NX1ZLYXlyNVZJYjB0RC1QR0ZPV1VOeDRYQlRQMXFXQXc?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 05:28:26 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 23 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTWxKQmhIZi1qa3BFdEFrWVNkUDJnaEswcHk5bThXdGphTkNINUFXLUZhc2t0UkF1UVFTYlJaNnhQWEk5TUVNVVpNYWRwM2hBM0JNOFE2X2JWYkwyZlJ5Z3ZENFMtT2dtZWRCR0MtcWV5ekN0QUJuN1llRjVsNDZMU1hmNG9UTldJa3Rvd0pnckJzd1BMNDVTOGxLNkVBVmhwNTZXRWpVcGtvUzNHUUI1SUZ5TzU1MGQ0aDI4NFhLYUlxUjB3aFktQkE3a2pDTXR2V1BRTV9rMWt2RmduVHpFUU1GdnR2Ujk1aTZvMTg2Z0dSMGVJOWNPYWZRWnBHUjZVTnc4RtIBigJBVV95cUxOcFctNlFlTXNYZ29wZDFVWWwzeVRfT2hJekJ6cW1fU3V0bTVORlZVR3VTWXpDdldYcEdsNzFPd1VHcXk4WWRmemVsMFNQSmRHWE5mNEt5eWVMUmVvLURZUThCTTFETnd2WFRVM2VDU096LWl5WkRRWXZfMHZ4cUJPTWVaTU0tam16STVJUnlOOHJsdkg2dTkyb3hDVTA2N25TYjRSVWxCWDhKSmQzTzAxdVVlV1dvdTdkZC1CQllOXy1FR2VzalYtOEhQSEtDTnBrakVGa3E3cjV5b3U2blQxT0JjdGhId1FqUkVrX1dwbzFtUGV4NUdmUmI2amVadzQzN29leW1raWtUdw?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 01:16:48 GMT"
+    },
+    {
+      "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr0gHDAUFVX3lxTE02Zk9MNDBpdm1fQlg5MVEzdkowOTlLQ1pZMUY1VDRoWERQMmwzVXJKaHBVaGdDR3lOWHdmeHN1ZG5uVG1ZRUliWTg4eHpDa21JUGxQdThZQjNPeTQ5dkxMbldPei1Gb1RJU1RjR1dLUGRGX0NWRVZyTDNXSGhUU1J6ZjBoYk51SGVDV2FPVzhpZ1VXNjFmMHM3T01ZLU82Q0w5Z2I1NUo2aFhpd3BoOUNISlkxZDBVWE1Na2F3TWo3Z3J4aw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
+    },
+    {
+      "title": "Sensex falls 450 points, Nifty slips below 22,500 as oil tops $113; Jio IPO in focus - Firstpost",
+      "source": "Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHB1V0V0REszTFp6bmJZdENuVHRoMmN3MzBlcTNjRXhmNDlPZnBUWlhKRmpuTjhrMEx0ZzlVSHp6NVRRSjBSc19EZC13VW83M0wwNFlxcF9pWUVKZ0lwa1BLNXRvREZUbWNDcEJZWWFwSXF1bnllRG5GWERNWHhfaUlEcWVCS0dSbEFNVG1QZGxQRGZlenY2T1gyQdIBoAFBVV95cUxOMG9jdzdVT0NKQkJNLXhsRVpIb3BYNkZRRHJsckxabnJueWN4X1E1dG83b0N2UTBZX3pEeGwwdnlIc3JfeTlNd05WN2tqYlV6cUdEaEEzWk5vU1JnZkg3Y292OENyWjFaekI5Y2JWQ2F4eDd6MG1mYlFCdDVLSW1CLXlRTUoxcDV5bFk2TTZYX2szSWRtWUVwMmhfRVpueU9r?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 05:19:43 GMT"
+    },
+    {
+      "title": "Sensex Today Trades Higher | Nifty Above 22,750 | L&T, TCS Top Gainer - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRk1ySUd1d0drUE9aVjhDcU1SNHZFcWpaN0F1T0tQUFRzN2J5R2NYSG0wM2dMOFNrVDl2Z3hQNkxxTTlmbTFINEJkd2VwME9hTGhGRm0yTWUyM1JWS0E2NHRaSjREMTBDQWhmXzZXc0xxd2xURXF0dENBd2JxZmpNYjZTR1hDeWtDWDJVdGt2U19NamM5UlZGaE40MjRaUjdoWjZxUkY1TEdOUXV6czg1a3RxQjFIT0hTaUFnUVBpbDJhRGowTlVhZmZQWk1GNmM2UmFOWDFvUUdUNXZsQ1NhQ3VTcVhUb2wzaE5SbWg2UmRWbDFaMnhfS3JBU2tVaWtQaUdTa05zUUR1SGJfRUxUVm5QSDVyX2lNZHo5SW1MU1FDYmxuU1dF?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 04:16:20 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty, US Tech Stocks Selloff To Oil Prices; Five Key Factors For Sensex, Nifty 50 On October 23 - NDTV Profit",
@@ -202,22 +186,16 @@
       "publishedAt": "Fri, 23 Oct 2026 01:31:34 GMT"
     },
     {
-      "title": "Stock Market LIVE: GIFT Nifty rises over 100 pts; Asia markets tumble on AI-spending concern - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVFFeGltOU5ULVFVeVBYQmUzRGpXN3hDRjN3VXRoeDFGWTVsV1RqME43WkRnV2l4OExfTndoWjF6UlpIYWJrYnh0V0NGXzZJeWk0d0NrTF9YbG0tbVJ0dTVyUFhlQnVNc0tBVWhCcjdkWjZTWTNhdFdwVEZRM2gybGt4UVNkN1k5N1ZpWE16dFNEX0I0WEdXWHp5Z0VabmdDX2ZMbzZUTEE1b3NSWC0xbGlucGE3UG5zQjdWdnI2MnlWWFc3d0FFT0NLcUR0QjBuMmhWZ3VDbGtQZGtSTGQyem9MRUJWbDZLejB4VEgzRGdhMVZHZlppTzBGWHplU0pLT2plaEM4VVjSAY4CQVVfeXFMTlFIS1BXeGVHaWtoYTdma0N6aGk0bXVXUG82RjdzclBtejdBRHhJY0NsdVl1bWJBUGhCaTZYanY5ZDVIOENxckgtSHlzTDYxdVAweWpRakwwYmh2eGlmaXJ0YXNXS1JxUGxoV2xMWjhaU3FJblBjQm10ZTZ1enJDbDd0RndDd2F4Znc4WWtKTGNsd0dIeUowMktXUHdaQ3JBLV9EdXg3VGVYbW5SN1p1QVdxalJGTFljNkVJeWVFdnUwbE56YkpaTG9tQUxEREN3TzdlX21jay1jVHFmcHhPOHdwVThTbmpYdkQtdVRmMjBxV0NZVGVYeHFRbnpWcjRwQXY4RGtTQUxuSGhkaXpn?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 02:53:00 GMT"
+      "title": "Sensex falls 500 pts from day's high, Nifty near 22,600: Key reasons behind markets turning red - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR250SWE3RDBETXh2Unp3ZENZa1ZNX1k3QnVlaUk4cERpOVl1Zm5XT25FNVAtZnJXc1YwSnQxY3VIUjdRckM2Wm1DZjhUMXpIVW96eXdIb2IybkxlOGNETDFvR0xVYjZuazlaNkcwNWhSMzU1b2pqUnZwVHlPYUtULVphbmh0VUhSNjFSOGNCY0RiVGM3MEdibzZLa05FQUNCc2ZkRi1FY1F1dDR5MHZnSVBWamVQSzlvaTNxNVpmLW9hbUtqRFN2QzhGX3BLOGc0Qldqdlp5c01PMkVLOUZxdVRrTVZrOXd1OVHSAe8BQVVfeXFMTmpwTlpEb25yZXVFWHRXUzhuQ2RDYVVTX08xSWZSVGFTMHlTU2F2SDVJTkN5ZU9hWWdIb0tsUEdtdzE2M1kxcTRxTWt1ZDdRdVNSS0t0bWlFWTlkSXh2Vk9wQUstRldGT0JDbGNkX3Vab1FZQVZkcWtqNmM5QUZiRS1qOFNsR0pHRmdRUkNhY195TFBMN21HNEl5OTA3aVhVYkdHWXgyMmppN0JlY3dDRVRkZ1dMeWpReHZmaWJCc3ROMHFJWEY2dE0tSU83TXFXdEpvRm1leVBLVzhmQXlHMEhNZUFJQlZmR0xDOXp4V0U?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 04:27:31 GMT"
     },
     {
-      "title": "Why is stock market up today? Sensex rises 829 points, Nifty surges 1% | Top 4 reasons behind D-Street soar explained - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNMkNuSVZMT1VaeTE2Q2psdDdVNVJsVnpwb3pST2s0VkpYbmJQVUw3RjlXMVJlaXZ0cF9EZFZmUzdaWDhEclIybFE3YUhCYnFiQUgtbWozemJhTjJUTndSMERuS2FIUUgxaUx3Vl85MzlraDZVdE9nZ1kxTEo4LWZUSTE3d0NVc3RIWWFsVkh2RVM4ODRCOXIwNXZrLTF4WGlJYUpYbE5OUFhlT0JJck9KN04xQlNxbVp3TUY3dUJHLWdkdkRvVlZBX1l6TjV5ekV4T205WTBSRldDczJuWWdDZTZ5U0t4VzNoWXkwVENwc0RQaW1COGZfVnliOEgtX0MyemNjcTZRNlM1Y3N5MXZBd1NR0gGXAkFVX3lxTE5SYld1Nzlvd0RCUjU3bGpfYjNNSjFLS2Y4bW41LUZQS3FVbUx3RUtNM2JuVEsxSWVzSjFFcloxQWQ0cTQtZC1XYWp0ZlFHc3U5ZWJFMXhYZWVKTWxaSVdTVFBRTzczN1Y1cmJGUUl0b1NUM2ZTUjNfNjdueTZYWVgwUnVPdVFpSm82YS12MHFKdVdXVklpYnBlSURDUmx3M2taOWl4dTczaXQ0dWs4Z053RDFSLXNfZHVBd2Z5dFJTQXVrakdxR0ZheXlOdl9QRnE0R1RGTml6bEpMNFpZbFF6dG9oelpkYjRhb2xRdUFtMVpVZlJxbHlVSndFWGVhRHRhN0ZQc2k4ZTRYbGdMS3NneEozOGhoYw?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 04:54:59 GMT"
-    },
-    {
-      "title": "Indian stock market today: Sensex and Nifty fall for second straight session - Telangana Today",
-      "source": "Telangana Today",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTNFMUJiZ1Yta3hDU09iRHk1MFNNNVpUS0pOYzdMc1ZGcjZyU3h6aW5faVlJYlpVa1d2UHdKVXhmaWtXNFBwWlNRaU1HOEJ5dzlGWnZzVGZkNndOc2J1SVo1N2NLTHhGcTlOeFg0M3pVRE1qenZONFRtRjNEVTNONVgtSHdhaXllMUk5TThCQkI2SmR0VzhNRDFmX21zTjE4TjMzYg?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 10:43:30 GMT"
+      "title": "Three Reasons Why Market Is Falling Today: Sensex Tumbles 600 Points, Nifty Tests 22,600 - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWE1adldhaXhXLVZDNURHbjQ3c1pXbk0taFlCUFFSaUp5bVd1U2NMUEp1UmdiamhXeTlSUHNfZ3BqdThERnc2V1JOMkc4T0FGMTVDMFFkaEtLdGctVUJkbk85WjBmNmFsTV9Pa3Vfc3JGVFkwcVlNLXpNaDFHX0RxQXh1OVREYVVVWGxTMkFxeGU2Nmx0dGJPSmM2MnlBX2l0VDFRVVZiWmNsTmViWWZ0Ny16QjA0X3U3TEY2QURKOWYzRXItWGpHd1NB0gHSAUFVX3lxTE5uQmY1aUhjazFNOVh1dXJxQkN2bkVpVXVrNlVMN3hQcDRVNVVTaFVzSlo0WGlyVk9kRlk1dDl5Z2JEcVlTalFXVVlRWVk3cFU4b2l3cjItTjJFa2lPejlxQ0VwYVJ2cmNZSHhWNC0yZUN0Mm9oUDBlR09NeGZlUElJM3YxNDI4MFR3QkNLMFRxQWgtNGtqNTF5TTdOM3p5Y2w4SWcybEJjRmZJTlBhcTYzcThSZGZFM3g5OGVYalBsLWh2Mkg0VHZuT2dSTE1rLS1KQQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 04:11:54 GMT"
     },
     {
       "title": "Stock Market Today: Sensex Falls 460 Points, Nifty Closes Below 22,700; Media, FMCG and IT Stocks Drag - India Infoline",
@@ -226,10 +204,10 @@
       "publishedAt": "Thu, 22 Oct 2026 11:03:41 GMT"
     },
     {
-      "title": "SENSEX, NIFTY50 fall for third straight session as crude tops $112 per barrel - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNHJwMHctX194YmgwOGt5TnY0bllIWkYxaDU3ZTZac3RXSnRxcFYya2FSZUI0a3I1YmYyak93Y195b3RhT0FuLTM3T29PT1REcmFjOWxBYzFxR2xibFgxcE43b2ZGcnBvR1Z4TWQ5ejNXaWpnSlVvaXpuLVltZEhZVVBaV2FtSGtJQ0w3WFJWZEdEY25GejFkcHExcDV4RU9kaEplOEhzU25zQlRqRWtKWHoxN085VERzREczUjJwd0FUc0ZqMFZzZ0wyd0tLa0lO?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 10:22:22 GMT"
+      "title": "Sensex rises over 400 points as Nifty IT gains nearly 3 per cent - Telangana Today",
+      "source": "Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVJ2aVlaQTJEU3haR3RsX2lmNHI3UGRXM0dicDdHcUc1X2lLV3lzT1RoOXlOdEVNZzdKMmJFTUJ0Rll6cm5LbGpJSG0xTE5BOXJ2bUMySGQzbXJ4d2ZoVkdleWtEUjFFR1NCekNDT1FnZXQzcDBHUGJjVlRVRzJmVl8wRkdiQkVfZUNqajN4bHJxb3l4dmc?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 04:19:26 GMT"
     }
   ]
 }
