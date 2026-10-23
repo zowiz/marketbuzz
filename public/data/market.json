@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Indian markets fell for the fourth straight day as surging oil prices led to weekly losses.",
+  "headline": "Last session: Sensex and Nifty closed lower as surging crude oil prices and global market concerns weighed on sentiment.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Monday, 26 October 2026"
   },
   "why": [
-    "Surging crude oil prices nearing $114 per barrel due to West Asia tensions",
-    "Profit booking after the market snapped a two-week winning streak",
-    "Geopolitical instability impacting global investor sentiment",
-    "Mixed corporate earnings reports and cautious guidance for the upcoming fiscal year"
+    "Surging crude oil prices approaching $114 per barrel weighed heavily on Indian equities.",
+    "Weak global market cues as US indices fell amid persistent AI doubts ahead of the Fed meeting.",
+    "Profit-booking dragged the market lower, with Sensex shedding over 1,600 points during the trading week.",
+    "Mixed Q2 corporate earnings reports and guidance cuts impacted investor sentiment."
   ],
   "whatHappening": [
-    "The Nifty 50 closed at 22,600 while the Sensex fell 125 points in the last session",
-    "The Sensex recorded a weekly loss of 1,600 points during a volatile trading period",
-    "SEBI ordered a refund of Rs 546 crore and penalized Avadhut Sathe Trading Academy",
-    "A ceasefire agreement between Russia and Ukraine was reportedly brokered by the US"
+    "Infosys reported a 6.2% rise in Q2 net profit to ₹7,828 crore but cut its FY27 revenue guidance.",
+    "BPCL rebounded into profitability, posting a Q2 net profit of ₹4,993 crore.",
+    "Coforge reported strong Q2 performance with net profit surging 56.5% to ₹588 crore.",
+    "Godrej Properties saw its Q2FY27 net profit decline 62% to ₹154 crore."
   ],
   "stocksInNews": [
     {
@@ -24,7 +24,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        0
+        1
       ]
     },
     {
@@ -32,7 +32,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        1
+        2
       ]
     },
     {
@@ -40,7 +40,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        4
+        5
       ]
     },
     {
@@ -48,7 +48,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        5
+        6
       ]
     },
     {
@@ -56,23 +56,16 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "ZOMATO",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
         8
       ]
     }
   ],
-  "summary": "On the last trading day, Indian markets fell for the fourth consecutive session, with the Nifty closing at 22,600.\nRising crude oil prices and geopolitical tensions resulted in a 1,600-point weekly loss for the Sensex.\nCorporate results were mixed, highlighted by strong profits from BPCL and Coforge but a guidance cut from Infosys.",
-  "updatedAt": "2026-10-23T20:02:53.341Z",
+  "summary": "On the last trading session, Indian markets declined with Nifty ending around 22,600 as high oil prices and weak global cues pressured stocks.\nKey earnings disclosures showed strong profit growth for BPCL and Coforge, while Infosys lowered its FY27 guidance.\nTrading remains suspended for the weekend and will resume on Monday, 26 October 2026.",
+  "updatedAt": "2026-10-23T21:01:44.457Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-24",
   "articleKeys": [
+    "us markets today dow ends 600 pts lower as ai doubts persist ahead of fed meet",
     "tata motors cv posts rs 2138 crore q2 profit",
     "godrej properties q2fy27 results net profit falls 62 to 154 crore",
     "us data centre spending seen more than doubling to 21 trillion by 2028 estimates bofa",
@@ -82,19 +75,24 @@
     "sebi imposes rs 115 crore penalty against avadhut sathe trading academy rs 546 crore refund ordered",
     "coforge q2 results net profit surges 565 to 588 cr revenue up 536",
     "maharashtra fda suspends blinkits bhiwandi warehouse licence files fir against executives",
-    "russiaukraine agree to ceasefire deal brokered by us first lady melania trump white house",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "nse national stock exchange of india ltd live sharestock market news updates quotes nseindiacom nse india",
     "surging oil prices drag indian shares to weekly losses reuters",
     "sensex nifty rebound after 3day fall on it stocks buying the hindu",
     "sensex falls 600 points why is stock market down today india today",
     "markets fall for 4th day as crude nears 114 nifty ends at 22600 hdfc sky",
-    "stock market weekly roundup sensex sheds 1600 pts in turbulent week oct 1923 the indian awaaz",
     "global market eurozone bond markets stabilise after volatile week the economic times",
-    "why is share market falling today know 5 key reasons behind sensex nifty crash on october 23 news18",
-    "indian equities fall for fourth day as west asia tensions drive oil prices higher rediff"
+    "stock market weekly roundup sensex sheds 1600 pts in turbulent week oct 1923 the indian awaaz",
+    "why is share market falling today know 5 key reasons behind sensex nifty crash on october 23 news18"
   ],
   "articles": [
+    {
+      "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
+      "publishedAt": "Sat, 24 Oct 2026 01:53:03 +0530"
+    },
     {
       "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
       "source": "Zerodha Pulse",
@@ -150,12 +148,6 @@
       "publishedAt": "Fri, 23 Oct 2026 23:31:22 +0530"
     },
     {
-      "title": "Russia-Ukraine Agree To Ceasefire Deal Brokered By US First Lady Melania Trump: White House",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/russia-ukraine-agree-to-ceasefire-deal-brokered-by-us-first-lady-melania-trump-white-house-12227298#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 23:30:51 +0530"
-    },
-    {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOenRIUzBEZWc5czZJbDVnRW1IUl9VMzZLR0JFTWh1Mi1SS1J2aV8xZjhVUEd3Q18weFBpUWpQSG92Q0tjcnRsZS1icXJ1UXpLVl8wZUlrT3N3NkZmc09oczhwbl83U3BTa0R3QzBOc3VLd2RvaU1OMFZqbXI5eXhvRnd3RzBlVTdiVEFVaU1NNjhCajJXYjhpX3VfVDRqZzQ5TTRGTllIMmVDZFNDelFjMVk3TFd6azVGZGpNMXgyUnVwdW5DRXBxLWE0a0xBdkdUckZnQTlubmk1MHd1U0JxWUcxUmxnbDZFTS1TS1VIOHBKNFlqWjRxcXRORXBDVjlObmNqQW5vZVFLcmJhaWNfSWsxYk5CMTh2OUtrTU9WTVJIYVXSAagCQVVfeXFMT2NWSEs1ZnlVQlRLLTNYRzVlUjNpRjlGSEpGY2huM3JhTUJIOWt6SDV4cmhSdndLYVNwZUJ3NlA5TXVPZHZJZ1hZS0tEdDU4c1pRTlVvUnFVTUJTN0ptVnROakxWejVGc3UwMGFyejRtMzF3SHp0YVdVZW0zeVc1dHRsRmkyZkF5VEhYdzZSMWZQNERQZjY4QlRxX2lwVVFzRmRjWnBIX09LcHFPQi0wTHFnQUp6N1FJUkdXVkxMSHB3eE5GVDhMSDBfSkJUNjVHSDNyRmk3Y3VCcTRzb1NmVWVpZEZIQTR5RDAwNGFLNFpNMkNMUDVWWjN1d2pibFFKaXhwOUpoNFhZZ0lycDlsbXlTTUJoQTRETmNmdzNxRm1YbllSbmlOdGY?oc=5",
@@ -166,6 +158,12 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTWxKQmhIZi1qa3BFdEFrWVNkUDJnaEswcHk5bThXdGphTkNINUFXLUZhc2t0UkF1UVFTYlJaNnhQWEk5TUVNVVpNYWRwM2hBM0JNOFE2X2JWYkwyZlJ5Z3ZENFMtT2dtZWRCR0MtcWV5ekN0QUJuN1llRjVsNDZMU1hmNG9UTldJa3Rvd0pnckJzd1BMNDVTOGxLNkVBVmhwNTZXRWpVcGtvUzNHUUI1SUZ5TzU1MGQ0aDI4NFhLYUlxUjB3aFktQkE3a2pDTXR2V1BRTV9rMWt2RmduVHpFUU1GdnR2Ujk1aTZvMTg2Z0dSMGVJOWNPYWZRWnBHUjZVTnc4RtIBigJBVV95cUxOcFctNlFlTXNYZ29wZDFVWWwzeVRfT2hJekJ6cW1fU3V0bTVORlZVR3VTWXpDdldYcEdsNzFPd1VHcXk4WWRmemVsMFNQSmRHWE5mNEt5eWVMUmVvLURZUThCTTFETnd2WFRVM2VDU096LWl5WkRRWXZfMHZ4cUJPTWVaTU0tam16STVJUnlOOHJsdkg2dTkyb3hDVTA2N25TYjRSVWxCWDhKSmQzTzAxdVVlV1dvdTdkZC1CQllOXy1FR2VzalYtOEhQSEtDTnBrakVGa3E3cjV5b3U2blQxT0JjdGhId1FqUkVrX1dwbzFtUGV4NUdmUmI2amVadzQzN29leW1raWtUdw?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 01:16:48 GMT"
+    },
+    {
+      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
+      "source": "NSE India",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Surging oil prices drag Indian shares to weekly losses - Reuters",
@@ -192,28 +190,22 @@
       "publishedAt": "Fri, 23 Oct 2026 10:54:26 GMT"
     },
     {
+      "title": "Global Market: Eurozone bond markets stabilise after volatile week - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 16:06:02 GMT"
+    },
+    {
       "title": "Stock Market Weekly Round-Up; Sensex Sheds 1,600 Pts in Turbulent Week Oct 19-23 - The Indian Awaaz",
       "source": "The Indian Awaaz",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHZzUno4VnlfSHVVdWI0VWhaVnN3LW5JcFo5MDdhQWs4SzM1eXUwdURfZ243czJrMW84TGFPZUdEbmtXUnA4X2RhTEliWW1oSU1tbGJjRVlkSDVQeThTVzlKOHhST2VBQVdreXd6WGVnX3pEWWx2Q0pURzB3anVwYjhsZldwOEFyWEJTRDdpQlRvb0U4U2xCdFBCX092S3R3QzdDTFF1c2pXQQ?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 16:56:00 GMT"
     },
     {
-      "title": "Global Market: Eurozone bond markets stabilise after volatile week - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 09:21:02 GMT"
-    },
-    {
       "title": "Why Is Share Market Falling Today? Know 5 Key Reasons Behind Sensex, Nifty Crash on October 23 - News18",
       "source": "News18",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPek1kTGNfc2lTSFpmdURYNHdzX0pKQjZSS1dseGJIZWRDbFV5T21SdG5aN1FYRlNjQ2l3cENqVDh1UnMwVGYwMHpOcmlvbmVHb3VQLTVxWDU5SEs2Vnlld0tzMjVZeVBoUzVzdkNJazBnVmNSeU1Pb3NHUXBrYTF4ZW1pckwwNkhQNGZwLWo0QXBZQUh2Wl9FYVd4dkd0TWRHQWIxd0VUV3I3RjBlMVVmQXFOR1l0VnhWZVEwaWhCM3ZwOTVOQWRhVUZidGxmRGt4a3lLcTZvaUN4LUhCR1hCUzhQc0FBQdIB6wFBVV95cUxPZ3c5ZkNOMEdQaWVTaTRvSXJiN2NHZnRZdkUzY3hGbEFmenEyNmE3MlNiYms5a0tSMlhhYnZFOUNhNjU2cUtWRlVCUDMtQm9jeVhjMmh5WTNiV3kzdHZ2cmtBM2hvTmVweVFSMG1tdWJoTDlYWnRuLXpMdGlPbDU2T3h5RWdlQXB4bXNNNTE1TkVQMGRvOGhLeEM2N09ib2hxQVBQclhiMEVURG5BM19INFRteFNpZTl3U3M5LWpmb3BQbGNVb2NndVZjYlVUdnZWSWo4ZkxEU3l3WjVjc3J0WDBwVXZOOFFPLUZr?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 05:36:09 GMT"
-    },
-    {
-      "title": "Indian Equities Fall for Fourth Day as West Asia Tensions Drive Oil Prices Higher - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXBZQnNaMjB2VC1wWDJkeG1PZHlVSjRhVkM3bTNpSmhxZWhmOWcyV0VTTVgyWUpaQ1p5c1ZObU51QmllYkM5TkZsVDlRWlItMS01c3hHblVTZ2VzeUJTNjBVdzZVTUZKbUNFLUZjSDA3eE42ZEFZdTJuQUlfYVFVcE94VjZ3WklqdnZ4VUZCSmNtZ0hfSU0tVzk3aDlaaHJIRUt0Ulg4SEs0ejFXR3lCSmZwZ2lOWUEwVndUb3Y3TjItOTFXanoyZUdLcEZjeGU3M1NoX1RfS0liNFFRVEU1Z0dYa9IB5gFBVV95cUxQWllvblBMU0tiYzRlZ3F6ekNTeGZhYXVvd29XRDl0QVRmaEltMm1PZ3FOYXg2bUI2VzRxWnlwN0VpdVdjYi05T1Z0REZjVGM2cTdLT2ZGODZQZzA5MURmOU9YSGF2ZUZoX3hVZ2FoYWNvdnB5cFBNWjRjdDRXUENsa0hUdVdvd2JqVFBTQmdXQmREaWttNlk4TlZvY19BYkdBbS0wQnpXWGttdlh2dHIzS1lmWWQtaTVVQ0xpeGplelFaZE9QYWdCek80UFBvM0tZSnd1QlJjb251cXVJSGpTQmluOFVsZw?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 11:20:30 GMT"
     }
   ]
 }
