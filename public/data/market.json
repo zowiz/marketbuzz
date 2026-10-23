@@ -1,28 +1,28 @@
 {
-  "headline": "Last session: Sensex and Nifty snapped two-week gains as surging crude oil prices triggered a volatile weekly decline.",
+  "headline": "Last session: Nifty ends at 22,600 as surging oil prices and geopolitical tensions snap two-week market gains",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 26 October.",
-    "nextOpen": "Monday, 26 October"
+    "nextOpen": "Monday, 26 October 2026"
   },
   "why": [
-    "Brent crude oil prices surged above $117 following Houthi-Saudi attacks, impacting energy-sensitive markets",
-    "Geopolitical tensions and volatility in global bond markets weighed heavily on investor sentiment",
-    "Profit booking after two weeks of gains led to a sharp intraday crash from the day's highs",
-    "Concerns over rising energy costs and potential inflation dampened domestic equity performance"
+    "Brent crude oil prices surged past $117 per barrel following Houthi-Saudi attacks",
+    "Escalating geopolitical tensions in West Asia weighed heavily on investor sentiment",
+    "Profit booking occurred after the market had achieved two consecutive weeks of gains",
+    "High global energy costs dragged Indian equities to significant weekly losses"
   ],
   "whatHappening": [
-    "The Nifty 50 ended the week at 22,600 while the Sensex shed 1,600 points during a turbulent trading week",
-    "BPCL reported a significant turnaround, swinging to a profit of Rs 4,993 crore in its Q2 results",
-    "SEBI imposed a Rs 11.5 crore penalty and ordered a refund against Avadhut Sathe Trading Academy",
-    "IT stocks saw renewed buying interest after a three-day fall, with Infosys declaring an interim dividend"
+    "The Sensex shed approximately 1,600 points during a turbulent trading week ending October 23",
+    "BPCL reported a significant Q2 profit swing to Rs 4,993 crore from a previous loss",
+    "SEBI imposed an Rs 11.5 crore penalty and ordered a Rs 546 crore refund against a trading academy",
+    "Maharashtra FDA suspended the license of a Blinkit warehouse in Bhiwandi and filed an FIR"
   ],
   "stocksInNews": [
     {
       "symbol": "BPCL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         0,
         7
@@ -31,26 +31,32 @@
     {
       "symbol": "INFY",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         5,
-        7,
-        14
+        7
+      ]
+    },
+    {
+      "symbol": "ZOMATO",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
       ]
     },
     {
       "symbol": "TCS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/10 sources",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        5,
-        14
+        5
       ]
     },
     {
       "symbol": "HCLTECH",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         5
       ]
@@ -58,7 +64,7 @@
     {
       "symbol": "WIPRO",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         5
       ]
@@ -66,14 +72,14 @@
     {
       "symbol": "NESCO",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         7
       ]
     }
   ],
-  "summary": "On the last trading day, Indian markets ended a turbulent week in the red as Brent crude oil prices spiked to six-month highs. Despite a mid-session rebound led by IT stocks and positive Q2 results from BPCL, the Sensex and Nifty closed lower. Investors remained cautious due to geopolitical risks and regulatory actions by SEBI.",
-  "updatedAt": "2026-10-23T19:01:50.411Z",
+  "summary": "In the last trading session, Indian markets snapped a two-week winning streak as the Nifty settled at 22,600 amid rising oil prices. Brent crude surged past $117 following geopolitical tensions, weighing heavily on domestic equities despite some buying interest in IT stocks. Corporate earnings remained in focus with BPCL reporting a return to profitability and Infosys declaring a dividend.",
+  "updatedAt": "2026-10-23T19:31:31.747Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-24",
   "articleKeys": [
@@ -89,14 +95,14 @@
     "boiling hot brent crude oil tops 117 to hit sixmonth high on houthisaudi attacks",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "nse national stock exchange of india ltd live sharestock market news updates quotes nseindiacom nse india",
     "surging oil prices drag indian shares to weekly losses reuters",
     "sensex nifty rebound after 3day fall on it stocks buying the hindu",
     "sensex falls 600 points why is stock market down today india today",
     "markets fall for 4th day as crude nears 114 nifty ends at 22600 hdfc sky",
+    "stock market weekly roundup sensex sheds 1600 pts in turbulent week oct 1923 the indian awaaz",
     "global market eurozone bond markets stabilise after volatile week the economic times",
-    "sensex crashes 1250 pts from days high nifty below 22400 key reasons behind market decline moneycontrolcom",
-    "stock market weekly roundup sensex sheds 1600 pts in turbulent week oct 1923 the indian awaaz"
+    "why is share market falling today know 5 key reasons behind sensex nifty crash on october 23 news18",
+    "indian equities fall for fourth day as west asia tensions drive oil prices higher rediff"
   ],
   "articles": [
     {
@@ -172,12 +178,6 @@
       "publishedAt": "Fri, 23 Oct 2026 01:16:48 GMT"
     },
     {
-      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
-      "source": "NSE India",
-      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 07:00:00 GMT"
-    },
-    {
       "title": "Surging oil prices drag Indian shares to weekly losses - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVk5bXN2THRVWVBubnpudHpPQ2dreFhuVUxXSUFqZWJLa2psTU1rbjl3UktXTlVabEpvVEM0YUpuZVBUWkJQSjB4X1o1QlI5OEZYNE1fNE5QREZ1RjZqeURTcEFZSm5DbkFGYkFCLVNVYkpRNXRCQ3RMTDExMGVJdS1lUjUtdlBFVkJQY1VXdVBZTF9qVklpbU1YRXp6dHpXNWhqcHVFVFNsZUtQeXV6SGNBTnJYaHBzWlE5SF9EeFpiYllha3c?oc=5",
@@ -202,22 +202,28 @@
       "publishedAt": "Fri, 23 Oct 2026 10:54:26 GMT"
     },
     {
-      "title": "Global Market: Eurozone bond markets stabilise after volatile week - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 16:06:02 GMT"
-    },
-    {
-      "title": "Sensex crashes 1,250 pts from day's high, Nifty below 22,400: Key reasons behind market decline - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR250SWE3RDBETXh2Unp3ZENZa1ZNX1k3QnVlaUk4cERpOVl1Zm5XT25FNVAtZnJXc1YwSnQxY3VIUjdRckM2Wm1DZjhUMXpIVW96eXdIb2IybkxlOGNETDFvR0xVYjZuazlaNkcwNWhSMzU1b2pqUnZwVHlPYUtULVphbmh0VUhSNjFSOGNCY0RiVGM3MEdibzZLa05FQUNCc2ZkRi1FY1F1dDR5MHZnSVBWamVQSzlvaTNxNVpmLW9hbUtqRFN2QzhGX3BLOGc0Qldqdlp5c01PMkVLOUZxdVRrTVZrOXd1OVHSAe8BQVVfeXFMTmpwTlpEb25yZXVFWHRXUzhuQ2RDYVVTX08xSWZSVGFTMHlTU2F2SDVJTkN5ZU9hWWdIb0tsUEdtdzE2M1kxcTRxTWt1ZDdRdVNSS0t0bWlFWTlkSXh2Vk9wQUstRldGT0JDbGNkX3Vab1FZQVZkcWtqNmM5QUZiRS1qOFNsR0pHRmdRUkNhY195TFBMN21HNEl5OTA3aVhVYkdHWXgyMmppN0JlY3dDRVRkZ1dMeWpReHZmaWJCc3ROMHFJWEY2dE0tSU83TXFXdEpvRm1leVBLVzhmQXlHMEhNZUFJQlZmR0xDOXp4V0U?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 04:27:31 GMT"
-    },
-    {
       "title": "Stock Market Weekly Round-Up; Sensex Sheds 1,600 Pts in Turbulent Week Oct 19-23 - The Indian Awaaz",
       "source": "The Indian Awaaz",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHZzUno4VnlfSHVVdWI0VWhaVnN3LW5JcFo5MDdhQWs4SzM1eXUwdURfZ243czJrMW84TGFPZUdEbmtXUnA4X2RhTEliWW1oSU1tbGJjRVlkSDVQeThTVzlKOHhST2VBQVdreXd6WGVnX3pEWWx2Q0pURzB3anVwYjhsZldwOEFyWEJTRDdpQlRvb0U4U2xCdFBCX092S3R3QzdDTFF1c2pXQQ?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 16:56:00 GMT"
+    },
+    {
+      "title": "Global Market: Eurozone bond markets stabilise after volatile week - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 09:21:02 GMT"
+    },
+    {
+      "title": "Why Is Share Market Falling Today? Know 5 Key Reasons Behind Sensex, Nifty Crash on October 23 - News18",
+      "source": "News18",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPek1kTGNfc2lTSFpmdURYNHdzX0pKQjZSS1dseGJIZWRDbFV5T21SdG5aN1FYRlNjQ2l3cENqVDh1UnMwVGYwMHpOcmlvbmVHb3VQLTVxWDU5SEs2Vnlld0tzMjVZeVBoUzVzdkNJazBnVmNSeU1Pb3NHUXBrYTF4ZW1pckwwNkhQNGZwLWo0QXBZQUh2Wl9FYVd4dkd0TWRHQWIxd0VUV3I3RjBlMVVmQXFOR1l0VnhWZVEwaWhCM3ZwOTVOQWRhVUZidGxmRGt4a3lLcTZvaUN4LUhCR1hCUzhQc0FBQdIB6wFBVV95cUxPZ3c5ZkNOMEdQaWVTaTRvSXJiN2NHZnRZdkUzY3hGbEFmenEyNmE3MlNiYms5a0tSMlhhYnZFOUNhNjU2cUtWRlVCUDMtQm9jeVhjMmh5WTNiV3kzdHZ2cmtBM2hvTmVweVFSMG1tdWJoTDlYWnRuLXpMdGlPbDU2T3h5RWdlQXB4bXNNNTE1TkVQMGRvOGhLeEM2N09ib2hxQVBQclhiMEVURG5BM19INFRteFNpZTl3U3M5LWpmb3BQbGNVb2NndVZjYlVUdnZWSWo4ZkxEU3l3WjVjc3J0WDBwVXZOOFFPLUZr?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 05:36:09 GMT"
+    },
+    {
+      "title": "Indian Equities Fall for Fourth Day as West Asia Tensions Drive Oil Prices Higher - Rediff",
+      "source": "Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXBZQnNaMjB2VC1wWDJkeG1PZHlVSjRhVkM3bTNpSmhxZWhmOWcyV0VTTVgyWUpaQ1p5c1ZObU51QmllYkM5TkZsVDlRWlItMS01c3hHblVTZ2VzeUJTNjBVdzZVTUZKbUNFLUZjSDA3eE42ZEFZdTJuQUlfYVFVcE94VjZ3WklqdnZ4VUZCSmNtZ0hfSU0tVzk3aDlaaHJIRUt0Ulg4SEs0ejFXR3lCSmZwZ2lOWUEwVndUb3Y3TjItOTFXanoyZUdLcEZjeGU3M1NoX1RfS0liNFFRVEU1Z0dYa9IB5gFBVV95cUxQWllvblBMU0tiYzRlZ3F6ekNTeGZhYXVvd29XRDl0QVRmaEltMm1PZ3FOYXg2bUI2VzRxWnlwN0VpdVdjYi05T1Z0REZjVGM2cTdLT2ZGODZQZzA5MURmOU9YSGF2ZUZoX3hVZ2FoYWNvdnB5cFBNWjRjdDRXUENsa0hUdVdvd2JqVFBTQmdXQmREaWttNlk4TlZvY19BYkdBbS0wQnpXWGttdlh2dHIzS1lmWWQtaTVVQ0xpeGplelFaZE9QYWdCek80UFBvM0tZSnd1QlJjb251cXVJSGpTQmluOFVsZw?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 11:20:30 GMT"
     }
   ]
 }
