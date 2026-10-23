@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex crashes over 1,200 points from high as broader markets tumble and Nifty slips below 22,400",
+  "headline": "Sensex and Nifty decline sharply as broader markets crash and crude oil tops $113",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,28 +7,28 @@
     "nextOpen": ""
   },
   "why": [
-    "Broader market sell-off saw midcap and smallcap indices tumble up to 4%",
-    "Crude oil prices surged with oil topping $113, pressuring market sentiment",
-    "Heavy intraday profit booking dragged Sensex down 1,250 points from day's highs",
-    "Sharp declines in top losing heavyweights weighed on key indices"
+    "Surging global crude oil prices topping $113 per barrel.",
+    "Heavy selling in broader markets with smallcap and midcap indices tumbling up to 4%.",
+    "Losses in major IT stocks and the metal index dropping over 2.5%.",
+    "Increased market volatility causing Sensex to crash up to 1,250 points from day's high."
   ],
   "whatHappening": [
-    "Sensex dropped below 22,500 levels while Nifty tested 22,400 during trading",
-    "Smallcap and midcap indices faced severe pressure with sharp declines",
-    "Jio Platforms IPO Day 3 saw QIB subscription reaching 15.95 times",
-    "Gold prices continued falling, dropping over Rs 9,700 in 10 days"
+    "Sensex slipped over 500 points and Nifty dropped below 22,400 during volatile trading.",
+    "Broader markets faced severe pressure with smallcap and midcap indices falling up to 4%.",
+    "Gold prices crashed by Rs 9,700 in 10 days, falling below Rs 1,42,000.",
+    "Jio Platforms IPO entered Day 3 with QIB bids reaching 15.95 times and GMP signaling a 22% premium."
   ],
   "stocksInNews": [
     {
       "symbol": "SBIN",
-      "sentiment": "Neutral",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         3
       ]
     },
     {
-      "symbol": "TATASTEEL",
+      "symbol": "TCS",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "symbol": "JIOFIN",
+      "symbol": "INFY",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
@@ -44,16 +44,17 @@
       ]
     },
     {
-      "symbol": "TRENT",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        11
+        7,
+        18
       ]
     }
   ],
-  "summary": "Indian equities witnessed a sharp market crash today as Sensex tumbled over 1,200 points from its intraday high.\nNifty 50 fell below 22,400 alongside steep losses in midcap and smallcap stocks amidst rising oil prices.\nMajor laggards included Tata Steel, Jio Financial, and Trent, while SBI addressed customer notifications regarding a data breach.",
-  "updatedAt": "2026-10-23T08:01:40.521Z",
+  "summary": "Indian benchmark indices witnessed high volatility as Sensex and Nifty dropped significantly, dragged down by broader market selling and metal stocks. Rising crude oil prices above $113 added to investor anxiety while midcap and smallcap stocks tumbled up to 4%. On the primary market front, Jio Platforms IPO saw strong demand on its third day of bidding.",
+  "updatedAt": "2026-10-23T08:32:02.601Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-23",
   "articleKeys": [
@@ -67,16 +68,16 @@
     "jio platforms ipo day 3 live updates qib bids at 1595 times gmp signals 22 premium",
     "ndtv world summit 2026 miscommunication on the part of eiffel tower says baps monk on women sidelined row",
     "watch china turns worlds highest bridge into a spectacular river in the sky",
-    "stock market today highlights sensex plunges over 400 points nifty50 tumbles below 22700 the times of india",
-    "sensex today stock market live updates sensex declines 700 pts nifty at 22400 tata steel jio financial trent top losers moneycontrolcom",
-    "sensex nifty rebound after 3day fall on it stocks buying the hindu",
+    "sensex today nifty 50 stock market live updates sensex falls over 300 pts nifty below 22550 metal index falls 25 the economic times",
+    "sensex today stock market live updates sensex recovers 600 pts from days low nifty above 22550 eternal tcs infosys top losers moneycontrolcom",
     "why stock market is falling today sensex drops over 500 points nifty 50 slips below 22500 key reasons ndtv profit",
+    "sensex nifty rebound after 3day fall on it stocks buying the hindu",
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex falls 600 points why is stock market down today india today",
     "why is share market falling today know 5 key reasons behind sensex nifty crash on october 23 news18",
+    "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
     "sensex falls 450 points nifty slips below 22500 as oil tops 113 jio ipo in focus firstpost",
-    "sensex crashes 1250 pts from days high nifty below 22400 key reasons behind market decline moneycontrolcom",
-    "market crash sensex sinks 1279 pts from days high nifty tests 22400 business standard"
+    "sensex crashes 1250 pts from days high nifty below 22400 key reasons behind market decline moneycontrolcom"
   ],
   "articles": [
     {
@@ -140,28 +141,28 @@
       "publishedAt": "Fri, 23 Oct 2026 12:28:33 +0530"
     },
     {
-      "title": "Stock Market Today Highlights: Sensex plunges over 400 points, Nifty50 tumbles below 22,700 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQOGM2dXlRcmFhTlY1dWRJSjJadld4aVBEVEJNY19XY2FSdHFZMjcxZ21ueXh4MVlvb3hGN3NjenFxYW9Fa1RLSEFBdkFndVNObFU1RV9kWV9UZ2hBQ19XSnhhQWhSdGZLX3BqbGZfVVJnT0ZxZlZqYk01QUxVSm9JeWJzanRtVmVoVExaVHhXOUx4YnpGMWZXTVpZaWtHaGpGX1lpRUVzU0VCSGZIaXlCR3JybmVROVVKc2ZIVnJDQ3lqaFBNZEpwclRQYU4xODIzZ01oZV9fd3dROWhSQWFmZVVKMlYwbzRJYkgtUzdaakdiWlBtd3JnUTQxYlhadG52aWJZM1BTaVJ0cG5FRHpJX2pBcHZ0YkEwT2hMNElyYW5tSDZhaHJoWV9ZNmNoOHVtS25wN9IBugJBVV95cUxPMUpvN2hDSmV6aEU3WVFKU3ZNZ1A5bFlSWjd1akQ0M0kxak15WjZSMmFmMllmQWxvbkNHaGViMUhkQU52ZjRUV0JIWHB3RlkwSkF5SXQ3c2hTbGsycjhmcEVLbzFibVY3MWo3SFVxSFg0WXlpU19YaGV5Q2ozcGlLMjZVeHlLVTFKblNrUU55TzBtVkdzR3MxeXZIc1o1akwyeFo2WXNoMnk0OEZQajdWNG04R2VINFVTc3lodWE3Q0t5NG52SU8yc1lDenVsMXBmeUw2djVpSjhFR3U0Y1NodDFOU3B3M3h2YXZIQzlBSHdPQXpyU0RiTHpzaVd3X0hVOXJBcHh0djM2RHFLeW9yNG5oTlZMWjdVUmdlMzJqUExFc1NfNW1IZjdvaTh5N19ZVVA0U3lGenlyUQ?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 06:20:43 GMT"
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex falls over 300 pts, Nifty below 22,550; metal index falls 2.5% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHBrVjVoSUg2N2FhZUM0VnJmZWxFT21sRW1aZE5scnJldnh4NkgyTVVhRG9PZnVxSjlCb3VGSlEtaDd4NGJzaVlKcVdnekZvbEp3TW1fN0pKM28yNEtTeUFRNFhQOVlDbFpCZHpyUTNSNm1UMzVJYTJnRE1VRHFtV1lCQVp4VXhPUUdUc3FaZXM4RDRleHFndHAyRm1XcHdxVExGUkV1Z1Vibk5GdEdFWVJHWkkwVXRwRC0wUVNXTmpxN0VRanU4anNxS1FlelRuN3d1dkhFZG5jN3VmdFhzcHowYUhzUEJ0cHRxVGVuTVVEOXRaMkRtUzRpUm0zZHBnTC1hQTZ1ak5hV3RJ0gGSAkFVX3lxTE9KUGRsMTExTTlDMUxBeGV3Z2t4Vlo4QlYyOWY3bU1ZMEIwMGJpbm9rS24yTVc4NlpCMjV6VjBoeDFuWHd1c3ZpbWNtZ2MySlZFcnlEdW41aHFJcXdVVFpiaTk3YUxQQkV1bEFMem5XajdfUFhfVTA4Um9kSnZKTkdzTnpHQzg5N0tTQThqMEJMS3IzTWVabG15NGFjXzFYUS1hV1RUUXREUzNMbFY3dnl6NmZoc0sxUVl3VW15LTZBWVZvTEMxQ0d4Y3Fsc2NzbTdmcFFGWlhZVERCdmtxU1ctQ2Q2d18tV0ItLUVIMVhqUW5NX1ZLYXlyNVZJYjB0RC1QR0ZPV1VOeDRYQlRQMXFXQXc?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 08:25:26 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market LIVE Updates: Sensex declines 700 pts, Nifty at 22,400; Tata Steel, Jio Financial, Trent top losers - Moneycontrol.com",
+      "title": "Sensex Today | Stock Market LIVE Updates: Sensex recovers 600 pts from day's low, Nifty above 22,550; Eternal, TCS, Infosys top losers - Moneycontrol.com",
       "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOenRIUzBEZWc5czZJbDVnRW1IUl9VMzZLR0JFTWh1Mi1SS1J2aV8xZjhVUEd3Q18weFBpUWpQSG92Q0tjcnRsZS1icXJ1UXpLVl8wZUlrT3N3NkZmc09oczhwbl83U3BTa0R3QzBOc3VLd2RvaU1OMFZqbXI5eXhvRnd3RzBlVTdiVEFVaU1NNjhCajJXYjhpX3VfVDRqZzQ5TTRGTllIMmVDZFNDelFjMVk3TFd6azVGZGpNMXgyUnVwdW5DRXBxLWE0a0xBdkdUckZnQTlubmk1MHd1U0JxWUcxUmxnbDZFTS1TS1VIOHBKNFlqWjRxcXRORXBDVjlObmNqQW5vZVFLcmJhaWNfSWsxYk5CMTh2OUtrTU9WTVJIYVU?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 07:58:19 GMT"
-    },
-    {
-      "title": "Sensex, Nifty rebound after 3-day fall on IT stocks buying - The Hindu",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlJoQ3Y4b1BtVE83ZDN5amthN0o5SXJZQlBwdzlkTXBwSUFGQmdwczNzenQ1aHQxdWMtQ1liaWdDV3hELUdMRXdfQXRwcXZoUG8zMmxwRUU5WHIzaVlBb3lROVRDOGJJWEsweTBvbkVPNWJvZl85Q3huaVJtZ2JtY1hHcV85N2UzTnlHZk03dEU2NjlFaHN1TU11TEVpTE5RV2Rn0gGqAUFVX3lxTE5kRGFuTUhWbFJHOVZuVlBlMXJkZzNsd0RUQXY2VlNoYl9nUlZZX1Q4ZmtpcUxmS0trMm5uZGlLd0RPT1hlWVBfTVhIdjJtZk9kVTF2ZkxNdWJ2SlhsV29TVEkxVTFIaWlxNXFCTnY0clVLeExrWWliWlMtcWRiVWFlMUQwZ09XdnVndHpWOUZ2aXJHTTJhbGpSRVV6c01OSkVOa2tCTVNHdzNB?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 06:21:30 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOenRIUzBEZWc5czZJbDVnRW1IUl9VMzZLR0JFTWh1Mi1SS1J2aV8xZjhVUEd3Q18weFBpUWpQSG92Q0tjcnRsZS1icXJ1UXpLVl8wZUlrT3N3NkZmc09oczhwbl83U3BTa0R3QzBOc3VLd2RvaU1OMFZqbXI5eXhvRnd3RzBlVTdiVEFVaU1NNjhCajJXYjhpX3VfVDRqZzQ5TTRGTllIMmVDZFNDelFjMVk3TFd6azVGZGpNMXgyUnVwdW5DRXBxLWE0a0xBdkdUckZnQTlubmk1MHd1U0JxWUcxUmxnbDZFTS1TS1VIOHBKNFlqWjRxcXRORXBDVjlObmNqQW5vZVFLcmJhaWNfSWsxYk5CMTh2OUtrTU9WTVJIYVXSAagCQVVfeXFMT2NWSEs1ZnlVQlRLLTNYRzVlUjNpRjlGSEpGY2huM3JhTUJIOWt6SDV4cmhSdndLYVNwZUJ3NlA5TXVPZHZJZ1hZS0tEdDU4c1pRTlVvUnFVTUJTN0ptVnROakxWejVGc3UwMGFyejRtMzF3SHp0YVdVZW0zeVc1dHRsRmkyZkF5VEhYdzZSMWZQNERQZjY4QlRxX2lwVVFzRmRjWnBIX09LcHFPQi0wTHFnQUp6N1FJUkdXVkxMSHB3eE5GVDhMSDBfSkJUNjVHSDNyRmk3Y3VCcTRzb1NmVWVpZEZIQTR5RDAwNGFLNFpNMkNMUDVWWjN1d2pibFFKaXhwOUpoNFhZZ0lycDlsbXlTTUJoQTRETmNmdzNxRm1YbllSbmlOdGY?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 08:27:47 GMT"
     },
     {
       "title": "Why Stock Market Is Falling Today? Sensex Drops Over 500 Points, Nifty 50 Slips Below 22,500; Key Reasons - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY2czY09uX1B3ZTlpQTN6VTJPNTJ6Uk15eDhNYWNwNHpfdnFHbFJiaWxmZDJOSmc5VTM1N2ZKWHhVYnVyeTNxbzMtMVdzYUFCSVV4NEJ5MDJiWUVUTDBOU3VHNVd0OUpmajh5WEV3S0JTWVdiUEx5bVlCalN4dWxEcFVoYjNRSl9mUmxqZnNINkhIQnlPd0QxUUI0d0tydjI1NXZNR050cDFsYU1oTkptSWpHTFVSR1hSYklmVFZtN2pxM3VFWTVJU21fMTJEd3g4WXFjWmdQamJKU3Vrd2dR0gHnAUFVX3lxTE5aal8xOTYxeTF5cWZ2VE9vWmpBTHlNUEZZZFdJTGgtZEpPS25DTEFPZEFGWEstdlh4SUZ1MVZkemk0WDVBOTNQeGVRR2dvSVNMdV95Sy1LT296bERheUozbFN4dEpsV09WTVVHbjl1dWVZOEZmZ1dLREtaaFZGZTVCWFJTUU5zdjNJcW1ESzNhc0FoVDBkOXkwcXRDMW82YnNldHVYQlJjT3hHbGNFWGt4anZNSDMzcFhIRGNHN1RhU3M2N21feG54OVJleE83M1haR2hUN1UxX0NfUEg0SC0zRGZWYlNvcw?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 07:16:32 GMT"
+    },
+    {
+      "title": "Sensex, Nifty rebound after 3-day fall on IT stocks buying - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlJoQ3Y4b1BtVE83ZDN5amthN0o5SXJZQlBwdzlkTXBwSUFGQmdwczNzenQ1aHQxdWMtQ1liaWdDV3hELUdMRXdfQXRwcXZoUG8zMmxwRUU5WHIzaVlBb3lROVRDOGJJWEsweTBvbkVPNWJvZl85Q3huaVJtZ2JtY1hHcV85N2UzTnlHZk03dEU2NjlFaHN1TU11TEVpTE5RV2Rn0gGqAUFVX3lxTE5kRGFuTUhWbFJHOVZuVlBlMXJkZzNsd0RUQXY2VlNoYl9nUlZZX1Q4ZmtpcUxmS0trMm5uZGlLd0RPT1hlWVBfTVhIdjJtZk9kVTF2ZkxNdWJ2SlhsV29TVEkxVTFIaWlxNXFCTnY0clVLeExrWWliWlMtcWRiVWFlMUQwZ09XdnVndHpWOUZ2aXJHTTJhbGpSRVV6c01OSkVOa2tCTVNHdzNB?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 06:21:30 GMT"
     },
     {
       "title": "Stock market outlook today, 23 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -182,6 +183,12 @@
       "publishedAt": "Fri, 23 Oct 2026 05:36:09 GMT"
     },
     {
+      "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr0gHDAUFVX3lxTE02Zk9MNDBpdm1fQlg5MVEzdkowOTlLQ1pZMUY1VDRoWERQMmwzVXJKaHBVaGdDR3lOWHdmeHN1ZG5uVG1ZRUliWTg4eHpDa21JUGxQdThZQjNPeTQ5dkxMbldPei1Gb1RJU1RjR1dLUGRGX0NWRVZyTDNXSGhUU1J6ZjBoYk51SGVDV2FPVzhpZ1VXNjFmMHM3T01ZLU82Q0w5Z2I1NUo2aFhpd3BoOUNISlkxZDBVWE1Na2F3TWo3Z3J4aw?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
+    },
+    {
       "title": "Sensex falls 450 points, Nifty slips below 22,500 as oil tops $113; Jio IPO in focus - Firstpost",
       "source": "Firstpost",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHB1V0V0REszTFp6bmJZdENuVHRoMmN3MzBlcTNjRXhmNDlPZnBUWlhKRmpuTjhrMEx0ZzlVSHp6NVRRSjBSc19EZC13VW83M0wwNFlxcF9pWUVKZ0lwa1BLNXRvREZUbWNDcEJZWWFwSXF1bnllRG5GWERNWHhfaUlEcWVCS0dSbEFNVG1QZGxQRGZlenY2T1gyQdIBoAFBVV95cUxOMG9jdzdVT0NKQkJNLXhsRVpIb3BYNkZRRHJsckxabnJueWN4X1E1dG83b0N2UTBZX3pEeGwwdnlIc3JfeTlNd05WN2tqYlV6cUdEaEEzWk5vU1JnZkg3Y292OENyWjFaekI5Y2JWQ2F4eDd6MG1mYlFCdDVLSW1CLXlRTUoxcDV5bFk2TTZYX2szSWRtWUVwMmhfRVpueU9r?oc=5",
@@ -192,12 +199,6 @@
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR250SWE3RDBETXh2Unp3ZENZa1ZNX1k3QnVlaUk4cERpOVl1Zm5XT25FNVAtZnJXc1YwSnQxY3VIUjdRckM2Wm1DZjhUMXpIVW96eXdIb2IybkxlOGNETDFvR0xVYjZuazlaNkcwNWhSMzU1b2pqUnZwVHlPYUtULVphbmh0VUhSNjFSOGNCY0RiVGM3MEdibzZLa05FQUNCc2ZkRi1FY1F1dDR5MHZnSVBWamVQSzlvaTNxNVpmLW9hbUtqRFN2QzhGX3BLOGc0Qldqdlp5c01PMkVLOUZxdVRrTVZrOXd1OVHSAe8BQVVfeXFMTmpwTlpEb25yZXVFWHRXUzhuQ2RDYVVTX08xSWZSVGFTMHlTU2F2SDVJTkN5ZU9hWWdIb0tsUEdtdzE2M1kxcTRxTWt1ZDdRdVNSS0t0bWlFWTlkSXh2Vk9wQUstRldGT0JDbGNkX3Vab1FZQVZkcWtqNmM5QUZiRS1qOFNsR0pHRmdRUkNhY195TFBMN21HNEl5OTA3aVhVYkdHWXgyMmppN0JlY3dDRVRkZ1dMeWpReHZmaWJCc3ROMHFJWEY2dE0tSU83TXFXdEpvRm1leVBLVzhmQXlHMEhNZUFJQlZmR0xDOXp4V0U?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 07:25:19 GMT"
-    },
-    {
-      "title": "Market crash: Sensex sinks 1,279 pts from day's high; Nifty tests 22,400 - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORHE2eXQySVVQU2tHU3hBYXNRaDlKZ2VDN0MzLTRNYkhjSXhZUXN3M1k2aHJvbGpfU21KTHc0dlh1LXN5WktJdDZERXpZcEs3a0FMVEx2TldTWmdHLUhvZWRMa2J3aUpfaENNNGV4S3VzZVBBSFBiU2dITTRUNVkxOGtHcXNMMHVOX2dHU2JJSGRiZ0I0dFpOMk94TEM4ZTdQdGlvYmhEdzNPTC1JclUwSmJNWGQ4Y0w2a1pBUldzVmlZQ0VzRGhKN2J4SEVNMnd5R0k00gHYAUFVX3lxTE0xQ1pqOHZHWlJNc3h0c2ZtanRqMU9xU09wYm9lenZCQ2tpelhKb0NKSFVwNTVzeG5ycFFEazJaM1pBR1BBMEY2Z2NvamJZWW8wcDJub3BHVDBwWERYbDl3WkxnaHExclJGb1A2cVFiQjJ2WF9sb044OVY4VzVJeTdrdkhLZUM1VC1SekVQOWtwR0pfME53YjFydk9pTTlQbVA3ZXdBdUw2cGpaSFJaMEktUjBuLXNuNjR2REt4dURWTm10OV9VX04yS2JWeFdHY3FiTFJuVTk3VA?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 05:27:05 GMT"
     }
   ]
 }
