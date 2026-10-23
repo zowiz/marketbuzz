@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Nifty ends at 22,600 as surging oil prices and geopolitical tensions snap two-week market gains",
+  "headline": "Last session: Indian markets fell for the fourth straight day as surging oil prices led to weekly losses.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,33 +7,55 @@
     "nextOpen": "Monday, 26 October 2026"
   },
   "why": [
-    "Brent crude oil prices surged past $117 per barrel following Houthi-Saudi attacks",
-    "Escalating geopolitical tensions in West Asia weighed heavily on investor sentiment",
-    "Profit booking occurred after the market had achieved two consecutive weeks of gains",
-    "High global energy costs dragged Indian equities to significant weekly losses"
+    "Surging crude oil prices nearing $114 per barrel due to West Asia tensions",
+    "Profit booking after the market snapped a two-week winning streak",
+    "Geopolitical instability impacting global investor sentiment",
+    "Mixed corporate earnings reports and cautious guidance for the upcoming fiscal year"
   ],
   "whatHappening": [
-    "The Sensex shed approximately 1,600 points during a turbulent trading week ending October 23",
-    "BPCL reported a significant Q2 profit swing to Rs 4,993 crore from a previous loss",
-    "SEBI imposed an Rs 11.5 crore penalty and ordered a Rs 546 crore refund against a trading academy",
-    "Maharashtra FDA suspended the license of a Blinkit warehouse in Bhiwandi and filed an FIR"
+    "The Nifty 50 closed at 22,600 while the Sensex fell 125 points in the last session",
+    "The Sensex recorded a weekly loss of 1,600 points during a volatile trading period",
+    "SEBI ordered a refund of Rs 546 crore and penalized Avadhut Sathe Trading Academy",
+    "A ceasefire agreement between Russia and Ukraine was reportedly brokered by the US"
   ],
   "stocksInNews": [
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "GODREJPROP",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        4
+      ]
+    },
     {
       "symbol": "BPCL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        0,
-        7
+        5
       ]
     },
     {
-      "symbol": "INFY",
+      "symbol": "COFORGE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        5,
         7
       ]
     },
@@ -42,57 +64,25 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "HCLTECH",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "WIPRO",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "NESCO",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        7
+        8
       ]
     }
   ],
-  "summary": "In the last trading session, Indian markets snapped a two-week winning streak as the Nifty settled at 22,600 amid rising oil prices. Brent crude surged past $117 following geopolitical tensions, weighing heavily on domestic equities despite some buying interest in IT stocks. Corporate earnings remained in focus with BPCL reporting a return to profitability and Infosys declaring a dividend.",
-  "updatedAt": "2026-10-23T19:31:31.747Z",
+  "summary": "On the last trading day, Indian markets fell for the fourth consecutive session, with the Nifty closing at 22,600.\nRising crude oil prices and geopolitical tensions resulted in a 1,600-point weekly loss for the Sensex.\nCorporate results were mixed, highlighted by strong profits from BPCL and Coforge but a guidance cut from Infosys.",
+  "updatedAt": "2026-10-23T20:02:53.341Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-24",
   "articleKeys": [
+    "tata motors cv posts rs 2138 crore q2 profit",
+    "godrej properties q2fy27 results net profit falls 62 to 154 crore",
+    "us data centre spending seen more than doubling to 21 trillion by 2028 estimates bofa",
+    "wazirx shifts focus to recovery ai after year of rebuilding shetty",
+    "infosys cuts fy27 guidance q2 net profit rises 62 to 7828 crore",
     "bpcl q2 results profit swings to rs 4993 crore from loss ebitda rebounds",
     "sebi imposes rs 115 crore penalty against avadhut sathe trading academy rs 546 crore refund ordered",
+    "coforge q2 results net profit surges 565 to 588 cr revenue up 536",
     "maharashtra fda suspends blinkits bhiwandi warehouse licence files fir against executives",
     "russiaukraine agree to ceasefire deal brokered by us first lady melania trump white house",
-    "the hidden cost of moving to a city the reason why",
-    "tcs vs infosys vs hcltech vs wipro who leads in ai deal wins and hiring after q2",
-    "jordan church shooting king abdullah vows harshest retaliation after 7 killed",
-    "q2 results updates bpcl swings to profit nesco revenue falls 5 infosys declares dividend",
-    "kriti sanon flags ai image misuse calls for stronger laws at ndtv world summit",
-    "boiling hot brent crude oil tops 117 to hit sixmonth high on houthisaudi attacks",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "surging oil prices drag indian shares to weekly losses reuters",
@@ -106,6 +96,36 @@
   ],
   "articles": [
     {
+      "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
+      "publishedAt": "Sat, 24 Oct 2026 00:38:33 +0530"
+    },
+    {
+      "title": "Godrej Properties' Q2FY27 results: Net profit falls 62% to ₹154 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/godrej-properties-q2fy27-results-net-profit-falls-62-to-154-crore-126102400024_1.html",
+      "publishedAt": "Sat, 24 Oct 2026 00:30:02 +0530"
+    },
+    {
+      "title": "US data centre spending seen more than doubling to $2.1 trillion by 2028, estimates BoFA",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/data-centre-spending-seen-more-than-doubling-to-2-1-trillion-by-2028/articleshow/135153616.cms",
+      "publishedAt": "Sat, 24 Oct 2026 00:00:36 +0530"
+    },
+    {
+      "title": "WazirX shifts focus to recovery, AI after year of rebuilding: Shetty",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/people/wazirx-shifts-focus-to-recovery-ai-after-year-of-rebuilding-shetty-126102301053_1.html",
+      "publishedAt": "Fri, 23 Oct 2026 23:46:55 +0530"
+    },
+    {
+      "title": "Infosys cuts FY27 guidance; Q2 net profit rises 6.2% to ₹7,828 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/infosys-q2-results-net-profit-rises-6-2-to-7-823-cr-revenue-up-10-2-126102300941_1.html",
+      "publishedAt": "Fri, 23 Oct 2026 23:37:35 +0530"
+    },
+    {
       "title": "BPCL Q2 Results: Profit Swings To Rs 4,993 Crore From Loss, EBITDA Rebounds",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/bpcl-q2-results-profit-swings-to-rs-4-993-crore-from-loss-ebitda-rebounds-12227587#publisher=newsstand",
@@ -118,6 +138,12 @@
       "publishedAt": "Fri, 23 Oct 2026 23:32:52 +0530"
     },
     {
+      "title": "Coforge Q2 results: Net profit surges 56.5% to ₹588 cr, revenue up 53.6%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/coforge-q2-results-net-profit-surges-56-5-to-588-cr-revenue-up-53-6-126102301329_1.html",
+      "publishedAt": "Fri, 23 Oct 2026 23:31:51 +0530"
+    },
+    {
       "title": "Maharashtra FDA Suspends Blinkit's Bhiwandi Warehouse Licence, Files FIR Against Executives",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/india/maharashtra-fda-suspends-blinkits-bhiwandi-warehouse-licence-files-fir-against-executives-12227578#publisher=newsstand",
@@ -128,42 +154,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/world/russia-ukraine-agree-to-ceasefire-deal-brokered-by-us-first-lady-melania-trump-white-house-12227298#publisher=newsstand",
       "publishedAt": "Fri, 23 Oct 2026 23:30:51 +0530"
-    },
-    {
-      "title": "The Hidden Cost Of Moving To A City | The Reason Why",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/opinion-the-hidden-cost-of-moving-to-a-city-the-reason-why-12227551#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 23:25:12 +0530"
-    },
-    {
-      "title": "TCS Vs Infosys Vs HCLTech Vs Wipro: Who Leads In AI, Deal Wins And Hiring After Q2?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/tcs-vs-infosys-vs-hcltech-vs-wipro-who-leads-in-ai-deal-wins-and-hiring-after-q2-12227537#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 23:20:05 +0530"
-    },
-    {
-      "title": "Jordan Church Shooting: King Abdullah Vows Harshest Retaliation After 7 Killed",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/jordan-church-shooting-king-abdullah-vows-harshest-retaliation-after-7-killed-12227458#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 23:19:24 +0530"
-    },
-    {
-      "title": "Q2 Results Updates: BPCL Swings To Profit, Nesco Revenue Falls 5%, Infosys Declares Dividend",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-today-live-infosys-tata-motors-adani-power-bpcl-sbi-card-among-75-firms-to-declare-earnings-on-october-23-12223658#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 23:11:43 +0530"
-    },
-    {
-      "title": "Kriti Sanon Flags AI Image Misuse, Calls For Stronger Laws At NDTV World Summit",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/kriti-sanon-flags-ai-image-misuse-calls-for-stronger-laws-at-ndtv-world-summit-12227503#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 23:07:20 +0530"
-    },
-    {
-      "title": "Boiling Hot: Brent Crude Oil Tops $117 To Hit Six-Month High On Houthi-Saudi Attacks",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/boiling-hot-brent-crude-oil-tops-116-to-hit-six-month-high-on-houthi-saudi-attacks-12226917#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 23:00:14 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
