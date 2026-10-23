@@ -1,96 +1,92 @@
 {
-  "headline": "Last session: Nifty ends at 22,600 as surging oil prices and West Asia tensions trigger fourth straight decline.",
+  "headline": "Last session: Sensex and Nifty snapped two-week gains as surging crude oil prices triggered a volatile weekly decline.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 26 October.",
-    "nextOpen": "Monday, 26 October 2026"
+    "nextOpen": "Monday, 26 October"
   },
   "why": [
-    "Surging global oil prices nearing $114 per barrel due to escalating West Asia tensions",
-    "Volatile crude prices impacting profit margins for major oil marketing companies",
-    "Profit booking by investors after the market snapped a two-week winning streak",
-    "Concerns over global economic stability following workforce reductions in major international firms"
+    "Brent crude oil prices surged above $117 following Houthi-Saudi attacks, impacting energy-sensitive markets",
+    "Geopolitical tensions and volatility in global bond markets weighed heavily on investor sentiment",
+    "Profit booking after two weeks of gains led to a sharp intraday crash from the day's highs",
+    "Concerns over rising energy costs and potential inflation dampened domestic equity performance"
   ],
   "whatHappening": [
-    "The Nifty 50 closed the last session at 22,600, marking its fourth consecutive daily loss",
-    "Coforge reported a 56.5% rise in net profit, supported by record deal wins and growth",
-    "Tata Motors posted a Q2 net profit of ₹1,257 crore and confirmed its Iveco acquisition is on track",
-    "IndusInd Bank saw growth in interest income and improved asset quality with a ₹1,242 crore profit"
+    "The Nifty 50 ended the week at 22,600 while the Sensex shed 1,600 points during a turbulent trading week",
+    "BPCL reported a significant turnaround, swinging to a profit of Rs 4,993 crore in its Q2 results",
+    "SEBI imposed a Rs 11.5 crore penalty and ordered a refund against Avadhut Sathe Trading Academy",
+    "IT stocks saw renewed buying interest after a three-day fall, with Infosys declaring an interim dividend"
   ],
   "stocksInNews": [
     {
       "symbol": "BPCL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "COFORGE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        1
+        0,
+        7
       ]
     },
     {
-      "symbol": "INDUSINDBK",
+      "symbol": "INFY",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        2
+        5,
+        7,
+        14
       ]
     },
     {
-      "symbol": "TATAMOTORS",
+      "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        6
+        5,
+        14
       ]
     },
     {
-      "symbol": "NIFTY50",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 6/11 sources",
+      "symbol": "HCLTECH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        10,
-        13,
-        14,
-        16,
-        18,
-        19
+        5
       ]
     },
     {
-      "symbol": "SENSEX",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 4/11 sources",
+      "symbol": "WIPRO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        10,
-        14,
-        15,
-        18
+        5
+      ]
+    },
+    {
+      "symbol": "NESCO",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        7
       ]
     }
   ],
-  "summary": "On the last trading day, Indian indices fell for a fourth session as Nifty settled at 22,600 amid rising crude prices and geopolitical tensions. While corporate earnings from Coforge and Tata Motors were strong, Bharat Petroleum faced pressure from volatile oil costs. The market is currently closed for the weekend and will resume trading on Monday, October 26.",
-  "updatedAt": "2026-10-23T18:39:21.821Z",
+  "summary": "On the last trading day, Indian markets ended a turbulent week in the red as Brent crude oil prices spiked to six-month highs. Despite a mid-session rebound led by IT stocks and positive Q2 results from BPCL, the Sensex and Nifty closed lower. Investors remained cautious due to geopolitical risks and regulatory actions by SEBI.",
+  "updatedAt": "2026-10-23T19:01:50.411Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-24",
   "articleKeys": [
-    "bharat petroleums net profit dips amid volatile crude prices in q2",
-    "coforge net profit rises 565 as record deal wins boost growth",
-    "indusind bank posts profit of 1242 crores in q2 asset quality improvement and interest income drives growth",
-    "quality of indian content has improved drastically appeals to other cultures as well jiostar international business chief",
-    "government to modify labour survey to capture gig economy unpaid household workers",
-    "eaaa india alternatives mops up rs 360 crore from anchor investors ipo opens on oct 26",
-    "tata motors reports q2 net of 1257 crore iveco acquisition on track",
-    "why vaibhav sooryavanshi is still on the bench india coach explains",
-    "american express shares tank nearly 4 after slashing 5 of global workforce to prepare for ai",
-    "iphone duo goes on sale worldwide strong demand limited stock and mixed reviews",
+    "bpcl q2 results profit swings to rs 4993 crore from loss ebitda rebounds",
+    "sebi imposes rs 115 crore penalty against avadhut sathe trading academy rs 546 crore refund ordered",
+    "maharashtra fda suspends blinkits bhiwandi warehouse licence files fir against executives",
+    "russiaukraine agree to ceasefire deal brokered by us first lady melania trump white house",
+    "the hidden cost of moving to a city the reason why",
+    "tcs vs infosys vs hcltech vs wipro who leads in ai deal wins and hiring after q2",
+    "jordan church shooting king abdullah vows harshest retaliation after 7 killed",
+    "q2 results updates bpcl swings to profit nesco revenue falls 5 infosys declares dividend",
+    "kriti sanon flags ai image misuse calls for stronger laws at ndtv world summit",
+    "boiling hot brent crude oil tops 117 to hit sixmonth high on houthisaudi attacks",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "nse national stock exchange of india ltd live sharestock market news updates quotes nseindiacom nse india",
@@ -99,69 +95,69 @@
     "sensex falls 600 points why is stock market down today india today",
     "markets fall for 4th day as crude nears 114 nifty ends at 22600 hdfc sky",
     "global market eurozone bond markets stabilise after volatile week the economic times",
-    "why is share market falling today know 5 key reasons behind sensex nifty crash on october 23 news18",
-    "indian equities fall for fourth day as west asia tensions drive oil prices higher rediff"
+    "sensex crashes 1250 pts from days high nifty below 22400 key reasons behind market decline moneycontrolcom",
+    "stock market weekly roundup sensex sheds 1600 pts in turbulent week oct 1923 the indian awaaz"
   ],
   "articles": [
     {
-      "title": "Bharat Petroleum’s net profit dips amid volatile crude prices in Q2",
+      "title": "BPCL Q2 Results: Profit Swings To Rs 4,993 Crore From Loss, EBITDA Rebounds",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece",
-      "publishedAt": "Fri, 23 Oct 2026 22:45:33 +0530"
+      "link": "https://www.ndtvprofit.com/markets/bpcl-q2-results-profit-swings-to-rs-4-993-crore-from-loss-ebitda-rebounds-12227587#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 23:36:33 +0530"
     },
     {
-      "title": "Coforge net profit rises 56.5% as ‘record’ deal wins boost growth",
+      "title": "SEBI Imposes Rs 11.5 Crore Penalty Against Avadhut Sathe Trading Academy; Rs 546 Crore Refund Ordered",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
-      "publishedAt": "Fri, 23 Oct 2026 22:43:46 +0530"
+      "link": "https://www.ndtvprofit.com/markets/sebi-imposes-rs-11-5-crore-penalty-against-avadhut-sathe-trading-academy-rs-546-crore-refund-ordered-12227586#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 23:32:52 +0530"
     },
     {
-      "title": "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
+      "title": "Maharashtra FDA Suspends Blinkit's Bhiwandi Warehouse Licence, Files FIR Against Executives",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece",
-      "publishedAt": "Fri, 23 Oct 2026 22:36:53 +0530"
+      "link": "https://www.ndtvprofit.com/india/maharashtra-fda-suspends-blinkits-bhiwandi-warehouse-licence-files-fir-against-executives-12227578#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 23:31:22 +0530"
     },
     {
-      "title": "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief",
+      "title": "Russia-Ukraine Agree To Ceasefire Deal Brokered By US First Lady Melania Trump: White House",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/quality-of-indian-content-has-improved-drastically-appeals-to-other-cultures-as-well-jiostar-international-business-chief/article71615512.ece",
-      "publishedAt": "Fri, 23 Oct 2026 22:29:56 +0530"
+      "link": "https://www.ndtvprofit.com/world/russia-ukraine-agree-to-ceasefire-deal-brokered-by-us-first-lady-melania-trump-white-house-12227298#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 23:30:51 +0530"
     },
     {
-      "title": "Government to modify labour survey to capture gig economy, unpaid household workers",
+      "title": "The Hidden Cost Of Moving To A City | The Reason Why",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
-      "publishedAt": "Fri, 23 Oct 2026 22:29:40 +0530"
+      "link": "https://www.ndtvprofit.com/economy/opinion-the-hidden-cost-of-moving-to-a-city-the-reason-why-12227551#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 23:25:12 +0530"
     },
     {
-      "title": "EAAA India Alternatives mops up Rs 360 crore from anchor investors; IPO opens on Oct 26",
+      "title": "TCS Vs Infosys Vs HCLTech Vs Wipro: Who Leads In AI, Deal Wins And Hiring After Q2?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-mops-up-rs-360-crore-from-anchor-investors-ipo-opens-on-oct-26/articleshow/135150980.cms",
-      "publishedAt": "Fri, 23 Oct 2026 22:20:32 +0530"
+      "link": "https://www.ndtvprofit.com/markets/tcs-vs-infosys-vs-hcltech-vs-wipro-who-leads-in-ai-deal-wins-and-hiring-after-q2-12227537#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 23:20:05 +0530"
     },
     {
-      "title": "Tata Motors reports Q2 net  of ₹1,257 crore, Iveco acquisition on track",
+      "title": "Jordan Church Shooting: King Abdullah Vows Harshest Retaliation After 7 Killed",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece",
-      "publishedAt": "Fri, 23 Oct 2026 22:19:57 +0530"
+      "link": "https://www.ndtvprofit.com/world/jordan-church-shooting-king-abdullah-vows-harshest-retaliation-after-7-killed-12227458#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 23:19:24 +0530"
     },
     {
-      "title": "Why Vaibhav Sooryavanshi Is Still On The Bench? India Coach Explains",
+      "title": "Q2 Results Updates: BPCL Swings To Profit, Nesco Revenue Falls 5%, Infosys Declares Dividend",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/why-vaibhav-sooryavanshi-is-still-on-the-bench-india-coach-explains-12227325#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 22:15:23 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2-results-today-live-infosys-tata-motors-adani-power-bpcl-sbi-card-among-75-firms-to-declare-earnings-on-october-23-12223658#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 23:11:43 +0530"
     },
     {
-      "title": "American Express Shares Tank Nearly 4% After Slashing 5% Of Global Workforce To 'Prepare For AI'",
+      "title": "Kriti Sanon Flags AI Image Misuse, Calls For Stronger Laws At NDTV World Summit",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/american-express-shares-tank-nearly-4-after-slashing-5-of-global-workforce-to-prepare-for-ai-12227301#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 22:08:42 +0530"
+      "link": "https://www.ndtvprofit.com/india/kriti-sanon-flags-ai-image-misuse-calls-for-stronger-laws-at-ndtv-world-summit-12227503#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 23:07:20 +0530"
     },
     {
-      "title": "iPhone Duo Goes On Sale Worldwide: Strong Demand, Limited Stock And Mixed Reviews",
+      "title": "Boiling Hot: Brent Crude Oil Tops $117 To Hit Six-Month High On Houthi-Saudi Attacks",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/iphone-duo-goes-on-sale-worldwide-strong-demand-limited-stock-and-mixed-reviews-12226932#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 22:08:01 +0530"
+      "link": "https://www.ndtvprofit.com/markets/boiling-hot-brent-crude-oil-tops-116-to-hit-six-month-high-on-houthi-saudi-attacks-12226917#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 23:00:14 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
@@ -212,16 +208,16 @@
       "publishedAt": "Fri, 23 Oct 2026 16:06:02 GMT"
     },
     {
-      "title": "Why Is Share Market Falling Today? Know 5 Key Reasons Behind Sensex, Nifty Crash on October 23 - News18",
-      "source": "News18",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPek1kTGNfc2lTSFpmdURYNHdzX0pKQjZSS1dseGJIZWRDbFV5T21SdG5aN1FYRlNjQ2l3cENqVDh1UnMwVGYwMHpOcmlvbmVHb3VQLTVxWDU5SEs2Vnlld0tzMjVZeVBoUzVzdkNJazBnVmNSeU1Pb3NHUXBrYTF4ZW1pckwwNkhQNGZwLWo0QXBZQUh2Wl9FYVd4dkd0TWRHQWIxd0VUV3I3RjBlMVVmQXFOR1l0VnhWZVEwaWhCM3ZwOTVOQWRhVUZidGxmRGt4a3lLcTZvaUN4LUhCR1hCUzhQc0FBQdIB6wFBVV95cUxPZ3c5ZkNOMEdQaWVTaTRvSXJiN2NHZnRZdkUzY3hGbEFmenEyNmE3MlNiYms5a0tSMlhhYnZFOUNhNjU2cUtWRlVCUDMtQm9jeVhjMmh5WTNiV3kzdHZ2cmtBM2hvTmVweVFSMG1tdWJoTDlYWnRuLXpMdGlPbDU2T3h5RWdlQXB4bXNNNTE1TkVQMGRvOGhLeEM2N09ib2hxQVBQclhiMEVURG5BM19INFRteFNpZTl3U3M5LWpmb3BQbGNVb2NndVZjYlVUdnZWSWo4ZkxEU3l3WjVjc3J0WDBwVXZOOFFPLUZr?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 05:36:09 GMT"
+      "title": "Sensex crashes 1,250 pts from day's high, Nifty below 22,400: Key reasons behind market decline - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR250SWE3RDBETXh2Unp3ZENZa1ZNX1k3QnVlaUk4cERpOVl1Zm5XT25FNVAtZnJXc1YwSnQxY3VIUjdRckM2Wm1DZjhUMXpIVW96eXdIb2IybkxlOGNETDFvR0xVYjZuazlaNkcwNWhSMzU1b2pqUnZwVHlPYUtULVphbmh0VUhSNjFSOGNCY0RiVGM3MEdibzZLa05FQUNCc2ZkRi1FY1F1dDR5MHZnSVBWamVQSzlvaTNxNVpmLW9hbUtqRFN2QzhGX3BLOGc0Qldqdlp5c01PMkVLOUZxdVRrTVZrOXd1OVHSAe8BQVVfeXFMTmpwTlpEb25yZXVFWHRXUzhuQ2RDYVVTX08xSWZSVGFTMHlTU2F2SDVJTkN5ZU9hWWdIb0tsUEdtdzE2M1kxcTRxTWt1ZDdRdVNSS0t0bWlFWTlkSXh2Vk9wQUstRldGT0JDbGNkX3Vab1FZQVZkcWtqNmM5QUZiRS1qOFNsR0pHRmdRUkNhY195TFBMN21HNEl5OTA3aVhVYkdHWXgyMmppN0JlY3dDRVRkZ1dMeWpReHZmaWJCc3ROMHFJWEY2dE0tSU83TXFXdEpvRm1leVBLVzhmQXlHMEhNZUFJQlZmR0xDOXp4V0U?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 04:27:31 GMT"
     },
     {
-      "title": "Indian Equities Fall for Fourth Day as West Asia Tensions Drive Oil Prices Higher - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXBZQnNaMjB2VC1wWDJkeG1PZHlVSjRhVkM3bTNpSmhxZWhmOWcyV0VTTVgyWUpaQ1p5c1ZObU51QmllYkM5TkZsVDlRWlItMS01c3hHblVTZ2VzeUJTNjBVdzZVTUZKbUNFLUZjSDA3eE42ZEFZdTJuQUlfYVFVcE94VjZ3WklqdnZ4VUZCSmNtZ0hfSU0tVzk3aDlaaHJIRUt0Ulg4SEs0ejFXR3lCSmZwZ2lOWUEwVndUb3Y3TjItOTFXanoyZUdLcEZjeGU3M1NoX1RfS0liNFFRVEU1Z0dYa9IB5gFBVV95cUxQWllvblBMU0tiYzRlZ3F6ekNTeGZhYXVvd29XRDl0QVRmaEltMm1PZ3FOYXg2bUI2VzRxWnlwN0VpdVdjYi05T1Z0REZjVGM2cTdLT2ZGODZQZzA5MURmOU9YSGF2ZUZoX3hVZ2FoYWNvdnB5cFBNWjRjdDRXUENsa0hUdVdvd2JqVFBTQmdXQmREaWttNlk4TlZvY19BYkdBbS0wQnpXWGttdlh2dHIzS1lmWWQtaTVVQ0xpeGplelFaZE9QYWdCek80UFBvM0tZSnd1QlJjb251cXVJSGpTQmluOFVsZw?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 11:20:30 GMT"
+      "title": "Stock Market Weekly Round-Up; Sensex Sheds 1,600 Pts in Turbulent Week Oct 19-23 - The Indian Awaaz",
+      "source": "The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHZzUno4VnlfSHVVdWI0VWhaVnN3LW5JcFo5MDdhQWs4SzM1eXUwdURfZ243czJrMW84TGFPZUdEbmtXUnA4X2RhTEliWW1oSU1tbGJjRVlkSDVQeThTVzlKOHhST2VBQVdreXd6WGVnX3pEWWx2Q0pURzB3anVwYjhsZldwOEFyWEJTRDdpQlRvb0U4U2xCdFBCX092S3R3QzdDTFF1c2pXQQ?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 16:56:00 GMT"
     }
   ]
 }
