@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets end lower as surging crude oil prices and FII outflows snap weekly winning streak",
+  "headline": "Sensex and Nifty end lower as surging oil prices and geopolitical tensions snap two-week winning streak",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,32 +7,48 @@
     "nextOpen": ""
   },
   "why": [
-    "Surging crude oil prices reaching USD 114 per barrel due to West Asia tensions",
-    "Persistent FII outflows from the Indian equity markets",
-    "Revenue guidance cut by IT major Infosys spooking investors",
-    "Negative global cues following an AI-led selloff in US markets"
+    "Crude oil prices surged to near six-month highs of $114 per barrel due to Houthi attacks on Saudi Arabia",
+    "Escalating geopolitical tensions in West Asia triggered a fourth consecutive day of selling in Indian equities",
+    "Dr Reddy’s reported a disappointing 36% year-on-year decline in Q2 net profit",
+    "Infosys cut its FY27 revenue guidance despite securing a $5.2 billion deal bonanza"
   ],
   "whatHappening": [
-    "Sensex and Nifty snapped their winning streak, with Nifty closing around 22,600",
-    "Jio IPO made history as the first public issue globally to cross 1 crore applications",
-    "India's 10-year bond yields fell for the 10th consecutive week in a record slump",
-    "Himadri Speciality Chemicals announced a major capacity expansion plan worth ₹1,613 crore"
+    "The Nifty 50 ended at 22,600, while the Sensex fell 126 points after crashing 1,250 points from its intraday high",
+    "Market breadth weakened significantly with only 15% of midcap stocks trading above their 50-day moving average",
+    "Petronet LNG and Gruner Renewable formed a joint venture to invest ₹1,200 crore in compressed biogas plants",
+    "Havells India expects festive season demand to support growth and improve margins for its Lloyd brand"
   ],
   "stocksInNews": [
     {
-      "symbol": "INFOSYS",
+      "symbol": "DRREDDY",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        2
+        0
       ]
     },
     {
-      "symbol": "HSCL",
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "PETRONET",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        6
+        9
+      ]
+    },
+    {
+      "symbol": "HAVELLS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        7
       ]
     },
     {
@@ -42,55 +58,23 @@
       "articleIds": [
         19
       ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "APOLLOHOSP",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "SHRIRAMFIN",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "ADANIENT",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        3
-      ]
     }
   ],
-  "summary": "The Indian stock market ended lower on Friday, with the Sensex falling 126 points to snap a two-week rally amid rising crude oil prices and FII selling. While IT stocks saw some intraday buying, Infosys ADRs crashed 6% following a revenue guidance cut. Meanwhile, the Jio IPO created a global record with over 1 crore applications, highlighting strong retail investor participation.",
-  "updatedAt": "2026-10-23T13:31:42.611Z",
+  "summary": "Indian benchmarks snapped a two-week winning streak as surging crude oil prices and West Asia tensions weighed on investor sentiment. Corporate earnings added to the pressure, with Dr Reddy's reporting a sharp profit fall and Infosys lowering its long-term guidance. Despite the broad market decline, stocks like Petronet LNG and Havells saw positive momentum from strategic deals and festive outlooks.",
+  "updatedAt": "2026-10-23T14:01:55.892Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-23",
   "articleKeys": [
-    "us stock market live updates us stocks future edge lower after ai selloff telecom slide",
-    "indias 10year bond falls for 10th week in record slump",
-    "infosys adrs crash 6 after q2 results as revenue guidance cut spooks investors",
-    "market wrap eternal apollo hospital shriram finance adani enterprises among top gainers and losers on nifty and sensex on friday",
-    "jio ipo becomes first public issue globally to cross 1 crore applications record puts spotlight on depth of indias retail investor base",
-    "indian markets snap 1week rally following surge in crude fii outflows",
-    "himadri speciality chemicals plans 1613cr capacity expansion",
-    "ai stocks midterm elections could threaten ai trade as data center backlash grows",
-    "deepak reddy to replace tapan singhel as bajaj general insurance md ceo",
-    "european corporate earnings outlook improves as energy profits surge",
+    "dr reddys q2 results net profit falls 36 yoy to rs 913 crore revenue declines marginally",
+    "only 15 of midcap stocks above 50dma is buying the dip getting riskier jm financial spots signs of leadership shift",
+    "indias own apple and samsung vaishnaw reveals october 2028 deadline for homegrown smartphones",
+    "flipkart deal helps netflix log record quarterly subscriber gains in india",
+    "oil prices extend rally to near sixmonth high amid houthi attacks on saudi arabia",
+    "sounding the alarm will ai wipe out humanity former google deepmind scientist warns of intelligence explosion",
+    "ndtv world summit 2026 day 2 live updates rbi governor discusses central bank mandates globally amid higher inflation",
+    "havells india expects festive demand to support growth lloyd margins to improve",
+    "infosys fy27 guidance cut counters 52b deal bonanza ai revenue uptick margins steady amid external headwinds",
+    "petronet lng gruner renewable form jv to invest 1200 crore in cbg plants",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "surging oil prices drag indian shares to weekly losses reuters",
@@ -104,64 +88,64 @@
   ],
   "articles": [
     {
-      "title": "US Stock Market Live Updates: US stocks future edge lower after AI selloff, telecom slide",
+      "title": "Dr Reddy’s Q2 Results: Net profit falls 36% YoY to Rs 913 crore, revenue declines marginally",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-selloff-wall-street-futures-telecom-stocks-spacex-meta-coreweave-earnings-treasury-bond-yield-news-23rd-october-2026/liveblog/135145607.cms",
-      "publishedAt": "Fri, 23 Oct 2026 17:39:43 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-reddys-q2-results-net-profit-falls-36-yoy-to-rs-913-crore-revenue-declines-marginally/articleshow/135147475.cms",
+      "publishedAt": "Fri, 23 Oct 2026 19:02:47 +0530"
     },
     {
-      "title": "India's 10-year bond falls for 10th week in record slump",
+      "title": "Only 15% of midcap stocks above 50-DMA: Is buying the dip getting riskier? JM Financial spots signs of leadership shift",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-falls-for-10th-week-in-record-slump/articleshow/135145225.cms",
-      "publishedAt": "Fri, 23 Oct 2026 17:36:01 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/only-15-of-midcap-stocks-above-50-dma-is-buying-the-dip-getting-riskier-jm-financial-spots-signs-of-leadership-shift/articleshow/135146815.cms",
+      "publishedAt": "Fri, 23 Oct 2026 18:37:51 +0530"
     },
     {
-      "title": "Infosys ADRs crash 6% after Q2 results as revenue guidance cut spooks investors",
+      "title": "India's Own Apple And Samsung? Vaishnaw Reveals October 2028 Deadline For Homegrown Smartphones",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-adrs-crash-6-after-q2-results-as-revenue-guidance-cut-spooks-investors/articleshow/135145145.cms",
-      "publishedAt": "Fri, 23 Oct 2026 17:33:48 +0530"
+      "link": "https://www.ndtvprofit.com/technology/indias-own-apple-and-samsung-vaishnaw-reveals-october-2028-deadline-for-homegrown-smartphones-12225911#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 18:15:26 +0530"
     },
     {
-      "title": "Market wrap: Eternal, Apollo Hospital, Shriram Finance, Adani Enterprises among top gainers and losers on Nifty and Sensex on Friday",
+      "title": "Flipkart deal helps Netflix log record quarterly subscriber gains in India",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-eternal-apollo-hospital-shriram-finance-adani-enterprises-among-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/135144888.cms",
-      "publishedAt": "Fri, 23 Oct 2026 17:30:35 +0530"
+      "link": "https://www.business-standard.com/companies/news/flipkart-deal-helps-netflix-log-record-quarterly-subscriber-gains-in-india-126102301220_1.html",
+      "publishedAt": "Fri, 23 Oct 2026 18:14:51 +0530"
     },
     {
-      "title": "Jio IPO becomes first public issue globally to cross 1 crore applications; record puts spotlight on depth of India’s retail investor base",
+      "title": "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-becomes-first-public-issue-globally-to-cross-1-crore-applications-record-puts-spotlight-on-depth-of-indias-retail-investor-base/articleshow/135144742.cms",
-      "publishedAt": "Fri, 23 Oct 2026 17:26:48 +0530"
+      "link": "https://www.thehindu.com/news/national/oil-prices-extend-rally-to-near-six-month-high-amid-houthi-attacks-on-saudi-arabia/article71615824.ece",
+      "publishedAt": "Fri, 23 Oct 2026 18:13:00 +0530"
     },
     {
-      "title": "Indian markets snap 1-week rally following surge in crude, FII outflows",
+      "title": "Sounding the Alarm: Will AI Wipe Out Humanity? Former Google DeepMind Scientist Warns Of 'Intelligence Explosion'",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/indian-markets-snap-1-week-rally-following-surge-in-crude-fii-outflows/article71615820.ece",
-      "publishedAt": "Fri, 23 Oct 2026 17:24:04 +0530"
+      "link": "https://www.ndtvprofit.com/technology/sounding-the-alarm-will-ai-wipe-out-humanity-former-google-deepmind-scientist-warns-of-intelligence-explosion-12225773#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 18:08:13 +0530"
     },
     {
-      "title": "Himadri Speciality Chemicals plans ₹1,613-cr capacity expansion",
+      "title": "NDTV World Summit 2026 Day 2 Live Updates: RBI Governor Discusses Central Bank Mandates Globally Amid Higher Inflation",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/himadri-speciality-chemicals-plans-1-613-cr-capacity-expansion-126102200773_1.html",
-      "publishedAt": "Fri, 23 Oct 2026 17:01:50 +0530"
+      "link": "https://www.ndtvprofit.com/india/ndtv-world-summit-2026-day-2-live-updates-rbi-governor-shashi-tharoor-among-key-speakers-event-list-12223557#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 18:06:34 +0530"
     },
     {
-      "title": "AI stocks: Midterm elections could threaten AI trade as data center backlash grows",
+      "title": "Havells India Expects Festive Demand To Support Growth, Lloyd Margins To Improve",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-midterm-elections-could-threaten-ai-trade-as-data-center-backlash-grows/articleshow/135144162.cms",
-      "publishedAt": "Fri, 23 Oct 2026 16:56:15 +0530"
+      "link": "https://www.ndtvprofit.com/markets/havells-india-expects-festive-demand-to-support-growth-lloyd-margins-to-improve-12225037#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 18:04:02 +0530"
     },
     {
-      "title": "Deepak Reddy to replace Tapan Singhel as Bajaj General Insurance MD & CEO",
+      "title": "Infosys FY27 Guidance Cut Counters $5.2B Deal Bonanza, AI Revenue Uptick; Margins Steady Amid External Headwinds",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/deepak-reddy-to-replace-tapan-singhel-as-bajaj-general-insurance-md-ceo-126102301015_1.html",
-      "publishedAt": "Fri, 23 Oct 2026 16:55:13 +0530"
+      "link": "https://www.ndtvprofit.com/business/infosys-fy27-guidance-cut-counters-5-2b-deal-bonanza-ai-revenue-uptick-margins-steady-amid-external-headwinds-12225847#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 18:02:31 +0530"
     },
     {
-      "title": "European corporate earnings outlook improves as energy profits surge",
+      "title": "Petronet LNG, Gruner Renewable form JV to invest ₹1,200 crore in CBG plants",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/european-corporate-earnings-outlook-improves-as-energy-profits-surge/articleshow/135144116.cms",
-      "publishedAt": "Fri, 23 Oct 2026 16:52:07 +0530"
+      "link": "https://www.business-standard.com/companies/news/petronet-lng-gruner-renewable-form-jv-to-invest-1-200-crore-in-cbg-plants-126102301195_1.html",
+      "publishedAt": "Fri, 23 Oct 2026 18:01:17 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
