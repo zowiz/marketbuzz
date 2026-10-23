@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Indian markets snapped two-week gains as Nifty ended at 22,600 amid surging crude oil prices.",
+  "headline": "Last session: Nifty ends at 22,600 as surging oil prices and West Asia tensions trigger fourth straight decline.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,22 +7,22 @@
     "nextOpen": "Monday, 26 October 2026"
   },
   "why": [
-    "Surging global crude oil prices nearing $114 per barrel weighed on investor sentiment.",
-    "Profit booking occurred after the market's two-week winning streak.",
-    "Volatility in global markets and Eurozone bond market fluctuations created uncertainty.",
-    "Mixed corporate earnings results for the second quarter influenced specific sectors."
+    "Surging global oil prices nearing $114 per barrel due to escalating West Asia tensions",
+    "Volatile crude prices impacting profit margins for major oil marketing companies",
+    "Profit booking by investors after the market snapped a two-week winning streak",
+    "Concerns over global economic stability following workforce reductions in major international firms"
   ],
   "whatHappening": [
-    "Nifty 50 ended the last session at 22,600, recovering from intraday lows below 22,400.",
-    "Sensex closed 125 points lower after a sharp 1,250-point decline from its day's high.",
-    "IT stocks witnessed buying interest, helping the benchmarks rebound from their lowest points.",
-    "Bharat Petroleum, Coforge, and Tata Motors were among the major companies reporting Q2 results."
+    "The Nifty 50 closed the last session at 22,600, marking its fourth consecutive daily loss",
+    "Coforge reported a 56.5% rise in net profit, supported by record deal wins and growth",
+    "Tata Motors posted a Q2 net profit of ₹1,257 crore and confirmed its Iveco acquisition is on track",
+    "IndusInd Bank saw growth in interest income and improved asset quality with a ₹1,242 crore profit"
   ],
   "stocksInNews": [
     {
       "symbol": "BPCL",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         0
       ]
@@ -30,7 +30,7 @@
     {
       "symbol": "COFORGE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         1
       ]
@@ -38,7 +38,7 @@
     {
       "symbol": "INDUSINDBK",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         2
       ]
@@ -46,22 +46,38 @@
     {
       "symbol": "TATAMOTORS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         6
       ]
     },
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "NIFTY50",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 6/11 sources",
       "articleIds": [
-        3
+        10,
+        13,
+        14,
+        16,
+        18,
+        19
+      ]
+    },
+    {
+      "symbol": "SENSEX",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 4/11 sources",
+      "articleIds": [
+        10,
+        14,
+        15,
+        18
       ]
     }
   ],
-  "summary": "On the last trading day, Indian indices snapped a two-week winning streak as Nifty settled at 22,600. Surging crude oil prices and profit booking triggered a volatile session, though IT stocks saw some buying interest. The market is closed today for the weekend and will reopen on Monday, October 26.",
-  "updatedAt": "2026-10-23T18:32:17.888Z",
+  "summary": "On the last trading day, Indian indices fell for a fourth session as Nifty settled at 22,600 amid rising crude prices and geopolitical tensions. While corporate earnings from Coforge and Tata Motors were strong, Bharat Petroleum faced pressure from volatile oil costs. The market is currently closed for the weekend and will resume trading on Monday, October 26.",
+  "updatedAt": "2026-10-23T18:39:21.821Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-24",
   "articleKeys": [
@@ -83,8 +99,8 @@
     "sensex falls 600 points why is stock market down today india today",
     "markets fall for 4th day as crude nears 114 nifty ends at 22600 hdfc sky",
     "global market eurozone bond markets stabilise after volatile week the economic times",
-    "sensex crashes 1250 pts from days high nifty below 22400 key reasons behind market decline moneycontrolcom",
-    "why is share market falling today know 5 key reasons behind sensex nifty crash on october 23 news18"
+    "why is share market falling today know 5 key reasons behind sensex nifty crash on october 23 news18",
+    "indian equities fall for fourth day as west asia tensions drive oil prices higher rediff"
   ],
   "articles": [
     {
@@ -196,16 +212,16 @@
       "publishedAt": "Fri, 23 Oct 2026 16:06:02 GMT"
     },
     {
-      "title": "Sensex crashes 1,250 pts from day's high, Nifty below 22,400: Key reasons behind market decline - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR250SWE3RDBETXh2Unp3ZENZa1ZNX1k3QnVlaUk4cERpOVl1Zm5XT25FNVAtZnJXc1YwSnQxY3VIUjdRckM2Wm1DZjhUMXpIVW96eXdIb2IybkxlOGNETDFvR0xVYjZuazlaNkcwNWhSMzU1b2pqUnZwVHlPYUtULVphbmh0VUhSNjFSOGNCY0RiVGM3MEdibzZLa05FQUNCc2ZkRi1FY1F1dDR5MHZnSVBWamVQSzlvaTNxNVpmLW9hbUtqRFN2QzhGX3BLOGc0Qldqdlp5c01PMkVLOUZxdVRrTVZrOXd1OVHSAe8BQVVfeXFMTmpwTlpEb25yZXVFWHRXUzhuQ2RDYVVTX08xSWZSVGFTMHlTU2F2SDVJTkN5ZU9hWWdIb0tsUEdtdzE2M1kxcTRxTWt1ZDdRdVNSS0t0bWlFWTlkSXh2Vk9wQUstRldGT0JDbGNkX3Vab1FZQVZkcWtqNmM5QUZiRS1qOFNsR0pHRmdRUkNhY195TFBMN21HNEl5OTA3aVhVYkdHWXgyMmppN0JlY3dDRVRkZ1dMeWpReHZmaWJCc3ROMHFJWEY2dE0tSU83TXFXdEpvRm1leVBLVzhmQXlHMEhNZUFJQlZmR0xDOXp4V0U?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 04:27:31 GMT"
-    },
-    {
       "title": "Why Is Share Market Falling Today? Know 5 Key Reasons Behind Sensex, Nifty Crash on October 23 - News18",
       "source": "News18",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPek1kTGNfc2lTSFpmdURYNHdzX0pKQjZSS1dseGJIZWRDbFV5T21SdG5aN1FYRlNjQ2l3cENqVDh1UnMwVGYwMHpOcmlvbmVHb3VQLTVxWDU5SEs2Vnlld0tzMjVZeVBoUzVzdkNJazBnVmNSeU1Pb3NHUXBrYTF4ZW1pckwwNkhQNGZwLWo0QXBZQUh2Wl9FYVd4dkd0TWRHQWIxd0VUV3I3RjBlMVVmQXFOR1l0VnhWZVEwaWhCM3ZwOTVOQWRhVUZidGxmRGt4a3lLcTZvaUN4LUhCR1hCUzhQc0FBQdIB6wFBVV95cUxPZ3c5ZkNOMEdQaWVTaTRvSXJiN2NHZnRZdkUzY3hGbEFmenEyNmE3MlNiYms5a0tSMlhhYnZFOUNhNjU2cUtWRlVCUDMtQm9jeVhjMmh5WTNiV3kzdHZ2cmtBM2hvTmVweVFSMG1tdWJoTDlYWnRuLXpMdGlPbDU2T3h5RWdlQXB4bXNNNTE1TkVQMGRvOGhLeEM2N09ib2hxQVBQclhiMEVURG5BM19INFRteFNpZTl3U3M5LWpmb3BQbGNVb2NndVZjYlVUdnZWSWo4ZkxEU3l3WjVjc3J0WDBwVXZOOFFPLUZr?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 05:36:09 GMT"
+    },
+    {
+      "title": "Indian Equities Fall for Fourth Day as West Asia Tensions Drive Oil Prices Higher - Rediff",
+      "source": "Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXBZQnNaMjB2VC1wWDJkeG1PZHlVSjRhVkM3bTNpSmhxZWhmOWcyV0VTTVgyWUpaQ1p5c1ZObU51QmllYkM5TkZsVDlRWlItMS01c3hHblVTZ2VzeUJTNjBVdzZVTUZKbUNFLUZjSDA3eE42ZEFZdTJuQUlfYVFVcE94VjZ3WklqdnZ4VUZCSmNtZ0hfSU0tVzk3aDlaaHJIRUt0Ulg4SEs0ejFXR3lCSmZwZ2lOWUEwVndUb3Y3TjItOTFXanoyZUdLcEZjeGU3M1NoX1RfS0liNFFRVEU1Z0dYa9IB5gFBVV95cUxQWllvblBMU0tiYzRlZ3F6ekNTeGZhYXVvd29XRDl0QVRmaEltMm1PZ3FOYXg2bUI2VzRxWnlwN0VpdVdjYi05T1Z0REZjVGM2cTdLT2ZGODZQZzA5MURmOU9YSGF2ZUZoX3hVZ2FoYWNvdnB5cFBNWjRjdDRXUENsa0hUdVdvd2JqVFBTQmdXQmREaWttNlk4TlZvY19BYkdBbS0wQnpXWGttdlh2dHIzS1lmWWQtaTVVQ0xpeGplelFaZE9QYWdCek80UFBvM0tZSnd1QlJjb251cXVJSGpTQmluOFVsZw?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 11:20:30 GMT"
     }
   ]
 }
