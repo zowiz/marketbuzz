@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets fall for fourth session as surging oil prices and West Asia tensions weigh on sentiment",
+  "headline": "Sensex and Nifty crash as surging oil prices and West Asia tensions trigger a sharp market sell-off",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,58 +7,74 @@
     "nextOpen": ""
   },
   "why": [
-    "Surging crude oil prices reaching USD 114 per barrel due to West Asia tensions",
-    "Geopolitical instability in West Asia rattling Indian equity markets",
-    "RBI Bulletin suggesting a broad-based increase in food prices",
-    "Negative global cues from US markets and persistent pressure on AI-related stocks"
+    "Crude oil prices surged to USD 114 per barrel, dragging down Indian equities",
+    "Escalating tensions in West Asia fueled investor concerns and market volatility",
+    "RBI Bulletin data indicated a broad-based increase in food prices",
+    "Heavy profit booking occurred after the market failed to sustain morning gains"
   ],
   "whatHappening": [
-    "Sensex and Nifty fell for the fourth consecutive session, snapping a two-week winning streak",
-    "Nifty 50 dropped below the 22,400 mark after crashing from the day's high",
-    "SBI Cards reported a 75% year-on-year jump in Q2 net profit to Rs 778 crore",
-    "Jio Platforms IPO saw strong demand, being subscribed 22 times by the third day"
+    "The Sensex crashed 1,250 points from its day's high, closing in the red for the third session",
+    "Jio's IPO made history with Rs 4.5 lakh crore in bids and record application numbers",
+    "Net FDI into India reached $3.3 billion in September, marking three months of positive flows",
+    "Jindal Steel reported a 21% rise in Q2 profit with record-breaking revenue"
   ],
   "stocksInNews": [
     {
-      "symbol": "SBICARD",
+      "symbol": "JINDALSTEL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "ABREL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         1
       ]
     },
     {
+      "symbol": "BPCL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "TATASONS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
       "symbol": "JIO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        4
+      ]
+    },
+    {
+      "symbol": "ABREL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        7
       ]
     }
   ],
-  "summary": "Indian benchmark indices extended their losing streak to a fourth day as rising crude oil prices and geopolitical tensions dampened investor appetite. While SBI Cards posted robust Q2 earnings and the Jio Platforms IPO received massive subscriptions, the Nifty slipped below the 22,400 level. The RBI highlighted concerns over rising food inflation while maintaining its focus on price stability and curbing currency volatility.",
-  "updatedAt": "2026-10-23T15:31:40.530Z",
+  "summary": "Indian indices experienced a 'Freaky Friday' crash as the Sensex and Nifty reversed early gains due to surging crude oil prices and geopolitical tensions. Rising food inflation concerns outweighed positive news like record Jio IPO bids and steady FDI inflows. Major companies like Jindal Steel posted strong earnings, while BPCL faced a significant decline in quarterly profits.",
+  "updatedAt": "2026-10-23T16:02:08.270Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-23",
   "articleKeys": [
+    "net fdi at 33 billion in september 2026 positive for third consecutive month",
+    "jindal steel q2 profit rises 21 as revenue hits record rs 19448 crore",
+    "bpcl q2 results net profit declines 21 yoy to rs 4863 crore revenue grows 29",
+    "rbi governor reiterates listing requirement for top nbfcs as focus intensifies on tata sons",
+    "jio ipo breaks 12 records rs 45 lakh crore bids highest applications and more",
+    "meta to delay new commercial terms criticised by publishers advertisers",
     "data suggests broadbased increase in food prices rbi bulletin",
     "aditya birla real estate eyes rs 1650 cr revenue from new project in pune",
     "rbi does not target any specific rupee level focuses on curbing volatility says governor sanjay malhotra",
     "rbis net dollar purchases hit record 4326 billion in august bulletin",
-    "meta glasses sting row dk shivakumar alleges attempt to record him kerala cm vd satheesan",
-    "jio platforms ipo day 3 updates issue subscribed 22 times qib portion subscribed 7055 times",
-    "rbi guv reaffirms price stability is key objective while supporting growth",
-    "sbi cards q2 profit jumps 75 yoy to rs 778 crore as bad loan costs fall sharply",
-    "us stock market today dow slips 1 as oil prices climb nasdaq falls as ai pressure persists",
-    "ndtv world summit 2026 day 2 live updates there could be more ai agents on planet than people says mike walsh",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "surging oil prices drag indian shares to weekly losses reuters",
@@ -68,9 +84,45 @@
     "sensex nifty extend losses as crude surges to usd 114 all sectors close in red ani news",
     "why is share market falling today know 5 key reasons behind sensex nifty crash on october 23 news18",
     "sensex crashes 1250 pts from days high nifty below 22400 key reasons behind market decline moneycontrolcom",
-    "sensex nifty fall for fourth consecutive session as geopolitical tensions rattle indian markets india new england news"
+    "freaky friday in stock market today sensex nifty reverse morning gains and crash for 3rd session what led to blood livemint"
   ],
   "articles": [
+    {
+      "title": "Net FDI at $3.3 billion in September 2026, positive for third consecutive month",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece",
+      "publishedAt": "Fri, 23 Oct 2026 21:10:30 +0530"
+    },
+    {
+      "title": "Jindal Steel Q2 profit rises 21% as revenue hits record Rs 19,448 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms",
+      "publishedAt": "Fri, 23 Oct 2026 21:03:11 +0530"
+    },
+    {
+      "title": "BPCL Q2 Results: Net profit declines 21% YoY to Rs 4,863 crore, revenue grows 29%",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-q2-results-net-profit-declines-21-yoy-to-rs-4863-crore-revenue-grows-29/articleshow/135149653.cms",
+      "publishedAt": "Fri, 23 Oct 2026 20:57:55 +0530"
+    },
+    {
+      "title": "RBI governor reiterates listing requirement for top NBFCs as focus intensifies on Tata Sons",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-reiterates-listing-requirement-for-top-nbfcs-as-focus-intensifies-on-tata-sons/articleshow/135149631.cms",
+      "publishedAt": "Fri, 23 Oct 2026 20:55:41 +0530"
+    },
+    {
+      "title": "Jio IPO breaks 12 records: Rs 4.5 lakh crore bids, highest applications and more",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-breaks-12-records-rs-4-5-lakh-crore-bids-highest-applications-and-more/articleshow/135149311.cms",
+      "publishedAt": "Fri, 23 Oct 2026 20:34:30 +0530"
+    },
+    {
+      "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/meta-to-delay-new-commercial-terms-criticised-by-publishers-advertisers/article71616814.ece",
+      "publishedAt": "Fri, 23 Oct 2026 20:10:21 +0530"
+    },
     {
       "title": "Data suggests broad-based increase in food prices: RBI Bulletin",
       "source": "Zerodha Pulse",
@@ -94,42 +146,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/finance/news/rbi-s-net-dollar-purchases-hit-record-43-26-billion-in-august-bulletin-126102301388_1.html",
       "publishedAt": "Fri, 23 Oct 2026 19:38:35 +0530"
-    },
-    {
-      "title": "Meta Glasses Sting Row: DK Shivakumar Alleges Attempt To Record Him, Kerala CM VD Satheesan",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/meta-glasses-sting-row-dk-shivakumar-alleges-attempt-to-record-him-kerala-cm-vd-satheesan-12226207#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 19:38:34 +0530"
-    },
-    {
-      "title": "Jio Platforms IPO Day 3 Updates: Issue Subscribed 22 Times, QIB Portion Subscribed 70.55 Times",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/jio-platforms-ipo-day-3-live-updates-check-subscription-size-gmp-lot-size-price-band-jio-listing-date-12223513#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 19:35:57 +0530"
-    },
-    {
-      "title": "RBI Guv Reaffirms Price Stability Is Key Objective While Supporting Growth",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/rbi-guv-reaffirms-price-control-is-key-objective-while-supporting-growth-at-ndtv-world-summit-12226131#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 19:33:04 +0530"
-    },
-    {
-      "title": "SBI Cards Q2 profit jumps 75% YoY to Rs 778 crore as bad loan costs fall sharply",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-cards-q2-profit-jumps-75-yoy-to-rs-778-crore-as-bad-loan-costs-fall-sharply/articleshow/135147815.cms",
-      "publishedAt": "Fri, 23 Oct 2026 19:15:08 +0530"
-    },
-    {
-      "title": "US Stock Market Today: Dow Slips 1% As Oil Prices Climb; Nasdaq Falls As AI Pressure Persists",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/us-stock-market-today-dow-slips-1-as-oil-prices-climb-nasdaq-falls-as-ai-pressure-persists-12226322#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 19:14:57 +0530"
-    },
-    {
-      "title": "NDTV World Summit 2026 Day 2 Live Updates: There Could Be More AI Agents On Planet Than People, Says Mike Walsh",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/ndtv-world-summit-2026-day-2-live-updates-rbi-governor-shashi-tharoor-among-key-speakers-event-list-12223557#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 19:11:42 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
@@ -186,10 +202,10 @@
       "publishedAt": "Fri, 23 Oct 2026 04:27:31 GMT"
     },
     {
-      "title": "Sensex, Nifty Fall for Fourth Consecutive Session as Geopolitical Tensions Rattle Indian Markets - INDIA New England News",
-      "source": "INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnIwOFFjZ0FXd3hPQzNZZjRGalJkb1BNUmF6QkszZG9KeC1pN2N6VTBmeW0wOWtPYW94STFRZEtGbk4xbHpwNjYtNnREaGtlcjg3blBQQmNPcGdQX1ZmMWRuR0VGZ0puRVNfanc0R3J4UFA3aFlxcUFOc3ZjRnNuaW9fZWU0MnY3NmdYdWdxcjF5eVpZN2pROUdKRHFCaGRkbkswVVU4SFFRN2sxaEF0NVNzeHZuQmpXZGxDUjFUMkl6UQ?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 15:07:22 GMT"
+      "title": "Freaky Friday in stock market today: Sensex, Nifty reverse morning gains and crash for 3rd session — what led to blood? - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbXBZSnR4TUhRaHlTNXd6RXB3VmJfQzBkc3hKdlhDVWFPSVY4NzZicHlfeUprLWlieDFfZjl3SjFjQkgxM0lEZnF4V21Bd0ZEaWExeWl5OHF3bnFQZjRQVTVwYkZWcUU0NjJVLWFGdV9GSDZWSUhzTXhwZlNqXzhvQTJqSklNSzhRNFFhYk5BTkx4NjFQODB6TzlzRFFZb2VjS3RPYXZNLW15UTJCWGphTFBoazNiSUVVblVjbUwzbG1IbE1EdGJYOG5IMEJXMFhEdWNyLW5zZUVaRnIwV25YZEQ0UjV6VUtKcHc0Y0JMX083cTJpaDN4T1lKQjNvUEJlaXU4U25BbVZqSFQwdkVBT9IBlgJBVV95cUxNVXRBT3ZFOHlHVDI2cXNOM2ZfQTZnVTVXWF9tT0lTbEtVMmJYbmpkcXlCVVFEeFgwaWpIU2U3QjR3dEFyR05EMTJWX0FMUEp0Q09BaWQ0bVpuVFNqdDNlYUdoMTM5SFhvLWVGczByUGJ4emdPWXdyeXB3RHFnTklhbW1hWlh2a3hHOFE2LVFPNktRbmFYYk5oQ3RkdG1MMXppeW1hVDhYTmJ2SlZyVld0SkdtSl9UNnpCYlJsUjdlaGtoNTlQa2s5dlg1dGtjbG9vekZNVXBnSUZwUldUYkJBejhEREN2SzJmUWctZHA2ZHpIazlQSlYtYWZoeWUyNnI0ZlpqNTM1LVhmakw1V3VsejBoZXFVZw?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 06:17:43 GMT"
     }
   ]
 }
