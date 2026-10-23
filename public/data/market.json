@@ -1,160 +1,151 @@
 {
-  "headline": "Indian Markets Fall for Fourth Day as Surging Crude Oil Prices and West Asia Tensions Weigh on Sentiment",
+  "headline": "Last session: Indian markets snapped two-week gains as Nifty ended at 22,600 amid surging crude oil prices.",
   "marketStatus": {
-    "isClosed": false,
+    "isClosed": true,
     "isMuhuratTrading": false,
-    "message": "Market is open for trading today.",
-    "nextOpen": ""
+    "message": "Market is closed today because it is a weekend. It will reopen on Monday, 26 October.",
+    "nextOpen": "Monday, 26 October 2026"
   },
   "why": [
-    "Surging crude oil prices reaching approximately $114 per barrel",
-    "Escalating tensions in West Asia impacting global market stability",
-    "Profit booking as the market snapped a two-week winning streak",
-    "Mixed corporate earnings results for the second quarter"
+    "Surging global crude oil prices nearing $114 per barrel weighed on investor sentiment.",
+    "Profit booking occurred after the market's two-week winning streak.",
+    "Volatility in global markets and Eurozone bond market fluctuations created uncertainty.",
+    "Mixed corporate earnings results for the second quarter influenced specific sectors."
   ],
   "whatHappening": [
-    "Nifty 50 closed at the 22,600 mark after significant intraday volatility",
-    "IT stocks provided some support to the indices following buying interest",
-    "Net Foreign Direct Investment (FDI) hit $3.3 billion in September, marking three months of positive flows",
-    "Mumbai property registrations during Navratri 2026 declined by 25% year-on-year"
+    "Nifty 50 ended the last session at 22,600, recovering from intraday lows below 22,400.",
+    "Sensex closed 125 points lower after a sharp 1,250-point decline from its day's high.",
+    "IT stocks witnessed buying interest, helping the benchmarks rebound from their lowest points.",
+    "Bharat Petroleum, Coforge, and Tata Motors were among the major companies reporting Q2 results."
   ],
   "stocksInNews": [
     {
-      "symbol": "HINDPETRO",
-      "sentiment": "Neutral",
+      "symbol": "BPCL",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         0
       ]
     },
     {
-      "symbol": "DRREDDY",
-      "sentiment": "Negative",
+      "symbol": "COFORGE",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         1
       ]
     },
     {
-      "symbol": "INFY",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/10 sources",
-      "articleIds": [
-        3,
-        13
-      ]
-    },
-    {
-      "symbol": "SHRIRAMFIN",
+      "symbol": "INDUSINDBK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        4
+        2
       ]
     },
     {
-      "symbol": "SHREECEM",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "JANABANK",
+      "symbol": "TATAMOTORS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         6
       ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        3
+      ]
     }
   ],
-  "summary": "Indian equity benchmarks fell for the fourth consecutive session as crude oil prices surged to $114 amid geopolitical tensions in West Asia. While IT stocks like Infosys saw buying interest after positive Q2 results, broader market sentiment remained under pressure from high fuel costs. Despite the decline, net FDI inflows remained robust, reaching $3.3 billion for the month of September.",
-  "updatedAt": "2026-10-23T17:31:35.253Z",
+  "summary": "On the last trading day, Indian indices snapped a two-week winning streak as Nifty settled at 22,600. Surging crude oil prices and profit booking triggered a volatile session, though IT stocks saw some buying interest. The market is closed today for the weekend and will reopen on Monday, October 26.",
+  "updatedAt": "2026-10-23T18:32:17.888Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-10-23",
+  "dateChecked": "2026-10-24",
   "articleKeys": [
-    "crude oil sourcing presently volatile procuring more on landed basis hpcl chief",
-    "dr reddys q2 net dips 32 to 913 cr on lower revenue",
-    "navratri26 mumbai property registrations fall 25 yoy",
-    "infosys q2 net jumps 6to 7823 crore to pay interim dividend of 26share",
-    "shriram finance q2 profit jumps 59 yoy to rs 3677 crore on strong interest income lower funding costs",
-    "shree cement profit falls 15 yoy to rs 263 crore on higher fuel costs",
-    "jana small finance bank q2 profit jumps 127 raises fy27 growth outlook",
-    "funeral turns deadly in jordan as gunmen storm church kill six and 28 injured",
-    "net fdi at 33 billion in september 2026 positive for third consecutive month",
-    "ai agents could outnumber humans mike walsh explains indias big opportunity",
+    "bharat petroleums net profit dips amid volatile crude prices in q2",
+    "coforge net profit rises 565 as record deal wins boost growth",
+    "indusind bank posts profit of 1242 crores in q2 asset quality improvement and interest income drives growth",
+    "quality of indian content has improved drastically appeals to other cultures as well jiostar international business chief",
+    "government to modify labour survey to capture gig economy unpaid household workers",
+    "eaaa india alternatives mops up rs 360 crore from anchor investors ipo opens on oct 26",
+    "tata motors reports q2 net of 1257 crore iveco acquisition on track",
+    "why vaibhav sooryavanshi is still on the bench india coach explains",
+    "american express shares tank nearly 4 after slashing 5 of global workforce to prepare for ai",
+    "iphone duo goes on sale worldwide strong demand limited stock and mixed reviews",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "nse national stock exchange of india ltd live sharestock market news updates quotes nseindiacom nse india",
     "surging oil prices drag indian shares to weekly losses reuters",
     "sensex nifty rebound after 3day fall on it stocks buying the hindu",
     "sensex falls 600 points why is stock market down today india today",
     "markets fall for 4th day as crude nears 114 nifty ends at 22600 hdfc sky",
-    "indian equities fall for fourth day as west asia tensions drive oil prices higher rediff",
-    "why is share market falling today know 5 key reasons behind sensex nifty crash on october 23 news18",
-    "sensex nifty extend losses as crude surges to usd 114 all sectors close in red ani news",
-    "sensex crashes 1250 pts from days high nifty below 22400 key reasons behind market decline moneycontrolcom"
+    "global market eurozone bond markets stabilise after volatile week the economic times",
+    "sensex crashes 1250 pts from days high nifty below 22400 key reasons behind market decline moneycontrolcom",
+    "why is share market falling today know 5 key reasons behind sensex nifty crash on october 23 news18"
   ],
   "articles": [
     {
-      "title": "Crude oil sourcing presently volatile; procuring more on landed basis: HPCL Chief",
+      "title": "Bharat Petroleum’s net profit dips amid volatile crude prices in Q2",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/crude-oil-sourcing-presently-volatile-procuring-more-on-landed-basis-hpcl-chief/article71616945.ece",
-      "publishedAt": "Fri, 23 Oct 2026 21:59:49 +0530"
+      "link": "https://www.thehindu.com/business/Industry/bharat-petroleums-net-profit-dips-amid-volatile-crude-prices-in-q2/article71617243.ece",
+      "publishedAt": "Fri, 23 Oct 2026 22:45:33 +0530"
     },
     {
-      "title": "Dr. Reddy’s Q2 net dips 32% to ₹913 cr on lower revenue",
+      "title": "Coforge net profit rises 56.5% as ‘record’ deal wins boost growth",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/dr-reddys-q2-net-dips-32-to-913-cr-on-lower-revenue/article71617256.ece",
-      "publishedAt": "Fri, 23 Oct 2026 21:59:36 +0530"
+      "link": "https://www.thehindu.com/business/coforge-net-profit-rises-565-as-record-deal-wins-boost-growth/article71616615.ece",
+      "publishedAt": "Fri, 23 Oct 2026 22:43:46 +0530"
     },
     {
-      "title": "Navratri’26 Mumbai property registrations fall 25% YoY",
+      "title": "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/navratri26-mumbai-property-registrations-fall-25-yoy/article71617126.ece",
-      "publishedAt": "Fri, 23 Oct 2026 21:55:31 +0530"
+      "link": "https://www.thehindu.com/business/indusind-bank-posts-profit-of-rs-1242-crores-in-q2-asset-quality-improvement-and-interest-income-drives-growth/article71616469.ece",
+      "publishedAt": "Fri, 23 Oct 2026 22:36:53 +0530"
     },
     {
-      "title": "Infosys Q2 net jumps 6%to ₹7,823 crore, to pay interim dividend of ₹26/share",
+      "title": "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/infosys-q2-net-jumps-6to-7823-crore-to-pay-interim-dividend-of-26share/article71616998.ece",
-      "publishedAt": "Fri, 23 Oct 2026 21:36:03 +0530"
+      "link": "https://www.thehindu.com/business/quality-of-indian-content-has-improved-drastically-appeals-to-other-cultures-as-well-jiostar-international-business-chief/article71615512.ece",
+      "publishedAt": "Fri, 23 Oct 2026 22:29:56 +0530"
     },
     {
-      "title": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on  strong interest income, lower funding costs",
+      "title": "Government to modify labour survey to capture gig economy, unpaid household workers",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
-      "publishedAt": "Fri, 23 Oct 2026 21:35:28 +0530"
+      "link": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece",
+      "publishedAt": "Fri, 23 Oct 2026 22:29:40 +0530"
     },
     {
-      "title": "Shree Cement profit falls 15% YoY to Rs 263 crore on higher fuel costs",
+      "title": "EAAA India Alternatives mops up Rs 360 crore from anchor investors; IPO opens on Oct 26",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shree-cement-profit-falls-15-yoy-to-rs-263-crore-on-higher-fuel-costs/articleshow/135150160.cms",
-      "publishedAt": "Fri, 23 Oct 2026 21:33:04 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-mops-up-rs-360-crore-from-anchor-investors-ipo-opens-on-oct-26/articleshow/135150980.cms",
+      "publishedAt": "Fri, 23 Oct 2026 22:20:32 +0530"
     },
     {
-      "title": "Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook",
+      "title": "Tata Motors reports Q2 net  of ₹1,257 crore, Iveco acquisition on track",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
-      "publishedAt": "Fri, 23 Oct 2026 21:30:28 +0530"
+      "link": "https://www.thehindu.com/business/tata-motors-reports-q2-net-of-1257-crore-iveco-acquisition-on-track/article71616843.ece",
+      "publishedAt": "Fri, 23 Oct 2026 22:19:57 +0530"
     },
     {
-      "title": "Funeral Turns Deadly In Jordan As Gunmen Storm Church, Kill Six And 28 Injured",
+      "title": "Why Vaibhav Sooryavanshi Is Still On The Bench? India Coach Explains",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/funeral-turns-deadly-in-jordan-as-gunmen-storm-church-kill-six-and-28-injured-12227050#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 21:23:44 +0530"
+      "link": "https://www.ndtvprofit.com/sports/why-vaibhav-sooryavanshi-is-still-on-the-bench-india-coach-explains-12227325#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 22:15:23 +0530"
     },
     {
-      "title": "Net FDI at $3.3 billion in September 2026, positive for third consecutive month",
+      "title": "American Express Shares Tank Nearly 4% After Slashing 5% Of Global Workforce To 'Prepare For AI'",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece",
-      "publishedAt": "Fri, 23 Oct 2026 21:10:30 +0530"
+      "link": "https://www.ndtvprofit.com/markets/american-express-shares-tank-nearly-4-after-slashing-5-of-global-workforce-to-prepare-for-ai-12227301#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 22:08:42 +0530"
     },
     {
-      "title": "'AI Agents Could Outnumber Humans': Mike Walsh Explains India's Big Opportunity",
+      "title": "iPhone Duo Goes On Sale Worldwide: Strong Demand, Limited Stock And Mixed Reviews",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/ndtv-world-summit-2026-mike-walsh-explains-indias-big-opportunity-ai-agents-could-outnumber-humans-12226800#publisher=newsstand",
-      "publishedAt": "Fri, 23 Oct 2026 21:07:11 +0530"
+      "link": "https://www.ndtvprofit.com/technology/iphone-duo-goes-on-sale-worldwide-strong-demand-limited-stock-and-mixed-reviews-12226932#publisher=newsstand",
+      "publishedAt": "Fri, 23 Oct 2026 22:08:01 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
@@ -167,6 +158,12 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTWxKQmhIZi1qa3BFdEFrWVNkUDJnaEswcHk5bThXdGphTkNINUFXLUZhc2t0UkF1UVFTYlJaNnhQWEk5TUVNVVpNYWRwM2hBM0JNOFE2X2JWYkwyZlJ5Z3ZENFMtT2dtZWRCR0MtcWV5ekN0QUJuN1llRjVsNDZMU1hmNG9UTldJa3Rvd0pnckJzd1BMNDVTOGxLNkVBVmhwNTZXRWpVcGtvUzNHUUI1SUZ5TzU1MGQ0aDI4NFhLYUlxUjB3aFktQkE3a2pDTXR2V1BRTV9rMWt2RmduVHpFUU1GdnR2Ujk1aTZvMTg2Z0dSMGVJOWNPYWZRWnBHUjZVTnc4RtIBigJBVV95cUxOcFctNlFlTXNYZ29wZDFVWWwzeVRfT2hJekJ6cW1fU3V0bTVORlZVR3VTWXpDdldYcEdsNzFPd1VHcXk4WWRmemVsMFNQSmRHWE5mNEt5eWVMUmVvLURZUThCTTFETnd2WFRVM2VDU096LWl5WkRRWXZfMHZ4cUJPTWVaTU0tam16STVJUnlOOHJsdkg2dTkyb3hDVTA2N25TYjRSVWxCWDhKSmQzTzAxdVVlV1dvdTdkZC1CQllOXy1FR2VzalYtOEhQSEtDTnBrakVGa3E3cjV5b3U2blQxT0JjdGhId1FqUkVrX1dwbzFtUGV4NUdmUmI2amVadzQzN29leW1raWtUdw?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 01:16:48 GMT"
+    },
+    {
+      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
+      "source": "NSE India",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Surging oil prices drag Indian shares to weekly losses - Reuters",
@@ -193,28 +190,22 @@
       "publishedAt": "Fri, 23 Oct 2026 10:54:26 GMT"
     },
     {
-      "title": "Indian Equities Fall for Fourth Day as West Asia Tensions Drive Oil Prices Higher - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaXBZQnNaMjB2VC1wWDJkeG1PZHlVSjRhVkM3bTNpSmhxZWhmOWcyV0VTTVgyWUpaQ1p5c1ZObU51QmllYkM5TkZsVDlRWlItMS01c3hHblVTZ2VzeUJTNjBVdzZVTUZKbUNFLUZjSDA3eE42ZEFZdTJuQUlfYVFVcE94VjZ3WklqdnZ4VUZCSmNtZ0hfSU0tVzk3aDlaaHJIRUt0Ulg4SEs0ejFXR3lCSmZwZ2lOWUEwVndUb3Y3TjItOTFXanoyZUdLcEZjeGU3M1NoX1RfS0liNFFRVEU1Z0dYa9IB5gFBVV95cUxQWllvblBMU0tiYzRlZ3F6ekNTeGZhYXVvd29XRDl0QVRmaEltMm1PZ3FOYXg2bUI2VzRxWnlwN0VpdVdjYi05T1Z0REZjVGM2cTdLT2ZGODZQZzA5MURmOU9YSGF2ZUZoX3hVZ2FoYWNvdnB5cFBNWjRjdDRXUENsa0hUdVdvd2JqVFBTQmdXQmREaWttNlk4TlZvY19BYkdBbS0wQnpXWGttdlh2dHIzS1lmWWQtaTVVQ0xpeGplelFaZE9QYWdCek80UFBvM0tZSnd1QlJjb251cXVJSGpTQmluOFVsZw?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 11:20:30 GMT"
-    },
-    {
-      "title": "Why Is Share Market Falling Today? Know 5 Key Reasons Behind Sensex, Nifty Crash on October 23 - News18",
-      "source": "News18",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPek1kTGNfc2lTSFpmdURYNHdzX0pKQjZSS1dseGJIZWRDbFV5T21SdG5aN1FYRlNjQ2l3cENqVDh1UnMwVGYwMHpOcmlvbmVHb3VQLTVxWDU5SEs2Vnlld0tzMjVZeVBoUzVzdkNJazBnVmNSeU1Pb3NHUXBrYTF4ZW1pckwwNkhQNGZwLWo0QXBZQUh2Wl9FYVd4dkd0TWRHQWIxd0VUV3I3RjBlMVVmQXFOR1l0VnhWZVEwaWhCM3ZwOTVOQWRhVUZidGxmRGt4a3lLcTZvaUN4LUhCR1hCUzhQc0FBQdIB6wFBVV95cUxPZ3c5ZkNOMEdQaWVTaTRvSXJiN2NHZnRZdkUzY3hGbEFmenEyNmE3MlNiYms5a0tSMlhhYnZFOUNhNjU2cUtWRlVCUDMtQm9jeVhjMmh5WTNiV3kzdHZ2cmtBM2hvTmVweVFSMG1tdWJoTDlYWnRuLXpMdGlPbDU2T3h5RWdlQXB4bXNNNTE1TkVQMGRvOGhLeEM2N09ib2hxQVBQclhiMEVURG5BM19INFRteFNpZTl3U3M5LWpmb3BQbGNVb2NndVZjYlVUdnZWSWo4ZkxEU3l3WjVjc3J0WDBwVXZOOFFPLUZr?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 05:36:09 GMT"
-    },
-    {
-      "title": "Sensex, Nifty extend losses as crude surges to USD 114, all sectors close in red - ANI News",
-      "source": "ANI News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1JaVTd3SURLaTBsd1BBOE5VLXdMV2dzMEtzcy1TLXlpN0Fzclg3Y21KTVdxejFRcVZvQUlUOHB1em1Oa2k4VEN1VDJ1VGZ2STZfRVNGUmwwWUxzQkJRdGRyZnROOW5Ob0NleDk5R0tVVXJPSE1COU9IaEJjS3JLZU5IWXV2X25TMG1QRjZBREhraGI0dTIwSU5yUVdIRFNWLUJiTXdFdGpxWWREaHBlMUpSRzdpaHY3QXZWNWFSWkpHYzZvNXNGQw?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 10:30:00 GMT"
+      "title": "Global Market: Eurozone bond markets stabilise after volatile week - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 16:06:02 GMT"
     },
     {
       "title": "Sensex crashes 1,250 pts from day's high, Nifty below 22,400: Key reasons behind market decline - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQR250SWE3RDBETXh2Unp3ZENZa1ZNX1k3QnVlaUk4cERpOVl1Zm5XT25FNVAtZnJXc1YwSnQxY3VIUjdRckM2Wm1DZjhUMXpIVW96eXdIb2IybkxlOGNETDFvR0xVYjZuazlaNkcwNWhSMzU1b2pqUnZwVHlPYUtULVphbmh0VUhSNjFSOGNCY0RiVGM3MEdibzZLa05FQUNCc2ZkRi1FY1F1dDR5MHZnSVBWamVQSzlvaTNxNVpmLW9hbUtqRFN2QzhGX3BLOGc0Qldqdlp5c01PMkVLOUZxdVRrTVZrOXd1OVHSAe8BQVVfeXFMTmpwTlpEb25yZXVFWHRXUzhuQ2RDYVVTX08xSWZSVGFTMHlTU2F2SDVJTkN5ZU9hWWdIb0tsUEdtdzE2M1kxcTRxTWt1ZDdRdVNSS0t0bWlFWTlkSXh2Vk9wQUstRldGT0JDbGNkX3Vab1FZQVZkcWtqNmM5QUZiRS1qOFNsR0pHRmdRUkNhY195TFBMN21HNEl5OTA3aVhVYkdHWXgyMmppN0JlY3dDRVRkZ1dMeWpReHZmaWJCc3ROMHFJWEY2dE0tSU83TXFXdEpvRm1leVBLVzhmQXlHMEhNZUFJQlZmR0xDOXp4V0U?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 04:27:31 GMT"
+    },
+    {
+      "title": "Why Is Share Market Falling Today? Know 5 Key Reasons Behind Sensex, Nifty Crash on October 23 - News18",
+      "source": "News18",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPek1kTGNfc2lTSFpmdURYNHdzX0pKQjZSS1dseGJIZWRDbFV5T21SdG5aN1FYRlNjQ2l3cENqVDh1UnMwVGYwMHpOcmlvbmVHb3VQLTVxWDU5SEs2Vnlld0tzMjVZeVBoUzVzdkNJazBnVmNSeU1Pb3NHUXBrYTF4ZW1pckwwNkhQNGZwLWo0QXBZQUh2Wl9FYVd4dkd0TWRHQWIxd0VUV3I3RjBlMVVmQXFOR1l0VnhWZVEwaWhCM3ZwOTVOQWRhVUZidGxmRGt4a3lLcTZvaUN4LUhCR1hCUzhQc0FBQdIB6wFBVV95cUxPZ3c5ZkNOMEdQaWVTaTRvSXJiN2NHZnRZdkUzY3hGbEFmenEyNmE3MlNiYms5a0tSMlhhYnZFOUNhNjU2cUtWRlVCUDMtQm9jeVhjMmh5WTNiV3kzdHZ2cmtBM2hvTmVweVFSMG1tdWJoTDlYWnRuLXpMdGlPbDU2T3h5RWdlQXB4bXNNNTE1TkVQMGRvOGhLeEM2N09ib2hxQVBQclhiMEVURG5BM19INFRteFNpZTl3U3M5LWpmb3BQbGNVb2NndVZjYlVUdnZWSWo4ZkxEU3l3WjVjc3J0WDBwVXZOOFFPLUZr?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 05:36:09 GMT"
     }
   ]
 }
