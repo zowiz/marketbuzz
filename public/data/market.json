@@ -1,22 +1,22 @@
 {
-  "headline": "Last session: Sensex and Nifty snap winning streak as surging crude oil prices drive weekly losses",
+  "headline": "Last session: Sensex and Nifty snapped two-week gains as surging crude oil prices weighed on market sentiment.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 26 October.",
-    "nextOpen": "Monday, 26 October"
+    "nextOpen": "Monday, 26 October 2026"
   },
   "why": [
-    "Brent crude oil prices surged to a six-month high of $117 per barrel",
-    "A freeze on fuel prices impacted the earnings of major oil marketing companies",
-    "Investors engaged in profit booking after the market's recent two-week rally",
-    "Rising global energy costs and geopolitical concerns weighed on investor sentiment"
+    "Surging crude oil prices touching multi-month highs of $117 per barrel dragged down market sentiment.",
+    "Elevated energy costs triggered concerns over profit margins for domestic companies.",
+    "Profit booking across sectors contributed to snapping a two-week winning streak.",
+    "Global market cues and geopolitical tensions kept investor sentiment cautious."
   ],
   "whatHappening": [
-    "The Nifty 50 closed at 22,600 while the Sensex ended 125 points lower in the last session",
-    "Indian equities snapped a two-week winning streak, falling approximately 2% over the week",
-    "JK Cement reported a 7.8% rise in Q2 net profit and announced a new investment in Telangana",
-    "BPCL's quarterly profit fell by 22.5% to ₹4,993 crore due to suppressed marketing margins"
+    "Indian stock markets are closed today for the weekend and will resume trading on Monday, 26 October.",
+    "AU Small Finance Bank reported a 53% jump in Q2 net profit to ₹858 crore.",
+    "Kotak Mahindra Bank posted a 26% increase in Q2 net profit aided by better asset quality.",
+    "BPCL reported a 22.5% drop in Q2 profit to ₹4,993 crore due to fuel price freezes."
   ],
   "stocksInNews": [
     {
@@ -24,7 +24,24 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0
+        0,
+        3
+      ]
+    },
+    {
+      "symbol": "AUBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
       ]
     },
     {
@@ -32,7 +49,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        8
       ]
     },
     {
@@ -44,11 +61,14 @@
       ]
     }
   ],
-  "summary": "Indian indices ended the last session lower, snapping a two-week winning streak as Brent crude hit $117 per barrel. BPCL's profit fell 22.5% due to fuel price freezes, while JK Cement posted a 7.8% profit rise. Adani Enterprises emerged as a top loser as the broader market fell 2% over the week.",
-  "updatedAt": "2026-10-24T11:32:06.376Z",
+  "summary": "In the last trading session, Indian equities snapped their two-week winning streak as surging crude oil prices dragged down key indices. Meanwhile, Q2 earnings season saw strong reports from banking names like AU Small Finance Bank and Kotak Mahindra Bank, while BPCL felt the pinch of frozen fuel prices. Markets remain closed today for the weekend and will reopen on Monday, 26 October.",
+  "updatedAt": "2026-10-24T11:46:11.415Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-24",
   "articleKeys": [
+    "jk cement q2fy27 result profit rises 63 to 169 cr revenue jumps 237",
+    "au small finance bank q2fy27 result net profit jumps 53 to 858 crore",
+    "kotak mahindra bank q2 net up 26 on higher income and better asset quality",
     "jk cement q2 results net profit rises 78 to rs 173 crore paints arm to invest rs 130 crore in telangana plant",
     "eaaa india alternatives secures rs 360 crore from anchor investors ahead of ipo",
     "ban gayi reels ban gaye tweets diljit dosanjh takes dig at viral reels after police nod to delhi concert",
@@ -56,9 +76,6 @@
     "pm modi to visit uttar pradesh and odisha on october 25 full itinerary here",
     "bpcl q2 profit falls 225 to 4993 cr as fuel price freeze hits earnings",
     "i havent even received the ghee the saif ali khan joke that became a brand deal",
-    "veer narmad south gujarat university installs antisuicide fans in hostels watch video",
-    "chatgpt could have done better pakistan international airlines criticised after unveiling new crew uniforms",
-    "portfolio killers 10 us stocks that wiped out up to 66 of investors wealth in 2026",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex down 500 points today why is stock market falling today india today",
@@ -71,6 +88,24 @@
     "stock market outlook today 22 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
   ],
   "articles": [
+    {
+      "title": "JK Cement Q2FY27 result: Profit rises 6.3% to ₹169 cr; revenue jumps 23.7%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/jk-cement-q2fy27-result-profit-rises-6-3-pc-to-rs-169-cr-126102400740_1.html",
+      "publishedAt": "Sat, 24 Oct 2026 16:58:05 +0530"
+    },
+    {
+      "title": "AU Small Finance Bank Q2FY27 result: Net profit jumps 53% to ₹858 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/au-small-finance-bank-q2fy27-result-net-profit-jumps-53-to-858-crore-126102400743_1.html",
+      "publishedAt": "Sat, 24 Oct 2026 16:47:15 +0530"
+    },
+    {
+      "title": "Kotak Mahindra Bank Q2 net up 26% on higher income and better asset quality",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/kotak-mahindra-bank-q2-net-up-26-on-higher-income-and-better-asset-quality/article71619693.ece",
+      "publishedAt": "Sat, 24 Oct 2026 16:41:12 +0530"
+    },
     {
       "title": "JK Cement Q2 Results: Net Profit Rises 7.8% To Rs 173 Crore; Paints Arm To Invest Rs 130 Crore In Telangana Plant",
       "source": "Zerodha Pulse",
@@ -112,24 +147,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/entertainment/i-havent-even-received-the-ghee-the-saif-ali-khan-joke-that-became-a-brand-deal-12229500#publisher=newsstand",
       "publishedAt": "Sat, 24 Oct 2026 15:11:03 +0530"
-    },
-    {
-      "title": "Veer Narmad South Gujarat University Installs 'Anti-Suicide’ Fans In Hostels | Watch Video",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/veer-narmad-south-gujarat-university-installs-anti-suicide-fans-in-hostels-watch-video-12229314#publisher=newsstand",
-      "publishedAt": "Sat, 24 Oct 2026 15:08:36 +0530"
-    },
-    {
-      "title": "'ChatGpt Could Have Done Better': Pakistan International Airlines Criticised After Unveiling New Crew Uniforms",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/chatgpt-could-have-done-better-pakistan-international-airlines-criticised-after-unveiling-new-crew-uniforms-12229057#publisher=newsstand",
-      "publishedAt": "Sat, 24 Oct 2026 15:06:14 +0530"
-    },
-    {
-      "title": "Portfolio Killers: 10 US stocks that wiped out up to 66% of investors’ wealth in 2026",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
-      "publishedAt": "Sat, 24 Oct 2026 15:03:10 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
