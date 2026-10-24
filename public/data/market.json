@@ -1,160 +1,135 @@
 {
-  "headline": "Last session: Sensex and Nifty snapped two-week gains as surging crude oil prices dragged equities lower.",
+  "headline": "Last session: Indian benchmarks snapped winning streak as crude oil prices surged to six-month highs",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 26 October.",
-    "nextOpen": "Monday, 26 October 2026"
+    "nextOpen": "Monday, 26 October"
   },
   "why": [
-    "Surging crude oil prices hitting six-month highs dragged Indian shares to weekly losses.",
-    "Sensex and Nifty snapped their two-week winning streak, falling around 2% over the week.",
-    "Geopolitical tension and rising oil prices to $117/bbl increased market volatility.",
-    "Heavy selling pressure across major sectors pulled benchmark indices down despite intermittent rebounds in IT stocks."
+    "Surging crude oil prices hitting six-month highs weighed heavily on Indian equity markets.",
+    "Concerns over global inflation and rising energy costs drove widespread profit-taking.",
+    "Key benchmark indices Sensex and Nifty fell 2% over the week, snapping their recent winning streak.",
+    "Corporate earnings reports showed mixed results, impacted by external sector pressures."
   ],
   "whatHappening": [
-    "Kotak Mahindra Bank reported a 26% YoY rise in Q2 consolidated net profit to ₹5,645 crore with NII up 16%.",
-    "FDA issued a recall order for a batch of Patanjali Foods' Cow Ghee in Madhya Pradesh.",
-    "SEBI announced plans to review short selling and SLB rules while developing an AI sandbox and bond market-making framework.",
-    "Adani Enterprises emerged as the top loser in the market weekly wrap."
+    "Sensex and Nifty dropped around 2% over the week as Brent crude oil prices neared $117 per barrel.",
+    "JK Cement reported a 7.8% increase in Q2 net profit to Rs 173 crore.",
+    "BPCL reported a 22.5% decline in Q2 profit to Rs 4,993 crore due to fuel price freezes.",
+    "Adani Enterprises was among the major losers in the recent weekly market wrap."
   ],
   "stocksInNews": [
     {
-      "symbol": "KOTAKBANK",
+      "symbol": "JKCEMENT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1,
-        8
+        0
       ]
     },
     {
-      "symbol": "PATANJALI",
+      "symbol": "BPCL",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2
+        5
       ]
     },
     {
       "symbol": "ADANIENT",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        16
+        14
       ]
     }
   ],
-  "summary": "In the last trading session, Indian equities snapped their two-week winning streak as surging crude oil prices weighed heavily on market sentiment. On the corporate front, Kotak Mahindra Bank delivered strong Q2 profit growth, while Patanjali Foods faced regulatory heat over a product recall. Markets remain closed today for the weekend and will resume trading on Monday, 26 October.",
-  "updatedAt": "2026-10-24T10:31:22.214Z",
+  "summary": "On the last trading day, Indian benchmark indices recorded weekly losses of about 2% driven by surging global crude oil prices. Corporate earnings showed mixed results with JK Cement reporting profit growth while BPCL faced margin pressure. The Indian stock market is closed today for the weekend and will reopen on Monday, 26 October.",
+  "updatedAt": "2026-10-24T11:02:00.438Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-24",
   "articleKeys": [
-    "sebi reviews short selling slb rules plans ai sandbox bond marketmaking",
-    "kotak mahindra banks q2 consolidated net profit rises 26 to 5645 crore",
-    "fda crackdown on unsafe food patanjali foods get recall order of sale of cow ghees batch in mp",
-    "e20 costs as much as petrol so why is it making food economics more complex and pricier",
-    "watch man uses ai smart glasses to cheat at chess game in viral video sparks fair play debate",
-    "sc panel to hear jantar mantar protest violence complaints on oct 29 30",
-    "fauzi teaser out prabhas plays a rebel soldier fighting british rule",
-    "aston villa vs manchester city live streaming likely lineups how to watch premier league match on tv online in india",
-    "kotak mahindra bank q2 results consolidated pat rises 26 yoy to rs 5645 crore nii up 16",
-    "rs 25000 monthly sip vs rs 5 lakh lump sum what could build more wealth",
-    "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
-    "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "sensex down 500 points today why is stock market falling today india today",
-    "indian equities extend losses as brent crude hits sixmonth high dd india",
+    "jk cement q2 results net profit rises 78 to rs 173 crore paints arm to invest rs 130 crore in telangana plant",
+    "eaaa india alternatives secures rs 360 crore from anchor investors ahead of ipo",
+    "ban gayi reels ban gaye tweets diljit dosanjh takes dig at viral reels after police nod to delhi concert",
+    "a 13 billion satellite the deadly nepal flood and a warning that came too late",
+    "pm modi to visit uttar pradesh and odisha on october 25 full itinerary here",
+    "bpcl q2 profit falls 225 to 4993 cr as fuel price freeze hits earnings",
+    "i havent even received the ghee the saif ali khan joke that became a brand deal",
+    "veer narmad south gujarat university installs antisuicide fans in hostels watch video",
+    "chatgpt could have done better pakistan international airlines criticised after unveiling new crew uniforms",
+    "portfolio killers 10 us stocks that wiped out up to 66 of investors wealth in 2026",
     "surging oil prices drag indian shares to weekly losses reuters",
+    "sensex down 500 points today why is stock market falling today india today",
     "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
+    "why stock market is falling today sensex drops over 700 points nifty 50 slips below 22400 key reasons ndtv profit",
     "market weekly wrap sensex nifty50 snap winning streak fall 2 as crude oil prices hit 117bbl adani ent top loser upstox",
+    "indian equities extend losses as brent crude hits sixmonth high dd india",
+    "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex nifty rebound after 3day fall on it stocks buying the hindu",
     "sensex falls 600 points why is stock market down today india today",
-    "jio ipo gmp today grey market signals over 22 listing gains check allotment listing date the economic times"
+    "stock market outlook today 22 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
   ],
   "articles": [
     {
-      "title": "Sebi reviews short selling, SLB rules; plans AI sandbox, bond market-making",
+      "title": "JK Cement Q2 Results: Net Profit Rises 7.8% To Rs 173 Crore; Paints Arm To Invest Rs 130 Crore In Telangana Plant",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/sebi-short-selling-slb-ai-sandbox-market-making-tuhin-kanta-pandey-126102400650_1.html",
-      "publishedAt": "Sat, 24 Oct 2026 14:52:27 +0530"
+      "link": "https://www.ndtvprofit.com/markets/jk-cement-q2-results-net-profit-rises-7-8-to-rs-173-crore-paints-arm-to-invest-rs-130-crore-in-telangana-plant-12229556#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 15:41:44 +0530"
     },
     {
-      "title": "Kotak Mahindra Bank's Q2 consolidated net profit rises 26% to ₹5,645 crore",
+      "title": "EAAA India Alternatives Secures Rs 360 Crore From Anchor Investors Ahead Of IPO",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/kotak-mahindra-bank-q2-fy27-profit-nii-fcnr-deposits-asset-quality-126102400637_1.html",
-      "publishedAt": "Sat, 24 Oct 2026 14:42:42 +0530"
+      "link": "https://www.ndtvprofit.com/markets/eaaa-india-alternatives-secures-rs-360-crore-from-anchor-investors-ahead-of-ipo-12229477#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 15:31:54 +0530"
     },
     {
-      "title": "FDA Crackdown On 'Unsafe Food': Patanjali Foods Get Recall Order Of Sale Of Cow Ghee's Batch In MP",
+      "title": "\"Ban Gayi Reels, Ban Gaye Tweets?\" Diljit Dosanjh Takes Dig At Viral Reels After Police Nod To Delhi Concert",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/fda-crackdown-on-unsafe-food-patanjali-gets-recall-order-of-sale-of-cow-ghees-batch-in-mp-12229356#publisher=newsstand",
-      "publishedAt": "Sat, 24 Oct 2026 14:34:21 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/diljit-dosanjh-takes-dig-at-viral-reels-after-police-nod-to-delhi-concert-ban-gayi-reels-ban-gaye-tweets-12229130#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 15:16:51 +0530"
     },
     {
-      "title": "E20 Costs As Much As Petrol. So Why Is It Making Food Economics More Complex And Pricier?",
+      "title": "A $1.3 Billion Satellite, The Deadly Nepal Flood And A Warning That Came Too Late",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/e20-petrol-how-ethanol-costs-maize-demand-and-supply-affect-fuel-and-food-economics-12228926#publisher=newsstand",
-      "publishedAt": "Sat, 24 Oct 2026 14:19:12 +0530"
+      "link": "https://www.ndtvprofit.com/world/nisar-satellite-detected-signs-of-nepal-flood-weeks-before-disaster-study-finds-12229553#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 15:16:04 +0530"
     },
     {
-      "title": "Watch: Man Uses AI Smart Glasses To Cheat At Chess Game In Viral Video, Sparks Fair Play Debate",
+      "title": "PM Modi To Visit Uttar Pradesh And Odisha On October 25: Full Itinerary Here",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/watch-man-uses-ai-smart-glasses-to-cheat-at-chess-game-in-viral-video-sparks-fair-play-debate-12229315#publisher=newsstand",
-      "publishedAt": "Sat, 24 Oct 2026 14:17:17 +0530"
+      "link": "https://www.ndtvprofit.com/india/pm-modi-to-visit-uttar-pradesh-and-odisha-on-october-25-full-itinerary-here-12229510#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 15:14:16 +0530"
     },
     {
-      "title": "SC panel to hear Jantar Mantar protest violence complaints on Oct 29, 30",
+      "title": "BPCL Q2 profit falls 22.5% to ₹4,993 cr as fuel price freeze hits earnings",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/sc-panel-to-hear-jantar-mantar-protest-violence-complaints-on-oct-29-30-126102400476_1.html",
-      "publishedAt": "Sat, 24 Oct 2026 14:14:32 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/bpcl-q2-profit-falls-22-5-to-4-993-cr-as-fuel-price-freeze-hits-earnings-126102400659_1.html",
+      "publishedAt": "Sat, 24 Oct 2026 15:11:53 +0530"
     },
     {
-      "title": "Fauzi Teaser Out! Prabhas Plays A Rebel Soldier Fighting British Rule",
+      "title": "'I Haven't Even Received The Ghee': The Saif Ali Khan Joke That Became A Brand Deal",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/fauzi-teaser-out-prabhas-plays-a-rebel-soldier-fighting-british-rule-12228736#publisher=newsstand",
-      "publishedAt": "Sat, 24 Oct 2026 14:09:37 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/i-havent-even-received-the-ghee-the-saif-ali-khan-joke-that-became-a-brand-deal-12229500#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 15:11:03 +0530"
     },
     {
-      "title": "Aston Villa Vs Manchester City Live Streaming: Likely Lineups; How To Watch Premier League Match On TV, Online In India?",
+      "title": "Veer Narmad South Gujarat University Installs 'Anti-Suicide’ Fans In Hostels | Watch Video",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/aston-villa-vs-manchester-city-will-erling-haaland-fire-again-live-streaming-details-12226668#publisher=newsstand",
-      "publishedAt": "Sat, 24 Oct 2026 14:00:01 +0530"
+      "link": "https://www.ndtvprofit.com/india/veer-narmad-south-gujarat-university-installs-anti-suicide-fans-in-hostels-watch-video-12229314#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 15:08:36 +0530"
     },
     {
-      "title": "Kotak Mahindra Bank Q2 results: Consolidated PAT rises 26% YoY to Rs 5,645 crore;  NII up 16%",
+      "title": "'ChatGpt Could Have Done Better': Pakistan International Airlines Criticised After Unveiling New Crew Uniforms",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-consolidated-pat-rises-26-yoy-to-rs-5645-crore-lenders-nii-up-16/articleshow/135165924.cms",
-      "publishedAt": "Sat, 24 Oct 2026 13:54:37 +0530"
+      "link": "https://www.ndtvprofit.com/trending/chatgpt-could-have-done-better-pakistan-international-airlines-criticised-after-unveiling-new-crew-uniforms-12229057#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 15:06:14 +0530"
     },
     {
-      "title": "Rs 25,000 Monthly SIP vs Rs 5 Lakh Lump Sum: What Could Build More Wealth?",
+      "title": "Portfolio Killers: 10 US stocks that wiped out up to 66% of investors’ wealth in 2026",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/rs-25-000-monthly-sip-vs-rs-5-lakh-lump-sum-what-could-build-more-wealth-12228516#publisher=newsstand",
-      "publishedAt": "Sat, 24 Oct 2026 13:50:16 +0530"
-    },
-    {
-      "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOenRIUzBEZWc5czZJbDVnRW1IUl9VMzZLR0JFTWh1Mi1SS1J2aV8xZjhVUEd3Q18weFBpUWpQSG92Q0tjcnRsZS1icXJ1UXpLVl8wZUlrT3N3NkZmc09oczhwbl83U3BTa0R3QzBOc3VLd2RvaU1OMFZqbXI5eXhvRnd3RzBlVTdiVEFVaU1NNjhCajJXYjhpX3VfVDRqZzQ5TTRGTllIMmVDZFNDelFjMVk3TFd6azVGZGpNMXgyUnVwdW5DRXBxLWE0a0xBdkdUckZnQTlubmk1MHd1U0JxWUcxUmxnbDZFTS1TS1VIOHBKNFlqWjRxcXRORXBDVjlObmNqQW5vZVFLcmJhaWNfSWsxYk5CMTh2OUtrTU9WTVJIYVXSAagCQVVfeXFMT2NWSEs1ZnlVQlRLLTNYRzVlUjNpRjlGSEpGY2huM3JhTUJIOWt6SDV4cmhSdndLYVNwZUJ3NlA5TXVPZHZJZ1hZS0tEdDU4c1pRTlVvUnFVTUJTN0ptVnROakxWejVGc3UwMGFyejRtMzF3SHp0YVdVZW0zeVc1dHRsRmkyZkF5VEhYdzZSMWZQNERQZjY4QlRxX2lwVVFzRmRjWnBIX09LcHFPQi0wTHFnQUp6N1FJUkdXVkxMSHB3eE5GVDhMSDBfSkJUNjVHSDNyRmk3Y3VCcTRzb1NmVWVpZEZIQTR5RDAwNGFLNFpNMkNMUDVWWjN1d2pibFFKaXhwOUpoNFhZZ0lycDlsbXlTTUJoQTRETmNmdzNxRm1YbllSbmlOdGY?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 10:50:48 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 23 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTWxKQmhIZi1qa3BFdEFrWVNkUDJnaEswcHk5bThXdGphTkNINUFXLUZhc2t0UkF1UVFTYlJaNnhQWEk5TUVNVVpNYWRwM2hBM0JNOFE2X2JWYkwyZlJ5Z3ZENFMtT2dtZWRCR0MtcWV5ekN0QUJuN1llRjVsNDZMU1hmNG9UTldJa3Rvd0pnckJzd1BMNDVTOGxLNkVBVmhwNTZXRWpVcGtvUzNHUUI1SUZ5TzU1MGQ0aDI4NFhLYUlxUjB3aFktQkE3a2pDTXR2V1BRTV9rMWt2RmduVHpFUU1GdnR2Ujk1aTZvMTg2Z0dSMGVJOWNPYWZRWnBHUjZVTnc4RtIBigJBVV95cUxOcFctNlFlTXNYZ29wZDFVWWwzeVRfT2hJekJ6cW1fU3V0bTVORlZVR3VTWXpDdldYcEdsNzFPd1VHcXk4WWRmemVsMFNQSmRHWE5mNEt5eWVMUmVvLURZUThCTTFETnd2WFRVM2VDU096LWl5WkRRWXZfMHZ4cUJPTWVaTU0tam16STVJUnlOOHJsdkg2dTkyb3hDVTA2N25TYjRSVWxCWDhKSmQzTzAxdVVlV1dvdTdkZC1CQllOXy1FR2VzalYtOEhQSEtDTnBrakVGa3E3cjV5b3U2blQxT0JjdGhId1FqUkVrX1dwbzFtUGV4NUdmUmI2amVadzQzN29leW1raWtUdw?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 01:16:48 GMT"
-    },
-    {
-      "title": "Sensex down 500 points today: Why is stock market falling today? - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOakZkb2RoVENITm90YXpKRXZSU05UWGVtV0Z2WGhGMG1fa2JkSDFfcVB4NTR3ZjVqa2hWUzRUUGQtY3lLS2lYbW9PNUhnZE9hZXBHUGtWUnZVTmVQLVlQRElTdFNqOXhyQzU3azV5UWdKR201ejFvQXlwN19DTXhaRmJuSk1sbDFUYXFKNUtBUzgwTjFlcGNZeWJpRGIxWFBGWE5rejh3LUtlYWdYQm03TjFSR09VSy1ib01zbnN1enV3aWE1TG9ZXzVLUVVmSGxsbHdOR0ZNSXZkQzA3NEZwNDdB0gHnAUFVX3lxTFB1OXduRG1wSThoRXdCLTFWS1VuSW0wbGRteks2cHUwemdDOG5JdUZEaDljUE9IeFFGQU9pMUR5aHhqQnlZbmZxbWhHNUlJLWtTVFpZWGxGaG1ybi1zRlRidXpCQ0lwRml4NV8wM3gzNTI3Y0tJOVZEZWpNUXZ4dkF6bUYwM2w2N2FmS1pUZWtEbWdia1NsRjlpeFdDTWFjYXB6Z1FtZUpIVnhiNzFrNERTckY2Vmd4b1FsdXlERGJJYXB6bXl1aGxybFpJUmc3R1FaenoyMTRfUWFETFJCSEVmbnJpc21NRQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 04:22:24 GMT"
-    },
-    {
-      "title": "Indian equities extend losses as Brent crude hits six-month high - DD India",
-      "source": "DD India",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkEyWDFPQU9iLWpLQXdrN0IxSDYwQjJFQm0zVU1QbGhJY3h6NkRXaUFaRHhKb3g5cHNhRTlxUkNVV2cwOXg4Q2IxNFMxQ2NjRlpvQUl6YndvRkpuUWh1NTluVkMzajNGRll5OFhDRGVrRnljWHp1b0FpeTh3T2YzN3RVUDBsQTFsZnRNSlJpOElTeXpDZTlxSFNnTQ?oc=5",
-      "publishedAt": "Sat, 24 Oct 2026 06:12:00 GMT"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/portfolio-killers-10-us-stocks-that-wiped-out-up-to-66-of-investors-wealth-in-2026/slideshow/135167355.cms",
+      "publishedAt": "Sat, 24 Oct 2026 15:03:10 +0530"
     },
     {
       "title": "Surging oil prices drag Indian shares to weekly losses - Reuters",
@@ -163,16 +138,40 @@
       "publishedAt": "Fri, 23 Oct 2026 02:17:00 GMT"
     },
     {
+      "title": "Sensex down 500 points today: Why is stock market falling today? - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOakZkb2RoVENITm90YXpKRXZSU05UWGVtV0Z2WGhGMG1fa2JkSDFfcVB4NTR3ZjVqa2hWUzRUUGQtY3lLS2lYbW9PNUhnZE9hZXBHUGtWUnZVTmVQLVlQRElTdFNqOXhyQzU3azV5UWdKR201ejFvQXlwN19DTXhaRmJuSk1sbDFUYXFKNUtBUzgwTjFlcGNZeWJpRGIxWFBGWE5rejh3LUtlYWdYQm03TjFSR09VSy1ib01zbnN1enV3aWE1TG9ZXzVLUVVmSGxsbHdOR0ZNSXZkQzA3NEZwNDdB0gHnAUFVX3lxTFB1OXduRG1wSThoRXdCLTFWS1VuSW0wbGRteks2cHUwemdDOG5JdUZEaDljUE9IeFFGQU9pMUR5aHhqQnlZbmZxbWhHNUlJLWtTVFpZWGxGaG1ybi1zRlRidXpCQ0lwRml4NV8wM3gzNTI3Y0tJOVZEZWpNUXZ4dkF6bUYwM2w2N2FmS1pUZWtEbWdia1NsRjlpeFdDTWFjYXB6Z1FtZUpIVnhiNzFrNERTckY2Vmd4b1FsdXlERGJJYXB6bXl1aGxybFpJUmc3R1FaenoyMTRfUWFETFJCSEVmbnJpc21NRQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 04:22:24 GMT"
+    },
+    {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr0gHDAUFVX3lxTE02Zk9MNDBpdm1fQlg5MVEzdkowOTlLQ1pZMUY1VDRoWERQMmwzVXJKaHBVaGdDR3lOWHdmeHN1ZG5uVG1ZRUliWTg4eHpDa21JUGxQdThZQjNPeTQ5dkxMbldPei1Gb1RJU1RjR1dLUGRGX0NWRVZyTDNXSGhUU1J6ZjBoYk51SGVDV2FPVzhpZ1VXNjFmMHM3T01ZLU82Q0w5Z2I1NUo2aFhpd3BoOUNISlkxZDBVWE1Na2F3TWo3Z3J4aw?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
     },
     {
+      "title": "Why Stock Market Is Falling Today? Sensex Drops Over 700 Points, Nifty 50 Slips Below 22,400; Key Reasons - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY2czY09uX1B3ZTlpQTN6VTJPNTJ6Uk15eDhNYWNwNHpfdnFHbFJiaWxmZDJOSmc5VTM1N2ZKWHhVYnVyeTNxbzMtMVdzYUFCSVV4NEJ5MDJiWUVUTDBOU3VHNVd0OUpmajh5WEV3S0JTWVdiUEx5bVlCalN4dWxEcFVoYjNRSl9mUmxqZnNINkhIQnlPd0QxUUI0d0tydjI1NXZNR050cDFsYU1oTkptSWpHTFVSR1hSYklmVFZtN2pxM3VFWTVJU21fMTJEd3g4WXFjWmdQamJKU3Vrd2dR0gHnAUFVX3lxTE5aal8xOTYxeTF5cWZ2VE9vWmpBTHlNUEZZZFdJTGgtZEpPS25DTEFPZEFGWEstdlh4SUZ1MVZkemk0WDVBOTNQeGVRR2dvSVNMdV95Sy1LT296bERheUozbFN4dEpsV09WTVVHbjl1dWVZOEZmZ1dLREtaaFZGZTVCWFJTUU5zdjNJcW1ESzNhc0FoVDBkOXkwcXRDMW82YnNldHVYQlJjT3hHbGNFWGt4anZNSDMzcFhIRGNHN1RhU3M2N21feG54OVJleE83M1haR2hUN1UxX0NfUEg0SC0zRGZWYlNvcw?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 07:16:32 GMT"
+    },
+    {
       "title": "Market weekly wrap: SENSEX, NIFTY50 snap winning streak, fall 2% as crude oil prices hit $117/bbl; Adani Ent top loser - Upstox",
       "source": "Upstox",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM2VoT3BIcXVKWlZMZFFoalBRaDlNSVBvWmpRVURrUFpZOWMwR0pyM1FNZEFRR0ViVFR1QTlYRHZmWEdGdHF5NFhJVldiVDBrQkNyQnVjVGRMbUFmUXFVT2hrMUFCZmdGRTIzYTU3d3FVRS1mTEdDZGpJNzBWeC12UlA0d1dwMXZ4eXlLSmh4V2VmZnYtZVFhVksyQWVHOWdHQWVUQWtfSE5URzA0dXpkcG82RjFFSDBja1BtbUJfODJCeDUwbU5DV21HQ0plemhmNDdTNmxXbGNPTG9aSXMzR2syRnpzZ3Q3SkpzYV83bEVKemdSbkFhTFA0T2VfZEppc3Z6eUZmWU5fOV8tdXoyYjhJN1U0SVpo?oc=5",
       "publishedAt": "Sat, 24 Oct 2026 05:06:13 GMT"
+    },
+    {
+      "title": "Indian equities extend losses as Brent crude hits six-month high - DD India",
+      "source": "DD India",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkEyWDFPQU9iLWpLQXdrN0IxSDYwQjJFQm0zVU1QbGhJY3h6NkRXaUFaRHhKb3g5cHNhRTlxUkNVV2cwOXg4Q2IxNFMxQ2NjRlpvQUl6YndvRkpuUWh1NTluVkMzajNGRll5OFhDRGVrRnljWHp1b0FpeTh3T2YzN3RVUDBsQTFsZnRNSlJpOElTeXpDZTlxSFNnTQ?oc=5",
+      "publishedAt": "Sat, 24 Oct 2026 06:12:00 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 23 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTWxKQmhIZi1qa3BFdEFrWVNkUDJnaEswcHk5bThXdGphTkNINUFXLUZhc2t0UkF1UVFTYlJaNnhQWEk5TUVNVVpNYWRwM2hBM0JNOFE2X2JWYkwyZlJ5Z3ZENFMtT2dtZWRCR0MtcWV5ekN0QUJuN1llRjVsNDZMU1hmNG9UTldJa3Rvd0pnckJzd1BMNDVTOGxLNkVBVmhwNTZXRWpVcGtvUzNHUUI1SUZ5TzU1MGQ0aDI4NFhLYUlxUjB3aFktQkE3a2pDTXR2V1BRTV9rMWt2RmduVHpFUU1GdnR2Ujk1aTZvMTg2Z0dSMGVJOWNPYWZRWnBHUjZVTnc4RtIBigJBVV95cUxOcFctNlFlTXNYZ29wZDFVWWwzeVRfT2hJekJ6cW1fU3V0bTVORlZVR3VTWXpDdldYcEdsNzFPd1VHcXk4WWRmemVsMFNQSmRHWE5mNEt5eWVMUmVvLURZUThCTTFETnd2WFRVM2VDU096LWl5WkRRWXZfMHZ4cUJPTWVaTU0tam16STVJUnlOOHJsdkg2dTkyb3hDVTA2N25TYjRSVWxCWDhKSmQzTzAxdVVlV1dvdTdkZC1CQllOXy1FR2VzalYtOEhQSEtDTnBrakVGa3E3cjV5b3U2blQxT0JjdGhId1FqUkVrX1dwbzFtUGV4NUdmUmI2amVadzQzN29leW1raWtUdw?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 01:16:48 GMT"
     },
     {
       "title": "Sensex, Nifty rebound after 3-day fall on IT stocks buying - The Hindu",
@@ -187,10 +186,10 @@
       "publishedAt": "Fri, 23 Oct 2026 06:50:02 GMT"
     },
     {
-      "title": "Jio IPO GMP today: Grey market signals over 22% listing gains; check allotment, listing date - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTnRQbzhHQjhnY0Zrc2ZtbzlTWkJURUY2YUtTTkNJUGxSZGhhTS1sTFRYa0U4RzIyRkFSM2JLc2c3VW5fOU5qYjJNVXlkTDNabW1Dd3A2UVFTR05ZQi05SHVZdDhrTEdycHZBUWktQldfdkhlZmdMc2VMNnNkM0tKRFJnbkdJZV9tMXliLWdueUthbGdmdnlHTldVamw1NlNLUERGcVpPN3EySWN3aENWX1B0TUx1THE1bWlDUXljS1BPUENHT0lYcHlGWEpjNmVpRjZWUTBORkVXQ3djbEF5LXVSUjJ6dFBIRkU2QmZPRWZWbFE5U0lnSjRnZktJS1JM0gH6AUFVX3lxTE1KY2QzVTZ6VmtQcTVoZ1UxM2VCWnQzWFJzRFllUDg3UGdBMmQ0VG9xZ19sdUNjM0VERzhYQjBFTE5oR19NMVRkNFRpTjl2RVloY0lqLS1CWmJjaGcxOGI1VWd3UTdGQ2Q4YWxxVHJsa1F2dTVuUmRVYWtTaXM3ejJ2bk9fdVczZXp6ZGw5Z3VSRng5ajRKUXpfb1p4Z2VHZ09BdEc1R2dIZUpoOE1ZN1dpeWFqM29YU1NNcVFTXy1qVUNVVlBYYnNlczc4OGdXRFh1TFVrTFNhLVFRTHlyLU0wX1YwUXJJQkl0QTVaMDBTYTBGVWlEUDdXdEE?oc=5",
-      "publishedAt": "Sat, 24 Oct 2026 06:12:41 GMT"
+      "title": "Stock market outlook today, 22 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTnNUNUxNMmRjUi1QcjJmVHMzWWNHSEZZLUM1b285cUVHMnJsOFdOamVkejBVa1JEbEwxWW5kczRaSUVsd0JNVDZxQmRjUjRQOWlNYVdRem0yajNIVWU1SkFueWZrVk41T2FMcVFyNjNIdTBTYU1nYTBlTUstZ1laTUNYZEVUeE5PRGpOWHprUGlxRkdqNjh1OUlobGVZdUprdGN1em1tNnlEWXFYak1BV1A1OHFCTlJ1d0dnaUowUjlVczVWY3BsSkpvcjlzYVRNbHlkUDJQUjQ0ZkhCOXlkZFlrVGxucmNWVUtzWVMzY0dkeFFJWnJGZ2w0T3dzbXY3NFdTONIBigJBVV95cUxNVFFrYkdJRkdQcTB3V3FxZERqd2t1c3JlM2ZzWkZlYXNBd0lROWF0TVJudUhCM3FseTVSOW05MWZSS3BYQW55aVJ6cklYTHh3TkFheGRxUmdPQ3dqS0Vyenp4b1hGdnJrbGxCNnpzTGJLcWs3ZVVIUmFQMWo5VGhRSUl5Ymh1VHFxVlQ3WHZaZWtUMlhLcnMzY3p4bDdlaHAwTHBkLWYzNmhJVVBhU19VZHVpbV9UcXR4N1pSWWpoclFHM2pnc1lqWFFfUEYwQjAwWU1LZHVOYk1ad3VNVE1kYjhiU2hEYTJWUnBoTDF5c0hGcGZKdWc1YnJoTlJLcnpyMFpYRHp5MmdVdw?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 01:20:23 GMT"
     }
   ]
 }
