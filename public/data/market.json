@@ -1,22 +1,22 @@
 {
-  "headline": "Last session: Sensex and Nifty ended lower as surging oil prices and FII selling led to weekly losses",
+  "headline": "Last session: Indian equities snap winning streak as surging crude oil prices and relentless FII selling weigh on sentiment",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 26 October.",
-    "nextOpen": "Monday, 26 October"
+    "nextOpen": "Monday, 26 October 2026"
   },
   "why": [
-    "Brent crude oil prices surged to a six-month high, weighing on energy-sensitive Indian equities",
-    "Foreign Institutional Investors (FIIs) continued to dump Indian stocks for the 10th consecutive week",
-    "The market snapped a two-week winning streak amid profit booking and global macro uncertainty",
-    "Rising concerns over AI-driven cyber threats prompted security reviews of market infrastructure"
+    "Crude oil prices surged to $117/bbl, hitting a six-month high and raising cost concerns.",
+    "FIIs dumped Indian equities for the 10th straight week, keeping pressure on domestic benchmark indices.",
+    "Global macro uncertainty and broad market selling triggered weekly losses.",
+    "Investors lost significant capital as benchmark indices faced sharp sell-offs during the week."
   ],
   "whatHappening": [
-    "The Sensex shed approximately 1,600 points during a turbulent trading week from October 19 to 23",
-    "Nifty 50 settled at the 22,600 mark while the Sensex fell 125 points in the final trading session",
-    "Kotak Mahindra Bank reported a strong Q2 with consolidated net profit rising 26% year-on-year",
-    "Jio IPO grey market signals suggest potential listing gains of over 22% ahead of its debut"
+    "Sensex and NIFTY50 snapped their two-week winning streak, dropping around 2% overall.",
+    "Kotak Mahindra Bank reported strong Q2 results with a 26% YoY rise in consolidated PAT to Rs 5,645 crore.",
+    "Adani Enterprises was highlighted as the top loser in the weekly market wrap.",
+    "NSE is reviewing network vulnerabilities amid rising cyber threats from artificial intelligence."
   ],
   "stocksInNews": [
     {
@@ -28,24 +28,16 @@
       ]
     },
     {
-      "symbol": "JIO",
-      "sentiment": "Positive",
+      "symbol": "ADANIENT",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        17
-      ]
-    },
-    {
-      "symbol": "NSE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        5
+        15
       ]
     }
   ],
-  "summary": "On the last trading day, Indian markets closed lower as the Sensex and Nifty succumbed to pressure from surging oil prices and persistent FII selling. Despite a mid-day attempt at a rebound led by IT stocks, the benchmarks ended the week with significant losses. Investors are now looking toward Monday's reopening while monitoring strong corporate earnings from lenders like Kotak Mahindra Bank.",
-  "updatedAt": "2026-10-24T09:01:59.020Z",
+  "summary": "On the last trading day, Indian benchmark indices snapped a two-week winning streak, falling nearly 2%. Heavy selling by FIIs for a 10th consecutive week and crude oil hitting $117/bbl heavily pressured the market. On the corporate earnings front, Kotak Mahindra Bank delivered strong Q2 performance with a 26% surge in net profit.",
+  "updatedAt": "2026-10-24T09:31:21.835Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-24",
   "articleKeys": [
@@ -64,10 +56,10 @@
     "indian equities extend losses as brent crude hits sixmonth high dd india",
     "surging oil prices drag indian shares to weekly losses reuters",
     "stock market crash investors lose rs 5 lakh crore as sensex nifty tank 3 reasons why market are falling today ndtv",
+    "market weekly wrap sensex nifty50 snap winning streak fall 2 as crude oil prices hit 117bbl adani ent top loser upstox",
     "sensex nifty rebound after 3day fall on it stocks buying the hindu",
     "share market live share market today latest share market news share market live updates on the economic times the economic times",
     "jio ipo gmp today grey market signals over 22 listing gains check allotment listing date the economic times",
-    "stock market weekly roundup sensex sheds 1600 pts in turbulent week oct 1923 the indian awaaz",
     "sensex falls 600 points why is stock market down today india today"
   ],
   "articles": [
@@ -162,6 +154,12 @@
       "publishedAt": "Mon, 19 Oct 2026 08:06:20 GMT"
     },
     {
+      "title": "Market weekly wrap: SENSEX, NIFTY50 snap winning streak, fall 2% as crude oil prices hit $117/bbl; Adani Ent top loser - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOM2VoT3BIcXVKWlZMZFFoalBRaDlNSVBvWmpRVURrUFpZOWMwR0pyM1FNZEFRR0ViVFR1QTlYRHZmWEdGdHF5NFhJVldiVDBrQkNyQnVjVGRMbUFmUXFVT2hrMUFCZmdGRTIzYTU3d3FVRS1mTEdDZGpJNzBWeC12UlA0d1dwMXZ4eXlLSmh4V2VmZnYtZVFhVksyQWVHOWdHQWVUQWtfSE5URzA0dXpkcG82RjFFSDBja1BtbUJfODJCeDUwbU5DV21HQ0plemhmNDdTNmxXbGNPTG9aSXMzR2syRnpzZ3Q3SkpzYV83bEVKemdSbkFhTFA0T2VfZEppc3Z6eUZmWU5fOV8tdXoyYjhJN1U0SVpo?oc=5",
+      "publishedAt": "Sat, 24 Oct 2026 05:06:13 GMT"
+    },
+    {
       "title": "Sensex, Nifty rebound after 3-day fall on IT stocks buying - The Hindu",
       "source": "The Hindu",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlJoQ3Y4b1BtVE83ZDN5amthN0o5SXJZQlBwdzlkTXBwSUFGQmdwczNzenQ1aHQxdWMtQ1liaWdDV3hELUdMRXdfQXRwcXZoUG8zMmxwRUU5WHIzaVlBb3lROVRDOGJJWEsweTBvbkVPNWJvZl85Q3huaVJtZ2JtY1hHcV85N2UzTnlHZk03dEU2NjlFaHN1TU11TEVpTE5RV2Rn0gGqAUFVX3lxTE5kRGFuTUhWbFJHOVZuVlBlMXJkZzNsd0RUQXY2VlNoYl9nUlZZX1Q4ZmtpcUxmS0trMm5uZGlLd0RPT1hlWVBfTVhIdjJtZk9kVTF2ZkxNdWJ2SlhsV29TVEkxVTFIaWlxNXFCTnY0clVLeExrWWliWlMtcWRiVWFlMUQwZ09XdnVndHpWOUZ2aXJHTTJhbGpSRVV6c01OSkVOa2tCTVNHdzNB?oc=5",
@@ -178,12 +176,6 @@
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTnRQbzhHQjhnY0Zrc2ZtbzlTWkJURUY2YUtTTkNJUGxSZGhhTS1sTFRYa0U4RzIyRkFSM2JLc2c3VW5fOU5qYjJNVXlkTDNabW1Dd3A2UVFTR05ZQi05SHVZdDhrTEdycHZBUWktQldfdkhlZmdMc2VMNnNkM0tKRFJnbkdJZV9tMXliLWdueUthbGdmdnlHTldVamw1NlNLUERGcVpPN3EySWN3aENWX1B0TUx1THE1bWlDUXljS1BPUENHT0lYcHlGWEpjNmVpRjZWUTBORkVXQ3djbEF5LXVSUjJ6dFBIRkU2QmZPRWZWbFE5U0lnSjRnZktJS1JM0gH6AUFVX3lxTE1KY2QzVTZ6VmtQcTVoZ1UxM2VCWnQzWFJzRFllUDg3UGdBMmQ0VG9xZ19sdUNjM0VERzhYQjBFTE5oR19NMVRkNFRpTjl2RVloY0lqLS1CWmJjaGcxOGI1VWd3UTdGQ2Q4YWxxVHJsa1F2dTVuUmRVYWtTaXM3ejJ2bk9fdVczZXp6ZGw5Z3VSRng5ajRKUXpfb1p4Z2VHZ09BdEc1R2dIZUpoOE1ZN1dpeWFqM29YU1NNcVFTXy1qVUNVVlBYYnNlczc4OGdXRFh1TFVrTFNhLVFRTHlyLU0wX1YwUXJJQkl0QTVaMDBTYTBGVWlEUDdXdEE?oc=5",
       "publishedAt": "Sat, 24 Oct 2026 06:12:41 GMT"
-    },
-    {
-      "title": "Stock Market Weekly Round-Up; Sensex Sheds 1,600 Pts in Turbulent Week Oct 19-23 - The Indian Awaaz",
-      "source": "The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHZzUno4VnlfSHVVdWI0VWhaVnN3LW5JcFo5MDdhQWs4SzM1eXUwdURfZ243czJrMW84TGFPZUdEbmtXUnA4X2RhTEliWW1oSU1tbGJjRVlkSDVQeThTVzlKOHhST2VBQVdreXd6WGVnX3pEWWx2Q0pURzB3anVwYjhsZldwOEFyWEJTRDdpQlRvb0U4U2xCdFBCX092S3R3QzdDTFF1c2pXQQ?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 19:26:00 GMT"
     },
     {
       "title": "Sensex falls 600 points: Why is stock market down today? - India Today",
