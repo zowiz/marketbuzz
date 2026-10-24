@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Indian markets fell for a fourth day as Nifty hit 22,600 amid surging crude oil prices.",
+  "headline": "Last session: Indian markets snapped two-week gains as surging crude oil prices above $114 weighed on sentiment.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,36 +7,36 @@
     "nextOpen": "Monday, 26 October"
   },
   "why": [
-    "Crude oil prices surging above $114 per barrel pressured Indian equities",
-    "Weak global market themes and concerns over US consumer sentiment",
-    "Significant profit drops in major companies like BPCL and Dr. Reddy's Laboratories",
-    "Profit booking leading to a 1,600-point weekly decline for the Sensex"
+    "Surging crude oil prices nearing $114 per barrel pressured Indian equities.",
+    "The Sensex shed over 1,600 points across a turbulent trading week.",
+    "Snapping a two-week winning streak, major indices ended lower due to extended selling pressure.",
+    "Rising commodity costs impacted profitability outlooks for key manufacturing segments."
   ],
   "whatHappening": [
-    "The Nifty 50 ended the last session at 22,600, snapping a two-week winning streak",
-    "BPCL reported a 21.45% drop in Q2 net profit, citing fuel pricing issues",
-    "Adani Power saw a 142% surge in profit due to strong demand amid weak rains",
-    "JSW Steel posted a three-fold jump in quarterly profit and planned capacity expansions"
+    "Nifty closed around 22,600 as indices ended the week on a weak note.",
+    "Coforge raised its FY27 margin guidance as AI alters its cost structure.",
+    "U.S. FDA issued four observations to Gland Pharma's Hyderabad formulation facility.",
+    "Kilitch Drugs announced an agreement to divest its Ethiopian subsidiary for $14 million."
   ],
   "stocksInNews": [
     {
-      "symbol": "BPCL",
+      "symbol": "GLAND",
       "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "KILITCH",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         2
       ]
     },
     {
-      "symbol": "DRREDDY",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "ADANIPOWER",
+      "symbol": "COFORGE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
@@ -44,100 +44,100 @@
       ]
     },
     {
-      "symbol": "JSWSTEEL",
-      "sentiment": "Positive",
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        8
       ]
     }
   ],
-  "summary": "The Indian stock market ended the last session in the red, with the Nifty closing at 22,600. Surging crude oil prices and disappointing earnings from BPCL and Dr. Reddy's Laboratories pressured the indices. However, Adani Power and JSW Steel stood out with significant profit growth in their Q2 results.",
-  "updatedAt": "2026-10-24T05:01:46.203Z",
+  "summary": "On the last trading day, Indian markets closed lower with the Nifty ending at 22,600, snapping two weeks of gains as crude oil traded near $114. Corporate developments were highlighted by Coforge raising its margin guidance and Kilitch Drugs divesting its Ethiopian arm. Meanwhile, regulatory scrutiny on Gland Pharma and rising commodity bills for Tata Motors framed key stock-specific actions.",
+  "updatedAt": "2026-10-24T06:01:36.186Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-24",
   "articleKeys": [
+    "us fda issues four observations to gland pharma formulation facility near hyderabad",
+    "sebi orders avadhut sathe academy to refund rs 546 crore",
+    "kilitch drugs to divest ethiopian arm for 14 million",
+    "anthropic ipo what should investors consider when valuing the ai company aswath damodaran explains",
+    "coforge raises fy27 margin guidance as ai changes its cost equation",
+    "sunny deols gabru to feature actor in neverseenbefore avatar says producer",
+    "i accidentally killed a dog reddit reacts after mumbai man shares guilt over stray dogs death",
+    "digital zerobalance savings accounts compared quantum kotak 811 slice airtel payments bank and jio payments bank",
+    "for tata motors cv the commodity bill is rising faster than its pricing power",
     "growth value stocks set for reshuffle as sampp adopts new rules",
-    "radhakishan damani portfolio top 10 stock holdings of the ace investor",
-    "bpcl reports 2145 drop in q2 fy27 net profit attributes losses to fuel pricing issues",
-    "drl says cap on trade margins a positive posts 36 dip in q2 pat",
-    "adani power profit surges 142 on strong demand amid weak rains",
-    "jsw steel posts threefold jump in profit lines up capacity expansion",
-    "5 world market themes for the week ahead",
-    "us consumer sentiment near record low ahead of midterm elections",
-    "wall street week ahead earnings flood fed meeting will test rickety ai market rally",
-    "indians remit 27 billion overseas in august led by travel",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "surging oil prices drag indian shares to weekly losses reuters",
     "sensex nifty rebound after 3day fall on it stocks buying the hindu",
     "markets fall for 4th day as crude nears 114 nifty ends at 22600 hdfc sky",
     "share market live share market today latest share market news share market live updates on the economic times the economic times",
-    "sensex falls 600 points why is stock market down today india today",
     "stock market weekly roundup sensex sheds 1600 pts in turbulent week oct 1923 the indian awaaz",
+    "sensex falls 600 points why is stock market down today india today",
     "sensex nifty extend losing streak to fourth session as crude surges above 114 the indian awaaz",
     "why is stock market up today sensex rises 829 points nifty surges 1 top 4 reasons behind dstreet soar explained livemint"
   ],
   "articles": [
     {
+      "title": "U.S. FDA issues four observations to Gland Pharma formulation facility near Hyderabad",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/us-fda-issues-four-observations-to-gland-pharma-formulation-facility-near-hyderabad/article71616791.ece",
+      "publishedAt": "Sat, 24 Oct 2026 11:08:23 +0530"
+    },
+    {
+      "title": "Sebi orders Avadhut Sathe, academy to refund Rs 546 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-orders-avadhut-sathe-academy-to-refund-rs-546-crore/articleshow/135162877.cms",
+      "publishedAt": "Sat, 24 Oct 2026 11:01:13 +0530"
+    },
+    {
+      "title": "Kilitch Drugs to divest Ethiopian arm for $14 million",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/kilitch-drugs-to-divest-ethiopian-arm-for-14-million/article71617267.ece",
+      "publishedAt": "Sat, 24 Oct 2026 10:54:41 +0530"
+    },
+    {
+      "title": "Anthropic IPO: What should investors consider when valuing the AI company? Aswath Damodaran explains",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-what-should-investors-consider-when-valuing-the-ai-company-aswath-damodaran-explains/articleshow/135162319.cms",
+      "publishedAt": "Sat, 24 Oct 2026 10:33:17 +0530"
+    },
+    {
+      "title": "Coforge Raises FY27 Margin Guidance As AI Changes Its Cost Equation",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/coforge-q2-earnings-concall-coforge-raises-fy27-margin-guidance-wants-to-join-the-it-industrys-three-highest-margin-players-12228578#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 10:29:57 +0530"
+    },
+    {
+      "title": "Sunny Deol’s Gabru To Feature Actor In Never-Seen-Before Avatar, Says Producer",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/sunny-deol-s-gabru-to-feature-actor-in-never-seen-before-avatar-says-producer-12225982#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 10:27:16 +0530"
+    },
+    {
+      "title": "'I Accidentally Killed A Dog': Reddit Reacts After Mumbai Man Shares Guilt Over Stray Dog's Death",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/trending/i-accidentally-killed-a-dog-reddit-reacts-after-mumbai-man-shares-guilt-over-stray-dogs-death-12228487#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 10:09:17 +0530"
+    },
+    {
+      "title": "Digital Zero-Balance Savings Accounts Compared: Quantum+, Kotak 811, Slice, Airtel Payments Bank And Jio Payments Bank",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/digital-zero-balance-savings-accounts-compared-quantum-kotak-811-slice-airtel-payments-bank-and-jio-payments-bank-12227351#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 09:59:36 +0530"
+    },
+    {
+      "title": "For Tata Motors CV, The Commodity Bill Is Rising Faster Than Its Pricing Power",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/tata-motors-q2-earnings-concall-the-commodity-bill-is-rising-faster-than-its-pricing-power-12228477#publisher=newsstand",
+      "publishedAt": "Sat, 24 Oct 2026 09:56:04 +0530"
+    },
+    {
       "title": "Growth, value stocks set for reshuffle as S&amp;P adopts new rules",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/growth-value-stocks-set-for-reshuffle-as-sp-adopts-new-rules/articleshow/135161737.cms",
       "publishedAt": "Sat, 24 Oct 2026 09:51:59 +0530"
-    },
-    {
-      "title": "Radhakishan Damani portfolio: Top 10 stock holdings of the ace investor",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/radhakishan-damani-portfolio-top-10-stock-holdings-of-the-ace-investor/slideshow/135161767.cms",
-      "publishedAt": "Sat, 24 Oct 2026 09:41:55 +0530"
-    },
-    {
-      "title": "BPCL reports 21.45% drop in Q2 FY27 net profit, attributes losses to fuel pricing issues",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-reports-21-45-drop-in-q2-fy27-net-profit-attributes-losses-to-fuel-pricing-issues/articleshow/135161389.cms",
-      "publishedAt": "Sat, 24 Oct 2026 09:32:02 +0530"
-    },
-    {
-      "title": "DRL says cap on trade margins a positive, posts 36% dip in Q2 PAT",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/drl-says-cap-on-trade-margins-a-positive-posts-36-dip-in-q2-pat/articleshow/135161325.cms",
-      "publishedAt": "Sat, 24 Oct 2026 09:23:30 +0530"
-    },
-    {
-      "title": "Adani Power profit surges 142% on strong demand amid weak rains",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-profit-surges-142-on-strong-demand-amid-weak-rains/articleshow/135161231.cms",
-      "publishedAt": "Sat, 24 Oct 2026 09:17:21 +0530"
-    },
-    {
-      "title": "JSW Steel posts three-fold jump in profit, lines up capacity expansion",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-posts-three-fold-jump-in-profit-lines-up-capacity-expansion/articleshow/135161181.cms",
-      "publishedAt": "Sat, 24 Oct 2026 09:13:02 +0530"
-    },
-    {
-      "title": "5 world market themes for the week ahead",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/5-world-market-themes-for-the-week-ahead/articleshow/135161184.cms",
-      "publishedAt": "Sat, 24 Oct 2026 09:12:42 +0530"
-    },
-    {
-      "title": "US consumer sentiment near record low ahead of midterm elections",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-consumer-sentiment-near-record-low-ahead-of-midterm-elections/articleshow/135161172.cms",
-      "publishedAt": "Sat, 24 Oct 2026 09:11:28 +0530"
-    },
-    {
-      "title": "Wall Street Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-st-week-ahead-earnings-flood-fed-meeting-will-test-rickety-ai-market-rally/articleshow/135161141.cms",
-      "publishedAt": "Sat, 24 Oct 2026 09:07:13 +0530"
-    },
-    {
-      "title": "Indians remit $2.7 billion overseas in August, led by travel",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indians-remit-2-7-billion-overseas-in-august-led-by-travel/articleshow/135161011.cms",
-      "publishedAt": "Sat, 24 Oct 2026 09:00:47 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
@@ -173,19 +173,19 @@
       "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 19:09:02 GMT"
-    },
-    {
-      "title": "Sensex falls 600 points: Why is stock market down today? - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTlVFTFhuM0lRR3lNS2I4OHBtWWxBZU1iNm9EaFNHT2M4Mk94LWI4ajBDWlcwbS1GODhQRWxSY3NQMEhWV3QtZzB0YW1HaVJNZGF2aWJmSVdNTmRXdUhpTXZrSWxfM3VJVWNQU1M1R05wcnI0ZFNBSzNlVzVzWjhrYi1ycWM1all5VzUtVUQ1bzNtWUI4QmoySTFZSkxWVmJmX1k1aEtZR01rd2dubUg0M01tS3lVQm1XcVBqZnYtemZvVGs4QmtZdjlOUkhlVzU0MzVNSnFpNVV1S0NqNkFR0gHkAUFVX3lxTE9pQU16WXh6eHlLdVpDaUJvdDVVeGxyWXM5ZHBlZzNOUkV1T0lGcUFndlVOQkZqcHB6OU5FVFprVnJPNnZTc2ZoNTVxV0R4N0JPYTBTY19yWU54Skp3UF82cmVXWDNBOU9YNHc0TkcyZGYwcnJfZXJaUGoyMmUzSkh6OFFvTDV0MnhwRGhjSHcyVEhRcnB2SmlMZzR2RTlaY0JtMjg4bHNyR2l6Q21KOUFjcXR0bGNaX0pRcGIzbkEyczlrMHptVF9PVEI0Mld0R0dqMF93WFJaaDhkTTN0RDFLd0xrUQ?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 06:50:02 GMT"
+      "publishedAt": "Fri, 23 Oct 2026 16:10:02 GMT"
     },
     {
       "title": "Stock Market Weekly Round-Up; Sensex Sheds 1,600 Pts in Turbulent Week Oct 19-23 - The Indian Awaaz",
       "source": "The Indian Awaaz",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHZzUno4VnlfSHVVdWI0VWhaVnN3LW5JcFo5MDdhQWs4SzM1eXUwdURfZ243czJrMW84TGFPZUdEbmtXUnA4X2RhTEliWW1oSU1tbGJjRVlkSDVQeThTVzlKOHhST2VBQVdreXd6WGVnX3pEWWx2Q0pURzB3anVwYjhsZldwOEFyWEJTRDdpQlRvb0U4U2xCdFBCX092S3R3QzdDTFF1c2pXQQ?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 19:26:00 GMT"
+    },
+    {
+      "title": "Sensex falls 600 points: Why is stock market down today? - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTlVFTFhuM0lRR3lNS2I4OHBtWWxBZU1iNm9EaFNHT2M4Mk94LWI4ajBDWlcwbS1GODhQRWxSY3NQMEhWV3QtZzB0YW1HaVJNZGF2aWJmSVdNTmRXdUhpTXZrSWxfM3VJVWNQU1M1R05wcnI0ZFNBSzNlVzVzWjhrYi1ycWM1all5VzUtVUQ1bzNtWUI4QmoySTFZSkxWVmJmX1k1aEtZR01rd2dubUg0M01tS3lVQm1XcVBqZnYtemZvVGs4QmtZdjlOUkhlVzU0MzVNSnFpNVV1S0NqNkFR0gHkAUFVX3lxTE9pQU16WXh6eHlLdVpDaUJvdDVVeGxyWXM5ZHBlZzNOUkV1T0lGcUFndlVOQkZqcHB6OU5FVFprVnJPNnZTc2ZoNTVxV0R4N0JPYTBTY19yWU54Skp3UF82cmVXWDNBOU9YNHc0TkcyZGYwcnJfZXJaUGoyMmUzSkh6OFFvTDV0MnhwRGhjSHcyVEhRcnB2SmlMZzR2RTlaY0JtMjg4bHNyR2l6Q21KOUFjcXR0bGNaX0pRcGIzbkEyczlrMHptVF9PVEI0Mld0R0dqMF93WFJaaDhkTTN0RDFLd0xrUQ?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 06:50:02 GMT"
     },
     {
       "title": "Sensex, Nifty Extend Losing Streak to Fourth Session as Crude Surges above $114 - The Indian Awaaz",
