@@ -1,5 +1,5 @@
 {
-  "headline": "Indian Markets Face Pressure as FPIs Withdraw ₹48,056 Crore; Swiggy and Jio Financial Lead Declines",
+  "headline": "Indian markets drop as Sensex falls 126 points and FPI outflows reach Rs 48,056 crore in October",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign Portfolio Investors (FPIs) pulled out ₹48,056 crore from Indian equities in October",
-    "Geopolitical uncertainty following hints of potential Iran-related developments affecting global sentiment",
-    "Significant selling pressure in midcap indices and specific large-cap stocks like Tata Steel",
-    "Market volatility led to Sensex falling for four consecutive days prior to the weekend"
+    "FPIs pulled out Rs 48,056 crore from Indian equities in October.",
+    "Sensex snapped its two-week winning streak, ending lower for four consecutive sessions.",
+    "Midcap index experienced selling pressure, sliding over 2%.",
+    "Volatility index VIX rose by 6% amid global political and economic uncertainties."
   ],
   "whatHappening": [
-    "Nifty 50 is hovering around the 22,600 level after snapping a two-week winning streak",
-    "Swiggy shares experienced a sharp 17% plunge in recent trading sessions",
-    "The RBI is implementing a new banking hub with Tier-4 security to fortify financial infrastructure",
-    "India and Rotterdam Port are collaborating to digitalize cargo processes under the India-EU FTA"
+    "Nifty closed at 22,600 while Sensex dropped 126 points.",
+    "Swiggy plunged 17% during market trading.",
+    "Jio Financial Services and Tata Steel dropped 3% each.",
+    "Yes Bank announced it retains discretion on deciding its AT-1 bond coupon."
   ],
   "stocksInNews": [
     {
@@ -24,7 +24,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        4,
+        5,
         14
       ]
     },
@@ -49,7 +49,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        8
+        9
       ]
     },
     {
@@ -65,7 +65,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        4
+        5
       ]
     },
     {
@@ -73,7 +73,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        4
+        5
       ]
     },
     {
@@ -81,23 +81,24 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        4
+        5
       ]
     },
     {
-      "symbol": "L&TFH",
+      "symbol": "LTF",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        4
+        5
       ]
     }
   ],
-  "summary": "The Indian market is under significant pressure as FPIs withdrew over ₹48,000 crore in October, ending a two-week winning streak. Major stocks like Swiggy and Jio Financial have seen sharp declines, while the Nifty struggles to maintain the 22,600 level. Investors remain cautious due to global geopolitical cues and domestic midcap volatility.",
-  "updatedAt": "2026-10-25T18:31:44.964Z",
+  "summary": "Indian benchmark indices ended lower as Nifty settled at 22,600 and Sensex dropped 126 points.\nForeign investors extracted over Rs 48,000 crore from Indian equities throughout October, weighing on market sentiment.\nSpecific stocks including Swiggy, Jio Financial, and Tata Steel faced notable selling pressure.",
+  "updatedAt": "2026-10-25T19:31:25.529Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-26",
   "articleKeys": [
+    "stage set for bfsi insight summit 2026 banking ai and growth in focus",
     "indiaeu fta india rotterdam port engaged to digitalise indias cargo processes says piyush goyal",
     "fc barcelona vs real madrid live streaming when where to watch laliga match on tv online",
     "ccpa fines walkietalkie seller hogar technologies rs 1 lakh for misleading ads",
@@ -107,7 +108,6 @@
     "f1 us gp final race live streaming when and where to watch in india",
     "bengaluru it hiring row cm dk shivakumar warns it firms of action over alleged antikannada bias",
     "yes bank yet to decide on at1 bond coupon says it retains discretion",
-    "tier4 security zero thirdparty cloud rbi chief explains how new hub fortifies indias banking",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "sensex today nifty 50 stock market highlights sensex ends 126 pts lower after volatile trade nifty at 22600 jio fin tata steel drop 3 each the economic times",
     "why stock market is falling today sensex drops over 700 points nifty 50 slips below 22400 key reasons ndtv profit",
@@ -120,6 +120,12 @@
     "sensex down 500 points today why is stock market falling today india today"
   ],
   "articles": [
+    {
+      "title": "Stage set for BFSI Insight Summit 2026: Banking, AI and growth in focus",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/specials/bs-events/stage-set-for-bfsi-insight-summit-2026-banking-ai-and-growth-in-focus-126102500811_1.html",
+      "publishedAt": "Sun, 25 Oct 2026 23:58:57 +0530"
+    },
     {
       "title": "India-EU FTA: India, Rotterdam Port Engaged To Digitalise India's Cargo Processes, Says Piyush Goyal",
       "source": "Zerodha Pulse",
@@ -173,12 +179,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/industry/banking/yes-bank-yet-to-decide-on-at-1-bond-coupon-says-it-retains-discretion-126102500453_1.html",
       "publishedAt": "Sun, 25 Oct 2026 20:52:02 +0530"
-    },
-    {
-      "title": "Tier-4 Security, Zero Third-Party Cloud: RBI Chief Explains How New Hub Fortifies India's Banking",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/beyond-banking-how-rbi-s-odisha-institute-will-train-the-sector-against-ai-cyber-risks-12234208#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 20:41:25 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
