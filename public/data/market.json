@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex and Nifty ended lower, snapping two-week gains as midcaps and Swiggy plunged.",
+  "headline": "Last session: Sensex ends 126 points lower, Nifty at 22,600 as market snaps two-week winning streak",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,18 +7,35 @@
     "nextOpen": "Tuesday, 27 October"
   },
   "why": [
-    "The market snapped a two-week winning streak during the last session",
-    "The India VIX rose by 6%, indicating increased market volatility",
-    "The midcap index witnessed a sharp slide of over 2%",
-    "Sensex fell for the fourth consecutive day amid volatile trading"
+    "Market is closed today due to the weekend",
+    "The market snapped a two-week winning streak in the last trading session",
+    "Selling pressure in heavyweights like Jio Financial and Tata Steel weighed on indices",
+    "Increased volatility saw the India VIX rise by 6% during the last session"
   ],
   "whatHappening": [
-    "Andhra Pradesh's ₹27,370 crore power transmission project received Central government approval",
-    "IndiGo and Air India are shifting flight operations to Navi Mumbai airport ahead of terminal revamps",
-    "Crude oil prices are nearing $120 per barrel due to West Asia risks and Fed rate decisions",
-    "Corporate actions are scheduled this week for companies including LTTS, Cyient, and CRISIL"
+    "IndiGo and Air India are shifting flight operations to Navi Mumbai airport due to redevelopment at Mumbai's Terminal 1",
+    "The Madhya Pradesh semiconductor summit has attracted investment proposals worth ₹15,425 crore",
+    "The government has extended deadlines for corporates to file annual financial statements for FY26",
+    "Yes Bank is yet to decide on its AT-1 bond coupon payment, stating it retains full discretion"
   ],
   "stocksInNews": [
+    {
+      "symbol": "YESBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "INDIGO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3,
+        5
+      ]
+    },
     {
       "symbol": "JIOFIN",
       "sentiment": "Negative",
@@ -44,125 +61,100 @@
       ]
     },
     {
-      "symbol": "INDIGO",
-      "sentiment": "Neutral",
+      "symbol": "BAJFINANCE",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        4,
-        8
-      ]
-    },
-    {
-      "symbol": "LTTS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "CYIENT",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "CRISIL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
+        17
       ]
     }
   ],
-  "summary": "The Indian stock market is closed for the weekend after the Sensex and Nifty ended lower on Friday, ending a two-week rally. Significant losses were seen in midcap stocks and Swiggy, while Jio Financial and Tata Steel each dropped 3%. Investors are now looking ahead to major corporate actions and monitoring rising global crude oil prices.",
-  "updatedAt": "2026-10-25T14:01:47.910Z",
+  "summary": "The Indian stock market is closed for the weekend after the Sensex and Nifty ended lower on Friday, snapping a two-week rally. Major laggards in the last session included Jio Financial, Tata Steel, and Swiggy, which saw a sharp 17% decline. Corporate developments remain focused on aviation infrastructure shifts and semiconductor investment proposals.",
+  "updatedAt": "2026-10-25T16:03:07.768Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-25",
   "articleKeys": [
-    "andhra pradeshs 27370 crore power transmission project gets centre nod",
-    "ai fatigue hits korea why goldman sachs just kospis 12month target",
-    "crude nears 120 as w asia risks collide with fed rate decision analysts",
-    "ccpa fines hogar technologies 1 lakh over misleading walkietalkie ads",
-    "indigo air india to shift flights to navi mumbai ahead of t1 revamp",
-    "adani airports air india announce phased transition of flights from mumbai to navi mumbai airport",
-    "bollywood music project apologises after shilpa raos performance is cut short",
-    "corporate actions this week hexaware technologies lt technology services cyient and crisil",
-    "adani airports indigo announce phased expansion of international flights",
-    "ramayana mangal rang song out janakirams divine journey comes alive through 10 voices across 5 languages",
+    "yes bank yet to decide on at1 bond coupon says it retains discretion",
+    "mp semicon summit draws 15425 cr investment proposals 14k jobs in sight",
+    "rbis bhubaneswar data centre to reduce downtime of critical services",
+    "indigo air india break ranks with foreign carriers on navi mumbai shift",
+    "lecce vs juventus live streaming when and where to watch serie a match live in india",
+    "indigo air india to shift flights to navi mumbai as mumbai airport prepares terminal 1 redevelopment",
+    "ranabaali box office collection day 10 vijay deverakonda starrer holds strong in week 2 nears rs 55 crore",
+    "he knew me so well anil kapoor gets emotional as gagan reminds him of satish kaushik on india ke top 1",
+    "france reports first ever human case of shamonda virus public risk symptoms explained",
+    "govt extends deadlines for corporates to file annual financial statements for fy26 check new date",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "sensex today nifty 50 stock market highlights sensex ends 126 pts lower after volatile trade nifty at 22600 jio fin tata steel drop 3 each the economic times",
     "why stock market is falling today sensex drops over 700 points nifty 50 slips below 22400 key reasons ndtv profit",
     "stock market close sensex falls for 4th day ends 126 pts lower nifty at 22600 vix rises 6 business standard",
     "stock market highlights sensex nifty end lower midcap index slides over 2 swiggy plunges 17 cnbc tv18",
-    "stock market today highlights sensex plunges over 400 points nifty50 tumbles below 22700 the times of india",
     "stock market outlook today 19 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market today highlights october 22 sensex sheds 460 pts nifty falls 123 pts for 3rd straight session businessline",
     "stock market today highlights october 21 sensex drops over 400 pts nifty at 22700 eternal bajaj fin lead losers businessline",
+    "stock market prediction for monday oct 26 sensex nifty levels top stocks to watch will bulls dance again indiaipo",
     "trump hints at an iran attack or deal impact on india stock market sensex nifty gold decoded top 10 stocks to watch livemint"
   ],
   "articles": [
     {
-      "title": "Andhra Pradesh's ₹27,370 crore power transmission project gets Centre nod",
+      "title": "Yes Bank yet to decide on AT-1 bond coupon, says it retains discretion",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/andhra-pradesh-s-27-370-crore-power-transmission-project-gets-centre-nod-126102500556_1.html",
-      "publishedAt": "Sun, 25 Oct 2026 18:59:34 +0530"
+      "link": "https://www.business-standard.com/industry/banking/yes-bank-yet-to-decide-on-at-1-bond-coupon-says-it-retains-discretion-126102500453_1.html",
+      "publishedAt": "Sun, 25 Oct 2026 20:52:02 +0530"
     },
     {
-      "title": "AI Fatigue Hits Korea: Why Goldman Sachs Just Kospi's 12-Month Target?",
+      "title": "MP semicon summit draws ₹15,425 cr investment proposals, 14k jobs in sight",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/ai-fatigue-hits-korea-why-goldman-sachs-just-kospis-12-month-target-12233698#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 18:13:08 +0530"
+      "link": "https://www.business-standard.com/economy/news/mp-semicon-summit-draws-15-425-cr-investment-proposals-14k-jobs-in-sight-126102500216_1.html",
+      "publishedAt": "Sun, 25 Oct 2026 20:33:08 +0530"
     },
     {
-      "title": "Crude nears $120 as W Asia risks collide with Fed rate decision: Analysts",
+      "title": "RBI's Bhubaneswar data centre to reduce downtime of critical services",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/crude-nears-120-as-w-asia-risks-collide-with-fed-rate-decision-analysts-126102500398_1.html",
-      "publishedAt": "Sun, 25 Oct 2026 18:08:27 +0530"
+      "link": "https://www.business-standard.com/industry/banking/rbi-s-bhubaneswar-data-centre-to-reduce-downtime-of-critical-services-126102500603_1.html",
+      "publishedAt": "Sun, 25 Oct 2026 20:15:34 +0530"
     },
     {
-      "title": "CCPA fines Hogar Technologies ₹1 lakh over misleading walkie-talkie ads",
+      "title": "IndiGo, Air India break ranks with foreign carriers on Navi Mumbai shift",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/ccpa-fines-hogar-technologies-1-lakh-over-misleading-walkie-talkie-ads-126102500492_1.html",
-      "publishedAt": "Sun, 25 Oct 2026 17:46:53 +0530"
+      "link": "https://www.business-standard.com/industry/aviation/indigo-air-india-break-ranks-with-foreign-carriers-on-navi-mumbai-shift-126102500594_1.html",
+      "publishedAt": "Sun, 25 Oct 2026 19:42:46 +0530"
     },
     {
-      "title": "IndiGo, Air India to shift flights to Navi Mumbai ahead of T1 revamp",
+      "title": "Lecce vs Juventus Live Streaming: When And Where To Watch Serie A Match Live In India",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/aviation/indigo-to-move-12-international-flights-to-navi-mumbai-airport-from-feb-126102500391_1.html",
-      "publishedAt": "Sun, 25 Oct 2026 17:42:37 +0530"
+      "link": "https://www.ndtvprofit.com/sports/lecce-vs-juventus-live-streaming-when-and-where-to-watch-serie-a-match-live-in-india-12233271#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 19:30:01 +0530"
     },
     {
-      "title": "Adani Airports, Air India Announce Phased Transition Of Flights From Mumbai To Navi Mumbai Airport",
+      "title": "IndiGo, Air India to shift flights to Navi Mumbai as Mumbai airport prepares Terminal 1 redevelopment",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/adani-airports-air-india-announce-phased-transition-of-flights-from-mumbai-to-navi-mumbai-airport-12233613#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 17:38:54 +0530"
+      "link": "https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece",
+      "publishedAt": "Sun, 25 Oct 2026 19:22:27 +0530"
     },
     {
-      "title": "Bollywood Music Project Apologises After Shilpa Rao's Performance Is Cut Short",
+      "title": "Ranabaali Box Office Collection Day 10: Vijay Deverakonda Starrer Holds Strong In Week 2, Nears Rs 55 Crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/bollywood-music-project-apologises-after-shilpa-raos-performance-is-cut-short-12233521#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 17:32:43 +0530"
+      "link": "https://www.ndtvprofit.com/business/ranabaali-box-office-collection-day-10-vijay-deverakonda-starrer-holds-strong-in-week-2-nears-rs-55-crore-12233865#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 19:09:49 +0530"
     },
     {
-      "title": "Corporate Actions This Week: Hexaware Technologies, L&T Technology Services, Cyient And CRISIL",
+      "title": "'He Knew Me So Well’: Anil Kapoor Gets Emotional As Gagan Reminds Him Of Satish Kaushik On India Ke Top 1%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/corporate-actions-this-week-hexaware-technologies-l-t-technology-services-cyient-and-crisil-12233553#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 17:30:12 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/he-knew-me-so-well-anil-kapoor-gets-emotional-as-gagan-reminds-him-of-satish-kaushik-on-india-ke-top-1-12233738#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 19:09:15 +0530"
     },
     {
-      "title": "Adani Airports, IndiGo Announce Phased Expansion Of International Flights",
+      "title": "France Reports First Ever Human Case Of Shamonda Virus: Public Risk, Symptoms Explained",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/adani-airports-indigo-announce-phased-expansion-of-international-flights-12233527#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 17:20:05 +0530"
+      "link": "https://www.ndtvprofit.com/world/france-reports-first-ever-human-case-of-shamonda-virus-public-risk-symptoms-explained-12233502#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 19:08:37 +0530"
     },
     {
-      "title": "Ramayana 'Mangal Rang' Song Out: Janaki-Ram’s Divine Journey Comes Alive Through 10 Voices Across 5 Languages",
+      "title": "Govt Extends Deadlines For Corporates To File Annual Financial Statements For FY26: Check New Date",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ramayana-mangal-rang-song-out-janaki-ram-s-divine-journey-comes-alive-through-10-voices-across-5-languages-12233313#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 17:13:05 +0530"
+      "link": "https://www.ndtvprofit.com/business/govt-extends-deadlines-for-corporates-to-file-annual-financial-statements-for-fy26-check-new-date-12233883#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 19:07:16 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
@@ -195,12 +187,6 @@
       "publishedAt": "Fri, 23 Oct 2026 10:27:17 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: Sensex plunges over 400 points, Nifty50 tumbles below 22,700 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQOGM2dXlRcmFhTlY1dWRJSjJadld4aVBEVEJNY19XY2FSdHFZMjcxZ21ueXh4MVlvb3hGN3NjenFxYW9Fa1RLSEFBdkFndVNObFU1RV9kWV9UZ2hBQ19XSnhhQWhSdGZLX3BqbGZfVVJnT0ZxZlZqYk01QUxVSm9JeWJzanRtVmVoVExaVHhXOUx4YnpGMWZXTVpZaWtHaGpGX1lpRUVzU0VCSGZIaXlCR3JybmVROVVKc2ZIVnJDQ3lqaFBNZEpwclRQYU4xODIzZ01oZV9fd3dROWhSQWFmZVVKMlYwbzRJYkgtUzdaakdiWlBtd3JnUTQxYlhadG52aWJZM1BTaVJ0cG5FRHpJX2pBcHZ0YkEwT2hMNElyYW5tSDZhaHJoWV9ZNmNoOHVtS25wN9IBugJBVV95cUxPMUpvN2hDSmV6aEU3WVFKU3ZNZ1A5bFlSWjd1akQ0M0kxak15WjZSMmFmMllmQWxvbkNHaGViMUhkQU52ZjRUV0JIWHB3RlkwSkF5SXQ3c2hTbGsycjhmcEVLbzFibVY3MWo3SFVxSFg0WXlpU19YaGV5Q2ozcGlLMjZVeHlLVTFKblNrUU55TzBtVkdzR3MxeXZIc1o1akwyeFo2WXNoMnk0OEZQajdWNG04R2VINFVTc3lodWE3Q0t5NG52SU8yc1lDenVsMXBmeUw2djVpSjhFR3U0Y1NodDFOU3B3M3h2YXZIQzlBSHdPQXpyU0RiTHpzaVd3X0hVOXJBcHh0djM2RHFLeW9yNG5oTlZMWjdVUmdlMzJqUExFc1NfNW1IZjdvaTh5N19ZVVA0U3lGenlyUQ?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 06:20:43 GMT"
-    },
-    {
       "title": "Stock market outlook today, 19 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeWk3MHF0dmg0MHRLelJLeXFud2JOV1Zxd0N0NVFtZWFOMWdqb2RxS3UxakwwbGM4dC1FZFdlYnNrNExjZ2xlNnpoenhDWm1OQ1VFcjRMMGhtMUN4aEppWlQ5MTZha2pSdURpSkF5V0M3VEtkTDk5Q3NXVkVUMFBMREpaODdYZ201alFLT2ZpVGpEemdKbzNReXYyQkdPZEM2N1o5UFYwQnQ4UzVqSWd4ZTFtOGFBZjJCUXJDajF0T0ZpMHdVVzRkenBfM1MxeV9lZkN1LU9CVUI3QU1YZnc2U1ZNS19ReWF4RE5MeWtyTERyOEZWZU8xN2VKZlFHU0htYWVxatIBigJBVV95cUxPSVBpdEpkTmRrYi1KMjlhamUwbWM1cHV2NjVnRjc5N0p5NzZHakpfUG5EX0pWNC1zYnByZ0REcFJiaGlGaVBiTlQyc3NPWHJpc3BEdDNkYXB5MVdKX3BhMkxramtPdkFHTndQcHZKb3JoMnVYQ2Z3TktVVTNycDZjQ3RoSDZOS2Y4MlQ4Y0x5dVBPMVdhQmVrM0xOS21vVTdueFlrbGY0bWtWOWxxT29IcnFnSGI1aVFJN0EtMm1DVE9DSkRTMGJvTnB4WW41X193V2xVc3BqZkVva3BJNUxiOEIwUFZWMm9Fd1dMa0F4T29nRUd5bHFaa1NjYkpyWHN6eUJLVEkxbjFmQQ?oc=5",
@@ -217,6 +203,12 @@
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGpacU1SSlh2MUgtVFM1Q203NXFJX1ZpWXZBU0FIMVdlUmx2Yk5ORWpUQ1BjcEdLbndSekU3ZEIyMjZPVkppX09yNU4xaGhaRlU4QUF4RVAxUGJFdWU1WFFxSTZwMmpINzVWU1ZIZm9sVkhZR3Y1dUVaZnhydGpwR2lwUzRnVUpHNWpoSE9WSTU2eWhNQTc5T0JQX01vWkZTbllaUGdXWG9fX09CMHhwaWxxaWxmLU1vc2ZoLWtlZTk3U2IzUEtORNIBzwFBVV95cUxOWkVaY2QteWY0VkRMdVJ1TVZlcEw4bDZZdlBaZG8xQ3Q0YlhTMFlTWENEV1hvczFiYkJCV1BlUUl4Q2t4eHFieWxZX1A3MUtoclQ5QWYtemxnTUgtZlhDeFRGQXhFN1Bzci1TWWd1RmpaMkNOcmstM1NEaFA5ZXhidmlkRnZxTkVFOXY0cF9XWTFDc0RZbVR0NHduWEo0MDFuYk1ZY3A2Sm9zNklGRkJwMmIxOHJRWjdHajdwWDlxeVo3N0JrT194NnBDck1YOXM?oc=5",
       "publishedAt": "Wed, 21 Oct 2026 10:51:05 GMT"
+    },
+    {
+      "title": "Stock market prediction for Monday Oct 26: Sensex, Nifty levels, top stocks to watch - Will bulls dance again? - IndiaIPO",
+      "source": "IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaHNMNE94WElpelJxRFNZMmFoS1p0a2lrZUFFa2Vla0JFb2psbEVOSW5HY2pCNjZ5VzBfa1lyem8zRktLVVduZ1hlc1E0aW0yQ0Fxb0ZSUFJZLWlMd3hKZjFqY1VaOTRSNGxpN3QzbVNvaFhoX2Zyc2JueHVtRWRyTkhkalBPZ2M1dWdwU2NFWURyTmFLUjFvV3NybkJiTVpQYy1Fd1dLMlRxRHFZWGNobWpUclFZQ184OGk2eFRqUFBaWF9sT1FiUlJ2SjdpWTZCT1ktVzhNdw?oc=5",
+      "publishedAt": "Sun, 25 Oct 2026 14:34:52 GMT"
     },
     {
       "title": "Trump hints at an Iran attack or deal! Impact on India stock market, Sensex, Nifty, gold decoded; top 10 stocks to watch - Livemint",
