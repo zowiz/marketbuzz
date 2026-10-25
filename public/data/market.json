@@ -1,72 +1,64 @@
 {
-  "headline": "Last session: Indian equity indices ended lower as surging crude oil prices and drag in key sectors weighed.",
+  "headline": "Last session: Nifty snapped two-week gains to close at 22,600 as surging oil prices weighed on sentiment.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 26 October.",
-    "nextOpen": "Monday, 26 October"
+    "nextOpen": "Monday, 26 October 2026"
   },
   "why": [
-    "Surging oil prices dragged Indian shares to weekly losses.",
-    "Selling pressure in auto, FMCG, and IT stocks contributed to market declines in recent sessions.",
-    "Hawkish global rate pause expectations by central banks influenced investor sentiment.",
-    "Pressure on the Indian Rupee added to cautious market sentiment."
+    "Surging oil prices dragged Indian shares to weekly losses",
+    "Market snapped a two-week winning streak during the last session",
+    "Expectations of a hawkish rate pause by the Fed and G7 trio",
+    "Selling pressure in auto, FMCG, and IT sectors weighed on indices"
   ],
   "whatHappening": [
-    "In the last session, Nifty snapped two-week gains to settle around 22,600 while Sensex closed down.",
-    "Multiple corporate actions are lined up for the week, including dividend payouts from 15 companies.",
-    "Primary market activity remains active with several new IPOs scheduled to open this week.",
-    "Certain Gold ETF FoFs have temporarily halted fresh inflows following dips in gold and silver prices."
+    "Multiple IPOs including BLS Polymers and M K Sons Fine Jewels are hitting the primary market this week",
+    "Gold ETF FoFs have temporarily halted fresh inflows despite a dip in gold and silver prices",
+    "Global investors remain cautious as low valuations in China fail to entice significant investment",
+    "The market is currently closed for the weekend and will resume trading on Monday"
   ],
   "stocksInNews": [
     {
-      "symbol": "CHENNPETRO",
+      "symbol": "BLS Polymers",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        7
+        6
       ]
     },
     {
-      "symbol": "LTTS",
+      "symbol": "M K Sons Fine Jewels",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        7
+        6
       ]
     },
     {
-      "symbol": "CYIENT",
+      "symbol": "EAAA India Alternatives",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "NAM-INDIA",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
+        6
       ]
     }
   ],
-  "summary": "In the last trading session, Indian markets snapped two-week gains due to pressure from rising crude oil prices and drag across key sectors. Investor focus shifts to upcoming corporate actions including dividend announcements and primary market IPO launches. Markets remain closed today for the weekend and will reopen on Monday.",
-  "updatedAt": "2026-10-25T03:31:21.967Z",
+  "summary": "On the last trading day, the Nifty closed at 22,600, snapping a two-week gain streak as surging oil prices and global rate concerns pressured the market. While major sectors like IT and Auto faced drag, the primary market remains active with several new IPOs scheduled for the coming week. Markets are currently closed for the weekend and will reopen on October 26.",
+  "updatedAt": "2026-10-25T04:01:43.220Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-25",
   "articleKeys": [
+    "operation sindoor enters us midterms as trump boasts mediation",
+    "finding my identity took 10 to 15 years hariharan on the struggles behind his success and his wifes crucial role",
+    "uae vs netherlands live streaming when and where to watch icc cricket world cup league 2 match live in india",
+    "chinas 35 trillion stock rout why low valuations arent enough to entice investors",
+    "tariffs bring in jobs trump defends protectionist policy with massive 42b audi deal",
     "pokmon card heist who made rectangles and more",
-    "gold silver prices dip but many gold etf fofs temporarily halt fresh inflows what are your options",
     "ipos this week eaaa india alternatives bls polymers m k sons fine jewels among others to hit primary market",
+    "gold silver prices dip but many gold etf fofs temporarily halt fresh inflows what are your options",
     "fed set to lead g7 trio in hawkish rate pause eco week ahead",
     "trump casts early inperson ballot after attacks on mail voting",
-    "unable to pay your home loan what loan restructuring means and what are your options",
-    "rupee under pressure how should families budget for overseas education",
-    "dividend stocks this week chennai petroleum lt tech cyient nippon life amc among 15 companies in focus",
-    "inter miami vs new york red bulls live streaming when and where to watch messis mls match in india",
-    "power bank triggers fire in ladies coach of mumbai local train no injuries",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market today highlights sensex plunges over 400 points nifty50 tumbles below 22700 the times of india",
     "sensex down 500 points today why is stock market falling today india today",
@@ -80,21 +72,51 @@
   ],
   "articles": [
     {
+      "title": "Operation Sindoor Enters US Midterms As Trump boasts Mediation",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/operation-sindoor-enters-us-midterms-as-trump-boasts-mediation-12231945#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 08:17:17 +0530"
+    },
+    {
+      "title": "'Finding My Identity Took 10 To 15 years': Hariharan On The Struggles Behind His Success And His Wife's Crucial Role",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/finding-my-identity-took-10-to-15-years-hariharan-on-the-struggles-behind-his-success-and-his-wifes-crucial-role-12229360#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 08:00:01 +0530"
+    },
+    {
+      "title": "UAE vs Netherlands: Live Streaming: When And Where To Watch ICC Cricket World Cup League 2 Match Live In India",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/uaevsnetherlands-live-streaming-when-and-where-to-watch-icc-cricket-world-cup-league-2-match-live-in-india-12231445#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 08:00:01 +0530"
+    },
+    {
+      "title": "China's $3.5 Trillion Stock Rout: Why Low Valuations Aren't Enough To Entice Investors",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/chinas-3-5-trillion-stock-rout-why-low-valuations-arent-enough-to-entice-investors-12231875#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 07:49:00 +0530"
+    },
+    {
+      "title": "'Tariffs Bring In Jobs': Trump Defends Protectionist Policy With Massive $4.2B Audi Deal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/tariffs-bring-in-jobs-trump-defends-protectionist-policy-with-massive-4-2b-audi-deal-12231846#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 07:40:40 +0530"
+    },
+    {
       "title": "Pokémon card heist, who made rectangles, and more...",
       "source": "Zerodha Pulse",
       "link": "https://finshots.in/archive/pokemon-card-heist-who-made-rectangles-and-more/",
       "publishedAt": "Sun, 25 Oct 2026 07:00:49 +0530"
     },
     {
-      "title": "Gold, Silver Prices Dip But Many Gold ETF FoFs Temporarily Halt Fresh Inflows: What Are Your Options?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/gold-silver-prices-dip-but-many-gold-etf-fofs-temporarily-halt-fresh-inflows-what-are-your-options-12225063#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 07:00:01 +0530"
-    },
-    {
       "title": "IPOs This Week: EAAA India Alternatives, BLS Polymers, M K Sons Fine Jewels Among Others To Hit Primary Market",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/ipos-this-week-eaaa-india-alternatives-bls-polymers-m-k-sons-fine-jewels-among-others-to-hit-primary-market-12231005#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 07:00:01 +0530"
+    },
+    {
+      "title": "Gold, Silver Prices Dip But Many Gold ETF FoFs Temporarily Halt Fresh Inflows: What Are Your Options?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/gold-silver-prices-dip-but-many-gold-etf-fofs-temporarily-halt-fresh-inflows-what-are-your-options-12225063#publisher=newsstand",
       "publishedAt": "Sun, 25 Oct 2026 07:00:01 +0530"
     },
     {
@@ -108,36 +130,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/world/trump-casts-early-in-person-ballot-after-attacks-on-mail-voting-12231758#publisher=newsstand",
       "publishedAt": "Sun, 25 Oct 2026 06:39:41 +0530"
-    },
-    {
-      "title": "Unable To Pay Your Home Loan: What Loan Restructuring Means And What Are Your Options?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/unable-to-pay-your-home-loan-what-loan-restructuring-means-and-what-are-your-options-12226191#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 06:30:01 +0530"
-    },
-    {
-      "title": "Rupee Under Pressure: How Should Families Budget For Overseas Education?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/rupee-under-pressure-how-should-families-budget-for-overseas-education-12225787#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 06:00:01 +0530"
-    },
-    {
-      "title": "Dividend Stocks This Week: Chennai Petroleum, L&T Tech, Cyient, Nippon Life AMC, Among 15 Companies In Focus",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/dividend-stocks-this-week-chennai-petroleum-l-t-tech-cyient-nippon-life-amc-among-15-companies-in-focus-12231385#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 05:17:44 +0530"
-    },
-    {
-      "title": "Inter Miami vs New York Red Bulls Live Streaming: When And Where To Watch Messi's MLS Match In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/inter-miami-vs-new-york-red-bulls-live-streaming-when-and-where-to-watch-messis-mls-match-in-india-12231584#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 03:25:01 +0530"
-    },
-    {
-      "title": "Power Bank Triggers Fire In Ladies' Coach Of Mumbai Local Train; No Injuries",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/power-bank-triggers-fire-in-ladies-coach-of-mumbai-local-train-no-injuries-12231365#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 00:09:52 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
@@ -179,7 +171,7 @@
       "title": "Surging oil prices drag Indian shares to weekly losses - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVk5bXN2THRVWVBubnpudHpPQ2dreFhuVUxXSUFqZWJLa2psTU1rbjl3UktXTlVabEpvVEM0YUpuZVBUWkJQSjB4X1o1QlI5OEZYNE1fNE5QREZ1RjZqeURTcEFZSm5DbkFGYkFCLVNVYkpRNXRCQ3RMTDExMGVJdS1lUjUtdlBFVkJQY1VXdVBZTF9qVklpbU1YRXp6dHpXNWhqcHVFVFNsZUtQeXV6SGNBTnJYaHBzWlE5SF9EeFpiYllha3c?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 12:36:27 GMT"
+      "publishedAt": "Fri, 23 Oct 2026 02:17:00 GMT"
     },
     {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
