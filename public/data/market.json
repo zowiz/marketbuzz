@@ -1,28 +1,28 @@
 {
-  "headline": "Last session: Sensex ends 126 points lower, Nifty holds 22,600 as market snaps two-week gaining streak",
+  "headline": "Indian Markets Face Pressure as FPIs Withdraw ₹48,056 Crore; Swiggy and Jio Financial Lead Declines",
   "marketStatus": {
-    "isClosed": true,
+    "isClosed": false,
     "isMuhuratTrading": false,
-    "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 27 October.",
-    "nextOpen": "Tuesday, 27 October 2026"
+    "message": "Market is open for trading today.",
+    "nextOpen": ""
   },
   "why": [
-    "Foreign Portfolio Investors (FPIs) pulled out Rs 48,056 crore from Indian equities in October.",
-    "Heavy selling in midcaps caused the midcap index to slide over 2%.",
-    "Volatility increased during volatile trading, with India VIX rising by 6%.",
-    "Key index heavyweights saw significant pressure, leading to a fourth straight session of losses for the Sensex."
+    "Foreign Portfolio Investors (FPIs) pulled out ₹48,056 crore from Indian equities in October",
+    "Geopolitical uncertainty following hints of potential Iran-related developments affecting global sentiment",
+    "Significant selling pressure in midcap indices and specific large-cap stocks like Tata Steel",
+    "Market volatility led to Sensex falling for four consecutive days prior to the weekend"
   ],
   "whatHappening": [
-    "The Sensex ended 126 points lower while Nifty 50 settled at the 22,600 mark in the last session.",
-    "The market snapped its two-week winning streak following four consecutive days of declines.",
-    "Swiggy stock plunged 17% while Jio Financial Services and Tata Steel dropped 3% each.",
-    "Yes Bank stated it retains discretion regarding its decision on the AT-1 bond coupon."
+    "Nifty 50 is hovering around the 22,600 level after snapping a two-week winning streak",
+    "Swiggy shares experienced a sharp 17% plunge in recent trading sessions",
+    "The RBI is implementing a new banking hub with Tier-4 security to fortify financial infrastructure",
+    "India and Rotterdam Port are collaborating to digitalize cargo processes under the India-EU FTA"
   ],
   "stocksInNews": [
     {
       "symbol": "SWIGGY",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
         4,
         14
@@ -31,7 +31,7 @@
     {
       "symbol": "JIOFIN",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         11
       ]
@@ -39,7 +39,7 @@
     {
       "symbol": "TATASTEEL",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         11
       ]
@@ -47,15 +47,23 @@
     {
       "symbol": "YESBANK",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         8
       ]
     },
     {
+      "symbol": "BAJFINANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
       "symbol": "TATAMOTORS",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         4
       ]
@@ -63,7 +71,7 @@
     {
       "symbol": "CYIENT",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         4
       ]
@@ -71,16 +79,24 @@
     {
       "symbol": "INOXWIND",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "L&TFH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         4
       ]
     }
   ],
-  "summary": "In the last trading session, Indian benchmark indices closed lower with the Sensex dropping 126 points and Nifty ending at 22,600.\nThe drop snapped a two-week winning streak, weighed down by FPI outflows of Rs 48,056 crore in October and sharp losses in midcap stocks.\nSwiggy dropped 17% while Jio Financial Services and Tata Steel declined 3% each amid market volatility.",
-  "updatedAt": "2026-10-25T18:01:40.235Z",
+  "summary": "The Indian market is under significant pressure as FPIs withdrew over ₹48,000 crore in October, ending a two-week winning streak. Major stocks like Swiggy and Jio Financial have seen sharp declines, while the Nifty struggles to maintain the 22,600 level. Investors remain cautious due to global geopolitical cues and domestic midcap volatility.",
+  "updatedAt": "2026-10-25T18:31:44.964Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-10-25",
+  "dateChecked": "2026-10-26",
   "articleKeys": [
     "indiaeu fta india rotterdam port engaged to digitalise indias cargo processes says piyush goyal",
     "fc barcelona vs real madrid live streaming when where to watch laliga match on tv online",
@@ -98,10 +114,10 @@
     "stock market close sensex falls for 4th day ends 126 pts lower nifty at 22600 vix rises 6 business standard",
     "stock market highlights sensex nifty end lower midcap index slides over 2 swiggy plunges 17 cnbc tv18",
     "stock market outlook today 19 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today highlights october 22 sensex sheds 460 pts nifty falls 123 pts for 3rd straight session businessline",
     "stock market today highlights october 21 sensex drops over 400 pts nifty at 22700 eternal bajaj fin lead losers businessline",
     "stock market prediction for monday oct 26 sensex nifty levels top stocks to watch will bulls dance again indiaipo",
-    "trump hints at an iran attack or deal impact on india stock market sensex nifty gold decoded top 10 stocks to watch livemint"
+    "trump hints at an iran attack or deal impact on india stock market sensex nifty gold decoded top 10 stocks to watch livemint",
+    "sensex down 500 points today why is stock market falling today india today"
   ],
   "articles": [
     {
@@ -201,12 +217,6 @@
       "publishedAt": "Mon, 19 Oct 2026 01:19:32 GMT"
     },
     {
-      "title": "Stock Market Today Highlights, October 22: Sensex sheds 460 pts, Nifty falls 123 pts for 3rd straight session - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdFR2UDFfdVBVdU9ZNmw2b3k3TkFZS0hHN3llY0Y4U3VKNFlfREdBS1Bhc1lpbExvS1ZKV3ZKY042eVZockhtNXk5NFVfRG5PbTNmNlRyM0xDM19sdkVndTBNS2xWNFlHN0NlY19qNlFjWlVLSGRFZHNvelBHTXRKUzhTZjVBdDJXdlRTVXAyWjV5NE1yWjlXc1U4QjQ0aHBLc1pqY3ZGcEZLTXB1eDBLcWhaTDZ1U1ZmVEh0b3h0X3VPZWFhcFFDTdIBzwFBVV95cUxPU1BaM3duQUxZSnJlLVFsVkR0NEQ2OXllZlN0SUx4Q2lxYlJSeTBnTDRVNXMtMW80OXVVM1dFcmxfM0RoZnJRZ2hfVF9wYW40Nk42anN4cUNOWGYyc19zajVPVGVldlU1ZmxIT1VIV2I0U0NuMWZhZzI1b0VVdUZyQllWMVVmYVhtZ3A3Z3FsWXJIYVdEdHlzdHRTUi15enhLY0pJZE8xblFBQkt4dy1XbVlTNFk5YlRYdUFLODYtaEtNakFXYzdzM1dRYU1uSms?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 10:47:12 GMT"
-    },
-    {
       "title": "Stock Market Today Highlights, October 21: Sensex drops over 400 pts, Nifty at 22,700; Eternal, Bajaj Fin lead losers - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGpacU1SSlh2MUgtVFM1Q203NXFJX1ZpWXZBU0FIMVdlUmx2Yk5ORWpUQ1BjcEdLbndSekU3ZEIyMjZPVkppX09yNU4xaGhaRlU4QUF4RVAxUGJFdWU1WFFxSTZwMmpINzVWU1ZIZm9sVkhZR3Y1dUVaZnhydGpwR2lwUzRnVUpHNWpoSE9WSTU2eWhNQTc5T0JQX01vWkZTbllaUGdXWG9fX09CMHhwaWxxaWxmLU1vc2ZoLWtlZTk3U2IzUEtORNIBzwFBVV95cUxOWkVaY2QteWY0VkRMdVJ1TVZlcEw4bDZZdlBaZG8xQ3Q0YlhTMFlTWENEV1hvczFiYkJCV1BlUUl4Q2t4eHFieWxZX1A3MUtoclQ5QWYtemxnTUgtZlhDeFRGQXhFN1Bzci1TWWd1RmpaMkNOcmstM1NEaFA5ZXhidmlkRnZxTkVFOXY0cF9XWTFDc0RZbVR0NHduWEo0MDFuYk1ZY3A2Sm9zNklGRkJwMmIxOHJRWjdHajdwWDlxeVo3N0JrT194NnBDck1YOXM?oc=5",
@@ -223,6 +233,12 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNa3ozTnRCMGwyY1N4ZU44amNGNmtOQU95T0dPWG1JV0lLOHI3TEdzU0pJYXR1S3VPODFBZktza2RBYTRnQmdiSFROTE9fNkkwNTJsNnVMZDBwR3NQMTlxUEVudmRpMjM2Wmh1bjBsdjBfZmtHM3RwWUc2Tk5sc2JhVjQ1dElaS3hJdl9HOHNucGhHZ1lNQTMycHVSTmxZZFY2RHpobzZjNmNSNTBrb1lTeE14WkdYcWNnU29PWU1BRW5RVTY4QkJNbUM2dlhZRU9aYnRJUDNvaHI0TDg5N0ZEakVndlh4Z1k0cV90ZTRGeW9RNW9tWjhUakR0cGtzanJ1OHVFR0lzRFdaOTdMUmRybUdlONIBmAJBVV95cUxQaUpwaTBtTU0wdTdWbUllRWhlMmR4eGRwY055bVE5VVUxNGEyY3h2Y09XaXN5SjJ2a2FGc3ZrT2VTNFRtTEZJTjdlQkR4eGFqSDgzMzlSZFJJYUxjYmNmZTdoMUhneS1CZm0wZ3RnS3JNcnJkSUJPMS1pRW81aDA5UHNBbXZVYThRY19BSFNRZno2Sm5GeXpSMDFPUG1sRjZxMTFTWGZOMU4yakNFNmRaeW03NEJGLVA3aElDWThicGZNb2ZzdzE2eHN3bk1WUWxyQ0x6dDBULTg4T1hFNGFjTDFQOWF3Y1VRdWtqdEFJS2dDYW54LWZtaERRNGZKMHdIOUZCbWMxQWpiTV9VV2w3ekNRQnF0Q1Nx?oc=5",
       "publishedAt": "Sun, 25 Oct 2026 07:03:17 GMT"
+    },
+    {
+      "title": "Sensex down 500 points today: Why is stock market falling today? - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOakZkb2RoVENITm90YXpKRXZSU05UWGVtV0Z2WGhGMG1fa2JkSDFfcVB4NTR3ZjVqa2hWUzRUUGQtY3lLS2lYbW9PNUhnZE9hZXBHUGtWUnZVTmVQLVlQRElTdFNqOXhyQzU3azV5UWdKR201ejFvQXlwN19DTXhaRmJuSk1sbDFUYXFKNUtBUzgwTjFlcGNZeWJpRGIxWFBGWE5rejh3LUtlYWdYQm03TjFSR09VSy1ib01zbnN1enV3aWE1TG9ZXzVLUVVmSGxsbHdOR0ZNSXZkQzA3NEZwNDdB0gHnAUFVX3lxTFB1OXduRG1wSThoRXdCLTFWS1VuSW0wbGRteks2cHUwemdDOG5JdUZEaDljUE9IeFFGQU9pMUR5aHhqQnlZbmZxbWhHNUlJLWtTVFpZWGxGaG1ybi1zRlRidXpCQ0lwRml4NV8wM3gzNTI3Y0tJOVZEZWpNUXZ4dkF6bUYwM2w2N2FmS1pUZWtEbWdia1NsRjlpeFdDTWFjYXB6Z1FtZUpIVnhiNzFrNERTckY2Vmd4b1FsdXlERGJJYXB6bXl1aGxybFpJUmc3R1FaenoyMTRfUWFETFJCSEVmbnJpc21NRQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 04:22:24 GMT"
     }
   ]
 }
