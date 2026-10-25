@@ -1,39 +1,56 @@
 {
-  "headline": "Last session: Sensex and Nifty snapped two-week gains as elevated crude oil prices dragged Indian shares lower.",
+  "headline": "Last session: Indian indices ended week lower as elevated crude oil prices and FPI selling weighed on sentiment.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 26 October.",
-    "nextOpen": "Monday, 26 October"
+    "nextOpen": "Monday, 26 October 2026"
   },
   "why": [
-    "Surging crude oil prices weighed heavily on market sentiment.",
-    "FPIs pulled out ₹48,056 crore from Indian equities in October so far.",
-    "Benchmark indices snapped a two-week winning streak due to persistent selling pressure.",
-    "Global market uncertainties and commodity price fluctuations added to investor caution."
+    "FPIs withdrew ₹48,056 crore from equities in October amid elevated crude oil prices.",
+    "Surging crude oil prices dragged Indian shares to weekly losses with Nifty plunging 2%.",
+    "Market capitalization of 8 of top-10 firms eroded by ₹1.55 lakh crore.",
+    "Major heavyweights including HDFC Bank and Bajaj Finance experienced sharp declines."
   ],
   "whatHappening": [
-    "FPIs withdrew ₹48,056 crore from Indian stock markets in October amid elevated oil prices.",
-    "Five IPOs are aiming to raise nearly ₹2,600 crore as primary market activity remains strong.",
-    "In the last session, Nifty closed around 22,600 while Sensex ended lower.",
-    "Silver prices saw a steep decline from ₹4.2 lakh down to ₹1.9 lakh."
+    "Primary market activity remains robust with five IPOs preparing to raise nearly ₹2,600 crore.",
+    "Nifty closed around 22,600 level snapping two consecutive weeks of market gains.",
+    "Auto, FMCG, and IT sectors dragged down benchmarks during key sessions of the week.",
+    "Ten penny stocks recorded surges of up to 180% over the last three months."
   ],
-  "stocksInNews": [],
-  "summary": "On the last trading day, Indian stock markets snapped a two-week winning streak as surging crude oil prices dragged benchmark indices lower. Foreign portfolio investors withdrew ₹48,056 crore from equities in October so far, creating heavy headwind for the markets. Meanwhile, primary market activity remains buoyant with five upcoming IPOs seeking to raise nearly ₹2,600 crore.",
-  "updatedAt": "2026-10-25T08:01:50.255Z",
+  "stocksInNews": [
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
+      ]
+    }
+  ],
+  "summary": "Indian stock markets ended the week on a weak note as rising crude oil prices and relentless FPI outflows weighed on sentiment.\nMajor heavyweights led by HDFC Bank and Bajaj Finance saw substantial erosion in market capitalization.\nThe market is closed today for the weekend and trading will resume on Monday, 26 October.",
+  "updatedAt": "2026-10-25T09:02:04.441Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-25",
   "articleKeys": [
+    "mcap of 8 of top10 firms erodes by rs 155 lakh cr hdfc bank bajaj fin biggest laggards",
+    "fpis withdraw 48056 cr from equities in october so far amid elevated crude oil prices",
+    "fampo talk nifty plunged 2 this week do charts indicate a bearish picture for coming week",
+    "warren buffetts 6 golden rules for investors after retirement",
     "five ipos to raise nearly 2600 crore as primary market stays active",
     "fauzi teaser controversy what a mockery of netaji internet slams prabhas film",
     "scientists develop albuminbased system to produce anticancer compounds inside tumour cells",
     "deepinder goyals temple wearable to cost rs 85000 pre orders open on november 1",
     "19 for 19 wall streets favourite election stat meets a fed that has barely started",
     "10 penny stocks surged up to 180 in 3 months do you own any",
-    "which bank is best for a zerobalance savings account 5 things to compare before opening one",
-    "fpis withdraw rs 48056 cr from equities in oct so far amid elevated crude oil prices",
-    "fpis withdraw 48056 crore from equities in oct amid elevated oil prices",
-    "silver is now down from rs 42 lakh to rs 19 lakh where it goes from here",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market today highlights sensex plunges over 400 points nifty50 tumbles below 22700 the times of india",
     "stock market today highlights october 22 sensex sheds 460 pts nifty falls 123 pts for 3rd straight session businessline",
@@ -46,6 +63,30 @@
     "stock market outlook today 23 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
   ],
   "articles": [
+    {
+      "title": "Mcap of 8 of top-10 firms erodes by Rs 1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
+      "publishedAt": "Sun, 25 Oct 2026 13:57:13 +0530"
+    },
+    {
+      "title": "FPIs withdraw ₹48,056 cr from equities in October so far amid elevated crude oil prices",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece",
+      "publishedAt": "Sun, 25 Oct 2026 13:56:33 +0530"
+    },
+    {
+      "title": "F&amp;O Talk: Nifty plunged 2% this week. Do charts indicate a bearish picture for coming week?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-plunged-2-this-week-do-charts-indicate-a-bearish-picture-for-coming-week/articleshow/135186474.cms",
+      "publishedAt": "Sun, 25 Oct 2026 13:44:31 +0530"
+    },
+    {
+      "title": "Warren Buffett’s 6 golden rules for investors after retirement",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/warren-buffetts-6-golden-rules-for-investors-after-retirement/articleshow/135186407.cms",
+      "publishedAt": "Sun, 25 Oct 2026 13:38:20 +0530"
+    },
     {
       "title": "Five IPOs to raise nearly ₹2,600 crore as primary market stays active",
       "source": "Zerodha Pulse",
@@ -81,30 +122,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-surged-up-to-180-in-3-months-do-you-own-any/slideshow/135185427.cms",
       "publishedAt": "Sun, 25 Oct 2026 12:10:44 +0530"
-    },
-    {
-      "title": "Which Bank is Best for a Zero-Balance Savings Account? 5 Things to Compare Before Opening One",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/which-bank-is-best-for-a-zero-balance-savings-account-5-things-to-compare-before-opening-one-12231425#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 12:08:59 +0530"
-    },
-    {
-      "title": "FPIs withdraw Rs 48,056 cr from equities in Oct so far amid elevated crude oil prices",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-withdraw-rs-48056-cr-from-equities-in-oct-so-far-amid-elevated-crude-oil-prices/articleshow/135185267.cms",
-      "publishedAt": "Sun, 25 Oct 2026 12:03:10 +0530"
-    },
-    {
-      "title": "FPIs withdraw ₹48,056 crore from equities in Oct amid elevated oil prices",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/fpis-withdraw-48-056-crore-from-equities-in-oct-amid-elevated-oil-prices-126102500122_1.html",
-      "publishedAt": "Sun, 25 Oct 2026 11:55:47 +0530"
-    },
-    {
-      "title": "Silver Is Now Down From Rs 4.2 Lakh To Rs 1.9 Lakh: Where It Goes From Here",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/silver-is-now-down-from-rs-4-2-lakh-to-rs-1-9-lakh-where-it-goes-from-here-12232531#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 11:51:22 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
