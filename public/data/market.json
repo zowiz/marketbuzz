@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets drop as Sensex falls 126 points and FPI outflows reach Rs 48,056 crore in October",
+  "headline": "Indian stock market opens today following volatile sessions as Sensex and Nifty close lower",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "FPIs pulled out Rs 48,056 crore from Indian equities in October.",
-    "Sensex snapped its two-week winning streak, ending lower for four consecutive sessions.",
-    "Midcap index experienced selling pressure, sliding over 2%.",
-    "Volatility index VIX rose by 6% amid global political and economic uncertainties."
+    "Sensex and Nifty snapped 2-week gains as Sensex ended 126 points lower around 22,600 Nifty levels.",
+    "Major heavyweights like Jio Financial and Tata Steel dropped over 3% each.",
+    "Midcap index slid over 2% driven by significant drops in specific listings like Swiggy.",
+    "Volatility index (India VIX) rose 6% reflecting cautious trader sentiment amidst geopolitical cues."
   ],
   "whatHappening": [
-    "Nifty closed at 22,600 while Sensex dropped 126 points.",
-    "Swiggy plunged 17% during market trading.",
-    "Jio Financial Services and Tata Steel dropped 3% each.",
-    "Yes Bank announced it retains discretion on deciding its AT-1 bond coupon."
+    "Sensex and Nifty experienced volatile trading heading into the market open on October 26.",
+    "India and EU FTA is set for a year-end seal with operational rollout expected in Q1 next year.",
+    "Monthly UPI transactions crossed Rs 24,000 crore as highlighted by FM Sitharaman.",
+    "BFSI Insight Summit 2026 focuses on banking, AI, and economic growth."
   ],
   "stocksInNews": [
     {
@@ -24,7 +24,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        5,
+        9,
         14
       ]
     },
@@ -45,7 +45,31 @@
       ]
     },
     {
-      "symbol": "YESBANK",
+      "symbol": "TATAMOTORS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "CYIENT",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "INOXWIND",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "LTF",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
@@ -59,55 +83,23 @@
       "articleIds": [
         16
       ]
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "CYIENT",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "INOXWIND",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "LTF",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        5
-      ]
     }
   ],
-  "summary": "Indian benchmark indices ended lower as Nifty settled at 22,600 and Sensex dropped 126 points.\nForeign investors extracted over Rs 48,000 crore from Indian equities throughout October, weighing on market sentiment.\nSpecific stocks including Swiggy, Jio Financial, and Tata Steel faced notable selling pressure.",
-  "updatedAt": "2026-10-25T19:31:25.529Z",
+  "summary": "The Indian equity market opens today after snapping its two-week winning streak in recent sessions. Volatility remains elevated as midcaps experienced selling pressure and key heavyweights pulled index levels lower. Market participants are keeping a close eye on macroeconomic developments, including India-EU FTA progress and global triggers.",
+  "updatedAt": "2026-10-25T19:54:09.856Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-26",
   "articleKeys": [
     "stage set for bfsi insight summit 2026 banking ai and growth in focus",
+    "indiaeu fta set for yearend seal operational rollout slated for q1 next year piyush goyal",
+    "upi is worlds largest payment system monthly transactions top rs 24000 crore fm sitharaman",
+    "nayanthara joins rajinikanths dharman reunites with superstar after five years",
     "indiaeu fta india rotterdam port engaged to digitalise indias cargo processes says piyush goyal",
     "fc barcelona vs real madrid live streaming when where to watch laliga match on tv online",
+    "band kar do bhai why a fan wants samay raina to end indias got latent",
     "ccpa fines walkietalkie seller hogar technologies rs 1 lakh for misleading ads",
     "udinese vs ac milan live streaming when and where to watch serie a match live in india",
     "buy sell or hold tata motors pv cyient swiggy inox wind and lt finance ask profit",
-    "fpis pull out rs 48056 crore from indian equities in october three triggers behind the selloff",
-    "f1 us gp final race live streaming when and where to watch in india",
-    "bengaluru it hiring row cm dk shivakumar warns it firms of action over alleged antikannada bias",
-    "yes bank yet to decide on at1 bond coupon says it retains discretion",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "sensex today nifty 50 stock market highlights sensex ends 126 pts lower after volatile trade nifty at 22600 jio fin tata steel drop 3 each the economic times",
     "why stock market is falling today sensex drops over 700 points nifty 50 slips below 22400 key reasons ndtv profit",
@@ -127,6 +119,24 @@
       "publishedAt": "Sun, 25 Oct 2026 23:58:57 +0530"
     },
     {
+      "title": "India-EU FTA Set For Year-End Seal, Operational Rollout Slated For Q1 Next Year: Piyush Goyal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/india-eu-fta-to-operationalise-by-end-of-year-says-piyush-goyal-in-amsterdam-12234714#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 23:25:56 +0530"
+    },
+    {
+      "title": "UPI Is World's Largest Payment System, Monthly Transactions Top Rs 24,000 Crore: FM Sitharaman",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/upi-is-worlds-largest-payment-system-monthly-transactions-top-rs-24-000-crore-fm-sitharaman-12234700#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 23:19:01 +0530"
+    },
+    {
+      "title": "Nayanthara Joins Rajinikanth’s Dharman, Reunites With Superstar After Five Years",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/nayanthara-joins-rajinikanth-s-dharman-reunites-with-superstar-after-five-years-12234665#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 23:05:42 +0530"
+    },
+    {
       "title": "India-EU FTA: India, Rotterdam Port Engaged To Digitalise India's Cargo Processes, Says Piyush Goyal",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/business/india-eu-fta-india-rotterdam-port-engaged-to-digitalise-indias-cargo-processes-says-piyush-goyal-12234531#publisher=newsstand",
@@ -137,6 +147,12 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/sports/fc-barcelona-vs-real-madrid-lamine-yamal-mbappe-ready-for-el-clasico-showdown-12230794#publisher=newsstand",
       "publishedAt": "Sun, 25 Oct 2026 22:30:01 +0530"
+    },
+    {
+      "title": "'Band Kar Do Bhai’: Why A Fan Wants Samay Raina To End 'India’s Got Latent’",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/band-kar-do-bhai-why-a-fan-wants-samay-raina-to-end-india-s-got-latent-12234542#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 22:28:38 +0530"
     },
     {
       "title": "CCPA Fines Walkie-Talkie Seller Hogar Technologies Rs 1 Lakh For Misleading Ads",
@@ -155,30 +171,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-tata-motors-pv-cyient-swiggy-inox-wind-and-l-t-finance-ask-profit-12234483#publisher=newsstand",
       "publishedAt": "Sun, 25 Oct 2026 22:13:24 +0530"
-    },
-    {
-      "title": "FPIs Pull Out Rs 48,056 Crore From Indian Equities in October: Three Triggers Behind the Selloff",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/fpis-pull-out-rs-48-056-crore-from-indian-equities-in-october-three-triggers-behind-the-selloff-12234426#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 22:00:34 +0530"
-    },
-    {
-      "title": "F1 US GP Final Race Live Streaming: When And Where To Watch In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/f1-us-gp-live-streaming-can-kimi-antonelli-clinch-world-title-in-austin-when-and-where-to-watch-in-india-12232828#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 21:30:01 +0530"
-    },
-    {
-      "title": "Bengaluru IT Hiring Row: CM DK Shivakumar Warns IT Firms Of Action Over Alleged Anti-Kannada Bias",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/bengaluru-it-hiring-row-cm-dk-shivakumar-warns-it-firms-of-action-over-alleged-anti-kannada-job-discrimination-12234305#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 21:14:15 +0530"
-    },
-    {
-      "title": "Yes Bank yet to decide on AT-1 bond coupon, says it retains discretion",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/banking/yes-bank-yet-to-decide-on-at-1-bond-coupon-says-it-retains-discretion-126102500453_1.html",
-      "publishedAt": "Sun, 25 Oct 2026 20:52:02 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
