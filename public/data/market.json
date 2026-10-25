@@ -1,30 +1,31 @@
 {
-  "headline": "Last session: Sensex falls 126 points, Nifty closes at 22,600 as market snaps two-week gains",
+  "headline": "Last session: Sensex ends 126 points lower, Nifty holds 22,600 as market snaps two-week gaining streak",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 27 October.",
-    "nextOpen": "Tuesday, 27 October"
+    "nextOpen": "Tuesday, 27 October 2026"
   },
   "why": [
-    "Rising Brent crude prices capped market upside and pressured benchmark indices.",
-    "Midcap stocks faced heavy selling pressure, sliding over 2% during the last session.",
-    "Losses in key heavyweights including Jio Financial Services and Tata Steel dragged sentiment.",
-    "Increased market volatility as India VIX climbed 6% during the previous session."
+    "Foreign Portfolio Investors (FPIs) pulled out Rs 48,056 crore from Indian equities in October.",
+    "Heavy selling in midcaps caused the midcap index to slide over 2%.",
+    "Volatility increased during volatile trading, with India VIX rising by 6%.",
+    "Key index heavyweights saw significant pressure, leading to a fourth straight session of losses for the Sensex."
   ],
   "whatHappening": [
-    "On the last trading day, Sensex fell 126 points while Nifty 50 settled at the 22,600 level.",
-    "The broader market snapped a two-week winning streak following four consecutive sessions of losses.",
-    "MP semiconductor summit received ₹15,425 crore in investment proposals aiming to create 14,000 jobs.",
-    "Yes Bank announced it retains discretion on its AT-1 bond coupon payments with no decision taken yet."
+    "The Sensex ended 126 points lower while Nifty 50 settled at the 22,600 mark in the last session.",
+    "The market snapped its two-week winning streak following four consecutive days of declines.",
+    "Swiggy stock plunged 17% while Jio Financial Services and Tata Steel dropped 3% each.",
+    "Yes Bank stated it retains discretion regarding its decision on the AT-1 bond coupon."
   ],
   "stocksInNews": [
     {
-      "symbol": "YESBANK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "symbol": "SWIGGY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/9 sources",
       "articleIds": [
-        1
+        4,
+        14
       ]
     },
     {
@@ -44,7 +45,7 @@
       ]
     },
     {
-      "symbol": "INDIGO",
+      "symbol": "YESBANK",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
@@ -52,29 +53,45 @@
       ]
     },
     {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Negative",
+      "symbol": "TATAMOTORS",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        17
+        4
+      ]
+    },
+    {
+      "symbol": "CYIENT",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "INOXWIND",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        4
       ]
     }
   ],
-  "summary": "On the last trading day, Indian benchmark indices ended lower as Sensex shed 126 points and Nifty closed at 22,600. The decline was fueled by a slump in midcap stocks, rising crude oil prices, and weakness in key financial and steel stocks. Markets are closed today for the weekend.",
-  "updatedAt": "2026-10-25T17:11:14.121Z",
+  "summary": "In the last trading session, Indian benchmark indices closed lower with the Sensex dropping 126 points and Nifty ending at 22,600.\nThe drop snapped a two-week winning streak, weighed down by FPI outflows of Rs 48,056 crore in October and sharp losses in midcap stocks.\nSwiggy dropped 17% while Jio Financial Services and Tata Steel declined 3% each amid market volatility.",
+  "updatedAt": "2026-10-25T18:01:40.235Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-25",
   "articleKeys": [
+    "indiaeu fta india rotterdam port engaged to digitalise indias cargo processes says piyush goyal",
+    "fc barcelona vs real madrid live streaming when where to watch laliga match on tv online",
+    "ccpa fines walkietalkie seller hogar technologies rs 1 lakh for misleading ads",
+    "udinese vs ac milan live streaming when and where to watch serie a match live in india",
+    "buy sell or hold tata motors pv cyient swiggy inox wind and lt finance ask profit",
+    "fpis pull out rs 48056 crore from indian equities in october three triggers behind the selloff",
     "f1 us gp final race live streaming when and where to watch in india",
+    "bengaluru it hiring row cm dk shivakumar warns it firms of action over alleged antikannada bias",
     "yes bank yet to decide on at1 bond coupon says it retains discretion",
     "tier4 security zero thirdparty cloud rbi chief explains how new hub fortifies indias banking",
-    "mp semicon summit draws 15425 cr investment proposals 14k jobs in sight",
-    "barcelona vs real madrid el clasico yamal mbappe face off before ballon dor ceremony",
-    "rbis bhubaneswar data centre to reduce downtime of critical services",
-    "wars not just fought with weapons pm modi warns of economic warfare at rbis date centre launch",
-    "trade setup for oct 26 nifty support slips to 22500 as brent crude spike prevents upside key levels",
-    "indigo air india break ranks with foreign carriers on navi mumbai shift",
-    "lecce vs juventus live streaming when and where to watch serie a match live in india",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "sensex today nifty 50 stock market highlights sensex ends 126 pts lower after volatile trade nifty at 22600 jio fin tata steel drop 3 each the economic times",
     "why stock market is falling today sensex drops over 700 points nifty 50 slips below 22400 key reasons ndtv profit",
@@ -88,10 +105,52 @@
   ],
   "articles": [
     {
+      "title": "India-EU FTA: India, Rotterdam Port Engaged To Digitalise India's Cargo Processes, Says Piyush Goyal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/india-eu-fta-india-rotterdam-port-engaged-to-digitalise-indias-cargo-processes-says-piyush-goyal-12234531#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 22:41:51 +0530"
+    },
+    {
+      "title": "FC Barcelona Vs Real Madrid Live Streaming: When, Where To Watch LaLiga Match On TV, Online?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/fc-barcelona-vs-real-madrid-lamine-yamal-mbappe-ready-for-el-clasico-showdown-12230794#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 22:30:01 +0530"
+    },
+    {
+      "title": "CCPA Fines Walkie-Talkie Seller Hogar Technologies Rs 1 Lakh For Misleading Ads",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/ccpa-fines-walkie-talkie-seller-hogar-technologies-rs-1-lakh-for-misleading-ads-12233834#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 22:19:52 +0530"
+    },
+    {
+      "title": "Udinese vs AC Milan Live Streaming: When And Where To Watch Serie A Match Live In India",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/udinese-vs-ac-milan-live-streaming-when-and-where-to-watch-serie-a-match-live-in-india-12233346#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 22:15:01 +0530"
+    },
+    {
+      "title": "Buy, Sell Or Hold: Tata Motors PV, Cyient, Swiggy, Inox Wind And L&T Finance — Ask Profit",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-tata-motors-pv-cyient-swiggy-inox-wind-and-l-t-finance-ask-profit-12234483#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 22:13:24 +0530"
+    },
+    {
+      "title": "FPIs Pull Out Rs 48,056 Crore From Indian Equities in October: Three Triggers Behind the Selloff",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/fpis-pull-out-rs-48-056-crore-from-indian-equities-in-october-three-triggers-behind-the-selloff-12234426#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 22:00:34 +0530"
+    },
+    {
       "title": "F1 US GP Final Race Live Streaming: When And Where To Watch In India",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/sports/f1-us-gp-live-streaming-can-kimi-antonelli-clinch-world-title-in-austin-when-and-where-to-watch-in-india-12232828#publisher=newsstand",
       "publishedAt": "Sun, 25 Oct 2026 21:30:01 +0530"
+    },
+    {
+      "title": "Bengaluru IT Hiring Row: CM DK Shivakumar Warns IT Firms Of Action Over Alleged Anti-Kannada Bias",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/bengaluru-it-hiring-row-cm-dk-shivakumar-warns-it-firms-of-action-over-alleged-anti-kannada-job-discrimination-12234305#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 21:14:15 +0530"
     },
     {
       "title": "Yes Bank yet to decide on AT-1 bond coupon, says it retains discretion",
@@ -104,48 +163,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/technology/beyond-banking-how-rbi-s-odisha-institute-will-train-the-sector-against-ai-cyber-risks-12234208#publisher=newsstand",
       "publishedAt": "Sun, 25 Oct 2026 20:41:25 +0530"
-    },
-    {
-      "title": "MP semicon summit draws ₹15,425 cr investment proposals, 14k jobs in sight",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/mp-semicon-summit-draws-15-425-cr-investment-proposals-14k-jobs-in-sight-126102500216_1.html",
-      "publishedAt": "Sun, 25 Oct 2026 20:33:08 +0530"
-    },
-    {
-      "title": "Barcelona Vs Real Madrid El Clasico: Yamal, Mbappe Face Off Before Ballon d'Or Ceremony",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/barcelona-vs-real-madrid-el-clasico-yamal-mbappe-face-off-before-ballon-dor-ceremony-12226990#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 20:30:01 +0530"
-    },
-    {
-      "title": "RBI's Bhubaneswar data centre to reduce downtime of critical services",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/banking/rbi-s-bhubaneswar-data-centre-to-reduce-downtime-of-critical-services-126102500603_1.html",
-      "publishedAt": "Sun, 25 Oct 2026 20:15:34 +0530"
-    },
-    {
-      "title": "'Wars Not Just Fought With Weapons': PM Modi Warns Of Economic Warfare At RBI's Date Centre Launch",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/wars-not-just-fought-with-weapons-pm-modi-warns-of-economic-warfare-at-rbis-date-centre-launch-12234103#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 20:04:56 +0530"
-    },
-    {
-      "title": "Trade Setup For Oct. 26: Nifty Support Slips To 22,500 As Brent Crude Spike Prevents Upside — Key Levels",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-26-nifty-support-slips-to-22-500-as-brent-crude-spike-prevents-upside-key-levels-12234077#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 20:01:15 +0530"
-    },
-    {
-      "title": "IndiGo, Air India break ranks with foreign carriers on Navi Mumbai shift",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/aviation/indigo-air-india-break-ranks-with-foreign-carriers-on-navi-mumbai-shift-126102500594_1.html",
-      "publishedAt": "Sun, 25 Oct 2026 19:42:46 +0530"
-    },
-    {
-      "title": "Lecce vs Juventus Live Streaming: When And Where To Watch Serie A Match Live In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/lecce-vs-juventus-live-streaming-when-and-where-to-watch-serie-a-match-live-in-india-12233271#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 19:30:01 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
