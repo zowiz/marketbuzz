@@ -1,68 +1,60 @@
 {
-  "headline": "Last session: Nifty snapped two-week gains to close at 22,600 as surging oil prices weighed on sentiment.",
+  "headline": "Last session: Indian markets snapped two-week gains as Nifty settled at 22,600 amid crude and geopolitical concerns",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 26 October.",
-    "nextOpen": "Monday, 26 October 2026"
+    "nextOpen": "Monday, 26 October"
   },
   "why": [
-    "Surging oil prices dragged Indian shares to weekly losses",
-    "Market snapped a two-week winning streak during the last session",
-    "Expectations of a hawkish rate pause by the Fed and G7 trio",
-    "Selling pressure in auto, FMCG, and IT sectors weighed on indices"
+    "Surging oil prices and geopolitical risks weighed on investor sentiment",
+    "Persistent FII outflows from the Indian market mounted pressure on indices",
+    "Profit booking occurred after the market snapped a two-week winning streak",
+    "Global cues, including sinking profits in Chinese stocks, created a cautious atmosphere"
   ],
   "whatHappening": [
-    "Multiple IPOs including BLS Polymers and M K Sons Fine Jewels are hitting the primary market this week",
-    "Gold ETF FoFs have temporarily halted fresh inflows despite a dip in gold and silver prices",
-    "Global investors remain cautious as low valuations in China fail to entice significant investment",
-    "The market is currently closed for the weekend and will resume trading on Monday"
+    "IDFC First Bank reported its Q2 profit nearly tripled to Rs 1,045 crore",
+    "Five IPOs are scheduled to raise Rs 2,581 crore next week alongside a major listing",
+    "SEBI is planning to revamp rules regarding short-selling and securities lending",
+    "The Nifty 50 index fell below the 22,700 mark during the final sessions of the week"
   ],
   "stocksInNews": [
     {
-      "symbol": "BLS Polymers",
-      "sentiment": "Neutral",
+      "symbol": "IDFCFIRSTB",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        6
+        0
       ]
     },
     {
-      "symbol": "M K Sons Fine Jewels",
-      "sentiment": "Neutral",
+      "symbol": "JIOFIN",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "EAAA India Alternatives",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        6
+        1
       ]
     }
   ],
-  "summary": "On the last trading day, the Nifty closed at 22,600, snapping a two-week gain streak as surging oil prices and global rate concerns pressured the market. While major sectors like IT and Auto faced drag, the primary market remains active with several new IPOs scheduled for the coming week. Markets are currently closed for the weekend and will reopen on October 26.",
-  "updatedAt": "2026-10-25T04:01:43.220Z",
+  "summary": "In the last trading session, Indian indices ended lower with the Nifty closing at 22,600, ending a two-week rally due to rising oil prices and FII selling. Despite the downturn, IDFC First Bank posted strong quarterly results with profits nearly tripling. Investors are now focusing on a busy upcoming week featuring five new IPOs and potential regulatory changes from SEBI.",
+  "updatedAt": "2026-10-25T05:01:45.728Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-25",
   "articleKeys": [
+    "idfc first bank q2 profit nearly triples to rs 1045 crore",
+    "post jio boost 5 ipos to raise rs 2581 crore next week alongside indias biggest listing",
+    "sebi to revamp shortselling securities lending rules",
+    "trump weighs fresh iran strikes as he keeps prospect of a deal open",
+    "tiger shroff attack how a missed bus foiled the shooters escape to nepal",
+    "nifty bears tighten grip as crude geopolitical risks fii outflows mount 5 factors to decide dstreets fate next week",
+    "lula bolsonaro neckandneck as brazil votes today what the final polls show",
+    "sinking profits turn chinas 35 trillion stock rout into a deeper trap",
     "operation sindoor enters us midterms as trump boasts mediation",
     "finding my identity took 10 to 15 years hariharan on the struggles behind his success and his wifes crucial role",
-    "uae vs netherlands live streaming when and where to watch icc cricket world cup league 2 match live in india",
-    "chinas 35 trillion stock rout why low valuations arent enough to entice investors",
-    "tariffs bring in jobs trump defends protectionist policy with massive 42b audi deal",
-    "pokmon card heist who made rectangles and more",
-    "ipos this week eaaa india alternatives bls polymers m k sons fine jewels among others to hit primary market",
-    "gold silver prices dip but many gold etf fofs temporarily halt fresh inflows what are your options",
-    "fed set to lead g7 trio in hawkish rate pause eco week ahead",
-    "trump casts early inperson ballot after attacks on mail voting",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
     "stock market today highlights sensex plunges over 400 points nifty50 tumbles below 22700 the times of india",
-    "sensex down 500 points today why is stock market falling today india today",
     "stock market today highlights october 22 sensex sheds 460 pts nifty falls 123 pts for 3rd straight session businessline",
+    "sensex down 500 points today why is stock market falling today india today",
     "closing bell nifty below 22700 sensex down 460 pts auto fmcg it drag moneycontrolcom",
     "stock market outlook today 19 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "surging oil prices drag indian shares to weekly losses reuters",
@@ -71,6 +63,54 @@
     "sensex nifty rebound after 3day fall on it stocks buying the hindu"
   ],
   "articles": [
+    {
+      "title": "IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q2-profit-nearly-triples-to-rs-1045-cr/articleshow/135182984.cms",
+      "publishedAt": "Sun, 25 Oct 2026 09:41:15 +0530"
+    },
+    {
+      "title": "Post Jio boost: 5 IPOs to raise Rs 2,581 crore next week alongside India's biggest listing",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/post-jio-boost-5-ipos-to-raise-rs-2581-crore-next-week-alongside-indias-biggest-listing/articleshow/135182846.cms",
+      "publishedAt": "Sun, 25 Oct 2026 09:30:17 +0530"
+    },
+    {
+      "title": "Sebi to revamp short-selling, securities lending rules",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-revamp-short-selling-securities-lending-rules/articleshow/135182788.cms",
+      "publishedAt": "Sun, 25 Oct 2026 09:28:23 +0530"
+    },
+    {
+      "title": "Trump weighs fresh Iran strikes as he keeps prospect of a deal open",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/world-news/trump-weighs-fresh-iran-strikes-as-he-keeps-prospect-of-a-deal-open-126102500072_1.html",
+      "publishedAt": "Sun, 25 Oct 2026 09:26:30 +0530"
+    },
+    {
+      "title": "Tiger Shroff Attack: How A Missed Bus Foiled The Shooters' Escape To Nepal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/tiger-shroff-attack-how-a-missed-bus-foiled-the-shooters-escape-to-nepal-12232099#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 09:25:11 +0530"
+    },
+    {
+      "title": "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street’s fate next week",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-bears-tighten-grip-as-crude-geopolitical-risks-fii-outflows-mount-5-factors-to-decide-d-streets-fate-next-week/articleshow/135182716.cms",
+      "publishedAt": "Sun, 25 Oct 2026 09:18:39 +0530"
+    },
+    {
+      "title": "Lula, Bolsonaro Neck-And-Neck As Brazil Votes Today: What The Final Polls Show",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/lula-bolsonaro-neck-and-neck-as-brazil-votes-today-what-the-final-polls-show-12231876#publisher=newsstand",
+      "publishedAt": "Sun, 25 Oct 2026 08:35:30 +0530"
+    },
+    {
+      "title": "Sinking profits turn China's $3.5 trillion stock rout into a deeper trap",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/world-news/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-a-deeper-trap-126102500055_1.html",
+      "publishedAt": "Sun, 25 Oct 2026 08:19:10 +0530"
+    },
     {
       "title": "Operation Sindoor Enters US Midterms As Trump boasts Mediation",
       "source": "Zerodha Pulse",
@@ -82,54 +122,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/entertainment/finding-my-identity-took-10-to-15-years-hariharan-on-the-struggles-behind-his-success-and-his-wifes-crucial-role-12229360#publisher=newsstand",
       "publishedAt": "Sun, 25 Oct 2026 08:00:01 +0530"
-    },
-    {
-      "title": "UAE vs Netherlands: Live Streaming: When And Where To Watch ICC Cricket World Cup League 2 Match Live In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/uaevsnetherlands-live-streaming-when-and-where-to-watch-icc-cricket-world-cup-league-2-match-live-in-india-12231445#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 08:00:01 +0530"
-    },
-    {
-      "title": "China's $3.5 Trillion Stock Rout: Why Low Valuations Aren't Enough To Entice Investors",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/chinas-3-5-trillion-stock-rout-why-low-valuations-arent-enough-to-entice-investors-12231875#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 07:49:00 +0530"
-    },
-    {
-      "title": "'Tariffs Bring In Jobs': Trump Defends Protectionist Policy With Massive $4.2B Audi Deal",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/tariffs-bring-in-jobs-trump-defends-protectionist-policy-with-massive-4-2b-audi-deal-12231846#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 07:40:40 +0530"
-    },
-    {
-      "title": "Pokémon card heist, who made rectangles, and more...",
-      "source": "Zerodha Pulse",
-      "link": "https://finshots.in/archive/pokemon-card-heist-who-made-rectangles-and-more/",
-      "publishedAt": "Sun, 25 Oct 2026 07:00:49 +0530"
-    },
-    {
-      "title": "IPOs This Week: EAAA India Alternatives, BLS Polymers, M K Sons Fine Jewels Among Others To Hit Primary Market",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/ipos-this-week-eaaa-india-alternatives-bls-polymers-m-k-sons-fine-jewels-among-others-to-hit-primary-market-12231005#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 07:00:01 +0530"
-    },
-    {
-      "title": "Gold, Silver Prices Dip But Many Gold ETF FoFs Temporarily Halt Fresh Inflows: What Are Your Options?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/gold-silver-prices-dip-but-many-gold-etf-fofs-temporarily-halt-fresh-inflows-what-are-your-options-12225063#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 07:00:01 +0530"
-    },
-    {
-      "title": "Fed Set To Lead G7 Trio In Hawkish Rate Pause: Eco Week Ahead",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/fed-set-to-lead-g7-trio-in-hawkish-rate-pause-eco-week-ahead-12231773#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 06:52:37 +0530"
-    },
-    {
-      "title": "Trump Casts Early In-Person Ballot After Attacks On Mail Voting",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/trump-casts-early-in-person-ballot-after-attacks-on-mail-voting-12231758#publisher=newsstand",
-      "publishedAt": "Sun, 25 Oct 2026 06:39:41 +0530"
     },
     {
       "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - Moneycontrol.com",
@@ -144,16 +136,16 @@
       "publishedAt": "Fri, 23 Oct 2026 06:20:43 GMT"
     },
     {
-      "title": "Sensex down 500 points today: Why is stock market falling today? - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOakZkb2RoVENITm90YXpKRXZSU05UWGVtV0Z2WGhGMG1fa2JkSDFfcVB4NTR3ZjVqa2hWUzRUUGQtY3lLS2lYbW9PNUhnZE9hZXBHUGtWUnZVTmVQLVlQRElTdFNqOXhyQzU3azV5UWdKR201ejFvQXlwN19DTXhaRmJuSk1sbDFUYXFKNUtBUzgwTjFlcGNZeWJpRGIxWFBGWE5rejh3LUtlYWdYQm03TjFSR09VSy1ib01zbnN1enV3aWE1TG9ZXzVLUVVmSGxsbHdOR0ZNSXZkQzA3NEZwNDdB0gHnAUFVX3lxTFB1OXduRG1wSThoRXdCLTFWS1VuSW0wbGRteks2cHUwemdDOG5JdUZEaDljUE9IeFFGQU9pMUR5aHhqQnlZbmZxbWhHNUlJLWtTVFpZWGxGaG1ybi1zRlRidXpCQ0lwRml4NV8wM3gzNTI3Y0tJOVZEZWpNUXZ4dkF6bUYwM2w2N2FmS1pUZWtEbWdia1NsRjlpeFdDTWFjYXB6Z1FtZUpIVnhiNzFrNERTckY2Vmd4b1FsdXlERGJJYXB6bXl1aGxybFpJUmc3R1FaenoyMTRfUWFETFJCSEVmbnJpc21NRQ?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 04:22:24 GMT"
-    },
-    {
       "title": "Stock Market Today Highlights, October 22: Sensex sheds 460 pts, Nifty falls 123 pts for 3rd straight session - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdFR2UDFfdVBVdU9ZNmw2b3k3TkFZS0hHN3llY0Y4U3VKNFlfREdBS1Bhc1lpbExvS1ZKV3ZKY042eVZockhtNXk5NFVfRG5PbTNmNlRyM0xDM19sdkVndTBNS2xWNFlHN0NlY19qNlFjWlVLSGRFZHNvelBHTXRKUzhTZjVBdDJXdlRTVXAyWjV5NE1yWjlXc1U4QjQ0aHBLc1pqY3ZGcEZLTXB1eDBLcWhaTDZ1U1ZmVEh0b3h0X3VPZWFhcFFDTdIBzwFBVV95cUxPU1BaM3duQUxZSnJlLVFsVkR0NEQ2OXllZlN0SUx4Q2lxYlJSeTBnTDRVNXMtMW80OXVVM1dFcmxfM0RoZnJRZ2hfVF9wYW40Nk42anN4cUNOWGYyc19zajVPVGVldlU1ZmxIT1VIV2I0U0NuMWZhZzI1b0VVdUZyQllWMVVmYVhtZ3A3Z3FsWXJIYVdEdHlzdHRTUi15enhLY0pJZE8xblFBQkt4dy1XbVlTNFk5YlRYdUFLODYtaEtNakFXYzdzM1dRYU1uSms?oc=5",
       "publishedAt": "Thu, 22 Oct 2026 10:47:12 GMT"
+    },
+    {
+      "title": "Sensex down 500 points today: Why is stock market falling today? - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOakZkb2RoVENITm90YXpKRXZSU05UWGVtV0Z2WGhGMG1fa2JkSDFfcVB4NTR3ZjVqa2hWUzRUUGQtY3lLS2lYbW9PNUhnZE9hZXBHUGtWUnZVTmVQLVlQRElTdFNqOXhyQzU3azV5UWdKR201ejFvQXlwN19DTXhaRmJuSk1sbDFUYXFKNUtBUzgwTjFlcGNZeWJpRGIxWFBGWE5rejh3LUtlYWdYQm03TjFSR09VSy1ib01zbnN1enV3aWE1TG9ZXzVLUVVmSGxsbHdOR0ZNSXZkQzA3NEZwNDdB0gHnAUFVX3lxTFB1OXduRG1wSThoRXdCLTFWS1VuSW0wbGRteks2cHUwemdDOG5JdUZEaDljUE9IeFFGQU9pMUR5aHhqQnlZbmZxbWhHNUlJLWtTVFpZWGxGaG1ybi1zRlRidXpCQ0lwRml4NV8wM3gzNTI3Y0tJOVZEZWpNUXZ4dkF6bUYwM2w2N2FmS1pUZWtEbWdia1NsRjlpeFdDTWFjYXB6Z1FtZUpIVnhiNzFrNERTckY2Vmd4b1FsdXlERGJJYXB6bXl1aGxybFpJUmc3R1FaenoyMTRfUWFETFJCSEVmbnJpc21NRQ?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 04:22:24 GMT"
     },
     {
       "title": "Closing Bell: Nifty below 22,700, Sensex down 460 pts; auto, FMCG, IT drag - Moneycontrol.com",
@@ -171,7 +163,7 @@
       "title": "Surging oil prices drag Indian shares to weekly losses - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeVk5bXN2THRVWVBubnpudHpPQ2dreFhuVUxXSUFqZWJLa2psTU1rbjl3UktXTlVabEpvVEM0YUpuZVBUWkJQSjB4X1o1QlI5OEZYNE1fNE5QREZ1RjZqeURTcEFZSm5DbkFGYkFCLVNVYkpRNXRCQ3RMTDExMGVJdS1lUjUtdlBFVkJQY1VXdVBZTF9qVklpbU1YRXp6dHpXNWhqcHVFVFNsZUtQeXV6SGNBTnJYaHBzWlE5SF9EeFpiYllha3c?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 02:17:00 GMT"
+      "publishedAt": "Fri, 23 Oct 2026 12:36:27 GMT"
     },
     {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
