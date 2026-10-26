@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty snap four-session losing streak as value buying and strong earnings lift sentiment",
+  "headline": "Sensex snaps 4-day losing streak to rise 480 points as value buying lifts Indian markets",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Value buying lifted the Indian stock market after four consecutive days of losses.",
-    "Sensex recovered significantly, closing up over 480 points, while Nifty crossed 22,700.",
-    "Strong quarterly earnings reports from Paytm and Sunteck Realty bolstered market confidence.",
-    "Key stocks like JSW Steel and BSE recorded robust gains of up to 5%."
+    "Value buying lifted Indian equity markets after four consecutive sessions of losses.",
+    "Key benchmark indices Nifty and Sensex recovered strongly following a weak start.",
+    "Strong quarterly earnings from companies like Paytm provided positive sentiment.",
+    "Gains in stock heavyweights such as JSW Steel and BSE supported the broader market rally."
   ],
   "whatHappening": [
-    "Paytm posted a 10-fold increase in Q2FY27 net profit to ₹225 crore with revenue rising 28%.",
-    "Sunteck Realty reported a 20% surge in H1FY27 net profit along with a 19% growth in pre-sales.",
-    "Dalmia Bharat reported a net loss of ₹205 crore for Q2 due to an exceptional hit.",
-    "US markets ended higher as Anthropic's IPO filing revived AI sector optimism."
+    "Sensex closed up by over 480 points while Nifty topped the 22,750 mark on October 26.",
+    "Paytm reported a 10-fold jump in Q2FY27 net profit to ₹225 crore with revenue up 28%.",
+    "Dalmia Bharat posted a Q2 net loss of ₹205 crore due to an exceptional hit.",
+    "Sunteck Realty reported a 20% increase in H1FY27 net profit with pre-sales rising 19%."
   ],
   "stocksInNews": [
     {
@@ -24,7 +24,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        8
+        9
       ]
     },
     {
@@ -32,7 +32,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4
+        5
       ]
     },
     {
@@ -40,7 +40,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        7
+        8
       ]
     },
     {
@@ -60,20 +60,53 @@
       ]
     },
     {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Negative",
+      "symbol": "ZYDUSLIFE",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        15
+        1
+      ]
+    },
+    {
+      "symbol": "BEL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "CYIENT",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "IOB",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
       ]
     }
   ],
-  "summary": "Indian benchmark indices snapped a four-day losing streak as Sensex jumped over 480 points to close higher while Nifty moved past 22,700. Positive Q2 performance from Paytm and Sunteck Realty provided support to corporate sentiment. However, Dalmia Bharat posted a loss due to exceptional costs.",
-  "updatedAt": "2026-10-26T21:31:28.537Z",
+  "summary": "Indian benchmark indices snapped a four-day losing streak as Sensex gained over 480 points and Nifty reclaimed 22,750 levels. Value buying and robust Q2 results from Paytm supported market sentiment despite mixed corporate earnings. Dalmia Bharat reported losses while Sunteck Realty posted strong net profit growth.",
+  "updatedAt": "2026-10-26T22:01:51.288Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-27",
   "articleKeys": [
     "us markets today sampp nasdaq end higher as anthropic ipo filing revives ai optimism tesla hits 3 month high",
+    "buy sell or hold zydus lifesciences cyient bel shriram finance iob avanti feeds ask profit",
     "microsoft is offering buyouts to around 60000 employees reports say",
     "anthropic halts ai training for over a month over security concerns as models breach testing systems ahead of ipo",
     "anthropic ipo alphabet set to become largest shareholder amazon among biggest backers",
@@ -82,7 +115,6 @@
     "microsofts fiveyear pivot revenue doubles on clouds 100b milestone headcount shrinks",
     "dalmia bharat posts rs 205 crore q2 loss on exceptional hit",
     "paytm q2fy27 net profit jumps 10fold to 225 crore revenue up 28",
-    "chasing us capital indian ai startups weigh cost of moving amid challenges",
     "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india",
     "sensex today nifty 50 stock market highlights sensex snaps 4day losing run ends 483 pts higher nifty tops 22750 jsw steel rises 5 bse 4 the economic times",
     "trump hints at an iran attack or deal impact on india stock market sensex nifty gold decoded top 10 stocks to watch livemint",
@@ -100,6 +132,12 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-us-stocks-end-higher-as-anthropic-ipo-filing-revives-ai-optimism-tesla-hits-3-month-high/articleshow/135219329.cms",
       "publishedAt": "Tue, 27 Oct 2026 01:47:48 +0530"
+    },
+    {
+      "title": "Buy, Sell Or Hold: Zydus Lifesciences, Cyient, BEL, Shriram Finance, IOB, Avanti Feeds — Ask Profit",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-zydus-lifesciences-cyient-bel-shriram-finance-indian-overseas-bank-avanti-feeds-ask-profit-12222409#publisher=newsstand",
+      "publishedAt": "Tue, 27 Oct 2026 00:47:00 +0530"
     },
     {
       "title": "Microsoft is offering buyouts to around 60,000 employees, reports say",
@@ -148,12 +186,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/companies/quarterly-results/paytm-q2fy27-net-profit-jumps-10-fold-to-225-crore-revenue-up-28-126102601539_1.html",
       "publishedAt": "Mon, 26 Oct 2026 23:42:30 +0530"
-    },
-    {
-      "title": "Chasing US capital, Indian AI startups weigh cost of moving amid challenges",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/start-ups/chasing-us-capital-indian-ai-startups-weigh-cost-of-moving-amid-challenges-126102601084_1.html",
-      "publishedAt": "Mon, 26 Oct 2026 23:31:07 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
