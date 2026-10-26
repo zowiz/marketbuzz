@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Rebounds 483 Points to Snap 4-Day Losing Streak; Nifty Tops 22,750",
+  "headline": "Sensex and Nifty reverse early losses to end 0.7% higher, snapping four-day losing streak behind strong Q2 results",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,30 +7,37 @@
     "nextOpen": ""
   },
   "why": [
-    "Stock markets snapped a four-day slump as bargain buying emerged in key sectors.",
-    "Metal stocks saw strong buying interest, boosting benchmark indices higher.",
-    "Strong quarterly earnings reports boosted specific stocks such as Ather Energy and ITC Hotels.",
-    "Domestic indices recovered despite choppy trading and weakness in the Indian rupee."
+    "The stock market sharply reversed early trade losses to end nearly 0.7% higher",
+    "Strong Q2 financial results from major companies like Tata Consumer and Mankind Pharma boosted investor sentiment",
+    "JSW Steel and BSE saw significant gains of 5% and 4% respectively during the session",
+    "The Sensex snapped a four-day losing run to close 483 points higher"
   ],
   "whatHappening": [
-    "Sensex closed up 483 points at 73,606.75, while Nifty 50 rallied beyond 22,750.",
-    "JSW Steel advanced 5% and BSE gained 4% during the session.",
-    "Ather Energy stock jumped 19% following a turnaround to Q2 profit.",
-    "Rupee depreciated by 29 paise to close at 95.22 against the US dollar."
+    "Nifty 50 topped the 22,750 mark after a weak start to the trading day",
+    "The government is exploring ethanol blending beyond E20 through the use of flexi-fuel vehicles",
+    "Indian bonds gave up earlier gains as high global oil prices weighed on the debt market",
+    "Tamilnad Mercantile Bank reported a record quarterly profit of ₹451 crore"
   ],
   "stocksInNews": [
     {
-      "symbol": "JSWSTEEL",
+      "symbol": "TATACONSUM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/7 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        2,
-        9,
-        12
+        3,
+        9
       ]
     },
     {
-      "symbol": "ATHER",
+      "symbol": "MANKIND",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "TMB",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
@@ -38,11 +45,19 @@
       ]
     },
     {
-      "symbol": "OLAELEC",
-      "sentiment": "Neutral",
+      "symbol": "BRIGADE",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         7
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        12
       ]
     },
     {
@@ -52,55 +67,23 @@
       "articleIds": [
         12
       ]
-    },
-    {
-      "symbol": "ITCHOTELS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "DRREDDY",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "JIOFIN",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        17
-      ]
-    },
-    {
-      "symbol": "TATASTEEL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        17
-      ]
     }
   ],
-  "summary": "Indian benchmark equity indices rebounded strongly on Monday, ending a four-day losing streak as the Sensex gained 483 points to close above 73,600. Metal stocks spearheaded the market recovery with JSW Steel rising 5%, alongside major corporate moves including Ather Energy's 19% rally post-Q2 results. Meanwhile, the Indian rupee fell 29 paise to settle at 95.22 against the US dollar.",
-  "updatedAt": "2026-10-26T12:03:23.297Z",
+  "summary": "The Indian stock market staged a sharp recovery on October 26, with the Sensex and Nifty ending nearly 0.7% higher to snap a four-day losing streak. Gains were driven by strong Q2 earnings from Tata Consumer and Mankind Pharma, alongside a 5% surge in JSW Steel. Despite early volatility and pressure from high oil prices, the Nifty successfully reclaimed the 22,750 level.",
+  "updatedAt": "2026-10-26T13:01:56.487Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-26",
   "articleKeys": [
-    "itc hotels reports revenues of rs 1054 cr for q2 pat at rs 203 cr",
-    "rupee falls 29 paise to close at 9522 against us dollar",
-    "market wrap dr reddys jsw steel shriram finance tata consumer top gainers and losers on nifty and sensex on monday",
-    "stock markets rebound after fourday slump sensex jumps 483 points",
-    "global market european shares flat as investors assess earnings france turmoil",
-    "asiafocused banks face bond market risks ahead of q3 earnings",
-    "ather energy shares skyrocket 19 after ev maker swings to rs 126 crore profit in q2",
-    "softbank sells 121 crore ola electric rights entitlements as ev maker seeks to raise rs 1000 crore",
-    "the war bump is a false victory for sampp 500 profits",
-    "stock market close sensex ends choppy trade 483 points higher nifty at 23753 metal shares shine",
+    "government working to allow ethanol blending beyond e20 via flexifuel vehicles tarun kapoor",
+    "supreme court notice to ed on realty company promoters bail plea in home buyers fraud case",
+    "stock market sharply reverses early trade losses sensex nifty ends nearly 07 higher",
+    "tata consumer q2 results net profit rises 16 yoy to rs 470 crore revenue up 14",
+    "mankind pharma q2 pat rises 377 on strong domestic chronic business",
+    "us stock market live updates us stock futures steady as oil retreats ahead of earnings fed decision",
+    "tmb posts record 451crore profit braces for higher ecl provisioning",
+    "brigade enterprises signs hyatt hotels to manage two hotels in bengaluru",
+    "india bonds give up gains as high oil prices weigh",
+    "tata consumer products q2 results net profit revenue beat estimates margin expands to 14",
     "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india",
     "stock market today live october 26 sensex settles at 7360675 nifty rallies to 2275320 businessline",
     "sensex today nifty 50 stock market highlights sensex snaps 4day losing run ends 483 pts higher nifty tops 22750 jsw steel rises 5 bse 4 the economic times",
@@ -114,64 +97,64 @@
   ],
   "articles": [
     {
-      "title": "ITC Hotels reports revenues of Rs 1054 cr for Q2, PAT at Rs 203 cr",
+      "title": "Government working to allow ethanol blending beyond E20 via flexi-fuel vehicles: Tarun Kapoor",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-hotels-reports-revenues-of-rs-1054-cr-for-q2-pat-at-rs-203-cr/articleshow/135210456.cms",
-      "publishedAt": "Mon, 26 Oct 2026 16:50:39 +0530"
+      "link": "https://www.thehindu.com/business/government-working-to-allow-ethanol-blending-beyond-e20-via-flexi-fuel-vehicles-tarun-kapoor/article71447856.ece",
+      "publishedAt": "Mon, 26 Oct 2026 18:07:46 +0530"
     },
     {
-      "title": "Rupee falls 29 paise to close at 95.22 against U.S. dollar",
+      "title": "Supreme Court notice to ED on realty company promoter’s bail plea in home buyers’ fraud case",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/rupee-falls-29-paise-to-close-at-9522-against-us-dollar/article71626594.ece",
-      "publishedAt": "Mon, 26 Oct 2026 16:42:18 +0530"
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-notice-to-ed-on-realty-company-promoters-bail-plea-in-home-buyers-fraud-case/article71626703.ece",
+      "publishedAt": "Mon, 26 Oct 2026 18:05:50 +0530"
     },
     {
-      "title": "Market wrap: Dr Reddys, JSW Steel, Shriram Finance, Tata Consumer top gainers and losers on Nifty and Sensex on Monday",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-dr-reddys-jsw-steel-shriram-finance-tata-consumer-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/135209828.cms",
-      "publishedAt": "Mon, 26 Oct 2026 16:30:17 +0530"
-    },
-    {
-      "title": "Stock markets rebound after four-day slump; Sensex jumps 483 points",
+      "title": "Stock Market Sharply Reverses Early Trade Losses; Sensex, Nifty Ends Nearly 0.7% Higher",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Industry/stock-markets-rebound-after-four-day-slump-sensex-jumps-483-points/article71626525.ece",
-      "publishedAt": "Mon, 26 Oct 2026 16:26:20 +0530"
+      "publishedAt": "Mon, 26 Oct 2026 17:44:21 +0530"
     },
     {
-      "title": "Global Market: European shares flat as investors assess earnings, France turmoil",
+      "title": "Tata Consumer Q2 Results: Net profit rises 16% YoY to Rs 470 crore, revenue up 14%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-european-shares-flat-as-investors-assess-earnings-france-turmoil/articleshow/135209743.cms",
-      "publishedAt": "Mon, 26 Oct 2026 16:21:45 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-consumer-q2-results-net-profit-rises-16-yoy-to-rs-470-crore-revenue-up-14/articleshow/135211637.cms",
+      "publishedAt": "Mon, 26 Oct 2026 17:42:43 +0530"
     },
     {
-      "title": "Asia-focused banks face bond market risks ahead of Q3 earnings",
+      "title": "Mankind Pharma Q2 PAT rises 37.7% on strong domestic chronic business",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/asia-focused-banks-face-bond-market-risks-ahead-of-q3-earnings/articleshow/135209404.cms",
-      "publishedAt": "Mon, 26 Oct 2026 16:18:58 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/mankind-pharma-q2-pat-rises-37-7-on-strong-domestic-chronic-business-126102601083_1.html",
+      "publishedAt": "Mon, 26 Oct 2026 17:42:33 +0530"
     },
     {
-      "title": "Ather Energy shares skyrocket 19% after EV maker swings to Rs 1.26 crore profit in Q2",
+      "title": "US Stock Market Live Updates: US stock futures steady as oil retreats ahead of earnings, Fed decision",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-skyrocket-19-after-ev-maker-swings-to-rs-1-26-crore-profit-in-q2/articleshow/135209355.cms",
-      "publishedAt": "Mon, 26 Oct 2026 16:06:42 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-earnings-fed-rate-decision-treasury-yields-oil-prices-alphabet-microsoft-amazon-coreweave-nebius-news-26th-october-2026/liveblog/135211801.cms",
+      "publishedAt": "Mon, 26 Oct 2026 17:40:42 +0530"
     },
     {
-      "title": "SoftBank sells 1.21 crore Ola Electric rights entitlements as EV maker seeks to raise Rs 1,000 crore",
+      "title": "TMB  posts record ₹451-crore profit; braces for higher ECL provisioning",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-sells-1-21-crore-ola-electric-rights-entitlements-as-ev-maker-seeks-to-raise-rs-1000-crore/articleshow/135209308.cms",
-      "publishedAt": "Mon, 26 Oct 2026 16:04:38 +0530"
+      "link": "https://www.thehindu.com/business/tmb-posts-record-451-crore-profit-braces-for-higher-ecl-provisioning/article71626713.ece",
+      "publishedAt": "Mon, 26 Oct 2026 17:26:13 +0530"
     },
     {
-      "title": "The war bump is a false victory for S&amp;P 500 profits",
+      "title": "Brigade Enterprises signs Hyatt Hotels to manage two hotels in Bengaluru",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-war-bump-is-a-false-victory-for-sp-500-profits/articleshow/135209183.cms",
-      "publishedAt": "Mon, 26 Oct 2026 16:01:42 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/brigade-enterprises-signs-hyatt-hotels-to-manage-two-hotels-in-bengaluru/articleshow/135211293.cms",
+      "publishedAt": "Mon, 26 Oct 2026 17:23:07 +0530"
     },
     {
-      "title": "Stock Market Close: Sensex ends choppy trade 483 points higher, Nifty at 23,753; metal shares shine",
+      "title": "India bonds give up gains as high oil prices weigh",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-26-nse-bse-sensex-today-nifty50-gift-nifty-brent-crude-oil-prices-eaa-india-ipo-126102600053_1.html",
-      "publishedAt": "Mon, 26 Oct 2026 15:41:28 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-gains-as-high-oil-prices-weigh/articleshow/135211224.cms",
+      "publishedAt": "Mon, 26 Oct 2026 17:21:01 +0530"
+    },
+    {
+      "title": "Tata Consumer Products Q2 Results: Net Profit, Revenue Beat Estimates; Margin Expands To 14%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/tata-consumer-products-q2-results-net-profit-revenue-beat-estimates-margin-expands-to-14-12237680#publisher=newsstand",
+      "publishedAt": "Mon, 26 Oct 2026 17:12:49 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
