@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex jumps 500 points as Indian markets snap four-day losing streak to close above 22,750",
+  "headline": "Sensex and Nifty Snap Four-Day Losing Streak to Close Higher Amid Strong Bank Earnings",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,20 @@
     "nextOpen": ""
   },
   "why": [
-    "Indian equities snapped a four-day losing streak backed by buying in key heavyweight stocks.",
-    "Early trade faced headwinds from weak Asian market cues and elevated crude oil prices.",
-    "Geopolitical tensions in the Middle East initially kept investor sentiment cautious.",
-    "Strong Q2 earnings updates provided support to individual stocks during trade."
+    "Strong Q2 financial results from major banks including Tamilnad Mercantile Bank, IOB, and Bank of Maharashtra",
+    "Markets snapped a four-day losing streak with a significant late-session recovery",
+    "Positive performance from heavyweight stocks like Kotak Mahindra Bank and Sun Pharma",
+    "Nifty managed to settle above the 22,750 mark despite early morning volatility and weak Asian cues"
   ],
   "whatHappening": [
-    "Sensex recovered early losses to close 500 points higher, while Nifty ended above 22,750.",
-    "Bank of Maharashtra posted a 41% increase in Q2 net profit reaching ₹2,310 crore.",
-    "Tata Consumer Products recorded a 16% growth in net profit as Nazara Tech turned profitable.",
-    "Kotak Mahindra Bank and Sun Pharma featured among the top gainers during the session."
+    "Sensex settled approximately 500 points higher after recovering from early trade declines",
+    "Indian Overseas Bank announced plans to raise $500 million following a 56% jump in quarterly profit",
+    "Smallcap stocks faced selling pressure due to shrinking leveraged positions in the Margin Trading Facility",
+    "Early market weakness was driven by high oil prices and geopolitical tensions in the Middle East"
   ],
   "stocksInNews": [
     {
-      "symbol": "MAHABANK",
+      "symbol": "TMBANK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
@@ -28,20 +28,19 @@
       ]
     },
     {
-      "symbol": "TATACONSUM",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/10 sources",
-      "articleIds": [
-        6,
-        19
-      ]
-    },
-    {
-      "symbol": "NAZARA",
+      "symbol": "IOB",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        6
+        2
+      ]
+    },
+    {
+      "symbol": "MAHABANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        5
       ]
     },
     {
@@ -83,23 +82,31 @@
       "articleIds": [
         19
       ]
+    },
+    {
+      "symbol": "TATACONSUM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        19
+      ]
     }
   ],
-  "summary": "Indian benchmark indices rebounded sharply from early losses to snap a four-day losing streak on October 26.\nSensex ended around 500 points higher and Nifty closed above 22,750 despite geopolitical tensions and high oil prices.\nPositive Q2 quarterly results from Bank of Maharashtra, Tata Consumer, and Nazara Tech boosted market performance.",
-  "updatedAt": "2026-10-26T15:24:37.920Z",
+  "summary": "Indian markets ended Monday on a positive note as the Sensex gained nearly 500 points, breaking a four-day decline. The rally was supported by robust Q2 earnings from the banking sector and gains in pharma stocks. While largecaps recovered, smallcap stocks remained under pressure due to concerns over leveraged positions.",
+  "updatedAt": "2026-10-26T15:49:06.513Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-26",
   "articleKeys": [
-    "bank of maharashtra q2 net jumps 41 to 2310 crore",
-    "artificial intelligence giant anthropic files for initial public offering",
-    "brigade hotel ventures net profit doubles to 22 crore in q2 fy27",
-    "anthropic ipo rising costs risks rapid growth mark ai frontrunner",
-    "anthropics top investors include amazon google fidelity management",
-    "anthropics filing for blockbuster us ipo shows key executives and board",
-    "q2 results today live updates nazara tech swings to profit tata consumer net profit rises 16",
-    "kawasaki z300 arrives in india with ninja 300 engine check price specs and key features",
-    "mumbai local trains disruption signalling system on all 4 suburban railway lines restored at kanjurmarg",
-    "us stock market today dow jones nasdaq jump on anthropic ipo interest falling oil prices",
+    "tamilnad mercantile bank q2 results net profit rises 42 to record rs 451 crore on high net interest income",
+    "malayalam telugu tamil ott releases this week baththa immortal thella kaagitham heres what to watch",
+    "indian overseas bank to raise 500 million as q2 profit jumps 56",
+    "lanxess hindustan colas collaborate to advance road construction technologies in india",
+    "mmt reports net profit of 18 million in q2 revenues at 2352 million",
+    "bank of maharashtra q2 profit jumps 415 as bad loans decline",
+    "the rs 15 lakh crore mtf problem how shrinking leveraged positions are deepening indias smallcap selloff",
+    "msmes seek improvement of electricity infrastructure in coimbatore district",
+    "man utd crisis bruno fernandes instagram like draws attention",
+    "anthropic ipo 5 jawdropping numbers investors need to know about 15 trillion public offer",
     "mindboggling monday at indian stock markets sensex nifty mirror lifes ups and downs october 26 trade details livemint",
     "sensex nifty fall as asia weak oil high middle east tense hdfc sky",
     "sensex today trades higher nifty above 22600 kotak mahindra sun pharma top gainers equitymaster",
@@ -113,64 +120,64 @@
   ],
   "articles": [
     {
-      "title": "Bank of Maharashtra Q2 net jumps 41% to ₹2,310 crore",
+      "title": "Tamilnad Mercantile Bank Q2 Results: Net profit rises 42% to record Rs 451 crore on high net interest income",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/bank-of-maharashtra-q2-net-jumps-41-to-2310-crore/article71627623.ece",
-      "publishedAt": "Mon, 26 Oct 2026 20:12:20 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tamilnad-mercantile-bank-q2-results-net-profit-rises-42-to-record-rs-451-crore-on-high-net-interest-income/articleshow/135214844.cms",
+      "publishedAt": "Mon, 26 Oct 2026 20:56:51 +0530"
     },
     {
-      "title": "Artificial Intelligence giant Anthropic files for Initial Public Offering",
+      "title": "Malayalam, Telugu, Tamil OTT Releases This Week: Baththa, Immortal, Thella Kaagitham — Here's What To Watch",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece",
-      "publishedAt": "Mon, 26 Oct 2026 20:10:45 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/malayalam-telugu-tamil-ott-releases-this-week-baththa-immortal-thella-kaagitham-here-is-what-to-watch-12238874#publisher=newsstand",
+      "publishedAt": "Mon, 26 Oct 2026 20:45:55 +0530"
     },
     {
-      "title": "Brigade Hotel Ventures' net profit doubles to ₹22 crore in Q2 FY27",
+      "title": "Indian Overseas Bank to raise $500 million as Q2 profit jumps 56%",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/brigade-hotel-ventures-net-profit-doubles-to-22-crore-in-q2-fy27-126102601369_1.html",
-      "publishedAt": "Mon, 26 Oct 2026 19:46:23 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-overseas-bank-to-raise-500-million-as-q2-profit-jumps-56/articleshow/135214567.cms",
+      "publishedAt": "Mon, 26 Oct 2026 20:44:37 +0530"
     },
     {
-      "title": "Anthropic IPO: Rising costs, risks, rapid growth mark AI frontrunner",
+      "title": "LANXESS, Hindustan Colas collaborate to advance road construction technologies in India",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-rising-costs-risks-rapid-growth-market-ai-frontrunner/articleshow/135213738.cms",
-      "publishedAt": "Mon, 26 Oct 2026 19:43:20 +0530"
+      "link": "https://www.thehindu.com/business/lanxess-hindustan-colas-collaborate-to-advance-road-construction-technologies-in-india/article71627950.ece",
+      "publishedAt": "Mon, 26 Oct 2026 20:37:06 +0530"
     },
     {
-      "title": "Anthropic's top investors include Amazon, Google, Fidelity Management",
+      "title": "MMT reports net profit of $1.8 million in Q2, revenues at $ 235.2 million",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-top-investors-include-amazon-google-fidelity-management/articleshow/135213715.cms",
-      "publishedAt": "Mon, 26 Oct 2026 19:41:06 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mmt-reports-net-profit-of-1-8-million-in-q2-revenues-at-235-2-million/articleshow/135214497.cms",
+      "publishedAt": "Mon, 26 Oct 2026 20:36:23 +0530"
     },
     {
-      "title": "Anthropic's filing for blockbuster US IPO shows key executives and board",
+      "title": "Bank of Maharashtra Q2 profit jumps 41.5% as bad loans decline",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-filing-for-blockbuster-us-ipo-shows-key-executives-and-board/articleshow/135213686.cms",
-      "publishedAt": "Mon, 26 Oct 2026 19:38:53 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-maharashtra-q2-profit-jumps-41-5-as-bad-loans-decline/articleshow/135214440.cms",
+      "publishedAt": "Mon, 26 Oct 2026 20:34:08 +0530"
     },
     {
-      "title": "Q2 Results Today LIVE Updates: Nazara Tech Swings To Profit; Tata Consumer Net Profit Rises 16%",
+      "title": "The Rs 1.5 lakh crore MTF problem: How shrinking leveraged positions are deepening India's smallcap sell-off",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-today-live-paytm-tata-consumer-itc-hotels-rec-others-to-declare-quarterly-earnings-on-26-october-2026-12236066#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 19:32:47 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-rs-1-5-lakh-crore-mtf-problem-how-shrinking-leveraged-positions-are-deepening-indias-smallcap-sell-off/articleshow/135214401.cms",
+      "publishedAt": "Mon, 26 Oct 2026 20:31:48 +0530"
     },
     {
-      "title": "Kawasaki Z300 Arrives In India With Ninja 300 Engine: Check Price, Specs And Key Features",
+      "title": "MSMEs seek improvement of electricity infrastructure in Coimbatore district",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/kawasaki-z300-arrives-in-india-with-ninja-300-engine-check-price-specs-and-key-features-12238512#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 19:32:01 +0530"
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/msmes-seek-improvement-of-electricity-infrastructure-in-coimbatore-district/article71627860.ece",
+      "publishedAt": "Mon, 26 Oct 2026 20:31:04 +0530"
     },
     {
-      "title": "Mumbai Local Trains Disruption: Signalling System On All 4 Suburban Railway Lines Restored At Kanjurmarg",
+      "title": "Man Utd Crisis: Bruno Fernandes' Instagram Like Draws Attention",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/mumbai-local-trains-disruption-signalling-system-on-all-4-suburban-railway-lines-restored-at-kanjurmarg-12238655#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 19:31:30 +0530"
+      "link": "https://www.ndtvprofit.com/sports/man-utd-crisis-bruno-fernandes-instagram-like-draws-attention-12239010#publisher=newsstand",
+      "publishedAt": "Mon, 26 Oct 2026 20:30:49 +0530"
     },
     {
-      "title": "US Stock Market Today: Dow Jones, Nasdaq Jump On Anthropic IPO Interest, Falling Oil Prices",
+      "title": "Anthropic IPO: 5 jaw-dropping numbers investors need to know about $1.5 trillion public offer",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/us-stock-market-today-dow-jones-nasdaq-jump-on-anthropic-ipo-interest-falling-oil-prices-12238521#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 19:28:56 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-5-jaw-dropping-numbers-investors-need-to-know-about-1-5-trillion-public-offer/articleshow/135214380.cms",
+      "publishedAt": "Mon, 26 Oct 2026 20:28:19 +0530"
     },
     {
       "title": "Mind-boggling Monday at Indian stock markets: Sensex, Nifty mirror life’s ups and downs — October 26 trade details - Livemint",
