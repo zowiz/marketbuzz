@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty snap losing streak as Paytm and Sunteck Realty report strong earnings amid Tata leadership friction",
+  "headline": "Sensex snaps losing streak as Paytm and Sunteck Realty report strong earnings growth",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Strong quarterly earnings from Paytm and Sunteck Realty boosted investor sentiment",
-    "Sensex snapped a four-day losing run to close over 480 points higher",
-    "JSW Steel and Sun Pharma led gains in the market recovery",
-    "Positive momentum in the financial and real estate sectors offset global cues"
+    "The Sensex ended a four-day losing streak, closing 480 points higher to reclaim the 22,700 level.",
+    "Paytm reported a massive 10-fold jump in Q2 net profit to ₹225 crore.",
+    "Sunteck Realty posted a 20% rise in H1FY27 net profit with strong pre-sales growth.",
+    "Positive momentum in heavyweights like JSW Steel, BSE, and Kotak Mahindra Bank supported the recovery."
   ],
   "whatHappening": [
-    "Paytm reported a 10-fold jump in net profit to ₹225 crore for Q2FY27",
-    "Sunteck Realty's H1FY27 net profit rose 20% with a 19% increase in pre-sales",
-    "Dalmia Bharat posted a Q2 loss of ₹205 crore due to an exceptional hit",
-    "Noel Tata has formally challenged the reappointment of N. Chandrasekaran as Tata Sons chairman"
+    "Dalmia Bharat reported a Q2 loss of ₹205 crore due to an exceptional hit.",
+    "JSW Steel and BSE shares surged by 5% and 4% respectively during the latest trading session.",
+    "Blue Energy Motors has launched a battery-swap station for heavy electric trucks near Mumbai.",
+    "Indian AI startups are evaluating the costs and challenges of moving operations to the US for capital."
   ],
   "stocksInNews": [
     {
@@ -24,8 +24,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        2,
-        6
+        7
       ]
     },
     {
@@ -33,7 +32,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        3
       ]
     },
     {
@@ -41,7 +40,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        1
+        6
       ]
     },
     {
@@ -75,32 +74,23 @@
       "articleIds": [
         18
       ]
-    },
-    {
-      "symbol": "TATASTEEL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        7,
-        9
-      ]
     }
   ],
-  "summary": "Indian markets rebounded on Monday as the Sensex gained 480 points, ending a four-day decline with Nifty crossing the 22,700 mark. Corporate earnings were a highlight, with Paytm and Sunteck Realty posting strong growth while Dalmia Bharat struggled with exceptional losses. Internal conflict at Tata Sons emerged as Noel Tata challenged the chairman's reappointment, potentially impacting group stocks.",
-  "updatedAt": "2026-10-26T18:59:00.987Z",
+  "summary": "Indian markets rebounded as the Sensex gained 480 points, ending a four-day losing run. Strong quarterly results from Paytm and Sunteck Realty boosted investor confidence despite a weak start. While most sectors saw gains, Dalmia Bharat faced pressure following a reported quarterly loss.",
+  "updatedAt": "2026-10-26T20:01:52.210Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-27",
   "articleKeys": [
+    "microsoft is offering buyouts to around 60000 employees reports say",
+    "anthropic halts ai training for over a month over security concerns as models breach testing systems ahead of ipo",
+    "anthropic ipo alphabet set to become largest shareholder amazon among biggest backers",
     "sunteck realty h1fy27 net profit rises 20 presales up 19",
+    "blue energy motors opens batteryswap station for ev heavy trucks near mumbai",
+    "microsofts fiveyear pivot revenue doubles on clouds 100b milestone headcount shrinks",
     "dalmia bharat posts rs 205 crore q2 loss on exceptional hit",
     "paytm q2fy27 net profit jumps 10fold to 225 crore revenue up 28",
     "chasing us capital indian ai startups weigh cost of moving amid challenges",
-    "udta teer box office collection day 4 ayushmann khurranasara ali khan starrer crosses rs 25 crore in india",
-    "ather reports 126 cr profit in sep qtr plans to further boost capacity",
-    "paytm guides 23 quarter horizon for upi mdr transition to stabilise after strong q2 show",
-    "noel tata writes to tata sons challenging chandras reappointment seeks disclosure of venu srinivasans tvs links",
-    "microsoft offers voluntary exit to 60k employees in india 3 other nations",
-    "noel tata challenges resolution to reappoint chandra as tata sons chairman",
+    "prahaar box office collection day 11 rajkummar rao starrer nears rs 25 crore mark will it cross it",
     "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india",
     "sensex today nifty 50 stock market highlights sensex snaps 4day losing run ends 483 pts higher nifty tops 22750 jsw steel rises 5 bse 4 the economic times",
     "trump hints at an iran attack or deal impact on india stock market sensex nifty gold decoded top 10 stocks to watch livemint",
@@ -114,10 +104,40 @@
   ],
   "articles": [
     {
+      "title": "Microsoft is offering buyouts to around 60,000 employees, reports say",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/microsoft-is-offering-buyouts-to-around-60000-employees-reports-say/article71628658.ece",
+      "publishedAt": "Tue, 27 Oct 2026 00:24:57 +0530"
+    },
+    {
+      "title": "Anthropic halts AI training for over a month over security concerns as models breach testing systems ahead of IPO",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-halts-ai-training-for-over-a-month-over-security-concerns-as-models-breach-testing-systems/articleshow/135218073.cms",
+      "publishedAt": "Tue, 27 Oct 2026 00:08:35 +0530"
+    },
+    {
+      "title": "Anthropic IPO: Alphabet Set To Become Largest Shareholder, Amazon Among Biggest Backers",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/anthropic-ipo-alphabet-set-to-become-largest-shareholder-amazon-among-biggest-backers-12239858#publisher=newsstand",
+      "publishedAt": "Tue, 27 Oct 2026 00:07:16 +0530"
+    },
+    {
       "title": "Sunteck Realty H1FY27 net profit rises 20%, pre-sales up 19%",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sunteck-realty-h1fy27-net-profit-rises-20-pre-sales-up-19/articleshow/135217893.cms",
       "publishedAt": "Mon, 26 Oct 2026 23:58:06 +0530"
+    },
+    {
+      "title": "Blue Energy Motors Opens Battery-Swap Station For EV Heavy Trucks Near Mumbai",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/blue-energy-motors-opens-battery-swap-station-for-ev-heavy-trucks-near-mumbai-12239825#publisher=newsstand",
+      "publishedAt": "Mon, 26 Oct 2026 23:52:48 +0530"
+    },
+    {
+      "title": "Microsoft's Five-Year Pivot: Revenue Doubles On Cloud's $100B Milestone, Headcount Shrinks",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/microsofts-five-year-pivot-revenue-doubles-on-clouds-100b-milestone-headcount-shrinks-12239826#publisher=newsstand",
+      "publishedAt": "Mon, 26 Oct 2026 23:51:11 +0530"
     },
     {
       "title": "Dalmia Bharat posts Rs 205 crore Q2 loss on exceptional hit",
@@ -138,40 +158,10 @@
       "publishedAt": "Mon, 26 Oct 2026 23:31:07 +0530"
     },
     {
-      "title": "Udta Teer Box Office Collection Day 4: Ayushmann Khurrana-Sara Ali Khan Starrer Crosses Rs 25 Crore In India",
+      "title": "Prahaar Box Office Collection Day 11: Rajkummar Rao Starrer Nears Rs 25 Crore Mark, Will It Cross It?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/udta-teer-box-office-collection-day-4-ayushmann-khurrana-sara-ali-khan-starrer-crosses-rs-25-crore-in-india-12239676#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 23:14:53 +0530"
-    },
-    {
-      "title": "Ather reports ₹1.26 cr profit in Sep qtr, plans to further boost capacity",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/ather-reports-1-26-cr-profit-in-sep-qtr-plans-to-further-boost-capacity-126102601655_1.html",
-      "publishedAt": "Mon, 26 Oct 2026 23:14:05 +0530"
-    },
-    {
-      "title": "Paytm Guides 2-3 Quarter Horizon For UPI MDR Transition To Stabilise After Strong Q2 Show",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/paytm-guides-2-3-quarter-horizon-for-upi-mdr-transition-to-stabilise-after-strong-q2-show-12239640#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 23:11:59 +0530"
-    },
-    {
-      "title": "Noel Tata Writes To Tata Sons Challenging Chandra's Reappointment, Seeks Disclosure Of Venu Srinivasan's TVS Links",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/noel-tata-writes-to-tata-sons-challenging-chandras-reappointment-flags-conflict-of-interest-in-venu-srinivasans-tvs-motor-links-12239699#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 23:10:30 +0530"
-    },
-    {
-      "title": "Microsoft offers voluntary exit to 60K employees in India, 3 other nations",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/technology/tech-news/microsoft-offers-buyouts-to-60-000-employees-globally-to-contain-costs-126102601648_1.html",
-      "publishedAt": "Mon, 26 Oct 2026 23:09:46 +0530"
-    },
-    {
-      "title": "Noel Tata challenges resolution to reappoint Chandra as Tata Sons chairman",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/noel-tata-challenges-resolution-to-reappoint-chandra-as-tata-sons-chairman-126102601651_1.html",
-      "publishedAt": "Mon, 26 Oct 2026 23:09:13 +0530"
+      "link": "https://www.ndtvprofit.com/business/prahaar-box-office-collection-day-11-rajkummar-rao-starrer-nears-rs-25-crore-mark-will-it-cross-it-12239738#publisher=newsstand",
+      "publishedAt": "Mon, 26 Oct 2026 23:24:32 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
