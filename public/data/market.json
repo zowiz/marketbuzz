@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex snaps losing streak to end 480 points higher; Paytm and banking stocks surge on strong Q2 results",
+  "headline": "Sensex snaps four-day losing streak, rises 483 points as Nifty crosses 22,750 on market rebound",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,48 +7,24 @@
     "nextOpen": ""
   },
   "why": [
-    "Paytm reported a massive 976% YoY profit jump in its Q2 results",
-    "Indian Overseas Bank and Tamilnad Mercantile Bank posted strong profit growth and record earnings",
-    "The Sensex snapped a four-day losing streak, recovering over 480 points",
-    "JSW Steel and BSE shares saw significant gains of 4-5% during the session"
+    "Sensex snapped its four-day losing streak, closing over 480 points higher after a weak morning start.",
+    "Strong buying interest in key heavyweights including JSW Steel, BSE, Kotak Mahindra Bank, and Sun Pharma propelled indices.",
+    "Positive corporate earnings and announcements, including a 56% net profit jump for Indian Overseas Bank, boosted market sentiment.",
+    "Indices recovered despite ongoing Middle East tensions and volatile global cues affecting crude oil markets."
   ],
   "whatHappening": [
-    "The Nifty 50 index closed above the 22,700 mark after a volatile start to the week",
-    "BPCL is shifting its crude oil sourcing towards the Middle East as Russian oil discounts narrow",
-    "Tata Consumer Products reported a 16% rise in net profit for the second quarter",
-    "Over 100 sugar mills have commenced production across India for the current season"
+    "Dalal Street experienced intraday volatility before making a strong recovery to close in the green.",
+    "Tata Communications announced plans to invest ₹4,350 crore into a 10,000-km AI data centre network.",
+    "CCPA penalized Britannia Industries ₹1 lakh over mislabeling claims on its whole wheat bread product.",
+    "BPCL shifted crude oil sourcing towards the Middle East as Russian oil discounts narrowed."
   ],
   "stocksInNews": [
     {
-      "symbol": "BPCL",
-      "sentiment": "Neutral",
+      "symbol": "BRITANNIA",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "PAYTM",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "TATACONSUM",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "TMB",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        6
+        2
       ]
     },
     {
@@ -56,7 +32,23 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        8
+        4
+      ]
+    },
+    {
+      "symbol": "TATACOMM",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
       ]
     },
     {
@@ -80,7 +72,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        19
+        18
       ]
     },
     {
@@ -88,25 +80,25 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        19
+        18
       ]
     }
   ],
-  "summary": "The Indian stock market ended higher on October 26, with the Sensex gaining 480 points to snap a four-day losing streak. Strong Q2 earnings from Paytm, Tata Consumer, and various banks like IOB and TMB drove the positive momentum. Major gainers included JSW Steel, BSE, Kotak Mahindra Bank, and Sun Pharma as Nifty reclaimed the 22,700 level.",
-  "updatedAt": "2026-10-26T17:01:52.115Z",
+  "summary": "Indian benchmark indices rebounded sharply on Monday, with Sensex snapping a four-day losing streak to close up 483 points while Nifty crossed 22,750.\nKey gainers like JSW Steel, BSE, Kotak Mahindra Bank, and Sun Pharma led the market rally despite earlier weak cues from Asian markets.\nCorporate earnings and major capital investment announcements kept individual stocks in focus throughout the trading session.",
+  "updatedAt": "2026-10-26T18:01:48.416Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-26",
   "articleKeys": [
+    "microsoft offers voluntary exit to 60k employees in india 3 other nations",
+    "noel tata challenges resolution to reappoint chandra as tata sons chairman",
+    "ccpa fines britannia 1 lakh over 100 whole wheat bread claim product contains only 62 wheat",
+    "indian shipyards double delivery pipeline but still hold only 05 of global orders",
+    "iob net profit up 56 pc at 196267 crore in september quarter bank plans to launch qip in q4",
+    "tata communications to invest 4350 crore in 10000km ai data centre network",
+    "ahead of market 10 things that will decide stock market action on tuesday",
     "bpcl shifts crude sourcing towards middle east as russian oil loses price edge",
     "anthropic vs openai how claude makers growth is challenging chatgpt ahead of ipo",
-    "over 100 mills commence sugar production",
-    "paytm q2 results profit rockets 976 yoy to rs 226 crore revenue jumps 28",
-    "india us finetuning trade agreement most discussions over goyal",
-    "tata consumer products q2 net profit rises 16 to 469 cr sales up 14",
-    "tamilnad mercantile bank q2 results net profit rises 42 to record rs 451 crore on high net interest income",
-    "malayalam telugu tamil ott releases this week baththa immortal thella kaagitham heres what to watch",
-    "indian overseas bank to raise 500 million as q2 profit jumps 56",
-    "lanxess hindustan colas collaborate to advance road construction technologies in india",
+    "eci tells sc sir declaration did not alter form 6 denies unilateral moves",
     "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india",
     "sensex today nifty 50 stock market highlights sensex snaps 4day losing run ends 483 pts higher nifty tops 22750 jsw steel rises 5 bse 4 the economic times",
     "trump hints at an iran attack or deal impact on india stock market sensex nifty gold decoded top 10 stocks to watch livemint",
@@ -115,10 +107,52 @@
     "stock market today highlights october 21 sensex drops over 400 pts nifty at 22700 eternal bajaj fin lead losers businessline",
     "stock market today trade guide for sensex nifty 50 crude oil and gold seven stocks to buy livemint",
     "mindboggling monday at indian stock markets sensex nifty mirror lifes ups and downs october 26 trade details livemint",
-    "sensex nifty fall as asia weak oil high middle east tense hdfc sky",
-    "sensex today trades higher nifty above 22600 kotak mahindra sun pharma top gainers equitymaster"
+    "sensex today trades higher nifty above 22600 kotak mahindra sun pharma top gainers equitymaster",
+    "sensex nifty fall as asia weak oil high middle east tense hdfc sky"
   ],
   "articles": [
+    {
+      "title": "Microsoft offers voluntary exit to 60K employees in India, 3 other nations",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/technology/tech-news/microsoft-offers-buyouts-to-60-000-employees-globally-to-contain-costs-126102601648_1.html",
+      "publishedAt": "Mon, 26 Oct 2026 23:09:46 +0530"
+    },
+    {
+      "title": "Noel Tata challenges resolution to reappoint Chandra as Tata Sons chairman",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/noel-tata-challenges-resolution-to-reappoint-chandra-as-tata-sons-chairman-126102601651_1.html",
+      "publishedAt": "Mon, 26 Oct 2026 23:09:13 +0530"
+    },
+    {
+      "title": "CCPA fines Britannia ₹1 lakh over '100% whole wheat bread' claim; product contains only 62% wheat",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece",
+      "publishedAt": "Mon, 26 Oct 2026 22:49:44 +0530"
+    },
+    {
+      "title": "Indian shipyards double delivery pipeline, but still hold only 0.5% of global orders",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/indian-shipyards-double-delivery-pipeline-but-still-hold-only-05-of-global-orders/article71611530.ece",
+      "publishedAt": "Mon, 26 Oct 2026 22:39:05 +0530"
+    },
+    {
+      "title": "IOB net profit up 56 pc at ₹1,962.67 crore in September quarter, bank plans to launch QIP in Q4",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/iob-net-profit-up-56-pc-at-196267-crore-in-september-quarter-bank-plans-to-launch-qip-in-q4/article71628517.ece",
+      "publishedAt": "Mon, 26 Oct 2026 22:36:12 +0530"
+    },
+    {
+      "title": "Tata Communications to invest ₹4,350 crore in 10,000-km AI data centre network",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/tata-communications-to-invest-4350-crore-in-10000-km-ai-data-centre-network/article71627916.ece",
+      "publishedAt": "Mon, 26 Oct 2026 22:24:13 +0530"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/135215629.cms",
+      "publishedAt": "Mon, 26 Oct 2026 22:08:34 +0530"
+    },
     {
       "title": "BPCL shifts crude sourcing towards Middle East as Russian oil loses price edge",
       "source": "Zerodha Pulse",
@@ -132,52 +166,10 @@
       "publishedAt": "Mon, 26 Oct 2026 21:57:14 +0530"
     },
     {
-      "title": "Over 100 mills commence sugar production",
+      "title": "ECI tells SC SIR declaration did not alter Form 6, denies unilateral moves",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/over-100-mills-commence-sugar-production/article71627689.ece",
-      "publishedAt": "Mon, 26 Oct 2026 21:28:20 +0530"
-    },
-    {
-      "title": "Paytm Q2 Results: Profit rockets 976% YoY to Rs 226 crore, revenue jumps 28%",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q2-results-profit-rockets-976-yoy-to-rs-226-crore-revenue-jumps-28/articleshow/135214973.cms",
-      "publishedAt": "Mon, 26 Oct 2026 21:15:42 +0530"
-    },
-    {
-      "title": "India, US fine-tuning trade agreement; most discussions over: Goyal",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/india-us-fine-tuning-trade-agreement-most-discussions-over-goyal-126102601056_1.html",
-      "publishedAt": "Mon, 26 Oct 2026 21:15:18 +0530"
-    },
-    {
-      "title": "Tata Consumer Products Q2 net profit rises 16% to ₹469 cr, sales up 14%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/tata-consumer-products-q2-net-profit-rises-16-to-469-cr-sales-up-14-126102601505_1.html",
-      "publishedAt": "Mon, 26 Oct 2026 21:13:44 +0530"
-    },
-    {
-      "title": "Tamilnad Mercantile Bank Q2 Results: Net profit rises 42% to record Rs 451 crore on high net interest income",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tamilnad-mercantile-bank-q2-results-net-profit-rises-42-to-record-rs-451-crore-on-high-net-interest-income/articleshow/135214844.cms",
-      "publishedAt": "Mon, 26 Oct 2026 20:56:51 +0530"
-    },
-    {
-      "title": "Malayalam, Telugu, Tamil OTT Releases This Week: Baththa, Immortal, Thella Kaagitham — Here's What To Watch",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/malayalam-telugu-tamil-ott-releases-this-week-baththa-immortal-thella-kaagitham-here-is-what-to-watch-12238874#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 20:45:55 +0530"
-    },
-    {
-      "title": "Indian Overseas Bank to raise $500 million as Q2 profit jumps 56%",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-overseas-bank-to-raise-500-million-as-q2-profit-jumps-56/articleshow/135214567.cms",
-      "publishedAt": "Mon, 26 Oct 2026 20:44:37 +0530"
-    },
-    {
-      "title": "LANXESS, Hindustan Colas collaborate to advance road construction technologies in India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/lanxess-hindustan-colas-collaborate-to-advance-road-construction-technologies-in-india/article71627950.ece",
-      "publishedAt": "Mon, 26 Oct 2026 20:37:06 +0530"
+      "link": "https://www.business-standard.com/india-news/eci-tells-sc-sir-declaration-did-not-alter-form-6-denies-unilateral-moves-126102601528_1.html",
+      "publishedAt": "Mon, 26 Oct 2026 21:51:06 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
@@ -228,16 +220,16 @@
       "publishedAt": "Mon, 26 Oct 2026 10:51:29 GMT"
     },
     {
-      "title": "Sensex, Nifty Fall as Asia Weak, Oil High, Middle East Tense - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazhhQm5RMlJLbUlRVk9rRGNnbi1Ya1lJVmJvU0FJOFNxd0dQZTlpRWZ4ZGQzUDQtVHR2ams4T3FGV24yYzZoMGU0VFpNTk9WLUdRQjFZWEJVaXhXTzBsMEI3ckVCWHp5c1lnSFltU1NJQWpFRC1nTFdNYjRDMW55Nm9oMEo1YWxTLVlXX3VwMUVhUk50SmprRUdsdW5vNFRKa3pEa3J5M29yOUFlUl8wWDZVOUFNeE9Ic3BZOHRxT1k3bloyTkZN?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 04:51:24 GMT"
-    },
-    {
       "title": "Sensex Today Trades Higher | Nifty Above 22,600 | Kotak Mahindra & Sun Pharma Top Gainers - Equitymaster",
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbi0tSVlUd2QyOVhtbDZQSGlmMlB2T3dvMUlWeVBBekx0MXhOWklDQ0dJc2VpYzNMaTFiV2lMY3hNOU84OXdiaDBsR29RdnhYQkpLZnZKdlUxeHdnLS1aVTd0a2ZDU0wxZDRBM3pzaG1HSGFDU3FXN043enpROHF5WU5HM25PUXRRV1liZ2ttS0E2VTNEaDAwRnN5Wkx5dENMMHM1NkdvQ3JnaWhLVjE1Mnc3S3c5MmtBOXotVkxUd1BrY3Uxc3BXcUk4VmI4UkE0dnpWQnBwVEFYLVN4bTJKNzItWTJjamltMlNlemJUMWl4ZHYyQUJYeEZZaHRsOWpqU1NISEMzdnNyMmxCSG90d2tDOUU2b09saXdCblVXTklSUVg2a1ExYWZfZEliUVVFNWt0Q01OX3hKcU00Mmk4V2tyOA?oc=5",
       "publishedAt": "Mon, 26 Oct 2026 04:50:24 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Fall as Asia Weak, Oil High, Middle East Tense - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNazhhQm5RMlJLbUlRVk9rRGNnbi1Ya1lJVmJvU0FJOFNxd0dQZTlpRWZ4ZGQzUDQtVHR2ams4T3FGV24yYzZoMGU0VFpNTk9WLUdRQjFZWEJVaXhXTzBsMEI3ckVCWHp5c1lnSFltU1NJQWpFRC1nTFdNYjRDMW55Nm9oMEo1YWxTLVlXX3VwMUVhUk50SmprRUdsdW5vNFRKa3pEa3J5M29yOUFlUl8wWDZVOUFNeE9Ic3BZOHRxT1k3bloyTkZN?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 04:51:24 GMT"
     }
   ]
 }
