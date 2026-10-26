@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex snaps 4-day losing run to close 483 points higher; Nifty tops 22,750",
+  "headline": "Sensex Rebounds 483 Points to Snap 4-Day Losing Streak; Nifty Tops 22,750",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,32 +7,42 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex and Nifty recovered from a weak start, snapping a 4-day losing streak.",
-    "Metal stocks led the market rally, with gains seen in shares like JSW Steel.",
-    "Strong Q2 earnings performance from Indian Overseas Bank boosted banking sentiment.",
-    "BSE shares gained 4% as market trading activity and sentiment improved."
+    "Stock markets snapped a four-day slump as bargain buying emerged in key sectors.",
+    "Metal stocks saw strong buying interest, boosting benchmark indices higher.",
+    "Strong quarterly earnings reports boosted specific stocks such as Ather Energy and ITC Hotels.",
+    "Domestic indices recovered despite choppy trading and weakness in the Indian rupee."
   ],
   "whatHappening": [
-    "SoftBank sold 1.21 crore Ola Electric rights entitlements as the EV maker seeks to raise Rs 1,000 crore.",
-    "Rupee weakened for the third straight session due to foreign outflows and dollar demand from importers.",
-    "Government extended the RELIEF export support scheme amid continued disruptions in West Asia.",
-    "SpiceJet staff remark to passengers went viral on social media."
+    "Sensex closed up 483 points at 73,606.75, while Nifty 50 rallied beyond 22,750.",
+    "JSW Steel advanced 5% and BSE gained 4% during the session.",
+    "Ather Energy stock jumped 19% following a turnaround to Q2 profit.",
+    "Rupee depreciated by 29 paise to close at 95.22 against the US dollar."
   ],
   "stocksInNews": [
     {
-      "symbol": "IOB",
+      "symbol": "JSWSTEEL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 2/7 sources",
       "articleIds": [
-        9
+        2,
+        9,
+        12
       ]
     },
     {
-      "symbol": "JSWSTEEL",
+      "symbol": "ATHER",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        11
+        6
+      ]
+    },
+    {
+      "symbol": "OLAELEC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        7
       ]
     },
     {
@@ -40,23 +50,23 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        11
+        12
       ]
     },
     {
-      "symbol": "OLAELEC",
-      "sentiment": "Negative",
+      "symbol": "ITCHOTELS",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         0
       ]
     },
     {
-      "symbol": "SPICEJET",
-      "sentiment": "Negative",
+      "symbol": "DRREDDY",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        5
+        2
       ]
     },
     {
@@ -76,24 +86,24 @@
       ]
     }
   ],
-  "summary": "Sensex closed 483 points higher at 23,753 after a choppy session led by metal stocks.\nIndian Overseas Bank reported a 56% jump in Q2 net profit to Rs 1,912 crore.\nRupee weakened for the third consecutive session amid foreign outflows and importer dollar demand.",
-  "updatedAt": "2026-10-26T11:01:50.426Z",
+  "summary": "Indian benchmark equity indices rebounded strongly on Monday, ending a four-day losing streak as the Sensex gained 483 points to close above 73,600. Metal stocks spearheaded the market recovery with JSW Steel rising 5%, alongside major corporate moves including Ather Energy's 19% rally post-Q2 results. Meanwhile, the Indian rupee fell 29 paise to settle at 95.22 against the US dollar.",
+  "updatedAt": "2026-10-26T12:03:23.297Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-26",
   "articleKeys": [
+    "itc hotels reports revenues of rs 1054 cr for q2 pat at rs 203 cr",
+    "rupee falls 29 paise to close at 9522 against us dollar",
+    "market wrap dr reddys jsw steel shriram finance tata consumer top gainers and losers on nifty and sensex on monday",
+    "stock markets rebound after fourday slump sensex jumps 483 points",
+    "global market european shares flat as investors assess earnings france turmoil",
+    "asiafocused banks face bond market risks ahead of q3 earnings",
+    "ather energy shares skyrocket 19 after ev maker swings to rs 126 crore profit in q2",
     "softbank sells 121 crore ola electric rights entitlements as ev maker seeks to raise rs 1000 crore",
     "the war bump is a false victory for sampp 500 profits",
     "stock market close sensex ends choppy trade 483 points higher nifty at 23753 metal shares shine",
-    "you need rs 20 lakh in 7 years what if your sip portfolio falls 20 in year six",
-    "rupee weakens for third session as importers step up dollar bids foreign outflows bite",
-    "cheap tickets spicejet staffs alleged remark to passengers goes viral",
-    "ais costs fall unevenly across workers iit madras paper flags surveillance work stress",
-    "govt extends relief export support scheme amid continued west asia disruptions",
-    "ndtv profit ignite diwali edition 2026 check key speakers where to watch and more",
-    "iob q2 results net profit rises 56 to 1912 cr on higher interest income",
     "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india",
-    "sensex today nifty 50 stock market highlights sensex snaps 4day losing run ends 483 pts higher nifty tops 22750 jsw steel rises 5 bse 4 the economic times",
     "stock market today live october 26 sensex settles at 7360675 nifty rallies to 2275320 businessline",
+    "sensex today nifty 50 stock market highlights sensex snaps 4day losing run ends 483 pts higher nifty tops 22750 jsw steel rises 5 bse 4 the economic times",
     "stock market outlook today 26 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei cues livemint",
     "trump hints at an iran attack or deal impact on india stock market sensex nifty gold decoded top 10 stocks to watch livemint",
     "closing bell market snaps 2week gains nifty at 22600 sensex down 125 pts moneycontrolcom",
@@ -103,6 +113,48 @@
     "stock market outlook today 19 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
   ],
   "articles": [
+    {
+      "title": "ITC Hotels reports revenues of Rs 1054 cr for Q2, PAT at Rs 203 cr",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-hotels-reports-revenues-of-rs-1054-cr-for-q2-pat-at-rs-203-cr/articleshow/135210456.cms",
+      "publishedAt": "Mon, 26 Oct 2026 16:50:39 +0530"
+    },
+    {
+      "title": "Rupee falls 29 paise to close at 95.22 against U.S. dollar",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/rupee-falls-29-paise-to-close-at-9522-against-us-dollar/article71626594.ece",
+      "publishedAt": "Mon, 26 Oct 2026 16:42:18 +0530"
+    },
+    {
+      "title": "Market wrap: Dr Reddys, JSW Steel, Shriram Finance, Tata Consumer top gainers and losers on Nifty and Sensex on Monday",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-dr-reddys-jsw-steel-shriram-finance-tata-consumer-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/135209828.cms",
+      "publishedAt": "Mon, 26 Oct 2026 16:30:17 +0530"
+    },
+    {
+      "title": "Stock markets rebound after four-day slump; Sensex jumps 483 points",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/stock-markets-rebound-after-four-day-slump-sensex-jumps-483-points/article71626525.ece",
+      "publishedAt": "Mon, 26 Oct 2026 16:26:20 +0530"
+    },
+    {
+      "title": "Global Market: European shares flat as investors assess earnings, France turmoil",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-european-shares-flat-as-investors-assess-earnings-france-turmoil/articleshow/135209743.cms",
+      "publishedAt": "Mon, 26 Oct 2026 16:21:45 +0530"
+    },
+    {
+      "title": "Asia-focused banks face bond market risks ahead of Q3 earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/asia-focused-banks-face-bond-market-risks-ahead-of-q3-earnings/articleshow/135209404.cms",
+      "publishedAt": "Mon, 26 Oct 2026 16:18:58 +0530"
+    },
+    {
+      "title": "Ather Energy shares skyrocket 19% after EV maker swings to Rs 1.26 crore profit in Q2",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-skyrocket-19-after-ev-maker-swings-to-rs-1-26-crore-profit-in-q2/articleshow/135209355.cms",
+      "publishedAt": "Mon, 26 Oct 2026 16:06:42 +0530"
+    },
     {
       "title": "SoftBank sells 1.21 crore Ola Electric rights entitlements as EV maker seeks to raise Rs 1,000 crore",
       "source": "Zerodha Pulse",
@@ -122,64 +174,22 @@
       "publishedAt": "Mon, 26 Oct 2026 15:41:28 +0530"
     },
     {
-      "title": "You Need Rs 20 Lakh in 7 Years. What If Your SIP Portfolio Falls 20% in Year Six?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/you-need-rs-20-lakh-in-7-years-what-if-your-sip-portfolio-falls-20-in-year-six-12236726#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 15:38:38 +0530"
-    },
-    {
-      "title": "Rupee weakens for third session as importers step up dollar bids, foreign outflows bite",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-weakens-for-third-session-as-importers-step-up-dollar-bids-foreign-outflows-bite/articleshow/135208766.cms",
-      "publishedAt": "Mon, 26 Oct 2026 15:38:23 +0530"
-    },
-    {
-      "title": "'Cheap Tickets': SpiceJet Staff's Alleged Remark To Passengers Goes Viral",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/cheap-tickets-spicejet-staffs-alleged-remark-to-passengers-goes-viral-12237194#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 15:37:33 +0530"
-    },
-    {
-      "title": "AI’s costs fall unevenly across workers; IIT Madras paper flags surveillance, work stress",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/ais-costs-fall-unevenly-across-workers-iit-madras-paper-flags-surveillance-work-stress/article71626148.ece",
-      "publishedAt": "Mon, 26 Oct 2026 15:29:08 +0530"
-    },
-    {
-      "title": "Govt Extends RELIEF Export Support Scheme Amid Continued West Asia Disruptions",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/govt-extends-relief-export-support-scheme-amid-continued-west-asia-disruptions-12237154#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 15:28:27 +0530"
-    },
-    {
-      "title": "NDTV Profit IGNITE Diwali Edition 2026: Check Key Speakers, Where To Watch And More",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/ndtv-profit-ignite-diwali-edition-2026-check-key-speakers-where-to-watch-and-more-12237104#publisher=newsstand",
-      "publishedAt": "Mon, 26 Oct 2026 15:19:24 +0530"
-    },
-    {
-      "title": "IoB Q2 results: Net profit rises 56% to ₹1,912 cr on higher interest income",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/iob-q2-net-profit-rises-56-pc-to-rs-1-912-cr-on-higher-interest-income-126102600566_1.html",
-      "publishedAt": "Mon, 26 Oct 2026 15:14:31 +0530"
-    },
-    {
       "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdEtlWHMxOTVRZFppZVlvekg3RjRwX3RHbjBEM0RZTXV6X2xxVzlSNWxrSXZrSE1aU2xnd2sydlZpYzQxYnJtNHo3UkJhMkhWa2NDdjBqOUxyUGlEWGQzc1ZOamUzby0xRXhKYzFmUExaV0JQdDF6T3FHMTNNZDB3XzB2ck9tTGR6Mm1YX0Z2bGlXdURxTzlCXzRnTkw3N28tZ3dvamVTeHR4UTVNS2U3ZlVZYnE4SnlVVk0zZFdqd2NMWFU3ZWxER3JJYzh3RzIydFhNdnNzX2VsdEctRTBxdTYwcG85ZDYyaDVwU0JEYzRsSzRzMm1tbjFpQUI2Umd5bHdNUUtyTmxHNkZpX05zVmlPM05aX0xfczZVSkZ4LWI2NE10bFY0ZTVKMFd0WWZ5NEtIOdIBugJBVV95cUxPejVDeTVaWGYtaTBOYVBIMlJxb2dyQ1ZkT2NkNGZXN0R6bzRHeWYwNlBEX3Ezb3Q1ekVnTklWc0Q5Vm9VYWR4WXducldnVFMtOFV3WjY2LWhmeVAwNHlYdk96WnFnN1ZuY0ZuM0Z6MUNoTWsxQklSS3lHWGROdEJlXzhKVHRmdnl1N2lGazBveE54dm1lRHc4dW1BNDBqNm5tVEtmZ2VEUm1iYWRyTXR6ZTJNUWtXMXd5bkl5bEtJeEczaGdJVlNZbndUT1hiYkVxRXo1aHl6ZV9nQVpjX2FucFJnV3hjVDVLR0tsTEdHN2cxTEVfd19lU3I4YmRRMi1VNnRVVzFWTEY2T2V3Y05MRzNpVGduODBJQWNkTl9OcFpJZm5CQXlOMDlKZWJTb0dTbWFYYlZaUUl3QQ?oc=5",
       "publishedAt": "Mon, 26 Oct 2026 10:29:00 GMT"
     },
     {
+      "title": "Stock Market Today Live, October 26: Sensex settles at 73,606.75; Nifty rallies to 22,753.20 - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaU9sZFd5aThkYnRBQjMxR0tSR3lLY19ENGlwMlhNdEl5RktrR1FoNGVtOVozdC1jblFqOTBDR3FPVXdmLVBud1QzeEJJcXEydEhWOE05MjY1YWNMSnV0LXZzVXQzLUNsM1RjN2N3b3JUeVNONG8ycUxJTUw4VGVSQWRVT2pTaE5oc25CTjdwS2p5LWNRVkFyMUxGS3otbEFhYU5pZUpZcDJ0UXJnejJKRFBjUVJNYlBMTkhxRm81LUJONzNPNnc?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 09:36:49 GMT"
+    },
+    {
       "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex snaps 4-day losing run, ends 483 pts higher; Nifty tops 22,750; JSW Steel rises 5%, BSE 4% - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQeU40YXgwSGRCQ2pUeWItdWw5QUdSZzZiUkRHRXdEVF9RQjNlanEybl9tRXBweF9yeUFYVngyT2VnM3F6R0hsR0NFc3ptQVNPV2xtcC1MS0sxSmYwQlFiNVNqZ0JZWmcycU85anpsQ19xSzRaTC15STdoYWw2bExjTS1iMjRvNFhtb2pFcFVQNFV6eWxzN0xnS0lZRlhtbjFoRlFWNkoyeGdOX1BrSmNwdThkbFcxTnFnR3plczVCOU8tRUpaUUZhNDFOVlIza2xDaGw1N05jTTUxUUZvc3FnbFZ3SkV3Q054UDhXT3o4eVhLcTRtYUVTa3dFdFZENVRjbTU5QUVFeHRvY1dkR3RwWE1R0gGXAkFVX3lxTE8teWxrY0ZsUmdFcUdRSmR3QkhwZHRLTkgwTTAyaWZHWjNzVXhxTHl4a0lxX2swSnN3RmJvUDJxOGJ6d2hXVzRMQkdJdklBeGhfZ3pZcGpMRGs5U3N6OFRQMndiOEk0RWpuWXRaS1NFWnhoQ252dDNZRVdOLS0ybFZDT0dtQzV3Wnl6YThnbVpqb0dzUHVKMUNTSFFuUkg5WHF6UFN4aTJLaUxjanU4d1hXVnUxSnVRN3ZtOXVwMXNYTlhSLXN0d0tLRXNibk1zMXd4V1lRa2d0R2xXZUZvV3pEbTBCTGMzSDZCdHl3ZWN6ZExiNzlZdFFpOWZwU0VieHpyRTExTHg4RENxcjFNbUlLWTByYkhXWQ?oc=5",
       "publishedAt": "Mon, 26 Oct 2026 10:05:22 GMT"
-    },
-    {
-      "title": "Stock Market Today Live, October 26: Sensex settles at 73,606.75; Nifty rallies to 22,753.20 - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaU9sZFd5aThkYnRBQjMxR0tSR3lLY19ENGlwMlhNdEl5RktrR1FoNGVtOVozdC1jblFqOTBDR3FPVXdmLVBud1QzeEJJcXEydEhWOE05MjY1YWNMSnV0LXZzVXQzLUNsM1RjN2N3b3JUeVNONG8ycUxJTUw4VGVSQWRVT2pTaE5oc25CTjdwS2p5LWNRVkFyMUxGS3otbEFhYU5pZUpZcDJ0UXJnejJKRFBjUVJNYlBMTkhxRm81LUJONzNPNnfSAcwBQVVfeXFMUGhWZFVLcWdYUnVuZlcza0plaThxa0dyWXJMTHB6UEFQMW1XY1k5SGYycHlrUmI4WEVHcmhjWXZkRGQ3ZnVIdVJzQ20tamwyOVJKZE1mS1E3QkZ5cEw4bF9JOUVqUWt4Vjc1Tk9qOFdlU0gtNFFqVjNrTmhsUUc0NlhtVktWWi1pSVRkZzQ2YlRoZXBPT0NoZW9KY1lhellmd0tXTVhGY0xBcXV0MmFRYlMwb3Fja251SW5mOENlZ05ITDIwSVJORVA5MGZF?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 10:50:24 GMT"
     },
     {
       "title": "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues - Livemint",
