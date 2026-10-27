@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex trades flat as IT selling and elevated crude prices cap gains; Nifty holds above 22,750",
+  "headline": "Sensex and Nifty fluctuate amid expiry day blues while smallcaps surge and Mankind Pharma jumps 8%",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,44 +7,45 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex trades flat while Nifty stays near 22,750, weighed down by selling in IT stocks.",
-    "Persistently elevated crude oil prices weigh on early market sentiment.",
-    "Gains in media stocks, Tata Consumer, Bharti Airtel, and BEL provide support to the indices.",
-    "Positive sentiment surrounding Jio Platforms ahead of its listing tomorrow with a reported 22% GMP premium."
+    "IT stocks and private banks faced selling pressure, dragging down benchmark indices.",
+    "Expiry day volatility caused Sensex to drop around 200 points while smallcaps outperformed.",
+    "Markets snapped a 4-day losing streak in the prior session as Sensex surged over 480 points.",
+    "PL Capital noted capital goods valuations are at long-term averages with earnings strength expected to persist."
   ],
   "whatHappening": [
-    "Sensex trades flat while Nifty trades around the 22,750–22,770 mark in morning trade.",
-    "The Indian Rupee fell 7 paise to 95.22 against the U.S. dollar in early trade.",
-    "IT stocks faced selling pressure while media shares and key heavyweights posted gains.",
-    "Jio Platforms is scheduled to list on BSE and NSE tomorrow, with grey market signals indicating a 22% premium."
+    "Anup Bagchi officially took charge as the new CEO and MD of HDFC Bank.",
+    "Mankind Pharma reported a 38% increase in Q2 net profit to Rs 716 crore, driving shares up 8%.",
+    "Brokerage Jefferies outlined a bull case target where Vodafone Idea shares could surge up to 143%.",
+    "Tata Consumer shares gained 5%, while smallcaps rallied 2.5% during trading on October 27."
   ],
   "stocksInNews": [
     {
-      "symbol": "JIOPLATFORMS",
+      "symbol": "MANKIND",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        4
+        3
       ]
     },
     {
-      "symbol": "TATACONSUMER",
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2,
+        8
+      ]
+    },
+    {
+      "symbol": "IDEA",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        12
+        9
       ]
     },
     {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        12
-      ]
-    },
-    {
-      "symbol": "BEL",
+      "symbol": "TATACONSUM",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
@@ -56,7 +57,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        14
+        15
       ]
     },
     {
@@ -64,112 +65,104 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        14
+        15
       ]
     },
     {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Negative",
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        18
-      ]
-    },
-    {
-      "symbol": "ETERNAL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        18
+        4
       ]
     }
   ],
-  "summary": "Indian benchmark indices traded flat in morning trade on October 27, with the Nifty hovering around 22,750 levels. IT stocks faced selling pressure amid elevated crude oil prices, while media stocks, Tata Consumer, Bharti Airtel, and BEL emerged as top gainers. Market focus also remained on Jio Platforms ahead of its upcoming stock exchange listing tomorrow.",
-  "updatedAt": "2026-10-27T07:31:34.407Z",
+  "summary": "Indian benchmark indices traded cautiously amid expiry day volatility, with Sensex down 200 points and Nifty near 22,700.\nSmallcaps outperformed the broader indices with a 2.5% surge, while individual stocks like Mankind Pharma and Tata Consumer recorded notable gains.\nIn corporate leadership news, Anup Bagchi formally took charge as CEO and MD of HDFC Bank.",
+  "updatedAt": "2026-10-27T08:01:44.592Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-27",
   "articleKeys": [
-    "stock market live sensex trades flat ankur warikoo says everyone should start sip",
-    "global market china hong kong stocks slip as technology shares extend losses",
-    "rupee falls 7 paise to 9522 against us dollar in early trade",
-    "microsoft india offers voluntary exit with 1 month salary per yr of service",
-    "jio platforms shares to list on bse nse tomorrow gmp signals 22 premium",
-    "global market yuan holds near fouryear high as china tempers appreciation pace",
-    "srm presents the hindu semiconductor summit 2026 watch live",
-    "stock markets fall in early trade amid persistently elevated crude oil prices it selling",
-    "global market japans nikkei rises nearly 2 on ai optimism anthropic ipo filing",
-    "why ai stocks rallied after anthropics ipo filing",
+    "agilisium shifts asia hq to hyderabad eyes 500 mn revenue in 57 yrs",
+    "us fed decision what to expect from warshs october meeting",
+    "anup bagchi takes charge as hdfc bank ceo and md",
+    "mankind pharma shares jump 8 as q2 profit rises 38 to rs 716 crore",
+    "jios bigbang listing may give it stock markets no2 crown after reliance industries",
+    "cyclone arnab live tracker andhra pradesh coast on alert these districts in odisha jharkhand districts to heavy rain",
+    "thane water cut explained timings affected areas and what residents should know",
+    "capital goods valuations at longterm average earnings to remain strong for 46 quarters pl capital",
+    "a banking giant a battered stock can hdfc banks new chief turn the tide",
+    "jefferies says vodafone idea shares can soar 143 in bull case scenario 3 reasons why brokerage is upbeat",
     "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india",
-    "sensex today nifty 50 stock market live updates sensex trades flat nifty above 22750 media stocks gain it slips the economic times",
-    "sensex today stock market live nifty around 22770 sensex flat tata consumer bharti airtel bel top gainers moneycontrolcom",
+    "sensex today nifty 50 stock market live updates sensex nifty swing between gains and losses media stocks rise it slips the economic times",
+    "stock market today live october 27 sensex down 200 pts nifty near 22700 on expiry day blues smallcaps surge 25 tata consumer stock up 5 businessline",
+    "sensex today stock market live nifty below 22750 sensex slips 150 it private banks under pressure moneycontrolcom",
     "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex today nifty 50 stock market highlights sensex snaps 4day losing run ends 483 pts higher nifty tops 22750 jsw steel rises 5 bse 4 the economic times",
     "trump hints at an iran attack or deal impact on india stock market sensex nifty gold decoded top 10 stocks to watch livemint",
     "stock market outlook today 26 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei cues livemint",
     "stock market close sensex falls for 4th day ends 126 pts lower nifty at 22600 vix rises 6 business standard",
-    "stock market today highlights october 21 sensex drops over 400 pts nifty at 22700 eternal bajaj fin lead losers businessline",
     "stock market today trade guide for sensex nifty 50 crude oil and gold seven stocks to buy livemint"
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex trades flat; Ankur Warikoo says 'everyone should start SIP'",
+      "title": "Agilisium shifts Asia HQ to Hyderabad; eyes $500 mn revenue in 5-7 yrs",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-october-27-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-listing-price-126102700086_1.html",
-      "publishedAt": "Tue, 27 Oct 2026 11:56:05 +0530"
+      "link": "https://www.business-standard.com/companies/news/agilisium-asia-headquarters-hyderabad-life-sciences-revenue-workforce-126102700599_1.html",
+      "publishedAt": "Tue, 27 Oct 2026 13:04:00 +0530"
     },
     {
-      "title": "Global Market: China, Hong Kong stocks slip as technology shares extend losses",
+      "title": "US Fed Decision: What to expect from Warsh's October meeting",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slip-as-technology-shares-extend-losses/articleshow/135225935.cms",
-      "publishedAt": "Tue, 27 Oct 2026 11:54:46 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-decision-what-to-expect-from-warshs-october-meeting/articleshow/135227694.cms",
+      "publishedAt": "Tue, 27 Oct 2026 13:02:12 +0530"
     },
     {
-      "title": "Rupee falls 7 paise to 95.22 against U.S. dollar in early trade",
+      "title": "Anup Bagchi takes charge as HDFC Bank CEO and MD",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/rupee-falls-against-us-dollar-in-early-trade-on-october-27-2026/article71629928.ece",
-      "publishedAt": "Tue, 27 Oct 2026 11:52:13 +0530"
+      "link": "https://www.thehindu.com/business/anup-bagchi-takes-charge-as-hdfc-bank-ceo-and-md/article71630082.ece",
+      "publishedAt": "Tue, 27 Oct 2026 12:58:53 +0530"
     },
     {
-      "title": "Microsoft India offers voluntary exit with 1 month salary per yr of service",
+      "title": "Mankind Pharma shares jump 8% as Q2 profit rises 38% to Rs 716 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/technology/tech-news/microsoft-india-voluntary-retirement-severance-package-employees-126102700485_1.html",
-      "publishedAt": "Tue, 27 Oct 2026 11:47:18 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mankind-pharma-shares-jump-8-as-q2-profit-rises-38-to-rs-716-crore/articleshow/135227555.cms",
+      "publishedAt": "Tue, 27 Oct 2026 12:55:50 +0530"
     },
     {
-      "title": "Jio Platforms shares to list on BSE, NSE tomorrow;  GMP signals 22% premium",
+      "title": "Jio’s big-bang listing may give it stock market’s No.2 crown after Reliance Industries",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-shares-to-list-on-bse-nse-tomorrow-gmp-signals-22-premium/articleshow/135226292.cms",
-      "publishedAt": "Tue, 27 Oct 2026 11:46:21 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jios-big-bang-listing-may-give-it-stock-markets-no-2-crown-after-reliance-industries/articleshow/135227418.cms",
+      "publishedAt": "Tue, 27 Oct 2026 12:46:38 +0530"
     },
     {
-      "title": "Global Market: Yuan holds near four-year high as China tempers appreciation pace",
+      "title": "Cyclone Arnab Live Tracker: Andhra Pradesh Coast on Alert; These Districts In Odisha, Jharkhand Districts To Heavy Rain",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-yuan-holds-near-four-year-high-as-china-tempers-appreciation-pace/articleshow/135225936.cms",
-      "publishedAt": "Tue, 27 Oct 2026 11:31:56 +0530"
+      "link": "https://www.ndtvprofit.com/india/very-severe-cyclonic-storm-arnab-latest-update-andhra-pradesh-coast-on-alert-these-districts-in-odisha-jharkhand-districts-to-heavy-rain-12241293#publisher=newsstand",
+      "publishedAt": "Tue, 27 Oct 2026 12:37:59 +0530"
     },
     {
-      "title": "SRM presents The Hindu Semiconductor Summit 2026 | Watch LIVE",
+      "title": "Thane Water Cut Explained: Timings, Affected Areas and What Residents Should Know",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/cities/chennai/srm-presents-the-hindu-semiconductor-summit-2026/article71629957.ece",
-      "publishedAt": "Tue, 27 Oct 2026 11:27:52 +0530"
+      "link": "https://www.ndtvprofit.com/india/thane-water-cut-explained-timings-affected-areas-and-what-residents-should-know-12241420#publisher=newsstand",
+      "publishedAt": "Tue, 27 Oct 2026 12:37:33 +0530"
     },
     {
-      "title": "Stock markets fall in early trade amid persistently elevated crude oil prices, IT selling",
+      "title": "Capital Goods Valuations At Long-Term Average; Earnings To Remain Strong For 4-6 Quarters: PL Capital",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/stock-markets-fall-in-early-trade-on-tuesday-amid-elevated-crude-oil-prices-and-it-selling/article71629855.ece",
-      "publishedAt": "Tue, 27 Oct 2026 11:20:57 +0530"
+      "link": "https://www.ndtvprofit.com/markets/amit-anwani-of-pl-capital-on-capital-goods-valuations-at-long-term-average-earnings-to-remain-strong-for-4-6-quarters-bse-sensex-today-12241511#publisher=newsstand",
+      "publishedAt": "Tue, 27 Oct 2026 12:37:32 +0530"
     },
     {
-      "title": "Global Market: Japan’s Nikkei rises nearly 2% on AI optimism, Anthropic IPO filing",
+      "title": "A banking giant, a battered stock: Can HDFC Bank’s new chief turn the tide?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-nearly-2-on-ai-optimism-anthropic-ipo-filing/articleshow/135225566.cms",
-      "publishedAt": "Tue, 27 Oct 2026 11:15:36 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/a-banking-giant-a-battered-stock-can-hdfc-banks-new-chief-turn-the-tide/videoshow/135227258.cms",
+      "publishedAt": "Tue, 27 Oct 2026 12:35:45 +0530"
     },
     {
-      "title": "Why AI stocks rallied after Anthropic’s IPO filing",
+      "title": "Jefferies says Vodafone Idea shares can soar 143% in bull case scenario. 3 reasons why brokerage is upbeat",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rally-after-anthropic-ipo-filing-nvidia-gains-nearly-3/articleshow/135225580.cms",
-      "publishedAt": "Tue, 27 Oct 2026 11:15:30 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-says-vodafone-idea-shares-can-soar-143-in-bull-case-scenario-3-reasons-why-brokerage-is-upbeat/articleshow/135227097.cms",
+      "publishedAt": "Tue, 27 Oct 2026 12:34:53 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
@@ -178,16 +171,22 @@
       "publishedAt": "Mon, 26 Oct 2026 10:29:00 GMT"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex trades flat, Nifty above 22,750; media stocks gain, IT slips - The Economic Times",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex, Nifty swing between gains and losses; media stocks rise, IT slips - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNS3FtTkdVa2dWQk5sbU9xTUF3YUozd1ZHZC1rcWRtMF96RkhfbDJJblZTam5lU1JzMmk4ZDZaQnpfaU1NSFlxWDVxWFJ6WHBIQzlybVNoRUdlQUdBcGYtM05vVlcza3FGWkkxRDZSU2FoUmtWU0JHeHRidGVuazdhQi1wZGdLbjZUeDJ6TXhacWdET20xaTFKX1FZRW16bE5keDFBR1RGZ1oteTFIc3ZuVlMzSDRxaXhJclNQT25lMmhNVU1ENE9iRWMtekNMNnp1Y1NZN1lLelRNT1EySXBuTVdFWHRwV1E2ZWJ1N2dBVjM1Y0I5bkNxVFlLSk1qNUV6MDdyOHR0MmN3TndOc3ZYbS1hONIBmAJBVV95cUxNZ3pqRm9YZmpyZ2RWbmx6TFZfV0VhRmxkb1ZXYVN3bHVlcXh0T0l5N0NTZFptcDNaN192SkwtWURZTnNOZThtS1dRSkhxZzdjeF9CTEh0MXZVWW5KQjg0ZmlsSXZreUNSR1J6MVBpdXVvcHVWOFY0ck0xSHI4bGFfcXVvdG9pNlhFc2c0RWo4TUhJUXhQdVFVS2dzZ1MxaHZKaEFILUZNY3FyYmJ0YjlCV1NpcUtuRGN2VFBhYmpmN0dkNDJ1cFBZWEFwNnN4TmhKZHBoT1RWa1ViRDU1eGE2RVViWWVBNkp4Rm9ONkZPTTJNQjRpSWJteHd3Z21Wb05XQkVzYWo0YVZLZXdwdDhhWUYwdDU3a2xO?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 07:28:38 GMT"
+      "publishedAt": "Tue, 27 Oct 2026 07:57:12 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Nifty around 22,770, Sensex flat; Tata Consumer, Bharti Airtel, BEL top gainers - Moneycontrol.com",
+      "title": "Stock Market Today Live, October 27: Sensex down 200 pts, Nifty near 22,700 on expiry day blues; Smallcaps surge 2.5%, Tata Consumer stock up 5% - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXRPNF9Xa2o3bDRjLURmUDBlZ0FHb3hMNkNHa0xxekQzYjFUNUl5U3BWM3VRWkZqMmo3eE5ueHZaV2pEUVUyQWhsLUh5bFZiNnpsZ2FBNS15RU5pU2xFTjdwLWRHT0xBRGNvRnh0ZUtvMTBfZHJfcnBWVnhNdVp1SjNEZllGS0hwNDNpa09DOE85T2V4NUtHWkxSaFNVbmRQNnJDV3EycmdNUGF1ek8yWXNqTmMyY0dUSWpmTUxxUm4zVG1nUXfSAcwBQVVfeXFMUF9rWlBNMXZOaWZ0LVpOeGdaLTlFSU1SMkFoek9xNEF6QVpDV1ZqYlRaei1iSjRPcm5JeVNmNzR0cm5ZRVRaN2pBR0VLdE5jUktmc3ducTRONE51NjZTbXFocUZ1UkhpVHJIRzdpeHZ0ZWVxallmYjIwcFRkZlJucEUyMVFBd0FTMVJsTjBSdTkxcnR1ckxmcXBSbEIwQ3R0R1FVSG93TWNVbUZUSGw1NU82UWE2UFlYWnJrS2VSUXJ4elJZRWFVU0FFUF9X?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 07:57:25 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Nifty below 22,750, Sensex slips 150; IT, private banks under pressure - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNUFQTEo3T09fbW02cHU1RVZkLXFic2swMkhkZWJ3bEJTRFlENGpoZFVvVlU4aVpreHkyRzdYV2dQOUZ6NjRwMElkV0x3TF9aSnJmdXljbmZ6UWEwaU5YMXJ6STBBS2o4SlBZMVpqNml3V2N0UklTVnpHTmpuNURNbFppWDByUkMxTmkxTkFLMzg4ZFhLWV9RUzFJdDhsNFlrRnFTX2VLX0NDX0FnamtpZkRRR0dtZmR1ZGVmMDhtUFM1NzDSAagCQVVfeXFMTmZtRlNsZUNmQ29nN0FTNWNWNDBGM0VHTHozcmJYZlRLMUZHSmJiX1VFVHdzZUt1akJmYkFhV2tubjIxcVdoYVhzOE9xaG9hQS1KRERXRHc0SXlNVkp3UmZKbldUbnVIa2hTVmdoUHhJN3JlT3pmeV9USUV5UU5zN3ROMlBTQzZyMW53Mmc2VnhuT1JOaUNwMzhpUXlQQUx6RVl6QkNYbkFjNlJiMERsWW53LXVvLWpSTVdObnltbTJKQ3o3MWpveGZJM1c3VlpqT3hDOGZaS2pyZXhXYTR4OEtBSE9xd28tOUVPWnZVNVp5Y1dJclRwNWg1bVB2SnBncEpPWFFYZTJxRjlEYUJRcF9QTG14WThnSnI1bTVZZXhkdkJiWTRIelo?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 07:28:37 GMT"
+      "publishedAt": "Tue, 27 Oct 2026 07:55:35 GMT"
     },
     {
       "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -218,12 +217,6 @@
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVFFeGltOU5ULVFVeVBYQmUzRGpXN3hDRjN3VXRoeDFGWTVsV1RqME43WkRnV2l4OExfTndoWjF6UlpIYWJrYnh0V0NGXzZJeWk0d0NrTF9YbG0tbVJ0dTVyUFhlQnVNc0tBVWhCcjdkWjZTWTNhdFdwVEZRM2gybGt4UVNkN1k5N1ZpWE16dFNEX0I0WEdXWHp5Z0VabmdDX2ZMbzZUTEE1b3NSWC0xbGlucGE3UG5zQjdWdnI2MnlWWFc3d0FFT0NLcUR0QjBuMmhWZ3VDbGtQZGtSTGQyem9MRUJWbDZLejB4VEgzRGdhMVZHZlppTzBGWHplU0pLT2plaEM4VVjSAY4CQVVfeXFMTlFIS1BXeGVHaWtoYTdma0N6aGk0bXVXUG82RjdzclBtejdBRHhJY0NsdVl1bWJBUGhCaTZYanY5ZDVIOENxckgtSHlzTDYxdVAweWpRakwwYmh2eGlmaXJ0YXNXS1JxUGxoV2xMWjhaU3FJblBjQm10ZTZ1enJDbDd0RndDd2F4Znc4WWtKTGNsd0dIeUowMktXUHdaQ3JBLV9EdXg3VGVYbW5SN1p1QVdxalJGTFljNkVJeWVFdnUwbE56YkpaTG9tQUxEREN3TzdlX21jay1jVHFmcHhPOHdwVThTbmpYdkQtdVRmMjBxV0NZVGVYeHFRbnpWcjRwQXY4RGtTQUxuSGhkaXpn?oc=5",
       "publishedAt": "Fri, 23 Oct 2026 10:22:05 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights, October 21: Sensex drops over 400 pts, Nifty at 22,700; Eternal, Bajaj Fin lead losers - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGpacU1SSlh2MUgtVFM1Q203NXFJX1ZpWXZBU0FIMVdlUmx2Yk5ORWpUQ1BjcEdLbndSekU3ZEIyMjZPVkppX09yNU4xaGhaRlU4QUF4RVAxUGJFdWU1WFFxSTZwMmpINzVWU1ZIZm9sVkhZR3Y1dUVaZnhydGpwR2lwUzRnVUpHNWpoSE9WSTU2eWhNQTc5T0JQX01vWkZTbllaUGdXWG9fX09CMHhwaWxxaWxmLU1vc2ZoLWtlZTk3U2IzUEtORNIBzwFBVV95cUxOWkVaY2QteWY0VkRMdVJ1TVZlcEw4bDZZdlBaZG8xQ3Q0YlhTMFlTWENEV1hvczFiYkJCV1BlUUl4Q2t4eHFieWxZX1A3MUtoclQ5QWYtemxnTUgtZlhDeFRGQXhFN1Bzci1TWWd1RmpaMkNOcmstM1NEaFA5ZXhidmlkRnZxTkVFOXY0cF9XWTFDc0RZbVR0NHduWEo0MDFuYk1ZY3A2Sm9zNklGRkJwMmIxOHJRWjdHajdwWDlxeVo3N0JrT194NnBDck1YOXM?oc=5",
-      "publishedAt": "Wed, 21 Oct 2026 10:51:05 GMT"
     },
     {
       "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Seven stocks to buy - Livemint",
