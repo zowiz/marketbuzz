@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty end flat amid high crude oil prices, while midcaps and smallcaps rally",
+  "headline": "Sensex, Nifty end flat after choppy session as Airtel, Power Grid gain while IT drags",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,110 +7,144 @@
     "nextOpen": ""
   },
   "why": [
-    "High crude oil prices hovering near USD 115 capped upside for benchmark indices.",
-    "Caution regarding US Federal Reserve interest rate policies weighed on investor sentiment.",
-    "Selling pressure in major banking and IT stocks dragged down key broad market indices.",
-    "Strong buying interest in midcap, smallcap, and media stocks offset losses in major frontliners."
+    "Sensex and Nifty ended flat after a choppy session on expiry day.",
+    "Elevated crude oil prices and selling in bank and IT stocks weighed on sentiments.",
+    "Gains in pharma, realty, Airtel, and Power Grid offset losses in heavyweights.",
+    "Stock-specific action continued ahead of major Q2 earnings and global cues."
   ],
   "whatHappening": [
-    "Sensex and Nifty closed flat while the Midcap Index gained 565 points and the Media index jumped nearly 4%.",
-    "Bajaj Auto Q2 net profit jumped 62% to ₹3,436 crore driven by higher export and EV sales.",
-    "Maruti Suzuki reported a 26.4% decline in Q2 net profit to ₹2,466 crore due to elevated costs.",
-    "Tata Power signed an MoU with BPCL to develop 110 kV power infrastructure at the Mumbai refinery."
+    "Maruti Suzuki reported a 27% drop in Q2 profit despite a 26.5% surge in sales.",
+    "Reliance Industries announced it will declare Q2 results and consider fundraising on October 30.",
+    "Coal India exceeded its target as H1 capital expenditure surged 27% to ₹7,966 crore.",
+    "JSW Infrastructure reported an 11% decline in Q2 net profit to Rs 328 crore."
   ],
   "stocksInNews": [
     {
-      "symbol": "PVRINOX",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "MARUTI",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         0
       ]
     },
     {
-      "symbol": "JSWINFRA",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         1
       ]
     },
     {
-      "symbol": "MARUTI",
+      "symbol": "COALINDIA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "PVRINOX",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "JSWINFRA",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "TATAPOWER",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "BPCL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "BAJAJAUTO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         8
       ]
     },
     {
-      "symbol": "AXISBANK",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "BHARTIARTL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        14
+        11
       ]
     },
     {
-      "symbol": "ASIANPAINT",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "POWERGRID",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        14
+        11
       ]
     }
   ],
-  "summary": "Indian benchmark indices Sensex and Nifty ended flat on October 27 amid elevated crude oil prices and US Fed policy caution.\nWhile banking and IT stocks faced selling pressure, broader market participation remained strong with notable rallies in midcaps, smallcaps, and media shares.\nMajor corporate announcements included robust Q2 profit growth from Bajaj Auto, while Maruti Suzuki and JSW Infrastructure saw profit declines.",
-  "updatedAt": "2026-10-27T14:01:47.122Z",
+  "summary": "Indian benchmark indices closed largely unchanged on expiry day following a volatile trading session. While Airtel and Power Grid advanced 3% each alongside gains in pharma and realty, drag from IT and banking stocks kept indices flat. Stock-specific reactions dominated Dalal Street driven by Q2 earnings updates from Maruti Suzuki, JSW Infrastructure, and Coal India.",
+  "updatedAt": "2026-10-27T15:02:20.958Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-27",
   "articleKeys": [
+    "maruti q2 profit falls 27 on west asia headwinds sales surge 265",
+    "ril to announce q2 results on october 30 board to also consider fundraising",
+    "global bond issuance set to grow at slowest pace in five years in 2027 sampp global ratings says",
+    "jetblue shares surge 12 as airline seeks to calm financial concerns",
+    "coal india h1 capital expenditure surges 27 to 7966cr exceeds target",
+    "us stocks today sampp 500 nasdaq open higher as oil pulls back ahead of fed rate decision",
+    "the hindu semiconductor summit 2026 highlights",
     "pvr inox among stocks that hit 52week highs and rallied up to 20 in a month",
     "jsw infrastructure q2 results net profit falls 11 to rs 328 crore",
     "sebi extends deadline for debenture trustees to comply with norms till april 2027",
-    "cocacola raises profit forecast as premium drinks sodas hold strong",
-    "tata capital q2fy27 results net profit surges 51 to 1660 crore",
-    "91springboard to add 8000 seats across 36 lakh sq ft in five new hubs",
-    "maruti suzuki q2 net profit falls 264 to 2466 cr on higher costs",
-    "tata power in mou with bpcl to develop 110 kv power infra at mumbai refinery project",
-    "bajaj auto q2 net profit rises 62 to 3436 cr on exports ev sales",
-    "india must build semiconductor capabilities beyond chip design says dg of semiconductor laboratory",
-    "why stock market ended mixed today sensex nifty flat as midcap index gains 565 points indiaipo",
+    "closing bell sensex nifty end flat on expiry day pharma realty shine it drags moneycontrolcom",
+    "sensex today nifty 50 stock market highlights sensex nifty end flat after choppy session airtel power grid rise 3 each the economic times",
+    "stock market today highlights october 27 stock markets end largely unchanged amid elevated crude oil prices selling in bank stocks businessline",
+    "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india",
     "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "sensex nifty end flat as oil fed jitters cap upside hdfc sky",
-    "sensex nifty end flat as high crude and fed caution offset sectoral gains india today",
-    "sensex today ends flat nifty below 22750 axis bank asian paints top losers equitymaster",
-    "closing bell sensex nifty end flat smallcap stocks rally media index jumps nearly 4 zee business",
-    "sensex falls over 300 points nifty slips below 22690 as crude prices hover near usd 115 chinimandi",
-    "indian stocks flat amid high oil bank selloff fed caution rediff moneywiz",
-    "is indias stock market heading for its worst year since 2008 crisis ndtv",
-    "indian stock markets fall amid high crude oil it selling rediff moneywiz"
+    "stock market outlook today 26 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei cues livemint",
+    "stock market close sensex falls for 4th day ends 126 pts lower nifty at 22600 vix rises 6 business standard",
+    "five reasons indias stock market is sinking even when its economy is growing bbc",
+    "stock market today highlights october 22 sensex sheds 460 pts nifty falls 123 pts for 3rd straight session businessline",
+    "stock market today trade guide for sensex nifty 50 crude oil and gold seven stocks to buy livemint"
   ],
   "articles": [
+    {
+      "title": "Maruti Q2 profit falls 27% on West Asia headwinds; sales surge 26.5%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/maruti-q2-profit-falls-27-on-west-asia-headwinds-sales-surge-265/article71632199.ece",
+      "publishedAt": "Tue, 27 Oct 2026 20:06:07 +0530"
+    },
+    {
+      "title": "RIL to announce Q2 results on October 30, board to also consider fundraising",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q2-results-on-october-30-board-to-also-consider-fundraising/articleshow/135237289.cms",
+      "publishedAt": "Tue, 27 Oct 2026 19:44:58 +0530"
+    },
+    {
+      "title": "Global bond issuance set to grow at slowest pace in five years in 2027, S&amp;P Global Ratings says",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/global-bond-issuance-set-to-grow-at-slowest-pace-in-five-years-in-2027-sp-global-ratings-says/articleshow/135237268.cms",
+      "publishedAt": "Tue, 27 Oct 2026 19:42:15 +0530"
+    },
+    {
+      "title": "JetBlue shares surge 12% as airline seeks to calm financial concerns",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jetblue-shares-surge-12-as-airline-seeks-to-calm-financial-concerns/articleshow/135237199.cms",
+      "publishedAt": "Tue, 27 Oct 2026 19:40:58 +0530"
+    },
+    {
+      "title": "Coal India H1 capital expenditure surges 27% to ₹7,966-cr, exceeds target",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/coal-india-h1-capital-expenditure-surges-27-to-7966-cr-exceeds-target/article71630764.ece",
+      "publishedAt": "Tue, 27 Oct 2026 19:28:00 +0530"
+    },
+    {
+      "title": "US stocks today: S&amp;P 500, Nasdaq open higher as oil pulls back ahead of Fed rate decision",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-pulls-back-ahead-of-fed-decision/articleshow/135236366.cms",
+      "publishedAt": "Tue, 27 Oct 2026 19:07:38 +0530"
+    },
+    {
+      "title": "The Hindu Semiconductor Summit 2026 | Highlights",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/news/cities/chennai/srm-presents-the-hindu-semiconductor-summit-2026/article71629957.ece",
+      "publishedAt": "Tue, 27 Oct 2026 19:01:58 +0530"
+    },
     {
       "title": "PVR Inox among stocks that hit 52-week highs and rallied up to 20% in a month",
       "source": "Zerodha Pulse",
@@ -130,52 +164,28 @@
       "publishedAt": "Tue, 27 Oct 2026 18:53:44 +0530"
     },
     {
-      "title": "Coca-Cola raises profit forecast as premium drinks, sodas hold strong",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/coca-cola-raises-profit-forecast-as-premium-drinks-sodas-hold-strong/articleshow/135235940.cms",
-      "publishedAt": "Tue, 27 Oct 2026 18:51:14 +0530"
+      "title": "Closing Bell: Sensex, Nifty end flat on expiry day; pharma, realty shine, IT drags - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNUFQTEo3T09fbW02cHU1RVZkLXFic2swMkhkZWJ3bEJTRFlENGpoZFVvVlU4aVpreHkyRzdYV2dQOUZ6NjRwMElkV0x3TF9aSnJmdXljbmZ6UWEwaU5YMXJ6STBBS2o4SlBZMVpqNml3V2N0UklTVnpHTmpuNURNbFppWDByUkMxTmkxTkFLMzg4ZFhLWV9RUzFJdDhsNFlrRnFTX2VLX0NDX0FnamtpZkRRR0dtZmR1ZGVmMDhtUFM1NzDSAagCQVVfeXFMTmZtRlNsZUNmQ29nN0FTNWNWNDBGM0VHTHozcmJYZlRLMUZHSmJiX1VFVHdzZUt1akJmYkFhV2tubjIxcVdoYVhzOE9xaG9hQS1KRERXRHc0SXlNVkp3UmZKbldUbnVIa2hTVmdoUHhJN3JlT3pmeV9USUV5UU5zN3ROMlBTQzZyMW53Mmc2VnhuT1JOaUNwMzhpUXlQQUx6RVl6QkNYbkFjNlJiMERsWW53LXVvLWpSTVdObnltbTJKQ3o3MWpveGZJM1c3VlpqT3hDOGZaS2pyZXhXYTR4OEtBSE9xd28tOUVPWnZVNVp5Y1dJclRwNWg1bVB2SnBncEpPWFFYZTJxRjlEYUJRcF9QTG14WThnSnI1bTVZZXhkdkJiWTRIelo?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 10:36:10 GMT"
     },
     {
-      "title": "Tata Capital Q2FY27 results: Net profit surges 51% to ₹1,660 crore",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/tata-capital-q2fy27-results-net-profit-surges-51-to-1-660-crore-126102701217_1.html",
-      "publishedAt": "Tue, 27 Oct 2026 18:40:27 +0530"
+      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex, Nifty end flat after choppy session; Airtel, Power Grid rise 3% each - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNS3FtTkdVa2dWQk5sbU9xTUF3YUozd1ZHZC1rcWRtMF96RkhfbDJJblZTam5lU1JzMmk4ZDZaQnpfaU1NSFlxWDVxWFJ6WHBIQzlybVNoRUdlQUdBcGYtM05vVlcza3FGWkkxRDZSU2FoUmtWU0JHeHRidGVuazdhQi1wZGdLbjZUeDJ6TXhacWdET20xaTFKX1FZRW16bE5keDFBR1RGZ1oteTFIc3ZuVlMzSDRxaXhJclNQT25lMmhNVU1ENE9iRWMtekNMNnp1Y1NZN1lLelRNT1EySXBuTVdFWHRwV1E2ZWJ1N2dBVjM1Y0I5bkNxVFlLSk1qNUV6MDdyOHR0MmN3TndOc3ZYbS1hONIBmAJBVV95cUxNZ3pqRm9YZmpyZ2RWbmx6TFZfV0VhRmxkb1ZXYVN3bHVlcXh0T0l5N0NTZFptcDNaN192SkwtWURZTnNOZThtS1dRSkhxZzdjeF9CTEh0MXZVWW5KQjg0ZmlsSXZreUNSR1J6MVBpdXVvcHVWOFY0ck0xSHI4bGFfcXVvdG9pNlhFc2c0RWo4TUhJUXhQdVFVS2dzZ1MxaHZKaEFILUZNY3FyYmJ0YjlCV1NpcUtuRGN2VFBhYmpmN0dkNDJ1cFBZWEFwNnN4TmhKZHBoT1RWa1ViRDU1eGE2RVViWWVBNkp4Rm9ONkZPTTJNQjRpSWJteHd3Z21Wb05XQkVzYWo0YVZLZXdwdDhhWUYwdDU3a2xO?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 10:05:54 GMT"
     },
     {
-      "title": "91Springboard to add 8,000 seats across 3.6 lakh sq ft in five new hubs",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/91springboard-to-add-8-000-seats-across-3-6-lakh-sq-ft-in-five-new-hubs-126102701283_1.html",
-      "publishedAt": "Tue, 27 Oct 2026 18:38:54 +0530"
+      "title": "Stock Market Today Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXRPNF9Xa2o3bDRjLURmUDBlZ0FHb3hMNkNHa0xxekQzYjFUNUl5U3BWM3VRWkZqMmo3eE5ueHZaV2pEUVUyQWhsLUh5bFZiNnpsZ2FBNS15RU5pU2xFTjdwLWRHT0xBRGNvRnh0ZUtvMTBfZHJfcnBWVnhNdVp1SjNEZllGS0hwNDNpa09DOE85T2V4NUtHWkxSaFNVbmRQNnJDV3EycmdNUGF1ek8yWXNqTmMyY0dUSWpmTUxxUm4zVG1nUXfSAcoBQVVfeXFMTWVkUHhYRDdSRWROU29Nd09HSW5XbUd5bklVWUxBSHJqemhBcUktV29ZRVBpYU0xSURESWNReGU1TWFTZUdaeUFtMWhqT3VxUzJyem0wZVpFcVdfdDBnME13alVjSTZEVEZFR0lWOHBjSWd1bWRtR2ZkVFVaMlpMaFhEQTFTUnNkSkV2V251emlGN1ZpOG5WSUVsX0hmZzNUM1Y4ZC1UOUJJSVJQNXBBWGNwakd3bEw3N0hLanlVSUVrazBNc25lVXJrdw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 10:47:20 GMT"
     },
     {
-      "title": "Maruti Suzuki Q2 net profit falls 26.4% to ₹2,466 cr on higher costs",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/maruti-q2fy27-results-net-profit-declines-26-36-to-2-466-1-crore-126102700965_1.html",
-      "publishedAt": "Tue, 27 Oct 2026 18:37:42 +0530"
-    },
-    {
-      "title": "Tata Power in MoU with BPCL to develop 110 kV power infra at Mumbai refinery project",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/tata-power-in-mou-with-bpcl-to-develop-110-kv-power-infra-at-mumbai-refinery-project/article71631475.ece",
-      "publishedAt": "Tue, 27 Oct 2026 18:29:21 +0530"
-    },
-    {
-      "title": "Bajaj Auto Q2 net profit rises 62% to ₹3,436 cr on exports, EV sales",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/bajaj-auto-q2-results-standalone-profit-rises-35-to-3-354-crore-126102701063_1.html",
-      "publishedAt": "Tue, 27 Oct 2026 18:04:59 +0530"
-    },
-    {
-      "title": "India must build semiconductor capabilities beyond chip design, says DG of Semiconductor Laboratory",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/india-must-build-semiconductor-capabilities-beyond-chip-design-says-dg-of-semiconductor-laboratory/article71631182.ece",
-      "publishedAt": "Tue, 27 Oct 2026 18:03:48 +0530"
-    },
-    {
-      "title": "Why stock market ended mixed today: Sensex, Nifty flat as Midcap Index gains 565 points - IndiaIPO",
-      "source": "IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXUzSV8xY1IwQmZCLVJRSWl5b29heE8zSWE0dUExaUFsR1pBaGNacFVaZVc5OXUzbFdwajRYMVBFZ2tad0IwWDVrMnEzeExrWktpMHRvWFlENnFybERmSlhLVzZsa1laa3k1Yll2aUVXbC13THhFOUhIV0NIX2pwcTVOSml5ckZJRjhIY3JlTVgxenlXR1owRmdGdDZkSnZSM0w1SDY0dGVGTHRzUDRjYTRfbjhqT2Zrek1HOEdB?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:35:31 GMT"
+      "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdEtlWHMxOTVRZFppZVlvekg3RjRwX3RHbjBEM0RZTXV6X2xxVzlSNWxrSXZrSE1aU2xnd2sydlZpYzQxYnJtNHo3UkJhMkhWa2NDdjBqOUxyUGlEWGQzc1ZOamUzby0xRXhKYzFmUExaV0JQdDF6T3FHMTNNZDB3XzB2ck9tTGR6Mm1YX0Z2bGlXdURxTzlCXzRnTkw3N28tZ3dvamVTeHR4UTVNS2U3ZlVZYnE4SnlVVk0zZFdqd2NMWFU3ZWxER3JJYzh3RzIydFhNdnNzX2VsdEctRTBxdTYwcG85ZDYyaDVwU0JEYzRsSzRzMm1tbjFpQUI2Umd5bHdNUUtyTmxHNkZpX05zVmlPM05aX0xfczZVSkZ4LWI2NE10bFY0ZTVKMFd0WWZ5NEtIOdIBugJBVV95cUxPejVDeTVaWGYtaTBOYVBIMlJxb2dyQ1ZkT2NkNGZXN0R6bzRHeWYwNlBEX3Ezb3Q1ekVnTklWc0Q5Vm9VYWR4WXducldnVFMtOFV3WjY2LWhmeVAwNHlYdk96WnFnN1ZuY0ZuM0Z6MUNoTWsxQklSS3lHWGROdEJlXzhKVHRmdnl1N2lGazBveE54dm1lRHc4dW1BNDBqNm5tVEtmZ2VEUm1iYWRyTXR6ZTJNUWtXMXd5bkl5bEtJeEczaGdJVlNZbndUT1hiYkVxRXo1aHl6ZV9nQVpjX2FucFJnV3hjVDVLR0tsTEdHN2cxTEVfd19lU3I4YmRRMi1VNnRVVzFWTEY2T2V3Y05MRzNpVGduODBJQWNkTl9OcFpJZm5CQXlOMDlKZWJTb0dTbWFYYlZaUUl3QQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 10:29:00 GMT"
     },
     {
       "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -184,52 +194,34 @@
       "publishedAt": "Tue, 27 Oct 2026 01:30:37 GMT"
     },
     {
-      "title": "Sensex, Nifty End Flat as Oil, Fed Jitters Cap Upside - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmV5cmNlY2hydnc0SVZGcWdIVGZxWEhyUWU3QlE1M05YNUpMeWw3R0Q3Z2JWdUo3d2tSZHdjR1RRV1FQVlZOLURJTzBEOVJydkFXREtsUmpkeHFIemJOMW96Z3c1MElNVzlLdzVlcVEzX1N1OEhvTW10NFdOZkJUUm14RzU4Y2ZEOXAwWHZzY0lGbEpsY2FDWFZKZUZlZ0JDamZKRzJYcld5ejdHU0RDS2VnaS1iTmR2?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 11:30:23 GMT"
+      "title": "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ1VteDhIb2FLNjlYTDNFYnpHMkZnUUhzdWp1OXhZVmFEakEwUkRhaFRQWkw1NTFmT3pNWjdtWV9sRG44T2t3ZWJKY2hfZ2JnTVBHMkZaVDFFdWpseUQ2Q1BrMG9UTzUtWmJjaDlEQkJzWkczZ096NWNyekZwODNmTi1vaFRaRHJ5WHVoRnJ0anZ3RnRYVTB0UVJtaWU3VHotWHkyN253b1N2U3FBakhfcFBMcVotUXJEZVB3bV9VN0NpWnJIT2dQQ1lhNm9TNTJ0TnhSOHctb3FKeldmVmtzN0Y1UXBNWXkwckpSdU5LM2FpSDNrNGdkQmhOY3RzVThScmfSAYcCQVVfeXFMTVhYNU56cEdVekczaDV0QXFhMWhxYk1ScXYxVGpyZURHTDQyYmJYdTAtdEt3S0NPaDVxaXpodmMwNko5bzJtcnZjSlV5Xy1WS3ViVDFDWk9TUUdjclpRMnpGMWsweklyTk5SenllRUR4QnF0N1pMU0NaTXNHTWw1NmljUE1FX2FSOUtaZGc3SldjMVBjNzZsV2EyUEVTdlZ4STlGY0JTRlNOUGFxUVN3bC1kVWlTSHNUb0NlQUhSZmw1UlZxWkJHQjNMYlI2V01JZ2ZCcldqemg2Qk81NFZESE1yVjZORUxBSnlYY1FYaGtSeXowOEUwYVVSXzRuRWs2UjFhNmkzdlU?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 01:22:14 GMT"
     },
     {
-      "title": "Sensex, Nifty end flat as high crude and Fed caution offset sectoral gains - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSE5fd2R2dlZMSHNPUEg2cnQ3WktSX1BzbUVuWnE5aVNkdlZjSzN5NkVXZzZHUE1MUldtRFdCRXYyX2l2WFo3allFekdTSW91VEl4RFVoWG1mZ2wxOHk0YmhNRXo0dmZfNkdUZUt0VGVGNmhsMkN1d0lCaGxDS2VSTFh0WGpmS2dHSVpfMWUycTZTVTZ4bjktU05VQ0FDOFZHVlBoNzhzUFYyNU9YSFZVUUM1WFg2VC1yMHFCZmJyMEZwWW9pNzNDWlZjSHNjQTRS0gHWAUFVX3lxTE44RkJWdG9HajgtbVZVSjlnQ1hPdF85akRSWF9BZTBpeGMzeXlNTDMwRXFpYk9QLVdfRlFMZ0xPYUI0MGpHZnVfWmZLdTJrNlVzeGpLOWdSOVNjV25EVVRBLTdqNTl4NXlGQzlucThWbWVyU1hxVGFNQ3M3bkthSnJYSTIwVW9TcEJsanhyV0lDNldtd3NmbE8wU0taeHpVUkM3RVBLQTZkYzkzMXB3dVdaSS1oMF9ndE1ZcUhXMHBiT2JjbkhyckJwQzdjZnIzLTJSelB4cUE?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:37:50 GMT"
+      "title": "Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 6% - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVFFeGltOU5ULVFVeVBYQmUzRGpXN3hDRjN3VXRoeDFGWTVsV1RqME43WkRnV2l4OExfTndoWjF6UlpIYWJrYnh0V0NGXzZJeWk0d0NrTF9YbG0tbVJ0dTVyUFhlQnVNc0tBVWhCcjdkWjZTWTNhdFdwVEZRM2gybGt4UVNkN1k5N1ZpWE16dFNEX0I0WEdXWHp5Z0VabmdDX2ZMbzZUTEE1b3NSWC0xbGlucGE3UG5zQjdWdnI2MnlWWFc3d0FFT0NLcUR0QjBuMmhWZ3VDbGtQZGtSTGQyem9MRUJWbDZLejB4VEgzRGdhMVZHZlppTzBGWHplU0pLT2plaEM4VVjSAY4CQVVfeXFMTlFIS1BXeGVHaWtoYTdma0N6aGk0bXVXUG82RjdzclBtejdBRHhJY0NsdVl1bWJBUGhCaTZYanY5ZDVIOENxckgtSHlzTDYxdVAweWpRakwwYmh2eGlmaXJ0YXNXS1JxUGxoV2xMWjhaU3FJblBjQm10ZTZ1enJDbDd0RndDd2F4Znc4WWtKTGNsd0dIeUowMktXUHdaQ3JBLV9EdXg3VGVYbW5SN1p1QVdxalJGTFljNkVJeWVFdnUwbE56YkpaTG9tQUxEREN3TzdlX21jay1jVHFmcHhPOHdwVThTbmpYdkQtdVRmMjBxV0NZVGVYeHFRbnpWcjRwQXY4RGtTQUxuSGhkaXpn?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 10:22:05 GMT"
     },
     {
-      "title": "Sensex Today Ends Flat | Nifty Below 22,750 | Axis Bank & Asian Paints Top Losers - Equitymaster",
-      "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZnZSRWJxOEQyWXg1YVB1VXlXeUFVbTVicHBxMkxUbnJxbnhhTlZKU3p4V0c0dk1vbjY3NVBpOFNmRVUwNWVCSC00ZkNkTDNHRHUyOVFpWVZzMXVRQzNzbWtLMGEwQ3ZRaEZCVnl4MVN1WXQtTmNVa1Z3ZVFDTTJxeHZYQzJwQlpmQU9FTjRtRldzUXhGSkJFQ2tpRURXVnJ0UTNXUmE4SE5lLUdXSmNlYkVpRGpnVzI4akcxcENlcG83QWJTNE1RZEdDOGVNVncxTnM2Nw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:44:17 GMT"
+      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "Closing Bell: Sensex, Nifty end flat; Smallcap stocks rally, Media index jumps nearly 4% - Zee Business",
-      "source": "Zee Business",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbTZGb3B5dnN0eGg5dFFja0hhMlMtenlIbHRsZUctRjdkN0V6bWhQSXVuWVB6TTFyVW1VdzVwcFFJcU1oVjZxMUw5WDEzc2xKaFY2aGNpOUlmVnBkWk5wdXpQWW9Ra1Q5UUVpcWs1VE54MlV4eURqaVBPZFNnQXVoLVB3VUpGY2dsLWNiUjhuV0FxUklBR0otVlJWRVdjWFA5MU55R3RYUGpqTmdJaF9VRUdFMnI4ZTI1Z2szaGZEaDhnSWljRWI0dmxB?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:05:42 GMT"
+      "title": "Stock Market Today Highlights, October 22: Sensex sheds 460 pts, Nifty falls 123 pts for 3rd straight session - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdFR2UDFfdVBVdU9ZNmw2b3k3TkFZS0hHN3llY0Y4U3VKNFlfREdBS1Bhc1lpbExvS1ZKV3ZKY042eVZockhtNXk5NFVfRG5PbTNmNlRyM0xDM19sdkVndTBNS2xWNFlHN0NlY19qNlFjWlVLSGRFZHNvelBHTXRKUzhTZjVBdDJXdlRTVXAyWjV5NE1yWjlXc1U4QjQ0aHBLc1pqY3ZGcEZLTXB1eDBLcWhaTDZ1U1ZmVEh0b3h0X3VPZWFhcFFDTdIBzwFBVV95cUxPU1BaM3duQUxZSnJlLVFsVkR0NEQ2OXllZlN0SUx4Q2lxYlJSeTBnTDRVNXMtMW80OXVVM1dFcmxfM0RoZnJRZ2hfVF9wYW40Nk42anN4cUNOWGYyc19zajVPVGVldlU1ZmxIT1VIV2I0U0NuMWZhZzI1b0VVdUZyQllWMVVmYVhtZ3A3Z3FsWXJIYVdEdHlzdHRTUi15enhLY0pJZE8xblFBQkt4dy1XbVlTNFk5YlRYdUFLODYtaEtNakFXYzdzM1dRYU1uSms?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 10:47:12 GMT"
     },
     {
-      "title": "Sensex falls over 300 points, Nifty slips below 22,690 as crude prices hover near USD 115 - ChiniMandi",
-      "source": "ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcmRhRE82OHJmcGZSMTVlUlFxZmlpdE1iQ3c3eVdNOVB6Q0hHVGZzVkhGRXEyUDFVdlpzZTJpLWwyeGJmZ3hEdlFjQ1J2YUNJOFNwaF81ZXN2ZHNPTGc5N2FDTEItZEU1SWxOc3BVUVBwRzFGYi1GbWJrNHZZSEJ1SmNqU2NmQlFiS3NTUkNTYUZxZktxaWEtS0xFWWs1Uk1BZURsZ0Q5MmdRYmd0X1FBeElqLUxjZw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 04:26:12 GMT"
-    },
-    {
-      "title": "Indian Stocks Flat Amid High Oil, Bank Sell-off, Fed Caution - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaE94ZzJ5dnQxdWVKWG1pRDVyUGRja0JfdEdSdXBnMzNLTjl1Q0ZhRUNfMDNmTWhRamdJQTJUZzNBdWNSWG5TYVp4OUQ3Z0p2bEpTTk9kZUVJY0thSk9IM19qSy1DVkNxOFR6SFphTEkxWHRuLVl1T1hVd1BDUnB1MFpaZ056anFvZDZhSWFDMUJ1V2czT3dNbnp0eU56MkMyYUtBMnZFQkxyVVN5OTBj0gG0AUFVX3lxTE9sdGR4dWFjdV8xTHpMMTFyeERSZEVjNWNBOFpNWW9DNkN2M0pnYkc0T08tVlFIQ1V2cnlrbmF6OGZwSnp2TDdsZmY5dTVadTNHdFRHdEs2cUpBQlRieFFud1hRS0daLUNzMTRrRUFfLVhXT2tFV1JVQ2t0VDJXQm1QZmFsWWZZMko5eHpBODE1V3dZVENIb3ZYMWk5aHU1b1QyUkd1ek13VkNOSS0zbHRzcmpycQ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:43:42 GMT"
-    },
-    {
-      "title": "Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV",
-      "source": "NDTV",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 08:56:28 GMT"
-    },
-    {
-      "title": "Indian Stock Markets Fall Amid High Crude Oil, IT Selling - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObW53cEVTY0FaWWVSb1VGcTlGSFE2c05SaTFxTGtaU2ZTNk4yaWw0YVZ2MHZTM3o4aHlDWEJXaGl2VXlmV2ZSUHhEQVNzc3BBUjg2NzBackZSWjczMWppQ1hqUUhJd0ZoU3pGSkVQMjBkWWdRaXVadVl1eDZ5aWpDRWJmeFNUZkZFdVM5a0RsRVh0bXhtX1ZPMjI5dUJSbU5KeE5vQWtOOVdpWFVR0gGyAUFVX3lxTE9wdFNDQkMtdkp2NEZnT3VJelQwUUQ0Qm1Bblk3azVwWERkeWpRdzlMVXZ2RUI1VUJQbzRxQnhucUlMNUJlS1RCQ2E3ekIzWHV0dUlyM19Vb2EwaVFRNWlvWFJNZ3dwWDEtVXZEbUlORmMxbXFpaGstQWItWkQtM0t4Ry15ZjNSMnBoRlRRSEFVd25zQThodDBfUEx6UFE0MHlEUVFmYUZHeHlONTdSdVFQa0E?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 04:41:41 GMT"
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Seven stocks to buy - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWl0allDLTJ6TzItdGRCUGdkUmMtNmNmV3JXODNDVk83dXhCajVMR3pBS28tdWZQS2RTQmY1U1hHcC1DaVN1ajR3V2t6dDlIdFVlaWpYT3NrSHctbElzV21jN1QxYU11R3lxOW9TMDdSRlZsUjgtUWlERlVSbXBvdXpsWmgwS1ZpZ2d2QUF1MnQyR190TGVGQTFKSk1mNFZhYlRRdTdZMk5IeUxOYXJkZUVuZl8xMDFpS004RzFlMVQ4UjhkTEF6SnhOMjFYc3VvQzBLRkRqWlF2SmczUDYzMklTM3JKeVJlX1Vfd0oyTHrSAfYBQVVfeXFMUEw0RzE2T1JoV1Y1WlJQVzloYnVRaWVzTE4xVGx0MmVGVFdVYmE2bW5GMmxRbkstSnVubG9udTAtRncwbWxlT2ZHWmxaZko5YXZURF9pWlhwSXNLTFZJSXRhSldaeHN5elNCS3NoZFl1QVVRRGZWb0p5YTdmQ3BKRzBWUU4wNlJKQ3dzSmFQN3ZkRnpHYzZLTkNMS3ZiQVpId0NxRzRqY0ZReDlNNWhFS2FMM3BKblh6Q3A2OUFIOHpVbEZ1dWRCZDYtV1Bvekk5U0JHb29pSmQ4WVI1VlZyWTJUVmpnUTFUTTQ0blRjakxqc1FaRnFn?oc=5",
+      "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT"
     }
   ]
 }
