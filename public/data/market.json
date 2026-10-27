@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty Open Lower as IT Stocks Decline; HDFC Bank Announces CEO Transition",
+  "headline": "Sensex and Nifty trade lower amid F&O expiry and Q2 results, while ITC Hotels rallies on strong profits",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,121 +7,197 @@
     "nextOpen": ""
   },
   "why": [
-    "Benchmark indices Sensex and Nifty 50 opened in negative territory following global cues.",
-    "IT sector stocks are leading the sectoral declines, weighing heavily on the broader market.",
-    "Market volatility is expected to persist ahead of the upcoming monthly F&O expiry.",
-    "Global factors, including oil prices trading below $115, are influencing investor sentiment."
+    "Nifty F&O expiry today with significant open interest build-up at the 22,700 and 23,000 levels",
+    "Heavy selling by Foreign Institutional Investors (FIIs) in large-cap blue-chip stocks",
+    "Mixed reactions to Q2 earnings reports across various sectors including aerospace and hospitality",
+    "Weakness in IT stocks and global cues impacting the broader market sentiment"
   ],
   "whatHappening": [
-    "HDFC Bank announced a leadership change with Anup Bagchi taking over from Sashidhar Jagdishan.",
-    "Mankind Pharma is seeing a sharp rise in futures open interest among F&O stocks.",
-    "The Nifty 50 is trading near the 22,700 level after an initial drop in early trade.",
-    "Investors are tracking IPO grey market premiums and subscription statuses for EAAA India and BLS Polymers."
+    "The Sensex fell over 200 points in early trade before recovering slightly to trade near 22,750",
+    "ITC Hotels shares jumped 6% after reporting a profit surge of more than 50%",
+    "Aerospace company Aequs saw its stock price plunge 19% following its Q2 financial results",
+    "New IPO activity continues with Wiscon Industries opening today and EAAA India Alternatives entering day two"
   ],
   "stocksInNews": [
     {
+      "symbol": "AEQUS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "ITCHOTELS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        13
+      ]
+    },
+    {
+      "symbol": "BSE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        13
+      ]
+    },
+    {
       "symbol": "HDFCBANK",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         5
       ]
     },
     {
-      "symbol": "MANKIND",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "symbol": "ICICIBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        17
+      ]
+    },
+    {
+      "symbol": "WISCON",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "EAAA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         2
       ]
+    },
+    {
+      "symbol": "JIO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        7
+      ]
     }
   ],
-  "summary": "Indian benchmark indices opened lower on Tuesday, with the Sensex dropping 200 points and IT stocks leading the sectoral decline. HDFC Bank is in focus following a major leadership transition, while Mankind Pharma shows increased futures activity. Markets are expected to remain volatile as investors look toward the monthly F&O expiry and Q2 corporate results.",
-  "updatedAt": "2026-10-27T04:31:30.271Z",
+  "summary": "Indian markets are volatile on F&O expiry day, with the Nifty 50 hovering around 22,700. ITC Hotels is a top gainer following strong Q2 results, while Aequs has plunged 19%. Investors are also monitoring several IPOs and the impact of FII outflows on blue-chip stocks.",
+  "updatedAt": "2026-10-27T05:01:52.701Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-27",
   "articleKeys": [
-    "stock market live benchmark indices sensex nifty 50 negative in preopen oil below 115",
-    "bond market is a buy right now jp morgan asset managements fixed income head says",
-    "mankind pharma among 5 fampo stocks with a sharp rise in futures open interest",
-    "csmt turns into sea of commuters viral video captures mumbai railway chaos after signal failure",
-    "etmarkets smart talk bond yields may rise further over the next few months avoid aggressive duration and credit bets suyash choudhary",
-    "hdfc bank ceo transition sashidhar jagdishan exits as anup bagchi takes charge",
-    "tu hai meri kiran box office collection day 4 sonakshi sinha zaheer iqbal starrer sees sharp drop",
-    "roadside scam in mumbai man blocks car claims his toes were run over demands rs 6000 viral post",
-    "ipo gmps today eaaa india vs bls polymers vs sfc environmental check potential listing price subscription status and more",
-    "urban company motilal oswal upgrades rating to buy as core business gains momentum check target price",
+    "stock market live markets recover from opening lows sensex down 100 pts nifty near 22750",
+    "aerospace stock aequs plunges 19 after q2 results why are investors worried",
+    "eaaa india alternatives ipo day 2 check gmp subscription status and other key details",
+    "wiscon industries sme ipo opens today check price band and other key details",
+    "indias 1 lakh crore club stocks hit hard by fii exit have bluechips lost their growth engines",
+    "q2 earnings done for hdfc bank icici other private lenders whats next",
+    "itc hotels shares extend rally jump 6 after q2 profit surges more than 50",
+    "will rs 5 lakh crore bet on jio open floodgates for indias mega ipos",
+    "nifty fo expiry today 22700 emerges as key battleground sees heavy oi buildup 23000 call oi in focus",
+    "stock market today sensex falls over 200 points nifty 50 around 22700 fo expiry q2 results in focus",
+    "sensex today nifty 50 stock market live updates sensex falls over 200 points nifty below 22750 it stocks decline the economic times",
+    "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india",
     "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market outlook today 26 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei cues tradingview",
-    "stock market today gift nifty to nasdaq nikkei rally five key factors that may drive sensex nifty 50 on october 27 ndtv profit",
-    "sensex nifty snap foursession losing streak as value buying lifts markets the indian awaaz",
-    "opening bell sensex nifty 50 open 020 lower it stocks lead sectoral declines dalal street investment journal",
-    "stock market today sensex drops 200 points nifty trades near 22700 it stocks weigh zee business",
-    "stock market outlook today october 27 sensex nifty likely to remain volatile ahead of monthly expiry goodreturns",
-    "mindboggling monday at indian stock markets sensex nifty mirror lifes ups and downs october 26 trade details livemint",
-    "stock market today sensex opens 122 points lower nifty 50 near 22700 fo expiry q2 results in focus ndtv profit",
-    "stock market prediction for monday oct 26 sensex nifty levels top stocks to watch will bulls dance again livemint"
+    "sensex today nifty 50 stock market highlights sensex snaps 4day losing run ends 483 pts higher nifty tops 22750 jsw steel rises 5 bse 4 the economic times",
+    "trump hints at an iran attack or deal impact on india stock market sensex nifty gold decoded top 10 stocks to watch livemint",
+    "stock market outlook today 26 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei cues livemint",
+    "stock market close sensex falls for 4th day ends 126 pts lower nifty at 22600 vix rises 6 business standard",
+    "stock market today highlights october 21 sensex drops over 400 pts nifty at 22700 eternal bajaj fin lead losers businessline",
+    "stock market today trade guide for sensex nifty 50 crude oil and gold seven stocks to buy livemint",
+    "indian stock markets fall amid high crude oil it selling rediff moneywiz"
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Benchmark indices Sensex, Nifty 50 negative in pre-open; oil below $115",
+      "title": "Stock Market LIVE: Markets recover from opening lows; Sensex down 100 pts, Nifty near 22,750",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-october-27-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-jio-ipo-listing-price-126102700086_1.html",
-      "publishedAt": "Tue, 27 Oct 2026 09:07:42 +0530"
+      "publishedAt": "Tue, 27 Oct 2026 09:59:29 +0530"
     },
     {
-      "title": "Bond market is a buy right now, JP Morgan Asset Management's fixed income head says",
+      "title": "Aerospace stock Aequs plunges 19% after Q2 results. Why are investors worried?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/bond-market-is-a-buy-right-now-jp-morgan-asset-managements-fixed-income-head-says/articleshow/135223602.cms",
-      "publishedAt": "Tue, 27 Oct 2026 08:58:08 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/aerospace-stock-aequs-plunges-19-after-q2-results-why-are-investors-worried/articleshow/135224407.cms",
+      "publishedAt": "Tue, 27 Oct 2026 09:58:45 +0530"
     },
     {
-      "title": "Mankind Pharma among 5 F&amp;O stocks with a sharp rise in futures open interest",
+      "title": "EAAA India Alternatives IPO Day 2: Check GMP, subscription status and other key details",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mankind-pharma-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/135223707.cms",
-      "publishedAt": "Tue, 27 Oct 2026 08:56:32 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-ipo-day-2-check-gmp-subscription-status-and-other-key-details/articleshow/135224352.cms",
+      "publishedAt": "Tue, 27 Oct 2026 09:55:09 +0530"
     },
     {
-      "title": "CSMT Turns Into Sea Of Commuters: Viral Video Captures Mumbai Railway Chaos After Signal Failure",
+      "title": "Wiscon Industries SME IPO opens today; check price band and other key details",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/csmt-turns-into-sea-of-commuters-viral-video-captures-mumbai-railway-chaos-after-signal-failure-12240585#publisher=newsstand",
-      "publishedAt": "Tue, 27 Oct 2026 08:55:54 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/wiscon-industries-sme-ipo-opens-today-check-price-band-and-other-key-details/articleshow/135224316.cms",
+      "publishedAt": "Tue, 27 Oct 2026 09:52:03 +0530"
     },
     {
-      "title": "ETMarkets Smart Talk: Bond yields may rise further over the next few months; avoid aggressive duration and credit bets: Suyash Choudhary",
+      "title": "India’s ₹1 lakh crore club stocks hit hard by FII exit. Have bluechips lost their growth engines?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-bond-yields-may-rise-further-over-the-next-few-months-avoid-aggressive-duration-and-credit-bets-suyash-choudhary/articleshow/135223491.cms",
-      "publishedAt": "Tue, 27 Oct 2026 08:54:03 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-1-lakh-crore-club-stocks-hit-hard-by-fii-exit-have-bluechips-lost-their-growth-engines/articleshow/135224230.cms",
+      "publishedAt": "Tue, 27 Oct 2026 09:47:00 +0530"
     },
     {
-      "title": "HDFC Bank CEO Transition: Sashidhar Jagdishan Exits As Anup Bagchi Takes Charge",
+      "title": "Q2 earnings done for HDFC Bank, ICICI, other private lenders. What's next?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/hdfc-bank-md-ceo-anup-bagchi-takes-charge-in-transition-sashidhar-jagdishan-exits-bank-bse-sensex-today-12240662#publisher=newsstand",
-      "publishedAt": "Tue, 27 Oct 2026 08:53:39 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-done-for-hdfc-bank-icici-other-private-lenders-whats-next/articleshow/135224155.cms",
+      "publishedAt": "Tue, 27 Oct 2026 09:41:29 +0530"
     },
     {
-      "title": "Tu Hai Meri Kiran Box Office Collection Day 4: Sonakshi Sinha, Zaheer Iqbal Starrer Sees Sharp Drop",
+      "title": "ITC Hotels Shares Extend Rally; Jump 6% After Q2 Profit Surges More Than 50%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/tu-hai-meri-kiran-box-office-collection-day-4-sonakshi-sinha-zaheer-iqbal-film-sees-sharp-drop-check-monday-earnings-12240678#publisher=newsstand",
-      "publishedAt": "Tue, 27 Oct 2026 08:52:59 +0530"
+      "link": "https://www.ndtvprofit.com/markets/itc-hotels-share-price-stock-jumps-to-extend-rally-after-over-50-surge-in-q2-net-profit-12240821#publisher=newsstand",
+      "publishedAt": "Tue, 27 Oct 2026 09:37:52 +0530"
     },
     {
-      "title": "Roadside Scam In Mumbai? Man Blocks Car, Claims His Toes Were Run Over; Demands Rs 6,000 | Viral Post",
+      "title": "Will Rs 5 lakh crore bet on Jio open floodgates for India's mega IPOs?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/roadside-scam-in-mumbai-man-blocks-car-claims-his-toes-were-run-over-demands-rs-6-000-viral-post-12240468#publisher=newsstand",
-      "publishedAt": "Tue, 27 Oct 2026 08:49:01 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/will-rs-5-lakh-crore-bet-on-jio-open-floodgates-for-indias-mega-ipos/articleshow/135224079.cms",
+      "publishedAt": "Tue, 27 Oct 2026 09:36:38 +0530"
     },
     {
-      "title": "IPO GMPs Today: EAAA India Vs BLS Polymers Vs SFC Environmental; Check Potential Listing Price, Subscription Status And More",
+      "title": "Nifty F&O Expiry Today: 22,700 Emerges As Key Battleground, Sees Heavy OI Build-Up; 23,000 Call OI In Focus",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/ipo-gmp-today-eaaa-india-vs-bls-polymers-vs-sfc-environmental-check-potential-listing-price-subscription-status-and-more-12240514#publisher=newsstand",
-      "publishedAt": "Tue, 27 Oct 2026 08:47:01 +0530"
+      "link": "https://www.ndtvprofit.com/markets/nifty-f-o-expiry-today-22-700-emerges-as-key-battleground-sees-heavy-oi-build-up-23-000-call-oi-in-focus-12240814#publisher=newsstand",
+      "publishedAt": "Tue, 27 Oct 2026 09:35:24 +0530"
     },
     {
-      "title": "Urban Company: Motilal Oswal Upgrades Rating To 'Buy' As Core Business Gains Momentum; Check Target Price",
+      "title": "Stock Market Today: Sensex Falls Over 200 Points, Nifty 50 Around 22,700; F&O Expiry, Q2 Results In Focus",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/urban-company-motilal-oswal-upgrades-rating-to-buy-as-core-business-gains-momentum-check-target-price-12240644#publisher=newsstand",
-      "publishedAt": "Tue, 27 Oct 2026 08:45:35 +0530"
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-sensex-nifty-50-fno-expiry-brent-crude-q2-results-paytm-tata-consumer-rec-12240745#publisher=newsstand",
+      "publishedAt": "Tue, 27 Oct 2026 09:35:07 +0530"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex falls over 200 points, Nifty below 22,750; IT stocks decline - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNS3FtTkdVa2dWQk5sbU9xTUF3YUozd1ZHZC1rcWRtMF96RkhfbDJJblZTam5lU1JzMmk4ZDZaQnpfaU1NSFlxWDVxWFJ6WHBIQzlybVNoRUdlQUdBcGYtM05vVlcza3FGWkkxRDZSU2FoUmtWU0JHeHRidGVuazdhQi1wZGdLbjZUeDJ6TXhacWdET20xaTFKX1FZRW16bE5keDFBR1RGZ1oteTFIc3ZuVlMzSDRxaXhJclNQT25lMmhNVU1ENE9iRWMtekNMNnp1Y1NZN1lLelRNT1EySXBuTVdFWHRwV1E2ZWJ1N2dBVjM1Y0I5bkNxVFlLSk1qNUV6MDdyOHR0MmN3TndOc3ZYbS1hONIBmAJBVV95cUxNZ3pqRm9YZmpyZ2RWbmx6TFZfV0VhRmxkb1ZXYVN3bHVlcXh0T0l5N0NTZFptcDNaN192SkwtWURZTnNOZThtS1dRSkhxZzdjeF9CTEh0MXZVWW5KQjg0ZmlsSXZreUNSR1J6MVBpdXVvcHVWOFY0ck0xSHI4bGFfcXVvdG9pNlhFc2c0RWo4TUhJUXhQdVFVS2dzZ1MxaHZKaEFILUZNY3FyYmJ0YjlCV1NpcUtuRGN2VFBhYmpmN0dkNDJ1cFBZWEFwNnN4TmhKZHBoT1RWa1ViRDU1eGE2RVViWWVBNkp4Rm9ONkZPTTJNQjRpSWJteHd3Z21Wb05XQkVzYWo0YVZLZXdwdDhhWUYwdDU3a2xO?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 04:53:15 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdEtlWHMxOTVRZFppZVlvekg3RjRwX3RHbjBEM0RZTXV6X2xxVzlSNWxrSXZrSE1aU2xnd2sydlZpYzQxYnJtNHo3UkJhMkhWa2NDdjBqOUxyUGlEWGQzc1ZOamUzby0xRXhKYzFmUExaV0JQdDF6T3FHMTNNZDB3XzB2ck9tTGR6Mm1YX0Z2bGlXdURxTzlCXzRnTkw3N28tZ3dvamVTeHR4UTVNS2U3ZlVZYnE4SnlVVk0zZFdqd2NMWFU3ZWxER3JJYzh3RzIydFhNdnNzX2VsdEctRTBxdTYwcG85ZDYyaDVwU0JEYzRsSzRzMm1tbjFpQUI2Umd5bHdNUUtyTmxHNkZpX05zVmlPM05aX0xfczZVSkZ4LWI2NE10bFY0ZTVKMFd0WWZ5NEtIOdIBugJBVV95cUxPejVDeTVaWGYtaTBOYVBIMlJxb2dyQ1ZkT2NkNGZXN0R6bzRHeWYwNlBEX3Ezb3Q1ekVnTklWc0Q5Vm9VYWR4WXducldnVFMtOFV3WjY2LWhmeVAwNHlYdk96WnFnN1ZuY0ZuM0Z6MUNoTWsxQklSS3lHWGROdEJlXzhKVHRmdnl1N2lGazBveE54dm1lRHc4dW1BNDBqNm5tVEtmZ2VEUm1iYWRyTXR6ZTJNUWtXMXd5bkl5bEtJeEczaGdJVlNZbndUT1hiYkVxRXo1aHl6ZV9nQVpjX2FucFJnV3hjVDVLR0tsTEdHN2cxTEVfd19lU3I4YmRRMi1VNnRVVzFWTEY2T2V3Y05MRzNpVGduODBJQWNkTl9OcFpJZm5CQXlOMDlKZWJTb0dTbWFYYlZaUUl3QQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 10:29:00 GMT"
     },
     {
       "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -130,58 +206,46 @@
       "publishedAt": "Tue, 27 Oct 2026 01:30:37 GMT"
     },
     {
-      "title": "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWURkT2xWWHRYUGRrT1NLNFZnTFJuZGNTQ2ZUMzFESkJ1eGMyOXNDVDVTekRwMENnS0pZS0daN21kQkE4UnJqcC1lMjdMaGhPT2RmUG5rRDQ4Tk43ck80OVlSRVNLQ1g1WDZQTXRObmhkd2V6a0tMOE5vN1BiY2ZNV2JSV29KRVJRZWZpSkg3MUNHWGZXTUsxZEFVVS1sbHJtUTVMWFVtTGZURGhGdVBDSnRwT0VnQndlSkJxUjZXWEgtdXI0WlVnWWpMbmV5QnZXTTM4MFJBOERfeXJ1czRSN19rdWE1aVJVYUdsWmU4WU0?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 20:25:36 GMT"
+      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex snaps 4-day losing run, ends 483 pts higher; Nifty tops 22,750; JSW Steel rises 5%, BSE 4% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQeU40YXgwSGRCQ2pUeWItdWw5QUdSZzZiUkRHRXdEVF9RQjNlanEybl9tRXBweF9yeUFYVngyT2VnM3F6R0hsR0NFc3ptQVNPV2xtcC1MS0sxSmYwQlFiNVNqZ0JZWmcycU85anpsQ19xSzRaTC15STdoYWw2bExjTS1iMjRvNFhtb2pFcFVQNFV6eWxzN0xnS0lZRlhtbjFoRlFWNkoyeGdOX1BrSmNwdThkbFcxTnFnR3plczVCOU8tRUpaUUZhNDFOVlIza2xDaGw1N05jTTUxUUZvc3FnbFZ3SkV3Q054UDhXT3o4eVhLcTRtYUVTa3dFdFZENVRjbTU5QUVFeHRvY1dkR3RwWE1R0gGXAkFVX3lxTE8teWxrY0ZsUmdFcUdRSmR3QkhwZHRLTkgwTTAyaWZHWjNzVXhxTHl4a0lxX2swSnN3RmJvUDJxOGJ6d2hXVzRMQkdJdklBeGhfZ3pZcGpMRGs5U3N6OFRQMndiOEk0RWpuWXRaS1NFWnhoQ252dDNZRVdOLS0ybFZDT0dtQzV3Wnl6YThnbVpqb0dzUHVKMUNTSFFuUkg5WHF6UFN4aTJLaUxjanU4d1hXVnUxSnVRN3ZtOXVwMXNYTlhSLXN0d0tLRXNibk1zMXd4V1lRa2d0R2xXZUZvV3pEbTBCTGMzSDZCdHl3ZWN6ZExiNzlZdFFpOWZwU0VieHpyRTExTHg4RENxcjFNbUlLWTByYkhXWQ?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 10:05:22 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty To Nasdaq, Nikkei Rally; Five Key Factors That May Drive Sensex, Nifty 50 On October 27 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRzZRMlp6YkttTXZnZk52bmtrcndqNDZVVENZWHVUNEtyQWVlR2xVRXZfaE5tMFBwTFJwcm0zR0ZtbkdockVWM0dfcDBQaEpIQWl6NkYwN2hUaWstdl9zN2NndkFVMlZIam1UMGVzNzdPdi1lSkdjeTBsQXFFRXZaYXMwT3N3ejRpbWtCUlFYSUYycEtBb1FOck1kakhPTEx1cEw4SEx0aENzNFZIVTZtRVZreC1ackJLYk9lTzhueVByOUtTTmFZVzlNN2JZaHBqOWZ6QXBRRGwwV2dObmNhaXppTjhyeVFnSk5Odlo0VdIB9wFBVV95cUxNTDRmX2ZtTEFsNWNVWFFJYm9oNG1DQ2tHT0FjU2pQN3hqZWVVWmp3UEpxYXJqSW1PMDRmM3VnRHRoSGlsclZGdk1zUmV1SzRhcExha0Npc2d4aThyM1VZVU1Uc00yNkhrM1lfVlBsejFUZ00wUUNLampPbDRHVUNoVlRaNkVvdzFXZTY4anJheGdsUUNqREdHV3NTVXBUbHpxMVo3bDEzbGF1c043WFEwNzg4ZjZCNU1OYU1KUkMxRVZjNnFNNE5pQktSRG1RWDFkNWdFWWxobThjc1RLcjZVWEpTampSelNMakY3aEpuNzQyT1RaaTdr?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 01:40:13 GMT"
-    },
-    {
-      "title": "Sensex, Nifty snap four-session losing streak as value buying lifts markets - The Indian Awaaz",
-      "source": "The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUXdCdEJNR2ZBeXZ2M3psREpoelN1NWZ3V2tpdlJtZDVVdHJDZG92WXRaT3BROWVvTXU3WnZ3cVB6d2RHREVfbXFWQWFOSHR1bkRFQk5mZHJSaktzVVdTVFhpdXUtT2NJdXY4YVdJblVUZTJyTXVRWTltMUsxWE11OTM1R3cydFlPVHlyZ1Vfb1MxZmlBSkZUM1JzOG16SHhmWFRDSw?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 19:58:00 GMT"
-    },
-    {
-      "title": "Opening Bell: Sensex, Nifty 50 Open 0.20% Lower; IT Stocks Lead Sectoral Declines - Dalal Street Investment Journal",
-      "source": "Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3o1cXh1VGdMYzBsQ3dUVTAwVU1BV09kU05Gck9yNWQxeVVfSXpIN2p3Zk5BNDV5WHFrbFhEZXlzQXB3aHNZY3JDcFFobzFGN2RycE5CUFY4XzNwODMyTjVyeDZTT2pYSmwwNWFMXzBuVzBBYndJdWotUV82cDBTZmFJVjlIbE01QmxoMHRNYlo4cWtTaXpFT1RmLUJuQVV3LVVBM1dvQTNnUm9ocUtraXlwMURETWZZN1g4cUtzLVNZbE0?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 04:08:19 GMT"
-    },
-    {
-      "title": "Stock Market Today: Sensex drops 200 points, Nifty trades near 22,700; IT stocks weigh - Zee Business",
-      "source": "Zee Business",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0NxTGYyVHVUNGxSRlpNVGJqVzhTc2NKN1JEYm1teXQyd1JQRkRGaWdVRDRKZU5Yc2VYVl95ZlMtNzhuWEt2aGVQQnN1VS1xU29Fc3dZZFlZVG40d2JkeWs2eWxHWHJ4WjFIODh2YlNMcksycmxoM2RJOFZDY1VxckxCdmFWRVZaRXdHRks1cGtxajVySFJoZVRnVHQtdDZOMHFKTmszYVRTd2ZQZldWcmN3aXAyQkpjNjdzUXlUZVRGNTNUc2JmUg?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 03:49:17 GMT"
-    },
-    {
-      "title": "Stock Market Outlook Today, October 27: Sensex, Nifty Likely To Remain Volatile Ahead of Monthly Expiry - Goodreturns",
-      "source": "Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ1ctbVB1WXFoWlZWdlUzellJc0l3Zng0WDVkRjZqRm1VY3Zrb0w2WWtZV3lZOTA3Y3ZvWWlRdzRwX1RYSmUwYTIxT2RWbHpwOVlOZi1BYWxYWTRGOGdHbmJ4YjZ5eHVGcGZJaW1KZmdEYzJvMi1GbVpQcFlZRWN4V2w2NGduYTltNVZEei13YkhqdTItYktWNE4wNGRscjk2V05TMXdJUHM5eUhjZWRFMmk2Ym1JU1dES3R6dWVRMV8xakUwaXdXZUVtaHc1c2U1b1pRVVJjM3NXQQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 20:56:45 GMT"
-    },
-    {
-      "title": "Mind-boggling Monday at Indian stock markets: Sensex, Nifty mirror life’s ups and downs — October 26 trade details - Livemint",
+      "title": "Trump hints at an Iran attack or deal! Impact on India stock market, Sensex, Nifty, gold decoded; top 10 stocks to watch - Livemint",
       "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGhnZkxKZjYtUXRwalZ4ZklGMGVHLWJLSzBIVzNHMnNiYTZ1REFZaUlGc0t6Z19hd05TS3VLbElVQllLaUhWNWROUmJENlpiY29OVGs4bE01aXdrY3lzb1VDLXNsbVR1cUdYazFOclBHZHRESHZrc0RzNFBPa1NUelVPQzBabGZPMWpTSllhNGNUc21tZ0ZnNkh2RzBuUWxDM0pQcGVSSVdiWkt1THJlN2tBVXEtT2UwSGNBU0Etcm9FVXl6dzFGR3FhbTBkeGNMWWVoZzBPbTBuampWUHRoTjNCMkFid29vSFJpTnNsX2l3d241aVdqNTNCQVZEckw2OW5hOWoyY0RJaW_SAZACQVVfeXFMTzRlak1saFVfMnVpdmtzemQ5MUhZYU9lclZ2WGtFSzEyNUdwQTZzdWFXeWtiR0dCLVV5RklFek9kNURXb193VzBIZS1WaHpFOVdzdDY0OUpmWUNvX0xkcVloQXE4MENBV3V1SjVlS2Z3TENCZnc4U0N1ZFgxRmNWUldlQkpFeDF5Q2FUbE5nakNQaEJQd3dsZlU4cVJXeTBVSFF2ZFBEY29naTN3M19HbUhubk52c2owbUVmcWN6cXlncVc2UjFmRmRxS2F4Unl6QWltcURJbFEyWlcyWFhSai1lYjBmS0l1M0QtQWI0QlJLV3RxV2lkc3lGRmozTi1kUE5xQkctQTJiQnFHWmozTEc?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 10:51:29 GMT"
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNa3ozTnRCMGwyY1N4ZU44amNGNmtOQU95T0dPWG1JV0lLOHI3TEdzU0pJYXR1S3VPODFBZktza2RBYTRnQmdiSFROTE9fNkkwNTJsNnVMZDBwR3NQMTlxUEVudmRpMjM2Wmh1bjBsdjBfZmtHM3RwWUc2Tk5sc2JhVjQ1dElaS3hJdl9HOHNucGhHZ1lNQTMycHVSTmxZZFY2RHpobzZjNmNSNTBrb1lTeE14WkdYcWNnU29PWU1BRW5RVTY4QkJNbUM2dlhZRU9aYnRJUDNvaHI0TDg5N0ZEakVndlh4Z1k0cV90ZTRGeW9RNW9tWjhUakR0cGtzanJ1OHVFR0lzRFdaOTdMUmRybUdlONIBmAJBVV95cUxQaUpwaTBtTU0wdTdWbUllRWhlMmR4eGRwY055bVE5VVUxNGEyY3h2Y09XaXN5SjJ2a2FGc3ZrT2VTNFRtTEZJTjdlQkR4eGFqSDgzMzlSZFJJYUxjYmNmZTdoMUhneS1CZm0wZ3RnS3JNcnJkSUJPMS1pRW81aDA5UHNBbXZVYThRY19BSFNRZno2Sm5GeXpSMDFPUG1sRjZxMTFTWGZOMU4yakNFNmRaeW03NEJGLVA3aElDWThicGZNb2ZzdzE2eHN3bk1WUWxyQ0x6dDBULTg4T1hFNGFjTDFQOWF3Y1VRdWtqdEFJS2dDYW54LWZtaERRNGZKMHdIOUZCbWMxQWpiTV9VV2w3ekNRQnF0Q1Nx?oc=5",
+      "publishedAt": "Sun, 25 Oct 2026 07:03:17 GMT"
     },
     {
-      "title": "Stock Market Today: Sensex Opens 122 Points Lower, Nifty 50 Near 22,700; F&O Expiry, Q2 Results In Focus - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkxWdW4yQXdPNm12MEU0dmYwN29LYl9tMjV3Zml3WmhvNXdpU3doc2h2bWEwcEE3cElFRkVIZUJjeTdTdXl3OWxZZ1luUG84LU9vbGRsVWNldnhPNWFWT2RTRUJMNUxaV3ZmWmxXQ2tHelJHMm5UdjFCSFpRNzlVYjcyR19ZZ3ZicVhrZVFITzAtQUZXaFRpZlBaOUpHOXhhelhURW1qUmhhbEJfREFOQ0hnSUJ4V3RHVHlTMHZwV1c0d2dHSm5UV0pseFJCMkJjaVHSAdoBQVVfeXFMTmx6S1hjeHJac2pGQjRHc0ZwMWw3c0R1Z3o0Sm5paS1VMG1ILW5ieWNnN3dXVUhwZFFVSm1YUmdTYURLdDdVUEpTSm1vaFJVSGQ3MEdqb3VOVUdVVHJGNGhSb3JRM2pwWm02aUEtd3oyN1ZUVG1XVC1iam1zTjlLY3VJa1BHeUNYc3V5NXFTOW5aVmRSOGI4WUNQdmxpT1hzcUFjMk5lQWlrd2lyZmZxLVNDMUtHbFVqNjEzR2Z0V3VRREJFcm9uRzl1WHB2cklZeXN1VU5FY29tUXc?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 03:45:36 GMT"
-    },
-    {
-      "title": "Stock market prediction for Monday Oct 26: Sensex, Nifty levels, top stocks to watch - Will bulls dance again? - Livemint",
+      "title": "Stock market outlook today, 26 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei cues - Livemint",
       "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaHZfM1JrUmdkdXRQb0dHTU1SVlM4UnAyUEhndFZ4bTNmbkM1d2x5ZWhqMHMxcE1JdnQwWEUySjRESnVVRDFoMGhYSHZtb2VYcFJGRDVSV2F2NGQybFR2azhYSGlaZzR6dUNoNFJKenkyQ1E1aF90ZHlqQUV4QjBtdU5HNWRXbDEwVmRWNkVIRUg4RVRESE83YkpRTjVvc1Uxb0tURTg2bjVTenNXanVmUXBsYy1Jd0luS0RNd2VEV3hsTHMxekZpUFV6RG42bUlnd3g4XzFHbmFjUWJZamRIdVFnU24wNEFUS2xHN0MyaktkZWkzbkpwR3FiZ0tJS1BNWnhDUNIBigJBVV95cUxPcjN0WW44UXliRDk0NTdkSE1FMWFWRkhRV1FxME5Cd09fOENzOEpaQzNIbnpDQm9pMzljT0R5OEFDRENYdjJ6d1diaU1yZXpBZFU1R0pKaG5GMHB4d1R3UGJsSm5kU1lUNkxDdWJMQ043ZkRVMGdDNk92b01OWWZRNVJzOWlzd0tPTFNVYUxaQTFSV1Z0YUZVSVNWV2JfVkY4NXl4ODBXQ3dvU2ZSTXpJVzZoSUNiaVB3MzJPaFFBSTgzRTNma0FFQW53MmFQRGJ4eVhib041RHgwSkVKMUU5ZjJWWDZuYk5wRTVpTWF1ZTloREtDUmhqc3lqMGg5bGwxTzVldWJqcVBKUQ?oc=5",
-      "publishedAt": "Sun, 25 Oct 2026 13:32:05 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ1VteDhIb2FLNjlYTDNFYnpHMkZnUUhzdWp1OXhZVmFEakEwUkRhaFRQWkw1NTFmT3pNWjdtWV9sRG44T2t3ZWJKY2hfZ2JnTVBHMkZaVDFFdWpseUQ2Q1BrMG9UTzUtWmJjaDlEQkJzWkczZ096NWNyekZwODNmTi1vaFRaRHJ5WHVoRnJ0anZ3RnRYVTB0UVJtaWU3VHotWHkyN253b1N2U3FBakhfcFBMcVotUXJEZVB3bV9VN0NpWnJIT2dQQ1lhNm9TNTJ0TnhSOHctb3FKeldmVmtzN0Y1UXBNWXkwckpSdU5LM2FpSDNrNGdkQmhOY3RzVThScmfSAYcCQVVfeXFMTVhYNU56cEdVekczaDV0QXFhMWhxYk1ScXYxVGpyZURHTDQyYmJYdTAtdEt3S0NPaDVxaXpodmMwNko5bzJtcnZjSlV5Xy1WS3ViVDFDWk9TUUdjclpRMnpGMWsweklyTk5SenllRUR4QnF0N1pMU0NaTXNHTWw1NmljUE1FX2FSOUtaZGc3SldjMVBjNzZsV2EyUEVTdlZ4STlGY0JTRlNOUGFxUVN3bC1kVWlTSHNUb0NlQUhSZmw1UlZxWkJHQjNMYlI2V01JZ2ZCcldqemg2Qk81NFZESE1yVjZORUxBSnlYY1FYaGtSeXowOEUwYVVSXzRuRWs2UjFhNmkzdlU?oc=5",
+      "publishedAt": "Mon, 26 Oct 2026 01:22:14 GMT"
+    },
+    {
+      "title": "Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 6% - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVFFeGltOU5ULVFVeVBYQmUzRGpXN3hDRjN3VXRoeDFGWTVsV1RqME43WkRnV2l4OExfTndoWjF6UlpIYWJrYnh0V0NGXzZJeWk0d0NrTF9YbG0tbVJ0dTVyUFhlQnVNc0tBVWhCcjdkWjZTWTNhdFdwVEZRM2gybGt4UVNkN1k5N1ZpWE16dFNEX0I0WEdXWHp5Z0VabmdDX2ZMbzZUTEE1b3NSWC0xbGlucGE3UG5zQjdWdnI2MnlWWFc3d0FFT0NLcUR0QjBuMmhWZ3VDbGtQZGtSTGQyem9MRUJWbDZLejB4VEgzRGdhMVZHZlppTzBGWHplU0pLT2plaEM4VVjSAY4CQVVfeXFMTlFIS1BXeGVHaWtoYTdma0N6aGk0bXVXUG82RjdzclBtejdBRHhJY0NsdVl1bWJBUGhCaTZYanY5ZDVIOENxckgtSHlzTDYxdVAweWpRakwwYmh2eGlmaXJ0YXNXS1JxUGxoV2xMWjhaU3FJblBjQm10ZTZ1enJDbDd0RndDd2F4Znc4WWtKTGNsd0dIeUowMktXUHdaQ3JBLV9EdXg3VGVYbW5SN1p1QVdxalJGTFljNkVJeWVFdnUwbE56YkpaTG9tQUxEREN3TzdlX21jay1jVHFmcHhPOHdwVThTbmpYdkQtdVRmMjBxV0NZVGVYeHFRbnpWcjRwQXY4RGtTQUxuSGhkaXpn?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 10:22:05 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights, October 21: Sensex drops over 400 pts, Nifty at 22,700; Eternal, Bajaj Fin lead losers - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGpacU1SSlh2MUgtVFM1Q203NXFJX1ZpWXZBU0FIMVdlUmx2Yk5ORWpUQ1BjcEdLbndSekU3ZEIyMjZPVkppX09yNU4xaGhaRlU4QUF4RVAxUGJFdWU1WFFxSTZwMmpINzVWU1ZIZm9sVkhZR3Y1dUVaZnhydGpwR2lwUzRnVUpHNWpoSE9WSTU2eWhNQTc5T0JQX01vWkZTbllaUGdXWG9fX09CMHhwaWxxaWxmLU1vc2ZoLWtlZTk3U2IzUEtORNIBzwFBVV95cUxOWkVaY2QteWY0VkRMdVJ1TVZlcEw4bDZZdlBaZG8xQ3Q0YlhTMFlTWENEV1hvczFiYkJCV1BlUUl4Q2t4eHFieWxZX1A3MUtoclQ5QWYtemxnTUgtZlhDeFRGQXhFN1Bzci1TWWd1RmpaMkNOcmstM1NEaFA5ZXhidmlkRnZxTkVFOXY0cF9XWTFDc0RZbVR0NHduWEo0MDFuYk1ZY3A2Sm9zNklGRkJwMmIxOHJRWjdHajdwWDlxeVo3N0JrT194NnBDck1YOXM?oc=5",
+      "publishedAt": "Wed, 21 Oct 2026 10:51:05 GMT"
+    },
+    {
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Seven stocks to buy - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWl0allDLTJ6TzItdGRCUGdkUmMtNmNmV3JXODNDVk83dXhCajVMR3pBS28tdWZQS2RTQmY1U1hHcC1DaVN1ajR3V2t6dDlIdFVlaWpYT3NrSHctbElzV21jN1QxYU11R3lxOW9TMDdSRlZsUjgtUWlERlVSbXBvdXpsWmgwS1ZpZ2d2QUF1MnQyR190TGVGQTFKSk1mNFZhYlRRdTdZMk5IeUxOYXJkZUVuZl8xMDFpS004RzFlMVQ4UjhkTEF6SnhOMjFYc3VvQzBLRkRqWlF2SmczUDYzMklTM3JKeVJlX1Vfd0oyTHrSAfYBQVVfeXFMUEw0RzE2T1JoV1Y1WlJQVzloYnVRaWVzTE4xVGx0MmVGVFdVYmE2bW5GMmxRbkstSnVubG9udTAtRncwbWxlT2ZHWmxaZko5YXZURF9pWlhwSXNLTFZJSXRhSldaeHN5elNCS3NoZFl1QVVRRGZWb0p5YTdmQ3BKRzBWUU4wNlJKQ3dzSmFQN3ZkRnpHYzZLTkNMS3ZiQVpId0NxRzRqY0ZReDlNNWhFS2FMM3BKblh6Q3A2OUFIOHpVbEZ1dWRCZDYtV1Bvekk5U0JHb29pSmQ4WVI1VlZyWTJUVmpnUTFUTTQ0blRjakxqc1FaRnFn?oc=5",
+      "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Indian Stock Markets Fall Amid High Crude Oil, IT Selling - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObW53cEVTY0FaWWVSb1VGcTlGSFE2c05SaTFxTGtaU2ZTNk4yaWw0YVZ2MHZTM3o4aHlDWEJXaGl2VXlmV2ZSUHhEQVNzc3BBUjg2NzBackZSWjczMWppQ1hqUUhJd0ZoU3pGSkVQMjBkWWdRaXVadVl1eDZ5aWpDRWJmeFNUZkZFdVM5a0RsRVh0bXhtX1ZPMjI5dUJSbU5KeE5vQWtOOVdpWFVR0gGyAUFVX3lxTE9wdFNDQkMtdkp2NEZnT3VJelQwUUQ0Qm1Bblk3azVwWERkeWpRdzlMVXZ2RUI1VUJQbzRxQnhucUlMNUJlS1RCQ2E3ekIzWHV0dUlyM19Vb2EwaVFRNWlvWFJNZ3dwWDEtVXZEbUlORmMxbXFpaGstQWItWkQtM0t4Ry15ZjNSMnBoRlRRSEFVd25zQThodDBfUEx6UFE0MHlEUVFmYUZHeHlONTdSdVFQa0E?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 04:41:41 GMT"
     }
   ]
 }
