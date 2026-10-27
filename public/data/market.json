@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty fluctuate amid expiry day blues while smallcaps surge and Mankind Pharma jumps 8%",
+  "headline": "Sensex slips over 200 points on expiry day blues while smallcaps surge 2.5 percent",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "IT stocks and private banks faced selling pressure, dragging down benchmark indices.",
-    "Expiry day volatility caused Sensex to drop around 200 points while smallcaps outperformed.",
-    "Markets snapped a 4-day losing streak in the prior session as Sensex surged over 480 points.",
-    "PL Capital noted capital goods valuations are at long-term averages with earnings strength expected to persist."
+    "Sensex falls over 200 points due to expiry day blues, with Nifty hovering near the 22,700 mark.",
+    "Cement stocks decline, putting pressure on benchmark indices.",
+    "Cipla reported a 35% drop in Q2 net profit, dragging healthcare sentiment.",
+    "Investors track global cues ahead of the US Fed decision meeting."
   ],
   "whatHappening": [
-    "Anup Bagchi officially took charge as the new CEO and MD of HDFC Bank.",
-    "Mankind Pharma reported a 38% increase in Q2 net profit to Rs 716 crore, driving shares up 8%.",
-    "Brokerage Jefferies outlined a bull case target where Vodafone Idea shares could surge up to 143%.",
-    "Tata Consumer shares gained 5%, while smallcaps rallied 2.5% during trading on October 27."
+    "Anup Bagchi officially takes charge as HDFC Bank's CEO and MD.",
+    "Mankind Pharma shares jump 8% following a 38% rise in Q2 profit to Rs 716 crore.",
+    "Smallcap stocks show strong relative strength, surging 2.5%.",
+    "Brokerage firm Jefferies projects up to 143% upside for Vodafone Idea in a bull case scenario."
   ],
   "stocksInNews": [
     {
@@ -53,6 +53,22 @@
       ]
     },
     {
+      "symbol": "CIPLA",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        13
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
       "symbol": "JSWSTEEL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
@@ -67,18 +83,10 @@
       "articleIds": [
         15
       ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        4
-      ]
     }
   ],
-  "summary": "Indian benchmark indices traded cautiously amid expiry day volatility, with Sensex down 200 points and Nifty near 22,700.\nSmallcaps outperformed the broader indices with a 2.5% surge, while individual stocks like Mankind Pharma and Tata Consumer recorded notable gains.\nIn corporate leadership news, Anup Bagchi formally took charge as CEO and MD of HDFC Bank.",
-  "updatedAt": "2026-10-27T08:01:44.592Z",
+  "summary": "Indian benchmark indices traded lower on expiry day, with Sensex down over 200 points and Nifty near 22,700.\nStock specific action was strong as Mankind Pharma jumped 8% on solid Q2 results, while Cipla dragged after a 35% profit drop.\nSmallcaps outperformed the broader market with a 2.5% gain while Anup Bagchi assumed the leadership role at HDFC Bank.",
+  "updatedAt": "2026-10-27T08:31:29.187Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-27",
   "articleKeys": [
@@ -93,9 +101,9 @@
     "a banking giant a battered stock can hdfc banks new chief turn the tide",
     "jefferies says vodafone idea shares can soar 143 in bull case scenario 3 reasons why brokerage is upbeat",
     "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india",
-    "sensex today nifty 50 stock market live updates sensex nifty swing between gains and losses media stocks rise it slips the economic times",
+    "sensex today nifty 50 stock market live updates sensex falls over 200 points nifty below 22700 cement stocks decline the economic times",
     "stock market today live october 27 sensex down 200 pts nifty near 22700 on expiry day blues smallcaps surge 25 tata consumer stock up 5 businessline",
-    "sensex today stock market live nifty below 22750 sensex slips 150 it private banks under pressure moneycontrolcom",
+    "sensex today stock market live sensex down 220 nifty at 22700 cipla q2 profit down 35 at rs 878cr moneycontrolcom",
     "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex today nifty 50 stock market highlights sensex snaps 4day losing run ends 483 pts higher nifty tops 22750 jsw steel rises 5 bse 4 the economic times",
     "trump hints at an iran attack or deal impact on india stock market sensex nifty gold decoded top 10 stocks to watch livemint",
@@ -171,22 +179,22 @@
       "publishedAt": "Mon, 26 Oct 2026 10:29:00 GMT"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex, Nifty swing between gains and losses; media stocks rise, IT slips - The Economic Times",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex falls over 200 points, Nifty below 22,700; cement stocks decline - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNS3FtTkdVa2dWQk5sbU9xTUF3YUozd1ZHZC1rcWRtMF96RkhfbDJJblZTam5lU1JzMmk4ZDZaQnpfaU1NSFlxWDVxWFJ6WHBIQzlybVNoRUdlQUdBcGYtM05vVlcza3FGWkkxRDZSU2FoUmtWU0JHeHRidGVuazdhQi1wZGdLbjZUeDJ6TXhacWdET20xaTFKX1FZRW16bE5keDFBR1RGZ1oteTFIc3ZuVlMzSDRxaXhJclNQT25lMmhNVU1ENE9iRWMtekNMNnp1Y1NZN1lLelRNT1EySXBuTVdFWHRwV1E2ZWJ1N2dBVjM1Y0I5bkNxVFlLSk1qNUV6MDdyOHR0MmN3TndOc3ZYbS1hONIBmAJBVV95cUxNZ3pqRm9YZmpyZ2RWbmx6TFZfV0VhRmxkb1ZXYVN3bHVlcXh0T0l5N0NTZFptcDNaN192SkwtWURZTnNOZThtS1dRSkhxZzdjeF9CTEh0MXZVWW5KQjg0ZmlsSXZreUNSR1J6MVBpdXVvcHVWOFY0ck0xSHI4bGFfcXVvdG9pNlhFc2c0RWo4TUhJUXhQdVFVS2dzZ1MxaHZKaEFILUZNY3FyYmJ0YjlCV1NpcUtuRGN2VFBhYmpmN0dkNDJ1cFBZWEFwNnN4TmhKZHBoT1RWa1ViRDU1eGE2RVViWWVBNkp4Rm9ONkZPTTJNQjRpSWJteHd3Z21Wb05XQkVzYWo0YVZLZXdwdDhhWUYwdDU3a2xO?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 07:57:12 GMT"
+      "publishedAt": "Tue, 27 Oct 2026 08:27:02 GMT"
     },
     {
       "title": "Stock Market Today Live, October 27: Sensex down 200 pts, Nifty near 22,700 on expiry day blues; Smallcaps surge 2.5%, Tata Consumer stock up 5% - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXRPNF9Xa2o3bDRjLURmUDBlZ0FHb3hMNkNHa0xxekQzYjFUNUl5U3BWM3VRWkZqMmo3eE5ueHZaV2pEUVUyQWhsLUh5bFZiNnpsZ2FBNS15RU5pU2xFTjdwLWRHT0xBRGNvRnh0ZUtvMTBfZHJfcnBWVnhNdVp1SjNEZllGS0hwNDNpa09DOE85T2V4NUtHWkxSaFNVbmRQNnJDV3EycmdNUGF1ek8yWXNqTmMyY0dUSWpmTUxxUm4zVG1nUXfSAcwBQVVfeXFMUF9rWlBNMXZOaWZ0LVpOeGdaLTlFSU1SMkFoek9xNEF6QVpDV1ZqYlRaei1iSjRPcm5JeVNmNzR0cm5ZRVRaN2pBR0VLdE5jUktmc3ducTRONE51NjZTbXFocUZ1UkhpVHJIRzdpeHZ0ZWVxallmYjIwcFRkZlJucEUyMVFBd0FTMVJsTjBSdTkxcnR1ckxmcXBSbEIwQ3R0R1FVSG93TWNVbUZUSGw1NU82UWE2UFlYWnJrS2VSUXJ4elJZRWFVU0FFUF9X?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 07:57:25 GMT"
+      "publishedAt": "Tue, 27 Oct 2026 08:26:35 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Nifty below 22,750, Sensex slips 150; IT, private banks under pressure - Moneycontrol.com",
+      "title": "Sensex Today | Stock Market Live: Sensex down 220, Nifty at 22,700; Cipla Q2 profit down 35% at Rs 878cr - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNUFQTEo3T09fbW02cHU1RVZkLXFic2swMkhkZWJ3bEJTRFlENGpoZFVvVlU4aVpreHkyRzdYV2dQOUZ6NjRwMElkV0x3TF9aSnJmdXljbmZ6UWEwaU5YMXJ6STBBS2o4SlBZMVpqNml3V2N0UklTVnpHTmpuNURNbFppWDByUkMxTmkxTkFLMzg4ZFhLWV9RUzFJdDhsNFlrRnFTX2VLX0NDX0FnamtpZkRRR0dtZmR1ZGVmMDhtUFM1NzDSAagCQVVfeXFMTmZtRlNsZUNmQ29nN0FTNWNWNDBGM0VHTHozcmJYZlRLMUZHSmJiX1VFVHdzZUt1akJmYkFhV2tubjIxcVdoYVhzOE9xaG9hQS1KRERXRHc0SXlNVkp3UmZKbldUbnVIa2hTVmdoUHhJN3JlT3pmeV9USUV5UU5zN3ROMlBTQzZyMW53Mmc2VnhuT1JOaUNwMzhpUXlQQUx6RVl6QkNYbkFjNlJiMERsWW53LXVvLWpSTVdObnltbTJKQ3o3MWpveGZJM1c3VlpqT3hDOGZaS2pyZXhXYTR4OEtBSE9xd28tOUVPWnZVNVp5Y1dJclRwNWg1bVB2SnBncEpPWFFYZTJxRjlEYUJRcF9QTG14WThnSnI1bTVZZXhkdkJiWTRIelo?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 07:55:35 GMT"
+      "publishedAt": "Tue, 27 Oct 2026 08:27:47 GMT"
     },
     {
       "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
