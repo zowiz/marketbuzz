@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex cracks, Nifty trades near 22,700 as IT, FMCG, and oil & gas stocks decline",
+  "headline": "Sensex drops 300 points while Nifty trades near 22,700 despite strong Q2 earnings from key stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Heavy selling pressure in IT, FMCG, and energy sectors weighed on benchmark indices.",
-    "Elevated crude oil prices put pressure on market sentiment.",
-    "Declines in oil & gas and bank stocks contributed to market weakness.",
-    "Caution in global markets ahead of the US Fed interest rate decision."
+    "Elevated crude oil prices weighing on investor sentiment",
+    "Selling pressure in oil & gas sector stocks dragging down benchmark indices",
+    "Broad market consolidation after recent gains",
+    "Profit booking seen across multiple major market sectors"
   ],
   "whatHappening": [
-    "Sensex dropped over 500 points while Nifty traded around the 22,700 level.",
-    "Jio Platforms surged 21% on its debut, delivering strong listing gains.",
-    "Adani Ports reported a 17% YoY increase in Q2 net profit to Rs 3,622 crore.",
-    "Adani Green leverage is projected to drop below 4x as its capex cycle matures."
+    "Sensex falls over 300 points while Nifty holds near the 22,700 mark",
+    "Adani Ports reported an 18% rise in Q2 net profit to Rs 3,682 crore",
+    "Adani Enterprises reported a 75% YoY revenue spike to Rs 37,216 crore",
+    "Syngene jumped 11% while MRPL dropped 9% in market trading"
   ],
   "stocksInNews": [
     {
@@ -24,113 +24,168 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "ADANIENT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "KPITTECH",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
         3
       ]
     },
     {
-      "symbol": "JIOPLATFORMS",
+      "symbol": "CUB",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4,
-        15
+        3
       ]
     },
     {
-      "symbol": "ADANIGREEN",
+      "symbol": "NAUKRI",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "LT",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         7
       ]
+    },
+    {
+      "symbol": "BSE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "SBILIFE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "SYNGENE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        15
+      ]
+    },
+    {
+      "symbol": "MRPL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        15
+      ]
     }
   ],
-  "summary": "Indian markets slipped today, dragged down by losses in IT, FMCG, and energy sectors amid elevated crude oil prices.\nJio Platforms made a stellar stock market debut, jumping 21% to mark the highest listing gain among top IPOs.\nAdani Ports surged on strong Q2 results, reporting a 17% YoY rise in net profit to Rs 3,622 crore.",
-  "updatedAt": "2026-10-28T08:31:30.716Z",
+  "summary": "Indian benchmark indices fell today with Sensex down over 300 points and Nifty trading around 22,700.\nStrong Q2 earnings results were reported by Adani Ports, Adani Enterprises, and City Union Bank.\nSyngene zoomed 11% following stock specific action, whereas MRPL fell 9% during the session.",
+  "updatedAt": "2026-10-28T09:31:29.281Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-28",
   "articleKeys": [
-    "global market ubs q3 profit rises 8 to 269 billion accelerates buyback plan",
-    "us market ai boom could weaken dollars safehaven appeal as foreign flows rise",
-    "supreme court agrees to hear challenge to definition of industry in new central law",
-    "adani ports q2 results net profit jumps 17 yoy to rs 3622 crore revenue up 24",
-    "jio platforms delivers biggest listing gain among indias 5 largest ipos jumps 21 on debut",
-    "us market treasury yields face pressure despite expected fed rate pause",
-    "stock market live sensex cracks 500 pts nifty near 22700 it fmcg top sectoral laggards",
-    "adani greens debt maths why leverage may fall below 4x as capex cycle matures",
-    "bnp paribas q3 profit rises 14 to beat estimates announces 13 billion buyback",
-    "global market chinas yuan holds near fouryear high as markets await fed decision",
+    "bjp names hardeep singh puri for madhya pradesh rajya sabha bypoll",
+    "jennifer winget breaks silence on rift rumours with parineeti chopra we are a team",
+    "adani ports q2 result net profit rises 18 to 3682 cr on higher revenues",
+    "q2 results live kpit tech margin expands city union bank profit jumps over 26 info edge declares dividend",
+    "adani enterprises q2 results revenue spikes 75 yoy to rs 37216 crore profit at rs 1492 crore",
+    "cyclone arnab impact roads damaged electricity supply disrupted andhra cm seeks central assistance",
+    "cope harder ashwini vaishnaw hits back at bloombergs andy mukherjee over indias iphone manufacturing debate",
+    "stock market live sensex off lows down 300 pts nifty near 22700 lt bse sbi life shine",
+    "tu hai meri kiran sonakshi sinha on romancing zaheer iqbal in film its more comfortable",
+    "is gold loan better than personal loan for emergency cash how they compare",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
+    "sensex today stock market live sensex down 330 pts nifty around 22700 jio platforms trades above rs 1400 moneycontrolcom",
     "stock market today live updates bse sensex tumbles over 200 points nse nifty50 rallies above 22700 the times of india",
-    "sensex today stock market live sensex down 280 pts nifty at 22700 autos shine it energy down moneycontrolcom",
-    "sensex today nifty 50 stock market live updates sensex falls over 250 pts nifty below 22750 oil gas stocks decline the economic times",
-    "why is stock market falling today sensex drops over 800 points nifty slips below 22600 key reasons explained ndtv profit",
+    "stock market today live october 28 sensex off days low still down below 350 pts nifty down more than 22700 jio platforms stock up 22 businessline",
+    "sensex today nifty 50 stock market live updates sensex falls over 350 pts nifty below 22700 oil gas stocks decline the economic times",
+    "stock market live sensex down 300 points nifty near 22700 syngene zooms 11 mrpl tanks 9 ndtv profit",
     "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
     "stock market highlights today bse sensex and nifty50 ends flat amid elevated crude oil prices the times of india",
     "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today highlights october 27 stock markets end largely unchanged amid elevated crude oil prices selling in bank stocks businessline",
     "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india"
   ],
   "articles": [
     {
-      "title": "Global Market: UBS Q3 profit rises 8% to $2.69 billion, accelerates buyback plan",
+      "title": "BJP names Hardeep Singh Puri for Madhya Pradesh Rajya Sabha bypoll",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ubs-q3-profit-rises-8-to-2-69-billion-accelerates-buyback-plan/articleshow/135256901.cms",
-      "publishedAt": "Wed, 28 Oct 2026 13:09:23 +0530"
+      "link": "https://www.business-standard.com/india-news/bjp-names-hardeep-singh-puri-for-madhya-pradesh-rajya-sabha-bypoll-126102800795_1.html",
+      "publishedAt": "Wed, 28 Oct 2026 14:11:18 +0530"
     },
     {
-      "title": "US Market: AI boom could weaken dollar’s safe-haven appeal as foreign flows rise",
+      "title": "Jennifer Winget Breaks Silence On Rift Rumours With Parineeti Chopra, 'We Are A Team'",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-ai-boom-could-weaken-dollars-safe-haven-appeal-as-foreign-flows-rise/articleshow/135256789.cms",
-      "publishedAt": "Wed, 28 Oct 2026 13:07:31 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/parineeti-chopra-backs-jennifer-winget-on-viral-cate-cutting-clip-jenny-will-always-be-my-favourite-girl-12247182#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 13:56:04 +0530"
     },
     {
-      "title": "Supreme Court agrees to hear challenge to definition of ‘industry’ in new Central law",
+      "title": "Adani Ports Q2 result: Net profit rises 18% to ₹3,682 cr on higher revenues",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/national/supreme-court-agrees-to-hear-challenge-to-definition-of-industry-in-new-central-law/article71634707.ece",
-      "publishedAt": "Wed, 28 Oct 2026 12:58:28 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/adani-ports-q2-result-net-profit-rises-18-to-3-682-cr-on-higher-revenues-126102800747_1.html",
+      "publishedAt": "Wed, 28 Oct 2026 13:55:51 +0530"
     },
     {
-      "title": "Adani Ports Q2 Results: Net profit jumps 17% YoY to Rs 3,622 crore; revenue up 24%",
+      "title": "Q2 Results Live: KPIT Tech Margin Expands; City Union Bank Profit Jumps Over 26%; Info Edge Declares Dividend",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q2-results-net-profit-jumps-17-yoy-to-rs-3622-crore-revenue-up-24/articleshow/135256370.cms",
-      "publishedAt": "Wed, 28 Oct 2026 12:53:19 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-hul-vedanta-tvs-motor-jsw-energy-among-120-companies-to-announce-earnings-today-12246315#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 13:55:20 +0530"
     },
     {
-      "title": "Jio Platforms delivers biggest listing gain among India’s 5 largest IPOs, jumps 21% on debut",
+      "title": "Adani Enterprises Q2 Results: Revenue spikes 75% YoY to Rs 37,216 crore,  profit at Rs 1,492 crore",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-delivers-biggest-listing-gain-among-indias-5-largest-ipos-jumps-21-on-debut/articleshow/135256268.cms",
-      "publishedAt": "Wed, 28 Oct 2026 12:48:18 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-enterprises-q2-results-revenue-spikes-75-yoy-to-rs-37216-crore-profit-at-rs-1492-crore/articleshow/135257734.cms",
+      "publishedAt": "Wed, 28 Oct 2026 13:53:13 +0530"
     },
     {
-      "title": "US Market: Treasury yields face pressure despite expected Fed rate pause",
+      "title": "Cyclone Arnab Impact: Roads Damaged, Electricity Supply Disrupted; Andhra CM Seeks Central Assistance",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-treasury-yields-face-pressure-despite-expected-fed-rate-pause/articleshow/135256143.cms",
-      "publishedAt": "Wed, 28 Oct 2026 12:41:20 +0530"
+      "link": "https://www.ndtvprofit.com/india/cyclone-arnab-impact-roads-damaged-electricity-supply-disrupted-andhra-cm-seeks-central-assistance-12247379#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 13:52:58 +0530"
     },
     {
-      "title": "Stock Market LIVE: Sensex cracks 500 pts, Nifty near 22,700; IT, FMCG top sectoral laggards",
+      "title": "'Cope Harder': Ashwini Vaishnaw Hits Back At Bloomberg's Andy Mukherjee Over India's iPhone Manufacturing Debate",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/cope-harder-ashwini-vaishnaw-hits-back-at-bloombergs-andy-mukherjee-over-indias-iphone-manufacturing-debate-12247459#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 13:51:24 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex off lows, down 300 pts; Nifty near 22,700; L&T, BSE, SBI Life shine",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-oct-28-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-iran-strikes-brent-crude-ipos-jio-listing-jio-share-price-it-stocks-maruti-share-price-q1-result-today-share-market-today-126102800114_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 12:40:15 +0530"
+      "publishedAt": "Wed, 28 Oct 2026 13:46:58 +0530"
     },
     {
-      "title": "Adani Green’s debt maths: Why leverage may fall below 4x as capex cycle matures",
+      "title": "'Tu Hai Meri Kiran': Sonakshi Sinha On Romancing Zaheer Iqbal In Film; 'It's More Comfortable'",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-greens-debt-maths-why-leverage-may-fall-below-4x-as-capex-cycle-matures/articleshow/135256023.cms",
-      "publishedAt": "Wed, 28 Oct 2026 12:37:13 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/sonakshi-sinha-and-zaheer-iqbal-reveal-why-they-chose-tu-hai-meri-kiran-after-marriage-12247416#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 13:46:09 +0530"
     },
     {
-      "title": "BNP Paribas Q3 profit rises 14% to beat estimates; announces €1.3 billion buyback",
+      "title": "Is Gold Loan Better Than Personal Loan For Emergency Cash: How They Compare",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bnp-paribas-q3-profit-rises-14-to-beat-estimates-announces-1-3-billion-buyback/articleshow/135255907.cms",
-      "publishedAt": "Wed, 28 Oct 2026 12:34:36 +0530"
-    },
-    {
-      "title": "Global Market: China's yuan holds near four-year high as markets await Fed decision",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-holds-near-four-year-high-as-markets-await-fed-decision/articleshow/135255461.cms",
-      "publishedAt": "Wed, 28 Oct 2026 12:27:48 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/is-gold-loan-better-than-personal-loan-for-emergency-cash-how-they-compare-12247364#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 13:45:08 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
@@ -139,28 +194,34 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
+      "title": "Sensex Today | Stock Market Live: Sensex down 330 pts, Nifty around 22,700; Jio Platforms trades above Rs 1400 - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOX0hFenQtRHBKY3hXTHVqdWtiNGFLQ08xbHh2TlBuOUtIanF3WlRTeTRab2lFdXVOZ0tURHpvaHI2aFQxNzZNbm04Nl9obmx5cEYxd09Gc3AxTHBXUl9sVEZ6SHg0YWVzNFA1Wko3UERzM2QtdF80d2o4YmNMVWlqcExxaGNjN2NlQ180Ny15N1BQdjd6YmlBUGVLTUp1bWFKMzlRdVVTdVRZTjk4WFV4LUgtOWRuWVlTOUxtNkdLSVQ0Uk5ZX0RZZTVVRGJaWnpIVzUwd00zZVVxa2pKTy1hdzk1V3Z6UlZ0ZnVicmNtLWhEc3NNOHJKUm9vZlZvclYzV29nRVlCYzkxWDRWQWhVTzRVMERhbEZLNXV2Wk5qX3FoeXPSAagCQVVfeXFMUGRraU9RQTUyTndFX1d6blh5QmFsUDlnSWFWUkpTRHNIRElJVHk5czc0UzUzQnRsd2pBRnJRZ191S0l2amdtR3Q3Y0JPZnhQNGF6TTJWTXZ0Mm5aNEV5OWN2NHN0ajVDYzJYU3BNNG1ld1VqZno2aDVwRGZqem80Z2pxbmE1UjBIRXZVV0JDQnBmcG5iSDMwbUMxLVlUV1g4TGhLRVNTZUJubnFiNExlYmZfbGI0dE5FUXhpWlJWbVpTTU5ZalFKaHhheUJHcDRVbTE4aGNsSklIZ1lscEVwM2xFU3NPSjhtdkVITHRST0dTanNJWnRLQXZqX0QxVmZ2NFp3U0VQZG1hWDlXY3lod01yUkJMaElVY2ZYQ01fMl9VTGliRGMwY2U?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:25:42 GMT"
+    },
+    {
       "title": "Stock Market Today Live Updates: BSE Sensex tumbles over 200 points, NSE Nifty50 rallies above 22,700 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcDZ4SlBCdXAzX0JUb3E2UlRYeGhFblcwSWF3cW1oX2VZMEwwakJfeVEtdUJRaThFSjVqSWRMaU12ajVDQ2NsMllXaUgydHJHMk9oT0xPaW9WeFByWkdGN25WZkpXYjRWYlVGSlFuLWNmWGd1Q3p5WU93RHh4NGIwYmtVa1c3NDNyejhvempFQTJxbm5RUHREV1dNbUxWc3hZRjlPbmpDWFBnZ2RtZnQtZWluLUZLcTB1YmdCYjJHUmZXTktYYlBGdWFBU3lhNVJpNFR3ZdIBugJBVV95cUxNMFNaX0w0NnU0aTQ0UHdkc0lSQ19GUGRKMnFwTVJYNW5wajNISEtaeFctTmZ3QWtxSDJzLVZMdlR6ZVk3VnlWNnFmRUYxQVFFdTFzX2J4TW9HVUpGVWJBd29sT1RnSElmQlFsMVV3QkhYQXB1dkNudWNORUZub295a3BSRVpXcUVGYWRpaXBrb2NMWmpWZks2TXhSRXlmLU0wdm1yNG40dGx3ZVQ0b3FzcTQ1MzhKZG03cGRxUnJRb052V19UcjVjdzFzcHZ1eXNydDRCaWotVXRNcWtQZldqcEtzR19ac21LU1piWk95MTFVa3dMRHNNOHN5U0tHZU4zSERENjgxd29McDBIeUxUNmFveDdZODJucmI1Qm9EV0ItWG50NktCdTRseTRDTmYzV2x0Z1g0aTR2QQ?oc=5",
       "publishedAt": "Wed, 28 Oct 2026 08:03:18 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Sensex down 280 pts, Nifty at 22,700; autos shine, IT, energy down - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOX0hFenQtRHBKY3hXTHVqdWtiNGFLQ08xbHh2TlBuOUtIanF3WlRTeTRab2lFdXVOZ0tURHpvaHI2aFQxNzZNbm04Nl9obmx5cEYxd09Gc3AxTHBXUl9sVEZ6SHg0YWVzNFA1Wko3UERzM2QtdF80d2o4YmNMVWlqcExxaGNjN2NlQ180Ny15N1BQdjd6YmlBUGVLTUp1bWFKMzlRdVVTdVRZTjk4WFV4LUgtOWRuWVlTOUxtNkdLSVQ0Uk5ZX0RZZTVVRGJaWnpIVzUwd00zZVVxa2pKTy1hdzk1V3Z6UlZ0ZnVicmNtLWhEc3NNOHJKUm9vZlZvclYzV29nRVlCYzkxWDRWQWhVTzRVMERhbEZLNXV2Wk5qX3FoeXPSAagCQVVfeXFMUGRraU9RQTUyTndFX1d6blh5QmFsUDlnSWFWUkpTRHNIRElJVHk5czc0UzUzQnRsd2pBRnJRZ191S0l2amdtR3Q3Y0JPZnhQNGF6TTJWTXZ0Mm5aNEV5OWN2NHN0ajVDYzJYU3BNNG1ld1VqZno2aDVwRGZqem80Z2pxbmE1UjBIRXZVV0JDQnBmcG5iSDMwbUMxLVlUV1g4TGhLRVNTZUJubnFiNExlYmZfbGI0dE5FUXhpWlJWbVpTTU5ZalFKaHhheUJHcDRVbTE4aGNsSklIZ1lscEVwM2xFU3NPSjhtdkVITHRST0dTanNJWnRLQXZqX0QxVmZ2NFp3U0VQZG1hWDlXY3lod01yUkJMaElVY2ZYQ01fMl9VTGliRGMwY2U?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 08:28:46 GMT"
+      "title": "Stock Market Today Live, October 28: Sensex off day's low, still down below 350 pts, Nifty down more than 22,700; Jio Platforms stock up 22% - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlFjUU1XR0tUaTZVTG4xSVhUdnRPNGYwNUIwaFhlOWE5a09wakpFMXhTa0ZqLTFCZVlRc25EcVBRREFSWUVKanFHczZzOExPUFNTMDk3aldTZ292WERsbW1qSHpaQ1ZSb05oYm9fOS1PN1B3WERQckU1a2N6ZlRFRzgyUUFhN2pjSkxZVU5OeVZyc3cydWhSWUFDX2llX3N2SmJGcjNsM0dQLWp6VkIwbGdOT3FMVHA5MWNabVdQTll5WWdDbkHSAcwBQVVfeXFMUFRQaTl4ZmdBT3pCQU9rSkttSmpmelEzNjRiMjVaY3RuUWhMRjdlYmszVHhtbU82bnlQRGE2aXh1SlhmVlpQY0pWal9yNmMwemlILWxHQ2Jza0RqRnRPOHZVUldBVmJ3UzZiOFA5a3U5VG93NENFSS1ERVQtQ19IcEotZ0xvcERBLV9tMDJ4MnlBb2xuN094ZHhOMVljME9RUi1rSW5hLTVEQklvLVlqX2J6TDJqbUJDcklub19PbWJrSFJsZmFMSTdrVnd0?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:25:16 GMT"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex falls over 250 pts, Nifty below 22,750; oil & gas stocks decline - The Economic Times",
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: Sensex falls over 350 pts, Nifty below 22,700; oil & gas stocks decline - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUEZvTHY0YzFqQmJJWlZOQjlUOS1taG4zMTNMSUpKYWRQTjFNdDBkbF9kVVBXdGxwb2FlYXVYcXA0WU56MjFpUHpZbE5laDJKYlBPa0ZEWUc2T3l2Z3hHVXZkVEh4SDcxSUcxVURLYWRvelBUNGN0T1dncEwwTE9FMWxJVTZqV2VkOF90emlrTmV5VEVyVXN4NlF1M28zTkJRYmRJWnlKaDI2Q3ZHLWZWcTIxeHRQdmpuYjdCRVFnNGRkR0Zlb3ZqdUhmOFZtS2FFWHU3QTQ3RHJSRjVTSk9vZDJEUUZ1Q1AyZkM3eEJ6dGdJTXdDaVRiVVVDMUU0Q1J3b1o4V1RNVUJIeHUzZWZUOdIBlgJBVV95cUxPNEZvSjdwRXFNTFF3TTJRc2VTN3NIMUc4cFNFdWx0X0M1bGRkcmt6RWxfZndkVlpKR2hhZU1fMTU1czBPLVRyS2g5MEUySE5IZWR0WjJaVTFxNGp3bHJHTVNsRkttemJKNkZxSUpuUWtmR2VjS013TXpueWZZeEVuRVI1RHItemRuQlpjVDR6NmJPSXpjeUNZWlJhYU1lVjV0WWxnZ3N2Z3Zlb0dsVHN1dU0wejRyZ1ltMlJpZXB1YWZzMGVLb2wwMnlCamlvM3o4VFVuZ0RTVXpWUFk3dUkxUFZZdktfZnpEV1lyY0hlZVpoZGtZc2xONUtRdkdteUctNXR5a0FrYUhXMUN4aEFaMFg2SHFrdw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 08:20:26 GMT"
+      "publishedAt": "Wed, 28 Oct 2026 09:15:39 GMT"
     },
     {
-      "title": "Why Is Stock Market Falling Today? Sensex Drops Over 800 Points, Nifty Slips Below 22,600; Key Reasons Explained - NDTV Profit",
+      "title": "Stock Market Live: Sensex Down 300 Points, Nifty Near 22,700; Syngene Zooms 11%, MRPL Tanks 9% - NDTV Profit",
       "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWWg0dDRpcmtjNklEc0lVSG5lZWxUR2JXMF9EaDR5YWozMk1rMjZhU0hOQjhaR0lLMDZFYWNuNUxPV1NmdkdLTGRwMnRMVDVDNFlaSmpONU5qellPa0lVTjRfZ2FxWERCbVptWWc3WFlZazJTUlp0bW53U3QySDBHMW9Ic2g3djNHbS1oWV82NHVmWTQwaDNOU3UtWDFqRmtjSi1jZUgwczZ3dW16SHFYbXhieUZQWlZRV3ZnbVY0bjFyZXdyS1N6eG81QnU2c2l0dFNSdlRCVXFhdTdnSmN5WEdkQ1dGTXZiblVMUVRpX2NCLXA1bWxadmMySVFaZDcwY25EQVRyY3BHd9IBkgJBVV95cUxONzVPaXVRSE1WNE8teUkxaWRiR3JXMklmNk55OUx4YnlTX3lDLXQyaUx3ZXRtekFFcm9XbDlNMmt6NEJYeVpzNlJPRF9DQUVzSS0wbDZSTHE4QjJ4UDhCRTJNLVMxY1hRV3FoZFhpeGVqQkpFWHdqYzVQZHpIb24tckxGWWpMTHVtN0pQbXBfXzczMG1kRFVnN0ctWXdCbmhKNzV6YlV0dnNyQlFrX1hjZzd2bHhfa0tIZ3l3TDhqMnExTFVlcnIzci10cG1YSURiWUpvMEs5S2JNV3hZdmYydmRETGlKMGE3WGVrTC1YLWtGbFVfcG82MmNtZjZ1X0tGZEN2U1pyUkFVQWpPVEJ5d013?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 04:25:48 GMT"
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHTSAZwCQVVfeXFMTlpZX2h0X1ctREhmazVTME1YZGJaUllQNzJNeFpGcmlQTkVrS0NMaXU5TFREM3Bfb29HdEQ2bG1FWkdHOXBpLURBbk9JaWZQNHFEUmVFSGVmdlJVWFg4cEVoSWFtMlA5akRwMXlXVVNkOU1lSXc0MlBmeWF2QjBZQ3RSZHB4NS1aRXVGd2dUNV9qMTNHWm12amlzcVA1VHNYSGRuaTVfRUtfRXZocnJ5MVltcm9tVjZ5RmdEMzdBS1VUVG4wV1JIWFpzMDk3bGhFZm5lcGhaOGFqZzdZVmRHdGpYTXZMTUJsS3FqYXlnWjlMOXBIUVd1bnZwYU4ydkRkRkFTNWJiX3JNRFJiUzdYcEttMzhGcjNxTXNqZUQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 09:22:56 GMT"
     },
     {
       "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets - Livemint",
@@ -179,12 +240,6 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVVnVFprN1pwVWtldGFwam9RN2lqcVZPdDRPb3R0Tk84UmlicnBGWHlqanhVZ3JRRTFPcTliOE8xTkg0SkVqRFplanRfTHdDUXdpa3o3NGt3TmRIRHZ2NzZlU20zWHpTY1gtdGVuU1JEeXNvSU91M2QxUTJNMXNUVTczZWdKN0ZkSDBvUG9nOUE0X01GV3FjYU1ocDJuS1FzVW5lZ29DTG5wWEZPUS0yTWJyZGt4UVBLckowTTdtMXd5OGZFN2YwMGotelU3X0ZFRXNkalpydUtzN3lMamN2eWxoN2JYelhLY0V5dG1GeWppeFRNWjVzaTlMUlFsOGNqY1HSAYcCQVVfeXFMTnQ1TGxaT2xKNGpmMUw4dVpEeV84S19hclJFOGpRT1Q5V3BFSXFYZXR5YWZjYTdZSndVbFFZRUdSVldRekxQcVIwV3MyN1pxb24wTnFPZXQ1UmltTF8xSm9NeVhuc3JfTXZQeEpCVy1GbUNRbWI3M2NHTkhqYk03bXVLOGpVZ3g1Y3pMeE9oUkREWEhlZzNVZ3pNOVNlcGtfeG85UUk5M3A2SEVpR0Y1VWdlX2hreTlRV1p6VnVXSjNMUnZWYVhmSnh6T20tdDNKbUUyaHNhWS1tQVU2YXpBOGlTN3Y1QkVhRVQzWFJ4VU0tUHdfaWI5ekE1UnBZU09HdEs0bW1CTFE?oc=5",
       "publishedAt": "Tue, 27 Oct 2026 01:30:37 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXRPNF9Xa2o3bDRjLURmUDBlZ0FHb3hMNkNHa0xxekQzYjFUNUl5U3BWM3VRWkZqMmo3eE5ueHZaV2pEUVUyQWhsLUh5bFZiNnpsZ2FBNS15RU5pU2xFTjdwLWRHT0xBRGNvRnh0ZUtvMTBfZHJfcnBWVnhNdVp1SjNEZllGS0hwNDNpa09DOE85T2V4NUtHWkxSaFNVbmRQNnJDV3EycmdNUGF1ek8yWXNqTmMyY0dUSWpmTUxxUm4zVG1nUXfSAcoBQVVfeXFMTWVkUHhYRDdSRWROU29Nd09HSW5XbUd5bklVWUxBSHJqemhBcUktV29ZRVBpYU0xSURESWNReGU1TWFTZUdaeUFtMWhqT3VxUzJyem0wZVpFcVdfdDBnME13alVjSTZEVEZFR0lWOHBjSWd1bWRtR2ZkVFVaMlpMaFhEQTFTUnNkSkV2V251emlGN1ZpOG5WSUVsX0hmZzNUM1Y4ZC1UOUJJSVJQNXBBWGNwakd3bEw3N0hLanlVSUVrazBNc25lVXJrdw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:47:20 GMT"
     },
     {
       "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
