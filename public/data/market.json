@@ -1,5 +1,5 @@
 {
-  "headline": "Indian benchmark indices drop as surging crude oil prices and heavy IT stock sell-offs weigh on market sentiment",
+  "headline": "Indian markets face pressure from IT sell-off and crude prices as US Fed holds rates steady",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Crude oil prices soaring near $115 per barrel weighed heavily on market sentiment.",
-    "Widespread selling pressure in IT and Oil & Gas sectors dragged down Sensex and Nifty.",
-    "Investor caution ahead of and following the US Federal Reserve rate decision.",
-    "Persistent concerns over stubborn global inflation affecting broad equity markets."
+    "Selling pressure in IT and oil stocks significantly dragged down the Sensex and Nifty",
+    "Rising crude oil prices, nearing $115 per barrel, weighed on investor sentiment",
+    "Global markets reacted to the US Fed's decision to hold interest rates steady",
+    "Concerns over persistent inflation and its impact on future monetary policy"
   ],
   "whatHappening": [
-    "Sensex and Nifty tumbled as major IT and energy heavyweights saw increased selling.",
-    "The US Federal Reserve held interest rates steady at 3.75-4.00% to assess inflation data.",
-    "PNB Housing Finance posted a 6% increase in Q2 net profit to ₹617 crore.",
-    "KPIT Technologies reported a 29% decline in Q2FY27 net profit to ₹121 crore."
+    "The US Federal Reserve maintained interest rates, leading to a higher close for US stocks",
+    "Jio Platforms made a strong debut on the stock market, impacting market cap rankings",
+    "PNB Housing Finance reported a 6% increase in Q2 net profit to ₹617 crore",
+    "Analysts are monitoring if the Indian market is heading for its worst year since 2008"
   ],
   "stocksInNews": [
     {
@@ -24,49 +24,33 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        3
+        9
       ]
     },
     {
-      "symbol": "KPITTECH",
-      "sentiment": "Negative",
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         7
       ]
-    },
-    {
-      "symbol": "HINDZINC",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "VBL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        8
-      ]
     }
   ],
-  "summary": "Indian equities traded lower due to elevated crude oil prices near $115 and sharp declines across IT and oil stocks. Globally, the US Federal Reserve opted to hold key interest rates unchanged as it monitors inflation. On the earnings front, PNB Housing Finance reported steady profit growth while KPIT Technologies saw a decline in Q2 net profit.",
-  "updatedAt": "2026-10-28T20:31:22.366Z",
+  "summary": "Indian markets are under pressure following a sharp sell-off in IT and oil stocks and elevated crude oil prices. The US Federal Reserve's decision to hold interest rates steady has provided a key global cue for investors. Positive corporate news includes PNB Housing Finance's profit growth and a successful market debut for Jio Platforms.",
+  "updatedAt": "2026-10-28T21:02:30.572Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
+    "us stocks today us stocks end higher as fed holds rates focus turns to earnings",
+    "anthropic is said to plan uk share offering via retailbook",
+    "us fed meeting highlights fomc holds rates steady despite concerns over inflation warsh makes changes in annual meetings",
+    "feds kevin warsh says us economy not running too hot from ai boom",
+    "warshled fomc to reduce ratesetting meetings from 2027 despite inflation fight five key highlights",
+    "disinvestment as key economic strategy",
     "wendys draws buyout bid as beef costs and burger rivalry weigh on business",
     "jio platforms soars on debut recasting market capitalisation leaderboard",
     "us fed meeting live updates warsh highlights changes in fomc schedule from next fall fomc holds interest rates steady",
     "pnb housing finance q2 profit rises 6 to 617 cr income grows 14",
-    "inter miami vs new york red bulls live streaming when and where to watch messis mls match in india",
-    "fed keeps interest rates unchanged awaits more data on inflation",
-    "us fed holds key rates steady at 3754 to support dual mandate seeks more info for policy stance",
-    "kpit technologies q2fy27 results net profit declines 29 to 121 crore",
-    "buy sell or hold gec eternal hindustan zinc jio platforms and varun beverages ask profit",
-    "us federal reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "stock market today highlights october 27 stock markets end largely unchanged amid elevated crude oil prices selling in bank stocks businessline",
     "how can us fed fomc meeting outcome impact indian stock market sensex nifty to rise experts decode livemint",
@@ -79,6 +63,42 @@
     "indian markets end lower as it weakness and crude oil concerns weigh on sentiment the new indian express"
   ],
   "articles": [
+    {
+      "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms",
+      "publishedAt": "Thu, 29 Oct 2026 01:44:51 +0530"
+    },
+    {
+      "title": "Anthropic Is Said To Plan UK Share Offering Via RetailBook",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/anthropic-is-said-to-plan-uk-share-offering-via-retailbook-12250975#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 01:25:23 +0530"
+    },
+    {
+      "title": "US Fed Meeting Highlights: FOMC Holds Rates Steady Despite Concerns Over Inflation; Warsh Makes Changes In Annual Meetings",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 01:20:33 +0530"
+    },
+    {
+      "title": "Fed's Kevin Warsh says US economy not running too hot from AI boom",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms",
+      "publishedAt": "Thu, 29 Oct 2026 01:18:14 +0530"
+    },
+    {
+      "title": "Warsh-Led FOMC To Reduce Rate-Setting Meetings From 2027 Despite Inflation Fight: Five Key Highlights",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/us-fed-chair-kevin-warsh-changes-future-fomc-meetings-as-number-of-rate-setting-meetings-to-reduce-from-2027-12250913#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 01:16:58 +0530"
+    },
+    {
+      "title": "Disinvestment as key economic strategy",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/opinion/op-ed/disinvestment-as-key-economic-strategy/article71637709.ece",
+      "publishedAt": "Thu, 29 Oct 2026 01:14:06 +0530"
+    },
     {
       "title": "Wendy’s draws buyout bid as beef costs and burger rivalry weigh on business",
       "source": "Zerodha Pulse",
@@ -102,42 +122,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/companies/quarterly-results/pnb-housing-finance-q2-profit-rises-6-to-617-cr-income-grows-14-126102801687_1.html",
       "publishedAt": "Thu, 29 Oct 2026 00:09:32 +0530"
-    },
-    {
-      "title": "Inter Miami vs New York Red Bulls Live Streaming: When And Where To Watch Messi's MLS Match In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/inter-miami-vs-fc-cincinnati-live-streaming-when-and-where-to-watch-messis-mls-match-in-india-12250816#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 23:54:06 +0530"
-    },
-    {
-      "title": "Fed keeps interest rates unchanged, awaits more data on inflation",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/fed-keeps-interest-rates-unchanged-awaits-more-data-on-inflation-126102802093_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 23:44:23 +0530"
-    },
-    {
-      "title": "US Fed Holds Key Rates Steady At 3.75-4% To Support 'Dual Mandate'; Seeks More Info For Policy Stance",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/us-fed-verdict-kevin-warsh-led-fomc-holds-key-benchmark-interest-rate-steady-at-3-75-4-after-september-hike-12250772#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 23:37:37 +0530"
-    },
-    {
-      "title": "KPIT Technologies Q2FY27 results: Net profit declines 29% to ₹121 crore",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/kpit-technologies-q2fy27-results-net-profit-declines-29-to-121-crore-126102801760_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 23:35:55 +0530"
-    },
-    {
-      "title": "Buy, Sell Or Hold: GEC, Eternal, Hindustan Zinc, Jio Platforms And Varun Beverages — Ask Profit",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-gec-eternal-hindustan-zinc-jio-platforms-and-varun-beverages-ask-profit-12250744#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 23:31:51 +0530"
-    },
-    {
-      "title": "US Federal Reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
-      "publishedAt": "Wed, 28 Oct 2026 23:31:23 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
