@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty end lower as IT and Reliance drag; Hyundai profits dip while Ola Electric rallies",
+  "headline": "Sensex and Nifty end lower as Jio Platforms debuts; Hero MotoCorp and Cholamandalam report strong Q2 results",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,20 @@
     "nextOpen": ""
   },
   "why": [
-    "Heavy selling pressure in major heavyweights like Infosys and Reliance Industries",
-    "Rising raw material and commodity costs impacting corporate earnings",
-    "Concerns over elevated crude oil prices affecting investor sentiment",
-    "Intraday volatility leading to the Nifty 50 slipping below the 22,700 mark"
+    "Significant selling pressure in market heavyweights like Infosys and Reliance Industries",
+    "Market volatility following the high-profile listing of Jio Platforms",
+    "Investor concerns regarding elevated crude oil prices impacting the broader economy",
+    "Profit booking in the IT sector which acted as a major drag on the indices"
   ],
   "whatHappening": [
-    "BSE Sensex ended 352 points lower while the NSE Nifty50 closed below the 22,700 level",
-    "Hyundai Motor India reported a 24% drop in Q2 net profit to ₹1,196 crore due to high costs",
-    "Ola Electric's ₹1,000 crore rights issue was fully subscribed as its shares surged 23%",
-    "The government capped trade margins at 30% for 543 cancer drug brands to lower prices"
+    "Sensex closed 353 points lower at 22,699, while Nifty50 finished below the 22,700 mark",
+    "Jio Platforms debuted at a 21% premium with a valuation exceeding ₹12 lakh crore",
+    "Hero MotoCorp and Cholamandalam Investment both reported a 41% surge in Q2 net profits",
+    "Vedanta Group chairman Anil Agarwal announced a target of $20 billion in profits over the next two years"
   ],
   "stocksInNews": [
     {
-      "symbol": "OLAELEC",
+      "symbol": "VEDL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -28,12 +28,37 @@
       ]
     },
     {
-      "symbol": "HYUNDAI",
+      "symbol": "RELIANCE",
       "sentiment": "Negative",
+      "sources": "Mentioned by 3/8 sources",
+      "articleIds": [
+        2,
+        12,
+        15
+      ]
+    },
+    {
+      "symbol": "SATIN",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        1,
-        2
+        4
+      ]
+    },
+    {
+      "symbol": "CHOLAFIN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
       ]
     },
     {
@@ -43,31 +68,23 @@
       "articleIds": [
         12
       ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        12
-      ]
     }
   ],
-  "summary": "The Indian stock market closed lower on October 28, with the Nifty falling below 22,700 driven by a 3% drop in Infosys and Reliance. Hyundai India faced a significant profit decline due to rising commodity costs, while Ola Electric bucked the trend with a 23% rally following its rights issue. Regulatory focus remained high as the government slashed cancer drug prices and SEBI proposed faster onboarding for foreign investors.",
-  "updatedAt": "2026-10-28T16:02:02.992Z",
+  "summary": "The Indian stock market ended in the red on October 28, with the Nifty50 closing below 22,700 as heavyweights like Infosys and Reliance dropped 3% each. While Jio Platforms saw a strong 21% premium debut, its parent company's stock faced selling pressure. Strong corporate earnings from Hero MotoCorp and Cholamandalam provided a silver lining amidst the broader market slide.",
+  "updatedAt": "2026-10-28T17:01:57.358Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-28",
   "articleKeys": [
-    "ola electrics 1000 cr rights issue fully subscribed as shares rally 23",
-    "hyundai motor india q2 profit falls 239 as raw material costs rise",
-    "hyundai india q2 net profit falls 24 to 1196 crore on high commodity cost",
-    "physicswallah startup india tie up to support 25000 earlystage startups",
-    "haryana power regulator stays landmark parallel distribution license order",
-    "sebi to review closing auction rules after one year chairman pandey reiterates",
-    "sebi aims to cut foreign investor onboarding to as little as five business days",
-    "dpr for proposed tuticorin shipyard in six months sarbananda sonowal",
-    "cancer drug price cut govt caps trade margins at 30 revises prices of 543 drug brands",
-    "cyclone arnab 5 dead in andhra pradesh 50000 trees uprooted as storm leaves trail of destruction",
+    "vedanta group eyeing 20 billion profits over next two years chairman anil agarwal",
+    "the way out of the dangerous trap",
+    "jio platforms debuts at 21 premium as sensex slides valuation tops 12 lakh crore",
+    "the gap in manufacturing sector gva",
+    "satin creditcare q2 profit surges over threefold as asset quality improves",
+    "cholamandalam investment q2 net profit rises 41 on strong income growth plans rs 5000 crore capital raise",
+    "mial asks airlines to submit navi mumbai flight shift plans by november 3",
+    "hero motocorp q2 profit jumps 41 as scooter and ev sales surge",
+    "india needs 220 billion for green power transition by fy30",
+    "77 of haryana farmers admit evening stubble burning to evade satellites",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
     "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
@@ -81,64 +98,64 @@
   ],
   "articles": [
     {
-      "title": "Ola Electric's ₹1,000 cr rights issue fully subscribed as shares rally 23%",
+      "title": "Vedanta Group eyeing $20 billion profits over next two years: Chairman Anil Agarwal",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/ola-electric-s-1-000-cr-rights-issue-fully-subscribed-as-shares-rally-23-126102801875_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 21:09:01 +0530"
+      "link": "https://www.thehindu.com/business/Industry/vedanta-group-eyeing-20-billion-profits-over-next-two-years-chairman-anil-agarwal/article71637399.ece",
+      "publishedAt": "Wed, 28 Oct 2026 22:06:18 +0530"
     },
     {
-      "title": "Hyundai Motor India Q2 profit falls 23.9% as raw material costs rise",
+      "title": "The way out of the dangerous trap",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/hyundai-motor-india-q2-profit-falls-23-9-as-raw-material-costs-rise-126102801761_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 21:06:29 +0530"
+      "link": "https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece",
+      "publishedAt": "Wed, 28 Oct 2026 21:50:43 +0530"
     },
     {
-      "title": "Hyundai India Q2 net profit falls 24% to ₹1,196 crore on high commodity cost",
+      "title": "Jio Platforms debuts at 21% premium as Sensex slides; valuation tops ₹12 lakh crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/hyundai-india-q2-net-profit-falls-24-to-1196-crore-on-high-commodity-cost/article71635832.ece",
-      "publishedAt": "Wed, 28 Oct 2026 21:04:07 +0530"
+      "link": "https://www.thehindu.com/business/Industry/jio-platforms-debuts-at-21-premium-as-sensex-slides-valuation-tops-12-lakh-crore/article71635707.ece",
+      "publishedAt": "Wed, 28 Oct 2026 21:41:18 +0530"
     },
     {
-      "title": "PhysicsWallah, Startup India tie up to support 25,000 early-stage startups",
+      "title": "The gap in manufacturing sector GVA",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/physicswallah-startup-india-tie-up-to-support-25-000-early-stage-startups-126102801863_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 21:03:12 +0530"
+      "link": "https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece",
+      "publishedAt": "Wed, 28 Oct 2026 21:40:40 +0530"
     },
     {
-      "title": "Haryana power regulator stays landmark parallel distribution license order",
+      "title": "Satin Creditcare Q2 profit surges over three-fold as asset quality improves",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/haryana-electricity-regulator-stays-parallel-distribution-licence-order-126102801846_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 20:56:53 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-q2-profit-surges-over-three-fold-as-asset-quality-improves/articleshow/135272520.cms",
+      "publishedAt": "Wed, 28 Oct 2026 21:38:45 +0530"
     },
     {
-      "title": "SEBI To Review Closing Auction Rules After One Year, Chairman Pandey Reiterates",
+      "title": "Cholamandalam Investment Q2 net profit rises 41% on strong income growth, plans Rs 5000 crore capital raise",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/sebi-to-review-closing-auction-rules-after-one-year-chairman-pandey-reiterates-12248894#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 20:51:56 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cholamandalam-investment-q2-net-profit-rises-41-on-strong-income-growth-plans-rs-5000-crore-capital-raise/articleshow/135272371.cms",
+      "publishedAt": "Wed, 28 Oct 2026 21:34:42 +0530"
     },
     {
-      "title": "SEBI Aims To Cut Foreign Investor Onboarding To As Little As Five Business Days",
+      "title": "MIAL asks airlines to submit Navi Mumbai flight shift plans by November 3",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/sebi-aims-to-cut-foreign-investor-onboarding-to-as-little-as-five-business-days-12248909#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 20:50:37 +0530"
+      "link": "https://www.business-standard.com/industry/aviation/mial-asks-airlines-to-submit-navi-mumbai-flight-shift-plans-by-november-3-126102801919_1.html",
+      "publishedAt": "Wed, 28 Oct 2026 21:33:12 +0530"
     },
     {
-      "title": "DPR for proposed Tuticorin Shipyard in six months: Sarbananda Sonowal",
+      "title": "Hero MotoCorp Q2 profit jumps 41% as scooter and EV sales surge",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/news/dpr-for-proposed-tuticorin-shipyard-in-six-months-sarbananda-sonowal-126102801834_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 20:47:08 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-profit-jumps-41-as-scooter-and-ev-sales-surge/articleshow/135272243.cms",
+      "publishedAt": "Wed, 28 Oct 2026 21:31:33 +0530"
     },
     {
-      "title": "Cancer Drug Price Cut: Govt Caps Trade Margins At 30%, Revises Prices Of 543 Drug Brands",
+      "title": "India needs $220 billion for green power transition by FY30",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/cancer-drug-price-cut-govt-caps-trade-margins-at-30-revises-prices-of-543-drug-brands-12249794#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 20:46:53 +0530"
+      "link": "https://www.thehindu.com/business/Industry/india-needs-220-billion-for-green-power-transition-by-fy30/article71637103.ece",
+      "publishedAt": "Wed, 28 Oct 2026 21:25:44 +0530"
     },
     {
-      "title": "Cyclone Arnab: 5 Dead In Andhra Pradesh, 50,000 Trees Uprooted As Storm Leaves Trail Of Destruction",
+      "title": "77% of Haryana farmers admit evening stubble burning to evade satellites",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/cyclone-arnab-5-dead-in-andhra-pradesh-50-000-trees-uprooted-as-storm-leaves-trail-of-destruction-12249969#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 20:45:02 +0530"
+      "link": "https://www.business-standard.com/industry/agriculture/77-of-haryana-farmers-admit-evening-stubble-burning-to-evade-satellites-126102801711_1.html",
+      "publishedAt": "Wed, 28 Oct 2026 21:15:43 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
