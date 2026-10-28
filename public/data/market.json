@@ -1,5 +1,5 @@
 {
-  "headline": "Indian equities tumble as rising crude oil prices, IT sell-off, and Fed decision weigh on sentiment",
+  "headline": "Sensex and Nifty end lower amid oil concerns and Fed caution, while Jio Platforms sees strong listing debut",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,30 +7,47 @@
     "nextOpen": ""
   },
   "why": [
-    "Surging crude oil prices near $116 per barrel weigh heavily on domestic equities and the rupee.",
-    "Sharp losses in major IT stocks drag down the benchmark Sensex and Nifty.",
-    "Continued foreign portfolio investor (FPI) outflows dampening market sentiment.",
-    "Caution and uncertainty ahead of the upcoming US Federal Reserve interest rate decision."
+    "Elevated crude oil prices are keeping pressure on the rupee and weighing on market sentiment",
+    "Investors and traders are awaiting crucial cues from the upcoming US Federal Reserve decision",
+    "Heavyweight stocks including Infosys and Reliance Industries saw significant drops of 3% each",
+    "Global market sentiment remained cautious with European shares wavering due to earnings and rising oil"
   ],
   "whatHappening": [
-    "Sensex and Nifty fell sharply, dropping significantly during today's trading session.",
-    "Jio Platforms made its stock market debut, ending 27% higher than its issue price.",
-    "Union Cabinet approved a 3% Dearness Allowance (DA) and Dearness Relief (DR) hike for central government employees and pensioners.",
-    "Elevated crude oil prices put pressure on the Indian rupee as traders await global cues."
+    "Jio Platforms shares ended 27% higher than their issue price on their listing day",
+    "The BSE Sensex closed 352 points lower, while the NSE Nifty50 ended below the 22,700 mark",
+    "The Union Cabinet approved a 3% hike in Dearness Allowance and Dearness Relief for central government staff",
+    "Vedanta Aluminium and Goodluck India reported a decline in their Q2 net profits by 8% and 23% respectively"
   ],
   "stocksInNews": [
     {
-      "symbol": "JIO",
+      "symbol": "JIOPLATFORM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/7 sources",
       "articleIds": [
-        7
+        7,
+        15
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        12
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        12
       ]
     },
     {
       "symbol": "VEDL",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         8
       ]
@@ -38,22 +55,14 @@
     {
       "symbol": "GOODLUCK",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         8
       ]
-    },
-    {
-      "symbol": "AWL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        17
-      ]
     }
   ],
-  "summary": "Indian benchmark indices fell significantly as surging crude oil prices and IT sector weakness spooked investors ahead of the US Fed decision.\nForeign fund outflows and currency pressures added to market anxiety, keeping benchmark indices under pressure.\nOn stock-specific news, Jio Platforms surged 27% on its listing day while companies like Vedanta Aluminium and Goodluck reported declines in Q2 net profits.",
-  "updatedAt": "2026-10-28T11:01:44.673Z",
+  "summary": "The Indian stock market closed in the red today as the Sensex and Nifty fell due to high oil prices and anticipation of the Fed's decision. Jio Platforms provided a major highlight with a strong listing, ending its first day 27% above the issue price. Heavyweight drags from IT and Reliance, along with weak Q2 results from metal firms, contributed to the overall bearish sentiment.",
+  "updatedAt": "2026-10-28T11:31:47.373Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-28",
   "articleKeys": [
@@ -68,15 +77,15 @@
     "q2 results live vedanta aluminium net profit down 8 goodluck india profit down 23",
     "the economic imperative analysing the material driving force behind indiacanada strategic reset",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
-    "stock market today live october 28 sensex settled at 7324603 nifty 50 declined 5090 points businessline",
-    "stock market crash today sensex plunges 995 points nifty sheds 1 ahead of fed decision heres what spooked dstreet livemint",
-    "stock market crash today sensex plunges 995 points nifty sheds 1 ahead of fed decision heres what spooked dstreet tradingview",
-    "sensex falls nearly 700 points as rising crude prices fpi outflows weigh on markets dd india",
-    "stock markets today sensex nifty tumble as it stocks crude prices weigh rediff",
-    "sensex nifty slide as crude near 116 and it stocks tumble hdfc sky",
-    "sensex today ends 353 points lower nifty below 22700 awl agri business down 6 equitymaster",
-    "sensex drops 600 points it stocks rising crude blamed rediff moneywiz",
-    "is indias stock market heading for its worst year since 2008 crisis ndtv"
+    "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
+    "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
+    "closing bell sensex nifty end flat on expiry day pharma realty shine it drags moneycontrolcom",
+    "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
+    "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
+    "stock market highlights today bse sensex and nifty50 ends flat amid elevated crude oil prices the times of india",
+    "why is stock market falling today sensex drops over 800 points nifty slips below 22600 key reasons explained ndtv profit",
+    "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market crash today sensex plunges 995 points nifty sheds 1 ahead of fed decision heres what spooked dstreet livemint"
   ],
   "articles": [
     {
@@ -146,58 +155,58 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
-      "title": "Stock Market Today Live, October 28: Sensex settled at 73,246.03; Nifty 50 declined 50.90 points - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlFjUU1XR0tUaTZVTG4xSVhUdnRPNGYwNUIwaFhlOWE5a09wakpFMXhTa0ZqLTFCZVlRc25EcVBRREFSWUVKanFHczZzOExPUFNTMDk3aldTZ292WERsbW1qSHpaQ1ZSb05oYm9fOS1PN1B3WERQckU1a2N6ZlRFRzgyUUFhN2pjSkxZVU5OeVZyc3cydWhSWUFDX2llX3N2SmJGcjNsM0dQLWp6VkIwbGdOT3FMVHA5MWNabVdQTll5WWdDbkHSAcwBQVVfeXFMUFRQaTl4ZmdBT3pCQU9rSkttSmpmelEzNjRiMjVaY3RuUWhMRjdlYmszVHhtbU82bnlQRGE2aXh1SlhmVlpQY0pWal9yNmMwemlILWxHQ2Jza0RqRnRPOHZVUldBVmJ3UzZiOFA5a3U5VG93NENFSS1ERVQtQ19IcEotZ0xvcERBLV9tMDJ4MnlBb2xuN094ZHhOMVljME9RUi1rSW5hLTVEQklvLVlqX2J6TDJqbUJDcklub19PbWJrSFJsZmFMSTdrVnd0?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:53:28 GMT"
+      "title": "Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcDZ4SlBCdXAzX0JUb3E2UlRYeGhFblcwSWF3cW1oX2VZMEwwakJfeVEtdUJRaThFSjVqSWRMaU12ajVDQ2NsMllXaUgydHJHMk9oT0xPaW9WeFByWkdGN25WZkpXYjRWYlVGSlFuLWNmWGd1Q3p5WU93RHh4NGIwYmtVa1c3NDNyejhvempFQTJxbm5RUHREV1dNbUxWc3hZRjlPbmpDWFBnZ2RtZnQtZWluLUZLcTB1YmdCYjJHUmZXTktYYlBGdWFBU3lhNVJpNFR3ZdIBugJBVV95cUxNMFNaX0w0NnU0aTQ0UHdkc0lSQ19GUGRKMnFwTVJYNW5wajNISEtaeFctTmZ3QWtxSDJzLVZMdlR6ZVk3VnlWNnFmRUYxQVFFdTFzX2J4TW9HVUpGVWJBd29sT1RnSElmQlFsMVV3QkhYQXB1dkNudWNORUZub295a3BSRVpXcUVGYWRpaXBrb2NMWmpWZks2TXhSRXlmLU0wdm1yNG40dGx3ZVQ0b3FzcTQ1MzhKZG03cGRxUnJRb052V19UcjVjdzFzcHZ1eXNydDRCaWotVXRNcWtQZldqcEtzR19ac21LU1piWk95MTFVa3dMRHNNOHN5U0tHZU4zSERENjgxd29McDBIeUxUNmFveDdZODJucmI1Qm9EV0ItWG50NktCdTRseTRDTmYzV2x0Z1g0aTR2QQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 352 pts lower, Nifty below 22,700; Infosys, RIL drop 3% each - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUEZvTHY0YzFqQmJJWlZOQjlUOS1taG4zMTNMSUpKYWRQTjFNdDBkbF9kVVBXdGxwb2FlYXVYcXA0WU56MjFpUHpZbE5laDJKYlBPa0ZEWUc2T3l2Z3hHVXZkVEh4SDcxSUcxVURLYWRvelBUNGN0T1dncEwwTE9FMWxJVTZqV2VkOF90emlrTmV5VEVyVXN4NlF1M28zTkJRYmRJWnlKaDI2Q3ZHLWZWcTIxeHRQdmpuYjdCRVFnNGRkR0Zlb3ZqdUhmOFZtS2FFWHU3QTQ3RHJSRjVTSk9vZDJEUUZ1Q1AyZkM3eEJ6dGdJTXdDaVRiVVVDMUU0Q1J3b1o4V1RNVUJIeHUzZWZUOdIBlgJBVV95cUxPNEZvSjdwRXFNTFF3TTJRc2VTN3NIMUc4cFNFdWx0X0M1bGRkcmt6RWxfZndkVlpKR2hhZU1fMTU1czBPLVRyS2g5MEUySE5IZWR0WjJaVTFxNGp3bHJHTVNsRkttemJKNkZxSUpuUWtmR2VjS013TXpueWZZeEVuRVI1RHItemRuQlpjVDR6NmJPSXpjeUNZWlJhYU1lVjV0WWxnZ3N2Z3Zlb0dsVHN1dU0wejRyZ1ltMlJpZXB1YWZzMGVLb2wwMnlCamlvM3o4VFVuZ0RTVXpWUFk3dUkxUFZZdktfZnpEV1lyY0hlZVpoZGtZc2xONUtRdkdteUctNXR5a0FrYUhXMUN4aEFaMFg2SHFrdw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 10:05:18 GMT"
+    },
+    {
+      "title": "Closing Bell: Sensex, Nifty end flat on expiry day; pharma, realty shine, IT drags - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNUFQTEo3T09fbW02cHU1RVZkLXFic2swMkhkZWJ3bEJTRFlENGpoZFVvVlU4aVpreHkyRzdYV2dQOUZ6NjRwMElkV0x3TF9aSnJmdXljbmZ6UWEwaU5YMXJ6STBBS2o4SlBZMVpqNml3V2N0UklTVnpHTmpuNURNbFppWDByUkMxTmkxTkFLMzg4ZFhLWV9RUzFJdDhsNFlrRnFTX2VLX0NDX0FnamtpZkRRR0dtZmR1ZGVmMDhtUFM1NzDSAagCQVVfeXFMTmZtRlNsZUNmQ29nN0FTNWNWNDBGM0VHTHozcmJYZlRLMUZHSmJiX1VFVHdzZUt1akJmYkFhV2tubjIxcVdoYVhzOE9xaG9hQS1KRERXRHc0SXlNVkp3UmZKbldUbnVIa2hTVmdoUHhJN3JlT3pmeV9USUV5UU5zN3ROMlBTQzZyMW53Mmc2VnhuT1JOaUNwMzhpUXlQQUx6RVl6QkNYbkFjNlJiMERsWW53LXVvLWpSTVdObnltbTJKQ3o3MWpveGZJM1c3VlpqT3hDOGZaS2pyZXhXYTR4OEtBSE9xd28tOUVPWnZVNVp5Y1dJclRwNWg1bVB2SnBncEpPWFFYZTJxRjlEYUJRcF9QTG14WThnSnI1bTVZZXhkdkJiWTRIelo?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 10:36:10 GMT"
+    },
+    {
+      "title": "Stock Market Highlights: Sensex Ends 353 Points Lower, Nifty At 22,699; Broader Indices Outperform - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHTSAZwCQVVfeXFMTlpZX2h0X1ctREhmazVTME1YZGJaUllQNzJNeFpGcmlQTkVrS0NMaXU5TFREM3Bfb29HdEQ2bG1FWkdHOXBpLURBbk9JaWZQNHFEUmVFSGVmdlJVWFg4cEVoSWFtMlA5akRwMXlXVVNkOU1lSXc0MlBmeWF2QjBZQ3RSZHB4NS1aRXVGd2dUNV9qMTNHWm12amlzcVA1VHNYSGRuaTVfRUtfRXZocnJ5MVltcm9tVjZ5RmdEMzdBS1VUVG4wV1JIWFpzMDk3bGhFZm5lcGhaOGFqZzdZVmRHdGpYTXZMTUJsS3FqYXlnWjlMOXBIUVd1bnZwYU4ydkRkRkFTNWJiX3JNRFJiUzdYcEttMzhGcjNxTXNqZUQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 10:06:38 GMT"
+    },
+    {
+      "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbGQxcFFLUDN1THJXOVNaMEsydnpFQWJjQVZRWW9jNGJXczJxZDNpdElrOGx3bFluNFFCWVgyM1RQR0RUWFgwTGFCc3FaLTlBcTVGQ2JDRUNCVll4cFJ0V2pxVGw1TkJaTjZqSjE2VGZHZXdqR19talF2N085OGJBYjF3M1lCaWNlZjFLRGtaNUVBVHpIWi1mNXJaTE9iZVREdTkyQ0djMWNGdGNaZkV0WGlqOS1HTUJUcWRpSDZYTkc0VUVya1JBSEVzLUlibDhZUjJfS0JrdVdWTGJTYWJpTXVWeWRNdU8tSXZHQ25ybmtZQzlhR21mNzl5TlBtbzhNRnJmTFcxN2VWLUdJNEp4Q9IBlgJBVV95cUxONVlXWWJCbVhCZDBjM0ZhUDlEcnBWNVJUdTNGNjJXeXV4NlRpY2lwQlNmVFM5dDlwdVVEejdRX2MyZWFvbG1LLUJ1VGc1Zy1KamlfWHk3SHRiMlAtM0VBUjY2MHIwVzZyR3Jyc3ZMNnkxSTlLTUNHQ3hRNHdJRi00UEZ5TDNrS2p4UGVxUFhyX19RLUZSOXd1c2NzSm5LczdpRkY1UnFzRks3cjdBX2NWVXhVSkZoaXNfOGxvMXQwX3p3VVN2M2tVZTZmRDIyZ1FvN0tfTWF4LUt1ZXI2RTZkTGY1Zndpdkw2Y3djeUdNT2pwOU44Q1JXWHM0UkV0bEdTVWpaVTZ3SXA0SzZSTnYtWjBLMUxldw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 01:45:48 GMT"
+    },
+    {
+      "title": "Stock Market Highlights Today: BSE Sensex and Nifty50 ends flat amid elevated crude oil prices - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNnk4ekZHSVdTdHNsTVZKbmdKaHFsWWdyQ2RjdS0zeFhTWFFYZTlHV0d2eHJCc1BPeFNJZEtrckxrUGVTUTJ0Z2pyRFI1YzM4eF85RFdtdG5KM28wZm9UMWV6b0dacHJfLXJheUZDeTJzNDlLUTNib2tsM1lZUjV3S0lfZjQ1VHQ4a204czgzWlNKaTVsU2Y0N1BBMUZ0bW1LdzJ3aUNZX2VNOXEyLVc1QUhiazE5d3RveUFrQ1BpWm5kZ2tlNkhyNldjaTVKWV81VWprd1hmc2tGUjRWZkJrT3l2WVU1MDVyNTJOSURsQU5UazVmb3hlcUl0c1BNSXpkaEY5UVVISkRvSWMtWmFBY2RYNElnNG91Q2xFbXhnOW5BblplMUNIOUhpUE5GMHo1NUt3ZNIBugJBVV95cUxPODhWREFHQ1JNaWppM21HUnZjV3liQXVCWjFGNlh2QXRBNUNpbC1hVXZPSGx3dnR2M3hzemdrcWpSbXdYZXpKdm1JNXZqZ1Y5ajNYeVJnczFKalRpWVR0OXVITkJLekgwNU1DcVVNNFRKaHNKLTQ0b0NXM2NsbGE1WHliYjRnOEhyVHVWWVNGZllELU9TMkV6Z2oxU0JiSUlKSVNYRWdtTk4xSG1kSXlONU9wcHd6TndPaTRCQ0xteG5mLTZTbUNHU3lMaWt5dnNqbXdzYnZucjBCSXFWLWZmTUs2ZmJzVmhVTTA0MzR4ZGRGQ1Y0U2NVU1pybDZaQ0RWd3diVzRsWjBhWW9rQ3BXNk1XT0pBRVl5YjlPM0U5U0tVMWVRd0RLbm0xMTI4Qy1GZWNrcks4X203Zw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 11:05:09 GMT"
+    },
+    {
+      "title": "Why Is Stock Market Falling Today? Sensex Drops Over 800 Points, Nifty Slips Below 22,600; Key Reasons Explained - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWWg0dDRpcmtjNklEc0lVSG5lZWxUR2JXMF9EaDR5YWozMk1rMjZhU0hOQjhaR0lLMDZFYWNuNUxPV1NmdkdLTGRwMnRMVDVDNFlaSmpONU5qellPa0lVTjRfZ2FxWERCbVptWWc3WFlZazJTUlp0bW53U3QySDBHMW9Ic2g3djNHbS1oWV82NHVmWTQwaDNOU3UtWDFqRmtjSi1jZUgwczZ3dW16SHFYbXhieUZQWlZRV3ZnbVY0bjFyZXdyS1N6eG81QnU2c2l0dFNSdlRCVXFhdTdnSmN5WEdkQ1dGTXZiblVMUVRpX2NCLXA1bWxadmMySVFaZDcwY25EQVRyY3BHd9IBkgJBVV95cUxONzVPaXVRSE1WNE8teUkxaWRiR3JXMklmNk55OUx4YnlTX3lDLXQyaUx3ZXRtekFFcm9XbDlNMmt6NEJYeVpzNlJPRF9DQUVzSS0wbDZSTHE4QjJ4UDhCRTJNLVMxY1hRV3FoZFhpeGVqQkpFWHdqYzVQZHpIb24tckxGWWpMTHVtN0pQbXBfXzczMG1kRFVnN0ctWXdCbmhKNzV6YlV0dnNyQlFrX1hjZzd2bHhfa0tIZ3l3TDhqMnExTFVlcnIzci10cG1YSURiWUpvMEs5S2JNV3hZdmYydmRETGlKMGE3WGVrTC1YLWtGbFVfcG82MmNtZjZ1X0tGZEN2U1pyUkFVQWpPVEJ5d013?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:25:48 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVVnVFprN1pwVWtldGFwam9RN2lqcVZPdDRPb3R0Tk84UmlicnBGWHlqanhVZ3JRRTFPcTliOE8xTkg0SkVqRFplanRfTHdDUXdpa3o3NGt3TmRIRHZ2NzZlU20zWHpTY1gtdGVuU1JEeXNvSU91M2QxUTJNMXNUVTczZWdKN0ZkSDBvUG9nOUE0X01GV3FjYU1ocDJuS1FzVW5lZ29DTG5wWEZPUS0yTWJyZGt4UVBLckowTTdtMXd5OGZFN2YwMGotelU3X0ZFRXNkalpydUtzN3lMamN2eWxoN2JYelhLY0V5dG1GeWppeFRNWjVzaTlMUlFsOGNqY1HSAYcCQVVfeXFMTnQ1TGxaT2xKNGpmMUw4dVpEeV84S19hclJFOGpRT1Q5V3BFSXFYZXR5YWZjYTdZSndVbFFZRUdSVldRekxQcVIwV3MyN1pxb24wTnFPZXQ1UmltTF8xSm9NeVhuc3JfTXZQeEpCVy1GbUNRbWI3M2NHTkhqYk03bXVLOGpVZ3g1Y3pMeE9oUkREWEhlZzNVZ3pNOVNlcGtfeG85UUk5M3A2SEVpR0Y1VWdlX2hreTlRV1p6VnVXSjNMUnZWYVhmSnh6T20tdDNKbUUyaHNhWS1tQVU2YXpBOGlTN3Y1QkVhRVQzWFJ4VU0tUHdfaWI5ekE1UnBZU09HdEs0bW1CTFE?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 01:30:37 GMT"
     },
     {
       "title": "Stock market crash today: Sensex plunges 995 points, Nifty sheds 1% ahead of Fed decision: Here's what spooked D-Street - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMFlUOGxPbER6VGFzUWlYX1hkbGdNNlpHb2lIU1VlNTNhQ3Jvdm9TZ2Z6NHdhUzVhV25aNXBpT2hrUmt0SW9SVjJPZUJPOEtlVnJaVWtfUWdMWE9QdkJQV0E1ZVlDSzV4alhSOTZtR05SWEd0TEZfbFdWZnV2VGp0VFcyMmZnQVh6ZlhCbmpDTmY5NXNxZWwxWnZhV0xMUXJxdFNQbHNwWHB2LXc4cnJiVnFXeXJNX2lYc0lQZUd6MHRuOTM1TXlCek4td1JveFNnZU8wYnQxZVFaRWIxWWtOdUNCUTRHLW5hLWNueEUzcGJ5Tzc4NXpseUw3TFViZHJwZ0k2OGFEWGt0RnJ6V0RjaNIBlgJBVV95cUxNQXlWaURfa2owSFdwNGtDa2JvalN2M3RKYmlaYVl2d1M2QVV2TURNemU1dmlOMnVqa29EX0tqYm44OTNDUnc3NVpoSlU5Z2YtYU16T3AzNHlaWGFyMWkwNUJ6SDFHM1o0b3hla25rQkNvZ2t2cGo4c21oM0txVUdzeDhPTFRYOUVUN1BHSEt1ajROcTU4UFpJc3I4WmxIMnVCbGZKeGpYZXFMYnRRSXZqUjNVUHNNaWRaN2U3THZqWEtHYVEtS3FMVnRiRmNNR3p4UkpSekF5ZnJtM2wtUDEtNER2eGhhdl8ta3dBeE1EbS0wMlktSnhjaFhRUHQxalFncHk3WThfeEZrWVNPN1lzbm50dHVTQQ?oc=5",
       "publishedAt": "Wed, 28 Oct 2026 05:37:18 GMT"
-    },
-    {
-      "title": "Stock market crash today: Sensex plunges 995 points, Nifty sheds 1% ahead of Fed decision: Here's what spooked D-Street - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOcF9iendBQVdPRUc2SVJlOXB0YmYyLVllcTNEbkllcDgtRm9KVkM1bnp5MzRQNGxiMVNwNEJEbzh0TWRaeko4YjFKTlloX2oza0dNbllUN1lrOTB3cV9IbkFTaG9yNUdfZDV6MDRvY3A0Q2FoY3A4aTdRZW1GQU1QTkJ1S3d6TnM3NVJ5M3lBVUU0MFJqeTc2b2tJcEVLREt5OGh6Um5WSERfQlo1MUdDcVhBdHplMU1qVTlLeGx3OXI0WGxzUVlUMnRjYVNMcmVOOU5CUnVBeFk2NFFqQWl2cy1kd0tlbmR5MHRNbFB1UGxIWk51c0JOMkUzYTQ2Z3puMEE?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 08:51:28 GMT"
-    },
-    {
-      "title": "Sensex falls nearly 700 points as rising crude prices, FPI outflows weigh on markets - DD India",
-      "source": "DD India",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN25aS1ZxTW1tUkNIMkpGYTRyUDdKWVA5aGF1ZnRDY3dpZkRrbjBjWUtjRjVXbXhLRndScEdobk4yUW1mSi1mN1hzQ2poVDBlYWJvanJDVFFNNEl6c2k0aHVIWFJ5bHMzNG93c1JTQ0YyczFtTlMtR3NKMGhBT2pRVk1xSXNkYjJCMFhaTnB5Rk8tMDNCdzlVcjViZkR6azItdWt3MTE3S2VKcWZTb0RrSkdiUXc?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 04:46:42 GMT"
-    },
-    {
-      "title": "Stock Markets Today: Sensex, Nifty Tumble as IT Stocks, Crude Prices Weigh - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUjYzTTdhbkI4NlczWmJKbWxMblNncjdaQnpoRzVQbTBjdEc2YW9hZk5rclZ6RXVIU2hJOGdpTkttMUE2cTFieVZ2ekg5QVJQbU1vWkg1cHFIMFRzYlVjM043SS02aUozQ2xQenQ3alZMZzJ6U1c5VmJJejk1NS1RdWhBcTNyeHBZaWhadi1UdlpJQ05rUWxBTkJaOEJtejBvNThXSXlnTVdSWWxhSXVVdG1vcGJpQkZFZmNSM1h3T2NuSDg1NEsw0gHKAUFVX3lxTE83QUF3N2RZejc1a2dBQVZQb1pmczFoWUpSeVYxNVhBRjFqRDlYMTdJTEZUdEhuQlpyUTJMUUI1T3JYaVlqQVlaN191YXRpNXRxb0FDNVROdnEyZlk5MWVFM0tvSUlLLVo4X3dJYzhsTjlUTkdWdDdUSncxdm1TQm5FbFgyWUwxSE9BSXRtb2ZtN04tNmJlQ01qWHNHWkF0TkNtZ3FhdkhyejRqVVhzSHBWQ2l1Y1d4cWlOQ3FYdm9IMC1iRWdqSVJGa1E?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 04:32:01 GMT"
-    },
-    {
-      "title": "Sensex, Nifty Slide as Crude Near $116 and IT Stocks Tumble - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUVVIU2hUd1lTbTJOQWNJeUdXeENUbC02SEJ3M1JPTU1acnU2d2NHWmxucTB3Nk9MNVZjc29BUGprR2VSZzhZN2UyX01KdEdBWDBFQ3h6UVhVQlRtYnJaTE1TX0FGSTFvMGo5SlQ2RnVfNnM0TDJLTV9lVXFRRzhGMUQ4OTN6bXh3M0tPaGdLNmgxUVNFZzlxVjg3Uzg0enFlUE8welpMT1E3Z2NnWUhkcmxhZkNXUFg2R3FnajhTaFlKV3I3bmVqWG8wMHFmSHZq?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 04:32:18 GMT"
-    },
-    {
-      "title": "Sensex Today Ends 353 Points Lower | Nifty Below 22,700 | AWL Agri Business Down 6% - Equitymaster",
-      "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQRzVlMG00MXh3aDR5S1JEXzNVYnA4TEZESHRnN0ZBamw4eVl4QVZJUkwwME9LUG5uMzREX05Ed2ota0NGcjl2YnNlaG51VF9CNWVwZzJXR1hiUHdKQ2pBcmVVZ2VTZHlhcEZkdVR5TGkyelNQZE51Y2FodnNvaXhPd2l1N2JZLTZNSzc4NXV4ektwM0xlTDEzNzJ5Vy01NkhwbWlkaFdXaUtfVFU0bmZvMUFXX05TS1Z0RmNJdEJ1cGtVVkI0bFZVbmhidFlkTkF2am9ORzg3Y2o2aUdpNXpueXpYYkplRVNuakdmN2JlNGF5Zm94cEI4STJlY19UeGxyVjI5d3BHQ1JnanJ2YTVOQW0yYU1aa05IQXdpZ1VLYjNmbXhCV0NnbTNHcURXbnZWcVB2YUxlQ002ajZQaHBSbkhOVy1ubFRpZXRKTXJNRVhyNFlP?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:43:14 GMT"
-    },
-    {
-      "title": "Sensex Drops 600+ Points: IT Stocks, Rising Crude Blamed - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdGRnbS15V3NMMVNRaHdrMXFfV3JsTF9wYkdHMF8zX2EzVkFfeVpxdERoNWhQRTkyaU5QQXdYRURhb1A2OGlNdEw0TVE2ZDRBUzRvRWYzTVQxcHc0Q3pjWm5BRzBDSnJ5eHJIcGlQT01VN3BOVTNRem1KODdxSW4tdjFpVURDZlctcHZObHJBRVBMMnRyYy1JeFdUY2ZTYUNraHhHeVMtZ0PSAa4BQVVfeXFMTXYwM1cyTE54bGxybXNZdG4wTFVtOTNrdzV4QnNJTlNLRUdSdVhmaWRzV2hqc1o3d1dldU9kak1JTVF3LWJaWmQ2amdTSTZQY05VZzdQWmVkRnUxSV9UbGJjc0JJVk5Ldks4bVZZRkZMc25hcVFpYm10V2JEQ0dpWEFibG9PREdFNUVLeldWa3k1QmJVNVEtX1RKTWxReHNjcVJiWTR2eFRicjg4ODRn?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 04:38:26 GMT"
-    },
-    {
-      "title": "Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV",
-      "source": "NDTV",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 08:56:28 GMT"
     }
   ]
 }
