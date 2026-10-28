@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex plunges nearly 1,000 points as Nifty slips below 22,700 ahead of Fed decision",
+  "headline": "Sensex and Nifty end lower as IT and Reliance drag; Hyundai profits dip while Ola Electric rallies",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,20 @@
     "nextOpen": ""
   },
   "why": [
-    "Heavy selling pressure ahead of the upcoming US Federal Reserve interest rate decision.",
-    "Heavyweights like Infosys and Reliance Industries dropped 3% each, dragging the benchmarks down.",
-    "Elevated global crude oil prices weighed on D-Street investor sentiment.",
-    "Sharp sell-off in IT and major index constituents led Sensex to lose over 800 points."
+    "Heavy selling pressure in major heavyweights like Infosys and Reliance Industries",
+    "Rising raw material and commodity costs impacting corporate earnings",
+    "Concerns over elevated crude oil prices affecting investor sentiment",
+    "Intraday volatility leading to the Nifty 50 slipping below the 22,700 mark"
   ],
   "whatHappening": [
-    "L&T announced plans to nearly double its order book to ₹15 lakh crore by 2031.",
-    "Vedanta Aluminium reported Q2 profit doubling to ₹6,187 crore with revenue jumping 41%.",
-    "United Spirits reported a Q2 net profit of ₹462 crore on revenue of ₹7,001 crore.",
-    "Union Cabinet approved a ₹10,000 crore scheme to encourage domestic container manufacturing."
+    "BSE Sensex ended 352 points lower while the NSE Nifty50 closed below the 22,700 level",
+    "Hyundai Motor India reported a 24% drop in Q2 net profit to ₹1,196 crore due to high costs",
+    "Ola Electric's ₹1,000 crore rights issue was fully subscribed as its shares surged 23%",
+    "The government capped trade margins at 30% for 543 cancer drug brands to lower prices"
   ],
   "stocksInNews": [
     {
-      "symbol": "LT",
+      "symbol": "OLAELEC",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -28,28 +28,12 @@
       ]
     },
     {
-      "symbol": "VEDL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "MCDOWELL-N",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
+      "symbol": "HYUNDAI",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/8 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        6,
-        13
+        1,
+        2
       ]
     },
     {
@@ -57,96 +41,104 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        12
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        12
       ]
     }
   ],
-  "summary": "Indian equities experienced a sharp decline with the Sensex dropping around 800-995 points and Nifty closing below 22,700. Major index drag came from IT and reliance heavyweights ahead of the US Fed monetary policy outcome. On the corporate front, strong Q2 earnings from Vedanta Aluminium and United Spirits stood out alongside L&T's long-term order expansion targets.",
-  "updatedAt": "2026-10-28T15:31:28.119Z",
+  "summary": "The Indian stock market closed lower on October 28, with the Nifty falling below 22,700 driven by a 3% drop in Infosys and Reliance. Hyundai India faced a significant profit decline due to rising commodity costs, while Ola Electric bucked the trend with a 23% rally following its rights issue. Regulatory focus remained high as the government slashed cancer drug prices and SEBI proposed faster onboarding for foreign investors.",
+  "updatedAt": "2026-10-28T16:02:02.992Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-28",
   "articleKeys": [
-    "lt aims to nearly double order book to rs 15 lakh crore by 2031",
-    "india and mexico sign terms of reference for preferential trade agreement negotiations to begin",
-    "sebi to review fpi compliance norms issue consultation paper to align with global standards",
-    "acutaas chemicals among 5 stocks hitting 52week highs rallied up to 18 in a month",
-    "vedanta aluminium q2 results profit doubles to rs 6187 crore revenue jumps 41",
-    "us stocks today sampp 500 nasdaq open higher as sk hynix lifts chips fed meet in focus",
-    "jio platforms ipo surge ends tatas reign as indias most valuable group",
-    "united spirits reports q2 profit of 462 cr revenue at 7001 cr",
-    "sebi signs mou with bank of england to strengthen oversight of clearing corporations",
-    "cabinet approves 10000 crore scheme to boost container manufacturing",
+    "ola electrics 1000 cr rights issue fully subscribed as shares rally 23",
+    "hyundai motor india q2 profit falls 239 as raw material costs rise",
+    "hyundai india q2 net profit falls 24 to 1196 crore on high commodity cost",
+    "physicswallah startup india tie up to support 25000 earlystage startups",
+    "haryana power regulator stays landmark parallel distribution license order",
+    "sebi to review closing auction rules after one year chairman pandey reiterates",
+    "sebi aims to cut foreign investor onboarding to as little as five business days",
+    "dpr for proposed tuticorin shipyard in six months sarbananda sonowal",
+    "cancer drug price cut govt caps trade margins at 30 revises prices of 543 drug brands",
+    "cyclone arnab 5 dead in andhra pradesh 50000 trees uprooted as storm leaves trail of destruction",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
-    "closing bell sensex nifty end flat on expiry day pharma realty shine it drags moneycontrolcom",
     "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
-    "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
+    "closing bell sensex nifty end flat on expiry day pharma realty shine it drags moneycontrolcom",
     "why is stock market falling today sensex drops over 800 points nifty slips below 22600 key reasons explained ndtv profit",
+    "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
     "stock market highlights today bse sensex and nifty50 ends flat amid elevated crude oil prices the times of india",
+    "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
     "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "five reasons indias stock market is sinking even when its economy is growing bbc",
-    "stock market crash today sensex plunges 995 points nifty sheds 1 ahead of fed decision heres what spooked dstreet livemint"
+    "stock market today highlights october 27 stock markets end largely unchanged amid elevated crude oil prices selling in bank stocks businessline"
   ],
   "articles": [
     {
-      "title": "L&T aims to nearly double order book to Rs 15 lakh crore by 2031",
+      "title": "Ola Electric's ₹1,000 cr rights issue fully subscribed as shares rally 23%",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/lt-aims-to-nearly-double-order-book-to-rs-15-lakh-crore-by-2031/article71636722.ece",
-      "publishedAt": "Wed, 28 Oct 2026 20:09:01 +0530"
+      "link": "https://www.business-standard.com/companies/news/ola-electric-s-1-000-cr-rights-issue-fully-subscribed-as-shares-rally-23-126102801875_1.html",
+      "publishedAt": "Wed, 28 Oct 2026 21:09:01 +0530"
     },
     {
-      "title": "India and Mexico sign Terms of Reference for preferential trade agreement negotiations to begin",
+      "title": "Hyundai Motor India Q2 profit falls 23.9% as raw material costs rise",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/india-and-mexico-sign-terms-of-reference-for-preferential-trade-agreement-negotiations-to-begin/article71635915.ece",
-      "publishedAt": "Wed, 28 Oct 2026 20:00:00 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/hyundai-motor-india-q2-profit-falls-23-9-as-raw-material-costs-rise-126102801761_1.html",
+      "publishedAt": "Wed, 28 Oct 2026 21:06:29 +0530"
     },
     {
-      "title": "Sebi to review FPI compliance norms, issue consultation paper to align with global standards",
+      "title": "Hyundai India Q2 net profit falls 24% to ₹1,196 crore on high commodity cost",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-fpi-compliance-norms-issue-consultation-paper-to-align-with-global-standards/articleshow/135269023.cms",
-      "publishedAt": "Wed, 28 Oct 2026 19:40:10 +0530"
+      "link": "https://www.thehindu.com/business/Industry/hyundai-india-q2-net-profit-falls-24-to-1196-crore-on-high-commodity-cost/article71635832.ece",
+      "publishedAt": "Wed, 28 Oct 2026 21:04:07 +0530"
     },
     {
-      "title": "Acutaas Chemicals among 5 stocks hitting 52-week highs; rallied up to 18% in a month",
+      "title": "PhysicsWallah, Startup India tie up to support 25,000 early-stage startups",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/acutaas-chemicals-among-5-stocks-hitting-52-week-highs-rallied-up-to-18-in-a-month/slideshow/135268346.cms",
-      "publishedAt": "Wed, 28 Oct 2026 19:14:25 +0530"
+      "link": "https://www.business-standard.com/companies/news/physicswallah-startup-india-tie-up-to-support-25-000-early-stage-startups-126102801863_1.html",
+      "publishedAt": "Wed, 28 Oct 2026 21:03:12 +0530"
     },
     {
-      "title": "Vedanta Aluminium Q2 Results: Profit doubles to Rs 6,187 crore, revenue jumps 41%",
+      "title": "Haryana power regulator stays landmark parallel distribution license order",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-aluminium-q2-results-profit-doubles-to-rs-6187-crore-revenue-jumps-41/articleshow/135268184.cms",
-      "publishedAt": "Wed, 28 Oct 2026 19:13:05 +0530"
+      "link": "https://www.business-standard.com/industry/news/haryana-electricity-regulator-stays-parallel-distribution-licence-order-126102801846_1.html",
+      "publishedAt": "Wed, 28 Oct 2026 20:56:53 +0530"
     },
     {
-      "title": "US stocks today: S&amp;P 500, Nasdaq open higher as SK Hynix lifts chips; Fed meet in focus",
+      "title": "SEBI To Review Closing Auction Rules After One Year, Chairman Pandey Reiterates",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-sk-hynix-lifts-chips-fed-meet-in-focus/articleshow/135267943.cms",
-      "publishedAt": "Wed, 28 Oct 2026 19:09:22 +0530"
+      "link": "https://www.ndtvprofit.com/markets/sebi-to-review-closing-auction-rules-after-one-year-chairman-pandey-reiterates-12248894#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 20:51:56 +0530"
     },
     {
-      "title": "Jio Platforms IPO surge ends Tata's reign as India's most valuable group",
+      "title": "SEBI Aims To Cut Foreign Investor Onboarding To As Little As Five Business Days",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/jio-platforms-ipo-surge-ends-tata-s-reign-as-india-s-most-valuable-group-126102801600_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 19:03:18 +0530"
+      "link": "https://www.ndtvprofit.com/markets/sebi-aims-to-cut-foreign-investor-onboarding-to-as-little-as-five-business-days-12248909#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 20:50:37 +0530"
     },
     {
-      "title": "United Spirits reports Q2 profit of ₹462 cr, revenue at ₹7,001 cr",
+      "title": "DPR for proposed Tuticorin Shipyard in six months: Sarbananda Sonowal",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/united-spirits-reports-q2-profit-of-462-cr-revenue-at-7-001-cr-126102801553_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 18:57:24 +0530"
+      "link": "https://www.business-standard.com/industry/news/dpr-for-proposed-tuticorin-shipyard-in-six-months-sarbananda-sonowal-126102801834_1.html",
+      "publishedAt": "Wed, 28 Oct 2026 20:47:08 +0530"
     },
     {
-      "title": "Sebi signs MoU with Bank of England to strengthen oversight of clearing corporations",
+      "title": "Cancer Drug Price Cut: Govt Caps Trade Margins At 30%, Revises Prices Of 543 Drug Brands",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-signs-mou-with-bank-of-england-to-strengthen-oversight-of-clearing-corporations/articleshow/135267165.cms",
-      "publishedAt": "Wed, 28 Oct 2026 18:45:56 +0530"
+      "link": "https://www.ndtvprofit.com/business/cancer-drug-price-cut-govt-caps-trade-margins-at-30-revises-prices-of-543-drug-brands-12249794#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 20:46:53 +0530"
     },
     {
-      "title": "Cabinet approves ₹10,000 crore scheme to boost container manufacturing",
+      "title": "Cyclone Arnab: 5 Dead In Andhra Pradesh, 50,000 Trees Uprooted As Storm Leaves Trail Of Destruction",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/cabinet-approves-10-000-crore-scheme-to-boost-container-manufacturing-126102801586_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 18:42:44 +0530"
+      "link": "https://www.ndtvprofit.com/india/cyclone-arnab-5-dead-in-andhra-pradesh-50-000-trees-uprooted-as-storm-leaves-trail-of-destruction-12249969#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 20:45:02 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
@@ -161,22 +153,16 @@
       "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
     },
     {
-      "title": "Closing Bell: Sensex, Nifty end flat on expiry day; pharma, realty shine, IT drags - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNUFQTEo3T09fbW02cHU1RVZkLXFic2swMkhkZWJ3bEJTRFlENGpoZFVvVlU4aVpreHkyRzdYV2dQOUZ6NjRwMElkV0x3TF9aSnJmdXljbmZ6UWEwaU5YMXJ6STBBS2o4SlBZMVpqNml3V2N0UklTVnpHTmpuNURNbFppWDByUkMxTmkxTkFLMzg4ZFhLWV9RUzFJdDhsNFlrRnFTX2VLX0NDX0FnamtpZkRRR0dtZmR1ZGVmMDhtUFM1NzDSAagCQVVfeXFMTmZtRlNsZUNmQ29nN0FTNWNWNDBGM0VHTHozcmJYZlRLMUZHSmJiX1VFVHdzZUt1akJmYkFhV2tubjIxcVdoYVhzOE9xaG9hQS1KRERXRHc0SXlNVkp3UmZKbldUbnVIa2hTVmdoUHhJN3JlT3pmeV9USUV5UU5zN3ROMlBTQzZyMW53Mmc2VnhuT1JOaUNwMzhpUXlQQUx6RVl6QkNYbkFjNlJiMERsWW53LXVvLWpSTVdObnltbTJKQ3o3MWpveGZJM1c3VlpqT3hDOGZaS2pyZXhXYTR4OEtBSE9xd28tOUVPWnZVNVp5Y1dJclRwNWg1bVB2SnBncEpPWFFYZTJxRjlEYUJRcF9QTG14WThnSnI1bTVZZXhkdkJiWTRIelo?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:36:10 GMT"
-    },
-    {
       "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 352 pts lower, Nifty below 22,700; Infosys, RIL drop 3% each - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUEZvTHY0YzFqQmJJWlZOQjlUOS1taG4zMTNMSUpKYWRQTjFNdDBkbF9kVVBXdGxwb2FlYXVYcXA0WU56MjFpUHpZbE5laDJKYlBPa0ZEWUc2T3l2Z3hHVXZkVEh4SDcxSUcxVURLYWRvelBUNGN0T1dncEwwTE9FMWxJVTZqV2VkOF90emlrTmV5VEVyVXN4NlF1M28zTkJRYmRJWnlKaDI2Q3ZHLWZWcTIxeHRQdmpuYjdCRVFnNGRkR0Zlb3ZqdUhmOFZtS2FFWHU3QTQ3RHJSRjVTSk9vZDJEUUZ1Q1AyZkM3eEJ6dGdJTXdDaVRiVVVDMUU0Q1J3b1o4V1RNVUJIeHUzZWZUOdIBlgJBVV95cUxPNEZvSjdwRXFNTFF3TTJRc2VTN3NIMUc4cFNFdWx0X0M1bGRkcmt6RWxfZndkVlpKR2hhZU1fMTU1czBPLVRyS2g5MEUySE5IZWR0WjJaVTFxNGp3bHJHTVNsRkttemJKNkZxSUpuUWtmR2VjS013TXpueWZZeEVuRVI1RHItemRuQlpjVDR6NmJPSXpjeUNZWlJhYU1lVjV0WWxnZ3N2Z3Zlb0dsVHN1dU0wejRyZ1ltMlJpZXB1YWZzMGVLb2wwMnlCamlvM3o4VFVuZ0RTVXpWUFk3dUkxUFZZdktfZnpEV1lyY0hlZVpoZGtZc2xONUtRdkdteUctNXR5a0FrYUhXMUN4aEFaMFg2SHFrdw?oc=5",
       "publishedAt": "Wed, 28 Oct 2026 10:05:18 GMT"
     },
     {
-      "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbGQxcFFLUDN1THJXOVNaMEsydnpFQWJjQVZRWW9jNGJXczJxZDNpdElrOGx3bFluNFFCWVgyM1RQR0RUWFgwTGFCc3FaLTlBcTVGQ2JDRUNCVll4cFJ0V2pxVGw1TkJaTjZqSjE2VGZHZXdqR19talF2N085OGJBYjF3M1lCaWNlZjFLRGtaNUVBVHpIWi1mNXJaTE9iZVREdTkyQ0djMWNGdGNaZkV0WGlqOS1HTUJUcWRpSDZYTkc0VUVya1JBSEVzLUlibDhZUjJfS0JrdVdWTGJTYWJpTXVWeWRNdU8tSXZHQ25ybmtZQzlhR21mNzl5TlBtbzhNRnJmTFcxN2VWLUdJNEp4Q9IBlgJBVV95cUxONVlXWWJCbVhCZDBjM0ZhUDlEcnBWNVJUdTNGNjJXeXV4NlRpY2lwQlNmVFM5dDlwdVVEejdRX2MyZWFvbG1LLUJ1VGc1Zy1KamlfWHk3SHRiMlAtM0VBUjY2MHIwVzZyR3Jyc3ZMNnkxSTlLTUNHQ3hRNHdJRi00UEZ5TDNrS2p4UGVxUFhyX19RLUZSOXd1c2NzSm5LczdpRkY1UnFzRks3cjdBX2NWVXhVSkZoaXNfOGxvMXQwX3p3VVN2M2tVZTZmRDIyZ1FvN0tfTWF4LUt1ZXI2RTZkTGY1Zndpdkw2Y3djeUdNT2pwOU44Q1JXWHM0UkV0bEdTVWpaVTZ3SXA0SzZSTnYtWjBLMUxldw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 01:45:48 GMT"
+      "title": "Closing Bell: Sensex, Nifty end flat on expiry day; pharma, realty shine, IT drags - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNUFQTEo3T09fbW02cHU1RVZkLXFic2swMkhkZWJ3bEJTRFlENGpoZFVvVlU4aVpreHkyRzdYV2dQOUZ6NjRwMElkV0x3TF9aSnJmdXljbmZ6UWEwaU5YMXJ6STBBS2o4SlBZMVpqNml3V2N0UklTVnpHTmpuNURNbFppWDByUkMxTmkxTkFLMzg4ZFhLWV9RUzFJdDhsNFlrRnFTX2VLX0NDX0FnamtpZkRRR0dtZmR1ZGVmMDhtUFM1NzDSAagCQVVfeXFMTmZtRlNsZUNmQ29nN0FTNWNWNDBGM0VHTHozcmJYZlRLMUZHSmJiX1VFVHdzZUt1akJmYkFhV2tubjIxcVdoYVhzOE9xaG9hQS1KRERXRHc0SXlNVkp3UmZKbldUbnVIa2hTVmdoUHhJN3JlT3pmeV9USUV5UU5zN3ROMlBTQzZyMW53Mmc2VnhuT1JOaUNwMzhpUXlQQUx6RVl6QkNYbkFjNlJiMERsWW53LXVvLWpSTVdObnltbTJKQ3o3MWpveGZJM1c3VlpqT3hDOGZaS2pyZXhXYTR4OEtBSE9xd28tOUVPWnZVNVp5Y1dJclRwNWg1bVB2SnBncEpPWFFYZTJxRjlEYUJRcF9QTG14WThnSnI1bTVZZXhkdkJiWTRIelo?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 10:36:10 GMT"
     },
     {
       "title": "Why Is Stock Market Falling Today? Sensex Drops Over 800 Points, Nifty Slips Below 22,600; Key Reasons Explained - NDTV Profit",
@@ -185,10 +171,22 @@
       "publishedAt": "Wed, 28 Oct 2026 04:25:48 GMT"
     },
     {
+      "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbGQxcFFLUDN1THJXOVNaMEsydnpFQWJjQVZRWW9jNGJXczJxZDNpdElrOGx3bFluNFFCWVgyM1RQR0RUWFgwTGFCc3FaLTlBcTVGQ2JDRUNCVll4cFJ0V2pxVGw1TkJaTjZqSjE2VGZHZXdqR19talF2N085OGJBYjF3M1lCaWNlZjFLRGtaNUVBVHpIWi1mNXJaTE9iZVREdTkyQ0djMWNGdGNaZkV0WGlqOS1HTUJUcWRpSDZYTkc0VUVya1JBSEVzLUlibDhZUjJfS0JrdVdWTGJTYWJpTXVWeWRNdU8tSXZHQ25ybmtZQzlhR21mNzl5TlBtbzhNRnJmTFcxN2VWLUdJNEp4Q9IBlgJBVV95cUxONVlXWWJCbVhCZDBjM0ZhUDlEcnBWNVJUdTNGNjJXeXV4NlRpY2lwQlNmVFM5dDlwdVVEejdRX2MyZWFvbG1LLUJ1VGc1Zy1KamlfWHk3SHRiMlAtM0VBUjY2MHIwVzZyR3Jyc3ZMNnkxSTlLTUNHQ3hRNHdJRi00UEZ5TDNrS2p4UGVxUFhyX19RLUZSOXd1c2NzSm5LczdpRkY1UnFzRks3cjdBX2NWVXhVSkZoaXNfOGxvMXQwX3p3VVN2M2tVZTZmRDIyZ1FvN0tfTWF4LUt1ZXI2RTZkTGY1Zndpdkw2Y3djeUdNT2pwOU44Q1JXWHM0UkV0bEdTVWpaVTZ3SXA0SzZSTnYtWjBLMUxldw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 01:45:48 GMT"
+    },
+    {
       "title": "Stock Market Highlights Today: BSE Sensex and Nifty50 ends flat amid elevated crude oil prices - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNnk4ekZHSVdTdHNsTVZKbmdKaHFsWWdyQ2RjdS0zeFhTWFFYZTlHV0d2eHJCc1BPeFNJZEtrckxrUGVTUTJ0Z2pyRFI1YzM4eF85RFdtdG5KM28wZm9UMWV6b0dacHJfLXJheUZDeTJzNDlLUTNib2tsM1lZUjV3S0lfZjQ1VHQ4a204czgzWlNKaTVsU2Y0N1BBMUZ0bW1LdzJ3aUNZX2VNOXEyLVc1QUhiazE5d3RveUFrQ1BpWm5kZ2tlNkhyNldjaTVKWV81VWprd1hmc2tGUjRWZkJrT3l2WVU1MDVyNTJOSURsQU5UazVmb3hlcUl0c1BNSXpkaEY5UVVISkRvSWMtWmFBY2RYNElnNG91Q2xFbXhnOW5BblplMUNIOUhpUE5GMHo1NUt3ZNIBugJBVV95cUxPODhWREFHQ1JNaWppM21HUnZjV3liQXVCWjFGNlh2QXRBNUNpbC1hVXZPSGx3dnR2M3hzemdrcWpSbXdYZXpKdm1JNXZqZ1Y5ajNYeVJnczFKalRpWVR0OXVITkJLekgwNU1DcVVNNFRKaHNKLTQ0b0NXM2NsbGE1WHliYjRnOEhyVHVWWVNGZllELU9TMkV6Z2oxU0JiSUlKSVNYRWdtTk4xSG1kSXlONU9wcHd6TndPaTRCQ0xteG5mLTZTbUNHU3lMaWt5dnNqbXdzYnZucjBCSXFWLWZmTUs2ZmJzVmhVTTA0MzR4ZGRGQ1Y0U2NVU1pybDZaQ0RWd3diVzRsWjBhWW9rQ3BXNk1XT0pBRVl5YjlPM0U5U0tVMWVRd0RLbm0xMTI4Qy1GZWNrcks4X203Zw?oc=5",
       "publishedAt": "Tue, 27 Oct 2026 11:05:09 GMT"
+    },
+    {
+      "title": "Stock Market Highlights: Sensex Ends 353 Points Lower, Nifty At 22,699; Broader Indices Outperform - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHTSAZwCQVVfeXFMTlpZX2h0X1ctREhmazVTME1YZGJaUllQNzJNeFpGcmlQTkVrS0NMaXU5TFREM3Bfb29HdEQ2bG1FWkdHOXBpLURBbk9JaWZQNHFEUmVFSGVmdlJVWFg4cEVoSWFtMlA5akRwMXlXVVNkOU1lSXc0MlBmeWF2QjBZQ3RSZHB4NS1aRXVGd2dUNV9qMTNHWm12amlzcVA1VHNYSGRuaTVfRUtfRXZocnJ5MVltcm9tVjZ5RmdEMzdBS1VUVG4wV1JIWFpzMDk3bGhFZm5lcGhaOGFqZzdZVmRHdGpYTXZMTUJsS3FqYXlnWjlMOXBIUVd1bnZwYU4ydkRkRkFTNWJiX3JNRFJiUzdYcEttMzhGcjNxTXNqZUQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 10:06:38 GMT"
     },
     {
       "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -197,16 +195,10 @@
       "publishedAt": "Tue, 27 Oct 2026 01:30:37 GMT"
     },
     {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Stock market crash today: Sensex plunges 995 points, Nifty sheds 1% ahead of Fed decision: Here's what spooked D-Street - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMFlUOGxPbER6VGFzUWlYX1hkbGdNNlpHb2lIU1VlNTNhQ3Jvdm9TZ2Z6NHdhUzVhV25aNXBpT2hrUmt0SW9SVjJPZUJPOEtlVnJaVWtfUWdMWE9QdkJQV0E1ZVlDSzV4alhSOTZtR05SWEd0TEZfbFdWZnV2VGp0VFcyMmZnQVh6ZlhCbmpDTmY5NXNxZWwxWnZhV0xMUXJxdFNQbHNwWHB2LXc4cnJiVnFXeXJNX2lYc0lQZUd6MHRuOTM1TXlCek4td1JveFNnZU8wYnQxZVFaRWIxWWtOdUNCUTRHLW5hLWNueEUzcGJ5Tzc4NXpseUw3TFViZHJwZ0k2OGFEWGt0RnJ6V0RjaNIBlgJBVV95cUxNQXlWaURfa2owSFdwNGtDa2JvalN2M3RKYmlaYVl2d1M2QVV2TURNemU1dmlOMnVqa29EX0tqYm44OTNDUnc3NVpoSlU5Z2YtYU16T3AzNHlaWGFyMWkwNUJ6SDFHM1o0b3hla25rQkNvZ2t2cGo4c21oM0txVUdzeDhPTFRYOUVUN1BHSEt1ajROcTU4UFpJc3I4WmxIMnVCbGZKeGpYZXFMYnRRSXZqUjNVUHNNaWRaN2U3THZqWEtHYVEtS3FMVnRiRmNNR3p4UkpSekF5ZnJtM2wtUDEtNER2eGhhdl8ta3dBeE1EbS0wMlktSnhjaFhRUHQxalFncHk3WThfeEZrWVNPN1lzbm50dHVTQQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 05:37:18 GMT"
+      "title": "Stock Market Today Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXRPNF9Xa2o3bDRjLURmUDBlZ0FHb3hMNkNHa0xxekQzYjFUNUl5U3BWM3VRWkZqMmo3eE5ueHZaV2pEUVUyQWhsLUh5bFZiNnpsZ2FBNS15RU5pU2xFTjdwLWRHT0xBRGNvRnh0ZUtvMTBfZHJfcnBWVnhNdVp1SjNEZllGS0hwNDNpa09DOE85T2V4NUtHWkxSaFNVbmRQNnJDV3EycmdNUGF1ek8yWXNqTmMyY0dUSWpmTUxxUm4zVG1nUXfSAcoBQVVfeXFMTWVkUHhYRDdSRWROU29Nd09HSW5XbUd5bklVWUxBSHJqemhBcUktV29ZRVBpYU0xSURESWNReGU1TWFTZUdaeUFtMWhqT3VxUzJyem0wZVpFcVdfdDBnME13alVjSTZEVEZFR0lWOHBjSWd1bWRtR2ZkVFVaMlpMaFhEQTFTUnNkSkV2V251emlGN1ZpOG5WSUVsX0hmZzNUM1Y4ZC1UOUJJSVJQNXBBWGNwakd3bEw3N0hLanlVSUVrazBNc25lVXJrdw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 10:47:20 GMT"
     }
   ]
 }
