@@ -7,28 +7,29 @@
     "nextOpen": ""
   },
   "why": [
-    "Sharp selling pressure in IT and Oil & Gas sector stocks dragging down major indices",
-    "Global crude oil prices rising towards $115 per barrel impacting market sentiment",
-    "Uncertainty and reaction to the US Federal Reserve's decision to hold interest rates steady",
-    "Concerns over stubborn inflation and the potential for future interest rate hikes"
+    "Surging crude oil prices near $115 per barrel impacting energy-dependent sectors.",
+    "US Federal Reserve holding interest rates steady at 3.75-4% amid inflation concerns.",
+    "Weakness in heavyweight IT and Oil & Gas stocks dragging down major indices.",
+    "Uncertainty regarding future interest rate hikes due to stubborn inflation data."
   ],
   "whatHappening": [
-    "Sensex plunged nearly 1,000 points in a single session ahead of the Fed decision",
-    "Nifty 50 fell below the crucial 22,700 support level amid broad-based selling",
-    "Hero MotoCorp reported a 42% increase in net profit to ₹1,861 crore for Q2FY27",
-    "KPIT Technologies saw a 29% decline in net profit for the second quarter"
+    "The Sensex and Nifty indices experienced a sharp decline, with the Sensex plunging nearly 1,000 points.",
+    "Jio Platforms made a strong debut on the stock exchanges, impacting market capitalization rankings.",
+    "PNB Housing Finance reported a 6% increase in quarterly net profit to ₹617 crore.",
+    "KPIT Technologies saw its net profit decline by 29% to ₹121 crore for the second quarter."
   ],
   "stocksInNews": [
     {
-      "symbol": "KPITTECH",
-      "sentiment": "Negative",
+      "symbol": "JIOPLATFORM",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1
+        1,
+        8
       ]
     },
     {
-      "symbol": "PVRINOX",
+      "symbol": "PNBHOUSING",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
@@ -36,29 +37,61 @@
       ]
     },
     {
-      "symbol": "HEROMOTOCO",
-      "sentiment": "Positive",
+      "symbol": "KPITTECH",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        4
+        7
+      ]
+    },
+    {
+      "symbol": "HINDZINC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "VBL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "GEC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "ETERNAL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        8
       ]
     }
   ],
-  "summary": "Indian markets faced a significant downturn as the Sensex and Nifty fell sharply, driven by weakness in IT and oil stocks. Rising crude oil prices and global inflation concerns weighed on investor sentiment despite the US Fed holding interest rates steady. Corporate earnings provided a mixed bag, with Hero MotoCorp and PVR INOX reporting strong growth while KPIT Technologies struggled.",
-  "updatedAt": "2026-10-28T19:31:44.584Z",
+  "summary": "Indian markets faced significant selling pressure as the Sensex and Nifty fell sharply, driven by a slump in IT stocks and high crude oil prices. While Jio Platforms saw a successful debut, overall sentiment remained cautious following the US Fed's decision to maintain interest rates. Corporate earnings were mixed, with PNB Housing showing growth and KPIT Technologies reporting a profit decline.",
+  "updatedAt": "2026-10-28T20:05:04.971Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
+    "wendys draws buyout bid as beef costs and burger rivalry weigh on business",
+    "jio platforms soars on debut recasting market capitalisation leaderboard",
+    "us fed meeting live updates warsh highlights changes in fomc schedule from next fall fomc holds interest rates steady",
+    "pnb housing finance q2 profit rises 6 to 617 cr income grows 14",
+    "inter miami vs new york red bulls live streaming when and where to watch messis mls match in india",
     "fed keeps interest rates unchanged awaits more data on inflation",
+    "us fed holds key rates steady at 3754 to support dual mandate seeks more info for policy stance",
     "kpit technologies q2fy27 results net profit declines 29 to 121 crore",
+    "buy sell or hold gec eternal hindustan zinc jio platforms and varun beverages ask profit",
     "us federal reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus",
-    "pvr inox q2 profit up 2fold at 2631 cr on strong box office performance",
-    "hero motocorp q2fy27 results net profit soars 42 to 1861 crore",
-    "lava diwali sale 2026 check smartphone and feature phone prices on amazon flipkart",
-    "kumar sangakkara alleges threatening discriminatory behaviour by ryanair gate staff",
-    "us fed meeting live updates hike or hold warshs rate decision to be announced soon",
-    "over 900 babies born in odisha during cyclone parents name newborns arnab barsha toofan",
-    "forget lrs limits india should relax remittance reporting rules says deepak shenoy",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
     "how can us fed fomc meeting outcome impact indian stock market sensex nifty to rise experts decode livemint",
@@ -72,10 +105,46 @@
   ],
   "articles": [
     {
+      "title": "Wendy’s draws buyout bid as beef costs and burger rivalry weigh on business",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wendys-draws-buyout-bid-as-beef-costs-and-burger-rivalry-weigh-on-business/articleshow/135278283.cms",
+      "publishedAt": "Thu, 29 Oct 2026 00:31:05 +0530"
+    },
+    {
+      "title": "Jio Platforms soars on debut, recasting market capitalisation leaderboard",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/ipo/jio-platforms-soars-on-debut-recasting-market-capitalisation-leaderboard-126102801887_1.html",
+      "publishedAt": "Thu, 29 Oct 2026 00:27:17 +0530"
+    },
+    {
+      "title": "US Fed Meeting Live Updates: Warsh Highlights Changes In FOMC Schedule From Next Fall; FOMC Holds Interest Rates Steady",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 00:10:07 +0530"
+    },
+    {
+      "title": "PNB Housing Finance Q2 profit rises 6% to ₹617 cr, income grows 14%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/pnb-housing-finance-q2-profit-rises-6-to-617-cr-income-grows-14-126102801687_1.html",
+      "publishedAt": "Thu, 29 Oct 2026 00:09:32 +0530"
+    },
+    {
+      "title": "Inter Miami vs New York Red Bulls Live Streaming: When And Where To Watch Messi's MLS Match In India",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/inter-miami-vs-fc-cincinnati-live-streaming-when-and-where-to-watch-messis-mls-match-in-india-12250816#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 23:54:06 +0530"
+    },
+    {
       "title": "Fed keeps interest rates unchanged, awaits more data on inflation",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/economy/news/fed-keeps-interest-rates-unchanged-awaits-more-data-on-inflation-126102802093_1.html",
       "publishedAt": "Wed, 28 Oct 2026 23:44:23 +0530"
+    },
+    {
+      "title": "US Fed Holds Key Rates Steady At 3.75-4% To Support 'Dual Mandate'; Seeks More Info For Policy Stance",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/us-fed-verdict-kevin-warsh-led-fomc-holds-key-benchmark-interest-rate-steady-at-3-75-4-after-september-hike-12250772#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 23:37:37 +0530"
     },
     {
       "title": "KPIT Technologies Q2FY27 results: Net profit declines 29% to ₹121 crore",
@@ -84,52 +153,16 @@
       "publishedAt": "Wed, 28 Oct 2026 23:35:55 +0530"
     },
     {
+      "title": "Buy, Sell Or Hold: GEC, Eternal, Hindustan Zinc, Jio Platforms And Varun Beverages — Ask Profit",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-gec-eternal-hindustan-zinc-jio-platforms-and-varun-beverages-ask-profit-12250744#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 23:31:51 +0530"
+    },
+    {
       "title": "US Federal Reserve holds interest rates steady as stubborn inflation puts future rate hikes in focus",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-us-federal-reserve-holds-interest-rates-steady-as-stubborn-inflation-puts-future-rate-hikes-in-focus/articleshow/135275622.cms",
       "publishedAt": "Wed, 28 Oct 2026 23:31:23 +0530"
-    },
-    {
-      "title": "PVR INOX Q2 profit up 2-fold at ₹263.1 cr on strong box office performance",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/pvr-inox-q2-profit-up-2-fold-at-263-1-cr-on-strong-box-office-performance-126102801195_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 23:30:49 +0530"
-    },
-    {
-      "title": "Hero MotoCorp Q2FY27 results: Net profit soars 42% to ₹1,861 crore",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/hero-motocorp-q2fy27-results-net-profit-soars-42-to-1-861-crore-126102801888_1.html",
-      "publishedAt": "Wed, 28 Oct 2026 23:27:09 +0530"
-    },
-    {
-      "title": "Lava Diwali Sale 2026: Check Smartphone And Feature Phone Prices On Amazon, Flipkart",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/lava-diwali-sale-2026-check-smartphone-and-feature-phone-prices-on-amazon-flipkart-12250682#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 23:16:44 +0530"
-    },
-    {
-      "title": "Kumar Sangakkara Alleges 'Threatening', 'Discriminatory' Behaviour By Ryanair Gate Staff",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/kumar-sangakkara-alleges-threatening-discriminatory-behaviour-by-ryanair-gate-staff-12250707#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 23:16:24 +0530"
-    },
-    {
-      "title": "US Fed Meeting Live Updates: Hike Or Hold? Warsh's Rate Decision To Be Announced Soon",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 23:13:08 +0530"
-    },
-    {
-      "title": "Over 900 Babies Born In Odisha During Cyclone; Parents Name Newborns Arnab, Barsha, Toofan",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/cyclone-arnab-over-900-babies-born-in-odisha-during-storm-parents-name-newborns-arnab-barsha-toofan-12250683#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 23:10:39 +0530"
-    },
-    {
-      "title": "Forget LRS Limits, India Should Relax Remittance Reporting Rules, Says Deepak Shenoy",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/forget-lrs-limits-india-should-relax-remittance-reporting-rules-says-deepak-shenoy-12250669#publisher=newsstand",
-      "publishedAt": "Wed, 28 Oct 2026 23:07:26 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
