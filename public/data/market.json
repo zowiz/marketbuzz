@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex drops 352 points and Nifty slips below 22,700 as IT and heavyweights drag",
+  "headline": "Sensex plunges nearly 1,000 points as Nifty slips below 22,700 ahead of Fed decision",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Heavyweight stocks Infosys and Reliance Industries dropped 3% each, pulling indices down.",
-    "Elevated crude oil prices weighed on market sentiment.",
-    "Profit-taking and broader market volatility dragged Nifty below the 22,700 mark.",
-    "Pressure in IT stocks counteracted gains made in pharma and realty sectors."
+    "Heavy selling pressure ahead of the upcoming US Federal Reserve interest rate decision.",
+    "Heavyweights like Infosys and Reliance Industries dropped 3% each, dragging the benchmarks down.",
+    "Elevated global crude oil prices weighed on D-Street investor sentiment.",
+    "Sharp sell-off in IT and major index constituents led Sensex to lose over 800 points."
   ],
   "whatHappening": [
-    "L&T announced plans to nearly double its order book to Rs 15 lakh crore by 2031.",
-    "Vedanta Aluminium reported Q2 profit doubling to Rs 6,187 crore on a 41% revenue jump.",
-    "United Spirits posted Q2 net profit of Rs 462 crore with revenues reaching Rs 7,001 crore.",
-    "Union Cabinet approved a Rs 10,000 crore scheme to boost container manufacturing in India."
+    "L&T announced plans to nearly double its order book to ₹15 lakh crore by 2031.",
+    "Vedanta Aluminium reported Q2 profit doubling to ₹6,187 crore with revenue jumping 41%.",
+    "United Spirits reported a Q2 net profit of ₹462 crore on revenue of ₹7,001 crore.",
+    "Union Cabinet approved a ₹10,000 crore scheme to encourage domestic container manufacturing."
   ],
   "stocksInNews": [
     {
@@ -44,24 +44,25 @@
       ]
     },
     {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        6,
+        13
+      ]
+    },
+    {
       "symbol": "INFY",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        12
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        12
+        13
       ]
     }
   ],
-  "summary": "Indian benchmark indices ended lower as Sensex fell over 350 points and Nifty slipped below 22,700.\nHeavyweight stocks Infosys and Reliance Industries led the decline, dropping 3% each.\nOn the corporate front, strong Q2 earnings from Vedanta Aluminium and United Spirits along with L&T's order book expansion plans provided positive stock-specific action.",
-  "updatedAt": "2026-10-28T15:01:41.298Z",
+  "summary": "Indian equities experienced a sharp decline with the Sensex dropping around 800-995 points and Nifty closing below 22,700. Major index drag came from IT and reliance heavyweights ahead of the US Fed monetary policy outcome. On the corporate front, strong Q2 earnings from Vedanta Aluminium and United Spirits stood out alongside L&T's long-term order expansion targets.",
+  "updatedAt": "2026-10-28T15:31:28.119Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-28",
   "articleKeys": [
@@ -77,14 +78,14 @@
     "cabinet approves 10000 crore scheme to boost container manufacturing",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
-    "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
     "closing bell sensex nifty end flat on expiry day pharma realty shine it drags moneycontrolcom",
-    "why is stock market falling today sensex drops over 800 points nifty slips below 22600 key reasons explained ndtv profit",
+    "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
     "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
+    "why is stock market falling today sensex drops over 800 points nifty slips below 22600 key reasons explained ndtv profit",
     "stock market highlights today bse sensex and nifty50 ends flat amid elevated crude oil prices the times of india",
-    "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
     "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "five reasons indias stock market is sinking even when its economy is growing bbc"
+    "five reasons indias stock market is sinking even when its economy is growing bbc",
+    "stock market crash today sensex plunges 995 points nifty sheds 1 ahead of fed decision heres what spooked dstreet livemint"
   ],
   "articles": [
     {
@@ -160,22 +161,16 @@
       "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 352 pts lower, Nifty below 22,700; Infosys, RIL drop 3% each - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUEZvTHY0YzFqQmJJWlZOQjlUOS1taG4zMTNMSUpKYWRQTjFNdDBkbF9kVVBXdGxwb2FlYXVYcXA0WU56MjFpUHpZbE5laDJKYlBPa0ZEWUc2T3l2Z3hHVXZkVEh4SDcxSUcxVURLYWRvelBUNGN0T1dncEwwTE9FMWxJVTZqV2VkOF90emlrTmV5VEVyVXN4NlF1M28zTkJRYmRJWnlKaDI2Q3ZHLWZWcTIxeHRQdmpuYjdCRVFnNGRkR0Zlb3ZqdUhmOFZtS2FFWHU3QTQ3RHJSRjVTSk9vZDJEUUZ1Q1AyZkM3eEJ6dGdJTXdDaVRiVVVDMUU0Q1J3b1o4V1RNVUJIeHUzZWZUOdIBlgJBVV95cUxPNEZvSjdwRXFNTFF3TTJRc2VTN3NIMUc4cFNFdWx0X0M1bGRkcmt6RWxfZndkVlpKR2hhZU1fMTU1czBPLVRyS2g5MEUySE5IZWR0WjJaVTFxNGp3bHJHTVNsRkttemJKNkZxSUpuUWtmR2VjS013TXpueWZZeEVuRVI1RHItemRuQlpjVDR6NmJPSXpjeUNZWlJhYU1lVjV0WWxnZ3N2Z3Zlb0dsVHN1dU0wejRyZ1ltMlJpZXB1YWZzMGVLb2wwMnlCamlvM3o4VFVuZ0RTVXpWUFk3dUkxUFZZdktfZnpEV1lyY0hlZVpoZGtZc2xONUtRdkdteUctNXR5a0FrYUhXMUN4aEFaMFg2SHFrdw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:05:18 GMT"
-    },
-    {
       "title": "Closing Bell: Sensex, Nifty end flat on expiry day; pharma, realty shine, IT drags - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNUFQTEo3T09fbW02cHU1RVZkLXFic2swMkhkZWJ3bEJTRFlENGpoZFVvVlU4aVpreHkyRzdYV2dQOUZ6NjRwMElkV0x3TF9aSnJmdXljbmZ6UWEwaU5YMXJ6STBBS2o4SlBZMVpqNml3V2N0UklTVnpHTmpuNURNbFppWDByUkMxTmkxTkFLMzg4ZFhLWV9RUzFJdDhsNFlrRnFTX2VLX0NDX0FnamtpZkRRR0dtZmR1ZGVmMDhtUFM1NzDSAagCQVVfeXFMTmZtRlNsZUNmQ29nN0FTNWNWNDBGM0VHTHozcmJYZlRLMUZHSmJiX1VFVHdzZUt1akJmYkFhV2tubjIxcVdoYVhzOE9xaG9hQS1KRERXRHc0SXlNVkp3UmZKbldUbnVIa2hTVmdoUHhJN3JlT3pmeV9USUV5UU5zN3ROMlBTQzZyMW53Mmc2VnhuT1JOaUNwMzhpUXlQQUx6RVl6QkNYbkFjNlJiMERsWW53LXVvLWpSTVdObnltbTJKQ3o3MWpveGZJM1c3VlpqT3hDOGZaS2pyZXhXYTR4OEtBSE9xd28tOUVPWnZVNVp5Y1dJclRwNWg1bVB2SnBncEpPWFFYZTJxRjlEYUJRcF9QTG14WThnSnI1bTVZZXhkdkJiWTRIelo?oc=5",
       "publishedAt": "Tue, 27 Oct 2026 10:36:10 GMT"
     },
     {
-      "title": "Why Is Stock Market Falling Today? Sensex Drops Over 800 Points, Nifty Slips Below 22,600; Key Reasons Explained - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWWg0dDRpcmtjNklEc0lVSG5lZWxUR2JXMF9EaDR5YWozMk1rMjZhU0hOQjhaR0lLMDZFYWNuNUxPV1NmdkdLTGRwMnRMVDVDNFlaSmpONU5qellPa0lVTjRfZ2FxWERCbVptWWc3WFlZazJTUlp0bW53U3QySDBHMW9Ic2g3djNHbS1oWV82NHVmWTQwaDNOU3UtWDFqRmtjSi1jZUgwczZ3dW16SHFYbXhieUZQWlZRV3ZnbVY0bjFyZXdyS1N6eG81QnU2c2l0dFNSdlRCVXFhdTdnSmN5WEdkQ1dGTXZiblVMUVRpX2NCLXA1bWxadmMySVFaZDcwY25EQVRyY3BHd9IBkgJBVV95cUxONzVPaXVRSE1WNE8teUkxaWRiR3JXMklmNk55OUx4YnlTX3lDLXQyaUx3ZXRtekFFcm9XbDlNMmt6NEJYeVpzNlJPRF9DQUVzSS0wbDZSTHE4QjJ4UDhCRTJNLVMxY1hRV3FoZFhpeGVqQkpFWHdqYzVQZHpIb24tckxGWWpMTHVtN0pQbXBfXzczMG1kRFVnN0ctWXdCbmhKNzV6YlV0dnNyQlFrX1hjZzd2bHhfa0tIZ3l3TDhqMnExTFVlcnIzci10cG1YSURiWUpvMEs5S2JNV3hZdmYydmRETGlKMGE3WGVrTC1YLWtGbFVfcG82MmNtZjZ1X0tGZEN2U1pyUkFVQWpPVEJ5d013?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 04:25:48 GMT"
+      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 352 pts lower, Nifty below 22,700; Infosys, RIL drop 3% each - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUEZvTHY0YzFqQmJJWlZOQjlUOS1taG4zMTNMSUpKYWRQTjFNdDBkbF9kVVBXdGxwb2FlYXVYcXA0WU56MjFpUHpZbE5laDJKYlBPa0ZEWUc2T3l2Z3hHVXZkVEh4SDcxSUcxVURLYWRvelBUNGN0T1dncEwwTE9FMWxJVTZqV2VkOF90emlrTmV5VEVyVXN4NlF1M28zTkJRYmRJWnlKaDI2Q3ZHLWZWcTIxeHRQdmpuYjdCRVFnNGRkR0Zlb3ZqdUhmOFZtS2FFWHU3QTQ3RHJSRjVTSk9vZDJEUUZ1Q1AyZkM3eEJ6dGdJTXdDaVRiVVVDMUU0Q1J3b1o4V1RNVUJIeHUzZWZUOdIBlgJBVV95cUxPNEZvSjdwRXFNTFF3TTJRc2VTN3NIMUc4cFNFdWx0X0M1bGRkcmt6RWxfZndkVlpKR2hhZU1fMTU1czBPLVRyS2g5MEUySE5IZWR0WjJaVTFxNGp3bHJHTVNsRkttemJKNkZxSUpuUWtmR2VjS013TXpueWZZeEVuRVI1RHItemRuQlpjVDR6NmJPSXpjeUNZWlJhYU1lVjV0WWxnZ3N2Z3Zlb0dsVHN1dU0wejRyZ1ltMlJpZXB1YWZzMGVLb2wwMnlCamlvM3o4VFVuZ0RTVXpWUFk3dUkxUFZZdktfZnpEV1lyY0hlZVpoZGtZc2xONUtRdkdteUctNXR5a0FrYUhXMUN4aEFaMFg2SHFrdw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 10:05:18 GMT"
     },
     {
       "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets - Livemint",
@@ -184,16 +179,16 @@
       "publishedAt": "Wed, 28 Oct 2026 01:45:48 GMT"
     },
     {
+      "title": "Why Is Stock Market Falling Today? Sensex Drops Over 800 Points, Nifty Slips Below 22,600; Key Reasons Explained - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWWg0dDRpcmtjNklEc0lVSG5lZWxUR2JXMF9EaDR5YWozMk1rMjZhU0hOQjhaR0lLMDZFYWNuNUxPV1NmdkdLTGRwMnRMVDVDNFlaSmpONU5qellPa0lVTjRfZ2FxWERCbVptWWc3WFlZazJTUlp0bW53U3QySDBHMW9Ic2g3djNHbS1oWV82NHVmWTQwaDNOU3UtWDFqRmtjSi1jZUgwczZ3dW16SHFYbXhieUZQWlZRV3ZnbVY0bjFyZXdyS1N6eG81QnU2c2l0dFNSdlRCVXFhdTdnSmN5WEdkQ1dGTXZiblVMUVRpX2NCLXA1bWxadmMySVFaZDcwY25EQVRyY3BHd9IBkgJBVV95cUxONzVPaXVRSE1WNE8teUkxaWRiR3JXMklmNk55OUx4YnlTX3lDLXQyaUx3ZXRtekFFcm9XbDlNMmt6NEJYeVpzNlJPRF9DQUVzSS0wbDZSTHE4QjJ4UDhCRTJNLVMxY1hRV3FoZFhpeGVqQkpFWHdqYzVQZHpIb24tckxGWWpMTHVtN0pQbXBfXzczMG1kRFVnN0ctWXdCbmhKNzV6YlV0dnNyQlFrX1hjZzd2bHhfa0tIZ3l3TDhqMnExTFVlcnIzci10cG1YSURiWUpvMEs5S2JNV3hZdmYydmRETGlKMGE3WGVrTC1YLWtGbFVfcG82MmNtZjZ1X0tGZEN2U1pyUkFVQWpPVEJ5d013?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 04:25:48 GMT"
+    },
+    {
       "title": "Stock Market Highlights Today: BSE Sensex and Nifty50 ends flat amid elevated crude oil prices - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNnk4ekZHSVdTdHNsTVZKbmdKaHFsWWdyQ2RjdS0zeFhTWFFYZTlHV0d2eHJCc1BPeFNJZEtrckxrUGVTUTJ0Z2pyRFI1YzM4eF85RFdtdG5KM28wZm9UMWV6b0dacHJfLXJheUZDeTJzNDlLUTNib2tsM1lZUjV3S0lfZjQ1VHQ4a204czgzWlNKaTVsU2Y0N1BBMUZ0bW1LdzJ3aUNZX2VNOXEyLVc1QUhiazE5d3RveUFrQ1BpWm5kZ2tlNkhyNldjaTVKWV81VWprd1hmc2tGUjRWZkJrT3l2WVU1MDVyNTJOSURsQU5UazVmb3hlcUl0c1BNSXpkaEY5UVVISkRvSWMtWmFBY2RYNElnNG91Q2xFbXhnOW5BblplMUNIOUhpUE5GMHo1NUt3ZNIBugJBVV95cUxPODhWREFHQ1JNaWppM21HUnZjV3liQXVCWjFGNlh2QXRBNUNpbC1hVXZPSGx3dnR2M3hzemdrcWpSbXdYZXpKdm1JNXZqZ1Y5ajNYeVJnczFKalRpWVR0OXVITkJLekgwNU1DcVVNNFRKaHNKLTQ0b0NXM2NsbGE1WHliYjRnOEhyVHVWWVNGZllELU9TMkV6Z2oxU0JiSUlKSVNYRWdtTk4xSG1kSXlONU9wcHd6TndPaTRCQ0xteG5mLTZTbUNHU3lMaWt5dnNqbXdzYnZucjBCSXFWLWZmTUs2ZmJzVmhVTTA0MzR4ZGRGQ1Y0U2NVU1pybDZaQ0RWd3diVzRsWjBhWW9rQ3BXNk1XT0pBRVl5YjlPM0U5U0tVMWVRd0RLbm0xMTI4Qy1GZWNrcks4X203Zw?oc=5",
       "publishedAt": "Tue, 27 Oct 2026 11:05:09 GMT"
-    },
-    {
-      "title": "Stock Market Highlights: Sensex Ends 353 Points Lower, Nifty At 22,699; Broader Indices Outperform - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHTSAZwCQVVfeXFMTlpZX2h0X1ctREhmazVTME1YZGJaUllQNzJNeFpGcmlQTkVrS0NMaXU5TFREM3Bfb29HdEQ2bG1FWkdHOXBpLURBbk9JaWZQNHFEUmVFSGVmdlJVWFg4cEVoSWFtMlA5akRwMXlXVVNkOU1lSXc0MlBmeWF2QjBZQ3RSZHB4NS1aRXVGd2dUNV9qMTNHWm12amlzcVA1VHNYSGRuaTVfRUtfRXZocnJ5MVltcm9tVjZ5RmdEMzdBS1VUVG4wV1JIWFpzMDk3bGhFZm5lcGhaOGFqZzdZVmRHdGpYTXZMTUJsS3FqYXlnWjlMOXBIUVd1bnZwYU4ydkRkRkFTNWJiX3JNRFJiUzdYcEttMzhGcjNxTXNqZUQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:06:38 GMT"
     },
     {
       "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -206,6 +201,12 @@
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Stock market crash today: Sensex plunges 995 points, Nifty sheds 1% ahead of Fed decision: Here's what spooked D-Street - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMFlUOGxPbER6VGFzUWlYX1hkbGdNNlpHb2lIU1VlNTNhQ3Jvdm9TZ2Z6NHdhUzVhV25aNXBpT2hrUmt0SW9SVjJPZUJPOEtlVnJaVWtfUWdMWE9QdkJQV0E1ZVlDSzV4alhSOTZtR05SWEd0TEZfbFdWZnV2VGp0VFcyMmZnQVh6ZlhCbmpDTmY5NXNxZWwxWnZhV0xMUXJxdFNQbHNwWHB2LXc4cnJiVnFXeXJNX2lYc0lQZUd6MHRuOTM1TXlCek4td1JveFNnZU8wYnQxZVFaRWIxWWtOdUNCUTRHLW5hLWNueEUzcGJ5Tzc4NXpseUw3TFViZHJwZ0k2OGFEWGt0RnJ6V0RjaNIBlgJBVV95cUxNQXlWaURfa2owSFdwNGtDa2JvalN2M3RKYmlaYVl2d1M2QVV2TURNemU1dmlOMnVqa29EX0tqYm44OTNDUnc3NVpoSlU5Z2YtYU16T3AzNHlaWGFyMWkwNUJ6SDFHM1o0b3hla25rQkNvZ2t2cGo4c21oM0txVUdzeDhPTFRYOUVUN1BHSEt1ajROcTU4UFpJc3I4WmxIMnVCbGZKeGpYZXFMYnRRSXZqUjNVUHNNaWRaN2U3THZqWEtHYVEtS3FMVnRiRmNNR3p4UkpSekF5ZnJtM2wtUDEtNER2eGhhdl8ta3dBeE1EbS0wMlktSnhjaFhRUHQxalFncHk3WThfeEZrWVNPN1lzbm50dHVTQQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 05:37:18 GMT"
     }
   ]
 }
