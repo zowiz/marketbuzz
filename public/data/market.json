@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty eye negative start amid rising crude oil prices and mixed Q2 earnings results",
+  "headline": "Sensex Dips 300 Points as Jio Platforms Debuts; Oil Prices Surge to $115",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,38 @@
     "nextOpen": ""
   },
   "why": [
-    "GIFT Nifty signals a negative start for the Indian stock market today",
-    "Crude oil prices surged to $116 following an attack on a Saudi Arabian refinery",
-    "Investors are cautious ahead of the US Federal Reserve's policy decision and signals",
-    "Mixed Q2 corporate earnings results are influencing specific stock sentiments"
+    "Jio Platforms makes its highly anticipated debut on Dalal Street today",
+    "GIFT Nifty fell 150 points as global crude oil prices topped $115 per barrel",
+    "Pre-open session saw the Sensex dipping 300 points amid global market cues",
+    "Concerns over Fed caution and high crude prices continue to weigh on investor sentiment"
   ],
   "whatHappening": [
-    "The listing of Jio Platforms IPO is a major focus for investors today",
-    "Asian markets are trading higher despite negative signals from GIFT Nifty",
-    "Seven stocks have shown a positive technical breakout by crossing their 200-day moving averages",
-    "The US Dollar is holding gains as markets await the RBNZ decision and Fed policy"
+    "Nomura initiated coverage on Jio Platforms with a 'Buy' rating and a target of Rs 1,340",
+    "Maruti Suzuki and Bajaj Auto reported strong Q2 reviews with positive growth outlooks",
+    "Technical indicators show White Marubozu patterns in Data Patterns and rising RSI in Sona BLW",
+    "Jio Platforms shares are available under the Margin Trading Facility (MTF) from their first day of listing"
   ],
   "stocksInNews": [
     {
+      "symbol": "JIOPLATFORM",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 4/9 sources",
+      "articleIds": [
+        0,
+        1,
+        3,
+        5,
+        10,
+        12,
+        15
+      ]
+    },
+    {
       "symbol": "MARUTI",
-      "sentiment": "Negative",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        0
+        7
       ]
     },
     {
@@ -32,19 +46,19 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1
+        9
       ]
     },
     {
-      "symbol": "STARHEALTH",
+      "symbol": "DATAPATTNS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2
+        4
       ]
     },
     {
-      "symbol": "SBILIFE",
+      "symbol": "SONACOMS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
@@ -52,143 +66,116 @@
       ]
     },
     {
-      "symbol": "LT",
-      "sentiment": "Positive",
+      "symbol": "ASIANPAINT",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        8
+        16
       ]
     },
     {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
+      "symbol": "COALINDIA",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        12
+        16
       ]
     },
     {
-      "symbol": "POWERGRID",
-      "sentiment": "Positive",
+      "symbol": "GRASIM",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        12
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/9 sources",
-      "articleIds": [
-        13,
-        17
+        16
       ]
     }
   ],
-  "summary": "The Indian market is set for a volatile opening with GIFT Nifty indicating a negative start while crude oil prices climb toward $120. Strong Q2 results from L&T and Bajaj Auto contrast with Maruti's earnings miss. Investors are closely monitoring the Jio Platforms IPO listing and upcoming US Fed policy signals.",
-  "updatedAt": "2026-10-28T03:31:29.737Z",
+  "summary": "Jio Platforms debuts on the exchanges today with a 'Buy' rating from Nomura, while the broader market faces pressure from rising oil prices. Sensex and Nifty opened lower following a 150-point drop in GIFT Nifty and global caution. Auto stocks like Maruti Suzuki and Bajaj Auto remain in focus after positive Q2 earnings reviews.",
+  "updatedAt": "2026-10-28T04:01:57.960Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-28",
   "articleKeys": [
-    "maruti q2 net misses street view despite record quarterly sales",
-    "bajaj auto q2 net profit up 35 on strong exports product mix",
-    "star health and allied insurance reports 232 profit surge at rs 2644 crore",
-    "positive breakout these 7 stocks cross above their 200 dmas",
-    "oil price today october 28 crude oil at 116 as saudi arabian refinery comes under attack 120 in sight",
-    "dollar holds gains ahead of fed policy signal rbnz decision",
-    "sbi life posts 11 growth in q2 net profit",
-    "gold edges higher ahead of fed policy decision",
-    "lampt profit jumps 33 on strong order inflows",
-    "sensex today nifty 50 stock market live updates gift nifty signals a negative start asian shares trade higher",
-    "closing bell sensex nifty end flat on expiry day pharma realty shine it drags moneycontrolcom",
-    "stock market highlights today bse sensex and nifty50 ends flat amid elevated crude oil prices the times of india",
-    "sensex today nifty 50 stock market highlights sensex nifty end flat after choppy session airtel power grid rise 3 each the economic times",
+    "jio platforms gets first buy call nomura says disruptor now the leader starts coverage with rs 1340 target",
+    "stock market live sensex dips 300 pts at preopen nifty at 22600 jio platforms listing in focus",
+    "sifs offer a middle ground between arbitrage and equity risk alphagrep mf ceo bhautik ambani",
+    "jio ipo listing live updates jio platforms shares to make dalal street debut today check gmp and other details",
+    "data patterns among 4 stocks showing the white marubozu pattern",
+    "jio platforms shares to be available under mtf from day 1 what should investors know",
+    "sona blw precision forgings among 4 stocks showing rsi trending up",
+    "maruti suzuki q2 review growth outlook remains positive check mofsls target price potential upside",
+    "gold rate today check 24k 22k gold prices in mumbai delhi chennai kolkata bengaluru on october 28",
+    "bajaj auto q2 review strong beat despite cost pressures valuations reasonable says jefferies citi hikes target",
     "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
-    "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india",
-    "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "five reasons indias stock market is sinking even when its economy is growing bbc",
-    "stock market today gift nifty jio ipo listing to nasdaq kospi rally five factors for sensex nifty 50 on oct 28 ndtv profit",
     "why stock market ended mixed today sensex nifty flat as midcap index gains 565 points indiaipo",
-    "stock markets decline in early trade sensex drops dd india"
+    "stock market live gift nifty tanks 150 points as oil tops 115 jio platforms listing in focus business standard",
+    "stock markets decline in early trade sensex drops dd india",
+    "is indias stock market heading for its worst year since 2008 crisis ndtv",
+    "stock market today gift nifty jio ipo listing to nasdaq kospi rally five factors for sensex nifty 50 on oct 28 ndtv profit",
+    "stock market highlights sensex nifty 50 end flat on fo expiry day asian paints coal india grasim top drags ndtv profit",
+    "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "sensex nifty end flat as oil fed jitters cap upside hdfc sky",
+    "sensex nifty end flat as high crude and fed caution offset sectoral gains india today"
   ],
   "articles": [
     {
-      "title": "Maruti Q2 net misses street view despite record quarterly sales",
+      "title": "Jio Platforms gets first Buy call! Nomura says ‘disruptor now the leader’; starts coverage with Rs 1,340 target",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/maruti-q2-net-misses-street-view-despite-record-quarterly-sales/articleshow/135249522.cms",
-      "publishedAt": "Wed, 28 Oct 2026 07:55:09 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-gets-first-buy-call-nomura-says-disruptor-now-the-leader-starts-coverage-with-rs-1340-target/articleshow/135250963.cms",
+      "publishedAt": "Wed, 28 Oct 2026 09:10:40 +0530"
     },
     {
-      "title": "Bajaj Auto Q2 net profit up 35% on strong exports, product mix",
+      "title": "Stock Market LIVE: Sensex dips 300 pts at pre-open, Nifty at 22,600; Jio Platforms listing in focus",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-auto-q2-net-profit-up-35-on-strong-exports-product-mix/articleshow/135249431.cms",
-      "publishedAt": "Wed, 28 Oct 2026 07:48:25 +0530"
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-oct-28-nse-bse-sensex-today-nifty-gift-nifty-us-iran-tension-iran-strikes-brent-crude-ipos-jio-listing-jio-share-price-it-stocks-maruti-share-price-q1-result-today-share-market-today-126102800114_1.html",
+      "publishedAt": "Wed, 28 Oct 2026 09:07:36 +0530"
     },
     {
-      "title": "Star Health and Allied Insurance reports 232% profit surge at Rs 264.4 crore",
+      "title": "SIFs offer a middle ground between arbitrage and equity risk: AlphaGrep MF CEO Bhautik Ambani",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/star-health-and-allied-insurance-reports-232-profit-surge-at-rs-264-4-crore/articleshow/135249329.cms",
-      "publishedAt": "Wed, 28 Oct 2026 07:41:00 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/sifs-offer-a-middle-ground-between-arbitrage-and-equity-risk-alphagrep-mf-ceo-bhautik-ambani/articleshow/135250236.cms",
+      "publishedAt": "Wed, 28 Oct 2026 08:54:10 +0530"
     },
     {
-      "title": "Positive Breakout: These 7 stocks cross above their 200 DMAs",
+      "title": "Jio IPO Listing Live Updates: Jio Platforms shares to make Dalal Street debut today. Check GMP and other details",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-7-stocks-cross-above-their-200-dmas/slideshow/135249422.cms",
-      "publishedAt": "Wed, 28 Oct 2026 07:39:07 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/jio-platforms-share-price-live-updates-check-jio-ipo-listing-time-on-nse-bse-gmp-allotment-latest-jio-ipo-shares-news/liveblog/135250655.cms",
+      "publishedAt": "Wed, 28 Oct 2026 08:39:04 +0530"
     },
     {
-      "title": "Oil Price Today (October 28): Crude oil at $116 as Saudi Arabian refinery comes under attack $120 in sight?",
+      "title": "Data Patterns among 4 stocks showing the White Marubozu pattern",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-28-crude-oil-at-116-as-saudi-arabian-refinery-comes-under-attack-120-in-sight/articleshow/135249336.cms",
-      "publishedAt": "Wed, 28 Oct 2026 07:37:43 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-among-4-stocks-showing-the-white-marubozu-pattern/slideshow/135250555.cms",
+      "publishedAt": "Wed, 28 Oct 2026 08:35:12 +0530"
     },
     {
-      "title": "Dollar holds gains ahead of Fed policy signal, RBNZ decision",
+      "title": "Jio Platforms shares to be available under MTF from Day 1. What should investors know?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-gains-ahead-of-fed-policy-signal-rbnz-decision/articleshow/135249316.cms",
-      "publishedAt": "Wed, 28 Oct 2026 07:34:47 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-shares-to-be-available-under-mtf-from-day-1-what-should-investors-know/articleshow/135250221.cms",
+      "publishedAt": "Wed, 28 Oct 2026 08:32:46 +0530"
     },
     {
-      "title": "SBI Life posts 11% growth in Q2 net profit",
+      "title": "Sona BLW Precision Forgings among 4 stocks showing RSI trending up",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-life-posts-11-growth-in-q2-net-profit/articleshow/135248632.cms",
-      "publishedAt": "Wed, 28 Oct 2026 07:33:44 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sona-blw-precision-forgings-among-4-stocks-showing-rsi-trending-up/slideshow/135250403.cms",
+      "publishedAt": "Wed, 28 Oct 2026 08:31:55 +0530"
     },
     {
-      "title": "Gold edges higher ahead of Fed policy decision",
+      "title": "Maruti Suzuki Q2 Review: Growth Outlook Remains Positive; Check MOFSL's Target Price, Potential Upside",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-ahead-of-fed-policy-decision/articleshow/135249258.cms",
-      "publishedAt": "Wed, 28 Oct 2026 07:32:49 +0530"
+      "link": "https://www.ndtvprofit.com/markets/maruti-suzuki-q2-results-review-growth-outlook-remains-positive-motilal-oswal-sees-further-upside-check-target-price-12246160#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 08:30:40 +0530"
     },
     {
-      "title": "L&amp;T profit jumps 33% on strong order inflows",
+      "title": "Gold Rate Today: Check 24K, 22K Gold Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On October 28",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lt-profit-jumps-33-on-strong-order-inflows/articleshow/135249127.cms",
-      "publishedAt": "Wed, 28 Oct 2026 07:22:37 +0530"
+      "link": "https://www.ndtvprofit.com/markets/gold-rate-today-check-24k-22k-gold-prices-in-mumbai-delhi-chennai-kolkata-bengaluru-on-october-28-12246013#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 08:27:49 +0530"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative  start; Asian shares trade higher",
+      "title": "Bajaj Auto Q2 Review: Strong Beat Despite Cost Pressures; Valuations Reasonable, Says Jefferies; Citi Hikes Target",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-jio-platforms-ril-share-price-28-october-2026/liveblog/135249195.cms",
-      "publishedAt": "Wed, 28 Oct 2026 07:19:01 +0530"
-    },
-    {
-      "title": "Closing Bell: Sensex, Nifty end flat on expiry day; pharma, realty shine, IT drags - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNVU1IWTc0Y05DSHNMTEg1QTI0cV9WSGo4QmViUERaMjRsS2paMFBiU1FHNkFza0ZSbDB5OC15U0txRnNoYld5Z3VReWZ4OENFZWFwYlNLeDNhLXBVYXM1VEI2aHMwMjhuNUFQTEo3T09fbW02cHU1RVZkLXFic2swMkhkZWJ3bEJTRFlENGpoZFVvVlU4aVpreHkyRzdYV2dQOUZ6NjRwMElkV0x3TF9aSnJmdXljbmZ6UWEwaU5YMXJ6STBBS2o4SlBZMVpqNml3V2N0UklTVnpHTmpuNURNbFppWDByUkMxTmkxTkFLMzg4ZFhLWV9RUzFJdDhsNFlrRnFTX2VLX0NDX0FnamtpZkRRR0dtZmR1ZGVmMDhtUFM1NzDSAagCQVVfeXFMTmZtRlNsZUNmQ29nN0FTNWNWNDBGM0VHTHozcmJYZlRLMUZHSmJiX1VFVHdzZUt1akJmYkFhV2tubjIxcVdoYVhzOE9xaG9hQS1KRERXRHc0SXlNVkp3UmZKbldUbnVIa2hTVmdoUHhJN3JlT3pmeV9USUV5UU5zN3ROMlBTQzZyMW53Mmc2VnhuT1JOaUNwMzhpUXlQQUx6RVl6QkNYbkFjNlJiMERsWW53LXVvLWpSTVdObnltbTJKQ3o3MWpveGZJM1c3VlpqT3hDOGZaS2pyZXhXYTR4OEtBSE9xd28tOUVPWnZVNVp5Y1dJclRwNWg1bVB2SnBncEpPWFFYZTJxRjlEYUJRcF9QTG14WThnSnI1bTVZZXhkdkJiWTRIelo?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:36:10 GMT"
-    },
-    {
-      "title": "Stock Market Highlights Today: BSE Sensex and Nifty50 ends flat amid elevated crude oil prices - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNnk4ekZHSVdTdHNsTVZKbmdKaHFsWWdyQ2RjdS0zeFhTWFFYZTlHV0d2eHJCc1BPeFNJZEtrckxrUGVTUTJ0Z2pyRFI1YzM4eF85RFdtdG5KM28wZm9UMWV6b0dacHJfLXJheUZDeTJzNDlLUTNib2tsM1lZUjV3S0lfZjQ1VHQ4a204czgzWlNKaTVsU2Y0N1BBMUZ0bW1LdzJ3aUNZX2VNOXEyLVc1QUhiazE5d3RveUFrQ1BpWm5kZ2tlNkhyNldjaTVKWV81VWprd1hmc2tGUjRWZkJrT3l2WVU1MDVyNTJOSURsQU5UazVmb3hlcUl0c1BNSXpkaEY5UVVISkRvSWMtWmFBY2RYNElnNG91Q2xFbXhnOW5BblplMUNIOUhpUE5GMHo1NUt3ZNIBugJBVV95cUxPODhWREFHQ1JNaWppM21HUnZjV3liQXVCWjFGNlh2QXRBNUNpbC1hVXZPSGx3dnR2M3hzemdrcWpSbXdYZXpKdm1JNXZqZ1Y5ajNYeVJnczFKalRpWVR0OXVITkJLekgwNU1DcVVNNFRKaHNKLTQ0b0NXM2NsbGE1WHliYjRnOEhyVHVWWVNGZllELU9TMkV6Z2oxU0JiSUlKSVNYRWdtTk4xSG1kSXlONU9wcHd6TndPaTRCQ0xteG5mLTZTbUNHU3lMaWt5dnNqbXdzYnZucjBCSXFWLWZmTUs2ZmJzVmhVTTA0MzR4ZGRGQ1Y0U2NVU1pybDZaQ0RWd3diVzRsWjBhWW9rQ3BXNk1XT0pBRVl5YjlPM0U5U0tVMWVRd0RLbm0xMTI4Qy1GZWNrcks4X203Zw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 11:05:09 GMT"
-    },
-    {
-      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex, Nifty end flat after choppy session; Airtel, Power Grid rise 3% each - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNS3FtTkdVa2dWQk5sbU9xTUF3YUozd1ZHZC1rcWRtMF96RkhfbDJJblZTam5lU1JzMmk4ZDZaQnpfaU1NSFlxWDVxWFJ6WHBIQzlybVNoRUdlQUdBcGYtM05vVlcza3FGWkkxRDZSU2FoUmtWU0JHeHRidGVuazdhQi1wZGdLbjZUeDJ6TXhacWdET20xaTFKX1FZRW16bE5keDFBR1RGZ1oteTFIc3ZuVlMzSDRxaXhJclNQT25lMmhNVU1ENE9iRWMtekNMNnp1Y1NZN1lLelRNT1EySXBuTVdFWHRwV1E2ZWJ1N2dBVjM1Y0I5bkNxVFlLSk1qNUV6MDdyOHR0MmN3TndOc3ZYbS1hONIBmAJBVV95cUxNZ3pqRm9YZmpyZ2RWbmx6TFZfV0VhRmxkb1ZXYVN3bHVlcXh0T0l5N0NTZFptcDNaN192SkwtWURZTnNOZThtS1dRSkhxZzdjeF9CTEh0MXZVWW5KQjg0ZmlsSXZreUNSR1J6MVBpdXVvcHVWOFY0ck0xSHI4bGFfcXVvdG9pNlhFc2c0RWo4TUhJUXhQdVFVS2dzZ1MxaHZKaEFILUZNY3FyYmJ0YjlCV1NpcUtuRGN2VFBhYmpmN0dkNDJ1cFBZWEFwNnN4TmhKZHBoT1RWa1ViRDU1eGE2RVViWWVBNkp4Rm9ONkZPTTJNQjRpSWJteHd3Z21Wb05XQkVzYWo0YVZLZXdwdDhhWUYwdDU3a2xO?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:05:54 GMT"
+      "link": "https://www.ndtvprofit.com/markets/bajaj-auto-q2-review-strong-beat-despite-cost-pressures-valuations-reasonable-says-jefferies-citi-hikes-target-12246155#publisher=newsstand",
+      "publishedAt": "Wed, 28 Oct 2026 08:26:33 +0530"
     },
     {
       "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets - Livemint",
@@ -197,22 +184,28 @@
       "publishedAt": "Wed, 28 Oct 2026 01:45:48 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdEtlWHMxOTVRZFppZVlvekg3RjRwX3RHbjBEM0RZTXV6X2xxVzlSNWxrSXZrSE1aU2xnd2sydlZpYzQxYnJtNHo3UkJhMkhWa2NDdjBqOUxyUGlEWGQzc1ZOamUzby0xRXhKYzFmUExaV0JQdDF6T3FHMTNNZDB3XzB2ck9tTGR6Mm1YX0Z2bGlXdURxTzlCXzRnTkw3N28tZ3dvamVTeHR4UTVNS2U3ZlVZYnE4SnlVVk0zZFdqd2NMWFU3ZWxER3JJYzh3RzIydFhNdnNzX2VsdEctRTBxdTYwcG85ZDYyaDVwU0JEYzRsSzRzMm1tbjFpQUI2Umd5bHdNUUtyTmxHNkZpX05zVmlPM05aX0xfczZVSkZ4LWI2NE10bFY0ZTVKMFd0WWZ5NEtIOdIBugJBVV95cUxPejVDeTVaWGYtaTBOYVBIMlJxb2dyQ1ZkT2NkNGZXN0R6bzRHeWYwNlBEX3Ezb3Q1ekVnTklWc0Q5Vm9VYWR4WXducldnVFMtOFV3WjY2LWhmeVAwNHlYdk96WnFnN1ZuY0ZuM0Z6MUNoTWsxQklSS3lHWGROdEJlXzhKVHRmdnl1N2lGazBveE54dm1lRHc4dW1BNDBqNm5tVEtmZ2VEUm1iYWRyTXR6ZTJNUWtXMXd5bkl5bEtJeEczaGdJVlNZbndUT1hiYkVxRXo1aHl6ZV9nQVpjX2FucFJnV3hjVDVLR0tsTEdHN2cxTEVfd19lU3I4YmRRMi1VNnRVVzFWTEY2T2V3Y05MRzNpVGduODBJQWNkTl9OcFpJZm5CQXlOMDlKZWJTb0dTbWFYYlZaUUl3QQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 10:29:00 GMT"
+      "title": "Why stock market ended mixed today: Sensex, Nifty flat as Midcap Index gains 565 points - IndiaIPO",
+      "source": "IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXUzSV8xY1IwQmZCLVJRSWl5b29heE8zSWE0dUExaUFsR1pBaGNacFVaZVc5OXUzbFdwajRYMVBFZ2tad0IwWDVrMnEzeExrWktpMHRvWFlENnFybERmSlhLVzZsa1laa3k1Yll2aUVXbC13THhFOUhIV0NIX2pwcTVOSml5ckZJRjhIY3JlTVgxenlXR1owRmdGdDZkSnZSM0w1SDY0dGVGTHRzUDRjYTRfbjhqT2Zrek1HOEdB?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 10:35:31 GMT"
     },
     {
-      "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVVnVFprN1pwVWtldGFwam9RN2lqcVZPdDRPb3R0Tk84UmlicnBGWHlqanhVZ3JRRTFPcTliOE8xTkg0SkVqRFplanRfTHdDUXdpa3o3NGt3TmRIRHZ2NzZlU20zWHpTY1gtdGVuU1JEeXNvSU91M2QxUTJNMXNUVTczZWdKN0ZkSDBvUG9nOUE0X01GV3FjYU1ocDJuS1FzVW5lZ29DTG5wWEZPUS0yTWJyZGt4UVBLckowTTdtMXd5OGZFN2YwMGotelU3X0ZFRXNkalpydUtzN3lMamN2eWxoN2JYelhLY0V5dG1GeWppeFRNWjVzaTlMUlFsOGNqY1HSAYcCQVVfeXFMTnQ1TGxaT2xKNGpmMUw4dVpEeV84S19hclJFOGpRT1Q5V3BFSXFYZXR5YWZjYTdZSndVbFFZRUdSVldRekxQcVIwV3MyN1pxb24wTnFPZXQ1UmltTF8xSm9NeVhuc3JfTXZQeEpCVy1GbUNRbWI3M2NHTkhqYk03bXVLOGpVZ3g1Y3pMeE9oUkREWEhlZzNVZ3pNOVNlcGtfeG85UUk5M3A2SEVpR0Y1VWdlX2hreTlRV1p6VnVXSjNMUnZWYVhmSnh6T20tdDNKbUUyaHNhWS1tQVU2YXpBOGlTN3Y1QkVhRVQzWFJ4VU0tUHdfaWI5ekE1UnBZU09HdEs0bW1CTFE?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 01:30:37 GMT"
+      "title": "Stock Market LIVE: GIFT Nifty tanks 150 points as oil tops $115; Jio Platforms listing in focus - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPMFFCTTlVTl85ZG1TektPYUx1SDlsZ0VEQ0FWRWdGenRZRjF1UVc1MG01RnR6VWxtZXl5YWxJazFrWE1FVnlYb0lvLW9lczkxVGl6ZFIydWoyTDZOZGhSVmxxT0RNNmI0TDVwdk5sTmdBVzZ2d2hLcHFyM1NzSmtaQV9kN2lFOEdrOEhGMkNXQjR6NklMSEY2M01GUkppZnRnQjdZZ1p2VUl3a0ZrNWlDRklfNVJaZ1F1OUs3X0toX0JVcXhsbV9wMFVHN3pySFlyVmZNMmdnWjB6MlN5LVJjVWdHYXl6enBORUd1V0t0dXE5UjY1SU40c3dSZGhST1VHNWJqRFdXdnM4ZE1YVWp2ZElJNXRWcnVZdlE5UW1ubzBENHg0WnNpS1ZzMDBoTzJOYzQxWkVZZFczODQwWXo2X0NKem9QYVJqUk1FLUxFX19aeGVvUzJCS0tVcWpqVWlJOE5wcnFPcHRkYjdMbTZYeWYxUHhBQVpEV3J5ekh4SVPSAYYDQVVfeXFMUGl4azd4TDRURjVWOW50cDZpSWFOY1BnbzJhMFItbnJYalFhb1JxYjdOMmc1Y2FrUW9WMWMzSmJ1M3l4b2tJMnUtTVhXU0VIRWdMM2ZMTTBYSzRMQmMzSXdKZmJWbmhWZVlQWU45bXJ0R0VUR1g2UjFOVGlmemk1ZFV4VkZnalc1M3BOZ0Y3Z2FiSUdPbHR6Z0RHOTEtQThZTDR0UnpxQ1gwOEMyZV9VZEl3elg1MkJ1aW53c1RjTmZxN3dLZ1J1NXFJak9qVDkwcnFvWVZzUmM0eHd2bmdvaGhhcUJFNFQ0d3BxbjdkLVVmNHpycDl4OF9kaVFVanFXOEtyT3V2ZTNIZGZuUGF5SzlKcFlNbmJrZk1IU19VRjNhMXdOSE1jOGl1Y2tVWTVZUGxJMzBwb2luNGg3aWg2c0l4RzZhN3RVUGdaRGpDSlBKcGNlbXRFeF9pVE5GT0xjVmhtY0w3anl4RDJESXJaNXUtNUVfazd1dGdsc09wa3p2eVpWa05R?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 02:26:03 GMT"
     },
     {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
+      "title": "Stock markets decline in early trade; Sensex drops - DD India",
+      "source": "DD India",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcVlnSWFXbE9RQ2dMakJ6T2tnM1ZSd2N0c0lNSzJMMkwzZ1plWlFVa1d6SU44LTUyRWo3ZlVKMlVORDhiMVV4VnJ4M1hnMjhzRjU1bmU5YW1RZUxGY3MwQUhmci1GYWJwTklOdUVzLUZUZ1A0MlRyeVNrZjk1aG5VUlVvYTNtMUk?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 17:46:07 GMT"
+    },
+    {
+      "title": "Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 08:56:28 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty, Jio IPO Listing To Nasdaq, Kospi Rally; Five Factors For Sensex, Nifty 50 On Oct 28 - NDTV Profit",
@@ -221,16 +214,28 @@
       "publishedAt": "Wed, 28 Oct 2026 01:54:46 GMT"
     },
     {
-      "title": "Why stock market ended mixed today: Sensex, Nifty flat as Midcap Index gains 565 points - IndiaIPO",
-      "source": "IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXUzSV8xY1IwQmZCLVJRSWl5b29heE8zSWE0dUExaUFsR1pBaGNacFVaZVc5OXUzbFdwajRYMVBFZ2tad0IwWDVrMnEzeExrWktpMHRvWFlENnFybERmSlhLVzZsa1laa3k1Yll2aUVXbC13THhFOUhIV0NIX2pwcTVOSml5ckZJRjhIY3JlTVgxenlXR1owRmdGdDZkSnZSM0w1SDY0dGVGTHRzUDRjYTRfbjhqT2Zrek1HOEdB?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:35:31 GMT"
+      "title": "Stock Market Highlights: Sensex, Nifty 50 End Flat On F&O Expiry Day; Asian Paints, Coal India, Grasim Top Drags - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTkxWdW4yQXdPNm12MEU0dmYwN29LYl9tMjV3Zml3WmhvNXdpU3doc2h2bWEwcEE3cElFRkVIZUJjeTdTdXl3OWxZZ1luUG84LU9vbGRsVWNldnhPNWFWT2RTRUJMNUxaV3ZmWmxXQ2tHelJHMm5UdjFCSFpRNzlVYjcyR19ZZ3ZicVhrZVFITzAtQUZXaFRpZlBaOUpHOXhhelhURW1qUmhhbEJfREFOQ0hnSUJ4V3RHVHlTMHZwV1c0d2dHSm5UV0pseFJCMkJjaVHSAdoBQVVfeXFMTmx6S1hjeHJac2pGQjRHc0ZwMWw3c0R1Z3o0Sm5paS1VMG1ILW5ieWNnN3dXVUhwZFFVSm1YUmdTYURLdDdVUEpTSm1vaFJVSGQ3MEdqb3VOVUdVVHJGNGhSb3JRM2pwWm02aUEtd3oyN1ZUVG1XVC1iam1zTjlLY3VJa1BHeUNYc3V5NXFTOW5aVmRSOGI4WUNQdmxpT1hzcUFjMk5lQWlrd2lyZmZxLVNDMUtHbFVqNjEzR2Z0V3VRREJFcm9uRzl1WHB2cklZeXN1VU5FY29tUXc?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 11:36:05 GMT"
     },
     {
-      "title": "Stock markets decline in early trade; Sensex drops - DD India",
-      "source": "DD India",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcVlnSWFXbE9RQ2dMakJ6T2tnM1ZSd2N0c0lNSzJMMkwzZ1plWlFVa1d6SU44LTUyRWo3ZlVKMlVORDhiMVV4VnJ4M1hnMjhzRjU1bmU5YW1RZUxGY3MwQUhmci1GYWJwTklOdUVzLUZUZ1A0MlRyeVNrZjk1aG5VUlVvYTNtMUk?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 17:46:07 GMT"
+      "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVVnVFprN1pwVWtldGFwam9RN2lqcVZPdDRPb3R0Tk84UmlicnBGWHlqanhVZ3JRRTFPcTliOE8xTkg0SkVqRFplanRfTHdDUXdpa3o3NGt3TmRIRHZ2NzZlU20zWHpTY1gtdGVuU1JEeXNvSU91M2QxUTJNMXNUVTczZWdKN0ZkSDBvUG9nOUE0X01GV3FjYU1ocDJuS1FzVW5lZ29DTG5wWEZPUS0yTWJyZGt4UVBLckowTTdtMXd5OGZFN2YwMGotelU3X0ZFRXNkalpydUtzN3lMamN2eWxoN2JYelhLY0V5dG1GeWppeFRNWjVzaTlMUlFsOGNqY1HSAYcCQVVfeXFMTnQ1TGxaT2xKNGpmMUw4dVpEeV84S19hclJFOGpRT1Q5V3BFSXFYZXR5YWZjYTdZSndVbFFZRUdSVldRekxQcVIwV3MyN1pxb24wTnFPZXQ1UmltTF8xSm9NeVhuc3JfTXZQeEpCVy1GbUNRbWI3M2NHTkhqYk03bXVLOGpVZ3g1Y3pMeE9oUkREWEhlZzNVZ3pNOVNlcGtfeG85UUk5M3A2SEVpR0Y1VWdlX2hreTlRV1p6VnVXSjNMUnZWYVhmSnh6T20tdDNKbUUyaHNhWS1tQVU2YXpBOGlTN3Y1QkVhRVQzWFJ4VU0tUHdfaWI5ekE1UnBZU09HdEs0bW1CTFE?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 01:30:37 GMT"
+    },
+    {
+      "title": "Sensex, Nifty End Flat as Oil, Fed Jitters Cap Upside - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmV5cmNlY2hydnc0SVZGcWdIVGZxWEhyUWU3QlE1M05YNUpMeWw3R0Q3Z2JWdUo3d2tSZHdjR1RRV1FQVlZOLURJTzBEOVJydkFXREtsUmpkeHFIemJOMW96Z3c1MElNVzlLdzVlcVEzX1N1OEhvTW10NFdOZkJUUm14RzU4Y2ZEOXAwWHZzY0lGbEpsY2FDWFZKZUZlZ0JDamZKRzJYcld5ejdHU0RDS2VnaS1iTmR2?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 11:30:23 GMT"
+    },
+    {
+      "title": "Sensex, Nifty end flat as high crude and Fed caution offset sectoral gains - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSE5fd2R2dlZMSHNPUEg2cnQ3WktSX1BzbUVuWnE5aVNkdlZjSzN5NkVXZzZHUE1MUldtRFdCRXYyX2l2WFo3allFekdTSW91VEl4RFVoWG1mZ2wxOHk0YmhNRXo0dmZfNkdUZUt0VGVGNmhsMkN1d0lCaGxDS2VSTFh0WGpmS2dHSVpfMWUycTZTVTZ4bjktU05VQ0FDOFZHVlBoNzhzUFYyNU9YSFZVUUM1WFg2VC1yMHFCZmJyMEZwWW9pNzNDWlZjSHNjQTRS0gHWAUFVX3lxTE44RkJWdG9HajgtbVZVSjlnQ1hPdF85akRSWF9BZTBpeGMzeXlNTDMwRXFpYk9QLVdfRlFMZ0xPYUI0MGpHZnVfWmZLdTJrNlVzeGpLOWdSOVNjV25EVVRBLTdqNTl4NXlGQzlucThWbWVyU1hxVGFNQ3M3bkthSnJYSTIwVW9TcEJsanhyV0lDNldtd3NmbE8wU0taeHpVUkM3RVBLQTZkYzkzMXB3dVdaSS1oMF9ndE1ZcUhXMHBiT2JjbkhyckJwQzdjZnIzLTJSelB4cUE?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 10:37:50 GMT"
     }
   ]
 }
