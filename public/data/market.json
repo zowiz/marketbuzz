@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex soars 905 points as Nifty reclaims 22,900 led by FMCG, financials, and Adani Enterprises",
+  "headline": "Sensex soars 905 points as Nifty reclaims 22,900 led by FMCG and financial stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,73 +7,56 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex jumped 905 points and Nifty re-claimed 22,900 driven by strong rallies in FMCG and financial stocks.",
-    "US Federal Reserve held interest rates steady while signaling potential future tightening.",
-    "India's 10-year bond had its best day in three months driven by US Treasury rally and easing oil prices.",
-    "High credit rating companies are shifting to the bond market due to rising bank loan costs."
+    "Sensex surged 905 points led by strong rallies in FMCG and financial stocks.",
+    "Nifty reclaimed the key 22,900 mark as investor buying intensified across broad market sectors.",
+    "Major gainers like Adani Enterprises and Kotak Bank provided significant momentum to benchmark indices.",
+    "Strong corporate quarterly earning reports boosted broader market sentiment."
   ],
   "whatHappening": [
-    "Adani Enterprises jumped 5% and Kotak Mahindra Bank surged 4% during Thursday's trading session.",
-    "MTAR Tech reported multifold jump in Q2 net profit and revenue alongside NCLT clearing merger of three arms.",
-    "Mahindra Lifespace Developers reported a 66% growth in pre-sales reaching nearly Rs 2,000 crore in Apr-Sep.",
-    "Laurus Labs hit a 52-week high amid a monthly healthcare sector rally of up to 26%."
+    "Asian Paints reported Q2 net profit rising 7.45% to ₹1,068 crore on a 17% gain in revenue.",
+    "Motilal Oswal recorded a near-quadrupling in Q2 net profit to ₹1,070 crore with 20% revenue growth.",
+    "Brigade Enterprises Q2 net profit rose 19% despite revenue dipping, as margins expanded to 35.5%.",
+    "NSE flagged broker lapses in cybersecurity, margin trading, and client funds management."
   ],
   "stocksInNews": [
     {
-      "symbol": "LAURUSLABS",
+      "symbol": "ASIANPAINT",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        1
+        4
       ]
     },
     {
-      "symbol": "MAHLIFE",
+      "symbol": "VEDL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        3
+        5
+      ]
+    },
+    {
+      "symbol": "MOTILALOFS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "BRIGADE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
       ]
     },
     {
       "symbol": "ADANIENT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/8 sources",
-      "articleIds": [
-        7,
-        12
-      ]
-    },
-    {
-      "symbol": "ADANIPORTS",
-      "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "TRENT",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "MARUTI",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "MTARTECH",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        9
+        16
       ]
     },
     {
@@ -81,96 +64,96 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        12
+        16
       ]
     }
   ],
-  "summary": "Indian benchmark indices rebounded sharply as Sensex surged 905 points and Nifty closed above 22,900 led by FMCG and banking stocks.\nKey gainers included Adani Enterprises and Kotak Bank, while strong corporate updates from MTAR Tech and Mahindra Lifespace boosted market sentiment.\nGlobal macro cues like US Fed rate decisions and Treasury market rallies continue to guide investor sentiment.",
-  "updatedAt": "2026-10-29T13:01:43.852Z",
+  "summary": "Indian stock markets witnessed a sharp rally with the Sensex jumping 905 points and Nifty reclaiming the 22,900 level.\nThe uptrend was driven by strong performances in FMCG, financial stocks, and major heavyweights like Adani Enterprises and Kotak Bank.\nRobust Q2 corporate earnings from companies such as Asian Paints, Motilal Oswal, and Brigade Enterprises further supported investor sentiment.",
+  "updatedAt": "2026-10-29T14:02:07.642Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
-    "supreme court refuses to order full public disclosure of ultimate beneficiaries of aifs fpis without legal framework",
-    "shukra medtech laurus labs among 4 healthcare stocks to hit 52week highs and rally up to 26 in a month",
-    "bitcoin trades near 80000 after fed holds rates signals possibility of further tightening",
-    "mahindra lifespace developers presales rise 66 to nearly rs 2000 cr in aprsep",
-    "companies with high credit ratings shifting to bond market as bank loans become dearer",
-    "indias 10year bond has best day in 3 months on treasury rally easing oil",
-    "us stock market live updates nasdaq futures slide as alphabet earnings revive ai spending fears",
-    "market wrap adani ports sez adani ent trent maruti suzuki top gainers and losers on nifty and sensex on thursday",
-    "oracle opens cloud to googles ai chips challenging gpu dominance",
-    "mtar tech q2 results net profit revenue jump multifold nclt clears merger of three arms",
+    "us stocks today us stocks fall at open as alphabet results reignite ai spending fears",
+    "euro nudges lower after ecb holds steady stocks inch up",
+    "us inflation heats up in september consumer spending rises",
+    "ecb keeps rates unchanged but points to mounting inflation risk",
+    "asian paints q2 net profit rises 745 to 1068 crore revenue up 17",
+    "vedanta power q2 results company swings to profit at rs 83 crore revenue rises 38 yoy",
+    "buying health insurance after 60 five policy conditions to compare beyond premium",
+    "motilal oswal q2 results pat nearly quadruples to rs 1070 crore revenue up 20",
+    "brigade enterprises q2 results net profit rises 19 even as revenue dips margin jumps to 355",
+    "nse flags broker lapses in margin trading client funds and cybersecurity",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
+    "why is market rallying today sensex jumps 900 points nifty above 22900 6 key factors behind rs 5 lakh the economic times",
     "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
-    "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
-    "stock market today gift nifty us fed policy to oil prices five key factors for sensex nifty 50 on october 29 ndtv profit",
     "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
+    "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
     "how can us fed fomc meeting outcome impact indian stock market sensex nifty to rise experts decode livemint",
     "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
-    "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
     "five reasons indias stock market is sinking even when its economy is growing bbc"
   ],
   "articles": [
     {
-      "title": "Supreme Court refuses to order ‘full public disclosure’ of ultimate beneficiaries of AIFs, FPIs without ‘legal framework’",
+      "title": "US stocks today: US stocks fall at open as Alphabet results reignite AI spending fears",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-order-full-public-disclosure-of-ultimate-beneficiaries-of-aifs-fpis-without-legal-framework/article71639833.ece",
-      "publishedAt": "Thu, 29 Oct 2026 18:07:02 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-fall-at-open-as-alphabet-results-reignite-ai-spending-fears/articleshow/135317765.cms",
+      "publishedAt": "Thu, 29 Oct 2026 19:09:36 +0530"
     },
     {
-      "title": "Shukra Medtech, Laurus Labs among 4 healthcare stocks to hit 52-week highs and rally up to 26% in a month",
+      "title": "Euro nudges lower after ECB holds steady, stocks inch up",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/shukra-medtech-laurus-labs-among-4-healthcare-stocks-to-hit-52-week-highs-and-rally-up-to-26-in-a-month/slideshow/135311397.cms",
-      "publishedAt": "Thu, 29 Oct 2026 17:56:43 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/euro-nudges-lower-after-ecb-holds-steady-stocks-inch-up/articleshow/135317787.cms",
+      "publishedAt": "Thu, 29 Oct 2026 19:07:39 +0530"
     },
     {
-      "title": "Bitcoin trades near $80,000 after Fed holds rates, signals possibility of further tightening",
+      "title": "US inflation heats up in September; consumer spending rises",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-80000-after-fed-holds-rates-signals-possibility-of-further-tightening/articleshow/135309957.cms",
-      "publishedAt": "Thu, 29 Oct 2026 17:53:33 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-inflation-heats-up-in-september-consumer-spending-rises/articleshow/135317736.cms",
+      "publishedAt": "Thu, 29 Oct 2026 19:04:37 +0530"
     },
     {
-      "title": "Mahindra Lifespace Developers pre-sales rise 66% to nearly Rs 2,000 cr in Apr-Sep",
+      "title": "ECB keeps rates unchanged but points to mounting inflation risk",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/mahindra-lifespace-developers-pre-sales-rise-66-to-nearly-rs-2000-cr-in-apr-sep/articleshow/135309551.cms",
-      "publishedAt": "Thu, 29 Oct 2026 17:47:02 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ecb-keeps-rates-unchanged-but-points-to-mounting-inflation-risk/articleshow/135317600.cms",
+      "publishedAt": "Thu, 29 Oct 2026 19:02:52 +0530"
     },
     {
-      "title": "Companies with high credit ratings shifting to bond market as bank loans become dearer",
+      "title": "Asian Paints Q2 net profit rises 7.45% to ₹1,068 crore, revenue up 17%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/companies-with-high-credit-ratings-shifting-to-bond-market-as-bank-loans-become-dearer/articleshow/135309264.cms",
-      "publishedAt": "Thu, 29 Oct 2026 17:43:53 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/asian-paints-q2-net-profit-rises-7-45-to-1-068-crore-revenue-up-17-126102901472_1.html",
+      "publishedAt": "Thu, 29 Oct 2026 18:54:21 +0530"
     },
     {
-      "title": "India's 10-year bond has best day in 3 months on Treasury rally, easing oil",
+      "title": "Vedanta Power Q2 results: Company swings to profit at Rs 83 crore; revenue rises 38% YoY",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-has-best-day-in-3-months-on-treasury-rally-easing-oil/articleshow/135308975.cms",
-      "publishedAt": "Thu, 29 Oct 2026 17:41:44 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-power-q2-results-company-swings-to-profit-at-rs-83-crore-revenue-rises-38-yoy/articleshow/135317122.cms",
+      "publishedAt": "Thu, 29 Oct 2026 18:48:34 +0530"
     },
     {
-      "title": "US Stock Market Live Updates: Nasdaq futures slide as Alphabet earnings revive AI spending fears",
+      "title": "Buying Health Insurance After 60: Five Policy Conditions To Compare Beyond Premium",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-alphabet-microsoft-nvidia-intel-amazon-fortinet-servicenow-earnings-alphabet-google-ai-spending-fears-fed-rate-decision-pce-inflation-gdp-data-treasury-yield-news-29th-october-2",
-      "publishedAt": "Thu, 29 Oct 2026 17:40:42 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/buying-health-insurance-after-60-five-policy-conditions-to-compare-beyond-the-premium-12253904#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 18:48:20 +0530"
     },
     {
-      "title": "Market wrap:  Adani Ports SEZ, Adani Ent, Trent, Maruti Suzuki top gainers and losers on Nifty and Sensex on Thursday",
+      "title": "Motilal Oswal Q2 Results: PAT nearly quadruples to Rs 1,070 crore; revenue up 20%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-ports-sez-adani-ent-trent-maruti-suzuki-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/135307738.cms",
-      "publishedAt": "Thu, 29 Oct 2026 17:37:08 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/motilal-oswal-q2-results-pat-nearly-quadruples-to-rs-1070-crore-revenue-up-20/articleshow/135316998.cms",
+      "publishedAt": "Thu, 29 Oct 2026 18:46:04 +0530"
     },
     {
-      "title": "Oracle opens cloud to Google’s AI chips, challenging GPU dominance",
+      "title": "Brigade Enterprises Q2 Results: Net Profit Rises 19% Even As Revenue Dips; Margin Jumps To 35.5%",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/oracle-opens-cloud-to-googles-ai-chips-challenging-gpu-dominance/article71640128.ece",
-      "publishedAt": "Thu, 29 Oct 2026 17:37:03 +0530"
+      "link": "https://www.ndtvprofit.com/markets/brigade-enterprises-q2-results-net-profit-rises-19-even-as-revenue-dips-margin-jumps-to-35-5-12254454#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 18:45:09 +0530"
     },
     {
-      "title": "MTAR Tech Q2 Results: Net Profit, Revenue Jump Multifold; NCLT Clears Merger Of Three Arms",
+      "title": "NSE flags broker lapses in margin trading, client funds and cybersecurity",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/mtar-tech-q2-results-net-profit-revenue-jump-multifold-nclt-clears-merger-of-three-arms-12253825#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 17:18:48 +0530"
+      "link": "https://www.business-standard.com/markets/news/nse-flags-broker-lapses-in-margin-trading-client-funds-and-cybersecurity-126102901449_1.html",
+      "publishedAt": "Thu, 29 Oct 2026 18:41:23 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
@@ -179,16 +162,16 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
+      "title": "Why is market rallying today? Sensex jumps 900 points, Nifty above 22,900. 6 key factors behind Rs 5 lakh - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdk9rN2FKLVE5VTg4S2phUUhUUjlCTjhVTjEtZVJqbmhiUkx6aVlfc2o2ZzNOVDVOVEltQm14TlRFYU5tTVZja0pnRC0xbC13aEZzeVYtUGRCTGEwVDA3ZEI4SzZybkpmNW9QNFBJTmkzZ2FEN25CQk5yT3h5ZXZHdUlLUGo3blE1TlAyQVJBTllJdl8tQkF6TGlEYkJ6YURwd05EMFlWUXNIT1NZRnE4WmZQTXBKX1h2LXJHT0dSZ1V0S1RKbFNDZkZXQTNmY2xObEoyTGpaSmNPaG9zR19zLUlld3pBR0dYajN4NW45Ui14TlV2dGNwX2FSXzNHNlh4Vy1CZmpaUkJpQ244ODJUY1d5MNIBmAJBVV95cUxPYWJWLV9VVHRFQjZwWFhwRnFQRlBJTjRGSzA2R0ZWUnhsMUlDSjBMMlZpaTVNZVA5Z0h0Z0dmdzZsVHpvRkJlalNpMTBUeWxJWXV4VWJ6Y0pyTVE5WHlfczZ1RkdEaWlzcDlKWjdoS3d6aWF5S2hGeThzTkd0dHdLTDQxMkVQZ25feFhxUFlub3NueHJJVHQ0TEttTzRhOWpKSWkwcWZWbmJhTW16RUFWa2V4bmc5SjE0eHlVVVVvbDRlMWtXV3d6MG43UmlBMnkxTlJCWDJQUGY0YUpSRGFmd01EenBnZ0VQREE5ZGliZTZiaDBnNEhlcUFSN0IzV3Izdlk5NGdqb2VkSnVUNDlZQ3ZROTA5QUc4?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 05:31:22 GMT"
+    },
+    {
       "title": "Closing Bell: Nifty reclaims 22,900, Sensex jumps 905 pts; FMCG, financials rally - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1I4OEpudXdIbTQ1SDJ0WkhGdkRyOXUzd3E4TmU2ZlR3YnhtWk1vUmJWRjhFLS10bGtDampCdC1FZnNCLVNCdDZSNUs5UGlqY1RnNUF5ZzRFYWkzam1iRy1sSGt4Smk3M05YanFyaXpLTmhaLWpzNEhDZjNyY0FtVFFYZHp2T09TSkFRSExfQW5Jc2UzX1VHczdCUENJMWpCdVNiM3lZM1ZKb0Y3VTZBNnFQU0NmbENweEtlQm4wekh2MHhRM3dTNFQ4RUhuTzJfc0xmaGZ1YXl6TFZ6MjR1Szl6Z2laYkFtaVFJamRqLU1OcXQtcVhVbW5wTWZjczlYZ2RqU1c5aVRMUzFfVFExdEJCdGVmdU5KTDNmOEhKMkhqTk3SAagCQVVfeXFMTXNQTUNSOURwSHpOLUJGclRnYVh3cXc4dUpnd1F4Y0U0dzNnT0thdm91MjZrUzdTSU1ra1lBb01pWDJtc2x6NHdBNS1NeTVVaVA5VG9rUFJ0akR2eVItZVlqdjhKeHlvb1cxYVJxOXk1a21QY3B3N2xyLW1BaVhxWE5iZmxsdDJfeFJRT0g3S2hUb1dBakMwSjhrNnR2OUFVZkVvbHVFSl9iWDJlZ2dRSWNwamFuekE3MUZYcEhBQjlMSzBDMmV5cUZMWkNfQzQyWE1ReXUxS19Gc3BMOUE3SU1tc085VGVXYXp4Wmw3SE1HajRFaC1FZ2pZLUdSUUtWd2E0M0tDTUtpTk9kUzNMOHdhdW9heF9kdXVzTmloYTZjYncxQXdyQ3o?oc=5",
       "publishedAt": "Thu, 29 Oct 2026 10:43:01 GMT"
-    },
-    {
-      "title": "Stock Market Highlights | Sensex soars 905 pts, Nifty ends above 22,900; Adani Ent jumps 5%, Kotak Bank 4% - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY090MXJYMC1pb0lhbXpmdW5hTHh0TXgyWlBLNTdGQUR0d2FXMHN1WWhLdEh4emd6RE1kY2RheTg0NFBXbWZPSFNPZno0TmJyQ08xVmREYWFwR1k4UGh5MFNMNERDZEhWWVBzd3cxR3BUMUl2cUlfczcyNHUzeVRWMnI3UmgtVEliYllFcWxXZmZrVXhJM2hQSmYyeTZjN09vYVV1QnNDcFNmTHk1LXlkVGo1b2VpUElRd1FnUTdabTFWSTRKUDlPSTNad0lXVUhqVGhVOVlHa1VnRFhyM2tvWEdvTHl5UEVod05QSW9IY2dHVXRIb0VpOFBoVjJoc09WeXNJdHYxT1JmbU1QUTdYWUQ3bWHSAZoCQVVfeXFMTXpoUnZfNkh5Q0d5ZjlEangxTXJUWGlwVWFMSVJFR2FUMUFuX1NwaWRmVGdjY01xZlRRbHE1RDgtenlDdHFTbEM5WktEMDNISmZhcy1iSFF2MzBsTXZhVXJDTzBES3ZOcW5ZOUtSTEs2aVdMVzZNTzRCVklPSTlSbVhaMzFhQlctT2stVnpDeVY3a2tWZUdxTVEyeW4tcms4dm5NWW5ZR0tmY2JfcWN1VlZ2QzZiUWlkcl9FNmd0Q2NENTJMSHdFSy1ndnN3QTZvZ3RaUFBXb1Jxc0dVdVFscFhuUFRqWEFNXzlMbDVvZzNaaW00VzgwNHUyTFU4QW1OZEYya000YkJZTWVHV3FxZ0tUZHVMUFdfb2xB?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 10:54:35 GMT"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",
@@ -197,16 +180,22 @@
       "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty, US Fed Policy To Oil Prices; Five Key Factors For Sensex, Nifty 50 On October 29 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTkdjeEhGQ0k3SHlKU0xzYmpBYVV2MWlyVl9laFRPY2N3WXRFWFEtdDQ3ZUU2YWdhaGpab1FKRXZMTlVHYmRHODQtZEUyVk5aVVc2c0hnV2FsYndnQ0FsaGMtTnhzcWhTMGZNeHBNbWxITEN3Y1ZjSTZMZ1Q1UjZjX1E5elRJdXZFd1dPeEx0ZzBfai1qQjA4TDZyRUZHY3V2Uk9mMW9qYWtrXzg4ZVEzU0IxSUlkTlZzM2VVcUpyU2lDN1lRSThQZFExVTNBVVdHOTUzem5qTXBreHJYV0g4c1ktRG0wYVpLSGJDcnA1ODZNbWtRa0HSAf4BQVVfeXFMT1NWT0FQYUNvd1FuaW1kcGpueVB0TmQ0THlZckR5aUlqaVViM0xYY2NTb0szRzVpa1hPRUk4MVo2WmNzc0gtTFF6Y2paZUs3VzZRRW5YZHJaanNDenJObUpxSW1BVHhkNWhBNV9teHVUTm5ERkx0V0tRQnVYNW1GUGY0VFp2RnFUc1BaRHlyeVpYYUMtbkpmanpoVk9aQ21wMzQwbnhqT2FiM1o2ZF9xemRBbzZiYWJwOWFZcTNtVHRMUDZvYkZKbk1EVXFRQ1ZSLWJYMXVJMUtzVVVyRDB5Q0ViNV9wTFdxdnFxWlFmN1RMZ2FDbHJlSFB3UVNDNEE?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:39:28 GMT"
-    },
-    {
       "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbGZqMHp2VC02aEFPMWpFUDdkcGlUbGVqSHFVUTdtem9scXhMSTdwRHlQNWxyeGFjd19oVUJBLWtEWXA4bGVSVFlHY3BMTzdhc2RlekgyWmpWVFBYdThfNGJqT05SREFmb2NVT3hsZ0IxSWlVSXVWXzhyeUVQYWlWQWV5OUlmdDA1dldGM1JQdjBSZEtackdibmVLVEFwdWo3M0lha3hvdTNaNEZYTzhXQ01ic3lPMlFjSWFIRHJDeGlTTVR5dUc5S0RvaW85aG82T2xwdnFoSy1yTDRWNnloQ2UxaUpWbW9xYTFHNGw4dDJZMWoxVEUtZER0NlFQa2p2NHZQddIBigJBVV95cUxOYWFiZ291M3RVdE1Oc3JKM05Nd0d0LTM3dWFHS2laLXF6M1ltczBYWlh0SUFtejJZVU9lZlM1R0FWcldBZGRvT2hyWjlBZkl0QV8wUTFqN2J3THNzUGtYekI3MU5oRUVTbklKMXp4Q3NZQUJUaE4zaUJvVXFCRDZiXzN2NTZUWlRQdkRpNWFFdDdpTi0wSTR6ejhNMXBVQWNoMFI0MzVCckFaeklBMUZINEZ6czM0YjdpRjBId1lfVXFqYWszN0tvRy1leWhDZEJZSDBQa2lzdUtIZjNqVHpFcTBJZFZRbzJTMVZkS3BKVUVERWdhWUhlQkdUWGlKOHhuWXpqRDFTbnFHUQ?oc=5",
       "publishedAt": "Thu, 29 Oct 2026 01:15:36 GMT"
+    },
+    {
+      "title": "Stock Market Highlights: Sensex Ends 353 Points Lower, Nifty At 22,699; Broader Indices Outperform - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 00:46:30 GMT"
+    },
+    {
+      "title": "Stock Market Highlights | Sensex soars 905 pts, Nifty ends above 22,900; Adani Ent jumps 5%, Kotak Bank 4% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY090MXJYMC1pb0lhbXpmdW5hTHh0TXgyWlBLNTdGQUR0d2FXMHN1WWhLdEh4emd6RE1kY2RheTg0NFBXbWZPSFNPZno0TmJyQ08xVmREYWFwR1k4UGh5MFNMNERDZEhWWVBzd3cxR3BUMUl2cUlfczcyNHUzeVRWMnI3UmgtVEliYllFcWxXZmZrVXhJM2hQSmYyeTZjN09vYVV1QnNDcFNmTHk1LXlkVGo1b2VpUElRd1FnUTdabTFWSTRKUDlPSTNad0lXVUhqVGhVOVlHa1VnRFhyM2tvWEdvTHl5UEVod05QSW9IY2dHVXRIb0VpOFBoVjJoc09WeXNJdHYxT1JmbU1QUTdYWUQ3bWHSAZoCQVVfeXFMTXpoUnZfNkh5Q0d5ZjlEangxTXJUWGlwVWFMSVJFR2FUMUFuX1NwaWRmVGdjY01xZlRRbHE1RDgtenlDdHFTbEM5WktEMDNISmZhcy1iSFF2MzBsTXZhVXJDTzBES3ZOcW5ZOUtSTEs2aVdMVzZNTzRCVklPSTlSbVhaMzFhQlctT2stVnpDeVY3a2tWZUdxTVEyeW4tcms4dm5NWW5ZR0tmY2JfcWN1VlZ2QzZiUWlkcl9FNmd0Q2NENTJMSHdFSy1ndnN3QTZvZ3RaUFBXb1Jxc0dVdVFscFhuUFRqWEFNXzlMbDVvZzNaaW00VzgwNHUyTFU4QW1OZEYya000YkJZTWVHV3FxZ0tUZHVMUFdfb2xB?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 10:54:35 GMT"
     },
     {
       "title": "How can US Fed FOMC meeting outcome impact Indian stock market? Sensex, Nifty to rise? Experts decode - Livemint",
@@ -219,12 +208,6 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbGQxcFFLUDN1THJXOVNaMEsydnpFQWJjQVZRWW9jNGJXczJxZDNpdElrOGx3bFluNFFCWVgyM1RQR0RUWFgwTGFCc3FaLTlBcTVGQ2JDRUNCVll4cFJ0V2pxVGw1TkJaTjZqSjE2VGZHZXdqR19talF2N085OGJBYjF3M1lCaWNlZjFLRGtaNUVBVHpIWi1mNXJaTE9iZVREdTkyQ0djMWNGdGNaZkV0WGlqOS1HTUJUcWRpSDZYTkc0VUVya1JBSEVzLUlibDhZUjJfS0JrdVdWTGJTYWJpTXVWeWRNdU8tSXZHQ25ybmtZQzlhR21mNzl5TlBtbzhNRnJmTFcxN2VWLUdJNEp4Q9IBlgJBVV95cUxONVlXWWJCbVhCZDBjM0ZhUDlEcnBWNVJUdTNGNjJXeXV4NlRpY2lwQlNmVFM5dDlwdVVEejdRX2MyZWFvbG1LLUJ1VGc1Zy1KamlfWHk3SHRiMlAtM0VBUjY2MHIwVzZyR3Jyc3ZMNnkxSTlLTUNHQ3hRNHdJRi00UEZ5TDNrS2p4UGVxUFhyX19RLUZSOXd1c2NzSm5LczdpRkY1UnFzRks3cjdBX2NWVXhVSkZoaXNfOGxvMXQwX3p3VVN2M2tVZTZmRDIyZ1FvN0tfTWF4LUt1ZXI2RTZkTGY1Zndpdkw2Y3djeUdNT2pwOU44Q1JXWHM0UkV0bEdTVWpaVTZ3SXA0SzZSTnYtWjBLMUxldw?oc=5",
       "publishedAt": "Wed, 28 Oct 2026 01:45:48 GMT"
-    },
-    {
-      "title": "Stock Market Highlights: Sensex Ends 353 Points Lower, Nifty At 22,699; Broader Indices Outperform - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:46:30 GMT"
     },
     {
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
