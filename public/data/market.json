@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty decline as US Fed holds rates; Jio Platforms makes strong market debut",
+  "headline": "Indian stock market falls as Sensex drops over 350 points and Nifty slips below 22,700",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,32 +7,22 @@
     "nextOpen": ""
   },
   "why": [
-    "US Federal Reserve maintained interest rates steady during its latest FOMC meeting",
-    "Indian benchmark indices Sensex and Nifty faced significant selling pressure on October 28",
-    "Heavyweight stocks like Infosys and Reliance Industries experienced notable declines",
-    "Market participants reacted to the high-profile listing of Jio Platforms and corporate earnings"
+    "Heavy selling in major blue-chip stocks like Infosys and Reliance Industries pulled down benchmark indices.",
+    "Elevated global crude oil prices created pressure on market sentiment.",
+    "Profit booking and selling in banking stocks contributed to market weakness.",
+    "Investors maintained a cautious stance following US Fed interest rate decision updates."
   ],
   "whatHappening": [
-    "The BSE Sensex closed 352 points lower, ending below the 22,700 mark on Wednesday",
-    "PNB Housing Finance reported a 6% rise in Q2 net profit to ₹617 crore with 14% income growth",
-    "Jio Platforms soared on its market debut, significantly impacting the market capitalization leaderboard",
-    "US stocks ended higher as the Fed held rates and investors shifted focus to corporate earnings"
+    "BSE Sensex dropped 352 points while NSE Nifty 50 closed below the 22,700 mark.",
+    "US FOMC held interest rates steady amid ongoing inflation considerations.",
+    "PNB Housing Finance posted a 6% rise in Q2 profit to ₹617 crore with total income up 14%.",
+    "Airtel and Power Grid logged gains of 3% each during a choppy session."
   ],
   "stocksInNews": [
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 3/6 sources",
-      "articleIds": [
-        7,
-        12,
-        14
-      ]
-    },
-    {
       "symbol": "PNBHOUSING",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         9
       ]
@@ -40,7 +30,15 @@
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/6 sources",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        12
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         12
       ]
@@ -48,7 +46,7 @@
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         16
       ]
@@ -56,14 +54,14 @@
     {
       "symbol": "POWERGRID",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         16
       ]
     }
   ],
-  "summary": "Indian markets are navigating volatility as the Sensex and Nifty closed lower despite a successful debut for Jio Platforms.\nCorporate earnings remain in focus with PNB Housing Finance reporting growth, while heavyweights like Infosys faced selling pressure.\nGlobal sentiment is shaped by the US Federal Reserve's decision to maintain interest rates amidst ongoing inflation concerns.",
-  "updatedAt": "2026-10-28T23:27:42.677Z",
+  "summary": "Indian stock markets traded under pressure as Sensex dropped over 350 points and Nifty closed below 22,700. Losses in heavyweights like Infosys and Reliance Industries along with elevated crude oil prices weighed on sentiment. Meanwhile, select stocks like PNB Housing Finance, Airtel, and Power Grid gained on earnings and buying support.",
+  "updatedAt": "2026-10-29T00:01:40.945Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
@@ -86,7 +84,7 @@
     "sensex today nifty 50 stock market highlights sensex nifty end flat after choppy session airtel power grid rise 3 each the economic times",
     "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
     "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today highlights dalal street ends in green after weak start sensex closes 480 points up nifty50 beyond 22700 the times of india"
+    "stock market today highlights october 27 stock markets end largely unchanged amid elevated crude oil prices selling in bank stocks businessline"
   ],
   "articles": [
     {
@@ -204,10 +202,10 @@
       "publishedAt": "Tue, 27 Oct 2026 01:30:37 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: Dalal Street ends in green after weak start; Sensex closes 480 points up, Nifty50 beyond 22,700 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPdEtlWHMxOTVRZFppZVlvekg3RjRwX3RHbjBEM0RZTXV6X2xxVzlSNWxrSXZrSE1aU2xnd2sydlZpYzQxYnJtNHo3UkJhMkhWa2NDdjBqOUxyUGlEWGQzc1ZOamUzby0xRXhKYzFmUExaV0JQdDF6T3FHMTNNZDB3XzB2ck9tTGR6Mm1YX0Z2bGlXdURxTzlCXzRnTkw3N28tZ3dvamVTeHR4UTVNS2U3ZlVZYnE4SnlVVk0zZFdqd2NMWFU3ZWxER3JJYzh3RzIydFhNdnNzX2VsdEctRTBxdTYwcG85ZDYyaDVwU0JEYzRsSzRzMm1tbjFpQUI2Umd5bHdNUUtyTmxHNkZpX05zVmlPM05aX0xfczZVSkZ4LWI2NE10bFY0ZTVKMFd0WWZ5NEtIOdIBugJBVV95cUxPejVDeTVaWGYtaTBOYVBIMlJxb2dyQ1ZkT2NkNGZXN0R6bzRHeWYwNlBEX3Ezb3Q1ekVnTklWc0Q5Vm9VYWR4WXducldnVFMtOFV3WjY2LWhmeVAwNHlYdk96WnFnN1ZuY0ZuM0Z6MUNoTWsxQklSS3lHWGROdEJlXzhKVHRmdnl1N2lGazBveE54dm1lRHc4dW1BNDBqNm5tVEtmZ2VEUm1iYWRyTXR6ZTJNUWtXMXd5bkl5bEtJeEczaGdJVlNZbndUT1hiYkVxRXo1aHl6ZV9nQVpjX2FucFJnV3hjVDVLR0tsTEdHN2cxTEVfd19lU3I4YmRRMi1VNnRVVzFWTEY2T2V3Y05MRzNpVGduODBJQWNkTl9OcFpJZm5CQXlOMDlKZWJTb0dTbWFYYlZaUUl3QQ?oc=5",
-      "publishedAt": "Mon, 26 Oct 2026 10:29:00 GMT"
+      "title": "Stock Market Today Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXRPNF9Xa2o3bDRjLURmUDBlZ0FHb3hMNkNHa0xxekQzYjFUNUl5U3BWM3VRWkZqMmo3eE5ueHZaV2pEUVUyQWhsLUh5bFZiNnpsZ2FBNS15RU5pU2xFTjdwLWRHT0xBRGNvRnh0ZUtvMTBfZHJfcnBWVnhNdVp1SjNEZllGS0hwNDNpa09DOE85T2V4NUtHWkxSaFNVbmRQNnJDV3EycmdNUGF1ek8yWXNqTmMyY0dUSWpmTUxxUm4zVG1nUXfSAcoBQVVfeXFMTWVkUHhYRDdSRWROU29Nd09HSW5XbUd5bklVWUxBSHJqemhBcUktV29ZRVBpYU0xSURESWNReGU1TWFTZUdaeUFtMWhqT3VxUzJyem0wZVpFcVdfdDBnME13alVjSTZEVEZFR0lWOHBjSWd1bWRtR2ZkVFVaMlpMaFhEQTFTUnNkSkV2V251emlGN1ZpOG5WSUVsX0hmZzNUM1Y4ZC1UOUJJSVJQNXBBWGNwakd3bEw3N0hLanlVSUVrazBNc25lVXJrdw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 10:47:20 GMT"
     }
   ]
 }
