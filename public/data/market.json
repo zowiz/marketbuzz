@@ -1,5 +1,5 @@
 {
-  "headline": "Indian stock market falls as Sensex drops over 350 points and Nifty slips below 22,700",
+  "headline": "Sensex and Nifty decline as IT stocks slide and rising crude oil prices weigh on sentiment",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,38 +7,31 @@
     "nextOpen": ""
   },
   "why": [
-    "Heavy selling in major blue-chip stocks like Infosys and Reliance Industries pulled down benchmark indices.",
-    "Elevated global crude oil prices created pressure on market sentiment.",
-    "Profit booking and selling in banking stocks contributed to market weakness.",
-    "Investors maintained a cautious stance following US Fed interest rate decision updates."
+    "Slide in IT stocks dragged down the benchmark Sensex and Nifty indices",
+    "Rising and elevated global crude oil prices created pressure on market sentiment",
+    "Rupee weakened to 95.22 as traders evaluated oil prices and global monetary policy",
+    "Investors digested the US Federal Reserve's decision to hold interest rates steady"
   ],
   "whatHappening": [
-    "BSE Sensex dropped 352 points while NSE Nifty 50 closed below the 22,700 mark.",
-    "US FOMC held interest rates steady amid ongoing inflation considerations.",
-    "PNB Housing Finance posted a 6% rise in Q2 profit to ₹617 crore with total income up 14%.",
-    "Airtel and Power Grid logged gains of 3% each during a choppy session."
+    "BSE Sensex closed lower while Nifty slipped below the 22,700 level",
+    "Heavyweights Infosys and Reliance Industries dropped 3% each",
+    "Airtel and Power Grid managed gains of 3% each in choppy trading sessions",
+    "US Fed held benchmark interest rates steady, stating future data will guide policy moves"
   ],
   "stocksInNews": [
     {
-      "symbol": "PNBHOUSING",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/6 sources",
       "articleIds": [
-        9
+        1,
+        12
       ]
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        12
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/6 sources",
       "articleIds": [
         12
       ]
@@ -46,7 +39,7 @@
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/6 sources",
       "articleIds": [
         16
       ]
@@ -54,27 +47,51 @@
     {
       "symbol": "POWERGRID",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/6 sources",
       "articleIds": [
         16
       ]
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "SUZLON",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        1
+      ]
     }
   ],
-  "summary": "Indian stock markets traded under pressure as Sensex dropped over 350 points and Nifty closed below 22,700. Losses in heavyweights like Infosys and Reliance Industries along with elevated crude oil prices weighed on sentiment. Meanwhile, select stocks like PNB Housing Finance, Airtel, and Power Grid gained on earnings and buying support.",
-  "updatedAt": "2026-10-29T00:01:40.945Z",
+  "summary": "Indian benchmark indices Sensex and Nifty fell below 22,700 levels driven by declines in IT stocks and rising crude oil prices.\nReliance Industries and Infosys dropped 3% each, though stocks like Airtel and Power Grid logged 3% gains in mixed sessions.\nMeanwhile, global markets absorbed the US Federal Reserve's decision to keep interest rates unchanged as the Indian Rupee closed weaker at 95.22.",
+  "updatedAt": "2026-10-29T01:01:36.055Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
+    "rupee closes weaker at 9522 as traders await us fed decision oil prices rise",
+    "stocks in news jio platforms ril hero motocorp meesho tvs motor vedanta aluminium and suzlon energy",
+    "rbi accepts 20 bps higher treasury bill cutoff yields than last auction",
+    "sensex nifty fall as it stocks slide rising oil prices weigh",
+    "sebi to review fpi rules align with global norms",
+    "fed holds rates says data will guide next move",
     "us stocks today us stocks end higher as fed holds rates focus turns to earnings",
     "anthropic is said to plan uk share offering via retailbook",
     "us fed meeting highlights fomc holds rates steady despite concerns over inflation warsh makes changes in annual meetings",
     "feds kevin warsh says us economy not running too hot from ai boom",
-    "warshled fomc to reduce ratesetting meetings from 2027 despite inflation fight five key highlights",
-    "disinvestment as key economic strategy",
-    "wendys draws buyout bid as beef costs and burger rivalry weigh on business",
-    "jio platforms soars on debut recasting market capitalisation leaderboard",
-    "us fed meeting live updates warsh highlights changes in fomc schedule from next fall fomc holds interest rates steady",
-    "pnb housing finance q2 profit rises 6 to 617 cr income grows 14",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
     "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
@@ -84,9 +101,45 @@
     "sensex today nifty 50 stock market highlights sensex nifty end flat after choppy session airtel power grid rise 3 each the economic times",
     "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
     "stock market outlook today 27 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today highlights october 27 stock markets end largely unchanged amid elevated crude oil prices selling in bank stocks businessline"
+    "how can us fed fomc meeting outcome impact indian stock market sensex nifty to rise experts decode livemint"
   ],
   "articles": [
+    {
+      "title": "Rupee closes weaker at 95.22 as traders await US Fed decision, oil prices rise",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-closes-weaker-at-95-22-as-traders-await-us-fed-decision-oil-prices-rise/articleshow/135284779.cms",
+      "publishedAt": "Thu, 29 Oct 2026 06:03:57 +0530"
+    },
+    {
+      "title": "Stocks in news: Jio Platforms, RIL, Hero MotoCorp, Meesho, TVS Motor, Vedanta Aluminium and Suzlon Energy",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-jio-platforms-ril-hero-motocorp-meesho-tvs-motor-vedanta-aluminium-and-suzlon-energy/articleshow/135273790.cms",
+      "publishedAt": "Thu, 29 Oct 2026 06:00:00 +0530"
+    },
+    {
+      "title": "RBI accepts 20 bps higher treasury bill cutoff yields than last auction",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-accepts-20-bps-higher-treasury-bill-cutoff-yields-than-last-auction/articleshow/135284706.cms",
+      "publishedAt": "Thu, 29 Oct 2026 05:57:08 +0530"
+    },
+    {
+      "title": "Sensex, Nifty fall as IT stocks slide, rising oil prices weigh",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equity-benchmarks-decline-as-it-stocks-rising-crude-oil-prices-weigh-on-market-sentiment/articleshow/135284084.cms",
+      "publishedAt": "Thu, 29 Oct 2026 05:51:16 +0530"
+    },
+    {
+      "title": "Sebi to review FPI rules, align with global norms",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-fpi-rules-align-with-global-norms/articleshow/135284367.cms",
+      "publishedAt": "Thu, 29 Oct 2026 05:49:59 +0530"
+    },
+    {
+      "title": "Fed holds rates, says data will guide next move",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-holds-rates-says-data-will-guide-next-move/articleshow/135284541.cms",
+      "publishedAt": "Thu, 29 Oct 2026 05:48:16 +0530"
+    },
     {
       "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
       "source": "Zerodha Pulse",
@@ -110,42 +163,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms",
       "publishedAt": "Thu, 29 Oct 2026 01:18:14 +0530"
-    },
-    {
-      "title": "Warsh-Led FOMC To Reduce Rate-Setting Meetings From 2027 Despite Inflation Fight: Five Key Highlights",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/us-fed-chair-kevin-warsh-changes-future-fomc-meetings-as-number-of-rate-setting-meetings-to-reduce-from-2027-12250913#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 01:16:58 +0530"
-    },
-    {
-      "title": "Disinvestment as key economic strategy",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/opinion/op-ed/disinvestment-as-key-economic-strategy/article71637709.ece",
-      "publishedAt": "Thu, 29 Oct 2026 01:14:06 +0530"
-    },
-    {
-      "title": "Wendy’s draws buyout bid as beef costs and burger rivalry weigh on business",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wendys-draws-buyout-bid-as-beef-costs-and-burger-rivalry-weigh-on-business/articleshow/135278283.cms",
-      "publishedAt": "Thu, 29 Oct 2026 00:31:05 +0530"
-    },
-    {
-      "title": "Jio Platforms soars on debut, recasting market capitalisation leaderboard",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/ipo/jio-platforms-soars-on-debut-recasting-market-capitalisation-leaderboard-126102801887_1.html",
-      "publishedAt": "Thu, 29 Oct 2026 00:27:17 +0530"
-    },
-    {
-      "title": "US Fed Meeting Live Updates: Warsh Highlights Changes In FOMC Schedule From Next Fall; FOMC Holds Interest Rates Steady",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 00:10:07 +0530"
-    },
-    {
-      "title": "PNB Housing Finance Q2 profit rises 6% to ₹617 cr, income grows 14%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/pnb-housing-finance-q2-profit-rises-6-to-617-cr-income-grows-14-126102801687_1.html",
-      "publishedAt": "Thu, 29 Oct 2026 00:09:32 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
@@ -193,7 +210,7 @@
       "title": "Stock Market Highlights: Sensex Ends 353 Points Lower, Nifty At 22,699; Broader Indices Outperform - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHTSAZwCQVVfeXFMTlpZX2h0X1ctREhmazVTME1YZGJaUllQNzJNeFpGcmlQTkVrS0NMaXU5TFREM3Bfb29HdEQ2bG1FWkdHOXBpLURBbk9JaWZQNHFEUmVFSGVmdlJVWFg4cEVoSWFtMlA5akRwMXlXVVNkOU1lSXc0MlBmeWF2QjBZQ3RSZHB4NS1aRXVGd2dUNV9qMTNHWm12amlzcVA1VHNYSGRuaTVfRUtfRXZocnJ5MVltcm9tVjZ5RmdEMzdBS1VUVG4wV1JIWFpzMDk3bGhFZm5lcGhaOGFqZzdZVmRHdGpYTXZMTUJsS3FqYXlnWjlMOXBIUVd1bnZwYU4ydkRkRkFTNWJiX3JNRFJiUzdYcEttMzhGcjNxTXNqZUQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:06:38 GMT"
+      "publishedAt": "Thu, 29 Oct 2026 00:46:30 GMT"
     },
     {
       "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -202,10 +219,10 @@
       "publishedAt": "Tue, 27 Oct 2026 01:30:37 GMT"
     },
     {
-      "title": "Stock Market Today Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXRPNF9Xa2o3bDRjLURmUDBlZ0FHb3hMNkNHa0xxekQzYjFUNUl5U3BWM3VRWkZqMmo3eE5ueHZaV2pEUVUyQWhsLUh5bFZiNnpsZ2FBNS15RU5pU2xFTjdwLWRHT0xBRGNvRnh0ZUtvMTBfZHJfcnBWVnhNdVp1SjNEZllGS0hwNDNpa09DOE85T2V4NUtHWkxSaFNVbmRQNnJDV3EycmdNUGF1ek8yWXNqTmMyY0dUSWpmTUxxUm4zVG1nUXfSAcoBQVVfeXFMTWVkUHhYRDdSRWROU29Nd09HSW5XbUd5bklVWUxBSHJqemhBcUktV29ZRVBpYU0xSURESWNReGU1TWFTZUdaeUFtMWhqT3VxUzJyem0wZVpFcVdfdDBnME13alVjSTZEVEZFR0lWOHBjSWd1bWRtR2ZkVFVaMlpMaFhEQTFTUnNkSkV2V251emlGN1ZpOG5WSUVsX0hmZzNUM1Y4ZC1UOUJJSVJQNXBBWGNwakd3bEw3N0hLanlVSUVrazBNc25lVXJrdw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 10:47:20 GMT"
+      "title": "How can US Fed FOMC meeting outcome impact Indian stock market? Sensex, Nifty to rise? Experts decode - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFZvM3NMeWFaZWdDOXJWX3Y3dnA3RjJmMUlZNjZUU3I4RlRwemFzWjNLc2VGSXIxOThvYXJmekVZMkJDNjkxbkV0SVNRWjI2ZGdsOFctY2Z3TExhbFFKUXlfUHZXUG5RNmVtVktMLUtLVjN1WmdmM2RvQUs5b0gwVlBhbkEwdlFkN1duNURLcGJ2Ni1fSVpCdXpORXlFR1JudmYyZHM4U3RsRFpuMUxtakh2MjFMLUJKMkRoSmZmU3lSRmxhWHpNLUlDS2E2c2VGbU5fV0d1dW5jc2tpb1VQWjQzYV9sRmh4Ykk5Vk5rLWR4UkZZZFdJNW1yNzDSAYICQVVfeXFMTXhyQlhLeEtxLW9oR0lQcHoxNTBaaTdqaDgyMWVYVXhJZXlteDZGUEcwUjlZd05rUXdSRC1yMmFZWkl6ZEZZRmFiZ0dBSFBMcTVzU3ZORG82VzZ6VGVseW0yZGZxR1M4V1VLTjI0aDJfU29EZ0NqT1VsaktXNTVoeXdPNlNxYlNpSWZpOXpTQzB4c1lrb2Y3T1F1MVp2T08xaW4zNTVobVpQTmlfdlRITThka2hhc1U5WTF5cXgtXzBZdXlYbGVPT0t5OTd1MXZnTUtMWUxVRUFwbWlPWmxTeFRKV0VvNkh6U3pEUVdBZ04wSzJaN0dEWUFsWnMteWpuZzB3?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 18:46:28 GMT"
     }
   ]
 }
