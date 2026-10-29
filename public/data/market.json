@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Jumps 900 Points to Reclaim 22,900 Level; Reliance Q2 and Banking News in Focus",
+  "headline": "Sensex Jumps Over 900 Points as Nifty Reclaims 22,900 Led by Financials and FMCG",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,28 @@
     "nextOpen": ""
   },
   "why": [
-    "FMCG and financial sectors led a broad-based rally in the previous session",
-    "Markets recovered sharply with the Nifty50 closing above the 22,900 mark",
-    "Expectations around the US Fed FOMC meeting outcome are influencing investor sentiment",
-    "Positive domestic economic outlook as the CEA highlights 2026 as a major inflection point"
+    "BSE Sensex soared over 900 points as market sentiment turned positive across sectors.",
+    "NSE Nifty50 reclaimed the key 22,900 mark driven by gains in FMCG and financial stocks.",
+    "Strong Q2 earnings updates from key companies boosted investor confidence.",
+    "Broader market indices showed resilience alongside global market cues."
   ],
   "whatHappening": [
-    "Reliance Industries is set to report Q2 earnings with mixed expectations for its retail and O2C segments",
-    "Bank of Baroda is involved in a legal dispute with B.R. Shetty over NMC Healthcare",
-    "PNB has addressed fraud-related claims at its Greater Noida branch through settlements",
-    "Global tech giants like Alphabet and Microsoft face market value shifts amid AI and bond issuance plans"
+    "Coal India reported a 53% jump in Q2 profit, while Capital Small Finance Bank profit rose 31%.",
+    "Government defended the IDBI Bank divestment process, affirming adherence to approved procedures.",
+    "PNB settled ₹43 lakh in claims amid fraud allegations at its Greater Noida branch.",
+    "Stocks like Dixon Tech, Syrma SGS, Sun Pharma, Wipro, and Trent are in key focus today."
   ],
   "stocksInNews": [
     {
-      "symbol": "PNB",
+      "symbol": "COALINDIA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "IDBIBANK",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -28,27 +36,43 @@
       ]
     },
     {
-      "symbol": "BANKBARODA",
+      "symbol": "PNB",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4
+        6
       ]
     },
     {
-      "symbol": "ICICIBANK",
+      "symbol": "DIXON",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        8
+        0
       ]
     },
     {
-      "symbol": "HYUNDAI",
+      "symbol": "SYRMA",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        8
+        0
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
       ]
     },
     {
@@ -56,57 +80,25 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "TATASTEEL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "SCHAEFFLER",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "L&TFH",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        9
+        0
       ]
     }
   ],
-  "summary": "The Indian stock market saw a significant rebound with the Sensex jumping over 900 points and Nifty reclaiming the 22,900 level. Investors are closely watching Reliance Industries' upcoming Q2 results and global cues from the US Fed FOMC meeting. Banking stocks like PNB and Bank of Baroda remain in focus due to legal developments and fraud-related settlements.",
-  "updatedAt": "2026-10-29T19:02:03.434Z",
+  "summary": "Indian equities experienced strong momentum as Sensex surged over 900 points and Nifty reclaimed 22,900.\nPositive quarterly financial earnings from prominent firms like Coal India supported the rally.\nKey individual stocks including Dixon Tech, Sun Pharma, and PNB remain under investor focus.",
+  "updatedAt": "2026-10-29T20:01:37.775Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-30",
   "articleKeys": [
+    "stocks to watch today dixon tech syrma sgs sun pharma wipro trent among others",
+    "q2 results highlights capital small finance bank profit rises 31 coal india profit jumps 53 indegene profit surges 10",
+    "govt defends idbi bank sale process says bestoffer round followed approved procedure",
     "govt volkswagen clash in court over record 12 billion tax dispute",
     "2026 an inflection point resembling 1991 cea v anantha nageswaran",
+    "kriti sanons no no no obsession scene with varun dhawan wins the internet check reactions",
     "pnb settles 43 lakh in claims amid greater noida branch fraud allegations",
     "alphabet loses over 500 billion in market value as ai hits google search",
-    "br shetty moves bombay high court seeking directions against bank of baroda in nmc healthcare case",
-    "alphabets ai risks deepen as filing reveals 98 billion in commitments beyond the 1 trillion spending",
-    "cognizant trims 2026 revenue growth guidance again amid macro uncertainty",
-    "microsoft eyes to raise at least 25 billion in first us bond since 2017",
-    "buy sell or hold icici bank hyundai motor trent tata steel schaeffler india and lt finance ask profit",
-    "reliance industries q2 preview will o2c strength offset retail and oil gas weakness",
+    "ikea to open city store in bengaluru in november offer over 5200 products",
+    "virat kohlis one8 merger boosts agilitas stake to 64 sportswear brand eyes rs 3000 crore",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
     "why is market rallying today sensex jumps 900 points nifty above 22900 6 key factors behind rs 5 lakh the economic times",
@@ -115,10 +107,28 @@
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
     "how can us fed fomc meeting outcome impact indian stock market sensex nifty to rise experts decode livemint",
     "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
-    "stock market highlights today bse sensex and nifty50 ends flat amid elevated crude oil prices the times of india",
-    "five reasons indias stock market is sinking even when its economy is growing bbc"
+    "five reasons indias stock market is sinking even when its economy is growing bbc",
+    "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
   ],
   "articles": [
+    {
+      "title": "Stocks To Watch Today: Dixon Tech, Syrma SGS, Sun Pharma, Wipro, Trent Among Others",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-dixon-tech-syrma-sgs-sun-pharma-wipro-trent-among-others-12256045#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 00:01:01 +0530"
+    },
+    {
+      "title": "Q2 Results Highlights: Capital Small Finance Bank Profit Rises 31%; Coal India Profit Jumps 53%;  Indegene Profit Surges 10%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-october-29-2026-trent-asian-paints-coal-india-among-140-companies-to-announce-earnings-today-12252424#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 23:42:43 +0530"
+    },
+    {
+      "title": "Govt Defends IDBI Bank Sale Process, Says Best-Offer Round Followed Approved Procedure",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/govt-defends-idbi-bank-sale-process-says-best-offer-round-followed-approved-procedure-12256008#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 23:40:43 +0530"
+    },
     {
       "title": "Govt, Volkswagen clash in court over record $1.2 billion tax dispute",
       "source": "Zerodha Pulse",
@@ -130,6 +140,12 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/india-news/cea-calls-for-economic-resilience-as-india-at-1991-like-inflection-point-126102901215_1.html",
       "publishedAt": "Thu, 29 Oct 2026 23:31:59 +0530"
+    },
+    {
+      "title": "Kriti Sanon's 'No No No' Obsession Scene With Varun Dhawan Wins The Internet — Check Reactions",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/kriti-sanons-no-no-no-obsession-scene-with-varun-dhawan-wins-the-internet-check-reactions-12255916#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 23:29:11 +0530"
     },
     {
       "title": "PNB settles ₹43 lakh in claims amid Greater Noida branch fraud allegations",
@@ -144,40 +160,16 @@
       "publishedAt": "Thu, 29 Oct 2026 23:27:03 +0530"
     },
     {
-      "title": "B.R. Shetty moves Bombay High Court seeking directions against Bank of Baroda in NMC Healthcare case",
+      "title": "IKEA To Open 'City Store' In Bengaluru In November, Offer Over 5,200 Products",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/dr-shetty-moves-bombay-high-court-seeking-directions-against-bank-of-baroda-in-nmc-healthcare-case/article71641349.ece",
-      "publishedAt": "Thu, 29 Oct 2026 23:15:18 +0530"
+      "link": "https://www.ndtvprofit.com/business/ikea-to-open-city-store-in-bengaluru-in-november-offer-over-5-200-products-12255967#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 23:26:56 +0530"
     },
     {
-      "title": "Alphabet’s AI risks deepen as filing reveals $98 billion in commitments beyond the $1 trillion spending",
+      "title": "Virat Kohli's One8 Merger Boosts Agilitas Stake To 6.4%; Sportswear Brand Eyes Rs 3,000 Crore",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/alphabets-ai-risks-deepen-as-filing-reveals-98-5-billion-in-commitments-beyond-the-1-trillion-spending/articleshow/135325480.cms",
-      "publishedAt": "Thu, 29 Oct 2026 23:07:58 +0530"
-    },
-    {
-      "title": "Cognizant trims 2026 revenue growth guidance again amid macro uncertainty",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/cognizant-trims-2026-revenue-growth-guidance-again-amid-macro-uncertainty-126102901592_1.html",
-      "publishedAt": "Thu, 29 Oct 2026 22:56:11 +0530"
-    },
-    {
-      "title": "Microsoft eyes to raise at least $25 billion in first US bond since 2017",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/microsoft-eyes-to-raise-at-least-25-billion-in-first-us-bond-since-2017-126102901884_1.html",
-      "publishedAt": "Thu, 29 Oct 2026 22:52:24 +0530"
-    },
-    {
-      "title": "Buy, Sell Or Hold: ICICI Bank, Hyundai Motor, Trent, Tata Steel, Schaeffler India And L&T Finance — Ask Profit",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-icici-bank-hyundai-motor-trent-tata-steel-schaeffler-india-and-l-t-finance-ask-profit-12255740#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 22:43:44 +0530"
-    },
-    {
-      "title": "Reliance Industries Q2 Preview: Will O2C Strength Offset Retail And Oil & Gas Weakness?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/reliance-industries-q2-preview-will-o2c-strength-offset-retail-and-oil-gas-weakness-12255726#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 22:29:01 +0530"
+      "link": "https://www.ndtvprofit.com/business/virat-kohlis-one8-merger-boosts-agilitas-stake-to-6-4-sportswear-brand-eyes-rs-3-000-crore-12255949#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 23:26:20 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
@@ -228,16 +220,16 @@
       "publishedAt": "Wed, 28 Oct 2026 01:45:48 GMT"
     },
     {
-      "title": "Stock Market Highlights Today: BSE Sensex and Nifty50 ends flat amid elevated crude oil prices - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNnk4ekZHSVdTdHNsTVZKbmdKaHFsWWdyQ2RjdS0zeFhTWFFYZTlHV0d2eHJCc1BPeFNJZEtrckxrUGVTUTJ0Z2pyRFI1YzM4eF85RFdtdG5KM28wZm9UMWV6b0dacHJfLXJheUZDeTJzNDlLUTNib2tsM1lZUjV3S0lfZjQ1VHQ4a204czgzWlNKaTVsU2Y0N1BBMUZ0bW1LdzJ3aUNZX2VNOXEyLVc1QUhiazE5d3RveUFrQ1BpWm5kZ2tlNkhyNldjaTVKWV81VWprd1hmc2tGUjRWZkJrT3l2WVU1MDVyNTJOSURsQU5UazVmb3hlcUl0c1BNSXpkaEY5UVVISkRvSWMtWmFBY2RYNElnNG91Q2xFbXhnOW5BblplMUNIOUhpUE5GMHo1NUt3ZNIBugJBVV95cUxPODhWREFHQ1JNaWppM21HUnZjV3liQXVCWjFGNlh2QXRBNUNpbC1hVXZPSGx3dnR2M3hzemdrcWpSbXdYZXpKdm1JNXZqZ1Y5ajNYeVJnczFKalRpWVR0OXVITkJLekgwNU1DcVVNNFRKaHNKLTQ0b0NXM2NsbGE1WHliYjRnOEhyVHVWWVNGZllELU9TMkV6Z2oxU0JiSUlKSVNYRWdtTk4xSG1kSXlONU9wcHd6TndPaTRCQ0xteG5mLTZTbUNHU3lMaWt5dnNqbXdzYnZucjBCSXFWLWZmTUs2ZmJzVmhVTTA0MzR4ZGRGQ1Y0U2NVU1pybDZaQ0RWd3diVzRsWjBhWW9rQ3BXNk1XT0pBRVl5YjlPM0U5U0tVMWVRd0RLbm0xMTI4Qy1GZWNrcks4X203Zw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 11:05:09 GMT"
-    },
-    {
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbGZqMHp2VC02aEFPMWpFUDdkcGlUbGVqSHFVUTdtem9scXhMSTdwRHlQNWxyeGFjd19oVUJBLWtEWXA4bGVSVFlHY3BMTzdhc2RlekgyWmpWVFBYdThfNGJqT05SREFmb2NVT3hsZ0IxSWlVSXVWXzhyeUVQYWlWQWV5OUlmdDA1dldGM1JQdjBSZEtackdibmVLVEFwdWo3M0lha3hvdTNaNEZYTzhXQ01ic3lPMlFjSWFIRHJDeGlTTVR5dUc5S0RvaW85aG82T2xwdnFoSy1yTDRWNnloQ2UxaUpWbW9xYTFHNGw4dDJZMWoxVEUtZER0NlFQa2p2NHZQddIBigJBVV95cUxOYWFiZ291M3RVdE1Oc3JKM05Nd0d0LTM3dWFHS2laLXF6M1ltczBYWlh0SUFtejJZVU9lZlM1R0FWcldBZGRvT2hyWjlBZkl0QV8wUTFqN2J3THNzUGtYekI3MU5oRUVTbklKMXp4Q3NZQUJUaE4zaUJvVXFCRDZiXzN2NTZUWlRQdkRpNWFFdDdpTi0wSTR6ejhNMXBVQWNoMFI0MzVCckFaeklBMUZINEZ6czM0YjdpRjBId1lfVXFqYWszN0tvRy1leWhDZEJZSDBQa2lzdUtIZjNqVHpFcTBJZFZRbzJTMVZkS3BKVUVERWdhWUhlQkdUWGlKOHhuWXpqRDFTbnFHUQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:15:36 GMT"
     }
   ]
 }
