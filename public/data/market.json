@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Jumps Over 900 Points as Nifty Reclaims 22,900 Led by Financials and FMCG",
+  "headline": "Sensex Jumps 900 Points as Nifty Reclaims 22,900 Led by FMCG and Financials",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "BSE Sensex soared over 900 points as market sentiment turned positive across sectors.",
-    "NSE Nifty50 reclaimed the key 22,900 mark driven by gains in FMCG and financial stocks.",
-    "Strong Q2 earnings updates from key companies boosted investor confidence.",
-    "Broader market indices showed resilience alongside global market cues."
+    "Strong rally in FMCG and financial stocks boosted benchmark market indices.",
+    "BSE Sensex jumped over 900 points while NSE Nifty50 reclaimed the 22,900 level.",
+    "Positive Q2 earnings reports provided strong support to key individual stocks.",
+    "Markets rebounded strongly following previous sessions of volatility and elevated crude oil prices."
   ],
   "whatHappening": [
-    "Coal India reported a 53% jump in Q2 profit, while Capital Small Finance Bank profit rose 31%.",
-    "Government defended the IDBI Bank divestment process, affirming adherence to approved procedures.",
-    "PNB settled ₹43 lakh in claims amid fraud allegations at its Greater Noida branch.",
-    "Stocks like Dixon Tech, Syrma SGS, Sun Pharma, Wipro, and Trent are in key focus today."
+    "Coal India reported a 53% surge in Q2 profit, while Capital Small Finance Bank profit rose 31%.",
+    "PNB settled ₹43 lakh in claims following fraud allegations at its Greater Noida branch.",
+    "The government defended the IDBI Bank sale process, stating best-offer procedures were strictly followed.",
+    "Stocks including Dixon Tech, Sun Pharma, Wipro, and Trent are in focus for trading."
   ],
   "stocksInNews": [
     {
@@ -28,11 +28,19 @@
       ]
     },
     {
-      "symbol": "IDBIBANK",
-      "sentiment": "Neutral",
+      "symbol": "CAPITALSFB",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        2
+        1
+      ]
+    },
+    {
+      "symbol": "INDEGENE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        1
       ]
     },
     {
@@ -44,15 +52,15 @@
       ]
     },
     {
-      "symbol": "DIXON",
+      "symbol": "IDBIBANK",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        2
       ]
     },
     {
-      "symbol": "SYRMA",
+      "symbol": "DIXON",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -84,8 +92,8 @@
       ]
     }
   ],
-  "summary": "Indian equities experienced strong momentum as Sensex surged over 900 points and Nifty reclaimed 22,900.\nPositive quarterly financial earnings from prominent firms like Coal India supported the rally.\nKey individual stocks including Dixon Tech, Sun Pharma, and PNB remain under investor focus.",
-  "updatedAt": "2026-10-29T20:01:37.775Z",
+  "summary": "Indian markets staged a strong rally as the Sensex jumped over 900 points and Nifty reclaimed 22,900, led by FMCG and financial stocks. Solid Q2 corporate earnings from Coal India and Capital Small Finance Bank added to the bullish sentiment. Stocks like PNB, IDBI Bank, Dixon Tech, and Sun Pharma remain actively in news due to fresh developments and quarterly updates.",
+  "updatedAt": "2026-10-29T20:31:23.244Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-30",
   "articleKeys": [
@@ -105,10 +113,10 @@
     "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
     "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
+    "stock market highlights today bse sensex and nifty50 ends flat amid elevated crude oil prices the times of india",
     "how can us fed fomc meeting outcome impact indian stock market sensex nifty to rise experts decode livemint",
     "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
-    "five reasons indias stock market is sinking even when its economy is growing bbc",
-    "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
+    "stock market close sensex falls for 4th day ends 126 pts lower nifty at 22600 vix rises 6 business standard"
   ],
   "articles": [
     {
@@ -208,6 +216,12 @@
       "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
     },
     {
+      "title": "Stock Market Highlights Today: BSE Sensex and Nifty50 ends flat amid elevated crude oil prices - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNnk4ekZHSVdTdHNsTVZKbmdKaHFsWWdyQ2RjdS0zeFhTWFFYZTlHV0d2eHJCc1BPeFNJZEtrckxrUGVTUTJ0Z2pyRFI1YzM4eF85RFdtdG5KM28wZm9UMWV6b0dacHJfLXJheUZDeTJzNDlLUTNib2tsM1lZUjV3S0lfZjQ1VHQ4a204czgzWlNKaTVsU2Y0N1BBMUZ0bW1LdzJ3aUNZX2VNOXEyLVc1QUhiazE5d3RveUFrQ1BpWm5kZ2tlNkhyNldjaTVKWV81VWprd1hmc2tGUjRWZkJrT3l2WVU1MDVyNTJOSURsQU5UazVmb3hlcUl0c1BNSXpkaEY5UVVISkRvSWMtWmFBY2RYNElnNG91Q2xFbXhnOW5BblplMUNIOUhpUE5GMHo1NUt3ZNIBugJBVV95cUxPODhWREFHQ1JNaWppM21HUnZjV3liQXVCWjFGNlh2QXRBNUNpbC1hVXZPSGx3dnR2M3hzemdrcWpSbXdYZXpKdm1JNXZqZ1Y5ajNYeVJnczFKalRpWVR0OXVITkJLekgwNU1DcVVNNFRKaHNKLTQ0b0NXM2NsbGE1WHliYjRnOEhyVHVWWVNGZllELU9TMkV6Z2oxU0JiSUlKSVNYRWdtTk4xSG1kSXlONU9wcHd6TndPaTRCQ0xteG5mLTZTbUNHU3lMaWt5dnNqbXdzYnZucjBCSXFWLWZmTUs2ZmJzVmhVTTA0MzR4ZGRGQ1Y0U2NVU1pybDZaQ0RWd3diVzRsWjBhWW9rQ3BXNk1XT0pBRVl5YjlPM0U5U0tVMWVRd0RLbm0xMTI4Qy1GZWNrcks4X203Zw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 11:05:09 GMT"
+    },
+    {
       "title": "How can US Fed FOMC meeting outcome impact Indian stock market? Sensex, Nifty to rise? Experts decode - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFZvM3NMeWFaZWdDOXJWX3Y3dnA3RjJmMUlZNjZUU3I4RlRwemFzWjNLc2VGSXIxOThvYXJmekVZMkJDNjkxbkV0SVNRWjI2ZGdsOFctY2Z3TExhbFFKUXlfUHZXUG5RNmVtVktMLUtLVjN1WmdmM2RvQUs5b0gwVlBhbkEwdlFkN1duNURLcGJ2Ni1fSVpCdXpORXlFR1JudmYyZHM4U3RsRFpuMUxtakh2MjFMLUJKMkRoSmZmU3lSRmxhWHpNLUlDS2E2c2VGbU5fV0d1dW5jc2tpb1VQWjQzYV9sRmh4Ykk5Vk5rLWR4UkZZZFdJNW1yNzDSAYICQVVfeXFMTXhyQlhLeEtxLW9oR0lQcHoxNTBaaTdqaDgyMWVYVXhJZXlteDZGUEcwUjlZd05rUXdSRC1yMmFZWkl6ZEZZRmFiZ0dBSFBMcTVzU3ZORG82VzZ6VGVseW0yZGZxR1M4V1VLTjI0aDJfU29EZ0NqT1VsaktXNTVoeXdPNlNxYlNpSWZpOXpTQzB4c1lrb2Y3T1F1MVp2T08xaW4zNTVobVpQTmlfdlRITThka2hhc1U5WTF5cXgtXzBZdXlYbGVPT0t5OTd1MXZnTUtMWUxVRUFwbWlPWmxTeFRKV0VvNkh6U3pEUVdBZ04wSzJaN0dEWUFsWnMteWpuZzB3?oc=5",
@@ -220,16 +234,10 @@
       "publishedAt": "Wed, 28 Oct 2026 01:45:48 GMT"
     },
     {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbGZqMHp2VC02aEFPMWpFUDdkcGlUbGVqSHFVUTdtem9scXhMSTdwRHlQNWxyeGFjd19oVUJBLWtEWXA4bGVSVFlHY3BMTzdhc2RlekgyWmpWVFBYdThfNGJqT05SREFmb2NVT3hsZ0IxSWlVSXVWXzhyeUVQYWlWQWV5OUlmdDA1dldGM1JQdjBSZEtackdibmVLVEFwdWo3M0lha3hvdTNaNEZYTzhXQ01ic3lPMlFjSWFIRHJDeGlTTVR5dUc5S0RvaW85aG82T2xwdnFoSy1yTDRWNnloQ2UxaUpWbW9xYTFHNGw4dDJZMWoxVEUtZER0NlFQa2p2NHZQddIBigJBVV95cUxOYWFiZ291M3RVdE1Oc3JKM05Nd0d0LTM3dWFHS2laLXF6M1ltczBYWlh0SUFtejJZVU9lZlM1R0FWcldBZGRvT2hyWjlBZkl0QV8wUTFqN2J3THNzUGtYekI3MU5oRUVTbklKMXp4Q3NZQUJUaE4zaUJvVXFCRDZiXzN2NTZUWlRQdkRpNWFFdDdpTi0wSTR6ejhNMXBVQWNoMFI0MzVCckFaeklBMUZINEZ6czM0YjdpRjBId1lfVXFqYWszN0tvRy1leWhDZEJZSDBQa2lzdUtIZjNqVHpFcTBJZFZRbzJTMVZkS3BKVUVERWdhWUhlQkdUWGlKOHhuWXpqRDFTbnFHUQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:15:36 GMT"
+      "title": "Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 6% - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVFFeGltOU5ULVFVeVBYQmUzRGpXN3hDRjN3VXRoeDFGWTVsV1RqME43WkRnV2l4OExfTndoWjF6UlpIYWJrYnh0V0NGXzZJeWk0d0NrTF9YbG0tbVJ0dTVyUFhlQnVNc0tBVWhCcjdkWjZTWTNhdFdwVEZRM2gybGt4UVNkN1k5N1ZpWE16dFNEX0I0WEdXWHp5Z0VabmdDX2ZMbzZUTEE1b3NSWC0xbGlucGE3UG5zQjdWdnI2MnlWWFc3d0FFT0NLcUR0QjBuMmhWZ3VDbGtQZGtSTGQyem9MRUJWbDZLejB4VEgzRGdhMVZHZlppTzBGWHplU0pLT2plaEM4VVjSAY4CQVVfeXFMTlFIS1BXeGVHaWtoYTdma0N6aGk0bXVXUG82RjdzclBtejdBRHhJY0NsdVl1bWJBUGhCaTZYanY5ZDVIOENxckgtSHlzTDYxdVAweWpRakwwYmh2eGlmaXJ0YXNXS1JxUGxoV2xMWjhaU3FJblBjQm10ZTZ1enJDbDd0RndDd2F4Znc4WWtKTGNsd0dIeUowMktXUHdaQ3JBLV9EdXg3VGVYbW5SN1p1QVdxalJGTFljNkVJeWVFdnUwbE56YkpaTG9tQUxEREN3TzdlX21jay1jVHFmcHhPOHdwVThTbmpYdkQtdVRmMjBxV0NZVGVYeHFRbnpWcjRwQXY4RGtTQUxuSGhkaXpn?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 10:22:05 GMT"
     }
   ]
 }
