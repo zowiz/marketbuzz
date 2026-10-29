@@ -1,5 +1,5 @@
 {
-  "headline": "Indian markets trade cautiously around 22,700 while Adani Ports rises post Q2 results",
+  "headline": "Sensex jumps 600 points as Reliance buying and foreign inflows drive market gains",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,75 @@
     "nextOpen": ""
   },
   "why": [
-    "Heavyweight stocks like Infosys and Reliance dropped 3% each, putting pressure on benchmark indices.",
-    "BSE Sensex ended lower by over 350 points with Nifty closing below the key 22,700 level.",
-    "Elevated crude oil prices and European gas price spikes added to global economic concerns.",
-    "Investors evaluated outcomes from the US Fed FOMC meeting and foreign investor capital flows."
+    "Heavy buying in Reliance Industries shares",
+    "Significant inflows from foreign institutional investors",
+    "Rally in IT and PSU bank stocks",
+    "Positive momentum following Jio Platforms' stellar market debut"
   ],
   "whatHappening": [
-    "Adani Ports shares jumped 3% after Q2 results as Jefferies and Nomura raised target prices.",
-    "Largecaps held up relative strength even as the broader market faced sliding pressure.",
-    "Antala Industries SME IPO opened for subscription today.",
-    "Potential discussions around LTCG tax cuts are seen as key to reviving FII inflows into Indian equities."
+    "Sensex jumped over 600 points while Nifty approached the 22,900 mark",
+    "eClerx Services shares plunged more than 12% after reporting Q2 results",
+    "Jio Platforms' market capitalization crossed Rs 13.5 lakh crore",
+    "The Indian Rupee appreciated 11 paise to 95.17 against the U.S. dollar"
   ],
   "stocksInNews": [
     {
-      "symbol": "ADANIPORTS",
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/7 sources",
+      "articleIds": [
+        0,
+        3,
+        16
+      ]
+    },
+    {
+      "symbol": "ECLERX",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "JIOPLATFORM",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/7 sources",
+      "articleIds": [
+        5,
+        17
+      ]
+    },
+    {
+      "symbol": "ZOMATO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "BLS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "HYUNDAI",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
         8
+      ]
+    },
+    {
+      "symbol": "EAAA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        4
       ]
     },
     {
@@ -32,104 +83,96 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        13
-      ]
-    },
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        13
+        16
       ]
     }
   ],
-  "summary": "Indian benchmark indices faced downward pressure as Sensex dropped over 350 points and Nifty slipped below 22,700, led by losses in Reliance and Infosys.\nIn contrast, Adani Ports gained 3% post Q2 earnings boosted by target price upgrades from major brokerages.\nInvestors remain focused on global central bank cues, energy prices, and largecap resilience amid broader market volatility.",
-  "updatedAt": "2026-10-29T05:31:19.740Z",
+  "summary": "The Indian market surged on October 29, with the Sensex gaining 600 points driven by Reliance buying and foreign inflows. Jio Platforms continued its strong performance post-debut, while eClerx Services shares tumbled 12% after its Q2 earnings report. The rupee also strengthened against the dollar amid a broader rally in IT and PSU bank sectors.",
+  "updatedAt": "2026-10-29T06:02:40.158Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
-    "global market chinas yuan hits fouryear high against dollar after fed holds rates",
-    "potential ltcg tax cut could revive fiis india bet says jefferies which stocks may benefit most",
-    "charlie munger skipped insurance on his mansion said all intelligent people do it my way what did he mean",
-    "niftys early comeback signal why largecaps are holding up as broader market slides",
-    "global market samsung electronics posts record 805 billion quarterly operating profit on ai chip boom",
-    "global market south korean shares fall 2 as samsung electronics slides after earnings",
-    "antala industries sme ipo opens today check price band and key details",
-    "global market japans nikkei rises on advantest forecast samsung slump caps gains",
-    "adani ports shares rise 3 after q2 results why did jefferies and nomura raise target prices",
-    "euro 100 europe gas prices spike to 2022 crisis levels households industry brace for impact",
+    "sensex nifty rise in early trade on reliance buying foreign inflows",
+    "global market malaysias asia onehealthcare files draft prospectus for ipo of up to 438 billion shares",
+    "eclerx services share price slips over 12 after q2 results",
+    "why is market rising today sensex jumps 600 points nifty nears 22900 6 key factors behind rs 3 lakh crore gains",
+    "eaaa india alternatives ipo allotment likely today check gmp and how to check allotment",
+    "jio platforms extends gains after stellar dstreet debut market cap tops rs 135 lakh crore",
+    "bls polymers ipo day 3 issue subscribed 4247 times with gmp at 34 check key details",
+    "rupee rises 11 paise to 9517 against us dollar in early trade",
+    "hyundai bayon launched at rs 999 lakh check on road prices in 7 cities",
+    "a linkedin user suggested zomatos mehmaan mode heres what deepinder goyal responded",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
+    "stock market live updates sensex climbs 500 pts nifty above 22800 it psu bank stocks rally the economic times",
     "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
     "why is stock market falling today sensex drops over 800 points nifty slips below 22600 key reasons explained ndtv profit",
     "stock market highlights today bse sensex and nifty50 ends flat amid elevated crude oil prices the times of india",
+    "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
     "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
     "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
-    "how can us fed fomc meeting outcome impact indian stock market sensex nifty to rise experts decode livemint",
-    "five reasons indias stock market is sinking even when its economy is growing bbc"
+    "stock market today highlights october 27 stock markets end largely unchanged amid elevated crude oil prices selling in bank stocks businessline"
   ],
   "articles": [
     {
-      "title": "Global Market: China’s yuan hits four-year high against dollar after Fed holds rates",
+      "title": "Sensex, Nifty rise in early trade on Reliance buying, foreign inflows",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-four-year-high-against-dollar-after-fed-holds-rates/articleshow/135290040.cms",
-      "publishedAt": "Thu, 29 Oct 2026 10:02:38 +0530"
+      "link": "https://www.thehindu.com/business/markets/sensex-nifty-rise-in-early-trade-on-reliance-buying-foreign-inflows/article71639074.ece",
+      "publishedAt": "Thu, 29 Oct 2026 11:12:55 +0530"
     },
     {
-      "title": "Potential LTCG tax cut could revive FIIs’ India bet, says Jefferies: Which stocks may benefit most?",
+      "title": "Global Market: Malaysia's Asia OneHealthcare files draft prospectus for IPO of up to 4.38 billion shares",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/potential-ltcg-tax-cut-could-revive-fiis-india-bet-says-jefferies-which-stocks-may-benefit-most/articleshow/135290083.cms",
-      "publishedAt": "Thu, 29 Oct 2026 10:02:23 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-malaysias-asia-onehealthcare-files-draft-prospectus-for-ipo-of-up-to-4-38-billion-shares/articleshow/135291799.cms",
+      "publishedAt": "Thu, 29 Oct 2026 11:03:58 +0530"
     },
     {
-      "title": "Charlie Munger skipped insurance on his mansion, said all intelligent people ‘do it my way’. What did he mean?",
+      "title": "eClerx Services Share Price Slips Over 12% After Q2 Results",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/charlie-munger-skipped-insurance-on-his-mansion-said-all-intelligent-people-do-it-my-way-what-did-he-mean/articleshow/135289975.cms",
-      "publishedAt": "Thu, 29 Oct 2026 09:59:08 +0530"
+      "link": "https://www.ndtvprofit.com/markets/eclerx-services-share-price-slips-over-12-after-q2-results-12252104#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 11:02:21 +0530"
     },
     {
-      "title": "Nifty’s early comeback signal: Why largecaps are holding up as broader market slides",
+      "title": "Why is market rising today? Sensex jumps 600 points, Nifty nears 22,900. 6 key factors behind Rs 3 lakh crore gains",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/niftys-early-comeback-signal-why-largecaps-are-holding-up-as-broader-market-slides/articleshow/135289777.cms",
-      "publishedAt": "Thu, 29 Oct 2026 09:57:05 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-600-points-nifty-nears-22900-6-key-factors-behind-rs-3-lakh-crore-gains/articleshow/135291603.cms",
+      "publishedAt": "Thu, 29 Oct 2026 11:01:22 +0530"
     },
     {
-      "title": "Global Market: Samsung Electronics posts record $80.5 billion quarterly operating profit on AI chip boom",
+      "title": "EAAA India Alternatives IPO allotment likely today: Check GMP and how to check allotment",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-samsung-electronics-posts-record-80-5-billion-quarterly-operating-profit-on-ai-chip-boom/articleshow/135289961.cms",
-      "publishedAt": "Thu, 29 Oct 2026 09:56:38 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-ipo-allotment-likely-today-check-gmp-and-how-to-check-allotment/articleshow/135291598.cms",
+      "publishedAt": "Thu, 29 Oct 2026 10:58:20 +0530"
     },
     {
-      "title": "Global Market: South Korean shares fall 2% as Samsung Electronics slides after earnings",
+      "title": "Jio Platforms Extends Gains After Stellar D-Street Debut; Market Cap Tops Rs 13.5 Lakh Crore",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-2-as-samsung-electronics-slides-after-earnings/articleshow/135289785.cms",
-      "publishedAt": "Thu, 29 Oct 2026 09:52:08 +0530"
+      "link": "https://www.ndtvprofit.com/markets/jio-platforms-share-price-today-extends-gains-after-stellar-d-street-debut-ipo-listing-market-cap-tops-rs-13-5-lakh-crore-bharti-airtel-sensex-today-12252071#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 10:57:34 +0530"
     },
     {
-      "title": "Antala Industries SME IPO opens today: Check price band and key details",
+      "title": "BLS Polymers IPO Day 3: Issue subscribed 42.47 times with GMP at 34%. Check key details",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/antala-industries-sme-ipo-opens-today-check-price-band-and-key-details/articleshow/135289593.cms",
-      "publishedAt": "Thu, 29 Oct 2026 09:48:32 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/bls-polymers-ipo-day-3-issue-subscribed-42-47-times-with-gmp-at-34-check-key-details/articleshow/135291657.cms",
+      "publishedAt": "Thu, 29 Oct 2026 10:57:14 +0530"
     },
     {
-      "title": "Global Market: Japan's Nikkei rises on Advantest forecast; Samsung slump caps gains",
+      "title": "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-on-advantest-forecast-samsung-slump-caps-gains/articleshow/135289677.cms",
-      "publishedAt": "Thu, 29 Oct 2026 09:48:20 +0530"
+      "link": "https://www.thehindu.com/business/markets/rupee-rises-11-paise-against-us-dollar-in-early-trade-on-thursday/article71639047.ece",
+      "publishedAt": "Thu, 29 Oct 2026 10:52:33 +0530"
     },
     {
-      "title": "Adani Ports shares rise 3% after Q2 results. Why did Jefferies and Nomura raise target prices?",
+      "title": "Hyundai Bayon Launched At Rs 9.99 Lakh: Check On Road Prices In 7 Cities",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-ports-shares-rise-3-after-q2-results-why-did-jefferies-and-nomura-raise-target-prices/articleshow/135289609.cms",
-      "publishedAt": "Thu, 29 Oct 2026 09:45:40 +0530"
+      "link": "https://www.ndtvprofit.com/lifestyle/hyundai-bayon-launched-at-rs-9-99-lakh-check-on-road-prices-in-7-cities-12252033#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 10:49:16 +0530"
     },
     {
-      "title": "Euro 100! Europe Gas Prices Spike To 2022 Crisis Levels: Households, Industry Brace For Impact",
+      "title": "A LinkedIn User Suggested Zomato's 'Mehmaan Mode'. Here's What Deepinder Goyal Responded",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/euro-100-europe-gas-prices-spike-to-2022-crisis-levels-households-industry-brace-for-impact-12251799#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 09:39:11 +0530"
+      "link": "https://www.ndtvprofit.com/business/a-linkedin-user-suggested-zomatos-mehmaan-mode-heres-what-deepinder-goyal-responded-12252026#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 10:41:37 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
@@ -144,16 +187,16 @@
       "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
     },
     {
+      "title": "Stock Market Live Updates: Sensex climbs 500 pts, Nifty above 22,800; IT, PSU bank stocks rally - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY090MXJYMC1pb0lhbXpmdW5hTHh0TXgyWlBLNTdGQUR0d2FXMHN1WWhLdEh4emd6RE1kY2RheTg0NFBXbWZPSFNPZno0TmJyQ08xVmREYWFwR1k4UGh5MFNMNERDZEhWWVBzd3cxR3BUMUl2cUlfczcyNHUzeVRWMnI3UmgtVEliYllFcWxXZmZrVXhJM2hQSmYyeTZjN09vYVV1QnNDcFNmTHk1LXlkVGo1b2VpUElRd1FnUTdabTFWSTRKUDlPSTNad0lXVUhqVGhVOVlHa1VnRFhyM2tvWEdvTHl5UEVod05QSW9IY2dHVXRIb0VpOFBoVjJoc09WeXNJdHYxT1JmbU1QUTdYWUQ3bWHSAZoCQVVfeXFMTXpoUnZfNkh5Q0d5ZjlEangxTXJUWGlwVWFMSVJFR2FUMUFuX1NwaWRmVGdjY01xZlRRbHE1RDgtenlDdHFTbEM5WktEMDNISmZhcy1iSFF2MzBsTXZhVXJDTzBES3ZOcW5ZOUtSTEs2aVdMVzZNTzRCVklPSTlSbVhaMzFhQlctT2stVnpDeVY3a2tWZUdxTVEyeW4tcms4dm5NWW5ZR0tmY2JfcWN1VlZ2QzZiUWlkcl9FNmd0Q2NENTJMSHdFSy1ndnN3QTZvZ3RaUFBXb1Jxc0dVdVFscFhuUFRqWEFNXzlMbDVvZzNaaW00VzgwNHUyTFU4QW1OZEYya000YkJZTWVHV3FxZ0tUZHVMUFdfb2xB?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 05:49:00 GMT"
+    },
+    {
       "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbGZqMHp2VC02aEFPMWpFUDdkcGlUbGVqSHFVUTdtem9scXhMSTdwRHlQNWxyeGFjd19oVUJBLWtEWXA4bGVSVFlHY3BMTzdhc2RlekgyWmpWVFBYdThfNGJqT05SREFmb2NVT3hsZ0IxSWlVSXVWXzhyeUVQYWlWQWV5OUlmdDA1dldGM1JQdjBSZEtackdibmVLVEFwdWo3M0lha3hvdTNaNEZYTzhXQ01ic3lPMlFjSWFIRHJDeGlTTVR5dUc5S0RvaW85aG82T2xwdnFoSy1yTDRWNnloQ2UxaUpWbW9xYTFHNGw4dDJZMWoxVEUtZER0NlFQa2p2NHZQddIBigJBVV95cUxOYWFiZ291M3RVdE1Oc3JKM05Nd0d0LTM3dWFHS2laLXF6M1ltczBYWlh0SUFtejJZVU9lZlM1R0FWcldBZGRvT2hyWjlBZkl0QV8wUTFqN2J3THNzUGtYekI3MU5oRUVTbklKMXp4Q3NZQUJUaE4zaUJvVXFCRDZiXzN2NTZUWlRQdkRpNWFFdDdpTi0wSTR6ejhNMXBVQWNoMFI0MzVCckFaeklBMUZINEZ6czM0YjdpRjBId1lfVXFqYWszN0tvRy1leWhDZEJZSDBQa2lzdUtIZjNqVHpFcTBJZFZRbzJTMVZkS3BKVUVERWdhWUhlQkdUWGlKOHhuWXpqRDFTbnFHUQ?oc=5",
       "publishedAt": "Thu, 29 Oct 2026 01:15:36 GMT"
-    },
-    {
-      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 352 pts lower, Nifty below 22,700; Infosys, RIL drop 3% each - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUEZvTHY0YzFqQmJJWlZOQjlUOS1taG4zMTNMSUpKYWRQTjFNdDBkbF9kVVBXdGxwb2FlYXVYcXA0WU56MjFpUHpZbE5laDJKYlBPa0ZEWUc2T3l2Z3hHVXZkVEh4SDcxSUcxVURLYWRvelBUNGN0T1dncEwwTE9FMWxJVTZqV2VkOF90emlrTmV5VEVyVXN4NlF1M28zTkJRYmRJWnlKaDI2Q3ZHLWZWcTIxeHRQdmpuYjdCRVFnNGRkR0Zlb3ZqdUhmOFZtS2FFWHU3QTQ3RHJSRjVTSk9vZDJEUUZ1Q1AyZkM3eEJ6dGdJTXdDaVRiVVVDMUU0Q1J3b1o4V1RNVUJIeHUzZWZUOdIBlgJBVV95cUxPNEZvSjdwRXFNTFF3TTJRc2VTN3NIMUc4cFNFdWx0X0M1bGRkcmt6RWxfZndkVlpKR2hhZU1fMTU1czBPLVRyS2g5MEUySE5IZWR0WjJaVTFxNGp3bHJHTVNsRkttemJKNkZxSUpuUWtmR2VjS013TXpueWZZeEVuRVI1RHItemRuQlpjVDR6NmJPSXpjeUNZWlJhYU1lVjV0WWxnZ3N2Z3Zlb0dsVHN1dU0wejRyZ1ltMlJpZXB1YWZzMGVLb2wwMnlCamlvM3o4VFVuZ0RTVXpWUFk3dUkxUFZZdktfZnpEV1lyY0hlZVpoZGtZc2xONUtRdkdteUctNXR5a0FrYUhXMUN4aEFaMFg2SHFrdw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:05:18 GMT"
     },
     {
       "title": "Why Is Stock Market Falling Today? Sensex Drops Over 800 Points, Nifty Slips Below 22,600; Key Reasons Explained - NDTV Profit",
@@ -168,6 +211,12 @@
       "publishedAt": "Tue, 27 Oct 2026 11:05:09 GMT"
     },
     {
+      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 352 pts lower, Nifty below 22,700; Infosys, RIL drop 3% each - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUEZvTHY0YzFqQmJJWlZOQjlUOS1taG4zMTNMSUpKYWRQTjFNdDBkbF9kVVBXdGxwb2FlYXVYcXA0WU56MjFpUHpZbE5laDJKYlBPa0ZEWUc2T3l2Z3hHVXZkVEh4SDcxSUcxVURLYWRvelBUNGN0T1dncEwwTE9FMWxJVTZqV2VkOF90emlrTmV5VEVyVXN4NlF1M28zTkJRYmRJWnlKaDI2Q3ZHLWZWcTIxeHRQdmpuYjdCRVFnNGRkR0Zlb3ZqdUhmOFZtS2FFWHU3QTQ3RHJSRjVTSk9vZDJEUUZ1Q1AyZkM3eEJ6dGdJTXdDaVRiVVVDMUU0Q1J3b1o4V1RNVUJIeHUzZWZUOdIBlgJBVV95cUxPNEZvSjdwRXFNTFF3TTJRc2VTN3NIMUc4cFNFdWx0X0M1bGRkcmt6RWxfZndkVlpKR2hhZU1fMTU1czBPLVRyS2g5MEUySE5IZWR0WjJaVTFxNGp3bHJHTVNsRkttemJKNkZxSUpuUWtmR2VjS013TXpueWZZeEVuRVI1RHItemRuQlpjVDR6NmJPSXpjeUNZWlJhYU1lVjV0WWxnZ3N2Z3Zlb0dsVHN1dU0wejRyZ1ltMlJpZXB1YWZzMGVLb2wwMnlCamlvM3o4VFVuZ0RTVXpWUFk3dUkxUFZZdktfZnpEV1lyY0hlZVpoZGtZc2xONUtRdkdteUctNXR5a0FrYUhXMUN4aEFaMFg2SHFrdw?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 10:05:18 GMT"
+    },
+    {
       "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbGQxcFFLUDN1THJXOVNaMEsydnpFQWJjQVZRWW9jNGJXczJxZDNpdElrOGx3bFluNFFCWVgyM1RQR0RUWFgwTGFCc3FaLTlBcTVGQ2JDRUNCVll4cFJ0V2pxVGw1TkJaTjZqSjE2VGZHZXdqR19talF2N085OGJBYjF3M1lCaWNlZjFLRGtaNUVBVHpIWi1mNXJaTE9iZVREdTkyQ0djMWNGdGNaZkV0WGlqOS1HTUJUcWRpSDZYTkc0VUVya1JBSEVzLUlibDhZUjJfS0JrdVdWTGJTYWJpTXVWeWRNdU8tSXZHQ25ybmtZQzlhR21mNzl5TlBtbzhNRnJmTFcxN2VWLUdJNEp4Q9IBlgJBVV95cUxONVlXWWJCbVhCZDBjM0ZhUDlEcnBWNVJUdTNGNjJXeXV4NlRpY2lwQlNmVFM5dDlwdVVEejdRX2MyZWFvbG1LLUJ1VGc1Zy1KamlfWHk3SHRiMlAtM0VBUjY2MHIwVzZyR3Jyc3ZMNnkxSTlLTUNHQ3hRNHdJRi00UEZ5TDNrS2p4UGVxUFhyX19RLUZSOXd1c2NzSm5LczdpRkY1UnFzRks3cjdBX2NWVXhVSkZoaXNfOGxvMXQwX3p3VVN2M2tVZTZmRDIyZ1FvN0tfTWF4LUt1ZXI2RTZkTGY1Zndpdkw2Y3djeUdNT2pwOU44Q1JXWHM0UkV0bEdTVWpaVTZ3SXA0SzZSTnYtWjBLMUxldw?oc=5",
@@ -180,16 +229,10 @@
       "publishedAt": "Thu, 29 Oct 2026 00:46:30 GMT"
     },
     {
-      "title": "How can US Fed FOMC meeting outcome impact Indian stock market? Sensex, Nifty to rise? Experts decode - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFZvM3NMeWFaZWdDOXJWX3Y3dnA3RjJmMUlZNjZUU3I4RlRwemFzWjNLc2VGSXIxOThvYXJmekVZMkJDNjkxbkV0SVNRWjI2ZGdsOFctY2Z3TExhbFFKUXlfUHZXUG5RNmVtVktMLUtLVjN1WmdmM2RvQUs5b0gwVlBhbkEwdlFkN1duNURLcGJ2Ni1fSVpCdXpORXlFR1JudmYyZHM4U3RsRFpuMUxtakh2MjFMLUJKMkRoSmZmU3lSRmxhWHpNLUlDS2E2c2VGbU5fV0d1dW5jc2tpb1VQWjQzYV9sRmh4Ykk5Vk5rLWR4UkZZZFdJNW1yNzDSAYICQVVfeXFMTXhyQlhLeEtxLW9oR0lQcHoxNTBaaTdqaDgyMWVYVXhJZXlteDZGUEcwUjlZd05rUXdSRC1yMmFZWkl6ZEZZRmFiZ0dBSFBMcTVzU3ZORG82VzZ6VGVseW0yZGZxR1M4V1VLTjI0aDJfU29EZ0NqT1VsaktXNTVoeXdPNlNxYlNpSWZpOXpTQzB4c1lrb2Y3T1F1MVp2T08xaW4zNTVobVpQTmlfdlRITThka2hhc1U5WTF5cXgtXzBZdXlYbGVPT0t5OTd1MXZnTUtMWUxVRUFwbWlPWmxTeFRKV0VvNkh6U3pEUVdBZ04wSzJaN0dEWUFsWnMteWpuZzB3?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 18:46:28 GMT"
-    },
-    {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
+      "title": "Stock Market Today Highlights, October 27: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXRPNF9Xa2o3bDRjLURmUDBlZ0FHb3hMNkNHa0xxekQzYjFUNUl5U3BWM3VRWkZqMmo3eE5ueHZaV2pEUVUyQWhsLUh5bFZiNnpsZ2FBNS15RU5pU2xFTjdwLWRHT0xBRGNvRnh0ZUtvMTBfZHJfcnBWVnhNdVp1SjNEZllGS0hwNDNpa09DOE85T2V4NUtHWkxSaFNVbmRQNnJDV3EycmdNUGF1ek8yWXNqTmMyY0dUSWpmTUxxUm4zVG1nUXfSAcoBQVVfeXFMTWVkUHhYRDdSRWROU29Nd09HSW5XbUd5bklVWUxBSHJqemhBcUktV29ZRVBpYU0xSURESWNReGU1TWFTZUdaeUFtMWhqT3VxUzJyem0wZVpFcVdfdDBnME13alVjSTZEVEZFR0lWOHBjSWd1bWRtR2ZkVFVaMlpMaFhEQTFTUnNkSkV2V251emlGN1ZpOG5WSUVsX0hmZzNUM1Y4ZC1UOUJJSVJQNXBBWGNwakd3bEw3N0hLanlVSUVrazBNc25lVXJrdw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 10:47:20 GMT"
     }
   ]
 }
