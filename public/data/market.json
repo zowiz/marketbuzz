@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty decline as IT stocks slide and rising crude oil prices weigh on market sentiment.",
+  "headline": "Indian stock markets face volatility as Fed decision awaits and crude oil prices remain elevated",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "IT stocks experienced a sharp sell-off, pulling the key benchmarks lower.",
-    "Elevated crude oil prices continue to weigh heavily on market sentiment.",
-    "Weakness in the Rupee, closing at 95.22, added pressure ahead of central bank decisions.",
-    "Uncertainty around global interest rate trajectories kept investors cautious."
+    "Traders are anxiously awaiting the upcoming US Fed FOMC meeting outcome.",
+    "Elevated crude oil prices continue to put pressure on market sentiment.",
+    "Selling in major market heavyweights like Infosys and Reliance Industries dragged indices down.",
+    "Investors are carefully evaluating tech earnings and mixed global market signals."
   ],
   "whatHappening": [
-    "Sensex ended lower and Nifty dropped below the key 22,700 level.",
-    "US Federal Reserve decided to hold interest rates steady following its latest meeting.",
-    "Sebi announced plans to review Foreign Portfolio Investor (FPI) rules to align with global standards.",
-    "RBI accepted 20 bps higher treasury bill cutoff yields compared to the previous auction."
+    "Jio Platforms surged 21% on market debut to overtake Bharti Airtel in market cap.",
+    "Persistent Systems announced plans to raise Rs 6,000 crore via NCDs for Nagarro acquisition.",
+    "MSCI put Polycab India's index exit on hold due to ongoing insolvency case uncertainty.",
+    "The Indian Rupee weakened to close at 95.22 against the US dollar."
   ],
   "stocksInNews": [
     {
@@ -24,8 +24,33 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 2/6 sources",
       "articleIds": [
-        2,
+        8,
         12
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/6 sources",
+      "articleIds": [
+        6,
+        16
+      ]
+    },
+    {
+      "symbol": "PERSISTENT",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "POLYCAB",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        1
       ]
     },
     {
@@ -37,14 +62,6 @@
       ]
     },
     {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        16
-      ]
-    },
-    {
       "symbol": "POWERGRID",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
@@ -53,11 +70,27 @@
       ]
     },
     {
+      "symbol": "SBILIFE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "ESCORTS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
       "symbol": "HEROMOTOCO",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        2
+        8
       ]
     },
     {
@@ -65,33 +98,25 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "SUZLON",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        2
+        8
       ]
     }
   ],
-  "summary": "Indian benchmark indices pulled back as IT heavyweights and Reliance fell amid rising oil prices.\nGlobal markets responded to the US Fed holding interest rates steady as focus shifts to upcoming corporate earnings.\nSebi plans to align FPI rules globally while key stocks like Airtel and Power Grid outperformed the market.",
-  "updatedAt": "2026-10-29T01:31:36.447Z",
+  "summary": "Indian equity markets faced volatility with Nifty dropping below the 22,700 level amid falling heavyweights.\nJio Platforms made a strong debut with a 21% surge while traders remained cautious ahead of the US Fed rate decision.\nElevated crude oil prices and a weaker rupee further weighed on overall market sentiment today.",
+  "updatedAt": "2026-10-29T02:01:54.085Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
+    "is instamart eating swiggy alive",
+    "msci puts polycab exit on hold amid insolvency case uncertainty",
+    "persistent systems to raise rs 6000 crore via ncds for nagarro deal",
+    "patna to raise rs 200 crore via municipal bonds",
+    "five stocks to buy today october 29 sbi life insurance escorts kubota hbl engineering and more",
+    "global market today asian shares edge higher as investors assess tech earnings fed outlook",
+    "jio platforms shares surge 21 on debut overtake airtel in market cap",
     "rupee closes weaker at 9522 as traders await us fed decision oil prices rise",
-    "premarket action heres the trade setup for todays session",
     "stocks in news jio platforms ril hero motocorp meesho tvs motor vedanta aluminium and suzlon energy",
-    "rbi accepts 20 bps higher treasury bill cutoff yields than last auction",
-    "sensex nifty fall as it stocks slide rising oil prices weigh",
-    "sebi to review fpi rules align with global norms",
-    "fed holds rates says data will guide next move",
-    "us stocks today us stocks end higher as fed holds rates focus turns to earnings",
-    "anthropic is said to plan uk share offering via retailbook",
-    "us fed meeting highlights fomc holds rates steady despite concerns over inflation warsh makes changes in annual meetings",
+    "premarket action heres the trade setup for todays session",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
     "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
@@ -105,16 +130,52 @@
   ],
   "articles": [
     {
+      "title": "Is Instamart eating Swiggy alive?",
+      "source": "Zerodha Pulse",
+      "link": "https://finshots.in/archive/instamart-eating-swiggy-alive/",
+      "publishedAt": "Thu, 29 Oct 2026 07:00:12 +0530"
+    },
+    {
+      "title": "MSCI puts Polycab exit on hold amid insolvency case uncertainty",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-puts-polycab-india-removal-on-hold/articleshow/135285448.cms",
+      "publishedAt": "Thu, 29 Oct 2026 06:47:04 +0530"
+    },
+    {
+      "title": "Persistent Systems to raise Rs 6,000 crore via NCDs for Nagarro deal",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/persistent-systems-to-raise-rs-6000-crore-via-ncds-for-nagarro-deal/articleshow/135285377.cms",
+      "publishedAt": "Thu, 29 Oct 2026 06:41:41 +0530"
+    },
+    {
+      "title": "Patna to raise Rs 200 crore via municipal bonds",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/patna-to-raise-rs-200-crore-via-municipal-bonds/articleshow/135285199.cms",
+      "publishedAt": "Thu, 29 Oct 2026 06:33:16 +0530"
+    },
+    {
+      "title": "Five Stocks To Buy Today October 29: SBI Life Insurance, Escorts Kubota, HBL Engineering, And More",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-today-october-90-sbi-life-insurance-escorts-kubota-hbl-engineering-ajmera-realty-infra-12250835#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 06:28:56 +0530"
+    },
+    {
+      "title": "Global Market Today: Asian shares edge higher as investors assess tech earnings, Fed outlook",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-shares-edge-higher-as-investors-assess-tech-earnings-fed-outlook/articleshow/135285079.cms",
+      "publishedAt": "Thu, 29 Oct 2026 06:26:43 +0530"
+    },
+    {
+      "title": "Jio Platforms shares surge 21% on debut, overtake Airtel in market cap",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-surges-21-on-debut-overtakes-bharti-airtel/articleshow/135285038.cms",
+      "publishedAt": "Thu, 29 Oct 2026 06:25:41 +0530"
+    },
+    {
       "title": "Rupee closes weaker at 95.22 as traders await US Fed decision, oil prices rise",
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/forex/rupee-closes-weaker-at-95-22-as-traders-await-us-fed-decision-oil-prices-rise/articleshow/135284779.cms",
       "publishedAt": "Thu, 29 Oct 2026 06:03:57 +0530"
-    },
-    {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135280739.cms",
-      "publishedAt": "Thu, 29 Oct 2026 06:00:00 +0530"
     },
     {
       "title": "Stocks in news: Jio Platforms, RIL, Hero MotoCorp, Meesho, TVS Motor, Vedanta Aluminium and Suzlon Energy",
@@ -123,46 +184,10 @@
       "publishedAt": "Thu, 29 Oct 2026 06:00:00 +0530"
     },
     {
-      "title": "RBI accepts 20 bps higher treasury bill cutoff yields than last auction",
+      "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-accepts-20-bps-higher-treasury-bill-cutoff-yields-than-last-auction/articleshow/135284706.cms",
-      "publishedAt": "Thu, 29 Oct 2026 05:57:08 +0530"
-    },
-    {
-      "title": "Sensex, Nifty fall as IT stocks slide, rising oil prices weigh",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equity-benchmarks-decline-as-it-stocks-rising-crude-oil-prices-weigh-on-market-sentiment/articleshow/135284084.cms",
-      "publishedAt": "Thu, 29 Oct 2026 05:51:16 +0530"
-    },
-    {
-      "title": "Sebi to review FPI rules, align with global norms",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-review-fpi-rules-align-with-global-norms/articleshow/135284367.cms",
-      "publishedAt": "Thu, 29 Oct 2026 05:49:59 +0530"
-    },
-    {
-      "title": "Fed holds rates, says data will guide next move",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-holds-rates-says-data-will-guide-next-move/articleshow/135284541.cms",
-      "publishedAt": "Thu, 29 Oct 2026 05:48:16 +0530"
-    },
-    {
-      "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms",
-      "publishedAt": "Thu, 29 Oct 2026 01:44:51 +0530"
-    },
-    {
-      "title": "Anthropic Is Said To Plan UK Share Offering Via RetailBook",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/anthropic-is-said-to-plan-uk-share-offering-via-retailbook-12250975#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 01:25:23 +0530"
-    },
-    {
-      "title": "US Fed Meeting Highlights: FOMC Holds Rates Steady Despite Concerns Over Inflation; Warsh Makes Changes In Annual Meetings",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/us-fed-meeting-live-updates-interest-rate-decision-kevin-warsh-speech-market-reaction-12249030#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 01:20:33 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135280739.cms",
+      "publishedAt": "Thu, 29 Oct 2026 06:00:00 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
