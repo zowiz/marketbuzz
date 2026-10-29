@@ -1,5 +1,5 @@
 {
-  "headline": "Nifty Slips Below 22,700 as Heavyweights Reliance and Infosys Drag Market Lower Amid Rising Costs",
+  "headline": "Indian Markets Face Pressure Amid Global Cues While PVR Inox and JSW Energy Report Strong Q2 Earnings",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,81 @@
     "nextOpen": ""
   },
   "why": [
-    "Selling pressure in market heavyweights like Infosys and Reliance Industries which dropped 3% each",
-    "Rising operational costs expected to moderate profit growth for companies like United Breweries",
-    "Global uncertainty following the US Federal Reserve's decision to hold interest rates",
-    "Persistent market volatility despite a slight dip in crude oil prices to $113"
+    "Elevated crude oil prices impacting market sentiment",
+    "Selling pressure in major banking stocks",
+    "Negative global cues from US and Asian markets",
+    "Significant drops in heavyweights like Reliance Industries and Infosys"
   ],
   "whatHappening": [
-    "The Nifty 50 has closed below the critical 22,700 mark following a sharp session decline",
-    "Coca-Cola confirms that IPO plans for its Indian bottling arm remain on track",
-    "Seven Indian stocks have achieved a positive technical breakout by crossing above their 200-day moving averages",
-    "Nike is deepening its India presence with the launch of new affordable running footwear"
+    "PVR Inox reported a massive 111% rise in Q2 net profit to Rs 273 crore",
+    "JSW Energy's Q2 profit jumped 50% with its 3 gigawatt target on track",
+    "Adani Ports recorded an 18% rise in net profit for Q2 FY27",
+    "The Nifty50 recently closed below the 22,700 mark following a sharp session drop"
   ],
   "stocksInNews": [
     {
-      "symbol": "UBL",
-      "sentiment": "Negative",
+      "symbol": "PVRINOX",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "PIDILITIND",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         1
+      ]
+    },
+    {
+      "symbol": "JSWENERGY",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/7 sources",
+      "articleIds": [
+        5,
+        12
+      ]
+    },
+    {
+      "symbol": "BIOCON",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "TVSMOTOR",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        8
       ]
     },
     {
@@ -36,54 +93,29 @@
       ]
     },
     {
-      "symbol": "RELIANCE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/7 sources",
-      "articleIds": [
-        12,
-        17
-      ]
-    },
-    {
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         16
       ]
-    },
-    {
-      "symbol": "POWERGRID",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        16
-      ]
-    },
-    {
-      "symbol": "ISEC",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        5
-      ]
     }
   ],
-  "summary": "Indian markets are under pressure as the Nifty 50 fell below the 22,700 level, led by significant declines in Reliance and Infosys. While United Breweries warns of moderating profits due to rising costs, technical breakouts in select stocks and steady IPO plans for Coca-Cola's bottling arm provide some positive cues. Investors remain cautious following the US Fed's rate hold and elevated crude oil prices.",
-  "updatedAt": "2026-10-29T03:31:35.002Z",
+  "summary": "The Indian stock market is navigating volatility as the Nifty50 struggles to stay above 22,700 amid high crude prices and selling in heavyweights. Despite the broader market weakness, several companies including PVR Inox, JSW Energy, and Adani Ports have reported robust Q2 earnings growth. Investors are closely monitoring global cues and technical patterns in stocks like Biocon and Piramal Pharma for short-term direction.",
+  "updatedAt": "2026-10-29T03:49:15.263Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
-    "oil price today october 29 crude oil dips to 113 as diplomatic talks outweigh infra attacks can oil fall further",
-    "ub expects q3 profit growth to moderate on rising costs",
-    "ipo plans for indian bottling arms on track cocacola",
-    "amazon layoffs more jobs cut weeks after rolling out new kindle ereaders what we know",
-    "positive breakout these 7 stocks cross above their 200 dmas",
-    "stocks to buy today three top picks by jay thakkar of icici securities",
-    "dollar steady after fed hold leaves rate path murky",
-    "after defeat flavio bolsonaro declares himself brazils true leader read full letter",
-    "the bond market swings but us stocks remain steady after the fed says it wont raise interest rates",
-    "nike deepens india push with new running shoe vegam run at 3795",
+    "pvr inox q2 profit rises 111 to rs 273 crore targets 500 new screens in 3 years",
+    "pidilite industries reports 7 yoy growth in net profit to rs 626 crore",
+    "jsw energy q2 profit jumps 50 3 gigawatt target on track",
+    "adani ports reports 18 net profit rise to rs 3682 crore in q2 fy27",
+    "coal india share price live updates coal india sees 1week returns drop",
+    "reliance industries share price live updates disclosure under regulation 30 of the securities and exchange board of india listing obligations and disclosure requirements regulations 2015 voluntary strike off of hamleys franchising limited",
+    "kotak bank share price live updates kotak banks sixmonth beta reflects stability",
+    "biocon among 4 stocks showing bullish white marubozu pattern",
+    "tvs motor q2 review record market share 47 ebitda growth spur target hikes why citi still says sell",
+    "piramal pharma among 4 stocks showing rsi trending up",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
     "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
@@ -97,64 +129,64 @@
   ],
   "articles": [
     {
-      "title": "Oil Price Today (October 29): Crude oil dips to $113 as diplomatic talks outweigh infra attacks. Can oil fall further?",
+      "title": "PVR Inox Q2 profit rises 111% to Rs 273 crore, targets 500 new screens in 3 years",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-29-crude-oil-dips-to-113-as-diplomatic-talks-outweigh-infra-attacks-can-oil-fall-further/articleshow/135286659.cms",
-      "publishedAt": "Thu, 29 Oct 2026 07:54:49 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pvr-inox-q2-profit-rises-111-to-rs-273-crore-targets-500-new-screens-in-3-years/articleshow/135288278.cms",
+      "publishedAt": "Thu, 29 Oct 2026 08:59:22 +0530"
     },
     {
-      "title": "UB expects Q3 profit growth to moderate on rising costs",
+      "title": "Pidilite Industries reports 7% YoY growth in net profit to Rs 626 crore",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ub-expects-q3-profit-growth-to-moderate-on-rising-costs/articleshow/135286589.cms",
-      "publishedAt": "Thu, 29 Oct 2026 07:49:44 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pidilite-industries-reports-7-yoy-growth-in-net-profit-to-rs-626-crore/articleshow/135288162.cms",
+      "publishedAt": "Thu, 29 Oct 2026 08:55:55 +0530"
     },
     {
-      "title": "IPO plans for Indian bottling arm’s on track: Coca-Cola",
+      "title": "JSW Energy Q2 profit jumps 50%; 3 gigawatt target on track",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-plans-for-indian-bottling-arms-on-track-coca-cola/articleshow/135286438.cms",
-      "publishedAt": "Thu, 29 Oct 2026 07:43:39 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-energy-q2-profit-jumps-50-3-gigawatt-target-on-track/articleshow/135288014.cms",
+      "publishedAt": "Thu, 29 Oct 2026 08:51:25 +0530"
     },
     {
-      "title": "Amazon Layoffs: More Jobs Cut Weeks After Rolling Out New Kindle E-Readers; What We Know",
+      "title": "Adani Ports reports 18% net profit rise to Rs 3,682 crore in Q2 FY27",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/amazon-layoffs-more-jobs-cut-weeks-after-rolling-out-new-kindle-e-readers-what-we-know-12251359#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 07:41:51 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-reports-18-net-profit-rise-to-rs-3682-crore-in-q2-fy27/articleshow/135287801.cms",
+      "publishedAt": "Thu, 29 Oct 2026 08:44:25 +0530"
     },
     {
-      "title": "Positive Breakout: These 7 stocks cross above their 200 DMAs",
+      "title": "Coal India Share Price Live Updates: Coal India  Sees 1-Week Returns Drop",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-7-stocks-cross-above-their-200-dmas/slideshow/135286614.cms",
-      "publishedAt": "Thu, 29 Oct 2026 07:41:50 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-share-price-live-29-oct-2026/liveblog/135287938.cms",
+      "publishedAt": "Thu, 29 Oct 2026 08:43:04 +0530"
     },
     {
-      "title": "Stocks To Buy Today: Three Top Picks By Jay Thakkar of ICICI Securities",
+      "title": "Reliance Industries Share Price Live Updates: Disclosure Under Regulation 30 Of The Securities And Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Voluntary Strike Off Of Hamleys (Franchising) Limited.",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stocks-to-buy-today-three-top-picks-by-jay-thakkar-of-icici-securities-12251429#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 07:41:40 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ril-share-price-today-live-updates-29-oct-2026/liveblog/135287893.cms",
+      "publishedAt": "Thu, 29 Oct 2026 08:41:38 +0530"
     },
     {
-      "title": "Dollar steady after Fed hold leaves rate path murky",
+      "title": "Kotak Bank Share Price Live Updates: Kotak Bank's six-month beta reflects stability",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-steady-after-fed-hold-leaves-rate-path-murky/articleshow/135286431.cms",
-      "publishedAt": "Thu, 29 Oct 2026 07:39:27 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-livestock-price-today-live-updates-29-oct-2026/liveblog/135287716.cms",
+      "publishedAt": "Thu, 29 Oct 2026 08:35:04 +0530"
     },
     {
-      "title": "After Defeat, Flavio Bolsonaro Declares Himself Brazil's True Leader: Read Full Letter",
+      "title": "Biocon among 4 stocks showing bullish White Marubozu pattern",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/after-defeat-flavio-bolsonaro-declares-himself-brazils-true-leader-read-full-letter-12251426#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 07:39:24 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/biocon-among-4-stocks-showing-bullish-white-marubozu-pattern/slideshow/135287786.cms",
+      "publishedAt": "Thu, 29 Oct 2026 08:34:41 +0530"
     },
     {
-      "title": "The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates",
+      "title": "TVS Motor Q2 Review: Record Market Share, 47% EBITDA Growth Spur Target Hikes; Why Citi Still Says 'Sell'",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-bond-market-swings-but-us-stocks-remain-steady-after-the-fed-says-it-wont-raise-interest-rates/articleshow/135286393.cms",
-      "publishedAt": "Thu, 29 Oct 2026 07:37:42 +0530"
+      "link": "https://www.ndtvprofit.com/markets/tvs-motor-q2-results-review-record-market-share-47-percent-ebitda-growth-brokerages-target-hikes-citi-sell-jefferies-auto-stocks-sensex-today-12251547#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 08:29:50 +0530"
     },
     {
-      "title": "Nike deepens India push with new running shoe, Vegam Run, at ₹3,795",
+      "title": "Piramal Pharma among 4 stocks showing RSI Trending Up",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/nike-deepens-india-push-with-new-running-shoe-vegam-run-at-3-795-126102900074_1.html",
-      "publishedAt": "Thu, 29 Oct 2026 07:36:34 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/piramal-pharma-among-4-stocks-showing-rsi-trending-up/slideshow/135287674.cms",
+      "publishedAt": "Thu, 29 Oct 2026 08:28:53 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
