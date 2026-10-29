@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges 905 points and Nifty tops 22,900 driven by banking and FMCG rally",
+  "headline": "Sensex soars 905 points as Nifty reclaims 22,900 led by FMCG, financials, and Adani Enterprises",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,54 +7,69 @@
     "nextOpen": ""
   },
   "why": [
-    "Heavy buying in banking, financial, and FMCG sectors boosted the benchmark indices.",
-    "Strong Q2 earnings reported by key companies like Trent and Godrej Consumer boosted sentiment.",
-    "Significant gains in heavyweight stocks including Adani Enterprises and Kotak Mahindra Bank drove market momentum.",
-    "Global market cues and expectations around US Fed policy outcomes influenced trading action."
+    "Sensex jumped 905 points and Nifty re-claimed 22,900 driven by strong rallies in FMCG and financial stocks.",
+    "US Federal Reserve held interest rates steady while signaling potential future tightening.",
+    "India's 10-year bond had its best day in three months driven by US Treasury rally and easing oil prices.",
+    "High credit rating companies are shifting to the bond market due to rising bank loan costs."
   ],
   "whatHappening": [
-    "Sensex rallied 905 points while Nifty reclaimed and closed above the 22,900 level.",
-    "Trent recorded a 23-25% surge in Q2 net profit driven by robust retail apparel demand.",
-    "Suzlon Energy reported a 69% decline in Q2 net profit due to contracting margins despite higher revenue.",
-    "Godrej Consumer declared a Rs 5 interim dividend following a 14% rise in net profit."
+    "Adani Enterprises jumped 5% and Kotak Mahindra Bank surged 4% during Thursday's trading session.",
+    "MTAR Tech reported multifold jump in Q2 net profit and revenue alongside NCLT clearing merger of three arms.",
+    "Mahindra Lifespace Developers reported a 66% growth in pre-sales reaching nearly Rs 2,000 crore in Apr-Sep.",
+    "Laurus Labs hit a 52-week high amid a monthly healthcare sector rally of up to 26%."
   ],
   "stocksInNews": [
     {
-      "symbol": "SUZLON",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        1,
-        8
-      ]
-    },
-    {
-      "symbol": "ESAFSFB",
+      "symbol": "LAURUSLABS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        2
+        1
       ]
     },
     {
-      "symbol": "WHEELS",
+      "symbol": "MAHLIFE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        4
+        3
+      ]
+    },
+    {
+      "symbol": "ADANIENT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        7,
+        12
+      ]
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
       ]
     },
     {
       "symbol": "TRENT",
-      "sentiment": "Positive",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        5,
-        6
+        7
       ]
     },
     {
-      "symbol": "GODREJCP",
+      "symbol": "MARUTI",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "MTARTECH",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -62,40 +77,32 @@
       ]
     },
     {
-      "symbol": "ADANIENT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        11
-      ]
-    },
-    {
       "symbol": "KOTAKBANK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        11
+        12
       ]
     }
   ],
-  "summary": "Indian markets witnessed a sharp upside as Sensex surged 905 points and Nifty crossed 22,900, fueled by gains in banking and FMCG stocks.\nKey Q2 earnings results generated strong stock-specific action, with Trent and Godrej Consumer gaining on positive numbers while Suzlon Energy fell on margin contraction.\nOverall market momentum remained strong backed by buying in major large-caps like Adani Enterprises and Kotak Bank.",
-  "updatedAt": "2026-10-29T12:01:42.559Z",
+  "summary": "Indian benchmark indices rebounded sharply as Sensex surged 905 points and Nifty closed above 22,900 led by FMCG and banking stocks.\nKey gainers included Adani Enterprises and Kotak Bank, while strong corporate updates from MTAR Tech and Mahindra Lifespace boosted market sentiment.\nGlobal macro cues like US Fed rate decisions and Treasury market rallies continue to guide investor sentiment.",
+  "updatedAt": "2026-10-29T13:01:43.852Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
-    "sensex surges 905 pts nifty tops 22900 on heavy buying in banking fmcg stocks",
-    "suzlon energy q2 results profit plunges 69 yoy to rs 394 crore revenue rises 26",
-    "esaf small finance bank posts rs 160 crore q2 profit as asset quality improves",
-    "nvidia chief jensen huang reportedly targeted in chinese spy plot",
-    "wheels india q2 net profit nearly doubles to 534 crore sets 400450 crore capex in fy27",
-    "trent q2 net profit rises 23 to 464 crore on strong apparel sales",
-    "trent q2 results cons profit jumps 25 yoy to rs 468 crore revenue climbs 22",
-    "10 defence stocks rally up to 500 in fy27 so far 5 turn multibaggers",
-    "suzlon energy q2 net profit plunges 69 to rs 394 crore margin contracts",
-    "godrej consumer q2 net profit up 14 rs 5 interim dividend declared",
+    "supreme court refuses to order full public disclosure of ultimate beneficiaries of aifs fpis without legal framework",
+    "shukra medtech laurus labs among 4 healthcare stocks to hit 52week highs and rally up to 26 in a month",
+    "bitcoin trades near 80000 after fed holds rates signals possibility of further tightening",
+    "mahindra lifespace developers presales rise 66 to nearly rs 2000 cr in aprsep",
+    "companies with high credit ratings shifting to bond market as bank loans become dearer",
+    "indias 10year bond has best day in 3 months on treasury rally easing oil",
+    "us stock market live updates nasdaq futures slide as alphabet earnings revive ai spending fears",
+    "market wrap adani ports sez adani ent trent maruti suzuki top gainers and losers on nifty and sensex on thursday",
+    "oracle opens cloud to googles ai chips challenging gpu dominance",
+    "mtar tech q2 results net profit revenue jump multifold nclt clears merger of three arms",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
-    "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
     "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
+    "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
     "stock market today gift nifty us fed policy to oil prices five key factors for sensex nifty 50 on october 29 ndtv profit",
     "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
@@ -106,64 +113,64 @@
   ],
   "articles": [
     {
-      "title": "Sensex surges 905 pts, Nifty tops 22,900 on heavy buying in banking, FMCG stocks",
+      "title": "Supreme Court refuses to order ‘full public disclosure’ of ultimate beneficiaries of AIFs, FPIs without ‘legal framework’",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/sensex-surges-905-pts-nifty-tops-22900-on-heavy-buying-in-banking-fmcg-stocks/article71640234.ece",
-      "publishedAt": "Thu, 29 Oct 2026 17:00:00 +0530"
+      "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-order-full-public-disclosure-of-ultimate-beneficiaries-of-aifs-fpis-without-legal-framework/article71639833.ece",
+      "publishedAt": "Thu, 29 Oct 2026 18:07:02 +0530"
     },
     {
-      "title": "Suzlon Energy Q2 Results: Profit plunges 69% YoY to Rs 394 crore; revenue rises 26%",
+      "title": "Shukra Medtech, Laurus Labs among 4 healthcare stocks to hit 52-week highs and rally up to 26% in a month",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/suzlon-energy-q2-results-profit-plunges-69-yoy-to-rs-394-crore-revenue-rises-26/articleshow/135304125.cms",
-      "publishedAt": "Thu, 29 Oct 2026 16:46:50 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/shukra-medtech-laurus-labs-among-4-healthcare-stocks-to-hit-52-week-highs-and-rally-up-to-26-in-a-month/slideshow/135311397.cms",
+      "publishedAt": "Thu, 29 Oct 2026 17:56:43 +0530"
     },
     {
-      "title": "ESAF Small Finance Bank posts Rs 160 crore Q2 profit as asset quality improves",
+      "title": "Bitcoin trades near $80,000 after Fed holds rates, signals possibility of further tightening",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/esaf-small-finance-bank-posts-rs-160-crore-q2-profit-as-asset-quality-improves/articleshow/135303972.cms",
-      "publishedAt": "Thu, 29 Oct 2026 16:44:40 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-80000-after-fed-holds-rates-signals-possibility-of-further-tightening/articleshow/135309957.cms",
+      "publishedAt": "Thu, 29 Oct 2026 17:53:33 +0530"
     },
     {
-      "title": "Nvidia chief Jensen Huang reportedly targeted in Chinese spy plot",
+      "title": "Mahindra Lifespace Developers pre-sales rise 66% to nearly Rs 2,000 cr in Apr-Sep",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/us-intelligence-links-nvidia-ceo-contact-to-china-spying-concerns-report-126102901145_1.html",
-      "publishedAt": "Thu, 29 Oct 2026 16:38:57 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/mahindra-lifespace-developers-pre-sales-rise-66-to-nearly-rs-2000-cr-in-apr-sep/articleshow/135309551.cms",
+      "publishedAt": "Thu, 29 Oct 2026 17:47:02 +0530"
     },
     {
-      "title": "Wheels India Q2 net profit nearly doubles to ₹53.4 crore, sets ₹400-450 crore capex in FY27",
+      "title": "Companies with high credit ratings shifting to bond market as bank loans become dearer",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/wheels-india-q2-net-profit-nearly-doubles-to-534-crore-sets-400-450-crore-capex-in-fy27/article71640079.ece",
-      "publishedAt": "Thu, 29 Oct 2026 16:27:05 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/companies-with-high-credit-ratings-shifting-to-bond-market-as-bank-loans-become-dearer/articleshow/135309264.cms",
+      "publishedAt": "Thu, 29 Oct 2026 17:43:53 +0530"
     },
     {
-      "title": "Trent Q2 net profit rises 23% to ₹464 crore on strong apparel sales",
+      "title": "India's 10-year bond has best day in 3 months on Treasury rally, easing oil",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/trent-q2-net-profit-rises-23-to-464-crore-on-strong-apparel-sales-126102901089_1.html",
-      "publishedAt": "Thu, 29 Oct 2026 16:25:23 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-has-best-day-in-3-months-on-treasury-rally-easing-oil/articleshow/135308975.cms",
+      "publishedAt": "Thu, 29 Oct 2026 17:41:44 +0530"
     },
     {
-      "title": "Trent Q2 Results: Cons profit jumps 25% YoY to Rs 468 crore; revenue climbs 22%",
+      "title": "US Stock Market Live Updates: Nasdaq futures slide as Alphabet earnings revive AI spending fears",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/trent-q2-results-profit-jumps-25-yoy-to-rs-468-crore-revenue-climbs-22/articleshow/135302253.cms",
-      "publishedAt": "Thu, 29 Oct 2026 16:22:25 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-alphabet-microsoft-nvidia-intel-amazon-fortinet-servicenow-earnings-alphabet-google-ai-spending-fears-fed-rate-decision-pce-inflation-gdp-data-treasury-yield-news-29th-october-2",
+      "publishedAt": "Thu, 29 Oct 2026 17:40:42 +0530"
     },
     {
-      "title": "10 defence stocks rally up to 500% in FY27 so far; 5 turn multibaggers",
+      "title": "Market wrap:  Adani Ports SEZ, Adani Ent, Trent, Maruti Suzuki top gainers and losers on Nifty and Sensex on Thursday",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-defence-stocks-rally-up-to-500-in-fy27-so-far-5-turn-multibaggers/slideshow/135303076.cms",
-      "publishedAt": "Thu, 29 Oct 2026 16:21:03 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-ports-sez-adani-ent-trent-maruti-suzuki-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/135307738.cms",
+      "publishedAt": "Thu, 29 Oct 2026 17:37:08 +0530"
     },
     {
-      "title": "Suzlon Energy Q2: Net Profit Plunges 69% To Rs 394 Crore; Margin Contracts",
+      "title": "Oracle opens cloud to Google’s AI chips, challenging GPU dominance",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/suzlon-energy-q2-net-profit-plunges-69-margin-contracts-12253593#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 16:16:59 +0530"
+      "link": "https://www.thehindu.com/business/Industry/oracle-opens-cloud-to-googles-ai-chips-challenging-gpu-dominance/article71640128.ece",
+      "publishedAt": "Thu, 29 Oct 2026 17:37:03 +0530"
     },
     {
-      "title": "Godrej Consumer Q2: Net Profit Up 14%, Rs 5 Interim Dividend Declared",
+      "title": "MTAR Tech Q2 Results: Net Profit, Revenue Jump Multifold; NCLT Clears Merger Of Three Arms",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/godrej-consumer-q2-net-profit-up-14-rs-5-interim-dividend-declared-12253462#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 16:13:56 +0530"
+      "link": "https://www.ndtvprofit.com/markets/mtar-tech-q2-results-net-profit-revenue-jump-multifold-nclt-clears-merger-of-three-arms-12253825#publisher=newsstand",
+      "publishedAt": "Thu, 29 Oct 2026 17:18:48 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
@@ -172,16 +179,16 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
-      "title": "Stock Market Highlights | Sensex soars 905 pts, Nifty ends above 22,900; Adani Ent jumps 5%, Kotak Bank 4% - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY090MXJYMC1pb0lhbXpmdW5hTHh0TXgyWlBLNTdGQUR0d2FXMHN1WWhLdEh4emd6RE1kY2RheTg0NFBXbWZPSFNPZno0TmJyQ08xVmREYWFwR1k4UGh5MFNMNERDZEhWWVBzd3cxR3BUMUl2cUlfczcyNHUzeVRWMnI3UmgtVEliYllFcWxXZmZrVXhJM2hQSmYyeTZjN09vYVV1QnNDcFNmTHk1LXlkVGo1b2VpUElRd1FnUTdabTFWSTRKUDlPSTNad0lXVUhqVGhVOVlHa1VnRFhyM2tvWEdvTHl5UEVod05QSW9IY2dHVXRIb0VpOFBoVjJoc09WeXNJdHYxT1JmbU1QUTdYWUQ3bWHSAZoCQVVfeXFMTXpoUnZfNkh5Q0d5ZjlEangxTXJUWGlwVWFMSVJFR2FUMUFuX1NwaWRmVGdjY01xZlRRbHE1RDgtenlDdHFTbEM5WktEMDNISmZhcy1iSFF2MzBsTXZhVXJDTzBES3ZOcW5ZOUtSTEs2aVdMVzZNTzRCVklPSTlSbVhaMzFhQlctT2stVnpDeVY3a2tWZUdxTVEyeW4tcms4dm5NWW5ZR0tmY2JfcWN1VlZ2QzZiUWlkcl9FNmd0Q2NENTJMSHdFSy1ndnN3QTZvZ3RaUFBXb1Jxc0dVdVFscFhuUFRqWEFNXzlMbDVvZzNaaW00VzgwNHUyTFU4QW1OZEYya000YkJZTWVHV3FxZ0tUZHVMUFdfb2xB?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 10:54:35 GMT"
-    },
-    {
       "title": "Closing Bell: Nifty reclaims 22,900, Sensex jumps 905 pts; FMCG, financials rally - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1I4OEpudXdIbTQ1SDJ0WkhGdkRyOXUzd3E4TmU2ZlR3YnhtWk1vUmJWRjhFLS10bGtDampCdC1FZnNCLVNCdDZSNUs5UGlqY1RnNUF5ZzRFYWkzam1iRy1sSGt4Smk3M05YanFyaXpLTmhaLWpzNEhDZjNyY0FtVFFYZHp2T09TSkFRSExfQW5Jc2UzX1VHczdCUENJMWpCdVNiM3lZM1ZKb0Y3VTZBNnFQU0NmbENweEtlQm4wekh2MHhRM3dTNFQ4RUhuTzJfc0xmaGZ1YXl6TFZ6MjR1Szl6Z2laYkFtaVFJamRqLU1OcXQtcVhVbW5wTWZjczlYZ2RqU1c5aVRMUzFfVFExdEJCdGVmdU5KTDNmOEhKMkhqTk3SAagCQVVfeXFMTXNQTUNSOURwSHpOLUJGclRnYVh3cXc4dUpnd1F4Y0U0dzNnT0thdm91MjZrUzdTSU1ra1lBb01pWDJtc2x6NHdBNS1NeTVVaVA5VG9rUFJ0akR2eVItZVlqdjhKeHlvb1cxYVJxOXk1a21QY3B3N2xyLW1BaVhxWE5iZmxsdDJfeFJRT0g3S2hUb1dBakMwSjhrNnR2OUFVZkVvbHVFSl9iWDJlZ2dRSWNwamFuekE3MUZYcEhBQjlMSzBDMmV5cUZMWkNfQzQyWE1ReXUxS19Gc3BMOUE3SU1tc085VGVXYXp4Wmw3SE1HajRFaC1FZ2pZLUdSUUtWd2E0M0tDTUtpTk9kUzNMOHdhdW9heF9kdXVzTmloYTZjYncxQXdyQ3o?oc=5",
       "publishedAt": "Thu, 29 Oct 2026 10:43:01 GMT"
+    },
+    {
+      "title": "Stock Market Highlights | Sensex soars 905 pts, Nifty ends above 22,900; Adani Ent jumps 5%, Kotak Bank 4% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY090MXJYMC1pb0lhbXpmdW5hTHh0TXgyWlBLNTdGQUR0d2FXMHN1WWhLdEh4emd6RE1kY2RheTg0NFBXbWZPSFNPZno0TmJyQ08xVmREYWFwR1k4UGh5MFNMNERDZEhWWVBzd3cxR3BUMUl2cUlfczcyNHUzeVRWMnI3UmgtVEliYllFcWxXZmZrVXhJM2hQSmYyeTZjN09vYVV1QnNDcFNmTHk1LXlkVGo1b2VpUElRd1FnUTdabTFWSTRKUDlPSTNad0lXVUhqVGhVOVlHa1VnRFhyM2tvWEdvTHl5UEVod05QSW9IY2dHVXRIb0VpOFBoVjJoc09WeXNJdHYxT1JmbU1QUTdYWUQ3bWHSAZoCQVVfeXFMTXpoUnZfNkh5Q0d5ZjlEangxTXJUWGlwVWFMSVJFR2FUMUFuX1NwaWRmVGdjY01xZlRRbHE1RDgtenlDdHFTbEM5WktEMDNISmZhcy1iSFF2MzBsTXZhVXJDTzBES3ZOcW5ZOUtSTEs2aVdMVzZNTzRCVklPSTlSbVhaMzFhQlctT2stVnpDeVY3a2tWZUdxTVEyeW4tcms4dm5NWW5ZR0tmY2JfcWN1VlZ2QzZiUWlkcl9FNmd0Q2NENTJMSHdFSy1ndnN3QTZvZ3RaUFBXb1Jxc0dVdVFscFhuUFRqWEFNXzlMbDVvZzNaaW00VzgwNHUyTFU4QW1OZEYya000YkJZTWVHV3FxZ0tUZHVMUFdfb2xB?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 10:54:35 GMT"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",
