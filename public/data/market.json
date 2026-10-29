@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty gain in early trade supported by Reliance buying and positive corporate earnings",
+  "headline": "Sensex, Nifty rally on Reliance buying, foreign inflows, and US Fed holding interest rates unchanged",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,55 +7,73 @@
     "nextOpen": ""
   },
   "why": [
-    "Buying in Reliance Industries and early foreign inflows lifted market sentiment.",
-    "Strong Q2 earnings performance from companies like City Union Bank and Vedanta Aluminium boosted stock-specific action.",
-    "Adani Group stocks saw gains adding Rs 23,000 crore to their total market capitalization.",
-    "Investors are closely tracking global cues including US Fed policy meetings and crude oil price movements."
+    "The US Federal Reserve held interest rates unchanged, boosting global market sentiment.",
+    "Renewed foreign fund inflows and buying in heavyweights like Reliance supported the market rally.",
+    "Strong quarterly earnings reports from companies like City Union Bank and Vedanta Aluminium boosted investor confidence.",
+    "Adani group stocks surged up to 3%, adding Rs 23,000 crore to their total market capitalization."
   ],
   "whatHappening": [
-    "Indian benchmarks Sensex and Nifty recovered in early trading following recent declines below the 22,700 level.",
-    "City Union Bank rallied 7% after reporting a 27% year-on-year surge in Q2 net profit to Rs 416 crore.",
-    "Vedanta Aluminium reported a 41% revenue growth to Rs 22,066 crore alongside a doubling in Q2 profit.",
-    "The Indian Rupee hit a two-week low against the US Dollar due to persistent dollar demand."
+    "Sensex jumped over 500 to 600 points while Nifty traded above the 22,800 level.",
+    "City Union Bank shares surged 7% following a 27% YoY increase in Q2 net profit to Rs 416 crore.",
+    "Vedanta Aluminium reported a 41% surge in revenue to Rs 22,066 crore and more than doubled its net profit.",
+    "The Indian Rupee hit a two-week low amidst sticky dollar demand, despite modest interventions."
   ],
   "stocksInNews": [
     {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        9,
+        15
+      ]
+    },
+    {
+      "symbol": "CUB",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
       "symbol": "VEDL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         0,
         4
       ]
     },
     {
-      "symbol": "CUB",
+      "symbol": "ADANIPORTS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
+      "sources": "Mentioned by 2/9 sources",
       "articleIds": [
-        6
+        2,
+        17
       ]
     },
     {
-      "symbol": "RELIANCE",
+      "symbol": "ADANIENT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/6 sources",
+      "sources": "Mentioned by 2/9 sources",
       "articleIds": [
-        9,
-        13
+        2,
+        17
       ]
     },
     {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/6 sources",
+      "symbol": "POWERGRID",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        13
+        17
       ]
     }
   ],
-  "summary": "Indian stock markets opened higher on October 29 led by Reliance Industries and positive Q2 earnings reports. City Union Bank and Vedanta Aluminium posted strong quarterly figures driving stock gains. Investors remain watchful of foreign fund flows, US Fed meeting outcomes, and crude oil prices.",
-  "updatedAt": "2026-10-29T07:01:49.766Z",
+  "summary": "Indian benchmark indices Sensex and Nifty traded higher today, buoyed by foreign fund inflows and buying in heavyweights like Reliance after the US Fed kept interest rates unchanged. Strong quarterly earnings from City Union Bank and Vedanta Aluminium further improved market mood. Adani Group stocks and major gainers like PowerGrid also contributed significantly to the market rally.",
+  "updatedAt": "2026-10-29T07:31:26.214Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
@@ -70,15 +88,15 @@
     "shares in google owner alphabet sink on profit miss ad slowdown",
     "sensex nifty rise in early trade on reliance buying foreign inflows",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
-    "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
-    "stock market today gift nifty us fed policy to oil prices five key factors for sensex nifty 50 on october 29 ndtv profit",
-    "sensex today nifty 50 stock market highlights sensex ends 352 pts lower nifty below 22700 infosys ril drop 3 each the economic times",
-    "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market highlights today bse sensex and nifty50 ends flat amid elevated crude oil prices the times of india",
-    "stock market outlook for 28 oct sensex nifty prediction jio platforms ipo listing gift nifty us and asian markets livemint",
-    "why is stock market falling today sensex drops over 800 points nifty slips below 22600 key reasons explained ndtv profit",
-    "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
-    "how can us fed fomc meeting outcome impact indian stock market sensex nifty to rise experts decode livemint"
+    "how can us fed fomc meeting outcome impact indian stock market sensex nifty to rise experts decode livemint",
+    "gift nifty hints at flattoweak open as crude fed weigh hdfc sky",
+    "sensex nifty trade higher after us fed holds rates crude oil remains a concern india today",
+    "sensex today trades higher nifty above 22700 jio platforms up 4 equitymaster",
+    "sensex rises 245 points nifty gains 63 points on reliance buying foreign fund inflows telegraph india",
+    "why is market rising today sensex jumps 600 points nifty nears 22900 6 key factors behind rs 3 lakh crore gains the economic times",
+    "stock market today sensex rallies nifty 50 above 22800 adani ports adani enterprises powergrid among top gainers ndtv profit",
+    "is indias stock market heading for its worst year since 2008 crisis ndtv",
+    "sensex jumps over 500 points nifty above 22850 after fed keeps rates unchanged what lies ahead the economic times"
   ],
   "articles": [
     {
@@ -148,58 +166,58 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcDZ4SlBCdXAzX0JUb3E2UlRYeGhFblcwSWF3cW1oX2VZMEwwakJfeVEtdUJRaThFSjVqSWRMaU12ajVDQ2NsMllXaUgydHJHMk9oT0xPaW9WeFByWkdGN25WZkpXYjRWYlVGSlFuLWNmWGd1Q3p5WU93RHh4NGIwYmtVa1c3NDNyejhvempFQTJxbm5RUHREV1dNbUxWc3hZRjlPbmpDWFBnZ2RtZnQtZWluLUZLcTB1YmdCYjJHUmZXTktYYlBGdWFBU3lhNVJpNFR3ZdIBugJBVV95cUxNMFNaX0w0NnU0aTQ0UHdkc0lSQ19GUGRKMnFwTVJYNW5wajNISEtaeFctTmZ3QWtxSDJzLVZMdlR6ZVk3VnlWNnFmRUYxQVFFdTFzX2J4TW9HVUpGVWJBd29sT1RnSElmQlFsMVV3QkhYQXB1dkNudWNORUZub295a3BSRVpXcUVGYWRpaXBrb2NMWmpWZks2TXhSRXlmLU0wdm1yNG40dGx3ZVQ0b3FzcTQ1MzhKZG03cGRxUnJRb052V19UcjVjdzFzcHZ1eXNydDRCaWotVXRNcWtQZldqcEtzR19ac21LU1piWk95MTFVa3dMRHNNOHN5U0tHZU4zSERENjgxd29McDBIeUxUNmFveDdZODJucmI1Qm9EV0ItWG50NktCdTRseTRDTmYzV2x0Z1g0aTR2QQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
-    },
-    {
-      "title": "Stock Market Today: Gift Nifty, US Fed Policy To Oil Prices; Five Key Factors For Sensex, Nifty 50 On October 29 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTkdjeEhGQ0k3SHlKU0xzYmpBYVV2MWlyVl9laFRPY2N3WXRFWFEtdDQ3ZUU2YWdhaGpab1FKRXZMTlVHYmRHODQtZEUyVk5aVVc2c0hnV2FsYndnQ0FsaGMtTnhzcWhTMGZNeHBNbWxITEN3Y1ZjSTZMZ1Q1UjZjX1E5elRJdXZFd1dPeEx0ZzBfai1qQjA4TDZyRUZHY3V2Uk9mMW9qYWtrXzg4ZVEzU0IxSUlkTlZzM2VVcUpyU2lDN1lRSThQZFExVTNBVVdHOTUzem5qTXBreHJYV0g4c1ktRG0wYVpLSGJDcnA1ODZNbWtRa0HSAf4BQVVfeXFMT1NWT0FQYUNvd1FuaW1kcGpueVB0TmQ0THlZckR5aUlqaVViM0xYY2NTb0szRzVpa1hPRUk4MVo2WmNzc0gtTFF6Y2paZUs3VzZRRW5YZHJaanNDenJObUpxSW1BVHhkNWhBNV9teHVUTm5ERkx0V0tRQnVYNW1GUGY0VFp2RnFUc1BaRHlyeVpYYUMtbkpmanpoVk9aQ21wMzQwbnhqT2FiM1o2ZF9xemRBbzZiYWJwOWFZcTNtVHRMUDZvYkZKbk1EVXFRQ1ZSLWJYMXVJMUtzVVVyRDB5Q0ViNV9wTFdxdnFxWlFmN1RMZ2FDbHJlSFB3UVNDNEE?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:39:28 GMT"
-    },
-    {
-      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Sensex ends 352 pts lower, Nifty below 22,700; Infosys, RIL drop 3% each - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUEZvTHY0YzFqQmJJWlZOQjlUOS1taG4zMTNMSUpKYWRQTjFNdDBkbF9kVVBXdGxwb2FlYXVYcXA0WU56MjFpUHpZbE5laDJKYlBPa0ZEWUc2T3l2Z3hHVXZkVEh4SDcxSUcxVURLYWRvelBUNGN0T1dncEwwTE9FMWxJVTZqV2VkOF90emlrTmV5VEVyVXN4NlF1M28zTkJRYmRJWnlKaDI2Q3ZHLWZWcTIxeHRQdmpuYjdCRVFnNGRkR0Zlb3ZqdUhmOFZtS2FFWHU3QTQ3RHJSRjVTSk9vZDJEUUZ1Q1AyZkM3eEJ6dGdJTXdDaVRiVVVDMUU0Q1J3b1o4V1RNVUJIeHUzZWZUOdIBlgJBVV95cUxPNEZvSjdwRXFNTFF3TTJRc2VTN3NIMUc4cFNFdWx0X0M1bGRkcmt6RWxfZndkVlpKR2hhZU1fMTU1czBPLVRyS2g5MEUySE5IZWR0WjJaVTFxNGp3bHJHTVNsRkttemJKNkZxSUpuUWtmR2VjS013TXpueWZZeEVuRVI1RHItemRuQlpjVDR6NmJPSXpjeUNZWlJhYU1lVjV0WWxnZ3N2Z3Zlb0dsVHN1dU0wejRyZ1ltMlJpZXB1YWZzMGVLb2wwMnlCamlvM3o4VFVuZ0RTVXpWUFk3dUkxUFZZdktfZnpEV1lyY0hlZVpoZGtZc2xONUtRdkdteUctNXR5a0FrYUhXMUN4aEFaMFg2SHFrdw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:05:18 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbGZqMHp2VC02aEFPMWpFUDdkcGlUbGVqSHFVUTdtem9scXhMSTdwRHlQNWxyeGFjd19oVUJBLWtEWXA4bGVSVFlHY3BMTzdhc2RlekgyWmpWVFBYdThfNGJqT05SREFmb2NVT3hsZ0IxSWlVSXVWXzhyeUVQYWlWQWV5OUlmdDA1dldGM1JQdjBSZEtackdibmVLVEFwdWo3M0lha3hvdTNaNEZYTzhXQ01ic3lPMlFjSWFIRHJDeGlTTVR5dUc5S0RvaW85aG82T2xwdnFoSy1yTDRWNnloQ2UxaUpWbW9xYTFHNGw4dDJZMWoxVEUtZER0NlFQa2p2NHZQddIBigJBVV95cUxOYWFiZ291M3RVdE1Oc3JKM05Nd0d0LTM3dWFHS2laLXF6M1ltczBYWlh0SUFtejJZVU9lZlM1R0FWcldBZGRvT2hyWjlBZkl0QV8wUTFqN2J3THNzUGtYekI3MU5oRUVTbklKMXp4Q3NZQUJUaE4zaUJvVXFCRDZiXzN2NTZUWlRQdkRpNWFFdDdpTi0wSTR6ejhNMXBVQWNoMFI0MzVCckFaeklBMUZINEZ6czM0YjdpRjBId1lfVXFqYWszN0tvRy1leWhDZEJZSDBQa2lzdUtIZjNqVHpFcTBJZFZRbzJTMVZkS3BKVUVERWdhWUhlQkdUWGlKOHhuWXpqRDFTbnFHUQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:15:36 GMT"
-    },
-    {
-      "title": "Stock Market Highlights Today: BSE Sensex and Nifty50 ends flat amid elevated crude oil prices - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNnk4ekZHSVdTdHNsTVZKbmdKaHFsWWdyQ2RjdS0zeFhTWFFYZTlHV0d2eHJCc1BPeFNJZEtrckxrUGVTUTJ0Z2pyRFI1YzM4eF85RFdtdG5KM28wZm9UMWV6b0dacHJfLXJheUZDeTJzNDlLUTNib2tsM1lZUjV3S0lfZjQ1VHQ4a204czgzWlNKaTVsU2Y0N1BBMUZ0bW1LdzJ3aUNZX2VNOXEyLVc1QUhiazE5d3RveUFrQ1BpWm5kZ2tlNkhyNldjaTVKWV81VWprd1hmc2tGUjRWZkJrT3l2WVU1MDVyNTJOSURsQU5UazVmb3hlcUl0c1BNSXpkaEY5UVVISkRvSWMtWmFBY2RYNElnNG91Q2xFbXhnOW5BblplMUNIOUhpUE5GMHo1NUt3ZNIBugJBVV95cUxPODhWREFHQ1JNaWppM21HUnZjV3liQXVCWjFGNlh2QXRBNUNpbC1hVXZPSGx3dnR2M3hzemdrcWpSbXdYZXpKdm1JNXZqZ1Y5ajNYeVJnczFKalRpWVR0OXVITkJLekgwNU1DcVVNNFRKaHNKLTQ0b0NXM2NsbGE1WHliYjRnOEhyVHVWWVNGZllELU9TMkV6Z2oxU0JiSUlKSVNYRWdtTk4xSG1kSXlONU9wcHd6TndPaTRCQ0xteG5mLTZTbUNHU3lMaWt5dnNqbXdzYnZucjBCSXFWLWZmTUs2ZmJzVmhVTTA0MzR4ZGRGQ1Y0U2NVU1pybDZaQ0RWd3diVzRsWjBhWW9rQ3BXNk1XT0pBRVl5YjlPM0U5U0tVMWVRd0RLbm0xMTI4Qy1GZWNrcks4X203Zw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 11:05:09 GMT"
-    },
-    {
-      "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbGQxcFFLUDN1THJXOVNaMEsydnpFQWJjQVZRWW9jNGJXczJxZDNpdElrOGx3bFluNFFCWVgyM1RQR0RUWFgwTGFCc3FaLTlBcTVGQ2JDRUNCVll4cFJ0V2pxVGw1TkJaTjZqSjE2VGZHZXdqR19talF2N085OGJBYjF3M1lCaWNlZjFLRGtaNUVBVHpIWi1mNXJaTE9iZVREdTkyQ0djMWNGdGNaZkV0WGlqOS1HTUJUcWRpSDZYTkc0VUVya1JBSEVzLUlibDhZUjJfS0JrdVdWTGJTYWJpTXVWeWRNdU8tSXZHQ25ybmtZQzlhR21mNzl5TlBtbzhNRnJmTFcxN2VWLUdJNEp4Q9IBlgJBVV95cUxONVlXWWJCbVhCZDBjM0ZhUDlEcnBWNVJUdTNGNjJXeXV4NlRpY2lwQlNmVFM5dDlwdVVEejdRX2MyZWFvbG1LLUJ1VGc1Zy1KamlfWHk3SHRiMlAtM0VBUjY2MHIwVzZyR3Jyc3ZMNnkxSTlLTUNHQ3hRNHdJRi00UEZ5TDNrS2p4UGVxUFhyX19RLUZSOXd1c2NzSm5LczdpRkY1UnFzRks3cjdBX2NWVXhVSkZoaXNfOGxvMXQwX3p3VVN2M2tVZTZmRDIyZ1FvN0tfTWF4LUt1ZXI2RTZkTGY1Zndpdkw2Y3djeUdNT2pwOU44Q1JXWHM0UkV0bEdTVWpaVTZ3SXA0SzZSTnYtWjBLMUxldw?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 01:45:48 GMT"
-    },
-    {
-      "title": "Why Is Stock Market Falling Today? Sensex Drops Over 800 Points, Nifty Slips Below 22,600; Key Reasons Explained - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWWg0dDRpcmtjNklEc0lVSG5lZWxUR2JXMF9EaDR5YWozMk1rMjZhU0hOQjhaR0lLMDZFYWNuNUxPV1NmdkdLTGRwMnRMVDVDNFlaSmpONU5qellPa0lVTjRfZ2FxWERCbVptWWc3WFlZazJTUlp0bW53U3QySDBHMW9Ic2g3djNHbS1oWV82NHVmWTQwaDNOU3UtWDFqRmtjSi1jZUgwczZ3dW16SHFYbXhieUZQWlZRV3ZnbVY0bjFyZXdyS1N6eG81QnU2c2l0dFNSdlRCVXFhdTdnSmN5WEdkQ1dGTXZiblVMUVRpX2NCLXA1bWxadmMySVFaZDcwY25EQVRyY3BHd9IBkgJBVV95cUxONzVPaXVRSE1WNE8teUkxaWRiR3JXMklmNk55OUx4YnlTX3lDLXQyaUx3ZXRtekFFcm9XbDlNMmt6NEJYeVpzNlJPRF9DQUVzSS0wbDZSTHE4QjJ4UDhCRTJNLVMxY1hRV3FoZFhpeGVqQkpFWHdqYzVQZHpIb24tckxGWWpMTHVtN0pQbXBfXzczMG1kRFVnN0ctWXdCbmhKNzV6YlV0dnNyQlFrX1hjZzd2bHhfa0tIZ3l3TDhqMnExTFVlcnIzci10cG1YSURiWUpvMEs5S2JNV3hZdmYydmRETGlKMGE3WGVrTC1YLWtGbFVfcG82MmNtZjZ1X0tGZEN2U1pyUkFVQWpPVEJ5d013?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 04:25:48 GMT"
-    },
-    {
-      "title": "Stock Market Highlights: Sensex Ends 353 Points Lower, Nifty At 22,699; Broader Indices Outperform - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHTSAZwCQVVfeXFMTlpZX2h0X1ctREhmazVTME1YZGJaUllQNzJNeFpGcmlQTkVrS0NMaXU5TFREM3Bfb29HdEQ2bG1FWkdHOXBpLURBbk9JaWZQNHFEUmVFSGVmdlJVWFg4cEVoSWFtMlA5akRwMXlXVVNkOU1lSXc0MlBmeWF2QjBZQ3RSZHB4NS1aRXVGd2dUNV9qMTNHWm12amlzcVA1VHNYSGRuaTVfRUtfRXZocnJ5MVltcm9tVjZ5RmdEMzdBS1VUVG4wV1JIWFpzMDk3bGhFZm5lcGhaOGFqZzdZVmRHdGpYTXZMTUJsS3FqYXlnWjlMOXBIUVd1bnZwYU4ydkRkRkFTNWJiX3JNRFJiUzdYcEttMzhGcjNxTXNqZUQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:46:30 GMT"
-    },
-    {
       "title": "How can US Fed FOMC meeting outcome impact Indian stock market? Sensex, Nifty to rise? Experts decode - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFZvM3NMeWFaZWdDOXJWX3Y3dnA3RjJmMUlZNjZUU3I4RlRwemFzWjNLc2VGSXIxOThvYXJmekVZMkJDNjkxbkV0SVNRWjI2ZGdsOFctY2Z3TExhbFFKUXlfUHZXUG5RNmVtVktMLUtLVjN1WmdmM2RvQUs5b0gwVlBhbkEwdlFkN1duNURLcGJ2Ni1fSVpCdXpORXlFR1JudmYyZHM4U3RsRFpuMUxtakh2MjFMLUJKMkRoSmZmU3lSRmxhWHpNLUlDS2E2c2VGbU5fV0d1dW5jc2tpb1VQWjQzYV9sRmh4Ykk5Vk5rLWR4UkZZZFdJNW1yNzDSAYICQVVfeXFMTXhyQlhLeEtxLW9oR0lQcHoxNTBaaTdqaDgyMWVYVXhJZXlteDZGUEcwUjlZd05rUXdSRC1yMmFZWkl6ZEZZRmFiZ0dBSFBMcTVzU3ZORG82VzZ6VGVseW0yZGZxR1M4V1VLTjI0aDJfU29EZ0NqT1VsaktXNTVoeXdPNlNxYlNpSWZpOXpTQzB4c1lrb2Y3T1F1MVp2T08xaW4zNTVobVpQTmlfdlRITThka2hhc1U5WTF5cXgtXzBZdXlYbGVPT0t5OTd1MXZnTUtMWUxVRUFwbWlPWmxTeFRKV0VvNkh6U3pEUVdBZ04wSzJaN0dEWUFsWnMteWpuZzB3?oc=5",
       "publishedAt": "Wed, 28 Oct 2026 18:46:28 GMT"
+    },
+    {
+      "title": "Gift Nifty Hints at Flat‑to‑Weak Open as Crude, Fed Weigh - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UX1ZXNHRDTUk4ajJKVDNZUHdrZnM0QkcwaVJIcVBHSmRmME5qUmxpM3RIZWhWcDRMdmxsVHpQcDlIcjBWQ19qT1IzZFRWaXZScFN6dkk2RDJGNWMydDlPNVFIRi1SYUp3TmwxT0J0bHc5Vkh3T21ETC1MUQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 03:13:08 GMT"
+    },
+    {
+      "title": "Sensex, Nifty trade higher after US Fed holds rates; crude oil remains a concern - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXViREYtTGFhN2E1dTNudm5xR0VHZU1kakd2WHZiNDZXV3VvWFRhVXVvUlAxU3FEVTlmeHdWbjc3VFRvVmNvczJwTkVPbldUejYza0FYcFBDVTFrWHVtS2xLYXhPNjNkLWRmbE5wMDNTbWY2Mm92UGNhZDhaNUdZSF9GODkyMjhselJ0eDVQbGpscENobHRpWkxBU1F3R2cwWVR4cDNDVkd4dWZ1dS1nRkhEQTA4WlBnZGZERndyM1M2UdIBxwFBVV95cUxQV2VVVC1qZXc5RGl2TGRPd0Y5YTFKQV9GWFVLV3o1WHpDVldxaDdWVEljWGxsTVViS2R6Q1BXNTNJYXVMX1g5NDZ5cUFiOUNjMnlUZ1NHYWlqUUhRUWl3S29FR3haNFl5OGZnakRVbmVNWjdnclA1anlWbDZ2aGFXZ29KQnJncXcyWGZjd3pCYVBmZjJDbDJ5UXFxanBlcm1kNXRBRlo0UmlQaVBxWkF6eEV5T3ZjamRZY0dpc2dHS04xWjI0NFhv?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 03:50:08 GMT"
+    },
+    {
+      "title": "Sensex Today Trades Higher | Nifty Above 22,700 | Jio Platforms Up 4% - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdHRLMXRySU0yU0lBdUJDU1RzcEpvM01WZjNEOXlaTlJGd2FnZk1fNUxTY2p0Q2lrNUpNOFN6UkNpc2xKNVBTYVJmRkJXaEJyX0Z0eUoxOG9kZmlic1hQaE84eWR4TU9JNDhVa243amFRMC11bjRzN3pwZHpiV2N6VlVMTEJqR2gtYmk5WExRek40TWtvOGtvcHRhTU14MGhaYWtsZHBianlEajd0dnFGdElaR0FIbmQyTkxMSHhjZG1nUTBL?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 04:35:52 GMT"
+    },
+    {
+      "title": "Sensex rises 245 points, Nifty gains 63 points on Reliance buying, foreign fund inflows - Telegraph India",
+      "source": "Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMHV0SzJDNVhFcGJaTXd3MWdkdV85dXN3V1hNM3V4cjF4U3NRMlF3bW9PTm9QYWhfc19FUUMyNk55YWR5c2p4a1J3OFh5QUVlN3BMaUVFU3BKWUVzY2xDVGk5T25xTXlBUmRYWmVHeUUxdEd0d1YyVjI1Mm5zRG1uSkNEQXRpN2tremhMXzNZMjRmQUw4aGxSTjJOb1hZbVdqemN5alNia3Z1dGJzaVh4ZEVCTkpGUDRpYXgzVW1DR3BuOVRBRm9YM1pmYnJyWGw0RkU40gHYAUFVX3lxTE82S0RJc2tGYW1hOVBWeWZQRi1RLUVUSE1FWVRwWXR5Z0FERDRVbXRNdDVfM1lMUHZnejNOOXVNejJrTVRuWXM1V1NPS0VIbDNDY2VVd2xVNEphRGExSExSVU53MEM1TUt3eTM3bG4zbUcwcmlJSXVpWU1DR25Rd3VhOGZodlJ3YkctMEdic3VBd25IZDk3WkFQcVR6OFpqei1nTjZ5aEdWOGEwTTB1eFFkc1M2aE9LdlU1WjVmRk5GeE5ZSkRjYl9rSzctRVBxdWVlb3FZQUZvTw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 05:00:22 GMT"
+    },
+    {
+      "title": "Why is market rising today? Sensex jumps 600 points, Nifty nears 22,900. 6 key factors behind Rs 3 lakh crore gains - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdk9rN2FKLVE5VTg4S2phUUhUUjlCTjhVTjEtZVJqbmhiUkx6aVlfc2o2ZzNOVDVOVEltQm14TlRFYU5tTVZja0pnRC0xbC13aEZzeVYtUGRCTGEwVDA3ZEI4SzZybkpmNW9QNFBJTmkzZ2FEN25CQk5yT3h5ZXZHdUlLUGo3blE1TlAyQVJBTllJdl8tQkF6TGlEYkJ6YURwd05EMFlWUXNIT1NZRnE4WmZQTXBKX1h2LXJHT0dSZ1V0S1RKbFNDZkZXQTNmY2xObEoyTGpaSmNPaG9zR19zLUlld3pBR0dYajN4NW45Ui14TlV2dGNwX2FSXzNHNlh4Vy1CZmpaUkJpQ244ODJUY1d5MA?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 05:31:22 GMT"
+    },
+    {
+      "title": "Stock Market Today: Sensex Rallies, Nifty 50 Above 22,800; Adani Ports, Adani Enterprises, PowerGrid Among Top Gainers - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd2cxcjN4THQ4TFZtR2FweWRJR1BWYmpUcDJTZlRBVWZEeGZYR3R5RFNsYmFzM1ppNlN0Ykw4ZDdZR3l1Y05qZWdjZGpHOEt0QWZHcWFEQmVEc2RkMzl2cFZGbzV6eWFsZU42Nm1YUWZ1QTM4QVZIWmttM056VDhidk1sNmQ0Z3FDU3V1T3c3THFrTGloTjVUU2FHN3pKRUlfXzk1NkhzWTBmTWxWdGk2OVRwTWlLNmpLb1ZDamdaYVFwNHBtdzJObklHbXVEYzhCZHowY0o0OGs4WC1OTDl4WnVtUS1ld9IB7gFBVV95cUxObXhwRThRVnFsTlU0c3E5ejlpZEV1TTJ1QzBWd1JraWdFVWdaMjgwV2p6UUZGSGx6U0Rrajd6cjRlQUdocWczWDUzcGhpSE9YQ2g0RlN2eGg4M01aUHM2TzdPMm1Id1BqVS1pTnQ5eEl5MEZIaGQ2YVBRYlZ2ZU9hdVVkeGJ3NVVVQUpuRlVKQy1MdDl5SHdQUzFhM1A1eFdOcWVKN0k0cmlJOHN2NlNoamZaNlZIWF9GQ1JMWHRFM2drU3FTVERXX2ZYYlFUOGo3dmpVN3N3YUFNV1pTbzJwQUJkUnRLSFV3SXBFZkFn?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 03:51:18 GMT"
+    },
+    {
+      "title": "Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 08:56:28 GMT"
+    },
+    {
+      "title": "Sensex jumps over 500 points, Nifty above 22,850 after Fed keeps rates unchanged. What lies ahead? - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdENzbXlhLXJIRUIyV05fSUd6ZzVjYlhiei1JS0RwX0ZjeWpkM1VxWmlRWmlGYW9Od3laNXhKU0JxWjlWM2RNMDNYemJiSm90YkxlS1hWZjZzUG1BeWhVczAzSVNlcDgzZFd1MlhQRXRWNGJuSERZZ3o3Unl2QV83T1hXTXl3eFprQ3NWWTZzNDhPSjBjZFRUbVYxYUpqQ19rWlh4MHM5d2VPVzlKYUtHTXI2WW1SU0Q1dkozY0lZaFhIRnprdUxBR2Q1UkRHLWJjcEdOUnRfODhieHF6MFl2ZGdyY3dfa1hJcWxiQjBSMnlWVEhIXzVhVVk0eWLSAYICQVVfeXFMTnU5ZUZ6R1haOXo4aFlZY1RTNTJ1LXRBTTZjRUNiZk9NdDRzejRPRmJYR2dySFViel9kbm1hdURuVFB2V21DWXZPUjFDamZnVXBsQUVGbVlQODJWeG52WFlBcGFjZHhTVEdhaVVhYVZlUEpIbXg5Ym00b2wwTXRIc3NzZEdiblEzdFpoYVhPZXZGOUJ5YWw1VnNzbFJGdFFId2NHdmpiVTlzTmhOaWdGd0dtWHhGS1Y4NWJaMVpUZl93QV81ZmRQWE1VMzdTVjZtamlpV0pQUkR4Y0kxNmhhbjJPMFJUQUZjSV9qOVZFbUFGWng3cXZoR2tIb2xjVlZkd0Rn?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 04:55:13 GMT"
     }
   ]
 }
