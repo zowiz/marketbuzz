@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Jumps 905 Points and Nifty Reclaims 22,900 Led by FMCG and Financials",
+  "headline": "Sensex surges 905 points and Nifty reclaims 22,900 as FMCG and financial stocks rally",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,40 @@
     "nextOpen": ""
   },
   "why": [
-    "Strong buying in FMCG and financial stocks drove major indices higher.",
-    "Sharp gains in heavyweights like Adani Enterprises and Kotak Mahindra Bank lifted sentiment.",
-    "Positive earnings outlook for Reliance Industries brightened investor expectations.",
-    "Market participants watched key global factors including US Fed policy directions."
+    "European markets edged higher ahead of the upcoming ECB policy decision.",
+    "US Fed held interest rates steady, maintaining pressure on emerging market currencies.",
+    "India's Q2 FY27 GDP growth is projected at 7.35% by the Finance Ministry.",
+    "Ambit identified buying opportunities in power sector stocks following valuation resets."
   ],
   "whatHappening": [
-    "BSE Sensex soared over 900 points while NSE Nifty 50 ended above the 22,900 mark.",
-    "FMCG emerged as the top sectoral gainer in today's trading session.",
-    "Ambuja Cements reported a 90% YoY fall in Q2 net profit to Rs 114 crore.",
-    "V-Guard Industries registered a 71.5% surge in Q2 profit to Rs 112 crore."
+    "Sensex jumped 905 points while Nifty reclaimed the 22,900 mark supported by rallies in FMCG and banking sectors.",
+    "Ambuja Cements recorded a 90% decline in Q2 net profit due to compressed margins.",
+    "TVS Motor announced plans to scale up electric two-wheeler production capacity to 80,000 units per month by March 2027.",
+    "Shekhar Bajaj will transition to a non-executive board role at Bajaj Electricals starting January."
   ],
   "stocksInNews": [
     {
-      "symbol": "RELIANCE",
+      "symbol": "TATAPOWER",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        1
+        3
+      ]
+    },
+    {
+      "symbol": "JSWENERGY",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "TORNTPOWER",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
       ]
     },
     {
@@ -32,15 +48,23 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        3
+        5
       ]
     },
     {
-      "symbol": "VGUARD",
+      "symbol": "BAJAJELEC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "TVSMOTOR",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        8
+        9
       ]
     },
     {
@@ -48,7 +72,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        13
+        12
       ]
     },
     {
@@ -56,37 +80,29 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        13
-      ]
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        6
+        12
       ]
     }
   ],
-  "summary": "Indian benchmark indices surged on October 29 as the Sensex gained over 900 points and Nifty reclaimed 22,900. FMCG and financial sectors led the market rally, alongside strong gains in Adani Enterprises and Kotak Bank. Meanwhile, Q2 earnings disclosures created stock-specific volatility across cement and consumer electrical sectors.",
-  "updatedAt": "2026-10-29T10:38:11.473Z",
+  "summary": "Indian benchmark indices rebounded strongly today with Sensex soaring 905 points and Nifty closing above 22,900, driven by financial and FMCG stocks.\nCorporate news was highlighted by Ambuja Cements' 90% profit fall and TVS Motor's expansion plan to scale e2W capacity to 80,000 units monthly.\nGlobally, the US Fed maintained steady interest rates while European equities gained ground ahead of the ECB policy announcement.",
+  "updatedAt": "2026-10-29T11:01:50.137Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-29",
   "articleKeys": [
-    "global market japanese investors extend foreign bond selling streak to six weeks",
-    "ril q2 results preview profit outlook brightens as o2c business set to drive growth",
-    "global market japan bond yields steady ahead of boj policy decision",
-    "ambuja cements q2 results net profit tanks 90 yoy to rs 114 crore revenue rises 10",
-    "india bonds seen attracting buyers as 10year yield nears 2022 levels",
-    "stock market live sensex jumps 900 points nifty 50 tops 22950 fmcg top sectoral gainer",
-    "sbi mutual funds aum rises 10 to 131 trn h1 operating profit up 11",
-    "gdai launches india gaming report highlights need for stronger funding",
-    "vguard industries q2 results profit jumps 715 to rs 112 crore revenue rises 38",
-    "never seen this level of negativity sandeep tandon says the next rally may be closer than you think",
+    "ikea to open second store in bengaluru this time in the south",
+    "global market european shares edge higher ahead of ecb policy decision",
+    "us fed holds rates steady pressure on emerging markets expected with stronger dollar outlook",
+    "tatapower jswenergy torrentpower ambitseesbuyingopportunity in powerstocksaftervaluationreset",
+    "indias gdp growth seen at 735 in q2 fy27 amid risks finance ministry",
+    "ambuja cements q2 net profit plunges 90 pc as margins come under pressure",
+    "bajaj electricals exec chairman shekhar bajaj to become nonexecutive board member from january",
+    "us market microsoft oracle outshine alphabet as investors demand ai returns",
+    "dean of valuation aswath damodaran pegs anthropics worth at 1475 trillion ahead of mega ipo",
+    "tvs motor to raise e2w capacity to 80000 units a month by march 2027",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
-    "stock market today gift nifty us fed policy to oil prices five key factors for sensex nifty 50 on october 29 ndtv profit",
     "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
-    "stock market live updates sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
+    "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
+    "stock market today gift nifty us fed policy to oil prices five key factors for sensex nifty 50 on october 29 ndtv profit",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
     "how can us fed fomc meeting outcome impact indian stock market sensex nifty to rise experts decode livemint",
     "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
@@ -96,64 +112,64 @@
   ],
   "articles": [
     {
-      "title": "Global Market: Japanese investors extend foreign bond selling streak to six weeks",
+      "title": "IKEA to open second store in Bengaluru, this time in the south",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-investors-extend-foreign-bond-selling-streak-to-six-weeks/articleshow/135299602.cms",
-      "publishedAt": "Thu, 29 Oct 2026 15:05:06 +0530"
+      "link": "https://www.thehindu.com/news/cities/bangalore/ikea-to-open-second-store-in-bengaluru-this-time-in-the-south/article71639814.ece",
+      "publishedAt": "Thu, 29 Oct 2026 16:04:21 +0530"
     },
     {
-      "title": "RIL Q2 Results Preview: Profit outlook brightens as O2C business set to drive growth",
+      "title": "Global Market: European shares edge higher ahead of ECB policy decision",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q2-results-preview-profit-outlook-brightens-as-o2c-business-set-to-drive-growth/articleshow/135299167.cms",
-      "publishedAt": "Thu, 29 Oct 2026 14:54:40 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-ahead-of-ecb-policy-decision/articleshow/135301472.cms",
+      "publishedAt": "Thu, 29 Oct 2026 15:53:56 +0530"
     },
     {
-      "title": "Global Market: Japan bond yields steady ahead of BOJ policy decision",
+      "title": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-yields-steady-ahead-of-boj-policy-decision/articleshow/135298606.cms",
-      "publishedAt": "Thu, 29 Oct 2026 14:50:04 +0530"
+      "link": "https://www.thehindu.com/business/Economy/fed-holds-rates-steady-and-cuts-future-meetings-stronger-dollar-outlook-pressures-emerging-markets/article71639815.ece",
+      "publishedAt": "Thu, 29 Oct 2026 15:51:53 +0530"
     },
     {
-      "title": "Ambuja Cements Q2 Results: Net profit tanks 90% YoY to Rs 114 crore; revenue rises 10%",
+      "title": "TataPower, JSWEnergy, TorrentPower: Ambitseesbuyingopportunity in powerstocksaftervaluationreset",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-q2-results-net-profit-tanks-90-yoy-to-rs-114-crore-revenue-rises-10/articleshow/135298817.cms",
-      "publishedAt": "Thu, 29 Oct 2026 14:43:35 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tatapower-jswenergy-torrentpower-ambitseesbuyingopportunity-in-powerstocksaftervaluationreset/articleshow/135301267.cms",
+      "publishedAt": "Thu, 29 Oct 2026 15:48:55 +0530"
     },
     {
-      "title": "India bonds seen attracting buyers as 10-year yield nears 2022 levels",
+      "title": "India's GDP growth seen at 7.35% in Q2 FY27 amid risks: Finance ministry",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/india-bonds-seen-attracting-buyers-as-10-year-yield-nears-2022-levels-126102900690_1.html",
-      "publishedAt": "Thu, 29 Oct 2026 14:41:16 +0530"
+      "link": "https://www.business-standard.com/economy/news/india-s-gdp-growth-seen-at-7-35-in-q2-fy27-amid-risks-finance-ministry-126102900958_1.html",
+      "publishedAt": "Thu, 29 Oct 2026 15:46:17 +0530"
     },
     {
-      "title": "Stock Market LIVE: Sensex jumps 900 points, Nifty 50 tops 22,950; FMCG top sectoral gainer",
+      "title": "Ambuja Cements Q2 net profit plunges 90 pc as margins come under pressure",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-oct-29-nse-bse-sensex-today-nifty-gift-nifty-jpl-share-price-ipo-today-126102900090_1.html",
-      "publishedAt": "Thu, 29 Oct 2026 14:40:26 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/ambuja-cements-q2-net-profit-plunges-90-pc-as-margins-come-under-pressure-126102900887_1.html",
+      "publishedAt": "Thu, 29 Oct 2026 15:45:03 +0530"
     },
     {
-      "title": "SBI Mutual Fund's AUM rises 10% to ₹13.1 trn; H1 operating profit up 11%",
+      "title": "Bajaj Electricals exec chairman Shekhar Bajaj to become non-executive board member from January",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/sbi-mutual-fund-s-aum-rises-10-to-13-1-trn-h1-operating-profit-up-11-126102900707_1.html",
-      "publishedAt": "Thu, 29 Oct 2026 14:32:18 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-electricals-exec-chairman-shekhar-bajaj-to-become-non-executive-board-member-from-january/articleshow/135300503.cms",
+      "publishedAt": "Thu, 29 Oct 2026 15:36:09 +0530"
     },
     {
-      "title": "GDAI launches India gaming report, highlights need for stronger funding",
+      "title": "US Market: Microsoft, Oracle outshine Alphabet as investors demand AI returns",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/gdai-launches-india-gaming-report-highlights-need-for-stronger-funding/article71639326.ece",
-      "publishedAt": "Thu, 29 Oct 2026 14:26:20 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-microsoft-oracle-outshine-alphabet-as-investors-demand-ai-returns/articleshow/135300442.cms",
+      "publishedAt": "Thu, 29 Oct 2026 15:29:21 +0530"
     },
     {
-      "title": "V-Guard Industries Q2 Results: Profit Jumps 71.5% To Rs 112 Crore, Revenue Rises 38%",
+      "title": "Dean of valuation Aswath Damodaran pegs Anthropic's worth at $1.475 trillion ahead of mega IPO",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/v-guard-industries-q2-results-profit-jumps-71-5-to-rs-112-crore-revenue-rises-38-12252715#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 14:25:53 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dean-of-valuation-aswath-damodaran-pegs-anthropics-worth-at-1-475-trillion-ahead-of-mega-ipo/articleshow/135300228.cms",
+      "publishedAt": "Thu, 29 Oct 2026 15:23:33 +0530"
     },
     {
-      "title": "'Never Seen This Level Of Negativity': Sandeep Tandon Says The Next Rally May Be Closer Than You Think",
+      "title": "TVS Motor to raise e2W capacity to 80,000 units a month by March 2027",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/sandeep-tandon-exclusive-next-market-rally-may-be-closer-than-you-think-12252939#publisher=newsstand",
-      "publishedAt": "Thu, 29 Oct 2026 14:25:24 +0530"
+      "link": "https://www.business-standard.com/companies/news/tvs-motor-to-raise-e2w-capacity-to-80-000-units-a-month-by-march-2027-126102900812_1.html",
+      "publishedAt": "Thu, 29 Oct 2026 15:21:16 +0530"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
@@ -162,22 +178,22 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
+      "title": "Closing Bell: Nifty reclaims 22,900, Sensex jumps 905 pts; FMCG, financials rally - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1I4OEpudXdIbTQ1SDJ0WkhGdkRyOXUzd3E4TmU2ZlR3YnhtWk1vUmJWRjhFLS10bGtDampCdC1FZnNCLVNCdDZSNUs5UGlqY1RnNUF5ZzRFYWkzam1iRy1sSGt4Smk3M05YanFyaXpLTmhaLWpzNEhDZjNyY0FtVFFYZHp2T09TSkFRSExfQW5Jc2UzX1VHczdCUENJMWpCdVNiM3lZM1ZKb0Y3VTZBNnFQU0NmbENweEtlQm4wekh2MHhRM3dTNFQ4RUhuTzJfc0xmaGZ1YXl6TFZ6MjR1Szl6Z2laYkFtaVFJamRqLU1OcXQtcVhVbW5wTWZjczlYZ2RqU1c5aVRMUzFfVFExdEJCdGVmdU5KTDNmOEhKMkhqTk3SAagCQVVfeXFMTXNQTUNSOURwSHpOLUJGclRnYVh3cXc4dUpnd1F4Y0U0dzNnT0thdm91MjZrUzdTSU1ra1lBb01pWDJtc2x6NHdBNS1NeTVVaVA5VG9rUFJ0akR2eVItZVlqdjhKeHlvb1cxYVJxOXk1a21QY3B3N2xyLW1BaVhxWE5iZmxsdDJfeFJRT0g3S2hUb1dBakMwSjhrNnR2OUFVZkVvbHVFSl9iWDJlZ2dRSWNwamFuekE3MUZYcEhBQjlMSzBDMmV5cUZMWkNfQzQyWE1ReXUxS19Gc3BMOUE3SU1tc085VGVXYXp4Wmw3SE1HajRFaC1FZ2pZLUdSUUtWd2E0M0tDTUtpTk9kUzNMOHdhdW9heF9kdXVzTmloYTZjYncxQXdyQ3o?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 10:43:01 GMT"
+    },
+    {
+      "title": "Stock Market Highlights | Sensex soars 905 pts, Nifty ends above 22,900; Adani Ent jumps 5%, Kotak Bank 4% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY090MXJYMC1pb0lhbXpmdW5hTHh0TXgyWlBLNTdGQUR0d2FXMHN1WWhLdEh4emd6RE1kY2RheTg0NFBXbWZPSFNPZno0TmJyQ08xVmREYWFwR1k4UGh5MFNMNERDZEhWWVBzd3cxR3BUMUl2cUlfczcyNHUzeVRWMnI3UmgtVEliYllFcWxXZmZrVXhJM2hQSmYyeTZjN09vYVV1QnNDcFNmTHk1LXlkVGo1b2VpUElRd1FnUTdabTFWSTRKUDlPSTNad0lXVUhqVGhVOVlHa1VnRFhyM2tvWEdvTHl5UEVod05QSW9IY2dHVXRIb0VpOFBoVjJoc09WeXNJdHYxT1JmbU1QUTdYWUQ3bWHSAZoCQVVfeXFMTXpoUnZfNkh5Q0d5ZjlEangxTXJUWGlwVWFMSVJFR2FUMUFuX1NwaWRmVGdjY01xZlRRbHE1RDgtenlDdHFTbEM5WktEMDNISmZhcy1iSFF2MzBsTXZhVXJDTzBES3ZOcW5ZOUtSTEs2aVdMVzZNTzRCVklPSTlSbVhaMzFhQlctT2stVnpDeVY3a2tWZUdxTVEyeW4tcms4dm5NWW5ZR0tmY2JfcWN1VlZ2QzZiUWlkcl9FNmd0Q2NENTJMSHdFSy1ndnN3QTZvZ3RaUFBXb1Jxc0dVdVFscFhuUFRqWEFNXzlMbDVvZzNaaW00VzgwNHUyTFU4QW1OZEYya000YkJZTWVHV3FxZ0tUZHVMUFdfb2xB?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 10:54:35 GMT"
+    },
+    {
       "title": "Stock Market Today: Gift Nifty, US Fed Policy To Oil Prices; Five Key Factors For Sensex, Nifty 50 On October 29 - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTkdjeEhGQ0k3SHlKU0xzYmpBYVV2MWlyVl9laFRPY2N3WXRFWFEtdDQ3ZUU2YWdhaGpab1FKRXZMTlVHYmRHODQtZEUyVk5aVVc2c0hnV2FsYndnQ0FsaGMtTnhzcWhTMGZNeHBNbWxITEN3Y1ZjSTZMZ1Q1UjZjX1E5elRJdXZFd1dPeEx0ZzBfai1qQjA4TDZyRUZHY3V2Uk9mMW9qYWtrXzg4ZVEzU0IxSUlkTlZzM2VVcUpyU2lDN1lRSThQZFExVTNBVVdHOTUzem5qTXBreHJYV0g4c1ktRG0wYVpLSGJDcnA1ODZNbWtRa0HSAf4BQVVfeXFMT1NWT0FQYUNvd1FuaW1kcGpueVB0TmQ0THlZckR5aUlqaVViM0xYY2NTb0szRzVpa1hPRUk4MVo2WmNzc0gtTFF6Y2paZUs3VzZRRW5YZHJaanNDenJObUpxSW1BVHhkNWhBNV9teHVUTm5ERkx0V0tRQnVYNW1GUGY0VFp2RnFUc1BaRHlyeVpYYUMtbkpmanpoVk9aQ21wMzQwbnhqT2FiM1o2ZF9xemRBbzZiYWJwOWFZcTNtVHRMUDZvYkZKbk1EVXFRQ1ZSLWJYMXVJMUtzVVVyRDB5Q0ViNV9wTFdxdnFxWlFmN1RMZ2FDbHJlSFB3UVNDNEE?oc=5",
       "publishedAt": "Thu, 29 Oct 2026 01:39:28 GMT"
-    },
-    {
-      "title": "Closing Bell: Nifty reclaims 22,900, Sensex jumps 905 pts; FMCG, financials rally - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1I4OEpudXdIbTQ1SDJ0WkhGdkRyOXUzd3E4TmU2ZlR3YnhtWk1vUmJWRjhFLS10bGtDampCdC1FZnNCLVNCdDZSNUs5UGlqY1RnNUF5ZzRFYWkzam1iRy1sSGt4Smk3M05YanFyaXpLTmhaLWpzNEhDZjNyY0FtVFFYZHp2T09TSkFRSExfQW5Jc2UzX1VHczdCUENJMWpCdVNiM3lZM1ZKb0Y3VTZBNnFQU0NmbENweEtlQm4wekh2MHhRM3dTNFQ4RUhuTzJfc0xmaGZ1YXl6TFZ6MjR1Szl6Z2laYkFtaVFJamRqLU1OcXQtcVhVbW5wTWZjczlYZ2RqU1c5aVRMUzFfVFExdEJCdGVmdU5KTDNmOEhKMkhqTk3SAagCQVVfeXFMTXNQTUNSOURwSHpOLUJGclRnYVh3cXc4dUpnd1F4Y0U0dzNnT0thdm91MjZrUzdTSU1ra1lBb01pWDJtc2x6NHdBNS1NeTVVaVA5VG9rUFJ0akR2eVItZVlqdjhKeHlvb1cxYVJxOXk1a21QY3B3N2xyLW1BaVhxWE5iZmxsdDJfeFJRT0g3S2hUb1dBakMwSjhrNnR2OUFVZkVvbHVFSl9iWDJlZ2dRSWNwamFuekE3MUZYcEhBQjlMSzBDMmV5cUZMWkNfQzQyWE1ReXUxS19Gc3BMOUE3SU1tc085VGVXYXp4Wmw3SE1HajRFaC1FZ2pZLUdSUUtWd2E0M0tDTUtpTk9kUzNMOHdhdW9heF9kdXVzTmloYTZjYncxQXdyQ3o?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 10:35:39 GMT"
-    },
-    {
-      "title": "Stock Market Live Updates | Sensex soars 905 pts, Nifty ends above 22,900; Adani Ent jumps 5%, Kotak Bank 4% - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY090MXJYMC1pb0lhbXpmdW5hTHh0TXgyWlBLNTdGQUR0d2FXMHN1WWhLdEh4emd6RE1kY2RheTg0NFBXbWZPSFNPZno0TmJyQ08xVmREYWFwR1k4UGh5MFNMNERDZEhWWVBzd3cxR3BUMUl2cUlfczcyNHUzeVRWMnI3UmgtVEliYllFcWxXZmZrVXhJM2hQSmYyeTZjN09vYVV1QnNDcFNmTHk1LXlkVGo1b2VpUElRd1FnUTdabTFWSTRKUDlPSTNad0lXVUhqVGhVOVlHa1VnRFhyM2tvWEdvTHl5UEVod05QSW9IY2dHVXRIb0VpOFBoVjJoc09WeXNJdHYxT1JmbU1QUTdYWUQ3bWHSAZoCQVVfeXFMTXpoUnZfNkh5Q0d5ZjlEangxTXJUWGlwVWFMSVJFR2FUMUFuX1NwaWRmVGdjY01xZlRRbHE1RDgtenlDdHFTbEM5WktEMDNISmZhcy1iSFF2MzBsTXZhVXJDTzBES3ZOcW5ZOUtSTEs2aVdMVzZNTzRCVklPSTlSbVhaMzFhQlctT2stVnpDeVY3a2tWZUdxTVEyeW4tcms4dm5NWW5ZR0tmY2JfcWN1VlZ2QzZiUWlkcl9FNmd0Q2NENTJMSHdFSy1ndnN3QTZvZ3RaUFBXb1Jxc0dVdVFscFhuUFRqWEFNXzlMbDVvZzNaaW00VzgwNHUyTFU4QW1OZEYya000YkJZTWVHV3FxZ0tUZHVMUFdfb2xB?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 10:33:27 GMT"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",
