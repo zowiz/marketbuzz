@@ -1,5 +1,5 @@
 {
-  "headline": "Nifty Reclaims 23,000 as Sensex Gains 308 Points; IOC and Bank of Baroda Report Strong Q2 Profits",
+  "headline": "Nifty Reclaims 23,000 While Sun Pharma Faces Production Halt and Profit Decline",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,169 +7,155 @@
     "nextOpen": ""
   },
   "why": [
-    "Nifty reclaimed the 23,000 mark while Sensex gained 308 points during the session",
-    "Indian Oil Corporation (IOC) reported a massive 184% surge in Q2 profit due to higher refining margins",
-    "Bank of Baroda's profit jumped 36% aided by a stake sale in the National Stock Exchange (NSE)",
-    "Syrma SGS recorded its best-ever quarter with a 73% revenue growth to Rs 1,999.5 crore"
+    "Nifty reclaimed the 23,000 level while Sensex gained 308 points during the session",
+    "Rally in IT and pharma stocks supported the indices despite weak broader market performance",
+    "IndiGo and HCLTech saw significant gains of 4% and 2% respectively",
+    "Positive momentum continued from the previous session's 900-point Sensex surge"
   ],
   "whatHappening": [
-    "IGL's net profit plummeted by 93% due to higher input gas costs and consumer price protection",
-    "Sun Pharma and Zee Entertainment reported significant drops in quarterly profits of 36% and 40% respectively",
-    "Lodha Developers showed strong performance with a 63% rise in H1FY27 net profit",
-    "Spandana Sphoorty returned to profitability in Q2FY27 with a profit of Rs 18 crore"
+    "Sun Pharma reported a 36% drop in Q2 profit and received orders to halt eye-care drug production",
+    "IREDA appointed Jatin Kumar Nayak as CMD to lead the renewable energy lender until 2029",
+    "JioStar reported a 13.2% fall in Q2 profit despite a 9.8% increase in revenue",
+    "IRDAI is upgrading its business analytics platform and declared November as grievance resolution month"
   ],
   "stocksInNews": [
     {
-      "symbol": "IGL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "SYRMA",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
       "symbol": "SUNPHARMA",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
-        2
+        0,
+        7,
+        19
       ]
     },
     {
-      "symbol": "ZEEL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "LODHA",
-      "sentiment": "Positive",
+      "symbol": "IREDA",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         4
       ]
     },
     {
-      "symbol": "SPANDANA",
+      "symbol": "INDIGO",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        6
+        12
       ]
     },
     {
-      "symbol": "IOC",
+      "symbol": "HCLTECH",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        7
+        12
       ]
     },
     {
-      "symbol": "BANKBARODA",
+      "symbol": "ADANIENT",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        8
+        15
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        15
       ]
     }
   ],
-  "summary": "The Indian markets ended higher with Nifty reclaiming 23,000, driven by strong earnings from IOC and Bank of Baroda. While benchmarks gained, mid and small-cap stocks underperformed during the session. Several major firms including IGL and Sun Pharma faced significant profit declines despite the broader market recovery.",
-  "updatedAt": "2026-10-30T17:01:43.329Z",
+  "summary": "The Indian stock market ended higher with Nifty reclaiming the 23,000 mark, though mid and small-cap stocks underperformed. Sun Pharma faced significant headwinds after reporting a 36% profit slump and receiving a production halt order for its eye-care drug plant. Meanwhile, IREDA announced new leadership and JioStar reported mixed quarterly results with falling profits.",
+  "updatedAt": "2026-10-30T18:01:39.710Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-30",
   "articleKeys": [
-    "igl net profit plummets 93 on higher input gas cost and consumer price protection",
-    "syrma sgs reports bestever quarter q2 revenue up 73 to rs 19995 crore",
-    "sun pharma q2 profit plunges 36 on exceptional charges despite revenue growth",
-    "zee entertainment q2 profit drops 40 to rs 46 crore as ebitda margin contracts to 32",
-    "lodha developers h1fy27 net profit soars 63 expects to beat fullyear guidance",
-    "irdai declares nov grievance resolution month 72 of cases pending for more than a year",
-    "spandana sphoorty returns to profit at rs 18 crore in q2fy27",
-    "ioc q2 profit soars 184 on higher refining margins",
-    "bank of baroda q2 profit jumps 36 to rs 6532 crore on nse stake sale",
-    "pilot all five pilgrims killed in badrinathdehradun helicopter crash",
+    "india orders sun pharma to halt eyecare drug production at plant after quality lapses",
+    "nasdaq hits near threemonth low as amazon intel rattle ai trade",
+    "intel stock plunges 30 as weak pc demand and ai costs trigger global chip selloff",
+    "india made remarkable progress in reducing poverty world bank",
+    "ireda appoints jatin kumar nayak as cmd to head renewable energy lender until 2029",
+    "irdai upgrades business analytics platform for health covers",
+    "irdai declares nov grievance resolution month",
+    "sun pharma q2 profit falls 36 as litigation costs hit earnings",
+    "yuvraj singhs big statement on abhishek sharma ishan kishan and vaibhav sooryavanshis odi chances",
+    "jiostar q2 results pat falls 132 to 1147 crore revenue rises 98",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
-    "stock market today live october 30 sensex settled at 7445953 nifty 50 gained 11635 pts or 051 businessline",
+    "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
+    "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
+    "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
+    "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
-    "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit",
-    "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
-    "stock market today live october 28 sensex settled at 7324603 nifty 50 declined 5090 points businessline",
-    "stock market highlights today bse sensex and nifty50 ends flat amid elevated crude oil prices the times of india",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
-    "stock market close sensex falls for 4th day ends 126 pts lower nifty at 22600 vix rises 6 business standard"
+    "sensex nifty close with gain of 05 as it pharma stocks rally weak broader market limits gains chinimandi"
   ],
   "articles": [
     {
-      "title": "IGL net profit plummets 93% on higher input gas cost and consumer price protection",
+      "title": "India orders Sun Pharma to halt eye-care drug production at plant after quality lapses",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/igl-net-profit-plummets-93-on-higher-input-gas-cost-and-consumer-price-protection/article71646428.ece",
-      "publishedAt": "Fri, 30 Oct 2026 22:06:05 +0530"
+      "link": "https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece",
+      "publishedAt": "Fri, 30 Oct 2026 22:40:35 +0530"
     },
     {
-      "title": "Syrma SGS reports best-ever quarter; Q2 revenue up 73% to Rs 1,999.5 crore",
+      "title": "Nasdaq hits near three-month low as Amazon, Intel rattle AI trade",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/syrma-sgs-reports-best-ever-quarter-q2-revenue-up-73-to-rs-1999-5-crore/articleshow/135369732.cms",
-      "publishedAt": "Fri, 30 Oct 2026 22:05:53 +0530"
+      "link": "https://www.business-standard.com/world-news/nasdaq-hits-near-three-month-low-as-amazon-intel-rattle-ai-trade-126103001910_1.html",
+      "publishedAt": "Fri, 30 Oct 2026 22:39:06 +0530"
     },
     {
-      "title": "Sun Pharma Q2 profit plunges 36% on exceptional charges despite revenue growth",
+      "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece",
-      "publishedAt": "Fri, 30 Oct 2026 21:51:00 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
+      "publishedAt": "Fri, 30 Oct 2026 22:37:17 +0530"
     },
     {
-      "title": "Zee Entertainment Q2 profit drops 40% to Rs 46 crore as EBITDA margin contracts to 3.2%",
+      "title": "India made ‘remarkable progress’ in reducing poverty: World Bank",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q2-profit-drops-40-to-rs-46-crore-as-ebitda-margin-contracts-to-3-2/articleshow/135369566.cms",
-      "publishedAt": "Fri, 30 Oct 2026 21:50:52 +0530"
+      "link": "https://www.thehindu.com/news/national/india-made-remarkable-progress-in-reducing-poverty-world-bank/article71646460.ece",
+      "publishedAt": "Fri, 30 Oct 2026 22:29:03 +0530"
     },
     {
-      "title": "Lodha Developers H1FY27 net profit soars 63%, expects to beat full-year guidance",
+      "title": "IREDA Appoints Jatin Kumar Nayak As CMD; To Head Renewable Energy Lender Until 2029",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-h1fy27-net-profit-soars-63-expects-to-beat-full-year-guidance/articleshow/135369310.cms",
-      "publishedAt": "Fri, 30 Oct 2026 21:43:16 +0530"
+      "link": "https://www.ndtvprofit.com/business/ireda-appoints-jatin-kumar-nayak-as-cmd-to-head-renewable-energy-lender-until-2029-12260886#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 22:26:01 +0530"
     },
     {
-      "title": "IRDAI declares Nov grievance resolution month; 72% of cases pending for more than a year.",
+      "title": "IRDAI upgrades business analytics platform for health covers",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/irdai-upgrades-business-analytics-platform-for-health-covers/article71646545.ece",
+      "publishedAt": "Fri, 30 Oct 2026 22:22:52 +0530"
+    },
+    {
+      "title": "IRDAI declares Nov grievance resolution month",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Industry/irdai-declares-nov-grievance-resolution-month-72-of-cases-pending-for-more-than-a-year/article71646019.ece",
-      "publishedAt": "Fri, 30 Oct 2026 21:42:18 +0530"
+      "publishedAt": "Fri, 30 Oct 2026 22:17:39 +0530"
     },
     {
-      "title": "Spandana Sphoorty returns to profit at Rs 18 crore in Q2FY27",
+      "title": "Sun Pharma Q2 profit falls 36% as litigation costs hit earnings",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/spandana-sphoorty-returns-to-profit-at-rs-18-crore-in-q2fy27/articleshow/135369091.cms",
-      "publishedAt": "Fri, 30 Oct 2026 21:35:19 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-profit-falls-36-as-litigation-costs-hit-earnings/articleshow/135370217.cms",
+      "publishedAt": "Fri, 30 Oct 2026 22:14:19 +0530"
     },
     {
-      "title": "IOC Q2 profit soars 184% on higher refining margins",
+      "title": "Yuvraj Singh's Big Statement On Abhishek Sharma, Ishan Kishan And Vaibhav Sooryavanshi's ODI Chances",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/ioc-q2-profit-soars-184-on-higher-refining-margins/article71646254.ece",
-      "publishedAt": "Fri, 30 Oct 2026 21:33:51 +0530"
+      "link": "https://www.ndtvprofit.com/sports/yuvraj-singhs-big-statement-on-abhishek-sharma-ishan-kishan-and-vaibhav-sooryavanshis-odi-chances-12260814#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 22:11:35 +0530"
     },
     {
-      "title": "Bank of Baroda Q2 profit jumps 36% to Rs 6,532 crore on NSE stake sale",
+      "title": "JioStar Q2 results PAT falls 13.2% to ₹1,147 crore; revenue rises 9.8%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-profit-jumps-36-to-rs-6532-crore-on-nse-stake-sale/articleshow/135369087.cms",
-      "publishedAt": "Fri, 30 Oct 2026 21:32:22 +0530"
-    },
-    {
-      "title": "Pilot, all five pilgrims killed in Badrinath-Dehradun helicopter crash",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/pilot-all-five-pilgrims-killed-in-badrinath-dehradun-helicopter-crash-126103001786_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 21:18:53 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/jiostar-q2-results-pat-falls-13-2-to-1-147-crore-revenue-rises-9-8-126103001867_1.html",
+      "publishedAt": "Fri, 30 Oct 2026 22:09:26 +0530"
     },
     {
       "title": "Closing Bell: Nifty reclaims 23,000, Sensex gains 308 pts; mid, smallcaps underperform - Moneycontrol.com",
@@ -184,10 +170,34 @@
       "publishedAt": "Thu, 29 Oct 2026 10:22:32 GMT"
     },
     {
-      "title": "Stock Market Today Live, October 30: Sensex settled at 74,459.53; Nifty 50 gained 116.35 pts or 0.51% - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUY1Z3hqYURfemJic3lIcDdlLWh6aUtKM28wdlVsZm1JbXVHeUlkTWZjQVZOeWhRbnFMTkhFV004b3F3bWQtbmtFYm03ZTFZTjhyWEwzajVTdFFoSVZVNnlkM3hRYVlkUnFTOTdlTmFkTlFXSGtENlZqQ2szaGNiRkNpWDV6QWtuQW9SRWhhbmEzRl95LVRNY2lGeFhvcGtFOVA1VVBPS0QxeE1qa1M2clRScjd3MmJ0d3BnSGRNSThRYlRudkwyR9IBzwFBVV95cUxPOXpTN1BmcEoySFBoQjZnV2RzUGlESGk1NldJaEl2eWhSZGVXR0ZBOTJSZmEwTUplUE1fQnRENGtyUy1jUHpxQ2llOFByTG51VF9oQ0dMMThDRmhPMFdGcllGc0ZzZjM3SG5zRUdrZEw1S0NLRG9nSjBUNXphMFI4bnpDWmEyc2UzOFZFeTJ3Z19nNXhPT0owdkhCNFhEUlVqSTJGdl91YVJ6dDhBS3lnTEF6T1ZfNkliaXZhSGdnNmNONWRIXzB6WXQzd0psQnc?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 10:36:25 GMT"
+      "title": "Stock Market Highlights | Closing Bell: Sensex ends 308 pts higher, Nifty above 23,050; IndiGo jumps 4%, HCLTech 2% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRUVsX25CRmZhM3dlNFB2ajZ0OVBPTWF5c01oVnRyVFJMMW1xYUZoMS1qU1ljd1dVZXpmc2pmZ2wza1ZoeUpYejFFZUFmQXJEdE5XWk40a1l0NGhMUzR5dWhyNnUwdGswWXVsUFVacnVqSFo2N2JZSi1lZ1VqcnRKVUJBNFdYYldZbzUtZE40dlNOc2F4UEp3S0VqQW9tbjJHOEloQXJibTVhNjVaRmhqdUZPYWlQVUlHOE11a0VOUndkRVBQaTl4Ni1WdUlVVWlSb3BUbUdIZTloRUJiVS1yM1BMN2FyVnJ0WFBFRTlxMVJYbzRBS1dsN3BfLVIzcGtpaUw0VVFBd3V6RUFuLXkyTWxDc0vSAZoCQVVfeXFMTUZJLS1UTUpFTFJFMzMwcHlsakIyU3Y5WFNOeVNuUUpGSEVFT2xEV043UzVReC1wMWliRkNxLVN5dW9FcWxqb2ZINlFMbXMxUHQ3NHJPNlQ2LWpjdS0yRkE4dVhRZDdhVlp1NnJERklpZ19LTlpnSno2R0Q0TUduVWFXd2NpczJqZFdVcEFGSmZsLWZ1dkV4S0VybjA3ellxU2ZGa1RvNVdZX0NiMkttZmdZWldUZzlWZk9SV3VSNjNKcmp2SFRlaWd5S2xtenR2akwzZzV6aUpYUlA4N1JYTl9yWnY3aFJYNGlUS3lLNldkUUFwdFFjRDRSREdKaGlRQnRMX3gzSndQbHQ4b29zVENGUFdGT3FfZG1R?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 10:49:25 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 30 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU0lLTXdXRXlnWnktM1lpdVdQMEZ1Q0ltbHlFQlZOa1pRM09LcGlnYTRubzNDcks4N21ZaGdEV3ZpRFV0N1FhT3htZkM5djl3WngtREVSVkdhbWkzWFQzNjJQN2MwZDVYaXQ3Q3pPOUxLaDlVUFF5aEFzWkY2TU1jRjloa19jNTBBMHZMYkZGVExUMlV5aXlXaVV6M3Z4QV9WaDF2ekFRMlg4dXV1aE1TMWR5bHlUUi1XODB1MHFraXVKLXZGOXJvNTdmRnJNNmY5WU1JSXJ1dXpVTjdXR2NyVUpVSUdYbFFqS0gybXp5MG5tSDdhWEpTb1RVMkJlZ29ZN09WNdIBigJBVV95cUxQQ3pIRzJQZmY1VXpnc0Nra014TklOZ0lvNkhtZUJ0UFJiQmtZQ090aUpZTlFfTWdMMW9HT1U1UVJEU2NUcVFUUmtyb0E2emhPa1hmMGd6eDYyMWk4R3JURTFVYThqZzNBS3lyNC1zcTRyajNKcWF0d213aWd2Y1J3aGRNMVlqRDhOaUZpNktDcmNSRFlpMnVVU1NOTlV3TTMtX2tLSkNyMWNrVWtwd29sQkxxTkUxYll2X1FoOWJVY2ZTcUVBUXRMVGVTNnY5UGZlNVZpRTQ1bnhUdzBkM1BPTjl4dUxfS2FRd3NzZUpJMF9CWW44QXRWaVFuaW02M29sZlBCMThPRWlfUQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 01:14:41 GMT"
+    },
+    {
+      "title": "Closing Bell: Nifty reclaims 22,900, Sensex jumps 905 pts; FMCG, financials rally - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1I4OEpudXdIbTQ1SDJ0WkhGdkRyOXUzd3E4TmU2ZlR3YnhtWk1vUmJWRjhFLS10bGtDampCdC1FZnNCLVNCdDZSNUs5UGlqY1RnNUF5ZzRFYWkzam1iRy1sSGt4Smk3M05YanFyaXpLTmhaLWpzNEhDZjNyY0FtVFFYZHp2T09TSkFRSExfQW5Jc2UzX1VHczdCUENJMWpCdVNiM3lZM1ZKb0Y3VTZBNnFQU0NmbENweEtlQm4wekh2MHhRM3dTNFQ4RUhuTzJfc0xmaGZ1YXl6TFZ6MjR1Szl6Z2laYkFtaVFJamRqLU1OcXQtcVhVbW5wTWZjczlYZ2RqU1c5aVRMUzFfVFExdEJCdGVmdU5KTDNmOEhKMkhqTk3SAagCQVVfeXFMTXNQTUNSOURwSHpOLUJGclRnYVh3cXc4dUpnd1F4Y0U0dzNnT0thdm91MjZrUzdTSU1ra1lBb01pWDJtc2x6NHdBNS1NeTVVaVA5VG9rUFJ0akR2eVItZVlqdjhKeHlvb1cxYVJxOXk1a21QY3B3N2xyLW1BaVhxWE5iZmxsdDJfeFJRT0g3S2hUb1dBakMwSjhrNnR2OUFVZkVvbHVFSl9iWDJlZ2dRSWNwamFuekE3MUZYcEhBQjlMSzBDMmV5cUZMWkNfQzQyWE1ReXUxS19Gc3BMOUE3SU1tc085VGVXYXp4Wmw3SE1HajRFaC1FZ2pZLUdSUUtWd2E0M0tDTUtpTk9kUzNMOHdhdW9heF9kdXVzTmloYTZjYncxQXdyQ3o?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 10:43:01 GMT"
+    },
+    {
+      "title": "Stock Market Highlights | Sensex soars 905 pts, Nifty ends above 22,900; Adani Ent jumps 5%, Kotak Bank 4% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY090MXJYMC1pb0lhbXpmdW5hTHh0TXgyWlBLNTdGQUR0d2FXMHN1WWhLdEh4emd6RE1kY2RheTg0NFBXbWZPSFNPZno0TmJyQ08xVmREYWFwR1k4UGh5MFNMNERDZEhWWVBzd3cxR3BUMUl2cUlfczcyNHUzeVRWMnI3UmgtVEliYllFcWxXZmZrVXhJM2hQSmYyeTZjN09vYVV1QnNDcFNmTHk1LXlkVGo1b2VpUElRd1FnUTdabTFWSTRKUDlPSTNad0lXVUhqVGhVOVlHa1VnRFhyM2tvWEdvTHl5UEVod05QSW9IY2dHVXRIb0VpOFBoVjJoc09WeXNJdHYxT1JmbU1QUTdYWUQ3bWHSAZoCQVVfeXFMTXpoUnZfNkh5Q0d5ZjlEangxTXJUWGlwVWFMSVJFR2FUMUFuX1NwaWRmVGdjY01xZlRRbHE1RDgtenlDdHFTbEM5WktEMDNISmZhcy1iSFF2MzBsTXZhVXJDTzBES3ZOcW5ZOUtSTEs2aVdMVzZNTzRCVklPSTlSbVhaMzFhQlctT2stVnpDeVY3a2tWZUdxTVEyeW4tcms4dm5NWW5ZR0tmY2JfcWN1VlZ2QzZiUWlkcl9FNmd0Q2NENTJMSHdFSy1ndnN3QTZvZ3RaUFBXb1Jxc0dVdVFscFhuUFRqWEFNXzlMbDVvZzNaaW00VzgwNHUyTFU4QW1OZEYya000YkJZTWVHV3FxZ0tUZHVMUFdfb2xB?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 10:54:35 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbGZqMHp2VC02aEFPMWpFUDdkcGlUbGVqSHFVUTdtem9scXhMSTdwRHlQNWxyeGFjd19oVUJBLWtEWXA4bGVSVFlHY3BMTzdhc2RlekgyWmpWVFBYdThfNGJqT05SREFmb2NVT3hsZ0IxSWlVSXVWXzhyeUVQYWlWQWV5OUlmdDA1dldGM1JQdjBSZEtackdibmVLVEFwdWo3M0lha3hvdTNaNEZYTzhXQ01ic3lPMlFjSWFIRHJDeGlTTVR5dUc5S0RvaW85aG82T2xwdnFoSy1yTDRWNnloQ2UxaUpWbW9xYTFHNGw4dDJZMWoxVEUtZER0NlFQa2p2NHZQddIBigJBVV95cUxOYWFiZ291M3RVdE1Oc3JKM05Nd0d0LTM3dWFHS2laLXF6M1ltczBYWlh0SUFtejJZVU9lZlM1R0FWcldBZGRvT2hyWjlBZkl0QV8wUTFqN2J3THNzUGtYekI3MU5oRUVTbklKMXp4Q3NZQUJUaE4zaUJvVXFCRDZiXzN2NTZUWlRQdkRpNWFFdDdpTi0wSTR6ejhNMXBVQWNoMFI0MzVCckFaeklBMUZINEZ6czM0YjdpRjBId1lfVXFqYWszN0tvRy1leWhDZEJZSDBQa2lzdUtIZjNqVHpFcTBJZFZRbzJTMVZkS3BKVUVERWdhWUhlQkdUWGlKOHhuWXpqRDFTbnFHUQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:15:36 GMT"
     },
     {
       "title": "Why Is Stock Market Falling Today? 4 Key Reasons Behind Sensex, Nifty Crash - NDTV",
@@ -196,40 +206,16 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
-      "title": "Stock Market Highlights: Sensex Ends 353 Points Lower, Nifty At 22,699; Broader Indices Outperform - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:46:30 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcDZ4SlBCdXAzX0JUb3E2UlRYeGhFblcwSWF3cW1oX2VZMEwwakJfeVEtdUJRaThFSjVqSWRMaU12ajVDQ2NsMllXaUgydHJHMk9oT0xPaW9WeFByWkdGN25WZkpXYjRWYlVGSlFuLWNmWGd1Q3p5WU93RHh4NGIwYmtVa1c3NDNyejhvempFQTJxbm5RUHREV1dNbUxWc3hZRjlPbmpDWFBnZ2RtZnQtZWluLUZLcTB1YmdCYjJHUmZXTktYYlBGdWFBU3lhNVJpNFR3ZdIBugJBVV95cUxNMFNaX0w0NnU0aTQ0UHdkc0lSQ19GUGRKMnFwTVJYNW5wajNISEtaeFctTmZ3QWtxSDJzLVZMdlR6ZVk3VnlWNnFmRUYxQVFFdTFzX2J4TW9HVUpGVWJBd29sT1RnSElmQlFsMVV3QkhYQXB1dkNudWNORUZub295a3BSRVpXcUVGYWRpaXBrb2NMWmpWZks2TXhSRXlmLU0wdm1yNG40dGx3ZVQ0b3FzcTQ1MzhKZG03cGRxUnJRb052V19UcjVjdzFzcHZ1eXNydDRCaWotVXRNcWtQZldqcEtzR19ac21LU1piWk95MTFVa3dMRHNNOHN5U0tHZU4zSERENjgxd29McDBIeUxUNmFveDdZODJucmI1Qm9EV0ItWG50NktCdTRseTRDTmYzV2x0Z1g0aTR2QQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
-    },
-    {
-      "title": "Stock Market Today Live, October 28: Sensex settled at 73,246.03; Nifty 50 declined 50.90 points - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlFjUU1XR0tUaTZVTG4xSVhUdnRPNGYwNUIwaFhlOWE5a09wakpFMXhTa0ZqLTFCZVlRc25EcVBRREFSWUVKanFHczZzOExPUFNTMDk3aldTZ292WERsbW1qSHpaQ1ZSb05oYm9fOS1PN1B3WERQckU1a2N6ZlRFRzgyUUFhN2pjSkxZVU5OeVZyc3cydWhSWUFDX2llX3N2SmJGcjNsM0dQLWp6VkIwbGdOT3FMVHA5MWNabVdQTll5WWdDbkHSAcwBQVVfeXFMUFRQaTl4ZmdBT3pCQU9rSkttSmpmelEzNjRiMjVaY3RuUWhMRjdlYmszVHhtbU82bnlQRGE2aXh1SlhmVlpQY0pWal9yNmMwemlILWxHQ2Jza0RqRnRPOHZVUldBVmJ3UzZiOFA5a3U5VG93NENFSS1ERVQtQ19IcEotZ0xvcERBLV9tMDJ4MnlBb2xuN094ZHhOMVljME9RUi1rSW5hLTVEQklvLVlqX2J6TDJqbUJDcklub19PbWJrSFJsZmFMSTdrVnd0?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:58:46 GMT"
-    },
-    {
-      "title": "Stock Market Highlights Today: BSE Sensex and Nifty50 ends flat amid elevated crude oil prices - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNnk4ekZHSVdTdHNsTVZKbmdKaHFsWWdyQ2RjdS0zeFhTWFFYZTlHV0d2eHJCc1BPeFNJZEtrckxrUGVTUTJ0Z2pyRFI1YzM4eF85RFdtdG5KM28wZm9UMWV6b0dacHJfLXJheUZDeTJzNDlLUTNib2tsM1lZUjV3S0lfZjQ1VHQ4a204czgzWlNKaTVsU2Y0N1BBMUZ0bW1LdzJ3aUNZX2VNOXEyLVc1QUhiazE5d3RveUFrQ1BpWm5kZ2tlNkhyNldjaTVKWV81VWprd1hmc2tGUjRWZkJrT3l2WVU1MDVyNTJOSURsQU5UazVmb3hlcUl0c1BNSXpkaEY5UVVISkRvSWMtWmFBY2RYNElnNG91Q2xFbXhnOW5BblplMUNIOUhpUE5GMHo1NUt3ZNIBugJBVV95cUxPODhWREFHQ1JNaWppM21HUnZjV3liQXVCWjFGNlh2QXRBNUNpbC1hVXZPSGx3dnR2M3hzemdrcWpSbXdYZXpKdm1JNXZqZ1Y5ajNYeVJnczFKalRpWVR0OXVITkJLekgwNU1DcVVNNFRKaHNKLTQ0b0NXM2NsbGE1WHliYjRnOEhyVHVWWVNGZllELU9TMkV6Z2oxU0JiSUlKSVNYRWdtTk4xSG1kSXlONU9wcHd6TndPaTRCQ0xteG5mLTZTbUNHU3lMaWt5dnNqbXdzYnZucjBCSXFWLWZmTUs2ZmJzVmhVTTA0MzR4ZGRGQ1Y0U2NVU1pybDZaQ0RWd3diVzRsWjBhWW9rQ3BXNk1XT0pBRVl5YjlPM0U5U0tVMWVRd0RLbm0xMTI4Qy1GZWNrcks4X203Zw?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 11:05:09 GMT"
-    },
-    {
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 6% - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVFFeGltOU5ULVFVeVBYQmUzRGpXN3hDRjN3VXRoeDFGWTVsV1RqME43WkRnV2l4OExfTndoWjF6UlpIYWJrYnh0V0NGXzZJeWk0d0NrTF9YbG0tbVJ0dTVyUFhlQnVNc0tBVWhCcjdkWjZTWTNhdFdwVEZRM2gybGt4UVNkN1k5N1ZpWE16dFNEX0I0WEdXWHp5Z0VabmdDX2ZMbzZUTEE1b3NSWC0xbGlucGE3UG5zQjdWdnI2MnlWWFc3d0FFT0NLcUR0QjBuMmhWZ3VDbGtQZGtSTGQyem9MRUJWbDZLejB4VEgzRGdhMVZHZlppTzBGWHplU0pLT2plaEM4VVjSAY4CQVVfeXFMTlFIS1BXeGVHaWtoYTdma0N6aGk0bXVXUG82RjdzclBtejdBRHhJY0NsdVl1bWJBUGhCaTZYanY5ZDVIOENxckgtSHlzTDYxdVAweWpRakwwYmh2eGlmaXJ0YXNXS1JxUGxoV2xMWjhaU3FJblBjQm10ZTZ1enJDbDd0RndDd2F4Znc4WWtKTGNsd0dIeUowMktXUHdaQ3JBLV9EdXg3VGVYbW5SN1p1QVdxalJGTFljNkVJeWVFdnUwbE56YkpaTG9tQUxEREN3TzdlX21jay1jVHFmcHhPOHdwVThTbmpYdkQtdVRmMjBxV0NZVGVYeHFRbnpWcjRwQXY4RGtTQUxuSGhkaXpn?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 10:22:05 GMT"
+      "title": "Sensex, Nifty close with gain of 0.5% as IT, pharma stocks rally; weak broader market limits gains - ChiniMandi",
+      "source": "ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZW9rV0NJRXU2T002TkpGY3BBMWpjYWJMLXNYOUZ4bUQwZkw4UU1ZMmJLblFRZWhpdmZUc0VPYVp5WHVDMTRFZnRsNkZzQjFlMUdlMGgyQy05bVpVa0lhaU9PSTlXU2ZTYWdIUVF3ZEV2MFB1SGVtbk9LUWhPWWRQbVlCbHNTbVRZZW40QW45R1hVVkcwc3VWemxkRUdieTA1YmhHZVMybTBWNW5OTnJzcTgzOHVkbVlGbzBxSlpxUQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 10:26:51 GMT"
     }
   ]
 }
