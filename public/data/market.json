@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Nifty reclaims 23,000 as Sensex gains 308 points; Reliance and GAIL post strong quarterly results",
+  "headline": "Last session: Nifty reclaims 23,000 as Sensex gains 308 points; Reliance and GAIL report strong earnings",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,22 +7,22 @@
     "nextOpen": "Monday, 2 November"
   },
   "why": [
-    "Robust quarterly results from Reliance Industries and GAIL India boosted investor sentiment",
-    "Significant gains in large-cap stocks like IndiGo and HCLTech supported the indices",
-    "Recovery in the O2C segment and higher fuel earnings for energy majors",
-    "Domestic markets showed resilience despite a sharp tech-led selloff in US markets"
+    "Strong quarterly earnings from Reliance Industries, which topped estimates in fuel and chemical segments",
+    "GAIL India reported a two-fold jump in net profit to ₹4,724 crore on robust volumes",
+    "A rally in heavyweight IT and pharmaceutical stocks provided support to the main indices",
+    "Positive sentiment in large-cap stocks helped the Nifty reclaim the 23,000 psychological level"
   ],
   "whatHappening": [
-    "Sensex closed at 74,459.53, up 308 points, while Nifty ended above the 23,000 mark",
-    "GAIL's net profit doubled to ₹4,724 crore driven by robust volumes in the last quarter",
-    "US tech stocks crashed with Nasdaq falling over 2.5% due to AI cash burn fears",
-    "Mazagon Dock Shipbuilders is actively scouting partners for proposed shipbuilding hubs"
+    "The BSE Sensex ended the last trading session 308 points higher, while Nifty closed above 23,000",
+    "Mid-cap and small-cap stocks underperformed the benchmarks during Friday's session",
+    "Mazagon Dock Shipbuilders is scouting for partners for proposed new shipbuilding hubs",
+    "US markets faced a sharp selloff over the weekend due to AI cash burn fears in tech stocks"
   ],
   "stocksInNews": [
     {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         7,
         8,
@@ -32,54 +32,38 @@
     {
       "symbol": "GAIL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         5
       ]
     },
     {
-      "symbol": "MAZDOCK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
       "symbol": "INDIGO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        12
       ]
     },
     {
       "symbol": "HCLTECH",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        12
       ]
     },
     {
-      "symbol": "ADANIENT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "symbol": "MAZDOCK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        16
-      ]
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        16
+        3
       ]
     }
   ],
-  "summary": "In the last trading session, Indian indices ended higher with the Nifty reclaiming 23,000, led by strong earnings from Reliance and GAIL. While domestic large-caps showed strength, global sentiment was pressured by a significant tech selloff in the US over AI spending concerns. The market is currently closed for the weekend and will resume trading on Monday.",
-  "updatedAt": "2026-10-30T22:01:49.777Z",
+  "summary": "On the last trading day, Indian indices closed higher as the Nifty reclaimed the 23,000 mark, supported by strong earnings from Reliance and GAIL. While large-cap IT and pharma stocks rallied, the broader mid and small-cap segments showed relative weakness. Global sentiment has since turned cautious following a significant tech-led crash in US markets over the weekend.",
+  "updatedAt": "2026-10-30T22:34:24.155Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-31",
   "articleKeys": [
@@ -95,14 +79,14 @@
     "rils o2c ebitda jumps 68 on higher fuel cracks and chemical margins",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
-    "stock market today live october 30 sensex settled at 7445953 nifty 50 gained 11635 pts or 051 businessline",
     "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
     "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
     "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
-    "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india"
+    "five reasons indias stock market is sinking even when its economy is growing bbc",
+    "sensex nifty close with gain of 05 as it pharma stocks rally weak broader market limits gains chinimandi"
   ],
   "articles": [
     {
@@ -178,12 +162,6 @@
       "publishedAt": "Thu, 29 Oct 2026 10:22:32 GMT"
     },
     {
-      "title": "Stock Market Today Live, October 30: Sensex settled at 74,459.53; Nifty 50 gained 116.35 pts or 0.51% - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUY1Z3hqYURfemJic3lIcDdlLWh6aUtKM28wdlVsZm1JbXVHeUlkTWZjQVZOeWhRbnFMTkhFV004b3F3bWQtbmtFYm03ZTFZTjhyWEwzajVTdFFoSVZVNnlkM3hRYVlkUnFTOTdlTmFkTlFXSGtENlZqQ2szaGNiRkNpWDV6QWtuQW9SRWhhbmEzRl95LVRNY2lGeFhvcGtFOVA1VVBPS0QxeE1qa1M2clRScjd3MmJ0d3BnSGRNSThRYlRudkwyR9IBzwFBVV95cUxPOXpTN1BmcEoySFBoQjZnV2RzUGlESGk1NldJaEl2eWhSZGVXR0ZBOTJSZmEwTUplUE1fQnRENGtyUy1jUHpxQ2llOFByTG51VF9oQ0dMMThDRmhPMFdGcllGc0ZzZjM3SG5zRUdrZEw1S0NLRG9nSjBUNXphMFI4bnpDWmEyc2UzOFZFeTJ3Z19nNXhPT0owdkhCNFhEUlVqSTJGdl91YVJ6dDhBS3lnTEF6T1ZfNkliaXZhSGdnNmNONWRIXzB6WXQzd0psQnc?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 10:36:25 GMT"
-    },
-    {
       "title": "Stock Market Highlights | Closing Bell: Sensex ends 308 pts higher, Nifty above 23,050; IndiGo jumps 4%, HCLTech 2% - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRUVsX25CRmZhM3dlNFB2ajZ0OVBPTWF5c01oVnRyVFJMMW1xYUZoMS1qU1ljd1dVZXpmc2pmZ2wza1ZoeUpYejFFZUFmQXJEdE5XWk40a1l0NGhMUzR5dWhyNnUwdGswWXVsUFVacnVqSFo2N2JZSi1lZ1VqcnRKVUJBNFdYYldZbzUtZE40dlNOc2F4UEp3S0VqQW9tbjJHOEloQXJibTVhNjVaRmhqdUZPYWlQVUlHOE11a0VOUndkRVBQaTl4Ni1WdUlVVWlSb3BUbUdIZTloRUJiVS1yM1BMN2FyVnJ0WFBFRTlxMVJYbzRBS1dsN3BfLVIzcGtpaUw0VVFBd3V6RUFuLXkyTWxDc0vSAZoCQVVfeXFMTUZJLS1UTUpFTFJFMzMwcHlsakIyU3Y5WFNOeVNuUUpGSEVFT2xEV043UzVReC1wMWliRkNxLVN5dW9FcWxqb2ZINlFMbXMxUHQ3NHJPNlQ2LWpjdS0yRkE4dVhRZDdhVlp1NnJERklpZ19LTlpnSno2R0Q0TUduVWFXd2NpczJqZFdVcEFGSmZsLWZ1dkV4S0VybjA3ellxU2ZGa1RvNVdZX0NiMkttZmdZWldUZzlWZk9SV3VSNjNKcmp2SFRlaWd5S2xtenR2akwzZzV6aUpYUlA4N1JYTl9yWnY3aFJYNGlUS3lLNldkUUFwdFFjRDRSREdKaGlRQnRMX3gzSndQbHQ4b29zVENGUFdGT3FfZG1R?oc=5",
@@ -220,10 +198,16 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcDZ4SlBCdXAzX0JUb3E2UlRYeGhFblcwSWF3cW1oX2VZMEwwakJfeVEtdUJRaThFSjVqSWRMaU12ajVDQ2NsMllXaUgydHJHMk9oT0xPaW9WeFByWkdGN25WZkpXYjRWYlVGSlFuLWNmWGd1Q3p5WU93RHh4NGIwYmtVa1c3NDNyejhvempFQTJxbm5RUHREV1dNbUxWc3hZRjlPbmpDWFBnZ2RtZnQtZWluLUZLcTB1YmdCYjJHUmZXTktYYlBGdWFBU3lhNVJpNFR3ZdIBugJBVV95cUxNMFNaX0w0NnU0aTQ0UHdkc0lSQ19GUGRKMnFwTVJYNW5wajNISEtaeFctTmZ3QWtxSDJzLVZMdlR6ZVk3VnlWNnFmRUYxQVFFdTFzX2J4TW9HVUpGVWJBd29sT1RnSElmQlFsMVV3QkhYQXB1dkNudWNORUZub295a3BSRVpXcUVGYWRpaXBrb2NMWmpWZks2TXhSRXlmLU0wdm1yNG40dGx3ZVQ0b3FzcTQ1MzhKZG03cGRxUnJRb052V19UcjVjdzFzcHZ1eXNydDRCaWotVXRNcWtQZldqcEtzR19ac21LU1piWk95MTFVa3dMRHNNOHN5U0tHZU4zSERENjgxd29McDBIeUxUNmFveDdZODJucmI1Qm9EV0ItWG50NktCdTRseTRDTmYzV2x0Z1g0aTR2QQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
+      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Sensex, Nifty close with gain of 0.5% as IT, pharma stocks rally; weak broader market limits gains - ChiniMandi",
+      "source": "ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZW9rV0NJRXU2T002TkpGY3BBMWpjYWJMLXNYOUZ4bUQwZkw4UU1ZMmJLblFRZWhpdmZUc0VPYVp5WHVDMTRFZnRsNkZzQjFlMUdlMGgyQy05bVpVa0lhaU9PSTlXU2ZTYWdIUVF3ZEV2MFB1SGVtbk9LUWhPWWRQbVlCbHNTbVRZZW40QW45R1hVVkcwc3VWemxkRUdieTA1YmhHZVMybTBWNW5OTnJzcTgzOHVkbVlGbzBxSlpxUQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 10:26:51 GMT"
     }
   ]
 }
