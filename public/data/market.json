@@ -1,28 +1,28 @@
 {
-  "headline": "Last session: Sensex gains 308 points, Nifty reclaims 23,000 led by Reliance and IndiGo",
+  "headline": "Last session: Nifty reclaims 23,000 as Sensex gains 308 points; Reliance and GAIL post strong quarterly results",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 2 November.",
-    "nextOpen": "Monday, 2 November 2026"
+    "nextOpen": "Monday, 2 November"
   },
   "why": [
-    "Sensex rose 308 points and Nifty reclaimed 23,000 on strong buying in heavyweights like Reliance and IndiGo during the last trading session.",
-    "Reliance Industries delivered strong Q2 results driven by a 68% jump in O2C EBITDA and robust earnings from fuel operations.",
-    "GAIL posted a two-fold surge in quarterly net profit to ₹4,724 crore on account of robust operational volumes.",
-    "US tech stocks faced heavy selling pressure overnight due to growing fears around AI cash burn and high spending."
+    "Robust quarterly results from Reliance Industries and GAIL India boosted investor sentiment",
+    "Significant gains in large-cap stocks like IndiGo and HCLTech supported the indices",
+    "Recovery in the O2C segment and higher fuel earnings for energy majors",
+    "Domestic markets showed resilience despite a sharp tech-led selloff in US markets"
   ],
   "whatHappening": [
-    "In the last session, Sensex settled at 74,459.53 while Nifty 50 rose 0.51% to close above 23,000.",
-    "Shares of IndiGo surged 4% and HCLTech gained 2% to lead key gainers in the benchmark indices.",
-    "Jio Platforms reported an 8% rise in Q2 net profit to ₹8,389 crore alongside margin expansion.",
-    "Mazagon Dock Shipbuilders initiated efforts to scout partners for setting up proposed shipbuilding hubs."
+    "Sensex closed at 74,459.53, up 308 points, while Nifty ended above the 23,000 mark",
+    "GAIL's net profit doubled to ₹4,724 crore driven by robust volumes in the last quarter",
+    "US tech stocks crashed with Nasdaq falling over 2.5% due to AI cash burn fears",
+    "Mazagon Dock Shipbuilders is actively scouting partners for proposed shipbuilding hubs"
   ],
   "stocksInNews": [
     {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         7,
         8,
@@ -32,15 +32,23 @@
     {
       "symbol": "GAIL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         5
       ]
     },
     {
+      "symbol": "MAZDOCK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
       "symbol": "INDIGO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         13
       ]
@@ -48,23 +56,15 @@
     {
       "symbol": "HCLTECH",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         13
       ]
     },
     {
-      "symbol": "MAZDOCK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
       "symbol": "ADANIENT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         16
       ]
@@ -72,14 +72,14 @@
     {
       "symbol": "KOTAKBANK",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         16
       ]
     }
   ],
-  "summary": "On the last trading day, Indian markets ended on a positive note with Sensex gaining 308 points and Nifty reclaiming the 23,000 mark.\nStrong corporate earnings from market heavyweights like Reliance Industries and GAIL buoyed investor sentiment.\nMarkets are closed today for the weekend and will reopen for trading on Monday, 2 November.",
-  "updatedAt": "2026-10-30T21:31:23.811Z",
+  "summary": "In the last trading session, Indian indices ended higher with the Nifty reclaiming 23,000, led by strong earnings from Reliance and GAIL. While domestic large-caps showed strength, global sentiment was pressured by a significant tech selloff in the US over AI spending concerns. The market is currently closed for the weekend and will resume trading on Monday.",
+  "updatedAt": "2026-10-30T22:01:49.777Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-31",
   "articleKeys": [
@@ -102,7 +102,7 @@
     "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
     "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
-    "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit"
+    "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india"
   ],
   "articles": [
     {
@@ -220,10 +220,10 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
-      "title": "Stock Market Highlights: Sensex Ends 353 Points Lower, Nifty At 22,699; Broader Indices Outperform - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:46:30 GMT"
+      "title": "Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcDZ4SlBCdXAzX0JUb3E2UlRYeGhFblcwSWF3cW1oX2VZMEwwakJfeVEtdUJRaThFSjVqSWRMaU12ajVDQ2NsMllXaUgydHJHMk9oT0xPaW9WeFByWkdGN25WZkpXYjRWYlVGSlFuLWNmWGd1Q3p5WU93RHh4NGIwYmtVa1c3NDNyejhvempFQTJxbm5RUHREV1dNbUxWc3hZRjlPbmpDWFBnZ2RtZnQtZWluLUZLcTB1YmdCYjJHUmZXTktYYlBGdWFBU3lhNVJpNFR3ZdIBugJBVV95cUxNMFNaX0w0NnU0aTQ0UHdkc0lSQ19GUGRKMnFwTVJYNW5wajNISEtaeFctTmZ3QWtxSDJzLVZMdlR6ZVk3VnlWNnFmRUYxQVFFdTFzX2J4TW9HVUpGVWJBd29sT1RnSElmQlFsMVV3QkhYQXB1dkNudWNORUZub295a3BSRVpXcUVGYWRpaXBrb2NMWmpWZks2TXhSRXlmLU0wdm1yNG40dGx3ZVQ0b3FzcTQ1MzhKZG03cGRxUnJRb052V19UcjVjdzFzcHZ1eXNydDRCaWotVXRNcWtQZldqcEtzR19ac21LU1piWk95MTFVa3dMRHNNOHN5U0tHZU4zSERENjgxd29McDBIeUxUNmFveDdZODJucmI1Qm9EV0ItWG50NktCdTRseTRDTmYzV2x0Z1g0aTR2QQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
     }
   ]
 }
