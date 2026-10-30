@@ -1,5 +1,5 @@
 {
-  "headline": "Nifty reclaims 23,000 as Sensex gains 308 points; Reliance Industries and Bank of Baroda report record Q2 profits",
+  "headline": "Nifty Reclaims 23,000 as Sensex Gains 308 Points; IOC and Bank of Baroda Report Strong Q2 Profits",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,29 +7,72 @@
     "nextOpen": ""
   },
   "why": [
-    "The Nifty 50 reclaimed the 23,000 level, closing the session with a gain of 116.35 points.",
-    "Reliance Industries reported a 41% jump in Q2 net profit to ₹25,548 crore, beating market estimates.",
-    "Bank of Baroda posted a record quarterly profit of ₹6,532 crore, driven by a 96% surge in non-interest income.",
-    "Strong performance in refining and digital segments contributed to record revenues for Reliance Industries."
+    "Nifty reclaimed the 23,000 mark while Sensex gained 308 points during the session",
+    "Indian Oil Corporation (IOC) reported a massive 184% surge in Q2 profit due to higher refining margins",
+    "Bank of Baroda's profit jumped 36% aided by a stake sale in the National Stock Exchange (NSE)",
+    "Syrma SGS recorded its best-ever quarter with a 73% revenue growth to Rs 1,999.5 crore"
   ],
   "whatHappening": [
-    "Reliance Industries announced a plan to raise ₹15,000 crore through the issuance of Non-Convertible Debentures.",
-    "Reliance Retail's Q2 profit fell 24.3% to ₹3,451 crore despite a 5.8% rise in revenue.",
-    "Sammaan Capital's promoter increased their stake to 33.32% following a warrant conversion.",
-    "The Data Security Council of India unveiled an AI liability guide for Indian enterprises."
+    "IGL's net profit plummeted by 93% due to higher input gas costs and consumer price protection",
+    "Sun Pharma and Zee Entertainment reported significant drops in quarterly profits of 36% and 40% respectively",
+    "Lodha Developers showed strong performance with a 63% rise in H1FY27 net profit",
+    "Spandana Sphoorty returned to profitability in Q2FY27 with a profit of Rs 18 crore"
   ],
   "stocksInNews": [
     {
-      "symbol": "RELIANCE",
+      "symbol": "IGL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "SYRMA",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0,
-        1,
-        2,
-        5,
-        6,
-        8
+        1
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "ZEEL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "LODHA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "SPANDANA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "IOC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
       ]
     },
     {
@@ -37,41 +80,25 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "SAMMAANCAP",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "TATASONS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        4
+        8
       ]
     }
   ],
-  "summary": "The Indian market closed higher today as the Nifty reclaimed 23,000 and Sensex gained 308 points, led by Reliance Industries' strong earnings. Reliance reported a 41% profit jump, while Bank of Baroda achieved record quarterly results. However, broader markets saw underperformance from mid and small-cap stocks, and Reliance Retail reported a decline in profit.",
-  "updatedAt": "2026-10-30T16:32:19.683Z",
+  "summary": "The Indian markets ended higher with Nifty reclaiming 23,000, driven by strong earnings from IOC and Bank of Baroda. While benchmarks gained, mid and small-cap stocks underperformed during the session. Several major firms including IGL and Sun Pharma faced significant profit declines despite the broader market recovery.",
+  "updatedAt": "2026-10-30T17:01:43.329Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-30",
   "articleKeys": [
-    "ril q2 profit jumps 41 to 25548 crore on o2c jio strength",
-    "reliance retail q2 profit falls 243 revenue rises 58 to 80220 cr",
-    "ril q2 profit jumps 40 on refining digital gains revenue hits record",
-    "bob posts record q2 profit of 6532cr on 96 surge in noninterest income",
-    "three letters set the tone for tata sons board meeting on november 26",
-    "reliance retail q2 results revenue up 6 to rs 3451 crore profit hit due to late festive season digital spending",
-    "reliance industries announces fundraising to raise rs 15000 crore through ncds",
-    "data security council unveils ai liability guide for indian enterprises",
-    "ril q2 results net profit jumps 406 to 25548 crore beats estimates",
-    "sammaan capital promoter raises stake to 3332 after warrant conversion",
+    "igl net profit plummets 93 on higher input gas cost and consumer price protection",
+    "syrma sgs reports bestever quarter q2 revenue up 73 to rs 19995 crore",
+    "sun pharma q2 profit plunges 36 on exceptional charges despite revenue growth",
+    "zee entertainment q2 profit drops 40 to rs 46 crore as ebitda margin contracts to 32",
+    "lodha developers h1fy27 net profit soars 63 expects to beat fullyear guidance",
+    "irdai declares nov grievance resolution month 72 of cases pending for more than a year",
+    "spandana sphoorty returns to profit at rs 18 crore in q2fy27",
+    "ioc q2 profit soars 184 on higher refining margins",
+    "bank of baroda q2 profit jumps 36 to rs 6532 crore on nse stake sale",
+    "pilot all five pilgrims killed in badrinathdehradun helicopter crash",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
     "stock market today live october 30 sensex settled at 7445953 nifty 50 gained 11635 pts or 051 businessline",
@@ -85,64 +112,64 @@
   ],
   "articles": [
     {
-      "title": "RIL Q2 profit jumps 41% to ₹25,548 crore on O2C, Jio strength",
+      "title": "IGL net profit plummets 93% on higher input gas cost and consumer price protection",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/ril-q2-profit-jumps-41-to-25548-crore-on-o2c-jio-strength/article71646038.ece",
-      "publishedAt": "Fri, 30 Oct 2026 20:55:41 +0530"
+      "link": "https://www.thehindu.com/business/Industry/igl-net-profit-plummets-93-on-higher-input-gas-cost-and-consumer-price-protection/article71646428.ece",
+      "publishedAt": "Fri, 30 Oct 2026 22:06:05 +0530"
     },
     {
-      "title": "Reliance Retail Q2 profit falls 24.3%, revenue rises 5.8% to ₹80,220 cr",
+      "title": "Syrma SGS reports best-ever quarter; Q2 revenue up 73% to Rs 1,999.5 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/reliance-retail-q2-profit-falls-24-3-revenue-rises-5-8-to-80-220-cr-126103001716_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 20:31:18 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/syrma-sgs-reports-best-ever-quarter-q2-revenue-up-73-to-rs-1999-5-crore/articleshow/135369732.cms",
+      "publishedAt": "Fri, 30 Oct 2026 22:05:53 +0530"
     },
     {
-      "title": "RIL Q2 profit jumps 40% on refining, digital gains; revenue hits record",
+      "title": "Sun Pharma Q2 profit plunges 36% on exceptional charges despite revenue growth",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/ril-q2-results-net-profit-jumps-40-6-to-25-548-crore-beats-estimates-126103001612_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 20:24:25 +0530"
+      "link": "https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece",
+      "publishedAt": "Fri, 30 Oct 2026 21:51:00 +0530"
     },
     {
-      "title": "BoB posts record Q2 profit of ₹6,532-cr on 96% surge in non-interest income",
+      "title": "Zee Entertainment Q2 profit drops 40% to Rs 46 crore as EBITDA margin contracts to 3.2%",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/bob-posts-record-q2-profit-of-6532-cr-on-96-surge-in-non-interest-income/article71645840.ece",
-      "publishedAt": "Fri, 30 Oct 2026 20:20:40 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q2-profit-drops-40-to-rs-46-crore-as-ebitda-margin-contracts-to-3-2/articleshow/135369566.cms",
+      "publishedAt": "Fri, 30 Oct 2026 21:50:52 +0530"
     },
     {
-      "title": "Three letters set the tone for Tata Sons board meeting on November 26",
+      "title": "Lodha Developers H1FY27 net profit soars 63%, expects to beat full-year guidance",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/three-letters-set-the-tone-for-tata-sons-board-meeting-on-november-26-126103001680_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 20:18:35 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-h1fy27-net-profit-soars-63-expects-to-beat-full-year-guidance/articleshow/135369310.cms",
+      "publishedAt": "Fri, 30 Oct 2026 21:43:16 +0530"
     },
     {
-      "title": "Reliance Retail Q2 Results: Revenue up 6% to Rs 3,451 crore, profit hit due to late festive season, digital spending",
+      "title": "IRDAI declares Nov grievance resolution month; 72% of cases pending for more than a year.",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
-      "publishedAt": "Fri, 30 Oct 2026 20:15:00 +0530"
+      "link": "https://www.thehindu.com/business/Industry/irdai-declares-nov-grievance-resolution-month-72-of-cases-pending-for-more-than-a-year/article71646019.ece",
+      "publishedAt": "Fri, 30 Oct 2026 21:42:18 +0530"
     },
     {
-      "title": "Reliance Industries announces fundraising, to raise Rs 15,000 crore through NCDs",
+      "title": "Spandana Sphoorty returns to profit at Rs 18 crore in Q2FY27",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/reliance-industries-to-raise-rs-15000-crore-via-ncds/articleshow/135366327.cms",
-      "publishedAt": "Fri, 30 Oct 2026 20:09:10 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/spandana-sphoorty-returns-to-profit-at-rs-18-crore-in-q2fy27/articleshow/135369091.cms",
+      "publishedAt": "Fri, 30 Oct 2026 21:35:19 +0530"
     },
     {
-      "title": "Data Security Council unveils AI liability guide for Indian enterprises",
+      "title": "IOC Q2 profit soars 184% on higher refining margins",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/data-security-council-unveils-ai-liability-guide-for-indian-enterprises-126103001647_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 20:03:53 +0530"
+      "link": "https://www.thehindu.com/business/Industry/ioc-q2-profit-soars-184-on-higher-refining-margins/article71646254.ece",
+      "publishedAt": "Fri, 30 Oct 2026 21:33:51 +0530"
     },
     {
-      "title": "RIL Q2 results: Net profit jumps 40.6% to ₹25,548 crore, beats estimates",
+      "title": "Bank of Baroda Q2 profit jumps 36% to Rs 6,532 crore on NSE stake sale",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/ril-q2-results-net-profit-jumps-40-6-to-25-548-crore-beats-estimates-126103001612_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 19:49:37 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-profit-jumps-36-to-rs-6532-crore-on-nse-stake-sale/articleshow/135369087.cms",
+      "publishedAt": "Fri, 30 Oct 2026 21:32:22 +0530"
     },
     {
-      "title": "Sammaan Capital promoter raises stake to 33.32% after warrant conversion",
+      "title": "Pilot, all five pilgrims killed in Badrinath-Dehradun helicopter crash",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/sammaan-capital-promoter-raises-stake-to-33-32-after-warrant-conversion-126103001607_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 19:47:40 +0530"
+      "link": "https://www.business-standard.com/india-news/pilot-all-five-pilgrims-killed-in-badrinath-dehradun-helicopter-crash-126103001786_1.html",
+      "publishedAt": "Fri, 30 Oct 2026 21:18:53 +0530"
     },
     {
       "title": "Closing Bell: Nifty reclaims 23,000, Sensex gains 308 pts; mid, smallcaps underperform - Moneycontrol.com",
