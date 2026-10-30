@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty show volatility, reclaiming 23,000 led by IT stocks despite surging global oil prices",
+  "headline": "Sensex surges 500 points and Nifty reclaims 23,000 led by rallies in IT and pharma stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,49 +7,40 @@
     "nextOpen": ""
   },
   "why": [
-    "Surging oil prices, which topped $116 per barrel, created significant pressure on the broader market",
-    "Strong performance in the IT sector and a 6% surge in Trent provided support to the benchmarks",
-    "Concerns over AI spending impacted global sentiment, leading to a 3% drop in Japan's Nikkei",
-    "Reliance Industries faced selling pressure ahead of its Q2 earnings announcement"
+    "Sensex surges over 500 points as market sentiment stays strong.",
+    "Nifty reclaims the 23,000 level driven by gains in IT and pharma sectors.",
+    "Trent, IndiGo, and Infosys emerge as top gainers in today's session.",
+    "Varun Beverages reported a 14% YoY rise in Q3 net profit."
   ],
   "whatHappening": [
-    "The Nifty 50 reclaimed the 23,000 level after a volatile session that saw early gains erased and then recovered",
-    "Vedanta group stocks rallied up to 14% following strong September quarter earnings results",
-    "The Nifty India Defence index fell by 2%, contrasting with the 2% gain in the IT sector",
-    "Jefferies noted that the profit cycle remains positive with over 50% of Q2 earnings seeing upgrades"
+    "Sensex rises over 500 points while Nifty trades around 23,050 to 23,100.",
+    "Nifty IT index climbs 2% alongside strong interest in pharma shares.",
+    "Nifty SmallCap index drops 1% dragged down by Welspun Corp and Redington.",
+    "Reliance slips while Sun Pharma gains ahead of its quarterly earnings announcement."
   ],
   "stocksInNews": [
+    {
+      "symbol": "VARUNBEV",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        1
+      ]
+    },
     {
       "symbol": "RELIANCE",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        3,
-        6
+        1
       ]
     },
     {
-      "symbol": "ITC",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "HDFCBANK",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "VEDL",
+      "symbol": "SUNPHARMA",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        8
+        1
       ]
     },
     {
@@ -58,6 +49,38 @@
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         11
+      ]
+    },
+    {
+      "symbol": "INDIGO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        11
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        11
+      ]
+    },
+    {
+      "symbol": "WELSPUNCORP",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        13
+      ]
+    },
+    {
+      "symbol": "REDINGTON",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        13
       ]
     },
     {
@@ -77,25 +100,25 @@
       ]
     }
   ],
-  "summary": "The Indian stock market witnessed high volatility as the Nifty reclaimed the 23,000 mark despite oil prices hitting $116 per barrel. IT stocks and Trent led the recovery, while heavyweights like Reliance and ITC remained under pressure. Positive Q2 earnings trends and a rally in Vedanta stocks provided additional support to the benchmarks.",
-  "updatedAt": "2026-10-30T06:31:38.076Z",
+  "summary": "Indian benchmark indices are up significantly today, with Sensex gaining over 500 points and Nifty reclaiming 23,000.\nStrong buying momentum in IT, pharma, and heavyweight stocks like Infosys and Trent is driving the market rally.\nHowever, small-cap stocks show weakness, with Welspun Corp and Redington weighing on the Nifty SmallCap index.",
+  "updatedAt": "2026-10-30T07:01:37.433Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-30",
   "articleKeys": [
-    "sensex nifty turn lower broader markets crash as oil tops 116barrel what lies ahead",
-    "global market boj to accelerate etf sales cut holdings overhaul timeline to 43 years",
-    "q2 earnings upgrades hold above 50 says jefferies is the profit cycle turning",
-    "itc ril hdfc bank among top laggards as nifty falls over 12 in 2026 time to buy beatendown stocks or wait for a recovery",
-    "global market japans nikkei falls 3 as ai spending concerns hit chip stocks boj holds rates",
-    "chiranjeevi set to make netflix debut with new talk show chiranjeevis megaverse",
-    "stock market live sensex stuck in range nifty india defence down 2 ril falls ahead of q2 result",
-    "pmkisan 24th installment today how to check payment status ekyc",
-    "q2 results impact 2 vedanta stocks rally up to 14 after sept quarter earnings how have they performed since demerger",
-    "england vs australia live streaming when and where to watch hong kong sixes 2026 match live in india",
-    "stock market live updates sensex rises over 300 points nifty above 23000 india vix rises over 3 the economic times",
-    "sensex today stock market live sensex gains 450 pts nifty tops 23000 it jumps 2 trent surges 6 even as smallcaps slide moneycontrolcom",
+    "stock market live sensex at days high up 500 pts nifty reclaims 23000 nifty it up 2",
+    "q2 results live varun beverages q3 net profit rises 14 yoy reliance slips sun pharma gains ahead of earnings",
+    "zota health care q2 review nirmal bang trims target price but retains rating details inside",
+    "talking points this week ai cash burn a tiger comeback and an india that still finds its own path",
+    "whats next for jio after indias biggestever ipo explained",
+    "the digital pathogen why cyber hygiene is no longer optional explained",
+    "up pet 2026 shoes off jewellery removed hair checked as candidates face strict entry checks",
+    "idbi bank was handed to us in poor shape fm sitharaman hits back at rahul gandhi over congressera bad loans",
+    "ramayana revenue dispute with exhibitors ends more theatres to open bookings for ranbirstarrer",
+    "motilal oswal multi asset omni fund of funds multiple asset classes through one fund",
+    "stock market live updates sensex surges over 500 points nifty above 23050 it pharma stocks rally the economic times",
+    "sensex today stock market live nifty at 23100 sensex gains 520 pts trent indigo infosys top gainers moneycontrolcom",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
-    "stock market live sensex at days high up 500 pts nifty reclaims 23000 nifty it up 2 business standard",
+    "stock market live sensex rises 500 pts nifty smallcap down 1 as welspun corp redington weigh business standard",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "why is market rallying today sensex jumps 900 points nifty above 22900 6 key factors behind rs 5 lakh the economic times",
     "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
@@ -105,76 +128,76 @@
   ],
   "articles": [
     {
-      "title": "Sensex, Nifty turn lower; broader markets crash as oil tops $116/barrel. What lies ahead?",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-turn-lower-broader-markets-crash-as-oil-tops-116/barrel-what-lies-ahead/articleshow/135345897.cms",
-      "publishedAt": "Fri, 30 Oct 2026 11:06:52 +0530"
-    },
-    {
-      "title": "Global Market: BOJ to accelerate ETF sales, cut holdings overhaul timeline to 43 years",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-boj-to-accelerate-etf-sales-cut-holdings-overhaul-timeline-to-43-years/articleshow/135345633.cms",
-      "publishedAt": "Fri, 30 Oct 2026 10:59:19 +0530"
-    },
-    {
-      "title": "Q2 earnings upgrades hold above 50%, says Jefferies. Is the profit cycle turning?",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-upgrades-hold-above-50-says-jefferies-is-the-profit-cycle-turning/articleshow/135345343.cms",
-      "publishedAt": "Fri, 30 Oct 2026 10:48:44 +0530"
-    },
-    {
-      "title": "ITC, RIL, HDFC Bank among top laggards as Nifty falls over 12% in 2026: Time to buy beaten-down stocks or wait for a recovery?",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-ril-hdfc-bank-among-top-laggards-as-nifty-falls-over-12-in-2026-time-to-buy-beaten-down-stocks-or-wait-for-a-recovery/articleshow/135345201.cms",
-      "publishedAt": "Fri, 30 Oct 2026 10:45:27 +0530"
-    },
-    {
-      "title": "Global Market: Japan's Nikkei falls 3% as AI spending concerns hit chip stocks; BOJ holds rates",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-3-as-ai-spending-concerns-hit-chip-stocks-boj-holds-rates/articleshow/135345052.cms",
-      "publishedAt": "Fri, 30 Oct 2026 10:43:50 +0530"
-    },
-    {
-      "title": "Chiranjeevi Set To Make Netflix Debut With New Talk Show Chiranjeevi’s Megaverse",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/chiranjeevi-set-to-make-netflix-debut-with-new-talk-show-chiranjeevi-s-megaverse-12256992#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 10:41:03 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex stuck in range; Nifty India Defence down 2%; RIL falls ahead of Q2 result",
+      "title": "Stock Market LIVE: Sensex at day's high, up 500 pts, Nifty reclaims 23,000; Nifty IT up 2%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 10:38:37 +0530"
+      "publishedAt": "Fri, 30 Oct 2026 11:59:36 +0530"
     },
     {
-      "title": "PM-Kisan 24th Installment Today: How To Check Payment Status, e-KYC",
+      "title": "Q2 Results Live: Varun Beverages Q3 Net Profit Rises 14% YoY; Reliance Slips, Sun Pharma Gains Ahead Of Earnings",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/pm-kisan-24th-installment-today-how-to-check-payment-status-e-kyc-12256983#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 10:36:52 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-october-30-ril-sun-pharma-bel-jio-platforms-varun-beverages-among-213-companies-to-announce-earnings-today-12257417#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 11:58:46 +0530"
     },
     {
-      "title": "Q2 results impact: 2 Vedanta stocks rally up to 14% after Sept quarter earnings. How have they performed since demerger?",
+      "title": "Zota Health Care Q2 Review: Nirmal Bang Trims Target Price But Retains Rating; Details Inside",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q2-results-impact-2-vedanta-stocks-rally-up-to-14-after-sept-quarter-earnings-how-have-they-performed-since-demerger/articleshow/135344818.cms",
-      "publishedAt": "Fri, 30 Oct 2026 10:36:07 +0530"
+      "link": "https://www.ndtvprofit.com/markets/zota-health-care-q2-results-review-nirmal-bang-trims-target-price-but-retains-rating-details-inside-12257503#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 11:50:34 +0530"
     },
     {
-      "title": "England vs Australia Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
+      "title": "Talking Points This Week: AI Cash Burn, A Tiger Comeback And An India That Still Finds Its Own Path",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/england-vs-australia-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12256308#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 10:35:01 +0530"
+      "link": "https://www.ndtvprofit.com/markets/talking-points-this-week-ai-cash-burn-a-tiger-comeback-and-an-india-that-still-finds-its-own-path-12257451#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 11:47:27 +0530"
     },
     {
-      "title": "Stock Market Live Updates: Sensex rises over 300 points, Nifty above 23,000; India VIX rises over 3% - The Economic Times",
+      "title": "What's next for Jio after India’s biggest-ever IPO? | Explained",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/jio-biggest-ever-ipo-what-next-plans-telecom-explained/article71643739.ece",
+      "publishedAt": "Fri, 30 Oct 2026 11:47:26 +0530"
+    },
+    {
+      "title": "The digital pathogen: Why cyber hygiene is no longer optional | Explained",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/the-digital-pathogen-why-cyber-hygiene-is-no-longer-optional-explained/article71643887.ece",
+      "publishedAt": "Fri, 30 Oct 2026 11:46:20 +0530"
+    },
+    {
+      "title": "UP PET 2026: Shoes Off, Jewellery Removed, Hair Checked As Candidates Face Strict Entry Checks",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/up-pet-2026-shoes-off-jewellery-removed-hair-checked-as-candidates-face-strict-entry-checks-12257479#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 11:43:23 +0530"
+    },
+    {
+      "title": "'IDBI Bank Was Handed To Us In Poor Shape': FM Sitharaman Hits Back At Rahul Gandhi Over Congress-Era Bad Loans",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/idbi-bank-was-handed-to-us-in-poor-shape-finance-minister-nirmala-sitharaman-hits-back-at-rahul-gandhi-over-congress-era-bad-loans-12257476#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 11:41:53 +0530"
+    },
+    {
+      "title": "'Ramayana': Revenue Dispute With Exhibitors Ends, More Theatres To Open Bookings For Ranbir-Starrer",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/ramayana-revenue-sharing-dispute-with-exhibitors-reportedly-ends-more-theatres-set-to-open-bookings-for-ranbir-starrer-12257381#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 11:38:38 +0530"
+    },
+    {
+      "title": "Motilal Oswal Multi Asset Omni Fund Of Funds: Multiple Asset Classes Through One Fund",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/motilal-oswal-multi-asset-omni-fund-of-funds-multiple-asset-classes-through-one-fund-12257234#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 11:33:22 +0530"
+    },
+    {
+      "title": "Stock Market Live Updates: Sensex surges over 500 points, Nifty above 23,050; IT, pharma stocks rally - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRUVsX25CRmZhM3dlNFB2ajZ0OVBPTWF5c01oVnRyVFJMMW1xYUZoMS1qU1ljd1dVZXpmc2pmZ2wza1ZoeUpYejFFZUFmQXJEdE5XWk40a1l0NGhMUzR5dWhyNnUwdGswWXVsUFVacnVqSFo2N2JZSi1lZ1VqcnRKVUJBNFdYYldZbzUtZE40dlNOc2F4UEp3S0VqQW9tbjJHOEloQXJibTVhNjVaRmhqdUZPYWlQVUlHOE11a0VOUndkRVBQaTl4Ni1WdUlVVWlSb3BUbUdIZTloRUJiVS1yM1BMN2FyVnJ0WFBFRTlxMVJYbzRBS1dsN3BfLVIzcGtpaUw0VVFBd3V6RUFuLXkyTWxDc0vSAZoCQVVfeXFMTUZJLS1UTUpFTFJFMzMwcHlsakIyU3Y5WFNOeVNuUUpGSEVFT2xEV043UzVReC1wMWliRkNxLVN5dW9FcWxqb2ZINlFMbXMxUHQ3NHJPNlQ2LWpjdS0yRkE4dVhRZDdhVlp1NnJERklpZ19LTlpnSno2R0Q0TUduVWFXd2NpczJqZFdVcEFGSmZsLWZ1dkV4S0VybjA3ellxU2ZGa1RvNVdZX0NiMkttZmdZWldUZzlWZk9SV3VSNjNKcmp2SFRlaWd5S2xtenR2akwzZzV6aUpYUlA4N1JYTl9yWnY3aFJYNGlUS3lLNldkUUFwdFFjRDRSREdKaGlRQnRMX3gzSndQbHQ4b29zVENGUFdGT3FfZG1R?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 06:22:26 GMT"
+      "publishedAt": "Fri, 30 Oct 2026 06:45:44 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Sensex gains 450 pts, Nifty tops 23,000; IT jumps 2%, Trent surges 6% even as smallcaps slide - Moneycontrol.com",
+      "title": "Sensex Today | Stock Market Live: Nifty at 23,100, Sensex gains 520 pts; Trent, IndiGo, Infosys top gainers - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTJWYWhXVy1DQUpJMnhhS1U0SHliZjZaT2lNOWxuUTEtdWMxTGdiZ1c5T3htS2E3WFlVT0RmWGVIV0Q1N2JMX0JyeXhXa0ViaEZqVU9ZbGRRTllDeWtGTTZ2TzFzR2JMV0dKOU0tcXg1dV96TlZYV2g4QmZBYzJyOEhqbjVBcEZsWTFQczdwU3lBWWtVTFRGNlFnaDlMN3NuYWViRkRoeS02RW5vX01jTnQyU1g4S2djaDJqUVYwVlJHQUctdi1Ua0lMQ1czaGhFc1hlUV8xT3RIcTEwc29qSjZmamhHNlRvR3FzWWU4NlBTTmtFZWltbFlFV3M1aU9QVEJqV1BIM2JDZi1Ta1NVcmFSNFpkcldqRDBONTBIbzBQazjSAagCQVVfeXFMUFZfMjQwWDBZTXlMRnNIMkFqMllzOHFpV0xtekVjY091MWxPcDVTMlp2U2k3b2I5aU9yTEZ4RmNDYjlWQV9RUFJGZTZoeG4zeDBfMVYzOEN2Q3FhZGEzVW9rNnhLRC1JR2NuZUN6dFdTcTlqSEFkR3NTbzBZWUQ1VHduRnVkblA4aU9lZmdXRFd0Z1pfVVFSTmc2N05LTXIwTldROWVKUWxiQk9QU2FPV1V2OGdIZ0RXSVNCNlo3b3dzVlNSZko2S0lwejVMdUl1dDdacXV4WFRRX05XQTEzVlFBc0VUQzFqb3VscHA3MWNoSFZyNlhsYUtUNWJYWU50eUtaZGZEMHVoZHg3MlJKdklOTHpraDlCUC1sZXVjcVlOVFlNTjRJcjI?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 06:27:37 GMT"
+      "publishedAt": "Fri, 30 Oct 2026 06:57:41 GMT"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex ends session 900 points higher, NSE Nifty50 closes above 22,900 - The Times of India",
@@ -183,10 +206,10 @@
       "publishedAt": "Thu, 29 Oct 2026 10:22:32 GMT"
     },
     {
-      "title": "Stock Market LIVE: Sensex at day's high, up 500 pts, Nifty reclaims 23,000; Nifty IT up 2% - Business Standard",
+      "title": "Stock Market LIVE: Sensex rises 500 pts; Nifty SmallCap down 1% as Welspun Corp, Redington weigh - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTGlqeWVaemxvSkdjWXVZWjBGLUU5UFFGZzE4V0dvVjJxQkhkZngybTNBTUpqZ3p5VjFIOHAyV3VRS2NjMXJwaTRHRjRKd0ZHY0wxQ0w0SFB2NktabHYtV0xqUzIyOEJLSDcxRVhzd0xicERfczNHYk5mQWw3UFljRUZUc0dLZkpJVmFiYTczdzhaY2N0aFdYWkM3WXItSDZEenp6Q1RYVkJaMmpfUDJTVmllbEdLbmc3dnFTeU5hU0I0eHFrT2JXSHdPWjRvdEtySE5BMVpxNkh0WFF6RWtfRVl3S0dSblpDdXMwSFduQ1ZvOUM1SXFPLVpWZmhYUQ?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 06:20:00 GMT"
+      "publishedAt": "Fri, 30 Oct 2026 06:49:57 GMT"
     },
     {
       "title": "Stock market outlook today, 30 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
