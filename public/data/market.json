@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex gains 500 points as Nifty surpasses 23,100 led by IT and top gainers",
+  "headline": "Sensex and Nifty rise as IT and Pharma stocks rally; Varun Beverages reports 13.5% profit growth",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,57 @@
     "nextOpen": ""
   },
   "why": [
-    "Buying rally in IT and pharma sectors provided strong upward momentum to benchmark indices.",
-    "Major gainers like Trent, IndiGo, and HCL Tech drove the Nifty higher.",
-    "Continued positive momentum carried over from recent sessions reclaim of key technical levels.",
-    "Broad-based interest across key heavyweight sectors boosted investor sentiment."
+    "IT and Pharma stocks are rallying, providing support to the benchmark indices",
+    "Positive quarterly earnings from companies like Varun Beverages and Skipper",
+    "Nifty successfully reclaimed the 23,000 mark during intraday trading",
+    "Anticipation surrounding major Q2 result announcements, including Reliance Industries and Jio Platforms"
   ],
   "whatHappening": [
-    "Sensex surged over 500 points while Nifty 50 moved comfortably above 23,100.",
-    "Coal India dropped 3% following Q2 results and target price cuts by major brokerages.",
-    "Varun Beverages fell 4% post its Q2 earnings disclosure.",
-    "Equitas Small Finance Bank tumbled 27% across two trading sessions following its CEO exit."
+    "Sensex gained over 250 points while Nifty 50 traded above the 23,000 level",
+    "Varun Beverages reported a 13.5% rise in Q3 profit to ₹830.6 crore with revenue up 33%",
+    "Sun Pharma shares gained 3% ahead of its second-quarter earnings report",
+    "Gold and silver prices saw a sharp decline, with silver crashing by ₹5,400"
   ],
   "stocksInNews": [
     {
       "symbol": "VBL",
-      "sentiment": "Negative",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
         0
+      ]
+    },
+    {
+      "symbol": "SKIPPER",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "VINATIORG",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2,
+        8
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        3
       ]
     },
     {
@@ -32,7 +65,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        3
+        4
       ]
     },
     {
@@ -40,7 +73,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        3
+        4
       ]
     },
     {
@@ -48,23 +81,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "COALINDIA",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
         4
-      ]
-    },
-    {
-      "symbol": "EQUITASBNK",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        7
       ]
     },
     {
@@ -84,22 +101,22 @@
       ]
     }
   ],
-  "summary": "Indian benchmark indices opened on a strong note on October 30, with the Sensex advancing 500 points and Nifty crossing 23,100.\nIT and pharma stocks led the gains alongside notable surges in Trent, IndiGo, and HCL Tech.\nConversely, stock-specific declines were observed in Coal India, Varun Beverages, and Equitas Small Finance Bank due to Q2 earnings and corporate leadership updates.",
-  "updatedAt": "2026-10-30T08:31:24.711Z",
+  "summary": "The Indian stock market is trading in the green with Nifty crossing the 23,000 threshold, led by strong performance in IT and Pharma sectors. Corporate earnings are in focus as Varun Beverages posted double-digit profit growth, while Reliance Industries is scheduled to report results today. Conversely, the commodities market faced pressure as gold and silver prices dropped significantly.",
+  "updatedAt": "2026-10-30T08:54:00.842Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-30",
   "articleKeys": [
-    "stock market live sensex rises 500 pts nifty tops 23100 varun beverages fall 4 post q2 result",
-    "bitcoin hits 6week low drops below 78000 as binances 6 billion hack rattles crypto markets what should investors do",
-    "smartworks q2 results net profit at 26 cr revenue rises 37 to 605 cr",
-    "stock market today sensex jumps 500 points nifty 50 above 23100 trent indigo hcl tech top gainers",
-    "coal india shares fall 3 after q2 results jefferies motilal oswal others cut target price",
-    "anupamaa gets an ai twist as google gemini becomes part of the storyline internet reacts",
-    "explained why ai giants google amazon intel shares crashed up to 23 in a single day",
-    "equitas sfb shares tumble 27 in 2 days on ceo exit more pain ahead",
-    "pmkisan beneficiary check eligibility criteria required documents and how to get rs 2000 installment",
-    "mumbai pollution crackdown sra issues stopwork orders to 116 sites",
-    "stock market live updates sensex surges over 350 points nifty above 23050 it pharma stocks rally the economic times",
+    "varun beverages q3 results profit rises 135 to 8306 cr revenue up 33",
+    "arijit singh karan aujla lead lineup at goa music fest check dates full lineup where to buy tickets",
+    "q2 results live skipper net profit jumps 57 yoy to rs 58 crore vinati organics profit falls 32 yoy ril slips",
+    "stock market live sensex up 200 pts nifty tops 23000 sun pharma gains 3 ahead of q2 result",
+    "stock market today sensex nifty 50 offdays high trent indigo hcl tech among top gainers",
+    "who was rk sinha senior bjp leader and exrajya sabha mp passes away",
+    "global market binance breach rekindles fears over cryptocurrency security",
+    "rbi steps up scrutiny of banks cyber defences amid rising ailed attacks",
+    "reliance industries q2 results 2026 live jio platforms ril set to announce q2 results today check brokerage estimates",
+    "gold silver lose shine yellow metal falls below rs 142000 silver price crashes by rs 5400",
+    "stock market live updates sensex gains over 250 points nifty above 23000 it pharma stocks rally the economic times",
     "sensex today stock market live nifty at 23050 sensex gains 370 pts it shines fmcg metal down moneycontrolcom",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
@@ -112,76 +129,76 @@
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex rises 500 pts, Nifty tops 23,100; Varun Beverages fall 4% post Q2 result",
+      "title": "Varun Beverages Q3 results: Profit rises 13.5% to ₹830.6 cr, revenue up 33%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/varun-beverages-q3-results-profit-rises-13-5-to-830-6-cr-revenue-up-33-126103000724_1.html",
+      "publishedAt": "Fri, 30 Oct 2026 14:09:28 +0530"
+    },
+    {
+      "title": "Arijit Singh, Karan Aujla Lead Line-Up At Goa Music Fest: Check Dates, Full Line-Up, Where To Buy Tickets",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/arijit-singh-karan-aujla-lead-line-up-at-goa-music-fest-check-dates-full-line-up-where-to-buy-tickets-12258073#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 14:09:00 +0530"
+    },
+    {
+      "title": "Q2 Results Live: Skipper Net Profit Jumps 57% YoY To Rs 58 Crore; Vinati Organics Profit Falls 32% YoY; RIL Slips",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-october-30-ril-sun-pharma-bel-jio-platforms-varun-beverages-among-213-companies-to-announce-earnings-today-12257417#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 14:08:03 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex up 200 pts, Nifty tops 23,000; Sun Pharma gains 3% ahead of Q2 result",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-q2-results-october-30-126103000074_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 13:02:13 +0530"
+      "publishedAt": "Fri, 30 Oct 2026 14:02:03 +0530"
     },
     {
-      "title": "Bitcoin hits 6-week low, drops below $78,000 as Binance’s $6 billion hack rattles crypto markets. What should investors do?",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hits-6-week-low-drops-below-78000-as-binances-6-billion-hack-rattles-crypto-markets-what-should-investors-do/articleshow/135349699.cms",
-      "publishedAt": "Fri, 30 Oct 2026 12:59:59 +0530"
-    },
-    {
-      "title": "Smartworks Q2 results: Net profit at ₹26 cr, revenue rises 37% to ₹605 cr",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/smartworks-q2-results-net-profit-at-26-cr-revenue-rises-37-to-605-cr-126103000597_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 12:55:09 +0530"
-    },
-    {
-      "title": "Stock Market Today: Sensex Jumps 500 Points, Nifty 50 Above 23,100; Trent, IndiGo, HCL Tech Top Gainers",
+      "title": "Stock Market Today: Sensex, Nifty 50 Off-Day's High; Trent, IndiGo, HCL Tech Among Top Gainers",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/stock-market-today-october-30-sensex-today-nifty-50-open-higher-despite-brent-crude-at-116-ril-q2-jio-platforms-earnings-fii-iran-war-12256952#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 12:47:03 +0530"
+      "publishedAt": "Fri, 30 Oct 2026 14:01:42 +0530"
     },
     {
-      "title": "Coal India shares fall 3% after Q2 results; Jefferies, Motilal Oswal, others cut target price",
+      "title": "Who Was RK Sinha? Senior BJP Leader And Ex-Rajya Sabha MP Passes Away",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-shares-fall-3-after-q2-results-jefferies-motilal-oswal-others-cut-target-price/articleshow/135349282.cms",
-      "publishedAt": "Fri, 30 Oct 2026 12:46:49 +0530"
+      "link": "https://www.ndtvprofit.com/india/rk-sinha-no-more-ex-bjp-rajya-sabha-mp-passes-away-12258013#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 14:01:09 +0530"
     },
     {
-      "title": "'Anupamaa' Gets An AI Twist As Google Gemini Becomes Part Of The Storyline, Internet Reacts",
+      "title": "Global Market: Binance breach rekindles fears over cryptocurrency security",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/anupamaa-gets-an-ai-twist-as-google-gemini-becomes-part-of-the-storyline-internet-reacts-12257723#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 12:44:09 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-binance-breach-rekindles-fears-over-cryptocurrency-security/articleshow/135351569.cms",
+      "publishedAt": "Fri, 30 Oct 2026 14:00:16 +0530"
     },
     {
-      "title": "Explained: Why AI giants Google, Amazon, Intel shares crashed up to 23% in a single day",
+      "title": "RBI steps up scrutiny of banks' cyber defences amid rising AI-led attacks",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-ai-giants-google-amazon-intel-shares-crashed-up-to-23-in-a-single-day/articleshow/135349077.cms",
-      "publishedAt": "Fri, 30 Oct 2026 12:39:40 +0530"
+      "link": "https://www.business-standard.com/industry/banking/rbi-steps-up-scrutiny-of-banks-cyber-defences-amid-rising-ai-led-attacks-126103000695_1.html",
+      "publishedAt": "Fri, 30 Oct 2026 13:57:47 +0530"
     },
     {
-      "title": "Equitas SFB shares tumble 27% in 2 days on CEO exit. More pain ahead?",
+      "title": "Reliance Industries Q2 Results 2026 Live: Jio Platforms, RIL set to announce Q2 results today. Check brokerage estimates",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/equitas-sfb-shares-tumble-27-in-2-days-on-ceo-exit-more-pain-ahead/articleshow/135348776.cms",
-      "publishedAt": "Fri, 30 Oct 2026 12:35:04 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
+      "publishedAt": "Fri, 30 Oct 2026 13:57:39 +0530"
     },
     {
-      "title": "PM-Kisan Beneficiary: Check Eligibility Criteria, Required Documents And How To Get Rs 2,000 Installment",
+      "title": "Gold, Silver Lose Shine: Yellow Metal Falls Below Rs 1,42,000, Silver Price Crashes By Rs 5,400",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/pm-kisan-beneficiary-check-eligibility-criteria-required-documents-and-how-to-get-rs-2-000-installment-12257397#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 12:29:28 +0530"
+      "link": "https://www.ndtvprofit.com/markets/gold-silver-lose-shine-yellow-metal-falls-below-rs-1-42-000-silver-price-crashes-by-rs-5-400-12258041#publisher=newsstand",
+      "publishedAt": "Fri, 30 Oct 2026 13:57:22 +0530"
     },
     {
-      "title": "Mumbai Pollution Crackdown: SRA Issues Stop-Work Orders To 116 Sites",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/mumbai-pollution-crackdown-sra-issues-stop-work-orders-to-116-sites-12257622#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 12:26:50 +0530"
-    },
-    {
-      "title": "Stock Market Live Updates: Sensex surges over 350 points, Nifty above 23,050; IT, pharma stocks rally - The Economic Times",
+      "title": "Stock Market Live Updates: Sensex gains over 250 points, Nifty above 23,000; IT, pharma stocks rally - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRUVsX25CRmZhM3dlNFB2ajZ0OVBPTWF5c01oVnRyVFJMMW1xYUZoMS1qU1ljd1dVZXpmc2pmZ2wza1ZoeUpYejFFZUFmQXJEdE5XWk40a1l0NGhMUzR5dWhyNnUwdGswWXVsUFVacnVqSFo2N2JZSi1lZ1VqcnRKVUJBNFdYYldZbzUtZE40dlNOc2F4UEp3S0VqQW9tbjJHOEloQXJibTVhNjVaRmhqdUZPYWlQVUlHOE11a0VOUndkRVBQaTl4Ni1WdUlVVWlSb3BUbUdIZTloRUJiVS1yM1BMN2FyVnJ0WFBFRTlxMVJYbzRBS1dsN3BfLVIzcGtpaUw0VVFBd3V6RUFuLXkyTWxDc0vSAZoCQVVfeXFMTUZJLS1UTUpFTFJFMzMwcHlsakIyU3Y5WFNOeVNuUUpGSEVFT2xEV043UzVReC1wMWliRkNxLVN5dW9FcWxqb2ZINlFMbXMxUHQ3NHJPNlQ2LWpjdS0yRkE4dVhRZDdhVlp1NnJERklpZ19LTlpnSno2R0Q0TUduVWFXd2NpczJqZFdVcEFGSmZsLWZ1dkV4S0VybjA3ellxU2ZGa1RvNVdZX0NiMkttZmdZWldUZzlWZk9SV3VSNjNKcmp2SFRlaWd5S2xtenR2akwzZzV6aUpYUlA4N1JYTl9yWnY3aFJYNGlUS3lLNldkUUFwdFFjRDRSREdKaGlRQnRMX3gzSndQbHQ4b29zVENGUFdGT3FfZG1R?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 08:24:54 GMT"
+      "publishedAt": "Fri, 30 Oct 2026 08:46:15 GMT"
     },
     {
       "title": "Sensex Today | Stock Market Live: Nifty at 23,050, Sensex gains 370 pts; IT shines, FMCG, metal down - Moneycontrol.com",
       "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTJWYWhXVy1DQUpJMnhhS1U0SHliZjZaT2lNOWxuUTEtdWMxTGdiZ1c5T3htS2E3WFlVT0RmWGVIV0Q1N2JMX0JyeXhXa0ViaEZqVU9ZbGRRTllDeWtGTTZ2TzFzR2JMV0dKOU0tcXg1dV96TlZYV2g4QmZBYzJyOEhqbjVBcEZsWTFQczdwU3lBWWtVTFRGNlFnaDlMN3NuYWViRkRoeS02RW5vX01jTnQyU1g4S2djaDJqUVYwVlJHQUctdi1Ua0lMQ1czaGhFc1hlUV8xT3RIcTEwc29qSjZmamhHNlRvR3FzWWU4NlBTTmtFZWltbFlFV3M1aU9QVEJqV1BIM2JDZi1Ta1NVcmFSNFpkcldqRDBONTBIbzBQazg?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 08:27:36 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTJWYWhXVy1DQUpJMnhhS1U0SHliZjZaT2lNOWxuUTEtdWMxTGdiZ1c5T3htS2E3WFlVT0RmWGVIV0Q1N2JMX0JyeXhXa0ViaEZqVU9ZbGRRTllDeWtGTTZ2TzFzR2JMV0dKOU0tcXg1dV96TlZYV2g4QmZBYzJyOEhqbjVBcEZsWTFQczdwU3lBWWtVTFRGNlFnaDlMN3NuYWViRkRoeS02RW5vX01jTnQyU1g4S2djaDJqUVYwVlJHQUctdi1Ua0lMQ1czaGhFc1hlUV8xT3RIcTEwc29qSjZmamhHNlRvR3FzWWU4NlBTTmtFZWltbFlFV3M1aU9QVEJqV1BIM2JDZi1Ta1NVcmFSNFpkcldqRDBONTBIbzBQazjSAagCQVVfeXFMUFZfMjQwWDBZTXlMRnNIMkFqMllzOHFpV0xtekVjY091MWxPcDVTMlp2U2k3b2I5aU9yTEZ4RmNDYjlWQV9RUFJGZTZoeG4zeDBfMVYzOEN2Q3FhZGEzVW9rNnhLRC1JR2NuZUN6dFdTcTlqSEFkR3NTbzBZWUQ1VHduRnVkblA4aU9lZmdXRFd0Z1pfVVFSTmc2N05LTXIwTldROWVKUWxiQk9QU2FPV1V2OGdIZ0RXSVNCNlo3b3dzVlNSZko2S0lwejVMdUl1dDdacXV4WFRRX05XQTEzVlFBc0VUQzFqb3VscHA3MWNoSFZyNlhsYUtUNWJYWU50eUtaZGZEMHVoZHg3MlJKdklOTHpraDlCUC1sZXVjcVlOVFlNTjRJcjI?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 08:51:29 GMT"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex ends session 900 points higher, NSE Nifty50 closes above 22,900 - The Times of India",
