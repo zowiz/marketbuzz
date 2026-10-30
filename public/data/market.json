@@ -1,22 +1,22 @@
 {
-  "headline": "Last session: Sensex gains 308 points and Nifty reclaims 23,000 supported by strong earnings",
+  "headline": "Last session: Sensex gains 308 points as Nifty reclaims 23,000 led by Q2 earnings and IT rally",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 2 November.",
-    "nextOpen": "Monday, 2 November 2026"
+    "nextOpen": "Monday, 2 November"
   },
   "why": [
-    "On the last trading session, Sensex rose 308 points while Nifty reclaimed the 23,000 mark.",
-    "Reliance Industries reported strong Q2 results driven by fuel earnings and a 68% jump in O2C Ebitda.",
-    "Jio Platforms reported an 8% increase in Q2 net profit to Rs 8,389 crore with expanding margins.",
-    "PB Fintech posted a 43% rise in net profit for the September quarter."
+    "Strong Q2 earnings reported by key companies like Reliance Industries and GAIL boosted market sentiment.",
+    "Rally in IT and pharma stocks helped offset broader market weakness during Friday's session.",
+    "IndiGo jumped 4% and HCLTech added 2% to contribute to the benchmark gains.",
+    "Higher fuel cracks and chemical margins boosted Reliance Industries' O2C EBITDA by 68%."
   ],
   "whatHappening": [
-    "Markets are closed today, Saturday, 31 October 2026, due to the weekend.",
-    "IndiGo shares jumped 4% and HCLTech rose 2% in the previous trading session.",
-    "Reliance Retail's Q2FY27 net profit fell 24.3% to Rs 2,611 crore.",
-    "Trading will resume when the market reopens on Monday, 2 November 2026."
+    "GAIL reported a two-fold increase in Q2 net profit to ₹4,724 crore supported by robust volumes.",
+    "Reliance Industries exceeded September quarter estimates driven by strong fuel earnings and Jio's profit growth.",
+    "PB Fintech saw its Q2 net profit rise by 43%.",
+    "Mazagon Dock Shipbuilders is seeking partners for its proposed shipbuilding hubs."
   ],
   "stocksInNews": [
     {
@@ -24,19 +24,34 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        2,
-        3,
         4,
         5,
-        9
+        6,
+        7
       ]
     },
     {
-      "symbol": "PBFINTECH",
+      "symbol": "GAIL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        5
+        2
+      ]
+    },
+    {
+      "symbol": "MAZDOCK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "POLICYBZR",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
       ]
     },
     {
@@ -44,7 +59,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        12
       ]
     },
     {
@@ -52,7 +67,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        12
       ]
     },
     {
@@ -60,7 +75,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        16
+        15
       ]
     },
     {
@@ -68,16 +83,18 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        16
+        15
       ]
     }
   ],
-  "summary": "On the last trading day, Indian benchmark indices ended higher with the Sensex gaining 308 points and Nifty reclaiming the 23,000 level.\nPositive quarterly financial performance from Reliance Industries, Jio Platforms, and PB Fintech supported investor sentiment.\nThe stock market is closed today for the weekend and will reopen on Monday, 2 November 2026.",
-  "updatedAt": "2026-10-30T19:01:53.066Z",
+  "summary": "On the last trading day, the Indian stock market ended on a high note with the Sensex rising 308 points and Nifty reclaiming 23,000. Gains were driven by solid Q2 corporate earnings from Reliance Industries and GAIL alongside buying in IT and pharma stocks. The stock market is closed today for the weekend and trading will resume on Monday, 2 November.",
+  "updatedAt": "2026-10-30T20:01:33.606Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-31",
   "articleKeys": [
+    "mazagon dock shipbuilders scouts partners for proposed shipbuilding hubs",
     "watch isros nvs03 satellite launch live gslvf18 mission set for liftoff",
+    "gails net profit zooms twofold to 4724 crore on robust volumes",
     "shehbaz sharif gets trolled after he praises pakistan for beating india in hong kong sixes",
     "powered by fuel earnings reliance industries tops sep quarter estimates",
     "jio platforms q2 results net profit rises 8 to rs 8389 crore margin expands",
@@ -85,10 +102,7 @@
     "q2 results highlights reliance industries profit up 22 jio platforms profit jumps 8 pb fintech profit rises 43",
     "in major public health triumph who says barbados has eliminated mothertochild hiv transmission",
     "what is la nina could it follow a strong el nino and change global weather in 2027",
-    "yuvraj singhs new innings former cricketer launches daily health supplement protocol32",
-    "reliance retail q2fy27 results net profit falls 243 to 2611 crore",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
-    "stock market today live october 30 sensex settled at 7445953 nifty 50 gained 11635 pts or 051 businessline",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
     "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
@@ -96,14 +110,27 @@
     "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
     "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
-    "stock market highlights sensex ends 353 points lower nifty at 22699 broader indices outperform ndtv profit"
+    "five reasons indias stock market is sinking even when its economy is growing bbc",
+    "sensex nifty close with gain of 05 as it pharma stocks rally weak broader market limits gains chinimandi"
   ],
   "articles": [
+    {
+      "title": "Mazagon Dock Shipbuilders scouts partners for proposed shipbuilding hubs",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/people/mazagon-dock-shipbuilders-scouts-partners-for-proposed-shipbuilding-hubs-126103002011_1.html",
+      "publishedAt": "Fri, 30 Oct 2026 23:58:52 +0530"
+    },
     {
       "title": "Watch ISRO's NVS-03 Satellite Launch Live: GSLV-F18 Mission Set For Liftoff",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/trending/watch-isros-nvs-03-satellite-launch-live-gslv-f18-mission-set-for-liftoff-12261240#publisher=newsstand",
       "publishedAt": "Fri, 30 Oct 2026 23:52:46 +0530"
+    },
+    {
+      "title": "Gail's net profit zooms two-fold to ₹4,724 crore on robust volumes",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/gail-s-net-profit-zooms-two-fold-to-4-724-crore-on-robust-volumes-126103002006_1.html",
+      "publishedAt": "Fri, 30 Oct 2026 23:48:11 +0530"
     },
     {
       "title": "Shehbaz Sharif Gets Trolled After He Praises Pakistan For Beating India In Hong Kong Sixes",
@@ -148,28 +175,10 @@
       "publishedAt": "Fri, 30 Oct 2026 23:17:44 +0530"
     },
     {
-      "title": "Yuvraj Singh's New Innings: Former Cricketer Launches Daily Health Supplement Protocol32",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/yuvraj-singhs-new-innings-former-cricketer-launches-daily-health-supplement-protocol32-12261126#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 23:17:30 +0530"
-    },
-    {
-      "title": "Reliance Retail Q2FY27 results: Net profit falls 24.3% to ₹2,611 crore",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/reliance-retail-q2-profit-falls-24-3-revenue-rises-5-8-to-80-220-cr-126103001716_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 23:09:03 +0530"
-    },
-    {
       "title": "Closing Bell: Nifty reclaims 23,000, Sensex gains 308 pts; mid, smallcaps underperform - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTJWYWhXVy1DQUpJMnhhS1U0SHliZjZaT2lNOWxuUTEtdWMxTGdiZ1c5T3htS2E3WFlVT0RmWGVIV0Q1N2JMX0JyeXhXa0ViaEZqVU9ZbGRRTllDeWtGTTZ2TzFzR2JMV0dKOU0tcXg1dV96TlZYV2g4QmZBYzJyOEhqbjVBcEZsWTFQczdwU3lBWWtVTFRGNlFnaDlMN3NuYWViRkRoeS02RW5vX01jTnQyU1g4S2djaDJqUVYwVlJHQUctdi1Ua0lMQ1czaGhFc1hlUV8xT3RIcTEwc29qSjZmamhHNlRvR3FzWWU4NlBTTmtFZWltbFlFV3M1aU9QVEJqV1BIM2JDZi1Ta1NVcmFSNFpkcldqRDBONTBIbzBQazjSAagCQVVfeXFMUFZfMjQwWDBZTXlMRnNIMkFqMllzOHFpV0xtekVjY091MWxPcDVTMlp2U2k3b2I5aU9yTEZ4RmNDYjlWQV9RUFJGZTZoeG4zeDBfMVYzOEN2Q3FhZGEzVW9rNnhLRC1JR2NuZUN6dFdTcTlqSEFkR3NTbzBZWUQ1VHduRnVkblA4aU9lZmdXRFd0Z1pfVVFSTmc2N05LTXIwTldROWVKUWxiQk9QU2FPV1V2OGdIZ0RXSVNCNlo3b3dzVlNSZko2S0lwejVMdUl1dDdacXV4WFRRX05XQTEzVlFBc0VUQzFqb3VscHA3MWNoSFZyNlhsYUtUNWJYWU50eUtaZGZEMHVoZHg3MlJKdklOTHpraDlCUC1sZXVjcVlOVFlNTjRJcjI?oc=5",
       "publishedAt": "Fri, 30 Oct 2026 10:40:33 GMT"
-    },
-    {
-      "title": "Stock Market Today Live, October 30: Sensex settled at 74,459.53; Nifty 50 gained 116.35 pts or 0.51% - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUY1Z3hqYURfemJic3lIcDdlLWh6aUtKM28wdlVsZm1JbXVHeUlkTWZjQVZOeWhRbnFMTkhFV004b3F3bWQtbmtFYm03ZTFZTjhyWEwzajVTdFFoSVZVNnlkM3hRYVlkUnFTOTdlTmFkTlFXSGtENlZqQ2szaGNiRkNpWDV6QWtuQW9SRWhhbmEzRl95LVRNY2lGeFhvcGtFOVA1VVBPS0QxeE1qa1M2clRScjd3MmJ0d3BnSGRNSThRYlRudkwyR9IBzwFBVV95cUxPOXpTN1BmcEoySFBoQjZnV2RzUGlESGk1NldJaEl2eWhSZGVXR0ZBOTJSZmEwTUplUE1fQnRENGtyUy1jUHpxQ2llOFByTG51VF9oQ0dMMThDRmhPMFdGcllGc0ZzZjM3SG5zRUdrZEw1S0NLRG9nSjBUNXphMFI4bnpDWmEyc2UzOFZFeTJ3Z19nNXhPT0owdkhCNFhEUlVqSTJGdl91YVJ6dDhBS3lnTEF6T1ZfNkliaXZhSGdnNmNONWRIXzB6WXQzd0psQnc?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 10:36:25 GMT"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex ends session 900 points higher, NSE Nifty50 closes above 22,900 - The Times of India",
@@ -214,10 +223,16 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
-      "title": "Stock Market Highlights: Sensex Ends 353 Points Lower, Nifty At 22,699; Broader Indices Outperform - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVkl3MnJmakg5RzZReHV4WWR5YmZKUFhRYmQ1cWdvTVFZZGJUSnpEd1lCb280TXpKUHJWOU81TGpRYmo4MU5rNnpQYXZLMUdUOG85X2lBWmZVaGZJb0xRNGpOZzlLOGpFVjZETlFjZTBKSnZYNHJxX1VPQWZuWTJacFdLLWNxQ3Z6YVBWRVpTWkRPUjBzNk95RlRlQ3h3dEVNc2hCOVFXRVJTSnBtTzg3R1JWQXBEWi1CSGJkM3VJTC0wZWxDUFFFZG1GeUtBSVplVGFCOS02czVhOXNDQVBFa19NQ09TZ3hsUWhvSW11UWtIVXZlb1ZzQVdLUURfYnZDTnluSkp0R2RGWndCRndxck5KOHQ?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 00:46:30 GMT"
+      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Sensex, Nifty close with gain of 0.5% as IT, pharma stocks rally; weak broader market limits gains - ChiniMandi",
+      "source": "ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZW9rV0NJRXU2T002TkpGY3BBMWpjYWJMLXNYOUZ4bUQwZkw4UU1ZMmJLblFRZWhpdmZUc0VPYVp5WHVDMTRFZnRsNkZzQjFlMUdlMGgyQy05bVpVa0lhaU9PSTlXU2ZTYWdIUVF3ZEV2MFB1SGVtbk9LUWhPWWRQbVlCbHNTbVRZZW40QW45R1hVVkcwc3VWemxkRUdieTA1YmhHZVMybTBWNW5OTnJzcTgzOHVkbVlGbzBxSlpxUQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 10:26:51 GMT"
     }
   ]
 }
