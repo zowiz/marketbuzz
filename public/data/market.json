@@ -1,30 +1,87 @@
 {
-  "headline": "Last session: Nifty reclaims 23,000 as Sensex gains 308 points led by IT and Pharma stocks",
+  "headline": "Last session: Nifty reclaimed 23,000 as Sensex gained 308 points, led by IT and pharma stock rallies.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 2 November.",
-    "nextOpen": "Monday, 2 November 2026"
+    "nextOpen": "Monday, 2 November"
   },
   "why": [
-    "Rally in IT and Pharma stocks provided significant support to the indices",
-    "Nifty successfully reclaimed the 23,000 psychological level during the last session",
-    "Strong buying interest in large-cap stocks like IndiGo and HCLTech",
-    "Underperformance in midcap and smallcap segments limited the overall market upside"
+    "IT and pharma stocks rallied, providing significant support to the benchmark indices during the last session.",
+    "IndiGo shares jumped 4% while HCLTech rose 2% on the final trading day of the week.",
+    "Strong Q2 earnings reports from major energy companies like Indian Oil and GAIL boosted investor confidence.",
+    "Positive global cues and the Nifty reclaiming the 23,000 psychological level encouraged buying interest."
   ],
   "whatHappening": [
-    "Tata Motors integrated Iveco into the group and appointed N Chandrasekaran as Chairperson",
-    "ISRO's GSLV rocket successfully placed the NVS-03 satellite into its designated orbit",
-    "Apple overtook Nvidia to regain its position as the world's most valuable company",
-    "Global markets reacted to the Nasdaq's worst monthly performance since 2025 due to an AI rout"
+    "Indian Oil reported a massive year-on-year net profit increase to 21,630 crore in Q2.",
+    "Bank of Baroda saw a 36% profit surge, aided by the sale of its stake in the NSE.",
+    "Oil prices soared 14% in October to end at a 6-month high amid geopolitical tensions.",
+    "Reliance Retail's quarterly profit was negatively impacted by the aggressive push of quick commerce competitors."
   ],
   "stocksInNews": [
     {
-      "symbol": "TATAMOTORS",
+      "symbol": "RELIANCE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        4,
+        5
+      ]
+    },
+    {
+      "symbol": "IOC",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        7
+      ]
+    },
+    {
+      "symbol": "GAIL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "BANKBARODA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "ZEEL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "NIACL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "LICHSGFIN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "AIRTELAFRI",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        6
       ]
     },
     {
@@ -42,39 +99,23 @@
       "articleIds": [
         12
       ]
-    },
-    {
-      "symbol": "ADANIENT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        14
-      ]
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        14
-      ]
     }
   ],
-  "summary": "In the last trading session, the Nifty reclaimed the 23,000 mark as the Sensex rose 308 points, driven by gains in IT and Pharma sectors. Corporate news was highlighted by Tata Motors integrating Iveco into its group, while IndiGo and HCLTech shares saw notable gains. However, the broader market remained weak with midcaps and smallcaps underperforming.",
-  "updatedAt": "2026-10-31T04:34:25.936Z",
+  "summary": "On the last trading day, the Sensex rose 308 points and the Nifty reclaimed the 23,000 level, driven by rallies in IT and pharma stocks. Major companies like Indian Oil and GAIL reported strong Q2 profits, while mid and smallcaps underperformed. The market is currently closed for the weekend and will reopen on Monday, 2 November.",
+  "updatedAt": "2026-10-31T05:05:01.229Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-31",
   "articleKeys": [
-    "isros gslv rocket successfully places nvs03 satellite into designated orbit pm modi reacts",
-    "delhi weather sees first fog conditions of winter at igi airport and safdarjung",
-    "metas credit rating outlook slashed to negative as sp flags multibillion dollar ai spending spree",
-    "isros gslv successfully places nvs03 satellite into designated orbit",
-    "jailer 2 box office collection day 16 rajinikanth starrer inches closer to rs 800 crore worldwide despite dip",
-    "tata motors says iveco is now part of group chandrasekaran appointed chairperson",
-    "apple overtakes nvidia to become worlds most valuable company",
-    "happy halloween 2026 100 wishes greetings and short messages to share with your loved ones",
-    "wall street highlights sp breaches 100dma nasdaq posts worst month since 2025 on ai rout",
-    "dad built the fortune should his son pay the tax nikhil kamath phone pes sameer nigam debate",
+    "oil prices soar 14 in october to end at 6month high as us weighs fresh attacks after midterm elections more upside ahead",
+    "lic housing fin q2 net profit grows 12 yoy",
+    "new india slips into red with 1267 cr loss in q2",
+    "bank of barodas q2 profit surges 36 yoy on nse stake sale",
+    "reliance retail q2 profit takes a hit on qcomm push",
+    "jio platforms profit zooms 14 on healthy user mix digital play",
+    "airtel africa q2 profit rises 16 to 254 million",
+    "indian oil net profit triples yoy to 21630 cr in q2",
+    "gail q2 profit surges over two fold yoy to 4650 cr despite global disruptions",
+    "zee profit sinks 40 yoy in q2 but revenue rises on fifa subscription growth",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
     "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
@@ -88,64 +129,64 @@
   ],
   "articles": [
     {
-      "title": "ISRO's GSLV Rocket Successfully Places NVS-03 Satellite Into 'Designated' Orbit, PM Modi Reacts",
+      "title": "Oil prices soar 14% in October to end at 6-month high as US weighs fresh attacks after midterm elections. More upside ahead?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/isros-gslv-rocket-successfully-places-nvs-03-satellite-into-designated-orbit-pm-modi-reacts-12261913#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 08:40:19 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-soar-14-in-october-to-end-at-6-month-high-as-us-weighs-fresh-attacks-after-midterm-elections-more-upside-ahead/articleshow/135388221.cms",
+      "publishedAt": "Sat, 31 Oct 2026 10:11:11 +0530"
     },
     {
-      "title": "Delhi Weather Sees First Fog Conditions of Winter at IGI Airport and Safdarjung",
+      "title": "LIC Housing Fin Q2 net profit grows 12% YoY",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-weather-sees-first-fog-conditions-of-winter-at-igi-airport-and-safdarjung-12261956#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 08:39:31 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lic-housing-fin-q2-net-profit-grows-12-yoy/articleshow/135388049.cms",
+      "publishedAt": "Sat, 31 Oct 2026 10:03:16 +0530"
     },
     {
-      "title": "Meta's Credit Rating Outlook Slashed To Negative As S&P Flags Multi-Billion Dollar AI Spending Spree",
+      "title": "New India slips into red with 1,267 cr loss in Q2",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/metas-credit-rating-outlook-slashed-to-negative-as-s-p-flags-multi-billion-dollar-ai-spending-spree-12261949#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 08:36:17 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/new-india-slips-into-red-with-1267-cr-loss-in-q2/articleshow/135387922.cms",
+      "publishedAt": "Sat, 31 Oct 2026 10:00:20 +0530"
     },
     {
-      "title": "Isro's GSLV successfully places NVS-03 satellite into 'designated' orbit",
+      "title": "Bank of Baroda's Q2 profit surges 36% YoY on NSE stake sale",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/isro-s-gslv-successfully-places-nvs-03-satellite-into-designated-orbit-126103100052_1.html",
-      "publishedAt": "Sat, 31 Oct 2026 08:33:41 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-barodas-q2-profit-surges-36-yoy-on-nse-stake-sale/articleshow/135387894.cms",
+      "publishedAt": "Sat, 31 Oct 2026 09:59:30 +0530"
     },
     {
-      "title": "Jailer 2 Box Office Collection Day 16: Rajinikanth Starrer Inches Closer To Rs 800 Crore Worldwide Despite Dip",
+      "title": "Reliance Retail Q2 profit takes a hit on Qcomm push",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/jailer-2-box-office-collection-day-16-rajinikanths-film-inches-closer-to-rs-800-crore-worldwide-despite-dip-check-friday-earnings-12261941#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 08:33:13 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-profit-takes-a-hit-on-qcomm-push/articleshow/135387788.cms",
+      "publishedAt": "Sat, 31 Oct 2026 09:54:27 +0530"
     },
     {
-      "title": "Tata Motors says Iveco is now part of group; Chandrasekaran appointed Chairperson",
+      "title": "Jio Platforms profit zooms 14% on healthy user mix, digital play",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/tata-motors-says-iveco-is-now-part-of-group-chandrasekaran-appointed-chairperson/article71648097.ece",
-      "publishedAt": "Sat, 31 Oct 2026 08:27:49 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-profit-zooms-14-on-healthy-user-mix-digital-play/articleshow/135387627.cms",
+      "publishedAt": "Sat, 31 Oct 2026 09:49:01 +0530"
     },
     {
-      "title": "Apple Overtakes Nvidia To Become World's Most Valuable Company",
+      "title": "Airtel Africa Q2 profit rises 16% to $254 million",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/apple-overtakes-nvidia-to-become-worlds-most-valuable-company-12261927#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 08:26:22 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/airtel-africa-q2-profit-rises-16-to-254-million/articleshow/135387563.cms",
+      "publishedAt": "Sat, 31 Oct 2026 09:47:49 +0530"
     },
     {
-      "title": "Happy Halloween 2026: 100+ Wishes, Greetings And Short Messages To Share With Your Loved Ones",
+      "title": "Indian Oil net profit triples YoY to 21,630 cr in Q2",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/happy-halloween-2026-100-wishes-greetings-and-short-messages-to-share-with-your-loved-ones-12259849#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 08:23:07 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-net-profit-triples-yoy-to-21630-cr-in-q2/articleshow/135387471.cms",
+      "publishedAt": "Sat, 31 Oct 2026 09:41:43 +0530"
     },
     {
-      "title": "Wall Street Highlights: S&P Breaches 100-DMA, Nasdaq Posts Worst Month Since 2025 On AI Rout",
+      "title": "GAIL Q2 profit surges over two fold YoY to 4,650 cr despite global disruptions",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/wall-street-highlights-s-p-breaches-100-dma-nasdaq-posts-worst-month-since-2025-on-ai-rout-12261897#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 08:12:59 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gail-q2-profit-surges-over-two-fold-yoy-to-4650-cr-despite-global-disruptions/articleshow/135387433.cms",
+      "publishedAt": "Sat, 31 Oct 2026 09:40:48 +0530"
     },
     {
-      "title": "Dad Built the Fortune. Should His Son Pay the Tax? Nikhil Kamath & Phone Pe's Sameer Nigam Debate",
+      "title": "ZEE profit sinks 40% YoY in Q2, but revenue rises on FIFA subscription growth",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/dad-built-the-fortune-should-his-son-pay-the-tax-nikhil-kamath-phone-pes-sameer-nigam-debate-12261892#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 08:08:55 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-profit-sinks-40-yoy-in-q2-but-revenue-rises-on-fifa-subscription-growth/articleshow/135387331.cms",
+      "publishedAt": "Sat, 31 Oct 2026 09:36:16 +0530"
     },
     {
       "title": "Closing Bell: Nifty reclaims 23,000, Sensex gains 308 pts; mid, smallcaps underperform - Moneycontrol.com",
