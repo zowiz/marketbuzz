@@ -1,26 +1,26 @@
 {
-  "headline": "Last session: Sensex gains 308 points, Nifty reclaims 23,000 as markets wrap up a strong week",
+  "headline": "Last session: Nifty reclaims 23,000 as Sensex gains 308 points; NTPC and Muthoot Finance post strong Q2 earnings",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 2 November.",
-    "nextOpen": "Monday, 2 November 2026"
+    "nextOpen": "Monday, 2 November"
   },
   "why": [
-    "In the last session, Sensex rose 308 points and Nifty reclaimed 23,000, led by gains in key market heavyweights.",
-    "For the week, Sensex and Nifty50 gained 2%, while Nifty Smallcap 100 jumped 4%.",
-    "Positive momentum was supported by stock-specific buying in IndiGo and HCLTech during Friday's session.",
-    "Early trade buying in Reliance and positive foreign inflows helped sustain market strength."
+    "Nifty reclaimed the 23,000 level in the last session, supported by gains in large-cap stocks",
+    "Positive corporate earnings, including a 14% profit rise for NTPC, bolstered investor confidence",
+    "Muthoot Finance reported a 27% jump in profit and revised its growth guidance upwards",
+    "The market showed resilience with a 2% weekly gain despite earlier volatility in the week"
   ],
   "whatHappening": [
-    "CDSL reported a 24% YoY rise in Q2 net profit to Rs 173 crore with revenue jumping 24%.",
-    "Granules India's finished dosage facility in Hyderabad received 11 observations from the U.S. FDA.",
-    "Trent emerged as a prominent leader during the broader market's weekly rally.",
-    "Silver dropped over half its value from record highs, while crude oil moved above $116."
+    "The government has eliminated export duty on petrol but raised levies on diesel and ATF",
+    "SEBI has issued a warning to PC Jeweller's management regarding regulatory compliance",
+    "Analysts are watching the 23,450 level as a key resistance for the Nifty in the coming week",
+    "Infrastructure focus remains high with plans for a Delhi-Varanasi bullet train journey reduction"
   ],
   "stocksInNews": [
     {
-      "symbol": "CDSL",
+      "symbol": "NTPC",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
@@ -28,11 +28,19 @@
       ]
     },
     {
-      "symbol": "GRANULES",
+      "symbol": "MUTHOOTFIN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "PCJEWELLER",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        2
+        6
       ]
     },
     {
@@ -68,21 +76,21 @@
       ]
     }
   ],
-  "summary": "Indian markets are closed today for the weekend and will reopen on Monday, 2 November. On the last trading day, Sensex gained 308 points to close higher alongside Nifty reclaiming 23,000, capping a 2% weekly gain for benchmark indices. Major corporate developments include strong Q2 earnings from CDSL and U.S. FDA observations for Granules India.",
-  "updatedAt": "2026-10-31T11:01:37.839Z",
+  "summary": "On the last trading day, the Nifty reclaimed 23,000 while the Sensex rose 308 points, capping a week where major indices gained 2%. Strong Q2 results from NTPC and Muthoot Finance supported the rally, though mid and smallcaps underperformed. Investors are now monitoring new fuel duty changes and technical resistance levels near 23,450.",
+  "updatedAt": "2026-10-31T12:02:59.130Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-31",
   "articleKeys": [
-    "cdsl q2 results net profit jumps 24 yoy to rs 173 crore revenue up 24",
-    "et wealth expo only 6 of 1990s sensex stocks survive s narens case for smarter asset allocation",
-    "finished dosage facility of granules in hyderabad gets 11 us fda observations",
-    "fahadh faasil and imtiaz alis the idiot of istanbul shelved heres what we know",
-    "head constables daughter becomes first woman dcp of noida zone 1",
-    "suniel shetty neil nitin mukesh dia mirza and others mourn the demise of sanjay gupta",
-    "openais altman meets samsung executives as chip crunch deepens",
-    "silver loses more than half its value from record high what went wrong and will it recover",
-    "openai funding target cut by 10 billion as ai slumps report",
-    "how did sanjay gupta die police conduct inquiry body sent for postmortem",
+    "ntpc q2 results net profit rises 14 yoy to rs 5320 crore revenue up 17",
+    "why investors are worried despite alphabets 25 revenue growth and google clouds revenue more than doubling explained",
+    "petrol export duty cut to nil diesel levy raised by 3 a litre",
+    "dalal street weak ahead nifty stands on firmer footing but can it break past 23450",
+    "muthoot finance q2 results profit rises 27 to rs 2977 crore revises gold loan growth guidance for fy27",
+    "palak tiwari and ibrahim ali khan break up on amicable terms cancel joint shoots",
+    "sebi issues warning letter to pc jeweller md company secretary heres why",
+    "mega bullet train plan delhivaranasi journey to be cut to 35 hours check lucknow agra patna travel time",
+    "centre scraps export duty on petrol diesel and atf levies increased",
+    "cyclone arnab has a bangladesh connection heres what its name actually means",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
     "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
@@ -96,64 +104,64 @@
   ],
   "articles": [
     {
-      "title": "CDSL Q2 results: Net profit jumps 24% YoY to Rs 173 crore, revenue up 24%",
+      "title": "NTPC Q2 Results: Net profit rises 14% YoY to Rs 5,320 crore; revenue up 17%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q2-results-net-profit-jumps-24-yoy-to-rs-173-crore-revenue-up-24/articleshow/135397659.cms",
-      "publishedAt": "Sat, 31 Oct 2026 15:50:46 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-q2-results-net-profit-rises-14-yoy-to-rs-5320-crore-revenue-up-17/articleshow/135399399.cms",
+      "publishedAt": "Sat, 31 Oct 2026 16:57:35 +0530"
     },
     {
-      "title": "ET Wealth Expo | Only 6 of 1990's Sensex stocks survive: S Naren's case for smarter asset allocation",
+      "title": "Why investors are worried despite Alphabet’s 25% revenue growth and Google Cloud’s revenue more than doubling | Explained",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-only-6-of-1990s-sensex-stocks-survive-s-narens-case-for-smarter-asset-allocation/articleshow/135397428.cms",
-      "publishedAt": "Sat, 31 Oct 2026 15:40:24 +0530"
+      "link": "https://www.thehindu.com/sci-tech/technology/why-investors-are-worried-despite-alphabets-25-revenue-growth-and-google-clouds-revenue-more-than-doubling-explained/article71648845.ece",
+      "publishedAt": "Sat, 31 Oct 2026 16:51:35 +0530"
     },
     {
-      "title": "Finished dosage facility of Granules in Hyderabad gets 11 U.S. FDA observations",
+      "title": "Petrol export duty cut to nil, diesel levy raised by ₹3 a litre",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/finished-dosage-facility-of-granules-in-hyderabad-gets-11-us-fda-observations/article71648787.ece",
-      "publishedAt": "Sat, 31 Oct 2026 15:30:35 +0530"
+      "link": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece",
+      "publishedAt": "Sat, 31 Oct 2026 16:46:41 +0530"
     },
     {
-      "title": "Fahadh Faasil And Imtiaz Ali's 'The Idiot Of Istanbul' Shelved? Here's What We Know",
+      "title": "Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/fahadh-faasil-and-imtiaz-alis-the-idiot-of-istanbul-shelved-heres-what-we-know-12263083#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 14:56:01 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-weak-ahead-nifty-stands-on-firmer-footing-but-can-it-break-past-23450/articleshow/135396431.cms",
+      "publishedAt": "Sat, 31 Oct 2026 16:35:04 +0530"
     },
     {
-      "title": "Head Constable's Daughter Becomes First Woman DCP Of Noida Zone 1",
+      "title": "Muthoot Finance Q2 Results: Profit Rises 27% To Rs 2,977  Crore, Revises Gold Loan Growth Guidance For FY27",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/head-constables-daughter-becomes-first-woman-dcp-of-noida-zone-1-12263049#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 14:48:54 +0530"
+      "link": "https://www.ndtvprofit.com/markets/muthoot-finance-q2-results-profit-rises-27-to-rs-2-977-crore-revises-gold-loan-growth-guidance-for-fy27-12263278#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 16:23:09 +0530"
     },
     {
-      "title": "Suniel Shetty, Neil Nitin Mukesh, Dia Mirza And Others Mourn The Demise Of Sanjay Gupta",
+      "title": "Palak Tiwari And Ibrahim Ali Khan Break Up On Amicable Terms, Cancel Joint Shoots",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/suniel-shetty-neil-nitin-mukesh-dia-mirza-and-others-mourn-the-demise-of-sanjay-gupta-12263021#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 14:40:06 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/palak-tiwari-and-ibrahim-ali-khan-break-up-on-amicable-terms-cancel-joint-shoots-12263261#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 16:21:19 +0530"
     },
     {
-      "title": "OpenAI's Altman Meets Samsung Executives As Chip Crunch Deepens",
+      "title": "SEBI Issues Warning Letter To PC Jeweller MD, Company Secretary | Here's Why",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/openais-altman-meets-samsung-executives-as-chip-crunch-deepens-12263008#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 14:36:10 +0530"
+      "link": "https://www.ndtvprofit.com/markets/sebi-issues-warning-letter-to-pc-jeweller-md-company-secretary-heres-why-12263363#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 16:21:10 +0530"
     },
     {
-      "title": "Silver loses more than half its value from record high: What went wrong and will it recover?",
+      "title": "Mega Bullet Train Plan: Delhi-Varanasi Journey To Be Cut To 3.5 Hours - Check Lucknow, Agra, Patna Travel Time",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
-      "publishedAt": "Sat, 31 Oct 2026 14:33:45 +0530"
+      "link": "https://www.ndtvprofit.com/economy/mega-bullet-train-plan-delhi-varanasi-journey-to-be-cut-to-3-5-hours-check-lucknow-agra-patna-travel-time-12263102#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 16:20:41 +0530"
     },
     {
-      "title": "OpenAI Funding Target Cut By $10 Billion As AI Slumps: Report",
+      "title": "Centre Scraps Export Duty On Petrol; Diesel And ATF Levies Increased",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/openai-funding-target-cut-by-10-billion-as-ai-slumps-report-says-12262960#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 14:31:22 +0530"
+      "link": "https://www.ndtvprofit.com/economy/centre-scraps-export-duty-on-petrol-diesel-and-atf-levies-increased-12263182#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 16:16:55 +0530"
     },
     {
-      "title": "How Did Sanjay Gupta Die? Police Conduct Inquiry, Body Sent For Post-Mortem",
+      "title": "Cyclone Arnab Has A Bangladesh Connection: Here's What Its Name Actually Means",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/how-did-sanjay-gupta-die-police-conduct-inquiry-body-sent-for-post-mortem-12262975#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 14:29:41 +0530"
+      "link": "https://www.ndtvprofit.com/india/cyclone-arnab-has-a-bangladesh-connection-heres-what-its-name-actually-means-12263231#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 16:12:47 +0530"
     },
     {
       "title": "Closing Bell: Nifty reclaims 23,000, Sensex gains 308 pts; mid, smallcaps underperform - Moneycontrol.com",
