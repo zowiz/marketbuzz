@@ -1,24 +1,48 @@
 {
-  "headline": "Last session: Sensex gained 308 points and Nifty reclaimed 23,000 as IndiGo and HCLTech led market gains.",
+  "headline": "Last session: Nifty reclaims 23,000 as Sensex gains 308 points; IndiGo and HCLTech lead gains.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 2 November.",
-    "nextOpen": "Monday, 2 November"
+    "nextOpen": "Monday, 2 November 2026"
   },
   "why": [
-    "Nifty reclaimed the 23,000 level during Friday's trading session",
-    "Sensex settled 308 points higher at 74,459.53",
-    "Strong performance in blue-chip stocks like IndiGo and HCLTech supported the rally",
-    "Mid and small-cap stocks underperformed compared to the benchmark indices"
+    "Nifty reclaimed the 23,000 level during the last trading session on Friday.",
+    "Strong performance from large-cap stocks like IndiGo and HCLTech supported the indices.",
+    "The government extended the import duty exemption for cotton, impacting the textile sector.",
+    "Market sentiment was influenced by reports of potential LTCG tax cuts on equities."
   ],
   "whatHappening": [
-    "The Indian government extended the import duty exemption for cotton",
-    "IEX expects market coupling to be delayed by at least another two years",
-    "Varun Beverages announced plans for a fresh distribution push in 2027",
-    "US tech stocks faced a sharp sell-off due to AI spending and cash burn concerns"
+    "Sensex settled at 74,459.53, gaining 308 points on the final trading day of the week.",
+    "Midcap and smallcap stocks underperformed the benchmarks during Friday's session.",
+    "IEX expects market coupling to be delayed by at least two years as rules are yet to be notified.",
+    "Dixon Technologies reported revenue growth driven by memory chips, though volumes showed a different trend."
   ],
   "stocksInNews": [
+    {
+      "symbol": "DIXON",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "IEX",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "VBL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        8
+      ]
+    },
     {
       "symbol": "INDIGO",
       "sentiment": "Positive",
@@ -34,58 +58,26 @@
       "articleIds": [
         13
       ]
-    },
-    {
-      "symbol": "IEX",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "VBL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "ADANIENT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        15
-      ]
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        15
-      ]
     }
   ],
-  "summary": "On the last trading day, Indian markets ended higher with the Nifty reclaiming the 23,000 mark and Sensex gaining 308 points. While large-cap stocks like IndiGo and HCLTech saw gains, mid and small-cap segments underperformed. Global sentiment remained cautious following a significant tech sell-off on Wall Street.",
-  "updatedAt": "2026-10-31T02:01:45.876Z",
+  "summary": "On the last trading day, Nifty reclaimed the 23,000 mark while Sensex rose 308 points, led by gains in IndiGo and HCLTech. The market is currently closed for the weekend and will resume trading on Monday, 2 November. Key updates include Dixon's revenue growth and a two-year delay for IEX market coupling.",
+  "updatedAt": "2026-10-31T03:01:46.009Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-31",
   "articleKeys": [
+    "shah rukh khans king lands staggering overseas deal in landmark distribution deal",
     "ltcg tax cut on equities on the cards anthropics ipo more",
+    "dixons revenue growth gets a memory chip boost but volumes tell a different story",
+    "poland suspends top court president escalating clash with opposition",
     "government extends import duty exemption for cotton",
     "india to conduct nationwide population census from january to february 2027 excluding poll and snow bound regions",
     "iex sees market coupling taking at least another two years rules yet to be notified",
     "wall street drops to its worst day since june after the selloff for tech stocks deepens",
     "varun beverages plans fresh distribution push in 2027 after slower 2026",
     "india vs uae live streaming when and where to watch hong kong sixes 2026 match live in india",
-    "us stocks today dow jones crashes 500 pts nasdaq over 25 as ai cash burn fears spark tech selloff",
-    "nasdaq 100 cracks 5 wipes out 2 trillion in october as ai spending fears deepen",
-    "reddit stock plunges 30 as googles ai search threatens traffic and user growth",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
-    "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
     "stock market today live october 30 sensex settled at 7445953 nifty 50 gained 11635 pts or 051 businessline",
+    "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
     "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
@@ -96,10 +88,28 @@
   ],
   "articles": [
     {
+      "title": "Shah Rukh Khan's 'King' Lands Staggering Overseas Deal in Landmark Distribution Deal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/shah-rukh-khans-king-lands-staggering-overseas-deal-in-landmark-distribution-deal-12261776#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 07:15:19 +0530"
+    },
+    {
       "title": "LTCG tax cut on equities on the cards?, Anthropic's IPO, & more...",
       "source": "Zerodha Pulse",
       "link": "https://finshots.in/archive/ltcg-tax-cut-on-equities-on-the-cards-anthropics-ipo-more/",
       "publishedAt": "Sat, 31 Oct 2026 07:00:04 +0530"
+    },
+    {
+      "title": "Dixon's Revenue Growth Gets A Memory Chip Boost, But Volumes Tell A Different Story",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/dixons-revenue-growth-gets-a-memory-chip-boost-but-volumes-tell-a-different-story-12259656#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 07:00:01 +0530"
+    },
+    {
+      "title": "Poland Suspends Top Court President, Escalating Clash With Opposition",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/poland-suspends-top-court-president-escalating-clash-with-opposition-12261762#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 06:56:22 +0530"
     },
     {
       "title": "Government extends import duty exemption for cotton",
@@ -138,40 +148,22 @@
       "publishedAt": "Sat, 31 Oct 2026 05:05:01 +0530"
     },
     {
-      "title": "US stocks today: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms",
-      "publishedAt": "Sat, 31 Oct 2026 01:49:20 +0530"
-    },
-    {
-      "title": "Nasdaq 100 cracks 5%, wipes out $2 trillion in October as AI spending fears deepen",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-100-cracks-5-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/articleshow/135376949.cms",
-      "publishedAt": "Sat, 31 Oct 2026 01:40:09 +0530"
-    },
-    {
-      "title": "Reddit stock plunges 30% as Google's AI search threatens traffic and user growth",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms",
-      "publishedAt": "Sat, 31 Oct 2026 00:03:48 +0530"
-    },
-    {
       "title": "Closing Bell: Nifty reclaims 23,000, Sensex gains 308 pts; mid, smallcaps underperform - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTJWYWhXVy1DQUpJMnhhS1U0SHliZjZaT2lNOWxuUTEtdWMxTGdiZ1c5T3htS2E3WFlVT0RmWGVIV0Q1N2JMX0JyeXhXa0ViaEZqVU9ZbGRRTllDeWtGTTZ2TzFzR2JMV0dKOU0tcXg1dV96TlZYV2g4QmZBYzJyOEhqbjVBcEZsWTFQczdwU3lBWWtVTFRGNlFnaDlMN3NuYWViRkRoeS02RW5vX01jTnQyU1g4S2djaDJqUVYwVlJHQUctdi1Ua0lMQ1czaGhFc1hlUV8xT3RIcTEwc29qSjZmamhHNlRvR3FzWWU4NlBTTmtFZWltbFlFV3M1aU9QVEJqV1BIM2JDZi1Ta1NVcmFSNFpkcldqRDBONTBIbzBQazjSAagCQVVfeXFMUFZfMjQwWDBZTXlMRnNIMkFqMllzOHFpV0xtekVjY091MWxPcDVTMlp2U2k3b2I5aU9yTEZ4RmNDYjlWQV9RUFJGZTZoeG4zeDBfMVYzOEN2Q3FhZGEzVW9rNnhLRC1JR2NuZUN6dFdTcTlqSEFkR3NTbzBZWUQ1VHduRnVkblA4aU9lZmdXRFd0Z1pfVVFSTmc2N05LTXIwTldROWVKUWxiQk9QU2FPV1V2OGdIZ0RXSVNCNlo3b3dzVlNSZko2S0lwejVMdUl1dDdacXV4WFRRX05XQTEzVlFBc0VUQzFqb3VscHA3MWNoSFZyNlhsYUtUNWJYWU50eUtaZGZEMHVoZHg3MlJKdklOTHpraDlCUC1sZXVjcVlOVFlNTjRJcjI?oc=5",
       "publishedAt": "Fri, 30 Oct 2026 10:40:33 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: BSE Sensex ends session 900 points higher, NSE Nifty50 closes above 22,900 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNZDFiVHZWWlNyTG1jbUo2QTV5T1p4VzRzWWYxTVJmVF9ubWQyeVJRMkFtbS1TSjcwbHFfZlo2U2xVQ2liTUVyMV9rbkdXMG00clZ5eEh6YnlJcENEeTIwTlNkd0lUeFRsOGlhOXhNM0pFVTJYUUYtUnlndXpTX0lqZTlrUDJobVRId2Z6eXpEMkFvT3oxcGRndjFpb2o2WUJnc19HZEhsNTQ5bUdUeXZuSlBHNFNOeWdHNTh3V2gxdzJOWmh6OVV1bmowWUhGTExYUW9YRTVWODZwSjVGLVJpY1pIWkpPY1l3azNhUTBxZFQ3WklEdXpNbXV6VWpkYV9OSkpwY2pqXzc4ZnBFd3ZHTUE4VGt5NGNqRWNQZUJOWTg1WWgzako5dzdzUmZXVFRwWW90X9IBugJBVV95cUxNeWdpVThLMjBjYmtOM0ZiWTZMVkxNTW9HQjRJWGZoSm9kOWhTc0lRMVpySVZ6ZGw0VEY5anR4UC1FUE5PLVhpOEY2bWRpZmFiWnVTYzBkMVFPZXpKTFY4Y0tlNWZ1U1gzT0ZDcWJfZ3d1UzBxaDR1d3NoanlrVXd3SV9YNnpmQWl4UklxbUNveHpEdlFnRjcteTVoQjZkRFptb3VMd2dFTjlQZ1pQVGdJQ2tjTGY2M1lLMW1nNVYyS2g0TUZmSVBBYzNKWnBUNDZkaDhrTGVoQVpqNnhkZXNMQlBrSUJDRWpvM25RQ2trVVp5S0ZZeDFReEpOQkk4eUJ1NU9VWlI4Q2FDLUhxREFQY2pQRWZtSGQ0UDFlX1hRbF8xSWpnLWgzMGIwd3NSZ08yWmdLX29iMGYxZw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 10:22:32 GMT"
-    },
-    {
       "title": "Stock Market Today Live, October 30: Sensex settled at 74,459.53; Nifty 50 gained 116.35 pts or 0.51% - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUY1Z3hqYURfemJic3lIcDdlLWh6aUtKM28wdlVsZm1JbXVHeUlkTWZjQVZOeWhRbnFMTkhFV004b3F3bWQtbmtFYm03ZTFZTjhyWEwzajVTdFFoSVZVNnlkM3hRYVlkUnFTOTdlTmFkTlFXSGtENlZqQ2szaGNiRkNpWDV6QWtuQW9SRWhhbmEzRl95LVRNY2lGeFhvcGtFOVA1VVBPS0QxeE1qa1M2clRScjd3MmJ0d3BnSGRNSThRYlRudkwyR9IBzwFBVV95cUxPOXpTN1BmcEoySFBoQjZnV2RzUGlESGk1NldJaEl2eWhSZGVXR0ZBOTJSZmEwTUplUE1fQnRENGtyUy1jUHpxQ2llOFByTG51VF9oQ0dMMThDRmhPMFdGcllGc0ZzZjM3SG5zRUdrZEw1S0NLRG9nSjBUNXphMFI4bnpDWmEyc2UzOFZFeTJ3Z19nNXhPT0owdkhCNFhEUlVqSTJGdl91YVJ6dDhBS3lnTEF6T1ZfNkliaXZhSGdnNmNONWRIXzB6WXQzd0psQnc?oc=5",
       "publishedAt": "Fri, 30 Oct 2026 10:36:25 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights: BSE Sensex ends session 900 points higher, NSE Nifty50 closes above 22,900 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNZDFiVHZWWlNyTG1jbUo2QTV5T1p4VzRzWWYxTVJmVF9ubWQyeVJRMkFtbS1TSjcwbHFfZlo2U2xVQ2liTUVyMV9rbkdXMG00clZ5eEh6YnlJcENEeTIwTlNkd0lUeFRsOGlhOXhNM0pFVTJYUUYtUnlndXpTX0lqZTlrUDJobVRId2Z6eXpEMkFvT3oxcGRndjFpb2o2WUJnc19HZEhsNTQ5bUdUeXZuSlBHNFNOeWdHNTh3V2gxdzJOWmh6OVV1bmowWUhGTExYUW9YRTVWODZwSjVGLVJpY1pIWkpPY1l3azNhUTBxZFQ3WklEdXpNbXV6VWpkYV9OSkpwY2pqXzc4ZnBFd3ZHTUE4VGt5NGNqRWNQZUJOWTg1WWgzako5dzdzUmZXVFRwWW90X9IBugJBVV95cUxNeWdpVThLMjBjYmtOM0ZiWTZMVkxNTW9HQjRJWGZoSm9kOWhTc0lRMVpySVZ6ZGw0VEY5anR4UC1FUE5PLVhpOEY2bWRpZmFiWnVTYzBkMVFPZXpKTFY4Y0tlNWZ1U1gzT0ZDcWJfZ3d1UzBxaDR1d3NoanlrVXd3SV9YNnpmQWl4UklxbUNveHpEdlFnRjcteTVoQjZkRFptb3VMd2dFTjlQZ1pQVGdJQ2tjTGY2M1lLMW1nNVYyS2g0TUZmSVBBYzNKWnBUNDZkaDhrTGVoQVpqNnhkZXNMQlBrSUJDRWpvM25RQ2trVVp5S0ZZeDFReEpOQkk4eUJ1NU9VWlI4Q2FDLUhxREFQY2pQRWZtSGQ0UDFlX1hRbF8xSWpnLWgzMGIwd3NSZ08yWmdLX29iMGYxZw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 10:22:32 GMT"
     },
     {
       "title": "Stock Market Highlights | Closing Bell: Sensex ends 308 pts higher, Nifty above 23,050; IndiGo jumps 4%, HCLTech 2% - The Economic Times",
