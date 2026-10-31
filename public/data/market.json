@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Nifty reclaims 23,000 and Sensex gains 308 points as Reliance and GAIL report strong earnings",
+  "headline": "Last session: Sensex gained 308 points and Nifty reclaimed 23,000 as IndiGo and HCLTech led market gains.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,43 +7,18 @@
     "nextOpen": "Monday, 2 November"
   },
   "why": [
-    "Strong quarterly earnings from major companies like Reliance Industries and GAIL boosted sentiment",
-    "Nifty reclaimed the key 23,000 psychological mark during Friday's session",
-    "Gains in heavyweights like IndiGo and HCLTech supported the upward movement of the indices",
-    "Robust volumes in the gas sector led to a two-fold increase in GAIL's net profit"
+    "Nifty reclaimed the 23,000 level during Friday's trading session",
+    "Sensex settled 308 points higher at 74,459.53",
+    "Strong performance in blue-chip stocks like IndiGo and HCLTech supported the rally",
+    "Mid and small-cap stocks underperformed compared to the benchmark indices"
   ],
   "whatHappening": [
-    "Sensex settled at 74,459.53, gaining 308 points on the last trading day",
-    "Reliance Industries topped September quarter estimates driven by strong fuel earnings",
-    "Mazagon Dock Shipbuilders is scouting for partners for proposed shipbuilding hubs",
-    "US markets faced a sharp selloff with the Nasdaq cracking 5% in October over AI spending fears"
+    "The Indian government extended the import duty exemption for cotton",
+    "IEX expects market coupling to be delayed by at least another two years",
+    "Varun Beverages announced plans for a fresh distribution push in 2027",
+    "US tech stocks faced a sharp sell-off due to AI spending and cash burn concerns"
   ],
   "stocksInNews": [
-    {
-      "symbol": "RELIANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        8,
-        9
-      ]
-    },
-    {
-      "symbol": "GAIL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "MAZDOCK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        4
-      ]
-    },
     {
       "symbol": "INDIGO",
       "sentiment": "Positive",
@@ -61,11 +36,27 @@
       ]
     },
     {
+      "symbol": "IEX",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "VBL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
       "symbol": "ADANIENT",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        16
+        15
       ]
     },
     {
@@ -73,37 +64,73 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        16
+        15
       ]
     }
   ],
-  "summary": "On the last trading day, the Indian market ended higher with the Nifty reclaiming the 23,000 level and Sensex rising 308 points. Strong corporate earnings from Reliance Industries and GAIL boosted investor sentiment despite global tech selloffs in the US. Markets remain closed today for the weekend and will resume trading on Monday.",
-  "updatedAt": "2026-10-31T01:31:25.179Z",
+  "summary": "On the last trading day, Indian markets ended higher with the Nifty reclaiming the 23,000 mark and Sensex gaining 308 points. While large-cap stocks like IndiGo and HCLTech saw gains, mid and small-cap segments underperformed. Global sentiment remained cautious following a significant tech sell-off on Wall Street.",
+  "updatedAt": "2026-10-31T02:01:45.876Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-31",
   "articleKeys": [
+    "ltcg tax cut on equities on the cards anthropics ipo more",
+    "government extends import duty exemption for cotton",
+    "india to conduct nationwide population census from january to february 2027 excluding poll and snow bound regions",
+    "iex sees market coupling taking at least another two years rules yet to be notified",
+    "wall street drops to its worst day since june after the selloff for tech stocks deepens",
+    "varun beverages plans fresh distribution push in 2027 after slower 2026",
     "india vs uae live streaming when and where to watch hong kong sixes 2026 match live in india",
     "us stocks today dow jones crashes 500 pts nasdaq over 25 as ai cash burn fears spark tech selloff",
     "nasdaq 100 cracks 5 wipes out 2 trillion in october as ai spending fears deepen",
     "reddit stock plunges 30 as googles ai search threatens traffic and user growth",
-    "mazagon dock shipbuilders scouts partners for proposed shipbuilding hubs",
-    "watch isros nvs03 satellite launch live gslvf18 mission set for liftoff",
-    "gails net profit zooms twofold to 4724 crore on robust volumes",
-    "shehbaz sharif gets trolled after he praises pakistan for beating india in hong kong sixes",
-    "powered by fuel earnings reliance industries tops sep quarter estimates",
-    "jio platforms q2 results net profit rises 8 to rs 8389 crore margin expands",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
     "stock market today live october 30 sensex settled at 7445953 nifty 50 gained 11635 pts or 051 businessline",
     "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
     "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
+    "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
     "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india"
   ],
   "articles": [
+    {
+      "title": "LTCG tax cut on equities on the cards?, Anthropic's IPO, & more...",
+      "source": "Zerodha Pulse",
+      "link": "https://finshots.in/archive/ltcg-tax-cut-on-equities-on-the-cards-anthropics-ipo-more/",
+      "publishedAt": "Sat, 31 Oct 2026 07:00:04 +0530"
+    },
+    {
+      "title": "Government extends import duty exemption for cotton",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/government-extends-import-duty-exemption-for-cotton/article71648074.ece",
+      "publishedAt": "Sat, 31 Oct 2026 06:44:15 +0530"
+    },
+    {
+      "title": "India To Conduct Nationwide Population Census From January To February 2027 Excluding Poll And Snow Bound Regions",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/india-to-conduct-nationwide-population-census-from-january-to-february-2027-excluding-poll-and-snow-bound-regions-12261721#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 06:31:03 +0530"
+    },
+    {
+      "title": "IEX Sees Market Coupling Taking At Least Another Two Years, Rules Yet To Be Notified",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/iex-sees-market-coupling-taking-at-least-another-two-years-rules-yet-to-be-notified-12259326#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 06:30:01 +0530"
+    },
+    {
+      "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/articleshow/135382776.cms",
+      "publishedAt": "Sat, 31 Oct 2026 06:20:12 +0530"
+    },
+    {
+      "title": "Varun Beverages Plans Fresh Distribution Push In 2027 After Slower 2026",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/varun-beverages-plans-fresh-distribution-push-in-2027-after-slower-2026-12259095#publisher=newsstand",
+      "publishedAt": "Sat, 31 Oct 2026 06:00:01 +0530"
+    },
     {
       "title": "India vs UAE Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
       "source": "Zerodha Pulse",
@@ -127,42 +154,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms",
       "publishedAt": "Sat, 31 Oct 2026 00:03:48 +0530"
-    },
-    {
-      "title": "Mazagon Dock Shipbuilders scouts partners for proposed shipbuilding hubs",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/people/mazagon-dock-shipbuilders-scouts-partners-for-proposed-shipbuilding-hubs-126103002011_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 23:58:52 +0530"
-    },
-    {
-      "title": "Watch ISRO's NVS-03 Satellite Launch Live: GSLV-F18 Mission Set For Liftoff",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/watch-isros-nvs-03-satellite-launch-live-gslv-f18-mission-set-for-liftoff-12261240#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 23:52:46 +0530"
-    },
-    {
-      "title": "Gail's net profit zooms two-fold to ₹4,724 crore on robust volumes",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/gail-s-net-profit-zooms-two-fold-to-4-724-crore-on-robust-volumes-126103002006_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 23:48:11 +0530"
-    },
-    {
-      "title": "Shehbaz Sharif Gets Trolled After He Praises Pakistan For Beating India In Hong Kong Sixes",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/shehbaz-sharif-gets-trolled-after-he-praises-pakistan-for-beating-india-in-hong-kong-sixes-12261206#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 23:42:21 +0530"
-    },
-    {
-      "title": "Powered by fuel earnings, Reliance Industries tops Sep quarter estimates",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/powered-by-fuel-earnings-reliance-industries-tops-sep-quarter-estimates-126103001999_1.html",
-      "publishedAt": "Fri, 30 Oct 2026 23:36:38 +0530"
-    },
-    {
-      "title": "Jio Platforms Q2 Results: Net Profit Rises 8% To Rs 8,389 Crore; Margin Expands",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/jio-platforms-q2-results-net-profit-rises-8-to-rs-8-389-crore-margin-expands-12259832#publisher=newsstand",
-      "publishedAt": "Fri, 30 Oct 2026 23:33:56 +0530"
     },
     {
       "title": "Closing Bell: Nifty reclaims 23,000, Sensex gains 308 pts; mid, smallcaps underperform - Moneycontrol.com",
@@ -195,16 +186,16 @@
       "publishedAt": "Fri, 30 Oct 2026 01:14:41 GMT"
     },
     {
-      "title": "Closing Bell: Nifty reclaims 22,900, Sensex jumps 905 pts; FMCG, financials rally - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1I4OEpudXdIbTQ1SDJ0WkhGdkRyOXUzd3E4TmU2ZlR3YnhtWk1vUmJWRjhFLS10bGtDampCdC1FZnNCLVNCdDZSNUs5UGlqY1RnNUF5ZzRFYWkzam1iRy1sSGt4Smk3M05YanFyaXpLTmhaLWpzNEhDZjNyY0FtVFFYZHp2T09TSkFRSExfQW5Jc2UzX1VHczdCUENJMWpCdVNiM3lZM1ZKb0Y3VTZBNnFQU0NmbENweEtlQm4wekh2MHhRM3dTNFQ4RUhuTzJfc0xmaGZ1YXl6TFZ6MjR1Szl6Z2laYkFtaVFJamRqLU1OcXQtcVhVbW5wTWZjczlYZ2RqU1c5aVRMUzFfVFExdEJCdGVmdU5KTDNmOEhKMkhqTk3SAagCQVVfeXFMTXNQTUNSOURwSHpOLUJGclRnYVh3cXc4dUpnd1F4Y0U0dzNnT0thdm91MjZrUzdTSU1ra1lBb01pWDJtc2x6NHdBNS1NeTVVaVA5VG9rUFJ0akR2eVItZVlqdjhKeHlvb1cxYVJxOXk1a21QY3B3N2xyLW1BaVhxWE5iZmxsdDJfeFJRT0g3S2hUb1dBakMwSjhrNnR2OUFVZkVvbHVFSl9iWDJlZ2dRSWNwamFuekE3MUZYcEhBQjlMSzBDMmV5cUZMWkNfQzQyWE1ReXUxS19Gc3BMOUE3SU1tc085VGVXYXp4Wmw3SE1HajRFaC1FZ2pZLUdSUUtWd2E0M0tDTUtpTk9kUzNMOHdhdW9heF9kdXVzTmloYTZjYncxQXdyQ3o?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 10:43:01 GMT"
-    },
-    {
       "title": "Stock Market Highlights | Sensex soars 905 pts, Nifty ends above 22,900; Adani Ent jumps 5%, Kotak Bank 4% - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQY090MXJYMC1pb0lhbXpmdW5hTHh0TXgyWlBLNTdGQUR0d2FXMHN1WWhLdEh4emd6RE1kY2RheTg0NFBXbWZPSFNPZno0TmJyQ08xVmREYWFwR1k4UGh5MFNMNERDZEhWWVBzd3cxR3BUMUl2cUlfczcyNHUzeVRWMnI3UmgtVEliYllFcWxXZmZrVXhJM2hQSmYyeTZjN09vYVV1QnNDcFNmTHk1LXlkVGo1b2VpUElRd1FnUTdabTFWSTRKUDlPSTNad0lXVUhqVGhVOVlHa1VnRFhyM2tvWEdvTHl5UEVod05QSW9IY2dHVXRIb0VpOFBoVjJoc09WeXNJdHYxT1JmbU1QUTdYWUQ3bWHSAZoCQVVfeXFMTXpoUnZfNkh5Q0d5ZjlEangxTXJUWGlwVWFMSVJFR2FUMUFuX1NwaWRmVGdjY01xZlRRbHE1RDgtenlDdHFTbEM5WktEMDNISmZhcy1iSFF2MzBsTXZhVXJDTzBES3ZOcW5ZOUtSTEs2aVdMVzZNTzRCVklPSTlSbVhaMzFhQlctT2stVnpDeVY3a2tWZUdxTVEyeW4tcms4dm5NWW5ZR0tmY2JfcWN1VlZ2QzZiUWlkcl9FNmd0Q2NENTJMSHdFSy1ndnN3QTZvZ3RaUFBXb1Jxc0dVdVFscFhuUFRqWEFNXzlMbDVvZzNaaW00VzgwNHUyTFU4QW1OZEYya000YkJZTWVHV3FxZ0tUZHVMUFdfb2xB?oc=5",
       "publishedAt": "Thu, 29 Oct 2026 10:54:35 GMT"
+    },
+    {
+      "title": "Closing Bell: Nifty reclaims 22,900, Sensex jumps 905 pts; FMCG, financials rally - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNV1I4OEpudXdIbTQ1SDJ0WkhGdkRyOXUzd3E4TmU2ZlR3YnhtWk1vUmJWRjhFLS10bGtDampCdC1FZnNCLVNCdDZSNUs5UGlqY1RnNUF5ZzRFYWkzam1iRy1sSGt4Smk3M05YanFyaXpLTmhaLWpzNEhDZjNyY0FtVFFYZHp2T09TSkFRSExfQW5Jc2UzX1VHczdCUENJMWpCdVNiM3lZM1ZKb0Y3VTZBNnFQU0NmbENweEtlQm4wekh2MHhRM3dTNFQ4RUhuTzJfc0xmaGZ1YXl6TFZ6MjR1Szl6Z2laYkFtaVFJamRqLU1OcXQtcVhVbW5wTWZjczlYZ2RqU1c5aVRMUzFfVFExdEJCdGVmdU5KTDNmOEhKMkhqTk3SAagCQVVfeXFMTXNQTUNSOURwSHpOLUJGclRnYVh3cXc4dUpnd1F4Y0U0dzNnT0thdm91MjZrUzdTSU1ra1lBb01pWDJtc2x6NHdBNS1NeTVVaVA5VG9rUFJ0akR2eVItZVlqdjhKeHlvb1cxYVJxOXk1a21QY3B3N2xyLW1BaVhxWE5iZmxsdDJfeFJRT0g3S2hUb1dBakMwSjhrNnR2OUFVZkVvbHVFSl9iWDJlZ2dRSWNwamFuekE3MUZYcEhBQjlMSzBDMmV5cUZMWkNfQzQyWE1ReXUxS19Gc3BMOUE3SU1tc085VGVXYXp4Wmw3SE1HajRFaC1FZ2pZLUdSUUtWd2E0M0tDTUtpTk9kUzNMOHdhdW9heF9kdXVzTmloYTZjYncxQXdyQ3o?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 10:43:01 GMT"
     },
     {
       "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
