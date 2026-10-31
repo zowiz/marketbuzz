@@ -1,46 +1,81 @@
 {
-  "headline": "Last session: Sensex gained 308 points and Nifty reclaimed 23,000 led by IndiGo and HCLTech",
+  "headline": "Last session: Sensex gains 308 points, Nifty reclaims 23,000 as markets wrap up a strong week",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 2 November.",
-    "nextOpen": "Monday, 2 November"
+    "nextOpen": "Monday, 2 November 2026"
   },
   "why": [
-    "On the last trading day, benchmark indices gained with Sensex rising 308 points and Nifty closing above 23,000.",
-    "Strong gains in key stocks like IndiGo (up 4%) and HCLTech (up 2%) boosted market sentiment.",
-    "Eight companies shifted from loss to profit during the September 2026 quarter, boosting earnings outlook.",
-    "Midcaps and smallcaps underperformed benchmark indices in the last trading session."
+    "In the last session, Sensex rose 308 points and Nifty reclaimed 23,000, led by gains in key market heavyweights.",
+    "For the week, Sensex and Nifty50 gained 2%, while Nifty Smallcap 100 jumped 4%.",
+    "Positive momentum was supported by stock-specific buying in IndiGo and HCLTech during Friday's session.",
+    "Early trade buying in Reliance and positive foreign inflows helped sustain market strength."
   ],
   "whatHappening": [
-    "Sensex settled at 74,459.53 while Nifty 50 gained 116.35 points or 0.51% in Friday's session.",
-    "Silver has dropped significantly, losing over half its value from its record high.",
-    "Global tech headlines report OpenAI funding target cuts by $10 billion amid an AI sector slump.",
-    "Indian markets are closed for the weekend and trading will resume on Monday, 2 November."
+    "CDSL reported a 24% YoY rise in Q2 net profit to Rs 173 crore with revenue jumping 24%.",
+    "Granules India's finished dosage facility in Hyderabad received 11 observations from the U.S. FDA.",
+    "Trent emerged as a prominent leader during the broader market's weekly rally.",
+    "Silver dropped over half its value from record highs, while crude oil moved above $116."
   ],
   "stocksInNews": [
     {
+      "symbol": "CDSL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "GRANULES",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
       "symbol": "INDIGO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        13
+        12
       ]
     },
     {
       "symbol": "HCLTECH",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        13
+        12
+      ]
+    },
+    {
+      "symbol": "TRENT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        17
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        19
       ]
     }
   ],
-  "summary": "On the last trading session on Friday, 30 October, Sensex gained 308 points to settle at 74,459.53 while Nifty reclaimed the 23,000 mark. Gains were driven by IndiGo jumping 4% and HCLTech rising 2%, though midcaps and smallcaps underperformed. The market is closed today for the weekend and will reopen on Monday, 2 November.",
-  "updatedAt": "2026-10-31T10:01:26.468Z",
+  "summary": "Indian markets are closed today for the weekend and will reopen on Monday, 2 November. On the last trading day, Sensex gained 308 points to close higher alongside Nifty reclaiming 23,000, capping a 2% weekly gain for benchmark indices. Major corporate developments include strong Q2 earnings from CDSL and U.S. FDA observations for Granules India.",
+  "updatedAt": "2026-10-31T11:01:37.839Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-31",
   "articleKeys": [
+    "cdsl q2 results net profit jumps 24 yoy to rs 173 crore revenue up 24",
+    "et wealth expo only 6 of 1990s sensex stocks survive s narens case for smarter asset allocation",
+    "finished dosage facility of granules in hyderabad gets 11 us fda observations",
     "fahadh faasil and imtiaz alis the idiot of istanbul shelved heres what we know",
     "head constables daughter becomes first woman dcp of noida zone 1",
     "suniel shetty neil nitin mukesh dia mirza and others mourn the demise of sanjay gupta",
@@ -48,21 +83,36 @@
     "silver loses more than half its value from record high what went wrong and will it recover",
     "openai funding target cut by 10 billion as ai slumps report",
     "how did sanjay gupta die police conduct inquiry body sent for postmortem",
-    "november 2026 festival calendar check dhanteras diwali bhai dooj dates",
-    "turnaround story 8 stocks shift from loss to profit in september 26 quarter",
-    "shaina nc identity misused in rs 49 lakh scam mumbai police bust cyber fraud racket",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
-    "stock market today live october 30 sensex settled at 7445953 nifty 50 gained 11635 pts or 051 businessline",
     "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
-    "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
-    "stock market close sensex falls for 4th day ends 126 pts lower nifty at 22600 vix rises 6 business standard",
-    "five reasons indias stock market is sinking even when its economy is growing bbc"
+    "five reasons indias stock market is sinking even when its economy is growing bbc",
+    "market weekly wrap sensex nifty50 rise 2 nifty smallcap 100 jumps 4 trent leads rally upstox",
+    "sensex nifty open volatile india vix rises crude above 116 hdfc sky",
+    "sensex nifty rise in early trade on reliance buying foreign inflows the hindu"
   ],
   "articles": [
+    {
+      "title": "CDSL Q2 results: Net profit jumps 24% YoY to Rs 173 crore, revenue up 24%",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q2-results-net-profit-jumps-24-yoy-to-rs-173-crore-revenue-up-24/articleshow/135397659.cms",
+      "publishedAt": "Sat, 31 Oct 2026 15:50:46 +0530"
+    },
+    {
+      "title": "ET Wealth Expo | Only 6 of 1990's Sensex stocks survive: S Naren's case for smarter asset allocation",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-only-6-of-1990s-sensex-stocks-survive-s-narens-case-for-smarter-asset-allocation/articleshow/135397428.cms",
+      "publishedAt": "Sat, 31 Oct 2026 15:40:24 +0530"
+    },
+    {
+      "title": "Finished dosage facility of Granules in Hyderabad gets 11 U.S. FDA observations",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/finished-dosage-facility-of-granules-in-hyderabad-gets-11-us-fda-observations/article71648787.ece",
+      "publishedAt": "Sat, 31 Oct 2026 15:30:35 +0530"
+    },
     {
       "title": "Fahadh Faasil And Imtiaz Ali's 'The Idiot Of Istanbul' Shelved? Here's What We Know",
       "source": "Zerodha Pulse",
@@ -106,24 +156,6 @@
       "publishedAt": "Sat, 31 Oct 2026 14:29:41 +0530"
     },
     {
-      "title": "November 2026 Festival Calendar: Check Dhanteras, Diwali, Bhai Dooj Dates",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/november-2026-festival-calendar-check-dhanteras-diwali-bhai-dooj-dates-12262703#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 14:26:27 +0530"
-    },
-    {
-      "title": "Turnaround Story: 8 stocks shift from loss to profit in September '26 quarter",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/turnaround-story-8-stocks-shift-from-loss-to-profit-in-september-26-quarter/slideshow/135395511.cms",
-      "publishedAt": "Sat, 31 Oct 2026 14:22:12 +0530"
-    },
-    {
-      "title": "Shaina NC Identity Misused In Rs 4.9 Lakh Scam, Mumbai Police Bust Cyber Fraud Racket",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/shaina-nc-identity-misused-in-rs-4-9-lakh-scam-mumbai-police-bust-cyber-fraud-racket-12262932#publisher=newsstand",
-      "publishedAt": "Sat, 31 Oct 2026 14:17:52 +0530"
-    },
-    {
       "title": "Closing Bell: Nifty reclaims 23,000, Sensex gains 308 pts; mid, smallcaps underperform - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNOTJWYWhXVy1DQUpJMnhhS1U0SHliZjZaT2lNOWxuUTEtdWMxTGdiZ1c5T3htS2E3WFlVT0RmWGVIV0Q1N2JMX0JyeXhXa0ViaEZqVU9ZbGRRTllDeWtGTTZ2TzFzR2JMV0dKOU0tcXg1dV96TlZYV2g4QmZBYzJyOEhqbjVBcEZsWTFQczdwU3lBWWtVTFRGNlFnaDlMN3NuYWViRkRoeS02RW5vX01jTnQyU1g4S2djaDJqUVYwVlJHQUctdi1Ua0lMQ1czaGhFc1hlUV8xT3RIcTEwc29qSjZmamhHNlRvR3FzWWU4NlBTTmtFZWltbFlFV3M1aU9QVEJqV1BIM2JDZi1Ta1NVcmFSNFpkcldqRDBONTBIbzBQazjSAagCQVVfeXFMUFZfMjQwWDBZTXlMRnNIMkFqMllzOHFpV0xtekVjY091MWxPcDVTMlp2U2k3b2I5aU9yTEZ4RmNDYjlWQV9RUFJGZTZoeG4zeDBfMVYzOEN2Q3FhZGEzVW9rNnhLRC1JR2NuZUN6dFdTcTlqSEFkR3NTbzBZWUQ1VHduRnVkblA4aU9lZmdXRFd0Z1pfVVFSTmc2N05LTXIwTldROWVKUWxiQk9QU2FPV1V2OGdIZ0RXSVNCNlo3b3dzVlNSZko2S0lwejVMdUl1dDdacXV4WFRRX05XQTEzVlFBc0VUQzFqb3VscHA3MWNoSFZyNlhsYUtUNWJYWU50eUtaZGZEMHVoZHg3MlJKdklOTHpraDlCUC1sZXVjcVlOVFlNTjRJcjI?oc=5",
@@ -134,12 +166,6 @@
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNZDFiVHZWWlNyTG1jbUo2QTV5T1p4VzRzWWYxTVJmVF9ubWQyeVJRMkFtbS1TSjcwbHFfZlo2U2xVQ2liTUVyMV9rbkdXMG00clZ5eEh6YnlJcENEeTIwTlNkd0lUeFRsOGlhOXhNM0pFVTJYUUYtUnlndXpTX0lqZTlrUDJobVRId2Z6eXpEMkFvT3oxcGRndjFpb2o2WUJnc19HZEhsNTQ5bUdUeXZuSlBHNFNOeWdHNTh3V2gxdzJOWmh6OVV1bmowWUhGTExYUW9YRTVWODZwSjVGLVJpY1pIWkpPY1l3azNhUTBxZFQ3WklEdXpNbXV6VWpkYV9OSkpwY2pqXzc4ZnBFd3ZHTUE4VGt5NGNqRWNQZUJOWTg1WWgzako5dzdzUmZXVFRwWW90X9IBugJBVV95cUxNeWdpVThLMjBjYmtOM0ZiWTZMVkxNTW9HQjRJWGZoSm9kOWhTc0lRMVpySVZ6ZGw0VEY5anR4UC1FUE5PLVhpOEY2bWRpZmFiWnVTYzBkMVFPZXpKTFY4Y0tlNWZ1U1gzT0ZDcWJfZ3d1UzBxaDR1d3NoanlrVXd3SV9YNnpmQWl4UklxbUNveHpEdlFnRjcteTVoQjZkRFptb3VMd2dFTjlQZ1pQVGdJQ2tjTGY2M1lLMW1nNVYyS2g0TUZmSVBBYzNKWnBUNDZkaDhrTGVoQVpqNnhkZXNMQlBrSUJDRWpvM25RQ2trVVp5S0ZZeDFReEpOQkk4eUJ1NU9VWlI4Q2FDLUhxREFQY2pQRWZtSGQ0UDFlX1hRbF8xSWpnLWgzMGIwd3NSZ08yWmdLX29iMGYxZw?oc=5",
       "publishedAt": "Thu, 29 Oct 2026 10:22:32 GMT"
-    },
-    {
-      "title": "Stock Market Today Live, October 30: Sensex settled at 74,459.53; Nifty 50 gained 116.35 pts or 0.51% - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUY1Z3hqYURfemJic3lIcDdlLWh6aUtKM28wdlVsZm1JbXVHeUlkTWZjQVZOeWhRbnFMTkhFV004b3F3bWQtbmtFYm03ZTFZTjhyWEwzajVTdFFoSVZVNnlkM3hRYVlkUnFTOTdlTmFkTlFXSGtENlZqQ2szaGNiRkNpWDV6QWtuQW9SRWhhbmEzRl95LVRNY2lGeFhvcGtFOVA1VVBPS0QxeE1qa1M2clRScjd3MmJ0d3BnSGRNSThRYlRudkwyR9IBzwFBVV95cUxPOXpTN1BmcEoySFBoQjZnV2RzUGlESGk1NldJaEl2eWhSZGVXR0ZBOTJSZmEwTUplUE1fQnRENGtyUy1jUHpxQ2llOFByTG51VF9oQ0dMMThDRmhPMFdGcllGc0ZzZjM3SG5zRUdrZEw1S0NLRG9nSjBUNXphMFI4bnpDWmEyc2UzOFZFeTJ3Z19nNXhPT0owdkhCNFhEUlVqSTJGdl91YVJ6dDhBS3lnTEF6T1ZfNkliaXZhSGdnNmNONWRIXzB6WXQzd0psQnc?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 10:36:25 GMT"
     },
     {
       "title": "Stock Market Highlights | Closing Bell: Sensex ends 308 pts higher, Nifty above 23,050; IndiGo jumps 4%, HCLTech 2% - The Economic Times",
@@ -166,22 +192,28 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcDZ4SlBCdXAzX0JUb3E2UlRYeGhFblcwSWF3cW1oX2VZMEwwakJfeVEtdUJRaThFSjVqSWRMaU12ajVDQ2NsMllXaUgydHJHMk9oT0xPaW9WeFByWkdGN25WZkpXYjRWYlVGSlFuLWNmWGd1Q3p5WU93RHh4NGIwYmtVa1c3NDNyejhvempFQTJxbm5RUHREV1dNbUxWc3hZRjlPbmpDWFBnZ2RtZnQtZWluLUZLcTB1YmdCYjJHUmZXTktYYlBGdWFBU3lhNVJpNFR3ZdIBugJBVV95cUxNMFNaX0w0NnU0aTQ0UHdkc0lSQ19GUGRKMnFwTVJYNW5wajNISEtaeFctTmZ3QWtxSDJzLVZMdlR6ZVk3VnlWNnFmRUYxQVFFdTFzX2J4TW9HVUpGVWJBd29sT1RnSElmQlFsMVV3QkhYQXB1dkNudWNORUZub295a3BSRVpXcUVGYWRpaXBrb2NMWmpWZks2TXhSRXlmLU0wdm1yNG40dGx3ZVQ0b3FzcTQ1MzhKZG03cGRxUnJRb052V19UcjVjdzFzcHZ1eXNydDRCaWotVXRNcWtQZldqcEtzR19ac21LU1piWk95MTFVa3dMRHNNOHN5U0tHZU4zSERENjgxd29McDBIeUxUNmFveDdZODJucmI1Qm9EV0ItWG50NktCdTRseTRDTmYzV2x0Z1g0aTR2QQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
-    },
-    {
-      "title": "Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 6% - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVFFeGltOU5ULVFVeVBYQmUzRGpXN3hDRjN3VXRoeDFGWTVsV1RqME43WkRnV2l4OExfTndoWjF6UlpIYWJrYnh0V0NGXzZJeWk0d0NrTF9YbG0tbVJ0dTVyUFhlQnVNc0tBVWhCcjdkWjZTWTNhdFdwVEZRM2gybGt4UVNkN1k5N1ZpWE16dFNEX0I0WEdXWHp5Z0VabmdDX2ZMbzZUTEE1b3NSWC0xbGlucGE3UG5zQjdWdnI2MnlWWFc3d0FFT0NLcUR0QjBuMmhWZ3VDbGtQZGtSTGQyem9MRUJWbDZLejB4VEgzRGdhMVZHZlppTzBGWHplU0pLT2plaEM4VVjSAY4CQVVfeXFMTlFIS1BXeGVHaWtoYTdma0N6aGk0bXVXUG82RjdzclBtejdBRHhJY0NsdVl1bWJBUGhCaTZYanY5ZDVIOENxckgtSHlzTDYxdVAweWpRakwwYmh2eGlmaXJ0YXNXS1JxUGxoV2xMWjhaU3FJblBjQm10ZTZ1enJDbDd0RndDd2F4Znc4WWtKTGNsd0dIeUowMktXUHdaQ3JBLV9EdXg3VGVYbW5SN1p1QVdxalJGTFljNkVJeWVFdnUwbE56YkpaTG9tQUxEREN3TzdlX21jay1jVHFmcHhPOHdwVThTbmpYdkQtdVRmMjBxV0NZVGVYeHFRbnpWcjRwQXY4RGtTQUxuSGhkaXpn?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 10:22:05 GMT"
-    },
-    {
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Market weekly wrap: SENSEX, NIFTY50 rise 2%; NIFTY Smallcap 100 jumps 4%, Trent leads rally - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeUhVNzNkY2xCWmQxM3lRRHJHcE4ybVlOUFF3WUZncExvT2YyTmlCbGlxcE5fdnZrWEhGSmpXY09DWkhIYW1Qa09ieE5hd3g3WTBFa1MtZkdQUldoaEJzSTBGM0pUdVFqWHZJSEcwa21MbmxaWGNYc0xMTWxoYzJxZko4TWg2ZWc1Zk5FZ051eUQ3eFduWU9SUm41aHFySEFFYlRvVnZ3bDVibkV6UXZOYzVWR0M2RTg1bmpQeDZmTzIzanpZYVZpaUltWFRTLVd1VEVwckRGSHpfUEY2SUE?oc=5",
+      "publishedAt": "Sat, 31 Oct 2026 06:23:22 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Open Volatile; India VIX Rises, Crude Above $116 - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2daQnV3TThDSXViZGppTlJha2tMZVU4ZEV6Smw5ai13RUxwa3ZoODdGYTYwLS16eW1UdlY3SHVyQjVSLVAxUlVXNmhiTVNSdTFHVXNNYk94VXY2a1Q4V2c0cjluWDNBbkxwZDVfLXdxUTk3aV9xM0hnVElQcERGaDAwaVBRU2JZam8wTVM5WlhsSXJGMXBkWWlIdUZXWEZITzlJRk9LM1pEOE8yYVdETHp4WjRzWklrV0dvak5Pc0ZiaFdlMVE?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 05:13:04 GMT"
+    },
+    {
+      "title": "Sensex, Nifty rise in early trade on Reliance buying, foreign inflows - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbm9FWDJhbHFCMEpNTC1uZ1dtTWhHd09pYzd6N0s5aTJfclVMU3hmTmVoQVQ4UUxiWXQ2THJ6SkxJSDFIVGRfT3VHZFktS0d1M09BQzIxc1Y3OHE4Vjg5TjYwYjJ6UWpSRk9heE0xdWtSTThObUczdk51dEJmMUlZeXI5eExPQnF6OHp5Z3lna2RhVG9LemNROEkyVFBYUGVwZS04MWxzZkZqbjlpRGd2ekFXZzJ3VHB1YkpOeTBpQ3dabmtjOUFXdtIBzwFBVV95cUxNUm83blpBb3pITXIyTnhpekdUM19lZkFHR3pwOVlxaGRZbHhZeVJ0akN1MW4zSk9EdjgzRl9sUnZUMy1aWkVDQTJJaVJYeVI5SHdnYUVwM3VseEdjNkU2aDU5MlZrdkw3alBCMFlROTRBWVlGMnBHeGFhZXhxSFFRdzU3MjZzSS13djBVcXNpSDVvSlNtSVNkT0JPTmg3SkZ4amFZMFhYTG5uVjN0ZlNmSy02VnUzWlBEaWhZUFlhQmJYakZJQVUxZFJMWnRDZDg?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 05:17:10 GMT"
     }
   ]
 }
