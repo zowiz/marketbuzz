@@ -1,22 +1,22 @@
 {
-  "headline": "Last session: Sensex gained 308 points and Nifty reclaimed 23,000, led by gains in IndiGo and HCLTech.",
+  "headline": "Last session: Nifty reclaims 23,000 as Sensex gains 308 points; IndiGo and HCLTech lead market gains.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 3 November.",
-    "nextOpen": "Tuesday, 3 November 2026"
+    "nextOpen": "Tuesday, 3 November"
   },
   "why": [
-    "On the last trading session, benchmark indices closed higher with Sensex gaining 308 points and Nifty reclaiming 23,000.",
-    "Strong buying interest in stocks like IndiGo and HCLTech pushed the markets upward.",
-    "The Central government released an additional tax devolution tranche of ₹1.09 lakh crore to states.",
-    "IOC noted volatile crude oil prices in Q2 due to procurement swinging between discounts and premiums."
+    "Nifty 50 gained 116.35 points to reclaim the 23,000 level on Friday",
+    "Sensex settled at 74,459.53, marking a gain of 308 points",
+    "IndiGo shares jumped 4% while HCLTech rose 2%, driving the index higher",
+    "Broader markets saw underperformance from mid-cap and small-cap segments"
   ],
   "whatHappening": [
-    "SEBI chairman stated that the market regulator is keeping an eye on Tata Group developments and enhancing investor safeguards.",
-    "The textile industry welcomed the extension of customs duty exemption on cotton.",
-    "New GRAP restrictions regarding vehicle usage take effect in Delhi from November 1 to control pollution.",
-    "The stock market is closed today on account of the weekend and will resume trading on Tuesday, 3 November."
+    "The Centre released an additional ₹1.09 lakh crore tax devolution instalment to states",
+    "SEBI is monitoring developments within the Tata Group to ensure investor protection",
+    "Indian Oil Corporation reported crude procurement swings due to volatile Q2 prices",
+    "The textile industry welcomed the customs duty exemption extension for cotton imports"
   ],
   "stocksInNews": [
     {
@@ -24,7 +24,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        14
       ]
     },
     {
@@ -32,7 +32,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        13
+        14
       ]
     },
     {
@@ -44,16 +44,16 @@
       ]
     },
     {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Negative",
+      "symbol": "TATA",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        18
+        2
       ]
     }
   ],
-  "summary": "On the last trading day, Indian stock markets ended on a positive note as Sensex gained 308 points and Nifty moved past 23,000. Stock gains were driven by IndiGo and HCLTech, while macro updates including tax devolution and SEBI regulations highlighted weekend news. The market is closed today for the weekend and will reopen on Tuesday, 3 November.",
-  "updatedAt": "2026-10-31T17:02:12.262Z",
+  "summary": "On the last trading day, the Nifty reclaimed 23,000 and the Sensex rose 308 points, led by IndiGo and HCLTech.\nThe market is currently closed for the weekend and is scheduled to reopen on Tuesday, 3 November.\nKey news includes a significant tax devolution to states and SEBI's focus on investor safeguards and Tata Group developments.",
+  "updatedAt": "2026-10-31T17:34:30.270Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-31",
   "articleKeys": [
@@ -68,15 +68,15 @@
     "hello sunshine lays off 30 employees after reacquisition by reese witherspoon and mediawan",
     "textile industry welcomes customs duty exemption extension for cotton",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
-    "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
     "stock market today live october 30 sensex settled at 7445953 nifty 50 gained 11635 pts or 051 businessline",
-    "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
+    "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
+    "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "five reasons indias stock market is sinking even when its economy is growing bbc",
-    "stock market today highlights october 21 sensex drops over 400 pts nifty at 22700 eternal bajaj fin lead losers businessline",
-    "stock market today trade guide for sensex nifty 50 crude oil and gold seven stocks to buy livemint"
+    "stock market today highlights october 21 sensex drops over 400 pts nifty at 22700 eternal bajaj fin lead losers businessline"
   ],
   "articles": [
     {
@@ -146,16 +146,22 @@
       "publishedAt": "Fri, 30 Oct 2026 10:40:33 GMT"
     },
     {
-      "title": "Stock Market Today Highlights: BSE Sensex ends session 900 points higher, NSE Nifty50 closes above 22,900 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNZDFiVHZWWlNyTG1jbUo2QTV5T1p4VzRzWWYxTVJmVF9ubWQyeVJRMkFtbS1TSjcwbHFfZlo2U2xVQ2liTUVyMV9rbkdXMG00clZ5eEh6YnlJcENEeTIwTlNkd0lUeFRsOGlhOXhNM0pFVTJYUUYtUnlndXpTX0lqZTlrUDJobVRId2Z6eXpEMkFvT3oxcGRndjFpb2o2WUJnc19HZEhsNTQ5bUdUeXZuSlBHNFNOeWdHNTh3V2gxdzJOWmh6OVV1bmowWUhGTExYUW9YRTVWODZwSjVGLVJpY1pIWkpPY1l3azNhUTBxZFQ3WklEdXpNbXV6VWpkYV9OSkpwY2pqXzc4ZnBFd3ZHTUE4VGt5NGNqRWNQZUJOWTg1WWgzako5dzdzUmZXVFRwWW90X9IBugJBVV95cUxNeWdpVThLMjBjYmtOM0ZiWTZMVkxNTW9HQjRJWGZoSm9kOWhTc0lRMVpySVZ6ZGw0VEY5anR4UC1FUE5PLVhpOEY2bWRpZmFiWnVTYzBkMVFPZXpKTFY4Y0tlNWZ1U1gzT0ZDcWJfZ3d1UzBxaDR1d3NoanlrVXd3SV9YNnpmQWl4UklxbUNveHpEdlFnRjcteTVoQjZkRFptb3VMd2dFTjlQZ1pQVGdJQ2tjTGY2M1lLMW1nNVYyS2g0TUZmSVBBYzNKWnBUNDZkaDhrTGVoQVpqNnhkZXNMQlBrSUJDRWpvM25RQ2trVVp5S0ZZeDFReEpOQkk4eUJ1NU9VWlI4Q2FDLUhxREFQY2pQRWZtSGQ0UDFlX1hRbF8xSWpnLWgzMGIwd3NSZ08yWmdLX29iMGYxZw?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 10:22:32 GMT"
-    },
-    {
       "title": "Stock Market Today Live, October 30: Sensex settled at 74,459.53; Nifty 50 gained 116.35 pts or 0.51% - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUY1Z3hqYURfemJic3lIcDdlLWh6aUtKM28wdlVsZm1JbXVHeUlkTWZjQVZOeWhRbnFMTkhFV004b3F3bWQtbmtFYm03ZTFZTjhyWEwzajVTdFFoSVZVNnlkM3hRYVlkUnFTOTdlTmFkTlFXSGtENlZqQ2szaGNiRkNpWDV6QWtuQW9SRWhhbmEzRl95LVRNY2lGeFhvcGtFOVA1VVBPS0QxeE1qa1M2clRScjd3MmJ0d3BnSGRNSThRYlRudkwyR9IBzwFBVV95cUxPOXpTN1BmcEoySFBoQjZnV2RzUGlESGk1NldJaEl2eWhSZGVXR0ZBOTJSZmEwTUplUE1fQnRENGtyUy1jUHpxQ2llOFByTG51VF9oQ0dMMThDRmhPMFdGcllGc0ZzZjM3SG5zRUdrZEw1S0NLRG9nSjBUNXphMFI4bnpDWmEyc2UzOFZFeTJ3Z19nNXhPT0owdkhCNFhEUlVqSTJGdl91YVJ6dDhBS3lnTEF6T1ZfNkliaXZhSGdnNmNONWRIXzB6WXQzd0psQnc?oc=5",
       "publishedAt": "Fri, 30 Oct 2026 10:36:25 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 30 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU0lLTXdXRXlnWnktM1lpdVdQMEZ1Q0ltbHlFQlZOa1pRM09LcGlnYTRubzNDcks4N21ZaGdEV3ZpRFV0N1FhT3htZkM5djl3WngtREVSVkdhbWkzWFQzNjJQN2MwZDVYaXQ3Q3pPOUxLaDlVUFF5aEFzWkY2TU1jRjloa19jNTBBMHZMYkZGVExUMlV5aXlXaVV6M3Z4QV9WaDF2ekFRMlg4dXV1aE1TMWR5bHlUUi1XODB1MHFraXVKLXZGOXJvNTdmRnJNNmY5WU1JSXJ1dXpVTjdXR2NyVUpVSUdYbFFqS0gybXp5MG5tSDdhWEpTb1RVMkJlZ29ZN09WNdIBigJBVV95cUxQQ3pIRzJQZmY1VXpnc0Nra014TklOZ0lvNkhtZUJ0UFJiQmtZQ090aUpZTlFfTWdMMW9HT1U1UVJEU2NUcVFUUmtyb0E2emhPa1hmMGd6eDYyMWk4R3JURTFVYThqZzNBS3lyNC1zcTRyajNKcWF0d213aWd2Y1J3aGRNMVlqRDhOaUZpNktDcmNSRFlpMnVVU1NOTlV3TTMtX2tLSkNyMWNrVWtwd29sQkxxTkUxYll2X1FoOWJVY2ZTcUVBUXRMVGVTNnY5UGZlNVZpRTQ1bnhUdzBkM1BPTjl4dUxfS2FRd3NzZUpJMF9CWW44QXRWaVFuaW02M29sZlBCMThPRWlfUQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 01:14:41 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights: BSE Sensex ends session 900 points higher, NSE Nifty50 closes above 22,900 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNZDFiVHZWWlNyTG1jbUo2QTV5T1p4VzRzWWYxTVJmVF9ubWQyeVJRMkFtbS1TSjcwbHFfZlo2U2xVQ2liTUVyMV9rbkdXMG00clZ5eEh6YnlJcENEeTIwTlNkd0lUeFRsOGlhOXhNM0pFVTJYUUYtUnlndXpTX0lqZTlrUDJobVRId2Z6eXpEMkFvT3oxcGRndjFpb2o2WUJnc19HZEhsNTQ5bUdUeXZuSlBHNFNOeWdHNTh3V2gxdzJOWmh6OVV1bmowWUhGTExYUW9YRTVWODZwSjVGLVJpY1pIWkpPY1l3azNhUTBxZFQ3WklEdXpNbXV6VWpkYV9OSkpwY2pqXzc4ZnBFd3ZHTUE4VGt5NGNqRWNQZUJOWTg1WWgzako5dzdzUmZXVFRwWW90X9IBugJBVV95cUxNeWdpVThLMjBjYmtOM0ZiWTZMVkxNTW9HQjRJWGZoSm9kOWhTc0lRMVpySVZ6ZGw0VEY5anR4UC1FUE5PLVhpOEY2bWRpZmFiWnVTYzBkMVFPZXpKTFY4Y0tlNWZ1U1gzT0ZDcWJfZ3d1UzBxaDR1d3NoanlrVXd3SV9YNnpmQWl4UklxbUNveHpEdlFnRjcteTVoQjZkRFptb3VMd2dFTjlQZ1pQVGdJQ2tjTGY2M1lLMW1nNVYyS2g0TUZmSVBBYzNKWnBUNDZkaDhrTGVoQVpqNnhkZXNMQlBrSUJDRWpvM25RQ2trVVp5S0ZZeDFReEpOQkk4eUJ1NU9VWlI4Q2FDLUhxREFQY2pQRWZtSGQ0UDFlX1hRbF8xSWpnLWgzMGIwd3NSZ08yWmdLX29iMGYxZw?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 10:22:32 GMT"
     },
     {
       "title": "Stock Market Highlights | Closing Bell: Sensex ends 308 pts higher, Nifty above 23,050; IndiGo jumps 4%, HCLTech 2% - The Economic Times",
@@ -164,10 +170,10 @@
       "publishedAt": "Fri, 30 Oct 2026 10:49:25 GMT"
     },
     {
-      "title": "Stock market outlook today, 30 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU0lLTXdXRXlnWnktM1lpdVdQMEZ1Q0ltbHlFQlZOa1pRM09LcGlnYTRubzNDcks4N21ZaGdEV3ZpRFV0N1FhT3htZkM5djl3WngtREVSVkdhbWkzWFQzNjJQN2MwZDVYaXQ3Q3pPOUxLaDlVUFF5aEFzWkY2TU1jRjloa19jNTBBMHZMYkZGVExUMlV5aXlXaVV6M3Z4QV9WaDF2ekFRMlg4dXV1aE1TMWR5bHlUUi1XODB1MHFraXVKLXZGOXJvNTdmRnJNNmY5WU1JSXJ1dXpVTjdXR2NyVUpVSUdYbFFqS0gybXp5MG5tSDdhWEpTb1RVMkJlZ29ZN09WNdIBigJBVV95cUxQQ3pIRzJQZmY1VXpnc0Nra014TklOZ0lvNkhtZUJ0UFJiQmtZQ090aUpZTlFfTWdMMW9HT1U1UVJEU2NUcVFUUmtyb0E2emhPa1hmMGd6eDYyMWk4R3JURTFVYThqZzNBS3lyNC1zcTRyajNKcWF0d213aWd2Y1J3aGRNMVlqRDhOaUZpNktDcmNSRFlpMnVVU1NOTlV3TTMtX2tLSkNyMWNrVWtwd29sQkxxTkUxYll2X1FoOWJVY2ZTcUVBUXRMVGVTNnY5UGZlNVZpRTQ1bnhUdzBkM1BPTjl4dUxfS2FRd3NzZUpJMF9CWW44QXRWaVFuaW02M29sZlBCMThPRWlfUQ?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 01:14:41 GMT"
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbGZqMHp2VC02aEFPMWpFUDdkcGlUbGVqSHFVUTdtem9scXhMSTdwRHlQNWxyeGFjd19oVUJBLWtEWXA4bGVSVFlHY3BMTzdhc2RlekgyWmpWVFBYdThfNGJqT05SREFmb2NVT3hsZ0IxSWlVSXVWXzhyeUVQYWlWQWV5OUlmdDA1dldGM1JQdjBSZEtackdibmVLVEFwdWo3M0lha3hvdTNaNEZYTzhXQ01ic3lPMlFjSWFIRHJDeGlTTVR5dUc5S0RvaW85aG82T2xwdnFoSy1yTDRWNnloQ2UxaUpWbW9xYTFHNGw4dDJZMWoxVEUtZER0NlFQa2p2NHZQddIBigJBVV95cUxOYWFiZ291M3RVdE1Oc3JKM05Nd0d0LTM3dWFHS2laLXF6M1ltczBYWlh0SUFtejJZVU9lZlM1R0FWcldBZGRvT2hyWjlBZkl0QV8wUTFqN2J3THNzUGtYekI3MU5oRUVTbklKMXp4Q3NZQUJUaE4zaUJvVXFCRDZiXzN2NTZUWlRQdkRpNWFFdDdpTi0wSTR6ejhNMXBVQWNoMFI0MzVCckFaeklBMUZINEZ6czM0YjdpRjBId1lfVXFqYWszN0tvRy1leWhDZEJZSDBQa2lzdUtIZjNqVHpFcTBJZFZRbzJTMVZkS3BKVUVERWdhWUhlQkdUWGlKOHhuWXpqRDFTbnFHUQ?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 01:15:36 GMT"
     },
     {
       "title": "Closing Bell: Nifty reclaims 22,900, Sensex jumps 905 pts; FMCG, financials rally - Moneycontrol.com",
@@ -192,12 +198,6 @@
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGpacU1SSlh2MUgtVFM1Q203NXFJX1ZpWXZBU0FIMVdlUmx2Yk5ORWpUQ1BjcEdLbndSekU3ZEIyMjZPVkppX09yNU4xaGhaRlU4QUF4RVAxUGJFdWU1WFFxSTZwMmpINzVWU1ZIZm9sVkhZR3Y1dUVaZnhydGpwR2lwUzRnVUpHNWpoSE9WSTU2eWhNQTc5T0JQX01vWkZTbllaUGdXWG9fX09CMHhwaWxxaWxmLU1vc2ZoLWtlZTk3U2IzUEtORNIBzwFBVV95cUxOWkVaY2QteWY0VkRMdVJ1TVZlcEw4bDZZdlBaZG8xQ3Q0YlhTMFlTWENEV1hvczFiYkJCV1BlUUl4Q2t4eHFieWxZX1A3MUtoclQ5QWYtemxnTUgtZlhDeFRGQXhFN1Bzci1TWWd1RmpaMkNOcmstM1NEaFA5ZXhidmlkRnZxTkVFOXY0cF9XWTFDc0RZbVR0NHduWEo0MDFuYk1ZY3A2Sm9zNklGRkJwMmIxOHJRWjdHajdwWDlxeVo3N0JrT194NnBDck1YOXM?oc=5",
       "publishedAt": "Wed, 21 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Seven stocks to buy - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWl0allDLTJ6TzItdGRCUGdkUmMtNmNmV3JXODNDVk83dXhCajVMR3pBS28tdWZQS2RTQmY1U1hHcC1DaVN1ajR3V2t6dDlIdFVlaWpYT3NrSHctbElzV21jN1QxYU11R3lxOW9TMDdSRlZsUjgtUWlERlVSbXBvdXpsWmgwS1ZpZ2d2QUF1MnQyR190TGVGQTFKSk1mNFZhYlRRdTdZMk5IeUxOYXJkZUVuZl8xMDFpS004RzFlMVQ4UjhkTEF6SnhOMjFYc3VvQzBLRkRqWlF2SmczUDYzMklTM3JKeVJlX1Vfd0oyTHrSAfYBQVVfeXFMUEw0RzE2T1JoV1Y1WlJQVzloYnVRaWVzTE4xVGx0MmVGVFdVYmE2bW5GMmxRbkstSnVubG9udTAtRncwbWxlT2ZHWmxaZko5YXZURF9pWlhwSXNLTFZJSXRhSldaeHN5elNCS3NoZFl1QVVRRGZWb0p5YTdmQ3BKRzBWUU4wNlJKQ3dzSmFQN3ZkRnpHYzZLTkNMS3ZiQVpId0NxRzRqY0ZReDlNNWhFS2FMM3BKblh6Q3A2OUFIOHpVbEZ1dWRCZDYtV1Bvekk5U0JHb29pSmQ4WVI1VlZyWTJUVmpnUTFUTTQ0blRjakxqc1FaRnFn?oc=5",
-      "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT"
     }
   ]
 }
