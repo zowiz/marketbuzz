@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex gains 308 points, Nifty reclaims 23,000 as IndiGo and HCLTech advance",
+  "headline": "Last session: Nifty reclaimed 23,000 as Sensex rose 308 points; IndiGo and HCLTech led gains.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,22 +7,22 @@
     "nextOpen": "Monday, 2 November"
   },
   "why": [
-    "Sensex gained 308 points and Nifty reclaimed 23,000 in the last trading session on Friday, October 30.",
-    "Benchmark indices Sensex and Nifty50 rose 2% over the weekly wrap, with Nifty Smallcap 100 jumping 4%.",
-    "Positive momentum in major stocks including IndiGo, HCLTech, Adani Enterprises, and Kotak Bank lifted market sentiment.",
-    "Rising gas costs significantly impacted city gas distributor earnings, causing a steep Q2 profit decline for IGL."
+    "Nifty reclaimed the 23,000 level as the Sensex gained over 300 points in the last session.",
+    "Strong performance from large-cap stocks like IndiGo and HCLTech boosted investor sentiment.",
+    "Reliance Industries' Q2 results showed growth in Jio and O2C segments despite retail challenges.",
+    "CCI approval for a major stake acquisition in Vodafone provided a positive trigger for the telecom sector."
   ],
   "whatHappening": [
-    "Reliance Industries reported Q2 results with strong O2C performance and Jio expansion despite retail segment pressure.",
-    "IGL reported a 93.5% plunge in Q2 net profit to ₹24 crore due to higher gas costs.",
-    "IndiGo jumped 4% and HCLTech advanced 2% during Friday's closing session.",
-    "Trent led the weekly market rally as Sensex and Nifty closed up 2% for the week."
+    "Sensex ended the last trading day at 74,459.53, while Nifty 50 closed above 23,050.",
+    "Indraprastha Gas Limited (IGL) saw its net profit drop significantly to ₹24 crore.",
+    "Sebi is focusing on enhancing market resilience and strengthening investor protection measures.",
+    "Midcap and smallcap indices lagged behind the benchmarks during Friday's market rally."
   ],
   "stocksInNews": [
     {
       "symbol": "RELIANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         3
       ]
@@ -30,7 +30,7 @@
     {
       "symbol": "IGL",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         7
       ]
@@ -38,46 +38,30 @@
     {
       "symbol": "INDIGO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        12
+        13
       ]
     },
     {
       "symbol": "HCLTECH",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        12
+        13
       ]
     },
     {
-      "symbol": "ADANIENT",
+      "symbol": "IDEA",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        14
-      ]
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        14
-      ]
-    },
-    {
-      "symbol": "TRENT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        18
+        0
       ]
     }
   ],
-  "summary": "On the last trading day, Indian benchmark indices closed higher as Sensex gained 308 points and Nifty reclaimed 23,000.\nStrong buying in stocks like IndiGo, HCLTech, Adani Enterprises, and Trent buoyed market sentiment over the week.\nMeanwhile, IGL saw its Q2 net profit fall 93.5% due to higher gas costs, while Reliance reported resilient O2C and Jio results.",
-  "updatedAt": "2026-10-31T09:01:51.342Z",
+  "summary": "Indian markets ended the last session higher, with the Nifty reclaiming 23,000 led by gains in IndiGo and HCLTech. Reliance Industries and IGL reported contrasting Q2 results, while Sebi emphasized market resilience and investor protection. The market is currently closed for the weekend and will reopen for trading on Monday, 2 November.",
+  "updatedAt": "2026-10-31T09:32:40.693Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-10-31",
   "articleKeys": [
@@ -93,14 +77,14 @@
     "concurrent gainers 8 stocks that gain for 5 days in a row",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
     "stock market today highlights bse sensex ends session 900 points higher nse nifty50 closes above 22900 the times of india",
+    "stock market today live october 30 sensex settled at 7445953 nifty 50 gained 11635 pts or 051 businessline",
     "stock market highlights closing bell sensex ends 308 pts higher nifty above 23050 indigo jumps 4 hcltech 2 the economic times",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market highlights sensex soars 905 pts nifty ends above 22900 adani ent jumps 5 kotak bank 4 the economic times",
     "closing bell nifty reclaims 22900 sensex jumps 905 pts fmcg financials rally moneycontrolcom",
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
-    "five reasons indias stock market is sinking even when its economy is growing bbc",
-    "market weekly wrap sensex nifty50 rise 2 nifty smallcap 100 jumps 4 trent leads rally upstox",
-    "sensex nifty open volatile india vix rises crude above 116 hdfc sky"
+    "stock market today highlights bse sensex ends in red nse nifty50 closes below 22700 mark the times of india",
+    "stock market close sensex falls for 4th day ends 126 pts lower nifty at 22600 vix rises 6 business standard"
   ],
   "articles": [
     {
@@ -176,6 +160,12 @@
       "publishedAt": "Thu, 29 Oct 2026 10:22:32 GMT"
     },
     {
+      "title": "Stock Market Today Live, October 30: Sensex settled at 74,459.53; Nifty 50 gained 116.35 pts or 0.51% - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTUY1Z3hqYURfemJic3lIcDdlLWh6aUtKM28wdlVsZm1JbXVHeUlkTWZjQVZOeWhRbnFMTkhFV004b3F3bWQtbmtFYm03ZTFZTjhyWEwzajVTdFFoSVZVNnlkM3hRYVlkUnFTOTdlTmFkTlFXSGtENlZqQ2szaGNiRkNpWDV6QWtuQW9SRWhhbmEzRl95LVRNY2lGeFhvcGtFOVA1VVBPS0QxeE1qa1M2clRScjd3MmJ0d3BnSGRNSThRYlRudkwyR9IBzwFBVV95cUxPOXpTN1BmcEoySFBoQjZnV2RzUGlESGk1NldJaEl2eWhSZGVXR0ZBOTJSZmEwTUplUE1fQnRENGtyUy1jUHpxQ2llOFByTG51VF9oQ0dMMThDRmhPMFdGcllGc0ZzZjM3SG5zRUdrZEw1S0NLRG9nSjBUNXphMFI4bnpDWmEyc2UzOFZFeTJ3Z19nNXhPT0owdkhCNFhEUlVqSTJGdl91YVJ6dDhBS3lnTEF6T1ZfNkliaXZhSGdnNmNONWRIXzB6WXQzd0psQnc?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 10:36:25 GMT"
+    },
+    {
       "title": "Stock Market Highlights | Closing Bell: Sensex ends 308 pts higher, Nifty above 23,050; IndiGo jumps 4%, HCLTech 2% - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRUVsX25CRmZhM3dlNFB2ajZ0OVBPTWF5c01oVnRyVFJMMW1xYUZoMS1qU1ljd1dVZXpmc2pmZ2wza1ZoeUpYejFFZUFmQXJEdE5XWk40a1l0NGhMUzR5dWhyNnUwdGswWXVsUFVacnVqSFo2N2JZSi1lZ1VqcnRKVUJBNFdYYldZbzUtZE40dlNOc2F4UEp3S0VqQW9tbjJHOEloQXJibTVhNjVaRmhqdUZPYWlQVUlHOE11a0VOUndkRVBQaTl4Ni1WdUlVVWlSb3BUbUdIZTloRUJiVS1yM1BMN2FyVnJ0WFBFRTlxMVJYbzRBS1dsN3BfLVIzcGtpaUw0VVFBd3V6RUFuLXkyTWxDc0vSAZoCQVVfeXFMTUZJLS1UTUpFTFJFMzMwcHlsakIyU3Y5WFNOeVNuUUpGSEVFT2xEV043UzVReC1wMWliRkNxLVN5dW9FcWxqb2ZINlFMbXMxUHQ3NHJPNlQ2LWpjdS0yRkE4dVhRZDdhVlp1NnJERklpZ19LTlpnSno2R0Q0TUduVWFXd2NpczJqZFdVcEFGSmZsLWZ1dkV4S0VybjA3ellxU2ZGa1RvNVdZX0NiMkttZmdZWldUZzlWZk9SV3VSNjNKcmp2SFRlaWd5S2xtenR2akwzZzV6aUpYUlA4N1JYTl9yWnY3aFJYNGlUS3lLNldkUUFwdFFjRDRSREdKaGlRQnRMX3gzSndQbHQ4b29zVENGUFdGT3FfZG1R?oc=5",
@@ -206,22 +196,16 @@
       "publishedAt": "Wed, 28 Oct 2026 05:26:45 GMT"
     },
     {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
+      "title": "Stock Market Today Highlights: BSE Sensex ends in red; NSE Nifty50 closes below 22,700 mark - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWnNTMWJ4WWtKTHpfRVgwa1VLa2hrLUVVcDZSbDM2ckZHTnB1UlJUTkQwdnRWQjYtRFVqeDN3MFF4X1dSLUlzbWdSb3F5MnRqeUgxTGZ0Nk45YXBnM2JQNzAzWkozS3FZcDZ4SlBCdXAzX0JUb3E2UlRYeGhFblcwSWF3cW1oX2VZMEwwakJfeVEtdUJRaThFSjVqSWRMaU12ajVDQ2NsMllXaUgydHJHMk9oT0xPaW9WeFByWkdGN25WZkpXYjRWYlVGSlFuLWNmWGd1Q3p5WU93RHh4NGIwYmtVa1c3NDNyejhvempFQTJxbm5RUHREV1dNbUxWc3hZRjlPbmpDWFBnZ2RtZnQtZWluLUZLcTB1YmdCYjJHUmZXTktYYlBGdWFBU3lhNVJpNFR3ZdIBugJBVV95cUxNMFNaX0w0NnU0aTQ0UHdkc0lSQ19GUGRKMnFwTVJYNW5wajNISEtaeFctTmZ3QWtxSDJzLVZMdlR6ZVk3VnlWNnFmRUYxQVFFdTFzX2J4TW9HVUpGVWJBd29sT1RnSElmQlFsMVV3QkhYQXB1dkNudWNORUZub295a3BSRVpXcUVGYWRpaXBrb2NMWmpWZks2TXhSRXlmLU0wdm1yNG40dGx3ZVQ0b3FzcTQ1MzhKZG03cGRxUnJRb052V19UcjVjdzFzcHZ1eXNydDRCaWotVXRNcWtQZldqcEtzR19ac21LU1piWk95MTFVa3dMRHNNOHN5U0tHZU4zSERENjgxd29McDBIeUxUNmFveDdZODJucmI1Qm9EV0ItWG50NktCdTRseTRDTmYzV2x0Z1g0aTR2QQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 10:20:18 GMT"
     },
     {
-      "title": "Market weekly wrap: SENSEX, NIFTY50 rise 2%; NIFTY Smallcap 100 jumps 4%, Trent leads rally - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeUhVNzNkY2xCWmQxM3lRRHJHcE4ybVlOUFF3WUZncExvT2YyTmlCbGlxcE5fdnZrWEhGSmpXY09DWkhIYW1Qa09ieE5hd3g3WTBFa1MtZkdQUldoaEJzSTBGM0pUdVFqWHZJSEcwa21MbmxaWGNYc0xMTWxoYzJxZko4TWg2ZWc1Zk5FZ051eUQ3eFduWU9SUm41aHFySEFFYlRvVnZ3bDVibkV6UXZOYzVWR0M2RTg1bmpQeDZmTzIzanpZYVZpaUltWFRTLVd1VEVwckRGSHpfUEY2SUE?oc=5",
-      "publishedAt": "Sat, 31 Oct 2026 06:23:22 GMT"
-    },
-    {
-      "title": "Sensex, Nifty Open Volatile; India VIX Rises, Crude Above $116 - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2daQnV3TThDSXViZGppTlJha2tMZVU4ZEV6Smw5ai13RUxwa3ZoODdGYTYwLS16eW1UdlY3SHVyQjVSLVAxUlVXNmhiTVNSdTFHVXNNYk94VXY2a1Q4V2c0cjluWDNBbkxwZDVfLXdxUTk3aV9xM0hnVElQcERGaDAwaVBRU2JZam8wTVM5WlhsSXJGMXBkWWlIdUZXWEZITzlJRk9LM1pEOE8yYVdETHp4WjRzWklrV0dvak5Pc0ZiaFdlMVE?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 05:13:04 GMT"
+      "title": "Stock Market Close: Sensex falls for 4th day, ends 126 pts lower; Nifty at 22,600; VIX rises 6% - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVFFeGltOU5ULVFVeVBYQmUzRGpXN3hDRjN3VXRoeDFGWTVsV1RqME43WkRnV2l4OExfTndoWjF6UlpIYWJrYnh0V0NGXzZJeWk0d0NrTF9YbG0tbVJ0dTVyUFhlQnVNc0tBVWhCcjdkWjZTWTNhdFdwVEZRM2gybGt4UVNkN1k5N1ZpWE16dFNEX0I0WEdXWHp5Z0VabmdDX2ZMbzZUTEE1b3NSWC0xbGlucGE3UG5zQjdWdnI2MnlWWFc3d0FFT0NLcUR0QjBuMmhWZ3VDbGtQZGtSTGQyem9MRUJWbDZLejB4VEgzRGdhMVZHZlppTzBGWHplU0pLT2plaEM4VVjSAY4CQVVfeXFMTlFIS1BXeGVHaWtoYTdma0N6aGk0bXVXUG82RjdzclBtejdBRHhJY0NsdVl1bWJBUGhCaTZYanY5ZDVIOENxckgtSHlzTDYxdVAweWpRakwwYmh2eGlmaXJ0YXNXS1JxUGxoV2xMWjhaU3FJblBjQm10ZTZ1enJDbDd0RndDd2F4Znc4WWtKTGNsd0dIeUowMktXUHdaQ3JBLV9EdXg3VGVYbW5SN1p1QVdxalJGTFljNkVJeWVFdnUwbE56YkpaTG9tQUxEREN3TzdlX21jay1jVHFmcHhPOHdwVThTbmpYdkQtdVRmMjBxV0NZVGVYeHFRbnpWcjRwQXY4RGtTQUxuSGhkaXpn?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 10:22:05 GMT"
     }
   ]
 }
