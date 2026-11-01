@@ -1,24 +1,56 @@
 {
-  "headline": "On last trading day, Sensex gained 308 points while Nifty reclaimed 23,000 led by IndiGo and HCLTech.",
+  "headline": "Last session: Sensex gains 308 points while Nifty reclaims 23,000 level driven by key sector rallies",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 2 November.",
-    "nextOpen": "Monday, 2 November"
+    "nextOpen": "Monday, 2 November 2026"
   },
   "why": [
-    "In the last session, Sensex gained 308 points and Nifty reclaimed 23,000 supported by gains in stocks like IndiGo and HCLTech.",
-    "FPIs turned net buyers during the final week of October despite pulling out Rs 34,843 crore over the full month.",
-    "Bulls helped benchmark indices rebound after rallying up to 2% over the week.",
-    "Primary market activity cooled after recent frenzy, leaving 13 listings lined up for the upcoming week."
+    "Benchmark indices gained in the last session with Sensex rising 308 points and Nifty reclaiming the 23,000 level.",
+    "FPIs turned net buyers in the final week of October after heavy outflows earlier in the month.",
+    "Strong macroeconomic data boosted sentiment as GST collections grew 23% to over ₹2.31 lakh crore in October.",
+    "Solid quarterly performance from oil marketing companies provided positive momentum to energy stocks."
   ],
   "whatHappening": [
-    "On the last trading day, BSE Sensex settled at 74,459.53 while NSE Nifty 50 gained 116.35 points to end above 23,000.",
-    "IndiGo stock jumped 4% and HCLTech rose 2% during the closing bell of the last session.",
-    "ITC Q2 profit is projected to fall nearly 30% YoY due to the impact of cigarette tax hikes.",
+    "IOC, BPCL, and HPCL posted a combined Q2 profit of ₹30,106 crore, accounting for nearly 39% of last year's annual earnings.",
+    "UPI average daily transaction value crossed ₹1 trillion in October.",
+    "FPIs withdrew ₹34,843 crore from Indian equities in October overall but turned net buyers during the final week.",
     "Commercial LPG prices were hiked by ₹10 per cylinder and ATF prices increased by ₹1.37 per litre."
   ],
   "stocksInNews": [
+    {
+      "symbol": "IOC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "HPCL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "BOSCHLTD",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        7
+      ]
+    },
     {
       "symbol": "INDIGO",
       "sentiment": "Positive",
@@ -34,31 +66,23 @@
       "articleIds": [
         13
       ]
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        4
-      ]
     }
   ],
-  "summary": "On the last trading session, Indian benchmark indices ended higher with Sensex up 308 points and Nifty reclaiming 23,000.\nIndiGo and HCLTech were key gainers, while foreign portfolio investors turned net buyers towards the end of October.\nThe market is closed today for the weekend and will reopen on Monday, 2 November.",
-  "updatedAt": "2026-11-01T07:31:14.875Z",
+  "summary": "On the last trading day, Indian benchmark indices closed higher with Sensex advancing 308 points and Nifty finishing above 23,000.\nMacroeconomic indicators signaled strong economic activity, highlighted by October GST mop-up rising 23% to ₹2.31 lakh crore and UPI daily transactions surpassing ₹1 trillion.\nKey individual movers included IndiGo, HCLTech, and major oil marketing firms following their strong Q2 profit announcements.",
+  "updatedAt": "2026-11-01T08:01:34.257Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-01",
   "articleKeys": [
+    "upi average daily transaction value crosses 1 trillion in october",
+    "10 penny stocks plunge up to 70 in three months do you own any",
+    "gst mopup grows 23 to over 231 lakh cr in october",
+    "ioc bpcl hpcl clock rs 30106 cr q2 profit nearly 39 pc of last years annual earnings",
     "can nifty sensex extend gains after rallying up to 2 last week 4 factors to watch on monday",
     "fpis pull out rs 34843 cr from equities in oct turn net buyers last week",
     "commercial lpg prices hiked 10cylinder atf hiked 137litre",
+    "bosch targets doubledigit share in indias ac market within two years",
+    "fpis pull out 34843 cr from equities in oct turn net buyers last week",
     "crypto heist binance to resume withdrawals after covering 95 of 63 billion theft",
-    "itc q2 results preview profit seen falling nearly 30 yoy as cigarette tax hikes bite",
-    "ncert to release class 10 textbooks by december 2026 for students to prep in advance",
-    "ranabaali box office collection day 10 vijay deverakonda film recovers worldwide gross nears rs 80 crore",
-    "nifty its 18 rally may mark a durable leadership cycle 35000 next lkps vatsal bhuva",
-    "ipo calendar primary market cools after jio frenzy but 13 listings lined up",
-    "fire them by friday chennai it managers anonymous account hits a nerve",
     "closing bell nifty reclaims 23000 sensex gains 308 pts mid smallcaps underperform moneycontrolcom",
     "stock market prediction nov 26 week nifty sensex rebound from losses will bulls deliver a diwali bonanza outlook livemint",
     "stock market today live october 30 sensex settled at 7445953 nifty 50 gained 11635 pts or 051 businessline",
@@ -71,6 +95,30 @@
     "stock market today trade guide for sensex nifty 50 crude oil and gold seven stocks to buy livemint"
   ],
   "articles": [
+    {
+      "title": "UPI average daily transaction value crosses ₹1 trillion in October",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/finance/news/finance-news-upi-average-daily-transaction-value-crosses-rs-1-trillion-october-2026-126110100275_1.html",
+      "publishedAt": "Sun, 01 Nov 2026 13:04:28 +0530"
+    },
+    {
+      "title": "10 penny stocks plunge up to 70% in three months. Do you own any?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-70-in-three-months-do-you-own-any/slideshow/135420900.cms",
+      "publishedAt": "Sun, 01 Nov 2026 12:53:24 +0530"
+    },
+    {
+      "title": "GST mop-up grows 23% to over ₹2.31 lakh cr. in October",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece",
+      "publishedAt": "Sun, 01 Nov 2026 12:47:06 +0530"
+    },
+    {
+      "title": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
+      "publishedAt": "Sun, 01 Nov 2026 12:22:22 +0530"
+    },
     {
       "title": "Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday",
       "source": "Zerodha Pulse",
@@ -90,46 +138,22 @@
       "publishedAt": "Sun, 01 Nov 2026 11:41:28 +0530"
     },
     {
+      "title": "Bosch targets double-digit share in India's AC market within two years",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/bosch-targets-double-digit-share-in-india-s-ac-market-within-two-years-126110100171_1.html",
+      "publishedAt": "Sun, 01 Nov 2026 11:35:42 +0530"
+    },
+    {
+      "title": "FPIs pull out ₹34,843 cr from equities in Oct, turn net buyers last week",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/finance/news/fpis-pull-out-34-843-cr-from-equities-in-oct-turn-net-buyers-last-week-126110100182_1.html",
+      "publishedAt": "Sun, 01 Nov 2026 11:34:58 +0530"
+    },
+    {
       "title": "Crypto Heist: Binance To Resume Withdrawals After Covering 95% Of $6.3 Billion Theft",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/binance-to-resume-withdrawals-after-covering-95-of-6-3-billion-theft-12266113#publisher=newsstand",
       "publishedAt": "Sun, 01 Nov 2026 11:28:11 +0530"
-    },
-    {
-      "title": "ITC Q2 Results Preview: Profit seen falling nearly 30% YoY as cigarette tax hikes bite",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-preview-profit-seen-falling-nearly-30-yoy-as-cigarette-tax-hikes-bite/articleshow/135419165.cms",
-      "publishedAt": "Sun, 01 Nov 2026 11:27:43 +0530"
-    },
-    {
-      "title": "NCERT To Release Class 10 Textbooks By December 2026 For Students To Prep In Advance",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/ncert-to-release-class-10-textbooks-by-december-2026-for-students-to-prep-in-advance-12266194#publisher=newsstand",
-      "publishedAt": "Sun, 01 Nov 2026 11:26:52 +0530"
-    },
-    {
-      "title": "Ranabaali Box Office Collection Day 10: Vijay Deverakonda Film Recovers, Worldwide Gross Nears Rs 80 Crore",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/ranabaali-box-office-collection-day-10-vijay-deverakonda-film-recovers-worldwide-gross-nears-rs-80-crore-12266184#publisher=newsstand",
-      "publishedAt": "Sun, 01 Nov 2026 11:25:57 +0530"
-    },
-    {
-      "title": "Nifty IT’s 18% rally may mark a durable leadership cycle; 35,000 next: LKP's Vatsal Bhuva",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-its-18-rally-may-mark-a-durable-leadership-cycle-35000-next-lkps-vatsal-bhuva/articleshow/135419140.cms",
-      "publishedAt": "Sun, 01 Nov 2026 11:25:57 +0530"
-    },
-    {
-      "title": "IPO Calendar: Primary market cools after Jio frenzy, but 13 listings lined up",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-primary-market-cools-after-jio-frenzy-but-13-listings-lined-up/articleshow/135419009.cms",
-      "publishedAt": "Sun, 01 Nov 2026 11:11:56 +0530"
-    },
-    {
-      "title": "'Fire Them By Friday': Chennai IT Manager's Anonymous Account Hits A Nerve",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/it-layoffs-fire-them-by-friday-chennai-it-managers-anonymous-account-hits-a-nerve-12266149#publisher=newsstand",
-      "publishedAt": "Sun, 01 Nov 2026 11:09:03 +0530"
     },
     {
       "title": "Closing Bell: Nifty reclaims 23,000, Sensex gains 308 pts; mid, smallcaps underperform - Moneycontrol.com",
