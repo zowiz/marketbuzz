@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex and Nifty ended higher led by IT and Pharma, with eyes on upcoming weekly trends.",
+  "headline": "Last session: Sensex and Nifty extended gains following weekly rally as auto sales surge in October",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Monday, 2 November 2026"
   },
   "why": [
-    "Nifty and Sensex rallied up to 2% last week, supported by IT, Pharma, and foreign inflows.",
-    "Buying in key heavyweights like Reliance Industries and Adani Ports boosted market sentiment in recent sessions.",
-    "Rising India VIX and crude oil prices above $116 added volatility during recent trading days.",
-    "Strong October auto sales metrics for major automakers provided stock-specific support."
+    "Indian benchmark indices Nifty and Sensex rallied up to 2% across the preceding week.",
+    "Strong domestic and export figures drove impressive October sales numbers for major auto companies.",
+    "Buying in heavyweights like Reliance Industries and Adani Ports supported previous market upside.",
+    "Strength in IT and Pharma sectors lifted markets during recent trading sessions despite midcap weakness."
   ],
   "whatHappening": [
-    "Tata Motors reported a 27% increase in October auto sales, driven by strong domestic and export growth.",
-    "Eicher Motors' arm recorded a 35% jump in October sales on strong domestic business performance.",
-    "Adani Ports surged 4% during recent trading sessions as Sensex saw a 600-point jump.",
-    "Investors are focusing on market factors including US Fed policy, crude oil, and GIFT Nifty cues for the upcoming week."
+    "Tata Motors reported a 27% rise in October total sales, supported by passenger and commercial vehicle growth.",
+    "Eicher Motors' arm logged a 35% jump in October sales backed by robust domestic business.",
+    "Hyundai Motor India clocked its highest-ever total monthly sales in October.",
+    "Global beverage majors are advancing IPO plans in India from DRHP filings to board approvals."
   ],
   "stocksInNews": [
     {
@@ -37,6 +37,14 @@
       ]
     },
     {
+      "symbol": "HYUNDAI",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
       "symbol": "RELIANCE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
@@ -53,8 +61,8 @@
       ]
     }
   ],
-  "summary": "Indian markets remained closed on Sunday for the weekend following a strong performance in recent trading sessions where Sensex and Nifty gained up to 2% over the week. Gains were spearheaded by IT, Pharma, Reliance buying, and a surge in Adani Ports, alongside robust October sales reported by Tata Motors and Eicher Motors. Market participants are now preparing for the upcoming week starting November 2, tracking global cues and crude oil prices.",
-  "updatedAt": "2026-11-01T10:01:33.031Z",
+  "summary": "Indian equity markets are closed today for the weekend following a strong weekly performance where indices rallied up to 2%. Auto manufacturers posted impressive October sales numbers, highlighted by strong performances from Tata Motors, Eicher Motors, and Hyundai. Markets will reopen on Monday, 2 November, with investors watching whether bullish momentum continues.",
+  "updatedAt": "2026-11-01T10:31:16.643Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-01",
   "articleKeys": [
@@ -73,7 +81,7 @@
     "sensex nifty open volatile india vix rises crude above 116 hdfc sky",
     "sensex nifty rise in early trade on reliance buying foreign inflows the hindu",
     "sensex today stock market live sensex jumps 600 pts nifty at 22850 adani ports surges 4 fmcg indiaipo",
-    "stock market today gift nifty us fed policy to oil prices five key factors for sensex nifty 50 on october 29 ndtv profit",
+    "five reasons indias stock market is sinking even when its economy is growing bbc",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "can nifty sensex extend gains after rallying up to 2 last week 4 factors to watch on monday the economic times",
     "sensex nifty rise it pharma lift markets as midcaps slide hdfc sky",
@@ -149,7 +157,7 @@
     {
       "title": "Stock market prediction Nov 2-6 week: Nifty, Sensex rebound from losses - Will bulls deliver a Diwali bonanza? Outlook - Livemint",
       "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZ3RiTUhTdmJRYzZZUUZqVG81ZWI3c0pQRUcyUW5sdFdhMzNHdW53T1ZTblVxOC00YUNsbzBiUF83eF91YWZpWVlaLWY5YlhjRUV4dzVyWUtpZjFObzBVWVBiNmZLNmtRMnlIRFFVb0lBZnFFNlM3U3VtMU1vYTZNNHp5Uy1qQzBnZ2ZEOVhKaU0wSThsNnVELVo4dFhsWFFyWVhDaHFVOUtmWVlDQldJUTl4ZVZNbFBLVm9MS3hBWmRRUUJLLVdnS2lvdlpKSDdkaDl2eXBTRWcxMHdWYVhxQW1KWDFvQjhHNlZHeUEtck1ZSFI4MUdGalRzTFgyTkRpbFh5WWJqcXZ4dlFJMkVPctIBlgJBVV95cUxNa202ZkZSQjFObUJrclVTOXlMVHRkVjBBX1N1QVR4UktMM1FIVEVKMTh5bW5naW5WYXg1UUljMTNkNlVyRzF0N1BON3hBVGlEcUFrcWk1WkU0VFUwZ2NtWjZzbWV3cDZ1bzEwbnVldmZHMzcteDFVRkk4QkE5elN6b3pZZXQwWDBoNnMxb1pINE40Sm8xYzFVc1BkRThGX3ctakUyWm9TLUtnb0NibDZNOXhqT01OOVJMeGJ0eENoMnFTaVVocWp3M3VJNjV3SldidXRMbk5DWGZYdFZLXzNBYndTd242c3JfTEVEYk5Td05CbXR4bXg3Qy16VHBPWkVhQlJUUWpaTFNwV3oxUUI5MkhUeDA0UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZ3RiTUhTdmJRYzZZUUZqVG81ZWI3c0pQRUcyUW5sdFdhMzNHdW53T1ZTblVxOC00YUNsbzBiUF83eF91YWZpWVlaLWY5YlhjRUV4dzVyWUtpZjFObzBVWVBiNmZLNmtRMnlIRFFVb0lBZnFFNlM3U3VtMU1vYTZNNHp5Uy1qQzBnZ2ZEOVhKaU0wSThsNnVELVo4dFhsWFFyWVhDaHFVOUtmWVlDQldJUTl4ZVZNbFBLVm9MS3hBWmRRUUJLLVdnS2lvdlpKSDdkaDl2eXBTRWcxMHdWYVhxQW1KWDFvQjhHNlZHeUEtck1ZSFI4MUdGalRzTFgyTkRpbFh5WWJqcXZ4dlFJMkVPcg?oc=5",
       "publishedAt": "Sat, 31 Oct 2026 15:11:02 GMT"
     },
     {
@@ -171,10 +179,10 @@
       "publishedAt": "Thu, 29 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty, US Fed Policy To Oil Prices; Five Key Factors For Sensex, Nifty 50 On October 29 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTkdjeEhGQ0k3SHlKU0xzYmpBYVV2MWlyVl9laFRPY2N3WXRFWFEtdDQ3ZUU2YWdhaGpab1FKRXZMTlVHYmRHODQtZEUyVk5aVVc2c0hnV2FsYndnQ0FsaGMtTnhzcWhTMGZNeHBNbWxITEN3Y1ZjSTZMZ1Q1UjZjX1E5elRJdXZFd1dPeEx0ZzBfai1qQjA4TDZyRUZHY3V2Uk9mMW9qYWtrXzg4ZVEzU0IxSUlkTlZzM2VVcUpyU2lDN1lRSThQZFExVTNBVVdHOTUzem5qTXBreHJYV0g4c1ktRG0wYVpLSGJDcnA1ODZNbWtRa0HSAf4BQVVfeXFMT1NWT0FQYUNvd1FuaW1kcGpueVB0TmQ0THlZckR5aUlqaVViM0xYY2NTb0szRzVpa1hPRUk4MVo2WmNzc0gtTFF6Y2paZUs3VzZRRW5YZHJaanNDenJObUpxSW1BVHhkNWhBNV9teHVUTm5ERkx0V0tRQnVYNW1GUGY0VFp2RnFUc1BaRHlyeVpYYUMtbkpmanpoVk9aQ21wMzQwbnhqT2FiM1o2ZF9xemRBbzZiYWJwOWFZcTNtVHRMUDZvYkZKbk1EVXFRQ1ZSLWJYMXVJMUtzVVVyRDB5Q0ViNV9wTFdxdnFxWlFmN1RMZ2FDbHJlSFB3UVNDNEE?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:39:28 GMT"
+      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Stock market outlook today, 30 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
