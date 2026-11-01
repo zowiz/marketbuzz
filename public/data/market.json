@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex and Nifty wrapped up a positive week led by rally in Trent and Reliance",
+  "headline": "Last session: Sensex and Nifty rose 2% weekly as Trent and Reliance led gains amid Diwali optimism",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Monday, 2 November 2026"
   },
   "why": [
-    "Sensex and Nifty recorded a 2% weekly rise, recovering from earlier sharp losses during the week.",
-    "Buying in heavyweights like Reliance and strong foreign inflows provided support during trading sessions.",
-    "Trent led the market rally as Nifty Smallcap 100 outperformed with a 4% jump in the weekly wrap.",
-    "IT and Pharma sector stocks helped lift the benchmark indices despite midcaps sliding."
+    "Buying support in Reliance Industries and sustained foreign inflows",
+    "Nifty Smallcap 100 index jumped 4%, significantly outperforming the benchmarks",
+    "Market rebound from earlier losses in anticipation of a Diwali rally",
+    "Strong performance in key sectors including FMCG and specific large-cap stocks"
   ],
   "whatHappening": [
-    "Indian stock market is closed today, Sunday, 1 November 2026, and will resume trading on Monday, 2 November.",
-    "In recent sessions, markets rallied over 900 points on Sensex and 1% on Nifty following strong buying.",
-    "Crude oil prices fluctuated above $116 while investors kept a close watch on US Fed policy decisions.",
-    "Analysts and traders are looking ahead to the Nov 2-6 week for a potential Diwali rally."
+    "Sensex and Nifty 50 indices recorded a 2% gain over the weekly wrap",
+    "India VIX increased as global crude oil prices remained elevated above $116",
+    "Trent emerged as a primary leader in the recent market rally",
+    "Adani Ports witnessed a significant surge of 4% during recent trading activity"
   ],
   "stocksInNews": [
     {
@@ -28,16 +28,24 @@
       ]
     },
     {
+      "symbol": "ADANIPORTS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        14
+      ]
+    },
+    {
       "symbol": "TRENT",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        15
+        19
       ]
     }
   ],
-  "summary": "The Indian stock market is closed today for the weekend and will reopen on Monday, 2 November. Over the past week, Sensex and Nifty gained 2% supported by buying in Reliance and a strong rally led by Trent. Investors are now looking forward to the upcoming week's trading session for further signals.",
-  "updatedAt": "2026-11-01T04:01:29.494Z",
+  "summary": "The Indian markets concluded the week on a strong note with Sensex and Nifty gaining 2% overall. Trent and Reliance Industries were major contributors to the positive momentum, while small-cap stocks outperformed the broader market. Investors are now looking forward to a potential Diwali bonanza when trading resumes on Monday.",
+  "updatedAt": "2026-11-01T04:31:21.078Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-01",
   "articleKeys": [
@@ -55,12 +63,12 @@
     "why is stock market falling today 4 key reasons behind sensex nifty crash ndtv",
     "sensex nifty open volatile india vix rises crude above 116 hdfc sky",
     "sensex nifty rise in early trade on reliance buying foreign inflows the hindu",
-    "stock market today gift nifty us fed policy to oil prices five key factors for sensex nifty 50 on october 29 ndtv profit",
-    "market weekly wrap sensex nifty50 rise 2 nifty smallcap 100 jumps 4 trent leads rally upstox",
+    "sensex today stock market live sensex jumps 600 pts nifty at 22850 adani ports surges 4 fmcg indiaipo",
     "why markets rallied sensex jumps over 900 points nifty gains 1 per cent 5 key reasons the times of india",
     "stock market outlook today 30 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "sensex nifty rise it pharma lift markets as midcaps slide hdfc sky",
-    "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
+    "stock market outlook today 29 oct sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market outlook crude oil prices to fpi inflows 8 triggers that could reverse trend in sensex nifty 50 livemint",
+    "market weekly wrap sensex nifty50 rise 2 nifty smallcap 100 jumps 4 trent leads rally upstox"
   ],
   "articles": [
     {
@@ -148,16 +156,10 @@
       "publishedAt": "Thu, 29 Oct 2026 05:17:10 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty, US Fed Policy To Oil Prices; Five Key Factors For Sensex, Nifty 50 On October 29 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTkdjeEhGQ0k3SHlKU0xzYmpBYVV2MWlyVl9laFRPY2N3WXRFWFEtdDQ3ZUU2YWdhaGpab1FKRXZMTlVHYmRHODQtZEUyVk5aVVc2c0hnV2FsYndnQ0FsaGMtTnhzcWhTMGZNeHBNbWxITEN3Y1ZjSTZMZ1Q1UjZjX1E5elRJdXZFd1dPeEx0ZzBfai1qQjA4TDZyRUZHY3V2Uk9mMW9qYWtrXzg4ZVEzU0IxSUlkTlZzM2VVcUpyU2lDN1lRSThQZFExVTNBVVdHOTUzem5qTXBreHJYV0g4c1ktRG0wYVpLSGJDcnA1ODZNbWtRa0HSAf4BQVVfeXFMT1NWT0FQYUNvd1FuaW1kcGpueVB0TmQ0THlZckR5aUlqaVViM0xYY2NTb0szRzVpa1hPRUk4MVo2WmNzc0gtTFF6Y2paZUs3VzZRRW5YZHJaanNDenJObUpxSW1BVHhkNWhBNV9teHVUTm5ERkx0V0tRQnVYNW1GUGY0VFp2RnFUc1BaRHlyeVpYYUMtbkpmanpoVk9aQ21wMzQwbnhqT2FiM1o2ZF9xemRBbzZiYWJwOWFZcTNtVHRMUDZvYkZKbk1EVXFRQ1ZSLWJYMXVJMUtzVVVyRDB5Q0ViNV9wTFdxdnFxWlFmN1RMZ2FDbHJlSFB3UVNDNEE?oc=5",
-      "publishedAt": "Thu, 29 Oct 2026 01:39:28 GMT"
-    },
-    {
-      "title": "Market weekly wrap: SENSEX, NIFTY50 rise 2%; NIFTY Smallcap 100 jumps 4%, Trent leads rally - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeUhVNzNkY2xCWmQxM3lRRHJHcE4ybVlOUFF3WUZncExvT2YyTmlCbGlxcE5fdnZrWEhGSmpXY09DWkhIYW1Qa09ieE5hd3g3WTBFa1MtZkdQUldoaEJzSTBGM0pUdVFqWHZJSEcwa21MbmxaWGNYc0xMTWxoYzJxZko4TWg2ZWc1Zk5FZ051eUQ3eFduWU9SUm41aHFySEFFYlRvVnZ3bDVibkV6UXZOYzVWR0M2RTg1bmpQeDZmTzIzanpZYVZpaUltWFRTLVd1VEVwckRGSHpfUEY2SUE?oc=5",
-      "publishedAt": "Sat, 31 Oct 2026 06:23:22 GMT"
+      "title": "Sensex Today | Stock Market Live: Sensex jumps 600 pts, Nifty at 22,850; Adani Ports surges 4%, FMCG - IndiaIPO",
+      "source": "IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmJpVmFjbm1zTFhWOGJoLUdodXU4UHYwU1RQZ1VIeTBlbF92UlFaNDNMTkpwUDJ4N3JpQTBrSnFNQTk2dE1xN3l6RjVDbHlJbEtLaEhoZlBPZkdTRXEyanhNeW9OcjdXejVRRzY0RFdqUk9rNmR5dVV0NFZpYzZYRTZMX0o4TEhVckRYTDlZZnAzYWdvR1B1RDc3TjNuX3ZMUG1wYWJOMHZna3REemFaSVNKRTdVT1NCWHAzV1FyRmhPUXFmZjE4?oc=5",
+      "publishedAt": "Thu, 29 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Why markets rallied: Sensex jumps over 900 points, Nifty gains 1 per cent; 5 key reasons - The Times of India",
@@ -172,16 +174,22 @@
       "publishedAt": "Fri, 30 Oct 2026 01:14:41 GMT"
     },
     {
-      "title": "Sensex, Nifty Rise; IT & Pharma Lift Markets as Midcaps Slide - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOajFHdFZlZGo5cUk0dWJ3V1E4c2dCUFlBVFVMZV8wYklSQzVtUEJKRDZVSFhIdHRIUDUyZGlHc1ZWVC12bGwzMTFtSEpqdWdpYmowZmRqQ2ttVWVuaDRVOTh4b05lUVBQR2JYeUNjWDRjcjRMWExJSEFhV2lKRFRoUUVmaWFtSDBYdjBldjI2NWdYUlBHZXpUX1FRVXpwaXZucGpuQWlRLWxrdkJoWmRRblNR?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 10:53:33 GMT"
-    },
-    {
       "title": "Stock market outlook today, 29 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbGZqMHp2VC02aEFPMWpFUDdkcGlUbGVqSHFVUTdtem9scXhMSTdwRHlQNWxyeGFjd19oVUJBLWtEWXA4bGVSVFlHY3BMTzdhc2RlekgyWmpWVFBYdThfNGJqT05SREFmb2NVT3hsZ0IxSWlVSXVWXzhyeUVQYWlWQWV5OUlmdDA1dldGM1JQdjBSZEtackdibmVLVEFwdWo3M0lha3hvdTNaNEZYTzhXQ01ic3lPMlFjSWFIRHJDeGlTTVR5dUc5S0RvaW85aG82T2xwdnFoSy1yTDRWNnloQ2UxaUpWbW9xYTFHNGw4dDJZMWoxVEUtZER0NlFQa2p2NHZQddIBigJBVV95cUxOYWFiZ291M3RVdE1Oc3JKM05Nd0d0LTM3dWFHS2laLXF6M1ltczBYWlh0SUFtejJZVU9lZlM1R0FWcldBZGRvT2hyWjlBZkl0QV8wUTFqN2J3THNzUGtYekI3MU5oRUVTbklKMXp4Q3NZQUJUaE4zaUJvVXFCRDZiXzN2NTZUWlRQdkRpNWFFdDdpTi0wSTR6ejhNMXBVQWNoMFI0MzVCckFaeklBMUZINEZ6czM0YjdpRjBId1lfVXFqYWszN0tvRy1leWhDZEJZSDBQa2lzdUtIZjNqVHpFcTBJZFZRbzJTMVZkS3BKVUVERWdhWUhlQkdUWGlKOHhuWXpqRDFTbnFHUQ?oc=5",
       "publishedAt": "Thu, 29 Oct 2026 01:15:36 GMT"
+    },
+    {
+      "title": "Stock market outlook: Crude oil prices to FPI inflows - 8 triggers that could reverse trend in Sensex, Nifty 50 - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOEZaNmc4dnEtRC16Vm5IVHhCd1Y2S19zcjRpVDdSWVZZajg4NjNGMGtyWnE0U2tPbjJUMXVkOFFlT1RERHZWQlBEOHJxWmdITmJPREVXZ1JIaUd3aWNQUTcyMUlqZnpFQWRiZHJLcE5YWmlZOUdlamlzX1NtYUdqczBmamh5Q044dnNPVHZsdEdfTWRmR2pxLUlXeXduUU1laHVpVHhfVmE3OThMWmdwMHdBa2RmbDdVZW82VUc3TGV4TVM1cG85anM5TUpROGVZZlR6MkYzczB4d2YwcU42YWlPeEtmUUw3Tk4wbFBZTDMwUGlSUWtDeHFmRjQyejJLaXhiVmxn0gGLAkFVX3lxTFBIdUVWNXVfYV8zN0tXeE1oZmNpZS1LTk1GNGxzUXRINHQxcWQ3Zy1SOTN1NWRta2tjeG1uQ2NJaE5nTGpzVUlHeXBtaHlaNTM5NWVGUmM4cm10M25WTGplanFSd0F5OUtYWXFGWklQYkpudlIzakczNDNjQi1HNmJYUnRxSTlsVi1xelhNd2h3MU9wSmpyNjcyMTRoLXNpcXBLc1VreklSaS1DNktabHpISXdSSmhpWXRGRm1wQlgzSUk2RVJOZDJTY21vMFdwS0FNZ2psM1NZT0FpbmZsZGQ5VnRlQmx0Q0RWM0FudEk4SEFqRldYOGpsNktPdGxPdU1DZ2hldlRMaEZFOA?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 03:00:57 GMT"
+    },
+    {
+      "title": "Market weekly wrap: SENSEX, NIFTY50 rise 2%; NIFTY Smallcap 100 jumps 4%, Trent leads rally - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeUhVNzNkY2xCWmQxM3lRRHJHcE4ybVlOUFF3WUZncExvT2YyTmlCbGlxcE5fdnZrWEhGSmpXY09DWkhIYW1Qa09ieE5hd3g3WTBFa1MtZkdQUldoaEJzSTBGM0pUdVFqWHZJSEcwa21MbmxaWGNYc0xMTWxoYzJxZko4TWg2ZWc1Zk5FZ051eUQ3eFduWU9SUm41aHFySEFFYlRvVnZ3bDVibkV6UXZOYzVWR0M2RTg1bmpQeDZmTzIzanpZYVZpaUltWFRTLVd1VEVwckRGSHpfUEY2SUE?oc=5",
+      "publishedAt": "Sat, 31 Oct 2026 06:23:22 GMT"
     }
   ]
 }
