@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty hit record highs as SBI Q2 profit rises 14% amid a four-day market rally",
+  "headline": "Indian markets hit record highs after four-day rally; SBI Q2 profit rises 14% on strong loan growth",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Easing macro pressures and significant FII inflows into Indian markets",
-    "Strong Q2 financial results from major companies like SBI and MCX",
-    "Broad-based rally in FMCG, auto, and private banking sectors",
-    "Positive momentum carrying Sensex and Nifty to record intraday highs"
+    "Easing macroeconomic pressures and the return of FII inflows",
+    "Strong quarterly earnings performance from State Bank of India",
+    "Broad-based buying across FMCG, auto, and private banking sectors",
+    "Sustained bullish momentum leading to a four-day winning streak"
   ],
   "whatHappening": [
-    "SBI reported a 14% rise in net profit driven by loan growth and improved asset quality",
-    "The Sensex surged over 1,200 points, marking its fourth consecutive day of gains",
-    "NSE's Q2 profit declined by 17% despite the overall market rally",
-    "Government proposed mandatory Sustainable Aviation Fuel blending for airlines starting in 2027"
+    "Sensex surged 1,225 points to reach a new record intraday high",
+    "State Bank of India reported a 14% increase in net profit for Q2FY27",
+    "MCX reported a 10% profit growth, while NSE's profit declined by 17%",
+    "Nifty 50 successfully closed above the 23,800 level"
   ],
   "stocksInNews": [
     {
@@ -24,17 +24,8 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1,
-        5
-      ]
-    },
-    {
-      "symbol": "NSE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
         3,
-        5
+        7
       ]
     },
     {
@@ -42,8 +33,17 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        3,
-        5
+        5,
+        7
+      ]
+    },
+    {
+      "symbol": "NSE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        5,
+        7
       ]
     },
     {
@@ -51,7 +51,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        7
       ]
     },
     {
@@ -59,7 +59,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        3
+        5
       ]
     },
     {
@@ -67,7 +67,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        3
+        5
       ]
     },
     {
@@ -75,15 +75,17 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        3
+        5
       ]
     }
   ],
-  "summary": "Indian markets are on a four-day winning streak, with the Sensex and Nifty reaching record intraday highs. SBI led the gains with a 14% profit rise in Q2, while sectors like FMCG and auto also saw significant buying. Investors remain focused on corporate earnings and easing macroeconomic pressures.",
-  "updatedAt": "2026-11-03T21:24:38.355Z",
+  "summary": "Indian markets extended their rally for the fourth straight day, with the Sensex surging over 1,225 points to record highs. SBI's strong Q2 performance and improved asset quality boosted investor confidence alongside positive FII inflows. While sectors like FMCG and banking thrived, NSE saw a profit dip of 17% in its latest quarterly results.",
+  "updatedAt": "2026-11-03T22:01:44.269Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-04",
   "articleKeys": [
+    "us stocks today nasdaq rebounds as chipmakers rally apple slides ahead of us midterm results",
+    "us treasury yields climb as strong jobs data midterm polls weigh 10year yield eyes 5 again",
     "taco bell sales fall more than expected on cyclosporiasis outbreak hit",
     "sbi q2fy27 results net profit rose 14 on loan growth stake sales",
     "polymarket unit gets us industry organizations approval to be futures broker",
@@ -92,8 +94,6 @@
     "q2 results highlights mcx profit up 10 inox india revenue up 27 nse profit slips 17 sbi asset quality improves",
     "ed sheeran reveals bts details of tu mil jaaye song from shah rukh khans king",
     "irans new billboard targets us president with we will kill trump message shows him behind bars",
-    "govt proposes mandatory saf blending for airlines from jan 2027 in draft policy target 20 by 2040",
-    "ed attaches 2 aircraft in probe against reliance anil ambani group",
     "stock market today highlights sensex jumps 1233 points nifty rallies 388 points to end over 16 higher the times of india",
     "closing bell nifty above 23800 sensex jumps 1225 pts auto fmcg private banks rally moneycontrolcom",
     "stock market close sensex rises for 4th day up 1225 pts nifty at 23811 fmcg top sectoral gainer business standard",
@@ -106,6 +106,18 @@
     "sensex surges 1225 points at closing jumps 162 to hit record intraday high telegraph india"
   ],
   "articles": [
+    {
+      "title": "US stocks today: Nasdaq rebounds as chipmakers rally, Apple slides ahead of US midterm results",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-rebounds-as-chipmakers-rally-apple-slides-ahead-of-us-midterm-results/articleshow/135513181.cms",
+      "publishedAt": "Wed, 04 Nov 2026 02:50:14 +0530"
+    },
+    {
+      "title": "US Treasury yields climb as strong jobs data, midterm polls weigh; 10-year yield eyes 5% again",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-climb-as-strong-jobs-data-and-midterm-uncertainty-weigh-on-bonds/articleshow/135511549.cms",
+      "publishedAt": "Wed, 04 Nov 2026 00:40:49 +0530"
+    },
     {
       "title": "Taco Bell sales fall more than expected on cyclosporiasis outbreak hit",
       "source": "Zerodha Pulse",
@@ -153,18 +165,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/world/irans-new-billboard-targets-us-president-with-we-will-kill-trump-message-shows-him-behind-bars-12278811#publisher=newsstand",
       "publishedAt": "Tue, 03 Nov 2026 23:26:12 +0530"
-    },
-    {
-      "title": "Govt Proposes Mandatory SAF Blending For Airlines From Jan 2027 In Draft Policy; Target 20% By 2040",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/govt-proposes-mandatory-saf-blending-for-airlines-from-jan-2027-in-draft-policy-target-20-by-2040-12278793#publisher=newsstand",
-      "publishedAt": "Tue, 03 Nov 2026 23:24:23 +0530"
-    },
-    {
-      "title": "ED attaches 2 aircraft in probe against Reliance Anil Ambani Group",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/ed-attaches-2-aircraft-in-probe-against-reliance-anil-ambani-group-126110301691_1.html",
-      "publishedAt": "Tue, 03 Nov 2026 23:22:40 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex jumps 1,233 points, Nifty rallies 388 points to end over 1.6% higher - The Times of India",
