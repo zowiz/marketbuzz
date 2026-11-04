@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex pares early gains amid US midterm election results; Nifty holds near 23,850",
+  "headline": "Sensex and Nifty retreat from highs as US midterm results unfold; Services PMI hits 4-month high",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,37 +7,29 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex pared morning gains following cues from US midterm election results as Democrats retook control of Congress",
-    "India Services PMI rose to a 4-month high of 55.8 in October as cost inflation eased",
-    "The Indian Rupee strengthened by 14 paise to 94.61 against the US dollar in early trade",
-    "Positive analyst actions post-Q2 results boosted select defense stock sentiment"
+    "US midterm election results showing Democrats regaining control of Congress and Senate",
+    "India's Services PMI rose to a 4-month high of 55.8 in October as cost inflation eased",
+    "Positive sentiment supported by Foreign Portfolio Investors (FPIs) and soft crude oil prices",
+    "Strong momentum from previous sessions where the Sensex gained over 1,200 points"
   ],
   "whatHappening": [
-    "Sensex slipped off day's high of over 500 points, while Nifty traded near the 23,850 mark",
-    "Realty sector jumped 1.7% while IT stocks faced selling pressure",
-    "Bharat Electronics gained 3% after Motilal raised its target price and Elara Capital upgraded it to Buy",
-    "Adani Enterprises shares rose 3% in intraday trading"
+    "Sensex fell 500 points from its intraday high as US election results were announced",
+    "The Indian Rupee appreciated by 14 paise to 94.61 against the US dollar in early trade",
+    "Bharat Electronics shares rose 3% following target price hikes and rating upgrades",
+    "Nifty traded near the 23,850 level following a strong opening supported by global cues"
   ],
   "stocksInNews": [
     {
       "symbol": "BEL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         3
       ]
-    },
-    {
-      "symbol": "ADANIENT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        10
-      ]
     }
   ],
-  "summary": "Indian equity benchmarks pared early morning gains on November 4 as global political developments unfolded with US midterm election results. Encouraging domestic data, including October Services PMI rising to 55.8, provided support to the broader market sentiment. Stock-specific action saw gains in Bharat Electronics and Adani Enterprises.",
-  "updatedAt": "2026-11-04T06:01:58.382Z",
+  "summary": "The Indian stock market opened higher but faced volatility as US midterm election results showed Democrats taking control of the Senate. Domestic sentiment was bolstered by the Services PMI rising to 55.8, indicating strong sector growth and easing inflation. Bharat Electronics emerged as a key gainer following positive analyst reports and target price upgrades.",
+  "updatedAt": "2026-11-04T06:31:27.699Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-04",
   "articleKeys": [
@@ -51,16 +43,16 @@
     "services pmi rises to 4month high of 558 in oct as cost inflation eases",
     "us midterm elections results 2026 live i have a right to veto everything trump says as democrats take control of senate",
     "entering the new samvat how to position your portfolio for longterm wealth creation",
-    "sensex today stock market live sensex pares gain to nearly 100 pts nifty near 23850 realty jumps 17 it slides adani enterprises rises 3 moneycontrolcom",
-    "stock market today highlights sensex jumps 1233 points nifty rallies 388 points to end over 16 higher the times of india",
-    "stock market close sensex rises for 4th day up 1225 pts nifty at 23811 fmcg top sectoral gainer business standard",
-    "stock market outlook today 4 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "closing bell nifty above 23800 sensex jumps 1225 pts auto fmcg private banks rally moneycontrolcom",
+    "stock market today highlights sensex jumps 1233 points nifty rallies 388 points to end over 16 higher the times of india",
+    "stock market outlook today 4 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market close sensex rises for 4th day up 1225 pts nifty at 23811 fmcg top sectoral gainer business standard",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india",
     "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
     "stock market crash today bse sensex crashes over 1100 points investors lose rs 892 lakh crore top r the times of india",
-    "stock market close sensex rises 315 pts nifty ends at 23140 realty auto shares shine business standard"
+    "stock market close sensex rises 315 pts nifty ends at 23140 realty auto shares shine business standard",
+    "sensex nifty open higher fpis soft crude support sentiment hdfc sky"
   ],
   "articles": [
     {
@@ -124,10 +116,10 @@
       "publishedAt": "Wed, 04 Nov 2026 10:43:06 +0530"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Sensex pares gain to nearly 100 pts, Nifty near 23,850; realty jumps 1.7%, IT slides, Adani Enterprises rises 3% - Moneycontrol.com",
+      "title": "Closing Bell: Nifty above 23,800, Sensex jumps 1,225 pts; auto, FMCG, private banks rally - Moneycontrol.com",
       "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQd0dlLWdtNVFfTkhZSHdvdUJQSHdPc1R4OENOLWNicFkzQVJjSkprRFZycy05M05YSFhRNXdUTXNLNU5iQmxzMk9jWk93WjFueFVwR1JsY2k2ZWJFaWE4N3FwbUVvN0U1Z1R5cExWWUFoeXRVbnNMek9jQjJsV2ZWX3BUWmNnY0xCa045R3QyWl8tQVpONXIyWDAxUGQ1ejRUcGQ3ZGkxMWIzdEJ5M2pqVThiRGxVVE5tc0k5U09HVmpQaWZoWnMtTllsTkpyalJvZW15emhCSC1WU1Z3RGMyZDR4XzJqdGdnSzhKOUE2SEhQTHlOaGl3VV9abmhGVy1qaEluYks3WFgwU3piU3gzTTd6dlFxZTZscldXcENMbFB6NXfSAagCQVVfeXFMTThCeXpZS0tpekdqWEtscEh4dVRTTk12TDBBcUpkZ2NOU25iRGVkVEpyRjVTa0NJSFNRbEoxTThlOGhyZlUwWktjVDN3b0NQMXJUdkQ4b2IxMnpma1ZVYllUZDllcFZIZFpiMmRYZDlmX25kdnFLZERBVWgxeWFrcE9yTldwMFBFWGtSTTBoT3EwVGlwVF9rdE5GTjY2T0JtYVZmUnZMRGJlYl9mQmVZNEE0Y3gtU3FrYjVseFVVd3Jsa3hJbEJIalgtNUxwMlJOZEUwc3FCODJLM2Vub0lySWdmeU8yYVZrMkRPLUkxYWZDM0tBMDlzSXM2WDhxTTlhRm9maDd4ZWt2T1BFVndLM1dFRXVQeXdXdVVmLTlnRmNpNzk1UWUybUM?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 05:55:09 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbzRCMjhSZXBWTUhleWh2Xy1oSktLWV9USTJEdGFoT182QS1CMnRWemFTUWVYNmh4N0hxZmxzQm45YVM5VFI3Ti1Zd1ZlZlRIekRhbWtrbHA2aUZVc0RzTXM1YURhVFRDZHQ1UXRBMGpDQkxwRDMyTU84bnlMOHJ1SXhIakMtckdYNlg3Q0VOV2pUaDJkNjl5WmNCQktkRHhBUGpqeGZNVzdfUVlPY3dZY2t4b3JCaU02SVpmX2E1U1BmRmtYdzc1OEpUejZtdjUtMlZjbEJaT1lNQ2EtWlFaQ0dwQnZMZkhiUkVLUHUwbk9ZallrQzVNenl6NE5KdDJ4amVMaHRYNkFmQXZrVkFiM0k0T0MtTldDQ3hkMGV0MFpOUGfSAagCQVVfeXFMTXc4M3c5YVowcXZLNm5xUGJ1Q0JVclpxeVlpZnA4TDVGbEJXZFFBT0FCRnNadTNtdXRUMVN5OGc2ZGlvYUFlYjMtQUI4bFJHQ1ZPQ0VrY1RXRTI1TExBa05VcGhWT3lQWXBRSVR5UGhLS3VLckxaS0cxZFZ3UFdOSHBrWF93Zk0zSHBmMmVER1ZCYlVQYWFoUVFkTkxrNENybEFUSWc5LXJNWi1YLVo0eGx6WjFDaGl2Nko2TEhKZ3pDTlNFcFAxWGFlandUWm5hSzZCZHliSzZSWXdLZ1ExbjgzVG1YT1EwYTJ4VGQydmloejJXYkdDbUphM3JxZFZ4MXZ1TEdmVjlnLS1VRm9ZcWI2WkRndjdHdUtyQWNhVnF4cFg5aU91RTU?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 10:45:58 GMT"
     },
     {
       "title": "Stock Market Today Highlights: Sensex jumps 1,233 points, Nifty rallies 388 points to end over 1.6% higher - The Times of India",
@@ -136,22 +128,16 @@
       "publishedAt": "Mon, 02 Nov 2026 10:47:25 GMT"
     },
     {
-      "title": "Stock Market Close: Sensex rises for 4th day, up 1225 pts, Nifty at 23,811; FMCG top sectoral gainer - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUVFQb21LVzk0Mk5xMlNCN2JzdjJ5TkFLT0Z0VTNuUzh2UWNvVTNVVEhBTjFFY0RSVXNmNWRSWDdoRmFXT2ZqZ1Vhckc3OFVrQ1RJVHdrcDdRdk9zSmE5azJnazhtUWktb0RESk9MR1YtNDRWUmNXU194c2ZsMzBjbHoyY1BXbjZYTVhPaEJxM2dMU0MyckNESmg4cDBUVGE2YlZzN0xISkNlNWlobkdnV2xoLXZwY0wtbVlsQTZzdUtoelN0NW85MGtOY0xid2U2c3VZUHpMM2hlbkMyNng4ZjNiejBEQ2dkUlc0SnotSkZHcFRjZFRwcmxlNmVoS0NRaTVV0gGIAkFVX3lxTE1WTjhfb3pnOTJFT21DWk1vNkFxTmxYRFpKbFVleERXZDF4MWxuaFozeThvYkwzUlBVbFAyd0JvUkF4ckNYYWNZWFFvLV84am1FblhodjJBakJSdjZxS1BRRlhHdUVqcmphNVNFZXRHNHJnMm5iSTlkQlJ5ZlJpa0diNHlJUDZKZUh1LU84NHZKb2pmWHAydXNMb1h4WDJmRndURU5QOHcxRk1oNnh0MHRnUHpIaXQ5VEhTU0NUUEFyM1gtc09iS2RSR2RvRFRIZldfQUIzcUFwVV9KMDNadVh1anV6MnQ1a2JSTWU0ZElNc1I0SDA1Z3M2dVQ3eGcxLUdSanFJZVRNdg?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 10:19:14 GMT"
-    },
-    {
       "title": "Stock market outlook today, 4 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbUYtYjlXR0pBZWpOdHl6XzhCUEduUTY5YkVEdDg2YTRSVEZLNG9mLVJxVE5KZElmaEd3LVFhUWN6RThTUnpYUmVkSGRQWlp3bHZJYkxocS1aSC0yUnZKWGZTUVNhZFJ0bnhaVkVqV29JN1dvT2ctd3g3NTdJZzVTUlQ2alpqSU1JR3JOOUdfNUQ1LVhjeVNYeU1yVmtCRnZmWG85RUVrQk44dGhOWFk0TVJxOEVIRDN1Qmo1OExha1cxNElacVpNQmwyWGV6emcwWEJ0RXhzcUJuWTFsTUlxNGxzRXRiWlp6NTR6b1VrNWY2LWRxQXMxLXJHT1RPS0xPWm1v0gGIAkFVX3lxTE9PZWgzdkZ1UHN3NVgxUUZENzZoQnpKNUdTTjdJLTJXVzc0SXh2alZlNm5VcTNuME1CVGJ6TU12N1R2dXNLNmNtaEY0Q2xMNFRGRWstM3pUOVRfYlFwVjdaam1xeWktall4RFRLUDg5NG5ibUcyc2U3TVN1Tm80RjF6TUtrZ2doRUk2czdMcjNIYV9HOWI4dm51aEdsdl8zcGlwZFEzdGowci1sNmRRaGhpajNQalNBWnRsSy1seVZ1NjVENEdlX05OQ2xvN3FnYmdUak9UVHVUS0tiWEJONFRvaFZMU3JzeEczRUJYajZmMmNLa2gzZHJzSUdmSXl1em1na0JKMGo0SA?oc=5",
       "publishedAt": "Wed, 04 Nov 2026 01:19:08 GMT"
     },
     {
-      "title": "Closing Bell: Nifty above 23,800, Sensex jumps 1,225 pts; auto, FMCG, private banks rally - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbzRCMjhSZXBWTUhleWh2Xy1oSktLWV9USTJEdGFoT182QS1CMnRWemFTUWVYNmh4N0hxZmxzQm45YVM5VFI3Ti1Zd1ZlZlRIekRhbWtrbHA2aUZVc0RzTXM1YURhVFRDZHQ1UXRBMGpDQkxwRDMyTU84bnlMOHJ1SXhIakMtckdYNlg3Q0VOV2pUaDJkNjl5WmNCQktkRHhBUGpqeGZNVzdfUVlPY3dZY2t4b3JCaU02SVpmX2E1U1BmRmtYdzc1OEpUejZtdjUtMlZjbEJaT1lNQ2EtWlFaQ0dwQnZMZkhiUkVLUHUwbk9ZallrQzVNenl6NE5KdDJ4amVMaHRYNkFmQXZrVkFiM0k0T0MtTldDQ3hkMGV0MFpOUGfSAagCQVVfeXFMTXc4M3c5YVowcXZLNm5xUGJ1Q0JVclpxeVlpZnA4TDVGbEJXZFFBT0FCRnNadTNtdXRUMVN5OGc2ZGlvYUFlYjMtQUI4bFJHQ1ZPQ0VrY1RXRTI1TExBa05VcGhWT3lQWXBRSVR5UGhLS3VLckxaS0cxZFZ3UFdOSHBrWF93Zk0zSHBmMmVER1ZCYlVQYWFoUVFkTkxrNENybEFUSWc5LXJNWi1YLVo0eGx6WjFDaGl2Nko2TEhKZ3pDTlNFcFAxWGFlandUWm5hSzZCZHliSzZSWXdLZ1ExbjgzVG1YT1EwYTJ4VGQydmloejJXYkdDbUphM3JxZFZ4MXZ1TEdmVjlnLS1VRm9ZcWI2WkRndjdHdUtyQWNhVnF4cFg5aU91RTU?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 10:45:58 GMT"
+      "title": "Stock Market Close: Sensex rises for 4th day, up 1225 pts, Nifty at 23,811; FMCG top sectoral gainer - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUVFQb21LVzk0Mk5xMlNCN2JzdjJ5TkFLT0Z0VTNuUzh2UWNvVTNVVEhBTjFFY0RSVXNmNWRSWDdoRmFXT2ZqZ1Vhckc3OFVrQ1RJVHdrcDdRdk9zSmE5azJnazhtUWktb0RESk9MR1YtNDRWUmNXU194c2ZsMzBjbHoyY1BXbjZYTVhPaEJxM2dMU0MyckNESmg4cDBUVGE2YlZzN0xISkNlNWlobkdnV2xoLXZwY0wtbVlsQTZzdUtoelN0NW85MGtOY0xid2U2c3VZUHpMM2hlbkMyNng4ZjNiejBEQ2dkUlc0SnotSkZHcFRjZFRwcmxlNmVoS0NRaTVV0gGIAkFVX3lxTE1WTjhfb3pnOTJFT21DWk1vNkFxTmxYRFpKbFVleERXZDF4MWxuaFozeThvYkwzUlBVbFAyd0JvUkF4ckNYYWNZWFFvLV84am1FblhodjJBakJSdjZxS1BRRlhHdUVqcmphNVNFZXRHNHJnMm5iSTlkQlJ5ZlJpa0diNHlJUDZKZUh1LU84NHZKb2pmWHAydXNMb1h4WDJmRndURU5QOHcxRk1oNnh0MHRnUHpIaXQ5VEhTU0NUUEFyM1gtc09iS2RSR2RvRFRIZldfQUIzcUFwVV9KMDNadVh1anV6MnQ1a2JSTWU0ZElNc1I0SDA1Z3M2dVQ3eGcxLUdSanFJZVRNdg?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 10:19:14 GMT"
     },
     {
       "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
@@ -182,6 +168,12 @@
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbV9qdDllYVlOY0gxeEhadjlRQm9KbkFOcTVlUThyRXc4UVB6QkpBTjJuM0w5a0xiakZibm90c29PdVRScUxVUGR5YWFHa2J4d3lxVFd4MmhweWtRLXZDOGFiNHJCTEFWVTdvWkFfV2JXb1ZYMzExNFlPUTluRVdrdkp3c2ZKSHp3WGFwSXo4eHhnejVRQUpEYWNHY2h1dDFYY1dhcnhOQnVyZm5NOEx3TzFKa2prUXVsLW9oOUVMTDJ5YUp1LXRfemVmdnVYT3JTY1N4RTdvRF9RUmU1QWd4eVpqV1ZsemZKRHRpd0pfeHNkeFdyTi0wZUo2b1U2OFnSAYQCQVVfeXFMTXpvSFJ3bE1OWXdVc3Vxbkx0dEg0cXJ1NWMzYkdROXhjUzRtZmRjQ2lwRkp1TWhETk5pcXZpd0dlV1M0SDUyRU9Zbm9NZkVfMk9CWDcxQTI2dHh6OERReV9KSmRUeUtySVZFUTVuMDhMcmhxenQ2d0hfbFR4QUJadU9wQlhDX1JIdURGUWY2dTNnbGtHa3BMMWFMQzJ1bUZxcnlPYjRVVGJ1WjVfM0pwcndjMVprUnhVT0d6dEFUQ0hlNk53aE1xODZmallmZ2JJdkxZQ0VmOEJyQko5ODRHREFSX005a0pPR1JGUTh2cDh4X3dEU3hnVVE3bmdCZU5sd0FGeHA?oc=5",
       "publishedAt": "Fri, 25 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Open Higher; FPIs, Soft Crude Support Sentiment - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWV4bzBrLVRNbU1wQUpTOEhEaGxBVGhsNVdtWUZRV0FMZDZwQ3pvX3hSaXN3SUVSblctUUhZRGY0ci1XaTc2eXFTV2dZTHNXWERvaGVuVDM4SFpYdkJUY2VPOWUtTzhtM1BYb2pNRzlfVjZVWDI4dDMtWnBfVEx3N3ZzZWt6LUt5LXE2X2pXbXhxaHRkRE51eGRON21oM2d0UFI5LWoxUmU3SVFBQ2VQQkd2QkVJbUVUOG1FQTRoSjJUQk1ydTBIR1pFUDV3bDBmZy1NQVRmdnVMUEJyb3p0ZklpMzN5WFdBSUVwaQ?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 04:55:14 GMT"
     }
   ]
 }
