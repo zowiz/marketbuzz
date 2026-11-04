@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty trade flat near 23,800 as early gains fizzle out amid mixed sectoral trends",
+  "headline": "Sensex trades flat and Nifty hovers near 23,800 as IT stocks decline while SMIDs outperform",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,119 +7,185 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign fund inflows provided support to Indian stock markets in early morning trade.",
-    "Easing crude oil prices initially boosted market sentiment before oil prices reversed higher.",
-    "Declines in IT sector stocks pulled indices back down, erasing early gains.",
-    "Global uncertainty lingered following US midterm election results and falling US index futures."
+    "IT heavyweights like TCS, Infosys, and HCL Tech lead market losses.",
+    "Asian markets face pressure following US midterm election updates.",
+    "Smallcap and midcap stocks show strength and outperform benchmark indices.",
+    "Stock-specific movements are driven by Q2 earnings announcements and management changes."
   ],
   "whatHappening": [
-    "Nifty hovers near 23,800 while the Sensex trades flat after swinging between gains and losses.",
-    "Small and mid-cap (SMID) indices are advancing, outperforming key benchmark indices.",
-    "Media stocks are rallying, whereas IT sector shares are seeing selling pressure.",
-    "Titan Company Q2 previews suggest net profit could rise up to 27% YoY."
+    "Sensex swings between gains and losses while Nifty trades around the 23,800 level.",
+    "Equitas Small Finance Bank shares rally 9% following the appointment of Balaji Nuthalapadi as interim CEO.",
+    "Saregama India posts a 48% jump in Q2 profit, while Cera Sanitaryware reports flat quarterly profits.",
+    "BEL, Adani Enterprises, and ITC gain despite pressure on major IT stocks."
   ],
   "stocksInNews": [
     {
-      "symbol": "TITAN",
+      "symbol": "EQUITASBNK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        2
+        3
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "BEL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "ADANIENT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "SAREGAMA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "CERA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "BSE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
       ]
     }
   ],
-  "summary": "Indian benchmark indices Sensex and Nifty gave up early gains to trade flat, hovering near the 23,800 level.\nInitial momentum driven by foreign fund inflows was capped by a pull-back in IT sector stocks.\nSmall-cap and mid-cap stocks along with media shares posted gains, while Titan Company remained in focus ahead of Q2 earnings.",
-  "updatedAt": "2026-11-04T07:31:27.105Z",
+  "summary": "Indian benchmark indices are trading flat as Sensex gives up early gains and Nifty hovers around 23,800.\nMajor IT stocks like TCS and Infosys are leading market losses, while BEL, Adani Enterprises, and ITC record gains.\nSpecific stock action remains prominent with Equitas Small Finance Bank jumping on executive news and Saregama rising on strong Q2 profit.",
+  "updatedAt": "2026-11-04T08:01:37.171Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-04",
   "articleKeys": [
-    "gold and silver prices correct ahead of diwali buying opportunity or a trap",
-    "us bond yields fall nasdaq dow jones futures slip 2 as democrats set for big win in us midterm elections",
-    "titan company q2 results preview profit may rise up to 27 yoy jewellery growth margins in focus",
-    "china banks applications for pboc stock loan scheme exceed 200 billion yuan",
-    "oil rises on iran war uncertainty after trumps republicans face election rout",
-    "diwali 2026 will sensex nifty reclaim their peaks or scale new highs analysts map the road ahead",
-    "stock market live sensex stuck in range nifty near 23800 smids advance",
-    "bls polymers shares rally 6 after strong stock market debut",
-    "china stocks struggle near oneyear lows despite fresh government support measures",
-    "stock markets rally in early trade on foreign fund inflows easing crude oil prices",
-    "stock market live updates sensex nifty swing between gains and losses it declines media stocks rally the economic times",
+    "rbi constitutes technical consultative committee for financial markets",
+    "stock market live sensex stuck in range nifty near 23800 smids outperform",
+    "kopsi taiwan other asian stocks tumble after us midterm elections signal democratic victory whats the connection",
+    "equitas small finance bank shares jump 9 after balaji nuthalapadis appointment as interim ceo",
+    "8th pay commission how much arrears could employees get if implementation is delayed until 2027",
+    "now class 9 students will learn all about setting up a business fixed deposits mutual funds and more",
+    "stock market live sensex flat nifty 50 around 23800 tcs infosys hcl tech lead losses bel adani ent itc gain",
+    "gold glitters silver shines ahead of dhanteras yellow metal prices jump by rs 2500 silver surges by rs 5700",
+    "q2 results live updates saregama india profit rises 48 cera sanitaryware profit flat at rs 56 crore bse cummins also in focus",
+    "unhedged position blue wave will derail the ai trade but wont dismantle the ai era",
     "stock market today highlights sensex jumps 1233 points nifty rallies 388 points to end over 16 higher the times of india",
     "stock market today live november 4 sensex gives up early gains to trade flat nifty hovers near 23800 businessline",
+    "stock market live updates sensex nifty swing between gains and losses it declines media stocks rally the economic times",
     "closing bell nifty above 23800 sensex jumps 1225 pts auto fmcg private banks rally moneycontrolcom",
     "stock market outlook today 4 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market close sensex rises for 4th day up 1225 pts nifty at 23811 fmcg top sectoral gainer business standard",
+    "stock market outlook today 3 nov sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint",
     "markets hit 3month low 5 reasons behind sensex crashing 1250 points today ndtv",
     "stock market live updates today bse sensex tumbles over 1000 points nse nifty50 trades below 22900 the times of india",
-    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india",
-    "stock market crash today bse sensex crashes over 1100 points investors lose rs 892 lakh crore top r the times of india",
-    "stock market close sensex rises 315 pts nifty ends at 23140 realty auto shares shine business standard"
+    "stock market crash today sensex ends over 1200 points nifty goes below 23100 top reasons for fall the times of india"
   ],
   "articles": [
     {
-      "title": "Gold and silver prices correct ahead of Diwali: Buying opportunity or a trap?",
+      "title": "RBI constitutes Technical Consultative Committee for Financial Markets",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/gold-and-silver-prices-correct-ahead-of-diwali-buying-opportunity-or-a-trap/articleshow/135527505.cms",
-      "publishedAt": "Wed, 04 Nov 2026 12:00:10 +0530"
+      "link": "https://www.thehindu.com/business/markets/rbi-constitutes-technical-consultative-committee-for-financial-markets/article71664423.ece",
+      "publishedAt": "Wed, 04 Nov 2026 12:57:48 +0530"
     },
     {
-      "title": "US bond yields fall; Nasdaq, Dow Jones futures slip 2% as Democrats set for big win in US midterm elections",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bond-yields-fall-nasdaq-dow-jones-futures-slip-2-as-democrats-set-for-big-win-in-us-midterm-elections/articleshow/135527339.cms",
-      "publishedAt": "Wed, 04 Nov 2026 11:57:09 +0530"
-    },
-    {
-      "title": "Titan Company Q2 results preview: Profit may rise up to 27% YoY; jewellery growth, margins in focus",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/titan-company-q2-results-preview-profit-may-rise-up-to-27-yoy-jewellery-growth-margins-in-focus/articleshow/135527059.cms",
-      "publishedAt": "Wed, 04 Nov 2026 11:52:40 +0530"
-    },
-    {
-      "title": "China Banks' applications for PBOC stock loan scheme exceed 200 billion yuan",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/china-banks-applications-for-pboc-stock-loan-scheme-exceed-200-billion-yuan/articleshow/135527139.cms",
-      "publishedAt": "Wed, 04 Nov 2026 11:51:30 +0530"
-    },
-    {
-      "title": "Oil rises on Iran war uncertainty after Trump’s Republicans face election rout",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/oil-rises-on-iran-war-uncertainty-after-trumps-republicans-face-election-rout/article71664204.ece",
-      "publishedAt": "Wed, 04 Nov 2026 11:51:22 +0530"
-    },
-    {
-      "title": "Diwali 2026: Will Sensex, Nifty reclaim their peaks or scale new highs? Analysts map the road ahead",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-2026-will-sensex-nifty-reclaim-their-peaks-or-scale-new-highs-analysts-map-the-road-ahead/articleshow/135526939.cms",
-      "publishedAt": "Wed, 04 Nov 2026 11:45:12 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex stuck in range, Nifty near 23,800; SMIDs advance",
+      "title": "Stock Market LIVE: Sensex stuck in range; Nifty near 23,800; SMIDs outperform",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html",
-      "publishedAt": "Wed, 04 Nov 2026 11:43:04 +0530"
+      "publishedAt": "Wed, 04 Nov 2026 12:50:37 +0530"
     },
     {
-      "title": "BLS Polymers shares rally 6% after strong stock market debut",
+      "title": "Kopsi, Taiwan, other Asian stocks tumble after US midterm elections signal Democratic victory. What’s the connection?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bls-polymers-shares-rally-6-after-strong-stock-market-debut/articleshow/135526812.cms",
-      "publishedAt": "Wed, 04 Nov 2026 11:42:32 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kopsi-taiwan-other-asian-stocks-tumble-after-us-midterm-elections-signal-democratic-victory-whats-the-connection/articleshow/135529227.cms",
+      "publishedAt": "Wed, 04 Nov 2026 12:47:53 +0530"
     },
     {
-      "title": "China stocks struggle near one-year lows despite fresh government support measures",
+      "title": "Equitas Small Finance Bank shares jump 9% after Balaji Nuthalapadi’s appointment as interim CEO",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-stocks-struggle-near-one-year-lows-despite-fresh-government-support-measures/articleshow/135526707.cms",
-      "publishedAt": "Wed, 04 Nov 2026 11:39:35 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/equitas-small-finance-bank-shares-jump-9-after-balaji-nuthalapadis-appointment-as-interim-ceo/articleshow/135528943.cms",
+      "publishedAt": "Wed, 04 Nov 2026 12:44:25 +0530"
     },
     {
-      "title": "Stock markets rally in early trade on foreign fund inflows, easing crude oil prices",
+      "title": "8th Pay Commission: How Much Arrears Could Employees Get If Implementation Is Delayed Until 2027?",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/stock-markets-rally-in-early-trade-on-foreign-fund-inflows-easing-crude-oil-prices/article71664174.ece",
-      "publishedAt": "Wed, 04 Nov 2026 11:36:53 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-how-much-arrears-could-employees-get-if-implementation-is-delayed-until-2027-12280873#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 12:39:55 +0530"
     },
     {
-      "title": "Stock Market Live Updates: Sensex, Nifty swing between gains and losses; IT declines, media stocks rally - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVlFXVUJiNzFKeEllc09sdkpEU3R1ZnVqbGRtakVIMEQ3RDBXOUZQcXZnVG9TQXJXUTRBQnhnSy1Jc1JoUXFsN3FjWWdRMk16RjV4WUFRUTljWE1JNWhtaHliazVfQkdCMUZQU2o2NHRXSDI2bnNMYkRKWHJjbFNSRkZpM0gybjRzOEY1aXl1X2NONU1pc2hNVDVvRTdPN0VBMkgtb1RLUkgxVTYwNGNCMTQweGUtUEJVNFFSX2JRclItczl6ZndPcldiX01GSlp2YzNuVjA2cnNzTDRFcGZUM1p2c0ZZWTNjcThMaHFWU2hld3VFek5ZbVI3d3RpaFAySXloejNOd0VvUdIBjwJBVV95cUxQbV9uQzJfMzVqTVdoYi1qTm4yM3FEMVpkb1BxaW91QVZsM2wzOUh2c3RKTXJiSzhPU2ZSaGJ4T1V6TFNBclBoYlBjaE9wSHRRSTJxejQ3OGYxVEZWNnBUdVJwdTZXTVV4aEFJX190S1VtbXZfdHhlWUhNdjBGZnJVU0YwdXNIMEotb3pzV0Y2cUR0TGdlSzNzTFUzM2RNckxzVWtubkw1Vnc2MUFfVnpHLWRiZGlKWkpZZE5DdEdYdl9rWTdQaWRLMFQzVWlBbnF0cGJHekItVVdJQmE0ZThmZXRRTy1McjI0M2lSSkIzMFhVTld2ZW9NZlZXWjQ3Ul9XbWJZM3BfamtXRkZ4VmM0?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 07:18:43 GMT"
+      "title": "Now, Class 9 Students Will Learn All About Setting Up A Business, Fixed Deposits Mutual Funds And More",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/class-9-students-will-learn-all-about-setting-up-a-business-fixed-deposits-mutual-funds-and-more-12281011#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 12:38:24 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex Flat, Nifty 50 Around 23,800; TCS, Infosys, HCL Tech Lead Losses; BEL, Adani Ent, ITC Gain",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-live-blog-sensex-today-nifty50-gift-nifty-live-updates-today-us-midterm-elections-outcome-iran-q2-earnings-november-4-2026-12279598#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 12:37:27 +0530"
+    },
+    {
+      "title": "Gold Glitters, Silver Shines Ahead Of Dhanteras: Yellow Metal Prices Jump By Rs 2,500; Silver Surges By Rs 5,700",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/gold-glitters-silver-shines-ahead-of-dhanteras-yellow-metal-prices-jump-by-rs-2-500-silver-surges-by-rs-5-700-12280898#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 12:36:18 +0530"
+    },
+    {
+      "title": "Q2 Results Live Updates: Saregama India Profit Rises 48%, Cera Sanitaryware Profit Flat At Rs 56 Crore; BSE, Cummins Also In Focus",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-4-bse-cummins-india-zydus-lifesciences-among-327-companies-to-announce-earnings-today-12280800#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 12:35:46 +0530"
+    },
+    {
+      "title": "Unhedged Position | Blue Wave Will Derail the AI Trade but Won't Dismantle the AI Era",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/unhedged-position-blue-wave-will-derail-the-ai-trade-but-wont-dismantle-the-ai-era-12281023#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 12:34:06 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex jumps 1,233 points, Nifty rallies 388 points to end over 1.6% higher - The Times of India",
@@ -131,7 +197,13 @@
       "title": "Stock Market Today Live, November 4: Sensex gives up early gains to trade flat, Nifty hovers near 23,800 - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOUNNR3RCV2haM1BjdjN3ZGMwV082OVdTU05UTTUyRVJ2VWF4dXFXOWo4eHdvMFktX3FIZ3doYUlESWpad2JjeEd2QzRxOW45MHRkdFREMVJFT3o3eV9VSGZCdVB6aWF1V1ZZSXdLTkhhSVFDeG9BTjVMR04xZDVoX1ZBMTc4WGpOaElQdGVvTko1Z0E4c2dVd05DYVdYU2lwNU5uNHdPUGVRWTRKTWJZdERZN0JueTBTN0ROZkFPZmNZMWtpWjVVZ9IBzwFBVV95cUxPdU5MLUZ1TVdQMGEwWW9uSHlkWDJ5T0pHTm81UmJJMU41RkNBeXgwNFN1bmc4UkgwMzZqU3VjTEg3dkhxTUNlUE1uS0dyRjdESGJEM2pwdWFJUm92MU9tU2hHX2VQRHI0Um5WdkdXYWVvSkgtWGd6UWxIWVlTcGh1RjlMbkxiYW5nczN3cWgtbFFsRTdudUI3MlpJU0Q0VWNhMWVDSXFPd2tiZHJmY0JSYktWa0xfR2pxMnF5Vlk3TTlwVXVMSjVvYVdvS3JOelE?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 07:27:35 GMT"
+      "publishedAt": "Wed, 04 Nov 2026 07:55:27 GMT"
+    },
+    {
+      "title": "Stock Market Live Updates: Sensex, Nifty swing between gains and losses; IT declines, media stocks rally - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVlFXVUJiNzFKeEllc09sdkpEU3R1ZnVqbGRtakVIMEQ3RDBXOUZQcXZnVG9TQXJXUTRBQnhnSy1Jc1JoUXFsN3FjWWdRMk16RjV4WUFRUTljWE1JNWhtaHliazVfQkdCMUZQU2o2NHRXSDI2bnNMYkRKWHJjbFNSRkZpM0gybjRzOEY1aXl1X2NONU1pc2hNVDVvRTdPN0VBMkgtb1RLUkgxVTYwNGNCMTQweGUtUEJVNFFSX2JRclItczl6ZndPcldiX01GSlp2YzNuVjA2cnNzTDRFcGZUM1p2c0ZZWTNjcThMaHFWU2hld3VFek5ZbVI3d3RpaFAySXloejNOd0VvUQ?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 07:52:09 GMT"
     },
     {
       "title": "Closing Bell: Nifty above 23,800, Sensex jumps 1,225 pts; auto, FMCG, private banks rally - Moneycontrol.com",
@@ -144,6 +216,18 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbUYtYjlXR0pBZWpOdHl6XzhCUEduUTY5YkVEdDg2YTRSVEZLNG9mLVJxVE5KZElmaEd3LVFhUWN6RThTUnpYUmVkSGRQWlp3bHZJYkxocS1aSC0yUnZKWGZTUVNhZFJ0bnhaVkVqV29JN1dvT2ctd3g3NTdJZzVTUlQ2alpqSU1JR3JOOUdfNUQ1LVhjeVNYeU1yVmtCRnZmWG85RUVrQk44dGhOWFk0TVJxOEVIRDN1Qmo1OExha1cxNElacVpNQmwyWGV6emcwWEJ0RXhzcUJuWTFsTUlxNGxzRXRiWlp6NTR6b1VrNWY2LWRxQXMxLXJHT1RPS0xPWm1v0gGIAkFVX3lxTE9PZWgzdkZ1UHN3NVgxUUZENzZoQnpKNUdTTjdJLTJXVzc0SXh2alZlNm5VcTNuME1CVGJ6TU12N1R2dXNLNmNtaEY0Q2xMNFRGRWstM3pUOVRfYlFwVjdaam1xeWktall4RFRLUDg5NG5ibUcyc2U3TVN1Tm80RjF6TUtrZ2doRUk2czdMcjNIYV9HOWI4dm51aEdsdl8zcGlwZFEzdGowci1sNmRRaGhpajNQalNBWnRsSy1seVZ1NjVENEdlX05OQ2xvN3FnYmdUak9UVHVUS0tiWEJONFRvaFZMU3JzeEczRUJYajZmMmNLa2gzZHJzSUdmSXl1em1na0JKMGo0SA?oc=5",
       "publishedAt": "Wed, 04 Nov 2026 01:19:08 GMT"
+    },
+    {
+      "title": "Stock Market Close: Sensex rises for 4th day, up 1225 pts, Nifty at 23,811; FMCG top sectoral gainer - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUVFQb21LVzk0Mk5xMlNCN2JzdjJ5TkFLT0Z0VTNuUzh2UWNvVTNVVEhBTjFFY0RSVXNmNWRSWDdoRmFXT2ZqZ1Vhckc3OFVrQ1RJVHdrcDdRdk9zSmE5azJnazhtUWktb0RESk9MR1YtNDRWUmNXU194c2ZsMzBjbHoyY1BXbjZYTVhPaEJxM2dMU0MyckNESmg4cDBUVGE2YlZzN0xISkNlNWlobkdnV2xoLXZwY0wtbVlsQTZzdUtoelN0NW85MGtOY0xid2U2c3VZUHpMM2hlbkMyNng4ZjNiejBEQ2dkUlc0SnotSkZHcFRjZFRwcmxlNmVoS0NRaTVV0gGIAkFVX3lxTE1WTjhfb3pnOTJFT21DWk1vNkFxTmxYRFpKbFVleERXZDF4MWxuaFozeThvYkwzUlBVbFAyd0JvUkF4ckNYYWNZWFFvLV84am1FblhodjJBakJSdjZxS1BRRlhHdUVqcmphNVNFZXRHNHJnMm5iSTlkQlJ5ZlJpa0diNHlJUDZKZUh1LU84NHZKb2pmWHAydXNMb1h4WDJmRndURU5QOHcxRk1oNnh0MHRnUHpIaXQ5VEhTU0NUUEFyM1gtc09iS2RSR2RvRFRIZldfQUIzcUFwVV9KMDNadVh1anV6MnQ1a2JSTWU0ZElNc1I0SDA1Z3M2dVQ3eGcxLUdSanFJZVRNdg?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 10:19:14 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 3 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaDdMaDUzR01qLWVBZWlVWVhzMWYzeVV6c3JxY3JMOW9ZbUhEWDc0NldZbllmcHlXQW10MUpEVkhZZTNaUHhRWndfaVNfdk1uUmNmblRwcVNMbFoyQVo2R1QtenNabk1wV3dJS3BtbTZKQnhuR1IxaFVmdm9PUzBzVGp4aTNRU3JPQXNfNUNxaUtraG5CTEZWbzFjX2Q3dWlLR0NmXy1WNUdud0FteVp2SzFWNE9tY0wtMm92OXhtaC1qY3F3U0dIdjhMdlJUQS0wcmw4ZGVqcXNnWnpSY0tveDEyTl9kRUV5R3lSYWZ4VVBiWG9iNzFyV3YyRGpDVXQx0gGGAkFVX3lxTFBSbFFLcUpud2tGZ2VFV0lLcnFFQUQ4V3B6U1JocGtNNm5fOVZBR0J5bUZhVkNoVFZaaTcwbkVuS2pjdEx3U1EyVEFObUdlWU1vd2JaRDRqMm1DYWZzUHVObUhBMDBlelhoclhRbkxXU0lQc1B4WUM5M2xHcjU0bGVsZmlGN253S0J5bjlIOXJ3MGJ2ODdtMkh5M3lMbEFPUDMwVHVYcHVjWjRtaG9GZmlDRWt4SlVDQjFnaFJkZ09tX2JkZnhVeUFCeU1idzVlOWFUUUdfOUQ4M2JCNW9kemtXczlIdXZJU1RsQ3JZWUtlUkt2UGFISnNZcGdhdGxiNEUxNm5WZXc?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 01:14:54 GMT"
     },
     {
       "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
@@ -162,18 +246,6 @@
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Stock market crash today: BSE Sensex crashes over 1,100 points, investors lose Rs 8.92 lakh crore - top r - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPQ3drbk9QbWRHcU9uVDJLU0EydWpPdVZRVE1rTEE5bFZadHZmUVJPeG9nUjVYWnVvSTkzNzFyNFo3TWhfN1lzX0ZScEVrSnZETUJ2MmtDaE1XYjc2TXo2a1p0UWZhcHprU1lwM3V3YUNUVzlTc3l4UXdCLVExX3dLQTdRaGh5Rk0xUDQtR2lkY3Mxd29QSHNPRU5fRDFYRVBSbC03X2pFaGpnWlJ6MFZDUGlicHlPUUpXeDh4ZU94UWR5ZHNCZ0pydDdFdHZNSjgyRThId0JfSlcxVzFibmR3clVwQzllekZnLUJ1LTdZcHpsRkt1YzN0b1FBT2FkZF9zblJkRlIxdmZfdzNFSXllSDM3b19zME9xaXhlWGk0Qjd5TWwxdDJaenFsOE5iOUNOU2VKRkxYazExZVAxYWJuVVVn0gHHAkFVX3lxTE1EMGdQdWlWbVp5aUpTbEJmb0M5dWQ5X0xJYmNpTFJJVERpUDZkcVo5V1ZGeTNyR3VmYjUyUDF0bG1HVlBGQ21nNDBfU1RZRTdYTEZFTy11OXExZmNOdzRwQTFQNlBRcFZ6NVdDSFFkeWdkV1ZGdm14cXpoTTc5eFc2WkZnVTQ1SlZ3NmxCOWk1b1BWU3doODZadUV0c0tkQ0VCeERINlczUmlYWmJ2MjNoblhPeWtqa0NvU3ZRcGw4NlQ3Mk5GcTFlZDIzQlN4SWxiNE5Md0ctQVBmMklselFGekszWTlFM2JFN244eVJtOHctcnFCc0RVM0Z4OUlqVmctZ25xTDVnTTV4djlfc2U3T2pkeC0tajA2ZnVKRDk3eEJ2ZkNWSmZicmVEOXN0UHpfRkJQdlZMLTVveENMYmdJenM0UFRfRQ?oc=5",
-      "publishedAt": "Mon, 28 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Stock Market Close: Sensex rises 315 pts, Nifty ends at 23,140; realty, auto shares shine - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbV9qdDllYVlOY0gxeEhadjlRQm9KbkFOcTVlUThyRXc4UVB6QkpBTjJuM0w5a0xiakZibm90c29PdVRScUxVUGR5YWFHa2J4d3lxVFd4MmhweWtRLXZDOGFiNHJCTEFWVTdvWkFfV2JXb1ZYMzExNFlPUTluRVdrdkp3c2ZKSHp3WGFwSXo4eHhnejVRQUpEYWNHY2h1dDFYY1dhcnhOQnVyZm5NOEx3TzFKa2prUXVsLW9oOUVMTDJ5YUp1LXRfemVmdnVYT3JTY1N4RTdvRF9RUmU1QWd4eVpqV1ZsemZKRHRpd0pfeHNkeFdyTi0wZUo2b1U2OFnSAYQCQVVfeXFMTXpvSFJ3bE1OWXdVc3Vxbkx0dEg0cXJ1NWMzYkdROXhjUzRtZmRjQ2lwRkp1TWhETk5pcXZpd0dlV1M0SDUyRU9Zbm9NZkVfMk9CWDcxQTI2dHh6OERReV9KSmRUeUtySVZFUTVuMDhMcmhxenQ2d0hfbFR4QUJadU9wQlhDX1JIdURGUWY2dTNnbGtHa3BMMWFMQzJ1bUZxcnlPYjRVVGJ1WjVfM0pwcndjMVprUnhVT0d6dEFUQ0hlNk53aE1xODZmallmZ2JJdkxZQ0VmOEJyQko5ODRHREFSX005a0pPR1JGUTh2cDh4X3dEU3hnVVE3bmdCZU5sd0FGeHA?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 07:00:00 GMT"
     }
   ]
 }
