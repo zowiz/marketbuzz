@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex gains 384 points, Nifty stays above 23,900 led by strong Q2 results and gains in BEL and Titan",
+  "headline": "Sensex and Nifty Extend Winning Streak for Fourth Day Led by BEL, Titan, and Adani Enterprises",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,28 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex and Nifty extended their winning streak for a fourth consecutive session.",
-    "Strong quarterly earnings from companies like Nykaa and Apollo Hospitals boosted investor sentiment.",
-    "Significant gains in heavyweights BEL and Titan, which both rose by 4%.",
-    "The Media sectoral index saw a sharp surge of 5% during the trading day."
+    "Sensex and Nifty extended their winning streak for a fourth consecutive session despite mixed Asian cues.",
+    "Strong gains in heavyweights like BEL, Titan, and Adani Enterprises boosted the benchmark indices.",
+    "Positive quarterly results from companies like NHPC and Dr Lal PathLabs supported investor sentiment.",
+    "The media sector saw a significant surge of 5%, contributing to the overall market rally."
   ],
   "whatHappening": [
-    "Sensex settled 384 points higher while Nifty finished the day above the 23,900 mark.",
-    "Nykaa reported a nearly threefold increase in Q2 net profit to ₹101 crore.",
-    "Apollo Hospitals saw a 32% rise in profit, while BSE and JM Financial reported profit declines.",
-    "Sebi announced simplified digital KYC rules for NRIs and foreign nationals effective December 3."
+    "Sensex settled 384 points higher while Nifty closed above the 23,900 mark.",
+    "Biocon reported a 50% decline in Q2 profit to ₹41 crore, citing delayed shipments and margin pressure.",
+    "Dabur announced a leadership change with CEO Mohit Malhotra stepping down and Herjit Bhalla joining the board.",
+    "FICCI has urged the Finance Ministry to restore Long-Term Capital Gains (LTCG) tax exemptions on listed equities."
   ],
   "stocksInNews": [
     {
-      "symbol": "NYKAA",
+      "symbol": "BIOCON",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "LALPATHLAB",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
@@ -28,11 +36,35 @@
       ]
     },
     {
-      "symbol": "APOLLOHOSP",
+      "symbol": "NHPC",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1
+        6
+      ]
+    },
+    {
+      "symbol": "KANSAINER",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "BSE",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "DABUR",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        9
       ]
     },
     {
@@ -60,39 +92,23 @@
       "articleIds": [
         14
       ]
-    },
-    {
-      "symbol": "BSE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "JMFINANCIL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        1
-      ]
     }
   ],
-  "summary": "Indian markets extended their rally as the Sensex gained 384 points and Nifty closed above 23,900. Strong Q2 results from Nykaa and Apollo Hospitals provided a boost, despite earnings declines in BSE and JM Financial. Sectoral performance was notably led by Media and Defense stocks like BEL.",
-  "updatedAt": "2026-11-04T14:31:31.467Z",
+  "summary": "Indian benchmark indices continued their upward momentum for the fourth day, with the Sensex gaining 384 points to close at 23,900 levels. While BEL and Titan led the gainers, Biocon faced selling pressure following a sharp drop in quarterly profits. Market sentiment remains buoyed by corporate earnings and expectations of favorable budget proposals from industry bodies.",
+  "updatedAt": "2026-11-04T15:02:01.304Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-04",
   "articleKeys": [
-    "sebi cancels registrations of 8 investment advisers for nonpayment of renewal fees",
-    "q2 results live updates bse profit down 7 apollo hospitals profit rises 32 jm financial profit falls 18",
-    "us midterms musk spent over 200 million in texas heres what happened to his stocks",
-    "have more than 2 children supreme court questions law disqualifying candidates from elections",
-    "nykaa q2 net profit nearly triples to 101 crore revenue rises 28",
-    "foreign airlines back destinationbased shift of 14 international routes from mumbai to navi mumbai",
-    "gold shines as dollar slips to 5week low investors await us midterm election results",
-    "sebi eases digital kyc rules for nris foreign nationals from december 3",
-    "us stock market live updates us stock futures rebound as investors assess democrats midterm sweep",
-    "tamil nadu chief minister vijay felicitates top performing class 10 and 12 students in chennai",
+    "biocon q2 profit halves to 41 crore as delayed shipments weigh on margins",
+    "new samvat brings opportunities in mutual funds equities and gold experts",
+    "big update for teachers eyeing govt jobs ncte plans to change eligibility tests criteria",
+    "budget wishlist ficci asks finance ministry to restore ltcg exemption on listed equities",
+    "dr lal pathlabs q2 net profit rises 275 to 194 cr on volume growth",
+    "wpl 2027 schedule announced check opening match final date venues and timings",
+    "q2 results live updates nhpc profit rises 52 kansai nerolac profit up 9 bse profit down 7",
+    "dows 800point whiplash shows sitting on cash may cost investors their best days heres why",
+    "ncert adds personal finance entrepreneurship chapters to class 9 textbook",
+    "dabur elevates herjit bhalla to board as mohit malhotra steps down as ceo",
     "stock market highlights closing bell sensex settles 384 points higher nifty above 23900 bel titan gain 4 each the economic times",
     "closing bell sensex gains 384 pts nifty above 23950 media index up 5 it down 2 moneycontrolcom",
     "stock market outlook today 4 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
@@ -106,64 +122,64 @@
   ],
   "articles": [
     {
-      "title": "Sebi cancels registrations of 8 investment advisers for non-payment of renewal fees",
+      "title": "Biocon Q2 profit halves to ₹41 crore as delayed shipments weigh on margins",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-cancels-registrations-of-8-investment-advisers-for-non-payment-of-renewal-fees/articleshow/135540926.cms",
-      "publishedAt": "Wed, 04 Nov 2026 19:06:09 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/biocon-q2-profit-halves-to-41-crore-as-delayed-shipments-weigh-on-margins-126110401735_1.html",
+      "publishedAt": "Wed, 04 Nov 2026 20:02:23 +0530"
     },
     {
-      "title": "Q2 Results Live Updates: BSE Profit Down 7%, Apollo Hospitals Profit Rises 32%, JM Financial Profit Falls 18%",
+      "title": "New Samvat brings opportunities in mutual funds, equities and gold: Experts",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/new-samvat-brings-opportunities-in-mutual-funds-equities-and-gold-experts-126110401842_1.html",
+      "publishedAt": "Wed, 04 Nov 2026 20:01:29 +0530"
+    },
+    {
+      "title": "Big Update For Teachers Eyeing Govt Jobs: NCTE Plans To Change Eligibility Tests Criteria",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/big-update-for-teachers-eyeing-govt-jobs-ncte-plans-to-change-eligibility-tests-criteria-12283563#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 19:56:27 +0530"
+    },
+    {
+      "title": "Budget Wishlist: FICCI Asks Finance Ministry To Restore LTCG Exemption On Listed Equities",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/budget-wishlist-ficci-asks-finance-ministry-to-restore-ltcg-exemption-on-listed-equities-12283327#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 19:54:00 +0530"
+    },
+    {
+      "title": "Dr Lal PathLabs Q2 net profit rises 27.5% to ₹194 cr on volume growth",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/dr-lal-pathlabs-q2-net-profit-rises-27-5-to-194-cr-on-volume-growth-126110401810_1.html",
+      "publishedAt": "Wed, 04 Nov 2026 19:43:37 +0530"
+    },
+    {
+      "title": "WPL 2027 Schedule Announced: Check Opening Match, Final Date, Venues And Timings",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/wpl-2027-schedule-announced-check-opening-match-final-date-venues-and-timings-12283489#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 19:43:28 +0530"
+    },
+    {
+      "title": "Q2 Results Live Updates: NHPC Profit Rises 52%, Kansai Nerolac Profit Up 9%, BSE Profit Down 7%,",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-4-bse-cummins-india-zydus-lifesciences-among-327-companies-to-announce-earnings-today-12280800#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 18:50:58 +0530"
+      "publishedAt": "Wed, 04 Nov 2026 19:42:42 +0530"
     },
     {
-      "title": "US Midterms: Musk Spent Over $200 Million In Texas. Here's What Happened To His Stocks",
+      "title": "Dow's 800-Point Whiplash Shows Sitting On Cash May Cost Investors Their Best Days. Here's Why",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/us-midterms-musk-spent-over-200-million-in-texas-heres-what-happened-to-his-stocks-12283131#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 18:49:08 +0530"
+      "link": "https://www.ndtvprofit.com/markets/dows-800-point-whiplash-shows-sitting-on-cash-may-cost-investors-their-best-days-heres-why-12283473#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 19:40:59 +0530"
     },
     {
-      "title": "Have More Than 2 Children? Supreme Court Questions Law Disqualifying Candidates From Elections",
+      "title": "NCERT adds personal finance, entrepreneurship chapters to Class 9 textbook",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/have-more-than-2-children-supreme-court-questions-law-disqualifying-candidates-from-elections-12282924#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 18:45:39 +0530"
+      "link": "https://www.business-standard.com/education/news/ncert-adds-personal-finance-entrepreneurship-chapters-to-class-9-textbook-126110401803_1.html",
+      "publishedAt": "Wed, 04 Nov 2026 19:38:09 +0530"
     },
     {
-      "title": "Nykaa Q2 net profit nearly triples to ₹101 crore, revenue rises 28%",
+      "title": "Dabur elevates Herjit Bhalla to board as Mohit Malhotra steps down as CEO",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/nykaa-q2-net-profit-nearly-triples-to-101-crore-revenue-rises-28-126110401615_1.html",
-      "publishedAt": "Wed, 04 Nov 2026 18:45:03 +0530"
-    },
-    {
-      "title": "Foreign Airlines Back Destination-Based Shift Of 14 International Routes From Mumbai To Navi Mumbai",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/foreign-airlines-back-destination-based-shift-of-14-international-routes-from-mumbai-to-navi-mumbai-12283007#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 18:44:47 +0530"
-    },
-    {
-      "title": "Gold shines as dollar slips to 5-week low, investors await U.S. midterm election results",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/gold-shines-as-dollar-slips-to-5-week-low-investors-await-us-midterm-election-results/article71665738.ece",
-      "publishedAt": "Wed, 04 Nov 2026 18:42:57 +0530"
-    },
-    {
-      "title": "Sebi eases digital KYC rules for NRIs, foreign nationals from December 3",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/sebi-eases-digital-kyc-rules-for-nris-foreign-nationals-from-december-3-126110401461_1.html",
-      "publishedAt": "Wed, 04 Nov 2026 18:42:41 +0530"
-    },
-    {
-      "title": "US Stock Market Live Updates: US stock futures rebound as investors assess Democrats' midterm sweep",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amd-nvidia-tesla-amazon-meta-ai-stocks-us-midterm-election-results-democrat-win-treasury-yield-news-4th-november-2026/liveblog/135540466.cms",
-      "publishedAt": "Wed, 04 Nov 2026 18:42:18 +0530"
-    },
-    {
-      "title": "Tamil Nadu Chief Minister Vijay felicitates top performing Class 10 and 12 students in Chennai",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/tamil-nadu-chief-minister-vijay-felicitates-top-performing-class-10-and-12-students-in-chennai-12283011#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 18:38:43 +0530"
+      "link": "https://www.business-standard.com/companies/people/dabur-elevates-herjit-bhalla-to-board-as-mohit-malhotra-steps-down-as-ceo-126110401773_1.html",
+      "publishedAt": "Wed, 04 Nov 2026 19:29:41 +0530"
     },
     {
       "title": "Stock Market Highlights| Closing Bell: Sensex settles 384 points higher, Nifty above 23,900; BEL, Titan gain 4% each - The Economic Times",
