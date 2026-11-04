@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty gain for fifth straight session as US election results and easing crude prices boost sentiment",
+  "headline": "Sensex and Nifty extend winning streak to five sessions as US midterm results and easing crude boost sentiment",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,18 +7,42 @@
     "nextOpen": ""
   },
   "why": [
-    "US midterm election results indicating a Democratic sweep boosted global and domestic market sentiment.",
-    "Brent crude prices dropped below $100 per barrel, easing inflationary concerns for India.",
-    "India secured $400 billion in investment commitments for renewable energy projects.",
-    "Strong domestic performance led to the Sensex and Nifty extending their winning streak to five sessions."
+    "US midterm election results showing a Democratic sweep fueled global market rallies and a surge in renewable energy sentiment.",
+    "Brent crude oil prices fell below $100 for the first time in two months, easing inflationary concerns.",
+    "India secured $400-billion in investment commitments for the renewable energy sector.",
+    "Positive domestic momentum led the Sensex and Nifty to extend their winning streak to five consecutive sessions."
   ],
   "whatHappening": [
-    "The Sensex jumped 384 points, while the Nifty 50 settled above the key 23,900 mark.",
-    "The RBI is setting up a Financial Markets Committee to handle critical policy and operational matters.",
-    "The Centre allocated ₹2,814 crore for the processing of critical minerals like lithium and nickel.",
-    "Shares of BEL and Titan gained 4% as the broader market maintained its upward momentum."
+    "The Sensex gained 384 points while the Nifty 50 settled above the 23,900 mark.",
+    "The RBI announced the formation of a Financial Markets Committee to focus on critical policy and operational matters.",
+    "The Indian government earmarked ₹2,814 crore to boost domestic lithium and nickel processing capabilities.",
+    "State Bank of India is moving to report Reliance Communications and Anil Ambani as wilful defaulters."
   ],
   "stocksInNews": [
+    {
+      "symbol": "CHALET",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "RCOM",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        9
+      ]
+    },
     {
       "symbol": "BEL",
       "sentiment": "Positive",
@@ -36,21 +60,21 @@
       ]
     }
   ],
-  "summary": "Indian markets extended their winning streak to five sessions, with the Nifty closing above 23,900 amid positive global cues from US midterm elections. Falling crude oil prices and significant investment commitments in the renewable energy sector further boosted investor confidence. BEL and Titan were among the top gainers, each rising by 4% during the day's trade.",
-  "updatedAt": "2026-11-04T17:01:45.000Z",
+  "summary": "Indian markets extended their winning streak to five sessions, with the Nifty closing above 23,900 amid positive global cues from US midterm elections. Easing crude oil prices and significant investment commitments in renewables further bolstered investor confidence. Key gainers included BEL and Titan, while SBI initiated default reporting against RCom.",
+  "updatedAt": "2026-11-04T18:02:33.826Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-04",
   "articleKeys": [
+    "wall street rallies after democrats win congress data center stocks slide",
     "india secures 400bn investment commitments in renewables almm review in 15 days",
     "ai data center stocks dip renewables surge after democrat sweep in us midterm elections",
     "ill attend wedding earn the money when srk refused payment after his film flopped",
     "rbi to set up financial markets committee to focus on critical policy and operational matters",
     "brent falls below 100 first time in 2 months as democratic win fuels deescalation hopes",
+    "chalet hotels q2 net profit rises 40 to 216 crore revenue falls 32",
     "centre earmarks 2814 crore to boost lithium nickel processing",
     "india thrash south korea 81 to enter asian champions trophy final for record 7th time",
-    "mercedesbenz group ag to scale up technology components sourcing from india launches electric glc starting 785 lakh",
-    "taking on microsofts github why openai is buying a startup whose tech already powers codex",
-    "indias 10 most polluted cities today rewari tops list with aqi of 622 karnal follows at 607",
+    "sbi to report rcom anil ambani as wilful defaulters to credit bureaus",
     "us midterm election results impact decoded can sensex nifty hit new peak gold silver rates rebound with trump loss livemint",
     "stock market today sensex gains 384 points nifty above 23900 multibagg ai",
     "stock market today will sensex nifty continue its rally or open lower india today",
@@ -63,6 +87,12 @@
     "stock market today gift nifty to us midterm elections five key factors that may drive sensex nifty 50 on november 4 ndtv profit"
   ],
   "articles": [
+    {
+      "title": "Wall Street rallies after Democrats win Congress, data center stocks slide",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/world-news/wall-street-rallies-after-democrats-win-congress-data-center-stocks-slide-126110402050_1.html",
+      "publishedAt": "Wed, 04 Nov 2026 22:09:34 +0530"
+    },
     {
       "title": "India secures $400-bn investment commitments in renewables; ALMM review in 15 days",
       "source": "Zerodha Pulse",
@@ -94,6 +124,12 @@
       "publishedAt": "Wed, 04 Nov 2026 21:48:28 +0530"
     },
     {
+      "title": "Chalet Hotels Q2 net profit rises 40% to ₹216 crore, revenue falls 32%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/chalet-hotels-q2-net-profit-rises-40-to-216-crore-revenue-falls-32-126110402005_1.html",
+      "publishedAt": "Wed, 04 Nov 2026 21:43:52 +0530"
+    },
+    {
       "title": "Centre earmarks ₹2,814 crore to boost lithium, nickel processing",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece",
@@ -106,22 +142,10 @@
       "publishedAt": "Wed, 04 Nov 2026 21:40:41 +0530"
     },
     {
-      "title": "Mercedes-Benz Group AG to scale up technology, components sourcing from India; launches electric GLC starting ₹78.5 lakh",
+      "title": "SBI to report RCom, Anil Ambani as wilful defaulters to credit bureaus",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/mercedes-benz-group-ag-to-scale-up-technology-components-sourcing-from-india-launches-electric-glc-starting-785-lakh/article71666883.ece",
-      "publishedAt": "Wed, 04 Nov 2026 21:34:04 +0530"
-    },
-    {
-      "title": "Taking On Microsoft’s GitHub? Why OpenAI Is Buying A Startup Whose Tech Already Powers Codex",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/taking-on-microsoft-s-github-why-openai-is-buying-a-startup-whose-tech-already-powers-codex-12283759#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 21:26:21 +0530"
-    },
-    {
-      "title": "India's 10 Most Polluted Cities Today: Rewari Tops List With AQI Of 622, Karnal Follows At 607",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/indias-10-most-polluted-cities-today-rewari-tops-list-with-aqi-of-622-karnal-follows-at-607-12284010#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 21:21:39 +0530"
+      "link": "https://www.business-standard.com/companies/news/sbi-to-report-rcom-anil-ambani-as-wilful-defaulters-to-credit-bureaus-126110401998_1.html",
+      "publishedAt": "Wed, 04 Nov 2026 21:36:39 +0530"
     },
     {
       "title": "US Midterm Election Results Impact Decoded: Can Sensex, Nifty hit new peak? Gold, silver rates rebound with Trump loss - Livemint",
