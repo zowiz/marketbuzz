@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty trade higher driven by foreign fund inflows, easing crude oil prices, and US midterm election outcomes.",
+  "headline": "Sensex and Nifty rise as BEL, Titan, and Adani Enterprises lead gains amid positive services sector data",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,165 +7,237 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign portfolio investors (FPIs/FIIs) returned with inflows, lifting market sentiment.",
-    "Easing crude oil prices provided relief to equity markets.",
-    "Investors evaluated global cues and the outcome of the US midterm elections.",
-    "Buying in selected heavyweights helped Sensex and Nifty move higher in early and mid-day trade."
+    "India's services sector activity hit a four-month high in October, signaling improved business conditions.",
+    "Strong quarterly earnings from companies like Dr Lal PathLabs and Niva Bupa boosted investor confidence.",
+    "Easing US Treasury yields and positive global cues following the US midterm elections provided market support.",
+    "Softening crude oil prices and steady foreign fund flows contributed to the domestic market's upward momentum."
   ],
   "whatHappening": [
-    "Sensex rose by over 250 points, while Nifty reclaimed the 23,900 mark.",
-    "Alembic Pharma hit its 20% upper circuit during trading.",
-    "IndiGo entered discussions with Embraer to acquire 100 aircraft.",
-    "Zydus Lifesciences reported a 26.6% decline in Q2 net profit to ₹925.5 crore."
+    "The Sensex closed 384 points higher while the Nifty 50 settled above the 23,900 mark.",
+    "Shares of BEL and Titan surged by 4% each, emerging as the top performers of the day.",
+    "IT stocks including TCS and Infosys declined as investors reacted to the US midterm election results.",
+    "Grasim's subsidiary Aditya Birla Renewables signed an agreement with Suzlon for wind turbine supply."
   ],
   "stocksInNews": [
     {
-      "symbol": "APLLTD",
+      "symbol": "BEL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/9 sources",
       "articleIds": [
-        2
+        10,
+        14
       ]
     },
     {
-      "symbol": "THOMASCOOK",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "TITAN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/9 sources",
       "articleIds": [
-        3
+        10,
+        14
       ]
     },
     {
-      "symbol": "INDIGO",
+      "symbol": "ADANIENT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        14
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        2,
+        11
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        2,
+        11
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         5
       ]
     },
     {
-      "symbol": "ZYDUSLIFE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "symbol": "SUZLON",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        7
+        5
       ]
     },
     {
-      "symbol": "SBIN",
+      "symbol": "LALPATHLAB",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        19
+        8
       ]
     },
     {
-      "symbol": "ITC",
+      "symbol": "ALLCARGO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        19
+        9
+      ]
+    },
+    {
+      "symbol": "NIVABUPA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        4
       ]
     }
   ],
-  "summary": "Indian benchmark indices moved higher supported by returning foreign inflows and lower crude oil prices. Alembic Pharma locked in a 20% upper circuit, while IndiGo made headlines regarding potential jet acquisitions. Conversely, Zydus Lifesciences faced pressure following a drop in its second-quarter net profit.",
-  "updatedAt": "2026-11-04T10:31:26.386Z",
+  "summary": "The Indian stock market closed higher on November 4, 2026, with the Nifty 50 ending above 23,900 and the Sensex gaining 384 points. Gains were led by BEL, Titan, and Adani Enterprises, supported by strong services sector data and positive corporate earnings. However, IT majors TCS and Infosys faced selling pressure following the US midterm election results.",
+  "updatedAt": "2026-11-04T11:31:57.285Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-04",
   "articleKeys": [
-    "bmw q3 profit falls 15 as china competition weighs",
-    "govt to give twoyear extension of tenure for agniveers cds gen subramani",
-    "stock market live sensex up 300 pts nifty reclaims 23900 alembic pharma hits 20 upper circuit",
-    "sterling holidays demerger may be completed by july 2027 thomas cook",
-    "india sees some trade relief new risks after us midterm elections",
-    "indigo in talks with brazilian planemaker embraer to buy 100 jets",
-    "12 bse 500 stocks defy market trend rally up to 65 in 3 months",
-    "zydus lifesciences q2 results net profit falls 266 to 9255 crore",
-    "over 50 returns in one year auto parts makers stock jumps 10 after 68 surge in q2 profit",
-    "silver prices jump over 4 to reclaim 51oz as democrats secure us midterm victory whats happening",
-    "sensex nifty open higher fpis soft crude support sentiment hdfc sky",
+    "lenskart q2 results profit zooms 122 yoy to rs 227 crore revenue grows 36",
+    "services sector activity hits 4month high in october as business conditions improve cautiously",
+    "global ai stocks fell on us midterm verdict so why did tcs and infosys fall too",
+    "iran exempts india china iraq and qatar from hormuz restrictions whats behind the move",
+    "q2 results live updates lenskart profit jumps multifold niva bupa profit surges 124",
+    "grasim arm aditya birla renewables signs mou with suzlon for wind turbines",
+    "eurozone bond yields steady as investors await inflation data us treasury yields ease after midterm elections",
+    "lenskart q2 results profit more than doubles and overseas business is the surprise star",
+    "dr lal pathlabs posts higher quarterly profit on strong diagnostic test demand",
+    "allcargo logistics q2 results co posts rs 19 crore profit revenue rises 34",
+    "stock market highlights closing bell sensex settles 384 points higher nifty above 23900 bel titan gain 4 each the economic times",
+    "closing bell sensex gains 384 pts nifty above 23950 media index up 5 it down 2 moneycontrolcom",
     "stock market outlook today 4 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market close sensex rises for 4th day up 1225 pts nifty at 23811 fmcg top sectoral gainer business standard",
+    "stock market highlights sensex rallies 383 points nifty ends above 23900 adani ent bel titan lead gains ndtv profit",
+    "closing bell nifty above 23800 sensex jumps 1225 pts auto fmcg private banks rally moneycontrolcom",
+    "stock market outlook today 3 nov sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint",
+    "sensex nifty open higher fpis soft crude support sentiment hdfc sky",
     "the hindubusinessline businessline",
-    "indian stocks inch higher as investors assess foreign fund flows us election results reuters",
-    "stock markets today sensex nifty gain as fiis return oil prices ease rediff",
-    "stock markets rally in early trade on foreign fund inflows easing crude oil prices deccan herald",
-    "sensex gains 253 points nifty 50 rises 82 points as markets trade in narrow range dalal street investment journal",
-    "what will trump losing us midterm elections mean for sensex nifty explained the times of india",
-    "stock market today gift nifty to us midterm elections five key factors that may drive sensex nifty 50 on november 4 ndtv profit",
-    "stock market today sensex nifty cautious after rally sbi itc gain businessline"
+    "indian stocks inch higher as investors assess foreign fund flows us election results reuters"
   ],
   "articles": [
     {
-      "title": "BMW Q3 profit falls 15% as China competition weighs",
+      "title": "Lenskart Q2 Results: Profit zooms 122% YoY to Rs 227 crore; revenue grows 36%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bmw-q3-profit-falls-15-as-china-competition-weighs/articleshow/135534091.cms",
-      "publishedAt": "Wed, 04 Nov 2026 15:08:13 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lenskart-q2-results-profit-zooms-122-yoy-to-rs-227-crore-revenue-grows-36/articleshow/135535400.cms",
+      "publishedAt": "Wed, 04 Nov 2026 16:00:33 +0530"
     },
     {
-      "title": "Govt to give two-year extension of tenure for Agniveers: CDS Gen Subramani",
+      "title": "Services sector activity hits 4-month high in October as business conditions improve cautiously",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/external-affairs-defence-security/news/govt-to-give-two-year-extension-of-tenure-for-agniveers-cds-subramani-126110400981_1.html",
-      "publishedAt": "Wed, 04 Nov 2026 15:06:37 +0530"
+      "link": "https://www.thehindu.com/business/Economy/services-sector-activity-hits-4-month-high-in-october-as-business-conditions-improve-cautiously/article71665069.ece",
+      "publishedAt": "Wed, 04 Nov 2026 15:57:37 +0530"
     },
     {
-      "title": "Stock Market LIVE: Sensex up 300 pts, Nifty reclaims 23,900; Alembic Pharma hits 20% upper circuit",
+      "title": "Global AI Stocks Fell On US Midterm Verdict. So Why Did TCS And Infosys Fall Too?",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html",
-      "publishedAt": "Wed, 04 Nov 2026 15:00:37 +0530"
+      "link": "https://www.ndtvprofit.com/markets/global-ai-stocks-fell-on-us-midterm-verdict-so-why-did-tcs-and-infosys-fall-too-12282046#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 15:55:23 +0530"
     },
     {
-      "title": "Sterling Holidays demerger may be completed by July 2027: Thomas Cook",
+      "title": "Iran Exempts India, China, Iraq And Qatar From Hormuz Restrictions: What's Behind The Move?",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/thomas-cook-india-sterling-holidays-demerger-july-2027-mice-travel-demand-126110400993_1.html",
-      "publishedAt": "Wed, 04 Nov 2026 14:51:06 +0530"
+      "link": "https://www.ndtvprofit.com/world/iran-exempts-india-china-iraq-and-qatar-from-hormuz-restrictions-whats-behind-the-move-12282048#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 15:54:21 +0530"
     },
     {
-      "title": "India sees some trade relief, new risks after US midterm elections",
+      "title": "Q2 Results Live Updates: Lenskart Profit Jumps Multifold, Niva Bupa Profit Surges 124%",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/india-sees-some-trade-relief-new-risks-after-us-midterm-elections-126110400980_1.html",
-      "publishedAt": "Wed, 04 Nov 2026 14:49:41 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-4-bse-cummins-india-zydus-lifesciences-among-327-companies-to-announce-earnings-today-12280800#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 15:54:19 +0530"
     },
     {
-      "title": "IndiGo in talks with Brazilian planemaker Embraer to buy 100 jets",
+      "title": "Grasim Arm Aditya Birla Renewables Signs MoU With Suzlon For Wind Turbines",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/indigo-in-talks-with-brazilian-planemaker-embraer-to-buy-100-jets-126110400960_1.html",
-      "publishedAt": "Wed, 04 Nov 2026 14:49:26 +0530"
+      "link": "https://www.ndtvprofit.com/business/grasim-arm-aditya-birla-renewables-signs-mou-with-suzlon-for-wind-turbines-12282068#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 15:53:11 +0530"
     },
     {
-      "title": "12 BSE 500 stocks defy market trend, rally up to 65% in 3 months",
+      "title": "Eurozone bond yields steady as investors await inflation data; US Treasury yields ease after midterm elections",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-bse-500-stocks-defy-market-trend-rally-up-to-65-in-3-months/slideshow/135533709.cms",
-      "publishedAt": "Wed, 04 Nov 2026 14:48:07 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-steady-as-investors-await-inflation-data-us-treasury-yields-ease-after-midterm-elections/articleshow/135535574.cms",
+      "publishedAt": "Wed, 04 Nov 2026 15:51:16 +0530"
     },
     {
-      "title": "Zydus Lifesciences Q2 results: Net profit falls 26.6% to ₹925.5 crore",
+      "title": "Lenskart Q2 Results: Profit More Than Doubles, And Overseas Business Is the Surprise Star",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/zydus-lifesciences-q2-results-net-profit-falls-26-6-to-925-5-crore-126110400844_1.html",
-      "publishedAt": "Wed, 04 Nov 2026 14:25:29 +0530"
+      "link": "https://www.ndtvprofit.com/markets/lenskart-q2-results-profit-more-than-doubles-and-overseas-business-is-the-surprise-star-12282051#publisher=newsstand",
+      "publishedAt": "Wed, 04 Nov 2026 15:50:03 +0530"
     },
     {
-      "title": "Over 50% Returns In One Year: Auto Parts Maker's Stock Jumps 10% After 68% Surge In Q2 Profit",
+      "title": "Dr Lal PathLabs posts higher quarterly profit on strong diagnostic test demand",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/rolex-rings-q2-earnings-over-50-percent-returns-in-one-year-auto-parts-makers-stock-jumps-10-percent-after-68-percent-surge-profit-sensex-today-12281528#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 14:10:58 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-lal-pathlabs-posts-higher-quarterly-profit-on-strong-diagnostic-test-demand/articleshow/135535528.cms",
+      "publishedAt": "Wed, 04 Nov 2026 15:49:11 +0530"
     },
     {
-      "title": "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What’s happening?",
+      "title": "Allcargo Logistics Q2 Results: Co posts Rs 19 crore profit; revenue rises 3.4%",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
-      "publishedAt": "Wed, 04 Nov 2026 14:09:18 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/allcargo-logistics-q2-results-co-posts-rs-19-crore-profit-revenue-rises-3-4/articleshow/135535457.cms",
+      "publishedAt": "Wed, 04 Nov 2026 15:47:19 +0530"
     },
     {
-      "title": "Sensex, Nifty Open Higher; FPIs, Soft Crude Support Sentiment - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWV4bzBrLVRNbU1wQUpTOEhEaGxBVGhsNVdtWUZRV0FMZDZwQ3pvX3hSaXN3SUVSblctUUhZRGY0ci1XaTc2eXFTV2dZTHNXWERvaGVuVDM4SFpYdkJUY2VPOWUtTzhtM1BYb2pNRzlfVjZVWDI4dDMtWnBfVEx3N3ZzZWt6LUt5LXE2X2pXbXhxaHRkRE51eGRON21oM2d0UFI5LWoxUmU3SVFBQ2VQQkd2QkVJbUVUOG1FQTRoSjJUQk1ydTBIR1pFUDV3bDBmZy1NQVRmdnVMUEJyb3p0ZklpMzN5WFdBSUVwaQ?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 04:55:14 GMT"
+      "title": "Stock Market Highlights| Closing Bell: Sensex settles 384 points higher, Nifty above 23,900; BEL, Titan gain 4% each - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVlFXVUJiNzFKeEllc09sdkpEU3R1ZnVqbGRtakVIMEQ3RDBXOUZQcXZnVG9TQXJXUTRBQnhnSy1Jc1JoUXFsN3FjWWdRMk16RjV4WUFRUTljWE1JNWhtaHliazVfQkdCMUZQU2o2NHRXSDI2bnNMYkRKWHJjbFNSRkZpM0gybjRzOEY1aXl1X2NONU1pc2hNVDVvRTdPN0VBMkgtb1RLUkgxVTYwNGNCMTQweGUtUEJVNFFSX2JRclItczl6ZndPcldiX01GSlp2YzNuVjA2cnNzTDRFcGZUM1p2c0ZZWTNjcThMaHFWU2hld3VFek5ZbVI3d3RpaFAySXloejNOd0VvUdIBjwJBVV95cUxQbV9uQzJfMzVqTVdoYi1qTm4yM3FEMVpkb1BxaW91QVZsM2wzOUh2c3RKTXJiSzhPU2ZSaGJ4T1V6TFNBclBoYlBjaE9wSHRRSTJxejQ3OGYxVEZWNnBUdVJwdTZXTVV4aEFJX190S1VtbXZfdHhlWUhNdjBGZnJVU0YwdXNIMEotb3pzV0Y2cUR0TGdlSzNzTFUzM2RNckxzVWtubkw1Vnc2MUFfVnpHLWRiZGlKWkpZZE5DdEdYdl9rWTdQaWRLMFQzVWlBbnF0cGJHekItVVdJQmE0ZThmZXRRTy1McjI0M2lSSkIzMFhVTld2ZW9NZlZXWjQ3Ul9XbWJZM3BfamtXRkZ4VmM0?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 10:35:01 GMT"
+    },
+    {
+      "title": "Closing Bell: Sensex gains 384 pts, Nifty above 23,950; Media index up 5%, IT down 2% - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQd0dlLWdtNVFfTkhZSHdvdUJQSHdPc1R4OENOLWNicFkzQVJjSkprRFZycy05M05YSFhRNXdUTXNLNU5iQmxzMk9jWk93WjFueFVwR1JsY2k2ZWJFaWE4N3FwbUVvN0U1Z1R5cExWWUFoeXRVbnNMek9jQjJsV2ZWX3BUWmNnY0xCa045R3QyWl8tQVpONXIyWDAxUGQ1ejRUcGQ3ZGkxMWIzdEJ5M2pqVThiRGxVVE5tc0k5U09HVmpQaWZoWnMtTllsTkpyalJvZW15emhCSC1WU1Z3RGMyZDR4XzJqdGdnSzhKOUE2SEhQTHlOaGl3VV9abmhGVy1qaEluYks3WFgwU3piU3gzTTd6dlFxZTZscldXcENMbFB6NXfSAagCQVVfeXFMTThCeXpZS0tpekdqWEtscEh4dVRTTk12TDBBcUpkZ2NOU25iRGVkVEpyRjVTa0NJSFNRbEoxTThlOGhyZlUwWktjVDN3b0NQMXJUdkQ4b2IxMnpma1ZVYllUZDllcFZIZFpiMmRYZDlmX25kdnFLZERBVWgxeWFrcE9yTldwMFBFWGtSTTBoT3EwVGlwVF9rdE5GTjY2T0JtYVZmUnZMRGJlYl9mQmVZNEE0Y3gtU3FrYjVseFVVd3Jsa3hJbEJIalgtNUxwMlJOZEUwc3FCODJLM2Vub0lySWdmeU8yYVZrMkRPLUkxYWZDM0tBMDlzSXM2WDhxTTlhRm9maDd4ZWt2T1BFVndLM1dFRXVQeXdXdVVmLTlnRmNpNzk1UWUybUM?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 10:38:43 GMT"
     },
     {
       "title": "Stock market outlook today, 4 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbUYtYjlXR0pBZWpOdHl6XzhCUEduUTY5YkVEdDg2YTRSVEZLNG9mLVJxVE5KZElmaEd3LVFhUWN6RThTUnpYUmVkSGRQWlp3bHZJYkxocS1aSC0yUnZKWGZTUVNhZFJ0bnhaVkVqV29JN1dvT2ctd3g3NTdJZzVTUlQ2alpqSU1JR3JOOUdfNUQ1LVhjeVNYeU1yVmtCRnZmWG85RUVrQk44dGhOWFk0TVJxOEVIRDN1Qmo1OExha1cxNElacVpNQmwyWGV6emcwWEJ0RXhzcUJuWTFsTUlxNGxzRXRiWlp6NTR6b1VrNWY2LWRxQXMxLXJHT1RPS0xPWm1v0gGIAkFVX3lxTE9PZWgzdkZ1UHN3NVgxUUZENzZoQnpKNUdTTjdJLTJXVzc0SXh2alZlNm5VcTNuME1CVGJ6TU12N1R2dXNLNmNtaEY0Q2xMNFRGRWstM3pUOVRfYlFwVjdaam1xeWktall4RFRLUDg5NG5ibUcyc2U3TVN1Tm80RjF6TUtrZ2doRUk2czdMcjNIYV9HOWI4dm51aEdsdl8zcGlwZFEzdGowci1sNmRRaGhpajNQalNBWnRsSy1seVZ1NjVENEdlX05OQ2xvN3FnYmdUak9UVHVUS0tiWEJONFRvaFZMU3JzeEczRUJYajZmMmNLa2gzZHJzSUdmSXl1em1na0JKMGo0SA?oc=5",
       "publishedAt": "Wed, 04 Nov 2026 01:19:08 GMT"
+    },
+    {
+      "title": "Stock Market Close: Sensex rises for 4th day, up 1225 pts, Nifty at 23,811; FMCG top sectoral gainer - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUVFQb21LVzk0Mk5xMlNCN2JzdjJ5TkFLT0Z0VTNuUzh2UWNvVTNVVEhBTjFFY0RSVXNmNWRSWDdoRmFXT2ZqZ1Vhckc3OFVrQ1RJVHdrcDdRdk9zSmE5azJnazhtUWktb0RESk9MR1YtNDRWUmNXU194c2ZsMzBjbHoyY1BXbjZYTVhPaEJxM2dMU0MyckNESmg4cDBUVGE2YlZzN0xISkNlNWlobkdnV2xoLXZwY0wtbVlsQTZzdUtoelN0NW85MGtOY0xid2U2c3VZUHpMM2hlbkMyNng4ZjNiejBEQ2dkUlc0SnotSkZHcFRjZFRwcmxlNmVoS0NRaTVV0gGIAkFVX3lxTE1WTjhfb3pnOTJFT21DWk1vNkFxTmxYRFpKbFVleERXZDF4MWxuaFozeThvYkwzUlBVbFAyd0JvUkF4ckNYYWNZWFFvLV84am1FblhodjJBakJSdjZxS1BRRlhHdUVqcmphNVNFZXRHNHJnMm5iSTlkQlJ5ZlJpa0diNHlJUDZKZUh1LU84NHZKb2pmWHAydXNMb1h4WDJmRndURU5QOHcxRk1oNnh0MHRnUHpIaXQ5VEhTU0NUUEFyM1gtc09iS2RSR2RvRFRIZldfQUIzcUFwVV9KMDNadVh1anV6MnQ1a2JSTWU0ZElNc1I0SDA1Z3M2dVQ3eGcxLUdSanFJZVRNdg?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 10:19:14 GMT"
+    },
+    {
+      "title": "Stock Market Highlights: Sensex Rallies 383 Points, Nifty Ends Above 23,900; Adani Ent, BEL, Titan Lead Gains - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPaWw5ektYNnFmX3B6ZExKenk5dXFXNmJrYXNuUV9oQ20wR1RxV0VnOVgxU3ZrNUNDZy1UbFotMy1rRlFYSXIxeFZEbmNtYm8xakdnRjhuZWZMUmtNOFU4NW9nMnpBVU9TNEhONjlpTnF3ZUF2Y2M4WE5LRi1TWENhdnRlMDJseUxBdTVJTzZnRHdiZ0lSTzBoaHNTbTIyV19QcS01d01YOFo1U0NQWHdGQ18yM3RWZXpHUTJIaG1WamtmWHBLSHM3NzNzZEJBbUdQS2xBcXhMMmVic2pVWjUzekpZMUJmX2NMd2NZUGVlbFI3c1VaNVF1MGhCQ2h5OTJQbllwM1psVlhFVDTSAZMCQVVfeXFMTTdMTHZqa09sRkNJVWVwUzhPbk1OODdPUk9vb1hHZUZfLW5VX2pLSUdrNl9nX2xDcHFRTEdaYW50N3NhUHpWNlphZHVmS2kwNmpLa2xZMWNzcHd4Y0hUa1RiX05rclZOSHpEZ1dRbHlDOWl0UUhlUkItUklzNWNfNElyRW1rTHVEWWJvaXBSWmo0SFk4cjhtYkpCeUtpaWRHMnNoOXFUdlZrLUNQNk16T01pUV9ZUDRyNDFlZl9pS0ppZEtlRHBhZ3B3TDh6LS02ZHZVZ19YRW45Q2pSN0ZtdG9SZDVmNTZLZ3Q5d3dqWl9xOFdZMldDcDdLS1RZczJ1Y0d4TzA4b042WHpMa1FLbW41MDg?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 10:15:48 GMT"
+    },
+    {
+      "title": "Closing Bell: Nifty above 23,800, Sensex jumps 1,225 pts; auto, FMCG, private banks rally - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbzRCMjhSZXBWTUhleWh2Xy1oSktLWV9USTJEdGFoT182QS1CMnRWemFTUWVYNmh4N0hxZmxzQm45YVM5VFI3Ti1Zd1ZlZlRIekRhbWtrbHA2aUZVc0RzTXM1YURhVFRDZHQ1UXRBMGpDQkxwRDMyTU84bnlMOHJ1SXhIakMtckdYNlg3Q0VOV2pUaDJkNjl5WmNCQktkRHhBUGpqeGZNVzdfUVlPY3dZY2t4b3JCaU02SVpmX2E1U1BmRmtYdzc1OEpUejZtdjUtMlZjbEJaT1lNQ2EtWlFaQ0dwQnZMZkhiUkVLUHUwbk9ZallrQzVNenl6NE5KdDJ4amVMaHRYNkFmQXZrVkFiM0k0T0MtTldDQ3hkMGV0MFpOUGfSAagCQVVfeXFMTXc4M3c5YVowcXZLNm5xUGJ1Q0JVclpxeVlpZnA4TDVGbEJXZFFBT0FCRnNadTNtdXRUMVN5OGc2ZGlvYUFlYjMtQUI4bFJHQ1ZPQ0VrY1RXRTI1TExBa05VcGhWT3lQWXBRSVR5UGhLS3VLckxaS0cxZFZ3UFdOSHBrWF93Zk0zSHBmMmVER1ZCYlVQYWFoUVFkTkxrNENybEFUSWc5LXJNWi1YLVo0eGx6WjFDaGl2Nko2TEhKZ3pDTlNFcFAxWGFlandUWm5hSzZCZHliSzZSWXdLZ1ExbjgzVG1YT1EwYTJ4VGQydmloejJXYkdDbUphM3JxZFZ4MXZ1TEdmVjlnLS1VRm9ZcWI2WkRndjdHdUtyQWNhVnF4cFg5aU91RTU?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 10:45:58 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 3 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaDdMaDUzR01qLWVBZWlVWVhzMWYzeVV6c3JxY3JMOW9ZbUhEWDc0NldZbllmcHlXQW10MUpEVkhZZTNaUHhRWndfaVNfdk1uUmNmblRwcVNMbFoyQVo2R1QtenNabk1wV3dJS3BtbTZKQnhuR1IxaFVmdm9PUzBzVGp4aTNRU3JPQXNfNUNxaUtraG5CTEZWbzFjX2Q3dWlLR0NmXy1WNUdud0FteVp2SzFWNE9tY0wtMm92OXhtaC1qY3F3U0dIdjhMdlJUQS0wcmw4ZGVqcXNnWnpSY0tveDEyTl9kRUV5R3lSYWZ4VVBiWG9iNzFyV3YyRGpDVXQx0gGGAkFVX3lxTFBSbFFLcUpud2tGZ2VFV0lLcnFFQUQ4V3B6U1JocGtNNm5fOVZBR0J5bUZhVkNoVFZaaTcwbkVuS2pjdEx3U1EyVEFObUdlWU1vd2JaRDRqMm1DYWZzUHVObUhBMDBlelhoclhRbkxXU0lQc1B4WUM5M2xHcjU0bGVsZmlGN253S0J5bjlIOXJ3MGJ2ODdtMkh5M3lMbEFPUDMwVHVYcHVjWjRtaG9GZmlDRWt4SlVDQjFnaFJkZ09tX2JkZnhVeUFCeU1idzVlOWFUUUdfOUQ4M2JCNW9kemtXczlIdXZJU1RsQ3JZWUtlUkt2UGFISnNZcGdhdGxiNEUxNm5WZXc?oc=5",
+      "publishedAt": "Tue, 03 Nov 2026 01:14:54 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Open Higher; FPIs, Soft Crude Support Sentiment - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWV4bzBrLVRNbU1wQUpTOEhEaGxBVGhsNVdtWUZRV0FMZDZwQ3pvX3hSaXN3SUVSblctUUhZRGY0ci1XaTc2eXFTV2dZTHNXWERvaGVuVDM4SFpYdkJUY2VPOWUtTzhtM1BYb2pNRzlfVjZVWDI4dDMtWnBfVEx3N3ZzZWt6LUt5LXE2X2pXbXhxaHRkRE51eGRON21oM2d0UFI5LWoxUmU3SVFBQ2VQQkd2QkVJbUVUOG1FQTRoSjJUQk1ydTBIR1pFUDV3bDBmZy1NQVRmdnVMUEJyb3p0ZklpMzN5WFdBSUVwaQ?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 04:55:14 GMT"
     },
     {
       "title": "- The HinduBusinessLine - BusinessLine",
@@ -178,42 +250,6 @@
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0tFa0Z0bnRlSFU3NTdYOFVXaGdid3Fad1NTRnViRDBTUWg2Um1BQ21RVlNkSWdjR2Y1Z2VXdV9fWXdjY19GZkJDZ2F0ZFFvckRQY2V0eDRwVzZJMkJ5a29mbGlLZUQyQkFzX1VwVThZdEQtZEdiUVJMRzJxeGFXQUxmclZST2l1RzN6elNobi1IZC11a2N2cFJDZEdQNVo1MmgxWlFBaHA3VXlLWHc?oc=5",
       "publishedAt": "Wed, 04 Nov 2026 02:39:00 GMT"
-    },
-    {
-      "title": "Stock Markets Today: Sensex, Nifty Gain as FIIs Return, Oil Prices Ease - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOV1RuZHZNOUFzazJsRWdtX0ttLW02UnM4OUVPVnJKanZWUVdpeE9acHIzY2lwN2NpMnplck4tMklLVkt6Y2RUdzlxeWd5cDdvbndqMEttZlFNM1c0eV9VS1p3Ty1tZ1dFTGZnZWRXRS03eWQ1WEpDemV6VjZ3N0xCZ3YxRENuMnlRS2NLd2FSQzZ3elRUMEkzbVBxVDVFMklUSkVBUnZVSmtlMWJPU1YzRFdDdnpuak9BSEplR181WlM3SUdlU0N3bmZBYzLSAc8BQVVfeXFMT1ZxTXpOcDhLek9pLVR2QzJ4bjFMSHlBQ2FBWkZXMzQya0E3YzF2dWt4WDFGdVc3NmZ3MkRWYlNxT1U4Njc1enFuUXRILUxka1RZb0FoRnRQYTM1Q0trTEhuSEpEMkM4cmp4RmxuakdGT04wNTVpLU9qWEF5bEsxcGpKZUhxOE1Ua1FPeHpGSWlyWFdudHAwWURTNFRpZng0VmxVdEYxcFBUZHI5ZHdXb3hrc0xsdmhjcmIzaHY3ZlBTMENRMWI4MFVpeXBMUlJz?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 05:11:41 GMT"
-    },
-    {
-      "title": "Stock markets rally in early trade on foreign fund inflows, easing crude oil prices - Deccan Herald",
-      "source": "Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPLUsyY3p4QjBETGJlbEwwZFFLUURhZVdRX2VCd01UMWkwQWJ1N1lkYUJ4TjVjWUp3bFMweTFrRnRqMURLRmkzZlljNGIyZFNzajE2dkNTYUQ0d25UajlHOUh5dzBmaXdjS2x5MnljZS03aW80cW1MSEFtWVVCV1dfcXFVWjNWVF96SHR4S0JvSzItdFVwVnVfakZqdU9DV2FXRWp2akY1V21PcEZzZG5LMWNqVmZBNXp1Y0dwaGZ6S0M1ZjZWY2RxaUJEVExaVVc5WFE?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 04:35:37 GMT"
-    },
-    {
-      "title": "Sensex Gains 253 Points, Nifty 50 Rises 82 Points as Markets Trade in Narrow Range - Dalal Street Investment Journal",
-      "source": "Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0FGWVdiajlzZTRFTWVZMHhZbjN4UXMxb3NYSG5IODUxN1RPcjBCMlNKQUY4UFVyODhIWU16ZUg3MzRHb25JcWNVSDJxS2NYX3pRd2RDOUNoSzYtWkJqcFJIYmhCSHlrTF9hZnhDbm5jcm9jaEtXNVFxeDY3WV8xWTllRHFacWNnMVZxNmxJUHJ2RHdGellGdlFKanBvaUYtbk1rRWlQZTYxR0Nsc1BPOElLVEVjY0liWGk2NFBNbkZ6MVI1NzRxTXpR?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 09:03:49 GMT"
-    },
-    {
-      "title": "What will Trump losing US midterm elections mean for Sensex, Nifty? Explained - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY0s1X3owX3I1VUZTR3JNejJaUjRqazNZeEFlNDhPcTdSR3hGLUxXVnh4QXhILXhYaTU1eHlDdlV4czhlTnhJZzNrMVlWc3BIa1BHOGNUcEYyWnRVTGlXbktDcS1zQU52d3ZLcG9VNGNiYXRKVUZURTAxOU43N1Z0b29HZUN2LUpva2xrVkpGQ29FRVNFQ2dWSHFuMXM1LUo2U192aGdMckxKZGc5aHZlSVpFRnk0cmpGU2R0OGlSbDV1b2ZNV18yd3dOandmUzM1RzJuYXdTTEpGeGZXTU5DaTNCSXdGdm9nbkhPcDNJd1c1S3fSAfgBQVVfeXFMTi1URjRQRzNOQXlfTk1kODZEd0kyN0R5TDl1VlYzNlJhWFNILXdLa19NdldzRW82M1RDcEZSWWkzSnloZUJOWV9uNGh1d29rU1g0a0szTVpwc0ZOamd6MUE3UXh2bHRQMlM2RDNjUU9aOXFZUEExT0JJamhsRVNUYWljTGk0TmJRdGFQVHFZQjNYWjZaRHotZDB4VVFMNXR1Zmlub2FEbTJHRWkwS3NjTFBBcllaY0NvdHZUV3QzRVFEWkdsd2JXVkZnSzlZaGNNQlFPVHVoUy1aN1ZTMUtQZnFWc3FZMXNsUE5ueXdLanRxWFp0RUhkVVg?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 05:27:00 GMT"
-    },
-    {
-      "title": "Stock Market Today: Gift Nifty To US Midterm Elections; Five Key Factors That May Drive Sensex, Nifty 50 On November 4 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNelc1azdKTVlpZU5aRDh1cVlZaEE4akhjUXNycU50VWxtZlNNTGViM25XOWR3T1dsSFZLYVEzclF3UEtRZVBjaVNQdVJZS01rUlk4QldBVTJ3UHVubVV4Wm5EUjBWRm9VVVVrbFdSejJWNENraFVlSXUySHpDWmx1a1hCNmQyUkYyS2Rzc0FvT0JBUGtQdkE0ZXc0OUtsXzNUZDgtOFRralJiRTNzYTFWSnNjZm1JdDNOTkxiTGlvbHJmOGNKRE9PcFRHZzhXQzdiUmdqZlhJd3J2eE9sMXFfNXNWcnE2dUZFdHc3X1dhVUjSAfgBQVVfeXFMTTJPa3Nud3ZEdXQzYXk2RWk1Y3RZeDJWRWJfQ1F2T1RmeV9XZFhKbm5IV1E0Q2dsOUQ1Qy1neEpvQ3FUZTVtU2J6N29tTTdGaUNweHpoRHM3MlRQbDdieE82cV9zdzE4MTVKRURrSjM5ZUd5aXdjQlNKV0NqYXc2X3F0OUNJNVdqOFZIMmtiODYwdlhXQTlUZUZWeHFwTWZ5bm95Z2RjWFM3T2U4NkVOamtXeEhOMzZveVplOU5KMDRhSlY0VTdiVTV5TnluemdrU0l1cnZoc3FZYWotVXJPWlkzX0ZkRDFDQk5XOVR6cjYxdktzQ05EcFI?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 01:31:57 GMT"
-    },
-    {
-      "title": "Stock market today: Sensex, Nifty cautious after rally; SBI, ITC gain - BusinessLine",
-      "source": "BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTzFfOWxiMnNyTndtVFM5cDl2d1BwZWdmczNTS1NyaHJlVHBNem1VeHFuVXdqY0hKa29HcS02VWotVGpIdXoybUdjVURpVEw1aFNWc3BOTVlUS1hfT0J6dGNKYXZlaXF0OEJzOHpQalozbVZjLVBxZVlla0E5QVI2Z21FTW1uZkFKRFdwNFkwNU5oNHBTT3ZkNExfQ0x6MzdyRC1kU1Mxa2xrblhBbDhOVUNLejFpZTNQTGpBaEJfdC0xYmFmbVNpd0FWbV9NMWVuZEpUc3NORzdQdkVMX0tLZWRLUlU0T2NFcWs0ZWdua2HSAfcBQVVfeXFMTVh4SFp5TGN2WWQxRHhSYjZJclpkQjZJNnFpbGFsMGxBZDBYSjVBZjlYWXVXZ2Z6UVlaRWYyeUxCQzdTWlgtR1ZLMGlWb2Rzdl9qZ1BteTk5anNmZ2xtbDVhWERZNXg5b3hYT2NPRENOaWg4d0R1MjRWRGg1ZGlYTFQwUEFqcDRHU0lweXpmQUY4d0JKdlNUNjRZeGh4dXd6Nm9Ibmd5TG9sSTBpNDFnbWxELS1FQmFmWFRncDgzMzg3U04xaFlwM1pRVnhKcjJuU2RFalZkZ1BNYjkzMUxZdHJuRzdVR2pHX1dQTTlvQWVmWWM4LUpmVQ?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 04:00:44 GMT"
     }
   ]
 }
