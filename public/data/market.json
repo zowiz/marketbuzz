@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty rise as BEL, Titan, and Adani Enterprises lead gains amid positive services sector data",
+  "headline": "Sensex gains 384 points while Nifty closes above 23,900, supported by strong earnings and services sector growth",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,25 +7,41 @@
     "nextOpen": ""
   },
   "why": [
-    "India's services sector activity hit a four-month high in October, signaling improved business conditions.",
-    "Strong quarterly earnings from companies like Dr Lal PathLabs and Niva Bupa boosted investor confidence.",
-    "Easing US Treasury yields and positive global cues following the US midterm elections provided market support.",
-    "Softening crude oil prices and steady foreign fund flows contributed to the domestic market's upward momentum."
+    "Sensex and Nifty closed higher following positive momentum and strong corporate earnings",
+    "Services sector activity hit a four-month high in October as business conditions improved",
+    "Strong Q2 financial results from major companies like Nykaa and Sundaram Finance boosted investor confidence",
+    "Supportive global cues and a strengthening Indian rupee against the US dollar aided the rally"
   ],
   "whatHappening": [
-    "The Sensex closed 384 points higher while the Nifty 50 settled above the 23,900 mark.",
-    "Shares of BEL and Titan surged by 4% each, emerging as the top performers of the day.",
-    "IT stocks including TCS and Infosys declined as investors reacted to the US midterm election results.",
-    "Grasim's subsidiary Aditya Birla Renewables signed an agreement with Suzlon for wind turbine supply."
+    "Nykaa reported a massive 207% YoY increase in net profit and announced an 82% stake acquisition in Simply Nam",
+    "BEL and Titan emerged as top gainers in the market, with both stocks rising by 4%",
+    "The media index outperformed other sectors with a 5% gain, while the IT index saw a 2% decline",
+    "Sundaram Finance saw its Q2 net profit grow by 21% with disbursements increasing by 28%"
   ],
   "stocksInNews": [
+    {
+      "symbol": "NYKAA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "SUNDARMFIN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
     {
       "symbol": "BEL",
       "sentiment": "Positive",
       "sources": "Mentioned by 2/9 sources",
       "articleIds": [
-        10,
-        14
+        9,
+        13
       ]
     },
     {
@@ -33,8 +49,8 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 2/9 sources",
       "articleIds": [
-        10,
-        14
+        9,
+        13
       ]
     },
     {
@@ -42,83 +58,48 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        14
+        13
       ]
     },
     {
-      "symbol": "TCS",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
-      "articleIds": [
-        2,
-        11
-      ]
-    },
-    {
-      "symbol": "INFY",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
-      "articleIds": [
-        2,
-        11
-      ]
-    },
-    {
-      "symbol": "GRASIM",
+      "symbol": "MINDACORP",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        1
       ]
     },
     {
-      "symbol": "SUZLON",
+      "symbol": "RKFORGE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        1
       ]
     },
     {
-      "symbol": "LALPATHLAB",
+      "symbol": "SUNDRMFAST",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "ALLCARGO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "NIVABUPA",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        4
+        1
       ]
     }
   ],
-  "summary": "The Indian stock market closed higher on November 4, 2026, with the Nifty 50 ending above 23,900 and the Sensex gaining 384 points. Gains were led by BEL, Titan, and Adani Enterprises, supported by strong services sector data and positive corporate earnings. However, IT majors TCS and Infosys faced selling pressure following the US midterm election results.",
-  "updatedAt": "2026-11-04T11:31:57.285Z",
+  "summary": "Indian markets extended their rally as the Sensex gained 384 points and Nifty settled above the 23,900 mark. The surge was driven by robust Q2 earnings from Nykaa and Sundaram Finance, alongside positive services sector PMI data. While BEL and Titan led the gains, the media sector saw a significant jump despite some pressure in IT stocks.",
+  "updatedAt": "2026-11-04T12:01:56.728Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-04",
   "articleKeys": [
+    "nykaa q2 results pat soars 207 yoy to rs 101 crore revenue up 28 co to acquire 82 stake in simply nam",
+    "auto sales growth to cool postfestive season says monarch bets on minda corp rk forgings and sundram fasteners",
+    "sundaram finances q2 pat up 21 to 475 cr disbursements grow 28",
+    "rupee gains 17 paise to settle at 9458 against us dollar",
+    "european shares rise as banks clean energy stocks rally novo nordisk jumps",
+    "bitcoin near 78600 ethereum at 2300 as us midterm results put crypto regulation in focus",
+    "ai bubble is coming and there is no way out ashwath damodaran explains what investors should do before the crash begins",
     "lenskart q2 results profit zooms 122 yoy to rs 227 crore revenue grows 36",
     "services sector activity hits 4month high in october as business conditions improve cautiously",
-    "global ai stocks fell on us midterm verdict so why did tcs and infosys fall too",
-    "iran exempts india china iraq and qatar from hormuz restrictions whats behind the move",
-    "q2 results live updates lenskart profit jumps multifold niva bupa profit surges 124",
-    "grasim arm aditya birla renewables signs mou with suzlon for wind turbines",
-    "eurozone bond yields steady as investors await inflation data us treasury yields ease after midterm elections",
-    "lenskart q2 results profit more than doubles and overseas business is the surprise star",
-    "dr lal pathlabs posts higher quarterly profit on strong diagnostic test demand",
-    "allcargo logistics q2 results co posts rs 19 crore profit revenue rises 34",
     "stock market highlights closing bell sensex settles 384 points higher nifty above 23900 bel titan gain 4 each the economic times",
     "closing bell sensex gains 384 pts nifty above 23950 media index up 5 it down 2 moneycontrolcom",
     "stock market outlook today 4 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
@@ -128,9 +109,51 @@
     "stock market outlook today 3 nov sensex nifty prediction djia sp nasdaq gift nifty kospi taiwan cues livemint",
     "sensex nifty open higher fpis soft crude support sentiment hdfc sky",
     "the hindubusinessline businessline",
-    "indian stocks inch higher as investors assess foreign fund flows us election results reuters"
+    "stock market today sensex gains 384 points nifty above 23900 multibagg ai"
   ],
   "articles": [
+    {
+      "title": "Nykaa Q2 Results: PAT soars 207% YoY to Rs 101 crore, revenue up 28%; co to acquire 82% stake in Simply Nam",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nykaa-q2-results-pat-soars-207-yoy-to-rs-101-crore-revenue-up-28-co-to-acquire-82-stake-in-simply-nam/articleshow/135537436.cms",
+      "publishedAt": "Wed, 04 Nov 2026 16:51:24 +0530"
+    },
+    {
+      "title": "Auto sales growth to cool post-festive season, says Monarch; bets on Minda Corp, RK Forgings and Sundram Fasteners",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/auto-sales-growth-to-cool-post-festive-season-says-monarch-bets-on-minda-corp-rk-forgings-and-sundram-fasteners/articleshow/135537265.cms",
+      "publishedAt": "Wed, 04 Nov 2026 16:42:26 +0530"
+    },
+    {
+      "title": "Sundaram Finance’s Q2 PAT up 21% to ₹475 cr.; disbursements grow 28%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/sundaram-finances-q2-pat-up-21-to-475-cr-disbursements-grow-28/article71665175.ece",
+      "publishedAt": "Wed, 04 Nov 2026 16:34:14 +0530"
+    },
+    {
+      "title": "Rupee gains 17 paise to settle at 94.58 against U.S. dollar",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/rupee-gains-17-paise-to-settle-at-9458-against-us-dollar/article71665235.ece",
+      "publishedAt": "Wed, 04 Nov 2026 16:26:57 +0530"
+    },
+    {
+      "title": "European shares rise as banks, clean energy stocks rally; Novo Nordisk jumps",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-rise-as-banks-clean-energy-stocks-rally-novo-nordisk-jumps/articleshow/135536424.cms",
+      "publishedAt": "Wed, 04 Nov 2026 16:17:07 +0530"
+    },
+    {
+      "title": "Bitcoin near $78,600, Ethereum at $2,300 as US midterm results put crypto regulation in focus",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-78600-ethereum-at-2300-as-us-midterm-results-put-crypto-regulation-in-focus/articleshow/135536095.cms",
+      "publishedAt": "Wed, 04 Nov 2026 16:10:21 +0530"
+    },
+    {
+      "title": "AI bubble is coming, and there is no way out! Ashwath Damodaran explains what investors should do before the crash begins",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-is-coming-and-there-is-no-way-out-ashwath-damodaran-explains-what-investors-should-do-before-the-crash-begins/articleshow/135535989.cms",
+      "publishedAt": "Wed, 04 Nov 2026 16:03:37 +0530"
+    },
     {
       "title": "Lenskart Q2 Results: Profit zooms 122% YoY to Rs 227 crore; revenue grows 36%",
       "source": "Zerodha Pulse",
@@ -142,54 +165,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Economy/services-sector-activity-hits-4-month-high-in-october-as-business-conditions-improve-cautiously/article71665069.ece",
       "publishedAt": "Wed, 04 Nov 2026 15:57:37 +0530"
-    },
-    {
-      "title": "Global AI Stocks Fell On US Midterm Verdict. So Why Did TCS And Infosys Fall Too?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/global-ai-stocks-fell-on-us-midterm-verdict-so-why-did-tcs-and-infosys-fall-too-12282046#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 15:55:23 +0530"
-    },
-    {
-      "title": "Iran Exempts India, China, Iraq And Qatar From Hormuz Restrictions: What's Behind The Move?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/iran-exempts-india-china-iraq-and-qatar-from-hormuz-restrictions-whats-behind-the-move-12282048#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 15:54:21 +0530"
-    },
-    {
-      "title": "Q2 Results Live Updates: Lenskart Profit Jumps Multifold, Niva Bupa Profit Surges 124%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-4-bse-cummins-india-zydus-lifesciences-among-327-companies-to-announce-earnings-today-12280800#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 15:54:19 +0530"
-    },
-    {
-      "title": "Grasim Arm Aditya Birla Renewables Signs MoU With Suzlon For Wind Turbines",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/grasim-arm-aditya-birla-renewables-signs-mou-with-suzlon-for-wind-turbines-12282068#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 15:53:11 +0530"
-    },
-    {
-      "title": "Eurozone bond yields steady as investors await inflation data; US Treasury yields ease after midterm elections",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-steady-as-investors-await-inflation-data-us-treasury-yields-ease-after-midterm-elections/articleshow/135535574.cms",
-      "publishedAt": "Wed, 04 Nov 2026 15:51:16 +0530"
-    },
-    {
-      "title": "Lenskart Q2 Results: Profit More Than Doubles, And Overseas Business Is the Surprise Star",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/lenskart-q2-results-profit-more-than-doubles-and-overseas-business-is-the-surprise-star-12282051#publisher=newsstand",
-      "publishedAt": "Wed, 04 Nov 2026 15:50:03 +0530"
-    },
-    {
-      "title": "Dr Lal PathLabs posts higher quarterly profit on strong diagnostic test demand",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-lal-pathlabs-posts-higher-quarterly-profit-on-strong-diagnostic-test-demand/articleshow/135535528.cms",
-      "publishedAt": "Wed, 04 Nov 2026 15:49:11 +0530"
-    },
-    {
-      "title": "Allcargo Logistics Q2 Results: Co posts Rs 19 crore profit; revenue rises 3.4%",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/allcargo-logistics-q2-results-co-posts-rs-19-crore-profit-revenue-rises-3-4/articleshow/135535457.cms",
-      "publishedAt": "Wed, 04 Nov 2026 15:47:19 +0530"
     },
     {
       "title": "Stock Market Highlights| Closing Bell: Sensex settles 384 points higher, Nifty above 23,900; BEL, Titan gain 4% each - The Economic Times",
@@ -246,10 +221,10 @@
       "publishedAt": "Wed, 04 Nov 2026 01:30:34 GMT"
     },
     {
-      "title": "Indian stocks inch higher as investors assess foreign fund flows, US election results - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0tFa0Z0bnRlSFU3NTdYOFVXaGdid3Fad1NTRnViRDBTUWg2Um1BQ21RVlNkSWdjR2Y1Z2VXdV9fWXdjY19GZkJDZ2F0ZFFvckRQY2V0eDRwVzZJMkJ5a29mbGlLZUQyQkFzX1VwVThZdEQtZEdiUVJMRzJxeGFXQUxmclZST2l1RzN6elNobi1IZC11a2N2cFJDZEdQNVo1MmgxWlFBaHA3VXlLWHc?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 02:39:00 GMT"
+      "title": "Stock Market Today: Sensex gains 384 points, Nifty above 23,900 - Multibagg AI",
+      "source": "Multibagg AI",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmtXd0llUnlQMjBtcDVyTDRmM0I2MjdCQU92VnBlQU5RTVU2NzVMM1k4eDhhVEhmMVI5dGt3WjlHQlFTOUNuUlZnY0l1emN2aWM1LTZlZ1I4X1hlQjRlbDBIMU43WTNmM1hxLWJCNmZGTlVxa2M5d1A2bmF6b280ZU52X3o1SHR5TjhoZnBnb0J4UTZ1aTB4RmxpU0FGRWljcDhhdW95aWY?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 11:02:20 GMT"
     }
   ]
 }
