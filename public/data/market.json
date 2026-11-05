@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges over 2,000 points as Nifty tops 24,500; Airtel, ONGC, and Adani Ports in focus",
+  "headline": "Sensex surges over 2,000 points as Nifty reclaims 24,500 level led by auto and financial stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Plummeting crude oil prices boosted investor sentiment",
-    "Strong foreign capital flows into Indian equities",
-    "Positive global cues and declining US yields",
-    "Financial and auto sectors led a broad-based market rally"
+    "Plummeting crude oil prices provided a major boost to Indian equity markets.",
+    "Strong foreign inflows supported the market's biggest single-day gains in seven months.",
+    "Auto and banking sectors led the rally with gains up to 4%.",
+    "Positive global market cues added to investor confidence across domestic benchmarks."
   ],
   "whatHappening": [
-    "Sensex and Nifty recorded their biggest single-day gains in seven months",
-    "Nifty 50 ended the session above the 24,500 mark after a 2,000-point Sensex surge",
-    "Adani Ports announced a €2.56 billion deal to acquire Dutch operator Evos",
-    "Major firms including Airtel, ONGC, and Britannia reported strong Q2 profit growth"
+    "BSE Sensex soared by 2,009 points while NSE Nifty 50 comfortably crossed the 24,500 mark.",
+    "Adani Ports announced the acquisition of Dutch terminal operator Evos for €2.56 billion.",
+    "Bharti Airtel reported a 31% jump in Q2 net profit to ₹8,887 crore.",
+    "Britannia Industries recorded a 10.8% rise in Q2 net profit to ₹726 crore."
   ],
   "stocksInNews": [
     {
@@ -32,8 +32,8 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        4,
-        9
+        5,
+        6
       ]
     },
     {
@@ -41,20 +41,45 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        5
+        6,
+        8
+      ]
+    },
+    {
+      "symbol": "LICI",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        6
       ]
     },
     {
       "symbol": "ONGC",
-      "sentiment": "Positive",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        7
+        6
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "GLENMARK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        6
       ]
     }
   ],
-  "summary": "Indian markets witnessed a massive rally with the Sensex surging over 2,000 points, driven by falling oil prices and strong corporate earnings. Airtel and ONGC reported double-digit profit growth, while Adani Ports announced a major €2.56 billion international acquisition. Financial and auto stocks led the broad-based gains as Nifty crossed the 24,500 mark.",
-  "updatedAt": "2026-11-05T20:01:44.212Z",
+  "summary": "Indian benchmark indices staged a massive rally with Sensex surging over 2,000 points and Nifty topping 24,500.\nThe sharp jump was driven by falling crude oil prices, robust foreign institutional flows, and strong buying in financial and auto sectors.\nKey earnings reports from Bharti Airtel and Britannia alongside Adani Ports' major overseas acquisition kept corporate news flow active.",
+  "updatedAt": "2026-11-05T22:01:32.621Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-06",
   "articleKeys": [
@@ -62,12 +87,12 @@
     "the average us 30year mortgage rate falls to 718 this week its third straight decline",
     "us yields fall in choppy session as oil rises and equities sink",
     "adani ports to acquire dutch operator evos in 256 billion deal",
+    "cristiano ronaldo portugal retirement neymar vinicius pepe piers morgan lead tributes to cr7",
     "airtel q2 net profit jumped 31 to 8887 crore on premium user growth",
+    "stocks to watch today lic ongc britannia industries bharti airtel titan glenmark pharma more",
+    "amazon copied tiktok now tiktok is copying amazon with a brandnew shopping app",
     "britannia q2 net profit rises 108 to 726 crore on volume growth",
-    "bengaluru startup aina unveils ai ring to predict users next actions",
-    "ongc q2 profit up 57 as higher oil gas prices offset decline in output",
-    "mehli mistry contests removal from tata trusts counters governance claims",
-    "bharti airtel net profit rises 24 to 10710 crore in september quarter",
+    "magnitude 50 earthquake hits chinas xinjiang near ladakh border tremors felt in kashmir valley",
     "stock market today highlights bse sensex settles over 2000 points higher nse nifty50 ends session above 24500 the times of india",
     "stock market today highlights nov 5 sensex surges 2009 pts nifty tops 24500 financials and autos lead rally businessline",
     "sensex today nifty 50 stock market highlights diwali arrives early on dst as sensex soars 2009 pts nifty tops 24500 auto bank indices jump up to 4 the economic times",
@@ -105,10 +130,28 @@
       "publishedAt": "Fri, 06 Nov 2026 00:14:46 +0530"
     },
     {
+      "title": "Cristiano Ronaldo Portugal Retirement: Neymar, Vinicius, Pepe, Piers Morgan Lead Tributes To CR7",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/cristiano-ronaldo-portugal-retirement-neymar-vinicius-pepe-piers-morgan-lead-tributes-to-cr7-12289709#publisher=newsstand",
+      "publishedAt": "Fri, 06 Nov 2026 00:11:34 +0530"
+    },
+    {
       "title": "Airtel Q2 net profit jumped 31% to ₹8,887 crore on premium user growth",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/companies/quarterly-results/bharti-airtel-q2-net-profit-rises-24-to-10-710-cr-revenue-grows-16-7-126110501297_1.html",
       "publishedAt": "Fri, 06 Nov 2026 00:07:47 +0530"
+    },
+    {
+      "title": "Stocks To Watch Today:  LIC, ONGC, Britannia Industries, Bharti Airtel, Titan, Glenmark Pharma & More",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-ongc-britannia-industries-bharti-airtel-titan-glenmark-pharma-more-12289752#publisher=newsstand",
+      "publishedAt": "Fri, 06 Nov 2026 00:00:01 +0530"
+    },
+    {
+      "title": "Amazon Copied TikTok. Now TikTok Is Copying Amazon With A Brand-New Shopping App",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/amazon-copied-tiktok-now-tiktok-is-copying-amazon-with-a-brand-new-shopping-app-12289770#publisher=newsstand",
+      "publishedAt": "Thu, 05 Nov 2026 23:50:38 +0530"
     },
     {
       "title": "Britannia Q2 net profit rises 10.8% to ₹726 crore on volume growth",
@@ -117,28 +160,10 @@
       "publishedAt": "Thu, 05 Nov 2026 23:49:07 +0530"
     },
     {
-      "title": "Bengaluru startup Aina unveils AI ring to predict users' next actions",
+      "title": "Magnitude 5.0 Earthquake Hits China's Xinjiang Near Ladakh Border, Tremors Felt In Kashmir Valley",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/start-ups/bengaluru-startup-aina-unveils-ai-ring-to-predict-users-next-actions-126110502214_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 23:43:24 +0530"
-    },
-    {
-      "title": "ONGC Q2 profit up 57% as higher oil, gas prices offset decline in output",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/ongc-net-profit-jumps-57-to-15-488-64-crore-on-higher-oil-gas-prices-126110501661_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 23:41:33 +0530"
-    },
-    {
-      "title": "Mehli Mistry contests removal from Tata Trusts, counters governance claims",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/mehli-mistry-contests-removal-from-tata-trusts-counters-governance-claims-126110502208_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 23:33:44 +0530"
-    },
-    {
-      "title": "Bharti Airtel net profit rises 24% to ₹10,710 crore in September quarter",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
-      "publishedAt": "Thu, 05 Nov 2026 23:04:50 +0530"
+      "link": "https://www.ndtvprofit.com/india/magnitude-5-0-earthquake-hits-chinas-xinjiang-near-ladakh-border-tremors-felt-in-kashmir-valley-12289735#publisher=newsstand",
+      "publishedAt": "Thu, 05 Nov 2026 23:48:23 +0530"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
