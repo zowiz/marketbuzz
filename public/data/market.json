@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges 2,009 points and Nifty tops 24,500 as falling oil prices and foreign flows trigger massive market rally.",
+  "headline": "Sensex surges over 2,000 points as Nifty tops 24,500; Airtel, ONGC, and Adani Ports in focus",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,59 +7,67 @@
     "nextOpen": ""
   },
   "why": [
-    "Significant decline in global crude oil prices benefiting the Indian economy",
-    "Strong inflows from foreign institutional investors into Indian equities",
-    "Positive global market sentiment and strong cues from international indices",
-    "Robust performance and buying interest in the financial and automobile sectors"
+    "Plummeting crude oil prices boosted investor sentiment",
+    "Strong foreign capital flows into Indian equities",
+    "Positive global cues and declining US yields",
+    "Financial and auto sectors led a broad-based market rally"
   ],
   "whatHappening": [
-    "Sensex settled over 2,000 points higher, marking its biggest single-day gain in seven months",
-    "Bharti Airtel's net profit rose 24% to ₹10,710 crore in the September quarter",
-    "Paras Healthcare reported a ₹40 crore net profit in its first results since listing",
-    "The Mines Ministry launched the ninth round of auctions for 20 critical mineral blocks"
+    "Sensex and Nifty recorded their biggest single-day gains in seven months",
+    "Nifty 50 ended the session above the 24,500 mark after a 2,000-point Sensex surge",
+    "Adani Ports announced a €2.56 billion deal to acquire Dutch operator Evos",
+    "Major firms including Airtel, ONGC, and Britannia reported strong Q2 profit growth"
   ],
   "stocksInNews": [
+    {
+      "symbol": "ADANIPORTS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        3
+      ]
+    },
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        0
+        4,
+        9
       ]
     },
     {
-      "symbol": "TITAN",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        1,
-        7
-      ]
-    },
-    {
-      "symbol": "PARAS",
+      "symbol": "BRITANNIA",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         5
       ]
+    },
+    {
+      "symbol": "ONGC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        7
+      ]
     }
   ],
-  "summary": "Indian markets recorded their biggest gains in seven months, with the Sensex soaring over 2,000 points driven by plummeting oil prices and foreign flows.\nBharti Airtel and Paras Healthcare reported strong quarterly earnings growth in their latest financial results.\nMeanwhile, the government initiated auctions for 20 critical mineral blocks to boost the mining sector.",
-  "updatedAt": "2026-11-05T18:55:48.959Z",
+  "summary": "Indian markets witnessed a massive rally with the Sensex surging over 2,000 points, driven by falling oil prices and strong corporate earnings. Airtel and ONGC reported double-digit profit growth, while Adani Ports announced a major €2.56 billion international acquisition. Financial and auto stocks led the broad-based gains as Nifty crossed the 24,500 mark.",
+  "updatedAt": "2026-11-05T20:01:44.212Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-06",
   "articleKeys": [
+    "jp morgan to add philippines and saudi arabia to key em bond index over 10 months",
+    "the average us 30year mortgage rate falls to 718 this week its third straight decline",
+    "us yields fall in choppy session as oil rises and equities sink",
+    "adani ports to acquire dutch operator evos in 256 billion deal",
+    "airtel q2 net profit jumped 31 to 8887 crore on premium user growth",
+    "britannia q2 net profit rises 108 to 726 crore on volume growth",
+    "bengaluru startup aina unveils ai ring to predict users next actions",
+    "ongc q2 profit up 57 as higher oil gas prices offset decline in output",
+    "mehli mistry contests removal from tata trusts counters governance claims",
     "bharti airtel net profit rises 24 to 10710 crore in september quarter",
-    "mehli mistry questions noel tatas citizenship tax residency status",
-    "openai formalises future us datacentre safeguards pledges union engagement environmental disclosures",
-    "mines ministry launches ninth round of auctions offers 20 critical mineral blocks",
-    "ninth tranche of mineral block auctions offers 20 blocks",
-    "paras healthcare posts rs 40 crore q2 net profit in first results after listing",
-    "cbg blending at 17 in h1 pipeline connectivity key to achieving 3 target",
-    "noel tata to retire as titan company vicechairman on november 12",
-    "repeat gold borrowing rises among lowrisk customers repayment stress persists cibil",
-    "lg electronics india enters automotive solutions market q2 profit up 26",
     "stock market today highlights bse sensex settles over 2000 points higher nse nifty50 ends session above 24500 the times of india",
     "stock market today highlights nov 5 sensex surges 2009 pts nifty tops 24500 financials and autos lead rally businessline",
     "sensex today nifty 50 stock market highlights diwali arrives early on dst as sensex soars 2009 pts nifty tops 24500 auto bank indices jump up to 4 the economic times",
@@ -73,64 +81,64 @@
   ],
   "articles": [
     {
+      "title": "JP Morgan to add Philippines and Saudi Arabia to key EM bond index over 10 months",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jp-morgan-to-add-philippines-and-saudi-arabia-to-key-em-bond-index-over-10-months/articleshow/135585489.cms",
+      "publishedAt": "Fri, 06 Nov 2026 00:56:01 +0530"
+    },
+    {
+      "title": "The average US 30-year mortgage rate falls to 7.18% this week, its third straight decline",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-average-us-30-year-mortgage-rate-falls-to-7-18-this-week-its-third-straight-decline-/articleshow/135585420.cms",
+      "publishedAt": "Fri, 06 Nov 2026 00:54:21 +0530"
+    },
+    {
+      "title": "US yields fall in choppy session as oil rises and equities sink",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-fall-in-choppy-session-as-oil-rises-and-equities-sink/articleshow/135585328.cms",
+      "publishedAt": "Fri, 06 Nov 2026 00:49:17 +0530"
+    },
+    {
+      "title": "Adani Ports to acquire Dutch operator Evos in €2.56 billion deal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-dutch-operator-evos-in-1-18-billion-deal-126110501810_1.html",
+      "publishedAt": "Fri, 06 Nov 2026 00:14:46 +0530"
+    },
+    {
+      "title": "Airtel Q2 net profit jumped 31% to ₹8,887 crore on premium user growth",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/bharti-airtel-q2-net-profit-rises-24-to-10-710-cr-revenue-grows-16-7-126110501297_1.html",
+      "publishedAt": "Fri, 06 Nov 2026 00:07:47 +0530"
+    },
+    {
+      "title": "Britannia Q2 net profit rises 10.8% to ₹726 crore on volume growth",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/britannia-q2-net-profit-rises-10-8-to-726-crore-on-volume-growth-126110501905_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 23:49:07 +0530"
+    },
+    {
+      "title": "Bengaluru startup Aina unveils AI ring to predict users' next actions",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/start-ups/bengaluru-startup-aina-unveils-ai-ring-to-predict-users-next-actions-126110502214_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 23:43:24 +0530"
+    },
+    {
+      "title": "ONGC Q2 profit up 57% as higher oil, gas prices offset decline in output",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/ongc-net-profit-jumps-57-to-15-488-64-crore-on-higher-oil-gas-prices-126110501661_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 23:41:33 +0530"
+    },
+    {
+      "title": "Mehli Mistry contests removal from Tata Trusts, counters governance claims",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/mehli-mistry-contests-removal-from-tata-trusts-counters-governance-claims-126110502208_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 23:33:44 +0530"
+    },
+    {
       "title": "Bharti Airtel net profit rises 24% to ₹10,710 crore in September quarter",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
       "publishedAt": "Thu, 05 Nov 2026 23:04:50 +0530"
-    },
-    {
-      "title": "Mehli Mistry questions Noel Tata’s citizenship, tax residency status",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
-      "publishedAt": "Thu, 05 Nov 2026 22:56:09 +0530"
-    },
-    {
-      "title": "OpenAI formalises future U.S. data-centre safeguards; pledges union engagement, environmental disclosures",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
-      "publishedAt": "Thu, 05 Nov 2026 22:33:55 +0530"
-    },
-    {
-      "title": "Mines Ministry launches ninth round of auctions, offers 20 critical mineral blocks",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece",
-      "publishedAt": "Thu, 05 Nov 2026 22:14:35 +0530"
-    },
-    {
-      "title": "Ninth tranche of mineral block auctions offers 20 blocks",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/national/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece",
-      "publishedAt": "Thu, 05 Nov 2026 22:06:39 +0530"
-    },
-    {
-      "title": "Paras Healthcare posts Rs 40 crore Q2 net profit in first results after listing",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/paras-healthcare-posts-rs-40-crore-q2-net-profit-in-first-results-after-listing/articleshow/135580435.cms",
-      "publishedAt": "Thu, 05 Nov 2026 22:02:07 +0530"
-    },
-    {
-      "title": "CBG blending at 1.7% in H1; pipeline connectivity key to achieving 3% target",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
-      "publishedAt": "Thu, 05 Nov 2026 21:54:03 +0530"
-    },
-    {
-      "title": "Noel Tata to retire as Titan Company vice-chairman on November 12",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/noel-tata-to-retire-as-titan-company-vice-chairman-on-november-12-126110501943_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 21:24:42 +0530"
-    },
-    {
-      "title": "Repeat gold borrowing rises among low-risk customers, repayment stress persists: CIBIL",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
-      "publishedAt": "Thu, 05 Nov 2026 21:22:49 +0530"
-    },
-    {
-      "title": "LG Electronics India enters automotive solutions market; Q2 profit up 26%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/lg-electronics-india-enters-automotive-solutions-market-q2-profit-up-26-126110501938_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 21:16:39 +0530"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
