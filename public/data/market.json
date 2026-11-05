@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges 2,009 points, Nifty tops 24,500 as oil prices slide and financials lead a massive market rally",
+  "headline": "Sensex Surges 2,009 Points as Nifty Tops 24,500 Amid Falling Oil Prices and Strong Foreign Inflows",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -8,57 +8,57 @@
   },
   "why": [
     "Sharp decline in global crude oil prices",
-    "Strong positive cues from global markets",
-    "Significant surge in foreign capital flows",
-    "Robust performance in banking, financial, and automobile sectors"
+    "Strong inflows from foreign institutional investors",
+    "Positive cues from global markets and strong US market performance",
+    "Significant rally in financial and automobile sectoral indices"
   ],
   "whatHappening": [
-    "Sensex and Nifty 50 recorded their biggest single-day gains in seven months",
-    "National Aluminium Company is progressing with a massive ₹30,000 crore expansion project",
-    "Noel Tata announced his retirement from the vice-chairmanship of Titan Company effective November 12",
-    "Godfrey Phillips reported a significant 37% decline in quarterly profit despite doubling its revenue"
+    "BSE Sensex surged 2,009 points to settle above 24,500",
+    "Bharti Airtel reported a 24% rise in September quarter net profit to ₹10,710 crore",
+    "Titan Company vice-chairman Noel Tata is set to retire on November 12",
+    "Mines Ministry launched auctions for 20 critical mineral blocks in its ninth tranche"
   ],
   "stocksInNews": [
+    {
+      "symbol": "BHARTIARTL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        0
+      ]
+    },
     {
       "symbol": "TITAN",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        2
+        7
       ]
     },
     {
-      "symbol": "GODFRYPHLP",
-      "sentiment": "Negative",
+      "symbol": "PARAS",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         5
       ]
-    },
-    {
-      "symbol": "NATIONALUM",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        6
-      ]
     }
   ],
-  "summary": "The Indian stock market witnessed a massive rally with the Sensex surging over 2,009 points and Nifty crossing 24,500. Gains were driven by a sharp decline in crude oil prices, strong foreign inflows, and robust performance in banking and auto sectors. Key corporate developments included Nalco's expansion plans and leadership changes at Titan Company.",
-  "updatedAt": "2026-11-05T17:05:16.092Z",
+  "summary": "Indian benchmark indices recorded their biggest single-day gain in seven months, with the Sensex soaring over 2,009 points and Nifty closing above 24,500. The rally was underpinned by falling crude oil prices, robust foreign investor interest, and strong global market sentiment. In corporate news, Bharti Airtel posted strong quarterly earnings, while Titan announced a key leadership transition.",
+  "updatedAt": "2026-11-05T18:04:43.283Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-05",
   "articleKeys": [
+    "bharti airtel net profit rises 24 to 10710 crore in september quarter",
+    "mehli mistry questions noel tatas citizenship tax residency status",
+    "openai formalises future us datacentre safeguards pledges union engagement environmental disclosures",
+    "mines ministry launches ninth round of auctions offers 20 critical mineral blocks",
     "ninth tranche of mineral block auctions offers 20 blocks",
+    "paras healthcare posts rs 40 crore q2 net profit in first results after listing",
     "cbg blending at 17 in h1 pipeline connectivity key to achieving 3 target",
     "noel tata to retire as titan company vicechairman on november 12",
     "repeat gold borrowing rises among lowrisk customers repayment stress persists cibil",
     "lg electronics india enters automotive solutions market q2 profit up 26",
-    "godfrey phillips q2 profit down 37 to rs 190 cr revenue up twofold at rs 4198 cr",
-    "nalcos 30000 cr brownfield aluminium smelter expansion gathers pace",
-    "10 smaller gulf carriers denied airport slots at mumbai",
-    "apple seeks about 7 billion from bond sale bloomberg news reports",
-    "qualcomm shares 9 slump as weak smartphone chip sales overshadow datacenter momentum",
     "stock market today highlights bse sensex settles over 2000 points higher nse nifty50 ends session above 24500 the times of india",
     "stock market today highlights nov 5 sensex surges 2009 pts nifty tops 24500 financials and autos lead rally businessline",
     "sensex today nifty 50 stock market highlights diwali arrives early on dst as sensex soars 2009 pts nifty tops 24500 auto bank indices jump up to 4 the economic times",
@@ -72,10 +72,40 @@
   ],
   "articles": [
     {
+      "title": "Bharti Airtel net profit rises 24% to ₹10,710 crore in September quarter",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/bharti-airtel-net-profit-rises-24-to-10710-crore-in-september-quarter/article71671454.ece",
+      "publishedAt": "Thu, 05 Nov 2026 23:04:50 +0530"
+    },
+    {
+      "title": "Mehli Mistry questions Noel Tata’s citizenship, tax residency status",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/mehli-mistry-questions-noel-tatas-citizenship-tax-residency-status/article71671413.ece",
+      "publishedAt": "Thu, 05 Nov 2026 22:56:09 +0530"
+    },
+    {
+      "title": "OpenAI formalises future U.S. data-centre safeguards; pledges union engagement, environmental disclosures",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/openai-formalises-future-us-data-centre-safeguards-pledges-union-engagement-environmental-disclosures/article71670304.ece",
+      "publishedAt": "Thu, 05 Nov 2026 22:33:55 +0530"
+    },
+    {
+      "title": "Mines Ministry launches ninth round of auctions, offers 20 critical mineral blocks",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece",
+      "publishedAt": "Thu, 05 Nov 2026 22:14:35 +0530"
+    },
+    {
       "title": "Ninth tranche of mineral block auctions offers 20 blocks",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/news/national/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece",
       "publishedAt": "Thu, 05 Nov 2026 22:06:39 +0530"
+    },
+    {
+      "title": "Paras Healthcare posts Rs 40 crore Q2 net profit in first results after listing",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/paras-healthcare-posts-rs-40-crore-q2-net-profit-in-first-results-after-listing/articleshow/135580435.cms",
+      "publishedAt": "Thu, 05 Nov 2026 22:02:07 +0530"
     },
     {
       "title": "CBG blending at 1.7% in H1; pipeline connectivity key to achieving 3% target",
@@ -100,36 +130,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/companies/quarterly-results/lg-electronics-india-enters-automotive-solutions-market-q2-profit-up-26-126110501938_1.html",
       "publishedAt": "Thu, 05 Nov 2026 21:16:39 +0530"
-    },
-    {
-      "title": "Godfrey Phillips Q2 profit down 37% to Rs 190 cr; revenue up twofold at Rs 4,198 cr",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/godfrey-phillips-q2-profit-down-37-to-rs-190-cr-revenue-up-twofold-at-rs-4198-cr/articleshow/135578939.cms",
-      "publishedAt": "Thu, 05 Nov 2026 21:09:02 +0530"
-    },
-    {
-      "title": "Nalco's ₹30,000 cr brownfield aluminium smelter expansion gathers pace",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/nalco-s-30-000-cr-brownfield-aluminium-smelter-expansion-gathers-pace-126110502015_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 21:08:53 +0530"
-    },
-    {
-      "title": "10 smaller Gulf carriers denied airport slots at Mumbai",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/10-smaller-gulf-carriers-denied-airport-slots-at-mumbai/article71670809.ece",
-      "publishedAt": "Thu, 05 Nov 2026 21:08:23 +0530"
-    },
-    {
-      "title": "Apple seeks about $7 billion from bond sale, Bloomberg News reports",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-seeks-about-7-billion-from-bond-sale-bloomberg-news-reports/articleshow/135578897.cms",
-      "publishedAt": "Thu, 05 Nov 2026 21:07:12 +0530"
-    },
-    {
-      "title": "Qualcomm shares 9% slump as weak smartphone chip sales overshadow data-center momentum",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-shares-9-slump-as-weak-smartphone-chip-sales-overshadow-data-center-momentum/articleshow/135578695.cms",
-      "publishedAt": "Thu, 05 Nov 2026 20:59:36 +0530"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
