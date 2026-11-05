@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges over 1,700 points as crude oil prices tumble and global cues boost sentiment",
+  "headline": "Sensex surges over 2,100 points intraday as Nifty reclaims 24,500 amid falling oil prices and global cues",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,73 @@
     "nextOpen": ""
   },
   "why": [
-    "Crude oil prices tumbled sharply by 9%, easing inflation and import cost concerns.",
-    "Strong global market cues fueled broad-based buying in Indian equities.",
-    "Rally led by strong momentum in auto, IT, and realty sector stocks.",
-    "Indian benchmark indices touched near three-month highs during the session."
+    "Crude oil prices sank following US political developments, easing inflation concerns for Indian markets.",
+    "Strong global market cues provided broad momentum across Asian and international benchmarks.",
+    "Substantial buying interest in auto and banking sectors lifted the benchmark indices.",
+    "Positive quarterly earnings announcements from major corporate heavyweights boosted investor confidence."
   ],
   "whatHappening": [
-    "BSE Sensex surged up to 2,000 points while NSE Nifty 50 crossed the 24,550 level.",
-    "Q2 earnings results are in focus for major firms including Bharti Airtel, Bharat Forge, and Berger Paints.",
-    "Motilal Oswal initiated coverage on Redington with a Buy rating and up to 36% upside potential.",
-    "Sitaram Denims India filed its preliminary IPO papers with SEBI."
+    "BSE Sensex jumped over 2,100 points intraday while NSE Nifty 50 surged past the 24,500 mark.",
+    "M&M reported a 13% rise in Q2 profit, surpassing market estimates despite margin pressure.",
+    "Sundaram Finance posted a 6% growth in Q2 net profit to ₹517 crore.",
+    "Motilal Oswal picked Titan, BSE, and Kotak Mahindra Bank among top bets for Samvat 2083."
   ],
   "stocksInNews": [
     {
-      "symbol": "REDINGTON",
+      "symbol": "BAJFINANCE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        8
+        1
+      ]
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "SUNDARMFIN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        6,
+        13
+      ]
+    },
+    {
+      "symbol": "BSE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        7
       ]
     },
     {
@@ -34,176 +83,112 @@
       "articleIds": [
         13
       ]
-    },
-    {
-      "symbol": "TITAN",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        13
-      ]
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "BERGEPAINT",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "BHARATFORG",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "ASTRAL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "EMAMILTD",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "FORTIS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "ABBOTINDIA",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
     }
   ],
-  "summary": "Indian equities witnessed a massive rally today, with the Sensex jumping over 1,700 points as crude oil prices plummeted 9%. Auto, IT, and realty stocks spearheaded the gains across the market. Meanwhile, investors tracked Q2 earnings announcements alongside stock-specific broker updates.",
-  "updatedAt": "2026-11-05T08:31:19.473Z",
+  "summary": "Indian benchmark indices staged a massive rally on November 5, 2026, with the Sensex surging over 2,100 points and Nifty reclaiming 24,500. The surge was powered by a slide in crude oil prices, strong global market cues, and robust momentum in auto and banking stocks. Top corporate earnings and Diwali stock recommendations further boosted market sentiment.",
+  "updatedAt": "2026-11-05T09:01:55.815Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-05",
   "articleKeys": [
-    "ed action in reliance anil ambani group cases explained",
-    "markets on spree after crude tumbles 9 following trumps midterm fallout",
-    "sitaram denims india files ipo papers with sebi",
-    "mumbais new luxury addresses why thane borivali and chembur are becoming homebuyer hotspots",
-    "delhi two dead many feared trapped as three storey building collapses in chawri bazaar",
-    "bought something on buy now pay later it could become a loan on your credit report",
-    "your debit card may have rs 2 lakh insurance does your family know about it",
-    "q2 results live updates lg electronics bharti airtel abbott india astral bharat forge berger paints emami fortis healthcare earnings in focus",
-    "redington gets motilal oswals buy initiation sees up to 36 upside check target price",
-    "silver to hit rs 200000 again soon prices jump rs 11200 in two days",
-    "stock market today live updates bse sensex jumps 1700 points nse nifty50 gains 2 the times of india",
-    "sensex today stock market live sensex surges 2000 pts nifty tops 24550 as auto it and realty stocks lead rally moneycontrolcom",
+    "fireworks on dst sensex zooms 2100 pts intraday key reasons behind rally",
+    "stock market live sensex surges 2100 pts nifty reclaims 24500 bajaj fin tata motors top gainers",
+    "tata sons chandrasekaran meets italian pm meloni after iveco acquisition",
+    "iit median salaries more than double in eight years eacpm study finds",
+    "india bonds climb in step with treasuries as oil sinks",
+    "sundaram finance q2fy27 results net profit rises 6 to 517 crore",
+    "diwali stock picks 2026 titan bse kotak mahindra bank among motilal oswals top 10 bets for samvat 2083",
+    "mm q2 results profit rises 13 tops estimates margin contracts amid higher commodity costs",
+    "demat account hacked rs 458 crore share sold to buy penny stocks mumbai police arrests woman",
+    "ramayana movie is outand so are the memes here are some funny ones",
+    "stock market today live updates bse sensex jumps 1800 points nse nifty50 gains 2 the times of india",
     "why indian stock market is rising today three key reasons behind 2 rally in nifty 50 sensex ndtv profit",
+    "closing bell sensex gains 384 pts nifty above 23950 media index up 5 it down 2 moneycontrolcom",
     "stock market highlights closing bell sensex settles 384 points higher nifty above 23900 bel titan gain 4 each the economic times",
     "stock market outlook today 5 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "closing bell sensex gains 384 pts nifty above 23950 media index up 5 it down 2 moneycontrolcom",
     "stock market outlook today 4 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "sensex today stock market live sensex surges over 1900 pts nifty tops 24500 auto jumps 35 banks rally over 3 moneycontrolcom",
     "indian benchmarks near threemonth highs as oil slides after us democratic win reuters",
     "why is sensex up 1700 points 3 reasons behind stock market rally today india today",
     "sensex surges 1268 points nifty tops 24300 on strong global cues hdfc sky"
   ],
   "articles": [
     {
-      "title": "ED action in Reliance Anil Ambani Group cases | Explained",
+      "title": "Fireworks on D-St! Sensex zooms 2100 pts intraday: Key reasons behind rally",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/national/ed-action-in-reliance-anil-ambani-group-cases-explained/article71668787.ece",
-      "publishedAt": "Thu, 05 Nov 2026 12:53:14 +0530"
+      "link": "https://www.business-standard.com/markets/news/sensex-zooms-1600-pts-intraday-india-m-cap-tops-500-trn-key-reasons-126110500454_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 14:00:51 +0530"
     },
     {
-      "title": "Markets on spree after crude tumbles 9% following Trump’s midterm fallout",
+      "title": "Stock Market LIVE: Sensex surges 2,100 pts, Nifty reclaims 24500; Bajaj Fin, Tata Motors top gainers",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/stock-markets-on-november-5-2026-sensex-and-nifty-oil-prices/article71668596.ece",
-      "publishedAt": "Thu, 05 Nov 2026 12:41:47 +0530"
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 13:52:48 +0530"
     },
     {
-      "title": "Sitaram Denims India files IPO papers with Sebi",
+      "title": "Tata Sons' Chandrasekaran meets Italian PM Meloni after Iveco acquisition",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sitaram-denims-india-files-ipo-papers-with-sebi/articleshow/135563144.cms",
-      "publishedAt": "Thu, 05 Nov 2026 12:32:00 +0530"
+      "link": "https://www.business-standard.com/companies/news/tata-sons-chandrasekaran-meets-italian-pm-meloni-after-iveco-acquisition-126110500906_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 13:47:17 +0530"
     },
     {
-      "title": "Mumbai's New Luxury Addresses: Why Thane, Borivali And Chembur Are Becoming Homebuyer Hotspots",
+      "title": "IIT median salaries more than double in eight years, EAC-PM study finds",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/mumbais-new-luxury-addresses-why-thane-borivali-and-chembur-becoming-homebuyer-hotspots-12286051#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 12:15:02 +0530"
+      "link": "https://www.business-standard.com/industry/news/iit-median-salaries-double-eight-years-eac-pm-study-placements-graduates-126110500924_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 13:44:06 +0530"
     },
     {
-      "title": "Delhi: Two Dead, Many Feared Trapped As Three Storey Building Collapses In Chawri Bazaar",
+      "title": "India bonds climb in step with Treasuries as oil sinks",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-poeple-dead-many-feared-trapped-as-three-storey-building-collapses-in-chawri-bazaar-12286116#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 12:13:15 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-climb-in-step-with-treasuries-as-oil-sinks/articleshow/135564784.cms",
+      "publishedAt": "Thu, 05 Nov 2026 13:32:52 +0530"
     },
     {
-      "title": "Bought Something On Buy Now, Pay Later? It Could Become A Loan On Your Credit Report",
+      "title": "Sundaram Finance Q2FY27 results: Net profit rises 6% to ₹517 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/bought-something-on-buy-now-pay-later-it-could-become-a-loan-on-your-credit-report-12285974#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 12:10:36 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/sundaram-finance-q2fy27-results-net-profit-rises-6-to-517-crore-126110500805_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 13:30:37 +0530"
     },
     {
-      "title": "Your Debit Card May Have Rs 2 Lakh Insurance. Does Your Family Know About It?",
+      "title": "Diwali Stock Picks 2026: Titan, BSE Kotak Mahindra Bank Among Motilal Oswal's Top 10 Bets For Samvat 2083",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/your-debit-card-may-have-rs-2-lakh-insurance-does-your-family-know-about-it-12285944#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 12:08:09 +0530"
+      "link": "https://www.ndtvprofit.com/markets/diwali-stock-picks-2026-titan-bse-kotak-mahindra-bank-among-motilal-oswals-adani-ports-unimech-aerospace-top-10-bets-for-samvat-2083-12286218#publisher=newsstand",
+      "publishedAt": "Thu, 05 Nov 2026 13:22:00 +0530"
     },
     {
-      "title": "Q2 Results Live Updates: LG Electronics, Bharti Airtel, Abbott India, Astral, Bharat Forge, Berger Paints, Emami, Fortis Healthcare Earnings In Focus",
+      "title": "M&M Q2 Results: Profit Rises 13%, Tops Estimates; Margin Contracts Amid Higher Commodity Costs",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-bharti-airtel-abbott-india-astral-bharat-forge-berger-paints-emami-fortis-healthcare-earnings-in-focus-12286081#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 12:07:38 +0530"
+      "link": "https://www.ndtvprofit.com/business/m-m-q2-results-profit-rises-13-tops-estimates-margin-contracts-12286370#publisher=newsstand",
+      "publishedAt": "Thu, 05 Nov 2026 13:19:23 +0530"
     },
     {
-      "title": "Redington Gets Motilal Oswal's 'Buy' Initiation, Sees Up To 36% Upside; Check Target Price",
+      "title": "Demat Account Hacked, Rs 4.58 Crore Share Sold To Buy Penny Stocks: Mumbai Police Arrests Woman",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/redington-gets-motilal-oswals-buy-initiation-sees-up-to-36-percent-check-target-price-12286033#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 12:03:26 +0530"
+      "link": "https://www.ndtvprofit.com/india/demat-account-hacked-rs-4-58-crore-share-sold-to-buy-penny-stocks-mumbai-police-arrests-woman-12286428#publisher=newsstand",
+      "publishedAt": "Thu, 05 Nov 2026 13:17:10 +0530"
     },
     {
-      "title": "Silver To Hit Rs 2,00,000 Again Soon? Prices Jump Rs 11,200 In Two Days",
+      "title": "Ramayana Movie Is OutAnd So Are The Memes: Here Are Some Funny Ones",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/silver-to-hit-rs-2-00-000-again-soon-prices-jump-rs-11-200-in-two-days-12286056#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 12:02:59 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/ramayana-movie-is-outand-so-are-the-memes-here-are-some-funny-ones-12286365#publisher=newsstand",
+      "publishedAt": "Thu, 05 Nov 2026 13:16:44 +0530"
     },
     {
-      "title": "Stock Market Today Live Updates: BSE Sensex jumps 1,700 points, NSE Nifty50 gains 2% - The Times of India",
+      "title": "Stock Market Today Live Updates: BSE Sensex jumps 1,800 points, NSE Nifty50 gains 2% - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOVjFwVnZsN3BnM0JaQ1hETkpobXRUVGpvZEVLLWo0MXJuTGJlc3VScVJIUWtUYXplWEx5cUZQTEJGQ3RZcFMtMkdyT2xZSjFGZU1jNTd4M0ljVk5FQWkxenVRZ1FwbXd2LWQxbkZUZ0JHRmUwOUpCRG0zOEhSUEtEUGgyOFNaVjZBVDhacEFvejk4ZEZnc1RBQmozWEEteU1SVnNBUE14Uk0xdG90OHRYSWFEWnZVOWdhNzI1YlZyQ180V1YzaFRQZUgzQnhKOFZpeS1CV01PaWw1TnR5NXlnVGc5V2pnMGhSS0M2aWRwdGhOa0hTTUp3VUFTWkVOb1FaeEdSZVd4ckVVUlBfR2pIZkxMVzdadnlvM1lUMHhqS0pCaE85OTFPRWJXMDNjUi1TT0hrbWF30gG7AkFVX3lxTFBERXo0el9VNEJqT1ZCdE9vYkF4OVkyX2VnbERXbHJIZFNrbFUwNlRFeDdmTDFHX3RyWWhpQnBRTzBrU3BXalJPTXg4aTV4Nnh2ZUlRTWRxTzJPdEtqTllQUm9zX2NwVVRiYlA5NHhXNXdTTWJKZWhJcFNWWFVXMFJXc0E0Zzlwak5xV2ZrWGo3NmZGWU84ZU12SGdTR0hMZ1VvNlBtVk9YcHRNWVVRWGJnN19nMDBwNkpvUFhIRnFlS0FJcVh1dXVLNk9WUXJiSmU4TXFkZ294MkFCdkdyNkpHc2hla3N1SzB5b3FZaDFCRkFBVEx6cmVuWTN5bEpiamlKcFJuQzk2dnF5UzVrX0NHTVJSYVdfY1hWeEZMV084MmpHUmZHYlUyeW1FUUxKTUZBc29JQ2t3MllhZw?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 07:33:53 GMT"
-    },
-    {
-      "title": "Sensex Today | Stock Market Live: Sensex surges 2,000 pts, Nifty tops 24,550 as auto, IT and realty stocks lead rally - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZWt3ekNSNDFBZDJSdUo1RDV2TFJudndjd0d3cE90WEl3S1AwM1ZMSWVmbmpReWEyblBkSFpPbklVc1F1MFVJVG40aEFUNVpDZGhpX28tVXNpYkFkdFFMckhqM0pXMEJrdks5V3g0SWNwY014cW5maGQwVWlsV1R5RGxGeHRERlNoTzlSMDU2TGZpSmtzbkM5VFRPYlZNWTdZYWVsRElkSWI2Wk1ORGxuNUFsU1g3dDRSUUJfQjhtTXYxNnRYdmlBQnFpYzRDbm02M3FTY180QjMtbmI0NVpCckQxcEkzc1U4UzM0XzFKSm9ycjI3SURCeFZvbmZOVHJDckpsc2pxeVlLbUVFRFgyUHJXdy1HVFVqQVJLMmxDakhpV2_SAagCQVVfeXFMT2VzRzR2Zlk1T1Fna2pKVVR5UGNFZkNTbXMwNmdxTFQ5X2V5bF8zNEprV1NrRWdVYlNuVy0tWWxnamFudld4WkZhRVlhWldSaHdQSFpUeUFGc1JmN3BxV2ZZUXhpdHpyVEhQM2NlOU9QRjBCNjF0Q2ZCVkh6Y2xHSDIzbUtwMjNYMG43ZDVSOS1CaWFXY0U2a2syUENvci1PU1R1VjNwZXpuUEZTeUQ5RENPR1RBa3JYMm1XeHhaMGZzRm1yQmV6RE9uUHRHdFFxa0FfQVhrb0tyWHZLdGRRc1BrVUh5eEd0ZTJkLTJ6b2RwbWFGVlRBNzhVSlh0cGNKTmJuSlRUT01iS0lNM094ZEhnWlZXX2paYVJ1bXlEaGQ5LUZZMzZPV2Q?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 08:24:34 GMT"
+      "publishedAt": "Thu, 05 Nov 2026 08:56:14 GMT"
     },
     {
       "title": "Why Indian Stock Market Is Rising Today? Three Key Reasons Behind 2% Rally In Nifty 50, Sensex - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT2NNN2p1aHNxUnRTd0I2S0dPaF9mQkNMTXFZR0Zqamh5RVFtODVYQ0p5ck9PaUNYbk9jV25xLWg4QmFxQnNKenV6dkgzaGhLdDJHSXFOTGFQMGprY3g4Q0xUQ2syajNPZVBfRTNScmtHNkc2Vl8tdE1yN255aVJ1djJBTnBPbFZybFphbWs0M1pmZkhFdXdvMDBjTHdFTzhmQ182SUJod3U3X3ZXR1VreE5IeDdCcFlyTFl4eUJNUG9Rd1VHUU1YWV9vd2ppTHQ20gHYAUFVX3lxTE1KZ3BkM3JEa3VGWG5yWnVpaXlXTFpMdWdhSXV1Ykk5YWU3OGdSUTZ3U3pqVjIzLWVOWnJYMnFRbXRsNlhqWElVY18tSFNlZ2RlZnc2NmtiRnQzNXJ2bl9xZGNHazlBY3BTb2M0QUI2anVoUFN3a1dWYkxfeU9JYjRZV3JPOXNsQl9XdkNfajBPYThvU28yTEYtaW15ajVjVTFtREFmVlFJZ2J0anN4MHNxQXE1SzZDcm9sN1N5aEdiUU4zUFcwTnIwSWc2LVN6cXd6VHd1TXRVeQ?oc=5",
       "publishedAt": "Thu, 05 Nov 2026 04:05:34 GMT"
+    },
+    {
+      "title": "Closing Bell: Sensex gains 384 pts, Nifty above 23,950; Media index up 5%, IT down 2% - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQd0dlLWdtNVFfTkhZSHdvdUJQSHdPc1R4OENOLWNicFkzQVJjSkprRFZycy05M05YSFhRNXdUTXNLNU5iQmxzMk9jWk93WjFueFVwR1JsY2k2ZWJFaWE4N3FwbUVvN0U1Z1R5cExWWUFoeXRVbnNMek9jQjJsV2ZWX3BUWmNnY0xCa045R3QyWl8tQVpONXIyWDAxUGQ1ejRUcGQ3ZGkxMWIzdEJ5M2pqVThiRGxVVE5tc0k5U09HVmpQaWZoWnMtTllsTkpyalJvZW15emhCSC1WU1Z3RGMyZDR4XzJqdGdnSzhKOUE2SEhQTHlOaGl3VV9abmhGVy1qaEluYks3WFgwU3piU3gzTTd6dlFxZTZscldXcENMbFB6NXfSAagCQVVfeXFMTThCeXpZS0tpekdqWEtscEh4dVRTTk12TDBBcUpkZ2NOU25iRGVkVEpyRjVTa0NJSFNRbEoxTThlOGhyZlUwWktjVDN3b0NQMXJUdkQ4b2IxMnpma1ZVYllUZDllcFZIZFpiMmRYZDlmX25kdnFLZERBVWgxeWFrcE9yTldwMFBFWGtSTTBoT3EwVGlwVF9rdE5GTjY2T0JtYVZmUnZMRGJlYl9mQmVZNEE0Y3gtU3FrYjVseFVVd3Jsa3hJbEJIalgtNUxwMlJOZEUwc3FCODJLM2Vub0lySWdmeU8yYVZrMkRPLUkxYWZDM0tBMDlzSXM2WDhxTTlhRm9maDd4ZWt2T1BFVndLM1dFRXVQeXdXdVVmLTlnRmNpNzk1UWUybUM?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 10:38:43 GMT"
     },
     {
       "title": "Stock Market Highlights| Closing Bell: Sensex settles 384 points higher, Nifty above 23,900; BEL, Titan gain 4% each - The Economic Times",
@@ -218,16 +203,16 @@
       "publishedAt": "Thu, 05 Nov 2026 01:47:23 GMT"
     },
     {
-      "title": "Closing Bell: Sensex gains 384 pts, Nifty above 23,950; Media index up 5%, IT down 2% - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQd0dlLWdtNVFfTkhZSHdvdUJQSHdPc1R4OENOLWNicFkzQVJjSkprRFZycy05M05YSFhRNXdUTXNLNU5iQmxzMk9jWk93WjFueFVwR1JsY2k2ZWJFaWE4N3FwbUVvN0U1Z1R5cExWWUFoeXRVbnNMek9jQjJsV2ZWX3BUWmNnY0xCa045R3QyWl8tQVpONXIyWDAxUGQ1ejRUcGQ3ZGkxMWIzdEJ5M2pqVThiRGxVVE5tc0k5U09HVmpQaWZoWnMtTllsTkpyalJvZW15emhCSC1WU1Z3RGMyZDR4XzJqdGdnSzhKOUE2SEhQTHlOaGl3VV9abmhGVy1qaEluYks3WFgwU3piU3gzTTd6dlFxZTZscldXcENMbFB6NXfSAagCQVVfeXFMTThCeXpZS0tpekdqWEtscEh4dVRTTk12TDBBcUpkZ2NOU25iRGVkVEpyRjVTa0NJSFNRbEoxTThlOGhyZlUwWktjVDN3b0NQMXJUdkQ4b2IxMnpma1ZVYllUZDllcFZIZFpiMmRYZDlmX25kdnFLZERBVWgxeWFrcE9yTldwMFBFWGtSTTBoT3EwVGlwVF9rdE5GTjY2T0JtYVZmUnZMRGJlYl9mQmVZNEE0Y3gtU3FrYjVseFVVd3Jsa3hJbEJIalgtNUxwMlJOZEUwc3FCODJLM2Vub0lySWdmeU8yYVZrMkRPLUkxYWZDM0tBMDlzSXM2WDhxTTlhRm9maDd4ZWt2T1BFVndLM1dFRXVQeXdXdVVmLTlnRmNpNzk1UWUybUM?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 10:38:43 GMT"
-    },
-    {
       "title": "Stock market outlook today, 4 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbUYtYjlXR0pBZWpOdHl6XzhCUEduUTY5YkVEdDg2YTRSVEZLNG9mLVJxVE5KZElmaEd3LVFhUWN6RThTUnpYUmVkSGRQWlp3bHZJYkxocS1aSC0yUnZKWGZTUVNhZFJ0bnhaVkVqV29JN1dvT2ctd3g3NTdJZzVTUlQ2alpqSU1JR3JOOUdfNUQ1LVhjeVNYeU1yVmtCRnZmWG85RUVrQk44dGhOWFk0TVJxOEVIRDN1Qmo1OExha1cxNElacVpNQmwyWGV6emcwWEJ0RXhzcUJuWTFsTUlxNGxzRXRiWlp6NTR6b1VrNWY2LWRxQXMxLXJHT1RPS0xPWm1v0gGIAkFVX3lxTE9PZWgzdkZ1UHN3NVgxUUZENzZoQnpKNUdTTjdJLTJXVzc0SXh2alZlNm5VcTNuME1CVGJ6TU12N1R2dXNLNmNtaEY0Q2xMNFRGRWstM3pUOVRfYlFwVjdaam1xeWktall4RFRLUDg5NG5ibUcyc2U3TVN1Tm80RjF6TUtrZ2doRUk2czdMcjNIYV9HOWI4dm51aEdsdl8zcGlwZFEzdGowci1sNmRRaGhpajNQalNBWnRsSy1seVZ1NjVENEdlX05OQ2xvN3FnYmdUak9UVHVUS0tiWEJONFRvaFZMU3JzeEczRUJYajZmMmNLa2gzZHJzSUdmSXl1em1na0JKMGo0SA?oc=5",
       "publishedAt": "Wed, 04 Nov 2026 01:19:08 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Sensex surges over 1,900 pts, Nifty tops 24,500; auto jumps 3.5%, banks rally over 3% - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZWt3ekNSNDFBZDJSdUo1RDV2TFJudndjd0d3cE90WEl3S1AwM1ZMSWVmbmpReWEyblBkSFpPbklVc1F1MFVJVG40aEFUNVpDZGhpX28tVXNpYkFkdFFMckhqM0pXMEJrdks5V3g0SWNwY014cW5maGQwVWlsV1R5RGxGeHRERlNoTzlSMDU2TGZpSmtzbkM5VFRPYlZNWTdZYWVsRElkSWI2Wk1ORGxuNUFsU1g3dDRSUUJfQjhtTXYxNnRYdmlBQnFpYzRDbm02M3FTY180QjMtbmI0NVpCckQxcEkzc1U4UzM0XzFKSm9ycjI3SURCeFZvbmZOVHJDckpsc2pxeVlLbUVFRFgyUHJXdy1HVFVqQVJLMmxDakhpV2_SAagCQVVfeXFMT2VzRzR2Zlk1T1Fna2pKVVR5UGNFZkNTbXMwNmdxTFQ5X2V5bF8zNEprV1NrRWdVYlNuVy0tWWxnamFudld4WkZhRVlhWldSaHdQSFpUeUFGc1JmN3BxV2ZZUXhpdHpyVEhQM2NlOU9QRjBCNjF0Q2ZCVkh6Y2xHSDIzbUtwMjNYMG43ZDVSOS1CaWFXY0U2a2syUENvci1PU1R1VjNwZXpuUEZTeUQ5RENPR1RBa3JYMm1XeHhaMGZzRm1yQmV6RE9uUHRHdFFxa0FfQVhrb0tyWHZLdGRRc1BrVUh5eEd0ZTJkLTJ6b2RwbWFGVlRBNzhVSlh0cGNKTmJuSlRUT01iS0lNM094ZEhnWlZXX2paYVJ1bXlEaGQ5LUZZMzZPV2Q?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 08:56:52 GMT"
     },
     {
       "title": "Indian benchmarks near three-month highs as oil slides after US Democratic win - Reuters",
