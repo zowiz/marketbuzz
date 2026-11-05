@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges 2,009 points, Nifty crosses 24,500 as markets rally sharply",
+  "headline": "Sensex zooms over 2,000 points and Nifty crosses 24,500 as markets rally on strong global cues",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,28 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex surged 2,009 points and Nifty topped 24,500 led by financial and auto stocks",
-    "Slide in global crude oil prices eased market concerns and lifted Indian benchmarks",
-    "Strong global cues and political developments in the US boosted investor sentiment",
-    "Cooling oil worries helped the Indian Rupee find its footing amidst trading flow momentum"
+    "Sensex surged over 2,000 points and Nifty topped 24,500 driven by strong rallies in financial and auto stocks.",
+    "Indian benchmarks approached near three-month highs as oil prices slid following US political developments.",
+    "Strong global cues and upbeat market sentiment fueled widespread buying across Dalal Street.",
+    "Banking and auto sector indices jumped up to 4%, lifting benchmark indices significantly."
   ],
   "whatHappening": [
-    "BSE Sensex settled over 2,000 points higher, while NSE Nifty50 ended above the 24,500 mark",
-    "Investors added approximately ₹7 trillion to their wealth in a single session",
-    "Auto and banking sector indices jumped up to 4% during the trading session",
-    "Gold loan books across institutions have tripled since 2023, with delinquencies rising sharply in 2026"
+    "BSE Sensex settled 2,009 points higher while NSE Nifty50 closed session above the 24,500 level.",
+    "Adani Ports announced the acquisition of European storage major Evos for €2.56 billion.",
+    "Bharti Airtel reported a 24% rise in Q2FY27 net profit to ₹10,710 crore.",
+    "Aurobindo Pharma and Alembic Pharma posted Q2 net profit gains of 32.5% and 81% respectively."
   ],
   "stocksInNews": [
     {
-      "symbol": "EMAMIIND",
+      "symbol": "AUROPHARMA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
@@ -28,37 +36,45 @@
       ]
     },
     {
-      "symbol": "BEML",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "IIFL",
+      "symbol": "APLLTD",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        6
+        3
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        5
       ]
     }
   ],
-  "summary": "Indian equity markets rallied strongly on November 5, with the Sensex surging 2,009 points and Nifty topping 24,500.\nThe market rally added ₹7 trillion to investor wealth, backed by strong performances in banking and auto stocks as oil prices cooled.\nAmong stock-specific action, Emami reported a Q2 profit rise, BEML fell 4% after its Q2 results, and Fairfax increased its stake in IIFL Capital.",
-  "updatedAt": "2026-11-05T11:31:21.143Z",
+  "summary": "Indian equity markets experienced a massive rally today with Sensex surging over 2,000 points and Nifty crossing 24,500. Financials and autos led the market surge alongside lower oil prices and strong international market cues. Corporate action remained active with major earnings announcements from Bharti Airtel, Aurobindo Pharma, and Alembic Pharma, alongside Adani Ports' European acquisition.",
+  "updatedAt": "2026-11-05T12:01:37.419Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-05",
   "articleKeys": [
-    "rupee finds its footing as oil worries cool traders watch flow momentum",
-    "venomics ai raises 27 million to discover drugs from animal venom",
-    "emami q2 results profit rises nearly 2 at 145 cr revenue up 36",
-    "barclays to invest 1500 crore in india boost banking businesses",
-    "agnipath scheme revised all agniveers to join regular cadre after 6 yrs",
-    "stock market close sensex surges 2009 pts nifty ends at 24537 investors add 7 trn to wealth",
-    "fairfax india raises stake in iifl capital to 38 with 2000 cr investment",
-    "eurozone bond yields edge lower as oil prices stabilise ecb rate bets ease",
-    "gold loan book triples since 2023 delinquencies rise sharply in 2026",
-    "stock market live sensex surges 2000 pts nifty above 24500 beml shares drop 4 post q2 result",
+    "rupee settles flat at 9446 against us dollar",
+    "aurobindo pharma q2 net up 325 to 1124 cr on higher revenue",
+    "bharti airtel q2fy27 results net profit rises 24 to 10710 crore",
+    "alembic pharma q2 net surges 81 to 335 crore",
+    "mm cuts fy27 tractor industry growth forecast to flat amid drought fears",
+    "adani ports to acquire european storage major evos for 256 billion",
+    "when stocks dampen festive cheer can bonds keep the celebrations going",
+    "end of an era ronaldo announces retirement from international football",
+    "google pay down users report payment glitches in parts of india",
+    "portugals cristiano ronaldo retires from international football",
     "stock market today highlights bse sensex settles over 2000 points higher nse nifty50 ends session above 24500 the times of india",
     "stock market today highlights nov 5 sensex surges 2009 pts nifty tops 24500 financials and autos lead rally businessline",
     "sensex today nifty 50 stock market highlights diwali arrives early on dst as sensex soars 2009 pts nifty tops 24500 auto bank indices jump up to 4 the economic times",
@@ -72,64 +88,64 @@
   ],
   "articles": [
     {
-      "title": "Rupee finds its footing as oil worries cool, traders watch flow momentum",
+      "title": "Rupee settles flat at 94.46 against U.S. dollar",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-finds-its-footing-as-oil-worries-cool-traders-watch-flow-momentum/articleshow/135569527.cms",
-      "publishedAt": "Thu, 05 Nov 2026 16:03:02 +0530"
+      "link": "https://www.thehindu.com/business/markets/rupee-settles-flat-at-9446-against-us-dollar/article71669674.ece",
+      "publishedAt": "Thu, 05 Nov 2026 17:06:11 +0530"
     },
     {
-      "title": "Venomics AI raises $2.7 million to discover drugs from animal venom",
+      "title": "Aurobindo Pharma Q2 net up 32.5% to ₹1,124 cr on higher revenue",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/venomics-ai-raises-2-7-million-to-discover-drugs-from-animal-venom-126110501178_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 15:57:13 +0530"
+      "link": "https://www.thehindu.com/business/Industry/aurobindo-pharma-q2-net-up-325-to-1124-cr-on-higher-revenue/article71666685.ece",
+      "publishedAt": "Thu, 05 Nov 2026 17:04:00 +0530"
     },
     {
-      "title": "Emami Q2 results: Profit rises nearly 2% at ₹145 cr, revenue up 36%",
+      "title": "Bharti Airtel Q2FY27 results: Net profit rises 24% to ₹10,710 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/emami-q2-results-profit-rises-nearly-2-at-145-cr-revenue-up-36-126110501128_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 15:52:42 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/bharti-airtel-q2-net-profit-rises-24-to-10-710-cr-revenue-grows-16-7-126110501297_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 16:52:26 +0530"
     },
     {
-      "title": "Barclays to invest ₹1,500 crore in India, boost banking businesses",
+      "title": "Alembic Pharma Q2 net surges 81% to ₹335 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/barclays-to-invest-1-500-crore-in-india-boost-banking-businesses-126110501112_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 15:52:14 +0530"
+      "link": "https://www.thehindu.com/business/Industry/alembic-pharma-q2-net-surges-81-to-335-crore/article71666706.ece",
+      "publishedAt": "Thu, 05 Nov 2026 16:50:12 +0530"
     },
     {
-      "title": "Agnipath scheme revised: All Agniveers to join regular cadre after 6 yrs",
+      "title": "M&M cuts FY27 tractor industry growth forecast to flat amid drought fears",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/external-affairs-defence-security/news/agnipath-scheme-revised-all-agniveers-to-join-regular-cadre-after-6-yrs-126110501121_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 15:49:40 +0530"
+      "link": "https://www.business-standard.com/companies/news/m-m-cuts-fy27-tractor-industry-growth-forecast-to-flat-amid-drought-fears-126110501298_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 16:42:06 +0530"
     },
     {
-      "title": "Stock Market Close: Sensex surges 2,009 pts, Nifty ends at 24,537; investors add ₹7 trn to wealth",
+      "title": "Adani Ports to acquire European storage major Evos for €2.56 billion",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 15:38:44 +0530"
+      "link": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-european-storage-major-evos-for-2-56-billion-126110501294_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 16:42:01 +0530"
     },
     {
-      "title": "Fairfax India raises stake in IIFL Capital to 38% with ₹2,000 cr investment",
+      "title": "When Stocks Dampen Festive Cheer, Can Bonds Keep the Celebrations Going?",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/fairfax-india-raises-stake-in-iifl-capital-to-38-with-2-000-cr-investment-126110501023_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 15:35:24 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/when-stocks-dampen-festive-cheer-can-bonds-keep-the-celebrations-going/articleshow/135570554.cms",
+      "publishedAt": "Thu, 05 Nov 2026 16:39:14 +0530"
     },
     {
-      "title": "Eurozone bond yields edge lower as oil prices stabilise, ECB rate bets ease",
+      "title": "End of an era! Ronaldo announces retirement from international football",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-edge-lower-as-oil-prices-stabilise-ecb-rate-bets-ease/articleshow/135568561.cms",
-      "publishedAt": "Thu, 05 Nov 2026 15:33:00 +0530"
+      "link": "https://www.business-standard.com/sports/football-news/end-of-an-era-ronaldo-announces-retirement-from-international-football-126110501283_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 16:35:17 +0530"
     },
     {
-      "title": "Gold loan book triples since 2023, delinquencies rise sharply in 2026",
+      "title": "Google Pay Down? Users Report Payment Glitches In Parts Of India",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/finance/news/india-gold-loan-delinquencies-transunion-cibil-portfolio-august-2026-126110501124_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 15:32:27 +0530"
+      "link": "https://www.ndtvprofit.com/technology/google-pay-down-users-report-payment-glitches-in-parts-of-india-12287239#publisher=newsstand",
+      "publishedAt": "Thu, 05 Nov 2026 16:25:05 +0530"
     },
     {
-      "title": "Stock Market LIVE: Sensex surges 2,000 pts, Nifty above 24500; BEML shares drop 4% post Q2 result",
+      "title": "Portugal's Cristiano Ronaldo Retires From International Football",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-5-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126110500085_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 15:10:31 +0530"
+      "link": "https://www.ndtvprofit.com/sports/portugals-cristiano-ronaldo-retires-from-international-football-12287311#publisher=newsstand",
+      "publishedAt": "Thu, 05 Nov 2026 16:24:35 +0530"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
