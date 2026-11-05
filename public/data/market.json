@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Surges Over 2,000 Points as Nifty Tops 24,500 Led by Financials, Auto, and Falling Oil",
+  "headline": "Sensex Surges 2,000 Points as Nifty Tops 24,500 Amid Falling Oil Prices and Strong Q2 Earnings",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,28 @@
     "nextOpen": ""
   },
   "why": [
-    "Crude oil prices plummeted, triggering a sharp relief rally in Indian equities.",
-    "Strong foreign inflows provided substantial buying support to key benchmark indices.",
-    "Positive global market cues boosted investor sentiment across Asian and Indian markets.",
-    "Financial and auto sector indices surged up to 4%, leading the broader market gains."
+    "Significant slide in global crude oil prices",
+    "Strong foreign institutional investor flows into Indian shares",
+    "Positive global cues and a rally in financial and auto sectors",
+    "Early Diwali sentiment driving a 2% rally in major indices"
   ],
   "whatHappening": [
-    "BSE Sensex climbed over 2,000 points while NSE Nifty50 settled above the 24,500 mark.",
-    "Bharti Airtel reported a 31% jump in Q2 profit and spent ₹2,826 crore on land for data centres.",
-    "LIC registered a 20% increase in Q2 net profit, supported by a 16% rise in premium collections.",
-    "ONGC reported a 9% decline in Q2 net profit but announced an interim dividend for shareholders."
+    "BSE Sensex settled over 2,000 points higher while Nifty50 ended above 24,500",
+    "LIC reported a 20% rise in Q2 net profit to ₹12,076 crore",
+    "Adani Ports announced a €1.18 billion deal to acquire Dutch operator Evos",
+    "Glenmark Pharma reported a 57% drop in profit and a 30% fall in revenue"
   ],
   "stocksInNews": [
     {
-      "symbol": "BHARTIARTL",
+      "symbol": "LICI",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "SIGNATURE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
@@ -28,45 +36,37 @@
       ]
     },
     {
-      "symbol": "LICI",
+      "symbol": "ADANIPORTS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        5
+        7
       ]
     },
     {
-      "symbol": "MARICO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "ONGC",
-      "sentiment": "Neutral",
+      "symbol": "GLENMARK",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         9
       ]
     }
   ],
-  "summary": "Indian benchmark indices recorded their biggest single-day gains in months on November 5, 2026, with Sensex jumping over 2,000 points and Nifty reclaiming 24,500. The surge was propelled by falling crude oil prices, robust foreign capital flows, and strong performance in financial and auto stocks. Key corporate developments included solid Q2 earnings from Airtel and LIC, while Marico hit 52-week highs.",
-  "updatedAt": "2026-11-05T14:31:39.763Z",
+  "summary": "Indian indices recorded their biggest gains in seven months, with the Sensex soaring 2,009 points and Nifty topping 24,500. The rally was supported by falling oil prices, foreign flows, and strong Q2 results from LIC and Signature Global. However, Glenmark Pharma faced pressure following a significant decline in quarterly profit and revenue.",
+  "updatedAt": "2026-11-05T15:01:59.858Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-05",
   "articleKeys": [
-    "us stock market live updates nasdaq futures slip as qualcomm tumbles 10 dow sampp 500 gain",
-    "bank of england hikes rates to 4 first raise since 2023 says more may come amid high uk inflation",
-    "bought a new car during diwali check these tax benefits before march 31",
-    "dhanteras 2026 date and time check puja muhurat significance and rituals",
-    "airtel q2 profit jumps 31 spends 2826 cr on data centre land purchase",
-    "lic q2 results profit jumps 20 premiums rise 16 one category did the heavy lifting",
-    "cosmoserve unveils hyderabad facility for space debris removal refuelling",
-    "second bomb threat scare in a week disrupts european air travel multiple flights diverted",
-    "marico among 10 stocks hitting 52week highs rally up to 14 in a month",
-    "ongc q2 results profit slips 9 yet board rewards investors with dividend check details",
+    "npci says mdr charge has been imposed to save the upi ecosystem from turning ouroboric",
+    "gold silver stocks why bonds deserve a place on your dhanteras shopping list",
+    "lic q2 net profit rises 20 to 12076 crore net premium income up 162",
+    "sebi revises currency derivative norms for domestic investors fpis allows to trade up to usd 5 mn",
+    "signature global q2 net profit at 70 crore as revenue rises 148",
+    "feds beth hammack favors gradual ratehike path to lower inflation",
+    "inmobi appoints hema namburi as group cfo ahead of planned india ipo",
+    "adani ports to acquire dutch operator evos in 118 billion deal",
+    "trumps loss wall streets gain what could change for ai defence crypto and elon musk",
+    "glenmark pharma q2 revenue falls 30 to 4247 crore profit down 57",
     "stock market today highlights bse sensex settles over 2000 points higher nse nifty50 ends session above 24500 the times of india",
     "stock market today highlights nov 5 sensex surges 2009 pts nifty tops 24500 financials and autos lead rally businessline",
     "sensex today nifty 50 stock market highlights diwali arrives early on dst as sensex soars 2009 pts nifty tops 24500 auto bank indices jump up to 4 the economic times",
@@ -80,64 +80,64 @@
   ],
   "articles": [
     {
-      "title": "US Stock Market Live Updates: Nasdaq futures slip as Qualcomm tumbles 10%; Dow, S&amp;P 500 gain",
+      "title": "NPCI says MDR charge has been imposed to save the UPI ecosystem from turning ouroboric",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-qualcomm-nvidia-coreweave-tesla-amazon-meta-ai-stocks-data-center-stocks-semiconductor-stocks-brent-crude-us-jobs-report-federal-reserve-treasury-yield-news-5th-november-2026/li",
-      "publishedAt": "Thu, 05 Nov 2026 18:40:30 +0530"
+      "link": "https://www.thehindu.com/business/npci-says-mdr-charge-has-been-imposed-to-save-the-upi-ecosystem-from-turning-ouroboric/article71669829.ece",
+      "publishedAt": "Thu, 05 Nov 2026 19:47:32 +0530"
     },
     {
-      "title": "Bank of England hikes rates to 4%, first raise since 2023, says more may come amid high UK inflation",
+      "title": "Gold, Silver, Stocks: Why Bonds Deserve a Place on Your Dhanteras Shopping List",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-england-hikes-rates-to-4-first-raise-since-2023-says-more-may-come-amid-high-uk-inflation/articleshow/135574865.cms",
-      "publishedAt": "Thu, 05 Nov 2026 18:36:47 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/gold-silver-stocks-why-bonds-deserve-a-place-on-your-dhanteras-shopping-list/articleshow/135576862.cms",
+      "publishedAt": "Thu, 05 Nov 2026 19:46:16 +0530"
     },
     {
-      "title": "Bought A New Car During Diwali? Check These Tax Benefits Before March 31",
+      "title": "LIC Q2 net profit rises 20% to ₹12,076 crore, net premium income up 16.2%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/bought-a-new-car-during-diwali-check-these-tax-benefits-before-march-31-12287592#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 18:24:02 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/lic-q2fy27-results-net-profit-increases-20-to-12-076-crore-126110501463_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 19:43:12 +0530"
     },
     {
-      "title": "Dhanteras 2026 Date And Time: Check Puja Muhurat, Significance And Rituals",
+      "title": "Sebi revises currency derivative norms for domestic investors, FPIs; allows to trade up to USD 5 mn",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/dhanteras-2026-date-and-time-check-puja-muhurat-significance-and-rituals-12287563#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 18:21:56 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-currency-derivative-norms-for-domestic-investors-fpis-allows-to-trade-up-to-usd-5-mn/articleshow/135576552.cms",
+      "publishedAt": "Thu, 05 Nov 2026 19:33:58 +0530"
     },
     {
-      "title": "Airtel Q2 profit jumps 31%; spends ₹2,826 cr on data centre land purchase",
+      "title": "Signature Global Q2 net profit at ₹70 crore as revenue rises 148%",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/bharti-airtel-q2-net-profit-rises-24-to-10-710-cr-revenue-grows-16-7-126110501297_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 18:18:54 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/signature-global-q2-net-profit-at-70-crore-as-revenue-rises-148-126110501841_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 19:33:18 +0530"
     },
     {
-      "title": "LIC Q2 Results: Profit Jumps 20%, Premiums Rise 16%. One Category Did The Heavy Lifting",
+      "title": "Fed's Beth Hammack favors gradual rate-hike path to lower inflation",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/lic-q2-results-profit-jumps-20-premiums-rise-16-one-category-did-the-heavy-lifting-12288076#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 18:16:05 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-beth-hammack-favors-gradual-rate-hike-path-to-lower-inflation/articleshow/135576467.cms",
+      "publishedAt": "Thu, 05 Nov 2026 19:32:00 +0530"
     },
     {
-      "title": "Cosmoserve unveils Hyderabad facility for space debris removal, refuelling",
+      "title": "InMobi appoints Hema Namburi as group CFO ahead of planned India IPO",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/start-ups/cosmoserve-unveils-hyderabad-facility-for-space-debris-removal-refuelling-126110501673_1.html",
-      "publishedAt": "Thu, 05 Nov 2026 18:15:00 +0530"
+      "link": "https://www.business-standard.com/companies/people/inmobi-appoints-hema-namburi-as-group-cfo-ahead-of-planned-india-ipo-126110501814_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 19:21:38 +0530"
     },
     {
-      "title": "Second Bomb Threat Scare In A Week Disrupts European Air Travel, Multiple Flights Diverted",
+      "title": "Adani Ports to acquire Dutch operator Evos in €1.18 billion deal",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/second-bomb-threat-scare-in-a-week-disrupts-european-air-travel-multiple-flights-diverted-12287795#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 18:14:43 +0530"
+      "link": "https://www.business-standard.com/companies/news/adani-ports-to-acquire-dutch-operator-evos-in-1-18-billion-deal-126110501810_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 19:17:19 +0530"
     },
     {
-      "title": "Marico among 10 stocks hitting 52-week highs; rally up to 14% in a month",
+      "title": "Trump's Loss, Wall Street's Gain? What Could Change for AI, Defence, Crypto and Elon Musk",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/marico-among-10-stocks-hitting-52-week-highs-rally-up-to-14-in-a-month/slideshow/135574817.cms",
-      "publishedAt": "Thu, 05 Nov 2026 18:14:24 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/trumps-loss-wall-streets-gain-what-could-change-for-ai-defence-crypto-and-elon-musk/videoshow/135575972.cms",
+      "publishedAt": "Thu, 05 Nov 2026 19:10:36 +0530"
     },
     {
-      "title": "ONGC Q2 Results: Profit Slips 9%, Yet Board Rewards Investors With Dividend. Check Details",
+      "title": "Glenmark Pharma Q2 revenue falls 30% to ₹4,247 crore, profit down 57%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/ongc-q2-results-profit-slips-9-yet-board-rewards-investors-with-dividend-check-details-12288079#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 18:13:54 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/glenmark-pharma-q2-revenue-falls-30-to-4-247-crore-profit-down-57-126110501774_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 19:07:42 +0530"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
