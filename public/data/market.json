@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Surges Over 2,000 Points as Nifty Tops 24,500 Amid Falling Oil Prices and Foreign Inflows",
+  "headline": "Sensex surges 2,009 points, Nifty tops 24,500 as oil prices slide and financials lead a massive market rally",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,50 +7,58 @@
     "nextOpen": ""
   },
   "why": [
-    "Sharp decline in global crude oil prices boosting market sentiment",
-    "Significant surge in foreign institutional investor flows into Indian equities",
-    "Positive global cues and relief rally following US midterm elections",
-    "Strong quarterly earnings reports from major domestic companies"
+    "Sharp decline in global crude oil prices",
+    "Strong positive cues from global markets",
+    "Significant surge in foreign capital flows",
+    "Robust performance in banking, financial, and automobile sectors"
   ],
   "whatHappening": [
-    "BSE Sensex settled over 2,000 points higher in a massive single-day rally",
-    "NSE Nifty50 ended the session above the 24,500 mark",
-    "Financial and automobile sectors led the gains with indices jumping up to 4%",
-    "Indian shares recorded their biggest single-day gains in seven months"
+    "Sensex and Nifty 50 recorded their biggest single-day gains in seven months",
+    "National Aluminium Company is progressing with a massive ₹30,000 crore expansion project",
+    "Noel Tata announced his retirement from the vice-chairmanship of Titan Company effective November 12",
+    "Godfrey Phillips reported a significant 37% decline in quarterly profit despite doubling its revenue"
   ],
   "stocksInNews": [
     {
-      "symbol": "ONGC",
-      "sentiment": "Positive",
+      "symbol": "TITAN",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        3
+        2
       ]
     },
     {
-      "symbol": "LIC",
+      "symbol": "GODFRYPHLP",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "NATIONALUM",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        7
+        6
       ]
     }
   ],
-  "summary": "Indian markets witnessed a historic rally with the Sensex surging over 2,000 points and Nifty50 crossing 24,500, driven by plummeting oil prices and strong foreign flows. Financial and auto sectors led the broad-based gains, marking the market's best performance in seven months. Individual heavyweights ONGC and LIC contributed to the positive momentum by reporting robust double-digit growth in Q2 profits.",
-  "updatedAt": "2026-11-05T16:02:06.554Z",
+  "summary": "The Indian stock market witnessed a massive rally with the Sensex surging over 2,009 points and Nifty crossing 24,500. Gains were driven by a sharp decline in crude oil prices, strong foreign inflows, and robust performance in banking and auto sectors. Key corporate developments included Nalco's expansion plans and leadership changes at Titan Company.",
+  "updatedAt": "2026-11-05T17:05:16.092Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-05",
   "articleKeys": [
+    "ninth tranche of mineral block auctions offers 20 blocks",
+    "cbg blending at 17 in h1 pipeline connectivity key to achieving 3 target",
+    "noel tata to retire as titan company vicechairman on november 12",
+    "repeat gold borrowing rises among lowrisk customers repayment stress persists cibil",
+    "lg electronics india enters automotive solutions market q2 profit up 26",
+    "godfrey phillips q2 profit down 37 to rs 190 cr revenue up twofold at rs 4198 cr",
+    "nalcos 30000 cr brownfield aluminium smelter expansion gathers pace",
     "10 smaller gulf carriers denied airport slots at mumbai",
     "apple seeks about 7 billion from bond sale bloomberg news reports",
     "qualcomm shares 9 slump as weak smartphone chip sales overshadow datacenter momentum",
-    "ongc q2 net profit jumps 57 on higher crude gas realisations",
-    "elon musk gambled 445 million to boost republicans in midterms and came up short",
-    "qualcomm shares sinks 14 at open set for worst day since 2020",
-    "emerging market outflows hit 338 billion us midterms offer some relief",
-    "lic q2 profit rises 20 to 12115 crore as vnb margin and net premium expands",
-    "us stock market today dow spikes 330 points postmidterm rally nasdaq down 3 as ai stocks drag",
-    "mumbai traffic congestion sparks online complaints as diwali rush approaches",
     "stock market today highlights bse sensex settles over 2000 points higher nse nifty50 ends session above 24500 the times of india",
     "stock market today highlights nov 5 sensex surges 2009 pts nifty tops 24500 financials and autos lead rally businessline",
     "sensex today nifty 50 stock market highlights diwali arrives early on dst as sensex soars 2009 pts nifty tops 24500 auto bank indices jump up to 4 the economic times",
@@ -63,6 +71,48 @@
     "sensex rallies over 1600 pts nifty50 jumps 18 as crude oil plummets key factors behind todays stock market surge upstox"
   ],
   "articles": [
+    {
+      "title": "Ninth tranche of mineral block auctions offers 20 blocks",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/news/national/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece",
+      "publishedAt": "Thu, 05 Nov 2026 22:06:39 +0530"
+    },
+    {
+      "title": "CBG blending at 1.7% in H1; pipeline connectivity key to achieving 3% target",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Economy/cbg-blending-at-17-in-h1-pipeline-connectivity-key-to-achieving-3-target/article71671079.ece",
+      "publishedAt": "Thu, 05 Nov 2026 21:54:03 +0530"
+    },
+    {
+      "title": "Noel Tata to retire as Titan Company vice-chairman on November 12",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/noel-tata-to-retire-as-titan-company-vice-chairman-on-november-12-126110501943_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 21:24:42 +0530"
+    },
+    {
+      "title": "Repeat gold borrowing rises among low-risk customers, repayment stress persists: CIBIL",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/repeat-gold-borrowing-rises-among-low-risk-customers-repayment-stress-persists-cibil/article71670923.ece",
+      "publishedAt": "Thu, 05 Nov 2026 21:22:49 +0530"
+    },
+    {
+      "title": "LG Electronics India enters automotive solutions market; Q2 profit up 26%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/lg-electronics-india-enters-automotive-solutions-market-q2-profit-up-26-126110501938_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 21:16:39 +0530"
+    },
+    {
+      "title": "Godfrey Phillips Q2 profit down 37% to Rs 190 cr; revenue up twofold at Rs 4,198 cr",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/godfrey-phillips-q2-profit-down-37-to-rs-190-cr-revenue-up-twofold-at-rs-4198-cr/articleshow/135578939.cms",
+      "publishedAt": "Thu, 05 Nov 2026 21:09:02 +0530"
+    },
+    {
+      "title": "Nalco's ₹30,000 cr brownfield aluminium smelter expansion gathers pace",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/nalco-s-30-000-cr-brownfield-aluminium-smelter-expansion-gathers-pace-126110502015_1.html",
+      "publishedAt": "Thu, 05 Nov 2026 21:08:53 +0530"
+    },
     {
       "title": "10 smaller Gulf carriers denied airport slots at Mumbai",
       "source": "Zerodha Pulse",
@@ -80,48 +130,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-shares-9-slump-as-weak-smartphone-chip-sales-overshadow-data-center-momentum/articleshow/135578695.cms",
       "publishedAt": "Thu, 05 Nov 2026 20:59:36 +0530"
-    },
-    {
-      "title": "ONGC Q2 net profit jumps 57% on higher crude, gas realisations",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/ongc-q2-net-profit-jumps-57-on-higher-crude-gas-realisations/article71670861.ece",
-      "publishedAt": "Thu, 05 Nov 2026 20:59:07 +0530"
-    },
-    {
-      "title": "Elon Musk gambled $445 million to boost Republicans in midterms and came up short",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-gambled-445-million-to-boost-republicans-in-midterms-and-came-up-short/articleshow/135578644.cms",
-      "publishedAt": "Thu, 05 Nov 2026 20:57:55 +0530"
-    },
-    {
-      "title": "Qualcomm Shares Sinks 14% At Open, Set For Worst Day Since 2020",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/qualcomm-shares-sinks-14-at-open-set-for-worst-day-since-2020-12288793#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 20:41:46 +0530"
-    },
-    {
-      "title": "Emerging market outflows hit $33.8 billion, US midterms offer some relief",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/emerging-market-outflows-hit-33-8-billion-us-midterms-offer-some-relief/articleshow/135578199.cms",
-      "publishedAt": "Thu, 05 Nov 2026 20:39:12 +0530"
-    },
-    {
-      "title": "LIC Q2 profit rises 20% to ₹12,115 crore as VNB margin and net premium expands",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/lic-q2-profit-rises-20-to-12115-crore-as-vnb-margin-and-net-premium-expands/article71670728.ece",
-      "publishedAt": "Thu, 05 Nov 2026 20:38:15 +0530"
-    },
-    {
-      "title": "US Stock Market Today: Dow Spikes 330 Points Post-Midterm Rally; Nasdaq Down 3% As AI Stocks Drag",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/us-stock-market-today-dow-spikes-330-points-as-post-midterm-rally-sustains-nasdaq-in-red-as-ai-stocks-drag-12288784#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 20:37:27 +0530"
-    },
-    {
-      "title": "Mumbai Traffic Congestion Sparks Online Complaints As Diwali Rush Approaches",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/mumbai-traffic-congestion-sparks-online-complaints-as-diwali-rush-approaches-12288929#publisher=newsstand",
-      "publishedAt": "Thu, 05 Nov 2026 20:34:54 +0530"
     },
     {
       "title": "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
