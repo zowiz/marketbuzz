@@ -1,5 +1,5 @@
 {
-  "headline": "Indian Markets Rally On Strong FII Inflows And Easing Oil Prices Amid Asian Global Sell-Off",
+  "headline": "Indian markets face global sell-off pressure after record gains; Adani Ports in focus following major acquisition.",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,29 +7,60 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign Institutional Investors (FIIs) pumped Rs 14,975 crore into domestic shares, driving strong market gains.",
-    "Easier crude oil prices provided relief to Indian equities and boosted investor sentiment.",
-    "Strong global buying momentum pushed Sensex and Nifty higher by over 3% in recent sessions.",
-    "Global equities face volatility as Asian markets drop amid a deepening AI stock sell-off."
+    "Global markets experience a sharp sell-off led by a deepening slump in AI stocks",
+    "Japan's Nikkei enters a bear market while South Korea's Kospi crashes by 9%",
+    "Adani Ports enters a €2.56 billion deal to acquire Dutch terminal operator Evos",
+    "Indian markets are reacting to a massive 2,000-point rally in the previous session"
   ],
   "whatHappening": [
-    "Sensex surged by up to 2,000 points and Nifty crossed 24,300–24,500 levels in recent trading.",
-    "Adani Ports announced an acquisition of Dutch tank storage operator Evos for €2.56 billion.",
-    "Asian indices like Nikkei entered a bear market while Kospi crashed 9% due to global tech slump.",
-    "US bond yields eased as oil prices stabilized and mortgage rates fell to 7.18%."
+    "Gift Nifty indicates a weak opening for the NSE following overnight US tech losses",
+    "Financial and automobile sectors were the primary drivers of the recent record gains",
+    "US 30-year mortgage rates fell to 7.18%, marking a third consecutive weekly decline",
+    "Investors are cautious as AI-related backlash threatens upcoming tech IPO timings"
   ],
   "stocksInNews": [
     {
       "symbol": "ADANIPORTS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         9
       ]
+    },
+    {
+      "symbol": "NIFTY50",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 7/9 sources",
+      "articleIds": [
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "symbol": "SENSEX",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 6/9 sources",
+      "articleIds": [
+        10,
+        11,
+        12,
+        14,
+        15,
+        16,
+        17,
+        19
+      ]
     }
   ],
-  "summary": "Indian stock markets logged strong recent gains supported by heavy foreign institutional inflows and easing crude oil prices.\nHowever, global market headwinds persist as Asian stocks crash following a deepened sell-off in US technology and AI sectors.\nAdani Ports remains in focus following its major €2.56 billion acquisition deal in Europe.",
-  "updatedAt": "2026-11-06T02:01:34.714Z",
+  "summary": "Indian markets face significant downward pressure today as a global sell-off in Asian and US tech stocks threatens to erase yesterday's record-breaking gains. While the Sensex and Nifty 50 are coming off their best single-day performance in seven months, global cues remain bearish. Adani Ports remains a key stock to watch following its multi-billion euro acquisition of a Dutch operator.",
+  "updatedAt": "2026-11-06T02:31:45.839Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-06",
   "articleKeys": [
@@ -43,16 +74,16 @@
     "the average us 30year mortgage rate falls to 718 this week its third straight decline",
     "us yields fall in choppy session as oil rises and equities sink",
     "adani ports to acquire dutch operator evos in 256 billion deal",
+    "stock market today highlights bse sensex settles over 2000 points higher nse nifty50 ends session above 24500 the times of india",
+    "stock market today highlights nov 5 sensex surges 2009 pts nifty tops 24500 financials and autos lead rally businessline",
+    "sensex today nifty 50 stock market highlights diwali arrives early on dst as sensex soars 2009 pts nifty tops 24500 auto bank indices jump up to 4 the economic times",
+    "closing bell sensex gains 384 pts nifty above 23950 media index up 5 it down 2 moneycontrolcom",
+    "why indian stock market is rising today three key reasons behind 2 rally in nifty 50 sensex ndtv profit",
+    "stock market outlook today 5 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market outlook today 6 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "indian shares log biggest gains in seven months on oil slide foreign flows reuters",
     "stock market today gift nifty to nasdaq nikkei selloff five key factors for sensex nifty 50 on nov 6 ndtv profit",
-    "sensex surges 1268 points nifty tops 24300 on strong global cues hdfc sky",
-    "bull run sensex nifty zoom 3 as investors add rs 8 lakh crore in single session deccan herald",
-    "sensex skyrockets 2008 points nse nifty surges by 576 as oil eases on back of us blue wave telegraph india",
-    "indian stock markets surge as sensex jumps 2009 points nifty closes above 24500 india new england news",
-    "investors richer by rs 29 lakh crore as sensex nifty rise over 8 fiis pour in money but will rally la the times of india",
-    "sensex rallies as overseas funds pump in rs 14975 crore the economic times",
-    "why indian stock market is rising today three key reasons behind 2 rally in nifty 50 sensex ndtv profit"
+    "indian shares log biggest gains in seven months on oil slide foreign flows reuters",
+    "fireworks on dstreet sensex nifty log biggest singleday gains in seven months telegraph india"
   ],
   "articles": [
     {
@@ -116,16 +147,46 @@
       "publishedAt": "Fri, 06 Nov 2026 00:14:46 +0530"
     },
     {
+      "title": "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOVjFwVnZsN3BnM0JaQ1hETkpobXRUVGpvZEVLLWo0MXJuTGJlc3VScVJIUWtUYXplWEx5cUZQTEJGQ3RZcFMtMkdyT2xZSjFGZU1jNTd4M0ljVk5FQWkxenVRZ1FwbXd2LWQxbkZUZ0JHRmUwOUpCRG0zOEhSUEtEUGgyOFNaVjZBVDhacEFvejk4ZEZnc1RBQmozWEEteU1SVnNBUE14Uk0xdG90OHRYSWFEWnZVOWdhNzI1YlZyQ180V1YzaFRQZUgzQnhKOFZpeS1CV01PaWw1TnR5NXlnVGc5V2pnMGhSS0M2aWRwdGhOa0hTTUp3VUFTWkVOb1FaeEdSZVd4ckVVUlBfR2pIZkxMVzdadnlvM1lUMHhqS0pCaE85OTFPRWJXMDNjUi1TT0hrbWF30gG7AkFVX3lxTFBERXo0el9VNEJqT1ZCdE9vYkF4OVkyX2VnbERXbHJIZFNrbFUwNlRFeDdmTDFHX3RyWWhpQnBRTzBrU3BXalJPTXg4aTV4Nnh2ZUlRTWRxTzJPdEtqTllQUm9zX2NwVVRiYlA5NHhXNXdTTWJKZWhJcFNWWFVXMFJXc0E0Zzlwak5xV2ZrWGo3NmZGWU84ZU12SGdTR0hMZ1VvNlBtVk9YcHRNWVVRWGJnN19nMDBwNkpvUFhIRnFlS0FJcVh1dXVLNk9WUXJiSmU4TXFkZ294MkFCdkdyNkpHc2hla3N1SzB5b3FZaDFCRkFBVEx6cmVuWTN5bEpiamlKcFJuQzk2dnF5UzVrX0NHTVJSYVdfY1hWeEZMV084MmpHUmZHYlUyeW1FUUxKTUZBc29JQ2t3MllhZw?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 10:24:06 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights, Nov 5: Sensex surges 2,009 pts, Nifty tops 24,500; Financials and autos lead rally - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGEyZkFNM1lBQ3pHeWt1WTlNbjFtLXVUMzYzVmthMWtRQzctZUZydFN5UTZsZURac19YektqWXJUTm1ONHRnbUpZWUh5ODB2VVJuVVlZV25HMWQ1V0t4M00ySmNkYkY0ZGVnT2M1b0tfN0wwNGFyVzhaTFVVV2hJelJZcWhLVk9DSTY2Z2lTU3ltTDNBVFJhc0xjUFN3UWNWZFlIeS1xczl1N1FjLWFBSTZPWXE5c0hwbTdPb2xGeU1KSi1QZ2fSAcwBQVVfeXFMT2VOZmZYR1ZFaFQ3bkdabTVQTTJXcE9hT003akhWNVlrQUNMYnh2Wm00SWR6cTFZaFp5bkJxMEpGbHZEa2p5LS1tSTYxWnhYNlhCcHg3RDQtU0FfMXBNTGw4Y0tuZ2NPSWRsUXltYzJqVks5OTZtUVVhWnNzX1N2MnY5bWFlVC1HNURVMEJ5ZEwwX0gtQy1MUEVucVdJYTJpMGQwWGJKNTZZUklaUDRjT2tHTW14RWs4bi1wYnRQSkF5Tk15RlFUSUExLXBQ?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 10:51:14 GMT"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Highlights: Diwali arrives early on D-St as Sensex soars 2,009 pts, Nifty tops 24,500; auto, bank indices jump up to 4% - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcm8zX3gwNHUzd2lVYjJRaEI2bjZnYnRIal9MY3ZvTkNwcU1NTjNjWDRXV0hyQVg5QmthV3hMUVpWSjFTeUVlQWpKTG1ubzZCXzl6RTVqTUlkTllEMUJjdy1MNXlSeFJzWFlRcUtfeUdvWmlORE9XN3RkS2JuTW1VbmdvOHNmRWNiTkhiaTRMOUVqaF9KMml1SzJlYWJtRS03bVU5elB2eFJtQTFObU01NUthbGhhclBwaktkRklJRlNLRGRjd01KZkFRY2lpOHRabWlnSU41eGNwNGtWWUlNeXlOTS15OHA3Yk9YLS1IRDVyT3RwUE1sZ19nS1BkM3k5Z0ZrZ3VCSnYwMjDSAZACQVVfeXFMT2dYYTdZZmJUdWFndTN0VVZvTkFZTzRhZ0syYU5SMXhxdG1qUEc2T0t1bDFLcGlhUVJFRXpHQmV0WGhiWjZUN0k3N1VJd2d1TW5iNVZOZjJXOU9VLVBLVENXYXV1VHNkaC1DN01xU1dCU3VrVU1UTUoza1ZLZng2MWtPazkwZzJURGgyOE1jVldFRndSbjNxeXJ5SFU2cjk1OFBFZ2xaNXFveFlOcVlNelNYclFHTmtFaENzeU0yTXA3LVN0eXNoYnlHbTlmNmVkOHJJcENhdHNPSmpFY1A5UlB4dkhncTQ0SDc3b1REODJLTUQ2VGhRTDVGajU5ZVFveURnQzVDUkhZaGJHWTJoN1Y?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 10:56:19 GMT"
+    },
+    {
+      "title": "Closing Bell: Sensex gains 384 pts, Nifty above 23,950; Media index up 5%, IT down 2% - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQd0dlLWdtNVFfTkhZSHdvdUJQSHdPc1R4OENOLWNicFkzQVJjSkprRFZycy05M05YSFhRNXdUTXNLNU5iQmxzMk9jWk93WjFueFVwR1JsY2k2ZWJFaWE4N3FwbUVvN0U1Z1R5cExWWUFoeXRVbnNMek9jQjJsV2ZWX3BUWmNnY0xCa045R3QyWl8tQVpONXIyWDAxUGQ1ejRUcGQ3ZGkxMWIzdEJ5M2pqVThiRGxVVE5tc0k5U09HVmpQaWZoWnMtTllsTkpyalJvZW15emhCSC1WU1Z3RGMyZDR4XzJqdGdnSzhKOUE2SEhQTHlOaGl3VV9abmhGVy1qaEluYks3WFgwU3piU3gzTTd6dlFxZTZscldXcENMbFB6NXfSAagCQVVfeXFMTThCeXpZS0tpekdqWEtscEh4dVRTTk12TDBBcUpkZ2NOU25iRGVkVEpyRjVTa0NJSFNRbEoxTThlOGhyZlUwWktjVDN3b0NQMXJUdkQ4b2IxMnpma1ZVYllUZDllcFZIZFpiMmRYZDlmX25kdnFLZERBVWgxeWFrcE9yTldwMFBFWGtSTTBoT3EwVGlwVF9rdE5GTjY2T0JtYVZmUnZMRGJlYl9mQmVZNEE0Y3gtU3FrYjVseFVVd3Jsa3hJbEJIalgtNUxwMlJOZEUwc3FCODJLM2Vub0lySWdmeU8yYVZrMkRPLUkxYWZDM0tBMDlzSXM2WDhxTTlhRm9maDd4ZWt2T1BFVndLM1dFRXVQeXdXdVVmLTlnRmNpNzk1UWUybUM?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 10:38:43 GMT"
+    },
+    {
+      "title": "Why Indian Stock Market Is Rising Today? Three Key Reasons Behind 2% Rally In Nifty 50, Sensex - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT2NNN2p1aHNxUnRTd0I2S0dPaF9mQkNMTXFZR0Zqamh5RVFtODVYQ0p5ck9PaUNYbk9jV25xLWg4QmFxQnNKenV6dkgzaGhLdDJHSXFOTGFQMGprY3g4Q0xUQ2syajNPZVBfRTNScmtHNkc2Vl8tdE1yN255aVJ1djJBTnBPbFZybFphbWs0M1pmZkhFdXdvMDBjTHdFTzhmQ182SUJod3U3X3ZXR1VreE5IeDdCcFlyTFl4eUJNUG9Rd1VHUU1YWV9vd2ppTHQ20gHYAUFVX3lxTE1KZ3BkM3JEa3VGWG5yWnVpaXlXTFpMdWdhSXV1Ykk5YWU3OGdSUTZ3U3pqVjIzLWVOWnJYMnFRbXRsNlhqWElVY18tSFNlZ2RlZnc2NmtiRnQzNXJ2bl9xZGNHazlBY3BTb2M0QUI2anVoUFN3a1dWYkxfeU9JYjRZV3JPOXNsQl9XdkNfajBPYThvU28yTEYtaW15ajVjVTFtREFmVlFJZ2J0anN4MHNxQXE1SzZDcm9sN1N5aEdiUU4zUFcwTnIwSWc2LVN6cXd6VHd1TXRVeQ?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 04:05:34 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 5 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb3BMMU16bHl1RFVHQTZJZkVvbWtPeUtpQ0l5ZThINngyT1NEYWlEMjRtUzFJM1lPMUktb2VzYkpyZlhIU3EzU0UtNVVSNXRQTHJIU1Q0OW5pbC1zMjE3U3Fvc1BEME9IUTBoNXdiZEo0bVlWZ3JUUkRzZVBuMnJ1eHVxS2dhN1U1X0MtMWowMUhJcHplWmhfMGtVZU53dG9uS0tJTTFqZEUzRlRsX19kNm9pWWVPMndNam1QNEdoVVJtRWJlOXVpaUVZVUxwX1ExM2N3Y3A5bjlRQkp5MXlJYTFhbjJob1dhUS1kYmpZSVpMa3lWUUJkTmpTOU5GeXR2enpR0gGIAkFVX3lxTFBIYmV6ZmJWaE5QSjBxYVZQWURub0Z6cFhOUFNxYmlKbmxfOVIyalA5NUp5TWJ2ZjgzZktwbFR1bVVIVUZjdjRSd3dZQW5oQVlvcExPWGdENjZWb3pBVzFBczItU0JZVGk5aGFENmt4Qm8tTDNhX0xzLVBMaVBURFVsSWM4cmNKZFpLeDdZdWozUDMydGtJVk9NbTIxN3lTNF9Ca0tPQ0FfTTFkZmFYbmxpeGFJREl4WWcwNlVabDZLMlNlMFQ1TXl2aE5mZ0VwUElHazRrZ1l3aHUxcUlfNVN3eGtGMTFwMDhKZlM2ZkoyOEhkdGtuc1hhWFgxTlk1eFRFYkpfOGlidQ?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 01:47:23 GMT"
+    },
+    {
       "title": "Stock market outlook today, 6 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQOXpMM3AzeW9FNUczQl95V0wtRzNfbV9zdDFUYXZibURYM3dRSjJNUTB4UGF2S3VZMzA3dlI2Nm5JU19Oclp4ZmpFdFpGaDdUZ1hmcC1hZVlTTXNKWFI3Qm4xZDFzM1NfR3NCLUZ3TEJiU2ItM0hLT29OZW1jOHNSSHdNOTJ1dU1BNGhQX1ZlU3NKaDVJZTd5blZ4RjhtYlNfel90bTlMWWstdEt1NGxqTVBYRUJrenppbnY1NDRlZmpkNWZuU283MXYzdFBTOU50RGQzRnN5dUZRVXNHbU4xQUVRS2U2R3JVVmJwbHpEeXVrU2JwOHZvS3lLQmZCNm5qUjFR0gGIAkFVX3lxTE9YSDM4bzJ3Mjl3X2pEc3JUeFBlSzhsQ2dObXFUdFoxRmVJY1lnV2JKOTlqbVFHT1BGc0x1aGJVUWI0dkRXQnRWYU1DalFNT29jVG4tSHVMZGNpdnhmV1VZNVdjaHFYVWpUb0dwRTYwYTZEVHl3cUhMMDk4UkxmU2syNGs4WWxpV0JoYnpUYWFoa29nQ1RSdzBxZzZCUDJLRVJja3IwdUhkaHVKSnpxVldFNEhRbzV5eU52dy1KN3p1blk1SHBpX3hXVklianc0ck55b0MtZHVOV2h1MGNheWphVndxVlc0aXBmQ1RIYm5jMHpvSU1Qc1oxNVd2TW1hSjlsSXBxb0VWQg?oc=5",
       "publishedAt": "Fri, 06 Nov 2026 01:14:59 GMT"
-    },
-    {
-      "title": "Indian shares log biggest gains in seven months on oil slide, foreign flows - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 02:37:00 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty To Nasdaq, Nikkei Selloff; Five Key Factors For Sensex, Nifty 50 On Nov 6 - NDTV Profit",
@@ -134,46 +195,16 @@
       "publishedAt": "Fri, 06 Nov 2026 01:34:40 GMT"
     },
     {
-      "title": "Sensex Surges 1,268 Points; Nifty Tops 24,300 on Strong Global Cues - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS2p3eUNLWkR5dDZnTUJ0NGRObGs0VE94VVZyWFh4TkdDOUJxd2RoY3NXMGFlU2ZmdVdRWF9zLWt3VzFuWlBJd29fdDVxRGNyS0dSTjRoN2xqUlRvSWZiQ21lUldHRVV3aEhjQlRXOEl2QUpJYWdtNDZGTmlacndXQjVUOUJFdlRoYk5JVWNmSXBDa1prblNkRWNYZlZnTG9DN1BDclRnaGF3VkFCNEprdTFrOXVIV0k?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 04:56:42 GMT"
+      "title": "Indian shares log biggest gains in seven months on oil slide, foreign flows - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmJaMVVmaUE0cUtPUW9iRklDNUNCV2k4c1NXYzllRGYzeUdXOFJkeGVEOUNsdkhwc0pfc3pkSVdvb3Nwc3FMSE0xTVBnbEtiQ29Gd2NzbmFtMU9rVXNoNXF3MkRrMEtHczdSX0VGUExrTDkyNHAxYWI0SGFWbVRSZWhDaGlvNkhLdUtiZGdDaWVQaFJ0NkRkckJvQ0ZzSnM2dmFUd2tZXzdQaWZBaFN4Y3BNYXo0UkVZRGpQTkdTUQ?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 02:37:00 GMT"
     },
     {
-      "title": "Bull run: Sensex & Nifty zoom 3% as investors add Rs 8 lakh crore in single session - Deccan Herald",
-      "source": "Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd3FXRmF1N2tmb3g2bkRaOFZkaHVGRks2SmVVallrMWF2MXVXaXQ5YUFGcmZ1T1l2R3JhaklRekRlZUdRV1hUZDRITm0za3dIYjdrSjBKbWh4cnZnMXFUZkxZb1NTLVVmMkFjSThINUl6NGEzSVZCd1AxRTN3eWVadDI3SVE4ZjE1MTFFdzBRck5hTnA5WDlRQ2dwNGlKVTBmT0tqYWtBRm9fNVE4MzlLVF9TTFU2Q1FUWlR6RUdOY0dmU0E?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 23:12:08 GMT"
-    },
-    {
-      "title": "Sensex skyrockets 2,008 points, NSE Nifty surges by 576 as oil eases on back of US blue wave - Telegraph India",
+      "title": "Fireworks on D-Street: Sensex, Nifty log biggest single-day gains in seven months - Telegraph India",
       "source": "Telegraph India",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPanpYcTJDQWhFZnFqY09lUHdRY2J1RWM4MXhqS3ZxT3RnUS15bHZxajk2Yk1fZ3BVOV9LbFB5Yy1ESUJVMkdadkNwWTRrS3NPQXlIbDUxR2pNQlNLUDNLem9maVMtNVRlNTIwaUhQaHBZdFdTbzVzN1VNaDBIMHlDdDgzbXEyS3FhTUdzLXlGQm9kdzRXTFVTVUlmWGU1Q0VNNnZDbi1n0gGrAUFVX3lxTE9seDltLTVqUTZ6a0dHM0hfT1dONms5WV9DeUcwQ0JEbDB5NVlaQnNNanRFY0hIbGdiNTdsV3pqYUFscV9peGo3Q0lXWEV3V2NNMjdOUDhHdHg0c254NlA5X1p0TkVoRkJBREZqN3U4UHA0eUFwQlZKdW16OVg5b2Jub1Q1bXVhWGlmaFJLVGJxQ01qOTQzNDZJY1NjNjhtUTJsenh3N1JsS3NFcw?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 10:14:19 GMT"
-    },
-    {
-      "title": "Indian Stock Markets Surge as Sensex Jumps 2,009 Points, Nifty Closes Above 24,500 - INDIA New England News",
-      "source": "INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUR6S1h6dUlLemFfbXByQ3JtUUtrelNkdmlqWjRaQUdWN3d1cVUwY3ltdjNvRnVubFVpMkowUlhadFQ1cVdBYnVtQWM3RmVBeU4tS01mZ0hOZGg1RTMwTHBPSjNaODVnYTJsdDJBSVoyYm9SWVp5QklELXBrZzJSR0RZblRVT2dYZHZZajhqTGJOYm1haHpWVE5lUEp5YlYtdXQ5MmU2Vm1vVE1K?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 16:17:14 GMT"
-    },
-    {
-      "title": "Investors richer by Rs 29 lakh crore as Sensex, Nifty rise over 8%; FIIs pour in money, but will rally la - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNV0pndlN5aGhfX3BIWXZKUHV5dC16R3M5X0d3RmJSTUFXQ0tLdEtWT1pJTUlXSmhwUlZkQnUyRXc4T2xTZ3dpd21oNWl4dU9yd3NxRUtJb29LSmNpeEJ6SXN6eHFFRFVLVEE1Qm1ERlJKeGN2eXk5U1IwYmVNSmJidWw4aTQ4SXNfNUpNTm82QU83UlE4STR2TWIxZ2dkVnI2S1NPV2E4T2hDdC1Xc3NKVzM0dGhkeVgyUUlmWF9fRjNuQVQ5ZzZSNFhYWXhmVEkyR29RRFFROEFqTnpHRHlXenZubDlRMmdzNElXSGZXRFBuam84YkJkVDdlV3B6UTZyS1M3SUQ5NS16SXJhekNtXzdXazBYRTVr0gGeAkFVX3lxTFBibFdLZXhqQTctOC1QR050cGdjeVdRazFxQ1RtY3M5TDlMMUtwenRBbF9EdnYyS3p4bDFHY05UQjk1bko2ZmF4ZzJfQmhYLWRnVW55eTBNSzhUSnBjd0Q3V0tBUUJGcUV3Nl9rTGx1VkhzR0gySUpJRTBXa3Jab29DbmF5ZVVnRk5Vc3htWHpRLUVmcFlubkRtXzFRaFM5WEFmcG51N2xOU2hUQ0Q2TEdlaVRuWW9taEJxNlRJNml3STlPcGtHZ1hBdFB4a2dkNW84bHNXbkN5TjMwLUh2UTF1NV92ZDVNcTk5dHAwYzlEanl6cm1BODRPYXluSGpNOGNHMllvU1FOOWlqdUIzSE1VVDh1UEg3UGlfVlhyR2c?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 16:15:00 GMT"
-    },
-    {
-      "title": "Sensex rallies as overseas funds pump in Rs 14,975 crore - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa25FV1prVU0zRlpDZ2lXMDd1aU9kMmI4MWpOLTZlZm42V1U3clNYMmZ6c2VoRm5jOElpUFk4SFRTVVdKdkp4UURWZ2FrMzVCVjlSUktyM2pUMjd6cVA4LXI1Y01tSWNxRTAxUXQwRXllMGJ5enctMkRjeUNCOEJnaVhaRmhpNkpyajdJYTNVMXZQcFNBNmZDdTlkalpDcnR0S2VzSDFNaHZiTTBQU1lTcEVyY3E5bV9WSEhxYUItSWZEVmFIYWc3M9IBzgFBVV95cUxPRWx6OWE1enhDaWRpZ1VvUXNrR1JpVl8tZTdNRUVnT1R1MXdZRlFqTnp4Z09lZTVaZXExU1gxQUxnYU1sbmNqRGNMTjVVSGZzU1hWMWl1Njc0SlQ0MzFNQ3V3YUp0VG9vUndTWG5qZG1Zc3c0Y2p0bXJLMnBiRng2eWJ0U1l5NXRHMUtYd3VFdlQ1WjkydzVsUFA3MXA3Q3gxdDZoT1hYYlB1blhPY29hbXVRM0hxYXlJZTVsSmxYdEI5V1pCVk5HUXNPOWpUUQ?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 01:21:49 GMT"
-    },
-    {
-      "title": "Why Indian Stock Market Is Rising Today? Three Key Reasons Behind 2% Rally In Nifty 50, Sensex - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT2NNN2p1aHNxUnRTd0I2S0dPaF9mQkNMTXFZR0Zqamh5RVFtODVYQ0p5ck9PaUNYbk9jV25xLWg4QmFxQnNKenV6dkgzaGhLdDJHSXFOTGFQMGprY3g4Q0xUQ2syajNPZVBfRTNScmtHNkc2Vl8tdE1yN255aVJ1djJBTnBPbFZybFphbWs0M1pmZkhFdXdvMDBjTHdFTzhmQ182SUJod3U3X3ZXR1VreE5IeDdCcFlyTFl4eUJNUG9Rd1VHUU1YWV9vd2ppTHQ20gHYAUFVX3lxTE1KZ3BkM3JEa3VGWG5yWnVpaXlXTFpMdWdhSXV1Ykk5YWU3OGdSUTZ3U3pqVjIzLWVOWnJYMnFRbXRsNlhqWElVY18tSFNlZ2RlZnc2NmtiRnQzNXJ2bl9xZGNHazlBY3BTb2M0QUI2anVoUFN3a1dWYkxfeU9JYjRZV3JPOXNsQl9XdkNfajBPYThvU28yTEYtaW15ajVjVTFtREFmVlFJZ2J0anN4MHNxQXE1SzZDcm9sN1N5aEdiUU4zUFcwTnIwSWc2LVN6cXd6VHd1TXRVeQ?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 04:05:34 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUXR2VVVMN21BV09vYnhvWWlWeGcya1lTOEVMR3AzZS1ZMDVlN2hoSHlKQl9YRG9HVVBZcWh0RGxZZnZINW43ZTdvNUs5TlRWZi12R21SS2JvbnU3MHdYdjJQOWd1a2dmbmFQMVFRWTR5azhuOGJnRFoxTTFHT29NRG5HSDU3M1NYbTZaT3F5T2pkWUdXWnZWOWtyUzZJdUxpV29SY1hoaDMyTVBUMXA0UVdBMFkxcDFyY09jT3hCd2dGWFRCTGtCSlF6dV92UVhtbmR1N3RBRdIB3AFBVV95cUxOMkowN0hETmptbThVbkthWXJzX3FCa25STG1xbEhZT2djN0F5UVI1bGE3ay1ER2xMMDhnTkI5TXJxLXF5TjNtZDdFd0Q5Rmc0UkFvZElUczJ0eG84ZmN6VWJHMm53ZnhmZUZIWWlUelZXdmN2R0hRUlpSSndPTXd1TWJhcDkwdFZfNFhQTEhWcVJhdkhVRnZ6NWVTSV95Wm93Z2gyYWxpckloVHBEUFluWmw3UnROdHUzTWphLWt5cGNyWXhUNlAwREZqVEpPSl9JYlIzWWlfNElRS0xO?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 02:04:20 GMT"
     }
   ]
 }
