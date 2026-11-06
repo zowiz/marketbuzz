@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex jumps over 700 points reclaiming 80,000 as Nifty trades above 24,700 led by M&M and Titan",
+  "headline": "Sensex rallies 1,000 points as Nifty reclaims 24,800 led by IT, auto, and banking stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,66 +7,33 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex gains over 700 points with strong buying in private banking, auto, and IT stocks.",
-    "Declining crude oil prices and falling US Treasury yields support Indian bonds and market sentiment.",
-    "Rally builds on momentum from the previous session's massive 2,000+ point Sensex surge.",
-    "Key large-cap stocks like Mahindra & Mahindra and Titan lead gains in early trading."
+    "Sensex surged over 1,000 points as Nifty reclaimed the 24,800 mark during session trade.",
+    "Strong buying in IT, auto, pharma, and private banking sectors pushed the benchmark indices higher.",
+    "Leading heavyweights like M&M and Titan sparked strong buying momentum in the market.",
+    "Positive earnings reports, including Hindalco's Q2 profit beat, boosted investor sentiment."
   ],
   "whatHappening": [
-    "Sensex reclaims 80,000 while Nifty 50 trades comfortably above 24,700.",
-    "Vardhman Textiles reports a 91% rise in Q2 profit, while Anup Engineering profit falls 79%.",
-    "Rupee depreciates by 9 paise to trade at 94.50 against the US dollar.",
-    "PL Capital releases Samvat 2083 Diwali stock picks including BEL and Shriram Finance."
+    "Sensex hit its day high with a 1,000-point jump while Nifty moved above 24,800.",
+    "Hindalco reported a 7.4% increase in net profit to Rs 7,532 crore, beating analyst estimates.",
+    "India VIX volatility index rose by over 10% during the market surge.",
+    "BMW Industries registered a 43% YoY jump in Q2 net profit reaching Rs 21.62 crore."
   ],
   "stocksInNews": [
     {
-      "symbol": "BEL",
+      "symbol": "HINDALCO",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
+        0,
         2
       ]
     },
     {
-      "symbol": "SHRIRAMFIN",
+      "symbol": "FEDERALBNK",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "M&M",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/7 sources",
-      "articleIds": [
-        5,
-        19
-      ]
-    },
-    {
-      "symbol": "TITAN",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 2/7 sources",
-      "articleIds": [
-        5,
-        19
-      ]
-    },
-    {
-      "symbol": "VTL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "ANUP",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        9
+        1
       ]
     },
     {
@@ -74,15 +41,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "HINDALCO",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        9
+        2
       ]
     },
     {
@@ -90,108 +49,136 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        9
+        2
+      ]
+    },
+    {
+      "symbol": "ZOMATO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "BMWIND",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        16
       ]
     }
   ],
-  "summary": "Indian benchmark indices continue their upward momentum on November 6, 2026, with the Sensex gaining over 700 points to reclaim 80,000 and Nifty 50 holding above 24,700.\nPrivate banks, automotive stocks led by M&M, and Titan drive the ongoing market rally following a major surge in the prior session.\nQ2 earnings remain in focus with Vardhman Textiles reporting strong profit growth while Anup Engineering sees a sharp drop.",
-  "updatedAt": "2026-11-06T08:31:26.470Z",
+  "summary": "Indian benchmark indices surged sharply today, with the Sensex gaining over 1,000 points and Nifty reclaiming 24,800.\nThe market rally was driven by strong buying in IT, auto, pharma, and private banking stocks alongside gains in M&M and Titan.\nPositive corporate earnings updates from Hindalco and BMW Industries further supported market momentum despite a rise in India VIX.",
+  "updatedAt": "2026-11-06T09:01:36.655Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-06",
   "articleKeys": [
-    "stock market live sensex jumps 700 pts nifty near 24700 private bank shares top sectoral gainer",
-    "thane diwali row light decoration on trees trigger controversy in hiranandani estate tmc approaches police",
-    "diwali stock picks 2026 bel shriram finance among pl capitals eight recommendations for samvat 2083 check full list",
-    "nse market cap crosses 50 billion as stock price jumps over 3",
-    "rupee falls 9 paise to 9450 against us dollar in early trade",
-    "stock market today live sensex reclaims 80000 nifty 50 above 24700 mm titan lead rally",
-    "india bonds emerge as top asian performers as oil treasury yields decline",
-    "diljit dosanjh makes history as singer set to perform at 2026 latin grammy awards",
-    "deepinder goyals 12word response to techies never build a healthcare startup in india comment",
-    "q2 results live vardhman textiles profit jumps 91 anup engineering profit plunges 79 siemens hindalco voltas also in focus",
-    "stock market today highlights bse sensex settles over 2000 points higher nse nifty50 ends session above 24500 the times of india",
-    "sensex today stock market live nifty around 24700 sensex rises 730 pts vix up 8 pharma private bank shine moneycontrolcom",
+    "hindalco industries q2 results net profit rises 74 to rs 7532 crore revenue grows 81 qoq",
+    "samvat 2083 bank nifty fell 4 federal bank gained 47 5 stocks offer up to 32 upside",
+    "q2 results live hindalco profit beats estimates at rs 7532 crore siemens hindalco voltas also in focus",
+    "why did deepinder goyal leave eternal what is he building at temple zomato founder promises a reveal",
+    "nclt declares videocons venugopal dhoot bankrupt over 12668 cr sbi dues",
+    "bomb threat in mumbai email threatens to blow up bse amitabh bachchans bungalow worli racecourse",
+    "tesla to wind down production of cybertruck at gigafactory texas confirms elon musk heres why",
+    "stock market live sensex hits days high with 1000pt rally nifty near 24800 vix jumps 10",
+    "bmw industries q2 results net profit rise 43 yoy to rs 2162 crore",
+    "agnipath scheme fouryear term stays for recruits inducted after december 2026",
     "stock market live updates today sensex jumps over 700 points in afternoon trade nifty above 24650 the times of india",
-    "stock market live updates sensex jumps over 650 pts nifty above 24650 it stocks lead charge the economic times",
+    "stock market live updates sensex jumps 900 pts nifty above 24700 it stocks lead charge the economic times",
+    "stock market today highlights bse sensex settles over 2000 points higher nse nifty50 ends session above 24500 the times of india",
+    "sensex today stock market live nifty reclaims 24800 sensex surges 1000 pts vix up 11 pharma private bank shine moneycontrolcom",
     "stock market today highlights nov 5 sensex surges 2009 pts nifty tops 24500 financials and autos lead rally businessline",
+    "stock market outlook today 6 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market today live sensex reclaims 80000 nifty 50 above 24700 mm titan lead rally ndtv profit",
     "why indian stock market is rising today three key reasons behind 2 rally in nifty 50 sensex ndtv profit",
     "sensex today nifty 50 stock market highlights diwali arrives early on dst as sensex soars 2009 pts nifty tops 24500 auto bank indices jump up to 4 the economic times",
-    "stock market outlook today 5 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market outlook today 6 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today live sensex reclaims 80000 nifty 50 above 24700 mm titan lead rally ndtv profit"
+    "stock market outlook today 5 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint"
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex jumps 700 pts, Nifty near 24,700; private bank shares top sectoral gainer",
+      "title": "Hindalco Industries Q2 Results: Net Profit Rises 7.4% To Rs 7,532 Crore, Revenue Grows 8.1% QoQ",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html",
-      "publishedAt": "Fri, 06 Nov 2026 12:49:31 +0530"
+      "link": "https://www.ndtvprofit.com/markets/hindalco-industries-q2-results-net-profit-rises-7-4-to-rs-7-532-crore-revenue-grows-8-1-qoq-12292018#publisher=newsstand",
+      "publishedAt": "Fri, 06 Nov 2026 14:01:15 +0530"
     },
     {
-      "title": "Thane Diwali Row: Light Decoration On Trees Trigger Controversy In Hiranandani Estate, TMC Approaches Police",
+      "title": "Samvat 2083: Bank Nifty Fell 4%, Federal Bank Gained 47%; 5 Stocks Offer Up To 32% Upside",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/thane-diwali-fairy-lights-nails-and-wires-on-trees-in-hiranandani-spark-row-tmc-files-police-complaint-12291279#publisher=newsstand",
-      "publishedAt": "Fri, 06 Nov 2026 12:45:29 +0530"
+      "link": "https://www.ndtvprofit.com/markets/samvat-2083-bank-nifty-fell-4-percent-federal-bank-gained-47-percent-5-stocks-offer-up-to-32-percent-upside-bse-banking-stocks-sensex-today-12291991#publisher=newsstand",
+      "publishedAt": "Fri, 06 Nov 2026 13:58:58 +0530"
     },
     {
-      "title": "Diwali Stock Picks 2026: BEL, Shriram Finance Among PL Capital's Eight Recommendations For Samvat 2083; Check Full List",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/diwali-stock-picks-2026-bel-shriram-finance-among-pl-capitals-eight-recommendations-for-samvat-2083-check-full-list-12291622#publisher=newsstand",
-      "publishedAt": "Fri, 06 Nov 2026 12:43:13 +0530"
-    },
-    {
-      "title": "NSE Market Cap Crosses $50 Billion As Stock Price Jumps Over 3%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nse-market-cap-crosses-50-billion-as-stock-price-jumps-over-3-12291626#publisher=newsstand",
-      "publishedAt": "Fri, 06 Nov 2026 12:41:32 +0530"
-    },
-    {
-      "title": "Rupee falls 9 paise to 94.50 against US dollar in early trade",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-9-paise-to-94-50-against-us-dollar-in-early-trade/articleshow/135597848.cms",
-      "publishedAt": "Fri, 06 Nov 2026 12:34:25 +0530"
-    },
-    {
-      "title": "Stock Market Today LIVE: Sensex Reclaims 80,000, Nifty 50 Above 24,700; M&M, Titan Lead Rally",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-crash-live-gift-nifty-sensex-nifty-fall-dhanteras-2026-nasdaq-nikkei-kospi-crude-oil-prices-gold-rate-today-12290492#publisher=newsstand",
-      "publishedAt": "Fri, 06 Nov 2026 12:34:10 +0530"
-    },
-    {
-      "title": "India bonds emerge as top Asian performers as oil, Treasury yields decline",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/articleshow/135597789.cms",
-      "publishedAt": "Fri, 06 Nov 2026 12:33:11 +0530"
-    },
-    {
-      "title": "Diljit Dosanjh Makes History As Singer Set To Perform At 2026 Latin Grammy Awards",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/diljit-dosanjh-makes-history-as-singer-set-to-perform-at-2026-latin-grammy-awards-12291235#publisher=newsstand",
-      "publishedAt": "Fri, 06 Nov 2026 12:28:32 +0530"
-    },
-    {
-      "title": "Deepinder Goyal's 12-Word Response To Techie's 'Never Build A Healthcare Startup In India' Comment",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/deepinder-goyals-12-word-response-to-techies-never-build-a-healthcare-startup-in-india-comment-12291544#publisher=newsstand",
-      "publishedAt": "Fri, 06 Nov 2026 12:26:02 +0530"
-    },
-    {
-      "title": "Q2 Results Live: Vardhman Textiles Profit Jumps 91%; Anup Engineering Profit Plunges 79%; Siemens, Hindalco, Voltas Also In Focus",
+      "title": "Q2 Results Live: Hindalco Profit Beats Estimates At Rs 7,532 Crore; Siemens, Hindalco, Voltas Also In Focus",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-6-siemens-bosch-hindalco-voltas-among-223-companies-to-announce-earnings-today-12291338#publisher=newsstand",
-      "publishedAt": "Fri, 06 Nov 2026 12:14:41 +0530"
+      "publishedAt": "Fri, 06 Nov 2026 13:58:35 +0530"
     },
     {
-      "title": "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOVjFwVnZsN3BnM0JaQ1hETkpobXRUVGpvZEVLLWo0MXJuTGJlc3VScVJIUWtUYXplWEx5cUZQTEJGQ3RZcFMtMkdyT2xZSjFGZU1jNTd4M0ljVk5FQWkxenVRZ1FwbXd2LWQxbkZUZ0JHRmUwOUpCRG0zOEhSUEtEUGgyOFNaVjZBVDhacEFvejk4ZEZnc1RBQmozWEEteU1SVnNBUE14Uk0xdG90OHRYSWFEWnZVOWdhNzI1YlZyQ180V1YzaFRQZUgzQnhKOFZpeS1CV01PaWw1TnR5NXlnVGc5V2pnMGhSS0M2aWRwdGhOa0hTTUp3VUFTWkVOb1FaeEdSZVd4ckVVUlBfR2pIZkxMVzdadnlvM1lUMHhqS0pCaE85OTFPRWJXMDNjUi1TT0hrbWF30gG7AkFVX3lxTFBERXo0el9VNEJqT1ZCdE9vYkF4OVkyX2VnbERXbHJIZFNrbFUwNlRFeDdmTDFHX3RyWWhpQnBRTzBrU3BXalJPTXg4aTV4Nnh2ZUlRTWRxTzJPdEtqTllQUm9zX2NwVVRiYlA5NHhXNXdTTWJKZWhJcFNWWFVXMFJXc0E0Zzlwak5xV2ZrWGo3NmZGWU84ZU12SGdTR0hMZ1VvNlBtVk9YcHRNWVVRWGJnN19nMDBwNkpvUFhIRnFlS0FJcVh1dXVLNk9WUXJiSmU4TXFkZ294MkFCdkdyNkpHc2hla3N1SzB5b3FZaDFCRkFBVEx6cmVuWTN5bEpiamlKcFJuQzk2dnF5UzVrX0NHTVJSYVdfY1hWeEZMV084MmpHUmZHYlUyeW1FUUxKTUZBc29JQ2t3MllhZw?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 10:24:06 GMT"
+      "title": "Why Did Deepinder Goyal Leave Eternal? What Is He Building At Temple? Zomato Founder Promises A Reveal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/trending/why-did-deepinder-goyal-leave-eternal-what-is-he-building-at-temple-zomato-founder-promises-a-reveal-12291994#publisher=newsstand",
+      "publishedAt": "Fri, 06 Nov 2026 13:57:06 +0530"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Nifty around 24,700, Sensex rises 730 pts; VIX up 8%, pharma, private bank shine - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMHdyQmJ0TWtBTjY3TkYzTDM3WEgzam9Rb3gzUGRfQjYxaExPcm9lNUZNYTNhbkhYcUJlWTF5VjViNm1sSzBnb3BlVWs5Q2x2b2VjNDByWmpXbEZQdlNyVFMtQUUyc3pYWlBIMGEzLVZRbk9XY0JBQlQzTEZIXzBpT3BBbmNWd3NWeTdMNHJtNzZOVE5pR0J4NU1JRjNRTjE2WGpXa1VuYmVaQlhzc2JwVm5icEF1ZWdSd3ZYQzZidk9zMmxvY2FvSXE5SHlCUlVnekp2Tk1qSGgwalFiYkl3Q1FBTkZFSkV5UlhReTJoMWZnWGdTUEVmbVlfZ0hiQzluUTZqZjRVZTdCMlNoWEVyUGZBMDlkcDFVczNLbW1aYzFRblZob185Rmpja1FfWTjSAbQCQVVfeXFMTzk5THlEVHlKb2dOYlQtX0Z2VDkybk9EeEZxWWpLN0taTXlZc2QyU0JLRHMwUEJ0cHBmTzlfMTloaEFpNUF5NFQ0Z1F1S29oTXRjdVhEUUlOOEhzcDJoRzhCQmE4YWdKOGZ6cVlCcU1QVlJCRUZHdUw0WS00b1ZubFVDZVdoTEx0U0dELUtZYmhkZjR6U3RnNDItQ3ZsWG1XTEhkU0ZFeUN1NU9aVGd0SjJhQzZmQW56Z2FBTlhjLWJ2a3dpbzZfQlZSc01IQ19uUWptalpCUURma2R3Y0hidFN3Mjk5N0dERENNb0RIZ3NHWnNCM250X1BBMF9ycS1NZ2k4Qi1ES0toRFJ5NlRGRUlwdHZHNWpzYXB2ZGI3NmQ1ZlZpY3VSWE1Ib2FUWF9sRWJOOGo?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:52:09 GMT"
+      "title": "NCLT declares Videocon's Venugopal Dhoot bankrupt over ₹12,668 cr SBI dues",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/nclt-declares-videocon-s-venugopal-dhoot-bankrupt-over-12-668-cr-sbi-dues-126110600864_1.html",
+      "publishedAt": "Fri, 06 Nov 2026 13:56:56 +0530"
+    },
+    {
+      "title": "Bomb Threat In Mumbai: Email Threatens To Blow Up BSE, Amitabh Bachchan's Bungalow, Worli Racecourse",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/bomb-threat-in-mumbai-email-threatens-to-blow-up-bse-amitabh-bachchans-bungalow-worli-racecourse-12291930#publisher=newsstand",
+      "publishedAt": "Fri, 06 Nov 2026 13:56:31 +0530"
+    },
+    {
+      "title": "Tesla To Wind Down Production Of Cybertruck At Gigafactory Texas, Confirms Elon Musk. Here's Why",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/tesla-to-wind-down-production-of-cybertruck-at-gigafactory-texas-confirms-elon-musk-here-s-why-12291943#publisher=newsstand",
+      "publishedAt": "Fri, 06 Nov 2026 13:54:00 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex hits day's high with 1,000-pt rally; Nifty near 24,800; VIX jumps 10%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-6-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-today-dhanteras-126110600099_1.html",
+      "publishedAt": "Fri, 06 Nov 2026 13:53:16 +0530"
+    },
+    {
+      "title": "BMW Industries Q2 Results: Net profit rise 43% YoY to Rs 21.62 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bmw-industries-q2-results-net-profit-rise-43-yoy-to-rs-21-62-crore/articleshow/135600062.cms",
+      "publishedAt": "Fri, 06 Nov 2026 13:50:29 +0530"
+    },
+    {
+      "title": "Agnipath Scheme: Four-Year Term Stays For Recruits Inducted After December 2026",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/agnipath-scheme-four-year-term-stays-for-recruits-inducted-after-december-2026-12291500#publisher=newsstand",
+      "publishedAt": "Fri, 06 Nov 2026 13:47:47 +0530"
     },
     {
       "title": "Stock Market Live Updates Today: Sensex jumps over 700 points in afternoon trade, Nifty above 24,650 - The Times of India",
@@ -200,16 +187,40 @@
       "publishedAt": "Fri, 06 Nov 2026 07:45:23 GMT"
     },
     {
-      "title": "Stock Market Live Updates: Sensex jumps over 650 pts, Nifty above 24,650; IT stocks lead charge - The Economic Times",
+      "title": "Stock Market Live Updates: Sensex jumps 900 pts, Nifty above 24,700; IT stocks lead charge - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObjc2RnJSTWJ6blVOS0oxa291YUVDRkxHUnZ6QVVfRlhjR19jblFZMGtyeGpXbDU4TXlqTks1SWIzUnNYT0VZVk9kSEpHcUdoUm1mdDZpTWdZQl9ib1hwY2tHN0ZaeGRXWlFUdXpoLUNxZVhrTlVjYzVSUEdvNFdia3RIdVpNWURNbEEzLU52MVVWMDZIaE9TdldwY29obXozVnRKZ0p2bXUxaVVPeWo4ZWVZSjVIcUJwQVNtVW0yYUZVTUtFS2RKWU5VM0g4YklUNHlIdElkRXVMOW9FTG8wZGx3UWxPUHJmaVM4YWZPa1Q2SHVUQXhxLWpRTGdIbllHT0N4WjhSN21yZG9ndlR0VDJ6VGx5QdIBmwJBVV95cUxOWlBSTnRZM1VrUGxCU1hPY3BCN2VQejZpcVg0MGNkYUtiWDVMV2xxVGtwYlYwUjJSd1BlQzVqck1fb3QyUllPZGgtVENRVTdnUjJJaXdicTJBUXF5VjJLLXRvSU5udHdtcm9oaXBnMEdoaS1lTmRuVnF5dGhtbmtrcF9fS2otaE1xNk1EaXlPaVVQUDhJSWtzNFhWMWNGVEF4eFdwZDdfeWoybmN3RXFWVGsyTnhNOGZHOVRSSVVvT0hHWUFjRnVwOUJCeFZsSEt3bFR1SlNMLTh0QUQyV2hQZDI1U2NQTTB4WkdhNVh6bFB3V25yWjY2WmdMX2FoSDd1cVhPLUpRcGlPdk9rOGUzWHRnSDh3RGZHNDdz?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:25:14 GMT"
+      "publishedAt": "Fri, 06 Nov 2026 08:05:07 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights: BSE Sensex settles over 2,000 points higher, NSE Nifty50 ends session above 24,500 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOVjFwVnZsN3BnM0JaQ1hETkpobXRUVGpvZEVLLWo0MXJuTGJlc3VScVJIUWtUYXplWEx5cUZQTEJGQ3RZcFMtMkdyT2xZSjFGZU1jNTd4M0ljVk5FQWkxenVRZ1FwbXd2LWQxbkZUZ0JHRmUwOUpCRG0zOEhSUEtEUGgyOFNaVjZBVDhacEFvejk4ZEZnc1RBQmozWEEteU1SVnNBUE14Uk0xdG90OHRYSWFEWnZVOWdhNzI1YlZyQ180V1YzaFRQZUgzQnhKOFZpeS1CV01PaWw1TnR5NXlnVGc5V2pnMGhSS0M2aWRwdGhOa0hTTUp3VUFTWkVOb1FaeEdSZVd4ckVVUlBfR2pIZkxMVzdadnlvM1lUMHhqS0pCaE85OTFPRWJXMDNjUi1TT0hrbWF30gG7AkFVX3lxTFBERXo0el9VNEJqT1ZCdE9vYkF4OVkyX2VnbERXbHJIZFNrbFUwNlRFeDdmTDFHX3RyWWhpQnBRTzBrU3BXalJPTXg4aTV4Nnh2ZUlRTWRxTzJPdEtqTllQUm9zX2NwVVRiYlA5NHhXNXdTTWJKZWhJcFNWWFVXMFJXc0E0Zzlwak5xV2ZrWGo3NmZGWU84ZU12SGdTR0hMZ1VvNlBtVk9YcHRNWVVRWGJnN19nMDBwNkpvUFhIRnFlS0FJcVh1dXVLNk9WUXJiSmU4TXFkZ294MkFCdkdyNkpHc2hla3N1SzB5b3FZaDFCRkFBVEx6cmVuWTN5bEpiamlKcFJuQzk2dnF5UzVrX0NHTVJSYVdfY1hWeEZMV084MmpHUmZHYlUyeW1FUUxKTUZBc29JQ2t3MllhZw?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 10:24:06 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Nifty reclaims 24,800, Sensex surges 1000 pts; VIX up 11%, pharma, private bank shine - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNMHdyQmJ0TWtBTjY3TkYzTDM3WEgzam9Rb3gzUGRfQjYxaExPcm9lNUZNYTNhbkhYcUJlWTF5VjViNm1sSzBnb3BlVWs5Q2x2b2VjNDByWmpXbEZQdlNyVFMtQUUyc3pYWlBIMGEzLVZRbk9XY0JBQlQzTEZIXzBpT3BBbmNWd3NWeTdMNHJtNzZOVE5pR0J4NU1JRjNRTjE2WGpXa1VuYmVaQlhzc2JwVm5icEF1ZWdSd3ZYQzZidk9zMmxvY2FvSXE5SHlCUlVnekp2Tk1qSGgwalFiYkl3Q1FBTkZFSkV5UlhReTJoMWZnWGdTUEVmbVlfZ0hiQzluUTZqZjRVZTdCMlNoWEVyUGZBMDlkcDFVczNLbW1aYzFRblZob185Rmpja1FfWTjSAbQCQVVfeXFMTzk5THlEVHlKb2dOYlQtX0Z2VDkybk9EeEZxWWpLN0taTXlZc2QyU0JLRHMwUEJ0cHBmTzlfMTloaEFpNUF5NFQ0Z1F1S29oTXRjdVhEUUlOOEhzcDJoRzhCQmE4YWdKOGZ6cVlCcU1QVlJCRUZHdUw0WS00b1ZubFVDZVdoTEx0U0dELUtZYmhkZjR6U3RnNDItQ3ZsWG1XTEhkU0ZFeUN1NU9aVGd0SjJhQzZmQW56Z2FBTlhjLWJ2a3dpbzZfQlZSc01IQ19uUWptalpCUURma2R3Y0hidFN3Mjk5N0dERENNb0RIZ3NHWnNCM250X1BBMF9ycS1NZ2k4Qi1ES0toRFJ5NlRGRUlwdHZHNWpzYXB2ZGI3NmQ1ZlZpY3VSWE1Ib2FUWF9sRWJOOGo?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 08:25:36 GMT"
     },
     {
       "title": "Stock Market Today Highlights, Nov 5: Sensex surges 2,009 pts, Nifty tops 24,500; Financials and autos lead rally - BusinessLine",
       "source": "BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGEyZkFNM1lBQ3pHeWt1WTlNbjFtLXVUMzYzVmthMWtRQzctZUZydFN5UTZsZURac19YektqWXJUTm1ONHRnbUpZWUh5ODB2VVJuVVlZV25HMWQ1V0t4M00ySmNkYkY0ZGVnT2M1b0tfN0wwNGFyVzhaTFVVV2hJelJZcWhLVk9DSTY2Z2lTU3ltTDNBVFJhc0xjUFN3UWNWZFlIeS1xczl1N1FjLWFBSTZPWXE5c0hwbTdPb2xGeU1KSi1QZ2fSAcwBQVVfeXFMT2VOZmZYR1ZFaFQ3bkdabTVQTTJXcE9hT003akhWNVlrQUNMYnh2Wm00SWR6cTFZaFp5bkJxMEpGbHZEa2p5LS1tSTYxWnhYNlhCcHg3RDQtU0FfMXBNTGw4Y0tuZ2NPSWRsUXltYzJqVks5OTZtUVVhWnNzX1N2MnY5bWFlVC1HNURVMEJ5ZEwwX0gtQy1MUEVucVdJYTJpMGQwWGJKNTZZUklaUDRjT2tHTW14RWs4bi1wYnRQSkF5Tk15RlFUSUExLXBQ?oc=5",
       "publishedAt": "Thu, 05 Nov 2026 10:51:14 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 6 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQOXpMM3AzeW9FNUczQl95V0wtRzNfbV9zdDFUYXZibURYM3dRSjJNUTB4UGF2S3VZMzA3dlI2Nm5JU19Oclp4ZmpFdFpGaDdUZ1hmcC1hZVlTTXNKWFI3Qm4xZDFzM1NfR3NCLUZ3TEJiU2ItM0hLT29OZW1jOHNSSHdNOTJ1dU1BNGhQX1ZlU3NKaDVJZTd5blZ4RjhtYlNfel90bTlMWWstdEt1NGxqTVBYRUJrenppbnY1NDRlZmpkNWZuU283MXYzdFBTOU50RGQzRnN5dUZRVXNHbU4xQUVRS2U2R3JVVmJwbHpEeXVrU2JwOHZvS3lLQmZCNm5qUjFR0gGIAkFVX3lxTE9YSDM4bzJ3Mjl3X2pEc3JUeFBlSzhsQ2dObXFUdFoxRmVJY1lnV2JKOTlqbVFHT1BGc0x1aGJVUWI0dkRXQnRWYU1DalFNT29jVG4tSHVMZGNpdnhmV1VZNVdjaHFYVWpUb0dwRTYwYTZEVHl3cUhMMDk4UkxmU2syNGs4WWxpV0JoYnpUYWFoa29nQ1RSdzBxZzZCUDJLRVJja3IwdUhkaHVKSnpxVldFNEhRbzV5eU52dy1KN3p1blk1SHBpX3hXVklianc0ck55b0MtZHVOV2h1MGNheWphVndxVlc0aXBmQ1RIYm5jMHpvSU1Qc1oxNVd2TW1hSjlsSXBxb0VWQg?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 01:14:59 GMT"
+    },
+    {
+      "title": "Stock Market Today LIVE: Sensex Reclaims 80,000, Nifty 50 Above 24,700; M&M, Titan Lead Rally - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWGxoU01PWXZDT2lQX3RVUXpSWm1fRnlWeGVaTkhuejRoSTlXZGxJQXZMNVE1U1hvSzI3MEg2OFgwb20zR01QbDRvZmtsX0hLd0dTdlIzOG4wRzZtNnlpSlhxUWpmSTFpd1BaLVJLQmx4NTF0RmlPR0ExTnliZTQ1LVo1eDBFazlIcXFwYUV2ay1wRkhtMzg5cU0zYnE4RjBNMFhvb2QtSVFqeFFCYVRWbkJGbnhrLVp1cXZMTWp1aUdQZEVTZS1OV1RnXzhKeEdBbm1oUXp4N3pFYnVqaTZXWHlGTFpMWlJDOXNjOFRxZU5MdlZNcWk40gH_AUFVX3lxTFAzOTFXMHhDdGZuNVY4TmlpS0xtWl8waGtnbVI0aldxRUZKdTl5a3NMMkVlLTlfOVZtVU9vcFBuMDI4R3dtV1l1a3IyQ0doblI0NVYyOF9weW42MEQ0dkZZWkVJRnZwa0hpVTdmM21ERTdtX0JOd0NrbktWRmtwdE5ES0RnUFU0My0weFZpb2FpaUttZnh1MnhtTnRqc0djYVc2RV92S3FQd3RCTzlrNGNKU3Z5TXE5clBIVXRaRnhIbVVfR2dBMXJrZ3pzXzhUNTAxajJSdkRmbFJ2akxlVmRKTjNFOEtVeUlTODZpaVZyVjNMUmVVN0dFUmVTcW5HWQ?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 07:51:43 GMT"
     },
     {
       "title": "Why Indian Stock Market Is Rising Today? Three Key Reasons Behind 2% Rally In Nifty 50, Sensex - NDTV Profit",
@@ -228,18 +239,6 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb3BMMU16bHl1RFVHQTZJZkVvbWtPeUtpQ0l5ZThINngyT1NEYWlEMjRtUzFJM1lPMUktb2VzYkpyZlhIU3EzU0UtNVVSNXRQTHJIU1Q0OW5pbC1zMjE3U3Fvc1BEME9IUTBoNXdiZEo0bVlWZ3JUUkRzZVBuMnJ1eHVxS2dhN1U1X0MtMWowMUhJcHplWmhfMGtVZU53dG9uS0tJTTFqZEUzRlRsX19kNm9pWWVPMndNam1QNEdoVVJtRWJlOXVpaUVZVUxwX1ExM2N3Y3A5bjlRQkp5MXlJYTFhbjJob1dhUS1kYmpZSVpMa3lWUUJkTmpTOU5GeXR2enpR0gGIAkFVX3lxTFBIYmV6ZmJWaE5QSjBxYVZQWURub0Z6cFhOUFNxYmlKbmxfOVIyalA5NUp5TWJ2ZjgzZktwbFR1bVVIVUZjdjRSd3dZQW5oQVlvcExPWGdENjZWb3pBVzFBczItU0JZVGk5aGFENmt4Qm8tTDNhX0xzLVBMaVBURFVsSWM4cmNKZFpLeDdZdWozUDMydGtJVk9NbTIxN3lTNF9Ca0tPQ0FfTTFkZmFYbmxpeGFJREl4WWcwNlVabDZLMlNlMFQ1TXl2aE5mZ0VwUElHazRrZ1l3aHUxcUlfNVN3eGtGMTFwMDhKZlM2ZkoyOEhkdGtuc1hhWFgxTlk1eFRFYkpfOGlidQ?oc=5",
       "publishedAt": "Thu, 05 Nov 2026 01:47:23 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 6 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQOXpMM3AzeW9FNUczQl95V0wtRzNfbV9zdDFUYXZibURYM3dRSjJNUTB4UGF2S3VZMzA3dlI2Nm5JU19Oclp4ZmpFdFpGaDdUZ1hmcC1hZVlTTXNKWFI3Qm4xZDFzM1NfR3NCLUZ3TEJiU2ItM0hLT29OZW1jOHNSSHdNOTJ1dU1BNGhQX1ZlU3NKaDVJZTd5blZ4RjhtYlNfel90bTlMWWstdEt1NGxqTVBYRUJrenppbnY1NDRlZmpkNWZuU283MXYzdFBTOU50RGQzRnN5dUZRVXNHbU4xQUVRS2U2R3JVVmJwbHpEeXVrU2JwOHZvS3lLQmZCNm5qUjFR0gGIAkFVX3lxTE9YSDM4bzJ3Mjl3X2pEc3JUeFBlSzhsQ2dObXFUdFoxRmVJY1lnV2JKOTlqbVFHT1BGc0x1aGJVUWI0dkRXQnRWYU1DalFNT29jVG4tSHVMZGNpdnhmV1VZNVdjaHFYVWpUb0dwRTYwYTZEVHl3cUhMMDk4UkxmU2syNGs4WWxpV0JoYnpUYWFoa29nQ1RSdzBxZzZCUDJLRVJja3IwdUhkaHVKSnpxVldFNEhRbzV5eU52dy1KN3p1blk1SHBpX3hXVklianc0ck55b0MtZHVOV2h1MGNheWphVndxVlc0aXBmQ1RIYm5jMHpvSU1Qc1oxNVd2TW1hSjlsSXBxb0VWQg?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 01:14:59 GMT"
-    },
-    {
-      "title": "Stock Market Today LIVE: Sensex Reclaims 80,000, Nifty 50 Above 24,700; M&M, Titan Lead Rally - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWGxoU01PWXZDT2lQX3RVUXpSWm1fRnlWeGVaTkhuejRoSTlXZGxJQXZMNVE1U1hvSzI3MEg2OFgwb20zR01QbDRvZmtsX0hLd0dTdlIzOG4wRzZtNnlpSlhxUWpmSTFpd1BaLVJLQmx4NTF0RmlPR0ExTnliZTQ1LVo1eDBFazlIcXFwYUV2ay1wRkhtMzg5cU0zYnE4RjBNMFhvb2QtSVFqeFFCYVRWbkJGbnhrLVp1cXZMTWp1aUdQZEVTZS1OV1RnXzhKeEdBbm1oUXp4N3pFYnVqaTZXWHlGTFpMWlJDOXNjOFRxZU5MdlZNcWk40gH_AUFVX3lxTFAzOTFXMHhDdGZuNVY4TmlpS0xtWl8waGtnbVI0aldxRUZKdTl5a3NMMkVlLTlfOVZtVU9vcFBuMDI4R3dtV1l1a3IyQ0doblI0NVYyOF9weW42MEQ0dkZZWkVJRnZwa0hpVTdmM21ERTdtX0JOd0NrbktWRmtwdE5ES0RnUFU0My0weFZpb2FpaUttZnh1MnhtTnRqc0djYVc2RV92S3FQd3RCTzlrNGNKU3Z5TXE5clBIVXRaRnhIbVVfR2dBMXJrZ3pzXzhUNTAxajJSdkRmbFJ2akxlVmRKTjNFOEtVeUlTODZpaVZyVjNMUmVVN0dFUmVTcW5HWQ?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 07:13:56 GMT"
     }
   ]
 }
