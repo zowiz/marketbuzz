@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges 1,718 points to close at 81,028 as Nifty reclaims 25,000 level",
+  "headline": "Sensex rallies 1,718 points as Nifty reclaims 25,000 mark driven by broad-based buying",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Rally extended to a seventh consecutive session supported by strong market momentum.",
-    "Banking, financial, auto, and pharma stocks led the broad-based market surge.",
-    "Indian rupee strengthened past 94/$ due to sliding crude oil prices and returning foreign inflows.",
-    "Strong quarterly earnings reports and major corporate deal announcements boosted investor sentiment."
+    "Rally extends to the seventh straight session as market sentiment remains strong.",
+    "Crude oil prices slide and foreign inflows return to boost market sentiment.",
+    "Strong surge in banking stocks led by ICICI Bank gaining 5%.",
+    "Positive earnings reports such as Hindalco's strong Q2 results boost momentum."
   ],
   "whatHappening": [
-    "Sensex surged 1,718 points to settle at 81,028 while Nifty 50 ended above the 25,000 mark.",
-    "Hindalco reported a 59% jump in Q2 net profit to ₹7,533 crore alongside a 39% revenue increase.",
-    "DLF partnered with Everstone for a ₹3,750-crore IREO investment.",
-    "Tech Mahindra announced plans to raise its stake in Pininfarina to 92.59%."
+    "BSE Sensex closes 1,718 points higher at 81,028 while NSE Nifty 50 crosses 25,000.",
+    "Hindalco reports a 59% jump in Q2 net profit to ₹7,533 crore.",
+    "Tech Mahindra announces acquiring additional shares in Pininfarina to raise stake to 92.59%.",
+    "DLF joins hands with Everstone for a ₹3,750-crore IREO investment."
   ],
   "stocksInNews": [
     {
@@ -42,10 +42,26 @@
       "articleIds": [
         9
       ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        12
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        12
+      ]
     }
   ],
-  "summary": "Indian equities saw a massive rally as the Sensex surged 1,718 points to close above 81,000 and Nifty reclaimed 25,000. Strong market momentum extended the winning streak to seven consecutive days, supported by strengthening rupee and foreign inflows. Key individual movers included Hindalco following strong Q2 results, along with DLF and Tech Mahindra on corporate deal announcements.",
-  "updatedAt": "2026-11-06T11:01:32.477Z",
+  "summary": "Indian equities extended their winning streak to a seventh session as Sensex surged 1,718 points to close at 81,028 and Nifty reclaimed 25,000. Gains were driven by banking stocks, strong foreign inflows, and lower oil prices. Key corporate developments included Hindalco's strong Q2 results and Tech Mahindra's stake increase in Pininfarina.",
+  "updatedAt": "2026-11-06T11:31:26.291Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-06",
   "articleKeys": [
@@ -61,7 +77,7 @@
     "hindalco q2 result net profit jumps 59 to 7533 cr revenue rises 39",
     "stock market today highlights sensex surges 1718 points to close at 81028 nifty at 25030 the times of india",
     "closing bell bulls party continues on dstreet sensex rallies 1718 pts nifty reclaims 25000 moneycontrolcom",
-    "stock market live updates sensex rockets 1500 pts nifty tops 24900 bank pharma stocks lead charge the economic times",
+    "stock market highlights bulls ring in festive cheer as sensex zooms 1718 pts nifty reclaims 25k icici bank jumps 5 titan 3 the economic times",
     "stock market today highlights nov 5 sensex surges 2009 pts nifty tops 24500 financials and autos lead rally businessline",
     "why indian stock market is rising today three key reasons behind 2 rally in nifty 50 sensex ndtv profit",
     "stock market outlook today 5 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
@@ -144,10 +160,10 @@
       "publishedAt": "Fri, 06 Nov 2026 10:39:37 GMT"
     },
     {
-      "title": "Stock Market Live Updates: Sensex rockets 1,500 pts, Nifty tops 24,900; bank, pharma stocks lead charge - The Economic Times",
+      "title": "Stock Market Highlights: Bulls ring in festive cheer as Sensex zooms 1,718 pts, Nifty reclaims 25K; ICICI Bank jumps 5%, Titan 3% - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObjc2RnJSTWJ6blVOS0oxa291YUVDRkxHUnZ6QVVfRlhjR19jblFZMGtyeGpXbDU4TXlqTks1SWIzUnNYT0VZVk9kSEpHcUdoUm1mdDZpTWdZQl9ib1hwY2tHN0ZaeGRXWlFUdXpoLUNxZVhrTlVjYzVSUEdvNFdia3RIdVpNWURNbEEzLU52MVVWMDZIaE9TdldwY29obXozVnRKZ0p2bXUxaVVPeWo4ZWVZSjVIcUJwQVNtVW0yYUZVTUtFS2RKWU5VM0g4YklUNHlIdElkRXVMOW9FTG8wZGx3UWxPUHJmaVM4YWZPa1Q2SHVUQXhxLWpRTGdIbllHT0N4WjhSN21yZG9ndlR0VDJ6VGx5QdIBmwJBVV95cUxOWlBSTnRZM1VrUGxCU1hPY3BCN2VQejZpcVg0MGNkYUtiWDVMV2xxVGtwYlYwUjJSd1BlQzVqck1fb3QyUllPZGgtVENRVTdnUjJJaXdicTJBUXF5VjJLLXRvSU5udHdtcm9oaXBnMEdoaS1lTmRuVnF5dGhtbmtrcF9fS2otaE1xNk1EaXlPaVVQUDhJSWtzNFhWMWNGVEF4eFdwZDdfeWoybmN3RXFWVGsyTnhNOGZHOVRSSVVvT0hHWUFjRnVwOUJCeFZsSEt3bFR1SlNMLTh0QUQyV2hQZDI1U2NQTTB4WkdhNVh6bFB3V25yWjY2WmdMX2FoSDd1cVhPLUpRcGlPdk9rOGUzWHRnSDh3RGZHNDdz?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 09:38:30 GMT"
+      "publishedAt": "Fri, 06 Nov 2026 10:06:24 GMT"
     },
     {
       "title": "Stock Market Today Highlights, Nov 5: Sensex surges 2,009 pts, Nifty tops 24,500; Financials and autos lead rally - BusinessLine",
