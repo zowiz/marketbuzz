@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex rallied 1,718 points to 81,028 as Nifty reclaimed the 25,000 mark",
+  "headline": "Last session: Sensex surged 1,718 points to 81,028 while Nifty reclaimed 25,000 in best week since 2020",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,33 +7,50 @@
     "nextOpen": "Sunday, 8 November"
   },
   "why": [
-    "Financial and automotive sector stocks led the sharp rally, with auto and bank indices surging up to 4%",
-    "Indian equities bucked a broader global tech rout to post their best weekly performance in six years",
-    "Bulls maintained control on Dalal Street as market sentiment remained strong heading into the end of Samvat 2082",
-    "Strong buying interest continued across major sectors following a 2,000+ point surge in the prior session"
+    "Indian markets recorded their best weekly performance in six years, bucking global tech rout trends",
+    "Investor optimism ahead of Diwali fueled a massive 1,718-point rally in the Sensex during Friday's session",
+    "Strong buying in financial and automobile sectors propelled the Nifty 50 back above the crucial 25,000 level",
+    "Positive domestic sentiment led to a 2% rally as Samvat 2082 concluded with significant gains"
   ],
   "whatHappening": [
-    "On the last trading day, BSE Sensex jumped 1,718 points to close at 81,028",
-    "NSE Nifty 50 climbed back above the 25,000 level to settle at 25,030",
-    "In the previous session on Nov 5, Sensex had surged 2,009 points while Nifty crossed 24,500",
-    "Global cues were mixed as Wall Street rebounded from an AI-driven selloff while strong US payrolls boosted the US dollar"
+    "The BSE Sensex closed at 81,028, while the NSE Nifty 50 ended the session at 25,030",
+    "Zomato launched a new 40-km long-distance food delivery service across seven major cities",
+    "Angel One identified eight 'Diwali shagun' stocks with potential upside of up to 50%",
+    "Poultry farmers in Tamil Nadu are reporting heavy losses following the death of nearly 50,000 chickens"
   ],
-  "stocksInNews": [],
-  "summary": "On the last trading day, Indian benchmark indices recorded strong gains with the Sensex surging 1,718 points to 81,028 and Nifty 50 crossing 25,000. The rally was led by banking and auto stocks, helping domestic markets post their best weekly performance in six years despite global tech sector weakness. The stock market is closed today for the weekend and will reopen on Sunday, 8 November.",
-  "updatedAt": "2026-11-07T05:01:37.367Z",
+  "stocksInNews": [
+    {
+      "symbol": "ZOMATO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "ANGELONE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    }
+  ],
+  "summary": "In the last trading session, Indian markets witnessed a massive rally with the Sensex surging 1,718 points and Nifty reclaiming 25,000. This performance capped off the best weekly gain in six years, driven by strong domestic momentum ahead of Diwali. Markets are currently closed for the weekend and will reopen on Sunday.",
+  "updatedAt": "2026-11-07T06:02:05.709Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-07",
   "articleKeys": [
+    "cat 2026 admit card released by iim indore check download steps exam date and hall ticket details",
+    "tamil nadu poultry crisis nearly 50000 chickens die in six days farmers face heavy losses ahead of diwali",
+    "zomatos 40km food delivery service in 7 cities heres how to check and order",
+    "sc flags this as a major reason behind delhis worsening air pollution says aqi touching 400",
+    "us offers 20 million reward for information on irans nuclear programme",
+    "diwali shagun ke shares angel one selects 8 stocks with up to 50 upside to buy this diwali how many do you own",
     "why are flight tickets so expensive now the truth behind rising airfares explained",
     "who is stephen miller trumps new chief of staff",
     "dollar jumps after strong us payrolls report",
     "gold drops as strong us payrolls boost dollar yields",
-    "riskoff mood sweeps european stocks as ai concerns deepen",
-    "wall street stocks rally after heavy airelated selloff",
-    "nasdaq rebounds but posts fourth straight weekly decline",
-    "canada to grant permanent residency to 200000 temporary residents by 2027",
-    "secret memo an alleged romance and china the questions surrounding nvidia ceo jensen huang",
-    "what your insurance agent may not tell you about switching to a cheaper policy",
     "stock market today highlights sensex surges 1718 points to close at 81028 nifty at 25030 the times of india",
     "closing bell bulls party continues on dstreet sensex rallies 1718 pts nifty reclaims 25000 moneycontrolcom",
     "stock market today highlights nov 5 sensex surges 2009 pts nifty tops 24500 financials and autos lead rally businessline",
@@ -46,6 +63,42 @@
     "indian stocks buck global tech rout post best week in 6 years reuters"
   ],
   "articles": [
+    {
+      "title": "CAT 2026 Admit Card Released by IIM Indore; Check Download Steps, Exam Date And Hall Ticket Details",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/cat-2026-admit-card-released-by-iim-indore-check-download-steps-exam-date-and-hall-ticket-details-12295808#publisher=newsstand",
+      "publishedAt": "Sat, 07 Nov 2026 10:59:50 +0530"
+    },
+    {
+      "title": "Tamil Nadu Poultry Crisis: Nearly 50,000 Chickens Die in Six Days, Farmers Face Heavy Losses Ahead of Diwali",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/cuddalore-poultry-crisis-nearly-50-000-chickens-die-in-six-days-farmers-face-heavy-losses-ahead-of-diwali-12295605#publisher=newsstand",
+      "publishedAt": "Sat, 07 Nov 2026 10:59:32 +0530"
+    },
+    {
+      "title": "Zomato's 40-km Food Delivery Service In 7 Cities: Here's How To Check And Order",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/zomatos-40-km-food-delivery-service-in-7-cities-heres-how-to-check-and-order-12295392#publisher=newsstand",
+      "publishedAt": "Sat, 07 Nov 2026 10:46:27 +0530"
+    },
+    {
+      "title": "SC Flags THIS As A Major Reason Behind Delhi's Worsening Air Pollution, Says 'AQI Touching 400'",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/sc-flags-this-as-a-major-reason-behind-delhi-s-worsening-air-pollution-says-aqi-touching-400-12295361#publisher=newsstand",
+      "publishedAt": "Sat, 07 Nov 2026 10:23:45 +0530"
+    },
+    {
+      "title": "US Offers $20 Million Reward For Information On Iran's Nuclear Programme",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/us-offers-20-million-reward-for-information-on-irans-nuclear-programme-12295721#publisher=newsstand",
+      "publishedAt": "Sat, 07 Nov 2026 10:22:21 +0530"
+    },
+    {
+      "title": "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-shagun-ke-shares-angel-one-selects-8-stocks-with-up-to-50-upside-to-buy-this-diwali-how-many-do-you-own/slideshow/135626837.cms",
+      "publishedAt": "Sat, 07 Nov 2026 10:14:51 +0530"
+    },
     {
       "title": "Why are flight tickets so expensive now? The truth behind rising airfares | Explained",
       "source": "Zerodha Pulse",
@@ -69,42 +122,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-as-strong-us-payrolls-boost-dollar-yields/articleshow/135626183.cms",
       "publishedAt": "Sat, 07 Nov 2026 09:40:07 +0530"
-    },
-    {
-      "title": "Risk-off mood sweeps European stocks as AI concerns deepen",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/risk-off-mood-sweeps-european-stocks-as-ai-concerns-deepen/articleshow/135626153.cms",
-      "publishedAt": "Sat, 07 Nov 2026 09:35:44 +0530"
-    },
-    {
-      "title": "Wall Street stocks rally after heavy AI-related selloff",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-stocks-rally-after-heavy-ai-related-selloff/articleshow/135626123.cms",
-      "publishedAt": "Sat, 07 Nov 2026 09:34:36 +0530"
-    },
-    {
-      "title": "Nasdaq rebounds but posts fourth straight weekly decline",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline/articleshow/135626093.cms",
-      "publishedAt": "Sat, 07 Nov 2026 09:32:31 +0530"
-    },
-    {
-      "title": "Canada to grant permanent residency to 200,000 temporary residents by 2027",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/immigration/canada-to-grant-permanent-residency-to-200-000-temporary-residents-by-2027-126110700205_1.html",
-      "publishedAt": "Sat, 07 Nov 2026 09:23:55 +0530"
-    },
-    {
-      "title": "Secret Memo, an Alleged Romance and China: The Questions Surrounding Nvidia CEO Jensen Huang",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/secret-memo-an-alleged-romance-and-china-the-questions-surrounding-nvidia-ceo-jensen-huang-12295533#publisher=newsstand",
-      "publishedAt": "Sat, 07 Nov 2026 09:08:26 +0530"
-    },
-    {
-      "title": "What Your Insurance Agent May Not Tell You About Switching To A Cheaper Policy",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/what-your-insurance-agent-may-not-tell-you-about-switching-to-a-cheaper-policy-12295489#publisher=newsstand",
-      "publishedAt": "Sat, 07 Nov 2026 08:50:32 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex surges 1,718 points to close at 81,028, Nifty at 25,030 - The Times of India",
