@@ -1,28 +1,60 @@
 {
-  "headline": "Last session: Sensex surged 1,718 points to close at 81,028 as Nifty reclaimed 25,000",
+  "headline": "Indian Markets Set for Muhurat Trading as Nifty 50 Enters Samvat 2083 Above 25,000 Mark",
   "marketStatus": {
-    "isClosed": true,
-    "isMuhuratTrading": false,
-    "message": "Market is closed today because it is a weekend. It will reopen on Wednesday, 11 November.",
-    "nextOpen": "Wednesday, 11 November"
+    "isClosed": false,
+    "isMuhuratTrading": true,
+    "message": "Today is Diwali Laxmi Pujan. NSE will conduct Muhurat Trading. Exact trading timings are notified separately by NSE.",
+    "nextOpen": "2026-11-09T09:15:00+05:30"
   },
   "why": [
-    "On the last trading session, Sensex surged 1,718 points while Nifty reclaimed the 25,000 mark.",
-    "Indian equities bucked a global tech selloff to post their best weekly performance in six years.",
-    "Strong gains in financial, banking, and auto stocks propelled benchmark indices to key levels.",
-    "Festive consumer spending during Diwali is expected to cross Rs 7 lakh crore, boosting economic sentiment."
+    "Sensex and Nifty recorded a massive rally of over 1,700 points in the final sessions of Samvat 2082",
+    "Indian stocks posted their best weekly performance in six years, bucking a global technology sector rout",
+    "Strong festive demand is expected to drive Diwali trade to a record high of over Rs 7 lakh crore",
+    "Financial and auto sectors led the market surge, providing strong momentum for the new Hindu calendar year"
   ],
   "whatHappening": [
-    "Indian stock markets are closed today, Saturday, 7 November 2026, due to the weekend.",
-    "During the last trading day on Nov 6, Nifty 50 ended Samvat 2082 comfortably above 25,000.",
-    "The rally saw Sensex jump over 2,000 points on Nov 5 followed by another 1,718-point rally on Nov 6.",
-    "Indian markets demonstrated resilience despite global headwinds and selloffs in US and Asian equities."
+    "NSE is conducting the traditional one-hour Muhurat Trading session to mark Diwali Laxmi Pujan",
+    "The Nifty 50 index enters the new Samvat 2083 year maintaining a position above the 25,030 level",
+    "Market participants are observing key support and resistance levels following a recent 2% rally in major indices",
+    "Domestic trade is seeing a significant boost from gold and electronics sales during the peak festive season"
   ],
-  "stocksInNews": [],
-  "summary": "On the last trading session, Indian equity benchmarks posted strong gains as Sensex surged 1,718 points to close at 81,028 and Nifty reclaimed 25,000.\nDriven by rallies in financial and auto stocks, Indian markets bucked global tech weakness to register their best weekly performance in six years.\nThe stock market is closed today due to the weekend and will reopen on Wednesday, 11 November.",
-  "updatedAt": "2026-11-07T18:01:36.510Z",
+  "stocksInNews": [
+    {
+      "symbol": "NIFTY50",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 7/9 sources",
+      "articleIds": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        19
+      ]
+    },
+    {
+      "symbol": "SENSEX",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 6/9 sources",
+      "articleIds": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    }
+  ],
+  "summary": "Indian markets are set for the auspicious Muhurat Trading session as Nifty 50 enters Samvat 2083 above the 25,000 mark. This follows a powerful rally where the Sensex surged over 1,700 points, capping the best trading week in six years. Festive optimism is further bolstered by projections of record-breaking domestic trade exceeding Rs 7 lakh crore.",
+  "updatedAt": "2026-11-07T18:31:39.920Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-11-07",
+  "dateChecked": "2026-11-08",
   "articleKeys": [
     "scene box office collection day 2 suriyastarrer holds strong after a solid opening check earnings",
     "udta teer box office day 16 ayushmannsara film sees a weekend boost inches closer to rs 55 crore",
@@ -42,8 +74,8 @@
     "stock market today highlights bse sensex settles over 2000 points higher nse nifty50 ends session above 24500 the times of india",
     "stock market highlights sensex jumps 1718 points nifty 50 ends samvat 2082 above 25000 ndtv profit",
     "stock market outlook today 6 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today gift nifty to nasdaq nikkei selloff five key factors for sensex nifty 50 on nov 6 ndtv profit",
-    "indian stocks buck global tech rout post best week in 6 years reuters"
+    "indian stocks buck global tech rout post best week in 6 years reuters",
+    "diwali 2026 stock market enters samvat 2083 with nifty 50 above 25000 key support resistance levels targets to know tradingview"
   ],
   "articles": [
     {
@@ -155,16 +187,16 @@
       "publishedAt": "Fri, 06 Nov 2026 01:14:59 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty To Nasdaq, Nikkei Selloff; Five Key Factors For Sensex, Nifty 50 On Nov 6 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb2hpSWFValVMT0hocU50Q3I0Rklqd3lmR2F2WWRVTERwS3JPeE5wZ0lRU2lRTTA4U01IT0Z4aFFINUlqLVM4MXZXTHJhNVB4LXEzclYzOGQtc2NWOUE3X2NweTRsSGNkeXUwcE9ZdUd3aXdVM0JMWmk5SzVXazJwU3JTcG1DVy1QRG51MWdUOFl2ZzhIVUl4TWVKTEpCelhGa3l4bWptaXhmWV9vY1k5eDRvVkx2Wjl1QzlVOUQ0MzhCY3JmVk95bFo1NmZNVDYzRXFFOVR4RWVuWEJqU2NwYVBDcG9OR1VoRmotMjhEeFlJUdIB-gFBVV95cUxQSFlMQWZmZll3X1hzTGZJaW1BN2g4SUpZODhXdGlrOEhIVE5zZTNGVUc1UnNEUW9NWnFJekROcTBYWDNrY3lDQ2JGUFJuS2RyTDN1MVZMd0VqTjJKMVQ4WnljZEZLajFYS1ZpeVBOb0w1VWdqaTk3eFI5M01LWEFiOHBCMTlHVGd3LXFnUFY5OVpnaVlsTERmNVVDNmNXaHY5M1EzQk1MZzFRaDZiRVRwZDl6SmRJMkdWZlM3ZTZpYkw1dDlROTNQcUlJZUNsb1ViS2R2MEZLWFFKbTZJV3N1YU1zbWR2M0Jpc2RCNG9nNjJFUkVjSFZpMlVR?oc=5",
-      "publishedAt": "Fri, 06 Nov 2026 01:34:40 GMT"
-    },
-    {
       "title": "Indian stocks buck global tech rout, post best week in 6 years - Reuters",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5",
       "publishedAt": "Fri, 06 Nov 2026 02:27:00 GMT"
+    },
+    {
+      "title": "Diwali 2026: Stock market enters Samvat 2083 with Nifty 50 above 25,000: Key support, resistance levels. Targets to know - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNd09uYmh3RGRCb2gzejZncFJrU3hIVDJnUzNGTkRfSnFnUjN6TS1hSTZkMWlHM2NnY2JOUW9HTDRnLVZYYkJndEdMZEJ3VFpHaHA2TS1MRkthZE9vWm5fUkZGbWxpaVNfLWNUSzdkVDRmbzdEdi01elphT3l3ZXJhTmlqNy1FNHJXSkM3WVNKR2RwdXJZWnNjUnpBRS1ZS01PWUhGbWxRQW9EV05TaXVEY3Vnc3k5MDEwNnZMRF85aGRyOElvM05wc1o5WVNOLU1WSURWM2lwRllTNnl5WlFxRE5ZSDhsVGV1N2xKQ3otMDA5TUJ6bENhTmx0U2FjcHRzNldR?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 12:34:24 GMT"
     }
   ]
 }
