@@ -1,44 +1,61 @@
 {
-  "headline": "Sensex and Nifty End Marginally Lower in Tepid Muhurat Trading Session, Snapping Seven-Day Winning Streak",
+  "headline": "Indian Benchmark Indices End Marginally Lower in Muhurat Trading, Breaking Seven-Day Winning Streak",
   "marketStatus": {
     "isClosed": false,
-    "isMuhuratTrading": true,
-    "message": "Today is Diwali Laxmi Pujan. NSE will conduct Muhurat Trading. Exact trading timings are notified separately by NSE.",
-    "nextOpen": "Monday, 9 November 2026"
+    "isMuhuratTrading": false,
+    "message": "Market is open for trading today.",
+    "nextOpen": ""
   },
   "why": [
-    "Sensex and Nifty edged marginally lower during the Muhurat trading session, pausing after a seven-day rally.",
-    "Indian stocks ended in the red on Diwali for the first time in eight years.",
-    "Samvat 2083 got off to a tepid start as headline indices slipped slightly while smaller companies saw gains.",
-    "The minor dip comes right after Indian equities posted their best weekly performance in six years."
+    "Sensex and Nifty ended marginally lower during the Muhurat trading session, pausing a seven-day rally.",
+    "Indian stocks broke an eight-year Diwali winning streak as benchmarks saw a slight decline.",
+    "Global factors and commodity price volatility are expected to influence market sentiment in Samvat 2083.",
+    "Investors are closely watching key macroeconomic developments and global cues for Monday trading action."
   ],
   "whatHappening": [
-    "BSE and NSE conducted the special annual Muhurat trading session on Diwali Laxmi Pujan.",
-    "Benchmark indices Sensex and Nifty saw a tiny drop, breaking their 7-day winning run.",
-    "Smaller companies and broader market segments outperformed headline indices during the session.",
-    "Market participants are evaluating key domestic and global factors ahead of Monday's regular trading session."
+    "BSE and NSE conducted the special Muhurat trading session to mark the start of Samvat 2083.",
+    "Indian markets had previously registered their best weekly performance in six years, bucking a global tech rout.",
+    "Smaller capitalization stocks outperformed benchmark indices during the Diwali trading session.",
+    "Tata Motors continues to lead Mahindra & Mahindra in passenger vehicle market market share driven by strong EV sales."
   ],
-  "stocksInNews": [],
-  "summary": "Indian stock markets concluded the special Diwali Muhurat trading session on a muted note, with the Sensex and Nifty snapping a seven-day rally.\nThis session marked the start of Samvat 2083 and represented the first red Diwali close for Indian stocks in eight years, though smaller companies managed gains.\nInvestors now turn their attention to Monday's trading session following an otherwise strong week for domestic equities.",
-  "updatedAt": "2026-11-08T18:01:35.899Z",
+  "stocksInNews": [
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        0
+      ]
+    }
+  ],
+  "summary": "Indian benchmark indices closed marginally lower during the Diwali Muhurat trading session, snapping a seven-day winning streak.\nDespite the slight drop, Indian equities recently recorded their strongest weekly performance in six years.\nMarket participants are monitoring global commodity price volatility and key market triggers for the upcoming week.",
+  "updatedAt": "2026-11-08T19:01:33.427Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-11-08",
+  "dateChecked": "2026-11-09",
   "articleKeys": [
+    "tamo keeps mm in its rearview as ev sales drive lead in pv market race",
     "atletico madrid vs barcelona live streaming when where to watch laliga match on tv online",
     "fiorentina vs juventus live streaming when and where to watch serie a match live in india",
     "mumbai thane choke on diwali pollution as firecrackers push aqi to severe levels",
+    "amazon pays next customers are in small towns and they want credit",
     "will gadi eisenkot be israels next pm herzog tasks netanyahus rival with forming government",
     "4 dead 88 injured in egypt train crash rescue operations underway",
     "delhi aqi at very poor category netizens report smelling smoke as diwali celebrations gather pace",
+    "global developments to keep commodity prices volatile in samvat 2083",
     "ai spending boom nears peak jefferies flags risks to big techs 1 trillion capex",
-    "wall street races for megadeals as countdown begins on trump era",
-    "ramayana box office collection day 4 nitesh tiwari film crosses rs 200 crore in india",
-    "inter milan vs como 1907 live streaming when and where to watch serie a match live in india",
     "share market bse and nse conduct muhurat trading on diwali news on air",
     "indian stocks buck global tech rout post best week in 6 years reuters",
     "indian stock market pauses after sevenday rally as sensex nifty end diwali session lower firstpost",
-    "muhurat trading sensex nifty end marginally lower after sevenday rally rediff",
     "ahead of market 10 things that will decide stock market action on monday the economic times",
+    "muhurat trading sensex nifty end marginally lower after sevenday rally rediff",
     "muhurat trading breaks 7day rally in stock markets as nifty sensex see tiny drop india today",
     "indian stocks end in red on diwali after eight years break 7day winning run the indian express",
     "muhurat trading 2026 sensex nifty edge lower key sectors to watch indiaipo",
@@ -46,6 +63,12 @@
     "samvat 2083 off to a tepid start sensex nifty slip smaller cos up business standard"
   ],
   "articles": [
+    {
+      "title": "TaMo keeps M&M in its rearview as EV sales drive lead in PV market race",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/auto/tamo-keeps-m-m-in-its-rearview-as-ev-sales-drive-lead-in-pv-market-race-126110800512_1.html",
+      "publishedAt": "Sun, 08 Nov 2026 22:48:12 +0530"
+    },
     {
       "title": "Atletico Madrid vs Barcelona Live Streaming: When, Where To Watch LaLiga Match On TV, Online?",
       "source": "Zerodha Pulse",
@@ -63,6 +86,12 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/india/mumbai-thane-choke-on-diwali-pollution-as-firecrackers-push-aqi-to-severe-levels-12300909#publisher=newsstand",
       "publishedAt": "Sun, 08 Nov 2026 22:13:49 +0530"
+    },
+    {
+      "title": "Amazon Pay's next customers are in small towns, and they want credit",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/amazon-pay-s-next-customers-are-in-small-towns-and-they-want-credit-126110800351_1.html",
+      "publishedAt": "Sun, 08 Nov 2026 21:54:33 +0530"
     },
     {
       "title": "Will Gadi Eisenkot Be Israel's Next PM? Herzog Tasks Netanyahu's Rival With Forming Government",
@@ -83,28 +112,16 @@
       "publishedAt": "Sun, 08 Nov 2026 21:31:43 +0530"
     },
     {
+      "title": "Global developments to keep commodity prices volatile in Samvat 2083",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/markets-commodities-samvat-2083-commodity-outlook-crude-oil-gold-silver-global-risks-126110800289_1.html",
+      "publishedAt": "Sun, 08 Nov 2026 21:16:04 +0530"
+    },
+    {
       "title": "AI Spending Boom Nears Peak? Jefferies Flags Risks To Big Tech's $1 Trillion Capex",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/ai-spending-boom-nears-peak-jefferies-flags-risks-to-big-techs-1-trillion-capex-12300757#publisher=newsstand",
       "publishedAt": "Sun, 08 Nov 2026 20:45:43 +0530"
-    },
-    {
-      "title": "Wall Street Races For Megadeals As Countdown Begins On Trump Era",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/wall-street-races-for-megadeals-as-countdown-begins-on-trump-era-12300657#publisher=newsstand",
-      "publishedAt": "Sun, 08 Nov 2026 20:07:22 +0530"
-    },
-    {
-      "title": "Ramayana Box Office Collection Day 4: Nitesh Tiwari Film Crosses Rs 200 Crore In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/entertainment-cinema-bollywood-movie-ramayana-box-office-collection-day-4-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-film-sunday-earnings-12300531#publisher=newsstand",
-      "publishedAt": "Sun, 08 Nov 2026 19:41:01 +0530"
-    },
-    {
-      "title": "Inter Milan vs Como 1907 Live Streaming: When And Where To Watch Serie A Match Live In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/inter-milan-vs-como-1907-live-streaming-when-and-where-to-watch-serie-a-match-live-in-india-12295126#publisher=newsstand",
-      "publishedAt": "Sun, 08 Nov 2026 19:30:01 +0530"
     },
     {
       "title": "Share Market: BSE and NSE conduct muhurat trading on Diwali - News On AIR",
@@ -125,16 +142,16 @@
       "publishedAt": "Sun, 08 Nov 2026 11:50:27 GMT"
     },
     {
-      "title": "Muhurat Trading: Sensex, Nifty End Marginally Lower After Seven-Day Rally - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlU1cUZjQllWeGVHN1ItbVRQS0FwSF9leG0yMHktWnQ0c0piOUFmSWlrVXZXRm9pTU9MNlhBRUxDbXFSTHZ1ZlY1bVltdVNSZEUyMDJtUllNemV5d2tqODZTbVd0QUs0dERRVk1iVXFqMlhQSWR1aVZ0eXVnQ0RPWGNMdjhoeWh2d2dzNlhXdUdYTG1HWm1OYXotdmN0TEwtS1BTS2I4b3EwSEVRUnJXS2x5b1hsbFFCUWljaGpJZmt2Z9IBxAFBVV95cUxNUXVPLVlEamhsUkRibkpMcm5vYXRybTY4aEpuSkNTZ1ppcTFjQ3hMR2hiY0ZMX0NTcnE1RldFTFBCUjgtVTRFZGlJSWRUb3poZUtweEEtdHlBOXNvdm40alhzbjBKN05SeWlKY0hhUDJUeHFGTmJKbnVwNU9pZjh5TXB5YV9wTm5fN250ZTdzc2xXUFAxU3VTNE9NV2RzT1RneVFmSmVYdlpFUG1BZDRiTnhURmRkTy05NnMteDdRQkpwNE8t?oc=5",
-      "publishedAt": "Sun, 08 Nov 2026 11:32:41 GMT"
-    },
-    {
       "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR083dzM0REREVFVhdlNUd2JEVlNMZElRUGZBMEt1VDBIbUZNdnhlY2hRdVh0U1EwWWJtYjdMallmdXZyRXNhaGd1c1phOUJPRXNaWXFtNVFBalROeUtWY2QwZUdnX3RjbllUWnY0b3p4bmVTY0NXS3M4ZTl5R1hpQWszNDlvTkJleEhic3llUk1RNFl5T1l4R2YzT2dUeDdyQkRwWk1RbkVTNmxTYXIxM3lxVWZqN0JtbE1Oek8yQ2NaZVY0anhPXzNqOXlPMzl5eFlNZHJoVXk5bVE1TUZz0gHkAUFVX3lxTFBOWWxLai1QU25rNkpRNG5teTRsbUdnU1JOVmhsU3BicFhhUUNWOVpCTHIzazd4R0s1dWhrWUs1YkxFb1BkSkpicVdycVdkdmtMX2cxWkZEd1pSZ1RlS3B6aHBOMEF5d1RoazFTSm90WDN0aWhDTVJYMHM0M1dBRWltZWlEVXprZ3ZpVktJUUE5TGRYSGhRcE9DQXNHVjdCT01wZDFTMVRqalJTUWgwY3RNdGpTTmVBX1hQSmlTUlNfSkFZUlV5RnliZEY3bk1paFhCU1V3RnFma041ZXU2VkVLR2FwUw?oc=5",
       "publishedAt": "Sun, 08 Nov 2026 11:20:36 GMT"
+    },
+    {
+      "title": "Muhurat Trading: Sensex, Nifty End Marginally Lower After Seven-Day Rally - Rediff",
+      "source": "Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlU1cUZjQllWeGVHN1ItbVRQS0FwSF9leG0yMHktWnQ0c0piOUFmSWlrVXZXRm9pTU9MNlhBRUxDbXFSTHZ1ZlY1bVltdVNSZEUyMDJtUllNemV5d2tqODZTbVd0QUs0dERRVk1iVXFqMlhQSWR1aVZ0eXVnQ0RPWGNMdjhoeWh2d2dzNlhXdUdYTG1HWm1OYXotdmN0TEwtS1BTS2I4b3EwSEVRUnJXS2x5b1hsbFFCUWljaGpJZmt2Z9IBxAFBVV95cUxNUXVPLVlEamhsUkRibkpMcm5vYXRybTY4aEpuSkNTZ1ppcTFjQ3hMR2hiY0ZMX0NTcnE1RldFTFBCUjgtVTRFZGlJSWRUb3poZUtweEEtdHlBOXNvdm40alhzbjBKN05SeWlKY0hhUDJUeHFGTmJKbnVwNU9pZjh5TXB5YV9wTm5fN250ZTdzc2xXUFAxU3VTNE9NV2RzT1RneVFmSmVYdlpFUG1BZDRiTnhURmRkTy05NnMteDdRQkpwNE8t?oc=5",
+      "publishedAt": "Sun, 08 Nov 2026 11:32:41 GMT"
     },
     {
       "title": "Muhurat trading breaks 7-day rally in stock markets as Nifty, Sensex see tiny drop - India Today",
