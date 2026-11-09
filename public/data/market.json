@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty slip as profit-taking hits IT stocks; L&T and Nuvama Wealth post gains",
+  "headline": "Sensex and Nifty fluctuate as profit-taking in IT stocks offsets PSU bank gains",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,22 +7,22 @@
     "nextOpen": ""
   },
   "why": [
-    "Profit-taking emerged after recent market rallies, pushing indices below key psychological levels.",
-    "Major IT companies like TCS, Infosys, and HCL Tech are facing selling pressure, dragging the benchmarks.",
-    "Investors are reacting to mixed corporate news, including strong Q2 earnings and significant new contract wins.",
-    "Global market themes and economic data points like US nonfarm payrolls are keeping investor sentiment cautious."
+    "Profit-booking set in following a recent pre-Diwali rally.",
+    "Major IT stocks like HCL Tech, Infosys, and TCS dragged indices lower in early trade.",
+    "Sensex recovered over 500 points from the day's low while Nifty crossed 25,000.",
+    "Nifty PSU Bank index gained 2% helping markets recover from early losses."
   ],
   "whatHappening": [
-    "The Nifty 50 index is struggling to maintain the 25,000 level amid early trade volatility and profit-booking.",
-    "Larsen & Toubro (L&T) has secured a significant order from Noida Metro for the Aqua Line extension project.",
-    "Nuvama Wealth Management reported a 19% year-on-year rise in Q2 net profit to Rs 304 crore.",
-    "Dixon Technologies is facing cash flow challenges as surging receivables and inventory levels impact working capital."
+    "Nuvama Wealth Management reported a 19% YoY profit increase to Rs 304 crore in Q2.",
+    "L&T secured a significant contract from Noida Metro for the Aqua Line extension.",
+    "BlueStone recorded a 45% Y-o-Y growth in Q3 FY27 driven by strong festive demand.",
+    "Dixon Technologies is seeing working capital pressure due to surging inventory and receivables."
   ],
   "stocksInNews": [
     {
       "symbol": "NUVAMA",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         0
       ]
@@ -30,57 +30,54 @@
     {
       "symbol": "LT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         3
       ]
     },
     {
+      "symbol": "BLUESTONE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
       "symbol": "DIXON",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         5
       ]
     },
     {
-      "symbol": "ZOMATO",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
       "symbol": "HCLTECH",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        11,
         12
       ]
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        11,
         12
       ]
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        11,
         12
       ]
     }
   ],
-  "summary": "Indian indices opened flat but quickly slipped into the red as profit-booking hit the IT sector, with heavyweights like TCS and Infosys dragging the market. While L&T and Nuvama Wealth reported positive developments, Dixon Technologies faced scrutiny over cash flow concerns. Investors remain cautious following the Muhurat trading session, monitoring global cues and domestic earnings.",
-  "updatedAt": "2026-11-09T07:02:03.034Z",
+  "summary": "Indian benchmark indices opened in the red as early profit-taking dragged IT giants like TCS and Infosys lower. However, markets recovered off day's lows with Nifty scaling back above 25,000, bolstered by strong buying in PSU banks. Key corporate highlights include L&T's metro order win and Nuvama's 19% profit rise.",
+  "updatedAt": "2026-11-09T07:31:36.420Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-09",
   "articleKeys": [
@@ -102,8 +99,8 @@
     "share market bse and nse conduct muhurat trading on diwali news on air",
     "sensex nifty slip as profitbooking caps recent rally hdfc sky",
     "stock market today gift nifty us nonfarm payrolls to oil prices five key factors for sensex nifty 50 on november 9 ndtv profit",
-    "stock market holiday this week bse nse opened on sunday but will be closed on this day the economic times",
-    "for the first time since 2017 sensex and nifty end muhurat trading in the red the times of india"
+    "sensex nifty trade lower as prediwali explosive rally cools down why analysts are bullish the economic times",
+    "stock market holiday this week bse nse opened on sunday but will be closed on this day the economic times"
   ],
   "articles": [
     {
@@ -215,16 +212,16 @@
       "publishedAt": "Mon, 09 Nov 2026 01:39:23 GMT"
     },
     {
+      "title": "Sensex, Nifty trade lower as pre-Diwali explosive rally cools down. Why analysts are bullish - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZkg4WklpYmNESnBJcm5mSm1jVnVVR3ZERTVRSTVydFE5TllON1FRZU9HNEo5c00xanUtU3pST25NeHQ1S3p2dkpSdmE4a3Zxb2Zma1ZLY1RwalRIX2FodUpqMUVfaVZ6SEYyRnJSQ19nbU02bllhcDhSLU16eE5MYXFPYXpnWFBUMm8waWNLOHE4NjZXUmgyS2ZZT1JiaDRRREV6RVl4TDRGUlRrZkJ2NWhnak5TbXlkQnAyUkM5UHR0dXhWZXhvVm96OWZENEsxTUN5U1dDa0F5YVpmczlOVmY2OU43QmRWdkoxX1N5WnhhWjhTVlNV0gH8AUFVX3lxTE96MTZzQXRGaVlIenlwS1RoOGVKRms0N0xxMWRyY2ZfZFFYQW05d0FUYWc2dEFXR052ZThQRjhWcG1RUk9LeWxZdXUxLU1waDZhQ3BwcENMU3FRUW1EMDF3czNJTF9MSjJHbnJEUFpuREhyaVd1Vm1XdzlrSFhRTmFtMW8xVTZxdUNud1ozV0JWbHRCNE5WRkdmWkw2QURyVGtfRUkyWlFfMlpoRXBOM1RCb01NQW5DcHhORkZTbThScEpidE9TSFVUbEFkeGZ3TU5CRW5aMFpZdWNUUUllbnp3Tmw4U0FleHF4MmhZdF9vR1RkT3BPSnp4T1lCXw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 04:25:44 GMT"
+    },
+    {
       "title": "Stock market holiday this week: BSE, NSE opened on Sunday but will be closed on this day - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGdWNnl0cWNFa0JjTTdjM1prM0Y2b2NLV0FEWmxKR0t6dUF1cUE3cjNLdjVDU3E4ekt5N3FQQWNRWHo0X2VoRTNMLUVBaXdaWTAwc1gydWRvbVRQM0Z0TWc0dkc2eGVtaFZuU1RXNXhPSU5RWFVtVTdneHVwY0RJQm0xd0M5T1BxOVVpUGFOZXJrZkZIV1pTYTA2dVdwbWkwb2FFRGxQeVRkVkFnUmJYTUIyZFpMa3Y2allYa1RDVGI1Y2dIUGtFVllpaFdJb19NV1NBSERRUHNrWkFmZU55cnBoN3pRaU5FTi0yVVRINWRyUdIB9wFBVV95cUxPT0E0NlRkRjdhV29QZ2RnV3hJVjZvSThzdjZlbDd0NDdDejhteTNBamN6Zlh5UlRkU3JVWXdXWlh6Mk45M05FX004cnZEZUhDUDVMMkVITnZRVjJXUDJ1aUhHeXREQmplb2xzUmNPREIwYXZBNElTWjZ5OVVOQkg0STB1eVgwS21JZlF4STFrYlFpS1R1OFFnWk00ajdsYjdEWk9ob29lNEJiMGNaVEVGTWJ2elhWVi1mSHhQNENwT2tNM2hIOVozZDJQRzY2TEN1RHdTYVE1UzBiMVdLbXhlWmZvcnljbEpVSGVjRm55MEpFM2FnSDY0?oc=5",
       "publishedAt": "Mon, 09 Nov 2026 05:17:02 GMT"
-    },
-    {
-      "title": "For the first time since 2017, Sensex and Nifty end Muhurat trading in the red - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVENMVjFfbUI0dHh2dUdPWmNuVUxOTzJ5UXFDUXRsbmQ2a3UzMHF6YUN4dDNfd1AzUWt1bnAwT2JRajhRM291Y201bUhIQ3VoaTQ5V296bDMwVnNEUWVtLV9RaGdxWXE1a1FPQkh2Z2R6X1p2Zi10b3RrYlpiQm5PSENWLU4zU25rNWtzanpueXhza0JVbm51ZVVPMGdOLTBTY295cGlqbjhfaFBZTVFfaGNDSXVscGlDSTlqZ29falJrNmZTWnhDQkFJVEEzMnh0eU9sMjIwRTJxTVNfT3I0VDVEU2pNYXZNRGoyRkpxSDJUZmZ4bXfSAfsBQVVfeXFMTTR2NlRGWjQ0U2N6V3lORmd0NWhIMDB4ekVBeHV0UEJNeTVXcWNLUGJ4NUZJZzZoQ090dmlYZHNTeE9ITUtfZmNydmE1blpxdjk0U1FqaEo4RFJKXzc4NnV6YW42OUdiNmNLY1ppX0JzeTlVaUF0Tjh6Yk96Y0RZd0c4RTJFcjB3cnJUaFJFeU10NkFOSUN3d2tYRnM2ZFZRMUNJV09JVEpiYV9xWnlfdHNfam1Vb1ZuMUxmMzNBa3hKWFlmeksyb3hpSXlqNFBwZHVLVWVUV3ZIUVlWZ3h1OUFfdGM4WFlxcG1SNE42UnNXLTFVNkxsSFB3NGs?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 00:55:00 GMT"
     }
   ]
 }
