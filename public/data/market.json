@@ -1,5 +1,5 @@
 {
-  "headline": "GIFT Nifty indicates positive start for Indian markets after Sensex and Nifty ended Muhurat trading in red",
+  "headline": "Sensex Gains Pre-Open Above 25,050 Following Asian Cues; Q2 Results Drive Individual Stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,28 @@
     "nextOpen": ""
   },
   "why": [
-    "GIFT Nifty signals a positive opening for Indian benchmark indices.",
-    "Asian markets rebound as Brent crude oil prices fall below $98 per barrel.",
-    "Crude oil prices declined following statements that new Iran attacks are unlikely.",
-    "Global market focus shifts to US nonfarm payrolls and geopolitical developments."
+    "Sensex gained nearly 400 points in pre-open trading with Nifty crossing 25,050 supported by advancing Asian markets.",
+    "Markets snapped a seven-day winning streak during Muhurat trading on Diwali, closing in the red for the first time since 2017.",
+    "Indian equities previously registered their best weekly performance in six years despite a global tech selloff.",
+    "Major IT stocks HCL Tech, Infosys, and TCS acted as top drags on the Nifty index."
   ],
   "whatHappening": [
-    "Sensex and Nifty ended the Diwali Muhurat trading session in the red for the first time since 2017.",
-    "The Muhurat trading decline snapped a seven-day winning streak for Indian benchmark indices.",
-    "Indian stock markets start Samvat 2083 following the pause in the recent market rally.",
-    "Asian shares trade higher as global markets attempt to recover from recent tech sector routs."
+    "Tata Steel received target price hikes from Goldman Sachs and bullish ratings from HSBC and Jefferies following an earnings beat.",
+    "Hindalco posted record Q2 profit, though brokerages expressed divided views on the aluminium sector outlook.",
+    "Voltas and Jubilant FoodWorks saw split brokerage outlooks over Q2 margin recovery expectations.",
+    "L&T Finance featured among stocks that fell below their volume-weighted average price (VWAP)."
   ],
   "stocksInNews": [
     {
-      "symbol": "ALKEM",
+      "symbol": "TATASTEEL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
@@ -28,108 +36,140 @@
       ]
     },
     {
-      "symbol": "MTNL",
+      "symbol": "JUBLFOOD",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        4
       ]
     },
     {
-      "symbol": "WOCKPHARMA",
-      "sentiment": "Positive",
+      "symbol": "VOLTAS",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        5
+        3
+      ]
+    },
+    {
+      "symbol": "LTF",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        17
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        17
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        17
       ]
     }
   ],
-  "summary": "GIFT Nifty signals a positive start for Indian equities following a rebound in Asian markets and lower crude oil prices.\nThis follows the Diwali Muhurat trading session where Sensex and Nifty closed lower for the first time since 2017, ending a 7-day rally.\nInvestors remain focused on global market trends, US economic data, and geopolitical developments as trading resumes.",
-  "updatedAt": "2026-11-09T03:01:35.312Z",
+  "summary": "Indian benchmark indices opened higher on November 9, recovering from losses incurred during the Diwali Muhurat trading session.\nQ2 earnings reports triggered individual stock movements across Tata Steel, Hindalco, Voltas, and Jubilant FoodWorks.\nIT heavyweights including TCS, Infosys, and HCL Tech remained key drags on the broader indices.",
+  "updatedAt": "2026-11-09T04:01:44.678Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-09",
   "articleKeys": [
-    "stock market live gift nifty indicates positive open most asian markets rebound brent below 98",
-    "oil falls as donald trump says new iran attacks unlikely",
-    "nvidia ceo huang admits affair with chinese spy company launches probe",
-    "positive breakout these 6 stocks cross above their 200 dmas",
-    "jensen huang was the mystery american what did nvidias chief know about alice huangs china links",
-    "five stocks to buy today november 9 alkem labs mtnl wockhardt and more",
-    "can nvidia board remove jensen huang over affair five scenarios that could decide ceos future",
-    "diwali crackers leave delhi gasping as aqi soars how polluted are mumbai bengaluru other indian cities",
-    "sensex today nifty 50 stock market live updates gift nifty signals a positive start asian shares trade higher",
-    "gold silver prices may sway with usiran tensions",
+    "stock market live sensex rises nearly 400 pts at preopen nifty tops 25050 asia markets advance",
+    "why nvidias board is investigating ceo jensen huang all you need to know",
+    "lampt finance among 6 stocks that dropped below their vwaps",
+    "voltas q2 review goldman jefferies ubs split on outlook as margin recovery remains key concern",
+    "jubilant foodworks q2 review brokerages see growth recovery differ on margin outlook check potential upside",
+    "hindalco q2 review record profit but brokerages split on aluminium outlook",
+    "jensen huang under investigation what we know about nvidia ceo and china spy allegations",
+    "fire incidents rock mumbai thane on diwali night dozens rescued from raheja gardens vidyavihars skyline epitome",
+    "karnataka overhauls 1st puc exam will introduce common statelevel question papers from 2027",
+    "tata steel q2 review goldman sachs hikes target hsbc jefferies remain bullish after earnings beat",
     "stock market outlook today 9 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian stocks buck global tech rout post best week in 6 years reuters",
-    "share market bse and nse conduct muhurat trading on diwali news on air",
     "stock market today gift nifty us nonfarm payrolls to oil prices five key factors for sensex nifty 50 on november 9 ndtv profit",
+    "share market bse and nse conduct muhurat trading on diwali news on air",
     "first since 2017 sensex nifty end in red on diwali snap 7day winning run the indian express",
+    "stock market today sensex nifty rise 06 preopen hdfc sky",
     "indian stock market pauses after sevenday rally as sensex nifty end diwali session lower firstpost",
+    "stock market today sensex drops nifty 50 around 24900 hcl tech infosys tcs top drags ndtv profit",
     "for the first time since 2017 sensex and nifty end muhurat trading in the red the times of india",
-    "stock market today all you need to know going into trade on nov 9 ndtv profit",
-    "ahead of market 10 things that will decide stock market action on monday the economic times",
-    "sensex nifty start samvat 2083 in red whats the outlook till next diwali what should investors do the times of india"
+    "stock market today all you need to know going into trade on nov 9 ndtv profit"
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: GIFT Nifty indicates positive open; most Asian markets rebound; Brent below $98",
+      "title": "Stock Market LIVE: Sensex rises nearly 400 pts at pre-open, Nifty tops 25,050; Asia markets advance",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html",
-      "publishedAt": "Mon, 09 Nov 2026 07:53:15 +0530"
+      "publishedAt": "Mon, 09 Nov 2026 09:08:32 +0530"
     },
     {
-      "title": "Oil falls as Donald Trump says new Iran attacks ‘unlikely’",
+      "title": "Why Nvidia's board is investigating CEO Jensen Huang: All you need to know",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/oil-falls-as-donald-trump-says-new-iran-attacks-unlikely/article71681302.ece",
-      "publishedAt": "Mon, 09 Nov 2026 07:48:42 +0530"
+      "link": "https://www.business-standard.com/world-news/why-nvidia-s-board-is-investigating-ceo-jensen-huang-all-you-need-to-know-126110900103_1.html",
+      "publishedAt": "Mon, 09 Nov 2026 09:04:26 +0530"
     },
     {
-      "title": "Nvidia CEO Huang admits affair with Chinese spy, company launches probe",
+      "title": "L&amp;T Finance among 6 stocks that dropped below their VWAPs",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/nvidia-probes-reports-of-ceo-jensen-huang-being-targeted-by-china-126110900032_1.html",
-      "publishedAt": "Mon, 09 Nov 2026 07:42:37 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lampt-finance-among-6-stocks-that-dropped-below-their-vwaps/slideshow/135669893.cms",
+      "publishedAt": "Mon, 09 Nov 2026 09:03:49 +0530"
     },
     {
-      "title": "Positive Breakout: These 6 stocks cross above their 200 DMAs",
+      "title": "Voltas Q2 Review: Goldman, Jefferies, UBS Split On Outlook As Margin Recovery Remains Key Concern",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-stocks-cross-above-their-200-dmas/slideshow/135668381.cms",
-      "publishedAt": "Mon, 09 Nov 2026 07:39:52 +0530"
+      "link": "https://www.ndtvprofit.com/markets/voltas-q2-review-goldman-jefferies-ubs-split-on-outlook-as-margin-recovery-remains-key-concern-12301697#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 08:31:37 +0530"
     },
     {
-      "title": "Jensen Huang Was the 'Mystery American': What Did Nvidia's Chief Know About Alice Huang's China Links?",
+      "title": "Jubilant FoodWorks Q2 Review: Brokerages See Growth Recovery, Differ On Margin Outlook | Check Potential Upside",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/jensen-huang-was-the-mystery-american-what-did-nvidias-chief-know-about-alice-huangs-china-links-12301554#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 07:29:32 +0530"
+      "link": "https://www.ndtvprofit.com/markets/jubilant-foodworks-q2-review-brokerages-see-growth-recovery-differ-on-margin-outlook-check-target-price-potential-upside-12301692#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 08:29:50 +0530"
     },
     {
-      "title": "Five Stocks To Buy Today, November 9: Alkem Labs, MTNL, Wockhardt And More",
+      "title": "Hindalco Q2 Review: Record Profit, But Brokerages Split On Aluminium Outlook",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/five-stocks-to-buy-today-november-9-alkem-labs-mtnl-wockhardt-onesource-specialty-pharma-venus-pipes-and-more-12301572#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 07:25:24 +0530"
+      "link": "https://www.ndtvprofit.com/markets/hindalco-q2-review-record-profit-but-brokerages-split-on-aluminium-outlook-12301680#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 08:23:33 +0530"
     },
     {
-      "title": "Can Nvidia Board Remove Jensen Huang Over Affair? Five Scenarios That Could Decide CEO's Future",
+      "title": "Jensen Huang Under Investigation: What We Know About Nvidia CEO And China Spy Allegations",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/can-nvidia-board-remove-jensen-huang-five-scenarios-that-could-decide-ceos-future-12301558#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 07:23:55 +0530"
+      "link": "https://www.ndtvprofit.com/business/jensen-huang-under-investigation-what-we-know-about-nvidia-ceo-and-china-spy-allegations-12301618#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 08:17:43 +0530"
     },
     {
-      "title": "Diwali Crackers Leave Delhi Gasping As AQI Soars; How Polluted Are Mumbai, Bengaluru & Other Indian Cities?",
+      "title": "Fire Incidents Rock Mumbai, Thane On Diwali Night; Dozens Rescued From Raheja Gardens, Vidyavihar's Skyline Epitome",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/diwali-crackers-leave-delhi-gasping-as-aqi-soars-how-polluted-are-mumbai-bengaluru-other-indian-cities-12301544#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 07:23:34 +0530"
+      "link": "https://www.ndtvprofit.com/india/mumbai-thane-fires-on-diwali-night-dozens-rescued-from-raheja-gardens-vidyavihars-skyline-epitome-12301622#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 08:16:44 +0530"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher",
+      "title": "Karnataka Overhauls 1st PUC Exam: Will Introduce Common State-Level Question Papers From 2027",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-mm-bhel-share-price-09-november-2026/liveblog/135667960.cms",
-      "publishedAt": "Mon, 09 Nov 2026 07:15:05 +0530"
+      "link": "https://www.ndtvprofit.com/education/karnataka-overhauls-1st-puc-exam-will-introduce-common-state-level-question-papers-from-2027-12301658#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 08:13:15 +0530"
     },
     {
-      "title": "Gold, silver prices may sway with US-Iran tensions",
+      "title": "Tata Steel Q2 Review: Goldman Sachs Hikes Target; HSBC, Jefferies Remain Bullish After Earnings Beat",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-may-sway-with-us-iran-tensions/articleshow/135668216.cms",
-      "publishedAt": "Mon, 09 Nov 2026 07:09:23 +0530"
+      "link": "https://www.ndtvprofit.com/markets/tata-steel-q2-review-goldman-sachs-hikes-target-hsbc-jefferies-remain-bullish-after-earnings-beat-12301647#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 08:08:47 +0530"
     },
     {
       "title": "Stock market outlook today, 9 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -144,16 +184,16 @@
       "publishedAt": "Fri, 06 Nov 2026 11:15:10 GMT"
     },
     {
-      "title": "Share Market: BSE and NSE conduct muhurat trading on Diwali - News On AIR",
-      "source": "News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1VnVyaldVOTRwQk5DZXlLdDZyTzN0UmIwaERMR1E0Q3JCQTZETnAwRGJfRG11ZEdTZkpKcGsxamVOdjVISXBMeDNpZWpjQTN2SjJkOEFDWFlQdUM3U3BtM3V4b3M0Z1VJOE9IM1ktMXg5UmFPU051V3hMbw?oc=5",
-      "publishedAt": "Sun, 08 Nov 2026 12:41:36 GMT"
-    },
-    {
       "title": "Stock Market Today: Gift Nifty, US Nonfarm Payrolls To Oil Prices; Five Key Factors For Sensex, Nifty 50 On November 9 - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZTlmdUlkb2RuMGtkdHp4eUJETmlORjZtYm12anJ2UW1NLW01a1dhMDl0Y3gwdWtXelBkeFl0VlBXU1lLVVdVSkJELXNJeENXbFFCNWNyTGlBSlhTaUpxZldoVGROSUFOY0Z1eTRnRDU1cktWblBUdTlkOGdybkRIQzBuRjlPOFdDUzNaSFpWV2g2Y0tuREUyZElHYmdwMzhCcEpCMFZXdE9LbHNLTk1pT05FUmI5SlVHcEV1VDJZZFRhZVVyN01sQktGVXp3YlNIY2ZzZlhId1JxOVFrRHVHUXQ5TkpjRkRhWTZQX3l4cjh0dzgyQVdISFZRcFhMd9IBhgJBVV95cUxOTnJNclYwTWw1TTVPZ3U0d2FxV2pIUEJ5MEJOZTdVY3EtUWZFV2dBVzNmQmN6bWQ5SE56Q1p1T1FyUm1xN200OFpEQXB2eE5sVkJYbi1LVjdaNGV5MHNDUVNWbENOaEs3Q2Nyd3NsUC1zVVJVRXFyMTFVUU9vTExxOXZsbmd0NDFzdzBnQ3o0aUJ5clBybzFKOWpxM3huaTNyeGNEX0taRlMwY2RjRjlwTFlKVWhaci16d2VTb09yRGVzTVRNZ1ZUcExMRmxpSVFlZk5iSWdMN0pWcG41V1luZ3hHMk5fN3I2VVFpa25XTC1VWU5hV0NGWkd1WF9QeDdIQnBvaXRn?oc=5",
       "publishedAt": "Mon, 09 Nov 2026 01:39:23 GMT"
+    },
+    {
+      "title": "Share Market: BSE and NSE conduct muhurat trading on Diwali - News On AIR",
+      "source": "News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1VnVyaldVOTRwQk5DZXlLdDZyTzN0UmIwaERMR1E0Q3JCQTZETnAwRGJfRG11ZEdTZkpKcGsxamVOdjVISXBMeDNpZWpjQTN2SjJkOEFDWFlQdUM3U3BtM3V4b3M0Z1VJOE9IM1ktMXg5UmFPU051V3hMbw?oc=5",
+      "publishedAt": "Sun, 08 Nov 2026 12:41:36 GMT"
     },
     {
       "title": "First since 2017, Sensex & Nifty end in red on Diwali; snap 7-day winning run - The Indian Express",
@@ -162,10 +202,22 @@
       "publishedAt": "Sun, 08 Nov 2026 22:33:00 GMT"
     },
     {
+      "title": "Stock Market Today: Sensex, Nifty Rise 0.6% Pre-Open - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFlfdVVQcndhZkk0di1WTnFHM0hWemJBeGFsZ3Q4V3J0R0ZFLU05WWp3Tk5YS3FOLTM1U0dLTTBaWWpNdHVzczA1OFZ3a3N2RkdDM0Rucm96aTMtVVp5aDNXdk8tdldOaER4QzU0NDdISUVwTlRfTEFJV3lUOGRnUHdLU3JFRi1Vd3JtcWNCc3ZGYnRWeEotRw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 03:39:04 GMT"
+    },
+    {
       "title": "Indian stock market pauses after seven-day rally as Sensex, Nifty end Diwali session lower - Firstpost",
       "source": "Firstpost",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX1U3TFIxZXFTajJGMFRGVlZ0TGxnOGdkVHRQbEt0Ymk4Q1NZRUUxZmVwakdTNmVlWW96Tzd0M1pHOVBEX3llWmNzWjl4V2lkeXItcnJJRGprUm1ad2pGTGxIMkxpcWhtaEVaNHJfWURJTDlGVEh6dUpaZjNxVy1PWlVsakc5TXU3X0FkVDVFUjE4X2tFeFBtaUt3QWRfWEZzanQ5MVA3Y1FXUE9fS3RXSGJiTjdLR0plYWlEWWNNX254MVRON014eVNZREc4ZFRYWS1VZNIB2gFBVV95cUxQM0JLN2xmN1JiTkJqSk5PWEJoN3BxNkhJbjBxLU1WbmlrUDZnZ1V3cjB2RnZfNmlvLVNMaHFwOUk3Q2ZDODJET1IzUDdNMW0xVzg2RzRWVThMWXk4eXNnWGJQakIxRTA2eWFPSlRoeTJ3NTNmWGNLMThnTUJERGNEblR3QU8xSkp6QzVGcHZ2VFdlb3RTR1VXcFYwMGtlZ2hGY2U1Y2RrOWxiV2loVDU0eHFHNU5HalVfUFpmRllzdmwwWjdqQ20yczdmajVUbEpoZ3hlY0dvS2RYQQ?oc=5",
       "publishedAt": "Sun, 08 Nov 2026 11:50:27 GMT"
+    },
+    {
+      "title": "Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS Top Drags - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmxRSVlEM2EzLVNFZjNYSjlPMG9ONXZVOGJoQ3BJMkJEZWU5Y2Q5MklUVDl3ZGVwemNuTG1IVWtrbTFCRDJHTEpnZmZNWnVDcTVFZmtJYjdreno3RlVCRWVMbjJuMGUyZldEeUNjUWVCTXRDSkMwaFE0WE1CbkdFT0hxTmVLMTZFWVBxMHlZYXhFZFhRNTVIaVVfV19Md0VHQ1N1SXp5dkRabjN0M3lOTHE4WWNEVkJqRFkyOXRaNEN4c05qSHdpaEFJU00td3REU0RBUUFOUnZWSHfSAeMBQVVfeXFMUE1vNVZkR0pETG9lU0JzR2VNVVhMcFRtMVZwTEJnenQ5NGIwRlh3LUhFVlZCYllKQVhtcXNUNkw1dlFGMzFBM0pPYldOcExJdHd6alJZS2h4ODdSZVNOYmNXQk9USGdRSEhFZFplcGdLcnhfLWVjLUFvLTJpSHlsU0FZZzJLTVoxbE5yQ1gxT04ybUQzTmo0YkhTWlpJR1BaWVoyZWRXV2RBT2ZFYWVPMGcwaVZEdFRxc0VzTXRJT0toeHJVWFk5MEtZWkxzTHNDNjgtZEpCY2Y3WnhnZmdrLThzNEE?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 03:46:41 GMT"
     },
     {
       "title": "For the first time since 2017, Sensex and Nifty end Muhurat trading in the red - The Times of India",
@@ -177,19 +229,7 @@
       "title": "Stock Market Today: All You Need To Know Going Into Trade On Nov 9 - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMi1XTWRKMWRNQ3lRNDFrRzN4MG96U1JCRnhkUk9ITlI4aXJnNGRkYlBuN1dsMUdsSTgtaEJ4Nm1IanR4ZVFwZ0FINENPX3daOV8xbDRueEo1bEwyWkZ4aG84cGQ5emx0UmtaSDRUQ1FYVEI1bEotX0dPeHlmZEtYVDJIN2JKbGpGVEUzRWVCMTNSN2J3SjE1X3pMdkZDTXhiUnZJU2lHNmNfM21UT2fSAbYBQVVfeXFMTnJjOTJmY1kyU2NVV3BHT3g5Q3UzdHVKNC1aY3RobUZzZTRMSkVKNDdHNC1FbkFTOG1PVGZ6Zl80U1RscUp4dHhlbURVXzE3NGdrVWJwSmRjY29OX1NNMWRNNkVzQzA4eHIteDl0NEttVmxYcE85NHM2OXFkV0NCR2hHRkFxNkVsQ0FjVUxSRjJYdEg3aTBuZzhkcW90Q3FlRkxURm0tS2hPcXN4d0pnRVE3RG1SS0E?oc=5",
-      "publishedAt": "Sun, 08 Nov 2026 23:30:01 GMT"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR083dzM0REREVFVhdlNUd2JEVlNMZElRUGZBMEt1VDBIbUZNdnhlY2hRdVh0U1EwWWJtYjdMallmdXZyRXNhaGd1c1phOUJPRXNaWXFtNVFBalROeUtWY2QwZUdnX3RjbllUWnY0b3p4bmVTY0NXS3M4ZTl5R1hpQWszNDlvTkJleEhic3llUk1RNFl5T1l4R2YzT2dUeDdyQkRwWk1RbkVTNmxTYXIxM3lxVWZqN0JtbE1Oek8yQ2NaZVY0anhPXzNqOXlPMzl5eFlNZHJoVXk5bVE1TUZz0gHkAUFVX3lxTFBOWWxLai1QU25rNkpRNG5teTRsbUdnU1JOVmhsU3BicFhhUUNWOVpCTHIzazd4R0s1dWhrWUs1YkxFb1BkSkpicVdycVdkdmtMX2cxWkZEd1pSZ1RlS3B6aHBOMEF5d1RoazFTSm90WDN0aWhDTVJYMHM0M1dBRWltZWlEVXprZ3ZpVktJUUE5TGRYSGhRcE9DQXNHVjdCT01wZDFTMVRqalJTUWgwY3RNdGpTTmVBX1hQSmlTUlNfSkFZUlV5RnliZEY3bk1paFhCU1V3RnFma041ZXU2VkVLR2FwUw?oc=5",
-      "publishedAt": "Sun, 08 Nov 2026 11:20:36 GMT"
-    },
-    {
-      "title": "Sensex, Nifty start Samvat 2083 in red: What's the outlook till next Diwali & what should investors do? - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQekxRRDRwbElibnVZbGlGeHpHbGRqeTFRNlR6YndEd2RWY1k2QU5TeTRQNU5GYV9aZmJSLW1nZG95dkdnU09FejBSSmZZTktuNVpUUVZxV29JWGhoWFFjSEduM0Z3b05Hb1VOai1uZmpmRWZtdXRzRHpIUy1QMHlQNDZtOGlGRk93ZTNTTGktX0xLOFpmSUJtcy1yNWJuUlFBcS1FV3pHZ3cyVEpxMmxzZ2tPeGxNVk1KQ3NvQk9EblRMeXRiajRjY19mRkptbUxPZDJWbTRoVERTenltWUU5RGZ6WWVPWGl4a0Jqd0JpbDNiY1dwODd6UmVqTHRMVTBweXhUMFZZY0gya2piZ2JEdg?oc=5",
-      "publishedAt": "Sun, 08 Nov 2026 14:12:00 GMT"
+      "publishedAt": "Mon, 09 Nov 2026 03:33:15 GMT"
     }
   ]
 }
