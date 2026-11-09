@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Gains Pre-Open Above 25,050 Following Asian Cues; Q2 Results Drive Individual Stocks",
+  "headline": "Sensex and Nifty open higher amid positive global cues and Tata Steel earnings beat, despite IT sector pressure",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,38 +7,30 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex gained nearly 400 points in pre-open trading with Nifty crossing 25,050 supported by advancing Asian markets.",
-    "Markets snapped a seven-day winning streak during Muhurat trading on Diwali, closing in the red for the first time since 2017.",
-    "Indian equities previously registered their best weekly performance in six years despite a global tech selloff.",
-    "Major IT stocks HCL Tech, Infosys, and TCS acted as top drags on the Nifty index."
+    "Positive global cues and advancing Asian markets provided a strong opening for Indian indices.",
+    "Tata Steel reported an earnings beat, leading to bullish ratings from major brokerages.",
+    "Jubilant FoodWorks showed signs of growth recovery in its Q2 review.",
+    "The market saw a pre-open rise of nearly 400 points for the Sensex."
   ],
   "whatHappening": [
-    "Tata Steel received target price hikes from Goldman Sachs and bullish ratings from HSBC and Jefferies following an earnings beat.",
-    "Hindalco posted record Q2 profit, though brokerages expressed divided views on the aluminium sector outlook.",
-    "Voltas and Jubilant FoodWorks saw split brokerage outlooks over Q2 margin recovery expectations.",
-    "L&T Finance featured among stocks that fell below their volume-weighted average price (VWAP)."
+    "Nifty topped the 25,050 level during the pre-open session before facing some volatility.",
+    "Major IT stocks including HCL Tech, Infosys, and TCS emerged as top drags on the market.",
+    "The Diwali Muhurat trading session ended in the red for the first time since 2017.",
+    "Brokerages are divided on the outlook for stocks like Voltas and Hindalco despite record profits."
   ],
   "stocksInNews": [
     {
       "symbol": "TATASTEEL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         9
       ]
     },
     {
-      "symbol": "HINDALCO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
       "symbol": "JUBLFOOD",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         4
       ]
@@ -46,15 +38,23 @@
     {
       "symbol": "VOLTAS",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         3
       ]
     },
     {
-      "symbol": "LTF",
+      "symbol": "HINDALCO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "L&TFH",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         2
       ]
@@ -62,30 +62,30 @@
     {
       "symbol": "HCLTECH",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        17
+        18
       ]
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        17
+        18
       ]
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        17
+        18
       ]
     }
   ],
-  "summary": "Indian benchmark indices opened higher on November 9, recovering from losses incurred during the Diwali Muhurat trading session.\nQ2 earnings reports triggered individual stock movements across Tata Steel, Hindalco, Voltas, and Jubilant FoodWorks.\nIT heavyweights including TCS, Infosys, and HCL Tech remained key drags on the broader indices.",
-  "updatedAt": "2026-11-09T04:01:44.678Z",
+  "summary": "Indian indices opened higher on Monday following positive global cues and strong Q2 results from Tata Steel. However, the market faced immediate pressure from IT majors like TCS and Infosys, which acted as significant drags. This volatility follows a rare decline during the Diwali Muhurat trading session, with analysts remaining split on the outlook for metal and consumer durable sectors.",
+  "updatedAt": "2026-11-09T04:31:28.885Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-09",
   "articleKeys": [
@@ -103,12 +103,12 @@
     "indian stocks buck global tech rout post best week in 6 years reuters",
     "stock market today gift nifty us nonfarm payrolls to oil prices five key factors for sensex nifty 50 on november 9 ndtv profit",
     "share market bse and nse conduct muhurat trading on diwali news on air",
-    "first since 2017 sensex nifty end in red on diwali snap 7day winning run the indian express",
     "stock market today sensex nifty rise 06 preopen hdfc sky",
+    "first since 2017 sensex nifty end in red on diwali snap 7day winning run the indian express",
     "indian stock market pauses after sevenday rally as sensex nifty end diwali session lower firstpost",
+    "sensex nifty open higher amid positive global cues telangana today",
     "stock market today sensex drops nifty 50 around 24900 hcl tech infosys tcs top drags ndtv profit",
-    "for the first time since 2017 sensex and nifty end muhurat trading in the red the times of india",
-    "stock market today all you need to know going into trade on nov 9 ndtv profit"
+    "for the first time since 2017 sensex and nifty end muhurat trading in the red the times of india"
   ],
   "articles": [
     {
@@ -196,22 +196,28 @@
       "publishedAt": "Sun, 08 Nov 2026 12:41:36 GMT"
     },
     {
-      "title": "First since 2017, Sensex & Nifty end in red on Diwali; snap 7-day winning run - The Indian Express",
-      "source": "The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUFpS1hyRUd0clhzQkVUZmZJS0ZpWXV5VlIzbGpuNVJjeEdNTmtFUldPZmtFN0hOcjBWc1paLVVmRDk1T0RuRnN3WEs4QUNUVlhtdWRKY1kyOTE4M1Z6dW9LOGtBNVFNQUF4VWlZekJ2bTFLdTd1UlRxUmNYaGdXS2hGekRhNFpGMVFOdTFYLWJpNFZHSkthZTE0eFJzZ040Q294am91TU5OVWttX3RpdzJXdU9lQ1lOQnhBLUhKNFBfSnBDekhlMzVLa3VvRmdOV0HSAdgBQVVfeXFMTUNJSmRyS2xPX2p0NG5VbmoyWTFkbFUxRWFSMUNkZjdQbGZyVmVDd1V3d0NPbmNlQTQ5QnZqWExXQnl5aDdRQWVVZUZ6SzcyT1lzVHIzalFyMEZVRjFBbFRHVWhFV2UtSXJjOGdKUHZXamwzTkE5RThoZlctVngya1pjZG5UeE8tYzFlS1lfeDJlcnBKZkFldXJXZmh2NkU2R3AyWmxXMXJzeFdWcHlSVFVYMTgyZUF0MjRnemVwd0kxRzN2RFlxazRLcjU3LXRpLUQ1ZGlja3lZ?oc=5",
-      "publishedAt": "Sun, 08 Nov 2026 22:33:00 GMT"
-    },
-    {
       "title": "Stock Market Today: Sensex, Nifty Rise 0.6% Pre-Open - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcFlfdVVQcndhZkk0di1WTnFHM0hWemJBeGFsZ3Q4V3J0R0ZFLU05WWp3Tk5YS3FOLTM1U0dLTTBaWWpNdHVzczA1OFZ3a3N2RkdDM0Rucm96aTMtVVp5aDNXdk8tdldOaER4QzU0NDdISUVwTlRfTEFJV3lUOGRnUHdLU3JFRi1Vd3JtcWNCc3ZGYnRWeEotRw?oc=5",
       "publishedAt": "Mon, 09 Nov 2026 03:39:04 GMT"
     },
     {
+      "title": "First since 2017, Sensex & Nifty end in red on Diwali; snap 7-day winning run - The Indian Express",
+      "source": "The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUFpS1hyRUd0clhzQkVUZmZJS0ZpWXV5VlIzbGpuNVJjeEdNTmtFUldPZmtFN0hOcjBWc1paLVVmRDk1T0RuRnN3WEs4QUNUVlhtdWRKY1kyOTE4M1Z6dW9LOGtBNVFNQUF4VWlZekJ2bTFLdTd1UlRxUmNYaGdXS2hGekRhNFpGMVFOdTFYLWJpNFZHSkthZTE0eFJzZ040Q294am91TU5OVWttX3RpdzJXdU9lQ1lOQnhBLUhKNFBfSnBDekhlMzVLa3VvRmdOV0HSAdgBQVVfeXFMTUNJSmRyS2xPX2p0NG5VbmoyWTFkbFUxRWFSMUNkZjdQbGZyVmVDd1V3d0NPbmNlQTQ5QnZqWExXQnl5aDdRQWVVZUZ6SzcyT1lzVHIzalFyMEZVRjFBbFRHVWhFV2UtSXJjOGdKUHZXamwzTkE5RThoZlctVngya1pjZG5UeE8tYzFlS1lfeDJlcnBKZkFldXJXZmh2NkU2R3AyWmxXMXJzeFdWcHlSVFVYMTgyZUF0MjRnemVwd0kxRzN2RFlxazRLcjU3LXRpLUQ1ZGlja3lZ?oc=5",
+      "publishedAt": "Sun, 08 Nov 2026 22:33:00 GMT"
+    },
+    {
       "title": "Indian stock market pauses after seven-day rally as Sensex, Nifty end Diwali session lower - Firstpost",
       "source": "Firstpost",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX1U3TFIxZXFTajJGMFRGVlZ0TGxnOGdkVHRQbEt0Ymk4Q1NZRUUxZmVwakdTNmVlWW96Tzd0M1pHOVBEX3llWmNzWjl4V2lkeXItcnJJRGprUm1ad2pGTGxIMkxpcWhtaEVaNHJfWURJTDlGVEh6dUpaZjNxVy1PWlVsakc5TXU3X0FkVDVFUjE4X2tFeFBtaUt3QWRfWEZzanQ5MVA3Y1FXUE9fS3RXSGJiTjdLR0plYWlEWWNNX254MVRON014eVNZREc4ZFRYWS1VZNIB2gFBVV95cUxQM0JLN2xmN1JiTkJqSk5PWEJoN3BxNkhJbjBxLU1WbmlrUDZnZ1V3cjB2RnZfNmlvLVNMaHFwOUk3Q2ZDODJET1IzUDdNMW0xVzg2RzRWVThMWXk4eXNnWGJQakIxRTA2eWFPSlRoeTJ3NTNmWGNLMThnTUJERGNEblR3QU8xSkp6QzVGcHZ2VFdlb3RTR1VXcFYwMGtlZ2hGY2U1Y2RrOWxiV2loVDU0eHFHNU5HalVfUFpmRllzdmwwWjdqQ20yczdmajVUbEpoZ3hlY0dvS2RYQQ?oc=5",
       "publishedAt": "Sun, 08 Nov 2026 11:50:27 GMT"
+    },
+    {
+      "title": "Sensex, Nifty open higher amid positive global cues - Telangana Today",
+      "source": "Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWhXMG1VTXhKMFFQQTZ6VG14Yi1HZV9jMlVOZnpSVDRYcC04MHZXSzZ2dXRZMi1aUlBwSGFQUzBYRlk0QnhGVmZRWjR2T1J3ZVVnVk81aXM1cGtKVENPc1RyeG9OS1pGYmlUVk1wY2txTll1T011NndDYUZZVnVEMkNEOA?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 04:21:21 GMT"
     },
     {
       "title": "Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS Top Drags - NDTV Profit",
@@ -224,12 +230,6 @@
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVENMVjFfbUI0dHh2dUdPWmNuVUxOTzJ5UXFDUXRsbmQ2a3UzMHF6YUN4dDNfd1AzUWt1bnAwT2JRajhRM291Y201bUhIQ3VoaTQ5V296bDMwVnNEUWVtLV9RaGdxWXE1a1FPQkh2Z2R6X1p2Zi10b3RrYlpiQm5PSENWLU4zU25rNWtzanpueXhza0JVbm51ZVVPMGdOLTBTY295cGlqbjhfaFBZTVFfaGNDSXVscGlDSTlqZ29falJrNmZTWnhDQkFJVEEzMnh0eU9sMjIwRTJxTVNfT3I0VDVEU2pNYXZNRGoyRkpxSDJUZmZ4bXfSAfsBQVVfeXFMTTR2NlRGWjQ0U2N6V3lORmd0NWhIMDB4ekVBeHV0UEJNeTVXcWNLUGJ4NUZJZzZoQ090dmlYZHNTeE9ITUtfZmNydmE1blpxdjk0U1FqaEo4RFJKXzc4NnV6YW42OUdiNmNLY1ppX0JzeTlVaUF0Tjh6Yk96Y0RZd0c4RTJFcjB3cnJUaFJFeU10NkFOSUN3d2tYRnM2ZFZRMUNJV09JVEpiYV9xWnlfdHNfam1Vb1ZuMUxmMzNBa3hKWFlmeksyb3hpSXlqNFBwZHVLVWVUV3ZIUVlWZ3h1OUFfdGM4WFlxcG1SNE42UnNXLTFVNkxsSFB3NGs?oc=5",
       "publishedAt": "Mon, 09 Nov 2026 00:55:00 GMT"
-    },
-    {
-      "title": "Stock Market Today: All You Need To Know Going Into Trade On Nov 9 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMi1XTWRKMWRNQ3lRNDFrRzN4MG96U1JCRnhkUk9ITlI4aXJnNGRkYlBuN1dsMUdsSTgtaEJ4Nm1IanR4ZVFwZ0FINENPX3daOV8xbDRueEo1bEwyWkZ4aG84cGQ5emx0UmtaSDRUQ1FYVEI1bEotX0dPeHlmZEtYVDJIN2JKbGpGVEUzRWVCMTNSN2J3SjE1X3pMdkZDTXhiUnZJU2lHNmNfM21UT2fSAbYBQVVfeXFMTnJjOTJmY1kyU2NVV3BHT3g5Q3UzdHVKNC1aY3RobUZzZTRMSkVKNDdHNC1FbkFTOG1PVGZ6Zl80U1RscUp4dHhlbURVXzE3NGdrVWJwSmRjY29OX1NNMWRNNkVzQzA4eHIteDl0NEttVmxYcE85NHM2OXFkV0NCR2hHRkFxNkVsQ0FjVUxSRjJYdEg3aTBuZzhkcW90Q3FlRkxURm0tS2hPcXN4d0pnRVE3RG1SS0E?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 03:33:15 GMT"
     }
   ]
 }
