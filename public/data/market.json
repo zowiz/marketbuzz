@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty decline in early trade amid profit-taking, dragged down by major IT stocks",
+  "headline": "Sensex and Nifty slip as profit-taking hits IT stocks; L&T and Nuvama Wealth post gains",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,32 +7,48 @@
     "nextOpen": ""
   },
   "why": [
-    "Profit-taking sets in after recent market gains.",
-    "Weakness in IT sector heavyweights drags the benchmark indices lower.",
-    "Sensex dropped over 300 points while Nifty moved below the 24,900 mark.",
-    "Sensex and Nifty ended Muhurat trading in the red for the first time since 2017."
+    "Profit-taking emerged after recent market rallies, pushing indices below key psychological levels.",
+    "Major IT companies like TCS, Infosys, and HCL Tech are facing selling pressure, dragging the benchmarks.",
+    "Investors are reacting to mixed corporate news, including strong Q2 earnings and significant new contract wins.",
+    "Global market themes and economic data points like US nonfarm payrolls are keeping investor sentiment cautious."
   ],
   "whatHappening": [
-    "Rupee strengthened by 24 paise to 93.74 against the U.S. dollar in early trade.",
-    "Citi expressed a bullish outlook on Indian equities, targeting Nifty at 28,000 by end-2027.",
-    "India VIX dropped by 9% during morning trading hours.",
-    "Honasa Consumer shares extended their rally, jumping over 5% following Q2 results."
+    "The Nifty 50 index is struggling to maintain the 25,000 level amid early trade volatility and profit-booking.",
+    "Larsen & Toubro (L&T) has secured a significant order from Noida Metro for the Aqua Line extension project.",
+    "Nuvama Wealth Management reported a 19% year-on-year rise in Q2 net profit to Rs 304 crore.",
+    "Dixon Technologies is facing cash flow challenges as surging receivables and inventory levels impact working capital."
   ],
   "stocksInNews": [
     {
-      "symbol": "HFCL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "HONASA",
+      "symbol": "NUVAMA",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "LT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "DIXON",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
         5
+      ]
+    },
+    {
+      "symbol": "ZOMATO",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        7
       ]
     },
     {
@@ -40,50 +56,44 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        12,
-        17
+        11,
+        12
       ]
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
+        11,
         12
       ]
     },
     {
       "symbol": "TCS",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
+        11,
         12
-      ]
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        17
       ]
     }
   ],
-  "summary": "Indian equity benchmarks Sensex and Nifty slipped into the red during early trade on Monday due to profit-taking. Key IT majors including HCL Tech, Infosys, and TCS were among the top drags, along with Bharti Airtel and HFCL. Meanwhile, Honasa Consumer rallied over 5% post Q2 results, and Citi issued a long-term bullish target of 28,000 for Nifty by end-2027.",
-  "updatedAt": "2026-11-09T06:31:23.470Z",
+  "summary": "Indian indices opened flat but quickly slipped into the red as profit-booking hit the IT sector, with heavyweights like TCS and Infosys dragging the market. While L&T and Nuvama Wealth reported positive developments, Dixon Technologies faced scrutiny over cash flow concerns. Investors remain cautious following the Muhurat trading session, monitoring global cues and domestic earnings.",
+  "updatedAt": "2026-11-09T07:02:03.034Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-09",
   "articleKeys": [
-    "stock market live sensex down 300 pts nifty below 24900 vix drops 9",
-    "hfcl shares decline 5 today stock down 20 in a month heres what valuation shows",
-    "ram gopal varma lauds ramayana calls negative critics barking street dogs",
-    "bank holiday today are banks open or closed on november 9 check details",
-    "diwali tragedy in maharashtra six die of suffocation in midnight house fire in dharashiv one rescued",
-    "honasa consumer share price extends rally jumps over 5 should you buy sell or hold after q2 results",
-    "nvidia falls about 3 in afterhours and perpetual futures trade",
-    "rupee rises 24 paise to 9374 against us dollar in early trade",
-    "remember durga puja couple whose video won hearts but also attracted trolls their new video has surfaced",
-    "citi bullish on indian equities sees nifty at 28000 by end2027",
+    "nuvama wealth management q2 results profit rises 19 yoy to rs 304 crore",
+    "global markets 5 key themes to watch this week",
+    "stock market live sensex off 500 pts from days low nifty tops 25000 nifty psu bank rises 2",
+    "lt bags significant order from noida metro for aqua line extension",
+    "bluestone reports 45 yoy growth in q3 fy27 driven by festive demand",
+    "dixons working capital is swallowing cash as receivables and inventory surge",
+    "lifestyle inflation why your savings arent growing even as your salary increases",
+    "the liver doc vs deepinder goyal temple row escalates as doctor calls for government regulatory scrutiny",
+    "farah khan slams online portals over fake reports of fire at her mumbai residence clickbait cant be everything",
+    "nse unveils design of proposed new headquarters at mumbais bkc heres a first look",
     "nifty sensex decline in early trade as profittaking sets in the new indian express",
     "stock markets decline in early trade dragged by it firms dd india",
     "stock market today sensex drops nifty 50 around 24900 hcl tech infosys tcs top drags ndtv profit",
@@ -91,70 +101,70 @@
     "markets slip into red after opening in green sensex down 150 points nifty below 25000 chinimandi",
     "share market bse and nse conduct muhurat trading on diwali news on air",
     "sensex nifty slip as profitbooking caps recent rally hdfc sky",
-    "sensex today trades lower nifty below 24500 hcl tech bharti airtel top losers equitymaster",
     "stock market today gift nifty us nonfarm payrolls to oil prices five key factors for sensex nifty 50 on november 9 ndtv profit",
+    "stock market holiday this week bse nse opened on sunday but will be closed on this day the economic times",
     "for the first time since 2017 sensex and nifty end muhurat trading in the red the times of india"
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex down 300 pts, Nifty below 24,900; VIX drops 9%",
+      "title": "Nuvama Wealth Management Q2 Results: Profit rises 19% YoY to Rs 304 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-q2-results-profit-rises-19-yoy-to-rs-304-crore/articleshow/135673703.cms",
+      "publishedAt": "Mon, 09 Nov 2026 12:09:56 +0530"
+    },
+    {
+      "title": "Global Markets: 5 key themes to watch this week",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-themes-to-watch-this-week/slideshow/135673587.cms",
+      "publishedAt": "Mon, 09 Nov 2026 11:44:18 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex off 500 pts from day's low, Nifty tops 25,000; Nifty PSU Bank rises 2%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html",
-      "publishedAt": "Mon, 09 Nov 2026 11:02:21 +0530"
+      "publishedAt": "Mon, 09 Nov 2026 11:43:11 +0530"
     },
     {
-      "title": "HFCL Shares Decline 5% Today; Stock Down 20% In A Month, Here's What Valuation Shows",
+      "title": "L&T bags 'significant' order from Noida Metro for Aqua Line extension",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/hfcl-shares-decline-5-today-stock-down-20-in-a-month-heres-what-valuation-shows-12301956#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 10:49:13 +0530"
+      "link": "https://www.business-standard.com/companies/news/l-t-bags-significant-order-from-noida-metro-for-aqua-line-extension-126110900306_1.html",
+      "publishedAt": "Mon, 09 Nov 2026 11:40:26 +0530"
     },
     {
-      "title": "Ram Gopal Varma Lauds 'Ramayana', Calls Negative Critics 'Barking Street Dogs'",
+      "title": "BlueStone reports 45% Y-o-Y growth in Q3 FY27 driven by festive demand",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ram-gopal-varma-lauds-ramayana-calls-negative-critics-barking-street-dogs-12302003#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 10:36:12 +0530"
+      "link": "https://www.business-standard.com/companies/quarterly-results/bluestone-festive-season-business-growth-dhanteras-diwali-q3-fy27-126110900275_1.html",
+      "publishedAt": "Mon, 09 Nov 2026 11:27:40 +0530"
     },
     {
-      "title": "Bank holiday today: Are banks open or closed on November 9? Check details",
+      "title": "Dixon's Working Capital Is Swallowing Cash As Receivables And Inventory Surge",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/finance/personal-finance/bank-holiday-today-are-banks-open-or-closed-on-november-9-check-details-126110900224_1.html",
-      "publishedAt": "Mon, 09 Nov 2026 10:35:47 +0530"
+      "link": "https://www.ndtvprofit.com/business/dixons-working-capital-is-swallowing-cash-as-receivables-and-inventory-surge-12302183#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 11:26:18 +0530"
     },
     {
-      "title": "Diwali Tragedy In Maharashtra: Six Die Of Suffocation In Midnight House Fire In Dharashiv, One Rescued",
+      "title": "Lifestyle Inflation: Why Your Savings Aren't Growing Even As Your Salary Increases",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/diwali-tragedy-in-maharashtra-6-die-of-suffocation-in-midnight-house-fire-in-dharashiv-one-rescued-12301936#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 10:22:19 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/lifestyle-inflation-why-your-savings-arent-growing-even-as-your-salary-increases-12302131#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 11:23:24 +0530"
     },
     {
-      "title": "Honasa Consumer Share Price Extends Rally, Jumps Over 5%; Should You Buy, Sell Or Hold After Q2 Results?",
+      "title": "The Liver Doc vs Deepinder Goyal: Temple Row Escalates As Doctor Calls For Government Regulatory Scrutiny",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/honasa-consumer-share-price-extends-rally-jumps-over-5-should-you-buy-sell-or-hold-after-q2-results-12301979#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 10:21:59 +0530"
+      "link": "https://www.ndtvprofit.com/trending/the-liver-doc-vs-deepinder-goyal-temple-row-escalates-as-doctor-calls-for-government-regulatory-scrutiny-12302109#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 11:23:13 +0530"
     },
     {
-      "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
+      "title": "Farah Khan Slams Online Portals Over Fake Reports Of Fire At Her Mumbai Residence: 'Clickbait Can't Be Everything'",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-falls-about-3-in-after-hours-and-perpetual-futures-trade/articleshow/135671212.cms",
-      "publishedAt": "Mon, 09 Nov 2026 10:20:48 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/farah-khan-slams-online-portals-over-fake-reports-of-fire-at-her-mumbai-residence-clickbait-can-t-be-everything-12301990#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 11:16:02 +0530"
     },
     {
-      "title": "Rupee rises 24 paise to 93.74 against U.S. dollar in early trade",
+      "title": "NSE Unveils Design Of Proposed New Headquarters At Mumbai's BKC. Here's A First Look",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/rupee-rises-24-paise-to-9374-against-us-dollar-in-early-trade/article71681429.ece",
-      "publishedAt": "Mon, 09 Nov 2026 10:17:16 +0530"
-    },
-    {
-      "title": "Remember Durga Puja Couple Whose Video Won Hearts But Also Attracted Trolls? Their New Video Has Surfaced",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/remember-durga-puja-couple-whose-video-won-hearts-but-also-attracted-trolls-their-new-video-has-surfaced-12301948#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 10:16:20 +0530"
-    },
-    {
-      "title": "Citi bullish on Indian equities, sees Nifty at 28,000 by end-2027",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms",
-      "publishedAt": "Mon, 09 Nov 2026 10:15:45 +0530"
+      "link": "https://www.ndtvprofit.com/business/nse-unveils-design-of-proposed-new-headquarters-at-mumbais-bkc-heres-a-first-look-12302156#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 11:15:38 +0530"
     },
     {
       "title": "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
@@ -199,16 +209,16 @@
       "publishedAt": "Mon, 09 Nov 2026 05:01:03 GMT"
     },
     {
-      "title": "Sensex Today Trades Lower | Nifty Below 24,500 | HCL Tech & Bharti Airtel Top Losers - Equitymaster",
-      "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUmcxY01ZMFFxNVBTU1YxaVNIdkxKdlNoeXdBS0hYLUZ2TFhEWFRiSzJqeV9BZTdJNnVjZHZTYmNJdFF4MHVqWk5XOTBTOWs0U3ZZUjEtMDRvT21XVWVLZHdyNjBIOG9qbUR2emNhV28ycW5UYlVLMEU4a0t5eGhJUzBBS0lWWFFjbi1RdXpCVlFIUWlQY2MyeE80TFRmamxqZmpvNE52MWZ3NDh3OWZCY3JOTGpDT3B2dTltSXpiTlBGYlJLSHlubGx1NHZhWkZWYXNhd0k2NA?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 04:40:51 GMT"
-    },
-    {
       "title": "Stock Market Today: Gift Nifty, US Nonfarm Payrolls To Oil Prices; Five Key Factors For Sensex, Nifty 50 On November 9 - NDTV Profit",
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZTlmdUlkb2RuMGtkdHp4eUJETmlORjZtYm12anJ2UW1NLW01a1dhMDl0Y3gwdWtXelBkeFl0VlBXU1lLVVdVSkJELXNJeENXbFFCNWNyTGlBSlhTaUpxZldoVGROSUFOY0Z1eTRnRDU1cktWblBUdTlkOGdybkRIQzBuRjlPOFdDUzNaSFpWV2g2Y0tuREUyZElHYmdwMzhCcEpCMFZXdE9LbHNLTk1pT05FUmI5SlVHcEV1VDJZZFRhZVVyN01sQktGVXp3YlNIY2ZzZlhId1JxOVFrRHVHUXQ5TkpjRkRhWTZQX3l4cjh0dzgyQVdISFZRcFhMd9IBhgJBVV95cUxOTnJNclYwTWw1TTVPZ3U0d2FxV2pIUEJ5MEJOZTdVY3EtUWZFV2dBVzNmQmN6bWQ5SE56Q1p1T1FyUm1xN200OFpEQXB2eE5sVkJYbi1LVjdaNGV5MHNDUVNWbENOaEs3Q2Nyd3NsUC1zVVJVRXFyMTFVUU9vTExxOXZsbmd0NDFzdzBnQ3o0aUJ5clBybzFKOWpxM3huaTNyeGNEX0taRlMwY2RjRjlwTFlKVWhaci16d2VTb09yRGVzTVRNZ1ZUcExMRmxpSVFlZk5iSWdMN0pWcG41V1luZ3hHMk5fN3I2VVFpa25XTC1VWU5hV0NGWkd1WF9QeDdIQnBvaXRn?oc=5",
       "publishedAt": "Mon, 09 Nov 2026 01:39:23 GMT"
+    },
+    {
+      "title": "Stock market holiday this week: BSE, NSE opened on Sunday but will be closed on this day - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGdWNnl0cWNFa0JjTTdjM1prM0Y2b2NLV0FEWmxKR0t6dUF1cUE3cjNLdjVDU3E4ekt5N3FQQWNRWHo0X2VoRTNMLUVBaXdaWTAwc1gydWRvbVRQM0Z0TWc0dkc2eGVtaFZuU1RXNXhPSU5RWFVtVTdneHVwY0RJQm0xd0M5T1BxOVVpUGFOZXJrZkZIV1pTYTA2dVdwbWkwb2FFRGxQeVRkVkFnUmJYTUIyZFpMa3Y2allYa1RDVGI1Y2dIUGtFVllpaFdJb19NV1NBSERRUHNrWkFmZU55cnBoN3pRaU5FTi0yVVRINWRyUdIB9wFBVV95cUxPT0E0NlRkRjdhV29QZ2RnV3hJVjZvSThzdjZlbDd0NDdDejhteTNBamN6Zlh5UlRkU3JVWXdXWlh6Mk45M05FX004cnZEZUhDUDVMMkVITnZRVjJXUDJ1aUhHeXREQmplb2xzUmNPREIwYXZBNElTWjZ5OVVOQkg0STB1eVgwS21JZlF4STFrYlFpS1R1OFFnWk00ajdsYjdEWk9ob29lNEJiMGNaVEVGTWJ2elhWVi1mSHhQNENwT2tNM2hIOVozZDJQRzY2TEN1RHdTYVE1UzBiMVdLbXhlWmZvcnljbEpVSGVjRm55MEpFM2FnSDY0?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 05:17:02 GMT"
     },
     {
       "title": "For the first time since 2017, Sensex and Nifty end Muhurat trading in the red - The Times of India",
