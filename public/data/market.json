@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty decline as profit-booking sets in; IT stocks lead drags",
+  "headline": "Sensex and Nifty decline as profit-booking sets in and IT stocks drag indices below 24,900",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,75 +7,66 @@
     "nextOpen": ""
   },
   "why": [
-    "Profit-taking set in following a recent market rally.",
-    "Weakness in major IT stocks pulled indices down in early trade."
+    "Profit-taking set in following recent gains, pulling major indices down.",
+    "IT sector faced pressure with Nifty IT declining by 2%.",
+    "Heavyweight stocks such as HCL Tech, Tata Steel, and Infosys acted as top drags on the market.",
+    "The market cooled off after a pre-Diwali rally."
   ],
   "whatHappening": [
-    "Sensex fell around 150 to 200 points while Nifty 50 traded below the 24,900 mark.",
-    "Nifty Pharma bucked the broader market weakness to hit a new high.",
-    "Citi raised its Nifty 50 target to 28,000.",
-    "Nuvama Wealth Management announced a 19% YoY rise in Q2 profit to Rs 304 crore."
+    "Divi's Laboratories crossed a market capitalization milestone of Rs 3 lakh crore.",
+    "Early November data indicates the return of Foreign Portfolio Investors (FPIs) into Indian equities.",
+    "MakeMyTrip's India arm received SEBI approval to launch an initial public offering (IPO).",
+    "Sensex slipped over 100 points while Nifty dropped below the 24,900 mark in early trade."
   ],
   "stocksInNews": [
     {
+      "symbol": "DIVISLAB",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
       "symbol": "HCLTECH",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2,
         11
       ]
     },
     {
       "symbol": "TATASTEEL",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2,
         11
       ]
     },
     {
       "symbol": "INFY",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2,
         11
-      ]
-    },
-    {
-      "symbol": "NUVAMA",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        6
-      ]
-    },
-    {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
       ]
     }
   ],
-  "summary": "Indian benchmark indices Sensex and Nifty traded lower today as profit-booking cooled recent gains.\nHeavyweights like HCL Tech, Infosys, and Tata Steel dragged the market, taking Nifty below 24,900.\nMeanwhile, Nifty Pharma hit a record high, Citi raised Nifty target to 28,000, and Nuvama reported strong Q2 earnings.",
-  "updatedAt": "2026-11-09T08:31:18.087Z",
+  "summary": "Indian benchmark indices opened in the green but slipped into the red as profit-taking set in.\nIT stocks faced selling pressure, dragging Nifty 50 below the 24,900 level and Sensex down over 100 points.\nDivi's Laboratories hit a market cap of Rs 3 lakh crore, while early trends show returning FPI inflows.",
+  "updatedAt": "2026-11-09T09:01:38.252Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-09",
   "articleKeys": [
-    "nvidia ceo huang probe china calls spy narrative unsubstantiated",
-    "stock market live sensex falls 200 pts nifty around 24900 nifty pharma hits new high",
-    "stock market today sensex falls nifty 50 below 24900 hcl tech tata steel infosys top drags",
-    "gold glitters yellow metal prices jump above rs 144000 silver prices up by rs 4300",
-    "cops it and gst officials under ed lens for allegedly aiding cyber fraudsters report",
-    "nvidia stock in focus 3 key risks after jensen huang probe",
-    "nuvama wealth management q2 results profit rises 19 yoy to rs 304 crore",
-    "citi raises nifty 50 target to 28000 adds bajaj finance to its top picks",
-    "jensen huangalice huang row more photos surface amid chinese spy allegations",
-    "ramayana scores biggest worldwide imax debut for an indian film see global collection",
+    "stock market live sensex falls 100 pts nifty below 24900 nifty it down 2",
+    "internet erupts in memes after nvidias jensen huang admits affair amid chinese spy allegations",
+    "divis laboratories market cap crosses rs 3 lakh crore what is driving the rally",
+    "jensen huang cheating scandal 7 famous personalities who confessed to infidelity",
+    "mumbai traffic police crack down on delivery riders 1400 challans issued for violations",
+    "a rat has grounded this rs 1crore car in thane for nearly 3 months",
+    "makemytrips india arm gets sebi nod to float ipo",
+    "she thought she got diwali bonus but hrs revelation leaves employee with a tough choice",
+    "jensen huang fake kiss cam clip surfaces amid alleged chinese spy allegations",
+    "early november trend indicates return of fpis into indian equities",
     "nifty sensex decline in early trade as profittaking sets in the new indian express",
     "stock market today sensex falls nifty 50 below 24900 hcl tech tata steel infosys top drags ndtv profit",
     "stock market outlook today 9 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
@@ -89,64 +80,64 @@
   ],
   "articles": [
     {
-      "title": "Nvidia CEO Huang probe: China calls 'spy narrative' unsubstantiated",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/nvidia-ceo-huang-probe-china-calls-spy-narrative-unsubstantiated-126110900444_1.html",
-      "publishedAt": "Mon, 09 Nov 2026 13:10:32 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex falls 200 pts, Nifty around 24,900; Nifty Pharma hits new high",
+      "title": "Stock Market LIVE: Sensex falls 100 pts, Nifty below 24,900; Nifty IT down 2%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-9-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-update-126110900058_1.html",
-      "publishedAt": "Mon, 09 Nov 2026 13:04:08 +0530"
+      "publishedAt": "Mon, 09 Nov 2026 14:00:11 +0530"
     },
     {
-      "title": "Stock Market Today: Sensex Falls, Nifty 50 Below 24,900; HCL Tech, Tata Steel, Infosys Top Drags",
+      "title": "Internet Erupts In Memes After Nvidia's Jensen Huang Admits Affair Amid Chinese Spy Allegations",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-sensex-nifty-50-gold-rate-today-crude-oil-prices-stocks-share-price-12301797#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 12:37:13 +0530"
+      "link": "https://www.ndtvprofit.com/world/internet-erupts-in-memes-after-nvidias-jensen-huang-admits-affair-amid-chinese-spy-allegations-12302731#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 13:59:05 +0530"
     },
     {
-      "title": "Gold Glitters: Yellow Metal Prices Jump Above Rs 1,44,000; Silver Prices Up By Rs 4,300",
+      "title": "Divi's Laboratories Market Cap Crosses Rs 3 Lakh Crore: What Is Driving The Rally",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/gold-glitters-yellow-metal-prices-jump-above-rs-1-44-000-silver-prices-up-by-rs-4-300-12302246#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 12:23:48 +0530"
+      "link": "https://www.ndtvprofit.com/markets/divis-laboratories-market-cap-crosses-rs-3-lakh-crore-what-is-driving-the-rally-12302482#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 13:48:54 +0530"
     },
     {
-      "title": "Cops, I-T And GST Officials Under ED Lens For Allegedly Aiding Cyber Fraudsters: Report",
+      "title": "Jensen Huang Cheating Scandal: 7 Famous Personalities Who Confessed To Infidelity",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/cops-i-t-and-gst-officials-under-ed-lens-for-allegedly-aiding-cyber-fraudsters-report-12302390#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 12:18:07 +0530"
+      "link": "https://www.ndtvprofit.com/world/jensen-huang-scandal-7-famous-personalities-who-cheated-on-their-wives-and-confessed-12302522#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 13:45:58 +0530"
     },
     {
-      "title": "Nvidia stock in focus: 3 key risks after Jensen Huang probe",
+      "title": "Mumbai Traffic Police Crack Down On Delivery Riders; 1,400 Challans Issued For Violations",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-in-focus-3-key-risks-after-jensen-huang-probe/slideshow/135674350.cms",
-      "publishedAt": "Mon, 09 Nov 2026 12:13:18 +0530"
+      "link": "https://www.ndtvprofit.com/india/mumbai-traffic-police-crack-down-on-delivery-riders-1-400-challans-issued-for-violations-12302694#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 13:45:57 +0530"
     },
     {
-      "title": "Nuvama Wealth Management Q2 Results: Profit rises 19% YoY to Rs 304 crore",
+      "title": "A Rat Has Grounded This Rs 1-Crore Car In Thane For Nearly 3 Months",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-q2-results-profit-rises-19-yoy-to-rs-304-crore/articleshow/135673703.cms",
-      "publishedAt": "Mon, 09 Nov 2026 12:09:56 +0530"
+      "link": "https://www.ndtvprofit.com/india/a-rat-has-grounded-this-rs-1-crore-car-in-thane-for-nearly-3-months-12302504#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 13:43:19 +0530"
     },
     {
-      "title": "Citi Raises Nifty 50 Target To 28,000; Adds Bajaj Finance To Its Top Picks",
+      "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/citi-raises-nifty-50-target-to-28-000-adds-bajaj-finance-to-its-top-picks-12302351#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 12:08:40 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
+      "publishedAt": "Mon, 09 Nov 2026 13:42:31 +0530"
     },
     {
-      "title": "Jensen Huang-Alice Huang Row: More Photos Surface Amid Chinese Spy Allegations",
+      "title": "She Thought She Got Diwali Bonus, But HR's Revelation Leaves Employee With A Tough Choice",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/jensen-huang-alice-huang-row-more-photos-surface-amid-chinese-spy-allegations-12302345#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 12:06:28 +0530"
+      "link": "https://www.ndtvprofit.com/trending/she-thought-she-got-diwali-bonus-but-hrs-revelation-leaves-employee-with-a-tough-choice-12302615#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 13:41:41 +0530"
     },
     {
-      "title": "'Ramayana' Scores Biggest Worldwide IMAX Debut For An Indian Film; See Global Collection",
+      "title": "Jensen Huang Fake Kiss Cam Clip Surfaces Amid Alleged Chinese Spy Allegations",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ramayana-scores-biggest-worldwide-imax-debut-for-an-indian-film-see-global-collection-12302343#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 12:06:00 +0530"
+      "link": "https://www.ndtvprofit.com/trending/jensen-huang-fake-kiss-cam-clip-surfaces-amid-alleged-chinese-spy-allegations-12302675#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 13:35:38 +0530"
+    },
+    {
+      "title": "Early November trend indicates return of FPIs into Indian equities",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/early-november-trend-indicates-return-of-fpis-into-indian-equities/article71681716.ece",
+      "publishedAt": "Mon, 09 Nov 2026 13:34:02 +0530"
     },
     {
       "title": "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
