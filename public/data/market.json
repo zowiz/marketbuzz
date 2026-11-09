@@ -1,113 +1,142 @@
 {
-  "headline": "Sensex Surpasses 81,000 and Nifty Reclaims 25,000 as Banking and Pharma Stocks Lead Gains",
+  "headline": "Indian Benchmarks End Higher as Nifty Reclaims 25,000 Led by Banking and Pharma",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
     "message": "Market is open for trading today.",
-    "nextOpen": "2026-11-11"
+    "nextOpen": ""
   },
   "why": [
-    "Strong performance in the banking and pharmaceutical sectors drove market gains",
-    "A correction in global oil prices provided a positive tailwind for Indian equities",
-    "Nifty reclaimed the 25,000 level after recovering from a dip in the previous Muhurat session",
-    "Late-session buying in PSU banks helped indices recover from early profit-taking"
+    "Nifty and Sensex closed higher led by gains in banking and pharmaceutical stocks.",
+    "Markets recovered after initial profit-taking caused early trade declines.",
+    "Oil price corrections and strong bank performance helped support market sentiment.",
+    "PSU bank stocks led gains during range-bound trading session."
   ],
   "whatHappening": [
-    "The Sensex closed above the 81,000 mark while the Nifty 50 settled above 25,000",
-    "RBI extended the supersession of Abhyudaya Bank's board for an additional year",
-    "BDR Pharma announced plans to acquire a stake in Acme's oral solid formulations business",
-    "Indian stock exchanges will be closed on November 10 in observance of Diwali Balipratipada"
+    "Nifty reclaimed the 25,000 mark while Sensex surpassed 81,000 to end higher by 100 points.",
+    "Larsen & Toubro secured a major order worth ₹1,000 - ₹2,500 crore for Noida Metro Rail extension.",
+    "BSE and NSE will remain closed on November 10 for Diwali Balipratipada.",
+    "Investors focused on key stocks including Divi's Labs, Tata Power, Kalyan Jewellers, Reliance Industries, L&T, and Shriram Finance."
   ],
   "stocksInNews": [
     {
-      "symbol": "BSE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        19
-      ]
-    },
-    {
-      "symbol": "NSE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        19
-      ]
-    },
-    {
-      "symbol": "ABHYUDAYA BANK",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "BDR PHARMA",
+      "symbol": "LT",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        0
+        0,
+        8
       ]
     },
     {
-      "symbol": "ACME",
+      "symbol": "RELIANCE",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        0
+        8
       ]
     },
     {
-      "symbol": "NVIDIA",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "JPMORGAN",
+      "symbol": "DIVISLAB",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        6
+        8
+      ]
+    },
+    {
+      "symbol": "TATAPOWER",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "KALYANKJIL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        8
       ]
     }
   ],
-  "summary": "Indian markets ended higher on Monday, with the Sensex crossing 81,000 and Nifty reclaiming the 25,000 level.\nGains were driven by the banking and pharmaceutical sectors, despite early volatility and profit-taking.\nTrading will be suspended on Tuesday, November 10, for the Diwali Balipratipada holiday.",
-  "updatedAt": "2026-11-09T17:02:29.825Z",
+  "summary": "Indian stock markets closed in the green with Sensex crossing 81,000 and Nifty settling above 25,000. Banking and pharmaceutical stocks drove market gains following early profit-taking. Exchanges will be shut on November 10 for Diwali Balipratipada.",
+  "updatedAt": "2026-11-09T18:02:39.054Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-09",
   "articleKeys": [
+    "lt bags 1000 2500 crore order from noida metro rail corporation for aqua line extension",
+    "trump administrations embrace of perp futures sets off risk alarms for wall street stalwarts",
+    "earths heat imbalance hits record high how supersized el nino risks global climate through 2027",
+    "google expands gen8 lineup with tpu 8tx 8i max how this targets ai agent workloads",
+    "lakhs of points gone overnight amex cardholders allege retroactive rewards clawback",
     "bdr pharma to acquire stake in acmes oral solid formulations business",
+    "hardik pandyaarshdeep singh trade abhinav mukund questions pbks move raises shreyas factor",
     "us dollar dips as easing ai and mideast worries limit its appeal",
-    "rbi extends abhyudaya bank supersession by another year",
-    "kumar vishwas thanks ramayana team says being part of film is a blessing beyond words",
-    "a peek into vijay deverakonda rashmika mandannas family holiday in japan",
-    "sexual predator what judge told russell brand before sentencing him to 105 years in jail",
-    "gold bulls to bounce back why jpmorgan sees metal touching a record 6000 by 2026end",
-    "nvidia scandal fits a pattern what the long history of chinese spy plots show",
-    "mookuthi amman 2 box office collection day 4 nayantharas film has its best day yet on monday",
-    "chinas gj11 stealth drone hidden weapons bay special exhaust and other features revealed",
+    "buy sell or hold divis labs tata power kalyan jewellers reliance industries lt and shriram finance ask profit",
+    "anjali anand recalls her shah rukh khan obsession i had a whole chapter om shanti om rough book",
     "indian stock market closes in green sensex surpasses 81000 nifty settles above 25000 tennewsin",
-    "indian equities see modest gains amidst oil price correction strong bank performance rediff",
     "nifty sensex decline in early trade as profittaking sets in the new indian express",
+    "indian equities see modest gains amidst oil price correction strong bank performance rediff",
     "stock market highlights nifty reclaims 25000 after muhurat dip sensex ends 100 pts higher check key gainers ndtv profit",
     "stock market outlook today 9 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex nifty close higher as banking and pharmaceutical stocks lead gains india new england news",
     "sensex nifty end flat after rangebound trade psu bank stocks lead gains ani news",
     "markets slip into red after opening in green sensex down 150 points nifty below 25000 chinimandi",
-    "sensex nifty slip as profitbooking caps recent rally hdfc sky",
+    "stock market holiday tomorrow nse bse closed for diwalibalipratipada hdfc sky",
     "stock market holiday tomorrow bse nse shut on november 10 for diwali balipratipada after sunday muhurat moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "L&T bags ₹1,000 - ₹2,500 crore order from Noida Metro Rail Corporation for Aqua Line extension",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/lt-bags-1000-2500-crore-order-from-noida-metro-rail-corporation-for-aqua-line-extension/article71683873.ece",
+      "publishedAt": "Mon, 09 Nov 2026 23:06:27 +0530"
+    },
+    {
+      "title": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-administrations-embrace-of-perp-futures-sets-off-risk-alarms-for-wall-street-stalwarts/articleshow/135688561.cms",
+      "publishedAt": "Mon, 09 Nov 2026 22:28:59 +0530"
+    },
+    {
+      "title": "Earth's Heat Imbalance Hits Record High: How Supersized El Nino Risks Global Climate Through 2027",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/earth-s-heat-imbalance-hits-record-high-how-supersized-el-ni-o-risks-global-climate-through-2027-12304977#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 22:23:48 +0530"
+    },
+    {
+      "title": "Google Expands Gen-8 Lineup With TPU 8tx, 8i Max: How This Targets AI Agent Workloads",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/google-expands-gen-8-lineup-with-tpu-8tx-8i-max-how-this-targets-ai-agent-workloads-12304967#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 22:13:57 +0530"
+    },
+    {
+      "title": "Lakhs Of Points Gone Overnight: Amex Cardholders Allege Retroactive Rewards Clawback",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/personal-finance/lakhs-of-points-gone-overnight-amex-cardholders-allege-retroactive-rewards-clawback-12304922#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:55:15 +0530"
+    },
     {
       "title": "BDR Pharma to acquire stake in Acme’s oral solid formulations business",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/bdr-pharma-to-acquire-stake-in-acmes-oral-solid-formulations-business/article71683557.ece",
       "publishedAt": "Mon, 09 Nov 2026 21:50:51 +0530"
+    },
+    {
+      "title": "Hardik Pandya-Arshdeep Singh Trade: Abhinav Mukund Questions PBKS' Move, Raises Shreyas Factor",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/hardik-pandya-arshdeep-singh-trade-abhinav-mukund-questions-pbks-move-raises-shreyas-factor-12304901#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:50:47 +0530"
     },
     {
       "title": "US dollar dips as easing AI and Mideast worries limit its appeal",
@@ -116,52 +145,16 @@
       "publishedAt": "Mon, 09 Nov 2026 21:46:36 +0530"
     },
     {
-      "title": "RBI extends Abhyudaya Bank supersession by another year",
+      "title": "Buy, Sell Or Hold: Divi's Labs, Tata Power, Kalyan Jewellers, Reliance Industries, L&T And Shriram Finance — Ask Profit",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece",
-      "publishedAt": "Mon, 09 Nov 2026 21:35:05 +0530"
+      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-divis-labs-tata-power-kalyan-jewellers-reliance-industries-l-t-and-shriram-finance-ask-profit-12304863#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:45:02 +0530"
     },
     {
-      "title": "Kumar Vishwas Thanks Ramayana Team, Says Being Part Of Film Is A 'Blessing Beyond Words'",
+      "title": "Anjali Anand Recalls Her Shah Rukh Khan Obsession: 'I Had A Whole Chapter Om Shanti Om Rough Book'",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/kumar-vishwas-thanks-ramayana-team-says-being-part-of-film-is-a-blessing-beyond-words-12304807#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 21:23:59 +0530"
-    },
-    {
-      "title": "A Peek Into Vijay Deverakonda, Rashmika Mandanna's Family Holiday In Japan",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/vijay-deverakonda-rashmika-mandanna-celebrate-first-diwali-after-wedding-with-family-holiday-in-japan-12303882#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 21:22:42 +0530"
-    },
-    {
-      "title": "'Sexual Predator': What Judge Told Russell Brand Before Sentencing Him To 10.5 Years In Jail",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/sexual-predator-what-judge-told-russell-brand-before-sentencing-him-to-10-5-years-in-jail-12304707#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 21:18:07 +0530"
-    },
-    {
-      "title": "Gold Bulls To Bounce Back? Why JPMorgan Sees Metal Touching A Record $6,000 By 2026-End",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/gold-bulls-to-bounce-back-why-jpmorgan-sees-metal-touching-a-record-6-000-by-2026-end-12304765#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 21:12:16 +0530"
-    },
-    {
-      "title": "Nvidia Scandal Fits A Pattern: What The Long History Of 'Chinese Spy Plots' Show",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/nvidia-scandal-fits-a-pattern-what-the-long-history-of-chinese-spy-plots-show-12304729#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 21:11:02 +0530"
-    },
-    {
-      "title": "Mookuthi Amman 2 Box Office Collection Day 4: Nayanthara's Film Has Its Best Day Yet On Monday",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/mookuthi-amman-2-box-office-collection-day-4-nayanthara-s-film-has-its-best-day-yet-on-monday-12304626#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 21:07:52 +0530"
-    },
-    {
-      "title": "China's GJ-11 Stealth Drone: Hidden Weapons Bay, Special Exhaust And Other Features Revealed",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/chinas-gj-11-stealth-drone-hidden-weapons-bay-special-exhaust-and-other-features-revealed-12304544#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 21:04:23 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/anjali-anand-recalls-her-shah-rukh-khan-obsession-i-had-a-whole-chapter-om-shanti-om-rough-book-12304232#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:43:00 +0530"
     },
     {
       "title": "Indian Stock Market Closes in Green: Sensex Surpasses 81,000, Nifty Settles Above 25,000 - tennews.in",
@@ -170,16 +163,16 @@
       "publishedAt": "Mon, 09 Nov 2026 11:08:26 GMT"
     },
     {
-      "title": "Indian Equities See Modest Gains Amidst Oil Price Correction, Strong Bank Performance - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmRHTUtNR2NJcXVrUG52Q01HYXEwLTROZGs5SHZMN2JvY0l3WEpNVlpubUdsOEV5czllWUtJSjNZd3BSZHVkaHdZc2E4cGxLTU5BX1hJTVBuTWEtd2VOazY2VHE1Qm5jdTZ4RFBPWGtRcjVOTjVxUFhGS1J0NHhpSUNackc5U3o1dEd3VnpFUFFRcVByY1hvaFNJMWYwRWtPWDJQRUVtSzRpNm1FZ0dDRVBiMU1GbUVJaU5TME44clfSAcMBQVVfeXFMUFVuYnRHZ3pfY29HZjI4LURwb1VsUGdiV2QyYzdUQ0d6WFBRQXJ0c1RmRWlBbnJ4NjJtYkZOVmFWU3hWRGtZVTUwX0dscEw4VmlLcmdxNGxwSGZWNVBTTDZXT1hhcXlaX0t4NC1FZUdTWTJtSGd6YXNPUDB4dDZLUGcxcnpLckZnWjRtZGtHYm10aDBhQlVvSkVWZWpBcmpxa2hPUXNZd1h1azFLVlRkNWZ0VmVUUl9XRHNxVTh1Q2lnRnQ4?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 11:09:29 GMT"
-    },
-    {
       "title": "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
       "source": "The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRml0clo4N1M3WmxpTDVpTU5YRTlQT1JLYzYwNkYwNjRRcDlMNkZlaXhzd0Z2OVhGMmR0NUVPTDkwQ0duemlyRHNSaFYySmtCTHpRSGtlMFQ3M0xzdTBROUQ4OTJCMDd2Y18tQzJGN0JzbmYzNG4wVVA1QkJ2LXBvcktMYWJaUEY0aHZ2ek9rTUhHLXM0WjdzeDQ2UTB1S1dYOUVtQVRzWmIwUnJidE1xelFuU1HSAcIBQVVfeXFMT3J0RDlrQm43cTJobGpYbzFDeWJWNEFDeHdsd0s1SW1wZnkxcklPOFJDcmYyalhYR3BrRVdRV1k3N29YYWxXcFYwcnk4c0JIckhWeXpwN3o4NGpiMHJWUTJxZUlPV1EtanBiczZtLXpwVlhkNkh5VV9GODg3SjYzRk9LajdNSjh1OFRZWEUtVlFHdjFodGhJSGJ0SVkzUmZQOXBGOFhHX1k2NmgybmNveWVPTDNmRHJ3LXBZZERxTWVjdHc?oc=5",
       "publishedAt": "Mon, 09 Nov 2026 05:03:37 GMT"
+    },
+    {
+      "title": "Indian Equities See Modest Gains Amidst Oil Price Correction, Strong Bank Performance - Rediff",
+      "source": "Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmRHTUtNR2NJcXVrUG52Q01HYXEwLTROZGs5SHZMN2JvY0l3WEpNVlpubUdsOEV5czllWUtJSjNZd3BSZHVkaHdZc2E4cGxLTU5BX1hJTVBuTWEtd2VOazY2VHE1Qm5jdTZ4RFBPWGtRcjVOTjVxUFhGS1J0NHhpSUNackc5U3o1dEd3VnpFUFFRcVByY1hvaFNJMWYwRWtPWDJQRUVtSzRpNm1FZ0dDRVBiMU1GbUVJaU5TME44clfSAcMBQVVfeXFMUFVuYnRHZ3pfY29HZjI4LURwb1VsUGdiV2QyYzdUQ0d6WFBRQXJ0c1RmRWlBbnJ4NjJtYkZOVmFWU3hWRGtZVTUwX0dscEw4VmlLcmdxNGxwSGZWNVBTTDZXT1hhcXlaX0t4NC1FZUdTWTJtSGd6YXNPUDB4dDZLUGcxcnpLckZnWjRtZGtHYm10aDBhQlVvSkVWZWpBcmpxa2hPUXNZd1h1azFLVlRkNWZ0VmVUUl9XRHNxVTh1Q2lnRnQ4?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 11:09:29 GMT"
     },
     {
       "title": "Stock Market Highlights: Nifty Reclaims 25,000 After Muhurat Dip; Sensex Ends 100 Pts Higher. Check Key Gainers - NDTV Profit",
@@ -212,10 +205,10 @@
       "publishedAt": "Mon, 09 Nov 2026 04:34:20 GMT"
     },
     {
-      "title": "Sensex, Nifty Slip as Profit‑Booking Caps Recent Rally - HDFC Sky",
+      "title": "Stock Market Holiday Tomorrow: NSE, BSE Closed for Diwali-Balipratipada - HDFC Sky",
       "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa2dTZlFRWUoxSWtRd1dMMWpKRVRiRFF1YVhySVI0Zzk3cVVwLU5pNnM5dnlVVGdLT3ViQlJCOW00M2lpQkpWSi0tYVZQRkRucHhCeWZSRDVaRzZDRXZDak1MaHRMMk9oZlhjTVo4Rmo4T1V1MFgtNjVpV2QwZDhJVW8xaGJ3R0JZZGdMVm5XZHE1UV9BbXZrLUR5MUJXRjVJNjVFOHhZRVpDTmlaeGNNOXZXay1BMmpfRjBSa0ZIcmdySU5ZM3dFYzRNeVp4cWZlamI2Ukx3c1ltS3FORXhjYUI2by1kbWJBV0tiWGZKY3g?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:01:03 GMT"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEhnc0I0MjRHZ2NiLTFzb09iUVM0TVBrc0ZiY2k0RzlJMERVYS1fX1d1WEdvQVVuSnBncHZ5NWg3OHhyMW4xQzZEQ21uWnZNSnhsQkdsR1pzNEpvczczdFVlTlJuaVFTMndDd1Rfb0hQMEI0ZC1kQzZ4YkFacGlPQ2xYU3JaMmJhRVZ0aURoOWpjYlFjWHRqRk1R?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 10:40:34 GMT"
     },
     {
       "title": "Stock market holiday tomorrow: BSE, NSE shut on November 10 for Diwali Balipratipada after Sunday Muhurat,... - Moneycontrol.com",
