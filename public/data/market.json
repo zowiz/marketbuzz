@@ -1,119 +1,167 @@
 {
-  "headline": "Indian Equities Reclaim 25,000 Level Led by PSU Banks Amid Range-Bound Trade",
+  "headline": "Sensex Surpasses 81,000 and Nifty Reclaims 25,000 as Banking and Pharma Stocks Lead Gains",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
     "message": "Market is open for trading today.",
-    "nextOpen": ""
+    "nextOpen": "2026-11-11"
   },
   "why": [
-    "Nifty reclaimed 25,000 and Sensex surpassed 81,000 driven by gains in PSU bank stocks.",
-    "Domestic sentiment was supported by an oil price correction.",
-    "Early trade witnessed profit-taking and range-bound movement following recent Muhurat trading.",
-    "Positive cues from US stock market rally helped offset global tech sector concerns."
+    "Strong performance in the banking and pharmaceutical sectors drove market gains",
+    "A correction in global oil prices provided a positive tailwind for Indian equities",
+    "Nifty reclaimed the 25,000 level after recovering from a dip in the previous Muhurat session",
+    "Late-session buying in PSU banks helped indices recover from early profit-taking"
   ],
   "whatHappening": [
-    "Sensex closed over 100 points higher, while Nifty settled above the 25,000 mark.",
-    "PSU Bank stocks led the market gains during the trading session.",
-    "Data Patterns saw a sharp surge of 9% during the day.",
-    "BSE and NSE will remain closed on November 10 for Diwali Balipratipada."
+    "The Sensex closed above the 81,000 mark while the Nifty 50 settled above 25,000",
+    "RBI extended the supersession of Abhyudaya Bank's board for an additional year",
+    "BDR Pharma announced plans to acquire a stake in Acme's oral solid formulations business",
+    "Indian stock exchanges will be closed on November 10 in observance of Diwali Balipratipada"
   ],
   "stocksInNews": [
     {
-      "symbol": "DATAPATT",
+      "symbol": "BSE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        19
+      ]
+    },
+    {
+      "symbol": "NSE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        19
+      ]
+    },
+    {
+      "symbol": "ABHYUDAYA BANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "BDR PHARMA",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        18
+        0
+      ]
+    },
+    {
+      "symbol": "ACME",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "NVIDIA",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "JPMORGAN",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        6
       ]
     }
   ],
-  "summary": "Indian benchmark indices ended in the green with Nifty closing above 25,000 and Sensex rising over 100 points. PSU bank stocks led the gains, supported by easing crude oil prices despite early profit-taking. Both NSE and BSE will be closed tomorrow, November 10, for Diwali Balipratipada.",
-  "updatedAt": "2026-11-09T16:01:56.233Z",
+  "summary": "Indian markets ended higher on Monday, with the Sensex crossing 81,000 and Nifty reclaiming the 25,000 level.\nGains were driven by the banking and pharmaceutical sectors, despite early volatility and profit-taking.\nTrading will be suspended on Tuesday, November 10, for the Diwali Balipratipada holiday.",
+  "updatedAt": "2026-11-09T17:02:29.825Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-09",
   "articleKeys": [
-    "meta sets india pricing for muse ai agent ahead of launch",
-    "three reasons why us stock market is rallying dow up 700 points nasdaq surges 2",
-    "amd broadcom micron rally up to 8 as chip stocks defy nvidia rout",
-    "a sweet shop thousands of bees and rs 2 lakh loss haryana video goes viral",
-    "delhis postdiwali aqi at 386 how do mumbai chennai kolkata compare",
-    "jensen huang scandal how nvidias stock plunge may impact indian investors too",
-    "scene box office collection day 4 suriyas film stays strong on first monday closes in on next milestone",
-    "nvidia shares plunge 6 minutes into trade as jensen huang scandal sparks selloff",
-    "us stocks dow jones rallies 500 points nasdaq over 2 as chip stocks rebound nvidia probe weighs",
-    "switching jobs five taxrelated things to check before accepting a higher salary",
+    "bdr pharma to acquire stake in acmes oral solid formulations business",
+    "us dollar dips as easing ai and mideast worries limit its appeal",
+    "rbi extends abhyudaya bank supersession by another year",
+    "kumar vishwas thanks ramayana team says being part of film is a blessing beyond words",
+    "a peek into vijay deverakonda rashmika mandannas family holiday in japan",
+    "sexual predator what judge told russell brand before sentencing him to 105 years in jail",
+    "gold bulls to bounce back why jpmorgan sees metal touching a record 6000 by 2026end",
+    "nvidia scandal fits a pattern what the long history of chinese spy plots show",
+    "mookuthi amman 2 box office collection day 4 nayantharas film has its best day yet on monday",
+    "chinas gj11 stealth drone hidden weapons bay special exhaust and other features revealed",
     "indian stock market closes in green sensex surpasses 81000 nifty settles above 25000 tennewsin",
     "indian equities see modest gains amidst oil price correction strong bank performance rediff",
     "nifty sensex decline in early trade as profittaking sets in the new indian express",
     "stock market highlights nifty reclaims 25000 after muhurat dip sensex ends 100 pts higher check key gainers ndtv profit",
     "stock market outlook today 9 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "sensex nifty close higher as banking and pharmaceutical stocks lead gains india new england news",
     "sensex nifty end flat after rangebound trade psu bank stocks lead gains ani news",
     "markets slip into red after opening in green sensex down 150 points nifty below 25000 chinimandi",
-    "stock market holiday tomorrow nse bse closed for diwalibalipratipada hdfc sky",
-    "sensex today ends 107 points higher nifty above 25000 data patterns up 9 equitymaster",
+    "sensex nifty slip as profitbooking caps recent rally hdfc sky",
     "stock market holiday tomorrow bse nse shut on november 10 for diwali balipratipada after sunday muhurat moneycontrolcom"
   ],
   "articles": [
     {
-      "title": "Meta sets India pricing for Muse AI agent ahead of launch",
+      "title": "BDR Pharma to acquire stake in Acme’s oral solid formulations business",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/meta-sets-india-pricing-for-muse-ai-agent-ahead-of-launch/article71682680.ece",
-      "publishedAt": "Mon, 09 Nov 2026 20:55:38 +0530"
+      "link": "https://www.thehindu.com/business/bdr-pharma-to-acquire-stake-in-acmes-oral-solid-formulations-business/article71683557.ece",
+      "publishedAt": "Mon, 09 Nov 2026 21:50:51 +0530"
     },
     {
-      "title": "Three Reasons Why US Stock Market Is Rallying: Dow Up 700 Points, Nasdaq Surges 2%",
+      "title": "US dollar dips as easing AI and Mideast worries limit its appeal",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/three-reasons-why-us-stock-market-is-rallying-dow-up-700-points-nasdaq-surges-2-12304557#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 20:50:19 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-dips-as-easing-ai-and-mideast-worries-limit-its-appeal/articleshow/135687593.cms",
+      "publishedAt": "Mon, 09 Nov 2026 21:46:36 +0530"
     },
     {
-      "title": "AMD, Broadcom, Micron Rally Up To 8% As Chip Stocks Defy Nvidia Rout",
+      "title": "RBI extends Abhyudaya Bank supersession by another year",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/amd-broadcom-micron-rally-up-to-8-as-chip-stocks-defy-nvidia-rout-12304671#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 20:49:34 +0530"
+      "link": "https://www.thehindu.com/business/rbi-extends-abhyudaya-bank-supersession-by-another-year/article71683422.ece",
+      "publishedAt": "Mon, 09 Nov 2026 21:35:05 +0530"
     },
     {
-      "title": "A Sweet Shop, Thousands Of Bees And Rs 2 Lakh Loss: Haryana Video Goes Viral",
+      "title": "Kumar Vishwas Thanks Ramayana Team, Says Being Part Of Film Is A 'Blessing Beyond Words'",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/a-sweet-shop-thousands-of-bees-and-rs-2-lakh-loss-haryana-video-goes-viral-12304393#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 20:47:19 +0530"
+      "link": "https://www.ndtvprofit.com/india/kumar-vishwas-thanks-ramayana-team-says-being-part-of-film-is-a-blessing-beyond-words-12304807#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:23:59 +0530"
     },
     {
-      "title": "Delhi's Post-Diwali AQI At 386; How Do Mumbai, Chennai, Kolkata Compare?",
+      "title": "A Peek Into Vijay Deverakonda, Rashmika Mandanna's Family Holiday In Japan",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhis-post-diwali-aqi-at-386-how-do-mumbai-chennai-kolkata-compare-12304669#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 20:46:47 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/vijay-deverakonda-rashmika-mandanna-celebrate-first-diwali-after-wedding-with-family-holiday-in-japan-12303882#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:22:42 +0530"
     },
     {
-      "title": "Jensen Huang Scandal: How Nvidia's Stock Plunge May Impact Indian Investors Too",
+      "title": "'Sexual Predator': What Judge Told Russell Brand Before Sentencing Him To 10.5 Years In Jail",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nvidias-fall-may-hit-indian-investors-too-and-some-paid-a-50-premium-for-it-12303354#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 20:42:23 +0530"
+      "link": "https://www.ndtvprofit.com/world/sexual-predator-what-judge-told-russell-brand-before-sentencing-him-to-10-5-years-in-jail-12304707#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:18:07 +0530"
     },
     {
-      "title": "Scene Box Office Collection Day 4: Suriya’s Film Stays Strong On First Monday, Closes In On Next Milestone",
+      "title": "Gold Bulls To Bounce Back? Why JPMorgan Sees Metal Touching A Record $6,000 By 2026-End",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/scene-box-office-collection-day-4-suriya-s-film-stays-strong-on-first-monday-closes-in-on-next-milestone-12304446#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 20:39:50 +0530"
+      "link": "https://www.ndtvprofit.com/markets/gold-bulls-to-bounce-back-why-jpmorgan-sees-metal-touching-a-record-6-000-by-2026-end-12304765#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:12:16 +0530"
     },
     {
-      "title": "Nvidia Shares Plunge 6% Minutes Into Trade As Jensen Huang Scandal Sparks Selloff",
+      "title": "Nvidia Scandal Fits A Pattern: What The Long History Of 'Chinese Spy Plots' Show",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nvidia-shares-plunge-6-minutes-into-trade-as-jensen-huang-scandal-sparks-selloff-12304563#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 20:37:17 +0530"
+      "link": "https://www.ndtvprofit.com/world/nvidia-scandal-fits-a-pattern-what-the-long-history-of-chinese-spy-plots-show-12304729#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:11:02 +0530"
     },
     {
-      "title": "US stocks: Dow Jones rallies 500 points, Nasdaq over 2% as chip stocks rebound; Nvidia probe weighs",
+      "title": "Mookuthi Amman 2 Box Office Collection Day 4: Nayanthara's Film Has Its Best Day Yet On Monday",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
-      "publishedAt": "Mon, 09 Nov 2026 20:35:56 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/mookuthi-amman-2-box-office-collection-day-4-nayanthara-s-film-has-its-best-day-yet-on-monday-12304626#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:07:52 +0530"
     },
     {
-      "title": "Switching Jobs? Five Tax-Related Things To Check Before Accepting A Higher Salary",
+      "title": "China's GJ-11 Stealth Drone: Hidden Weapons Bay, Special Exhaust And Other Features Revealed",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/switching-jobs-five-tax-related-things-to-check-before-accepting-a-higher-salary-12304030#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 20:25:08 +0530"
+      "link": "https://www.ndtvprofit.com/world/chinas-gj-11-stealth-drone-hidden-weapons-bay-special-exhaust-and-other-features-revealed-12304544#publisher=newsstand",
+      "publishedAt": "Mon, 09 Nov 2026 21:04:23 +0530"
     },
     {
       "title": "Indian Stock Market Closes in Green: Sensex Surpasses 81,000, Nifty Settles Above 25,000 - tennews.in",
@@ -146,6 +194,12 @@
       "publishedAt": "Mon, 09 Nov 2026 01:27:55 GMT"
     },
     {
+      "title": "Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains - INDIA New England News",
+      "source": "INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmNUQ1l0RW1zWEx3QTgwMUZlYS03SUpSMFIyTUdsaUJWb1RxaktDQnVFZF9pN29EVFY2bFh0OWV4MHJCbW5pU25TV20xdXNjVWJsYnloc2NQS1RWNXBwTDBHWktjakNJZDQxR1loa3oydk5aN1RHYTNvUjFjYlZCY2tJV1dNellTVEVlZTA1UlhiLUxVUVFwblBNaXRyaHJDYVl4Sg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 16:33:39 GMT"
+    },
+    {
       "title": "Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains - ANI News",
       "source": "ANI News",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHRfR3dLNF9lWTEzTU5yVkZncVozTy02QTh5aDFEWG42Ump3ZEtfTW43X2pnVHBVR2dFVDl4WW9XQzlLWmhhOHRsN283T2pKM0RybmZiRDhtTlc0ZThNY29wYlBVR2tRaUplTU9LaVRkU21aclNhdmRzZG5tNWN2RE9KcnpUalJzV0F1cTFTT2luSEVnRDVLZ3hxdVlPc0VLV1B2ZGUtMlZYMlZ2MWUyLWNDdm9LOTZRcVZ3WlVzUGU?oc=5",
@@ -158,16 +212,10 @@
       "publishedAt": "Mon, 09 Nov 2026 04:34:20 GMT"
     },
     {
-      "title": "Stock Market Holiday Tomorrow: NSE, BSE Closed for Diwali-Balipratipada - HDFC Sky",
+      "title": "Sensex, Nifty Slip as Profit‑Booking Caps Recent Rally - HDFC Sky",
       "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEhnc0I0MjRHZ2NiLTFzb09iUVM0TVBrc0ZiY2k0RzlJMERVYS1fX1d1WEdvQVVuSnBncHZ5NWg3OHhyMW4xQzZEQ21uWnZNSnhsQkdsR1pzNEpvczczdFVlTlJuaVFTMndDd1Rfb0hQMEI0ZC1kQzZ4YkFacGlPQ2xYU3JaMmJhRVZ0aURoOWpjYlFjWHRqRk1R?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 10:40:34 GMT"
-    },
-    {
-      "title": "Sensex Today Ends 107 Points Higher | Nifty Above 25,000 | Data Patterns Up 9% - Equitymaster",
-      "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVEpWVHJTYVJtdTkyODdFeWpTRnByOFVnVVRjWkt4RnBpTjlYTzJPZk9qemVWMEFhVDliTEJpb2RITjZNcE96S3V3SXlBYmxWWG5sMXZ0amVvUWVSUVltT1NSZTcwOXZ3cGZDeU1qMUpIYlk4bnJ4dlhyejhKcjEwbzItclhSdjAtM2F0U3hXTVpQcDFXc1RUU2NORGJWNUd6S1Y1MDdFX2NPVDdIVHBjX0JGci04ZmxXVXM1cVg0Z1F5MkJpeEZxWWNER3YtNHc?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 10:30:47 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa2dTZlFRWUoxSWtRd1dMMWpKRVRiRFF1YVhySVI0Zzk3cVVwLU5pNnM5dnlVVGdLT3ViQlJCOW00M2lpQkpWSi0tYVZQRkRucHhCeWZSRDVaRzZDRXZDak1MaHRMMk9oZlhjTVo4Rmo4T1V1MFgtNjVpV2QwZDhJVW8xaGJ3R0JZZGdMVm5XZHE1UV9BbXZrLUR5MUJXRjVJNjVFOHhZRVpDTmlaeGNNOXZXay1BMmpfRjBSa0ZIcmdySU5ZM3dFYzRNeVp4cWZlamI2Ukx3c1ltS3FORXhjYUI2by1kbWJBV0tiWGZKY3g?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 05:01:03 GMT"
     },
     {
       "title": "Stock market holiday tomorrow: BSE, NSE shut on November 10 for Diwali Balipratipada after Sunday Muhurat,... - Moneycontrol.com",
