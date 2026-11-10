@@ -1,93 +1,108 @@
 {
-  "headline": "Last session: Sensex and Nifty hit eight-month highs; markets closed today for Diwali-Balipratipada holiday",
+  "headline": "Markets closed today for Diwali-Balipratipada; Sensex and Nifty reached eight-month highs in last session.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 11 November.",
-    "nextOpen": "Wednesday, 11 November 2026"
+    "nextOpen": "Wednesday, 11 November"
   },
   "why": [
-    "NSE and BSE are closed today for the Diwali-Balipratipada holiday",
-    "Trading will resume on Wednesday, 11 November",
-    "The market reached multi-month highs in the previous trading session",
-    "India VIX has surged 68% over the last three weeks despite the recent rally"
+    "NSE and BSE are closed today for the Diwali-Balipratipada holiday.",
+    "Normal trading activity will resume on Wednesday, 11 November 2026.",
+    "In the last session, Sensex and Nifty extended gains to close at their highest levels in over eight months.",
+    "Indices have surged over 6% across the past five trading sessions."
   ],
   "whatHappening": [
-    "Sensex and Nifty closed at their highest levels in over eight months during the last session",
-    "MRF reported a 28% decline in Q2 net profit to Rs 369 crore",
-    "Kalyan Jewellers, Cochin Shipyard, and Avanti Feeds are in focus for quarterly results",
-    "FIIs have sold off significantly across most Indian sectors recently"
+    "Indian stock exchanges remain shut today for local festivities.",
+    "Hind Rectifiers reported a 54% decline in Q2 net profit.",
+    "MRF reported a 28% drop in quarterly profit while Kalyan Jewellers and Cochin Shipyard remain in focus for earnings.",
+    "Investors are assessing whether the recent rally will continue when markets reopen tomorrow."
   ],
   "stocksInNews": [
     {
+      "symbol": "HINDRECT",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
       "symbol": "MRF",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        7,
-        8
+        0
       ]
     },
     {
       "symbol": "KALYANKJIL",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        8
+        0
       ]
     },
     {
       "symbol": "COCHINSHIP",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "AVANTIFEED",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "ZOMATO",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         0
       ]
     }
   ],
-  "summary": "Indian markets are closed today for Diwali-Balipratipada after the Sensex and Nifty reached eight-month highs in the last session. Corporate earnings remain in focus as MRF reported a 28% drop in quarterly profit. Trading is scheduled to resume on Wednesday, November 11.",
-  "updatedAt": "2026-11-10T08:02:06.531Z",
+  "summary": "Indian stock markets are closed today for Diwali-Balipratipada and will reopen on Wednesday, 11 November. In the last trading session, Sensex and Nifty extended their gains to hit over eight-month highs following a 6% rally in recent days. Meanwhile, Q2 corporate earnings remain in focus as Hind Rectifiers and MRF reported lower profits.",
+  "updatedAt": "2026-11-10T09:02:00.277Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-10",
   "articleKeys": [
+    "q2 results live hind rectifiers profit falls 54 mrf profit slips 28 kalyan jewellers cochin shipyard also in focus",
+    "nicl ao prelims admit card for 2026 released exam to be held on november 17",
+    "ramayana yashs ravana costumes weighed up to 33 kg crown alone weighed 18 kg",
+    "vivo x500 series india launch expected price features battery camera and other details",
     "the liver doc doubles down on deepinder goyal over temple device no more scientific updates",
     "bengaluru ccb raids illegal diwali pool party in marathahalli villa three organisers arrested",
     "3 workers die of asphyxiation at tatas iphone parts factory in tamil nadu",
     "nvidia ceo jensen huang face shareholder lawsuit over alleged china spy connection",
     "australias qantas to axe 850 jobs in offshoring deal with accenture",
     "recovering from burn injury heres why proper wound care is essential",
-    "fiis sold almost everything in india these sectors still made the cut",
-    "mrf q2 results net profit falls 28 to rs 369 crore declares dividend check record date",
-    "q2 results live mrf profit falls 28 kalyan jewellers mrf cochin shipyard avanti feeds among stocks in focus",
-    "first job first salary seven money decisions that can shape your financial future",
     "stock market holiday today nse bse shut when will trading resume ndtv",
     "sensex nifty closed today for local holiday business news hindustan times",
     "indian stock markets closed on account of diwalibalipratipada dd india",
-    "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
     "stock market holiday nse bse to remain closed for diwalibalipratipada business standard",
+    "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
     "sensex nifty 50 rise over 6 in past 5 sessions more rally from tomorrow or profit booking will dent returns hopes livemint",
+    "stock market holiday today are nse bse open or closed today on account of diwalibalipratipada check r the economic times",
     "news by cnbc tv18 on tradingview 20261110 cnbctvcad052ba7094b0 tradingview",
-    "india vix jumps 68 in three weeks despite 7 rally in sensex nifty the economic times",
-    "stock market holiday today are nse bse open or closed on november 10 for diwalibalipratipada check de the times of india",
-    "stock market holiday today are nse bse open or closed today on account of diwalibalipratipada check r the economic times"
+    "is stock market open or closed today check remaining holidays this year india today",
+    "stock market holiday today are nse bse open or closed on november 10 for diwalibalipratipada check de the times of india"
   ],
   "articles": [
+    {
+      "title": "Q2 Results Live: Hind Rectifiers Profit Falls 54%, MRF Profit Slips 28%; Kalyan Jewellers, Cochin Shipyard Also In Focus",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-10-kalyan-jewellers-mrf-cochin-shipyard-among-44-companies-to-announce-earnings-today-12306507#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 13:45:23 +0530"
+    },
+    {
+      "title": "NICL AO Prelims Admit Card For 2026 Released; Exam To Be Held On November 17",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/nicl-ao-prelims-admit-card-for-2026-released-exam-to-be-held-on-november-17-12307041#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 13:40:59 +0530"
+    },
+    {
+      "title": "Ramayana: Yash's Ravana Costumes Weighed Up To 33 Kg, Crown Alone Weighed 1.8 Kg",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/yash-wore-costumes-weighing-up-to-33-kg-in-ramayana-crown-alone-weighed-1-8-kg-12306888#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 13:16:25 +0530"
+    },
+    {
+      "title": "Vivo X500 Series India Launch: Expected Price, Features, Battery, Camera And Other Details",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/vivo-x500-series-india-launch-expected-price-features-battery-camera-and-other-details-12306586#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 13:07:42 +0530"
+    },
     {
       "title": "The Liver Doc Doubles Down On Deepinder Goyal Over Temple Device: 'No More Scientific Updates'",
       "source": "Zerodha Pulse",
@@ -125,30 +140,6 @@
       "publishedAt": "Tue, 10 Nov 2026 12:44:12 +0530"
     },
     {
-      "title": "FIIs Sold Almost Everything In India. These Sectors Still Made The Cut",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/fiis-sold-almost-everything-in-india-these-sectors-still-made-the-cut-12306810#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 12:44:08 +0530"
-    },
-    {
-      "title": "MRF Q2 Results: Net Profit Falls 28% To Rs 369 Crore, Declares Dividend; Check Record Date",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/mrf-q2-results-november-10-net-profit-falls-28-to-rs-369-crore-declares-dividend-check-record-date-sensex-today-markets-bse-nse-12306831#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 12:42:54 +0530"
-    },
-    {
-      "title": "Q2 Results Live: MRF Profit Falls 28%; Kalyan Jewellers, MRF, Cochin Shipyard, Avanti Feeds Among Stocks In Focus",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-10-kalyan-jewellers-mrf-cochin-shipyard-among-44-companies-to-announce-earnings-today-12306507#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 12:41:37 +0530"
-    },
-    {
-      "title": "First Job, First Salary: Seven Money Decisions That Can Shape Your Financial Future",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/first-job-first-salary-seven-money-decisions-that-can-shape-your-financial-future-12306740#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 12:27:30 +0530"
-    },
-    {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjgxUE5jbWc4X3pleGN0VXRSbGM2REFCQ19GbVVDZ18xS0NSU2JtNFVqZVFGRWZIN1Y3SDVNQW1iVUE3Y0d5QUlpUmNFb3NMYlNScFpsWk1RWm9fVWlHelhLS04zQjZMVlFQcmhRYU1LSUcxVGw3WVVoRFFwQUFhWWd1LUphUkE4RTFPMXBhbmJSeDhPelFQY1RyLW9fa0VRWmhrVVp5QncwLVZFNXVhMVlmR0xsbzB3VGpvVW5tQ0sydE93NzdzRWowSmFWNWV4QmhXN3VB0gHeAUFVX3lxTFBkWmJ3QWxnNjQ2VHgyMDdLOVhfX2RRdEZTTy1ROTZfY3NhY3hsU05OM1phakkxdzNyQWdhTXkzNnQ2b3hYVjF3eGRwYkE5S2txeEtaRFdQRFFZMUM5UG11N1hoTlc3TFZna0x6NVJXR0w2WDltLXNlajJwUVg5OVZTaFY2UXNYVHVQaXFNQVdhX0lLTTktVy1vdmZlVkMxcnlxVG52T2J4SURzTGxVMWxlUnFscFV4cnd0Ykpfb0RqOHBJRS1lZXRrS0FqWVk0MkxpZlE5ZGxzczU3UHJBUQ?oc=5",
@@ -167,16 +158,16 @@
       "publishedAt": "Tue, 10 Nov 2026 05:17:00 GMT"
     },
     {
-      "title": "Sensex, Nifty extend gains to close at highest levels in over eight months, rally on - Telegraph India",
-      "source": "Telegraph India",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX0NfTHBqWDVKdzN4eF9lcGVZUEwzRzlDSXNLcXFkYW42bTVScWFFQ3c5ejNFc2wzeG81YWZqUnNGaVlHN3Q4MFptUTJLYk1mRU95NjFCUm5DVXp6cU9HTzFwQ0pHWHEybXFfdmxLV05haWtMb0ZiamJrQm5WdGdCVWZaRUM1Qks2YVJmWU5Oc1AwY1lSVHA5alF6c1VuY2x3Q3FUNW9sRm54SnpHbVhNbWs4OVNDSzZJR3B3a0lXcHlwRVkxc2drNGlSSlczSzJyZEZJcmV30gHbAUFVX3lxTE92ZzJPMmtYSWcwUVNkMkNvRHhrUGY4bTJXNkNRX2lfU0JSTTI0SlBVbU5nYXNhdDNYQkRXX3BxZEs1VmRBTlFNZXYyMmV2UlV3eEZ5cnVBQUt6UUdQOWZ6cTBiUGhUMzZRdGo3QTEzQm1HdnRzUlBJWmV1RWVtaldOYkY4a2FnU2pYVGlDYjZHNi1yZUNIQWJwUThmd1FyWmF5Y0NBZkx4aU1iN3NIMUZZcTQxc21kZmh4VFJmdXhORzVQVnBCRk1MVUhxZUIwd1dvV3phdGxINGZkRQ?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 00:09:26 GMT"
-    },
-    {
       "title": "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVlpPWlh5emZPQm4xdDRERnV1bjNyUUlBekZ5cUxmZFhIc0tOU0E3ak9DLUdPVnVxYnFnN0JoYVdTcEstb3ZTZ1ZQRkZtREtSd0tOelhRR1FUVnpOTlpnX3BsZkZmeHYwVVphSTdld0dMaWNHMy1KYnJjM3ptZmhRMUh1aDRXLTl4ZkJELWZlTnpwanJlekItRzlvMk53ME9Ka3NhSHFpUEdSc2ZtY1dCc19MWC1BeGRBLTJ3bkotN2cwVEZrRVphcVR1RkJIcll3ajBGUEdObWpxNlnSAeABQVVfeXFMT29XcVZicVE3ajlJd19CU29CR0RhbGhJckNTQnF2MUl0U1ZmYjdQZ2xUdWx1cE1MUEZSd3JJQ2RXY2lUMWN2RlczdnVfSi1VTVRFQWRzYWNCYUx0SEc5aGRrSEgybDItZDBEMS1Nbmcyems2Y3VYQUxudk9VSmxuYkJzLUFWMWtlN1JYVnh5d0k1eUt2TkpFZmJiRkNpZjJ4dXlkSmdoSVlaUy0wdHprNU9QOWktZGl5aERMOHRYWDB0bWdPLWpHNWN0RGljZmNOM2ZmQUhzc05YcjBCUGRvemg?oc=5",
       "publishedAt": "Tue, 10 Nov 2026 02:17:22 GMT"
+    },
+    {
+      "title": "Sensex, Nifty extend gains to close at highest levels in over eight months, rally on - Telegraph India",
+      "source": "Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX0NfTHBqWDVKdzN4eF9lcGVZUEwzRzlDSXNLcXFkYW42bTVScWFFQ3c5ejNFc2wzeG81YWZqUnNGaVlHN3Q4MFptUTJLYk1mRU95NjFCUm5DVXp6cU9HTzFwQ0pHWHEybXFfdmxLV05haWtMb0ZiamJrQm5WdGdCVWZaRUM1Qks2YVJmWU5Oc1AwY1lSVHA5alF6c1VuY2x3Q3FUNW9sRm54SnpHbVhNbWs4OVNDSzZJR3B3a0lXcHlwRVkxc2drNGlSSlczSzJyZEZJcmV30gHbAUFVX3lxTE92ZzJPMmtYSWcwUVNkMkNvRHhrUGY4bTJXNkNRX2lfU0JSTTI0SlBVbU5nYXNhdDNYQkRXX3BxZEs1VmRBTlFNZXYyMmV2UlV3eEZ5cnVBQUt6UUdQOWZ6cTBiUGhUMzZRdGo3QTEzQm1HdnRzUlBJWmV1RWVtaldOYkY4a2FnU2pYVGlDYjZHNi1yZUNIQWJwUThmd1FyWmF5Y0NBZkx4aU1iN3NIMUZZcTQxc21kZmh4VFJmdXhORzVQVnBCRk1MVUhxZUIwd1dvV3phdGxINGZkRQ?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 00:09:26 GMT"
     },
     {
       "title": "Sensex, Nifty 50 rise over 6% in past 5 sessions: More rally from tomorrow or profit booking will dent returns hopes? - Livemint",
@@ -185,28 +176,28 @@
       "publishedAt": "Tue, 10 Nov 2026 07:13:11 GMT"
     },
     {
+      "title": "Stock Market Holiday today: Are NSE, BSE open or closed today on account of Diwali-Balipratipada? Check r - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYzM4V0FETUpjMnB5aUpDQXQwZjJlUWRJbmZJVU9hYUZkZmptMXZha2h4TmFaZ3JNYWhyYVFRZHFTRUZfV1pWQ3N6UVc2WVFWNGFEdzJhS21iemJKSC16Xy1PVFlrenhtS3VEMF9vRzg2VHdPQ21wSUU5TEt5ZXdiQ2JtVWVheTJ3d2JiY19PSlpZcWN0R3k2UHJ1UnFCZ0EzOVdGeHFQUE5NNW1RdzhWZ3J1dXZwZTl6a2psVzZhdEZSMWNWOTZQVERzSmZzcXhNWHU5bDV2Z0pQQjJmTmN0el8ycHFNNWtfVUR4QkRuYUlTZG5LRW1LZjg3NUx5Nnd3TlVKSFRuTGR3ZjdyTkpVTTUwd3FJNWFBN2hGNGEtY0t5Y2_SAagCQVVfeXFMTm1IcTdFMzR4Sl90NDcya2J2U1dFb3hiZW94WXRFYmtkMnFEbE5BMk1vU3N0ZjF3dVlVTnJuVmJhTTljSDZNQzlEODRIT1lIRU94YmlFSUdNbGREREhaMTVLUTNVSFJtTEZkWjhRN1N2bVFYSExNMmdDYWxQeDI5Mm1SMU9IYTBwc3Y1VGRqRlpBQ201VExNbEFWNFF0LUwzcTF1b1FrREZJalE2aEZpSXdsTjV5dGphMGUyakttai11Y094dVRPSVdIQ1N0UkhoQjRvY05uRDBIOU1adk8xTEg1cE44TXJPeUU3Z3RFUVhMaTNHalZUdkpRLS14TWJVQ3B6emx5NkVMRmFUNkJlUHpkOVJ5b1ZhUXMxNmhualBRV2ZXaS1TYmc?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 01:30:00 GMT"
+    },
+    {
       "title": "News by CNBC TV18 on TradingView, 2026-11-10 — cnbctv:cad052ba7094b:0 - TradingView",
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zVzJlcnA4S2E2dHU0Rmp3VEZlX1FGdGZqVXhITUJtdG96Rjl5c29JaXlRMjBkakFvampCUjBsNWNoU0Z1QzYzX0dkN1JYZDd0d2ZpbnE0bHgwTWJaX2FWdGdkSGUwZ0U?oc=5",
       "publishedAt": "Tue, 10 Nov 2026 02:38:23 GMT"
     },
     {
-      "title": "India VIX jumps 68% in three weeks despite 7% rally in Sensex, Nifty - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1dHM1VZVnIzcG12dGU2Y0RaYnhUU2QyWnIzbV9XUEFqTVVZc2FXOTQxTy00UUhTNFlNSDJKN0taOEhLY1gzTlM3a3FMdWlSbFl6SlZTNjdwV0dxdlFwTUc5MnFSbGV4ZGtqbHIwSkE3MnJRUHBVZjhJM2kxd0daOUVHWmZUYmFtY051TFlCQUs0WXRod3hGSi1tNUg0MV9PV3FKZXVFaEdHVmtnV3dmUms2dGZ3V2VfQml2WVhwVnJ6d9IBxwFBVV95cUxNejRQMU9wcm9SYnBTTjU2VHh1ZFVyX29GRW1GMlJUM2RmT3ZpYW40XzhZMl9sa3ZxVmpqVDlpUXFVTkFNR2NCU3l4bE4taXNaQXNUalBKNnNZMk0wM0FSeXRsdDJtbUY0R0FpOHJLWE1mRFM5REg1S0RhM1V4NkExVW1SR2ZrNUc5NjQtaFUxUk9Qc3EtZUUtbk53amdLS1JuaVlaS3NWMlhDOFlsamppX3BVajlXLWlVbmE1NklLOVp5ai1SaV9n?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 00:35:58 GMT"
+      "title": "Is stock market open or closed today? Check remaining holidays this year - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRVZmdDNLU0I5aVJWbV9DSFQxZUVsWmhwU185S25LYnU0QkZTazNMbnR0SkppUmlzZnJXLVdmVWhldjJwOFFhN3BiQl9wSE11VUgzN0RReFVxOEV5R29NYU1NRWppMl9VTVM3R3VnMDk0THc3SDNsSWJKakdlbHlrY3pWMEtweWdsNUhrdk5uUi02Qy1pVDZpZDBPczF5Qi1KQUw0M1VVRmNGbVc0OVQ2RzNlUWJTZk0zejhxVTJQX3lMSi1jVDQ5ZmZtaGRJZnN1aWY4eWtWWmJXS3VwX0NBTjZ2QXlrQdIB6wFBVV95cUxObVJCcm5qRlJOQmtId1NrekZNMXIwRHRyUHJQUFFFS3U3N1lTZGs3cUF6Y05USU9UTDVjNk9EdHBzWFZCNnNWS3ZKMWtQdDJpQ1p5VHB6SHRseXBrQTBtU0lMRnhYRjVQSGF0b1dTQmhkZTdVaWZhWTBzdnVETjAtMHlDZnN0dUpmemhvMVQxdE41T0RzZjBQV3VzczAxQXVKQmpwbHZhZ1licTZCN2hvX09sVGFjRXJPYjZRdlptS2FnVUJsUWI4WGtKZ0l3OGhZOGV2LUhld19iRW5nbkg2bE54cEtEMjNENVdB?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 03:15:56 GMT"
     },
     {
       "title": "Stock market holiday today: Are NSE, BSE open or closed on November 10 for Diwali-Balipratipada? Check de - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNSG96TGpSbmFPTFFkNUxndXlSNmRxTUNIY3BHb2JpcjM5cElMVk5xYlhSNHlPMXdhOUotZXRWYjNBYWVIWThmM2oxVm1YN3FfSjJaZWpZT21IQmVjYlM4NnV6QkZkUGVFZUtyR0ZnVTgxNFBWcnNpd2xGeE83TmRjc0JHcmNLamF0WDJETnpERnBkV3JvUmo5UnQ2c3F4d1loS245X2REWXhvS3FFd29wRFRHS1ZJajBRUUJXQmozMFcxUFhDTmpYcVhoaXh1bEluMFZwMlhpdVlzTXgyb2o4RGk2d2czS2xqQmhBOXl0OW9GMFVQajkzZjJHVHRySkpBclQzUzFpYjB2WFhZZi1wd1lXeWtOSVNZdDdkVHln0gGjAkFVX3lxTE9iR2wtek5KT0JHZGl5VnNaQzVKSndyZDBfdk9saTlBMVR1b3VrRFVacU9xYk5rTEdTR0ozRWl5Y3pRWmZVZXFpVXYtWDFydUFVVGt5ZHk0clEwcUxiMEhnOTdkajEwT0JqcG1tX3RzVG52TGZZVFgyRUdtd0VTV2tIRmlaMXFoS2NrSzdERXNTb1dENjZhVWlQMmp2VWxqN1YtTTk5Mm9Qb2VMa2FLcEU4dWtKaURwMV9IU19uMlpTYkx6Q2oxamgtLVlGNHBGUmd4LUNhM0xMN1UxYVpjd1BxMVhVa1FwWFdYVWRxdkktdng5c2k0NU9HT3ZPd202WnAyajNXcGtRemlIazBBeVhDV3E0UVNvQV9wS1p2WDMzNUhhbw?oc=5",
       "publishedAt": "Tue, 10 Nov 2026 03:35:00 GMT"
-    },
-    {
-      "title": "Stock Market Holiday today: Are NSE, BSE open or closed today on account of Diwali-Balipratipada? Check r - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYzM4V0FETUpjMnB5aUpDQXQwZjJlUWRJbmZJVU9hYUZkZmptMXZha2h4TmFaZ3JNYWhyYVFRZHFTRUZfV1pWQ3N6UVc2WVFWNGFEdzJhS21iemJKSC16Xy1PVFlrenhtS3VEMF9vRzg2VHdPQ21wSUU5TEt5ZXdiQ2JtVWVheTJ3d2JiY19PSlpZcWN0R3k2UHJ1UnFCZ0EzOVdGeHFQUE5NNW1RdzhWZ3J1dXZwZTl6a2psVzZhdEZSMWNWOTZQVERzSmZzcXhNWHU5bDV2Z0pQQjJmTmN0el8ycHFNNWtfVUR4QkRuYUlTZG5LRW1LZjg3NUx5Nnd3TlVKSFRuTGR3ZjdyTkpVTTUwd3FJNWFBN2hGNGEtY0t5Y2_SAagCQVVfeXFMTm1IcTdFMzR4Sl90NDcya2J2U1dFb3hiZW94WXRFYmtkMnFEbE5BMk1vU3N0ZjF3dVlVTnJuVmJhTTljSDZNQzlEODRIT1lIRU94YmlFSUdNbGREREhaMTVLUTNVSFJtTEZkWjhRN1N2bVFYSExNMmdDYWxQeDI5Mm1SMU9IYTBwc3Y1VGRqRlpBQ201VExNbEFWNFF0LUwzcTF1b1FrREZJalE2aEZpSXdsTjV5dGphMGUyakttai11Y094dVRPSVdIQ1N0UkhoQjRvY05uRDBIOU1adk8xTEg1cE44TXJPeUU3Z3RFUVhMaTNHalZUdkpRLS14TWJVQ3B6emx5NkVMRmFUNkJlUHpkOVJ5b1ZhUXMxNmhualBRV2ZXaS1TYmc?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 01:30:00 GMT"
     }
   ]
 }
