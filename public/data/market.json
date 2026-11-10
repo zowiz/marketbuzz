@@ -1,51 +1,134 @@
 {
-  "headline": "Markets closed for Diwali-Balipratipada; Sensex and Nifty closed at eight-month highs in last session",
+  "headline": "Last session: Sensex and Nifty hit eight-month highs; markets closed today for Diwali-Balipratipada holiday",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 11 November.",
-    "nextOpen": "Wednesday, 11 November"
+    "nextOpen": "Wednesday, 11 November 2026"
   },
   "why": [
-    "Indian stock exchanges NSE and BSE are closed on Tuesday, 10 November 2026, due to Diwali-Balipratipada.",
-    "Normal trading activity in domestic stock markets will resume on Wednesday, 11 November.",
-    "In the last trading session, Sensex and Nifty extended gains to close at their highest levels in over eight months.",
-    "Volatility gauge India VIX has jumped 68% over three weeks despite a 7% rally in benchmark indices."
+    "Indian stock markets are closed today, 10 November 2026, for the Diwali-Balipratipada holiday",
+    "Trading on both the NSE and BSE exchanges is suspended for the duration of the local holiday",
+    "Normal trading operations are scheduled to resume on Wednesday, 11 November",
+    "The closure affects all market segments including equity, equity derivatives, and SLB"
   ],
   "whatHappening": [
-    "NSE and BSE remain shut for trading today on account of local holiday Diwali-Balipratipada.",
-    "On the last trading day, domestic equity indices rallied to achieve multi-month highs.",
-    "India VIX saw a sharp rise of 68% in three weeks alongside gains in Sensex and Nifty.",
-    "Strait of Hormuz LNG traffic hit its highest level in October according to recent global energy updates."
+    "In the last session, Sensex and Nifty extended their rally to close at their highest levels in over eight months",
+    "The India VIX volatility index has jumped 68% in three weeks despite a 7% rally in benchmark indices",
+    "The Nifty 500 index has outperformed major global benchmarks including the Nasdaq and Nikkei since June",
+    "Apple is navigating significant supply chain challenges in India, including labor protests and environmental issues"
   ],
-  "stocksInNews": [],
-  "summary": "Indian equity markets are closed today, 10 November 2026, on account of Diwali-Balipratipada, with trading scheduled to reopen on Wednesday. In the last session, Sensex and Nifty rallied to close at their highest levels in over eight months. Additionally, India VIX surged 68% over the past three weeks despite strong benchmark index gains.",
-  "updatedAt": "2026-11-10T06:31:33.186Z",
+  "stocksInNews": [
+    {
+      "symbol": "NIFTY50",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/11 sources",
+      "articleIds": [
+        13,
+        15
+      ]
+    },
+    {
+      "symbol": "SENSEX",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/11 sources",
+      "articleIds": [
+        13,
+        15
+      ]
+    },
+    {
+      "symbol": "INDIAVIX",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        15
+      ]
+    },
+    {
+      "symbol": "NIFTY500",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        6
+      ]
+    }
+  ],
+  "summary": "Indian markets are closed today for Diwali-Balipratipada following a strong session where the Sensex and Nifty hit eight-month highs. Despite the upward trend, the India VIX has surged 68% recently, signaling heightened volatility. Meanwhile, the Nifty 500 has outperformed major global indices like the Nasdaq and Nikkei since June.",
+  "updatedAt": "2026-11-10T07:05:28.790Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-10",
   "articleKeys": [
+    "fires protests and pollution apples supply chain challenges in india",
+    "punes national centre for radio astrophysics staff booked for exam paper leak",
+    "asian markets today kospi off highs still up 4 nikkei gains 3 three things to know",
+    "why the trade desk stock surged 15 despite revenue decline",
+    "samantha ruth prabhu shares casual baby bump moment consider this my maternity shoot",
+    "xat 2027 registration ends on december 6 check fees and how to apply",
+    "nifty 500 beats nasdaq nikkei kospi since june heres the global scorecard",
+    "anthropic releases claude fable 52 mythos 52 heres whats new",
     "strait of hormuz lng traffic hits highest in october since iran war began",
     "james gunn peter safran step down as dc studios coceo former marvel executive latcham named president",
-    "cop31 opens with climate finance clash as rich developing nations spar",
-    "credit card rewards vs overspending are you really getting a good deal",
-    "jensen huang told trump he didnt know she was a spy us president says",
-    "nagpur bans flying firecrackers till november 30 after 42 fires on lakshmi puja",
-    "anthropic plans ipo live stream with amodei jpmorgan ceo dimon",
-    "trump says iran war is effectively over how the conflict unfolded",
-    "a new samvat wishlist inclusive prosperity and human development",
-    "punjab wrestler shot dead while bursting firecrackers on diwali in kapurthala",
     "stock market holiday today nse bse shut when will trading resume ndtv",
     "sensex nifty closed today for local holiday business news hindustan times",
     "indian stock markets closed on account of diwalibalipratipada dd india",
     "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
     "stock market holiday nse bse to remain closed for diwalibalipratipada business standard",
-    "stock market holiday today are nse bse open or closed today on account of diwalibalipratipada check r the economic times",
+    "india vix jumps 68 in three weeks despite 7 rally in sensex nifty the economic times",
     "news by cnbc tv18 on tradingview 20261110 cnbctvcad052ba7094b0 tradingview",
     "stock market holiday closed today on tuesday 10 november 2026 on diwalibalipratipada no trading in nse bse exchanges livemint",
-    "stock market holiday today are nse bse open or closed on november 10 for diwalibalipratipada check de the times of india",
-    "india vix jumps 68 in three weeks despite 7 rally in sensex nifty the economic times"
+    "is stock market open or closed today check remaining holidays this year india today",
+    "stock market holiday today are nse bse open or closed on november 10 for diwalibalipratipada check de the times of india"
   ],
   "articles": [
+    {
+      "title": "Fires, protests and pollution: Apple's supply chain challenges in India",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/fires-protests-and-pollution-apple-s-supply-chain-challenges-in-india-126111000237_1.html",
+      "publishedAt": "Tue, 10 Nov 2026 11:55:55 +0530"
+    },
+    {
+      "title": "Pune's National Centre for Radio Astrophysics staff booked for exam paper leak",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/punes-national-centre-for-radio-astrophysics-staff-booked-for-exam-paper-leak-12306448#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 11:04:04 +0530"
+    },
+    {
+      "title": "Asian Markets Today: Kospi Off Highs, Still Up 4%; Nikkei Gains 3%; Three Things To Know",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/asian-markets-today-november-10-south-korea-kospi-trading-halt-skyrockets-5-percent-nikkei-three-things-to-know-nvidia-jensen-tech-stocks-us-sensex-to-12305782#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 11:03:10 +0530"
+    },
+    {
+      "title": "Why The Trade Desk stock surged 15% despite revenue decline",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-the-trade-desk-stock-surged-15-despite-revenue-decline/slideshow/135701057.cms",
+      "publishedAt": "Tue, 10 Nov 2026 11:01:01 +0530"
+    },
+    {
+      "title": "Samantha Ruth Prabhu Shares Casual Baby Bump Moment: 'Consider This My Maternity Shoot'",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/consider-this-my-maternity-shoot-actress-samanthas-casual-baby-bump-moment-wins-hearts-12306425#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 10:58:28 +0530"
+    },
+    {
+      "title": "XAT 2027 Registration Ends On December 6; Check Fees And How To Apply",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/xat-2027-registration-ends-on-december-6-check-fees-and-how-to-apply-12306400#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 10:49:44 +0530"
+    },
+    {
+      "title": "Nifty 500 Beats Nasdaq, Nikkei, Kospi Since June; Here's The Global Scorecard",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/nifty-500-index-beats-nasdaq-nikkei-kospi-since-june-heres-the-global-scorecard-nifty-50-sensex-today-stock-market-holiday-november-10-12306365#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 10:41:13 +0530"
+    },
+    {
+      "title": "Anthropic Releases Claude Fable 5.2, Mythos 5.2: Here’s What’s New",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/anthropic-releases-claude-fable-5-2-mythos-5-2-here-s-what-s-new-12306186#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 10:26:22 +0530"
+    },
     {
       "title": "Strait of Hormuz LNG traffic hits highest in October since Iran war began",
       "source": "Zerodha Pulse",
@@ -57,54 +140,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/entertainment/james-gunn-peter-safran-step-down-as-dc-studios-co-ceo-former-marvel-executive-latcham-named-president-12306281#publisher=newsstand",
       "publishedAt": "Tue, 10 Nov 2026 10:10:42 +0530"
-    },
-    {
-      "title": "COP31 opens with climate finance clash as rich, developing nations spar",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/cop31-antalya-climate-finance-eu-g77-india-climate-talks-126111000162_1.html",
-      "publishedAt": "Tue, 10 Nov 2026 10:04:33 +0530"
-    },
-    {
-      "title": "Credit Card Rewards Vs Overspending: Are You Really Getting A Good Deal?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/credit-card-rewards-vs-overspending-are-you-really-getting-a-good-deal-12306109#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 09:59:16 +0530"
-    },
-    {
-      "title": "Jensen Huang Told Trump He Didn't Know She Was A Spy, US President Says",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/jensen-huang-told-trump-he-didnt-know-she-was-a-spy-us-president-says-12306076#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 09:57:43 +0530"
-    },
-    {
-      "title": "Nagpur Bans Flying Firecrackers Till November 30 After 42 Fires On Lakshmi Puja",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/nagpur-bans-flying-firecrackers-till-november-30-after-42-fires-on-lakshmi-puja-12305893#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 09:56:33 +0530"
-    },
-    {
-      "title": "Anthropic plans IPO live stream with Amodei, JPMorgan CEO Dimon",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-plans-ipo-live-stream-with-amodei-jpmorgan-ceo-dimon/articleshow/135699137.cms",
-      "publishedAt": "Tue, 10 Nov 2026 09:54:56 +0530"
-    },
-    {
-      "title": "Trump says Iran war is 'effectively over': How the conflict unfolded",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/trump-says-iran-war-is-effectively-over-how-the-conflict-unfolded-126111000144_1.html",
-      "publishedAt": "Tue, 10 Nov 2026 09:47:05 +0530"
-    },
-    {
-      "title": "A New Samvat Wishlist: Inclusive Prosperity And Human Development",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/opinion-a-new-samvat-wishlist-inclusive-prosperity-and-human-development-12303212#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 09:25:42 +0530"
-    },
-    {
-      "title": "Punjab Wrestler Shot Dead While Bursting Firecrackers On Diwali In Kapurthala",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/punjab-wrestler-shot-dead-while-bursting-firecrackers-on-diwali-in-kapurthala-12306004#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 09:22:10 +0530"
     },
     {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
@@ -137,10 +172,10 @@
       "publishedAt": "Tue, 10 Nov 2026 02:17:22 GMT"
     },
     {
-      "title": "Stock Market Holiday today: Are NSE, BSE open or closed today on account of Diwali-Balipratipada? Check r - The Economic Times",
+      "title": "India VIX jumps 68% in three weeks despite 7% rally in Sensex, Nifty - The Economic Times",
       "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYzM4V0FETUpjMnB5aUpDQXQwZjJlUWRJbmZJVU9hYUZkZmptMXZha2h4TmFaZ3JNYWhyYVFRZHFTRUZfV1pWQ3N6UVc2WVFWNGFEdzJhS21iemJKSC16Xy1PVFlrenhtS3VEMF9vRzg2VHdPQ21wSUU5TEt5ZXdiQ2JtVWVheTJ3d2JiY19PSlpZcWN0R3k2UHJ1UnFCZ0EzOVdGeHFQUE5NNW1RdzhWZ3J1dXZwZTl6a2psVzZhdEZSMWNWOTZQVERzSmZzcXhNWHU5bDV2Z0pQQjJmTmN0el8ycHFNNWtfVUR4QkRuYUlTZG5LRW1LZjg3NUx5Nnd3TlVKSFRuTGR3ZjdyTkpVTTUwd3FJNWFBN2hGNGEtY0t5Y2_SAagCQVVfeXFMTm1IcTdFMzR4Sl90NDcya2J2U1dFb3hiZW94WXRFYmtkMnFEbE5BMk1vU3N0ZjF3dVlVTnJuVmJhTTljSDZNQzlEODRIT1lIRU94YmlFSUdNbGREREhaMTVLUTNVSFJtTEZkWjhRN1N2bVFYSExNMmdDYWxQeDI5Mm1SMU9IYTBwc3Y1VGRqRlpBQ201VExNbEFWNFF0LUwzcTF1b1FrREZJalE2aEZpSXdsTjV5dGphMGUyakttai11Y094dVRPSVdIQ1N0UkhoQjRvY05uRDBIOU1adk8xTEg1cE44TXJPeUU3Z3RFUVhMaTNHalZUdkpRLS14TWJVQ3B6emx5NkVMRmFUNkJlUHpkOVJ5b1ZhUXMxNmhualBRV2ZXaS1TYmc?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 01:30:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1dHM1VZVnIzcG12dGU2Y0RaYnhUU2QyWnIzbV9XUEFqTVVZc2FXOTQxTy00UUhTNFlNSDJKN0taOEhLY1gzTlM3a3FMdWlSbFl6SlZTNjdwV0dxdlFwTUc5MnFSbGV4ZGtqbHIwSkE3MnJRUHBVZjhJM2kxd0daOUVHWmZUYmFtY051TFlCQUs0WXRod3hGSi1tNUg0MV9PV3FKZXVFaEdHVmtnV3dmUms2dGZ3V2VfQml2WVhwVnJ6d9IBxwFBVV95cUxNejRQMU9wcm9SYnBTTjU2VHh1ZFVyX29GRW1GMlJUM2RmT3ZpYW40XzhZMl9sa3ZxVmpqVDlpUXFVTkFNR2NCU3l4bE4taXNaQXNUalBKNnNZMk0wM0FSeXRsdDJtbUY0R0FpOHJLWE1mRFM5REg1S0RhM1V4NkExVW1SR2ZrNUc5NjQtaFUxUk9Qc3EtZUUtbk53amdLS1JuaVlaS3NWMlhDOFlsamppX3BVajlXLWlVbmE1NklLOVp5ai1SaV9n?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 00:35:58 GMT"
     },
     {
       "title": "News by CNBC TV18 on TradingView, 2026-11-10 — cnbctv:cad052ba7094b:0 - TradingView",
@@ -155,16 +190,16 @@
       "publishedAt": "Tue, 10 Nov 2026 02:17:28 GMT"
     },
     {
+      "title": "Is stock market open or closed today? Check remaining holidays this year - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRVZmdDNLU0I5aVJWbV9DSFQxZUVsWmhwU185S25LYnU0QkZTazNMbnR0SkppUmlzZnJXLVdmVWhldjJwOFFhN3BiQl9wSE11VUgzN0RReFVxOEV5R29NYU1NRWppMl9VTVM3R3VnMDk0THc3SDNsSWJKakdlbHlrY3pWMEtweWdsNUhrdk5uUi02Qy1pVDZpZDBPczF5Qi1KQUw0M1VVRmNGbVc0OVQ2RzNlUWJTZk0zejhxVTJQX3lMSi1jVDQ5ZmZtaGRJZnN1aWY4eWtWWmJXS3VwX0NBTjZ2QXlrQdIB6wFBVV95cUxObVJCcm5qRlJOQmtId1NrekZNMXIwRHRyUHJQUFFFS3U3N1lTZGs3cUF6Y05USU9UTDVjNk9EdHBzWFZCNnNWS3ZKMWtQdDJpQ1p5VHB6SHRseXBrQTBtU0lMRnhYRjVQSGF0b1dTQmhkZTdVaWZhWTBzdnVETjAtMHlDZnN0dUpmemhvMVQxdE41T0RzZjBQV3VzczAxQXVKQmpwbHZhZ1licTZCN2hvX09sVGFjRXJPYjZRdlptS2FnVUJsUWI4WGtKZ0l3OGhZOGV2LUhld19iRW5nbkg2bE54cEtEMjNENVdB?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 03:15:56 GMT"
+    },
+    {
       "title": "Stock market holiday today: Are NSE, BSE open or closed on November 10 for Diwali-Balipratipada? Check de - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNSG96TGpSbmFPTFFkNUxndXlSNmRxTUNIY3BHb2JpcjM5cElMVk5xYlhSNHlPMXdhOUotZXRWYjNBYWVIWThmM2oxVm1YN3FfSjJaZWpZT21IQmVjYlM4NnV6QkZkUGVFZUtyR0ZnVTgxNFBWcnNpd2xGeE83TmRjc0JHcmNLamF0WDJETnpERnBkV3JvUmo5UnQ2c3F4d1loS245X2REWXhvS3FFd29wRFRHS1ZJajBRUUJXQmozMFcxUFhDTmpYcVhoaXh1bEluMFZwMlhpdVlzTXgyb2o4RGk2d2czS2xqQmhBOXl0OW9GMFVQajkzZjJHVHRySkpBclQzUzFpYjB2WFhZZi1wd1lXeWtOSVNZdDdkVHln0gGjAkFVX3lxTE9iR2wtek5KT0JHZGl5VnNaQzVKSndyZDBfdk9saTlBMVR1b3VrRFVacU9xYk5rTEdTR0ozRWl5Y3pRWmZVZXFpVXYtWDFydUFVVGt5ZHk0clEwcUxiMEhnOTdkajEwT0JqcG1tX3RzVG52TGZZVFgyRUdtd0VTV2tIRmlaMXFoS2NrSzdERXNTb1dENjZhVWlQMmp2VWxqN1YtTTk5Mm9Qb2VMa2FLcEU4dWtKaURwMV9IU19uMlpTYkx6Q2oxamgtLVlGNHBGUmd4LUNhM0xMN1UxYVpjd1BxMVhVa1FwWFdYVWRxdkktdng5c2k0NU9HT3ZPd202WnAyajNXcGtRemlIazBBeVhDV3E0UVNvQV9wS1p2WDMzNUhhbw?oc=5",
       "publishedAt": "Tue, 10 Nov 2026 03:35:00 GMT"
-    },
-    {
-      "title": "India VIX jumps 68% in three weeks despite 7% rally in Sensex, Nifty - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1dHM1VZVnIzcG12dGU2Y0RaYnhUU2QyWnIzbV9XUEFqTVVZc2FXOTQxTy00UUhTNFlNSDJKN0taOEhLY1gzTlM3a3FMdWlSbFl6SlZTNjdwV0dxdlFwTUc5MnFSbGV4ZGtqbHIwSkE3MnJRUHBVZjhJM2kxd0daOUVHWmZUYmFtY051TFlCQUs0WXRod3hGSi1tNUg0MV9PV3FKZXVFaEdHVmtnV3dmUms2dGZ3V2VfQml2WVhwVnJ6d9IBxwFBVV95cUxNejRQMU9wcm9SYnBTTjU2VHh1ZFVyX29GRW1GMlJUM2RmT3ZpYW40XzhZMl9sa3ZxVmpqVDlpUXFVTkFNR2NCU3l4bE4taXNaQXNUalBKNnNZMk0wM0FSeXRsdDJtbUY0R0FpOHJLWE1mRFM5REg1S0RhM1V4NkExVW1SR2ZrNUc5NjQtaFUxUk9Qc3EtZUUtbk53amdLS1JuaVlaS3NWMlhDOFlsamppX3BVajlXLWlVbmE1NklLOVp5ai1SaV9n?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 00:35:58 GMT"
     }
   ]
 }
