@@ -1,65 +1,103 @@
 {
-  "headline": "Markets closed today for Diwali-Balipratipada; Sensex and Nifty reached eight-month highs in last session",
+  "headline": "Indian Markets Resume Trading as Foreign Investors Return and Benchmarks Rally to Multi-Month Highs",
   "marketStatus": {
-    "isClosed": true,
+    "isClosed": false,
     "isMuhuratTrading": false,
-    "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Thursday, 12 November.",
-    "nextOpen": "Thursday, 12 November 2026"
+    "message": "Market is open for trading today.",
+    "nextOpen": ""
   },
   "why": [
-    "NSE and BSE are closed today on account of the Diwali-Balipratipada holiday.",
-    "On the last trading day, Sensex and Nifty extended gains to close at their highest levels in over eight months.",
-    "Benchmark indices Sensex and Nifty 50 have surged over 6% across the past 5 sessions.",
-    "India VIX rose 18% in the last 3 weeks and 68% over the past 47 days."
+    "Foreign investors are returning to Indian equities, signaling confidence in longer-term bets.",
+    "Sensex and Nifty have rallied over 6% in recent sessions to reach their highest levels in over eight months.",
+    "Individual ownership in NSE-listed firms reached a record high of 19.5% in Q2FY27.",
+    "India VIX has gained 18% over the last three weeks, highlighting increased market volatility."
   ],
   "whatHappening": [
-    "Blackstone agreed to acquire roughly a 16% stake in India's IIFL Finance for $535 million.",
-    "Individual ownership in NSE-listed companies climbed to a record high of 19.5% in Q2FY27.",
-    "PHDCCI outlined Budget 2027 expectations, demanding LTCG tax removal and LNG duty waivers.",
-    "Bullion prices took a hit globally, with gold dropping over 2% due to hotter US inflation data."
+    "Blackstone is acquiring approximately a 16% stake in IIFL Finance for $535 million.",
+    "NMDC is reportedly in talks with Russia's Rosatom regarding lithium investment opportunities.",
+    "Urban youth unemployment hit a six-quarter high in Q2, with Kerala leading among states.",
+    "US Federal Reserve officials signaled potential rapid rate hikes following strong inflation data."
   ],
   "stocksInNews": [
+    {
+      "symbol": "NMDC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
+      ]
+    },
     {
       "symbol": "IIFL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        0
+        3
       ]
     }
   ],
-  "summary": "Indian stock exchanges NSE and BSE are closed today for Diwali-Balipratipada and will reopen on Thursday, 12 November. On the last trading day, Sensex and Nifty extended their rally to finish at eight-month highs after gaining over 6% across five sessions. In corporate news, Blackstone announced a $535 million deal to acquire a 16% stake in IIFL Finance.",
-  "updatedAt": "2026-11-10T18:01:41.551Z",
+  "summary": "Indian markets return to trading following recent holiday breaks amid strong institutional momentum and multi-month highs on benchmark indices. Retail participation in NSE-listed equities hit a record high of 19.5% in Q2 FY27. Major corporate moves include Blackstone buying a stake in IIFL Finance and NMDC exploring lithium partnerships.",
+  "updatedAt": "2026-11-10T19:01:40.042Z",
   "source": "zerodha-pulse",
-  "dateChecked": "2026-11-10",
+  "dateChecked": "2026-11-11",
   "articleKeys": [
+    "chipmakers warn ai demand is creating bottlenecks in automotive supply chain",
+    "us feds logan calls for two more rate hikes possibly rapidly",
+    "nmdc said to be in talks with russias rosatom over lithium investments",
     "blackstone to buy about 16 stake in indias iifl finance for 535 million",
+    "urban youth unemployment hits sixquarter high in q2 kerala tops states",
+    "the turn of the tide foreign investors return signalling longer india bet",
     "nvidia sinks 6 extends losses for second session as jensen huangs affair deepens china worries",
     "salman khan drops maatrubhumi trailer shares release date of galwaninspired film",
     "from gold coins to diet coke what diwali shopping carts reveal about indias consumption",
     "treasuries drop as hot us inflation backs december rate bets",
-    "fabricated malicious attacks india rejects khalistani terrorist pannuns us civil lawsuit",
-    "feds logan favors at least two hikes says pace could quicken",
-    "ibm to end immigration sponsorship for roles in biggest unit",
-    "bullion takes a hit gold drops over 2 as hotter us cpi lifts dollar yields on hawkish fed repricing",
-    "budget 2027 expectations ltcg tax removal to lng duty waiver five key demands by phdcci",
     "stock market holiday today nse bse shut when will trading resume ndtv",
     "sensex nifty closed today for local holiday business news hindustan times",
     "indian stock markets closed on account of diwalibalipratipada dd india",
-    "sensex nifty 50 rise over 6 in past 5 sessions more rally from tomorrow or profit booking will dent returns hopes livemint",
-    "stock market holiday today are nse bse open or closed today check gift nifty levels moneycontrolcom",
+    "individual ownership in nselisted firms hits record 195 in q2fy27 business standard",
     "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
     "news by cnbc tv18 on tradingview 20261110 cnbctvcad052ba7094b0 tradingview",
-    "individual ownership in nselisted firms hits record 195 in q2fy27 business standard",
+    "sensex nifty 50 rise over 6 in past 5 sessions more rally from tomorrow or profit booking will dent returns hopes livemint",
     "india vix rises 68 in 47 days gains 18 in the last 3 weeks strong niftytrader",
-    "stock market holiday today are nse bse open or closed today on account of diwalibalipratipada check r the economic times"
+    "stock market holiday today are nse bse open or closed today on account of diwalibalipratipada check r the economic times",
+    "share market bse and nse conduct muhurat trading on diwali news on air"
   ],
   "articles": [
+    {
+      "title": "Chipmakers warn AI demand is creating bottlenecks in automotive supply chain",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipmakers-warn-ai-demand-is-creating-bottlenecks-in-automotive-supply-chain/articleshow/135718403.cms",
+      "publishedAt": "Tue, 10 Nov 2026 23:55:20 +0530"
+    },
+    {
+      "title": "US Fed's Logan calls for two more rate hikes, possibly rapidly",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-logan-calls-for-two-more-rate-hikes-possibly-rapidly/articleshow/135718142.cms",
+      "publishedAt": "Tue, 10 Nov 2026 23:35:16 +0530"
+    },
+    {
+      "title": "NMDC said to be in talks with Russia’s Rosatom over lithium investments",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece",
+      "publishedAt": "Tue, 10 Nov 2026 23:17:11 +0530"
+    },
     {
       "title": "Blackstone to buy about 16% stake in India's IIFL Finance for $535 million",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Industry/blackstone-to-buy-about-16-stake-in-indias-iifl-finance-for-535-million/article71687312.ece",
       "publishedAt": "Tue, 10 Nov 2026 23:04:32 +0530"
+    },
+    {
+      "title": "Urban youth unemployment hits six-quarter high in Q2; Kerala tops states",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/economy/news/urban-youth-unemployment-hits-six-quarter-high-in-q2-kerala-tops-states-126111000953_1.html",
+      "publishedAt": "Tue, 10 Nov 2026 23:03:19 +0530"
+    },
+    {
+      "title": "The turn of the tide: Foreign investors return, signalling longer India bet",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/the-turn-of-the-tide-foreign-investors-return-signalling-longer-india-bet-126111000761_1.html",
+      "publishedAt": "Tue, 10 Nov 2026 23:00:29 +0530"
     },
     {
       "title": "Nvidia Sinks 6%, Extends Losses For Second Session As Jensen Huang's Affair Deepens China Worries",
@@ -86,36 +124,6 @@
       "publishedAt": "Tue, 10 Nov 2026 22:37:29 +0530"
     },
     {
-      "title": "Fabricated, Malicious Attacks': India Rejects Khalistani Terrorist Pannun's US Civil Lawsuit",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/fabricated-malicious-attacks-india-rejects-khalistani-terrorist-pannuns-us-civil-lawsuit-12309658#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 22:30:25 +0530"
-    },
-    {
-      "title": "Fed's Logan Favors At Least Two Hikes, Says Pace Could Quicken",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/feds-logan-favors-at-least-two-hikes-says-pace-could-quicken-12309653#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 22:29:15 +0530"
-    },
-    {
-      "title": "IBM To End Immigration Sponsorship For Roles In Biggest Unit",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/ibm-to-end-immigration-sponsorship-for-roles-in-biggest-unit-12309636#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 22:23:42 +0530"
-    },
-    {
-      "title": "Bullion Takes A Hit: Gold Drops Over 2% As Hotter US CPI Lifts Dollar, Yields On Hawkish Fed Repricing",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/bullion-takes-a-hit-gold-drops-over-2-as-hotter-us-cpi-lifts-dollar-yields-on-hawkish-fed-repricing-12309619#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 22:20:25 +0530"
-    },
-    {
-      "title": "Budget 2027 Expectations: LTCG Tax Removal To LNG Duty Waiver — Five Key Demands By PHDCCI",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/budget-2027-expectations-ltcg-tax-removal-to-lng-duty-waiver-five-demands-by-phdcci-12309537#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 22:07:44 +0530"
-    },
-    {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjgxUE5jbWc4X3pleGN0VXRSbGM2REFCQ19GbVVDZ18xS0NSU2JtNFVqZVFGRWZIN1Y3SDVNQW1iVUE3Y0d5QUlpUmNFb3NMYlNScFpsWk1RWm9fVWlHelhLS04zQjZMVlFQcmhRYU1LSUcxVGw3WVVoRFFwQUFhWWd1LUphUkE4RTFPMXBhbmJSeDhPelFQY1RyLW9fa0VRWmhrVVp5QncwLVZFNXVhMVlmR0xsbzB3VGpvVW5tQ0sydE93NzdzRWowSmFWNWV4QmhXN3VB0gHeAUFVX3lxTFBkWmJ3QWxnNjQ2VHgyMDdLOVhfX2RRdEZTTy1ROTZfY3NhY3hsU05OM1phakkxdzNyQWdhTXkzNnQ2b3hYVjF3eGRwYkE5S2txeEtaRFdQRFFZMUM5UG11N1hoTlc3TFZna0x6NVJXR0w2WDltLXNlajJwUVg5OVZTaFY2UXNYVHVQaXFNQVdhX0lLTTktVy1vdmZlVkMxcnlxVG52T2J4SURzTGxVMWxlUnFscFV4cnd0Ykpfb0RqOHBJRS1lZXRrS0FqWVk0MkxpZlE5ZGxzczU3UHJBUQ?oc=5",
@@ -134,16 +142,10 @@
       "publishedAt": "Tue, 10 Nov 2026 05:16:30 GMT"
     },
     {
-      "title": "Sensex, Nifty 50 rise over 6% in past 5 sessions: More rally from tomorrow or profit booking will dent returns hopes? - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNU2JaVU1faHREb1BSVUFrZ0hzNnU2TE1DTmV1MEd1NlZHQ3RJYnZNWGNnVGFxZ3h5Rm5wdWIzVmxkS1h4VGdSVndCZ3dDTjZ6d1MxWG5JRlpRTnMtTGRBaFZ6b2lZcmo0dEtGckFqR09Yd0FkendCYnRvM2w5WDA3X3ZlWnVPZXRqd3NidWkxRHd6RHJHS3ZHTGR5ZmgwQVlDcEtYQXpxNUdMME01SE83Qlp4cGdRaHRmcUZGbVNqM3cxS3FpbDBaQzdiN2ZvQmw3UDdMWl80a0hHdzR2ZThzV3I4eHZsY1RDQmZmOWpLNml6OXk2SGdtdmJDbnF0RTdUUTNhZzJVbGlFdkN5LVUzWdIBlgJBVV95cUxPTGV3VkxMRU5yR3FPRVdfT0NEVnFqMno4TzdEWExzUUJLNXMwRlNHQk51M25XSlh0QWFzdFBtbFFXeFVpVmdWR2ZJT3RLLURrRDkxWkpqRl9TOENDQXI1R1l6WHBEU1R2WDNwMHhCbGdLQ1VLd2lfNVYxQ3g1bUw2NVJKRElaTndZX3F1T05HWVRaQkhZajF5S2FJSWxBOVV5Umxtb0tZVDNnVVp4TFRwWlRKOEltNlRxTnV4NXdzaEk4YjJpbmJGTUtfa25FcXdFV1pHSC05ekkzODhjdXFYTE9xQXdHbHNSV2dSRzc5eVpYdUxUWTduU1JseVhEY0pkU0Z0a2JqeFZTN3dFd2Ztc0hFYlJGZw?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 07:13:11 GMT"
-    },
-    {
-      "title": "Stock market holiday today: Are NSE, BSE open or closed today? Check GIFT Nifty levels - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOM25SZmRYOHBwMVQwOVVWSzhnNkxVb0hhYUpYOGJuTEFkbDZ2YXpJWURJWDVLX05lWEItTXNoV2ZIN2RfVTItcnZaaWxnZjlTdjlKZzRUOEFnMEFITmZGdFY1R19sSWdNLUVVLVR5NEs5MTVwbXB5V1hqNnVIOTJSOHVMTUZnQjViNDBMcTJudlIyWTNBX1RkemM2M1dGT3hKWnlQbnFveGlhRHdWOFc0OVBvRmVZMTU5MWVhVTVYdklBeDFiT0Q0azdRSEt1OTVQNWhYeklJdGs2VmUtSFFfOV9EMFlOZUtEY1NfeFBGMlRqa3ZzTWFzcHhsdE4xMmdwcm1BbzZXMnVTdUFVelFOdHZ0Ujd3U0VrMUHSAZ8CQVVfeXFMT3VnT3gxeF9Na3BnZVhmS3JobFJNQk5ab1NDa2tldlB0QzNoakczaERTZ2JzZ3lENW42Yl9tR1dpOWdkRU92dUh6Mm1VWEtBQmVIUzlkZE8wUFRLeEhpbDRIc3VPMktoTG4tVTJnTFFRb2FEM2dEMDM1RTloZ1c0Sk5UR0pxWE5LbVM2OFkycHpMcUV3cEJSN01ubU94cWlVa1VuR1NYSFlkaDhMaFpoSTNGZ2ZmU2o3YUR4RE9JcEdHRERsTXc5NnJQcVlzaU1KYnZOQ0Jya1pnRGJFZWM1SGVNNFctdUY5eHJHVXhidEVVMzlqeGgxWWdqTm9WYlY2Q2ZjdUZsM3lkZjRrdmRWZ1d1RExhSllHS2xSWXMtZGc?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 05:56:13 GMT"
+      "title": "Individual ownership in NSE-listed firms hits record 19.5% in Q2FY27 - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSGdORk9YaEhtRUJiY1NDT2NHb2VlYTFoNDBfMnI1bWdwbFgzTjVtX0ZmYjBTSldTNU5xaUVudDBWWThrQnBQTTdleGZtMG8ybWNrZm5DN2NrS2dKX3YyZGZVOTZkWGJlRlB5MUZ5VjVJSmJlT3V2aldVRzV4ZzMyMjlZejB5d0NzcTNhT0VOSF9TRExUcnZrTElJOUJxQ2RXZ2FCZ2JNaExhZFd3R1NzNlZnWVpCX2d4NkpGbTFLZXZMWlFwYy11R3h6d0FHS0nSAdQBQVVfeXFMUFhYNkpJM3pMdFRGUXhEaEVoQ1dHVS16Z252TUMxMTdjdHVUOGZMZUNtMjdXLTF1TXJ3UlpBNEpacEFDNDVIUGhjZ3Q0Y0pGdHQ3dy1nMFo5el9tN3A3cEFiODVLUmpGbFpueTRvbHVHVFQ3UXZfTGZnOWI3Y0FDMjF2NHhJMEYtRGpxR19zbHdTZE1iNjgyX0RlekdncV9RbWJqNmlBU0tpOUkxOC01MUllcnJxeXowRnR0SkRPdDh1ck1BR0hkdnlxNUduU3poYnVNcHo?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 11:18:46 GMT"
     },
     {
       "title": "Sensex, Nifty extend gains to close at highest levels in over eight months, rally on - Telegraph India",
@@ -158,10 +160,10 @@
       "publishedAt": "Tue, 10 Nov 2026 02:38:00 GMT"
     },
     {
-      "title": "Individual ownership in NSE-listed firms hits record 19.5% in Q2FY27 - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSGdORk9YaEhtRUJiY1NDT2NHb2VlYTFoNDBfMnI1bWdwbFgzTjVtX0ZmYjBTSldTNU5xaUVudDBWWThrQnBQTTdleGZtMG8ybWNrZm5DN2NrS2dKX3YyZGZVOTZkWGJlRlB5MUZ5VjVJSmJlT3V2aldVRzV4ZzMyMjlZejB5d0NzcTNhT0VOSF9TRExUcnZrTElJOUJxQ2RXZ2FCZ2JNaExhZFd3R1NzNlZnWVpCX2d4NkpGbTFLZXZMWlFwYy11R3h6d0FHS0nSAdQBQVVfeXFMUFhYNkpJM3pMdFRGUXhEaEVoQ1dHVS16Z252TUMxMTdjdHVUOGZMZUNtMjdXLTF1TXJ3UlpBNEpacEFDNDVIUGhjZ3Q0Y0pGdHQ3dy1nMFo5el9tN3A3cEFiODVLUmpGbFpueTRvbHVHVFQ3UXZfTGZnOWI3Y0FDMjF2NHhJMEYtRGpxR19zbHdTZE1iNjgyX0RlekdncV9RbWJqNmlBU0tpOUkxOC01MUllcnJxeXowRnR0SkRPdDh1ck1BR0hkdnlxNUduU3poYnVNcHo?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 11:18:46 GMT"
+      "title": "Sensex, Nifty 50 rise over 6% in past 5 sessions: More rally from tomorrow or profit booking will dent returns hopes? - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNU2JaVU1faHREb1BSVUFrZ0hzNnU2TE1DTmV1MEd1NlZHQ3RJYnZNWGNnVGFxZ3h5Rm5wdWIzVmxkS1h4VGdSVndCZ3dDTjZ6d1MxWG5JRlpRTnMtTGRBaFZ6b2lZcmo0dEtGckFqR09Yd0FkendCYnRvM2w5WDA3X3ZlWnVPZXRqd3NidWkxRHd6RHJHS3ZHTGR5ZmgwQVlDcEtYQXpxNUdMME01SE83Qlp4cGdRaHRmcUZGbVNqM3cxS3FpbDBaQzdiN2ZvQmw3UDdMWl80a0hHdzR2ZThzV3I4eHZsY1RDQmZmOWpLNml6OXk2SGdtdmJDbnF0RTdUUTNhZzJVbGlFdkN5LVUzWdIBlgJBVV95cUxPTGV3VkxMRU5yR3FPRVdfT0NEVnFqMno4TzdEWExzUUJLNXMwRlNHQk51M25XSlh0QWFzdFBtbFFXeFVpVmdWR2ZJT3RLLURrRDkxWkpqRl9TOENDQXI1R1l6WHBEU1R2WDNwMHhCbGdLQ1VLd2lfNVYxQ3g1bUw2NVJKRElaTndZX3F1T05HWVRaQkhZajF5S2FJSWxBOVV5Umxtb0tZVDNnVVp4TFRwWlRKOEltNlRxTnV4NXdzaEk4YjJpbmJGTUtfa25FcXdFV1pHSC05ekkzODhjdXFYTE9xQXdHbHNSV2dSRzc5eVpYdUxUWTduU1JseVhEY0pkU0Z0a2JqeFZTN3dFd2Ztc0hFYlJGZw?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 07:13:11 GMT"
     },
     {
       "title": "India VIX Rises 68% in 47 Days; Gains 18% in the Last 3 Weeks strong - NiftyTrader",
@@ -174,6 +176,12 @@
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYzM4V0FETUpjMnB5aUpDQXQwZjJlUWRJbmZJVU9hYUZkZmptMXZha2h4TmFaZ3JNYWhyYVFRZHFTRUZfV1pWQ3N6UVc2WVFWNGFEdzJhS21iemJKSC16Xy1PVFlrenhtS3VEMF9vRzg2VHdPQ21wSUU5TEt5ZXdiQ2JtVWVheTJ3d2JiY19PSlpZcWN0R3k2UHJ1UnFCZ0EzOVdGeHFQUE5NNW1RdzhWZ3J1dXZwZTl6a2psVzZhdEZSMWNWOTZQVERzSmZzcXhNWHU5bDV2Z0pQQjJmTmN0el8ycHFNNWtfVUR4QkRuYUlTZG5LRW1LZjg3NUx5Nnd3TlVKSFRuTGR3ZjdyTkpVTTUwd3FJNWFBN2hGNGEtY0t5Y2_SAagCQVVfeXFMTm1IcTdFMzR4Sl90NDcya2J2U1dFb3hiZW94WXRFYmtkMnFEbE5BMk1vU3N0ZjF3dVlVTnJuVmJhTTljSDZNQzlEODRIT1lIRU94YmlFSUdNbGREREhaMTVLUTNVSFJtTEZkWjhRN1N2bVFYSExNMmdDYWxQeDI5Mm1SMU9IYTBwc3Y1VGRqRlpBQ201VExNbEFWNFF0LUwzcTF1b1FrREZJalE2aEZpSXdsTjV5dGphMGUyakttai11Y094dVRPSVdIQ1N0UkhoQjRvY05uRDBIOU1adk8xTEg1cE44TXJPeUU3Z3RFUVhMaTNHalZUdkpRLS14TWJVQ3B6emx5NkVMRmFUNkJlUHpkOVJ5b1ZhUXMxNmhualBRV2ZXaS1TYmc?oc=5",
       "publishedAt": "Tue, 10 Nov 2026 01:30:00 GMT"
+    },
+    {
+      "title": "Share Market: BSE and NSE conduct muhurat trading on Diwali - News On AIR",
+      "source": "News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1VnVyaldVOTRwQk5DZXlLdDZyTzN0UmIwaERMR1E0Q3JCQTZETnAwRGJfRG11ZEdTZkpKcGsxamVOdjVISXBMeDNpZWpjQTN2SjJkOEFDWFlQdUM3U3BtM3V4b3M0Z1VJOE9IM1ktMXg5UmFPU051V3hMbw?oc=5",
+      "publishedAt": "Sun, 08 Nov 2026 12:41:36 GMT"
     }
   ]
 }
