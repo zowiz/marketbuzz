@@ -1,5 +1,5 @@
 {
-  "headline": "Nifty Bulls Eye 24,800 Support As Indian Markets Reopen Following Holiday",
+  "headline": "Indian markets reopen post-holiday as Nifty finds support at 24,800 amid US rate worries",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,32 +7,24 @@
     "nextOpen": ""
   },
   "why": [
-    "Nifty bulls are finding support at the 24,800 mark with analysts advocating a buy-on-dips strategy.",
-    "Sensex and Nifty have surged over 6% in recent sessions to reach their highest levels in over eight months.",
-    "Individual ownership in NSE-listed firms reached a record high of 19.5% in Q2FY27.",
-    "India VIX has climbed 68% over the past 47 days, reflecting increased volatility."
+    "Nifty bulls find support at 24,800 with analysts recommending a buy-on-dips strategy.",
+    "Indian markets resume trading after closing on Tuesday for the Diwali-Balipratipada holiday.",
+    "US markets fell overnight as hot inflation data and Fed rate hike comments heightened global worries.",
+    "India VIX rose 68% over 47 days and gained 18% in the last three weeks, signalling heightened market volatility."
   ],
   "whatHappening": [
-    "Indian stock markets resume regular trading after closing for Diwali-Balipratipada on November 10.",
-    "NMDC is reportedly in discussions with Russia's Rosatom for potential investments in lithium.",
-    "Patna Municipal Corporation listed a Rs 200-crore bond on the NSE, marking Bihar's civic body bond debut.",
-    "Global tech stocks saw pressure as US Fed comments hinted at further interest rate hikes."
+    "Sensex and Nifty extended gains prior to the holiday to close at highest levels in over eight months.",
+    "Individual ownership in NSE-listed firms hit a record high of 19.5% in Q2FY27.",
+    "Patna Municipal Corporation debuted on the NSE with a Rs 200-crore bond listing.",
+    "US Fed's Logan called for two more rate hikes, impacting market sentiment globally."
   ],
   "stocksInNews": [
-    {
-      "symbol": "NMDC",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
-      ]
-    },
     {
       "symbol": "BAJFINANCE",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        1
+        2
       ]
     },
     {
@@ -40,7 +32,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        1
+        2
       ]
     },
     {
@@ -48,7 +40,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        1
+        2
       ]
     },
     {
@@ -56,7 +48,7 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        1
+        2
       ]
     },
     {
@@ -64,15 +56,16 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        1
+        2
       ]
     }
   ],
-  "summary": "Indian stock markets resume trading today following the holiday break for Diwali-Balipratipada. Nifty index bulls are maintaining support around 24,800 after a strong multi-session rally. Key stocks in focus include NMDC following news of lithium investment talks, alongside Bajaj Finance and Tata Motors.",
-  "updatedAt": "2026-11-10T20:58:00.479Z",
+  "summary": "Indian equities resume trading today following a holiday closure for Diwali-Balipratipada.\nNifty holds key technical support at 24,800 with analysts suggesting a buy-on-dips approach.\nGlobal cues remain cautious as hot US inflation data and Fed rate hike commentary weigh on sentiment.",
+  "updatedAt": "2026-11-10T22:01:34.007Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-11",
   "articleKeys": [
+    "us stocks us market ends lower as hot inflation data fed comments heighten rate worries",
     "us stocks five things to know about anthropic",
     "stocks to watch today bajaj finance tata motors kalyan jewellers cochin shipyard mrf more",
     "chipmakers warn ai demand is creating bottlenecks in automotive supply chain",
@@ -82,7 +75,6 @@
     "nvidia sinks over 6 heads for 470 billion twoday wipeout as ceos affair row deepens",
     "us feds logan calls for two more rate hikes possibly rapidly",
     "pmc debuts on nse with rs 200crore bond listing bihars first civic body to tap bond market",
-    "nmdc said to be in talks with russias rosatom over lithium investments",
     "stock market holiday today nse bse shut when will trading resume ndtv",
     "ahead of market 10 things that will decide stock market action on wednesday the economic times",
     "sensex nifty closed today for local holiday business news hindustan times",
@@ -95,6 +87,12 @@
     "share market bse and nse conduct muhurat trading on diwali news on air"
   ],
   "articles": [
+    {
+      "title": "US stocks: US market ends lower as hot inflation data, Fed comments heighten rate worries",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/articleshow/135719918.cms",
+      "publishedAt": "Wed, 11 Nov 2026 02:45:32 +0530"
+    },
     {
       "title": "US stocks: Five things to know about Anthropic",
       "source": "Zerodha Pulse",
@@ -148,12 +146,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/pmc-debuts-on-nse-with-rs-200-crore-bond-listing-bihars-first-civic-body-to-tap-bond-market-12309849#publisher=newsstand",
       "publishedAt": "Tue, 10 Nov 2026 23:28:40 +0530"
-    },
-    {
-      "title": "NMDC said to be in talks with Russia’s Rosatom over lithium investments",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/nmdc-said-to-be-in-talks-with-russias-rosatom-over-lithium-investments/article71687322.ece",
-      "publishedAt": "Tue, 10 Nov 2026 23:17:11 +0530"
     },
     {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
