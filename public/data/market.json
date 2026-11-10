@@ -1,35 +1,35 @@
 {
-  "headline": "On last trading day, Sensex surpassed 81,000 and Nifty reclaimed 25,000 led by banking and pharmaceutical stocks",
+  "headline": "Last session: Sensex surpassed 81,000 and Nifty crossed 25,000; markets closed today for Diwali-Balipratipada",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 11 November.",
-    "nextOpen": "Wednesday, 11 November"
+    "nextOpen": "Wednesday, 11 November 2026"
   },
   "why": [
-    "Strong performance in banking and pharmaceutical stocks led the gains",
-    "A correction in global oil prices supported Indian equity markets",
-    "Positive global cues followed a tech surge in US markets",
-    "Banking stocks played catch-up to drive the Nifty's recovery"
+    "NSE and BSE are closed today, Tuesday 10 November 2026, on account of Diwali-Balipratipada.",
+    "In the last trading session, Indian equities extended gains to hit their highest levels in over eight months.",
+    "Banking and pharmaceutical stocks led the market rally in the previous session.",
+    "Modest market gains were supported by a correction in crude oil prices."
   ],
   "whatHappening": [
-    "NSE and BSE are closed today for the Diwali-Balipratipada holiday",
-    "Sensex and Nifty reached their highest levels in over eight months during the last session",
-    "The Nifty 50 reclaimed the 25,000 psychological level as bank stocks rallied",
-    "Data Patterns shares rose 9% as the Sensex ended 107 points higher on Monday"
+    "Indian stock exchanges are shut today for a public holiday and trading will resume on Wednesday, 11 November.",
+    "In the previous trading day, Sensex ended 107 points higher above 81,000 while Nifty settled above 25,000.",
+    "Data Patterns shares jumped 9% during the last trading session.",
+    "Asian stocks rallied globally following a rebound in US tech shares and falling oil prices."
   ],
   "stocksInNews": [
     {
-      "symbol": "DATAPATTNS",
+      "symbol": "DATAPATTERNS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        13
+        14
       ]
     }
   ],
-  "summary": "Indian markets are closed today for Diwali-Balipratipada. In the last session, the Nifty reclaimed the 25,000 level while the Sensex surpassed 81,000. Gains were driven by strong performance in banking and pharmaceutical stocks alongside global tech rallies.",
-  "updatedAt": "2026-11-10T02:01:53.656Z",
+  "summary": "Indian stock markets are closed today, Tuesday 10 November 2026, for Diwali-Balipratipada and will reopen on Wednesday. On the last trading day, Sensex closed above 81,000 and Nifty held above 25,000, led by gains in banking and pharma stocks. Data Patterns rallied 9% in the previous session.",
+  "updatedAt": "2026-11-10T02:31:21.291Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-10",
   "articleKeys": [
@@ -45,14 +45,14 @@
     "fda adds warning label to obesity drugs for eye condition",
     "stock market holiday today nse bse shut when will trading resume ndtv",
     "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
-    "indian stock market closes in green sensex surpasses 81000 nifty settles above 25000 tennewsin",
+    "stock market holiday 2026 are nse bse closed today on account of diwalibalipratipada check remaining the economic times",
+    "stock market holiday nse bse to remain closed for diwalibalipratipada business standard",
     "sensex today ends 107 points higher nifty above 25000 data patterns up 9 equitymaster",
+    "indian stock market closes in green sensex surpasses 81000 nifty settles above 25000 tennewsin",
     "indian equities see modest gains amidst oil price correction strong bank performance rediff",
     "sensex nifty close higher as banking and pharmaceutical stocks lead gains india new england news",
     "stock market holiday is the stock market open or closed on november 10 check nse and bse trading schedule ndtv profit",
-    "nifty sensex decline in early trade as profittaking sets in the new indian express",
-    "stock market holiday 2026 are nse bse closed today on account of diwalibalipratipada check remaining the economic times",
-    "nifty reclaims 25000 as bank stocks play catch up the economic times"
+    "stock market holiday closed today on tuesday 10 november 2026 on diwalibalipratipada no trading in nse bse exchanges livemint"
   ],
   "articles": [
     {
@@ -128,16 +128,28 @@
       "publishedAt": "Tue, 10 Nov 2026 00:09:26 GMT"
     },
     {
-      "title": "Indian Stock Market Closes in Green: Sensex Surpasses 81,000, Nifty Settles Above 25,000 - tennews.in",
-      "source": "tennews.in",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEY4NnBCMmRPcDA4aWc0SXI4MDdYTXVwN1ZrdXRuUXFHblYtNmc0bzdjSTFiYUoxUVZfMWotTUEyT1RYT2NndFpMbjJsNEVEaENOZHRrY282WWNDaVZQNWdka0lHazh2UkpyVnlyQ05iY19MeFgzdGdJSW5fTWRteXcyVVFYaGpDaUhiclFiM3NaU0xheGV5emY4NzNQVDcxVnhIMHVVaw?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 11:08:26 GMT"
+      "title": "Stock Market Holiday 2026: Are NSE, BSE closed today on account of Diwali-Balipratipada? Check remaining - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYzM4V0FETUpjMnB5aUpDQXQwZjJlUWRJbmZJVU9hYUZkZmptMXZha2h4TmFaZ3JNYWhyYVFRZHFTRUZfV1pWQ3N6UVc2WVFWNGFEdzJhS21iemJKSC16Xy1PVFlrenhtS3VEMF9vRzg2VHdPQ21wSUU5TEt5ZXdiQ2JtVWVheTJ3d2JiY19PSlpZcWN0R3k2UHJ1UnFCZ0EzOVdGeHFQUE5NNW1RdzhWZ3J1dXZwZTl6a2psVzZhdEZSMWNWOTZQVERzSmZzcXhNWHU5bDV2Z0pQQjJmTmN0el8ycHFNNWtfVUR4QkRuYUlTZG5LRW1LZjg3NUx5Nnd3TlVKSFRuTGR3ZjdyTkpVTTUwd3FJNWFBN2hGNGEtY0t5Y2_SAagCQVVfeXFMTm1IcTdFMzR4Sl90NDcya2J2U1dFb3hiZW94WXRFYmtkMnFEbE5BMk1vU3N0ZjF3dVlVTnJuVmJhTTljSDZNQzlEODRIT1lIRU94YmlFSUdNbGREREhaMTVLUTNVSFJtTEZkWjhRN1N2bVFYSExNMmdDYWxQeDI5Mm1SMU9IYTBwc3Y1VGRqRlpBQ201VExNbEFWNFF0LUwzcTF1b1FrREZJalE2aEZpSXdsTjV5dGphMGUyakttai11Y094dVRPSVdIQ1N0UkhoQjRvY05uRDBIOU1adk8xTEg1cE44TXJPeUU3Z3RFUVhMaTNHalZUdkpRLS14TWJVQ3B6emx5NkVMRmFUNkJlUHpkOVJ5b1ZhUXMxNmhualBRV2ZXaS1TYmc?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 01:30:00 GMT"
+    },
+    {
+      "title": "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVlpPWlh5emZPQm4xdDRERnV1bjNyUUlBekZ5cUxmZFhIc0tOU0E3ak9DLUdPVnVxYnFnN0JoYVdTcEstb3ZTZ1ZQRkZtREtSd0tOelhRR1FUVnpOTlpnX3BsZkZmeHYwVVphSTdld0dMaWNHMy1KYnJjM3ptZmhRMUh1aDRXLTl4ZkJELWZlTnpwanJlekItRzlvMk53ME9Ka3NhSHFpUEdSc2ZtY1dCc19MWC1BeGRBLTJ3bkotN2cwVEZrRVphcVR1RkJIcll3ajBGUEdObWpxNlnSAeABQVVfeXFMT29XcVZicVE3ajlJd19CU29CR0RhbGhJckNTQnF2MUl0U1ZmYjdQZ2xUdWx1cE1MUEZSd3JJQ2RXY2lUMWN2RlczdnVfSi1VTVRFQWRzYWNCYUx0SEc5aGRrSEgybDItZDBEMS1Nbmcyems2Y3VYQUxudk9VSmxuYkJzLUFWMWtlN1JYVnh5d0k1eUt2TkpFZmJiRkNpZjJ4dXlkSmdoSVlaUy0wdHprNU9QOWktZGl5aERMOHRYWDB0bWdPLWpHNWN0RGljZmNOM2ZmQUhzc05YcjBCUGRvemg?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 02:17:22 GMT"
     },
     {
       "title": "Sensex Today Ends 107 Points Higher | Nifty Above 25,000 | Data Patterns Up 9% - Equitymaster",
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT1BaVnBPalZlRWV1UXhGVXhfbzRtVmRjMFNzUko4RDYyX3JYUEdqeGJETnc1MFc3VXo4VzVyS2M0bDVucjFJUTVCZDAtN0k2VDQ4V1JDTFJERnRzLWotbTEzYWNIYVowS0FHajU1UEZ5VXJOT1ZMbjR3VDdzVHJpUG1iaTJCZFItSEdEdFNDWW9ycDI0ei01QVNLU2RQNHBlcTBoUDVWSWRZMFg5V1JqRUR3RldsSi1JY0l3MlNoVWM2Y0oyd1BWLUtoaW9vcEV5?oc=5",
       "publishedAt": "Mon, 09 Nov 2026 21:05:14 GMT"
+    },
+    {
+      "title": "Indian Stock Market Closes in Green: Sensex Surpasses 81,000, Nifty Settles Above 25,000 - tennews.in",
+      "source": "tennews.in",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEY4NnBCMmRPcDA4aWc0SXI4MDdYTXVwN1ZrdXRuUXFHblYtNmc0bzdjSTFiYUoxUVZfMWotTUEyT1RYT2NndFpMbjJsNEVEaENOZHRrY282WWNDaVZQNWdka0lHazh2UkpyVnlyQ05iY19MeFgzdGdJSW5fTWRteXcyVVFYaGpDaUhiclFiM3NaU0xheGV5emY4NzNQVDcxVnhIMHVVaw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 11:08:26 GMT"
     },
     {
       "title": "Indian Equities See Modest Gains Amidst Oil Price Correction, Strong Bank Performance - Rediff",
@@ -158,22 +170,10 @@
       "publishedAt": "Tue, 10 Nov 2026 01:30:01 GMT"
     },
     {
-      "title": "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
-      "source": "The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRml0clo4N1M3WmxpTDVpTU5YRTlQT1JLYzYwNkYwNjRRcDlMNkZlaXhzd0Z2OVhGMmR0NUVPTDkwQ0duemlyRHNSaFYySmtCTHpRSGtlMFQ3M0xzdTBROUQ4OTJCMDd2Y18tQzJGN0JzbmYzNG4wVVA1QkJ2LXBvcktMYWJaUEY0aHZ2ek9rTUhHLXM0WjdzeDQ2UTB1S1dYOUVtQVRzWmIwUnJidE1xelFuU1HSAcIBQVVfeXFMT3J0RDlrQm43cTJobGpYbzFDeWJWNEFDeHdsd0s1SW1wZnkxcklPOFJDcmYyalhYR3BrRVdRV1k3N29YYWxXcFYwcnk4c0JIckhWeXpwN3o4NGpiMHJWUTJxZUlPV1EtanBiczZtLXpwVlhkNkh5VV9GODg3SjYzRk9LajdNSjh1OFRZWEUtVlFHdjFodGhJSGJ0SVkzUmZQOXBGOFhHX1k2NmgybmNveWVPTDNmRHJ3LXBZZERxTWVjdHc?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:03:37 GMT"
-    },
-    {
-      "title": "Stock Market Holiday 2026: Are NSE, BSE closed today on account of Diwali-Balipratipada? Check remaining - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYzM4V0FETUpjMnB5aUpDQXQwZjJlUWRJbmZJVU9hYUZkZmptMXZha2h4TmFaZ3JNYWhyYVFRZHFTRUZfV1pWQ3N6UVc2WVFWNGFEdzJhS21iemJKSC16Xy1PVFlrenhtS3VEMF9vRzg2VHdPQ21wSUU5TEt5ZXdiQ2JtVWVheTJ3d2JiY19PSlpZcWN0R3k2UHJ1UnFCZ0EzOVdGeHFQUE5NNW1RdzhWZ3J1dXZwZTl6a2psVzZhdEZSMWNWOTZQVERzSmZzcXhNWHU5bDV2Z0pQQjJmTmN0el8ycHFNNWtfVUR4QkRuYUlTZG5LRW1LZjg3NUx5Nnd3TlVKSFRuTGR3ZjdyTkpVTTUwd3FJNWFBN2hGNGEtY0t5Y2_SAagCQVVfeXFMTm1IcTdFMzR4Sl90NDcya2J2U1dFb3hiZW94WXRFYmtkMnFEbE5BMk1vU3N0ZjF3dVlVTnJuVmJhTTljSDZNQzlEODRIT1lIRU94YmlFSUdNbGREREhaMTVLUTNVSFJtTEZkWjhRN1N2bVFYSExNMmdDYWxQeDI5Mm1SMU9IYTBwc3Y1VGRqRlpBQ201VExNbEFWNFF0LUwzcTF1b1FrREZJalE2aEZpSXdsTjV5dGphMGUyakttai11Y094dVRPSVdIQ1N0UkhoQjRvY05uRDBIOU1adk8xTEg1cE44TXJPeUU3Z3RFUVhMaTNHalZUdkpRLS14TWJVQ3B6emx5NkVMRmFUNkJlUHpkOVJ5b1ZhUXMxNmhualBRV2ZXaS1TYmc?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 01:30:00 GMT"
-    },
-    {
-      "title": "Nifty reclaims 25,000 as bank stocks play catch up - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbG1sNk5yVC1jTXE2S1N1UURkSjJqMTJ5ck9sSDRTcTB1alpNVVdmTHl5eE8xbW1iUGFSdm8zbTNZaHpoV0RyR0Z5NmlQa3pFdUducFkydDR2bXpfaFBtUjJGYVBBaVJsa1REX3BGbFNGeGk5dXRlZDllZUhRX2pCTGREbFY2bmNEMVZRaDhIWlF3dngtWGdlWkJUMkJzQl9aY0ZCak1HcTBVNkMwdFFuUExIdlZVekdGZEZLVjdRQVcyb0REUFpNaTg0QmnSAcYBQVVfeXFMTnpEQjBOQjlrTWhic3A1aGcwd1JBQmx0N2pjM3hFcUx4cXhvLUlGczhWUnEzWDRETzVGU0xGcTdLdDVsU001OGRMWV9oWml0QXEyMzg5VWkxNkNFQmFyN0tNd2ZNS09WWWpzM013VUFaTlFSSzVsTVBBaDRjOFZqRmNoY0lYbnBIS0VJTHVwRFdkUFR1VzZWUWhNa29VS3JZYkhSemxZbnFfWnNIdjE0VkFISF9KMGQzZ2JaT0NoN2Q0Y0ExSEd3?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 00:24:15 GMT"
+      "title": "Stock market holiday: Closed today on Tuesday 10 November 2026 on Diwali-Balipratipada; no trading in NSE, BSE exchanges - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOU0FvTVExZkl6clFNWm5rSFk5NVhWV2szaW5SUEtpOGh3YWFpcFVQaU9CcHJZUlMyMmt5TXBkamRzSC15b2RmVk1WR2Y3ZXZEMURjZ3dnR21PTGw3Z1ZaTERlZGt1TFZJR1U5d2FNY1VHTGxINTh1dXFjWElvcFY1SkhRVkYzZ3NCbXpLRU5INXA2dF95dHQyU2lhNl9CRmg0eEg2cGJHYTM4eDVwTGpYS3I1WVFrcnNQdmtaQUo0Y3dYNFdpNTJVQVcwelRNMExYRzRId0p4SHlnTXR6YWFlamE4YlBJWElSLXVFbGxGZ3RCdDkteDBIVUxpNFVobWhJWVd6MVZzN1ZyVDA2TlFPT2NXRGxwQdIBmwJBVV95cUxQNjJUS2RpckxQMlhGcnkwUE5GMWUwY3JFakF1bXRobmxpZW1UX1BtcGd3dEEtb0EyclpJRDdNYlZuTHVGdGNVbDVsVE00RHhuOWkyLUVOSUQ4MzhUeG8ybk1QSUJwT0xPREJBQXZzZWRYd0xLeldJaXdaeGkwdFJvMXVEU3ZQTTZzNjctcmowMzJrM3g5RnR3NS1WRzFOMDVzdWF6MFFhVG9ESHdwTHpwMnNTWmdSV3lvYnZ3ZEU4UzJycHBXaW1OUTZDbzBrNFZuMnctZUJtQTlJYmoyOUJUMmEtM09FZXNtQ1RTbjhNczIzc05oRWc4bE9LU3FINGlST1RlRW5KV09VaGNQMldOLUVyN0ZmYUIxLUhN?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 02:17:28 GMT"
     }
   ]
 }
