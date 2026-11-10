@@ -1,5 +1,5 @@
 {
-  "headline": "Markets closed today for Diwali-Balipratipada; Sensex, Nifty ended last session at multi-month highs",
+  "headline": "Indian stock markets closed today for Diwali-Balipratipada; benchmark indices sat near eight-month highs in last trading session.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,24 +7,24 @@
     "nextOpen": "Wednesday, 11 November 2026"
   },
   "why": [
-    "Indian stock markets (NSE and BSE) are closed today on account of Diwali-Balipratipada.",
-    "Trading on domestic stock exchanges will resume on Wednesday, 11 November.",
-    "MCX remains closed for the morning session but is scheduled to reopen for trading in the evening.",
-    "Benchmark indices ended the previous session at their highest levels in over eight months."
+    "Indian stock markets (BSE and NSE) are closed today on account of Diwali-Balipratipada.",
+    "In the previous trading sessions, Sensex and Nifty surged over 6% to reach their highest levels in over eight months.",
+    "India VIX jumped 68% over three weeks despite the 7% rally in benchmark indices.",
+    "Equity trading will resume on Wednesday, 11 November, while MCX opens for the evening session."
   ],
   "whatHappening": [
-    "Hind Rectifiers reported a 54% decline in Q2 net profit.",
-    "MRF reported a 28% slip in Q2 net profit.",
-    "India VIX jumped 68% over three weeks despite benchmark rally.",
-    "Sensex and Nifty 50 have risen over 6% across the last five trading sessions."
+    "Cochin Shipyard declared a dividend despite reporting a 50% decline in Q2 profit.",
+    "MRF reported a 28% drop in net profit for the second quarter.",
+    "Citi revised price targets upward for IT services firms Wipro, TCS, and HCLTech.",
+    "Nalco clarified that three workers who died at a Tata Electronics site were hired by a sub-contractor."
   ],
   "stocksInNews": [
     {
-      "symbol": "HINDRECT",
+      "symbol": "COCHINSHIP",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        0
+        3
       ]
     },
     {
@@ -32,7 +32,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        0
+        3
       ]
     },
     {
@@ -40,104 +40,136 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        0
+        3
       ]
     },
     {
-      "symbol": "COCHINSHIP",
+      "symbol": "WIPRO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "NALCO",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        0
+        1
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        7
       ]
     }
   ],
-  "summary": "Indian stock markets are closed today for Diwali-Balipratipada, with regular trading set to resume on Wednesday, 11 November. On the last trading day, Sensex and Nifty extended gains to close at multi-month highs following a 6% rally over five sessions. On the corporate front, Q2 earnings saw Hind Rectifiers and MRF report profit declines.",
-  "updatedAt": "2026-11-10T09:32:06.552Z",
+  "summary": "Indian equity markets are closed today, 10 November 2026, for Diwali-Balipratipada. In the last trading session, Sensex and Nifty extended gains to hit their highest levels in over eight months. Earnings announcements remain in focus with quarterly results from Cochin Shipyard and MRF.",
+  "updatedAt": "2026-11-10T10:01:45.925Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-10",
   "articleKeys": [
-    "q2 results live hind rectifiers profit falls 54 mrf profit slips 28 kalyan jewellers cochin shipyard also in focus",
-    "nicl ao prelims admit card for 2026 released exam to be held on november 17",
-    "ramayana yashs ravana costumes weighed up to 33 kg crown alone weighed 18 kg",
-    "vivo x500 series india launch expected price features battery camera and other details",
-    "the liver doc doubles down on deepinder goyal over temple device no more scientific updates",
-    "bengaluru ccb raids illegal diwali pool party in marathahalli villa three organisers arrested",
-    "3 workers die of asphyxiation at tatas iphone parts factory in tamil nadu",
-    "nvidia ceo jensen huang face shareholder lawsuit over alleged china spy connection",
-    "australias qantas to axe 850 jobs in offshoring deal with accenture",
-    "recovering from burn injury heres why proper wound care is essential",
+    "cop31 can negotiators finally deliver results the hindu explains",
+    "nalco says three workers killed at tata electronics site were hired by subcontractor",
+    "ipl eyes two new teams from 2028 pune and vadodara emerge as frontrunners check full details",
+    "q2 results live cochin shipyard profit tumbles 50 declares dividend mrf profit slips 28 kalyan jewellers in focus",
+    "delhi air quality today improves slightly after most polluted diwali in five years",
+    "8th pay commission will employees who retire before implementation get arrears",
+    "ipl calendar debate juhi chawla bats for january schedule for cricket tournament lalit modi reacts",
+    "lost her husband at 20 started working as a cleaner at sbi and retired as assistant gm an inspiring journey",
+    "divyanka tripathi dahiya mourns building guards death in fire recalls him blessing her babies",
+    "wipro vs tcs vs hcltech citi is raising price targets but isnt changing its stance heres why",
     "stock market holiday today nse bse shut when will trading resume ndtv",
     "sensex nifty closed today for local holiday business news hindustan times",
-    "indian stock markets closed on account of diwalibalipratipada dd india",
     "india vix jumps 68 in three weeks despite 7 rally in sensex nifty the economic times",
-    "news by cnbc tv18 on tradingview 20261110 cnbctvcad052ba7094b0 tradingview",
+    "indian stock markets closed on account of diwalibalipratipada dd india",
     "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
-    "stock market holiday nse bse to remain closed for diwalibalipratipada business standard",
+    "stock market holiday today are nse bse open or closed today check gift nifty levels moneycontrolcom",
     "sensex nifty 50 rise over 6 in past 5 sessions more rally from tomorrow or profit booking will dent returns hopes livemint",
-    "stock market holiday today nse bse shut for diwalibalipratipada mcx to resume trading in evening session zee business",
-    "is stock market open or closed today check remaining holidays this year india today"
+    "news by cnbc tv18 on tradingview 20261110 cnbctvcad052ba7094b0 tradingview",
+    "stock market holiday nse bse to remain closed for diwalibalipratipada business standard",
+    "stock market holiday today nse bse shut for diwalibalipratipada mcx to resume trading in evening session zee business"
   ],
   "articles": [
     {
-      "title": "Q2 Results Live: Hind Rectifiers Profit Falls 54%, MRF Profit Slips 28%; Kalyan Jewellers, Cochin Shipyard Also In Focus",
+      "title": "COP31: Can negotiators finally deliver results? | The Hindu explains",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/videos/cop31-can-negotiators-finally-deliver-results-the-hindu-explains/article71685611.ece",
+      "publishedAt": "Tue, 10 Nov 2026 14:59:02 +0530"
+    },
+    {
+      "title": "Nalco Says Three Workers Killed At Tata Electronics Site Were Hired By Sub-Contractor",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/nalco-says-three-workers-killed-at-tata-electronics-site-were-hired-by-sub-contractor-12307306#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 14:42:28 +0530"
+    },
+    {
+      "title": "IPL Eyes Two New Teams From 2028, Pune And Vadodara Emerge As Frontrunners: Check Full details",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/ipl-eyes-two-new-teams-from-2028-pune-and-vadodara-emerge-as-frontrunners-check-full-details-12307291#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 14:37:29 +0530"
+    },
+    {
+      "title": "Q2 Results Live: Cochin Shipyard Profit Tumbles 50%, Declares Dividend; MRF Profit Slips 28%; Kalyan Jewellers In Focus",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-10-kalyan-jewellers-mrf-cochin-shipyard-among-44-companies-to-announce-earnings-today-12306507#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 13:45:23 +0530"
+      "publishedAt": "Tue, 10 Nov 2026 14:37:04 +0530"
     },
     {
-      "title": "NICL AO Prelims Admit Card For 2026 Released; Exam To Be Held On November 17",
+      "title": "Delhi Air Quality Today Improves Slightly After Most Polluted Diwali In Five Years",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/nicl-ao-prelims-admit-card-for-2026-released-exam-to-be-held-on-november-17-12307041#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 13:40:59 +0530"
+      "link": "https://www.ndtvprofit.com/india/delhi-air-quality-today-improves-slightly-after-most-polluted-diwali-in-five-years-12307042#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 14:26:59 +0530"
     },
     {
-      "title": "Ramayana: Yash's Ravana Costumes Weighed Up To 33 Kg, Crown Alone Weighed 1.8 Kg",
+      "title": "8th Pay Commission: Will Employees Who Retire Before Implementation Get Arrears?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/yash-wore-costumes-weighing-up-to-33-kg-in-ramayana-crown-alone-weighed-1-8-kg-12306888#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 13:16:25 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-will-employees-who-retire-before-implementation-get-arrears-12306878#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 14:24:54 +0530"
     },
     {
-      "title": "Vivo X500 Series India Launch: Expected Price, Features, Battery, Camera And Other Details",
+      "title": "IPL Calendar Debate: Juhi Chawla Bats For January Schedule For Cricket Tournament, Lalit Modi Reacts",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/vivo-x500-series-india-launch-expected-price-features-battery-camera-and-other-details-12306586#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 13:07:42 +0530"
+      "link": "https://www.ndtvprofit.com/sports/ipl-calendar-debate-juhi-chawla-bats-for-january-schedule-for-cricket-tournament-lalit-modi-reacts-12306551#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 14:11:50 +0530"
     },
     {
-      "title": "The Liver Doc Doubles Down On Deepinder Goyal Over Temple Device: 'No More Scientific Updates'",
+      "title": "Lost Her Husband At 20, Started Working As A Cleaner At SBI and Retired As Assistant GM... An Inspiring Journey",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/the-liver-doc-doubles-down-on-deepinder-goyal-over-temple-device-no-more-scientific-updates-12306911#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 13:05:37 +0530"
+      "link": "https://www.ndtvprofit.com/education/lost-her-husband-at-20-started-working-as-a-cleaner-at-sbi-and-retired-as-assistant-gm-an-inspiring-journey-12307090#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 14:06:51 +0530"
     },
     {
-      "title": "Bengaluru: CCB Raids Illegal Diwali Pool Party In Marathahalli Villa, Three Organisers Arrested",
+      "title": "Divyanka Tripathi Dahiya Mourns Building Guard's Death In Fire, Recalls Him Blessing Her Babies",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/bengaluru-ccb-raids-illegal-diwali-pool-party-in-marathahalli-villa-three-organisers-arrested-12306647#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 13:04:08 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/divyanka-tripathi-dahiya-mourns-building-guards-death-in-fire-recalls-him-blessing-her-babies-12307116#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 13:59:09 +0530"
     },
     {
-      "title": "3 workers die of asphyxiation at Tata's iPhone parts factory in Tamil Nadu",
+      "title": "Wipro Vs TCS Vs HCLTech: Citi Is Raising Price Targets But Isn’t Changing Its Stance | Here’s Why",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/3-workers-die-of-asphyxiation-at-tata-s-iphone-parts-factory-in-tamil-nadu-126111000129_1.html",
-      "publishedAt": "Tue, 10 Nov 2026 12:54:50 +0530"
-    },
-    {
-      "title": "Nvidia, CEO Jensen Huang Face Shareholder Lawsuit Over Alleged China Spy Connection",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/nvidia-ceo-jensen-huang-face-shareholder-lawsuit-over-alleged-china-spy-connection-12306830#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 12:48:05 +0530"
-    },
-    {
-      "title": "Australia's Qantas to axe 850 jobs in offshoring deal with Accenture",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/australias-qantas-to-axe-850-jobs-in-offshoring-deal-with-accenture/article71685285.ece",
-      "publishedAt": "Tue, 10 Nov 2026 12:44:24 +0530"
-    },
-    {
-      "title": "Recovering From Burn Injury? Here's Why Proper Wound Care Is Essential",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/science/recovering-from-burn-injury-post-diwali-heres-why-proper-wound-care-is-essential-12306837#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 12:44:12 +0530"
+      "link": "https://www.ndtvprofit.com/markets/wipro-vs-tcs-vs-hcltech-citi-is-raising-price-targets-but-isn-t-changing-its-stance-here-s-why-12307026#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 13:56:40 +0530"
     },
     {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
@@ -152,22 +184,16 @@
       "publishedAt": "Tue, 10 Nov 2026 02:47:04 GMT"
     },
     {
-      "title": "Indian stock markets closed on account of Diwali-Balipratipada - DD India",
-      "source": "DD India",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0hjV2R4ZEpxdnpEOTloXzFVOFpMTjlIYzlvZ0ZtU1lPY2xTNVVXMVBQdTlVT3lLdnpPY21PTGItN3J1YzczSE93b1M0SzR5ajAyZ0VjWVlpSlBVYkRmOW9ROWtvNG5CZk9DZjNfbEhHY3puQkx1dmQ3QVBsUXdfY3NLZW5LYk5MSmpNalNGd2R4cmo4ZTNUMw?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 05:17:00 GMT"
-    },
-    {
       "title": "India VIX jumps 68% in three weeks despite 7% rally in Sensex, Nifty - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1dHM1VZVnIzcG12dGU2Y0RaYnhUU2QyWnIzbV9XUEFqTVVZc2FXOTQxTy00UUhTNFlNSDJKN0taOEhLY1gzTlM3a3FMdWlSbFl6SlZTNjdwV0dxdlFwTUc5MnFSbGV4ZGtqbHIwSkE3MnJRUHBVZjhJM2kxd0daOUVHWmZUYmFtY051TFlCQUs0WXRod3hGSi1tNUg0MV9PV3FKZXVFaEdHVmtnV3dmUms2dGZ3V2VfQml2WVhwVnJ6d9IBxwFBVV95cUxNejRQMU9wcm9SYnBTTjU2VHh1ZFVyX29GRW1GMlJUM2RmT3ZpYW40XzhZMl9sa3ZxVmpqVDlpUXFVTkFNR2NCU3l4bE4taXNaQXNUalBKNnNZMk0wM0FSeXRsdDJtbUY0R0FpOHJLWE1mRFM5REg1S0RhM1V4NkExVW1SR2ZrNUc5NjQtaFUxUk9Qc3EtZUUtbk53amdLS1JuaVlaS3NWMlhDOFlsamppX3BVajlXLWlVbmE1NklLOVp5ai1SaV9n?oc=5",
       "publishedAt": "Tue, 10 Nov 2026 09:01:34 GMT"
     },
     {
-      "title": "News by CNBC TV18 on TradingView, 2026-11-10 — cnbctv:cad052ba7094b:0 - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zVzJlcnA4S2E2dHU0Rmp3VEZlX1FGdGZqVXhITUJtdG96Rjl5c29JaXlRMjBkakFvampCUjBsNWNoU0Z1QzYzX0dkN1JYZDd0d2ZpbnE0bHgwTWJaX2FWdGdkSGUwZ0U?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 02:38:00 GMT"
+      "title": "Indian stock markets closed on account of Diwali-Balipratipada - DD India",
+      "source": "DD India",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0hjV2R4ZEpxdnpEOTloXzFVOFpMTjlIYzlvZ0ZtU1lPY2xTNVVXMVBQdTlVT3lLdnpPY21PTGItN3J1YzczSE93b1M0SzR5ajAyZ0VjWVlpSlBVYkRmOW9ROWtvNG5CZk9DZjNfbEhHY3puQkx1dmQ3QVBsUXdfY3NLZW5LYk5MSmpNalNGd2R4cmo4ZTNUMw?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 05:17:00 GMT"
     },
     {
       "title": "Sensex, Nifty extend gains to close at highest levels in over eight months, rally on - Telegraph India",
@@ -176,10 +202,10 @@
       "publishedAt": "Tue, 10 Nov 2026 00:09:26 GMT"
     },
     {
-      "title": "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVlpPWlh5emZPQm4xdDRERnV1bjNyUUlBekZ5cUxmZFhIc0tOU0E3ak9DLUdPVnVxYnFnN0JoYVdTcEstb3ZTZ1ZQRkZtREtSd0tOelhRR1FUVnpOTlpnX3BsZkZmeHYwVVphSTdld0dMaWNHMy1KYnJjM3ptZmhRMUh1aDRXLTl4ZkJELWZlTnpwanJlekItRzlvMk53ME9Ka3NhSHFpUEdSc2ZtY1dCc19MWC1BeGRBLTJ3bkotN2cwVEZrRVphcVR1RkJIcll3ajBGUEdObWpxNlnSAeABQVVfeXFMT29XcVZicVE3ajlJd19CU29CR0RhbGhJckNTQnF2MUl0U1ZmYjdQZ2xUdWx1cE1MUEZSd3JJQ2RXY2lUMWN2RlczdnVfSi1VTVRFQWRzYWNCYUx0SEc5aGRrSEgybDItZDBEMS1Nbmcyems2Y3VYQUxudk9VSmxuYkJzLUFWMWtlN1JYVnh5d0k1eUt2TkpFZmJiRkNpZjJ4dXlkSmdoSVlaUy0wdHprNU9QOWktZGl5aERMOHRYWDB0bWdPLWpHNWN0RGljZmNOM2ZmQUhzc05YcjBCUGRvemg?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 02:17:22 GMT"
+      "title": "Stock market holiday today: Are NSE, BSE open or closed today? Check GIFT Nifty levels - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOM25SZmRYOHBwMVQwOVVWSzhnNkxVb0hhYUpYOGJuTEFkbDZ2YXpJWURJWDVLX05lWEItTXNoV2ZIN2RfVTItcnZaaWxnZjlTdjlKZzRUOEFnMEFITmZGdFY1R19sSWdNLUVVLVR5NEs5MTVwbXB5V1hqNnVIOTJSOHVMTUZnQjViNDBMcTJudlIyWTNBX1RkemM2M1dGT3hKWnlQbnFveGlhRHdWOFc0OVBvRmVZMTU5MWVhVTVYdklBeDFiT0Q0azdRSEt1OTVQNWhYeklJdGs2VmUtSFFfOV9EMFlOZUtEY1NfeFBGMlRqa3ZzTWFzcHhsdE4xMmdwcm1BbzZXMnVTdUFVelFOdHZ0Ujd3U0VrMUHSAZ8CQVVfeXFMT3VnT3gxeF9Na3BnZVhmS3JobFJNQk5ab1NDa2tldlB0QzNoakczaERTZ2JzZ3lENW42Yl9tR1dpOWdkRU92dUh6Mm1VWEtBQmVIUzlkZE8wUFRLeEhpbDRIc3VPMktoTG4tVTJnTFFRb2FEM2dEMDM1RTloZ1c0Sk5UR0pxWE5LbVM2OFkycHpMcUV3cEJSN01ubU94cWlVa1VuR1NYSFlkaDhMaFpoSTNGZ2ZmU2o3YUR4RE9JcEdHRERsTXc5NnJQcVlzaU1KYnZOQ0Jya1pnRGJFZWM1SGVNNFctdUY5eHJHVXhidEVVMzlqeGgxWWdqTm9WYlY2Q2ZjdUZsM3lkZjRrdmRWZ1d1RExhSllHS2xSWXMtZGc?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 05:56:13 GMT"
     },
     {
       "title": "Sensex, Nifty 50 rise over 6% in past 5 sessions: More rally from tomorrow or profit booking will dent returns hopes? - Livemint",
@@ -188,16 +214,22 @@
       "publishedAt": "Tue, 10 Nov 2026 07:13:11 GMT"
     },
     {
+      "title": "News by CNBC TV18 on TradingView, 2026-11-10 — cnbctv:cad052ba7094b:0 - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zVzJlcnA4S2E2dHU0Rmp3VEZlX1FGdGZqVXhITUJtdG96Rjl5c29JaXlRMjBkakFvampCUjBsNWNoU0Z1QzYzX0dkN1JYZDd0d2ZpbnE0bHgwTWJaX2FWdGdkSGUwZ0U?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 02:38:00 GMT"
+    },
+    {
+      "title": "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVlpPWlh5emZPQm4xdDRERnV1bjNyUUlBekZ5cUxmZFhIc0tOU0E3ak9DLUdPVnVxYnFnN0JoYVdTcEstb3ZTZ1ZQRkZtREtSd0tOelhRR1FUVnpOTlpnX3BsZkZmeHYwVVphSTdld0dMaWNHMy1KYnJjM3ptZmhRMUh1aDRXLTl4ZkJELWZlTnpwanJlekItRzlvMk53ME9Ka3NhSHFpUEdSc2ZtY1dCc19MWC1BeGRBLTJ3bkotN2cwVEZrRVphcVR1RkJIcll3ajBGUEdObWpxNlnSAeABQVVfeXFMT29XcVZicVE3ajlJd19CU29CR0RhbGhJckNTQnF2MUl0U1ZmYjdQZ2xUdWx1cE1MUEZSd3JJQ2RXY2lUMWN2RlczdnVfSi1VTVRFQWRzYWNCYUx0SEc5aGRrSEgybDItZDBEMS1Nbmcyems2Y3VYQUxudk9VSmxuYkJzLUFWMWtlN1JYVnh5d0k1eUt2TkpFZmJiRkNpZjJ4dXlkSmdoSVlaUy0wdHprNU9QOWktZGl5aERMOHRYWDB0bWdPLWpHNWN0RGljZmNOM2ZmQUhzc05YcjBCUGRvemg?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 02:17:22 GMT"
+    },
+    {
       "title": "Stock Market Holiday Today: NSE, BSE shut for Diwali-Balipratipada; MCX to resume trading in evening session - Zee Business",
       "source": "Zee Business",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaGRDUEJfMjNhTzRPTVFfenh1ekRtbmZ6eF91SzIwSzhLQjF2TGhIR2ZhZFpWcG5FYmtpSVVFUUtfNGNCeU43dUhEOFBqMm5kSEVhWEx2YzQyakVLSlZ2ZS0tWXlMTXJyTGxkalZOOFZzNzVHeUdEczc2dXg4dUZxSUVqUzNNN3VOSFpyRjZpU0ZHSU5QTUtHbVo0S1NubS02V2VIWkh6WnUtQmhZUHFHN3VITkRHZEJ4ay14RjVoQ3RvMXRsdmhqR3hKeDYwLTFDV3lrZVhfTkd4Y01YNEdETFdOX3BNQTQ?oc=5",
       "publishedAt": "Tue, 10 Nov 2026 02:40:28 GMT"
-    },
-    {
-      "title": "Is stock market open or closed today? Check remaining holidays this year - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRVZmdDNLU0I5aVJWbV9DSFQxZUVsWmhwU185S25LYnU0QkZTazNMbnR0SkppUmlzZnJXLVdmVWhldjJwOFFhN3BiQl9wSE11VUgzN0RReFVxOEV5R29NYU1NRWppMl9VTVM3R3VnMDk0THc3SDNsSWJKakdlbHlrY3pWMEtweWdsNUhrdk5uUi02Qy1pVDZpZDBPczF5Qi1KQUw0M1VVRmNGbVc0OVQ2RzNlUWJTZk0zejhxVTJQX3lMSi1jVDQ5ZmZtaGRJZnN1aWY4eWtWWmJXS3VwX0NBTjZ2QXlrQdIB6wFBVV95cUxObVJCcm5qRlJOQmtId1NrekZNMXIwRHRyUHJQUFFFS3U3N1lTZGs3cUF6Y05USU9UTDVjNk9EdHBzWFZCNnNWS3ZKMWtQdDJpQ1p5VHB6SHRseXBrQTBtU0lMRnhYRjVQSGF0b1dTQmhkZTdVaWZhWTBzdnVETjAtMHlDZnN0dUpmemhvMVQxdE41T0RzZjBQV3VzczAxQXVKQmpwbHZhZ1licTZCN2hvX09sVGFjRXJPYjZRdlptS2FnVUJsUWI4WGtKZ0l3OGhZOGV2LUhld19iRW5nbkg2bE54cEtEMjNENVdB?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 03:15:56 GMT"
     }
   ]
 }
