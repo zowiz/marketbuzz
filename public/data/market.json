@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex gained over 100 points as Nifty reclaimed 25,000 led by banking stocks",
+  "headline": "Last session: Sensex and Nifty closed higher as banking and pharma stocks led gains",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Wednesday, 11 November"
   },
   "why": [
-    "NSE and BSE are closed today, 10 November 2026, for the Diwali-Balipratipada holiday.",
-    "In the last trading session, Indian equities logged modest gains after recovering from early profit-taking.",
-    "Strong performance in banking and pharmaceutical stocks helped Nifty reclaim the 25,000 mark.",
-    "Softening crude oil prices provided underlying support to domestic market sentiment."
+    "Indian stock markets are closed today, November 10, for Diwali Balipratipada.",
+    "In the previous trading session, Sensex and Nifty ended higher driven by banking and pharmaceutical stocks.",
+    "Nifty settled above the 25,000 level while Sensex surpassed 81,000.",
+    "Equities gained support from oil price corrections and strong performance in PSU bank stocks."
   ],
   "whatHappening": [
-    "Larsen & Toubro secured an order valued between ₹1,000 crore and ₹2,500 crore for Noida Metro's Aqua Line extension.",
-    "Data Patterns shares jumped 9% during the last trading session.",
-    "HCL Tech and Bharti Airtel featured among the top laggards in the market.",
-    "Equity markets will resume regular trading on Wednesday, 11 November 2026."
+    "BSE and NSE are closed today for Diwali Balipratipada following the Muhurat trading session.",
+    "L&T secured an order worth ₹1,000 - ₹2,500 crore from Noida Metro Rail Corporation for the Aqua Line extension.",
+    "Data Patterns rose 9% in the previous trading session.",
+    "HCL Tech and Bharti Airtel were among the top losers during the last trading day."
   ],
   "stocksInNews": [
     {
@@ -28,11 +28,11 @@
       ]
     },
     {
-      "symbol": "DATAPATT",
+      "symbol": "DATAPATTNS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        10
+        12
       ]
     },
     {
@@ -40,7 +40,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        19
+        18
       ]
     },
     {
@@ -48,12 +48,12 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        19
+        18
       ]
     }
   ],
-  "summary": "Indian stock markets are closed today for Diwali-Balipratipada and will reopen on Wednesday, 11 November.\nIn the last trading session, Sensex and Nifty ended higher with Nifty reclaiming the 25,000 level.\nBanking and pharmaceutical stocks led the market gains, alongside order wins for L&T.",
-  "updatedAt": "2026-11-10T00:01:40.157Z",
+  "summary": "Indian stock markets are closed today, November 10, on account of Diwali Balipratipada. In the last trading session, benchmark indices closed higher with Nifty reclaiming the 25,000 mark led by banking and pharmaceutical stocks. L&T bagged a major metro rail project order, while HCL Tech and Bharti Airtel saw declines.",
+  "updatedAt": "2026-11-10T00:31:21.117Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-10",
   "articleKeys": [
@@ -67,16 +67,16 @@
     "saudi arabia says eastwest oil pipeline targeted in medina month after repair",
     "lt bags 1000 2500 crore order from noida metro rail corporation for aqua line extension",
     "france blames iran for cyberattack on supermarkets spoiling food worth millions of euros",
+    "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
+    "indian stock market closes in green sensex surpasses 81000 nifty settles above 25000 tennewsin",
     "sensex today ends 107 points higher nifty above 25000 data patterns up 9 equitymaster",
-    "stock market highlights nifty reclaims 25000 after muhurat dip sensex ends 100 pts higher check key gainers ndtv profit",
-    "stock market holiday tomorrow nse bse closed for diwalibalipratipada hdfc sky",
-    "nifty sensex decline in early trade as profittaking sets in the new indian express",
-    "sensex nifty close higher as banking and pharmaceutical stocks lead gains india new england news",
     "indian equities see modest gains amidst oil price correction strong bank performance rediff",
-    "stock market outlook today 9 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market holiday will nse and bse remain closed on tuesday november 10 check list of holidays this month upstox",
+    "sensex nifty close higher as banking and pharmaceutical stocks lead gains india new england news",
+    "nifty sensex decline in early trade as profittaking sets in the new indian express",
+    "stock market highlights nifty reclaims 25000 after muhurat dip sensex ends 100 pts higher check key gainers ndtv profit",
     "sensex nifty end flat after rangebound trade psu bank stocks lead gains ani news",
-    "sensex today trades lower nifty below 24500 hcl tech bharti airtel top losers equitymaster"
+    "sensex today trades lower nifty below 24500 hcl tech bharti airtel top losers equitymaster",
+    "stock market holiday tomorrow bse nse shut on november 10 for diwali balipratipada after sunday muhurat moneycontrolcom"
   ],
   "articles": [
     {
@@ -140,34 +140,22 @@
       "publishedAt": "Mon, 09 Nov 2026 23:02:41 +0530"
     },
     {
+      "title": "Sensex, Nifty extend gains to close at highest levels in over eight months, rally on - Telegraph India",
+      "source": "Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX0NfTHBqWDVKdzN4eF9lcGVZUEwzRzlDSXNLcXFkYW42bTVScWFFQ3c5ejNFc2wzeG81YWZqUnNGaVlHN3Q4MFptUTJLYk1mRU95NjFCUm5DVXp6cU9HTzFwQ0pHWHEybXFfdmxLV05haWtMb0ZiamJrQm5WdGdCVWZaRUM1Qks2YVJmWU5Oc1AwY1lSVHA5alF6c1VuY2x3Q3FUNW9sRm54SnpHbVhNbWs4OVNDSzZJR3B3a0lXcHlwRVkxc2drNGlSSlczSzJyZEZJcmV30gHbAUFVX3lxTE92ZzJPMmtYSWcwUVNkMkNvRHhrUGY4bTJXNkNRX2lfU0JSTTI0SlBVbU5nYXNhdDNYQkRXX3BxZEs1VmRBTlFNZXYyMmV2UlV3eEZ5cnVBQUt6UUdQOWZ6cTBiUGhUMzZRdGo3QTEzQm1HdnRzUlBJWmV1RWVtaldOYkY4a2FnU2pYVGlDYjZHNi1yZUNIQWJwUThmd1FyWmF5Y0NBZkx4aU1iN3NIMUZZcTQxc21kZmh4VFJmdXhORzVQVnBCRk1MVUhxZUIwd1dvV3phdGxINGZkRQ?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 00:09:26 GMT"
+    },
+    {
+      "title": "Indian Stock Market Closes in Green: Sensex Surpasses 81,000, Nifty Settles Above 25,000 - tennews.in",
+      "source": "tennews.in",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEY4NnBCMmRPcDA4aWc0SXI4MDdYTXVwN1ZrdXRuUXFHblYtNmc0bzdjSTFiYUoxUVZfMWotTUEyT1RYT2NndFpMbjJsNEVEaENOZHRrY282WWNDaVZQNWdka0lHazh2UkpyVnlyQ05iY19MeFgzdGdJSW5fTWRteXcyVVFYaGpDaUhiclFiM3NaU0xheGV5emY4NzNQVDcxVnhIMHVVaw?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 11:08:26 GMT"
+    },
+    {
       "title": "Sensex Today Ends 107 Points Higher | Nifty Above 25,000 | Data Patterns Up 9% - Equitymaster",
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT1BaVnBPalZlRWV1UXhGVXhfbzRtVmRjMFNzUko4RDYyX3JYUEdqeGJETnc1MFc3VXo4VzVyS2M0bDVucjFJUTVCZDAtN0k2VDQ4V1JDTFJERnRzLWotbTEzYWNIYVowS0FHajU1UEZ5VXJOT1ZMbjR3VDdzVHJpUG1iaTJCZFItSEdEdFNDWW9ycDI0ei01QVNLU2RQNHBlcTBoUDVWSWRZMFg5V1JqRUR3RldsSi1JY0l3MlNoVWM2Y0oyd1BWLUtoaW9vcEV5?oc=5",
       "publishedAt": "Mon, 09 Nov 2026 21:05:14 GMT"
-    },
-    {
-      "title": "Stock Market Highlights: Nifty Reclaims 25,000 After Muhurat Dip; Sensex Ends 100 Pts Higher. Check Key Gainers - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmxRSVlEM2EzLVNFZjNYSjlPMG9ONXZVOGJoQ3BJMkJEZWU5Y2Q5MklUVDl3ZGVwemNuTG1IVWtrbTFCRDJHTEpnZmZNWnVDcTVFZmtJYjdreno3RlVCRWVMbjJuMGUyZldEeUNjUWVCTXRDSkMwaFE0WE1CbkdFT0hxTmVLMTZFWVBxMHlZYXhFZFhRNTVIaVVfV19Md0VHQ1N1SXp5dkRabjN0M3lOTHE4WWNEVkJqRFkyOXRaNEN4c05qSHdpaEFJU00td3REU0RBUUFOUnZWSHfSAeMBQVVfeXFMUE1vNVZkR0pETG9lU0JzR2VNVVhMcFRtMVZwTEJnenQ5NGIwRlh3LUhFVlZCYllKQVhtcXNUNkw1dlFGMzFBM0pPYldOcExJdHd6alJZS2h4ODdSZVNOYmNXQk9USGdRSEhFZFplcGdLcnhfLWVjLUFvLTJpSHlsU0FZZzJLTVoxbE5yQ1gxT04ybUQzTmo0YkhTWlpJR1BaWVoyZWRXV2RBT2ZFYWVPMGcwaVZEdFRxc0VzTXRJT0toeHJVWFk5MEtZWkxzTHNDNjgtZEpCY2Y3WnhnZmdrLThzNEE?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 10:25:07 GMT"
-    },
-    {
-      "title": "Stock Market Holiday Tomorrow: NSE, BSE Closed for Diwali-Balipratipada - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEhnc0I0MjRHZ2NiLTFzb09iUVM0TVBrc0ZiY2k0RzlJMERVYS1fX1d1WEdvQVVuSnBncHZ5NWg3OHhyMW4xQzZEQ21uWnZNSnhsQkdsR1pzNEpvczczdFVlTlJuaVFTMndDd1Rfb0hQMEI0ZC1kQzZ4YkFacGlPQ2xYU3JaMmJhRVZ0aURoOWpjYlFjWHRqRk1R?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 10:40:34 GMT"
-    },
-    {
-      "title": "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
-      "source": "The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRml0clo4N1M3WmxpTDVpTU5YRTlQT1JLYzYwNkYwNjRRcDlMNkZlaXhzd0Z2OVhGMmR0NUVPTDkwQ0duemlyRHNSaFYySmtCTHpRSGtlMFQ3M0xzdTBROUQ4OTJCMDd2Y18tQzJGN0JzbmYzNG4wVVA1QkJ2LXBvcktMYWJaUEY0aHZ2ek9rTUhHLXM0WjdzeDQ2UTB1S1dYOUVtQVRzWmIwUnJidE1xelFuU1HSAcIBQVVfeXFMT3J0RDlrQm43cTJobGpYbzFDeWJWNEFDeHdsd0s1SW1wZnkxcklPOFJDcmYyalhYR3BrRVdRV1k3N29YYWxXcFYwcnk4c0JIckhWeXpwN3o4NGpiMHJWUTJxZUlPV1EtanBiczZtLXpwVlhkNkh5VV9GODg3SjYzRk9LajdNSjh1OFRZWEUtVlFHdjFodGhJSGJ0SVkzUmZQOXBGOFhHX1k2NmgybmNveWVPTDNmRHJ3LXBZZERxTWVjdHc?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 05:03:37 GMT"
-    },
-    {
-      "title": "Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains - INDIA New England News",
-      "source": "INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmNUQ1l0RW1zWEx3QTgwMUZlYS03SUpSMFIyTUdsaUJWb1RxaktDQnVFZF9pN29EVFY2bFh0OWV4MHJCbW5pU25TV20xdXNjVWJsYnloc2NQS1RWNXBwTDBHWktjakNJZDQxR1loa3oydk5aN1RHYTNvUjFjYlZCY2tJV1dNellTVEVlZTA1UlhiLUxVUVFwblBNaXRyaHJDYVl4Sg?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 16:36:39 GMT"
     },
     {
       "title": "Indian Equities See Modest Gains Amidst Oil Price Correction, Strong Bank Performance - Rediff",
@@ -176,16 +164,22 @@
       "publishedAt": "Mon, 09 Nov 2026 11:09:29 GMT"
     },
     {
-      "title": "Stock market outlook today, 9 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc3BlYWlxQWxsNm5VTGIwemRHaWlwREtmRGk3RGZuNmxJMUo3NlJkTEdFTVRYdG1JN1U1YTJ2WS1pUlhTeVNxcnRRS016QWN2ZXFSTk1QWkxXeG1fQkFoMFczbUhaQWtROTNCeGI3R1lwSVhQRHFYQWpCQTdFZ1NtWEFPc3Q5S0Y3RExOUVU0a05jTmYxSFY0bjV4ZlVlQlpoM21CVDlzOTJhODVHQXh1QUh5MVdtbUI3cFBtSmtGTXd6NWVMSXdWVFkyTDd4emg5UDFPRUhVZjk5dENOZmhiZllzdU1Gd1FxalhKejFXM3hJVFdNZUxCaXJhbDBIQnE3VEdR0gGIAkFVX3lxTE9UQ3ZVVDd5LUtkdjQ5SjVwTEdTWEFXdnBtdWh6UlpTbnNTbExqODdibUF5a252YmN3YVJ4Rjd2SUZlV0hZVEFfZHFMYUU5S1V0MVExdFJ6TWRxTW5vT2JmMlZVMm9PNjYyOFZ0eHJQcHo1bHFFSkNRYi1qQXhOeDI5TWZ1U0dQa0h5WWN2dTRqUDl6djdIQ1pHU0E1cDlsNVRIZ20zRG9Fd0x3OFZvYm1xbzQ0TXIxaUl1a3J3RFJWTFNnemk5MHJfYzV6UDBsM0lSSVptc2VNMGxkRGpmSFBTMGRWblNIdFA5SWNtQ2hoXzBZLW5xclpwNVB2V3oxVWNoQnQydk5OSA?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 01:27:55 GMT"
+      "title": "Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains - INDIA New England News",
+      "source": "INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmNUQ1l0RW1zWEx3QTgwMUZlYS03SUpSMFIyTUdsaUJWb1RxaktDQnVFZF9pN29EVFY2bFh0OWV4MHJCbW5pU25TV20xdXNjVWJsYnloc2NQS1RWNXBwTDBHWktjakNJZDQxR1loa3oydk5aN1RHYTNvUjFjYlZCY2tJV1dNellTVEVlZTA1UlhiLUxVUVFwblBNaXRyaHJDYVl4Sg?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 16:36:39 GMT"
     },
     {
-      "title": "Stock market holiday: Will NSE and BSE remain closed on Tuesday, November 10? Check list of holidays this month - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPc3JEYmc1SUlWTmlZcjFuVHBZWG93Umd2ckVpdHY4eDRENzQzWXZrR2dQWVJ0LTllQTc4N0tldmQza1h2RFRXcnVjZmxiVk9JZ3RVU3dJR1BrWVFjUmRKME9ycUZIOFh3WDdRNlM4M193LVl1aHJaVEhyOWRJa19pOWlieEZsZFVzeEhUZ09hOUxIWEREbWl2ZXNPT2xCWHI3aWRLV3NXbEJScmlxMEdIQXVTRHJtRWFPZHFBYjZlZERRRlk1ZlVITjJKbnJzZE5adFpKNXJnaHYyOTVTZGNfSURZbjdXZFpUVTVudmFlXzJTdkhXN2pVeS1ZNlpxVnFjVW9YOUhB?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 06:23:37 GMT"
+      "title": "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
+      "source": "The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRml0clo4N1M3WmxpTDVpTU5YRTlQT1JLYzYwNkYwNjRRcDlMNkZlaXhzd0Z2OVhGMmR0NUVPTDkwQ0duemlyRHNSaFYySmtCTHpRSGtlMFQ3M0xzdTBROUQ4OTJCMDd2Y18tQzJGN0JzbmYzNG4wVVA1QkJ2LXBvcktMYWJaUEY0aHZ2ek9rTUhHLXM0WjdzeDQ2UTB1S1dYOUVtQVRzWmIwUnJidE1xelFuU1HSAcIBQVVfeXFMT3J0RDlrQm43cTJobGpYbzFDeWJWNEFDeHdsd0s1SW1wZnkxcklPOFJDcmYyalhYR3BrRVdRV1k3N29YYWxXcFYwcnk4c0JIckhWeXpwN3o4NGpiMHJWUTJxZUlPV1EtanBiczZtLXpwVlhkNkh5VV9GODg3SjYzRk9LajdNSjh1OFRZWEUtVlFHdjFodGhJSGJ0SVkzUmZQOXBGOFhHX1k2NmgybmNveWVPTDNmRHJ3LXBZZERxTWVjdHc?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 05:03:37 GMT"
+    },
+    {
+      "title": "Stock Market Highlights: Nifty Reclaims 25,000 After Muhurat Dip; Sensex Ends 100 Pts Higher. Check Key Gainers - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmxRSVlEM2EzLVNFZjNYSjlPMG9ONXZVOGJoQ3BJMkJEZWU5Y2Q5MklUVDl3ZGVwemNuTG1IVWtrbTFCRDJHTEpnZmZNWnVDcTVFZmtJYjdreno3RlVCRWVMbjJuMGUyZldEeUNjUWVCTXRDSkMwaFE0WE1CbkdFT0hxTmVLMTZFWVBxMHlZYXhFZFhRNTVIaVVfV19Md0VHQ1N1SXp5dkRabjN0M3lOTHE4WWNEVkJqRFkyOXRaNEN4c05qSHdpaEFJU00td3REU0RBUUFOUnZWSHfSAeMBQVVfeXFMUE1vNVZkR0pETG9lU0JzR2VNVVhMcFRtMVZwTEJnenQ5NGIwRlh3LUhFVlZCYllKQVhtcXNUNkw1dlFGMzFBM0pPYldOcExJdHd6alJZS2h4ODdSZVNOYmNXQk9USGdRSEhFZFplcGdLcnhfLWVjLUFvLTJpSHlsU0FZZzJLTVoxbE5yQ1gxT04ybUQzTmo0YkhTWlpJR1BaWVoyZWRXV2RBT2ZFYWVPMGcwaVZEdFRxc0VzTXRJT0toeHJVWFk5MEtZWkxzTHNDNjgtZEpCY2Y3WnhnZmdrLThzNEE?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 10:25:07 GMT"
     },
     {
       "title": "Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains - ANI News",
@@ -198,6 +192,12 @@
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUXBJVlF3TzVldFBKYlpVYVpJV3ZxVzg1eUFHNmhrUjJnV3dlRk9SRmNwTVR0ZGdldm8teEE3WkR6OWs3dVRtNDBmS2NNVk1vODZCY1Y2VHpMbHRyVnlTZTRDSXJLcGVZa2NxSVpTOGJtUmxxU1kwb0ZiUldsWjNVZms0Y2ZIWDFtVHlMMTE1Skt3U3B1V2stRTkybW1rSzMtYnc0cm5ycXV1STdJbXFTQ25BVlF4QWdMSDNBS3REWE5xMng4T3pHLXZZNGQ0Mi1XOVZ4aFlqaEs?oc=5",
       "publishedAt": "Mon, 09 Nov 2026 21:05:13 GMT"
+    },
+    {
+      "title": "Stock market holiday tomorrow: BSE, NSE shut on November 10 for Diwali Balipratipada after Sunday Muhurat,... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSmRxeW5QSzhsYWt0MktaMTBGc2EwdHRmMEttbk1aMFRCSjk4Sld6ZjJ6bzZTd0VGd3NiOXowWlN1MlpMZmVHV3VKMlVBSlB4MmtxcG1hMENENGNSLWRGQnpCbGM3TzZBZ2gyOHMxTkd1RjA5ZmczelU1SnlrbHpOT2pMQTRWVndEdkIxbjhPVV9weVNKdE9DQkdBUHZtRzNqbmhDeXdpbVNnU2xUZ2FIRVgxNXV2UUlST3lVWkhFejhkTV9Fc0NaRllCV1h2UGFTZUpCNjJYUEIzNVVxQjRPMC1UbGdQSU1NcnpLb01ZMXhsckYyME9lVTJuYndFM2l2ZDZPRXNZcHFGRmlMREHSAZMCQVVfeXFMTWJrVlN1TE53VUFUTDgzaGJrMUtmemZYOTFKSk9jRWtTb0dROXV4YUkzREJVOHNsR2p2Tm40MmE1SmNERkM4eUFob0tFdXhnNVd5SEdDbVZYN1ZTUm5UNnlPZlQ5R28wWjdJS3Z5YVJ5bG5PeEhiM1pyYTVEUlF5bnJ5QXZ6MXBhWE82ZlRPNU5fUlNKWVcxVVpGYW9pMlVzemRtakd2dklzNTNSU3dLd19LZXI1UW1rb294QUhmMmhrUEI0Vlgwd2VWQXU3UzczeXg5YXE1UHExRWcwQVNJWXY4WlVENV9LczRLNURJbEhETWtnQnd3ZHhhRUt6WVh2b0dJQlp2dmRrczB1LVFPUGFIdVU?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 10:41:35 GMT"
     }
   ]
 }
