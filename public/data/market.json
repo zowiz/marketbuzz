@@ -1,49 +1,56 @@
 {
-  "headline": "On last trading day, Sensex and Nifty closed at eight-month highs amid a five-session rally",
+  "headline": "Last session: Sensex, Nifty close at eight-month highs; markets closed today for Diwali-Balipratipada holiday.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 11 November.",
-    "nextOpen": "Wednesday, 11 November 2026"
+    "nextOpen": "Wednesday, 11 November"
   },
   "why": [
-    "The NSE and BSE are closed today, 10 November 2026, in observance of the Diwali-Balipratipada holiday.",
-    "Trading in the equity segment will resume on Wednesday, 11 November 2026.",
-    "The Multi Commodity Exchange (MCX) is scheduled to reopen for its evening session today.",
-    "GIFT Nifty is currently active and showing bullish signals, jumping 1% despite the domestic market closure."
+    "Indian equity markets are closed today, November 10, for the Diwali-Balipratipada holiday.",
+    "In the last session, Sensex and Nifty extended gains to close at their highest levels in over eight months.",
+    "Foreign Portfolio Investors (FPIs) turned net buyers, pouring Rs 53,739 crore into D-Street in November so far.",
+    "India VIX jumped 68% over three weeks despite a 7% rally in Sensex and Nifty."
   ],
   "whatHappening": [
-    "In the last session, Sensex and Nifty extended their gains to reach their highest closing levels in over eight months.",
-    "India VIX has surged 68% over the past three weeks, indicating rising market volatility despite a 7% index rally.",
-    "Cochin Shipyard reported a 50% year-on-year decline in Q2 net profit to Rs 54 crore as margins contracted.",
-    "Brent crude oil prices have slipped below the $90 per barrel mark following a selloff triggered by geopolitical shifts."
+    "NSE and BSE remain shut for equity trading today and will resume normal operations tomorrow.",
+    "Bajaj Finance issued 5.74 crore warrants to its promoter for Rs 5,799 crore.",
+    "MRF implemented price hikes and cost-cutting measures to counter raw material shocks and logistics squeezes.",
+    "MCX is scheduled to resume trading in the evening session after remaining closed during the morning."
   ],
   "stocksInNews": [
     {
-      "symbol": "COCHINSHIP",
-      "sentiment": "Negative",
+      "symbol": "BAJFINANCE",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        5,
-        8
+        7
+      ]
+    },
+    {
+      "symbol": "MRF",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        3
       ]
     }
   ],
-  "summary": "Indian markets are closed today for Diwali-Balipratipada after the Sensex and Nifty reached eight-month highs in the previous session. While benchmark indices have rallied 7% recently, the India VIX has jumped 68%, signaling increased volatility. Cochin Shipyard remains in focus following a 50% drop in quarterly profit despite declaring an interim dividend.",
-  "updatedAt": "2026-11-10T11:33:28.113Z",
+  "summary": "Indian benchmark indices closed at eight-month highs in the previous session, boosted by net FPI inflows of Rs 53,739 crore in November. Equity markets are shut today for the Diwali-Balipratipada holiday and will reopen on Wednesday, 11 November. Key corporate developments include Bajaj Finance issuing Rs 5,799 crore warrants to promoters and MRF raising prices to weather cost pressures.",
+  "updatedAt": "2026-11-10T12:00:09.124Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-10",
   "articleKeys": [
-    "eurozone bond yields fall as lower energy prices ease inflation concerns",
-    "smaller cities drive over half of indias incremental car sales in 2026",
-    "cisce board exams 2027 schedule for class 10 from feb 15mar 31 feb 9apr 8 for class 12",
-    "sandpapergate row mitchell starc breaks silence after usman khawajas explosive claims",
-    "war premium fades brent slips below 90 after two months as trumps iran pivot triggers crude selloff",
-    "cochin shipyard dividend psu declares interim dividend of rs 3share check record date",
-    "free jee neet 2027 coaching for students bihar board opens registrations",
-    "amazon eyes ai agents for 2 mn indian sellers targets 15 mn businesses",
-    "cochin shipyard q2 results net profit falls 50 to rs 54 crore as margins contract revenue up 117",
-    "qantas to outsource 850 corporate jobs to accenture in india",
+    "historic first how an indianorigin student became the mayor of australias greater bendigo",
+    "higher financing costs to weaken global credit conditions in 2027 moodys",
+    "from sachin tendulkar to jay shah sporting fraternity shares diwali wishes",
+    "mrf steps up price hikes cost cuts to weather raw material shock amid logistics squeeze",
+    "isc class 12 board exams 2027 to begin from february 9 cisce releases complete timetable",
+    "us treasury yields rise as feds waller presses rate hike case",
+    "genuine scarcity or corporate greed redditor questions soaring grocery prices as companies clock strong profits",
+    "bajaj finance issues 574 crore warrants to promoter for rs 5799 crore",
+    "fpis turn net buyers pour rs 53739 crore in dstreet in nov so far",
+    "bhai dooj gift from your brother gold money and real estate how much is tax free",
     "stock market holiday today nse bse shut when will trading resume ndtv",
     "sensex nifty closed today for local holiday business news hindustan times",
     "india vix jumps 68 in three weeks despite 7 rally in sensex nifty the economic times",
@@ -51,70 +58,70 @@
     "indian stock markets closed on account of diwalibalipratipada dd india",
     "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
     "sensex nifty 50 rise over 6 in past 5 sessions more rally from tomorrow or profit booking will dent returns hopes livemint",
-    "bullish signals gift nifty jumps 1 as crude oil prices test 90bbl business standard",
+    "stock market holiday nse bse to remain closed for diwalibalipratipada business standard",
     "news by cnbc tv18 on tradingview 20261110 cnbctvcad052ba7094b0 tradingview",
     "stock market holiday today nse bse shut for diwalibalipratipada mcx to resume trading in evening session zee business"
   ],
   "articles": [
     {
-      "title": "Eurozone bond yields fall as lower energy prices ease inflation concerns",
+      "title": "Historic First: How An Indian-Origin Student Became The Mayor Of Australia’s Greater Bendigo",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-fall-as-lower-energy-prices-ease-inflation-concerns/articleshow/135707370.cms",
-      "publishedAt": "Tue, 10 Nov 2026 15:46:43 +0530"
+      "link": "https://www.ndtvprofit.com/world/historic-first-how-an-indian-origin-student-became-the-mayor-of-australia-s-greater-bendigo-12307734#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 16:49:51 +0530"
     },
     {
-      "title": "Smaller cities drive over half of India's incremental car sales in 2026",
+      "title": "Higher financing costs to weaken global credit conditions in 2027: Moody's",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/auto/smaller-cities-drive-over-half-of-india-s-incremental-car-sales-in-2026-126111000465_1.html",
-      "publishedAt": "Tue, 10 Nov 2026 15:45:36 +0530"
+      "link": "https://www.business-standard.com/world-news/higher-financing-costs-to-weaken-global-credit-conditions-in-2027-moody-s-126111000520_1.html",
+      "publishedAt": "Tue, 10 Nov 2026 16:36:27 +0530"
     },
     {
-      "title": "CISCE Board Exams 2027: Schedule For Class 10 From Feb 15-Mar 31, Feb 9-Apr 8 For Class 12",
+      "title": "From Sachin Tendulkar To Jay Shah: Sporting Fraternity Shares Diwali Wishes",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/cisce-board-exams-2027-schedule-for-class-10-from-feb-15-mar-31-feb-9-apr-8-for-class-12-12307578#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 15:39:37 +0530"
+      "link": "https://www.ndtvprofit.com/sports/from-sachin-tendulkar-to-jay-shah-sporting-fraternity-shares-diwali-wishes-12307815#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 16:34:26 +0530"
     },
     {
-      "title": "Sandpapergate Row: Mitchell Starc Breaks Silence After Usman Khawaja's Explosive Claims",
+      "title": "MRF Steps Up Price Hikes, Cost Cuts To Weather Raw Material Shock Amid Logistics Squeeze",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/sandpapergate-row-mitchell-starc-breaks-silence-after-usman-khawajas-explosive-claims-12307559#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 15:35:25 +0530"
+      "link": "https://www.ndtvprofit.com/markets/mrf-steps-up-price-hikes-cost-cuts-to-weather-raw-material-shock-amid-logistics-squeeze-12307802#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 16:32:13 +0530"
     },
     {
-      "title": "War Premium Fades: Brent Slips Below $90 After Two Months As Trump's Iran Pivot Triggers Crude Selloff",
+      "title": "ISC Class 12 Board Exams 2027 To Begin From February 9; CISCE Releases Complete Timetable",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/oil-below-90-brent-hits-nearly-two-month-low-as-trumps-iran-pivot-triggers-crude-selloff-12307554#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 15:33:56 +0530"
+      "link": "https://www.ndtvprofit.com/education/isc-class-12-board-exams-2027-to-begin-from-february-9-cisce-releases-complete-timetable-12307785#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 16:28:20 +0530"
     },
     {
-      "title": "Cochin Shipyard Dividend: PSU Declares Interim Dividend Of Rs 3/Share — Check Record Date",
+      "title": "US Treasury yields rise as Fed's Waller presses rate hike case",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/cochin-shipyard-dividend-psu-declares-interim-dividend-of-rs-3-share-check-record-date-12307550#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 15:33:33 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-as-feds-waller-presses-rate-hike-case/articleshow/135708551.cms",
+      "publishedAt": "Tue, 10 Nov 2026 16:25:56 +0530"
     },
     {
-      "title": "Free JEE, NEET 2027 Coaching For Students: Bihar Board Opens Registrations",
+      "title": "Genuine Scarcity Or Corporate Greed? Redditor Questions Soaring Grocery Prices As Companies Clock Strong Profits",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/free-jee-neet-2027-coaching-for-students-bihar-board-opens-registrations-12307544#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 15:32:22 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/genuine-scarcity-or-corporate-greed-redditor-questions-soaring-grocery-prices-as-companies-clock-strong-profits-12306616#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 16:23:16 +0530"
     },
     {
-      "title": "Amazon eyes AI agents for 2 mn Indian sellers, targets 15 mn businesses",
+      "title": "Bajaj Finance issues 5.74 crore warrants to promoter for Rs 5,799 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/amazon-india-ai-agents-sellers-small-businesses-2030-126111000429_1.html",
-      "publishedAt": "Tue, 10 Nov 2026 15:24:36 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-issues-5-74-crore-warrants-to-promoter-for-rs-5799-crore/articleshow/135708439.cms",
+      "publishedAt": "Tue, 10 Nov 2026 16:22:44 +0530"
     },
     {
-      "title": "Cochin Shipyard Q2 Results: Net Profit Falls 50% To Rs 54 Crore As Margins Contract, Revenue Up 11.7%",
+      "title": "FPIs turn net buyers; pour Rs 53,739 crore in D-Street in Nov so far",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/cochin-shipyard-q2-results-net-profit-falls-50-to-rs-53-8-crore-as-margins-contract-revenue-rises-11-7-12307427#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 15:23:46 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-buyers-pour-rs-53739-crore-in-d-street-in-nov-so-far/articleshow/135708381.cms",
+      "publishedAt": "Tue, 10 Nov 2026 16:19:34 +0530"
     },
     {
-      "title": "Qantas To Outsource 850 Corporate Jobs To Accenture In India",
+      "title": "Bhai Dooj Gift From Your Brother? Gold, Money And Real Estate - How Much Is Tax Free?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/qantas-to-outsource-850-corporate-jobs-to-accenture-in-india-12307425#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 15:15:11 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/bhai-dooj-gift-from-your-brother-gold-money-and-real-estate-how-much-is-tax-free-12306181#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 16:08:18 +0530"
     },
     {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
@@ -159,10 +166,10 @@
       "publishedAt": "Tue, 10 Nov 2026 07:13:11 GMT"
     },
     {
-      "title": "Bullish signals! GIFT Nifty jumps 1% as crude oil prices test $90/bbl - Business Standard",
+      "title": "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada - Business Standard",
       "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdXNCM1hhUWdtZUhQZFB0SElvWFM0SmRYbm5hT2NtQ0J4ckpZQVdVWDU3NjdpQUJXYUhzd096QlhJUWJGVjhEM3NDRHlGdjRhV1VzRW9Zbmp0VFVKNDNYTzgxZUppSjBoLTlocWZpYVlyTW04N0dIWGtxcVZUd1JIYVZJOUlWR2IxSktOdEF1dWVKWFREczZOZm1RbVdESVptT3NUcjIwMHYwS2ZCQnRCdV9vMWtsT1FTMHMtUXd0ZDB4M1ZNbGhnS3o5ZXhCd9IB0wFBVV95cUxPS2VVY2NTUFpYSzdmemNsbWlGcG9DbE92VDBNbGZnaF9uTi1DM2hWcWdhWnc2aFZXYmVvYnhsRUd1MDRIOUZaejBtS2JYdWpkbzZzamRCLVZsT2E5UFZLYlhUeFNWTWdIVTJNdk15U1ZvalRuRzI4a0VKRjZmZFAzYmpEZ01QaDdYcGVXRllnbjNTR1RxOVJaR3VtN1dqNHNROGQ2TDJVUzlYV3hhWW10Q1hVS3c2eWNGVlNMWGttN1l0em8yWUhoUGd2SDZmQUxQN25v?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 09:43:40 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVlpPWlh5emZPQm4xdDRERnV1bjNyUUlBekZ5cUxmZFhIc0tOU0E3ak9DLUdPVnVxYnFnN0JoYVdTcEstb3ZTZ1ZQRkZtREtSd0tOelhRR1FUVnpOTlpnX3BsZkZmeHYwVVphSTdld0dMaWNHMy1KYnJjM3ptZmhRMUh1aDRXLTl4ZkJELWZlTnpwanJlekItRzlvMk53ME9Ka3NhSHFpUEdSc2ZtY1dCc19MWC1BeGRBLTJ3bkotN2cwVEZrRVphcVR1RkJIcll3ajBGUEdObWpxNlnSAeABQVVfeXFMT29XcVZicVE3ajlJd19CU29CR0RhbGhJckNTQnF2MUl0U1ZmYjdQZ2xUdWx1cE1MUEZSd3JJQ2RXY2lUMWN2RlczdnVfSi1VTVRFQWRzYWNCYUx0SEc5aGRrSEgybDItZDBEMS1Nbmcyems2Y3VYQUxudk9VSmxuYkJzLUFWMWtlN1JYVnh5d0k1eUt2TkpFZmJiRkNpZjJ4dXlkSmdoSVlaUy0wdHprNU9QOWktZGl5aERMOHRYWDB0bWdPLWpHNWN0RGljZmNOM2ZmQUhzc05YcjBCUGRvemg?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 02:17:22 GMT"
     },
     {
       "title": "News by CNBC TV18 on TradingView, 2026-11-10 — cnbctv:cad052ba7094b:0 - TradingView",
