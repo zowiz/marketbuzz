@@ -1,110 +1,55 @@
 {
-  "headline": "Indian stock markets closed today for Diwali-Balipratipada; benchmark indices sat near eight-month highs in last trading session.",
+  "headline": "Indian markets closed today for Diwali-Balipratipada holiday after Sensex, Nifty extended gains in last trading session",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 11 November.",
-    "nextOpen": "Wednesday, 11 November 2026"
+    "nextOpen": "Wednesday, 11 November"
   },
   "why": [
-    "Indian stock markets (BSE and NSE) are closed today on account of Diwali-Balipratipada.",
-    "In the previous trading sessions, Sensex and Nifty surged over 6% to reach their highest levels in over eight months.",
-    "India VIX jumped 68% over three weeks despite the 7% rally in benchmark indices.",
-    "Equity trading will resume on Wednesday, 11 November, while MCX opens for the evening session."
+    "NSE and BSE are closed today on account of Diwali-Balipratipada.",
+    "Trading on stock exchanges will resume on Wednesday, 11 November.",
+    "MCX remains shut for the morning session but is scheduled to resume trading in the evening session.",
+    "Volatility indicator India VIX has surged 68% over the past three weeks despite market gains."
   ],
   "whatHappening": [
-    "Cochin Shipyard declared a dividend despite reporting a 50% decline in Q2 profit.",
-    "MRF reported a 28% drop in net profit for the second quarter.",
-    "Citi revised price targets upward for IT services firms Wipro, TCS, and HCLTech.",
-    "Nalco clarified that three workers who died at a Tata Electronics site were hired by a sub-contractor."
+    "On the last trading day, Sensex and Nifty extended gains to close at their highest levels in over eight months.",
+    "Benchmark indices Sensex and Nifty 50 have risen over 6% in the past five trading sessions.",
+    "Cochin Shipyard declared an interim dividend of Rs 3 per share despite posting a 50% decline in Q2 net profit.",
+    "Crude oil prices eased as Brent slipped below $90 per barrel amid fading geopolitical risk premium."
   ],
   "stocksInNews": [
     {
       "symbol": "COCHINSHIP",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "MRF",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "KALYANKJIL",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "WIPRO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "TCS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "HCLTECH",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
-      "symbol": "NALCO",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        1
-      ]
-    },
-    {
-      "symbol": "SBIN",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        7
+        5,
+        8
       ]
     }
   ],
-  "summary": "Indian equity markets are closed today, 10 November 2026, for Diwali-Balipratipada. In the last trading session, Sensex and Nifty extended gains to hit their highest levels in over eight months. Earnings announcements remain in focus with quarterly results from Cochin Shipyard and MRF.",
-  "updatedAt": "2026-11-10T10:01:45.925Z",
+  "summary": "Indian stock markets are closed today for Diwali-Balipratipada and will reopen on Wednesday, 11 November. In the last session, Sensex and Nifty extended gains to achieve eight-month highs after rising over 6% across five sessions. Meanwhile, Cochin Shipyard declared an interim dividend of Rs 3 per share despite a 50% drop in Q2 net profit.",
+  "updatedAt": "2026-11-10T11:01:43.120Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-10",
   "articleKeys": [
-    "cop31 can negotiators finally deliver results the hindu explains",
-    "nalco says three workers killed at tata electronics site were hired by subcontractor",
-    "ipl eyes two new teams from 2028 pune and vadodara emerge as frontrunners check full details",
-    "q2 results live cochin shipyard profit tumbles 50 declares dividend mrf profit slips 28 kalyan jewellers in focus",
-    "delhi air quality today improves slightly after most polluted diwali in five years",
-    "8th pay commission will employees who retire before implementation get arrears",
-    "ipl calendar debate juhi chawla bats for january schedule for cricket tournament lalit modi reacts",
-    "lost her husband at 20 started working as a cleaner at sbi and retired as assistant gm an inspiring journey",
-    "divyanka tripathi dahiya mourns building guards death in fire recalls him blessing her babies",
-    "wipro vs tcs vs hcltech citi is raising price targets but isnt changing its stance heres why",
+    "eurozone bond yields fall as lower energy prices ease inflation concerns",
+    "smaller cities drive over half of indias incremental car sales in 2026",
+    "cisce board exams 2027 schedule for class 10 from feb 15mar 31 feb 9apr 8 for class 12",
+    "sandpapergate row mitchell starc breaks silence after usman khawajas explosive claims",
+    "war premium fades brent slips below 90 after two months as trumps iran pivot triggers crude selloff",
+    "cochin shipyard dividend psu declares interim dividend of rs 3share check record date",
+    "free jee neet 2027 coaching for students bihar board opens registrations",
+    "amazon eyes ai agents for 2 mn indian sellers targets 15 mn businesses",
+    "cochin shipyard q2 results net profit falls 50 to rs 54 crore as margins contract revenue up 117",
+    "qantas to outsource 850 corporate jobs to accenture in india",
     "stock market holiday today nse bse shut when will trading resume ndtv",
     "sensex nifty closed today for local holiday business news hindustan times",
     "india vix jumps 68 in three weeks despite 7 rally in sensex nifty the economic times",
     "indian stock markets closed on account of diwalibalipratipada dd india",
-    "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
     "stock market holiday today are nse bse open or closed today check gift nifty levels moneycontrolcom",
+    "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
     "sensex nifty 50 rise over 6 in past 5 sessions more rally from tomorrow or profit booking will dent returns hopes livemint",
     "news by cnbc tv18 on tradingview 20261110 cnbctvcad052ba7094b0 tradingview",
     "stock market holiday nse bse to remain closed for diwalibalipratipada business standard",
@@ -112,64 +57,64 @@
   ],
   "articles": [
     {
-      "title": "COP31: Can negotiators finally deliver results? | The Hindu explains",
+      "title": "Eurozone bond yields fall as lower energy prices ease inflation concerns",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/videos/cop31-can-negotiators-finally-deliver-results-the-hindu-explains/article71685611.ece",
-      "publishedAt": "Tue, 10 Nov 2026 14:59:02 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-fall-as-lower-energy-prices-ease-inflation-concerns/articleshow/135707370.cms",
+      "publishedAt": "Tue, 10 Nov 2026 15:46:43 +0530"
     },
     {
-      "title": "Nalco Says Three Workers Killed At Tata Electronics Site Were Hired By Sub-Contractor",
+      "title": "Smaller cities drive over half of India's incremental car sales in 2026",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nalco-says-three-workers-killed-at-tata-electronics-site-were-hired-by-sub-contractor-12307306#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 14:42:28 +0530"
+      "link": "https://www.business-standard.com/industry/auto/smaller-cities-drive-over-half-of-india-s-incremental-car-sales-in-2026-126111000465_1.html",
+      "publishedAt": "Tue, 10 Nov 2026 15:45:36 +0530"
     },
     {
-      "title": "IPL Eyes Two New Teams From 2028, Pune And Vadodara Emerge As Frontrunners: Check Full details",
+      "title": "CISCE Board Exams 2027: Schedule For Class 10 From Feb 15-Mar 31, Feb 9-Apr 8 For Class 12",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/ipl-eyes-two-new-teams-from-2028-pune-and-vadodara-emerge-as-frontrunners-check-full-details-12307291#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 14:37:29 +0530"
+      "link": "https://www.ndtvprofit.com/education/cisce-board-exams-2027-schedule-for-class-10-from-feb-15-mar-31-feb-9-apr-8-for-class-12-12307578#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 15:39:37 +0530"
     },
     {
-      "title": "Q2 Results Live: Cochin Shipyard Profit Tumbles 50%, Declares Dividend; MRF Profit Slips 28%; Kalyan Jewellers In Focus",
+      "title": "Sandpapergate Row: Mitchell Starc Breaks Silence After Usman Khawaja's Explosive Claims",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-10-kalyan-jewellers-mrf-cochin-shipyard-among-44-companies-to-announce-earnings-today-12306507#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 14:37:04 +0530"
+      "link": "https://www.ndtvprofit.com/sports/sandpapergate-row-mitchell-starc-breaks-silence-after-usman-khawajas-explosive-claims-12307559#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 15:35:25 +0530"
     },
     {
-      "title": "Delhi Air Quality Today Improves Slightly After Most Polluted Diwali In Five Years",
+      "title": "War Premium Fades: Brent Slips Below $90 After Two Months As Trump's Iran Pivot Triggers Crude Selloff",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-air-quality-today-improves-slightly-after-most-polluted-diwali-in-five-years-12307042#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 14:26:59 +0530"
+      "link": "https://www.ndtvprofit.com/markets/oil-below-90-brent-hits-nearly-two-month-low-as-trumps-iran-pivot-triggers-crude-selloff-12307554#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 15:33:56 +0530"
     },
     {
-      "title": "8th Pay Commission: Will Employees Who Retire Before Implementation Get Arrears?",
+      "title": "Cochin Shipyard Dividend: PSU Declares Interim Dividend Of Rs 3/Share — Check Record Date",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/8th-pay-commission-will-employees-who-retire-before-implementation-get-arrears-12306878#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 14:24:54 +0530"
+      "link": "https://www.ndtvprofit.com/markets/cochin-shipyard-dividend-psu-declares-interim-dividend-of-rs-3-share-check-record-date-12307550#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 15:33:33 +0530"
     },
     {
-      "title": "IPL Calendar Debate: Juhi Chawla Bats For January Schedule For Cricket Tournament, Lalit Modi Reacts",
+      "title": "Free JEE, NEET 2027 Coaching For Students: Bihar Board Opens Registrations",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/ipl-calendar-debate-juhi-chawla-bats-for-january-schedule-for-cricket-tournament-lalit-modi-reacts-12306551#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 14:11:50 +0530"
+      "link": "https://www.ndtvprofit.com/education/free-jee-neet-2027-coaching-for-students-bihar-board-opens-registrations-12307544#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 15:32:22 +0530"
     },
     {
-      "title": "Lost Her Husband At 20, Started Working As A Cleaner At SBI and Retired As Assistant GM... An Inspiring Journey",
+      "title": "Amazon eyes AI agents for 2 mn Indian sellers, targets 15 mn businesses",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/lost-her-husband-at-20-started-working-as-a-cleaner-at-sbi-and-retired-as-assistant-gm-an-inspiring-journey-12307090#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 14:06:51 +0530"
+      "link": "https://www.business-standard.com/companies/news/amazon-india-ai-agents-sellers-small-businesses-2030-126111000429_1.html",
+      "publishedAt": "Tue, 10 Nov 2026 15:24:36 +0530"
     },
     {
-      "title": "Divyanka Tripathi Dahiya Mourns Building Guard's Death In Fire, Recalls Him Blessing Her Babies",
+      "title": "Cochin Shipyard Q2 Results: Net Profit Falls 50% To Rs 54 Crore As Margins Contract, Revenue Up 11.7%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/divyanka-tripathi-dahiya-mourns-building-guards-death-in-fire-recalls-him-blessing-her-babies-12307116#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 13:59:09 +0530"
+      "link": "https://www.ndtvprofit.com/business/cochin-shipyard-q2-results-net-profit-falls-50-to-rs-53-8-crore-as-margins-contract-revenue-rises-11-7-12307427#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 15:23:46 +0530"
     },
     {
-      "title": "Wipro Vs TCS Vs HCLTech: Citi Is Raising Price Targets But Isn’t Changing Its Stance | Here’s Why",
+      "title": "Qantas To Outsource 850 Corporate Jobs To Accenture In India",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/wipro-vs-tcs-vs-hcltech-citi-is-raising-price-targets-but-isn-t-changing-its-stance-here-s-why-12307026#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 13:56:40 +0530"
+      "link": "https://www.ndtvprofit.com/trending/qantas-to-outsource-850-corporate-jobs-to-accenture-in-india-12307425#publisher=newsstand",
+      "publishedAt": "Tue, 10 Nov 2026 15:15:11 +0530"
     },
     {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
@@ -196,16 +141,16 @@
       "publishedAt": "Tue, 10 Nov 2026 05:17:00 GMT"
     },
     {
-      "title": "Sensex, Nifty extend gains to close at highest levels in over eight months, rally on - Telegraph India",
-      "source": "Telegraph India",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX0NfTHBqWDVKdzN4eF9lcGVZUEwzRzlDSXNLcXFkYW42bTVScWFFQ3c5ejNFc2wzeG81YWZqUnNGaVlHN3Q4MFptUTJLYk1mRU95NjFCUm5DVXp6cU9HTzFwQ0pHWHEybXFfdmxLV05haWtMb0ZiamJrQm5WdGdCVWZaRUM1Qks2YVJmWU5Oc1AwY1lSVHA5alF6c1VuY2x3Q3FUNW9sRm54SnpHbVhNbWs4OVNDSzZJR3B3a0lXcHlwRVkxc2drNGlSSlczSzJyZEZJcmV30gHbAUFVX3lxTE92ZzJPMmtYSWcwUVNkMkNvRHhrUGY4bTJXNkNRX2lfU0JSTTI0SlBVbU5nYXNhdDNYQkRXX3BxZEs1VmRBTlFNZXYyMmV2UlV3eEZ5cnVBQUt6UUdQOWZ6cTBiUGhUMzZRdGo3QTEzQm1HdnRzUlBJWmV1RWVtaldOYkY4a2FnU2pYVGlDYjZHNi1yZUNIQWJwUThmd1FyWmF5Y0NBZkx4aU1iN3NIMUZZcTQxc21kZmh4VFJmdXhORzVQVnBCRk1MVUhxZUIwd1dvV3phdGxINGZkRQ?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 00:09:26 GMT"
-    },
-    {
       "title": "Stock market holiday today: Are NSE, BSE open or closed today? Check GIFT Nifty levels - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOM25SZmRYOHBwMVQwOVVWSzhnNkxVb0hhYUpYOGJuTEFkbDZ2YXpJWURJWDVLX05lWEItTXNoV2ZIN2RfVTItcnZaaWxnZjlTdjlKZzRUOEFnMEFITmZGdFY1R19sSWdNLUVVLVR5NEs5MTVwbXB5V1hqNnVIOTJSOHVMTUZnQjViNDBMcTJudlIyWTNBX1RkemM2M1dGT3hKWnlQbnFveGlhRHdWOFc0OVBvRmVZMTU5MWVhVTVYdklBeDFiT0Q0azdRSEt1OTVQNWhYeklJdGs2VmUtSFFfOV9EMFlOZUtEY1NfeFBGMlRqa3ZzTWFzcHhsdE4xMmdwcm1BbzZXMnVTdUFVelFOdHZ0Ujd3U0VrMUHSAZ8CQVVfeXFMT3VnT3gxeF9Na3BnZVhmS3JobFJNQk5ab1NDa2tldlB0QzNoakczaERTZ2JzZ3lENW42Yl9tR1dpOWdkRU92dUh6Mm1VWEtBQmVIUzlkZE8wUFRLeEhpbDRIc3VPMktoTG4tVTJnTFFRb2FEM2dEMDM1RTloZ1c0Sk5UR0pxWE5LbVM2OFkycHpMcUV3cEJSN01ubU94cWlVa1VuR1NYSFlkaDhMaFpoSTNGZ2ZmU2o3YUR4RE9JcEdHRERsTXc5NnJQcVlzaU1KYnZOQ0Jya1pnRGJFZWM1SGVNNFctdUY5eHJHVXhidEVVMzlqeGgxWWdqTm9WYlY2Q2ZjdUZsM3lkZjRrdmRWZ1d1RExhSllHS2xSWXMtZGc?oc=5",
       "publishedAt": "Tue, 10 Nov 2026 05:56:13 GMT"
+    },
+    {
+      "title": "Sensex, Nifty extend gains to close at highest levels in over eight months, rally on - Telegraph India",
+      "source": "Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX0NfTHBqWDVKdzN4eF9lcGVZUEwzRzlDSXNLcXFkYW42bTVScWFFQ3c5ejNFc2wzeG81YWZqUnNGaVlHN3Q4MFptUTJLYk1mRU95NjFCUm5DVXp6cU9HTzFwQ0pHWHEybXFfdmxLV05haWtMb0ZiamJrQm5WdGdCVWZaRUM1Qks2YVJmWU5Oc1AwY1lSVHA5alF6c1VuY2x3Q3FUNW9sRm54SnpHbVhNbWs4OVNDSzZJR3B3a0lXcHlwRVkxc2drNGlSSlczSzJyZEZJcmV30gHbAUFVX3lxTE92ZzJPMmtYSWcwUVNkMkNvRHhrUGY4bTJXNkNRX2lfU0JSTTI0SlBVbU5nYXNhdDNYQkRXX3BxZEs1VmRBTlFNZXYyMmV2UlV3eEZ5cnVBQUt6UUdQOWZ6cTBiUGhUMzZRdGo3QTEzQm1HdnRzUlBJWmV1RWVtaldOYkY4a2FnU2pYVGlDYjZHNi1yZUNIQWJwUThmd1FyWmF5Y0NBZkx4aU1iN3NIMUZZcTQxc21kZmh4VFJmdXhORzVQVnBCRk1MVUhxZUIwd1dvV3phdGxINGZkRQ?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 00:09:26 GMT"
     },
     {
       "title": "Sensex, Nifty 50 rise over 6% in past 5 sessions: More rally from tomorrow or profit booking will dent returns hopes? - Livemint",
