@@ -1,68 +1,84 @@
 {
-  "headline": "Last session: Nifty reclaims 25,000 as Sensex ends higher; markets closed today for NSE holiday",
+  "headline": "On last trading day, Sensex surpassed 81,000 and Nifty reclaimed 25,000 led by banking and pharmaceutical stocks",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 11 November.",
-    "nextOpen": "Wednesday, 11 November 2026"
+    "nextOpen": "Wednesday, 11 November"
   },
   "why": [
-    "Banking and pharmaceutical stocks led the gains in the previous session",
-    "Nifty reclaimed the 25,000 level following a recovery from the Muhurat dip",
-    "Modest gains were supported by a correction in global oil prices",
-    "PSU Bank stocks outperformed during a range-bound trading session"
+    "Strong performance in banking and pharmaceutical stocks led the gains",
+    "A correction in global oil prices supported Indian equity markets",
+    "Positive global cues followed a tech surge in US markets",
+    "Banking stocks played catch-up to drive the Nifty's recovery"
   ],
   "whatHappening": [
-    "The NSE and BSE are closed today, November 10, for a scheduled trading holiday",
-    "L&T bagged a metro rail order from Noida Metro Rail Corporation valued between ₹1,000 - ₹2,500 crore",
-    "Sensex closed at its highest level in over eight months in the last session",
-    "Data Patterns recorded a 9% jump as the broader market indices ended in the green"
+    "NSE and BSE are closed today for the Diwali-Balipratipada holiday",
+    "Sensex and Nifty reached their highest levels in over eight months during the last session",
+    "The Nifty 50 reclaimed the 25,000 psychological level as bank stocks rallied",
+    "Data Patterns shares rose 9% as the Sensex ended 107 points higher on Monday"
   ],
   "stocksInNews": [
     {
-      "symbol": "LT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        9
-      ]
-    },
-    {
       "symbol": "DATAPATTNS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         13
       ]
     }
   ],
-  "summary": "Indian markets are closed today for an NSE holiday, with trading set to resume on Wednesday. In the last session, the Nifty reclaimed the 25,000 mark and Sensex surpassed 81,000, driven by banking and pharma stocks. Notable corporate news included a major order win for L&T and a 9% surge in Data Patterns.",
-  "updatedAt": "2026-11-10T01:31:32.202Z",
+  "summary": "Indian markets are closed today for Diwali-Balipratipada. In the last session, the Nifty reclaimed the 25,000 level while the Sensex surpassed 81,000. Gains were driven by strong performance in banking and pharmaceutical stocks alongside global tech rallies.",
+  "updatedAt": "2026-11-10T02:01:53.656Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-10",
   "articleKeys": [
+    "how startups are rewriting the defence industry",
+    "gold dips ahead of us inflation data",
+    "dollar sellers hit pause for us inflation data",
+    "global market today asian stocks rally after us tech surge oil slump",
     "happy gujarati new year 2026 bestu varas wishes images quotes greetings facebook and whatsapp status",
     "india vs new zealand live streaming when and where to watch ind vs nz 3rd odi",
     "nvidia plunges but tech shares rebound oil prices slump",
     "maharshi vasooli this ramayana meme has golmaal connection and fans cant keep calm",
     "huangs grip on nvidia may pose challenge to boards probe into his affair",
     "fda adds warning label to obesity drugs for eye condition",
-    "japan masters 2026 schedule live streaming indian shuttlers in action and prize money",
-    "vivek agnihotri deletes diwali fire post says he doesnt want to be reason for outrage",
-    "saudi arabia says eastwest oil pipeline targeted in medina month after repair",
-    "lt bags 1000 2500 crore order from noida metro rail corporation for aqua line extension",
     "stock market holiday today nse bse shut when will trading resume ndtv",
     "sensex nifty extend gains to close at highest levels in over eight months rally on telegraph india",
     "indian stock market closes in green sensex surpasses 81000 nifty settles above 25000 tennewsin",
     "sensex today ends 107 points higher nifty above 25000 data patterns up 9 equitymaster",
     "indian equities see modest gains amidst oil price correction strong bank performance rediff",
     "sensex nifty close higher as banking and pharmaceutical stocks lead gains india new england news",
+    "stock market holiday is the stock market open or closed on november 10 check nse and bse trading schedule ndtv profit",
     "nifty sensex decline in early trade as profittaking sets in the new indian express",
-    "stock market highlights nifty reclaims 25000 after muhurat dip sensex ends 100 pts higher check key gainers ndtv profit",
-    "sensex nifty end flat after rangebound trade psu bank stocks lead gains ani news",
+    "stock market holiday 2026 are nse bse closed today on account of diwalibalipratipada check remaining the economic times",
     "nifty reclaims 25000 as bank stocks play catch up the economic times"
   ],
   "articles": [
+    {
+      "title": "How startups are rewriting the defence industry",
+      "source": "Zerodha Pulse",
+      "link": "https://finshots.in/archive/startups-rewriting-defence-industry/",
+      "publishedAt": "Tue, 10 Nov 2026 07:00:33 +0530"
+    },
+    {
+      "title": "Gold dips ahead of US inflation data",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-ahead-of-us-inflation-data/articleshow/135696094.cms",
+      "publishedAt": "Tue, 10 Nov 2026 06:26:50 +0530"
+    },
+    {
+      "title": "Dollar sellers hit pause for US inflation data",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-sellers-hit-pause-for-us-inflation-data/articleshow/135696077.cms",
+      "publishedAt": "Tue, 10 Nov 2026 06:21:32 +0530"
+    },
+    {
+      "title": "Global Market Today: Asian stocks rally after US tech surge, oil slump",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms",
+      "publishedAt": "Tue, 10 Nov 2026 06:15:50 +0530"
+    },
     {
       "title": "Happy Gujarati New Year 2026: Bestu Varas Wishes, Images, Quotes, Greetings, Facebook And WhatsApp Status",
       "source": "Zerodha Pulse",
@@ -98,30 +114,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/world/fda-adds-warning-label-to-obesity-drugs-for-eye-condition-12305158#publisher=newsstand",
       "publishedAt": "Mon, 09 Nov 2026 23:25:24 +0530"
-    },
-    {
-      "title": "Japan Masters 2026: Schedule, Live Streaming, Indian Shuttlers In Action And Prize Money",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/badminton-japan-masters-2026-schedule-live-streaming-indian-shuttlers-in-action-and-prize-money-12305150#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 23:21:30 +0530"
-    },
-    {
-      "title": "Vivek Agnihotri Deletes Diwali Fire Post, Says He Doesn't Want To Be Reason For Outrage",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/vivek-agnihotri-deletes-diwali-fire-post-says-he-doesnt-want-to-be-reason-for-outrage-12305095#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 23:13:52 +0530"
-    },
-    {
-      "title": "Saudi Arabia Says East-West Oil Pipeline Targeted In 'Medina', Month After Repair",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/saudi-arabia-says-east-west-oil-pipeline-targeted-in-medina-month-after-repair-12305020#publisher=newsstand",
-      "publishedAt": "Mon, 09 Nov 2026 23:10:40 +0530"
-    },
-    {
-      "title": "L&T bags ₹1,000 - ₹2,500 crore order from Noida Metro Rail Corporation for Aqua Line extension",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/lt-bags-1000-2500-crore-order-from-noida-metro-rail-corporation-for-aqua-line-extension/article71683873.ece",
-      "publishedAt": "Mon, 09 Nov 2026 23:06:27 +0530"
     },
     {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
@@ -160,22 +152,22 @@
       "publishedAt": "Mon, 09 Nov 2026 16:36:39 GMT"
     },
     {
+      "title": "Stock Market Holiday: Is The Stock Market Open Or Closed On November 10? Check NSE And BSE Trading Schedule - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeUhueWF2YzZkRHV6VmxWU3pfa0RZMl9oRkRPeFBqMkc5SmE0UUhfQnVROUdqcS16S3pRZ1JLQldaTE9QdDlFcXdPNTBJN2JqcjA1SWZxdGJHNEJMclJETW9QM2NhQTVIbTQ5SUxoVTRSdkZTZjhXNnBkcDVjT0NMVXl2M3NLVmh4SzhFX3QzSHE0YU5leno4VGpZY3R3WlZ3YUFUNXk4akRWT3VYRFRrMlk3T2pDUlF3MzhhVkhxbXhFS2RBNVU3RmtJaWRhUG9wMGo0Q1d4U3BUM0c3MWFaZkx4QdIB6wFBVV95cUxPVGlhc25acHBVVmN2NXI5Wnh2dl9YUDRicVN1cUlSd1Y0Ukp6Wnk0cDh5bWhMaUJ3LXBNWVNWOTJTakJ6NlhuRndtM2U1aTBMaFhfdzdZNTNITVJ5U3M2M1FSV1RfMV9zMWFycjh4d3d2N2xkd2hxZjhDQXVOcXdvRzByX3BySW1PckhVYnljSlp5WV93aG1RMlA2M0I0Y29LdjlOaENZY0owT2J3S3BMYkI5TGRPRzVZRHpoT3hNNTNsaF9vc3lRZHhkakNmTkd0ZGpyRXMwalZkVXNhelBRRUdrRThZcWpyZHBN?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 01:30:01 GMT"
+    },
+    {
       "title": "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
       "source": "The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRml0clo4N1M3WmxpTDVpTU5YRTlQT1JLYzYwNkYwNjRRcDlMNkZlaXhzd0Z2OVhGMmR0NUVPTDkwQ0duemlyRHNSaFYySmtCTHpRSGtlMFQ3M0xzdTBROUQ4OTJCMDd2Y18tQzJGN0JzbmYzNG4wVVA1QkJ2LXBvcktMYWJaUEY0aHZ2ek9rTUhHLXM0WjdzeDQ2UTB1S1dYOUVtQVRzWmIwUnJidE1xelFuU1HSAcIBQVVfeXFMT3J0RDlrQm43cTJobGpYbzFDeWJWNEFDeHdsd0s1SW1wZnkxcklPOFJDcmYyalhYR3BrRVdRV1k3N29YYWxXcFYwcnk4c0JIckhWeXpwN3o4NGpiMHJWUTJxZUlPV1EtanBiczZtLXpwVlhkNkh5VV9GODg3SjYzRk9LajdNSjh1OFRZWEUtVlFHdjFodGhJSGJ0SVkzUmZQOXBGOFhHX1k2NmgybmNveWVPTDNmRHJ3LXBZZERxTWVjdHc?oc=5",
       "publishedAt": "Mon, 09 Nov 2026 05:03:37 GMT"
     },
     {
-      "title": "Stock Market Highlights: Nifty Reclaims 25,000 After Muhurat Dip; Sensex Ends 100 Pts Higher. Check Key Gainers - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmxRSVlEM2EzLVNFZjNYSjlPMG9ONXZVOGJoQ3BJMkJEZWU5Y2Q5MklUVDl3ZGVwemNuTG1IVWtrbTFCRDJHTEpnZmZNWnVDcTVFZmtJYjdreno3RlVCRWVMbjJuMGUyZldEeUNjUWVCTXRDSkMwaFE0WE1CbkdFT0hxTmVLMTZFWVBxMHlZYXhFZFhRNTVIaVVfV19Md0VHQ1N1SXp5dkRabjN0M3lOTHE4WWNEVkJqRFkyOXRaNEN4c05qSHdpaEFJU00td3REU0RBUUFOUnZWSHfSAeMBQVVfeXFMUE1vNVZkR0pETG9lU0JzR2VNVVhMcFRtMVZwTEJnenQ5NGIwRlh3LUhFVlZCYllKQVhtcXNUNkw1dlFGMzFBM0pPYldOcExJdHd6alJZS2h4ODdSZVNOYmNXQk9USGdRSEhFZFplcGdLcnhfLWVjLUFvLTJpSHlsU0FZZzJLTVoxbE5yQ1gxT04ybUQzTmo0YkhTWlpJR1BaWVoyZWRXV2RBT2ZFYWVPMGcwaVZEdFRxc0VzTXRJT0toeHJVWFk5MEtZWkxzTHNDNjgtZEpCY2Y3WnhnZmdrLThzNEE?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 10:25:07 GMT"
-    },
-    {
-      "title": "Sensex, Nifty end flat after range-bound trade; PSU Bank stocks lead gains - ANI News",
-      "source": "ANI News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNHRfR3dLNF9lWTEzTU5yVkZncVozTy02QTh5aDFEWG42Ump3ZEtfTW43X2pnVHBVR2dFVDl4WW9XQzlLWmhhOHRsN283T2pKM0RybmZiRDhtTlc0ZThNY29wYlBVR2tRaUplTU9LaVRkU21aclNhdmRzZG5tNWN2RE9KcnpUalJzV0F1cTFTT2luSEVnRDVLZ3hxdVlPc0VLV1B2ZGUtMlZYMlZ2MWUyLWNDdm9LOTZRcVZ3WlVzUGU?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 10:20:00 GMT"
+      "title": "Stock Market Holiday 2026: Are NSE, BSE closed today on account of Diwali-Balipratipada? Check remaining - The Economic Times",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYzM4V0FETUpjMnB5aUpDQXQwZjJlUWRJbmZJVU9hYUZkZmptMXZha2h4TmFaZ3JNYWhyYVFRZHFTRUZfV1pWQ3N6UVc2WVFWNGFEdzJhS21iemJKSC16Xy1PVFlrenhtS3VEMF9vRzg2VHdPQ21wSUU5TEt5ZXdiQ2JtVWVheTJ3d2JiY19PSlpZcWN0R3k2UHJ1UnFCZ0EzOVdGeHFQUE5NNW1RdzhWZ3J1dXZwZTl6a2psVzZhdEZSMWNWOTZQVERzSmZzcXhNWHU5bDV2Z0pQQjJmTmN0el8ycHFNNWtfVUR4QkRuYUlTZG5LRW1LZjg3NUx5Nnd3TlVKSFRuTGR3ZjdyTkpVTTUwd3FJNWFBN2hGNGEtY0t5Y2_SAagCQVVfeXFMTm1IcTdFMzR4Sl90NDcya2J2U1dFb3hiZW94WXRFYmtkMnFEbE5BMk1vU3N0ZjF3dVlVTnJuVmJhTTljSDZNQzlEODRIT1lIRU94YmlFSUdNbGREREhaMTVLUTNVSFJtTEZkWjhRN1N2bVFYSExNMmdDYWxQeDI5Mm1SMU9IYTBwc3Y1VGRqRlpBQ201VExNbEFWNFF0LUwzcTF1b1FrREZJalE2aEZpSXdsTjV5dGphMGUyakttai11Y094dVRPSVdIQ1N0UkhoQjRvY05uRDBIOU1adk8xTEg1cE44TXJPeUU3Z3RFUVhMaTNHalZUdkpRLS14TWJVQ3B6emx5NkVMRmFUNkJlUHpkOVJ5b1ZhUXMxNmhualBRV2ZXaS1TYmc?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 01:30:00 GMT"
     },
     {
       "title": "Nifty reclaims 25,000 as bank stocks play catch up - The Economic Times",
