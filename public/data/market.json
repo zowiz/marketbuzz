@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty surge nearly 1% driven by foreign inflows, positive Q2 earnings, and lower oil prices",
+  "headline": "Sensex surges over 1,000 points and Nifty crosses 25,300 driven by FII inflows and lower oil prices",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,42 +7,58 @@
     "nextOpen": ""
   },
   "why": [
-    "Optimism over foreign institutional investor (FII) inflows boosted market sentiment",
-    "Positive Q2 corporate earnings results supported buying interest",
-    "Lower crude oil prices provided additional tailwinds to Indian equities",
-    "Financial and auto sector stocks led the rally across benchmark indices"
+    "Optimism over strong Foreign Institutional Investor (FII) inflows into Indian equities",
+    "Lower crude oil prices boosting broader investor sentiment",
+    "Positive Q2 earnings announcements supporting market momentum",
+    "Strong buying interest seen in financial and auto sector stocks"
   ],
   "whatHappening": [
-    "Sensex surged over 1,000 points to near 82,000, while Nifty jumped above 25,300 to hit an 8-month high",
-    "Investors gained approximately ₹4.5 lakh crore in market capitalization during the rally",
-    "Market capitalization has expanded by ₹35 lakh crore over the last 7 sessions",
-    "India announced plans to switch government bonds worth 250 billion rupees next week"
+    "Sensex surged up to 1,300 points nearing the 82,000 level while Nifty topped 25,300",
+    "Tata Power reported a 32% year-on-year rise in Q2 net profit to ₹1,652 crore",
+    "ITC raised Gold Flake Premium cigarette prices by ₹10 per pack",
+    "India's net direct tax collections rose 11.76% to cross ₹14 lakh crore mark in FY27"
   ],
   "stocksInNews": [
     {
-      "symbol": "SBIN",
-      "sentiment": "Neutral",
+      "symbol": "TATAPOWER",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        3
+        0
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "ASTRAMICRO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        6
       ]
     }
   ],
-  "summary": "Indian benchmark indices Sensex and Nifty closed nearly 1% higher in a strong market rally.\nThe surge was powered by foreign institutional inflows, robust Q2 earnings, and falling crude oil prices.\nFinancials and autos spearheaded the gains as Nifty touched an eight-month high above 25,300.",
-  "updatedAt": "2026-11-11T15:02:56.563Z",
+  "summary": "Indian benchmark indices Sensex and Nifty rallied significantly, gaining nearly 1% as lower crude oil prices and strong FII inflows lifted sentiment. Key market gains were supported by financials, autos, and positive Q2 corporate earnings. Individually, Tata Power saw earnings strength with a 32% Q2 profit jump, while ITC hiked product pricing.",
+  "updatedAt": "2026-11-11T15:45:20.897Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-11",
   "articleKeys": [
-    "easyjet shareholders approve 57 billion apollo takeover",
-    "india to switch bonds worth 250 billion rupees next week",
-    "amul milk price hike from november 12 what gold taaza and other variants will cost now",
-    "at 36 of us gdp the ai boom is bigger than dotcom bubble sbi mf explains",
-    "your cibil score now moves almost weekly why paying monthly bills may not be helpful",
-    "best is still ahead gaurav munjal hands over unacademy ceo role",
-    "mutual fund expense ratio how much of your investment is lost to fund management charges over 20 years",
-    "ramayana box office collection day 7 will ranbirs film cross the rs 500 crore mark check earnings",
-    "delhi aqi at 260 chennai at 180 check air quality in mumbai kolkata hyderabad and bengaluru",
-    "himachal pradesh neet pg 2026 final merit list released by atal medical and research university",
+    "tata power q2 profit jumps 32 to 1652 crore",
+    "itc raises gold flake premium prices by rs 10 per pack new mrp to hit shelves by late november",
+    "ramayana box office collection day 7 ranbirs film keeps drawing audiences check earnings",
+    "banned pakistani fairness cream still sold in india police probe underway",
+    "indias net direct tax collections rise 1176 to cross rs 14lakhcrore mark in fy27",
+    "kavya maran anirudh ravichander are married first wedding photos out check here",
+    "market trading guide astra microwave among 3 stock recommendations for thursday",
+    "green sm gets karnataka rto licence can rs 8km electric cabs disrupt bengalurus uber rapido market",
+    "us stock market today nasdaq jumps 13 at open while dow barely moves ai stocks roar back",
+    "ai trade isnt dead yet coreweave rockets 15 sandisk soars 11 as chip stocks roar back",
     "stock markets end higher sensex and nifty jump nearly 1 the hindu",
     "indian shares rise on foreign flow optimism financials autos lead reuters",
     "why is indian stock market rising today sensex jumps over 1000 points nifty 50 above 25300 three reasons explained ndtv profit",
@@ -56,64 +72,64 @@
   ],
   "articles": [
     {
-      "title": "EasyJet shareholders approve £5.7 billion Apollo takeover",
+      "title": "Tata Power Q2 profit jumps 32% to ₹1,652 crore",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/easyjet-shareholders-approve-5-7-billion-apollo-takeover/articleshow/135740460.cms",
-      "publishedAt": "Wed, 11 Nov 2026 19:46:04 +0530"
+      "link": "https://www.thehindu.com/business/Industry/tata-power-q2-profit-jumps-32-to-1652-crore/article71690514.ece",
+      "publishedAt": "Wed, 11 Nov 2026 21:03:28 +0530"
     },
     {
-      "title": "India to switch bonds worth 250 billion rupees next week",
+      "title": "ITC Raises Gold Flake Premium Prices By Rs 10 Per Pack, New MRP To Hit Shelves By Late November",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-to-switch-bonds-worth-250-billion-rupees-next-week/articleshow/135740426.cms",
-      "publishedAt": "Wed, 11 Nov 2026 19:43:38 +0530"
+      "link": "https://www.ndtvprofit.com/markets/itc-raises-gold-flake-premium-prices-by-rs-10-per-pack-new-mrp-to-hit-shelves-by-late-november-12313825#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 21:01:37 +0530"
     },
     {
-      "title": "Amul Milk Price Hike From November 12: What Gold, Taaza And Other Variants Will Cost Now",
+      "title": "Ramayana Box Office Collection Day 7: Ranbir's Film Keeps Drawing Audiences, Check Earnings",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/amul-milk-price-hike-from-november-12-what-gold-taaza-and-other-variants-will-cost-now-12313438#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 19:43:05 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/ramayana-box-office-collection-day-7-ranbirs-film-keeps-drawing-audiences-check-earnings-12313382#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 20:57:30 +0530"
     },
     {
-      "title": "At 3.6% Of US GDP, The AI Boom Is Bigger Than Dotcom Bubble. SBI MF Explains",
+      "title": "Banned Pakistani Fairness Cream Still Sold In India; Police Probe Underway",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/at-3-6-of-us-gdp-the-ai-boom-is-bigger-than-dotcom-bubble-sbi-mf-explains-12313507#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 19:42:58 +0530"
+      "link": "https://www.ndtvprofit.com/india/banned-pakistani-fairness-cream-still-sold-in-india-police-probe-underway-12313828#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 20:55:07 +0530"
     },
     {
-      "title": "Your CIBIL Score Now Moves Almost Weekly: Why Paying Monthly Bills May Not Be Helpful?",
+      "title": "India's Net Direct Tax Collections Rise 11.76% To Cross Rs 14-Lakh-Crore Mark In FY27",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/your-cibil-score-now-moves-almost-weekly-why-paying-monthly-bills-may-not-be-helpful-12307628#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 19:39:11 +0530"
+      "link": "https://www.ndtvprofit.com/economy/india-s-net-direct-tax-collections-rise-11-76-to-cross-rs-14-lakh-crore-mark-in-fy27-12313739#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 20:54:33 +0530"
     },
     {
-      "title": "'Best Is Still Ahead': Gaurav Munjal Hands Over Unacademy CEO Role",
+      "title": "Kavya Maran, Anirudh Ravichander Are Married: First Wedding Photos Out — Check Here",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/best-is-still-ahead-gaurav-munjal-hands-over-unacademy-ceo-role-12313370#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 19:37:54 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/kavya-maran-anirudh-ravichander-are-married-first-wedding-photos-out-check-here-12313835#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 20:52:54 +0530"
     },
     {
-      "title": "Mutual Fund Expense Ratio: How Much Of Your Investment Is Lost To Fund Management Charges Over 20 Years?",
+      "title": "Market Trading Guide: Astra Microwave among 3 stock recommendations for Thursday",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/mutual-fund-expense-ratio-how-much-of-your-investment-is-lost-to-fund-management-charges-over-20-years-12312348#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 19:24:43 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-astra-microwave-among-3-stock-recommendations-for-thursday/slideshow/135742034.cms",
+      "publishedAt": "Wed, 11 Nov 2026 20:44:07 +0530"
     },
     {
-      "title": "Ramayana Box Office Collection Day 7: Will Ranbir's Film Cross The Rs 500 Crore Mark? Check Earnings",
+      "title": "Green SM Gets Karnataka RTO Licence: Can Rs 8/Km Electric Cabs Disrupt Bengaluru's Uber, Rapido Market?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ramayana-box-office-collection-day-7-will-ranbirs-film-cross-the-rs-500-crore-mark-check-earnings-12313382#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 19:20:19 +0530"
+      "link": "https://www.ndtvprofit.com/india/green-sm-gets-karnataka-rto-licence-can-rs-8-km-electric-cabs-disrupt-bengalurus-uber-rapido-market-12313814#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 20:41:20 +0530"
     },
     {
-      "title": "Delhi AQI At 260, Chennai At 180; Check Air Quality In Mumbai, Kolkata, Hyderabad And Bengaluru",
+      "title": "US Stock Market Today: Nasdaq Jumps 1.3% At Open While Dow Barely Moves; AI Stocks Roar Back",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/delhi-aqi-at-260-chennai-at-180-check-air-quality-in-mumbai-kolkata-hyderabad-and-bengaluru-12313409#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 19:19:23 +0530"
+      "link": "https://www.ndtvprofit.com/markets/us-stock-market-today-nasdaq-jumps-1-6-at-open-while-dow-barely-moves-ai-stocks-roar-back-12313634#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 20:37:04 +0530"
     },
     {
-      "title": "Himachal Pradesh NEET PG 2026: Final Merit List, Released By Atal Medical and Research University",
+      "title": "AI Trade Isn't Dead Yet: CoreWeave Rockets 15%, SanDisk Soars 11% As Chip Stocks Roar Back",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/himachal-pradesh-neet-pg-2026-final-merit-list-released-by-atal-medical-and-research-university-12313396#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 19:17:16 +0530"
+      "link": "https://www.ndtvprofit.com/markets/ai-trade-isnt-dead-yet-sandisk-soars-11-coreweave-rockets-15-as-chip-stocks-roar-back-12313725#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 20:36:15 +0530"
     },
     {
       "title": "Stock markets end higher; Sensex and Nifty jump nearly 1% - The Hindu",
