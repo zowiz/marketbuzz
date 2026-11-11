@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges 1,300 points, Nifty tops 25,300 as foreign investors return and market wealth grows by ₹4.5 lakh crore",
+  "headline": "Sensex rallies 773 points, Nifty closes above 25,250 driven by foreign inflows and PSU bank gains",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,50 @@
     "nextOpen": ""
   },
   "why": [
-    "Return of foreign investors to the Indian equity markets",
-    "Massive wealth addition of ₹4.5 lakh crore in early trading minutes",
-    "Strong rally in heavyweight stocks like M&M and IndiGo",
-    "Positive momentum following the start of Samvat 2083"
+    "Foreign institutional investors returned to Indian stocks, pushing markets to an eight-month high.",
+    "PSU Banking stocks surged up to 3%, leading sector-wise gains across the broad market.",
+    "Massive early buying momentum added approximately ₹4.5 lakh crore in investor wealth.",
+    "Strong performance in auto and aviation heavyweights like M&M and IndiGo further boosted market sentiment."
   ],
   "whatHappening": [
-    "Sensex surged over 1,300 points to hit an eight-month high",
-    "Nifty 50 climbed above the 25,375 level during the session",
-    "Power Mech Projects reported a 20% jump in Q2 revenue despite narrowing margins",
-    "Bajaj Hindusthan Sugar's net loss widened to ₹121 crore for the second quarter"
+    "Sensex jumped 773 points while Nifty 50 finished comfortably above 25,250.",
+    "Mutual fund inflows touched ₹1.73 lakh crore in October, despite equity inflows declining 14% over September.",
+    "ValueQuest committed ₹775 crore to three Indian manufacturing and defence firms.",
+    "Power ministry requested extending LPS Rules benefit to energy storage companies."
   ],
   "stocksInNews": [
     {
-      "symbol": "POWERMECH",
+      "symbol": "M&M",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        4,
+        11
+      ]
+    },
+    {
+      "symbol": "INDIGO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        4,
+        11
+      ]
+    },
+    {
+      "symbol": "TRENT",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        6
+        4
+      ]
+    },
+    {
+      "symbol": "GRSE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        7
       ]
     },
     {
@@ -36,128 +62,114 @@
       ]
     },
     {
-      "symbol": "M&M",
-      "sentiment": "Positive",
+      "symbol": "TATAPOWER",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        12
+        7
       ]
     },
     {
-      "symbol": "INDIGO",
-      "sentiment": "Positive",
+      "symbol": "HINDCOPPER",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        12
-      ]
-    },
-    {
-      "symbol": "ETERNAL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        2
+        7
       ]
     }
   ],
-  "summary": "The Indian stock market witnessed a massive rally today, with the Sensex gaining over 1,300 points and Nifty hitting new highs above 25,300. The surge was fueled by the return of foreign investors and strong performance in the auto and aviation sectors. Corporate earnings remained mixed, with Power Mech Projects showing growth while Bajaj Hindusthan Sugar reported losses.",
-  "updatedAt": "2026-11-11T10:31:30.075Z",
+  "summary": "Indian equities logged sharp gains on November 11 as Sensex jumped 773 points and Nifty crossed 25,250, supported by foreign investor inflows and a 3% surge in PSU banks.\nTop gainers included Mahindra & Mahindra and IndiGo, while Garden Reach Shipbuilders posted a 12% rise in quarterly net profit.\nAdditionally, domestic mutual fund inflows remained strong at ₹1.73 lakh crore for the month of October.",
+  "updatedAt": "2026-11-11T11:01:38.333Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-11",
   "articleKeys": [
-    "stock market live sensex rises 400 pts nifty tops 25100 nifty realty down 1",
-    "cars for government officials evs become default choice check price cap for petrol diesel and hybrid vehicles",
-    "223 return since listing eternal hits fresh record high is there more room to run",
-    "lost your job heres how to withdraw your pf and avoid the tax trap",
-    "did ronaldo messi watch ramayana viral instagram stories spark buzz on x",
-    "signature play the classic cocktail is dead or is it",
-    "power mech projects q2 results net profit rises revenue jumps 20 margin narrows",
-    "bajaj hindusthan sugar q2 net loss widens to rs 121 crore revenue falls 16",
-    "usman khawaja exposes 2 australia stars over sandpapergate refused to take accountability showed true colours",
-    "anirudh ravichanders video proposing to kavya maran goes viral aheadbut theres a twist",
-    "stock market today live updates sensex jumps over 300 points nifty50 rises above 25000 the times of india",
-    "stock market today highlights bse sensex ends over 100 points higher nifty50 closes above 25000 in first regular trading session of samvat 2083 the times of india",
+    "power ministry seeks to extend lps rules benefit for energy storage cos",
+    "india canada discuss advancing negotiations for proposed trade pact",
+    "valuequest commits 775 cr to 3 indian manufacturing defence companies",
+    "stock market close sensex pares gains but ends 773 pts up nifty at 25255 psu bank rises 3",
+    "stock market highlights sensex jumps 773 points nifty 50 ends above 25250 indigo mm trent top gainers",
+    "india is beating wall street one fintech ceo says that only strengthens the case for us stocks",
+    "shubman gill kl rahul to skip final 2 odis against new zealand exindia pacer questions decision",
+    "q2 results live garden reach profit rises 12 bajaj hindusthan sugar loss widens tata power grse hind copper in focus",
+    "mutual fund inflows hit 173 lakh crore in october equity mf flows fall 14 over september",
+    "two days past deepavali npci yet to announce a date for upi mdr rollout",
+    "stock market today highlights sensex ends 770 points higher nse nifty50 closes above 25250 the times of india",
     "stock market live updates closing bell sensex rallies 773 pts nifty ends above 25250 mm jumps 5 indigo 4 the economic times",
     "why is indian stock market rising today sensex jumps over 1000 points nifty 50 above 25300 three reasons explained ndtv profit",
-    "stock market outlook today 11 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "sensex today stock market live sensex ends 107 pts higher nifty above 25000 psu banks surge 37 it slides 12 moneycontrolcom",
     "stock market today massive jump in sensex nifty 45 lakh cr wealth added in a few mins reasons for bullish party livemint",
+    "stock market today highlights bse sensex ends over 100 points higher nifty50 closes above 25000 in first regular trading session of samvat 2083 the times of india",
+    "stock market outlook today 11 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "indian stocks hit eightmonth high as foreign investors return reuters",
     "sensex gains 1200 points nifty above 25300 why is the stock market going up today explained india infoline",
     "sensex surges 1302 points nifty jumps above 25375 hdfc sky"
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex rises 400 pts, Nifty tops 25,100; Nifty Realty down 1%",
+      "title": "Power ministry seeks to extend LPS Rules benefit for energy storage cos",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/news/power-ministry-late-payment-surcharge-rules-energy-storage-bess-126111100866_1.html",
+      "publishedAt": "Wed, 11 Nov 2026 16:02:40 +0530"
+    },
+    {
+      "title": "India, Canada discuss advancing negotiations for proposed trade pact",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/news/national/india-canada-discuss-advancing-negotiations-for-proposed-trade-pact/article71689215.ece",
+      "publishedAt": "Wed, 11 Nov 2026 15:54:05 +0530"
+    },
+    {
+      "title": "ValueQuest commits ₹775 cr to 3 Indian manufacturing, defence companies",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/valuequest-investment-sagar-defence-rational-engineers-tase-global-126111100837_1.html",
+      "publishedAt": "Wed, 11 Nov 2026 15:41:49 +0530"
+    },
+    {
+      "title": "Stock Market Close: Sensex pares gains but ends 773 pts up, Nifty at 25,255; PSU Bank rises 3%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-11-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126111100079_1.html",
-      "publishedAt": "Wed, 11 Nov 2026 15:03:50 +0530"
+      "publishedAt": "Wed, 11 Nov 2026 15:37:38 +0530"
     },
     {
-      "title": "Cars For Government Officials: EVs Become Default Choice; Check Price Cap For Petrol, Diesel And Hybrid Vehicles",
+      "title": "Stock Market Highlights: Sensex Jumps 773 Points, Nifty 50 Ends Above 25,250; IndiGo, M&M, Trent Top Gainers",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/cars-for-government-officials-evs-become-default-choice-check-price-cap-for-petrol-diesel-and-hybrid-vehicles-12312074#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 14:50:32 +0530"
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-sensex-nifty-50-crude-oil-prices-gold-rate-today-silver-price-us-iran-war-banks-it-stocks-12310823#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 15:34:34 +0530"
     },
     {
-      "title": "223% Return Since Listing: Eternal Hits Fresh Record High; Is There More Room To Run?",
+      "title": "India Is Beating Wall Street. One Fintech CEO Says That Only Strengthens The Case For US Stocks",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/eternal-share-price-today-223-percent-return-since-listing-eternal-hits-fresh-record-high-whats-behind-the-rally-zomato-swiggy-bse-sensex-today-12311947#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 14:48:42 +0530"
+      "link": "https://www.ndtvprofit.com/markets/india-is-beating-wall-street-one-fintech-ceo-says-that-only-strengthens-the-case-for-us-stocks-12312287#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 15:33:12 +0530"
     },
     {
-      "title": "Lost Your Job? Here's How To Withdraw Your PF And Avoid The Tax Trap",
+      "title": "Shubman Gill, KL Rahul To Skip Final 2 ODIs Against New Zealand; Ex-India Pacer Questions Decision",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/lost-your-job-here-s-how-to-withdraw-your-pf-and-avoid-the-tax-trap-12307336#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 14:48:39 +0530"
+      "link": "https://www.ndtvprofit.com/sports/shubman-gill-kl-rahul-to-skip-final-2-odis-against-new-zealand-ex-india-pacer-questions-decision-12312286#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 15:33:09 +0530"
     },
     {
-      "title": "Did Ronaldo, Messi Watch Ramayana? Viral Instagram Stories Spark Buzz On X",
+      "title": "Q2 Results Live: Garden Reach Profit Rises 12%; Bajaj Hindusthan Sugar Loss Widens; Tata Power, GRSE, Hind Copper In Focus",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/did-ronaldo-messi-watch-ramayana-viral-instagram-stories-spark-buzz-on-x-12312051#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 14:45:32 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2-results-today-live-updates-tata-power-grse-hindustan-copper-among-companies-announcing-september-quarter-earnings-12310483#publisher=newsstand",
+      "publishedAt": "Wed, 11 Nov 2026 15:31:57 +0530"
     },
     {
-      "title": "Signature Play: The Classic Cocktail Is Dead. Or Is It?",
+      "title": "Mutual fund inflows hit ₹1.73 lakh crore in October, equity MF flows fall 14% over September",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/lifestyle/classic-cocktails-in-india-why-bars-favour-signature-drinks-even-though-classics-sell-most-12310263#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 14:44:26 +0530"
+      "link": "https://www.thehindu.com/business/mutual-fund-inflows-hit-173-lakh-crore-in-october-equity-mf-flows-fall-14-over-september/article71688949.ece",
+      "publishedAt": "Wed, 11 Nov 2026 15:30:33 +0530"
     },
     {
-      "title": "Power Mech Projects Q2 Results: Net Profit Rises, Revenue Jumps 20%; Margin Narrows",
+      "title": "Two days past Deepavali, NPCI yet to announce a date for UPI MDR rollout",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/power-mech-projects-q2-results-net-profit-rises-revenue-jumps-20-percent-margin-narrows-12312034#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 14:42:01 +0530"
+      "link": "https://www.thehindu.com/business/Economy/two-days-past-deepavali-npci-yet-to-announce-a-date-for-upi-mdr-rollout/article71689098.ece",
+      "publishedAt": "Wed, 11 Nov 2026 15:26:27 +0530"
     },
     {
-      "title": "Bajaj Hindusthan Sugar Q2: Net Loss Widens To Rs 121 Crore, Revenue Falls 16%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/bajaj-hindusthan-sugar-q2-net-loss-widens-to-rs-121-crore-revenue-falls-16-12311964#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 14:36:11 +0530"
-    },
-    {
-      "title": "Usman Khawaja Exposes 2 Australia Stars Over Sandpapergate: 'Refused To Take Accountability', 'Showed True Colours'",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/usman-khawaja-exposes-2-australia-stars-over-sandpapergate-refused-to-take-accountability-showed-true-colours-12312009#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 14:34:51 +0530"
-    },
-    {
-      "title": "Anirudh Ravichander's Video Proposing To Kavya Maran Goes Viral Ahead...But There's A Twist",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/anirudh-ravichander-kavya-maran-wedding-viral-video-shows-composer-proposing-with-a-diamond-ring-but-there-s-a-twist-12311918#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 14:25:49 +0530"
-    },
-    {
-      "title": "Stock Market Today Live Updates: Sensex jumps over 300 points, Nifty50 rises above 25,000 - The Times of India",
+      "title": "Stock Market Today Highlights: Sensex ends 770 points higher, NSE Nifty50 closes above 25,250 - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOUFBvMUFwMUpmZW9OdXJEQWZYbmFnSGM2V25wOS02bEx3bjVDTE1QMGNnUjJqSlZEa3lRbUplVjk0Y2c5SVlsYjU3RmU4d0lOSm5UbkZLSzI3c0tOOFdLS09XU0FjNW1faF9ZelF6SEZKaHdRYTJ6ZjNUUXFnQ1ZFUHFiRTY5TWZ0eGhSR1V4OEtQRFNpeFJYeWJhSGlRT2FFRlllSUZCUnJ2TGkwTkFaNFI4eXh5N1BJenlKYlFkZzhiemZPbUZDcEhLbG5BSC1maDc3ZzR3S3g0VDNNUWh0T183eElRajQ1blhjRWtXTnFwUTZMOFd4RWdlbDFWVUREVXA4VGxZTUxxdWRaNzhQRGtZaGVlYXRhVjlwN01Nb0ZPYU1lQ2swUmMtLTZ3YWJpU3hWNFd30gG7AkFVX3lxTE1DX1U3cEdMUl8zYURKX3AxM3g4bVFmeTNuOWEtUFg0VzRZeG00cUY4OTQyYXdRS3QteFQxZnRXa2ZpbXFHSU1oaHlFd1g5cDJ1RnNjbjV0dGVKRnFuWlBLVDF0UzhpaDRrcHQyOUR3UmNHb1pGZDQzZEQxOW1qWkZxXzY1OWFoVmEzNG9wOUliMGtuQVN5ZTlkbWxwMGhHbWZDdHJIVktsbnNiSzkwNnItek55NDY1YWFwQk9zeVNpX2lMSjdZSWtnVTdacjhSZkplMHNnTDlVaEZGb2lsWTl4bnZYMDBzRXFfVHgya0lyVmhlbkJjM1otTE9iblZNWWFSY1NQallWZk12ajkwN2tKYll2WVBCM3F1R0pENWhkeUtPY2tEdnVUUUFkbmUxeHpXRjBqY1dZMkM1UQ?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 09:42:59 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights: BSE Sensex ends over 100 points higher, Nifty50 closes above 25,000 in first regular trading session of Samvat 2083 - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPWlo0Q1NOMTFxS19XeENyeDRaVlFvWHBhWk5acTZTMHg4OHMyQnRhRXJRelgtTUJrRlM2endOUlBMakdtenRDNGNqckM3dTdfaG81SkVQRkdwYTRCbV9CYjhLVi0zZl95V3RQWVZwS0cwOXNIU0JBQko5bktxNEswQ3N2RjViNmVUUHNUZkJlMmI1S2VLRXVJblVFWkQwdk5TcFkxSGdXcmZWTlROUVpLb1NWZUZMR0lfMjVIVFhHcG9BWmFvTEZCZFVPSFI2a0hvZG94cnhhRUlTazIwUTBRZ1dOZHZpbmVYZE1kNDN2Vzd4ZExQdGhLMWxLNXl1ZkxocVR4ZXYzZzNnVkdCbjVFUDJ3U2I1Y1V5WG4zQkxDb3I3NUh5LTRsU0RQNkZPbXRiMVhFek1R0gG7AkFVX3lxTE0xTUJ0MUQ5TW05MHpJVVNRT0I2R1RNMDlheElwN21IVDlCN1MtV2FkdHFON19fWnBlMXpweHA3Y1B6TnRVUmFRRm9KYWVPVHp1WjdMX0tILUVOV2p2X1BwVml5OENpVWRSYlQyN1ZwalM4RG1ZcTJCVjdjdE56NksyRUFoTlc4VG9UVDREUlFtR1E2Ukc4RzhoRjVXLTlRN0gtVHdZaFVwS0JVdVVfN0N5QVJfTHNzaENpQnhiaWt5SU1XZ0tCVDFjaFJLSjlRQkJ3ZElqeEYtdjNFUXA0TmNoZXdncVhfVkJ5WF9xV1QtZGEtSDNHX2Y0UFFrRXF0UFhIUWEyZURhWnJmZmcyYmtzZzN0RHo5ejdha1V2Yk1vMG5DNTlNOEFGa2Voa1dvV2ZBblRxMVhFYnJWTQ?oc=5",
-      "publishedAt": "Mon, 09 Nov 2026 10:17:25 GMT"
+      "publishedAt": "Wed, 11 Nov 2026 10:31:42 GMT"
     },
     {
       "title": "Stock Market Live Updates | Closing Bell: Sensex rallies 773 pts, Nifty ends above 25,250; M&M jumps 5%, IndiGo 4% - The Economic Times",
@@ -172,12 +184,6 @@
       "publishedAt": "Wed, 11 Nov 2026 04:22:08 GMT"
     },
     {
-      "title": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONFQ3NGVlSW5LalhZV2F5VkdpN05sVmt6UU9kbzEzbU1JR2NNU00tUjFRRDBnSkt0bXYzVV90ZVVXYzhoa25FWmFsSnZ3ZDRGS0xFYU1ZYkZlRkZBWnpTSl9jbFVYeWtZNm5vRHRKS1RqTkwtSERRaE5hZ2dkSU0yQmFmZXU3enpuS0lFa3dTVHkxN01oT3dUeWFvQ25INzNXVjROaDVwSXFYR0VrV0FyRlA0bkJXdlI4Z2YtUWtTQ1JEam50VWlmRjRWSTdJN3FGTTg2ZGNSbU1meWZremx5WUxVWXFSN1NqMHBwRzA3d1hqUklHNGI3NGRTSUhtX2trTGd5bdIBigJBVV95cUxObnZvSlFPS3BpeV9HR3BjcVNCOHdaYWkzNEtpRHNTcmIzdmJYVk8yRV9mN3NUVWpxUEowZjdjNF9nNkdMRTdWN1JaRkVPN2daRURhTzc2ZURXOUI5WUJTSldoZXd5MWpBNG0wUlRrUE5zMFN1bnNieXlEUEU4M291ZHJaSktfYnA5S2UxQ1gxUV9UVk04dGFaOEY3YlBDUUxvT1ctUDFjdVRrTWtDVUtnaW9IZWlsbnd5U2VhYmF4UlZXdEk4OVZaRHp0QzU2OEZmZ0M4SVI4VmhfLWxQR01LUWdmMHJUQy1OVWhscVllMVJmdTB6OEtPMHhSdTF4ZGdZMnlhZTQxY0FnUQ?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 01:17:54 GMT"
-    },
-    {
       "title": "Sensex Today | Stock Market Live: Sensex ends 107 pts higher, Nifty above 25,000; PSU banks surge 3.7%, IT slides 1.2% - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPVXg3MkwwS2JIbi1sbEppUldnX1VjS1JBZ2xrQVRGdzZnXzNGY2FuaUN6V1FDUHZodF80bDBkWklSWjBSR09IMlVFS1FGb3JoNTdsT014d0IwekoyX2hnTXA1RG1KYVBVT0lJVVcyUS1EaWk0MlROTnpZdmsyemhnYlpOYy1VUlpfNWZvSy1zT0xUYU1PVjJnWXcyRlpHLTY1Q29zUko0Sk5pWVRsUmtXakxneDRrcnllcFAzN1BRYm94dnMtWnNmMXNpU0Q1d3FNRlE0Z2NlQ0JFTW1xY2gtY3NSQmdrNFo2OE4yWTZfVk1EeUZMTC1PUm43RkRWUk4zNHlvdWVZQ01rb3VhNUVjOWM5SnpSc1JTMXNYYjlubFZTMDVrOEZjSDdzM2VDVnfSAbQCQVVfeXFMTVdLaVEtWUhrUm5YSlFLVWQxR05KMGxRakR5Z0RHV2JIcE1mMUdMUjgwV1dBbDVocUJwQnZRZnB3cXpiZVNwaFQ0ZWtmMVJwOTZBVHVuaGZWTVFUN3RRZDJvV0lDTmVUdzZBSlljdVRVWUNBZ0VVY2taMkNkZFI3ODB3cDBUdUF5TGtXd0s3ZmhuS2hQTUdIR2RMMnQ5V3NCWDJmWXVVYm5QSU9Dclc5cnhRSldTYW45Vm1kVEFtSGEwNHdlcUUzZ1RMLUt2c0FUYXhlRXlwMFZKeVUweVFxbVdVNTI5c284UXY1MmM4cUp1Wmh1Qmt5RjdnYWV5TmY5WWVoRFFsdmFZTzBMano5Smd5UlBSSHJra3p0N2xMV2JMX0RDNWlLRmJpNkdBc2ZYZ2FlUXA?oc=5",
@@ -188,6 +194,18 @@
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTHpkbnYzaEFFLWxqWWlWekoybUl6Wkg3bDNvektzOXBrakpVNUtGZHAzV005dWZubC1FendXbmxBUEJ0WEMtSDFUVzl2cTJBOVBZdVVndkxMQmVoRUpITmhCQUp4c2pBMHE4aEEtQzBXa0xrcHJCalFlMDRreDg4MF9PeEZzX1ByZ2dmZmNkeVNUemM4MTE0OURDbEJrMXEwOUVUX2ctaC1hMkRpUkdzdkxwOG16VUhtMFBySVdidy1CQjZ1b2xjNng3cjlGRlNqRnk1b1czT0JOa1d2d0FEajJyeThUZEg3dWxuVUdQeXNRaDd4NktENU1zaF85a2wwTkh1d2txODZzYWJ0clgxNWRjWdIBmAJBVV95cUxQRDB4cFlEWUVBWDJhcDZUQ21BZ3dBcWNfcEtPaE1RempXdk03Vm1fNGRfQ2I1M2xzaXA0dmN3bnBhMHlWTlVqd29PMkE1YUZfaWlJNktZZ2toSzNwQjhGQWhsSHB5UGMzb0ZDZm04WldCSlVDS2IyckoyUHZ0akRsYVdENnJ4Skx2X09wU2ZiQWFHdTRic0hvbndkZ3c5NWdzNmdCYjAtU1puZ0JoNTlyRVBhdHE2bXNJaVU4ZWM2UThaSG5ZQXF4ZlNFbFZOUnpocUpVWkFqeUdvU1pYanA4U1k3RXp0WklCZTdKdDh0aVprcWRCOHBCamR6eDY1ZVdLSWhsRjRYSk4tSDNsNXd2MVpNSjZqNTRM?oc=5",
       "publishedAt": "Wed, 11 Nov 2026 04:03:17 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights: BSE Sensex ends over 100 points higher, Nifty50 closes above 25,000 in first regular trading session of Samvat 2083 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPWlo0Q1NOMTFxS19XeENyeDRaVlFvWHBhWk5acTZTMHg4OHMyQnRhRXJRelgtTUJrRlM2endOUlBMakdtenRDNGNqckM3dTdfaG81SkVQRkdwYTRCbV9CYjhLVi0zZl95V3RQWVZwS0cwOXNIU0JBQko5bktxNEswQ3N2RjViNmVUUHNUZkJlMmI1S2VLRXVJblVFWkQwdk5TcFkxSGdXcmZWTlROUVpLb1NWZUZMR0lfMjVIVFhHcG9BWmFvTEZCZFVPSFI2a0hvZG94cnhhRUlTazIwUTBRZ1dOZHZpbmVYZE1kNDN2Vzd4ZExQdGhLMWxLNXl1ZkxocVR4ZXYzZzNnVkdCbjVFUDJ3U2I1Y1V5WG4zQkxDb3I3NUh5LTRsU0RQNkZPbXRiMVhFek1R0gG7AkFVX3lxTE0xTUJ0MUQ5TW05MHpJVVNRT0I2R1RNMDlheElwN21IVDlCN1MtV2FkdHFON19fWnBlMXpweHA3Y1B6TnRVUmFRRm9KYWVPVHp1WjdMX0tILUVOV2p2X1BwVml5OENpVWRSYlQyN1ZwalM4RG1ZcTJCVjdjdE56NksyRUFoTlc4VG9UVDREUlFtR1E2Ukc4RzhoRjVXLTlRN0gtVHdZaFVwS0JVdVVfN0N5QVJfTHNzaENpQnhiaWt5SU1XZ0tCVDFjaFJLSjlRQkJ3ZElqeEYtdjNFUXA0TmNoZXdncVhfVkJ5WF9xV1QtZGEtSDNHX2Y0UFFrRXF0UFhIUWEyZURhWnJmZmcyYmtzZzN0RHo5ejdha1V2Yk1vMG5DNTlNOEFGa2Voa1dvV2ZBblRxMVhFYnJWTQ?oc=5",
+      "publishedAt": "Mon, 09 Nov 2026 10:17:25 GMT"
+    },
+    {
+      "title": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONFQ3NGVlSW5LalhZV2F5VkdpN05sVmt6UU9kbzEzbU1JR2NNU00tUjFRRDBnSkt0bXYzVV90ZVVXYzhoa25FWmFsSnZ3ZDRGS0xFYU1ZYkZlRkZBWnpTSl9jbFVYeWtZNm5vRHRKS1RqTkwtSERRaE5hZ2dkSU0yQmFmZXU3enpuS0lFa3dTVHkxN01oT3dUeWFvQ25INzNXVjROaDVwSXFYR0VrV0FyRlA0bkJXdlI4Z2YtUWtTQ1JEam50VWlmRjRWSTdJN3FGTTg2ZGNSbU1meWZremx5WUxVWXFSN1NqMHBwRzA3d1hqUklHNGI3NGRTSUhtX2trTGd5bdIBigJBVV95cUxObnZvSlFPS3BpeV9HR3BjcVNCOHdaYWkzNEtpRHNTcmIzdmJYVk8yRV9mN3NUVWpxUEowZjdjNF9nNkdMRTdWN1JaRkVPN2daRURhTzc2ZURXOUI5WUJTSldoZXd5MWpBNG0wUlRrUE5zMFN1bnNieXlEUEU4M291ZHJaSktfYnA5S2UxQ1gxUV9UVk04dGFaOEY3YlBDUUxvT1ctUDFjdVRrTWtDVUtnaW9IZWlsbnd5U2VhYmF4UlZXdEk4OVZaRHp0QzU2OEZmZ0M4SVI4VmhfLWxQR01LUWdmMHJUQy1OVWhscVllMVJmdTB6OEtPMHhSdTF4ZGdZMnlhZTQxY0FnUQ?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 01:17:54 GMT"
     },
     {
       "title": "Indian stocks hit eight-month high as foreign investors return - Reuters",
