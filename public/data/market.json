@@ -1,5 +1,5 @@
 {
-  "headline": "Indian Markets Reopen After Holiday; Nifty Eyes 24,800 Support Amid Weak Global Cues and Corporate Earnings",
+  "headline": "Indian markets reopen after holiday; MRF profit falls 23% amid global inflation and Fed rate hike concerns",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,53 +7,21 @@
     "nextOpen": ""
   },
   "why": [
-    "Indian stock markets reopen today after being closed for the Diwali-Balipratipada holiday.",
-    "Technical analysts identify Nifty support at 24,800, suggesting a buy-on-dips strategy.",
-    "US markets closed lower as hot inflation data and Fed comments increased interest rate concerns.",
-    "India VIX has risen significantly, gaining 18% in the last three weeks, indicating higher volatility."
+    "Indian stock markets are reopening today after being closed for the Diwali-Balipratipada holiday on November 10.",
+    "MRF reported a significant 23% decline in quarterly net profit, citing the impact of higher input costs.",
+    "Hot US inflation data has fueled expectations for further Fed rate hikes, dampening global market sentiment.",
+    "Foreign Portfolio Investors (FPIs) are showing caution in stocks like PB Fintech while retail investor interest remains high."
   ],
   "whatHappening": [
-    "Siemens has announced its Q2 FY27 financial results.",
-    "Major Indian stocks including Bajaj Finance and Tata Motors are in focus for today's trade.",
-    "Nvidia shares plunged over 6% following a probe into the CEO, affecting global semiconductor sentiment.",
-    "Anthropic is planning a $90 billion IPO, targeting a valuation of $1.4 trillion."
+    "MRF's Q2 performance was pressured by rising raw material expenses, leading to a sharp drop in profitability.",
+    "Siemens is in focus as the company released its Q2 FY27 financial results and is listed among buzzing stocks.",
+    "PB Fintech is experiencing a shift in ownership patterns with retail buyers and wary foreign institutional investors.",
+    "Global cues are mixed as Asian stocks rise on tech results while US markets ended lower on inflation fears."
   ],
   "stocksInNews": [
     {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "KALYANKJIL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "COCHINSHIP",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
       "symbol": "MRF",
-      "sentiment": "Neutral",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         4
@@ -66,35 +34,79 @@
       "articleIds": [
         13
       ]
+    },
+    {
+      "symbol": "PBFINTECH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        14
+      ]
     }
   ],
-  "summary": "Indian indices reopen today following the Diwali break, with the Nifty 50 looking to maintain support at the 24,800 level. Global sentiment is weighed down by US inflation concerns and a sharp correction in Nvidia's market value. Domestic focus remains on corporate earnings and a list of stocks to watch including Tata Motors and Siemens.",
-  "updatedAt": "2026-11-11T01:25:39.434Z",
+  "summary": "Indian markets resume trading after the Diwali break, facing pressure from MRF's weak earnings and global inflation concerns. Investors are weighing hot US economic data against domestic corporate results and shifting institutional flows. Key stocks like Siemens and PB Fintech are in focus as the market navigates mixed global cues.",
+  "updatedAt": "2026-11-11T02:31:36.828Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-11",
   "articleKeys": [
+    "gold holds near oneweek low as hot us inflation boosts fed hike bets",
+    "should india worry about money flowing overseas",
+    "dollar gains traction as fed speakers warn of risks from inflation",
+    "openai posts steep losses even as quarterly revenue rises to 10 billion wsj reports",
+    "higher input costs drag mrf q2 net profit down 23",
+    "global market today asian stocks rise on coreweave results bonds drop",
     "anthropic targets 90 billion ipo at 14 trillion valuation",
     "stock market today all you need to know going into trade on nov 11",
     "us stocks us market ends lower as hot inflation data fed comments heighten rate worries",
     "us stocks five things to know about anthropic",
-    "stocks to watch today bajaj finance tata motors kalyan jewellers cochin shipyard mrf more",
-    "chipmakers warn ai demand is creating bottlenecks in automotive supply chain",
-    "nvidia dethroned on ceo probe microsoft tops chipmaker as worlds secondmost valuable firm",
-    "rohit sharma back as mi captain mitchell santners skipper remark sparks buzz",
-    "trade setup for nov 11 nifty bulls find support at 24800 analysts suggest buyondips",
-    "nvidia sinks over 6 heads for 470 billion twoday wipeout as ceos affair row deepens",
     "stock market outlook today 11 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market today gift nifty us inflation to oil prices five key factors for sensex nifty 50 on nov 11 ndtv profit",
     "stock market holiday today nse bse shut when will trading resume ndtv",
-    "ahead of market 10 things that will decide stock market action on wednesday the economic times",
     "siemens q2 fy27 results annu projects bags major solar supply contract top buzzing stocks today equitymaster",
-    "indian stock markets closed on account of diwalibalipratipada dd india",
-    "sensex nifty closed today for local holiday business news hindustan times",
+    "pb fintech retailers buy fpis turn wary in q2 who got right end of deal business standard",
     "share market bse and nse conduct muhurat trading on diwali news on air",
     "indian stock market pauses after sevenday rally as sensex nifty end diwali session lower firstpost",
-    "india vix rises 68 in 47 days gains 18 in the last 3 weeks strong niftytrader",
-    "stock market holiday today are nse bse open or closed on november 10 for diwalibalipratipada check de the times of india"
+    "indian stock markets closed on account of diwalibalipratipada dd india",
+    "stock market holiday today are nse bse open or closed on november 10 for diwalibalipratipada check de the times of india",
+    "stock market holiday today are nse bse open or closed today check gift nifty levels moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Gold holds near one-week low as hot US inflation boosts Fed hike bets",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms",
+      "publishedAt": "Wed, 11 Nov 2026 07:01:41 +0530"
+    },
+    {
+      "title": "Should India worry about money flowing overseas?",
+      "source": "Zerodha Pulse",
+      "link": "https://finshots.in/archive/should-india-worry-about-growing-outward-fdi/",
+      "publishedAt": "Wed, 11 Nov 2026 07:00:16 +0530"
+    },
+    {
+      "title": "Dollar gains traction as Fed speakers warn of risks from inflation",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-gains-traction-as-fed-speakers-warn-of-risks-from-inflation/articleshow/135722346.cms",
+      "publishedAt": "Wed, 11 Nov 2026 06:55:13 +0530"
+    },
+    {
+      "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports/articleshow/135722331.cms",
+      "publishedAt": "Wed, 11 Nov 2026 06:52:01 +0530"
+    },
+    {
+      "title": "Higher input costs drag MRF Q2 net profit down 23%",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/higher-input-costs-drag-mrf-q2-net-profit-down-23/articleshow/135722166.cms",
+      "publishedAt": "Wed, 11 Nov 2026 06:30:09 +0530"
+    },
+    {
+      "title": "Global Market Today: Asian stocks rise on CoreWeave results, bonds drop",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-coreweave-results-bonds-drop/articleshow/135721939.cms",
+      "publishedAt": "Wed, 11 Nov 2026 06:23:06 +0530"
+    },
     {
       "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
       "source": "Zerodha Pulse",
@@ -120,46 +132,16 @@
       "publishedAt": "Wed, 11 Nov 2026 00:23:44 +0530"
     },
     {
-      "title": "Stocks To Watch Today: Bajaj Finance, Tata Motors, Kalyan Jewellers, Cochin Shipyard, MRF & More",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stocks-to-watch-today-bajaj-finance-tata-motors-kalyan-jewellers-cochin-shipyard-mrf-more-12309754#publisher=newsstand",
-      "publishedAt": "Wed, 11 Nov 2026 00:00:01 +0530"
-    },
-    {
-      "title": "Chipmakers warn AI demand is creating bottlenecks in automotive supply chain",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipmakers-warn-ai-demand-is-creating-bottlenecks-in-automotive-supply-chain/articleshow/135718403.cms",
-      "publishedAt": "Tue, 10 Nov 2026 23:55:20 +0530"
-    },
-    {
-      "title": "Nvidia Dethroned On CEO Probe: Microsoft Tops Chipmaker As World's Second-Most Valuable Firm",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nvidia-dethroned-on-ceo-probe-microsoft-tops-chipmaker-as-world-s-second-most-valuable-firm-12309890#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 23:50:33 +0530"
-    },
-    {
-      "title": "Rohit Sharma Back As MI Captain? Mitchell Santner's 'Skipper' Remark Sparks Buzz",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/rohit-sharma-back-as-mi-captain-mitchell-santners-skipper-remark-sparks-buzz-12309883#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 23:40:34 +0530"
-    },
-    {
-      "title": "Trade Setup For Nov 11: Nifty Bulls Find Support At 24,800; Analysts Suggest Buy-On-Dips",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/trade-setup-for-nov-11-nifty-bulls-find-support-at-24-800-analysts-suggest-buy-on-dips-12309882#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 23:40:16 +0530"
-    },
-    {
-      "title": "Nvidia Sinks Over 6%, Heads For $470 Billion Two-Day Wipeout As CEO's Affair Row Deepens",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nvidia-sinks-6-extends-losses-for-second-session-as-jensen-huangs-affair-deepens-china-worries-12309735#publisher=newsstand",
-      "publishedAt": "Tue, 10 Nov 2026 23:38:20 +0530"
-    },
-    {
       "title": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONFQ3NGVlSW5LalhZV2F5VkdpN05sVmt6UU9kbzEzbU1JR2NNU00tUjFRRDBnSkt0bXYzVV90ZVVXYzhoa25FWmFsSnZ3ZDRGS0xFYU1ZYkZlRkZBWnpTSl9jbFVYeWtZNm5vRHRKS1RqTkwtSERRaE5hZ2dkSU0yQmFmZXU3enpuS0lFa3dTVHkxN01oT3dUeWFvQ25INzNXVjROaDVwSXFYR0VrV0FyRlA0bkJXdlI4Z2YtUWtTQ1JEam50VWlmRjRWSTdJN3FGTTg2ZGNSbU1meWZremx5WUxVWXFSN1NqMHBwRzA3d1hqUklHNGI3NGRTSUhtX2trTGd5bdIBigJBVV95cUxObnZvSlFPS3BpeV9HR3BjcVNCOHdaYWkzNEtpRHNTcmIzdmJYVk8yRV9mN3NUVWpxUEowZjdjNF9nNkdMRTdWN1JaRkVPN2daRURhTzc2ZURXOUI5WUJTSldoZXd5MWpBNG0wUlRrUE5zMFN1bnNieXlEUEU4M291ZHJaSktfYnA5S2UxQ1gxUV9UVk04dGFaOEY3YlBDUUxvT1ctUDFjdVRrTWtDVUtnaW9IZWlsbnd5U2VhYmF4UlZXdEk4OVZaRHp0QzU2OEZmZ0M4SVI4VmhfLWxQR01LUWdmMHJUQy1OVWhscVllMVJmdTB6OEtPMHhSdTF4ZGdZMnlhZTQxY0FnUQ?oc=5",
       "publishedAt": "Wed, 11 Nov 2026 01:17:54 GMT"
+    },
+    {
+      "title": "Stock Market Today: Gift Nifty, US Inflation To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 11 - NDTV Profit",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWkpfWmtRTTJKWG1RejBvZ1owRldmMG4tSW43bGEtOHAxRDdzOXNuRXo2R0FxVWEtb0NoZktRanUzZzMteFh3YUlNb040MlZKbEp2LTc3aTVQblVnVTlMNUFGMWN4ZUtGUVpJelhoQTh4OWszdldubVB5NTQ5VnpKVDZQanF0bGRrMEl1Tk0waVNXU285eEhjaS1rdFNWVllzUGdIVG1nNEtIZFlHZS02S0JwN2taSzU4TVYxVHM1Y3o2dFhRYlN6RVp6dmM4M085RkJXVVRtVnpLZDVGdGVIM2JScC1oVnYyZ1pfZEZlOHlYMW5NOVHSAf4BQVVfeXFMUFEzWWFxUnBpNG9PV2pzTy0zRllqd2ozZzFQeU5CY096a3J0eThvOGtkLWlXelZBY1NfWVpDRmhfTS1WdGdSWXM0RnpXZlRLNy1feXFLZkpCWjNLNHZsVEVVZ1pkVGZGRGp3YkkyLVBCeXI2a3NQbXRoRm95UDNiR3JOQVNkTURxeWRuXzVtT2RIRWxmRkp0ckIwUzc2XzZEQkdaSVp0dmRYdkl4X3ljV2psYWE5T0kxQnF0MnFMZ1p6ZEMteU12ZjhSSWI0SmdPYjdKU0QxOGVQaXF1V3Bab3RrODFfek04N21Ham1IcWxSUjI2Z2dOQUxJa0tZMlE?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 01:29:20 GMT"
     },
     {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
@@ -168,28 +150,16 @@
       "publishedAt": "Tue, 10 Nov 2026 01:14:31 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeEQ4OVQ1MTM5Vy16eGhvUF9YZlh5NHMzSWN1MXVkWnZwbGJUQVBmQklGR3VpdnVTeTBWa3Jhay1jbGJldF9Xd1lxNHU0RF9fSGV2RUpETnQ5TDdkcXp4SGlkZW52YlBnUEJPUEpKdmw1UThRWG5PeENWTDB4UVY0Ty1tRUNIaWVRRVJfaGIta2FGc0liZnBFU0ZHam1RT0dVMk5MNlN3a2dfRU9KNlIxWjlDcVdLaEFCUTQ3Nm01YkNIVmlHMEphYW5VTE04T0QzZEtSUkwxM3o2c2U5R2l4WTh2Y9IB6AFBVV95cUxNNklaVHZicXk5ekJ5TU1lTHpBNTRaY2hEUzFyU3N4MVN0OF9SN25WM0xEckNjZ0pSYlZQcXNRWTdUajU5Q3dKMlZVQmhqSkp1M3ltVENhN28wVEF5bE1IbTRxajllaXBlUlJXQUtfcU1ZVWtia0NrSTQtMmU5Q0FvRElnYmFQamc1bWQ1YXdwejVpZGNUbUZ4TEpnRk0yV29qNmNxcF9aYWxRRTBUa1NyTWJ4WkJyaGJESjBHakc2Z0FHaWNET1RXblYycFZKUHh2SkFMNWt2TUVQYW0yZkRQZFQ0R3h2dDVn?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 16:01:59 GMT"
-    },
-    {
       "title": "Siemens Q2 FY27 Results | Annu Projects Bags Major Solar Supply Contract | Top Buzzing Stocks Today - Equitymaster",
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUUMwU3pCUC1hdS1fdHloYTZZMkd0WGlDRGhDVndVSmt1ZEtxZUxrVlJsdWlpWnFwQW02clhzWkhodWtaOUV4V1hSUEhQYXVGV3I0SkxfVnNibEVGYklXb3U5SzEyOE5fakhUZnBqYWUwYUlaaUp1cnV6SGJlb2NnVUt4a09iWGMtMng1QmRjSzV4UWwwb29iVXVPZVk4UjdvRC16RzFUcWtLdmZXemZOdEREbzQ2SS1heXhENjd4ejByZ1FUam5DV3RvUHFoMUFSTVlRZU5YcnZZNi1peWY3dG1wX05zQnh5UHRacjBYYw?oc=5",
       "publishedAt": "Wed, 11 Nov 2026 00:30:00 GMT"
     },
     {
-      "title": "Indian stock markets closed on account of Diwali-Balipratipada - DD India",
-      "source": "DD India",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0hjV2R4ZEpxdnpEOTloXzFVOFpMTjlIYzlvZ0ZtU1lPY2xTNVVXMVBQdTlVT3lLdnpPY21PTGItN3J1YzczSE93b1M0SzR5ajAyZ0VjWVlpSlBVYkRmOW9ROWtvNG5CZk9DZjNfbEhHY3puQkx1dmQ3QVBsUXdfY3NLZW5LYk5MSmpNalNGd2R4cmo4ZTNUMw?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 05:16:30 GMT"
-    },
-    {
-      "title": "Sensex, Nifty closed today for local holiday | Business News - Hindustan Times",
-      "source": "Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUVdINnpLVE1rQ3hndGlKcFRva2djTi03eEFpZXFLMXVlVlJwRkRzWldDcno2Vk1ocktaTkVCZFEyRXg1YWNVbnp0Q3p6dkNMa1dPbmtqRm9RZFNhakl5Vk40SnFPWUlqSFJ0WFNJaW1lU0J6QWdELTBBZ3FIZ3JxZEU2aWJCWTJ1QkE0bEl3UHpwbEpNSVZyMS1UenF2YUxlY0NhNGhwazBGSkExSFBkRTZIbDJsYjdfRTh2T3ZYcWVfLW94OVhwSDNoQXBCb2ZGYlMtMFRLSjh4bE9wVVJyYjUxbUJKVDdYVEhJby1tONIB9AFBVV95cUxQMDdmMk82Z0xZTXoteWxNRi1aSDAtdHZXcERFdk5pYWVKT1EyT0dqNzF2TjRXUmgwczI0SGsxeTcwQ1hFZE9CREI2OTRhLTZXLW9rSWlQYzMyb19iU2ZCWWphRkdBeWZxQzVNbGNxaE1QazlKUVU5MGpKM3dadTZGbzRhUWxNSW5nbUZ0QVY2c1RMR1FHTFROQTBTbGZYTmJXbkZIbWExZGZFTWNZTzZwMHFJUS1xT0NBSXBlNjN6aTRaOXNlY0NmZWpUUHVZdkkzU2NEbUhMa2NmeGV4dFQwZkJhTlJ5N0p6dG1BSDBMS0FnYU9T?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 02:47:04 GMT"
+      "title": "PB Fintech: Retailers buy, FPIs turn wary in Q2; who got right end of deal? - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVcxdWphdWFNamNnSk9keFd3b20wNTdBbVZxNTJzdGNJaldwYjQxVVIwd01Yeno2aE5WNVFzLWxTYy14NXl1OWpjcjRxUXU5ci0yVmhocmFNX1BoRHd1SHpmY3NoTGFZMWhDWE5BVVRMUHpMWkJYWUtxU2NCUU1DMFFsazVIOER2djhRME1UUld2NGFIUkNodTEybnpjVEptVWhHZXRYR3F1R2U2V3NmQXZmOGhxRURtWTlZam8xUWZRdURHS0ZxamIxQThKQXBERVRwN9IB2gFBVV95cUxNcm1ybXRnZjJpeFZKNWEyYU1ZMlI4cmVDOUNDV2MwbmlmcG9CbVpzODFHcWJPWjMxTXdYbzFQVlkwa0xaLWp0RUFTQ1RjSU5mMUk3QV9PLWVEZVF6eU16N2lwNHI5UXBxV1JsU0JBSzBXb1BGd0pwRC0wVnZpanM0U1FVZFdhQWc4eHBUdVR6d1Jid283WVpCMWw5Y2tIUGlSdHZOb2VKNjU0UzJtMWtkV2lQVW5vcENfOFZVSndrNTlsemR3T19IOFV5dU9mYWhXcHBJNi04QUxxQQ?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 01:44:22 GMT"
     },
     {
       "title": "Share Market: BSE and NSE conduct muhurat trading on Diwali - News On AIR",
@@ -204,16 +174,22 @@
       "publishedAt": "Sun, 08 Nov 2026 11:50:27 GMT"
     },
     {
-      "title": "India VIX Rises 68% in 47 Days; Gains 18% in the Last 3 Weeks strong - NiftyTrader",
-      "source": "NiftyTrader",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1NzU1hhLTRzMXQycGd4RUN5cDNjNG1JRmkxUkNuTFBQZUR1ZFFDbnZtcHN4czZqUnNvN3hhRXFBWE5sZVdwN3JZR1VDUktvNU9NOVRTbmRQS1RmVDBNb3hsdkEwTTh5ZGZUSmNmQzlmaDRMMC1QZWlWbHB1UGRjU1o4TQ?oc=5",
-      "publishedAt": "Tue, 10 Nov 2026 10:28:10 GMT"
+      "title": "Indian stock markets closed on account of Diwali-Balipratipada - DD India",
+      "source": "DD India",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0hjV2R4ZEpxdnpEOTloXzFVOFpMTjlIYzlvZ0ZtU1lPY2xTNVVXMVBQdTlVT3lLdnpPY21PTGItN3J1YzczSE93b1M0SzR5ajAyZ0VjWVlpSlBVYkRmOW9ROWtvNG5CZk9DZjNfbEhHY3puQkx1dmQ3QVBsUXdfY3NLZW5LYk5MSmpNalNGd2R4cmo4ZTNUMw?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 05:16:30 GMT"
     },
     {
       "title": "Stock market holiday today: Are NSE, BSE open or closed on November 10 for Diwali-Balipratipada? Check de - The Times of India",
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNSG96TGpSbmFPTFFkNUxndXlSNmRxTUNIY3BHb2JpcjM5cElMVk5xYlhSNHlPMXdhOUotZXRWYjNBYWVIWThmM2oxVm1YN3FfSjJaZWpZT21IQmVjYlM4NnV6QkZkUGVFZUtyR0ZnVTgxNFBWcnNpd2xGeE83TmRjc0JHcmNLamF0WDJETnpERnBkV3JvUmo5UnQ2c3F4d1loS245X2REWXhvS3FFd29wRFRHS1ZJajBRUUJXQmozMFcxUFhDTmpYcVhoaXh1bEluMFZwMlhpdVlzTXgyb2o4RGk2d2czS2xqQmhBOXl0OW9GMFVQajkzZjJHVHRySkpBclQzUzFpYjB2WFhZZi1wd1lXeWtOSVNZdDdkVHln0gGjAkFVX3lxTE9iR2wtek5KT0JHZGl5VnNaQzVKSndyZDBfdk9saTlBMVR1b3VrRFVacU9xYk5rTEdTR0ozRWl5Y3pRWmZVZXFpVXYtWDFydUFVVGt5ZHk0clEwcUxiMEhnOTdkajEwT0JqcG1tX3RzVG52TGZZVFgyRUdtd0VTV2tIRmlaMXFoS2NrSzdERXNTb1dENjZhVWlQMmp2VWxqN1YtTTk5Mm9Qb2VMa2FLcEU4dWtKaURwMV9IU19uMlpTYkx6Q2oxamgtLVlGNHBGUmd4LUNhM0xMN1UxYVpjd1BxMVhVa1FwWFdYVWRxdkktdng5c2k0NU9HT3ZPd202WnAyajNXcGtRemlIazBBeVhDV3E0UVNvQV9wS1p2WDMzNUhhbw?oc=5",
       "publishedAt": "Tue, 10 Nov 2026 03:35:00 GMT"
+    },
+    {
+      "title": "Stock market holiday today: Are NSE, BSE open or closed today? Check GIFT Nifty levels - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOM25SZmRYOHBwMVQwOVVWSzhnNkxVb0hhYUpYOGJuTEFkbDZ2YXpJWURJWDVLX05lWEItTXNoV2ZIN2RfVTItcnZaaWxnZjlTdjlKZzRUOEFnMEFITmZGdFY1R19sSWdNLUVVLVR5NEs5MTVwbXB5V1hqNnVIOTJSOHVMTUZnQjViNDBMcTJudlIyWTNBX1RkemM2M1dGT3hKWnlQbnFveGlhRHdWOFc0OVBvRmVZMTU5MWVhVTVYdklBeDFiT0Q0azdRSEt1OTVQNWhYeklJdGs2VmUtSFFfOV9EMFlOZUtEY1NfeFBGMlRqa3ZzTWFzcHhsdE4xMmdwcm1BbzZXMnVTdUFVelFOdHZ0Ujd3U0VrMUHSAZ8CQVVfeXFMT3VnT3gxeF9Na3BnZVhmS3JobFJNQk5ab1NDa2tldlB0QzNoakczaERTZ2JzZ3lENW42Yl9tR1dpOWdkRU92dUh6Mm1VWEtBQmVIUzlkZE8wUFRLeEhpbDRIc3VPMktoTG4tVTJnTFFRb2FEM2dEMDM1RTloZ1c0Sk5UR0pxWE5LbVM2OFkycHpMcUV3cEJSN01ubU94cWlVa1VuR1NYSFlkaDhMaFpoSTNGZ2ZmU2o3YUR4RE9JcEdHRERsTXc5NnJQcVlzaU1KYnZOQ0Jya1pnRGJFZWM1SGVNNFctdUY5eHJHVXhidEVVMzlqeGgxWWdqTm9WYlY2Q2ZjdUZsM3lkZjRrdmRWZ1d1RExhSllHS2xSWXMtZGc?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 05:56:13 GMT"
     }
   ]
 }
