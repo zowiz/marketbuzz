@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex choppy and Nifty below 25,300 in volatile session amid foreign inflows and Q2 earnings",
+  "headline": "Sensex and Nifty Rally Led by Foreign Fund Inflows, Lower Crude Prices, and Banking Stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,20 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign fund inflows and lower crude oil prices provided early support to benchmark indices.",
-    "Market turned choppy as profit-booking and volatility pulled Nifty below 25,300.",
-    "Financial stocks saw buying interest, balancing losses in auto and FMCG sectors.",
-    "Q2 earnings releases drove strong stock-specific movements across multiple sectors."
+    "Foreign fund inflows (FIIs) boosted investor confidence across Indian equity markets.",
+    "Lower crude oil prices helped reduce cost pressures and supported market sentiment.",
+    "Early trading rebound was driven by gains in financial and banking stocks.",
+    "Sectoral rotation and foreign flow optimism contributed to gains in Sensex and Nifty."
   ],
   "whatHappening": [
-    "HAL posted a 16% jump in Q2 profit, but its stock declined 4% during afternoon trading.",
-    "Reliance announced plans for a $4.6 billion coal gasification project in Andhra Pradesh.",
-    "Mahindra & Mahindra, Nestle India, and PowerGrid emerged as top drags on the Sensex.",
-    "Precious metals saw a sharp drop, with gold falling below Rs 1,39,000 and silver slumping by Rs 2,800."
+    "HAL reported a 16% increase in Q2 net profit to Rs 1,936 crore, beating estimates.",
+    "Bharat Dynamics shares fell over 6% following a 15% drop in Q2 profit and narrowed margins.",
+    "Alkem Laboratories posted a 12% decline in Q2 net profit to Rs 675 crore and named a new CFO.",
+    "Bharat Forge's subsidiary KSSL unveiled a new 120mm rapid attack mortar system for defense forces."
   ],
   "stocksInNews": [
     {
-      "symbol": "RELIANCE",
+      "symbol": "BHARATFORG",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
@@ -28,12 +28,21 @@
       ]
     },
     {
-      "symbol": "HAL",
+      "symbol": "BDL",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        0,
-        4
+        4,
+        5
+      ]
+    },
+    {
+      "symbol": "HAL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4,
+        6
       ]
     },
     {
@@ -53,53 +62,29 @@
       ]
     },
     {
-      "symbol": "IDEA",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "M&M",
+      "symbol": "ALKEM",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "NESTLEIND",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "POWERGRID",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        7
+        9
       ]
     }
   ],
-  "summary": "Indian equities witnessed a volatile trading session with Sensex and Nifty trading flat after an early rebound driven by foreign fund inflows and lower crude oil prices. Stock-specific action dominated following Q2 results, with HAL dipping despite profit growth and Reliance planning a major gasification project. Heavyweights like M&M, Nestle, and PowerGrid acted as key drags on the market.",
-  "updatedAt": "2026-11-12T09:31:23.978Z",
+  "summary": "Indian equity markets traded higher supported by foreign fund inflows, lower crude oil prices, and strength in banking stocks. In corporate earnings news, HAL beat profit estimates while Bharat Dynamics and Alkem Laboratories reported lower Q2 net profits. Additionally, Bharat Forge's defense subsidiary unveiled a new mortar system.",
+  "updatedAt": "2026-11-12T10:01:37.217Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-12",
   "articleKeys": [
-    "stock market live sensex choppy in volatile session nifty below 25300 hal down 4 post q2 result",
-    "tata projectsled jv wins dhaka metro contract for 52km underground line",
-    "rbi to ban private equity firms from controlling multiple nonbank lenders",
-    "reliance plans 46 billion coal gasification project in andhra pradesh",
-    "q2 results live hal profit jumps 16 irctc oil india ola electric vodafone idea in focus",
-    "job boost for andhra pradesh kia to create 12000 opportunities cognizant lg and google bet big",
-    "nashik lift accident caught on camera elevator collapses at sunshine apartment in satpur",
-    "stock market today sensex nifty 50 trade flat financials lead mm nestle powergrid top drags",
-    "indian railways recruitment 2026 check vacancies important dates steps to apply",
-    "gold prices fall by rs 1300 to below rs 139000 silver rates slump by rs 2800",
+    "openai now allows enterprises to process ai requests within india",
+    "amitabh bachchan remembers dharmendras warm hospitality says people from his village could walk into his house freely",
+    "canara hsbc life insurance appoints indu swaroop as cfo effective nov 25",
+    "bharat forges kssl unveils 120mm rapid attack mortar system for forces",
+    "q2 results live bharat dynamics hal margins miss estimates irctc oil india in focus",
+    "bharat dynamics q2 results margin narrows sharply profit slides 15 stock falls over 6",
+    "hal q2 results net profit rises 16 to rs 1936 crore beats estimates ebitda misses",
+    "godrej capital raises 2500 crore from temasek at 28000 crore valuation",
+    "nps and sip mutual funds do you need both how to fix portfolio overlap",
+    "alkem laboratories q2 results net profit falls 12 to rs 675 crore ropes in gopal kothari as cfo",
     "sensex nifty rebound as banks lead early trade hdfc sky",
     "stock market outlook today 12 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "indian shares rise on foreign flow optimism financials autos lead reuters",
@@ -113,64 +98,64 @@
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex choppy in volatile session; Nifty below 25,300; HAL down 4% post Q2 result",
+      "title": "OpenAI now allows enterprises to process AI requests within India",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html",
-      "publishedAt": "Thu, 12 Nov 2026 14:01:49 +0530"
+      "link": "https://www.thehindu.com/business/openai-now-allows-enterprises-to-process-ai-requests-within-india/article71692799.ece",
+      "publishedAt": "Thu, 12 Nov 2026 14:59:59 +0530"
     },
     {
-      "title": "Tata Projects-led JV wins Dhaka Metro contract for 5.2-km underground line",
+      "title": "Amitabh Bachchan Remembers Dharmendra's Warm Hospitality, Says People From His Village Could Walk Into His House Freely",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/tata-projects-led-jv-wins-dhaka-metro-contract-for-5-2-km-underground-line-126111200472_1.html",
-      "publishedAt": "Thu, 12 Nov 2026 13:50:32 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/his-home-was-free-for-all-amitabh-bachchan-recalls-strangers-walking-into-dharmendra-s-house-12316069#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 14:30:56 +0530"
     },
     {
-      "title": "RBI to ban private equity firms from controlling multiple non-bank lenders",
+      "title": "Canara HSBC Life Insurance appoints Indu Swaroop as CFO, effective Nov 25",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/finance/news/rbi-to-ban-private-equity-firms-from-controlling-multiple-non-bank-lenders-126111200692_1.html",
-      "publishedAt": "Thu, 12 Nov 2026 13:49:17 +0530"
+      "link": "https://www.business-standard.com/companies/news/canara-hsbc-life-insurance-appoints-indu-swaroop-as-cfo-effective-nov-25-126111200779_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 14:25:18 +0530"
     },
     {
-      "title": "Reliance plans $4.6 billion coal gasification project in Andhra Pradesh",
+      "title": "Bharat Forge's KSSL unveils 120mm rapid attack mortar system for forces",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/reliance-plans-4-6-billion-coal-gasification-project-in-andhra-pradesh-126111200695_1.html",
-      "publishedAt": "Thu, 12 Nov 2026 13:44:15 +0530"
+      "link": "https://www.business-standard.com/companies/news/bharat-forge-kssl-120mm-rapid-attack-mortar-system-126111200770_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 14:21:40 +0530"
     },
     {
-      "title": "Q2 Results Live: HAL Profit Jumps 16%; IRCTC, Oil India, Ola Electric, Vodafone Idea In Focus",
+      "title": "Q2 Results Live: Bharat Dynamics, Hal Margins Miss Estimates; IRCTC, Oil India In Focus",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/q2-results-today-live-updates-hal-irctc-oil-india-ola-electric-vodafone-idea-among-companies-announcing-earnings-12315361#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 13:25:15 +0530"
+      "publishedAt": "Thu, 12 Nov 2026 14:19:14 +0530"
     },
     {
-      "title": "Job Boost For Andhra Pradesh: Kia To Create 12,000 Opportunities; Cognizant, LG And Google Bet Big",
+      "title": "Bharat Dynamics Q2 Results: Margin Narrows Sharply, Profit Slides 15%; Stock Falls Over 6%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/job-boost-for-andhra-pradesh-kia-to-create-12-000-opportunities-cognizant-lg-and-google-bet-big-12316236#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 13:22:24 +0530"
+      "link": "https://www.ndtvprofit.com/markets/bharat-dynamics-q2-results-margin-narrows-sharply-profit-slides-15-percent-but-meets-estimates-stock-falls-12316451#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 14:16:03 +0530"
     },
     {
-      "title": "Nashik Lift Accident Caught On Camera: Elevator Collapses At Sunshine Apartment In Satpur",
+      "title": "HAL Q2 Results: Net Profit Rises 16% To Rs 1,936 Crore, Beats Estimates; EBITDA Misses",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/nashik-lift-accident-caught-on-camera-elevator-collapses-at-sunshine-apartment-in-satpur-12316208#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 13:18:18 +0530"
+      "link": "https://www.ndtvprofit.com/markets/hal-q2-results-net-profit-rises-16-to-rs-1-936-crore-beats-estimates-ebitda-misses-12316295#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 14:08:01 +0530"
     },
     {
-      "title": "Stock Market Today: Sensex, Nifty 50 Trade Flat; Financials Lead, M&M, Nestle, PowerGrid Top Drags",
+      "title": "Godrej Capital raises ₹2,500 crore from Temasek at ₹28,000 crore valuation",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-sensex-today-nifty-50-gold-rate-today-silver-price-crude-oil-prices-rupee-us-iran-war-12315295#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 13:17:01 +0530"
+      "link": "https://www.business-standard.com/companies/news/godrej-capital-raises-2-500-crore-from-temasek-at-28-000-crore-valuation-126111200763_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 14:07:51 +0530"
     },
     {
-      "title": "Indian Railways Recruitment 2026: Check Vacancies, Important Dates, Steps To Apply",
+      "title": "NPS And SIP Mutual Funds: Do You Need Both? How To Fix Portfolio Overlap?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/indian-railways-recruitment-2026-check-vacancies-important-dates-steps-to-apply-12315996#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 13:10:04 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/nps-and-sip-mutual-funds-do-you-need-both-how-to-fix-portfolio-overlap-12316330#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 14:04:29 +0530"
     },
     {
-      "title": "Gold Prices Fall By Rs 1,300 To Below Rs 1,39,000; Silver Rates Slump By Rs 2,800",
+      "title": "Alkem Laboratories Q2 Results: Net Profit Falls 12% To Rs 675 Crore; Ropes In Gopal Kothari As CFO",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/gold-prices-fall-by-rs-1-300-to-below-rs-1-39-000-silver-rates-slump-by-rs-2-800-12315917#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 13:09:56 +0530"
+      "link": "https://www.ndtvprofit.com/markets/alkem-laboratories-q2-results-net-profit-falls-12-percent-to-rs-675-crore-ropes-in-gopal-kothari-as-cfo-12316436#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 14:03:40 +0530"
     },
     {
       "title": "Sensex, Nifty Rebound as Banks Lead Early Trade - HDFC Sky",
