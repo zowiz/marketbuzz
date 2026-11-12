@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty Rally Led by Foreign Fund Inflows, Lower Crude Prices, and Banking Stocks",
+  "headline": "Sensex and Nifty Rebound as Banks Lead Gains Amid Foreign Inflows and Mixed Q2 Earnings",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,26 +7,18 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign fund inflows (FIIs) boosted investor confidence across Indian equity markets.",
-    "Lower crude oil prices helped reduce cost pressures and supported market sentiment.",
-    "Early trading rebound was driven by gains in financial and banking stocks.",
-    "Sectoral rotation and foreign flow optimism contributed to gains in Sensex and Nifty."
+    "Foreign fund inflows boosting market sentiment",
+    "Lower crude oil prices supporting the rally",
+    "Rebound in banking stocks leading early trade",
+    "Optimism regarding foreign flows in Indian shares"
   ],
   "whatHappening": [
-    "HAL reported a 16% increase in Q2 net profit to Rs 1,936 crore, beating estimates.",
-    "Bharat Dynamics shares fell over 6% following a 15% drop in Q2 profit and narrowed margins.",
-    "Alkem Laboratories posted a 12% decline in Q2 net profit to Rs 675 crore and named a new CFO.",
-    "Bharat Forge's subsidiary KSSL unveiled a new 120mm rapid attack mortar system for defense forces."
+    "HAL reported a 16% rise in net profit, beating estimates despite an EBITDA miss",
+    "Bharat Dynamics shares fell over 6% following a 15% slide in quarterly profit",
+    "Gabriel India shares hit a 20% upper circuit on high trading volume",
+    "Alkem Laboratories reported a 12% fall in net profit and appointed a new CFO"
   ],
   "stocksInNews": [
-    {
-      "symbol": "BHARATFORG",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        3
-      ]
-    },
     {
       "symbol": "BDL",
       "sentiment": "Negative",
@@ -46,6 +38,30 @@
       ]
     },
     {
+      "symbol": "BHARATFORG",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "ALKEM",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "GABRIEL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        18
+      ]
+    },
+    {
       "symbol": "IRCTC",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/10 sources",
@@ -60,18 +76,10 @@
       "articleIds": [
         4
       ]
-    },
-    {
-      "symbol": "ALKEM",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        9
-      ]
     }
   ],
-  "summary": "Indian equity markets traded higher supported by foreign fund inflows, lower crude oil prices, and strength in banking stocks. In corporate earnings news, HAL beat profit estimates while Bharat Dynamics and Alkem Laboratories reported lower Q2 net profits. Additionally, Bharat Forge's defense subsidiary unveiled a new mortar system.",
-  "updatedAt": "2026-11-12T10:01:37.217Z",
+  "summary": "Indian markets rebounded as Sensex and Nifty gained, driven by foreign fund inflows and lower crude oil prices. While defense major HAL reported profit growth, Bharat Dynamics saw a sharp decline in earnings and stock price. Gabriel India stood out with a 20% surge, while Alkem Laboratories reported a drop in quarterly profit.",
+  "updatedAt": "2026-11-12T10:31:37.567Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-12",
   "articleKeys": [
@@ -93,8 +101,8 @@
     "stock markets climb in early trade led by foreign fund inflows lower crude oil prices deccan herald",
     "stock markets end higher sensex and nifty jump nearly 1 the hindu",
     "stock markets today sensex nifty gain on fii inflows lower crude prices rediff",
-    "sensex nifty may open higher as rotation boosts sentiment hdfc sky",
-    "stock markets climb fii inflows lower crude drive rally rediff moneywiz"
+    "gabriel india hits 20 upper circuit on huge volume up 112 from march low business standard",
+    "sensex surges 1302 points nifty jumps above 25375 hdfc sky"
   ],
   "articles": [
     {
@@ -206,16 +214,16 @@
       "publishedAt": "Thu, 12 Nov 2026 04:54:45 GMT"
     },
     {
-      "title": "Sensex, Nifty May Open Higher as Rotation Boosts Sentiment - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWnJXMXZzYWo2N0w3WVBKNi1vVGFIallqM2ZYUENNUWxyYkQtZWVTb1NVU3IwcDZJWVdsUm41RDg0YUZmOXZKSkwtZmRLUGJDTjVrSlNHMWoxZmFROUR5Rm5RNi1PVTVVcUt0bFZFckxXNlkwODdPTUZFYW5zbWxXYU1USzFHRU93bDZyV3U3VjFzWkkzbUZUcW1tampNMEF4dlFUZHRWemhjUTA0MUc2QXc5S0hRaDRmaHM4SWlqRnpGbHRzRHUtb1d0LTM5ZmpGbFFHYVZkTVFGLWpYX2pmSjZxRi1ZdVFkTTJhN3hMaw?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 04:02:46 GMT"
+      "title": "Gabriel India hits 20% upper circuit on huge volume; up 112% from March low - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbG9UV3k0b1JrRmNNSFVjR21vRTFhOG1VSUwyNGRXdy1pamJiUkp3bXV5SUd5aGJVQVBuQWRtQWVTYjNvYnl6TEZWNmxINnBpZm1rNkNhWmtoTUpCNnVtdjlEd0V4cGNPR1hSWEc0LWVQcDhDbUdTSUdaNFYtdUZkYVUzckV4b2p0Q2Qzb3ZKX1l3ZTFDTThKR294azZTZXptcG1xNWpSWWFDeTFDNlEzWkxwRm9XNGtFTTFVV0tibkxYNV9Zc2U2NHJiMUJEMmlUSmpRZjBB0gHbAUFVX3lxTFBLeFlOdWlXaHJ5OG1CYlQ1UnljYktVRkQ2eVZNWW5ERjVFd2NYakZmNGpZbm5ZWGQzS3l5YmtuWTdXb2F1SmhUZGlJbm52TU4xeGNsNzZNR2FhRjhkdzdoQS10YnFheXN2anBLMGhseE9QTy1Md3dlc3drNUd5VGUwel9ZSEx5N25TanBTYW10RzYzNGQ5b2FlM2JqWUM5M2h4S2RDbDJqLVFzZ2tZeFhVdUNfeXA0YzBRVWxnYm1QOEdFNk5TbTBjUFFPVUJUMlNVX0pHbGllVlJ5NA?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 10:10:09 GMT"
     },
     {
-      "title": "Stock Markets Climb: FII Inflows & Lower Crude Drive Rally - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTDRaWGZnd3BoM1pxaHQ0cy1nOVdVWjlOdlRlVXFsZjA4MnN3amI5eTF6TmJHZl9EbXZVNHJHY2huVHgxTmJDa0RNN2dva0RRa01ZSmN2cks5endWaTZHYkI3QnZzY3lhUVhzQW1uRURVbGE1aGpYWmJGT0lHOFFicmxSamhwUWxseFY4UXZtQVdwMFdXNmRvbjc1TFVUaXFWN21PdXVlbTZPVm_SAbABQVVfeXFMUEQ3cVc5ZmsyVWlaTTZldTg1UkpRN1dXN1RNblpQSDRTTDItUnh3Z1FNcUFwQTU0QXBBLUREUGtyeWJoNkl6ekN0dlAxZlM0QW5Ia0Jjc0VFd3hsQS1rOFZBQS1GaDRPMkl2RDFZbXc3cVV5OW9TUXA4U2piemFVbWpoUm9fSmRRRUhsUGN5bDhwNHF2dm1hdU1MNnRQOExqSC1RWGthN2ZmT1FhbmhCakU?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 04:36:48 GMT"
+      "title": "Sensex Surges 1,302 Points; Nifty Jumps Above 25,375 - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZm9kaWt5dHFxS203YTVuVjk1SHNiaFhKeHkwVGRJUk1nUDJxQ1FBdnhsZEN4NU1qLVcxVFg4SWd1Z2diWXZ4Q0dKekpFcnRMQkVCaDFWSm9HS1FXWHVqam1WNjVPSFk1WG9acFNzQU53aU9qMUZ5VHlPbTlLMlRkZGJPT1JqclZQZkxZVDROaDJILXh6djU5eXhFaVlqUjliZDlCUFk1T0FPMzkybkk3SFdYM1BLQ0I0R0ltR19fZkFEa1JmMHZFZG9XNGhCdw?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 04:39:53 GMT"
     }
   ]
 }
