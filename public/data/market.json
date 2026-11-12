@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty Rally Driven by Foreign Inflows, Lower Crude Oil Prices, and Sector Gains",
+  "headline": "Sensex choppy in volatile session while financials lead early gains and HAL drops post Q2 results",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,113 +7,178 @@
     "nextOpen": ""
   },
   "why": [
-    "Strong foreign fund inflows boosting investor sentiment across Indian markets.",
-    "Lower crude oil prices providing support to key market sectors.",
-    "Early trade momentum led by financial, banking, and auto stocks.",
-    "Positive sector rotation boosting overall market buying."
+    "Sensex and Nifty experienced volatile trading after early gains led by banking and financial stocks.",
+    "Foreign fund inflows and lower crude oil prices boosted early market sentiment.",
+    "M&M, Nestle, and PowerGrid emerged as the main drags on the benchmark indices.",
+    "Post-Q2 earnings reactions led to mixed movements in major single stocks like HAL."
   ],
   "whatHappening": [
-    "Sensex surged over 1,300 points while Nifty jumped above the 25,375 level.",
-    "CLSA hiked the target price for HAL, labeling it as the cheapest pure-play defence stock.",
-    "Indian equity benchmarks closed higher after registering gains of nearly 1% in preceding trade.",
-    "Foreign fund optimism continues to drive buying interest across key heavyweights."
+    "Reliance announced a $4.6 billion coal gasification project planned in Andhra Pradesh.",
+    "HAL reported a 16% rise in Q2 profit, but its share price fell 4% during the trading session.",
+    "IRCTC, Oil India, Ola Electric, and Vodafone Idea were in focus for their Q2 earnings announcements.",
+    "RBI is proposing a ban on private equity firms controlling multiple non-banking financial companies."
   ],
   "stocksInNews": [
     {
-      "symbol": "HAL",
+      "symbol": "RELIANCE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        1
+        3
+      ]
+    },
+    {
+      "symbol": "HAL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        0,
+        4
+      ]
+    },
+    {
+      "symbol": "IRCTC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "OIL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "OLAELEC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "IDEA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "NESTLEIND",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        7
       ]
     }
   ],
-  "summary": "Indian stock markets surged as Sensex jumped over 1,300 points and Nifty crossed 25,375.\nThe market rally was driven by foreign fund inflows, lower crude oil prices, and strong buying in banking and financial stocks.\nDefence major HAL gained focus after CLSA hiked its target price citing its sector-leading position.",
-  "updatedAt": "2026-11-12T08:02:04.335Z",
+  "summary": "Indian stock markets traded choppy and flat following early gains driven by bank stocks, foreign fund inflows, and lower crude prices. Reliance announced a major $4.6 billion gasification project in Andhra Pradesh. HAL shares fell 4% despite a 16% jump in Q2 net profit as multiple companies remained in focus for quarterly results.",
+  "updatedAt": "2026-11-12T09:04:01.066Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-12",
   "articleKeys": [
-    "rs 3 lakh income 19year age gap should parents prioritise income over daughters happiness x post sparks debate",
-    "hal cheapest pureplay defence stock despite sectorleading position says clsa hikes target price",
-    "forget hormuz this shipping route is now the worlds deadliest",
-    "pawan kalyan pitches andhra pradesh as trusted global hub lokesh unveils redcarpet framework at 31st vizag cii summit",
-    "karan johar says he started koffee with karan to cope with father yash johars death",
-    "over 16000 return in 5 years this condom maker rallies 10 hits record high is there more steam left",
-    "arvind kejriwal receives death threat in lawrence bishnoi gangs name rs 7 crore demanded",
-    "ramayana box office collection day 8 live ranbirs film off to a good start check earnings",
-    "elon musk says it would be an honor to hire nvidias jensen huang",
-    "chinese ai firms rush to secure nvidia chip capacity as spy scandal stirs fear of us curbs",
+    "stock market live sensex choppy in volatile session nifty below 25300 hal down 4 post q2 result",
+    "tata projectsled jv wins dhaka metro contract for 52km underground line",
+    "rbi to ban private equity firms from controlling multiple nonbank lenders",
+    "reliance plans 46 billion coal gasification project in andhra pradesh",
+    "q2 results live hal profit jumps 16 irctc oil india ola electric vodafone idea in focus",
+    "job boost for andhra pradesh kia to create 12000 opportunities cognizant lg and google bet big",
+    "nashik lift accident caught on camera elevator collapses at sunshine apartment in satpur",
+    "stock market today sensex nifty 50 trade flat financials lead mm nestle powergrid top drags",
+    "indian railways recruitment 2026 check vacancies important dates steps to apply",
+    "gold prices fall by rs 1300 to below rs 139000 silver rates slump by rs 2800",
     "sensex nifty rebound as banks lead early trade hdfc sky",
     "stock market outlook today 12 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "indian shares rise on foreign flow optimism financials autos lead reuters",
     "sensex nifty rally in early trade amid foreign fund inflows lower crude prices telegraph india",
-    "stock markets end higher sensex and nifty jump nearly 1 the hindu",
     "indian stock markets close higher with sensex and nifty gains india news network",
+    "stock markets end higher sensex and nifty jump nearly 1 the hindu",
     "stock markets climb in early trade led by foreign fund inflows lower crude oil prices deccan herald",
     "stock markets today sensex nifty gain on fii inflows lower crude prices rediff",
     "sensex nifty may open higher as rotation boosts sentiment hdfc sky",
-    "sensex surges 1302 points nifty jumps above 25375 hdfc sky"
+    "stock market holiday today nse bse shut when will trading resume ndtv"
   ],
   "articles": [
     {
-      "title": "Rs 3 Lakh Income, 19-Year Age Gap: Should Parents Prioritise Income Over Daughter's Happiness? X Post Sparks Debate",
+      "title": "Stock Market LIVE: Sensex choppy in volatile session; Nifty below 25,300; HAL down 4% post Q2 result",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/rs-3-lakh-income-19-year-age-gap-should-parents-prioritise-income-over-daughter-s-happiness-x-post-sparks-debate-12315902#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 12:51:25 +0530"
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 14:01:49 +0530"
     },
     {
-      "title": "HAL Cheapest Pure-Play Defence Stock Despite Sector-Leading Position, Says CLSA; Hikes Target Price",
+      "title": "Tata Projects-led JV wins Dhaka Metro contract for 5.2-km underground line",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/hal-cheapest-pure-play-defence-stock-despite-sector-leading-position-says-clsa-hikes-target-price-12316112#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 12:47:08 +0530"
+      "link": "https://www.business-standard.com/companies/news/tata-projects-led-jv-wins-dhaka-metro-contract-for-5-2-km-underground-line-126111200472_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 13:50:32 +0530"
     },
     {
-      "title": "Forget Hormuz, This Shipping Route Is Now The World's Deadliest",
+      "title": "RBI to ban private equity firms from controlling multiple non-bank lenders",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/forget-hormuz-this-shipping-route-is-now-the-worlds-deadliest-12316110#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 12:47:01 +0530"
+      "link": "https://www.business-standard.com/finance/news/rbi-to-ban-private-equity-firms-from-controlling-multiple-non-bank-lenders-126111200692_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 13:49:17 +0530"
     },
     {
-      "title": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
+      "title": "Reliance plans $4.6 billion coal gasification project in Andhra Pradesh",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece",
-      "publishedAt": "Thu, 12 Nov 2026 12:45:48 +0530"
+      "link": "https://www.business-standard.com/companies/news/reliance-plans-4-6-billion-coal-gasification-project-in-andhra-pradesh-126111200695_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 13:44:15 +0530"
     },
     {
-      "title": "Karan Johar Says He Started Koffee With Karan To Cope With Father Yash Johar's Death",
+      "title": "Q2 Results Live: HAL Profit Jumps 16%; IRCTC, Oil India, Ola Electric, Vodafone Idea In Focus",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/karan-johar-reveals-koffee-with-karan-began-as-a-distraction-after-father-yash-johar-s-death-12315830#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 12:38:02 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2-results-today-live-updates-hal-irctc-oil-india-ola-electric-vodafone-idea-among-companies-announcing-earnings-12315361#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 13:25:15 +0530"
     },
     {
-      "title": "Over 16,000% Return In 5 Years: This Condom Maker Rallies 10%, Hits Record High; Is There More Steam Left?",
+      "title": "Job Boost For Andhra Pradesh: Kia To Create 12,000 Opportunities; Cognizant, LG And Google Bet Big",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/cupid-share-price-today-over-16-000-percent-return-in-5-years-condom-maker-rallies-10-percent-record-high-more-steam-left-sensex-today-12316041#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 12:33:05 +0530"
+      "link": "https://www.ndtvprofit.com/economy/job-boost-for-andhra-pradesh-kia-to-create-12-000-opportunities-cognizant-lg-and-google-bet-big-12316236#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 13:22:24 +0530"
     },
     {
-      "title": "Arvind Kejriwal Receives Death Threat In Lawrence Bishnoi Gang's Name, Rs 7 Crore Demanded",
+      "title": "Nashik Lift Accident Caught On Camera: Elevator Collapses At Sunshine Apartment In Satpur",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/arvind-kejriwal-gets-death-threat-from-lawrence-bishnoi-gang-rs-7-crore-demanded-as-ransom-12315997#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 12:31:09 +0530"
+      "link": "https://www.ndtvprofit.com/india/nashik-lift-accident-caught-on-camera-elevator-collapses-at-sunshine-apartment-in-satpur-12316208#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 13:18:18 +0530"
     },
     {
-      "title": "Ramayana Box Office Collection Day 8 Live: Ranbir's Film Off To A Good Start, Check Earnings",
+      "title": "Stock Market Today: Sensex, Nifty 50 Trade Flat; Financials Lead, M&M, Nestle, PowerGrid Top Drags",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ramayana-box-office-collection-day-8-live-check-ranbir-sai-and-yash-films-earnings-12316026#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 12:29:09 +0530"
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-live-updates-sensex-today-nifty-50-gold-rate-today-silver-price-crude-oil-prices-rupee-us-iran-war-12315295#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 13:17:01 +0530"
     },
     {
-      "title": "Elon Musk says it would be an honor to hire Nvidia's Jensen Huang",
+      "title": "Indian Railways Recruitment 2026: Check Vacancies, Important Dates, Steps To Apply",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/elon-musk-says-it-would-be-an-honor-to-hire-nvidia-s-jensen-huang-126111200423_1.html",
-      "publishedAt": "Thu, 12 Nov 2026 12:22:31 +0530"
+      "link": "https://www.ndtvprofit.com/india/indian-railways-recruitment-2026-check-vacancies-important-dates-steps-to-apply-12315996#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 13:10:04 +0530"
     },
     {
-      "title": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of U.S. curbs",
+      "title": "Gold Prices Fall By Rs 1,300 To Below Rs 1,39,000; Silver Rates Slump By Rs 2,800",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/sci-tech/technology/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs/article71692635.ece",
-      "publishedAt": "Thu, 12 Nov 2026 12:21:06 +0530"
+      "link": "https://www.ndtvprofit.com/markets/gold-prices-fall-by-rs-1-300-to-below-rs-1-39-000-silver-rates-slump-by-rs-2-800-12315917#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 13:09:56 +0530"
     },
     {
       "title": "Sensex, Nifty Rebound as Banks Lead Early Trade - HDFC Sky",
@@ -140,16 +205,16 @@
       "publishedAt": "Thu, 12 Nov 2026 04:55:55 GMT"
     },
     {
-      "title": "Stock markets end higher; Sensex and Nifty jump nearly 1% - The Hindu",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakU4aG82THd3Z01GTHRJQVEweW9FUXJnM3NIZFVKN1dNRkxBU1g2VTBydnFBejcwVHl4Q1pubk13a056ZVFqUVBHalBWb1ljQ2xUT0steXZXdEhkUlFwWTJSdFR6Yy11a1BpeDhaXzVBSkt5UDJxd0ZpaDNtenNKVFFRa2wyWDItQlppcE5EUXZJeGM2dVZDMmxLVVdJV3JEMXBVNTdNSTJhcm9UNUNXdC1wV251QmpsNTRuWlEyNXI3VTFoMXhV0gHOAUFVX3lxTE1qVlQ5R3RrQl9qMHN3V1FYaG1lWktMUkdoMmFyLXZHUlYyWkhQVWt1eWg2RFF5R1BtaVNNUlRCMnU4bWFXdEYweWlleGRmRVpVQ1ZkbjhLLTdLZzNVSVJhZnJjWlFPVDVIUDRVcWNTTGFKTklpdlU2V3VTbzBndFkzYWJMTEQwU08yc2Njb0lacGpfYmhXSE5JSjF2VE5Sak9vRjV5eTNNRXBaLWVpS09pMmljNkdoQjNOY0VrR053SjlxaDA0V3JCZEViRU5n?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 11:11:59 GMT"
-    },
-    {
       "title": "Indian Stock Markets Close Higher with Sensex and Nifty Gains - India News Network",
       "source": "India News Network",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1V4RkVSVTZ2S3FfTmlfYTM4NTJ0NFFQc3djMC16MHVoMDE3RGVWVVREYTRnZTdDX3hpNDJZQVpZN01nRFdBWWxmbnFuQk1Ba0NIeEoyME1wdXhSRUdOcS16Zi1zTlZpbG1IOEFpdzhidVMxaGtXY3h3cHF0aW5WOEtNT2ZKZ2pHNjM0X2dsWm5TMjVHdTlnNm9pREl6dw?oc=5",
       "publishedAt": "Thu, 12 Nov 2026 05:54:42 GMT"
+    },
+    {
+      "title": "Stock markets end higher; Sensex and Nifty jump nearly 1% - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakU4aG82THd3Z01GTHRJQVEweW9FUXJnM3NIZFVKN1dNRkxBU1g2VTBydnFBejcwVHl4Q1pubk13a056ZVFqUVBHalBWb1ljQ2xUT0steXZXdEhkUlFwWTJSdFR6Yy11a1BpeDhaXzVBSkt5UDJxd0ZpaDNtenNKVFFRa2wyWDItQlppcE5EUXZJeGM2dVZDMmxLVVdJV3JEMXBVNTdNSTJhcm9UNUNXdC1wV251QmpsNTRuWlEyNXI3VTFoMXhV0gHOAUFVX3lxTE1qVlQ5R3RrQl9qMHN3V1FYaG1lWktMUkdoMmFyLXZHUlYyWkhQVWt1eWg2RFF5R1BtaVNNUlRCMnU4bWFXdEYweWlleGRmRVpVQ1ZkbjhLLTdLZzNVSVJhZnJjWlFPVDVIUDRVcWNTTGFKTklpdlU2V3VTbzBndFkzYWJMTEQwU08yc2Njb0lacGpfYmhXSE5JSjF2VE5Sak9vRjV5eTNNRXBaLWVpS09pMmljNkdoQjNOY0VrR053SjlxaDA0V3JCZEViRU5n?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 11:11:59 GMT"
     },
     {
       "title": "Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices - Deccan Herald",
@@ -170,10 +235,10 @@
       "publishedAt": "Thu, 12 Nov 2026 04:02:46 GMT"
     },
     {
-      "title": "Sensex Surges 1,302 Points; Nifty Jumps Above 25,375 - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZm9kaWt5dHFxS203YTVuVjk1SHNiaFhKeHkwVGRJUk1nUDJxQ1FBdnhsZEN4NU1qLVcxVFg4SWd1Z2diWXZ4Q0dKekpFcnRMQkVCaDFWSm9HS1FXWHVqam1WNjVPSFk1WG9acFNzQU53aU9qMUZ5VHlPbTlLMlRkZGJPT1JqclZQZkxZVDROaDJILXh6djU5eXhFaVlqUjliZDlCUFk1T0FPMzkybkk3SFdYM1BLQ0I0R0ltR19fZkFEa1JmMHZFZG9XNGhCdw?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 04:39:53 GMT"
+      "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjgxUE5jbWc4X3pleGN0VXRSbGM2REFCQ19GbVVDZ18xS0NSU2JtNFVqZVFGRWZIN1Y3SDVNQW1iVUE3Y0d5QUlpUmNFb3NMYlNScFpsWk1RWm9fVWlHelhLS04zQjZMVlFQcmhRYU1LSUcxVGw3WVVoRFFwQUFhWWd1LUphUkE4RTFPMXBhbmJSeDhPelFQY1RyLW9fa0VRWmhrVVp5QncwLVZFNXVhMVlmR0xsbzB3VGpvVW5tQ0sydE93NzdzRWowSmFWNWV4QmhXN3VB0gHeAUFVX3lxTFBkWmJ3QWxnNjQ2VHgyMDdLOVhfX2RRdEZTTy1ROTZfY3NhY3hsU05OM1phakkxdzNyQWdhTXkzNnQ2b3hYVjF3eGRwYkE5S2txeEtaRFdQRFFZMUM5UG11N1hoTlc3TFZna0x6NVJXR0w2WDltLXNlajJwUVg5OVZTaFY2UXNYVHVQaXFNQVdhX0lLTTktVy1vdmZlVkMxcnlxVG52T2J4SURzTGxVMWxlUnFscFV4cnd0Ykpfb0RqOHBJRS1lZXRrS0FqWVk0MkxpZlE5ZGxzczU3UHJBUQ?oc=5",
+      "publishedAt": "Tue, 10 Nov 2026 01:14:31 GMT"
     }
   ]
 }
