@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex ends above 81,900 while Nifty holds 25,200 amid FII inflows and lower crude oil prices",
+  "headline": "Sensex ends above 81,900 amid FII inflows; October retail inflation breaches RBI's 6% upper limit",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,28 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign fund inflows supported market sentiment across sessions.",
-    "Lower crude oil prices helped boost buyer confidence in early trade.",
-    "Realty sector rallied 4%, leading broader market gains.",
-    "Banking stocks led early trade rebound across benchmark indices."
+    "Foreign Institutional Investor (FII) inflows provided significant support to the Indian markets",
+    "Lower crude oil prices helped boost investor sentiment during the trading session",
+    "Banking stocks led a rebound in early trade, helping the indices recover",
+    "Retail inflation in October surged to 6.09%, breaching the RBI's upper tolerance band for the first time in two years"
   ],
   "whatHappening": [
-    "Sensex extended gains for the third consecutive day, closing above 81,900.",
-    "Nifty 50 closed in the 25,229–25,299 range in a volatile trading session.",
-    "Nifty Smallcap 100 outperformed for the second straight trading session.",
-    "Retail price hikes across milk, ghee, and soap highlighted lingering inflation concerns."
+    "The Sensex closed above the 81,900 mark, extending its winning streak to a third consecutive day",
+    "The Indian Rupee fell 33 paise to hit a record low of 94.04 against the U.S. dollar",
+    "Nifty 50 ended the session near 25,229, while the Nifty Smallcap 100 outperformed the broader market",
+    "Ola Electric reported a narrowed Q2 loss of Rs 362 crore, though revenue saw a decline"
   ],
   "stocksInNews": [
     {
-      "symbol": "PAGEIND",
+      "symbol": "OLAELEC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "OIL",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
@@ -28,45 +36,29 @@
       ]
     },
     {
-      "symbol": "ALKEM",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "ROTOPUMPS",
+      "symbol": "ROTO",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         13
       ]
-    },
-    {
-      "symbol": "GABRIEL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        19
-      ]
     }
   ],
-  "summary": "Indian benchmark indices closed higher as Sensex ended above 81,900 and Nifty held above 25,200. Gains were driven by sustained foreign institutional fund inflows, lower crude oil prices, and strength in realty and small-cap stocks. In stock-specific action, Gabriel India surged 20% while Page Industries hit a lower circuit following weak quarterly results.",
-  "updatedAt": "2026-11-12T11:31:22.746Z",
+  "summary": "Indian benchmarks extended gains for a third session with the Sensex closing above 81,900, supported by foreign fund inflows and lower oil prices. However, economic data showed retail inflation hitting a two-year high of 6.09%, while the Rupee weakened to 94.04 against the dollar. Corporate earnings remained in focus as Ola Electric narrowed its losses and Oil India reported a 36% drop in profit.",
+  "updatedAt": "2026-11-12T12:01:49.130Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-12",
   "articleKeys": [
-    "stock market close sensex ends volatile session marginally higher nifty at 25299 realty up 4",
-    "who is kang wei alice huangs husband introduced her to nvidia ceo and joked about it",
-    "milk ghee soap cigarettes indias price hike list keeps growing as inflation bites",
-    "manchester united sack michael carrick mauricio pochettino expected to take over",
-    "nvidia stock rout futures tank over 7 on reports of huangs second affair ceos possible ouster",
-    "page industries hits 10 lower circuit as q2 results disappoint heres why investors are selling",
-    "pat cummins tense exchange with wife goes viral as usman khawaja reopens sandpapergate controversy",
-    "sebi seeks explanation from borderless over unauthorised us stock trades on oct 15 exclusive",
-    "alkem laboratories q2 results net profit falls 12 to rs 675 crore appoints gopal kothari as cfo",
-    "i felt personally responsible karan johar recalls hardik pandya and kl rahul controversy on koffee with karan",
+    "rupee falls 33 paise to close at 9404 against us dollar",
+    "markets extend gains for 3rd day sensex ends above 81900 on fii inflows lower crude oil",
+    "why are us stock futures down three reasons and nvidia is only the first",
+    "email warns of blasts at mumbai airport amitabh bachchans residence",
+    "retail inflation at 609 in october breaches rbis upper band after 2 yrs",
+    "q2 results live ola electric narrows loss rs 362 crore revenue falls oil india profit falls 36 declares dividend",
+    "rupee slips with traders clinging to equity cues awaiting inflation data",
+    "retail inflation crosses rbi red line october cpi hits 609 highest under new series",
+    "kiara advani reveals karan johar danced to deepika padukones besharam rang at her wedding",
+    "hardik made a mistake by leaving gt mohammed kaifs advice to pandya after mipbks trade",
     "sensex nifty rebound as banks lead early trade hdfc sky",
     "stock market outlook today 12 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "market wrap nov 12 nifty50 ends at 25229 sensex flat nifty smallcap 100 outperforms for second straight session upstox",
@@ -75,69 +67,69 @@
     "indian stock markets close higher with sensex and nifty gains india news network",
     "stock markets climb in early trade led by foreign fund inflows lower crude oil prices deccan herald",
     "sensex ends above 81900 on fii inflows lower crude oil rediff",
-    "markets extend gains for 3rd day sensex ends above 81900 on fii inflows lower crude oil bfsieconomictimesindiatimescom",
-    "gabriel india hits 20 upper circuit on huge volume up 112 from march low business standard"
+    "stock markets end higher sensex and nifty jump nearly 1 the hindu",
+    "markets extend gains for 3rd day sensex ends above 81900 on fii inflows lower crude oil bfsieconomictimesindiatimescom"
   ],
   "articles": [
     {
-      "title": "Stock Market Close: Sensex ends volatile session marginally higher, Nifty at 25,299; realty up 4%",
+      "title": "Rupee falls 33 paise to close at 94.04 against U.S. dollar",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-12-gift-nifty-nse-bse-sensex-today-nifty50-crude-oil-prices-q2-results-today-126111200066_1.html",
-      "publishedAt": "Thu, 12 Nov 2026 15:35:21 +0530"
+      "link": "https://www.thehindu.com/business/markets/rupee-falls-33-paise-to-close-at-9404-against-us-dollar/article71693331.ece",
+      "publishedAt": "Thu, 12 Nov 2026 16:54:55 +0530"
     },
     {
-      "title": "Who Is Kang Wei? Alice Huang's Husband 'Introduced Her' To Nvidia CEO, And Joked About It",
+      "title": "Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows, lower crude oil",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/who-is-kang-wei-alice-huangs-husband-introduced-her-to-nvidia-ceo-and-joked-about-it-12316767#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 15:33:44 +0530"
+      "link": "https://www.thehindu.com/business/markets-extend-gains-for-3rd-day-sensex-ends-above-81900-on-fii-inflows-lower-crude-oil/article71693356.ece",
+      "publishedAt": "Thu, 12 Nov 2026 16:51:46 +0530"
     },
     {
-      "title": "Milk, Ghee, Soap, Cigarettes: India's Price Hike List Keeps Growing As Inflation Bites",
+      "title": "Why Are US Stock Futures Down? Three Reasons, And Nvidia Is Only The First",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/milk-ghee-soap-cigarettes-indias-price-hike-list-keeps-growing-as-inflation-bites-12316852#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 15:32:24 +0530"
+      "link": "https://www.ndtvprofit.com/markets/why-are-us-stock-futures-down-three-reasons-and-nvidia-is-only-the-first-12317027#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 16:19:34 +0530"
     },
     {
-      "title": "Manchester United Sack Michael Carrick; Mauricio Pochettino Expected To Take Over",
+      "title": "Email warns of blasts at Mumbai airport, Amitabh Bachchan's residence",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/manchester-united-sack-michael-carrick-mauricio-pochettino-expected-to-take-over-12316800#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 15:24:36 +0530"
+      "link": "https://www.business-standard.com/india-news/email-warns-of-blasts-at-mumbai-airport-amitabh-bachchan-s-residence-126111201011_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 16:18:24 +0530"
     },
     {
-      "title": "Nvidia Stock Rout: Futures Tank Over 7% On Reports Of Huang's Second Affair, CEO's Possible Ouster",
+      "title": "Retail inflation at 6.09% in October, breaches RBI's upper band after 2 yrs",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nvidia-share-price-today-stock-heads-for-third-day-of-decline-on-another-affair-report-huangs-possible-ouster-12316761#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 15:18:53 +0530"
+      "link": "https://www.business-standard.com/economy/news/retail-inflation-at-6-09-in-october-breaches-rbi-s-upper-band-after-2-yrs-126111201088_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 16:12:46 +0530"
     },
     {
-      "title": "Page Industries Hits 10% Lower Circuit As Q2 Results Disappoint. Here's Why Investors Are Selling",
+      "title": "Q2 Results Live: Ola Electric Narrows Loss Rs 362 Crore, Revenue Falls; Oil India Profit Falls 36%, Declares Dividend",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/page-industries-hits-10-lower-circuit-as-q2-results-disappoint-heres-why-investors-are-selling-12316642#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 15:13:07 +0530"
+      "link": "https://www.ndtvprofit.com/markets/q2-results-today-live-updates-hal-irctc-oil-india-ola-electric-vodafone-idea-among-companies-announcing-earnings-12315361#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 16:10:16 +0530"
     },
     {
-      "title": "Pat Cummins' Tense Exchange With Wife Goes Viral As Usman Khawaja Reopens Sandpapergate Controversy",
+      "title": "Rupee slips with traders clinging to equity cues, awaiting inflation data",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/pat-cummins-tense-exchange-with-wife-goes-viral-as-usman-khawaja-reopens-sandpapergate-controversy-12316714#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 15:08:31 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-with-traders-clinging-to-equity-cues-awaiting-inflation-data/articleshow/135765691.cms",
+      "publishedAt": "Thu, 12 Nov 2026 16:08:06 +0530"
     },
     {
-      "title": "SEBI Seeks Explanation From Borderless Over Unauthorised US Stock Trades On Oct 15 | Exclusive",
+      "title": "Retail Inflation Crosses RBI Red Line: October CPI Hits 6.09%, Highest Under New Series",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/sebi-seeks-explanation-from-borderless-over-unauthorised-us-stock-trades-on-oct-15-exclusive-12316701#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 15:02:37 +0530"
+      "link": "https://www.ndtvprofit.com/economy/retail-inflation-crosses-rbi-red-line-october-cpi-hits-6-09-highest-under-new-series-12317019#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 16:06:42 +0530"
     },
     {
-      "title": "Alkem Laboratories Q2 Results: Net Profit Falls 12% To Rs 675 Crore; Appoints Gopal Kothari As CFO",
+      "title": "Kiara Advani Reveals Karan Johar Danced To Deepika Padukone's 'Besharam Rang' At Her Wedding",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/alkem-laboratories-q2-results-net-profit-falls-12-percent-to-rs-675-crore-ropes-in-gopal-kothari-as-cfo-12316436#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 15:02:05 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/karan-johar-danced-to-besharam-rang-at-kiara-advani-sidharth-malhotra-s-wedding-kicked-shahid-kapoor-off-stage-12316845#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 16:03:29 +0530"
     },
     {
-      "title": "'I Felt Personally Responsible': Karan Johar Recalls Hardik Pandya And KL Rahul Controversy On Koffee With Karan",
+      "title": "'Hardik Made A Mistake By Leaving GT': Mohammed Kaif's Advice To Pandya After MI-PBKS Trade",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/i-felt-personally-responsible-karan-johar-recalls-hardik-pandya-and-kl-rahul-controversy-on-koffee-with-karan-12316693#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 15:00:29 +0530"
+      "link": "https://www.ndtvprofit.com/sports/hardik-made-a-mistake-by-leaving-gt-mohammed-kaifs-advice-to-pandya-after-mi-pbks-trade-12317005#publisher=newsstand",
+      "publishedAt": "Thu, 12 Nov 2026 16:02:59 +0530"
     },
     {
       "title": "Sensex, Nifty Rebound as Banks Lead Early Trade - HDFC Sky",
@@ -188,16 +180,16 @@
       "publishedAt": "Thu, 12 Nov 2026 11:13:59 GMT"
     },
     {
+      "title": "Stock markets end higher; Sensex and Nifty jump nearly 1% - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakU4aG82THd3Z01GTHRJQVEweW9FUXJnM3NIZFVKN1dNRkxBU1g2VTBydnFBejcwVHl4Q1pubk13a056ZVFqUVBHalBWb1ljQ2xUT0steXZXdEhkUlFwWTJSdFR6Yy11a1BpeDhaXzVBSkt5UDJxd0ZpaDNtenNKVFFRa2wyWDItQlppcE5EUXZJeGM2dVZDMmxLVVdJV3JEMXBVNTdNSTJhcm9UNUNXdC1wV251QmpsNTRuWlEyNXI3VTFoMXhV0gHOAUFVX3lxTE1qVlQ5R3RrQl9qMHN3V1FYaG1lWktMUkdoMmFyLXZHUlYyWkhQVWt1eWg2RFF5R1BtaVNNUlRCMnU4bWFXdEYweWlleGRmRVpVQ1ZkbjhLLTdLZzNVSVJhZnJjWlFPVDVIUDRVcWNTTGFKTklpdlU2V3VTbzBndFkzYWJMTEQwU08yc2Njb0lacGpfYmhXSE5JSjF2VE5Sak9vRjV5eTNNRXBaLWVpS09pMmljNkdoQjNOY0VrR053SjlxaDA0V3JCZEViRU5n?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 11:11:59 GMT"
+    },
+    {
       "title": "Markets extend gains for 3rd day; Sensex ends above 81,900 on FII inflows, lower crude oil - bfsi.economictimes.indiatimes.com",
       "source": "bfsi.economictimes.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMGFpT1IzWFJQMmliVVdlN1piYUFBRU1GbGNmaElRLWJUbjM1N0tFbk5LWFVzdDhvbDV6LWg1LXJGU1FPX1o3ckxaV29JQ1hmOHgwSU43VHRmSk12Yl9fZ2RSZ3lkMjMwc2ZfTEczSUVTN1diZklwZlBlMDVEMTFKMTh2blY1UWpRajhqX1ROOGNmRThhX051MDktMUM1WUdwMHFOb0E4aUZrWWJId1lQVUpza1dQVEt4c0tuRmdvUGk2VjkwMVhHWVBseVBjN1dFQWNnenFseWdZSzVkNjJLZ1Fn?oc=5",
       "publishedAt": "Thu, 12 Nov 2026 10:53:09 GMT"
-    },
-    {
-      "title": "Gabriel India hits 20% upper circuit on huge volume; up 112% from March low - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbG9UV3k0b1JrRmNNSFVjR21vRTFhOG1VSUwyNGRXdy1pamJiUkp3bXV5SUd5aGJVQVBuQWRtQWVTYjNvYnl6TEZWNmxINnBpZm1rNkNhWmtoTUpCNnVtdjlEd0V4cGNPR1hSWEc0LWVQcDhDbUdTSUdaNFYtdUZkYVUzckV4b2p0Q2Qzb3ZKX1l3ZTFDTThKR294azZTZXptcG1xNWpSWWFDeTFDNlEzWkxwRm9XNGtFTTFVV0tibkxYNV9Zc2U2NHJiMUJEMmlUSmpRZjBB0gHbAUFVX3lxTFBLeFlOdWlXaHJ5OG1CYlQ1UnljYktVRkQ2eVZNWW5ERjVFd2NYakZmNGpZbm5ZWGQzS3l5YmtuWTdXb2F1SmhUZGlJbm52TU4xeGNsNzZNR2FhRjhkdzdoQS10YnFheXN2anBLMGhseE9QTy1Md3dlc3drNUd5VGUwel9ZSEx5N25TanBTYW10RzYzNGQ5b2FlM2JqWUM5M2h4S2RDbDJqLVFzZ2tZeFhVdUNfeXA0YzBRVWxnYm1QOEdFNk5TbTBjUFFPVUJUMlNVX0pHbGllVlJ5NA?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 10:10:09 GMT"
     }
   ]
 }
