@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex ends flat above 81,900 while Nifty holds 25,200 level; Smallcaps outperform",
+  "headline": "Sensex and Nifty end flat as record inflation offsets strong earnings from Oil India and Page Industries",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,58 +7,66 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign institutional investor (FII) inflows provided support to market sentiment.",
-    "Lower crude oil prices helped lift market trading in early sessions.",
-    "Banking stocks led an early trade rebound across benchmark indices.",
-    "Retail inflation crossed the RBI upper limit to reach 6.1% in October 2026."
+    "Oil India's net profit more than doubled due to better realisations and higher production output",
+    "Retail inflation breached the RBI's upper limit of 6% for the first time in two years, reaching 6.1%",
+    "Foreign Institutional Investor (FII) inflows and lower crude oil prices provided support to the indices",
+    "Vodafone Idea reported a widening Q2 loss of ₹5,975 crore, weighing on the telecom sector"
   ],
   "whatHappening": [
-    "Sensex closed above 81,900 while NIFTY50 ended around the 25,229 level.",
-    "Oil India reported a 53% surge in Q2 net profit to ₹2,521 crore on higher realization.",
-    "Ola Electric narrowed its Q2 net loss to ₹362 crore despite a 39% revenue decline.",
-    "Roto Pumps surged 14% while Nifty Smallcap 100 outperformed for a second consecutive session."
+    "The NIFTY50 closed at 25,229 while the SENSEX ended the session flat above the 81,900 mark",
+    "The NIFTY Smallcap 100 index outperformed the broader market for the second consecutive session",
+    "The Indian government received 22 bids for its 10 GWh giga-scale ACC battery manufacturing capacity program",
+    "Banking stocks led an early trade rebound before the market settled into a flat closing"
   ],
   "stocksInNews": [
     {
       "symbol": "OIL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "IDEA",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "PAGEIND",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         6
       ]
     },
     {
-      "symbol": "OLAELEC",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "ROTOPUMP",
+      "symbol": "ROTO",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         12
       ]
     }
   ],
-  "summary": "Indian equity markets closed flat to higher on November 12, with Sensex remaining above 81,900 and Nifty holding 25,200. Gains were driven by strong FII inflows, lower crude oil prices, and buying in banking and smallcap stocks. Meanwhile, macro concerns emerged as domestic retail inflation surged to 6.1% in October, exceeding the RBI's upper tolerance threshold.",
-  "updatedAt": "2026-11-12T14:32:05.373Z",
+  "summary": "The Indian market ended flat on November 12, with the Nifty 50 closing at 25,229 amid mixed corporate earnings and macroeconomic data. While Oil India and Page Industries reported profit growth, retail inflation hitting a two-year high of 6.1% dampened investor sentiment. Small-cap stocks continued to show strength, outperforming the benchmarks for a second straight day.",
+  "updatedAt": "2026-11-12T15:02:01.674Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-12",
   "articleKeys": [
+    "oil india net profit more the doubles on better realisations higher output",
+    "vodafone idea q2 loss widens to 5975 crore despite higher arpu revenue",
+    "nvidia ceo jensen huang resigns cfo kress to take over as interim chief",
+    "centre receives 22 bids for 10 gwh gigascale acc battery manufacturing capacity",
+    "spinnys festive usedcar deliveries jump 39 to 9377 units as suvs gain",
     "retail inflation crosses rbis upper limit for first time in two years comes in at 61 in october 2026",
+    "page industries q2 net profit rises 4 as sales volume grows 55",
+    "rapidos ownly aims to strengthen presence in five markets by 2026end",
     "nebius beats quarterly revenue estimates on strong ai demand",
     "nasdaq sampp 500 futures fall as nvidia turbulence unsettles ai stocks",
-    "clean max enviro energy pledges rs 50000 crore investment in andhra pradesh",
-    "pichai tops global indian leaders list as alphabet hits 42 trillion",
-    "as ramayana eyes rs 1000 crore ravi dubey shares behindthescenes moments with ranbir kapoor sai pallavi",
-    "oil india q2 net profit rises 53 to 2521 crore on higher realisation",
-    "ola electric q2 results net loss narrows to rs 362 crore but 39 revenue plunge spells concern",
-    "why rbi wants to cap select overseas remittances at 50 lakh to save rupees explained",
-    "ranbir kapoors double role in ramayana viral video shows his transformation into parashuram",
     "market wrap nov 12 nifty50 ends at 25229 sensex flat nifty smallcap 100 outperforms for second straight session upstox",
     "stock market outlook today 12 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "todays market sensex today ends flat nifty above 25250 roto pumps up 14 indian stock market news equitymaster",
@@ -66,16 +74,58 @@
     "sensex nifty rally in early trade amid foreign fund inflows lower crude prices telegraph india",
     "sensex ends above 81900 on fii inflows lower crude oil rediff",
     "indian stock markets close higher with sensex and nifty gains india news network",
-    "stock markets climb in early trade led by foreign fund inflows lower crude oil prices deccan herald",
     "stock markets end higher sensex and nifty jump nearly 1 the hindu",
-    "markets extend gains for 3rd day sensex ends above 81900 on fii inflows lower crude oil bfsieconomictimesindiatimescom"
+    "markets extend gains for 3rd day sensex ends above 81900 on fii inflows lower crude oil bfsieconomictimesindiatimescom",
+    "sensex surges 1302 points nifty jumps above 25375 hdfc sky"
   ],
   "articles": [
+    {
+      "title": "Oil India net profit more the doubles on better realisations, higher output",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/oil-india-net-profit-more-the-doubles-on-better-realisations-higher-output/article71694370.ece",
+      "publishedAt": "Thu, 12 Nov 2026 20:04:20 +0530"
+    },
+    {
+      "title": "Vodafone Idea Q2 loss widens to ₹5,975 crore despite higher ARPU, revenue",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/vodafone-idea-q2-loss-widens-to-5-975-crore-despite-higher-arpu-revenue-126111201639_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 19:52:46 +0530"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns; CFO Kress to take over as interim chief",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/world-news/nvidia-s-jensen-huang-resigns-as-president-ceo-with-immediate-effect-126111201571_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 19:46:20 +0530"
+    },
+    {
+      "title": "Centre receives 22 bids for 10 GWh giga-scale ACC battery manufacturing capacity",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/centre-receives-22-bids-for-10-gwh-giga-scale-acc-battery-manufacturing-capacity/article71694200.ece",
+      "publishedAt": "Thu, 12 Nov 2026 19:45:56 +0530"
+    },
+    {
+      "title": "Spinny's festive used-car deliveries jump 39% to 9,377 units as SUVs gain",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/spinny-s-festive-used-car-deliveries-jump-39-to-9-377-units-as-suvs-gain-126111201567_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 19:24:11 +0530"
+    },
     {
       "title": "Retail inflation crosses RBI’s upper limit for first time in two years, comes in at 6.1% in October 2026",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Economy/retail-inflation-crosses-rbis-upper-limit-for-first-time-in-two-years-comes-in-at-61-in-october-2026/article71693503.ece",
       "publishedAt": "Thu, 12 Nov 2026 18:53:32 +0530"
+    },
+    {
+      "title": "Page Industries Q2 net profit rises 4% as sales volume grows 5.5%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/page-industries-q2-net-profit-rises-4-as-sales-volume-grows-5-5-126111201452_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 18:49:08 +0530"
+    },
+    {
+      "title": "Rapido's Ownly aims to strengthen presence in five markets by 2026-end",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/rapido-s-ownly-aims-to-strengthen-presence-in-five-markets-by-2026-end-126111201484_1.html",
+      "publishedAt": "Thu, 12 Nov 2026 18:48:02 +0530"
     },
     {
       "title": "Nebius beats quarterly revenue estimates on strong AI demand",
@@ -88,48 +138,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-futures-fall-as-nvidia-turbulence-unsettles-ai-stocks/articleshow/135771074.cms",
       "publishedAt": "Thu, 12 Nov 2026 18:44:54 +0530"
-    },
-    {
-      "title": "Clean Max Enviro Energy pledges Rs 50,000 crore investment in Andhra Pradesh",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/companies/clean-max-enviro-energy-pledges-rs-50000-crore-investment-in-andhra-pradesh/articleshow/135771043.cms",
-      "publishedAt": "Thu, 12 Nov 2026 18:41:57 +0530"
-    },
-    {
-      "title": "Pichai tops global Indian leaders’ list as Alphabet hits $4.2 trillion",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/pichai-tops-global-indian-leaders-list-as-alphabet-hits-42-trillion/article71693782.ece",
-      "publishedAt": "Thu, 12 Nov 2026 18:40:26 +0530"
-    },
-    {
-      "title": "As Ramayana Eyes Rs 1,000 Crore, Ravi Dubey Shares Behind-The-Scenes Moments With Ranbir Kapoor, Sai Pallavi",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ramayana-ravi-dubey-shares-behind-the-scenes-images-with-ranbir-kapoor-and-sai-pallavi-from-epic-shoot-12317702#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 18:23:55 +0530"
-    },
-    {
-      "title": "Oil India Q2 net profit rises 53% to ₹2,521 crore on higher realisation",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/oil-india-q2-net-profit-rises-53-to-2-521-crore-on-higher-realisation-126111201419_1.html",
-      "publishedAt": "Thu, 12 Nov 2026 18:20:48 +0530"
-    },
-    {
-      "title": "Ola Electric Q2 Results: Net Loss Narrows To Rs 362 Crore, But 39% Revenue Plunge Spells Concern",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/ola-electric-q2-results-net-loss-narrows-to-rs-362-crore-revenue-down-39-12317096#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 18:16:26 +0530"
-    },
-    {
-      "title": "Why RBI wants to cap select overseas remittances at ₹50 Lakh to save rupees | Explained",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/why-rbi-wants-to-cap-select-overseas-remittances-at-50-lakh-to-save-rupees-explained/article71693547.ece",
-      "publishedAt": "Thu, 12 Nov 2026 18:11:09 +0530"
-    },
-    {
-      "title": "Ranbir Kapoor's Double Role In Ramayana: Viral Video Shows His Transformation Into Parashuram",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ranbir-kapoor-s-double-role-in-ramayana-viral-video-shows-his-transformation-into-parashuram-12317728#publisher=newsstand",
-      "publishedAt": "Thu, 12 Nov 2026 18:08:23 +0530"
     },
     {
       "title": "Market wrap, Nov 12: NIFTY50 ends at 25,229, SENSEX flat; NIFTY Smallcap 100 outperforms for second straight session - Upstox",
@@ -174,12 +182,6 @@
       "publishedAt": "Thu, 12 Nov 2026 05:54:42 GMT"
     },
     {
-      "title": "Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices - Deccan Herald",
-      "source": "Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSl9uRUJWV3YtWXlVUkluSng0R0N1SlB4aWZ4aXVqUGU0SHR6d3N0WFdlMnRxRHVvSHZYRTVCSmtMODRjMDBfMWl5NENrTm5QMjBTV244dzNET1FVM1UzSFhxdUFuNDBzUE53dnhReURVal9QbXd4RzloSjRJUE5EcWw5UEp3bG5qcll6OWp5UHBlc3E4bFlSZWpkbjVsaWR5UmViWnlvWl9keWgxY09EUkM5aE45UDA3bXVvNWk1RWtDcHlxYmN1anFobENZTnY0d0FSUllB?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 04:42:31 GMT"
-    },
-    {
       "title": "Stock markets end higher; Sensex and Nifty jump nearly 1% - The Hindu",
       "source": "The Hindu",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakU4aG82THd3Z01GTHRJQVEweW9FUXJnM3NIZFVKN1dNRkxBU1g2VTBydnFBejcwVHl4Q1pubk13a056ZVFqUVBHalBWb1ljQ2xUT0steXZXdEhkUlFwWTJSdFR6Yy11a1BpeDhaXzVBSkt5UDJxd0ZpaDNtenNKVFFRa2wyWDItQlppcE5EUXZJeGM2dVZDMmxLVVdJV3JEMXBVNTdNSTJhcm9UNUNXdC1wV251QmpsNTRuWlEyNXI3VTFoMXhV0gHOAUFVX3lxTE1qVlQ5R3RrQl9qMHN3V1FYaG1lWktMUkdoMmFyLXZHUlYyWkhQVWt1eWg2RFF5R1BtaVNNUlRCMnU4bWFXdEYweWlleGRmRVpVQ1ZkbjhLLTdLZzNVSVJhZnJjWlFPVDVIUDRVcWNTTGFKTklpdlU2V3VTbzBndFkzYWJMTEQwU08yc2Njb0lacGpfYmhXSE5JSjF2VE5Sak9vRjV5eTNNRXBaLWVpS09pMmljNkdoQjNOY0VrR053SjlxaDA0V3JCZEViRU5n?oc=5",
@@ -190,6 +192,12 @@
       "source": "bfsi.economictimes.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMGFpT1IzWFJQMmliVVdlN1piYUFBRU1GbGNmaElRLWJUbjM1N0tFbk5LWFVzdDhvbDV6LWg1LXJGU1FPX1o3ckxaV29JQ1hmOHgwSU43VHRmSk12Yl9fZ2RSZ3lkMjMwc2ZfTEczSUVTN1diZklwZlBlMDVEMTFKMTh2blY1UWpRajhqX1ROOGNmRThhX051MDktMUM1WUdwMHFOb0E4aUZrWWJId1lQVUpza1dQVEt4c0tuRmdvUGk2VjkwMVhHWVBseVBjN1dFQWNnenFseWdZSzVkNjJLZ1Fn?oc=5",
       "publishedAt": "Thu, 12 Nov 2026 10:53:09 GMT"
+    },
+    {
+      "title": "Sensex Surges 1,302 Points; Nifty Jumps Above 25,375 - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZm9kaWt5dHFxS203YTVuVjk1SHNiaFhKeHkwVGRJUk1nUDJxQ1FBdnhsZEN4NU1qLVcxVFg4SWd1Z2diWXZ4Q0dKekpFcnRMQkVCaDFWSm9HS1FXWHVqam1WNjVPSFk1WG9acFNzQU53aU9qMUZ5VHlPbTlLMlRkZGJPT1JqclZQZkxZVDROaDJILXh6djU5eXhFaVlqUjliZDlCUFk1T0FPMzkybkk3SFdYM1BLQ0I0R0ltR19fZkFEa1JmMHZFZG9XNGhCdw?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 04:39:53 GMT"
     }
   ]
 }
