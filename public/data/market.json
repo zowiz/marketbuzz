@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Drops 318 Points as Inflation Concerns and Hawkish Fed Commentary Snap Three-Day Rally",
+  "headline": "Sensex drops 318 points, Nifty slips below 25,150 as markets snap 3-day rally",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,20 @@
     "nextOpen": ""
   },
   "why": [
-    "Inflation concerns weighed on broad market sentiment during trading.",
-    "Hawkish comments from the US Federal Reserve and rising crude oil prices pressured the Indian rupee.",
-    "Profit-taking in financial and auto stocks caused benchmark indices to snap their three-day winning streak.",
-    "Concerns over a 12-month high trade deficit dragged investor enthusiasm despite strong export data."
+    "Stock markets snapped a three-day rally driven by inflation concerns weighing on investor sentiment.",
+    "Declines in top market losers such as HDFC Bank, Titan Company, Shriram Finance, and Manappuram Finance.",
+    "Tata Motors PV posted a large Q2 net loss of ₹5,531 crore due to JLR restructuring costs.",
+    "The Indian Rupee weakened by 8 paise to close at 94.20 against the U.S. dollar."
   ],
   "whatHappening": [
-    "Sensex ended 318 points lower while Nifty 50 slipped below the 25,150 mark.",
-    "Paytm stock surged to record highs following preliminary RBI approval for a wallet licence.",
-    "Grasim Industries reported Q2FY27 net profit jumping to ₹2,306 crore, but faced market selling pressure.",
-    "Natco Pharma posted a 60.8% drop in Q2 net profit to ₹202.6 crore."
+    "Sensex ended 318 points lower while Nifty closed below the 25,150 level.",
+    "Paytm shares hit a record high after receiving preliminary RBI approval for a wallet licence.",
+    "Eicher Motors reported a 15% increase in Q2FY27 net profit to ₹1,573 crore.",
+    "Grasim Industries saw its Q2FY27 net profit jump to ₹2,306 crore, while Natco Pharma's net profit dropped 60.8%."
   ],
   "stocksInNews": [
     {
-      "symbol": "PAYTM",
+      "symbol": "EICHERMOT",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
@@ -28,12 +28,27 @@
       ]
     },
     {
-      "symbol": "GRASIM",
-      "sentiment": "Neutral",
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        2,
-        7
+        2
+      ]
+    },
+    {
+      "symbol": "PAYTM",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        6
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        8
       ]
     },
     {
@@ -41,33 +56,15 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "BAJAJ-AUTO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "TATAMOTORS",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        4,
-        7
+        9
       ]
     },
     {
       "symbol": "SHRIRAMFIN",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/9 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        7,
-        13
+        12
       ]
     },
     {
@@ -75,7 +72,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        14
+        13
       ]
     },
     {
@@ -95,33 +92,69 @@
       ]
     }
   ],
-  "summary": "Indian equity markets snapped a three-day winning streak as the Sensex dropped 318 points and Nifty closed below 25,150 due to inflation concerns and hawkish Fed signals. Key financial and auto stocks dragged indices down despite intraday recovery attempts and strong October export growth. Stock-specific action saw Paytm reach record highs on RBI wallet approval, while quarterly earnings results drove volatility in Grasim and Natco Pharma.",
-  "updatedAt": "2026-11-13T11:31:21.224Z",
+  "summary": "Indian benchmark indices snapped a three-day winning streak on November 13, with the Sensex dropping 318 points and Nifty closing below 25,150 amid inflation concerns.\nFinancials and key heavyweights including HDFC Bank, Titan, Shriram Finance, and Tata Motors saw notable selling pressure.\nOn the corporate earnings front, Eicher Motors and Grasim Industries posted profit growth, while Paytm shares rallied to record highs on preliminary RBI approval for a wallet licence.",
+  "updatedAt": "2026-11-13T12:02:19.477Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-13",
   "articleKeys": [
+    "eicher motors q2fy27 results net profit rises 15 to 1573 crore",
+    "markets snap 3day rally sensex drops 318 points nifty slips below 25150",
+    "tata motors pvs q2 net loss at 5531 cr as jlr restructuring costs bite",
+    "rupee falls 8 paise to close at 9420 against us dollar",
+    "passenger vehicle sales cross 500k in october scooters surge 316",
+    "tata sons rejects noel tatas request for sept 17 board meeting recording",
     "indias paytm gets preliminary rbi nod for wallet licence shares hit record high",
     "byd eyes plugin hybrids in india expands luxury ev play with denza",
     "grasim industries q2fy27 results net profit jumps to 2306 crore",
     "natco pharma q2 results net profit declines 608 to 2026 crore",
-    "bajaj auto tops auto pli payouts in fy26 ahead of tata motors ola report",
-    "indias exports up 299 in october trade deficit narrows to 2009 billion",
-    "why climate finance remains a recurring flashpoint at un summits",
-    "stock market highlights sensex falls 318 points nifty 50 ends below 25200 shriram fin tata motors pv grasim top losers",
-    "indian rupee snaps rising streak on hawkish fed oil rise",
-    "indias trade deficit at 12month high as october imports hit record",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
-    "markets snap 3day rally sensex drops 318 points nifty slips below 25150 dd news",
     "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
     "market wrap nov 13 indices snap winning streak sensex falls 319 pts nifty50 ends at 25144 shriram fin top loser upstox",
     "sensex today ends 318 points lower nifty below 25150 manappuram finance down 4 equitymaster",
     "sensex recovers over 400 points from days low nifty climbs above 25200 free press kashmir",
+    "stock markets climb in early trade led by foreign fund inflows lower crude oil prices dd news",
     "sensex recovers 500 pts from days low nifty above 25200 firm global cues among key factors behind moneycontrolcom",
     "sensex today trades lower nifty below 25250 hdfc bank titan company top losers equitymaster",
-    "indian markets fall sensex tumbles 460 pts on inflation fears rediff moneywiz",
-    "stock markets climb in early trade led by foreign fund inflows lower crude oil prices dd news"
+    "markets snap rally sensex drops nifty below 25150 on inflation rediff moneywiz",
+    "stock market today sensex nifty eye muted opening hdfc sky"
   ],
   "articles": [
+    {
+      "title": "Eicher Motors Q2FY27 results: Net profit rises 15% to ₹1,573 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/eicher-motors-q2fy27-results-net-profit-rises-15-to-1-573-crore-126111301188_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 17:02:53 +0530"
+    },
+    {
+      "title": "Markets snap 3-day rally; Sensex drops 318 points, Nifty slips below 25,150",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/markets-snap-3-day-rally-sensex-drops-318-points-nifty-slips-below-25150/article71697688.ece",
+      "publishedAt": "Fri, 13 Nov 2026 16:52:07 +0530"
+    },
+    {
+      "title": "Tata Motors PV's Q2 net loss at ₹5,531 cr as JLR restructuring costs bite",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/tata-motors-pv-q2-net-loss-at-5-531-cr-revenue-misses-estimates-126111301014_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 16:44:51 +0530"
+    },
+    {
+      "title": "Rupee falls 8 paise to close at 94.20 against U.S. dollar",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/rupee-falls-8-paise-to-close-at-9420-against-us-dollar/article71697687.ece",
+      "publishedAt": "Fri, 13 Nov 2026 16:40:58 +0530"
+    },
+    {
+      "title": "Passenger vehicle sales cross 500K in October, scooters surge 31.6%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/auto/passenger-vehicle-sales-cross-500k-in-october-scooters-surge-31-6-126111301012_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 16:25:15 +0530"
+    },
+    {
+      "title": "Tata Sons rejects Noel Tata's request for Sept 17 board meeting recording",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/tata-sons-rejects-noel-tata-s-request-for-sept-17-board-meeting-recording-126111300995_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 16:22:42 +0530"
+    },
     {
       "title": "India's Paytm gets preliminary RBI nod for wallet licence; shares hit record high",
       "source": "Zerodha Pulse",
@@ -147,52 +180,10 @@
       "publishedAt": "Fri, 13 Nov 2026 15:53:51 +0530"
     },
     {
-      "title": "Bajaj Auto tops auto PLI payouts in FY26, ahead of Tata Motors, Ola: Report",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/auto/bajaj-auto-pli-incentive-fy26-niti-aayog-iim-ahmedabad-jobs-investment-126111300728_1.html",
-      "publishedAt": "Fri, 13 Nov 2026 15:53:45 +0530"
-    },
-    {
-      "title": "India's exports up 29.9% in October; trade deficit narrows to $20.09 billion",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/india-exports-october-26-trade-deficit-numbers/article71697532.ece",
-      "publishedAt": "Fri, 13 Nov 2026 15:52:06 +0530"
-    },
-    {
-      "title": "Why climate finance remains a recurring flashpoint at UN summits",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/why-the-same-climate-finance-dispute-returns-at-every-un-climate-summit/article71690224.ece",
-      "publishedAt": "Fri, 13 Nov 2026 15:48:17 +0530"
-    },
-    {
-      "title": "Stock Market Highlights: Sensex Falls 318 Points, Nifty 50 Ends Below 25,200; Shriram Fin, Tata Motors PV, Grasim Top Losers",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-sensex-today-nifty-50-gold-rate-today-silver-price-rupee-nvidia-cpi-inflation-12320402#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 15:45:34 +0530"
-    },
-    {
-      "title": "Indian rupee snaps rising streak on hawkish Fed, oil rise",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-snaps-rising-streak-on-hawkish-fed-oil-rise/articleshow/135798564.cms",
-      "publishedAt": "Fri, 13 Nov 2026 15:41:52 +0530"
-    },
-    {
-      "title": "India's trade deficit at 12-month high as October imports hit record",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/india-s-trade-deficit-at-12-month-high-as-october-imports-hit-record-126111300926_1.html",
-      "publishedAt": "Fri, 13 Nov 2026 15:32:15 +0530"
-    },
-    {
       "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFVmU2E4X1lka1dTRGNSZzVfUEl2ZGl4UnNJdTEtVHZxelI2SXFwalhqVWtaMERsNm9Fc0tiS3psZUpNY25VN0hwcXlmb3lLNlp6TURNY0xyYUQ4bDN5cVdSdFFYRUtEN2lKY205MnRxZ3VCZXhVaTVOUWhKbDBwVXVVMHE2WjBEelFLSEtXczYyTTRyTTNWNjlHMURxT2ExZWlMYXl5ZnUwUWFFVUttTlVBR05nTGhaWGxhNTZ3eGVBTEE?oc=5",
       "publishedAt": "Fri, 13 Nov 2026 05:21:58 GMT"
-    },
-    {
-      "title": "Markets snap 3-day rally; Sensex drops 318 points, Nifty slips below 25,150 - DD News",
-      "source": "DD News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVVFclRSOV9YQk81TC1BX1dhVXQtRWp1c3Q0bHFqbVpKVUdrSnBoZ1FlRlFDLTJkODhJaTduSkNQRHpVSXZOa3Vidm5TRF8wTUpvazkyWGlER185WWdYVDV3MV9IZUI5TmpOTDhKQU1LMkgyWGphOEQ2dXBNNFBZWmpRb1loaGh3dnlHMWJFVnJJY1RPaHJTY21SX19LS0k?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 11:29:16 GMT"
     },
     {
       "title": "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff",
@@ -219,6 +210,12 @@
       "publishedAt": "Fri, 13 Nov 2026 07:28:07 GMT"
     },
     {
+      "title": "Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices - DD News",
+      "source": "DD News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGVSOVI4VlNMdFVobUwxNHV4alZqdU5YWFlCV3EzZHhWS1RwSEtQN2pkTnA5MndITXN5QzF1RHhyLUFEU3Q2SHBOV0h5UjlaaHlrdHJLcnpLSGc1Z1JjaGN4UE1RN0Q2MlY1Mm5jMmF5VWZBTjZ0dDV2cDVHNEQ3UWNtVWkzOG9NWnVRMkQzT2YwT3lNcnJuVHd5anZ1WEdsRURaZTFfXzI4SzRybWJCcg?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 06:08:37 GMT"
+    },
+    {
       "title": "Sensex recovers 500 pts from day’s low, Nifty above 25,200: Firm global cues among key factors behind... - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ1hTRTdxUHBiQlJnMGMzR2FJZWM5Q2lTME1qV0t4NGNvY2dnZmIwcW5VR2RSVXN0R3ZXM3dNYlFYY1o5RUVlbXRMRFNLSWRhOU1BMTZxbnB2a0FoRl9PV3ZSV0NRbXlRLXlFY1RwTEtVQUhMTGRLMzJVU1FGaEdrY2hWSXlDc2M4N2RXQnZ5Y1ZnZ1Z4QV9yY2VXeU9OMHh1M2dhQXItTHpacWltZ0loTzllWVdDTEg4NW1vNHZ3OXdWdHU4eG5GQVUxQWhYdF8zRDFyY2YzblFVbFljaTF4YmpsT2RSVldqbUNmZkQwRXB3d0JxZlVhbXFYelhmM0w0Rl9LWTltSmlxUG82cU80U1V5RdIBmAJBVV95cUxQS0pfREhodmZkTFNUTWt4SlRGSS1fcEVGcFNGQXBEejJPTU9ycHNTa2stMWxYbVc0TG9oSmlTMXZiWlU5RkhieDhNRGRoRXcwcGR2dGZpdWdRVUZ5QXlZelh3elQ1eDA1dTNLRFE2TnAtVGRXWnBDLWZzTnNDTVhPbngxbEdaYXdsWVhlYy1GRy1fbERlVVV3MllFOHFyQTE1dHg1ZkdINDZGbmh3RTZtcDF2dzc1QTVmSkJ4MWRRaG94SE1waHJ6RWtzcG0zODFtZ2Jjd3FOOUhUS2VpaG9pMkdPa2xTTmc0dUpmQ3FSLUlVQnhaMC1KZEUybGtkTnh0M3V5YnlMR0xFTTZ5dF9vSTlSZ1kycWpZ?oc=5",
@@ -231,16 +228,16 @@
       "publishedAt": "Fri, 13 Nov 2026 04:53:03 GMT"
     },
     {
-      "title": "Indian Markets Fall: Sensex Tumbles 460 Pts on Inflation Fears - Rediff MoneyWiz",
+      "title": "Markets Snap Rally: Sensex Drops, Nifty Below 25,150 on Inflation - Rediff MoneyWiz",
       "source": "Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG9UUVdVUXY3NlgzTGhXZDJkbnNkNVUwQmxteU5lLVZQRVRLaHFESW9hR1FjTEJTakFTWjVsQ3kzY0o2d00xakcxVE5tVUJaald1ODZnMXVvb0pvVUtJams3dTd1eUxsVUdqcmpvZXZPQjFfTHhuZE9GcGFWbWZsb3lmNUdGRlBrazZzdFNOaUc5V0tTSFlpUDdSakdaTFF6SFo1QlZkTW5GZ2g4R0txQVByTdIBuAFBVV95cUxPRHhfd0Vyekt2ZHJ5SmtmYkxPOHZ2RG9lUlV2c1FiLXFaVnp2SjdablBVa0I4OU9ZV2hPQ2R4T0kxWmoweDRzbkhhVEUzZndxMXVfWEtXSTVFN2VCOTA4RnRfZkVqMEowdlR1YzYxODlqUmIzRDRqYmJFSHVuSTZnM2pXYUN4V3FjUUswVk5DRlhjd2ROWXJoTlBNcW9UczZtZUpOdHBiQWM2RWVNOGxEdG10SzBVQk1V?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 04:41:07 GMT"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFNtZVZIX1VWOGE3Z1J5a0J2ek5FaWI3QzRDUGV5eEUybm9iRXZvcUdVcE53VXk0YXNNa0RFMDhKNVBSNHJ4UVpFdlBzT1pxQU4ybGpaZ09ob3R1Z1ZRa05ka1Zpd3U3cEZNZkh0TUFKWG96eWN1SjY5bzdMN2RIR1ZUV0RyaGdXV0RQMXRXclRzeEx2eWxYOHJHM0U5NmQ4QjdKYW9kUmxFRUUtMTVubWwzbVFid9IBuwFBVV95cUxOeVhWYjFOMnVqcjBuMjMtLWtmamRrcVA3MHhhYW0zem5wRzMzRE1IbDkxbnB6RmctREJXX2ZwYlNkYVR5R0NuclZnemVHb0lWTmRRd21WRm1nUnQwd3N4cTFmOEswRFY1dGRweHdvdmRmZXA5cXZkWlI0NDF5STBjLWdHMzc4RjZuNm5IenptVnNyUVNaNDROblVfeGl2T2ZCRHo2SzJpZURQLXZCTzN4ZFF5VnFDeWl3YXRZ?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 10:46:10 GMT"
     },
     {
-      "title": "Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices - DD News",
-      "source": "DD News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGVSOVI4VlNMdFVobUwxNHV4alZqdU5YWFlCV3EzZHhWS1RwSEtQN2pkTnA5MndITXN5QzF1RHhyLUFEU3Q2SHBOV0h5UjlaaHlrdHJLcnpLSGc1Z1JjaGN4UE1RN0Q2MlY1Mm5jMmF5VWZBTjZ0dDV2cDVHNEQ3UWNtVWkzOG9NWnVRMkQzT2YwT3lNcnJuVHd5anZ1WEdsRURaZTFfXzI4SzRybWJCcg?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 06:08:37 GMT"
+      "title": "Stock Market Today: Sensex, Nifty Eye Muted Opening - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHItekhwUXJmb1ZYejI4NG9MaUZNeUIzRS13M3Jvd0xSQXFhUER0d0lGei1wSEZWYk9UREY1RE9WREFSQk1GQ2Rhdlp2Yk9hY19kNDlEZjE3SWtKbzh3aVhFTHBkMXdYMlpPb2hBYTJYcTlESWRDc3Q5Y3QwQ0NCX1B5TUc5dFN1STllWmxlODlwTVBfWDQtT2JocFdXazVuOE1qQTh2WkZfUGNLZzNXRWw3ZVhyUDloM2RMZjQ1OGlRbHdIejh0NHhBbnE?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 03:32:52 GMT"
     }
   ]
 }
