@@ -1,43 +1,59 @@
 {
-  "headline": "Last session: Sensex drops 319 points, Nifty ends at 25,144 as indices snap winning streak",
+  "headline": "Last session: Sensex falls 319 points, Nifty slips to 25,144 as inflation concerns weigh",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 16 November.",
-    "nextOpen": "Monday, 16 November 2026"
+    "nextOpen": "Monday, 16 November"
   },
   "why": [
-    "Inflation concerns weighed on investor market sentiment during the trading session.",
-    "Profit-booking emerged at higher levels after early market gains.",
-    "Concerns surrounding the global Nvidia crisis influenced tech sentiment.",
-    "Selling pressure in select financial stocks dragged down benchmark indices."
+    "Benchmark indices snapped their winning streak in the last session due to rising inflation concerns weighing on sentiment.",
+    "CEA V Anantha Nageswaran noted that rate hikes may not tame supply-led inflation.",
+    "Heavyweight financial and consumer stocks saw profit booking during Friday's trading session.",
+    "Global market cues and worries over Nvidia tech crisis contributed to broader market volatility."
   ],
   "whatHappening": [
-    "On the last trading day, Sensex fell 319 points while Nifty50 closed at 25,144.",
-    "Shriram Finance emerged as the top loser among major market indices.",
-    "Manappuram Finance shares declined 4% during the session.",
-    "Despite Friday's fall, Indian markets extended gains for a third straight week."
+    "In the last session on Nov 13, Sensex fell 319 points while Nifty50 closed at 25,144.",
+    "Shriram Finance emerged as the top loser on NIFTY50 in Friday's session.",
+    "Manappuram Finance shares dropped 4% during Friday's trade.",
+    "HDFC Bank and Titan Company traded lower as top losers during market hours."
   ],
   "stocksInNews": [
     {
       "symbol": "MANAPPURAM",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        13
+        12
       ]
     },
     {
       "symbol": "SHRIRAMFIN",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        14
+        13
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        19
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        19
       ]
     }
   ],
-  "summary": "In the last trading session on November 13, Indian benchmark indices snapped their winning streak as the Sensex fell 319 points.\nShriram Finance and Manappuram Finance featured among the prominent losers amid inflation concerns.\nDespite the session's pull-back, Indian equity markets recorded gains for the third consecutive week.",
-  "updatedAt": "2026-11-13T20:01:44.986Z",
+  "summary": "In the last trading session, Indian benchmark indices snapped their winning streak with the Sensex dropping 319 points to 25,144.\nInflation concerns and selling pressure in financial and retail stocks dragged the markets lower.\nDespite Friday's pull-back, Indian equities managed to extend gains for the third straight week overall.",
+  "updatedAt": "2026-11-13T22:25:43.033Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-14",
   "articleKeys": [
@@ -53,14 +69,14 @@
     "air india ai express extends flight cancellations to saudi arabia",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
     "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
-    "stock markets climb in early trade led by foreign fund inflows lower crude oil prices dd news",
     "sensex today ends 318 points lower nifty below 25150 manappuram finance down 4 equitymaster",
     "market wrap nov 13 indices snap winning streak sensex falls 319 pts nifty50 ends at 25144 shriram fin top loser upstox",
     "stock market today gift nifty signals weak opening hdfc sky",
     "indian markets extend gains for 3rd straight week despite nvidia crisis business standard",
+    "stock market today sensex nifty surge 17 at preopen hdfc sky",
     "stock market today sensex nifty eye muted opening hdfc sky",
     "sensex recovers 500 pts from days low nifty above 25200 firm global cues among key factors behind moneycontrolcom",
-    "stock market today sensex nifty surge 17 at preopen hdfc sky"
+    "sensex today trades lower nifty below 25250 hdfc bank titan company top losers equitymaster"
   ],
   "articles": [
     {
@@ -136,12 +152,6 @@
       "publishedAt": "Fri, 13 Nov 2026 05:20:13 GMT"
     },
     {
-      "title": "Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices - DD News",
-      "source": "DD News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGVSOVI4VlNMdFVobUwxNHV4alZqdU5YWFlCV3EzZHhWS1RwSEtQN2pkTnA5MndITXN5QzF1RHhyLUFEU3Q2SHBOV0h5UjlaaHlrdHJLcnpLSGc1Z1JjaGN4UE1RN0Q2MlY1Mm5jMmF5VWZBTjZ0dDV2cDVHNEQ3UWNtVWkzOG9NWnVRMkQzT2YwT3lNcnJuVHd5anZ1WEdsRURaZTFfXzI4SzRybWJCcg?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 06:08:37 GMT"
-    },
-    {
       "title": "Sensex Today Ends 318 Points Lower | Nifty Below 25,150 | Manappuram Finance Down 4% - Equitymaster",
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEdlSnRORmgtLVBCeDZ4QlJOSU1JSURHckM4UmZRMFd3QXVTYWdSVmhLb1E3MURFWVppaGhPV0VGYWdUVjJDS2FUcjBtY2ZLQVZMWUhzdHpaZzlBZmg2aTlZSDNOdUFCc3kwUE5nSlhvQVBsSHo0MUJJZnREUHVNSVlGUkJ0eXBjaXhPUzNEUWU4R3NDMGNtakd1aTgwWnEweUp1RVQ0YzVFN2Y5WTFmYjVRRlloN1FnUE1MS0liSy01SDdlbFJOaUxoWXBnTzBOUVY4eElvak4?oc=5",
@@ -166,6 +176,12 @@
       "publishedAt": "Fri, 13 Nov 2026 15:28:05 GMT"
     },
     {
+      "title": "Stock Market Today: Sensex, Nifty Surge 1.7% at Pre-Open - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmZXRmphYkxQYnIxT3ZHMi1xMlBhMkZ5NEhGajFjcTR6bzU5WmFXMDNwbkg3NkREZ18wNkZNbjhDTXNSZ1VzUlYyR0hjWUV4aE5LN3hKNEp0U1U4dF85dHVrZVBMS1NZZk5LcEtUQlN2bXhMQjhuX1lmX2lXZEdjOEs4NGdSc1Rsd0JpM1VGZ1VZMXc5UzFjU28yRQ?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 03:40:40 GMT"
+    },
+    {
       "title": "Stock Market Today: Sensex, Nifty Eye Muted Opening - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHItekhwUXJmb1ZYejI4NG9MaUZNeUIzRS13M3Jvd0xSQXFhUER0d0lGei1wSEZWYk9UREY1RE9WREFSQk1GQ2Rhdlp2Yk9hY19kNDlEZjE3SWtKbzh3aVhFTHBkMXdYMlpPb2hBYTJYcTlESWRDc3Q5Y3QwQ0NCX1B5TUc5dFN1STllWmxlODlwTVBfWDQtT2JocFdXazVuOE1qQTh2WkZfUGNLZzNXRWw3ZVhyUDloM2RMZjQ1OGlRbHdIejh0NHhBbnE?oc=5",
@@ -178,10 +194,10 @@
       "publishedAt": "Fri, 13 Nov 2026 04:28:17 GMT"
     },
     {
-      "title": "Stock Market Today: Sensex, Nifty Surge 1.7% at Pre-Open - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmZXRmphYkxQYnIxT3ZHMi1xMlBhMkZ5NEhGajFjcTR6bzU5WmFXMDNwbkg3NkREZ18wNkZNbjhDTXNSZ1VzUlYyR0hjWUV4aE5LN3hKNEp0U1U4dF85dHVrZVBMS1NZZk5LcEtUQlN2bXhMQjhuX1lmX2lXZEdjOEs4NGdSc1Rsd0JpM1VGZ1VZMXc5UzFjU28yRQ?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 03:40:40 GMT"
+      "title": "Sensex Today Trades Lower | Nifty Below 25,250 | HDFC Bank & Titan Company Top Losers - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXgyYUNZcWVlQjN0YkdmT1FJOHk0QkNXTERyaGVhc2dZMmNJaEpUOHd3cnNIMVF0Z2drOHJ4MnZhemZKOURldWVXZDVsaGdwUThzQVBoR3c1OWxjb2x6YVA5clVQUlpWNm56S2NHaTB3NXQxay1TeGpNeGlpUmRELS1zdzR6RTNyYk95UWJya3ZGWmg2LS13Q21qOGl0SWVpS3hseXFlNDdhN3dNRTQ3Vml4encycjAyZmFheXBaRG52R0ZBMnVSemhOQ1BSaGN3ZHdRNkFGUlNBdw?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 04:53:03 GMT"
     }
   ]
 }
