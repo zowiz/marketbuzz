@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty slide as inflation worries and widening current account deficit weigh on investor sentiment",
+  "headline": "Sensex and Nifty snap winning streak as inflation concerns drag market lower",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Inflation concerns weighed heavily on market sentiment during the session",
-    "India's current account deficit widened to $25.8 billion in H1FY27 according to RBI data",
-    "BofA added a January Fed hike to its forecast, signaling a faster pace of rate increases",
-    "Volatility in auto, metal, and realty sectors dragged down the major indices"
+    "Inflation concerns weighed heavily on investor sentiment during the trading session",
+    "Heavyweight stocks including HDFC Bank, Titan Company, and Shriram Finance saw selling pressure",
+    "Indices snapped their previous rally despite firm early global cues and earlier foreign inflows",
+    "Nifty fell below the key 25,150 level as market indices ended lower across the board"
   ],
   "whatHappening": [
-    "The Sensex closed approximately 319 points lower, extending recent losses",
-    "Nifty 50 slipped below the 25,150 mark as selling pressure intensified",
-    "Oil India officials stated the company is on track for 4 MMT crude oil production this fiscal",
-    "YES Bank moved the Supreme Court to review a ruling on its AT-1 bond write-down"
+    "Sensex dropped over 300 points while Nifty50 closed at 25,144",
+    "Shriram Finance was among the top losers, while Manappuram Finance dropped 4%",
+    "YES Bank sought a Supreme Court review regarding an ₹8,415 crore AT-1 bond write-down ruling",
+    "Oil India declared it is on track to achieve 4 MMT crude oil production this fiscal year"
   ],
   "stocksInNews": [
     {
@@ -48,12 +48,36 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        19
+        12
+      ]
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        14
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        18
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        18
       ]
     }
   ],
-  "summary": "Indian indices ended lower on November 13, with the Sensex falling 319 points and Nifty slipping below 25,150.\nMarket pressure stemmed from rising inflation concerns and a widening current account deficit of $25.8 billion.\nTVS Motor and Oil India remained in focus due to leadership changes and production targets respectively.",
-  "updatedAt": "2026-11-13T17:01:42.701Z",
+  "summary": "Indian market indices snapped their winning streak on November 13 as Sensex fell over 300 points and Nifty closed below 25,150 due to inflation concerns. Financial and retail stocks like Shriram Finance, Manappuram Finance, HDFC Bank, and Titan led the decline. In stock-specific developments, TVS Motor announced a key leadership elevation and Oil India reiterated its crude production target.",
+  "updatedAt": "2026-11-13T17:32:16.253Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-13",
   "articleKeys": [
@@ -67,16 +91,16 @@
     "oil india on track for 4 mmt crude oil production this fiscal officials state",
     "bofa adds january fed hike to forecast says quarterly pace no longer enough",
     "preetika rao ties the knot in bengaluru keeps husbands face hidden sri sri ravi shankar attends",
-    "closing bell nifty at 25300 sensex flat amid volatility realty stocks outperform moneycontrolcom",
-    "stock market close sensex ends volatile session marginally higher nifty at 25299 realty up 4 business standard",
-    "stock market outlook today 13 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today gift nifty cpi inflation to oil prices five key factors that may drive sensex nifty 50 on nov 13 ndtv profit",
-    "stock market outlook today 12 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today highlights sensex falls 319 points nifty slips 155 points as markets extend losses the times of india",
-    "closing bell nifty below 25150 sensex down 319 pts auto metal realty worst hit moneycontrolcom",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
     "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
-    "sensex today ends 318 points lower nifty below 25150 manappuram finance down 4 equitymaster"
+    "sensex today ends 318 points lower nifty below 25150 manappuram finance down 4 equitymaster",
+    "stock markets climb in early trade led by foreign fund inflows lower crude oil prices dd news",
+    "market wrap nov 13 indices snap winning streak sensex falls 319 pts nifty50 ends at 25144 shriram fin top loser upstox",
+    "indian markets extend gains for 3rd straight week despite nvidia crisis business standard",
+    "stock market today gift nifty signals weak opening hdfc sky",
+    "sensex recovers 500 pts from days low nifty above 25200 firm global cues among key factors behind moneycontrolcom",
+    "sensex today trades lower nifty below 25250 hdfc bank titan company top losers equitymaster",
+    "markets snap rally sensex drops nifty below 25150 on inflation rediff moneywiz"
   ],
   "articles": [
     {
@@ -140,48 +164,6 @@
       "publishedAt": "Fri, 13 Nov 2026 21:13:23 +0530"
     },
     {
-      "title": "Closing Bell: Nifty at 25,300, Sensex flat amid volatility; realty stocks outperform - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNWTc5Z3l5YVl5dmVFYmhhY1psNXJpQmxSV3Z3d3NPazhUckdRS2tEQUJmMXhubkpKazdHaXBoYWp0MG1JQWNkaUVCN29tWXJyZjdNVDMwbjdmTjkzMkVfUkhtcXlyMGR6RVJnODJpSVB3OXFyNnhiaGgtUUt4LTdtU0NMcTlGRkpyZEtRT09ha3ZSSDFiVmkxZk5CVlNNOEFvb1BvLWIycHIwZE5Jb0w1V1pGa3lZU1pVNU0za2lBRGpzeER4T01VWGdvNHQyVS1maGlTVmFRWTdlLTkyaVl4ZTRfck1VLTVDMVZWSUFORUF1RmdOcE1nNnIwM1Z4d3ZZODc1ZWNMUXdUd1habUY4ZVBZY3FDTnR6bm0zVTNWSUYzb2_SAagCQVVfeXFMT2ozbWRneXVSQnlGRG5vVDVCN2Y5clpuUTBHa1V2VzFSZE02UzYtM3FvMW84Z0lUaU9uWU0ySjRtV2lISUVfcGRnSXVLZmF3c0lqV3NvMWRSZVRncmFnVnIxa3prZDRaUXM2X1B0Z3VKbERkNGdHX01Ba2tDSFJ2eUlHSWJMekxpNnZNMUxSNWs5YjlqdzNGcjBJRU1selI2Z1RNODhKUjNOcGlyS2dkNFNzVGNjaVZhNTJqNzg0TjJVQ0VxTG9sZ0RpQnNNYzhiTWUtYnJ4dGd4Yk9JX2s2QW9sWDliVXJBQXNpa0pjU3plUjdCTkJBcnJnUlgzZ1IzLUlySFhfV0hTU0M1VUk1Z0tzb0lXWUpqRER4eUtGS0lJZW5mN0l4clQ?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 10:52:58 GMT"
-    },
-    {
-      "title": "Stock Market Close: Sensex ends volatile session marginally higher, Nifty at 25,299; realty up 4% - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQelAzVkdWckNmb3Azekt3dkttN01WaW9oOEVQWlluTEtVQkUyOUhTZjlNN3JZOXk3dnMxRWN0T2ozRGxRR0tSdlZ0U0NMdTJXUTA4ZkNlU1RPWlFhM1J1RUxORFlYb3VvUTQ1VlRlN1FrYVJVcjkzSUNOQlVWRmNRRm1zOXRuRVlOWG9Eaks3d2lTeDItNXlqcm85VnNMbVhNV3BIdmJyUlktR0d3VThONVo2UUNqbHRzYzNIZjE0MjZuVjF3MF94SEdsS2dYUXJBWTdSeXNuS2VVQkZBY2hGQW1meEZ0RG5sbnUzZjcxZ1ZGd1VfUEFQa2JLdFRCTU3SAYQCQVVfeXFMUGU5VzdWOTJGclZZdlRjYmo2aWpIUHdVVGRndDhCdWVpenI3Ung1NDNMN1F1d1A0RDNrc0Zta0tIMXdKaFFPN0JheExUWFRkTjZCS0hPZUZvOGV5Y1Z3S1I4U1NwTzRlSllnZmJTNTN6bTlhQkQyS3RjeXAyYU9LSl84Q215NzZULWcxUmtDMW5teTJqeENER08tcGRHX2FQeTRucWwwYkJuQXVLREU4cUVUWk5hdkxpSHFubGVEeTBaajhjSF9PdlZHTVp2UWpXY0Q3aTNpU3BtSkRLTzlYUUNRMWpGMGNoMjUzZG5ZdG9ocUVydE5sVU9MNFZvZlFCS2U4ZDc?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 10:24:02 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 13 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQb29vTkxNTHVRRmtGUDJmcjVJZmx5MEVtLXNuaGtfUHVYazVyQ1lRNDNKV0VZelQtOENaV1ZZLWoxRTQ0ME56SjdOeGQ4UUlpRzYtSXFleGd5NHJRVDQ3dUR3SlR3R0s3TGpzRVc2ODNWWFFzS1VUMmM0LTZxeXNnNUpCbm5TakhiekRBQXFnR3E5T0xIWWRsdzdBZ1lNU3g1WWNETlhnald3WTA4YzB6VlFaZkxocXFpQjgyY0pHSTU3QzhYSi1OQXdSX2NTZGtmQWpVVHRndDdobGpCVkV2N1hBaS1EcE1EYVB0T0phWmtwN3p5aVNjd2NySDNud3haYkZaVNIBigJBVV95cUxQaHNZRlk1RVF5eFA4dVEzdlBOcWFSNTdMU193ZXg0TTZhaUpfVlE5eU1DMExuc1gyQUo5VFhPREdjQXVqd29wUVZOUk55ejJ5N3hFQ0RDSjF5SWhUNmE2RWdXV1BkV2ZFWU5jazdjWFFOVGdOTWZzQ1JtMWRWZExqNmZVTnRNeTdkcWQ5Wi1ydmtiTEl6S3kwbWhxbDlscEJ3V3ZfTXloQWZuQWxtZHVZb3V4UTB0ODdrNzMzZG1qTjRJcUprWXNuanB3RUtBNmdXXzRPX2JxLXZ6V0Vqa1BIaFdKWGIwcVhLTC1QaVFIc18zRjljNzNfaElhbVJQRlcyWUZqQXM5ZVp5dw?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 01:45:36 GMT"
-    },
-    {
-      "title": "Stock Market Today: Gift Nifty, CPI Inflation To Oil Prices; Five Key Factors That May Drive Sensex, Nifty 50 On Nov 13 - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUkc2VEdsR2sxLVZaWkFjMzViNUFzVXRVR1FMc3lLZEUzbUl3Q29kWlhDNmxNVUlMal9WVnAybEx3SVNMcDBtT0twaDZVbmpOUERHUlNmYlpzUHRYOXVEeHl5OGlmV2tFTUdVUDE2aFlfb0oyRFdkOVJXTmo4UEhma0RudHpsbVJUTmZZZXc0U2R4QmNLajZ0WmJyNFRwRTBVSlFsdjRCY29RTE5ZenVKV0g4MFRjYTJKZ2pWcXVNdE1GX3dmdXlSYW9kRGFneWR5YVpJdmpRNE54S0FCWlhSMWotOXY2Zkpfd211b0hvTEdaMmJobzBR0gH_AUFVX3lxTE9fajVmbjRTdVcwOVExTl9wYzVsU2EyUmk4VEE4WURtNWZaUG9MNTZxei1seE45MDg5VGwxQ2tlRGMzVnBJLXczeUpuVXRVMXBiMWZRb1JVZWtIWWxObmc3cUZMY080MFVwRkVyd3d0Z25LN0ZUZ1lLSDZZcndvSWdCT25YOHk3bjc2T09XMng0TXNCd09qdU5UUGdIMTRDT0NHVnREaEhUYTRDTHRZMnJyYlhxaWtqdWExa1ZOR3RmNmthOC1kcVBMT044bjFqTjdNY1YxOVZtWjRMb1hhUDNNaDROUnlrbjhvbHdlVExFc0NZVkc0dl9tcGRJV2g5TQ?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 01:33:49 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 12 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZGkyZUJibHBlNGFOR3l3U0NCWUxqLWdySXhqNmRseXB5SnY0ZldhSTl2azlqNm9JbWRHbmhyYWJGWTlQdnlSZ2ExOVh6Vi1iTEU5eW1wS09IMFhWS3dBRmN6V0FIdVRCM3BOZzlxaF9meFhXa0VIdmI5TzZvb3BYTzdTQ1ItS0FlUDliR19hRzZOSmNCdlRDSWRWel9DS2JGYzRfRkxxTy1yZnRPcGFGNUJvSFhpSW5JeUQxZkRreG5lanZtTFpUcTJ3Q19ZM2IxeEtGdTdRLTZtcjZZQloydm5USlNpQm1kTVV4NUhSeEJITzRTV0xVYVZteTlCb0xsak5CY9IBigJBVV95cUxNemJwUGVpY3MyNGI4am1kVG9zbHo5eC1oTDBydG5JWjhuU0pzazNyblF4alVZa3RMb3ZYWGQtelozbFE1NDN6dEQ3Y1Z3ZFR6b2lsSGpZNU4tdWJ1UjNySll1eHZwakRQSjZNaVF1RTFQU0d6em1lZjZtcmRENGozM2lIbjQ2MTN2SmtqUmRpTHpnMzlRNFNKWjU2YjY2ZEVhcE12STl4M1M2cTFXemNoaXRMS25ETFpPSW5wUVVET0xvVmhpNXlHQ2prR1NyaUEzNzJvamtJRkpwbklEdl91b0RJYkJYSXppSVVEd3ZxUmk3MkxwaEZVdzl2Zm9meE5CR3pYQUtpa3hwdw?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 01:15:59 GMT"
-    },
-    {
-      "title": "Stock Market Today Highlights: Sensex falls 319 points, Nifty slips 155 points as markets extend losses - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNbFFkLXlUbVY2TklRNWlsMFpWaGNoR1FDTUdyQnkxUlVENWNNMjZFMzhDa2FMQWpPeXEycko3XzEyRjkzR290ZnpUcC1USTBGenBHUk5ESUNkX1NRREJVOVZyeVQ3SkdvM05BTHRMM1hHNk5pQVUwUjI1ckxtYXVVVHBJamxJYjM5bmtFMXpoaXRHY0pYUWlDVEJtTDdTRXVHY0k0cnhsZlZxd3BRRUZ5WDhHbEtzRXFsZmJubkxJbm5ESEZEdWM0U1REUXJmTFFYS0tTUmRDU2hycm5GMXE2V3p3cXA4THY3dmZfVk9RSTZqN21Rb1VpZWU5ZEY3bzR1ZkNRYllCMklwWktQdldPVV9DWDAyUzFRVElDVU4yOTFvbDREOXRMeFZKVm96aEg0NThqSFJR0gG7AkFVX3lxTE5ManlZa3JyRDBLMzZwNVZlejJpN2R3SDJSRUxhRU5BSzI1X3NTS29VdFcwRm5iWVJoQW5WeDFyUmlUNDB4WmZpeF9IaU96Y3RrRGRuNUMtTml2S0FlQnppaXlha3ZUMVhaZ0MwbUxjbXVoQ0JOUVFOWTU3YVlxcy16bjB1TzhDVkNXeVFnanNmTXJxVE5jcVhRS09UUHlFLWcteXUxc3NNRGcyUDlDWVlxQlFZeXVXR2VMZU5rTjZtZTJCaDhNcEZUM080ZHBtdTBwZ0picExCcElsZzZjUjcxdFpzS2JvNHhORFJ6OVNNTkUtY3JNVURpQnNkdXYyMGpveGtoaV9qVnl2TkpBdTRPT3I5QkJJeERKdlVNaUdDa0NDTWNtamktZXNldjlSZHVXMzV6cDZheUZjdw?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 11:35:46 GMT"
-    },
-    {
-      "title": "Closing Bell: Nifty below 25,150, Sensex down 319 pts; auto, metal, realty worst hit - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSUw0SXFDNzRDNWF3V2VkQnZsa29mdWlRU0JGOTh2M25CMXNOakVBb2dYaXREbGliaXVOTUlYdExERFB6UVN2dDVlTEwwcjFrMlRWSDk5ekU5MTEzWDhlLVNPUXRJa2NFQ0Y4ZHpURldZTDNqOVdTTkxwSFRLVkR3T2RlSGVvNlJ4MHhDZmpVSnpocGpTdFJPLTVMNEk0Y3FDc0RDVFNWQkFuSWVMU0U2RENQb0lHWUlBcjRxZ3dXNlZjWHNNa0t0dWNyYkZIWndmZTVhOXVyNG5ubW9xOTlpYlJ2bmNsc1ljSDVNRHhBeXI5RnhZWGVLQV9xWVFBXzdJRGlYRHhRd3dVelNKbFV1R3A4aU9rdXRhVE01VFRkUmVnN1XSAagCQVVfeXFMT29fYVFNclg2WTcwVVZuRzVROXE5bU9SeFIyd2owSC1ELWF1c244LWF2OWJueGRaX1FNLUJQRTVVY05ZeUw0eUs5WFBoYnBNcFNYQXFaZVBzM2VnRFdKUkFvbEVWRGJVcEhjSnhFR1dabTlVRGJ3MGRvRGt1NEk2YmZyVkJPWnN0eURHUWl1YmxBWnE0ZjQxQUh6QU5lZlJhZ1NBaWh1b2JFZTFraXdCbzdVNHQzNkh6RlBoUnh2TmljZXBPYW10bkd1V2x3ZnlGSHRBT3R4Znc1Wl8xZk5McXVFbzZ1X0pCNlNQd3Q5cFp6elJqaEQ3ZU9xX1dtdXprUjc2M19sT3JHRGlMa2sycmluNm0wa2R5TjdHdGJLQm4xTEk2Y0pjZm4?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 10:35:43 GMT"
-    },
-    {
       "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFVmU2E4X1lka1dTRGNSZzVfUEl2ZGl4UnNJdTEtVHZxelI2SXFwalhqVWtaMERsNm9Fc0tiS3psZUpNY25VN0hwcXlmb3lLNlp6TURNY0xyYUQ4bDN5cVdSdFFYRUtEN2lKY205MnRxZ3VCZXhVaTVOUWhKbDBwVXVVMHE2WjBEelFLSEtXczYyTTRyTTNWNjlHMURxT2ExZWlMYXl5ZnUwUWFFVUttTlVBR05nTGhaWGxhNTZ3eGVBTEE?oc=5",
@@ -198,6 +180,48 @@
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEdlSnRORmgtLVBCeDZ4QlJOSU1JSURHckM4UmZRMFd3QXVTYWdSVmhLb1E3MURFWVppaGhPV0VGYWdUVjJDS2FUcjBtY2ZLQVZMWUhzdHpaZzlBZmg2aTlZSDNOdUFCc3kwUE5nSlhvQVBsSHo0MUJJZnREUHVNSVlGUkJ0eXBjaXhPUzNEUWU4R3NDMGNtakd1aTgwWnEweUp1RVQ0YzVFN2Y5WTFmYjVRRlloN1FnUE1MS0liSy01SDdlbFJOaUxoWXBnTzBOUVY4eElvak4?oc=5",
       "publishedAt": "Fri, 13 Nov 2026 10:23:55 GMT"
+    },
+    {
+      "title": "Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices - DD News",
+      "source": "DD News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGVSOVI4VlNMdFVobUwxNHV4alZqdU5YWFlCV3EzZHhWS1RwSEtQN2pkTnA5MndITXN5QzF1RHhyLUFEU3Q2SHBOV0h5UjlaaHlrdHJLcnpLSGc1Z1JjaGN4UE1RN0Q2MlY1Mm5jMmF5VWZBTjZ0dDV2cDVHNEQ3UWNtVWkzOG9NWnVRMkQzT2YwT3lNcnJuVHd5anZ1WEdsRURaZTFfXzI4SzRybWJCcg?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 06:08:37 GMT"
+    },
+    {
+      "title": "Market wrap, Nov 13: Indices snap winning streak; SENSEX falls 319 pts, NIFTY50 ends at 25,144; Shriram Fin top loser - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPY0p5ZUNCSGRGTWdHY2JTYUluNGVwamFrOE1POHBFWi1YTWF3amNNQUg2UWM1azNkOE5FM1VLcmtETjZXLWU0ZWM3OERicDJHUXFQck5aNmJ2Z0lZRDBYZG1oSjdYM25XenJXbGtUUHJoNHhJZl8tMC15bVo5b21qNklWY2hNVEw5bzNnZXg0TnZ5akIzWEo4emluUDdZUFpKVHNVLWNvX3ZCbXNMdlEzUkZQU3AxYXZVOHFiNUNfUHEyNVp1LW40T1JLLXBjQm9sc3ZMc1FoTTdlUVpKZDhOTkpFeTllNWZDVGZObkNqUXNDRzllR2RyX2FLMnhNYVJVclE?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 10:18:26 GMT"
+    },
+    {
+      "title": "Indian markets extend gains for 3rd straight week despite Nvidia crisis - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3k1MllsTVlwSWpyeEVRV0NtckxGTTQwWDVUc2NpOUp3OGZQWUJPOWlNeFpyeWEzblBKanp3OW9BNTUyY1N2YmgtY2Z1Z09HYzBEOVlfOFNnbUluUDVvamZ4ZHlUTmg2UGxlSFJXdXRWRUNwazhGUllKSW13cTNqSEk2eW9LT3RKOXNkN25rMkMyMTZuUEJaSEtUMGRNS2JpRTJoWnViNUVOcUE1TmsxZmIwcGt0QzFkdFp6em9ZX2o1eEJ4VkFCUldzcTdtYVVOMVJBctIB2gFBVV95cUxON2d3R19ZVmJqWEFXdU40TVVIYXd5LTI2ZEYzQXZ0TnhZZlFRWk56MTdnSGw0cVNlcG1XbDNUbFdpSnl0aVFfdlB5UDMwSHk2Y19LbWpuTjJCbmVDMjVOdlIzNkZGNGJlZEZ3d3Vtd0cwTWdoZHVzQlltQkFHdlJkdzh3SW9ITmplUlpDbWJBNXNNLVFNUGhRczBNaWVGQXB3NGRBRzNhRjlLc2FQVmtvSU9ybnpCZEU2RVRja2djV1dCdjBlRVptM2hfODFiODQ2VzZhbzlGdms5Zw?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 15:28:05 GMT"
+    },
+    {
+      "title": "Stock Market Today: Gift Nifty Signals Weak Opening - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWFdtSHY3ZGtFR1NvZ0tHRTk2S3pQenFPXzZ3VS01OWxDQWEwQ0tvSFU4MXRyVGo3LWh0Njlrb0RWb2x6aU8xV2wyMDRENW1ZeUpzSm9DdE10RmNoTFVHS25wVzJtWUp1QkwzaGpNMVFtSGg5Y0hJeVpuSWtzLUFZLVhlN1Qyanhi?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 03:29:06 GMT"
+    },
+    {
+      "title": "Sensex recovers 500 pts from day’s low, Nifty above 25,200: Firm global cues among key factors behind... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ1hTRTdxUHBiQlJnMGMzR2FJZWM5Q2lTME1qV0t4NGNvY2dnZmIwcW5VR2RSVXN0R3ZXM3dNYlFYY1o5RUVlbXRMRFNLSWRhOU1BMTZxbnB2a0FoRl9PV3ZSV0NRbXlRLXlFY1RwTEtVQUhMTGRLMzJVU1FGaEdrY2hWSXlDc2M4N2RXQnZ5Y1ZnZ1Z4QV9yY2VXeU9OMHh1M2dhQXItTHpacWltZ0loTzllWVdDTEg4NW1vNHZ3OXdWdHU4eG5GQVUxQWhYdF8zRDFyY2YzblFVbFljaTF4YmpsT2RSVldqbUNmZkQwRXB3d0JxZlVhbXFYelhmM0w0Rl9LWTltSmlxUG82cU80U1V5RdIBmAJBVV95cUxQS0pfREhodmZkTFNUTWt4SlRGSS1fcEVGcFNGQXBEejJPTU9ycHNTa2stMWxYbVc0TG9oSmlTMXZiWlU5RkhieDhNRGRoRXcwcGR2dGZpdWdRVUZ5QXlZelh3elQ1eDA1dTNLRFE2TnAtVGRXWnBDLWZzTnNDTVhPbngxbEdaYXdsWVhlYy1GRy1fbERlVVV3MllFOHFyQTE1dHg1ZkdINDZGbmh3RTZtcDF2dzc1QTVmSkJ4MWRRaG94SE1waHJ6RWtzcG0zODFtZ2Jjd3FOOUhUS2VpaG9pMkdPa2xTTmc0dUpmQ3FSLUlVQnhaMC1KZEUybGtkTnh0M3V5YnlMR0xFTTZ5dF9vSTlSZ1kycWpZ?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 04:28:17 GMT"
+    },
+    {
+      "title": "Sensex Today Trades Lower | Nifty Below 25,250 | HDFC Bank & Titan Company Top Losers - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXgyYUNZcWVlQjN0YkdmT1FJOHk0QkNXTERyaGVhc2dZMmNJaEpUOHd3cnNIMVF0Z2drOHJ4MnZhemZKOURldWVXZDVsaGdwUThzQVBoR3c1OWxjb2x6YVA5clVQUlpWNm56S2NHaTB3NXQxay1TeGpNeGlpUmRELS1zdzR6RTNyYk95UWJya3ZGWmg2LS13Q21qOGl0SWVpS3hseXFlNDdhN3dNRTQ3Vml4encycjAyZmFheXBaRG52R0ZBMnVSemhOQ1BSaGN3ZHdRNkFGUlNBdw?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 04:53:03 GMT"
+    },
+    {
+      "title": "Markets Snap Rally: Sensex Drops, Nifty Below 25,150 on Inflation - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFNtZVZIX1VWOGE3Z1J5a0J2ek5FaWI3QzRDUGV5eEUybm9iRXZvcUdVcE53VXk0YXNNa0RFMDhKNVBSNHJ4UVpFdlBzT1pxQU4ybGpaZ09ob3R1Z1ZRa05ka1Zpd3U3cEZNZkh0TUFKWG96eWN1SjY5bzdMN2RIR1ZUV0RyaGdXV0RQMXRXclRzeEx2eWxYOHJHM0U5NmQ4QjdKYW9kUmxFRUUtMTVubWwzbVFid9IBuwFBVV95cUxOeVhWYjFOMnVqcjBuMjMtLWtmamRrcVA3MHhhYW0zem5wRzMzRE1IbDkxbnB6RmctREJXX2ZwYlNkYVR5R0NuclZnemVHb0lWTmRRd21WRm1nUnQwd3N4cTFmOEswRFY1dGRweHdvdmRmZXA5cXZkWlI0NDF5STBjLWdHMzc4RjZuNm5IenptVnNyUVNaNDROblVfeGl2T2ZCRHo2SzJpZURQLXZCTzN4ZFF5VnFDeWl3YXRZ?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 10:46:10 GMT"
     }
   ]
 }
