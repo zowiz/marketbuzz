@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty Slide on Inflation Fears and Rising Crude Oil Prices Before Recovering",
+  "headline": "Sensex Recovers 500 Points from Day Low as Nifty Reclaims 25,200",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,25 @@
     "nextOpen": ""
   },
   "why": [
-    "Inflation concerns weighed heavily on broad market sentiment.",
-    "A rise in crude oil prices contributed to the market decline.",
-    "Nifty Bank dropped around 1%, putting pressure on financial stocks.",
-    "Major heavyweights like HDFC Bank and Titan Company were top losers."
+    "Inflation concerns and rising crude oil prices weighed on initial market sentiment.",
+    "Firm global cues triggered a sharp intraday recovery across benchmark indices.",
+    "Realty and banking gains lifted Sensex and Nifty above key support levels.",
+    "Strong quarterly earnings from select corporate names boosted stock-specific action."
   ],
   "whatHappening": [
-    "Sensex tumbled over 400 points to hit its day low while Nifty traded near 25,100 levels.",
-    "Markets later saw a recovery of over 400 points from day lows, pushing Nifty back above 25,200.",
-    "SpiceJet shares hit a 5% upper circuit following announcement of a fundraising plan.",
-    "Q2 corporate earnings saw Gillette India profit rise 10% and Goodyear India profit jump 31%."
+    "Nifty recovered from its day's low near 25,150 to climb back above the 25,200 mark.",
+    "FACT reported an 86% jump in Q2 net profit, while Goodyear India's net profit surged 31%.",
+    "Bajaj Auto emerged as the top auto PLI payout recipient for FY26 ahead of Tata Motors.",
+    "HDFC Bank and Titan Company were among the top market laggards during early trade."
   ],
   "stocksInNews": [
     {
-      "symbol": "GILLETTE",
-      "sentiment": "Positive",
+      "symbol": "SPICEJET",
+      "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        0,
+        8
       ]
     },
     {
@@ -32,31 +33,47 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        0
+        5
       ]
     },
     {
-      "symbol": "EICHERMOT",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "GRASIM",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        0
-      ]
-    },
-    {
-      "symbol": "SPICEJET",
+      "symbol": "GILLETTE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        3,
+        2,
+        6
+      ]
+    },
+    {
+      "symbol": "FACT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "FINOPB",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
         7
       ]
     },
@@ -75,94 +92,102 @@
       "articleIds": [
         13
       ]
+    },
+    {
+      "symbol": "EICHERMOT",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        2
+      ]
     }
   ],
-  "summary": "Indian benchmark indices opened lower and dropped 400 points due to inflation concerns and rising crude oil prices. HDFC Bank and Titan were key drags, while Nifty Bank slid 1%. The indices later staged a recovery from day lows while SpiceJet surged 5% on fundraising news.",
-  "updatedAt": "2026-11-13T08:32:01.302Z",
+  "summary": "Indian benchmark indices witnessed a sharp volatile session, recovering over 500 points from day lows amid firm global cues.\nNifty reclaimed the 25,200 mark, driven by gains in banking and realty stocks despite elevated crude oil prices.\nCompany Q2 earnings and news flow drove stock-specific moves, with Goodyear, FACT, and Bajaj Auto showing strength.",
+  "updatedAt": "2026-11-13T08:57:47.840Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-13",
   "articleKeys": [
-    "q2 results live gillette india profit rises 10 goodyear india profit rises 31 eicher motors grasim also in focus",
-    "amitabh bachchan returns to kaun banega crorepati 18 after health break watch",
-    "has jensen spy narrative run ahead of evidence 6 points that question espionage theory",
-    "spicejet share price hits 5 upper circuit after fundraising plan announcement flies 13 in three sessions",
-    "happy childrens day 2026 speech ideas five speeches in english for students",
-    "1600 nvidia employees rally behind jensen huang demand boss return after exit over affair",
-    "who is maruthi r akella iisc honours scientist whose algorithms helped guide im1 lunar lander",
-    "spicejet to file overdue financial results after bse warns of suspension",
-    "stock market live sensex at days low down 400 pts nifty near 25100 nifty bank down 1",
-    "gold price jumps by rs 1300 but rate still below rs 137000 on mcx",
+    "spicejet board to consider fundraising proposal on nov 18 amid operational headwinds",
+    "microsoft outage live microsoft outage enters second day company says not aware of malicious activity",
+    "q2 results live fact q2 net profit jumps 86 gillette india profit rises 10 eicher motors grasim also in focus",
+    "bajaj auto tops auto pli payouts in fy26 ahead of tata motors ola",
+    "rs 3000 sip for 30 years can you create a rs 1 crore corpus without any stepup",
+    "goodyear india q2 results net profit rises 31 to rs 172 crore revenue grows 28 yoy stock jumps 13",
+    "gillette india q2 results net profit rises 10 to rs 159 crore revenue up 4",
+    "rbi approves pratap singhs appointment as md ceo of fino payments bank",
+    "spicejet board to consider fresh fundraising proposal on november 18",
+    "bengaluru metro pink line check route fare timings and other details",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
     "stock market outlook today 13 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
     "sensex today trades lower nifty below 25250 hdfc bank titan company top losers equitymaster",
     "sensex recovers over 400 points from days low nifty climbs above 25200 free press kashmir",
-    "indian markets fall sensex tumbles 460 pts on inflation fears rediff moneywiz",
-    "stock market today sensex nifty eye muted opening hdfc sky",
+    "indian stocks close higher as realty and banking gains lift sensex nifty india new england news",
     "india vix slips despite weak sensex nifty opening hdfc sky",
-    "sensex down 400 pts nifty near 25150 rise in crude oil prices among key factors behind market decline moneycontrolcom",
-    "stock market today sensex nifty surge 17 at preopen hdfc sky"
+    "stock market today sensex nifty eye muted opening hdfc sky",
+    "sensex recovers 500 pts from days low nifty above 25200 firm global cues among key factors behind moneycontrolcom",
+    "sensex down 400 pts nifty near 25150 rise in crude oil prices among key factors behind market decline moneycontrolcom"
   ],
   "articles": [
     {
-      "title": "Q2 Results Live: Gillette India Profit Rises 10%, Goodyear India Profit Rises 31%; Eicher Motors, Grasim Also In Focus",
+      "title": "SpiceJet Board to consider fundraising proposal on Nov. 18 amid operational headwinds",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/spicejet-board-to-consider-fundraising-proposal-on-nov-18-amid-operational-headwinds/article71697119.ece",
+      "publishedAt": "Fri, 13 Nov 2026 14:00:32 +0530"
+    },
+    {
+      "title": "Microsoft Outage LIVE: Microsoft outage enters second day; company says not aware of malicious activity",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+      "publishedAt": "Fri, 13 Nov 2026 13:57:29 +0530"
+    },
+    {
+      "title": "Q2 Results Live: FACT Q2 Net Profit Jumps 86%, Gillette India Profit Rises 10%; Eicher Motors, Grasim Also In Focus",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/q2-results-live-updates-november-13-grasim-industries-eicher-motors-abb-india-natco-pharma-among-companies-to-announce-earnings-today-12320989#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 13:07:36 +0530"
+      "publishedAt": "Fri, 13 Nov 2026 13:38:06 +0530"
     },
     {
-      "title": "Amitabh Bachchan Returns To Kaun Banega Crorepati 18 After Health Break | Watch",
+      "title": "Bajaj Auto tops auto PLI payouts in FY26, ahead of Tata Motors, Ola",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/amitabh-bachchan-returns-to-kaun-banega-crorepati-18-after-health-break-says-agar-aap-theek-hain-12321018#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 13:00:27 +0530"
+      "link": "https://www.business-standard.com/industry/auto/bajaj-auto-pli-incentive-fy26-niti-aayog-iim-ahmedabad-jobs-investment-126111300728_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 13:29:15 +0530"
     },
     {
-      "title": "Has Jensen Spy Narrative Run Ahead of Evidence? 6 Points That Question Espionage Theory",
+      "title": "Rs 3,000 SIP For 30 Years: Can You Create A Rs 1 Crore Corpus Without Any Step-Up?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/has-jensen-spy-narrative-run-ahead-of-evidence-6-points-that-question-espionage-theory-12321167#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 12:53:48 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/rs-3-000-sip-for-30-years-can-you-create-a-rs-1-crore-corpus-without-any-step-up-12321143#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 13:28:12 +0530"
     },
     {
-      "title": "SpiceJet Share Price Hits 5% Upper Circuit After Fundraising Plan Announcement. Flies 13% In Three Sessions",
+      "title": "Goodyear India Q2 Results: Net Profit Rises 31% To Rs 17.2 Crore, Revenue Grows 28% YoY; Stock Jumps 13%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/spicejet-share-price-hits-5-upper-circuit-after-fundraising-plan-announcement-stock-up-13-in-three-sessions-12321160#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 12:52:30 +0530"
+      "link": "https://www.ndtvprofit.com/markets/goodyear-india-q2-results-net-profit-rises-31-to-rs-17-2-crore-revenue-growth-at-28-yoy-stock-jumps-13-12321282#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 13:23:23 +0530"
     },
     {
-      "title": "Happy Children’s Day 2026 Speech Ideas: Five Speeches In English For Students",
+      "title": "Gillette India Q2 Results: Net Profit Rises 10% To Rs 159 Crore, Revenue Up 4%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/happy-children-s-day-2026-speech-ideas-five-speeches-in-english-for-students-12316847#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 12:49:57 +0530"
+      "link": "https://www.ndtvprofit.com/markets/gillette-india-q2-results-net-profit-rises-10-percent-to-rs-159-crore-revenue-up-4-percent-sensex-today-q2-earnings-12321242#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 13:20:44 +0530"
     },
     {
-      "title": "1,600 Nvidia Employees Rally Behind Jensen Huang, Demand Boss' Return After Exit Over Affair",
+      "title": "RBI approves Pratap Singh's appointment as MD & CEO of Fino Payments Bank",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/1-600-nvidia-employees-rally-behind-jensen-huang-demand-his-return-after-exit-over-affair-12321061#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 12:49:06 +0530"
+      "link": "https://www.business-standard.com/companies/news/rbi-approves-appointment-of-pratap-singh-as-md-ceo-of-fino-payments-bank-126111300702_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 13:18:37 +0530"
     },
     {
-      "title": "Who Is Maruthi R Akella? IISc Honours Scientist Whose Algorithms Helped Guide IM-1 Lunar Lander",
+      "title": "SpiceJet board to consider fresh fundraising proposal on November 18",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/science/who-is-maruthi-r-akella-iisc-honours-scientist-whose-algorithms-helped-guide-im-1-lunar-lander-12320975#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 12:36:59 +0530"
+      "link": "https://www.business-standard.com/companies/news/spicejet-board-to-consider-fresh-fundraising-proposal-on-november-18-126111300700_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 13:18:15 +0530"
     },
     {
-      "title": "SpiceJet to file overdue financial results after BSE warns of suspension",
+      "title": "Bengaluru Metro Pink Line: Check Route, Fare, Timings And Other Details",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/spicejet-to-file-overdue-financial-results-after-bse-warns-of-suspension-126111300636_1.html",
-      "publishedAt": "Fri, 13 Nov 2026 12:35:59 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex at day's low, down 400 pts, Nifty near 25,100; Nifty Bank down 1%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html",
-      "publishedAt": "Fri, 13 Nov 2026 12:32:17 +0530"
-    },
-    {
-      "title": "Gold Price Jumps By Rs 1,300, But Rate Still Below Rs 1,37,000 On MCX",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/gold-price-jumps-by-rs-1-300-but-rate-still-below-rs-1-37-000-on-mcx-12320976#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 12:31:28 +0530"
+      "link": "https://www.ndtvprofit.com/india/bengaluru-metro-pink-line-check-route-fare-timings-and-other-details-12321178#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 13:10:37 +0530"
     },
     {
       "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
@@ -195,16 +220,10 @@
       "publishedAt": "Fri, 13 Nov 2026 07:28:07 GMT"
     },
     {
-      "title": "Indian Markets Fall: Sensex Tumbles 460 Pts on Inflation Fears - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG9UUVdVUXY3NlgzTGhXZDJkbnNkNVUwQmxteU5lLVZQRVRLaHFESW9hR1FjTEJTakFTWjVsQ3kzY0o2d00xakcxVE5tVUJaald1ODZnMXVvb0pvVUtJams3dTd1eUxsVUdqcmpvZXZPQjFfTHhuZE9GcGFWbWZsb3lmNUdGRlBrazZzdFNOaUc5V0tTSFlpUDdSakdaTFF6SFo1QlZkTW5GZ2g4R0txQVByTdIBuAFBVV95cUxPRHhfd0Vyekt2ZHJ5SmtmYkxPOHZ2RG9lUlV2c1FiLXFaVnp2SjdablBVa0I4OU9ZV2hPQ2R4T0kxWmoweDRzbkhhVEUzZndxMXVfWEtXSTVFN2VCOTA4RnRfZkVqMEowdlR1YzYxODlqUmIzRDRqYmJFSHVuSTZnM2pXYUN4V3FjUUswVk5DRlhjd2ROWXJoTlBNcW9UczZtZUpOdHBiQWM2RWVNOGxEdG10SzBVQk1V?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 04:41:07 GMT"
-    },
-    {
-      "title": "Stock Market Today: Sensex, Nifty Eye Muted Opening - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHItekhwUXJmb1ZYejI4NG9MaUZNeUIzRS13M3Jvd0xSQXFhUER0d0lGei1wSEZWYk9UREY1RE9WREFSQk1GQ2Rhdlp2Yk9hY19kNDlEZjE3SWtKbzh3aVhFTHBkMXdYMlpPb2hBYTJYcTlESWRDc3Q5Y3QwQ0NCX1B5TUc5dFN1STllWmxlODlwTVBfWDQtT2JocFdXazVuOE1qQTh2WkZfUGNLZzNXRWw3ZVhyUDloM2RMZjQ1OGlRbHdIejh0NHhBbnE?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 03:32:52 GMT"
+      "title": "Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty - INDIA New England News",
+      "source": "INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGFCTzJ0UzBpdmVNcE9GMmhjaWQzZ1I0Y0NfWmRnRFdxNFhRaFFOR2RCZF9haWxrQ05aTXBLdkNRMjhCMTVYNE1mV1p6LWdqd1gtNVpuVWxhUFVkTEpnVGtjYmZGTXo1VTVSSWd3TEJmcFNRZGNWdXphUUY4cVBTWGVTMUJnaFI1WmQ1NDdLQWc2bW05OFQyNC13b3JxZGlVWW00?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 16:42:07 GMT"
     },
     {
       "title": "India VIX Slips Despite Weak Sensex, Nifty Opening - HDFC Sky",
@@ -213,16 +232,22 @@
       "publishedAt": "Fri, 13 Nov 2026 05:07:55 GMT"
     },
     {
+      "title": "Stock Market Today: Sensex, Nifty Eye Muted Opening - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHItekhwUXJmb1ZYejI4NG9MaUZNeUIzRS13M3Jvd0xSQXFhUER0d0lGei1wSEZWYk9UREY1RE9WREFSQk1GQ2Rhdlp2Yk9hY19kNDlEZjE3SWtKbzh3aVhFTHBkMXdYMlpPb2hBYTJYcTlESWRDc3Q5Y3QwQ0NCX1B5TUc5dFN1STllWmxlODlwTVBfWDQtT2JocFdXazVuOE1qQTh2WkZfUGNLZzNXRWw3ZVhyUDloM2RMZjQ1OGlRbHdIejh0NHhBbnE?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 03:32:52 GMT"
+    },
+    {
+      "title": "Sensex recovers 500 pts from day’s low, Nifty above 25,200: Firm global cues among key factors behind... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQ1hTRTdxUHBiQlJnMGMzR2FJZWM5Q2lTME1qV0t4NGNvY2dnZmIwcW5VR2RSVXN0R3ZXM3dNYlFYY1o5RUVlbXRMRFNLSWRhOU1BMTZxbnB2a0FoRl9PV3ZSV0NRbXlRLXlFY1RwTEtVQUhMTGRLMzJVU1FGaEdrY2hWSXlDc2M4N2RXQnZ5Y1ZnZ1Z4QV9yY2VXeU9OMHh1M2dhQXItTHpacWltZ0loTzllWVdDTEg4NW1vNHZ3OXdWdHU4eG5GQVUxQWhYdF8zRDFyY2YzblFVbFljaTF4YmpsT2RSVldqbUNmZkQwRXB3d0JxZlVhbXFYelhmM0w0Rl9LWTltSmlxUG82cU80U1V5RdIBmAJBVV95cUxQS0pfREhodmZkTFNUTWt4SlRGSS1fcEVGcFNGQXBEejJPTU9ycHNTa2stMWxYbVc0TG9oSmlTMXZiWlU5RkhieDhNRGRoRXcwcGR2dGZpdWdRVUZ5QXlZelh3elQ1eDA1dTNLRFE2TnAtVGRXWnBDLWZzTnNDTVhPbngxbEdaYXdsWVhlYy1GRy1fbERlVVV3MllFOHFyQTE1dHg1ZkdINDZGbmh3RTZtcDF2dzc1QTVmSkJ4MWRRaG94SE1waHJ6RWtzcG0zODFtZ2Jjd3FOOUhUS2VpaG9pMkdPa2xTTmc0dUpmQ3FSLUlVQnhaMC1KZEUybGtkTnh0M3V5YnlMR0xFTTZ5dF9vSTlSZ1kycWpZ?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 04:28:17 GMT"
+    },
+    {
       "title": "Sensex down 400 pts, Nifty near 25,150: Rise in crude oil prices among key factors behind market decline - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVml5V280VmhOb013TTJCbHRGTnowYnVvbktkaWxUcGJHVVY0RUdzZGFDX2VvNDJKSDJZMUxCVW85eU1kN3BiOFlTYWVWUVRjTE9HUnhlZmdNTW1PT2J6cHprN3pESFJUV3pVcGxVanJQUWF4ZFh3aU1ucDBubXNIWEtyRFR1eGtiTkVUa2NQNU5RSVV5NWxQb3FmQ253TG1DV3ViYzlsNXBXNmVoX0RZSXBZeGZ3ZHpFZ1dVcjFiRVczODg3Z2xRbk1NODNVQVFzbmtZNWg4RHJZbHg2RTlEN0NKTFVPVk1qVXZOMzhqaHhSS3NBWnVLN2x0LUoxbzVES0lwa2pNVEdDcl9fNFHSAZMCQVVfeXFMTlg2cEZCUE02eVdncHN2V1M4N1VjYzQtZ0hLSmM4N1Q1eUJyMjgxS0RlNFh0SWpCVi1WR29KUWlaQlVVR2JFcEgxNE12WGZiZlZFeEFZUHRDa2UzM1J3RHUwMlZ4NG8xZ3BBUjhtVWE3aERadEtJR0gwaUpZVDIzUkRXUTNKU051TFQ2bHlRSEc0WmY3WmVGbVdZYVhqdGJRUEViRWZaa3lsWGdaOHZiM25PSWNlT0FINzVIRkZNX3M0VXdEa01aRGd0bktMQjlZaXlsdjYxRlBmQk1ZWm1SOVVkbTV2T1JrVDFaZ1pWakpwcTl4QTExME1ILVFtOTRHLVVXSVQ3c3ZuYWt6WC02WDk5cjQ?oc=5",
       "publishedAt": "Fri, 13 Nov 2026 04:05:42 GMT"
-    },
-    {
-      "title": "Stock Market Today: Sensex, Nifty Surge 1.7% at Pre-Open - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmZXRmphYkxQYnIxT3ZHMi1xMlBhMkZ5NEhGajFjcTR6bzU5WmFXMDNwbkg3NkREZ18wNkZNbjhDTXNSZ1VzUlYyR0hjWUV4aE5LN3hKNEp0U1U4dF85dHVrZVBMS1NZZk5LcEtUQlN2bXhMQjhuX1lmX2lXZEdjOEs4NGdSc1Rsd0JpM1VGZ1VZMXc5UzFjU28yRQ?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 03:40:40 GMT"
     }
   ]
 }
