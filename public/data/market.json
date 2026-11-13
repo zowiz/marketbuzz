@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex drops 319 points and Nifty falls below 25,150 as inflation concerns and crude prices weigh",
+  "headline": "Sensex and Nifty end lower, snapping winning streak as inflation concerns and rising crude oil prices weigh on sentiment",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,32 +7,40 @@
     "nextOpen": ""
   },
   "why": [
-    "Rising crude oil prices revived inflation concerns among market participants.",
-    "Selling pressure in key financial stocks pushed benchmark indices lower.",
-    "Market rally snapped after earlier intraday recoveries failed to sustain.",
-    "Concerns over global inflation trends weighed on overall investor sentiment."
+    "Inflation concerns weighed heavily on market sentiment and investor confidence",
+    "Rising crude oil prices revived fears of persistent inflationary pressure",
+    "Weak global cues and volatility in AI-related trades impacted domestic markets",
+    "Profit booking occurred after the indices' recent winning streak"
   ],
   "whatHappening": [
-    "Sensex closed down 319 points while Nifty50 dropped to 25,144.",
-    "Paytm shares hit a record high after receiving RBI's in-principle approval to revive its wallet business.",
-    "Godrej Properties purchased a 31-acre land parcel in Indore for Rs 130 crore to construct a housing project.",
-    "Razorpay secured regulatory approval for its upcoming IPO."
+    "Sensex dropped 319 points to close at 25,144 while Nifty 50 slipped below 25,150",
+    "Passenger vehicle wholesales grew 12% YoY in October, exceeding 5 lakh units",
+    "Eicher Motors and ABB India reported strong quarterly financial results with double-digit profit growth",
+    "The CAG has initiated its first in-depth performance audit of fertiliser subsidies since 2011"
   ],
   "stocksInNews": [
     {
-      "symbol": "PAYTM",
+      "symbol": "EICHERMOT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "ABB",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "MANINDS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         4
-      ]
-    },
-    {
-      "symbol": "GODREJPROP",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        8
       ]
     },
     {
@@ -52,21 +60,21 @@
       ]
     }
   ],
-  "summary": "Indian stock markets snapped their winning streak on November 13 as Sensex fell 319 points and Nifty dipped below 25,150 due to inflation concerns and rising crude prices. Paytm shares touched a record high following RBI's in-principle nod for its wallet business, while Godrej Properties acquired 31 acres in Indore for Rs 130 crore. Shriram Finance and Manappuram Finance ended among the top losers of the trading session.",
-  "updatedAt": "2026-11-13T14:01:42.513Z",
+  "summary": "Indian markets snapped their winning streak on November 13, with the Sensex falling 319 points due to inflation and crude oil concerns. Despite the broad sell-off, Eicher Motors and ABB India posted strong earnings, while Shriram Finance emerged as a top loser. Additionally, the auto sector reported robust October wholesales, crossing the 5-lakh unit milestone.",
+  "updatedAt": "2026-11-13T15:01:52.819Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-13",
   "articleKeys": [
+    "cag initiates first indepth audit of fertiliser subsidy since 2011",
+    "eicher motors posts 15 rise in q2 profit as royal enfield sales hit record",
+    "tata sons rejects noels request for audiovideo recording of september 17 boardmeet",
+    "abb india q3cy26 results net profit rises 11 to 440 cr revenue up 194",
+    "man industries pat rises to rs 82 cr in q2",
+    "pv wholesales cross 5 lakh units in october up 12 yoy siam",
+    "india seeks positive constructive ties with bangladesh says mea",
     "cag initiates first performance audit on fertiliser subsidy since 2011",
     "agnikul to set up andhra pradesh facility for orbital data centre units",
     "nasdaq futures muted as nvidia turmoil rattles ai trade stock market live updates",
-    "indian fintech firm razorpay gets regulatory nod for ipo",
-    "paytm gets rbis inprinciple nod to revive wallet business shares hit record high",
-    "dwarka expressway crash car at 200 kmph hits tunnel wall 22yearold driver killed",
-    "mauricio pochettino becomes manchester uniteds eighth permanent manager since alex fergusons retirement in 2013",
-    "nvidia prompts rotation in chip stocks amd intel broadcom down 2 in premarket trade",
-    "godrej properties buys 31acre land in indore for rs 130 cr to build housing project",
-    "german yields set for biggest weekly rise in two months",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
     "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
     "market wrap nov 13 indices snap winning streak sensex falls 319 pts nifty50 ends at 25144 shriram fin top loser upstox",
@@ -79,6 +87,48 @@
     "markets snap rally sensex drops nifty below 25150 on inflation rediff moneywiz"
   ],
   "articles": [
+    {
+      "title": "CAG initiates first in-depth audit of fertiliser subsidy since 2011",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/agriculture/cag-initiates-first-performance-audit-on-fertiliser-subsidy-since-2011-126111301509_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 19:50:40 +0530"
+    },
+    {
+      "title": "Eicher Motors posts 15% rise in Q2 profit as Royal Enfield sales hit record",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/eicher-motors-posts-15-rise-in-q2-profit-as-royal-enfield-sales-hit-record-126111301605_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 19:47:59 +0530"
+    },
+    {
+      "title": "Tata Sons rejects Noel's request for audio-video recording of September 17 boardmeet",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/tata-sons-rejects-noels-request-for-audio-video-recording-of-september-17-boardmeet/article71698410.ece",
+      "publishedAt": "Fri, 13 Nov 2026 19:41:12 +0530"
+    },
+    {
+      "title": "ABB India Q3CY26 results: Net profit rises 11% to ₹440 cr, revenue up 19.4%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/abb-india-q3cy26-results-net-profit-rises-11-to-440-cr-revenue-up-19-4-126111301458_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 19:32:05 +0530"
+    },
+    {
+      "title": "MAN Industries PAT rises to Rs 82 cr in Q2",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/man-industries-pat-rises-to-rs-82-cr-in-q2/articleshow/135806024.cms",
+      "publishedAt": "Fri, 13 Nov 2026 19:30:47 +0530"
+    },
+    {
+      "title": "PV wholesales cross 5 lakh units in October, up 12% YoY: SIAM",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/pv-wholesales-cross-5-lakh-units-in-october-up-12-yoy-siam/article71698314.ece",
+      "publishedAt": "Fri, 13 Nov 2026 19:22:27 +0530"
+    },
+    {
+      "title": "India seeks 'positive, constructive' ties with Bangladesh, says MEA",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/external-affairs-defence-security/news/india-seeks-positive-constructive-ties-with-bangladesh-says-mea-126111301442_1.html",
+      "publishedAt": "Fri, 13 Nov 2026 19:10:24 +0530"
+    },
     {
       "title": "CAG initiates first performance audit on fertiliser subsidy since 2011",
       "source": "Zerodha Pulse",
@@ -96,48 +146,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms",
       "publishedAt": "Fri, 13 Nov 2026 18:41:45 +0530"
-    },
-    {
-      "title": "Indian fintech firm Razorpay gets regulatory nod for IPO",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/indian-fintech-firm-razorpay-gets-regulatory-nod-for-ipo/article71698143.ece",
-      "publishedAt": "Fri, 13 Nov 2026 18:40:18 +0530"
-    },
-    {
-      "title": "Paytm gets RBI’s in-principle nod to revive wallet business; shares hit record high",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/indias-paytm-gets-preliminary-rbi-nod-for-wallet-licence-shares-hit-record-high/article71697554.ece",
-      "publishedAt": "Fri, 13 Nov 2026 18:30:55 +0530"
-    },
-    {
-      "title": "Dwarka Expressway Crash: Car At 200 Kmph Hits Tunnel Wall, 22-Year-Old Driver Killed",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/dwarka-expressway-crash-car-at-200-kmph-hits-tunnel-wall-22-year-old-driver-killed-12322722#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 18:27:14 +0530"
-    },
-    {
-      "title": "Mauricio Pochettino Becomes Manchester United's Eighth Permanent Manager Since Alex Ferguson's Retirement In 2013",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/mauricio-pochettino-becomes-manchester-uniteds-eighth-permanent-manager-since-alex-fergusons-retirement-in-2013-12322667#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 18:27:06 +0530"
-    },
-    {
-      "title": "Nvidia Prompts Rotation In Chip Stocks: AMD, Intel, Broadcom Down 2% In Pre-Market Trade",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nvidia-prompts-rotation-in-chip-stocks-amd-intel-broadcom-down-2-in-pre-market-trade-12322774#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 18:27:04 +0530"
-    },
-    {
-      "title": "Godrej Properties buys 31-acre land in Indore for Rs 130 cr to build housing project",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/godrej-properties-buys-31-acre-land-in-indore-for-rs-130-cr-to-build-housing-project/articleshow/135804198.cms",
-      "publishedAt": "Fri, 13 Nov 2026 18:24:17 +0530"
-    },
-    {
-      "title": "German yields set for biggest weekly rise in two months",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/german-yields-set-for-biggest-weekly-rise-in-two-months/articleshow/135804160.cms",
-      "publishedAt": "Fri, 13 Nov 2026 18:22:46 +0530"
     },
     {
       "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
