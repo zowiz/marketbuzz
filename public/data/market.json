@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty trade lower as inflation concerns and banking stocks weigh; MSTC hits 20% upper circuit.",
+  "headline": "Sensex and Nifty fall as inflation concerns weigh on markets; bank and auto stocks struggle",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,34 +7,73 @@
     "nextOpen": ""
   },
   "why": [
-    "Hot inflation prints are pressuring Indian debt markets and dampening investor sentiment.",
-    "Major banking and auto stocks are struggling, contributing to the overall market decline.",
-    "Investors are engaging in profit-taking after a three-day rally in the previous sessions.",
-    "Global tech stability concerns arose following reports of a Microsoft Outlook outage."
+    "Inflation concerns are weighing heavily on investor sentiment across global and domestic markets",
+    "Significant selling pressure observed in the banking and automobile sectors",
+    "Negative global cues and volatility in early trading sessions",
+    "Specific stock-level declines in major companies like HDFC Bank and Tata Motors"
   ],
   "whatHappening": [
-    "The Sensex tumbled 460 points in early trade and remained volatile throughout the morning session.",
-    "MSTC shares reached a 20% upper circuit after reporting its Q2 financial results.",
-    "The Indian Rupee appreciated by 7 paise to 94.05 against the U.S. dollar.",
-    "Jindal Power secured a $470 million loan for a power project in Botswana."
+    "The Sensex dropped over 500 points while the Nifty 50 slipped below the 25,150 level",
+    "Orient Cables shares witnessed a sharp decline of 10% during the trading session",
+    "Tata Consumer Products announced a hike in Tur Dal prices by Rs 20 per kg",
+    "NSEIX Global Access has expanded its investment opportunities into European markets"
   ],
   "stocksInNews": [
     {
-      "symbol": "MSTC",
-      "sentiment": "Positive",
+      "symbol": "ORIENTCABLE",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        8
+        7
+      ]
+    },
+    {
+      "symbol": "SPICEJET",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "TATACONSUM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        9
+      ]
+    },
+    {
+      "symbol": "SHRIRAMFIN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        15,
+        16
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        16
       ]
     },
     {
       "symbol": "HDFCBANK",
       "sentiment": "Negative",
-      "sources": "Mentioned by 4/9 sources",
+      "sources": "Mentioned by 2/9 sources",
       "articleIds": [
-        1,
         15,
-        16,
         19
       ]
     },
@@ -45,102 +84,94 @@
       "articleIds": [
         19
       ]
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        7
-      ]
     }
   ],
-  "summary": "The Indian stock market is trading lower today as high inflation data and weakness in banking stocks like HDFC Bank weigh on sentiment.\nMSTC is a notable outperformer, hitting a 20% upper circuit after its Q2 results, while the Rupee showed slight gains against the dollar.\nInvestors remain cautious following a three-day rally, with the Nifty struggling to maintain the 25,200 level.",
-  "updatedAt": "2026-11-13T06:35:46.393Z",
+  "summary": "Indian markets are trading lower today with the Sensex falling over 500 points due to rising inflation concerns. Major laggards include HDFC Bank, Tata Motors, and Shriram Finance, while Orient Cables saw a sharp 10% decline. Sentiment remains cautious as bank and auto stocks struggle amid broader market volatility.",
+  "updatedAt": "2026-11-13T07:02:33.135Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-13",
   "articleKeys": [
-    "microsoft outage live microsoft says steps to fix outlook outage not going as expected",
-    "stock market live sensex stuck in range down 100 pts nifty near 25200 bank shares weigh",
-    "jindal power secures 470 million loan for botswana power project",
-    "carlsberg said to start road show for 600 million india ipo",
-    "top pension fund to buy more india state bonds on high yields",
-    "markets fall in early trade after threeday rally sensex tumbles 460 points",
-    "rupee rises 7 paise to 9405 against us dollar in early trade",
-    "ai bubble will play out like dotcom sunil mittal sees opportunity for india after the froth",
-    "mstc share price hits 20 upper circuit after q2 results more steam ahead for psu stock",
-    "india bonds under pressure before debt supply hot inflation prints pinch further",
+    "saw 100 foot crane falling towards me kajal aggarwal recalls terrifying accident on indian 2 set",
+    "rs 10 lakh in one bank or rs 5 lakh each in two banks is your money equally protected",
+    "om director reveals mammoottys unique script preparation method he took his own time",
+    "nseix global access expands investment opportunities across european markets",
+    "contact spicejet directly delhi airport issues advisory as airlines flights may get impacted",
+    "snakes falling from the sky in gaza viral videos trigger buzz online heres the truth",
+    "bitcoin price slide below 70000 as inflation concerns hurt crypto",
+    "stock market live sensex down 300 pts nifty below 25200 orient cables shares drop 10",
+    "mumbai coastal road accident multiple vehicles collide on northbound marine line to worli route watch",
+    "tata consumer products hikes tur dal prices by rs 20 a kg to rs 135 further increases likely up to rs 200",
     "stock market today highlights sensex ends 770 points higher nse nifty50 closes above 25250 the times of india",
     "stock market close sensex ends volatile session marginally higher nifty at 25299 realty up 4 business standard",
     "stock market outlook today 13 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "closing bell nifty at 25300 sensex flat amid volatility realty stocks outperform moneycontrolcom",
     "stock market outlook today 12 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "sensex today stock market live sensex falls over 250 pts nifty below 25200 banks metals slide energy fmcg gain moneycontrolcom",
-    "stock market today live updates sensex falls over 250 pts nifty below 25200 bank auto stocks struggle the economic times",
+    "stock market today live updates sensex falls over 500 pts nifty below 25150 bank auto stocks struggle the economic times",
+    "sensex today stock market live nifty at 25100 sensex slips 470 pts shriram finance tata motors pv hindalco top losers moneycontrolcom",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
     "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
     "sensex today trades lower nifty below 25250 hdfc bank titan company top losers equitymaster"
   ],
   "articles": [
     {
-      "title": "Microsoft Outage LIVE: Microsoft says steps to fix Outlook outage not going 'as expected'",
+      "title": "'Saw 100 Foot Crane Falling Towards Me': Kajal Aggarwal Recalls Terrifying Accident On Indian 2 Set",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
-      "publishedAt": "Fri, 13 Nov 2026 11:01:40 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/kajal-aggarwal-recalls-terrifying-accident-on-indian-2-set-saw-100-foot-crane-falling-towards-me-12320609#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 11:59:51 +0530"
     },
     {
-      "title": "Stock Market LIVE: Sensex stuck in range, down 100 pts, Nifty near 25,200; bank shares weigh",
+      "title": "Rs 10 Lakh In One Bank Or Rs 5 Lakh Each In Two Banks: Is Your Money Equally Protected?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/personal-finance/rs-10-lakh-in-one-bank-or-rs-5-lakh-each-in-two-banks-is-your-money-equally-protected-12320926#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 11:58:24 +0530"
+    },
+    {
+      "title": "OM Director Reveals Mammootty's Unique Script Preparation Method: 'He Took His Own Time’",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/om-director-reveals-mammoottys-unique-script-preparation-method-he-took-his-own-time-12320893#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 11:55:01 +0530"
+    },
+    {
+      "title": "NSEIX Global Access Expands Investment Opportunities Across European Markets",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/nseix-global-access-expands-investment-opportunities-across-european-markets-12320821#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 11:50:56 +0530"
+    },
+    {
+      "title": "Contact SpiceJet Directly: Delhi Airport Issues Advisory As Airline's Flights May Get Impacted",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/contact-spicejet-directly-delhi-airport-issues-advisory-as-flights-may-be-impacted-amid-airline-s-operational-challenges-12320846#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 11:50:36 +0530"
+    },
+    {
+      "title": "Snakes Falling From The Sky In Gaza? Viral Videos Trigger Buzz Online; Here’s The Truth",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/trending/snakes-falling-from-the-sky-in-gaza-viral-videos-trigger-buzz-online-here-s-the-truth-12320810#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 11:45:26 +0530"
+    },
+    {
+      "title": "Bitcoin Price Slide Below $70,000 As Inflation Concerns Hurt Crypto",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/bitcoin-price-slide-below-70-000-as-inflation-concerns-hurt-crypto-12320890#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 11:41:27 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex down 300 pts, Nifty below 25,200; Orient Cables shares drop 10%",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bn-agrochem-share-split-november-13-126111300069_1.html",
-      "publishedAt": "Fri, 13 Nov 2026 11:01:33 +0530"
+      "publishedAt": "Fri, 13 Nov 2026 11:39:26 +0530"
     },
     {
-      "title": "Jindal Power secures $470 million loan for Botswana power project",
+      "title": "Mumbai Coastal Road Accident: Multiple Vehicles Collide On Northbound Marine Line To Worli Route | Watch",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/jindal-power-secures-470-million-loan-for-botswana-power-project-126111300500_1.html",
-      "publishedAt": "Fri, 13 Nov 2026 10:59:36 +0530"
+      "link": "https://www.ndtvprofit.com/india/mumbai-coastal-road-accident-multiple-vehicles-collide-on-northbound-marine-line-to-worli-route-watch-12320857#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 11:39:04 +0530"
     },
     {
-      "title": "Carlsberg said to start road show for $600 million India IPO",
+      "title": "Tata Consumer Products Hikes Tur Dal Prices By Rs 20 A Kg To Rs 135, Further Increases Likely Up To Rs 200",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-start-road-show-for-600-million-india-ipo/articleshow/135790402.cms",
-      "publishedAt": "Fri, 13 Nov 2026 10:45:15 +0530"
-    },
-    {
-      "title": "Top pension fund to buy more India state bonds on high yields",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/top-pension-fund-to-buy-more-india-state-bonds-on-high-yields/articleshow/135789980.cms",
-      "publishedAt": "Fri, 13 Nov 2026 10:31:33 +0530"
-    },
-    {
-      "title": "Markets fall in early trade after three-day rally; Sensex tumbles 460 points",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/markets-fall-in-early-trade-after-three-day-rally/article71696558.ece",
-      "publishedAt": "Fri, 13 Nov 2026 10:26:15 +0530"
-    },
-    {
-      "title": "Rupee rises 7 paise to 94.05 against U.S. dollar in early trade",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/rupee-rises-7-paise-to-9405-against-us-dollar-in-early-trade/article71696547.ece",
-      "publishedAt": "Fri, 13 Nov 2026 10:17:22 +0530"
-    },
-    {
-      "title": "'AI Bubble Will Play Out Like Dotcom': Sunil Mittal Sees Opportunity For India After The Froth",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/ai-bubble-will-play-out-like-dotcom-sunil-mittal-sees-opportunity-for-india-after-the-froth-12320569#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 10:17:00 +0530"
-    },
-    {
-      "title": "MSTC Share Price Hits 20% Upper Circuit After Q2 Results. More Steam Ahead For PSU Stock?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/mstc-share-price-hits-20-after-q2-results-more-steam-ahead-for-psu-stock-12320583#publisher=newsstand",
-      "publishedAt": "Fri, 13 Nov 2026 10:16:05 +0530"
-    },
-    {
-      "title": "India bonds under pressure before debt supply; hot inflation prints pinch further",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-under-pressure-before-debt-supply-hot-inflation-prints-pinch-further/articleshow/135789760.cms",
-      "publishedAt": "Fri, 13 Nov 2026 10:16:04 +0530"
+      "link": "https://www.ndtvprofit.com/business/tata-consumer-products-hikes-tur-dal-prices-by-rs-20-a-kg-to-rs-135-further-increases-likely-up-to-rs-200-12320878#publisher=newsstand",
+      "publishedAt": "Fri, 13 Nov 2026 11:37:50 +0530"
     },
     {
       "title": "Stock Market Today Highlights: Sensex ends 770 points higher, NSE Nifty50 closes above 25,250 - The Times of India",
@@ -173,16 +204,16 @@
       "publishedAt": "Thu, 12 Nov 2026 01:15:59 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Sensex falls over 250 pts, Nifty below 25,200; banks, metals slide; energy, FMCG gain - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSUw0SXFDNzRDNWF3V2VkQnZsa29mdWlRU0JGOTh2M25CMXNOakVBb2dYaXREbGliaXVOTUlYdExERFB6UVN2dDVlTEwwcjFrMlRWSDk5ekU5MTEzWDhlLVNPUXRJa2NFQ0Y4ZHpURldZTDNqOVdTTkxwSFRLVkR3T2RlSGVvNlJ4MHhDZmpVSnpocGpTdFJPLTVMNEk0Y3FDc0RDVFNWQkFuSWVMU0U2RENQb0lHWUlBcjRxZ3dXNlZjWHNNa0t0dWNyYkZIWndmZTVhOXVyNG5ubW9xOTlpYlJ2bmNsc1ljSDVNRHhBeXI5RnhZWGVLQV9xWVFBXzdJRGlYRHhRd3dVelNKbFV1R3A4aU9rdXRhVE01VFRkUmVnN1XSAagCQVVfeXFMT29fYVFNclg2WTcwVVZuRzVROXE5bU9SeFIyd2owSC1ELWF1c244LWF2OWJueGRaX1FNLUJQRTVVY05ZeUw0eUs5WFBoYnBNcFNYQXFaZVBzM2VnRFdKUkFvbEVWRGJVcEhjSnhFR1dabTlVRGJ3MGRvRGt1NEk2YmZyVkJPWnN0eURHUWl1YmxBWnE0ZjQxQUh6QU5lZlJhZ1NBaWh1b2JFZTFraXdCbzdVNHQzNkh6RlBoUnh2TmljZXBPYW10bkd1V2x3ZnlGSHRBT3R4Znc1Wl8xZk5McXVFbzZ1X0pCNlNQd3Q5cFp6elJqaEQ3ZU9xX1dtdXprUjc2M19sT3JHRGlMa2sycmluNm0wa2R5TjdHdGJLQm4xTEk2Y0pjZm4?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 06:13:56 GMT"
-    },
-    {
-      "title": "Stock Market Today Live Updates: Sensex falls over 250 pts, Nifty below 25,200; bank, auto stocks struggle - The Economic Times",
+      "title": "Stock Market Today Live Updates: Sensex falls over 500 pts, Nifty below 25,150; bank, auto stocks struggle - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOVBUUDZoeXRFWXRubmZJRk01QUE5Um5rZ0xJNDh1QTkzXzRuVlZjeV9STzJCT00tWXB1cFJlWWk4SmJJcm9zTWt2MUx4WTRIelRzd2Nzc1ExV0RZNlBiWmpyZ2pubEhPMG4zSDFsZGQtRURqWW9wZWs4eXdaMkh3WWlubmUtTXlOMFRFd3Y4NHo1NFZldzVzRWRjcWVncmFhNEtIX0VoalUtZDVKY3ZkeWU1azdiT1NMTnlTVHh4STNlMU9SN3h0VlZvc0lNOFIybnRKZzRoUDNyblpTWW5KT29kSXU0TUNwTk45WTFHblpUOUc3ZlF4Y2RTMmJKLWFSN2FSM1J2eHYxRzhQRE4yRNIBlgJBVV95cUxNZHpGeEN6RzZ0VEMwU2JSOW1XQktzUHZoOEdwN0l4ZEpVWTdfV1Eyam9VQXJjU2Y3SnlZLTdlcFY4ZEU2dG5PTVhyb0FseHZicmxGaFdFRUV6dllPUEJsX2hhdXRuRVpDd1lLalRjb2lveGw4WmRqX2lTckE4SXU1NHVjUHM4SnMxbHRhQTRiUTVNNXk2emhqNnlDc012RGhqSFc3RllWbWM5MERMYlFnaWVVUTVveXBQV2pCUmhIYmhFVjRhZjdlb3MzRkFxYXJlUFRiYm5EVkpLRnE0UjA2V1BhX3lDUlZGbDlMUllFTnJtdzRXYUpYbjJhc1dvNVpMUExRREt5aFVlY3dwNHUxc0RKVTFRdw?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 06:20:03 GMT"
+      "publishedAt": "Fri, 13 Nov 2026 06:57:18 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Nifty at 25,100, Sensex slips 470 pts; Shriram Finance, Tata Motors PV, Hindalco top losers - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSUw0SXFDNzRDNWF3V2VkQnZsa29mdWlRU0JGOTh2M25CMXNOakVBb2dYaXREbGliaXVOTUlYdExERFB6UVN2dDVlTEwwcjFrMlRWSDk5ekU5MTEzWDhlLVNPUXRJa2NFQ0Y4ZHpURldZTDNqOVdTTkxwSFRLVkR3T2RlSGVvNlJ4MHhDZmpVSnpocGpTdFJPLTVMNEk0Y3FDc0RDVFNWQkFuSWVMU0U2RENQb0lHWUlBcjRxZ3dXNlZjWHNNa0t0dWNyYkZIWndmZTVhOXVyNG5ubW9xOTlpYlJ2bmNsc1ljSDVNRHhBeXI5RnhZWGVLQV9xWVFBXzdJRGlYRHhRd3dVelNKbFV1R3A4aU9rdXRhVE01VFRkUmVnN1XSAagCQVVfeXFMT29fYVFNclg2WTcwVVZuRzVROXE5bU9SeFIyd2owSC1ELWF1c244LWF2OWJueGRaX1FNLUJQRTVVY05ZeUw0eUs5WFBoYnBNcFNYQXFaZVBzM2VnRFdKUkFvbEVWRGJVcEhjSnhFR1dabTlVRGJ3MGRvRGt1NEk2YmZyVkJPWnN0eURHUWl1YmxBWnE0ZjQxQUh6QU5lZlJhZ1NBaWh1b2JFZTFraXdCbzdVNHQzNkh6RlBoUnh2TmljZXBPYW10bkd1V2x3ZnlGSHRBT3R4Znc1Wl8xZk5McXVFbzZ1X0pCNlNQd3Q5cFp6elJqaEQ3ZU9xX1dtdXprUjc2M19sT3JHRGlMa2sycmluNm0wa2R5TjdHdGJLQm4xTEk2Y0pjZm4?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 06:58:36 GMT"
     },
     {
       "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
