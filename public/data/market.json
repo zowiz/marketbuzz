@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex, Nifty Decline Amid Inflation Fears and Rising Crude Oil Prices",
+  "headline": "Sensex and Nifty Slide on Inflation Fears and Rising Crude Oil Prices Before Recovering",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -8,26 +8,17 @@
   },
   "why": [
     "Inflation concerns weighed heavily on broad market sentiment.",
-    "A rise in crude oil prices acted as a major factor behind the market decline.",
-    "Weakness in banking stocks pushed Nifty Bank down by around 1%.",
-    "Heavyweight stocks including HDFC Bank and Titan Company featured among the top losers."
+    "A rise in crude oil prices contributed to the market decline.",
+    "Nifty Bank dropped around 1%, putting pressure on financial stocks.",
+    "Major heavyweights like HDFC Bank and Titan Company were top losers."
   ],
   "whatHappening": [
-    "Sensex dropped over 400 points to hit intraday lows before recovering back above 25,200.",
-    "SpiceJet shares hit a 5% upper circuit after announcing a fundraising plan.",
-    "Gillette India reported a 10% rise in Q2 profit while Goodyear India saw a 31% profit jump.",
-    "India VIX slipped despite a weak opening in benchmark indices."
+    "Sensex tumbled over 400 points to hit its day low while Nifty traded near 25,100 levels.",
+    "Markets later saw a recovery of over 400 points from day lows, pushing Nifty back above 25,200.",
+    "SpiceJet shares hit a 5% upper circuit following announcement of a fundraising plan.",
+    "Q2 corporate earnings saw Gillette India profit rise 10% and Goodyear India profit jump 31%."
   ],
   "stocksInNews": [
-    {
-      "symbol": "SPICEJET",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        3,
-        7
-      ]
-    },
     {
       "symbol": "GILLETTE",
       "sentiment": "Positive",
@@ -61,11 +52,20 @@
       ]
     },
     {
+      "symbol": "SPICEJET",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        3,
+        7
+      ]
+    },
+    {
       "symbol": "HDFCBANK",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        12
+        13
       ]
     },
     {
@@ -73,12 +73,12 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        12
+        13
       ]
     }
   ],
-  "summary": "Indian benchmark indices opened lower on November 13 amid rising inflation fears and higher crude oil prices. Sensex tumbled up to 400 points near intraday lows before recovering key levels. Stock-specific action remained prominent with positive earnings from Gillette India and Goodyear India, alongside a 5% upper circuit rally in SpiceJet.",
-  "updatedAt": "2026-11-13T08:02:02.151Z",
+  "summary": "Indian benchmark indices opened lower and dropped 400 points due to inflation concerns and rising crude oil prices. HDFC Bank and Titan were key drags, while Nifty Bank slid 1%. The indices later staged a recovery from day lows while SpiceJet surged 5% on fundraising news.",
+  "updatedAt": "2026-11-13T08:32:01.302Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-13",
   "articleKeys": [
@@ -93,6 +93,7 @@
     "stock market live sensex at days low down 400 pts nifty near 25100 nifty bank down 1",
     "gold price jumps by rs 1300 but rate still below rs 137000 on mcx",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
+    "stock market outlook today 13 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
     "sensex today trades lower nifty below 25250 hdfc bank titan company top losers equitymaster",
     "sensex recovers over 400 points from days low nifty climbs above 25200 free press kashmir",
@@ -100,8 +101,7 @@
     "stock market today sensex nifty eye muted opening hdfc sky",
     "india vix slips despite weak sensex nifty opening hdfc sky",
     "sensex down 400 pts nifty near 25150 rise in crude oil prices among key factors behind market decline moneycontrolcom",
-    "stock market today sensex nifty surge 17 at preopen hdfc sky",
-    "indian stocks close higher as realty and banking gains lift sensex nifty india new england news"
+    "stock market today sensex nifty surge 17 at preopen hdfc sky"
   ],
   "articles": [
     {
@@ -171,6 +171,12 @@
       "publishedAt": "Fri, 13 Nov 2026 05:21:58 GMT"
     },
     {
+      "title": "Stock market outlook today, 13 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZVRSWFBWZjN1WEdKTmJaQXhoUWI0cTE5UmNNd0hQMG1NT0stMi1LSlY2dVJkdlAtamo4ZmdoN2hwWmRWalJUc3gxbUNGd0p5NGlSMm40b3NLX1VLYzdScHRvVG5DaFFFeXhxNjV0bjVBdTRuUjRsUU5BeWZZMV9oay1SV0hQc1pLLWZWVmFILTJIX3FlSmlCVWstNE9zaVZLa1NCWTBFQTM2bVJrdXJEQ2g2Mm5WeWJ4OXdrZmNVTThfUFBUNHVvQ2s0Uk9XVU1RbnZkNDQ3Q1pzUHo4V016Y2gxMFBVbF9OT0FQb3h2R0FvN0g3bWhsb2p3?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 04:52:00 GMT"
+    },
+    {
       "title": "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff",
       "source": "Rediff",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZk5GMVZZVVZYUU9PenIwbHFmTzE5MzlDWnN0X0J6bTY0Sng1SjNHYjIxRUFFZlA1OWpodXpYcW11Qk01MWRra29mblRORndpRGJBdEhOTkV6MjFGQUVfTGN5Q0Q0RlNKdlZPOWlYY0NnSF83Z0kyVkdiZ3kzSTNQalFYMzJMT2tyeVI1S3FhVU5hMzZrRlBfdmp3dllQSjJzMVlDYTZwZnJSQlFjb2pSTWdqZWd1QkFxaVpYdlprQnczU2I3eC1EcWF6dVpGYmJDdDdkY2QzajE2Snk3MHVfWU9n0gHkAUFVX3lxTE40YnM5akZ1cmlyeGRSdnlONURUdC1yTEptQ3Q2YzJmV2ZOaVd5blg2UnpYYWZPbTEwTTZRSG5ZX0E0VmdxSDgtTTlwMGpUOGE3US1WTW1lbWtHeUtuajJ1VHFzUm14VHNwQy1JbXFWWWplMllpZTlyVGgzOUloLXp2UW1DMTRPbkhEVkdjWHhzdGhWcHA1aHhtY0c4QS1vV1RpcUlwUFdnYjNxSFRjQVRLdkVWTFBIWk9mUVVqOEoyTC1penhYTEVNNnBydHp0QXJwNEtpa1RDYXB6ZWFCUF9LWnF0Qg?oc=5",
@@ -217,12 +223,6 @@
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVmZXRmphYkxQYnIxT3ZHMi1xMlBhMkZ5NEhGajFjcTR6bzU5WmFXMDNwbkg3NkREZ18wNkZNbjhDTXNSZ1VzUlYyR0hjWUV4aE5LN3hKNEp0U1U4dF85dHVrZVBMS1NZZk5LcEtUQlN2bXhMQjhuX1lmX2lXZEdjOEs4NGdSc1Rsd0JpM1VGZ1VZMXc5UzFjU28yRQ?oc=5",
       "publishedAt": "Wed, 11 Nov 2026 03:40:40 GMT"
-    },
-    {
-      "title": "Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty - INDIA New England News",
-      "source": "INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGFCTzJ0UzBpdmVNcE9GMmhjaWQzZ1I0Y0NfWmRnRFdxNFhRaFFOR2RCZF9haWxrQ05aTXBLdkNRMjhCMTVYNE1mV1p6LWdqd1gtNVpuVWxhUFVkTEpnVGtjYmZGTXo1VTVSSWd3TEJmcFNRZGNWdXphUUY4cVBTWGVTMUJnaFI1WmQ1NDdLQWc2bW05OFQyNC13b3JxZGlVWW00?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 16:42:07 GMT"
     }
   ]
 }
