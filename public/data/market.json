@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty eye muted opening on November 13; Kotak Bank and Dr. Reddy's in focus",
+  "headline": "Sensex falls over 400 points as HDFC Bank and M&M drag indices; Nifty slips toward 25,100.",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex down 70 points at pre-open while Nifty stays near 25,200",
-    "Most Asian markets are trading higher providing mixed global cues",
-    "Indian markets eye a muted opening following a volatile previous session",
-    "Realty stocks outperformed in the recent session, closing up 4%"
+    "HDFC Bank and M&M are leading losses in the Sensex and Nifty.",
+    "Asian markets show mixed but mostly rising trends while Indian indices face a muted opening.",
+    "Volatility remains a factor with the India VIX dropping 7% during the session.",
+    "IMF highlights India's need for high-quality job creation and productivity growth."
   ],
   "whatHappening": [
-    "Kotak Bank's beta indicates resilience in the current market environment",
-    "Dr. Reddy's Laboratories has achieved significant monthly returns for investors",
-    "IMF suggests India needs to focus on high-quality job creation and productivity",
-    "Eight stocks have shown a positive breakout by closing above their 200 DMA"
+    "The Sensex dropped over 400 points, while the Nifty 50 struggled to stay above 25,100.",
+    "Kotak Bank is showing market resilience according to its beta indicators.",
+    "Dr. Reddy's Laboratories has achieved significant monthly returns for investors.",
+    "Eight stocks recently achieved a positive breakout by closing above their 200-day moving average."
   ],
   "stocksInNews": [
     {
@@ -37,10 +37,21 @@
     },
     {
       "symbol": "M&M",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 3/9 sources",
       "articleIds": [
-        15
+        14,
+        15,
+        19
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/9 sources",
+      "articleIds": [
+        15,
+        19
       ]
     },
     {
@@ -48,12 +59,12 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        15
+        14
       ]
     }
   ],
-  "summary": "The Indian stock market is set for a muted opening on November 13, with the Sensex down 70 points in pre-open trade. Kotak Bank and Dr. Reddy's are highlighting individual stock action due to resilience and strong monthly returns. Investors are monitoring global cues as most Asian markets rise despite local volatility.",
-  "updatedAt": "2026-11-13T04:02:12.034Z",
+  "summary": "The Indian stock market opened lower on November 13, with the Sensex falling over 400 points and Nifty slipping toward 25,100. Major laggards include HDFC Bank and M&M, despite some resilience seen in Kotak Bank and positive monthly returns from Dr. Reddy's. Global cues remain mixed as the IMF stresses the importance of productivity growth for the Indian economy.",
+  "updatedAt": "2026-11-13T04:34:16.681Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-13",
   "articleKeys": [
@@ -71,12 +82,12 @@
     "stock market close sensex ends volatile session marginally higher nifty at 25299 realty up 4 business standard",
     "stock market outlook today 13 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "closing bell nifty at 25300 sensex flat amid volatility realty stocks outperform moneycontrolcom",
-    "why is indian stock market rising today sensex jumps over 1000 points nifty 50 above 25300 three reasons explained ndtv profit",
     "stock market highlights sensex rallies 773 pts nifty ends above 25250 mm jumps 5 indigo 4 the economic times",
+    "stock market live mm hdfc bank lead 100pt loss in sensex nifty near 25200 vix drops 7 business standard",
     "stock market outlook today 12 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
-    "stock market today massive jump in sensex nifty 45 lakh cr wealth added in a few mins reasons for bullish party livemint",
-    "indian shares rise on foreign flow optimism financials autos lead reuters",
-    "stock market today sensex nifty eye muted opening hdfc sky"
+    "stock market today sensex nifty eye muted opening hdfc sky",
+    "indian stocks close higher as realty and banking gains lift sensex nifty india new england news",
+    "sensex falls over 400 points nifty above 25100 hdfc bank mm among top losers india today"
   ],
   "articles": [
     {
@@ -164,16 +175,16 @@
       "publishedAt": "Thu, 12 Nov 2026 10:52:58 GMT"
     },
     {
-      "title": "Why Is Indian Stock Market Rising Today? Sensex Jumps Over 1,000 Points, Nifty 50 Above 25,300; Three Reasons Explained - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc2hmV1pTYlE1V0pzd1laTndaY1hzcllObXU3dVBEOGNIeUEtazMzTEpWM0JSTDNTcEZTSjZHSkV0WjdhNkxHVVZZeTNlS2h5TjZFc2c3M19fVGRzZFFydDB3NVJoREw1cTUzYnJ1VGpxcGRGUFp0T09Ib0VRMS1rTnVjVmxBYXFXZ0IzVVFpb01mMXBRMi15UEsxczVBdjlIczRSVmpoMkJ3T1JvLWdacTRta19QM1JzOFRtWDJsbFJyTkxHZ0hyU0Q2WlE4RTVVeEZZR0JNcDNkaFI0bTZtSkp30gHqAUFVX3lxTE1wZ0lmdGdBOV94eEpNZ19KaDJBdzA0U3AwSUlOdWk2NGxwWGkwRkRaOHpBaUQ2RVlTanBrWVNKT0hDNG9tRkZ5Y1BWLWo0MHhwM3NnZk8zSUtJS0h5bUVFOERReVlnaUVvRnpXekRRVzFraEh2M0NYSFFET2tpMFdZdzVveW5FcUd2VF95Z29pWUZXbFlHWkZhYzRPNzN4YWhXa0xrcnZCM3NOajdBS3dIcExPNlFKOGNHQklKU2hNYmk2TjdaU0ZURGNMNEx0djZ5OFQ0eGxoRzJSa0t0ZVhHM2hKQ0w0NWJxZw?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 04:22:08 GMT"
-    },
-    {
       "title": "Stock Market Highlights: Sensex rallies 773 pts, Nifty ends above 25,250; M&M jumps 5%, IndiGo 4% - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWnFSdVRITHhUNUJJRFpLWWkzRVRLS2Q2TGliZmFGWFRsaTg0bFpQMTNQc3NkUkFJWU9kRlRndkpXUXJiNWNvTnRSNFphbnRtNmsyUUVNYWtqMHNJc3R6eGljZXhIOXE3dk1pckRmaWxJUWZDRDZ0djdHUmdLMUx3ZklRVUxNaFM5cWRXQ0d4YjdMQ082bk9CZEs0TEoxbGlWMlh5S2hTUUF2QmR5V19jUF9HS2gyR281Y3BXNTRrYjk1d2tjdUZUWHo5WExZMVRmRzdpSEd4RWtBMnY4b1FqbjhrZkZ0c1NIYTFYb205ZS1UeHVzeUZUQ2RQcjdwblhybjUwaVVtdXRHUXBnRnfSAZMCQVVfeXFMTVB3Z3hCNi1CclRkb0ZtSkN6bmVvekY2cTh5RnR0VnJXM2Jub0JodWlNbldIenM4TjBESklUQW82Ri1nbmhvYlNKcG1JVkZ6bmZyVEJQUDZKeVFwdGFlUDZEUTNzS1Q5TU1IenVkbThLTmo4OUJuVHpibHJIZzloTnpsU3NRVjZTOE96aWhyYjZJclBncEFZcHVBQVZBR3hJZTIweVNPN1luNXFkMnRyV0lRRERNdkVoOGtnLWpzNVNRU2ZQR2h0by1YRnF4dG9PWTA1R291T1l6MTU0X182Rm9UUF9XR3pJbDJLeTNzY0dsLXExcjdYd0pTRDNUeDM2MUJLU1VjRkFwVWJMVHNoWTRwLUE?oc=5",
       "publishedAt": "Wed, 11 Nov 2026 10:07:22 GMT"
+    },
+    {
+      "title": "Stock Market LIVE: M&M, HDFC Bank lead 100-pt loss in Sensex, Nifty near 25,200; VIX drops 7% - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSFRvLVlZT1lZRGkyWUZkT2t1b2MyRnhNYkIxeDRQWm9qOWtta2hqZUpPb3FNc0l0V3MzU25tbDZpMU1waVdtUkhFM3lkY0d4SDhnNEFZQ1k3Mzl3dll1VmZzQmZZNzhtR0ZwTGJPVjJtWm1BMWwtRUc4emVNSHpkdFFvV2JaTEtwRlMweXo4Vkc5UWRHbGxCWmc5ajZQaDBKdHA4RUV4UUtlN01SdmYxTHdvdDhaVmwtWmg3REtNQ1VNWE1pUmU2cWhEQ1lwVjlVVzRaVjBlbDFVTVJISmNuVklTYW5IRTA5MXhsT3BaYjdmTWo1OGVBeHV4UFRCZlpDQlhJ0gGIAkFVX3lxTE5qWk5IblVCT3Vuam41VWx0Qnc1MkM3NEppQTQwZE5UYmg3djJNVXlzNENia29rZlZWWkdtMzJZbVNxbEhSU2h1VzhZVTRDd2I1ZTF1dk5QLXRSMC1CWFN3ZHVYeEdFdDc2Vm5JbHR2ay1yTUJCVWdjMHpleFVnQWtKM0dlbzhvd1lETGZ1VWJhV1lJVXQ2dkx6Yjh4cXBQNnRuQkR3S0JJUEs2Y2JNZU5aNjRhbG4tcWRwaDl1T2pZYjlSS1ptZjhYVHJCSmpha1hZWEtvOG50ZTAxYi1LQUJBdlZTMGVBeVA4QXYtX0d3Rno4YU9vZlp2QUpxNWpXRG1mWTIzTE5zdg?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 04:25:59 GMT"
     },
     {
       "title": "Stock market outlook today, 12 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
@@ -182,22 +193,22 @@
       "publishedAt": "Thu, 12 Nov 2026 01:15:59 GMT"
     },
     {
-      "title": "Stock Market Today: Massive jump in Sensex, Nifty! ₹4.5 lakh cr wealth added in a few mins - Reasons for bullish party - Livemint",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTHpkbnYzaEFFLWxqWWlWekoybUl6Wkg3bDNvektzOXBrakpVNUtGZHAzV005dWZubC1FendXbmxBUEJ0WEMtSDFUVzl2cTJBOVBZdVVndkxMQmVoRUpITmhCQUp4c2pBMHE4aEEtQzBXa0xrcHJCalFlMDRreDg4MF9PeEZzX1ByZ2dmZmNkeVNUemM4MTE0OURDbEJrMXEwOUVUX2ctaC1hMkRpUkdzdkxwOG16VUhtMFBySVdidy1CQjZ1b2xjNng3cjlGRlNqRnk1b1czT0JOa1d2d0FEajJyeThUZEg3dWxuVUdQeXNRaDd4NktENU1zaF85a2wwTkh1d2txODZzYWJ0clgxNWRjWdIBmAJBVV95cUxQRDB4cFlEWUVBWDJhcDZUQ21BZ3dBcWNfcEtPaE1RempXdk03Vm1fNGRfQ2I1M2xzaXA0dmN3bnBhMHlWTlVqd29PMkE1YUZfaWlJNktZZ2toSzNwQjhGQWhsSHB5UGMzb0ZDZm04WldCSlVDS2IyckoyUHZ0akRsYVdENnJ4Skx2X09wU2ZiQWFHdTRic0hvbndkZ3c5NWdzNmdCYjAtU1puZ0JoNTlyRVBhdHE2bXNJaVU4ZWM2UThaSG5ZQXF4ZlNFbFZOUnpocUpVWkFqeUdvU1pYanA4U1k3RXp0WklCZTdKdDh0aVprcWRCOHBCamR6eDY1ZVdLSWhsRjRYSk4tSDNsNXd2MVpNSjZqNTRM?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 04:03:17 GMT"
-    },
-    {
-      "title": "Indian shares rise on foreign flow optimism; financials, autos lead - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGIzT1Bsa3NLR1VMamE3ZXpZblhwbFVuV0I1Q1UxZDhGQW9RR3E5NmpQVVBiMW1ibUhkYXRoN1ZESUlRZVIteU9OX2FfcUlyZEJiU1lFcllZQm5jaWx1Wkh2WGhqMjRWYUc5NjJBY252UERLVU5HTEFmb1pwNHlXYXVUN3Z5dE4xVkVRbXJnMkZTTGpDNldBMS1PTlBRVFpPVjhOUEE5eEFsQkE0bHVjU2FJN0NSdw?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 02:25:00 GMT"
-    },
-    {
       "title": "Stock Market Today: Sensex, Nifty Eye Muted Opening - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHItekhwUXJmb1ZYejI4NG9MaUZNeUIzRS13M3Jvd0xSQXFhUER0d0lGei1wSEZWYk9UREY1RE9WREFSQk1GQ2Rhdlp2Yk9hY19kNDlEZjE3SWtKbzh3aVhFTHBkMXdYMlpPb2hBYTJYcTlESWRDc3Q5Y3QwQ0NCX1B5TUc5dFN1STllWmxlODlwTVBfWDQtT2JocFdXazVuOE1qQTh2WkZfUGNLZzNXRWw3ZVhyUDloM2RMZjQ1OGlRbHdIejh0NHhBbnE?oc=5",
       "publishedAt": "Fri, 13 Nov 2026 03:32:52 GMT"
+    },
+    {
+      "title": "Indian Stocks Close Higher as Realty and Banking Gains Lift Sensex, Nifty - INDIA New England News",
+      "source": "INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSGFCTzJ0UzBpdmVNcE9GMmhjaWQzZ1I0Y0NfWmRnRFdxNFhRaFFOR2RCZF9haWxrQ05aTXBLdkNRMjhCMTVYNE1mV1p6LWdqd1gtNVpuVWxhUFVkTEpnVGtjYmZGTXo1VTVSSWd3TEJmcFNRZGNWdXphUUY4cVBTWGVTMUJnaFI1WmQ1NDdLQWc2bW05OFQyNC13b3JxZGlVWW00?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 16:42:06 GMT"
+    },
+    {
+      "title": "Sensex falls over 400 points, Nifty above 25,100; HDFC Bank, M&M among top losers - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYVNQYWFCOFpXY05XSjBKSU8zdVh3Vlp4OVdFTDN5bFh1MFFtLVlqQlZvRm1XOHRwaUVQOEYwYkEtYkt6bHl6TDA0NzBZeENmY0t4S3NtMHBfb2czcDBQYmFhM0taSURvR05JeVJQYkF5eWxqdFJqRHhQczFqVnVnV0lpUlkwT2NiVXNuc20wekNpM25PY0I1c29uUUY2SWlSblR5elZyUHVCdVdGTzZZNlk1X3JYdEFWRExvaXZOV3NHNXdGcmt0ZnNCUUprWDNVaVZ1NzhrcTYwMWPSAeABQVVfeXFMUFkwNU5rczFLYkJKTXdHTk5PVGZLd243WHY2ZlFBd2w3NU9IU2ptUmJRaVVoTEF4VnY5R2t0bmt5Wm5ENTcwX2VQMTZBRjJPOXRYQk5EalZmb25ZX2s5emFZX3R4YUlHZkhmemQwSnB1X2EzQzllWDcyck41MEhYSUkyTmZYbkJlemRiekRCdnh3RG10bTAyZDRIazU3RjBoZFY0empqUmRPWkxmb240bzZQMWl4cndtdUdTZlg0NjRoYk1YV3g4TGNTd2ltUEx4ZTBmZ21TQ0pKbWFXTFhRUnQ?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 03:51:59 GMT"
     }
   ]
 }
