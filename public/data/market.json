@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex drops over 100 points dragged by M&M and HDFC Bank; Nifty hovers near 25,200",
+  "headline": "Sensex and Nifty trade lower as high inflation and losses in HDFC Bank and M&M weigh on sentiment",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,57 +7,57 @@
     "nextOpen": ""
   },
   "why": [
-    "Heavyweight stocks like M&M and HDFC Bank led losses in the benchmark Sensex.",
-    "Concerns over high inflation weighed on broader market sentiment.",
-    "Pressure across bank, auto, realty, and financial sectors dragged indices down.",
-    "Nifty struggled to hold higher levels, hovering close to the 25,200 support level."
+    "High inflation data is weighing heavily on investor sentiment across the market",
+    "Heavyweight stocks like HDFC Bank and M&M are leading the losses in the Sensex",
+    "Banking and auto sectors are struggling, contributing to the overall market drag",
+    "Negative cues from the pre-open session persisted as the Nifty slipped below 25,200"
   ],
   "whatHappening": [
-    "Sensex dropped between 100 to 300 points early in the session, with Nifty trading around 25,200.",
-    "India VIX dropped 7% despite the volatile market session.",
-    "TVS Motor opened its first store in Brazil, targeting a 130,000-unit capacity by 2027.",
-    "Aditya Birla Capital featured among stocks displaying a White Marubozu technical pattern."
+    "The Sensex dropped nearly 300 points while the Nifty 50 struggled to stay above the 25,200 mark",
+    "TVS Motor has expanded into the Brazilian market with its first store and a 2027 capacity target",
+    "Aditya Birla Capital is showing a bullish White Marubozu technical pattern despite the broader market decline",
+    "One97 Communications (Paytm) is among the few stocks trading above their Volume Weighted Average Price"
   ],
   "stocksInNews": [
     {
       "symbol": "M&M",
       "sentiment": "Negative",
-      "sources": "Mentioned by 3/7 sources",
+      "sources": "Mentioned by 2/8 sources",
       "articleIds": [
         0,
-        14,
-        18
+        17
       ]
     },
     {
       "symbol": "HDFCBANK",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/7 sources",
+      "sources": "Mentioned by 3/8 sources",
       "articleIds": [
         0,
-        18
-      ]
-    },
-    {
-      "symbol": "TVSMOTOR",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        5
+        17,
+        19
       ]
     },
     {
       "symbol": "ABCAPITAL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         3
       ]
     },
     {
+      "symbol": "TVSMOTOR",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
       "symbol": "INFY",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         6
       ]
@@ -65,22 +65,22 @@
     {
       "symbol": "PAYTM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
         8
       ]
     },
     {
-      "symbol": "INDIGO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
+      "symbol": "TITAN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        14
+        19
       ]
     }
   ],
-  "summary": "Indian benchmark indices opened lower on November 13, 2026, with Sensex shedding over 100 points and Nifty hovering near 25,200. Losses were primarily driven by M&M, HDFC Bank, auto, and financial stocks amid high inflation concerns. Meanwhile, TVS Motor announced expanding its footprint with its first store in Brazil.",
-  "updatedAt": "2026-11-13T05:01:33.957Z",
+  "summary": "The Indian stock market is trading lower today as high inflation and weakness in banking and auto stocks pressure the indices. HDFC Bank and M&M are the primary laggards, while the Nifty 50 hovers near the 25,200 level. In contrast, TVS Motor and Aditya Birla Capital are seeing positive developments through global expansion and technical strength.",
+  "updatedAt": "2026-11-13T05:31:27.238Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-13",
   "articleKeys": [
@@ -98,12 +98,12 @@
     "stock market close sensex ends volatile session marginally higher nifty at 25299 realty up 4 business standard",
     "stock market outlook today 13 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "closing bell nifty at 25300 sensex flat amid volatility realty stocks outperform moneycontrolcom",
-    "stock market highlights sensex rallies 773 pts nifty ends above 25250 mm jumps 5 indigo 4 the economic times",
     "stock market outlook today 12 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market live updates sensex falls over 150 pts nifty below 25250 bank auto stocks struggle the economic times",
-    "sensex today stock market live updates sensex sheds 200 pts nifty hovers around 25200 auto realty financial stocks drag moneycontrolcom",
+    "sensex today stock market live updates nifty above 25200 sensex down 100 pts auto realty financial stocks drag moneycontrolcom",
     "stock market live mm hdfc bank lead 200pt loss in sensex nifty near 25200 vix drops 7 business standard",
-    "stock market today sensex nifty eye muted opening hdfc sky"
+    "stock market today sensex falls 289 points nifty slips hdfc sky",
+    "sensex today trades lower nifty below 25250 hdfc bank titan company top losers equitymaster"
   ],
   "articles": [
     {
@@ -191,12 +191,6 @@
       "publishedAt": "Thu, 12 Nov 2026 10:52:58 GMT"
     },
     {
-      "title": "Stock Market Highlights: Sensex rallies 773 pts, Nifty ends above 25,250; M&M jumps 5%, IndiGo 4% - The Economic Times",
-      "source": "The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWnFSdVRITHhUNUJJRFpLWWkzRVRLS2Q2TGliZmFGWFRsaTg0bFpQMTNQc3NkUkFJWU9kRlRndkpXUXJiNWNvTnRSNFphbnRtNmsyUUVNYWtqMHNJc3R6eGljZXhIOXE3dk1pckRmaWxJUWZDRDZ0djdHUmdLMUx3ZklRVUxNaFM5cWRXQ0d4YjdMQ082bk9CZEs0TEoxbGlWMlh5S2hTUUF2QmR5V19jUF9HS2gyR281Y3BXNTRrYjk1d2tjdUZUWHo5WExZMVRmRzdpSEd4RWtBMnY4b1FqbjhrZkZ0c1NIYTFYb205ZS1UeHVzeUZUQ2RQcjdwblhybjUwaVVtdXRHUXBnRnfSAZMCQVVfeXFMTVB3Z3hCNi1CclRkb0ZtSkN6bmVvekY2cTh5RnR0VnJXM2Jub0JodWlNbldIenM4TjBESklUQW82Ri1nbmhvYlNKcG1JVkZ6bmZyVEJQUDZKeVFwdGFlUDZEUTNzS1Q5TU1IenVkbThLTmo4OUJuVHpibHJIZzloTnpsU3NRVjZTOE96aWhyYjZJclBncEFZcHVBQVZBR3hJZTIweVNPN1luNXFkMnRyV0lRRERNdkVoOGtnLWpzNVNRU2ZQR2h0by1YRnF4dG9PWTA1R291T1l6MTU0X182Rm9UUF9XR3pJbDJLeTNzY0dsLXExcjdYd0pTRDNUeDM2MUJLU1VjRkFwVWJMVHNoWTRwLUE?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 10:07:22 GMT"
-    },
-    {
       "title": "Stock market outlook today, 12 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZGkyZUJibHBlNGFOR3l3U0NCWUxqLWdySXhqNmRseXB5SnY0ZldhSTl2azlqNm9JbWRHbmhyYWJGWTlQdnlSZ2ExOVh6Vi1iTEU5eW1wS09IMFhWS3dBRmN6V0FIdVRCM3BOZzlxaF9meFhXa0VIdmI5TzZvb3BYTzdTQ1ItS0FlUDliR19hRzZOSmNCdlRDSWRWel9DS2JGYzRfRkxxTy1yZnRPcGFGNUJvSFhpSW5JeUQxZkRreG5lanZtTFpUcTJ3Q19ZM2IxeEtGdTdRLTZtcjZZQloydm5USlNpQm1kTVV4NUhSeEJITzRTV0xVYVZteTlCb0xsak5CY9IBigJBVV95cUxNemJwUGVpY3MyNGI4am1kVG9zbHo5eC1oTDBydG5JWjhuU0pzazNyblF4alVZa3RMb3ZYWGQtelozbFE1NDN6dEQ3Y1Z3ZFR6b2lsSGpZNU4tdWJ1UjNySll1eHZwakRQSjZNaVF1RTFQU0d6em1lZjZtcmRENGozM2lIbjQ2MTN2SmtqUmRpTHpnMzlRNFNKWjU2YjY2ZEVhcE12STl4M1M2cTFXemNoaXRMS25ETFpPSW5wUVVET0xvVmhpNXlHQ2prR1NyaUEzNzJvamtJRkpwbklEdl91b0RJYkJYSXppSVVEd3ZxUmk3MkxwaEZVdzl2Zm9meE5CR3pYQUtpa3hwdw?oc=5",
@@ -206,25 +200,31 @@
       "title": "Stock Market Live Updates: Sensex falls over 150 pts, Nifty below 25,250; bank, auto stocks struggle - The Economic Times",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOVBUUDZoeXRFWXRubmZJRk01QUE5Um5rZ0xJNDh1QTkzXzRuVlZjeV9STzJCT00tWXB1cFJlWWk4SmJJcm9zTWt2MUx4WTRIelRzd2Nzc1ExV0RZNlBiWmpyZ2pubEhPMG4zSDFsZGQtRURqWW9wZWs4eXdaMkh3WWlubmUtTXlOMFRFd3Y4NHo1NFZldzVzRWRjcWVncmFhNEtIX0VoalUtZDVKY3ZkeWU1azdiT1NMTnlTVHh4STNlMU9SN3h0VlZvc0lNOFIybnRKZzRoUDNyblpTWW5KT29kSXU0TUNwTk45WTFHblpUOUc3ZlF4Y2RTMmJKLWFSN2FSM1J2eHYxRzhQRE4yRNIBlgJBVV95cUxNZHpGeEN6RzZ0VEMwU2JSOW1XQktzUHZoOEdwN0l4ZEpVWTdfV1Eyam9VQXJjU2Y3SnlZLTdlcFY4ZEU2dG5PTVhyb0FseHZicmxGaFdFRUV6dllPUEJsX2hhdXRuRVpDd1lLalRjb2lveGw4WmRqX2lTckE4SXU1NHVjUHM4SnMxbHRhQTRiUTVNNXk2emhqNnlDc012RGhqSFc3RllWbWM5MERMYlFnaWVVUTVveXBQV2pCUmhIYmhFVjRhZjdlb3MzRkFxYXJlUFRiYm5EVkpLRnE0UjA2V1BhX3lDUlZGbDlMUllFTnJtdzRXYUpYbjJhc1dvNVpMUExRREt5aFVlY3dwNHUxc0RKVTFRdw?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 04:55:40 GMT"
+      "publishedAt": "Fri, 13 Nov 2026 05:22:44 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market LIVE Updates: Sensex sheds 200 pts, Nifty hovers around 25,200; auto, realty, financial stocks drag - Moneycontrol.com",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty above 25,200, Sensex down 100 pts; auto, realty, financial stocks drag - Moneycontrol.com",
       "source": "Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSUw0SXFDNzRDNWF3V2VkQnZsa29mdWlRU0JGOTh2M25CMXNOakVBb2dYaXREbGliaXVOTUlYdExERFB6UVN2dDVlTEwwcjFrMlRWSDk5ekU5MTEzWDhlLVNPUXRJa2NFQ0Y4ZHpURldZTDNqOVdTTkxwSFRLVkR3T2RlSGVvNlJ4MHhDZmpVSnpocGpTdFJPLTVMNEk0Y3FDc0RDVFNWQkFuSWVMU0U2RENQb0lHWUlBcjRxZ3dXNlZjWHNNa0t0dWNyYkZIWndmZTVhOXVyNG5ubW9xOTlpYlJ2bmNsc1ljSDVNRHhBeXI5RnhZWGVLQV9xWVFBXzdJRGlYRHhRd3dVelNKbFV1R3A4aU9rdXRhVE01VFRkUmVnN1XSAagCQVVfeXFMT29fYVFNclg2WTcwVVZuRzVROXE5bU9SeFIyd2owSC1ELWF1c244LWF2OWJueGRaX1FNLUJQRTVVY05ZeUw0eUs5WFBoYnBNcFNYQXFaZVBzM2VnRFdKUkFvbEVWRGJVcEhjSnhFR1dabTlVRGJ3MGRvRGt1NEk2YmZyVkJPWnN0eURHUWl1YmxBWnE0ZjQxQUh6QU5lZlJhZ1NBaWh1b2JFZTFraXdCbzdVNHQzNkh6RlBoUnh2TmljZXBPYW10bkd1V2x3ZnlGSHRBT3R4Znc1Wl8xZk5McXVFbzZ1X0pCNlNQd3Q5cFp6elJqaEQ3ZU9xX1dtdXprUjc2M19sT3JHRGlMa2sycmluNm0wa2R5TjdHdGJLQm4xTEk2Y0pjZm4?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 04:59:33 GMT"
+      "publishedAt": "Fri, 13 Nov 2026 05:29:26 GMT"
     },
     {
       "title": "Stock Market LIVE: M&M, HDFC Bank lead 200-pt loss in Sensex, Nifty near 25,200; VIX drops 7% - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSFRvLVlZT1lZRGkyWUZkT2t1b2MyRnhNYkIxeDRQWm9qOWtta2hqZUpPb3FNc0l0V3MzU25tbDZpMU1waVdtUkhFM3lkY0d4SDhnNEFZQ1k3Mzl3dll1VmZzQmZZNzhtR0ZwTGJPVjJtWm1BMWwtRUc4emVNSHpkdFFvV2JaTEtwRlMweXo4Vkc5UWRHbGxCWmc5ajZQaDBKdHA4RUV4UUtlN01SdmYxTHdvdDhaVmwtWmg3REtNQ1VNWE1pUmU2cWhEQ1lwVjlVVzRaVjBlbDFVTVJISmNuVklTYW5IRTA5MXhsT3BaYjdmTWo1OGVBeHV4UFRCZlpDQlhJ0gGIAkFVX3lxTE5qWk5IblVCT3Vuam41VWx0Qnc1MkM3NEppQTQwZE5UYmg3djJNVXlzNENia29rZlZWWkdtMzJZbVNxbEhSU2h1VzhZVTRDd2I1ZTF1dk5QLXRSMC1CWFN3ZHVYeEdFdDc2Vm5JbHR2ay1yTUJCVWdjMHpleFVnQWtKM0dlbzhvd1lETGZ1VWJhV1lJVXQ2dkx6Yjh4cXBQNnRuQkR3S0JJUEs2Y2JNZU5aNjRhbG4tcWRwaDl1T2pZYjlSS1ptZjhYVHJCSmpha1hZWEtvOG50ZTAxYi1LQUJBdlZTMGVBeVA4QXYtX0d3Rno4YU9vZlp2QUpxNWpXRG1mWTIzTE5zdg?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 04:59:13 GMT"
+      "publishedAt": "Fri, 13 Nov 2026 05:20:00 GMT"
     },
     {
-      "title": "Stock Market Today: Sensex, Nifty Eye Muted Opening - HDFC Sky",
+      "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
       "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHItekhwUXJmb1ZYejI4NG9MaUZNeUIzRS13M3Jvd0xSQXFhUER0d0lGei1wSEZWYk9UREY1RE9WREFSQk1GQ2Rhdlp2Yk9hY19kNDlEZjE3SWtKbzh3aVhFTHBkMXdYMlpPb2hBYTJYcTlESWRDc3Q5Y3QwQ0NCX1B5TUc5dFN1STllWmxlODlwTVBfWDQtT2JocFdXazVuOE1qQTh2WkZfUGNLZzNXRWw3ZVhyUDloM2RMZjQ1OGlRbHdIejh0NHhBbnE?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 03:32:52 GMT"
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFVmU2E4X1lka1dTRGNSZzVfUEl2ZGl4UnNJdTEtVHZxelI2SXFwalhqVWtaMERsNm9Fc0tiS3psZUpNY25VN0hwcXlmb3lLNlp6TURNY0xyYUQ4bDN5cVdSdFFYRUtEN2lKY205MnRxZ3VCZXhVaTVOUWhKbDBwVXVVMHE2WjBEelFLSEtXczYyTTRyTTNWNjlHMURxT2ExZWlMYXl5ZnUwUWFFVUttTlVBR05nTGhaWGxhNTZ3eGVBTEE?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 05:21:58 GMT"
+    },
+    {
+      "title": "Sensex Today Trades Lower | Nifty Below 25,250 | HDFC Bank & Titan Company Top Losers - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQjgxem5Obk4yOWQzSFB6RG5tbEdfVjcxV19RMm5oaWR2UkFvNjJjMl9zX1ZORkxBUG9URHNCb0QtQjdYRjNnQ0tqYjNPVkFDOE5NRG1hUm9OWm1ZSjVTazYyVlZYRklldVF5VUJEcVJvRWtNVWtiSzhfTlJubjEzNF94eTBUQUpQWWRwVzFjbkU1MGR5MGwwcDh2SFZMUXBTNE9MSFF3TTJOZlBmdTBuTkc2TlpONUplbjYxNWpOQkxSRHMyTjh3cjV0OEt4bW5JR2JCYUJlaUs1QQ?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 04:53:03 GMT"
     }
   ]
 }
