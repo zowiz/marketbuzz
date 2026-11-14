@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex fell 319 points as inflation concerns snapped the market's winning streak.",
+  "headline": "On last trading day, Sensex and Nifty fell over 300 points, snapping a winning streak amid inflation concerns.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Monday, 16 November"
   },
   "why": [
-    "Inflation concerns weighed heavily on investor sentiment",
-    "Rising crude oil prices added pressure to the domestic market",
-    "Global sentiment was impacted by the ongoing Nvidia crisis",
-    "Profit booking occurred after a three-week winning streak"
+    "Inflation concerns weighed heavily on market sentiment",
+    "Rising crude oil prices pressured the domestic indices",
+    "Global service disruptions following a major Microsoft outage",
+    "Profit booking as indices snapped a recent winning streak"
   ],
   "whatHappening": [
-    "The Sensex dropped 319 points to close the last session",
-    "Nifty50 ended at 25,144, slipping below the 25,150 mark",
-    "Indian markets recorded their third consecutive weekly gain despite the Friday decline",
-    "A global Microsoft service outage caused disruptions across various sectors"
+    "Sensex fell 319 points to close at 25,144 in the last session",
+    "Nifty50 ended the last trading day below the 25,150 mark",
+    "Manappuram Finance shares dropped 4% during Friday's trade",
+    "Shriram Finance emerged as the top loser on the Nifty50"
   ],
   "stocksInNews": [
     {
@@ -24,7 +24,7 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        12
+        17
       ]
     },
     {
@@ -32,12 +32,12 @@
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        17
+        18
       ]
     }
   ],
-  "summary": "On the last trading day, Indian indices ended lower with the Sensex falling 319 points, snapping a recent winning streak. Inflation worries and rising crude oil prices weighed on investor sentiment, although markets still secured a third consecutive weekly gain. Shriram Finance and Manappuram Finance were among the stocks seeing significant downward movement.",
-  "updatedAt": "2026-11-14T02:01:49.633Z",
+  "summary": "On the last trading day, Indian indices snapped their winning streak as Sensex and Nifty fell due to inflation and oil pressures. Manappuram Finance and Shriram Finance were among the top laggards during the session. Markets remain closed today for the weekend and will reopen on Monday.",
+  "updatedAt": "2026-11-14T02:31:26.076Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-14",
   "articleKeys": [
@@ -53,14 +53,14 @@
     "norwest bets on indias valueadded manufacturing with 4billion fund",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
     "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
-    "sensex today ends 318 points lower nifty below 25150 manappuram finance down 4 equitymaster",
     "stock market today gift nifty signals weak opening hdfc sky",
     "indian markets extend gains for 3rd straight week despite nvidia crisis business standard",
     "stock market today sensex nifty surge 17 at preopen hdfc sky",
     "sensex surges 1302 points nifty jumps above 25375 hdfc sky",
+    "stock markets end higher sensex and nifty jump nearly 1 the hindu",
+    "sensex today ends 318 points lower nifty below 25150 manappuram finance down 4 equitymaster",
     "market wrap nov 13 indices snap winning streak sensex falls 319 pts nifty50 ends at 25144 shriram fin top loser upstox",
-    "sensex nifty fall as crude oil and inflation pressures weigh on markets bw businessworld",
-    "sensex gains 1200 points nifty above 25300 why is the stock market going up today explained india infoline"
+    "sensex nifty fall as crude oil and inflation pressures weigh on markets bw businessworld"
   ],
   "articles": [
     {
@@ -136,12 +136,6 @@
       "publishedAt": "Fri, 13 Nov 2026 05:20:13 GMT"
     },
     {
-      "title": "Sensex Today Ends 318 Points Lower | Nifty Below 25,150 | Manappuram Finance Down 4% - Equitymaster",
-      "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEdlSnRORmgtLVBCeDZ4QlJOSU1JSURHckM4UmZRMFd3QXVTYWdSVmhLb1E3MURFWVppaGhPV0VGYWdUVjJDS2FUcjBtY2ZLQVZMWUhzdHpaZzlBZmg2aTlZSDNOdUFCc3kwUE5nSlhvQVBsSHo0MUJJZnREUHVNSVlGUkJ0eXBjaXhPUzNEUWU4R3NDMGNtakd1aTgwWnEweUp1RVQ0YzVFN2Y5WTFmYjVRRlloN1FnUE1MS0liSy01SDdlbFJOaUxoWXBnTzBOUVY4eElvak4?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 10:23:55 GMT"
-    },
-    {
       "title": "Stock Market Today: Gift Nifty Signals Weak Opening - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWFdtSHY3ZGtFR1NvZ0tHRTk2S3pQenFPXzZ3VS01OWxDQWEwQ0tvSFU4MXRyVGo3LWh0Njlrb0RWb2x6aU8xV2wyMDRENW1ZeUpzSm9DdE10RmNoTFVHS25wVzJtWUp1QkwzaGpNMVFtSGg5Y0hJeVpuSWtzLUFZLVhlN1Qyanhi?oc=5",
@@ -166,6 +160,18 @@
       "publishedAt": "Wed, 11 Nov 2026 04:39:53 GMT"
     },
     {
+      "title": "Stock markets end higher; Sensex and Nifty jump nearly 1% - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakU4aG82THd3Z01GTHRJQVEweW9FUXJnM3NIZFVKN1dNRkxBU1g2VTBydnFBejcwVHl4Q1pubk13a056ZVFqUVBHalBWb1ljQ2xUT0steXZXdEhkUlFwWTJSdFR6Yy11a1BpeDhaXzVBSkt5UDJxd0ZpaDNtenNKVFFRa2wyWDItQlppcE5EUXZJeGM2dVZDMmxLVVdJV3JEMXBVNTdNSTJhcm9UNUNXdC1wV251QmpsNTRuWlEyNXI3VTFoMXhV0gHOAUFVX3lxTE1qVlQ5R3RrQl9qMHN3V1FYaG1lWktMUkdoMmFyLXZHUlYyWkhQVWt1eWg2RFF5R1BtaVNNUlRCMnU4bWFXdEYweWlleGRmRVpVQ1ZkbjhLLTdLZzNVSVJhZnJjWlFPVDVIUDRVcWNTTGFKTklpdlU2V3VTbzBndFkzYWJMTEQwU08yc2Njb0lacGpfYmhXSE5JSjF2VE5Sak9vRjV5eTNNRXBaLWVpS09pMmljNkdoQjNOY0VrR053SjlxaDA0V3JCZEViRU5n?oc=5",
+      "publishedAt": "Wed, 11 Nov 2026 11:11:59 GMT"
+    },
+    {
+      "title": "Sensex Today Ends 318 Points Lower | Nifty Below 25,150 | Manappuram Finance Down 4% - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEdlSnRORmgtLVBCeDZ4QlJOSU1JSURHckM4UmZRMFd3QXVTYWdSVmhLb1E3MURFWVppaGhPV0VGYWdUVjJDS2FUcjBtY2ZLQVZMWUhzdHpaZzlBZmg2aTlZSDNOdUFCc3kwUE5nSlhvQVBsSHo0MUJJZnREUHVNSVlGUkJ0eXBjaXhPUzNEUWU4R3NDMGNtakd1aTgwWnEweUp1RVQ0YzVFN2Y5WTFmYjVRRlloN1FnUE1MS0liSy01SDdlbFJOaUxoWXBnTzBOUVY4eElvak4?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 10:23:55 GMT"
+    },
+    {
       "title": "Market wrap, Nov 13: Indices snap winning streak; SENSEX falls 319 pts, NIFTY50 ends at 25,144; Shriram Fin top loser - Upstox",
       "source": "Upstox",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPY0p5ZUNCSGRGTWdHY2JTYUluNGVwamFrOE1POHBFWi1YTWF3amNNQUg2UWM1azNkOE5FM1VLcmtETjZXLWU0ZWM3OERicDJHUXFQck5aNmJ2Z0lZRDBYZG1oSjdYM25XenJXbGtUUHJoNHhJZl8tMC15bVo5b21qNklWY2hNVEw5bzNnZXg0TnZ5akIzWEo4emluUDdZUFpKVHNVLWNvX3ZCbXNMdlEzUkZQU3AxYXZVOHFiNUNfUHEyNVp1LW40T1JLLXBjQm9sc3ZMc1FoTTdlUVpKZDhOTkpFeTllNWZDVGZObkNqUXNDRzllR2RyX2FLMnhNYVJVclE?oc=5",
@@ -176,12 +182,6 @@
       "source": "BW Businessworld",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEJETGY0Y1h5UXNxbFBiWUJfREZnTXcxakxiZmpMYlk1NV9EcXFvMDhnUW02V3N2aWhTamYtMTEwcTVBZ1BPcXhtQ0NsakEwYjR5UUtQR3p1c0dqYVFtZkdRdDZVaGR0SkZuTlZWRGNGbUs1UXRFcHQwS0pGV3FXajZqTkNDVVlQVkx6Vi1oQ2FRbkpTcW53YVB6M0lBdF9JRnJDQWExVzV3Y1VwRTZWUnhaX3c5QQ?oc=5",
       "publishedAt": "Fri, 13 Nov 2026 22:58:12 GMT"
-    },
-    {
-      "title": "Sensex gains 1200 points, Nifty above 25,300. Why is the stock market going up today? Explained - India Infoline",
-      "source": "India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX3RGU2lRT012Wk4yMjEyNEhmSnhpUUwweVpWU2padWJzMnFwSkg1SEh6N3RjZzIyYWlDejRqcFVQWU0xbFpmVW9lQ3gzZU9DMzdvVW1KQ0ctS2pxRE5vdGgwRUFkN1pzSEdaMlg3aC1tTDVvQXpjRmV6bEpGN1UzU3ZUSGNIMkhUcmltc1NBSmhxZ2N2MWZlajJjMEFtVTktZ0dwX1ZUalE3N2FUd2YtZ3pPWDBXVzR4N3hKRkdqekNPRG14YldtSHZabUtrVTQ?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 06:52:41 GMT"
     }
   ]
 }
