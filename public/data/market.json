@@ -1,28 +1,36 @@
 {
-  "headline": "On last trading session, Sensex fell 319 points as inflation concerns snapped winning streak",
+  "headline": "Last session: Sensex and Nifty snap winning streak, falling over 300 points amid inflation concerns",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 16 November.",
-    "nextOpen": "Monday, 16 November"
+    "nextOpen": "Monday, 16 November 2026"
   },
   "why": [
-    "Inflation concerns and crude oil price pressures weighed on sentiment during the last session.",
-    "Profit taking dragged major benchmark indices lower after recent gains.",
-    "Global economic uncertainty and Federal Reserve rate expectations added pressure.",
-    "Weakness in key non-banking financial company (NBFC) stocks led the losses."
+    "Benchmark indices snapped their winning streak in the last trading day due to profit booking.",
+    "Rising inflation concerns and crude oil pressures weighed on investor sentiment.",
+    "Specific stock pullbacks like Shriram Finance and Manappuram Finance pressured key indices.",
+    "Tata Motors Passenger Vehicles reported a Q2 net loss of ₹5,531 crore."
   ],
   "whatHappening": [
-    "During the last trading session, Sensex dropped 319 points while Nifty50 closed at 25,144.",
-    "Manappuram Finance shares declined 4% in Friday's session.",
-    "Shriram Finance was among the top losers in the market wrap on November 13.",
-    "Indian markets maintained their 3rd straight week of gains despite Friday's market pullback."
+    "On the last trading day, Sensex fell 319 points while NIFTY50 ended at 25,144.",
+    "Shriram Finance was among the top losers during the last session.",
+    "Manappuram Finance shares dropped 4% during Friday's market decline.",
+    "Indian markets overall extended gains for the third straight week despite the final session dip."
   ],
   "stocksInNews": [
     {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
       "symbol": "MANAPPURAM",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         17
       ]
@@ -30,104 +38,110 @@
     {
       "symbol": "SHRIRAMFIN",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         18
       ]
     }
   ],
-  "summary": "In the last trading session, Indian markets snapped their winning streak as Sensex fell 319 points and Nifty slid below 25,150. Inflation concerns and rising crude oil prices weighed on market sentiment, with financial stocks like Manappuram Finance and Shriram Finance declining. Overall, Indian indices managed to post gains for the third straight week.",
-  "updatedAt": "2026-11-14T04:01:49.622Z",
+  "summary": "On the last trading session, Sensex fell 319 points and NIFTY50 ended at 25,144, snapping a winning streak.\nMarket weakness was triggered by inflation concerns, crude oil pressure, and corporate losses like Tata Motors' Q2 net loss.\nDespite the pullback on Friday, Indian benchmark indices managed to log a third consecutive week of overall gains.",
+  "updatedAt": "2026-11-14T05:01:28.822Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-14",
   "articleKeys": [
-    "aqi on november 14 heres how bad air pollution is in indias top cities",
-    "us authorities lift nationwide flight ground stop after 4hour disruption",
-    "recovery is underway microsoft says deeply sorry after global outage hits outlook teams copilot",
-    "nvidias retail investors say theyre not rattled by jensen huang scandal",
-    "softbank further trims india exposure offloads meesho shares worth rs 1885 cr",
-    "openai google anthropic hit with lawsuit to halt ai development",
-    "us lifts nationwide flight ground stop after communications outage officials rule out cyberattack",
-    "feds jefferson says inflation will determine rate decisions",
-    "us flight shutdown lifted cause impact and more in 10 key points",
-    "scene box office collection day 8 suriyas film remains steady will it get weekend boost check earnings",
+    "nvidia has worst week since trump tariff selloff as huang exits",
+    "microsoft outage live microsoft restores services across all affected systems after global outage",
+    "tata motors passenger vehicles reports q2 net loss of 5531 crore",
+    "bitcoins billiondollar wipeouts are becoming a familiar sight",
+    "who benefits from jensen huangs nvidia exit indian influencer breaks down who stands to gain and lose",
+    "what happened to sharad kapoor shah rukh khans costar leaves fans worried after emotional video",
+    "5 world market themes for the week ahead",
+    "mookuthi amman 2 box office collection day 8 nayanthara film sees 45 drop in earnings check daywise numbers",
+    "airfares rise 50 in 15 days delhi traders body seeks centres intervention",
+    "found me my cupcake for life dhvani bhanushali announces engagement with boyfriend yash bhanushali",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
+    "market weekly wrap nifty50 sensex extend rally for 3rd week psu banks top sectoral gainers upstox",
     "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
     "stock market today gift nifty signals weak opening hdfc sky",
     "indian markets extend gains for 3rd straight week despite nvidia crisis business standard",
     "stock market today sensex nifty surge 17 at preopen hdfc sky",
     "sensex surges 1302 points nifty jumps above 25375 hdfc sky",
-    "stock markets end higher sensex and nifty jump nearly 1 the hindu",
     "sensex today ends 318 points lower nifty below 25150 manappuram finance down 4 equitymaster",
     "market wrap nov 13 indices snap winning streak sensex falls 319 pts nifty50 ends at 25144 shriram fin top loser upstox",
     "sensex nifty fall as crude oil and inflation pressures weigh on markets bw businessworld"
   ],
   "articles": [
     {
-      "title": "AQI On November 14: Here's How Bad Air Pollution Is In India's Top Cities",
+      "title": "Nvidia has worst week since Trump tariff selloff as Huang exits",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/aqi-on-november-14-heres-how-bad-air-pollution-is-in-indias-top-cities-12325002#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 09:05:46 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms",
+      "publishedAt": "Sat, 14 Nov 2026 09:58:50 +0530"
     },
     {
-      "title": "US authorities lift nationwide flight ground stop after 4-hour disruption",
+      "title": "Microsoft Outage LIVE: Microsoft restores services across all affected systems after global outage",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/us-authorities-lift-nationwide-flight-ground-stop-after-4-hour-disruption-126111400091_1.html",
-      "publishedAt": "Sat, 14 Nov 2026 08:53:23 +0530"
+      "link": "https://www.thehindu.com/sci-tech/technology/microsoft-outlook-outage-status-microsoft-365-services-live-updates-november-14-2026/article71700692.ece",
+      "publishedAt": "Sat, 14 Nov 2026 09:56:32 +0530"
     },
     {
-      "title": "'Recovery Is Underway': Microsoft Says \"Deeply Sorry\" After Global Outage Hits Outlook, Teams, Copilot",
+      "title": "Tata Motors Passenger Vehicles reports Q2 net loss of ₹5,531 crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/recovery-is-underway-microsoft-says-deeply-sorry-after-global-outage-hits-outlook-teams-copilot-12324956#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 08:36:18 +0530"
+      "link": "https://www.thehindu.com/business/tata-motors-passenger-vehicles-reports-q2-net-loss-of-5531-crore/article71698724.ece",
+      "publishedAt": "Sat, 14 Nov 2026 09:48:11 +0530"
     },
     {
-      "title": "Nvidia's Retail Investors Say They're Not Rattled By Jensen Huang Scandal",
+      "title": "Bitcoin’s billion-dollar wipeouts are becoming a familiar sight",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nvidias-retail-investors-say-theyre-not-rattled-by-jensen-huang-scandal-12324926#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 08:24:01 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoins-billion-dollar-wipeouts-are-becoming-a-familiar-sight/articleshow/135822462.cms",
+      "publishedAt": "Sat, 14 Nov 2026 09:46:35 +0530"
     },
     {
-      "title": "Softbank further trims India exposure, offloads Meesho shares worth Rs 1,885 cr",
+      "title": "Who Benefits From Jensen Huang's Nvidia Exit? Indian Influencer Breaks Down Who Stands To Gain And Lose",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-further-trims-india-exposure-offloads-meesho-shares-worth-rs-1885-cr/articleshow/135820907.cms",
-      "publishedAt": "Sat, 14 Nov 2026 08:15:13 +0530"
+      "link": "https://www.ndtvprofit.com/trending/who-benefits-from-jensen-huangs-nvidia-exit-indian-influencer-breaks-down-who-stands-to-gain-and-lose-12325104#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 09:38:46 +0530"
     },
     {
-      "title": "OpenAI, Google, Anthropic hit with lawsuit to halt AI development",
+      "title": "\"What Happened to Sharad Kapoor?\": Shah Rukh Khan's Co-Star Leaves Fans Worried After Emotional Video",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-google-anthropic-hit-with-lawsuit-to-halt-ai-development/articleshow/135820787.cms",
-      "publishedAt": "Sat, 14 Nov 2026 08:14:47 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/what-happened-to-sharad-kapoor-shah-rukh-khans-co-star-leaves-fans-worried-after-emotional-video-12325091#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 09:35:58 +0530"
     },
     {
-      "title": "US Lifts Nationwide Flight Ground Stop After Communications Outage; Officials Rule Out Cyberattack",
+      "title": "5 world market themes for the week ahead",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/us-lifts-nationwide-flight-ground-stop-after-communications-outage-officials-rule-out-cyberattack-12324903#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 08:14:45 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/135822113.cms",
+      "publishedAt": "Sat, 14 Nov 2026 09:32:17 +0530"
     },
     {
-      "title": "Fed's Jefferson Says Inflation Will Determine Rate Decisions",
+      "title": "Mookuthi Amman 2 Box Office Collection Day 8: Nayanthara Film Sees 45% Drop In Earnings; Check Day-Wise Numbers",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/feds-jefferson-says-inflation-will-determine-rate-decisions-12324898#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 08:07:39 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/mookuthi-amman-2-box-office-collection-day-8-nayanthara-film-sees-50-drop-in-earnings-check-day-wise-numbers-12324853#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 09:29:19 +0530"
     },
     {
-      "title": "US Flight Shutdown Lifted: Cause, Impact And More In 10 Key Points",
+      "title": "Airfares Rise 50% In 15 Days, Delhi Traders' Body Seeks Centre's Intervention",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/us-flight-shutdown-what-we-know-so-far-10-key-points-12324845#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 08:03:15 +0530"
+      "link": "https://www.ndtvprofit.com/business/airfares-rise-50-in-15-days-delhi-traders-body-seeks-centres-intervention-12325063#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 09:28:47 +0530"
     },
     {
-      "title": "Scene Box Office Collection Day 8: Suriya's Film Remains Steady, Will It Get Weekend Boost? Check Earnings",
+      "title": "'Found Me My Cupcake For Life': Dhvani Bhanushali Announces Engagement With Boyfriend Yash Bhanushali",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/scene-box-office-collection-day-8-suriyas-film-remains-steady-will-it-get-weekend-boost-check-earnings-12324822#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 07:54:30 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/found-me-my-cupcake-for-life-dhvani-bhanushali-announces-engagement-with-boyfriend-yash-bhanushali-12325045#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 09:27:18 +0530"
     },
     {
       "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFVmU2E4X1lka1dTRGNSZzVfUEl2ZGl4UnNJdTEtVHZxelI2SXFwalhqVWtaMERsNm9Fc0tiS3psZUpNY25VN0hwcXlmb3lLNlp6TURNY0xyYUQ4bDN5cVdSdFFYRUtEN2lKY205MnRxZ3VCZXhVaTVOUWhKbDBwVXVVMHE2WjBEelFLSEtXczYyTTRyTTNWNjlHMURxT2ExZWlMYXl5ZnUwUWFFVUttTlVBR05nTGhaWGxhNTZ3eGVBTEE?oc=5",
       "publishedAt": "Fri, 13 Nov 2026 05:21:58 GMT"
+    },
+    {
+      "title": "Market weekly wrap: NIFTY50, SENSEX extend rally for 3rd week; PSU Banks top sectoral gainers - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMWlBS0s0Y09Oa1J6eHpzYXcyZjgyQllHcnFVeFJCNTgtOWtMZ2RPdzhNNWxVSG5NYThGWDQ1cTZGQ0dBQXJPM1BPUG5pYVZPRHhmaDhlVmxHZDM2X1ZOaUd4QWtGZ2p4TFdtLXA3SzFrM1VtSHNqRlNTdkhlWjNXNy02eWs2eTFBc3Q3eFpXOFN3cmlRbnd0aUtvaHc4bmloWWc1eG9udDBNNnRCQTJiMXdkNk5LVDBpc01kTmJxNzlKREt1MFBMaElOMkx5UjUwTWVSMzJPMmk2Nlp3M1NkbTFkWXZGTUxmZk1ERUhTU19zSDg1MFM5QzQ2OGpGSVNpWENSOXhSdWFFZw?oc=5",
+      "publishedAt": "Sat, 14 Nov 2026 04:51:14 GMT"
     },
     {
       "title": "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff",
@@ -158,12 +172,6 @@
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZm9kaWt5dHFxS203YTVuVjk1SHNiaFhKeHkwVGRJUk1nUDJxQ1FBdnhsZEN4NU1qLVcxVFg4SWd1Z2diWXZ4Q0dKekpFcnRMQkVCaDFWSm9HS1FXWHVqam1WNjVPSFk1WG9acFNzQU53aU9qMUZ5VHlPbTlLMlRkZGJPT1JqclZQZkxZVDROaDJILXh6djU5eXhFaVlqUjliZDlCUFk1T0FPMzkybkk3SFdYM1BLQ0I0R0ltR19fZkFEa1JmMHZFZG9XNGhCdw?oc=5",
       "publishedAt": "Wed, 11 Nov 2026 04:39:53 GMT"
-    },
-    {
-      "title": "Stock markets end higher; Sensex and Nifty jump nearly 1% - The Hindu",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakU4aG82THd3Z01GTHRJQVEweW9FUXJnM3NIZFVKN1dNRkxBU1g2VTBydnFBejcwVHl4Q1pubk13a056ZVFqUVBHalBWb1ljQ2xUT0steXZXdEhkUlFwWTJSdFR6Yy11a1BpeDhaXzVBSkt5UDJxd0ZpaDNtenNKVFFRa2wyWDItQlppcE5EUXZJeGM2dVZDMmxLVVdJV3JEMXBVNTdNSTJhcm9UNUNXdC1wV251QmpsNTRuWlEyNXI3VTFoMXhV0gHOAUFVX3lxTE1qVlQ5R3RrQl9qMHN3V1FYaG1lWktMUkdoMmFyLXZHUlYyWkhQVWt1eWg2RFF5R1BtaVNNUlRCMnU4bWFXdEYweWlleGRmRVpVQ1ZkbjhLLTdLZzNVSVJhZnJjWlFPVDVIUDRVcWNTTGFKTklpdlU2V3VTbzBndFkzYWJMTEQwU08yc2Njb0lacGpfYmhXSE5JSjF2VE5Sak9vRjV5eTNNRXBaLWVpS09pMmljNkdoQjNOY0VrR053SjlxaDA0V3JCZEViRU5n?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 11:11:59 GMT"
     },
     {
       "title": "Sensex Today Ends 318 Points Lower | Nifty Below 25,150 | Manappuram Finance Down 4% - Equitymaster",
