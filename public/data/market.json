@@ -1,43 +1,52 @@
 {
-  "headline": "Last session: Sensex slips 289 points as inflation concerns weigh on market sentiment",
+  "headline": "Last session: Sensex fell 289 points on inflation concerns, while indices extended weekly gains for third week",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 17 November.",
-    "nextOpen": "Tuesday, 17 November 2026"
+    "nextOpen": "Tuesday, 17 November"
   },
   "why": [
-    "Inflation concerns weighed on investor sentiment in the last trading session.",
-    "Weak opening cues were signaled earlier by Gift Nifty.",
-    "Apparel exports grew 20% in October on currency depreciation, though volume growth remained subdued.",
-    "Under-utilisation of iron ore capacity in major-producing states prompted economic concerns."
+    "On the last trading day, inflation concerns weighed heavily on investor sentiment, dragging indices down.",
+    "Foreign fund inflows and lower crude oil prices had buoyed markets earlier in the week.",
+    "Strong Q2 earnings expectations and robust buying by FIIs drove significant mid-week market rallies.",
+    "Currency depreciation boosted apparel exports by 20% in October despite subdued volume growth."
   ],
   "whatHappening": [
-    "On the last trading session, Sensex fell 289 points while Nifty slipped.",
-    "Despite the Friday decline, Nifty50 and Sensex extended their weekly rally for the third consecutive week.",
-    "PSU Banks emerged as the top sectoral gainers over the weekly period.",
-    "TRAI barred or disconnected over 1.24 lakh mobile connections during the July-September quarter."
+    "On the last trading day, Sensex fell 289 points as Nifty slipped due to fresh inflation concerns.",
+    "Across the week, NIFTY50 and SENSEX extended their rally for the 3rd straight week, led by PSU Banks.",
+    "CMS Info reported a 10% rise in Q2 profit, backed by record services revenue for the fourth straight quarter.",
+    "Mahanadi Coalfields filed its Red Herring Prospectus (RHP) for a proposed IPO worth nearly ₹9,500 crore."
   ],
-  "stocksInNews": [],
-  "summary": "The Indian stock market is closed today due to the weekend. In the last trading session, Sensex fell 289 points as inflation concerns weighed on equities. However, markets completed a third consecutive week of overall gains led by PSU banks.",
-  "updatedAt": "2026-11-14T17:02:29.582Z",
+  "stocksInNews": [
+    {
+      "symbol": "CMSINFO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        0
+      ]
+    }
+  ],
+  "summary": "On the last trading session, Indian benchmark indices ended lower as Sensex slipped 289 points amid inflation concerns. Despite Friday's pull-back, both Nifty and Sensex closed the week higher for the third consecutive week, driven by PSU Banks and earlier FII inflows. In corporate developments, CMS Info posted a 10% jump in Q2 net profit, while Mahanadi Coalfields filed an RHP for a ₹9,500 crore IPO.",
+  "updatedAt": "2026-11-14T18:01:41.724Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-14",
   "articleKeys": [
+    "cms info q2 results profit rises 10 as services revenue hits record for fourth straight quarter",
+    "spacex to attempt first full recovery of new starship rocket",
+    "a rare trumpxiputin summit may be days away why some nations fear a new yalta",
+    "mahanadi coalfields files rhp for proposed ipo worth nearly 9500 crore",
+    "donga naa koduku box office collection day 2 telugu comedy film continues decent run at theatres",
+    "not just jensen huang why trump aide howard lutnick is the next name in nvidia storm",
+    "portugal vs denmark live streaming likely lineups where to watch uefa nations league match on tv online",
+    "itllu arjuna box office collection day 2 sai aniesh starrer remains steady",
     "trai crackdown on spam over 124 lakh mobile connections barred or disconnected in julyseptember",
     "apparel exports surge 20 in october on currency depreciation but volume growth remains subdued",
-    "lpg distributors seek higher commissions flexibility on new connections amid png push",
-    "mookuthi amman 2 box office collection day 9 nayanthara starrer refuses to slow down",
-    "iron ore capacity underutilisation in majorproducing states prompt concerns as india sets 2047 target",
-    "is all money in your bank account your income a rs 369crore tax case has an answer",
-    "indiachina border has become more alive needs greater troop commitment says eam jaishankar",
-    "why to tinker with something that has delivered value for 150 years noel tata",
-    "ramayana ott rights not sold yet producer dil raju reveals reason",
-    "jefferies chris wood sees india as big winner of reverse ai trade but theres an iran catch",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
     "stock markets climb in early trade led by foreign fund inflows lower crude oil prices dd news",
-    "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
     "market weekly wrap nifty50 sensex extend rally for 3rd week psu banks top sectoral gainers upstox",
+    "stock markets today sensex nifty fall as inflation concerns weigh on markets rediff",
     "stock market today massive jump in sensex nifty rs45 lakh cr wealth added in a few mins reasons for bullish party tradingview",
     "stock market today gift nifty signals weak opening hdfc sky",
     "stock market today sensex nifty surge 17 at preopen hdfc sky",
@@ -46,6 +55,54 @@
     "stock markets today sensex nifty surge as fiis boost indian equities amid positive q2 earnings rediff"
   ],
   "articles": [
+    {
+      "title": "CMS Info Q2 Results: Profit Rises 10% As Services Revenue Hits Record For Fourth Straight Quarter",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/cms-info-q2-results-cash-logistics-firms-profit-climbs-as-income-crosses-rs-660-crore-12324148#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 22:50:01 +0530"
+    },
+    {
+      "title": "SpaceX To Attempt First Full Recovery Of New Starship Rocket",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/technology/spacex-to-attempt-first-full-recovery-of-new-starship-rocket-12327756#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 22:49:00 +0530"
+    },
+    {
+      "title": "A Rare Trump-Xi-Putin Summit May Be Days Away. Why Some Nations Fear A 'New Yalta’",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/a-rare-trump-xi-putin-summit-may-be-days-away-why-some-nations-fear-a-new-yalta-12327645#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 22:40:56 +0530"
+    },
+    {
+      "title": "Mahanadi Coalfields files RHP for proposed IPO worth nearly ₹9,500 crore",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-9500-crore/article71702765.ece",
+      "publishedAt": "Sat, 14 Nov 2026 22:40:49 +0530"
+    },
+    {
+      "title": "Donga Naa Koduku Box Office Collection Day 2: Telugu Comedy Film Continues Decent Run At Theatres",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/donga-naa-koduku-box-office-collection-day-2-telugu-comedy-film-continues-its-steady-run-at-the-theatres-12327683#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 22:22:11 +0530"
+    },
+    {
+      "title": "Not Just Jensen Huang: Why Trump Aide Howard Lutnick Is The Next Name In Nvidia Storm",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/not-just-jensen-huang-why-trump-aid-howard-lutnick-is-the-next-name-in-the-nvidia-storm-12327590#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 22:19:57 +0530"
+    },
+    {
+      "title": "Portugal vs Denmark Live Streaming: Likely Lineups; Where To Watch UEFA Nations League Match On TV, Online?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/portugal-vs-denmark-live-streaming-likely-lineups-where-to-watch-uefa-nations-league-match-on-tv-online-12325728#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 22:15:01 +0530"
+    },
+    {
+      "title": "Itllu Arjuna Box Office Collection Day 2: Sai Aniesh Starrer Remains Steady",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/itllu-arjuna-box-office-collection-day-2-sai-aniesh-starrer-remains-steady-12327549#publisher=newsstand",
+      "publishedAt": "Sat, 14 Nov 2026 22:14:37 +0530"
+    },
     {
       "title": "TRAI crackdown on spam: Over 1.24 lakh mobile connections barred or disconnected in July-September",
       "source": "Zerodha Pulse",
@@ -57,54 +114,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Industry/apparel-exports-surge-20-in-october-on-currency-depreciation-but-volume-growth-remains-subdued/article71702622.ece",
       "publishedAt": "Sat, 14 Nov 2026 22:06:25 +0530"
-    },
-    {
-      "title": "LPG distributors seek higher commissions, flexibility on new connections amid PNG push",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/lpg-distributors-seek-higher-commissions-flexibility-on-new-connections-amid-png-push/article71702560.ece",
-      "publishedAt": "Sat, 14 Nov 2026 21:56:08 +0530"
-    },
-    {
-      "title": "Mookuthi Amman 2 Box Office Collection Day 9: Nayanthara Starrer Refuses To Slow Down",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/entertainment-cinema-kollywood-movie-mookuthi-amman-2-box-office-collection-day-9-nayanthara-tamil-film-saturday-earnings-12327414#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 21:40:05 +0530"
-    },
-    {
-      "title": "Iron ore capacity under-utilisation in major-producing states prompt concerns as India sets 2047 target",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/iron-ore-capacity-under-utilisation-in-major-producing-states-prompt-concerns-as-india-sets-2047-target/article71702496.ece",
-      "publishedAt": "Sat, 14 Nov 2026 21:35:55 +0530"
-    },
-    {
-      "title": "Is All Money In Your Bank Account Your Income? A Rs 3.69-Crore Tax Case Has An Answer",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/is-all-money-in-your-bank-account-your-income-a-rs-3-69-crore-tax-case-has-an-answer-12327099#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 21:25:12 +0530"
-    },
-    {
-      "title": "India-China Border Has Become 'More Alive', Needs Greater Troop Commitment Says EAM Jaishankar",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/india-china-border-has-become-more-alive-needs-greater-troop-commitment-says-eam-jaishankar-12327484#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 21:10:41 +0530"
-    },
-    {
-      "title": "Why to tinker with something that has delivered value for 150 years: Noel Tata",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/why-to-tinker-with-something-that-has-delivered-value-for-150-years-noel-tata/article71702445.ece",
-      "publishedAt": "Sat, 14 Nov 2026 21:10:25 +0530"
-    },
-    {
-      "title": "Ramayana OTT Rights Not Sold Yet? Producer Dil Raju Reveals Reason",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ramayana-ott-rights-not-sold-yet-producer-dil-raju-reveals-reason-12327040#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 21:06:14 +0530"
-    },
-    {
-      "title": "Jefferies’ Chris Wood Sees India As Big Winner Of 'Reverse AI Trade’, But There’s An Iran Catch",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/jefferies-chris-wood-sees-india-as-big-winner-of-reverse-ai-trade-but-there-s-an-iran-catch-12327415#publisher=newsstand",
-      "publishedAt": "Sat, 14 Nov 2026 21:00:12 +0530"
     },
     {
       "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
@@ -119,16 +128,16 @@
       "publishedAt": "Thu, 12 Nov 2026 06:08:37 GMT"
     },
     {
-      "title": "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZk5GMVZZVVZYUU9PenIwbHFmTzE5MzlDWnN0X0J6bTY0Sng1SjNHYjIxRUFFZlA1OWpodXpYcW11Qk01MWRra29mblRORndpRGJBdEhOTkV6MjFGQUVfTGN5Q0Q0RlNKdlZPOWlYY0NnSF83Z0kyVkdiZ3kzSTNQalFYMzJMT2tyeVI1S3FhVU5hMzZrRlBfdmp3dllQSjJzMVlDYTZwZnJSQlFjb2pSTWdqZWd1QkFxaVpYdlprQnczU2I3eC1EcWF6dVpGYmJDdDdkY2QzajE2Snk3MHVfWU9n0gHkAUFVX3lxTE40YnM5akZ1cmlyeGRSdnlONURUdC1yTEptQ3Q2YzJmV2ZOaVd5blg2UnpYYWZPbTEwTTZRSG5ZX0E0VmdxSDgtTTlwMGpUOGE3US1WTW1lbWtHeUtuajJ1VHFzUm14VHNwQy1JbXFWWWplMllpZTlyVGgzOUloLXp2UW1DMTRPbkhEVkdjWHhzdGhWcHA1aHhtY0c4QS1vV1RpcUlwUFdnYjNxSFRjQVRLdkVWTFBIWk9mUVVqOEoyTC1penhYTEVNNnBydHp0QXJwNEtpa1RDYXB6ZWFCUF9LWnF0Qg?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 05:20:13 GMT"
-    },
-    {
       "title": "Market weekly wrap: NIFTY50, SENSEX extend rally for 3rd week; PSU Banks top sectoral gainers - Upstox",
       "source": "Upstox",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMWlBS0s0Y09Oa1J6eHpzYXcyZjgyQllHcnFVeFJCNTgtOWtMZ2RPdzhNNWxVSG5NYThGWDQ1cTZGQ0dBQXJPM1BPUG5pYVZPRHhmaDhlVmxHZDM2X1ZOaUd4QWtGZ2p4TFdtLXA3SzFrM1VtSHNqRlNTdkhlWjNXNy02eWs2eTFBc3Q3eFpXOFN3cmlRbnd0aUtvaHc4bmloWWc1eG9udDBNNnRCQTJiMXdkNk5LVDBpc01kTmJxNzlKREt1MFBMaElOMkx5UjUwTWVSMzJPMmk2Nlp3M1NkbTFkWXZGTUxmZk1ERUhTU19zSDg1MFM5QzQ2OGpGSVNpWENSOXhSdWFFZw?oc=5",
       "publishedAt": "Sat, 14 Nov 2026 04:51:14 GMT"
+    },
+    {
+      "title": "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff",
+      "source": "Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZk5GMVZZVVZYUU9PenIwbHFmTzE5MzlDWnN0X0J6bTY0Sng1SjNHYjIxRUFFZlA1OWpodXpYcW11Qk01MWRra29mblRORndpRGJBdEhOTkV6MjFGQUVfTGN5Q0Q0RlNKdlZPOWlYY0NnSF83Z0kyVkdiZ3kzSTNQalFYMzJMT2tyeVI1S3FhVU5hMzZrRlBfdmp3dllQSjJzMVlDYTZwZnJSQlFjb2pSTWdqZWd1QkFxaVpYdlprQnczU2I3eC1EcWF6dVpGYmJDdDdkY2QzajE2Snk3MHVfWU9n0gHkAUFVX3lxTE40YnM5akZ1cmlyeGRSdnlONURUdC1yTEptQ3Q2YzJmV2ZOaVd5blg2UnpYYWZPbTEwTTZRSG5ZX0E0VmdxSDgtTTlwMGpUOGE3US1WTW1lbWtHeUtuajJ1VHFzUm14VHNwQy1JbXFWWWplMllpZTlyVGgzOUloLXp2UW1DMTRPbkhEVkdjWHhzdGhWcHA1aHhtY0c4QS1vV1RpcUlwUFdnYjNxSFRjQVRLdkVWTFBIWk9mUVVqOEoyTC1penhYTEVNNnBydHp0QXJwNEtpa1RDYXB6ZWFCUF9LWnF0Qg?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 05:20:13 GMT"
     },
     {
       "title": "Stock Market Today: Massive jump in Sensex, Nifty! Rs.4.5 lakh cr wealth added in a few mins - Reasons for bullish party - TradingView",
