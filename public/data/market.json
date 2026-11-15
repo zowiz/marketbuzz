@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Indian markets extended weekly gains for the third straight week driven by foreign inflows",
+  "headline": "Last session: Indian markets extended gains for third straight week despite Friday dip on inflation concerns.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,33 +7,50 @@
     "nextOpen": "Monday, 16 November 2026"
   },
   "why": [
-    "AI market retreat globally fueled a rotation trade into Indian equities",
-    "Continued foreign institutional investor (FII) buying and fund inflows boosted market sentiment",
-    "Lower crude oil prices helped support market strength earlier in the week",
-    "Inflation concerns weighed on sentiment in select sessions, causing brief pullbacks"
+    "Foreign institutional investor (FII) inflows drove weekly gains across Indian equities.",
+    "Global rotation trade out of overextended AI stocks redirected capital back toward Indian markets.",
+    "Inflation concerns weighed on investor sentiment, causing a 289-point decline in Sensex on Friday.",
+    "Lower crude oil prices provided relief and supported market sentiment earlier in the week."
   ],
   "whatHappening": [
-    "Sensex and Nifty secured gains for the third consecutive week",
-    "Smallcap indices jumped 3.6% while PSU Bank stocks surged 7.5% over the week",
-    "In the last session on Friday, Sensex slipped 289 points amid inflation concerns",
-    "Deteriorating AQI levels in Delhi-NCR led to a surge in air purifier sales"
+    "Smallcap index jumped 3.6% and PSU Bank sector surged 7.5% during the week.",
+    "Max Estates received HARERA approval for a ₹4,000 crore luxury real estate project in Gurugram.",
+    "Alembic Pharma secured USFDA approval for lung cancer treatment drug Binimetinib.",
+    "Air purifier sales surged significantly in Delhi-NCR following a sharp deterioration in AQI levels."
   ],
-  "stocksInNews": [],
-  "summary": "Indian benchmark indices Nifty and Sensex recorded gains for the third straight week, backed by robust FII buying and sector rallies in PSU banks and smallcaps. Despite minor dips on Friday due to inflation worries, overall weekly sentiment remained positive. Markets are closed today for the weekend and will reopen on Monday, 16 November.",
-  "updatedAt": "2026-11-15T11:01:45.561Z",
+  "stocksInNews": [
+    {
+      "symbol": "MAXESTATES",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "APLLTD",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        3
+      ]
+    }
+  ],
+  "summary": "Indian benchmark indices posted their third consecutive week of gains driven by persistent foreign fund buying.\nFriday's session saw minor profit-taking and inflation worries drag the Sensex down by 289 points.\nStock-specific developments were highlighted by Max Estates' project approval and Alembic Pharma's USFDA clearance.",
+  "updatedAt": "2026-11-15T12:01:27.864Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-15",
   "articleKeys": [
+    "india invites singapore universities to set up campuses build townships",
+    "max estates gets harera nod for 4000 crore luxury project in gurugram",
     "air purifier sales surge as delhincr aqi deteriorates demand spreads beyond traditional markets",
+    "alembic pharma receives usfda approval for lung cancer drug binimetinib",
     "megaspeed says alice huang left firm in 2025 defends lawful business operations",
     "4 unique business ideas you can pursue under rs 5 lakh to generate a steady income",
     "ai retreat fuels india stock comeback in great rotation trade",
     "somebody hit us cockpit audio captures pilots urgent call after miami tarmac collision",
     "cryptos slowmotion selloff leaves traders weary and hopeless",
     "boeing aircraft collides with cargo plane at miami airport tarmac amid us flight chaos two injured",
-    "direct indiaus flights spared 587 scraped departures on nov 15 even as us cancellations drop to 2",
-    "iran strikes bahrain base repeats path to us deal remains open",
-    "nvidias big investors push to keep huang in ceo race urge for slow deliberate search",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
     "smallcaps jump 36 psu banks surge 75 as sensex nifty extend weekly gains what lies ahead tradingview",
     "stock markets climb in early trade led by foreign fund inflows lower crude oil prices dd news",
@@ -47,10 +64,28 @@
   ],
   "articles": [
     {
+      "title": "India invites Singapore universities to set up campuses, build townships",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/education/news/india-invites-singapore-universities-to-set-up-campuses-build-townships-126111500434_1.html",
+      "publishedAt": "Sun, 15 Nov 2026 16:43:15 +0530"
+    },
+    {
+      "title": "Max Estates gets HARERA nod for ₹4,000 crore luxury project in Gurugram",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/max-estates-gets-harera-nod-for-4-000-crore-luxury-project-in-gurugram-126111500417_1.html",
+      "publishedAt": "Sun, 15 Nov 2026 16:27:11 +0530"
+    },
+    {
       "title": "Air purifier sales surge as Delhi-NCR AQI deteriorates; demand spreads beyond traditional markets",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/Industry/air-purifier-sales-surge-as-delhi-ncr-aqi-deteriorates-demand-spreads-beyond-traditional-markets/article71704405.ece",
       "publishedAt": "Sun, 15 Nov 2026 16:09:04 +0530"
+    },
+    {
+      "title": "Alembic Pharma receives USFDA approval for lung cancer drug Binimetinib",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/alembic-pharma-receives-usfda-approval-for-lung-cancer-drug-binimetinib-126111500385_1.html",
+      "publishedAt": "Sun, 15 Nov 2026 15:55:55 +0530"
     },
     {
       "title": "Megaspeed Says Alice Huang Left Firm In 2025, Defends 'Lawful' Business Operations",
@@ -87,24 +122,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/world/boeing-aircraft-collides-with-cargo-plane-at-miami-airport-tarmac-amid-us-flight-chaos-two-injured-12329539#publisher=newsstand",
       "publishedAt": "Sun, 15 Nov 2026 14:48:33 +0530"
-    },
-    {
-      "title": "Direct India-US Flights Spared; 587 Scraped Departures On Nov 15 Even As US Cancellations Drop To 2%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/direct-india-us-flights-spared-587-scraped-departures-on-nov-15-even-as-us-cancellations-drop-to-2-12329462#publisher=newsstand",
-      "publishedAt": "Sun, 15 Nov 2026 14:46:49 +0530"
-    },
-    {
-      "title": "Iran Strikes Bahrain Base, Repeats Path To US Deal Remains Open",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/iran-strikes-bahrain-base-repeats-path-to-us-deal-remains-open-12329506#publisher=newsstand",
-      "publishedAt": "Sun, 15 Nov 2026 14:32:38 +0530"
-    },
-    {
-      "title": "Nvidia's Big Investors Push To Keep Huang In CEO Race, Urge For 'Slow, Deliberate' Search",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/nvidias-big-investors-want-a-slow-deliberate-ceo-search-urge-board-to-consider-jensen-huangs-return-12329490#publisher=newsstand",
-      "publishedAt": "Sun, 15 Nov 2026 14:27:28 +0530"
     },
     {
       "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
@@ -164,7 +181,7 @@
       "title": "Indian markets extend gains for 3rd straight week despite Nvidia crisis - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3k1MllsTVlwSWpyeEVRV0NtckxGTTQwWDVUc2NpOUp3OGZQWUJPOWlNeFpyeWEzblBKanp3OW9BNTUyY1N2YmgtY2Z1Z09HYzBEOVlfOFNnbUluUDVvamZ4ZHlUTmg2UGxlSFJXdXRWRUNwazhGUllKSW13cTNqSEk2eW9LT3RKOXNkN25rMkMyMTZuUEJaSEtUMGRNS2JpRTJoWnViNUVOcUE1TmsxZmIwcGt0QzFkdFp6em9ZX2o1eEJ4VkFCUldzcTdtYVVOMVJBctIB2gFBVV95cUxON2d3R19ZVmJqWEFXdU40TVVIYXd5LTI2ZEYzQXZ0TnhZZlFRWk56MTdnSGw0cVNlcG1XbDNUbFdpSnl0aVFfdlB5UDMwSHk2Y19LbWpuTjJCbmVDMjVOdlIzNkZGNGJlZEZ3d3Vtd0cwTWdoZHVzQlltQkFHdlJkdzh3SW9ITmplUlpDbWJBNXNNLVFNUGhRczBNaWVGQXB3NGRBRzNhRjlLc2FQVmtvSU9ybnpCZEU2RVRja2djV1dCdjBlRVptM2hfODFiODQ2VzZhbzlGdms5Zw?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 15:28:05 GMT"
+      "publishedAt": "Fri, 13 Nov 2026 15:28:20 GMT"
     }
   ]
 }
