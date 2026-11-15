@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex and Nifty extended gains for the third straight week supported by strong FII inflows.",
+  "headline": "Last session: Indian markets extended gains for a third straight week driven by strong foreign fund inflows.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,32 +7,32 @@
     "nextOpen": "Monday, 16 November 2026"
   },
   "why": [
-    "FPIs infused ₹84,290 crore into Indian equities during the first fortnight of November.",
-    "Smallcap indices surged 3.6% while PSU Bank stocks rallied 7.5% over the trading week.",
-    "Sustained buying by foreign institutional investors offset global market concerns.",
-    "Market sentiment was bolstered by rotation trades out of global AI tech stocks into Indian equities."
+    "Indian benchmark indices extended weekly gains for the third consecutive week supported by FII buying.",
+    "Smallcap indices jumped 3.6% and PSU bank stocks surged 7.5% during recent weekly trade.",
+    "Lower crude oil prices and foreign fund inflows helped fuel market momentum.",
+    "Inflation concerns and global market cues triggered brief pullbacks in benchmark indices during recent sessions."
   ],
   "whatHappening": [
-    "SEBI announced plans to issue AI usage guidelines for capital markets to strengthen investor protection.",
-    "Mahanagar Gas increased CNG prices in Mumbai by ₹1.5/kg, marking its sixth revision since May.",
-    "Escorts Kubota announced plans for a new manufacturing facility in Uttar Pradesh with a capacity of 60,000 tractors.",
-    "Zomato's parent company Eternal revised its 2030 EV delivery targets amid fleet expansion."
+    "ONGC took over the disputed Cambay block from Vedanta following a court ruling.",
+    "PNB aims to achieve Rs 200 crore quarterly profit from its credit card and cash management verticals starting FY28.",
+    "SEBI Chairman Tuhin Pandey announced plans to issue AI usage guidelines for capital markets to safeguard investors.",
+    "Motherson is expanding its footprint in India by leveraging global technologies to boost future growth."
   ],
   "stocksInNews": [
     {
-      "symbol": "MGL",
+      "symbol": "ONGC",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        4
+        0
       ]
     },
     {
-      "symbol": "ESCORTS",
-      "sentiment": "Positive",
+      "symbol": "VEDL",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        8
+        0
       ]
     },
     {
@@ -40,33 +40,41 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        1
+        7
       ]
     },
     {
-      "symbol": "ZOMATO",
+      "symbol": "BHARTIARTL",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        7
+        8
+      ]
+    },
+    {
+      "symbol": "PNB",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        9
       ]
     }
   ],
-  "summary": "Indian benchmark indices posted their third consecutive week of gains, driven by substantial foreign portfolio investment inflowing into domestic equities.\nStrong momentum in PSU banking and smallcap stocks supported the market momentum despite intra-week volatility.\nKey stock actions featured manufacturing capacity expansion by Escorts Kubota and CNG price revisions by Mahanagar Gas.",
-  "updatedAt": "2026-11-15T08:42:02.198Z",
+  "summary": "Indian equities logged their third straight weekly gain, bolstered by robust FII inflows, lower crude oil prices, and broad-based buying across smallcaps and PSU banks. Meanwhile, regulatory updates and key corporate developments in ONGC, Vedanta, PNB, and Motherson kept individual stocks in focus. Markets remain closed today for the weekend and will resume trading on Monday, 16 November.",
+  "updatedAt": "2026-11-15T09:01:28.551Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-15",
   "articleKeys": [
+    "ongc takes over disputed cambay block from vedanta after court ruling",
+    "arunachal governor seeks to improve education health and skill development of tribal youth",
+    "lakshya sen scripts history beats koki watanabe to win kumamoto masters japan open",
+    "spacex starship successfully lands on launch site 10 historic firsts that changed space travel and whats next",
+    "tamil nadu cm vijays govt secures steep price cut to provide free bicycles to students",
     "sebi to issue ai usage guidelines for capital markets focus on investor protection says chairman tuhin pandey",
+    "itllu arjuna box office collection day 2 sai aniesh starrer crosses rs 2 crore with 105 growth check earnings",
     "motherson eyes bigger india play with global technologies to drive growth",
     "from bicycle parts to satellites inside sunil mittals 50year journey",
-    "zappfresh operator dsm fresh foods reports 73 crore profit in h1 fy27",
-    "mahanagar gas hikes cng prices in mumbai by 15kg sixth hike since may",
-    "fpis pump 84290 crore into equities in first fortnight of november",
-    "bouma box office collection day 3 rejin s babus gothic thriller sees 59 jump in earnings",
-    "zomatoparent eternal reworks 2030 ev delivery target amid fleet expansion",
-    "escorts kubota plans new up plant with 60000tractor capacity cfo",
-    "god save the king ipl founder lalit modi announces british citizenship calls uk home",
+    "pnb eyes rs 200 crore quarterly profit from credit card cash management verticals from fy28",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
     "smallcaps jump 36 psu banks surge 75 as sensex nifty extend weekly gains what lies ahead tradingview",
     "stock markets climb in early trade led by foreign fund inflows lower crude oil prices dd news",
@@ -80,10 +88,46 @@
   ],
   "articles": [
     {
+      "title": "ONGC takes over disputed Cambay block from Vedanta after court ruling",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/ongc-takes-over-disputed-cambay-block-from-vedanta-after-court-ruling-126111500208_1.html",
+      "publishedAt": "Sun, 15 Nov 2026 13:09:23 +0530"
+    },
+    {
+      "title": "Arunachal Governor Seeks To Improve Education, Health And Skill Development Of Tribal Youth",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/arunachal-governor-seeks-to-improve-education-health-and-skill-development-of-tribal-youth-12329276#publisher=newsstand",
+      "publishedAt": "Sun, 15 Nov 2026 13:07:52 +0530"
+    },
+    {
+      "title": "Lakshya Sen Scripts History, Beats Koki Watanabe To Win Kumamoto Masters Japan Open",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/lakshya-sen-scripts-history-beats-koki-watanabe-to-win-kumamoto-masters-japan-open-12329105#publisher=newsstand",
+      "publishedAt": "Sun, 15 Nov 2026 13:06:21 +0530"
+    },
+    {
+      "title": "SpaceX Starship Successfully Lands On Launch Site: 10 Historic Firsts That Changed Space Travel And What's Next",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/spacex-starship-successfully-lands-on-launch-site-10-historic-firsts-that-changed-space-travel-and-whats-next-12329111#publisher=newsstand",
+      "publishedAt": "Sun, 15 Nov 2026 12:57:01 +0530"
+    },
+    {
+      "title": "Tamil Nadu CM Vijay's Govt Secures Steep Price Cut To Provide Free Bicycles To Students",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/tamil-nadu-cm-vijays-govt-secures-steep-price-cut-to-provide-free-bicycles-to-students-12329216#publisher=newsstand",
+      "publishedAt": "Sun, 15 Nov 2026 12:49:13 +0530"
+    },
+    {
       "title": "SEBI to issue AI usage guidelines for capital markets, focus on investor protection, says Chairman Tuhin Pandey",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
       "publishedAt": "Sun, 15 Nov 2026 12:38:23 +0530"
+    },
+    {
+      "title": "Itllu Arjuna Box Office Collection Day 2: Sai Aniesh Starrer Crosses Rs 2 Crore With 10.5% Growth, Check Earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/itllu-arjuna-box-office-collection-day-2-sai-aniesh-anaswara-rajan-film-crosses-rs-2-crore-with-10-5-growth-check-saturday-earnings-12329177#publisher=newsstand",
+      "publishedAt": "Sun, 15 Nov 2026 12:32:20 +0530"
     },
     {
       "title": "Motherson eyes bigger India play with global technologies to drive growth",
@@ -98,46 +142,10 @@
       "publishedAt": "Sun, 15 Nov 2026 12:26:00 +0530"
     },
     {
-      "title": "Zappfresh operator DSM Fresh Foods reports ₹7.3 crore profit in H1 FY27",
+      "title": "PNB Eyes Rs 200 Crore Quarterly Profit From Credit Card, Cash Management Verticals From FY28",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/zappfresh-operator-dsm-fresh-foods-reports-7-3-crore-profit-in-h1-fy27-126111500195_1.html",
-      "publishedAt": "Sun, 15 Nov 2026 12:18:17 +0530"
-    },
-    {
-      "title": "Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg, sixth hike since May",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/mahanagar-gas-hikes-cng-prices-in-mumbai-by-15kg-sixth-hike-since-may/article71704245.ece",
-      "publishedAt": "Sun, 15 Nov 2026 12:07:44 +0530"
-    },
-    {
-      "title": "FPIs pump ₹84,290 crore into equities in first fortnight of November",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
-      "publishedAt": "Sun, 15 Nov 2026 12:02:39 +0530"
-    },
-    {
-      "title": "Bouma Box Office Collection Day 3: Rejin S Babu's Gothic Thriller Sees 59% Jump In Earnings",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/bouma-box-office-collection-day-3-rejin-s-babus-gothic-thriller-sees-59-jump-check-saturday-earnings-12329054#publisher=newsstand",
-      "publishedAt": "Sun, 15 Nov 2026 11:51:53 +0530"
-    },
-    {
-      "title": "Zomato-parent Eternal reworks 2030 EV delivery target amid fleet expansion",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/zomato-parent-eternal-reworks-2030-ev-delivery-target-amid-fleet-expansion-126111500167_1.html",
-      "publishedAt": "Sun, 15 Nov 2026 11:46:48 +0530"
-    },
-    {
-      "title": "Escorts Kubota plans new UP plant with 60,000-tractor capacity: CFO",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/escorts-kubota-plans-new-up-plant-with-60-000-tractor-capacity-cfo-126111500168_1.html",
-      "publishedAt": "Sun, 15 Nov 2026 11:45:59 +0530"
-    },
-    {
-      "title": "'God Save The King’: IPL Founder Lalit Modi Announces British Citizenship, Calls UK 'Home’",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/god-save-the-king-ipl-founder-lalit-modi-announces-british-citizenship-calls-uk-home-12328945#publisher=newsstand",
-      "publishedAt": "Sun, 15 Nov 2026 11:44:14 +0530"
+      "link": "https://www.ndtvprofit.com/business/pnb-eyes-rs-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals-from-fy28-12328792#publisher=newsstand",
+      "publishedAt": "Sun, 15 Nov 2026 12:22:44 +0530"
     },
     {
       "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
