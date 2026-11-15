@@ -1,30 +1,38 @@
 {
-  "headline": "Last session: Sensex fell 289 points on inflation worries, but indices marked a third straight week of gains",
+  "headline": "Last session: Sensex and Nifty extended gains for a third straight week supported by strong foreign fund inflows.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 16 November.",
-    "nextOpen": "Monday, 16 November"
+    "nextOpen": "Monday, 16 November 2026"
   },
   "why": [
-    "Inflation concerns weighed on investor sentiment during the last trading session on Friday",
-    "Foreign Portfolio Investors (FPIs) showed strong confidence, investing ₹84,290 crore in the first half of November",
-    "A global rotation trade away from AI stocks has supported the recent comeback in Indian equities",
-    "Strong weekly performance in PSU banks and smallcap stocks helped indices maintain a three-week winning streak"
+    "Foreign Portfolio Investors (FPIs) pumped ₹84,290 crore into Indian equities in the first fortnight of November.",
+    "PSU banks surged 7.5% while smallcap stocks jumped 3.6%, propelling weekly benchmark gains.",
+    "Lower crude oil prices and foreign inflows provided strong support to market sentiment.",
+    "Rotation trade away from AI stocks fueled Indian equity market strength despite global headwinds like Nvidia concerns."
   ],
   "whatHappening": [
-    "Mahanagar Gas implemented its sixth CNG price hike since May, raising rates by ₹1.5/kg in Mumbai",
-    "Escorts Kubota announced plans for a new 60,000-capacity tractor plant in Uttar Pradesh",
-    "Thomas Cook India expects to complete the demerger of its resorts business by October 2027",
-    "Punjab National Bank targets ₹200 crore quarterly profit each from credit card and cash management verticals"
+    "Escorts Kubota plans a new manufacturing plant in Uttar Pradesh with a capacity of 60,000 tractors.",
+    "Mahanagar Gas increased CNG prices in Mumbai by ₹1.5/kg, marking its sixth hike since May.",
+    "Zomato parent Eternal revised its 2030 EV delivery targets amid ongoing fleet expansion.",
+    "Motherson aims to expand its Indian market presence using global technologies to drive growth."
   ],
   "stocksInNews": [
+    {
+      "symbol": "ESCORTS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        8
+      ]
+    },
     {
       "symbol": "MGL",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        0
+        4
       ]
     },
     {
@@ -32,49 +40,41 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "ESCORTS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "THOMASCOOK",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        5
-      ]
-    },
-    {
-      "symbol": "PNB",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
         7
+      ]
+    },
+    {
+      "symbol": "MOTHERSON",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
       ]
     }
   ],
-  "summary": "The Indian market ended its last session lower as inflation concerns weighed on sentiment, though indices secured a third consecutive weekly gain. Significant FPI inflows of ₹84,290 crore and a global rotation trade provided underlying support. Key corporate news included expansion plans from Escorts Kubota and a business demerger at Thomas Cook India.",
-  "updatedAt": "2026-11-15T07:01:56.524Z",
+  "summary": "Indian markets capped off a third consecutive week of gains driven by robust FPI buying of over ₹84,000 crore. Smallcaps and PSU banking stocks led market performance, alongside major corporate announcements from Escorts Kubota and Mahanagar Gas. Markets remain closed today for the weekend and will resume trading on Monday, 16 November.",
+  "updatedAt": "2026-11-15T08:01:35.068Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-15",
   "articleKeys": [
+    "sebi to issue ai usage guidelines for capital markets focus on investor protection says chairman tuhin pandey",
+    "motherson eyes bigger india play with global technologies to drive growth",
+    "from bicycle parts to satellites inside sunil mittals 50year journey",
+    "zappfresh operator dsm fresh foods reports 73 crore profit in h1 fy27",
     "mahanagar gas hikes cng prices in mumbai by 15kg sixth hike since may",
     "fpis pump 84290 crore into equities in first fortnight of november",
+    "bouma box office collection day 3 rejin s babus gothic thriller sees 59 jump in earnings",
     "zomatoparent eternal reworks 2030 ev delivery target amid fleet expansion",
     "escorts kubota plans new up plant with 60000tractor capacity cfo",
-    "govt mandates scrutiny of abnormally low bids sets 30 threshold",
-    "thomas cook india expects demerger of resorts business by oct 2027 md",
-    "lico materials targets 450500 crore revenue in current fiscal ceo",
-    "pnb eyes 200 crore quarterly profit each from credit card cash management verticals",
-    "donga naa koduku box office collection day 2 mouli tanuj prasanth starrer sees growth mints this amount",
-    "one el nino india can handle two could break the granary",
+    "god save the king ipl founder lalit modi announces british citizenship calls uk home",
     "stock market today sensex falls 289 points nifty slips hdfc sky",
     "smallcaps jump 36 psu banks surge 75 as sensex nifty extend weekly gains what lies ahead tradingview",
     "stock markets climb in early trade led by foreign fund inflows lower crude oil prices dd news",
@@ -83,10 +83,34 @@
     "stock market today gift nifty signals weak opening hdfc sky",
     "stock market today massive jump in sensex nifty rs45 lakh cr wealth added in a few mins reasons for bullish party tradingview",
     "sensex nifty gain for third straight week as fiis buy hdfc sky",
-    "stock market outlook today 11 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
-    "stock market outlook today 12 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview"
+    "stock market outlook today 12 nov sensex nifty prediction djia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
+    "indian markets extend gains for 3rd straight week despite nvidia crisis business standard"
   ],
   "articles": [
+    {
+      "title": "SEBI to issue AI usage guidelines for capital markets, focus on investor protection, says Chairman Tuhin Pandey",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/sebi-to-issue-ai-usage-guidelines-for-capital-markets-focus-on-investor-protection-says-chairman-tuhin-pandey/article71704284.ece",
+      "publishedAt": "Sun, 15 Nov 2026 12:38:23 +0530"
+    },
+    {
+      "title": "Motherson eyes bigger India play with global technologies to drive growth",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/motherson-eyes-bigger-india-play-with-global-technologies-to-drive-growth-126111500169_1.html",
+      "publishedAt": "Sun, 15 Nov 2026 12:31:36 +0530"
+    },
+    {
+      "title": "From bicycle parts to satellites: Inside Sunil Mittal's 50-year journey",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/people/from-bicycle-parts-to-satellites-inside-sunil-mittal-s-50-year-journey-126111500180_1.html",
+      "publishedAt": "Sun, 15 Nov 2026 12:26:00 +0530"
+    },
+    {
+      "title": "Zappfresh operator DSM Fresh Foods reports ₹7.3 crore profit in H1 FY27",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/quarterly-results/zappfresh-operator-dsm-fresh-foods-reports-7-3-crore-profit-in-h1-fy27-126111500195_1.html",
+      "publishedAt": "Sun, 15 Nov 2026 12:18:17 +0530"
+    },
     {
       "title": "Mahanagar Gas hikes CNG prices in Mumbai by ₹1.5/kg, sixth hike since May",
       "source": "Zerodha Pulse",
@@ -98,6 +122,12 @@
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/business/markets/fpis-pump-84290-cr-into-equities-in-first-fortnight-of-november/article71704213.ece",
       "publishedAt": "Sun, 15 Nov 2026 12:02:39 +0530"
+    },
+    {
+      "title": "Bouma Box Office Collection Day 3: Rejin S Babu's Gothic Thriller Sees 59% Jump In Earnings",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/bouma-box-office-collection-day-3-rejin-s-babus-gothic-thriller-sees-59-jump-check-saturday-earnings-12329054#publisher=newsstand",
+      "publishedAt": "Sun, 15 Nov 2026 11:51:53 +0530"
     },
     {
       "title": "Zomato-parent Eternal reworks 2030 EV delivery target amid fleet expansion",
@@ -112,40 +142,10 @@
       "publishedAt": "Sun, 15 Nov 2026 11:45:59 +0530"
     },
     {
-      "title": "Govt mandates scrutiny of 'abnormally low bids', sets 30% threshold",
+      "title": "'God Save The King’: IPL Founder Lalit Modi Announces British Citizenship, Calls UK 'Home’",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/finance/news/govt-mandates-scrutiny-of-abnormally-low-bids-sets-30-threshold-126111500151_1.html",
-      "publishedAt": "Sun, 15 Nov 2026 11:37:45 +0530"
-    },
-    {
-      "title": "Thomas Cook India expects demerger of resorts business by Oct 2027: MD",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/thomas-cook-india-expects-demerger-of-resorts-business-by-oct-2027-md-126111500166_1.html",
-      "publishedAt": "Sun, 15 Nov 2026 11:37:13 +0530"
-    },
-    {
-      "title": "LICO Materials targets ₹450-500 crore revenue in current fiscal: CEO",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/lico-materials-targets-450-500-crore-revenue-in-current-fiscal-ceo-126111500160_1.html",
-      "publishedAt": "Sun, 15 Nov 2026 11:30:52 +0530"
-    },
-    {
-      "title": "PNB eyes ₹200 crore quarterly profit each from credit card, cash management verticals",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/pnb-eyes-200-crore-quarterly-profit-each-from-credit-card-cash-management-verticals/article71704160.ece",
-      "publishedAt": "Sun, 15 Nov 2026 11:12:07 +0530"
-    },
-    {
-      "title": "Donga Naa Koduku Box Office Collection Day 2: Mouli Tanuj Prasanth Starrer Sees Growth, Mints This Amount",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/donga-naa-koduku-box-office-collection-day-2-mouli-tanuj-prasanth-film-sees-growth-check-saturday-earnings-12328944#publisher=newsstand",
-      "publishedAt": "Sun, 15 Nov 2026 11:10:10 +0530"
-    },
-    {
-      "title": "One El Nino, India Can Handle. Two Could Break The Granary",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/el-nino-is-just-getting-started-india-can-take-one-hit-but-two-is-serious-trouble-12328910#publisher=newsstand",
-      "publishedAt": "Sun, 15 Nov 2026 10:59:55 +0530"
+      "link": "https://www.ndtvprofit.com/india/god-save-the-king-ipl-founder-lalit-modi-announces-british-citizenship-calls-uk-home-12328945#publisher=newsstand",
+      "publishedAt": "Sun, 15 Nov 2026 11:44:14 +0530"
     },
     {
       "title": "Stock Market Today: Sensex Falls 289 Points, Nifty Slips - HDFC Sky",
@@ -196,16 +196,16 @@
       "publishedAt": "Sat, 14 Nov 2026 02:57:58 GMT"
     },
     {
-      "title": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNSEdjT2JIVjQ4OHExSXFpVHBHQ2VPWVdXUU9uWlhCRUV0YmdxZGFIOTFpY21IVjQyejB0dnhsbzJ6Qi0xMHRuRExrdm44bDFjcmQyX29sVmRDR0pfVVVhSVVTYzlyWk9mS3BLRFJjM3ZUMXZ0czQ1RnlobjRFeHBWR2pscjhZT1lXVWJ5bmRKSExsanVadEF3R2dMUE0xNVZpRDVDU2JTOV9kVWQyZDhLdm5HUDQ1dk9JWkxUQjl4azlGdDIyd1F0enJURVNnZXNlcUJwZ19BRnJVQjZSNU5YUFBva3RpclBEN1BEcVI5cGc5dVNNYldleWt3?oc=5",
-      "publishedAt": "Wed, 11 Nov 2026 04:34:00 GMT"
-    },
-    {
       "title": "Stock market outlook today, 12 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa0NZcURrQ3I3cmF2d1dpY3c5LUNHa0xwTlVrX2xTSGtJc19yLXd3MDJzSGRTU0ZZMVJ0WVpkdlRVV2I2bkdNRHBYRDBENjRHTVB6eVNjSlJEUC03b1pWLU9VclZJZzkyVzdXMFlfb05vZmJtTDkyUHV2bDVrcWVtcno4VnM2OUpTY25MRHNJbTh3LW5XREJ4SWVZaVFZU2RwR0ZIRzdEMkJ1WTdYNDVPd0JyeDA3YTZsQnl4NVdyM19xdXg3TWlMZERidGNTb0xldzdaSDVraVQ1dlJQdWwwSDJvZGRkODhZQW8waVVnc1VnUnNXYVFnYUpn?oc=5",
       "publishedAt": "Thu, 12 Nov 2026 04:20:00 GMT"
+    },
+    {
+      "title": "Indian markets extend gains for 3rd straight week despite Nvidia crisis - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3k1MllsTVlwSWpyeEVRV0NtckxGTTQwWDVUc2NpOUp3OGZQWUJPOWlNeFpyeWEzblBKanp3OW9BNTUyY1N2YmgtY2Z1Z09HYzBEOVlfOFNnbUluUDVvamZ4ZHlUTmg2UGxlSFJXdXRWRUNwazhGUllKSW13cTNqSEk2eW9LT3RKOXNkN25rMkMyMTZuUEJaSEtUMGRNS2JpRTJoWnViNUVOcUE1TmsxZmIwcGt0QzFkdFp6em9ZX2o1eEJ4VkFCUldzcTdtYVVOMVJBctIB2gFBVV95cUxON2d3R19ZVmJqWEFXdU40TVVIYXd5LTI2ZEYzQXZ0TnhZZlFRWk56MTdnSGw0cVNlcG1XbDNUbFdpSnl0aVFfdlB5UDMwSHk2Y19LbWpuTjJCbmVDMjVOdlIzNkZGNGJlZEZ3d3Vtd0cwTWdoZHVzQlltQkFHdlJkdzh3SW9ITmplUlpDbWJBNXNNLVFNUGhRczBNaWVGQXB3NGRBRzNhRjlLc2FQVmtvSU9ybnpCZEU2RVRja2djV1dCdjBlRVptM2hfODFiODQ2VzZhbzlGdms5Zw?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 15:28:05 GMT"
     }
   ]
 }
