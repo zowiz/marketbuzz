@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex gains over 400 points and Nifty crosses 25,200 driven by foreign fund inflows and lower crude oil",
+  "headline": "Indian stock markets trade higher with Sensex up and Nifty around 25,200 supported by FII inflows",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,32 +7,41 @@
     "nextOpen": ""
   },
   "why": [
-    "Strong foreign institutional investor (FII) inflows boosted market sentiment in early trade.",
-    "Lower global crude oil prices provided support to the domestic equity benchmarks.",
-    "Rally in heavyweights including Asian Paints, Bharti Airtel, and ITC lifted Nifty and Sensex.",
-    "Finance Minister Nirmala Sitharaman held pre-budget consultations with economists ahead of Budget 2027."
+    "Market rally was backed by continued foreign fund inflows (FII inflows)",
+    "Lower crude oil prices helped boost overall investor sentiment",
+    "Strong buying interest seen in major stocks like ITC, Bharti Airtel, and Asian Paints",
+    "Gains in the Nifty FMCG sector contributed positively to benchmark indices"
   ],
   "whatHappening": [
-    "Sensex surged over 400 points while Nifty 50 traded comfortably above the 25,200 level.",
-    "Max Health gained 6% while Inox Wind shares slipped 9% in morning trading.",
-    "Baazar Style shares hit a 52-week high following strong buying interest.",
-    "Supreme Court upheld NCLAT's ruling on Videocon's ₹2,962-crore resolution plan."
+    "Sensex gained up to 719 points in early trade while Nifty crossed 25,200 levels",
+    "ITC shares rose by 3%, while Laurus Labs dropped 8% during market hours",
+    "Tata Steel's CEO indicated expectations of a stronger performance in the second half of the fiscal year",
+    "Small and mid-cap stocks underperformed relative to the headline benchmark indices"
   ],
   "stocksInNews": [
     {
-      "symbol": "MAXHEALTH",
+      "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        6
+        1,
+        14
       ]
     },
     {
-      "symbol": "INOXWIND",
+      "symbol": "LAURUSLABS",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        6
+        1
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4
       ]
     },
     {
@@ -40,8 +49,8 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        13,
-        15
+        12,
+        14
       ]
     },
     {
@@ -49,24 +58,8 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 2/10 sources",
       "articleIds": [
-        13,
-        15
-      ]
-    },
-    {
-      "symbol": "ITC",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        15
-      ]
-    },
-    {
-      "symbol": "BAAZARSTYLE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        8
+        12,
+        14
       ]
     },
     {
@@ -74,53 +67,85 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        16
-      ]
-    },
-    {
-      "symbol": "COALINDIA",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "VIDEOCON",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        4
+        15
       ]
     }
   ],
-  "summary": "Indian stock markets opened higher on November 16, 2026, supported by foreign fund inflows and lower crude oil prices.\nSensex gained over 400 points while Nifty moved past 25,200, led by Asian Paints, Bharti Airtel, and ITC.\nMajor stock movers included Max Health gaining 6% and Baazar Style touching a 52-week high, whereas Inox Wind dropped 9%.",
-  "updatedAt": "2026-11-16T09:31:32.571Z",
+  "summary": "Indian benchmark indices Sensex and Nifty traded higher today, driven by foreign fund inflows and lower crude oil prices. Key gainers included ITC, Bharti Airtel, and Asian Paints, while Laurus Labs faced selling pressure. Tata Steel expressed optimism for a stronger second-half performance.",
+  "updatedAt": "2026-11-16T10:18:20.000Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-16",
   "articleKeys": [
+    "ibm in talks with two more states for quantum computing tieups in india",
+    "stock market today sensex off days high up 250 points nifty 50 near 25200 itc gains 3 laurus labs slips 8",
+    "stock market live sensex up 200 pts nifty around 25200 nifty fmcg rises 1",
+    "anirudh ravichander celebrates 15 years in music says best is yet to come",
+    "tata steel expects stronger performance in second half of fiscal ceo",
+    "who is jimmy tata ratan tatas younger brother backing tata sons listing",
+    "banks are raising fd rates should you lock in your money now or wait for better returns",
+    "samir arora bullish on nvidia says ai play not going anywhere sees 1415 earnings growth for india inc",
     "stock market live sensex gains 200 pts nifty around 25200 smids underperform",
-    "muthoot fincorp q2 profit doubles to 779 crore on better asset quality",
-    "ibm invests 3 bn yearly in india plans 10 bn global quantum push ceo",
-    "jimmy tata backs tata sons listing chandrasekarans continuation as chairman",
-    "supreme court upholds nclats order on 2962cr videocon resolution plan",
-    "ramayana vs dhurandhar 2 vs kgf 2 box office day 11 ranbir kapoors film beats yashs blockbuster but trails behind ranveer singhs movie",
-    "stock market today sensex zooms 450 points nifty 50 near 25250 max health gains 6 inox wind slips 9",
-    "mahanadi ipo explained valuation reserves risks and coal india strategy",
-    "stock market live sensex gains 400 pts nifty tops 25250 baazar style shares hit 52week high",
-    "budget 2027 fm nirmala sitharaman meets economists during prebudget consultation",
-    "nse stock marketcap crosses 5 trillion scrip up 16 from ipo price business standard",
+    "lakshmi venu seeks partition of tvs family assets claims right to equal share",
     "sensex rises 418 points nifty crosses 25200 hdfc sky",
     "stock market outlook today16 nov sensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "sensex today trades higher nifty above 25200 asian paints bharti airtel top gainers equitymaster",
     "stock markets rally in early trade led by foreign fund inflows lower crude oil deccan herald",
     "sensex jumps 719 points nifty climbs above 25300 in early trade itc airtel asian paints eternal lead fortune india",
     "belrise ind kaynes tech tmpv among buzzing stocks as sensex jumps over 400 pts nifty above 25200 upstox",
+    "nse stock marketcap crosses 5 trillion scrip up 16 from ipo price business standard",
     "indian stock market today sensex nifty rise 02 hdfc sky",
     "sensex jumps 420 points nifty gains 04 in early trade as foreign inflows continue bfsieconomictimesindiatimescom",
     "stock markets today sensex nifty gain on fii inflows lower crude rediff"
   ],
   "articles": [
+    {
+      "title": "IBM in talks with two more states for quantum computing tie-ups in India",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/ibm-quantum-computing-india-state-partnerships-arvind-krishna-126111601164_1.html",
+      "publishedAt": "Mon, 16 Nov 2026 14:45:28 +0530"
+    },
+    {
+      "title": "Stock Market Today: Sensex Off Day's High, Up 250 Points, Nifty 50 Near 25,200; ITC Gains 3%, Laurus Labs Slips 8%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/stock-market-today-nifty-sensex-today-likely-to-open-higher-gift-nifty-up-85-points-asian-markets-fall-nikkei-kospi-nvidia-earnings-us-futures-12331714#publisher=newsstand",
+      "publishedAt": "Mon, 16 Nov 2026 14:23:10 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex up 200 pts, Nifty around 25,200; Nifty FMCG rises 1%",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html",
+      "publishedAt": "Mon, 16 Nov 2026 14:20:44 +0530"
+    },
+    {
+      "title": "Anirudh Ravichander Celebrates 15 Years In Music, Says 'Best Is Yet To Come'",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/anirudh-ravichander-celebrates-15-years-of-music-memories-madness-and-magic-12332568#publisher=newsstand",
+      "publishedAt": "Mon, 16 Nov 2026 14:16:47 +0530"
+    },
+    {
+      "title": "Tata Steel expects stronger performance in second half of fiscal: CEO",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/tata-steel-expects-stronger-performance-in-second-half-of-fiscal-ceo-126111601074_1.html",
+      "publishedAt": "Mon, 16 Nov 2026 14:13:12 +0530"
+    },
+    {
+      "title": "Who is Jimmy Tata, Ratan Tata's younger brother backing Tata Sons' listing?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/who-is-jimmy-tata-ratan-younger-brother-tata-sons-listing-noel-trusts-126111601091_1.html",
+      "publishedAt": "Mon, 16 Nov 2026 14:11:37 +0530"
+    },
+    {
+      "title": "Banks Are Raising FD Rates: Should You Lock In Your Money Now Or Wait For Better Returns?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/personal-finance/banks-are-raising-fd-rates-should-you-lock-in-your-money-now-or-wait-for-better-returns-12332430#publisher=newsstand",
+      "publishedAt": "Mon, 16 Nov 2026 14:07:59 +0530"
+    },
+    {
+      "title": "Samir Arora Bullish On Nvidia, Says AI Play 'Not Going Anywhere'; Sees 14-15% Earnings Growth For India Inc",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/samir-arora-helios-capital-bullish-on-nvidia-says-ai-play-not-going-anywhere-sees-14-15-percent-earnings-growth-for-india-inc-markets-sensex-today-12332756#publisher=newsstand",
+      "publishedAt": "Mon, 16 Nov 2026 14:02:16 +0530"
+    },
     {
       "title": "Stock Market LIVE: Sensex gains 200 pts, Nifty around 25,200; SMIDs underperform",
       "source": "Zerodha Pulse",
@@ -128,64 +153,10 @@
       "publishedAt": "Mon, 16 Nov 2026 14:00:59 +0530"
     },
     {
-      "title": "Muthoot FinCorp Q2 profit doubles to ₹779 crore on better asset quality",
+      "title": "Lakshmi Venu Seeks Partition Of TVS Family Assets, Claims Right To Equal Share",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/quarterly-results/muthoot-fincorp-q2-profit-doubles-to-779-crore-on-better-asset-quality-126111601050_1.html",
-      "publishedAt": "Mon, 16 Nov 2026 13:57:34 +0530"
-    },
-    {
-      "title": "IBM invests $3 bn yearly in India, plans $10 bn global quantum push: CEO",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/ibm-invests-3-bn-yearly-in-india-plans-10-bn-global-quantum-push-ceo-126111601056_1.html",
-      "publishedAt": "Mon, 16 Nov 2026 13:57:03 +0530"
-    },
-    {
-      "title": "Jimmy Tata Backs Tata Sons Listing, Chandrasekaran's Continuation As Chairman",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/jimmy-tata-backs-tata-sons-listing-chandrasekarans-continuation-as-chairman-12332626#publisher=newsstand",
-      "publishedAt": "Mon, 16 Nov 2026 13:16:37 +0530"
-    },
-    {
-      "title": "Supreme Court upholds NCLAT's order on ₹2,962-cr Videocon resolution plan",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/supreme-court-upholds-nclat-s-order-on-2-962-cr-videocon-resolution-plan-126111600976_1.html",
-      "publishedAt": "Mon, 16 Nov 2026 13:05:10 +0530"
-    },
-    {
-      "title": "Ramayana Vs Dhurandhar 2 Vs KGF 2 Box Office Day 11: Ranbir Kapoor's Film Beats Yash's Blockbuster But Trails Behind Ranveer Singh's Movie",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ramayana-vs-dhurandhar-2-vs-kgf-2-box-office-day-11-ranbir-kapoor-film-beats-kgf-2-trails-dhurandhar-2-12332470#publisher=newsstand",
-      "publishedAt": "Mon, 16 Nov 2026 13:04:33 +0530"
-    },
-    {
-      "title": "Stock Market Today: Sensex Zooms 450 Points, Nifty 50 Near 25,250; Max Health Gains 6%, Inox Wind Slips 9%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-nifty-sensex-today-likely-to-open-higher-gift-nifty-up-85-points-asian-markets-fall-nikkei-kospi-nvidia-earnings-us-futures-12331714#publisher=newsstand",
-      "publishedAt": "Mon, 16 Nov 2026 13:02:19 +0530"
-    },
-    {
-      "title": "Mahanadi IPO explained: Valuation, reserves, risks and Coal India strategy",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/ipo/mahanadi-ipo-explained-valuation-reserves-risks-and-coal-india-strategy-126111600933_1.html",
-      "publishedAt": "Mon, 16 Nov 2026 13:00:29 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex gains 400 pts, Nifty tops 25,250; Baazar Style shares hit 52-week high",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html",
-      "publishedAt": "Mon, 16 Nov 2026 13:00:27 +0530"
-    },
-    {
-      "title": "Budget 2027: FM Nirmala Sitharaman Meets Economists During Pre-Budget Consultation",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/budget-2027-fm-nirmala-sitharaman-meets-economists-during-pre-budget-consultation-12332523#publisher=newsstand",
-      "publishedAt": "Mon, 16 Nov 2026 12:57:08 +0530"
-    },
-    {
-      "title": "NSE stock market-cap crosses ₹5 trillion; scrip up 16% from IPO price - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQXoxV1M2SldFdEVDcEdabmNmeVh2ZTlkcE5JSWFnYUdpQWNVOHMyNXEyZjNSaTZrRE0tVm1jZFl0c1h1RlNlWFVkSFRWazRQVGE4TlNHMUtybFZoVlNPcGJqTnBMQ2ptRXplcTBndXlMNWNmQml1VGE4WkNnZE5lLUI5Rklfcm9naTBFbDZ6VjRId2RaaTdhdWI2RlZKcTNfUDJjd0ZmSFJHNWhFeXVwOHZtMFRxLW5MS2dPdEh2RXdXUXlNc21VZ0RYczJXUdIB0wFBVV95cUxQWENaZmFYSmZFWTFTMldvWmIzSll2U1g2d25HNmNCMFpyaEtfcHhuRlNTd3lOdmF2eEZEU0VfdnR5QkhUR0tTcnFad3JwODBlU2ZNUEFzeW5Db2JvdG1HMTNfeTlxQV9LaEh1ek11dE9DSGdObDVXREdNZnh6V2ExY21qdWN2RUgzRDU1MEk2Q2xPWXM5OXlVQlBuWWtkb05Ga1VKY3FTX1RfNFZEN0V3b0JFOFJqalJkVjd1RzQtMUJUYUVXQkYxakN4Q3hYdkM0eVdJ?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 06:12:44 GMT"
+      "link": "https://www.ndtvprofit.com/business/lakshmi-venu-seeks-partition-of-tvs-family-assets-claims-right-to-equal-share-12332808#publisher=newsstand",
+      "publishedAt": "Mon, 16 Nov 2026 13:57:37 +0530"
     },
     {
       "title": "Sensex Rises 418 Points, Nifty Crosses 25,200 - HDFC Sky",
@@ -222,6 +193,12 @@
       "source": "Upstox",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcmEtVHVNYThyb2pzLVg3WkRfOEhuaURWUlpQRUxET2xFQTY1ejlySEhsZ1p5NUJMUHZwZlhWNkQ2WkEtT3VhaGx1Uy05VGhqLVltOGFNRkVZMU1Vc1lJUGZzMkViUmNCV2ZYVTBVX0wweUZ4aTliOEs3SUFFMnhfQ0E5ZGlYak1XdVZNaHhSR19RRHRHVV8xaXBDUjlZYmk0UjlhTkRCSVpMdFBvZVJiTG9yUUM1LXFUdmZlanN0cDg0RmI2Z1pYcEpqZGRGcWZPZHp3R3V6MWliVHBmLTFTcWl4Nl9IU3Q2aWc5OQ?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 08:21:45 GMT"
+    },
+    {
+      "title": "NSE stock market-cap crosses ₹5 trillion; scrip up 16% from IPO price - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQXoxV1M2SldFdEVDcEdabmNmeVh2ZTlkcE5JSWFnYUdpQWNVOHMyNXEyZjNSaTZrRE0tVm1jZFl0c1h1RlNlWFVkSFRWazRQVGE4TlNHMUtybFZoVlNPcGJqTnBMQ2ptRXplcTBndXlMNWNmQml1VGE4WkNnZE5lLUI5Rklfcm9naTBFbDZ6VjRId2RaaTdhdWI2RlZKcTNfUDJjd0ZmSFJHNWhFeXVwOHZtMFRxLW5MS2dPdEh2RXdXUXlNc21VZ0RYczJXUdIB0wFBVV95cUxQWENaZmFYSmZFWTFTMldvWmIzSll2U1g2d25HNmNCMFpyaEtfcHhuRlNTd3lOdmF2eEZEU0VfdnR5QkhUR0tTcnFad3JwODBlU2ZNUEFzeW5Db2JvdG1HMTNfeTlxQV9LaEh1ek11dE9DSGdObDVXREdNZnh6V2ExY21qdWN2RUgzRDU1MEk2Q2xPWXM5OXlVQlBuWWtkb05Ga1VKY3FTX1RfNFZEN0V3b0JFOFJqalJkVjd1RzQtMUJUYUVXQkYxakN4Q3hYdkM0eVdJ?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 06:12:44 GMT"
     },
     {
       "title": "Indian Stock Market Today: Sensex, Nifty Rise 0.2% - HDFC Sky",
