@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex gains over 510 points, Nifty nears 25,300 supported by foreign inflows and lower crude oil",
+  "headline": "Sensex jumps over 500 points, Nifty nears 25,300 supported by FII buying and FMCG stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,22 +7,38 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign fund inflows and FII buying supported the market rally.",
-    "Lower crude oil prices helped boost investor sentiment.",
-    "The Indian rupee strengthened against the U.S. dollar.",
-    "Positive economic signals, including India's unemployment rate easing to 4.9% in October."
+    "Foreign fund inflows and FII buying provided strong support to the domestic equity rally.",
+    "Strong performance in FMCG stocks helped drive the benchmark indices higher.",
+    "Early trade gains were led by key heavyweights including ITC, Airtel, and Asian Paints.",
+    "Morgan Stanley raised global equities to 'maximum overweight' citing earnings strength and cheap valuations."
   ],
   "whatHappening": [
-    "Sensex surged over 510 points while Nifty50 closed at 25,291.",
-    "Rupee appreciated 27 paise to close at 93.92 against the U.S. dollar.",
-    "FinMin and CBDT are examining suggestions for changes in equity capital gains tax.",
-    "SEBI is considering raising the foreign portfolio investor (FPI) beneficial ownership threshold to 25%."
+    "Sensex surged over 500 points while Nifty 50 closed near 25,291.",
+    "RBI filed a review petition in the Supreme Court regarding YES Bank's ₹8,415 crore AT-1 bond case.",
+    "PNB featured among stocks hitting 52-week highs after rallying up to 24% in a month.",
+    "Sebi established an expert panel to review norms governing IPOs, FPOs, and capital-raising."
   ],
   "stocksInNews": [
     {
+      "symbol": "YESBANK",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "PNB",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
       "symbol": "MAXHEALTH",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         15
       ]
@@ -30,7 +46,7 @@
     {
       "symbol": "ITC",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         16
       ]
@@ -38,7 +54,7 @@
     {
       "symbol": "BHARTIARTL",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         16
       ]
@@ -46,106 +62,98 @@
     {
       "symbol": "ASIANPAINT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
         16
       ]
-    },
-    {
-      "symbol": "TVSMOTOR",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        7
-      ]
     }
   ],
-  "summary": "Indian benchmark indices closed significantly higher on November 16, driven by foreign institutional buying and falling crude oil prices.\nSensex rallied over 510 points while Nifty topped the 25,290 level led by FMCG and key large-cap stocks.\nMeanwhile, the rupee appreciated 27 paise against the US dollar amid reduced volatility and sustained foreign inflows.",
-  "updatedAt": "2026-11-16T12:01:46.592Z",
+  "summary": "Indian benchmark indices closed sharply higher on November 16, with the Sensex advancing over 500 points to push Nifty near 25,300.\nThe gains were predominantly driven by foreign institutional inflows and strong buying interest in FMCG stocks.\nNotable stock-specific actions included PNB touching a 52-week high, Max Healthcare emerging as a top gainer, and YES Bank facing regulatory news regarding its AT-1 bond case.",
+  "updatedAt": "2026-11-16T13:01:53.404Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-16",
   "articleKeys": [
-    "adani wind begins production of indias longest 912metre turbine blades",
-    "rupee rises 27 paise to close at 9392 against us dollar",
-    "andhras proposed investment protection act seeks to shield investors from policy uturns",
-    "stock markets end higher on foreign fund inflows lower crude oil sensex up 512 points",
-    "indias unemployment rate eases to 49 in oct female participation rises",
-    "india bloc seeks sc nod to question ec members over sir submits 48 queries",
-    "finmin examining suggestions for changes in equity capital gains tax cbdt",
-    "lakshmi venu seeks formal partition of assets of venu srinivasan branch of tvs family",
-    "sebi may propose raising fpi beneficial ownership threshold to 25 plans consultation paper",
-    "rupee rises volatility ebbs as equity inflows blunt global headwinds",
+    "sebi sets up expert panel to review ipo fpo and capitalraising norms",
+    "rbi files review petition in sc over yes banks 8415 cr at1 bond case",
+    "sampp 500 nasdaq futures slide as nvidia earnings anthropic debut loom",
+    "indias investments in us treasuries jump usd 384 bn in junaug amid fcnr flows",
+    "pnb among 4 stocks hitting 52week highs stock rallies up to 24 in a month",
+    "hong kong debuts offshore yuan bond index to promote rmb assets",
+    "india bonds dip as elevated inflation fuels rate hike expectations",
+    "nvidias ai financing machine may survive huang but with less risk appetite",
+    "morgan stanley raises global equities to maximum overweight on cheap valuations earnings strength",
+    "55g of sugar in half a litre why india is challenging red bulls energy drink label",
     "stock market today sensex rises 418 points nifty near 25250 as fii buying supports rally apac media",
-    "sensex rises 418 points nifty crosses 25200 hdfc sky",
+    "sensex jumps 510 points nifty nears 25300 hdfc sky",
     "stock market outlook today16 nov sensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "sensex today ends 318 points higher nifty above 25200 bse insurance index up 115 equitymaster",
     "sensex jumps 51234 points nifty up 14680 points on foreign fund inflows telegraph india",
     "market wrap nov 16 sensex rises 512 pts nifty50 ends at 25291 led by fmcg stocks max healthcare top gainer upstox",
     "sensex jumps 719 points nifty climbs above 25300 in early trade itc airtel asian paints eternal lead fortune india",
-    "stock markets rally in early trade led by foreign fund inflows lower crude oil deccan herald",
     "nse stock marketcap crosses 5 trillion scrip up 16 from ipo price business standard",
-    "sensex jumps 510 points nifty nears 25300 hdfc sky"
+    "sensex rises 418 points nifty crosses 25200 hdfc sky",
+    "news by cnbc tv18 on tradingview 20261116 cnbctv661c936a9094b0 tradingview"
   ],
   "articles": [
     {
-      "title": "Adani Wind begins production of India's longest 91.2-metre turbine blades",
+      "title": "Sebi sets up expert panel to review IPO, FPO and capital-raising norms",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/adani-wind-begins-production-of-india-s-longest-91-2-metre-turbine-blades-126111601379_1.html",
-      "publishedAt": "Mon, 16 Nov 2026 16:52:56 +0530"
+      "link": "https://www.business-standard.com/markets/news/sebi-sets-up-expert-panel-to-review-ipo-fpo-and-capital-raising-norms-126111601512_1.html",
+      "publishedAt": "Mon, 16 Nov 2026 18:04:42 +0530"
     },
     {
-      "title": "Rupee rises 27 paise to close at 93.92 against U.S. dollar",
+      "title": "RBI files review petition in SC over YES Bank's ₹8,415 cr AT-1 bond case",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/rupee-rises-27-paise-to-close-at-9392-against-us-dollar/article71707732.ece",
-      "publishedAt": "Mon, 16 Nov 2026 16:52:43 +0530"
+      "link": "https://www.business-standard.com/industry/banking/rbi-files-review-petition-in-sc-over-yes-bank-s-8-415-cr-at-1-bond-case-126111601511_1.html",
+      "publishedAt": "Mon, 16 Nov 2026 17:53:35 +0530"
     },
     {
-      "title": "Andhra’s proposed Investment Protection Act seeks to shield investors from policy U-turns",
+      "title": "S&amp;P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/elections/andhra-pradesh-assembly/andhras-proposed-investment-protection-act-seeks-to-shield-investors-from-policy-u-turns/article71707378.ece",
-      "publishedAt": "Mon, 16 Nov 2026 16:50:23 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sp-500-nasdaq-futures-slide-as-nvidia-earnings-anthropic-debut-loom/articleshow/135888956.cms",
+      "publishedAt": "Mon, 16 Nov 2026 17:49:06 +0530"
     },
     {
-      "title": "Stock markets end higher on foreign fund inflows, lower crude oil; Sensex up 512 points",
+      "title": "India's investments in US Treasuries jump USD 38.4 bn in Jun-Aug amid FCNR flows",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/stock-markets-end-higher-on-foreign-fund-inflows-lower-crude-oil-sensex-up-512-points/article71707675.ece",
-      "publishedAt": "Mon, 16 Nov 2026 16:41:06 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-investments-in-us-treasuries-jump-usd-38-4-bn-in-jun-aug-amid-fcnr-flows/articleshow/135888824.cms",
+      "publishedAt": "Mon, 16 Nov 2026 17:47:29 +0530"
     },
     {
-      "title": "India's unemployment rate eases to 4.9% in Oct; female participation rises",
+      "title": "PNB among 4 stocks hitting 52-week highs; stock rallies up to 24% in a month",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/economy/news/india-s-unemployment-rate-eases-to-4-9-in-oct-female-participation-rises-126111601355_1.html",
-      "publishedAt": "Mon, 16 Nov 2026 16:36:29 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-among-4-stocks-hitting-52-week-highs-stock-rallies-up-to-24-in-a-month/slideshow/135888569.cms",
+      "publishedAt": "Mon, 16 Nov 2026 17:33:47 +0530"
     },
     {
-      "title": "INDIA bloc seeks SC nod to question EC members over SIR, submits 48 queries",
+      "title": "Hong Kong debuts offshore yuan bond index to promote RMB assets",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/india-alliance-eci-election-commission-sir-supreme-court-vote-theft-126111601278_1.html",
-      "publishedAt": "Mon, 16 Nov 2026 16:01:07 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/hong-kong-debuts-offshore-yuan-bond-index-to-promote-rmb-assets/articleshow/135888402.cms",
+      "publishedAt": "Mon, 16 Nov 2026 17:32:10 +0530"
     },
     {
-      "title": "FinMin examining suggestions for changes in equity capital gains tax: CBDT",
+      "title": "India bonds dip as elevated inflation fuels rate hike expectations",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/finmin-examining-suggestions-for-changes-in-equity-capital-gains-tax-cbdt-126111601256_1.html",
-      "publishedAt": "Mon, 16 Nov 2026 15:55:36 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-dip-as-elevated-inflation-fuels-rate-hike-expectations/articleshow/135888382.cms",
+      "publishedAt": "Mon, 16 Nov 2026 17:30:15 +0530"
     },
     {
-      "title": "Lakshmi Venu seeks formal partition of assets of Venu Srinivasan branch of TVS family",
+      "title": "Nvidia's AI financing machine may survive Huang, but with less risk appetite",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Industry/lakshmi-venu-seeks-formal-partition-of-assets-of-the-venu-srinivasan-branch-of-the-tvs-family/article71707438.ece",
-      "publishedAt": "Mon, 16 Nov 2026 15:54:12 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-ai-financing-machine-may-survive-huang-but-with-less-risk-appetite/articleshow/135888314.cms",
+      "publishedAt": "Mon, 16 Nov 2026 17:29:00 +0530"
     },
     {
-      "title": "Sebi may propose raising FPI beneficial ownership threshold to 25%; plans consultation paper",
+      "title": "Morgan Stanley raises global equities to 'maximum overweight' on cheap valuations, earnings strength",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-propose-raising-fpi-beneficial-ownership-threshold-to-25-plans-consultation-paper/articleshow/135883637.cms",
-      "publishedAt": "Mon, 16 Nov 2026 15:51:12 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanley-raises-global-equities-to-maximum-overweight-on-cheap-valuations-earnings-strength/articleshow/135888237.cms",
+      "publishedAt": "Mon, 16 Nov 2026 17:27:08 +0530"
     },
     {
-      "title": "Rupee rises, volatility ebbs as equity inflows blunt global headwinds",
+      "title": "55g of Sugar In Half A Litre: Why India Is Challenging Red Bull's 'Energy Drink' Label",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-volatility-ebbs-as-equity-inflows-blunt-global-headwinds/articleshow/135883543.cms",
-      "publishedAt": "Mon, 16 Nov 2026 15:49:15 +0530"
+      "link": "https://www.ndtvprofit.com/business/55g-of-sugar-in-half-a-litre-why-india-is-challenging-red-bulls-energy-drink-label-12333757#publisher=newsstand",
+      "publishedAt": "Mon, 16 Nov 2026 17:20:06 +0530"
     },
     {
       "title": "Stock Market Today: Sensex Rises 418 Points, Nifty Near 25,250 as FII Buying Supports Rally - APAC Media",
@@ -154,10 +162,10 @@
       "publishedAt": "Mon, 16 Nov 2026 10:33:24 GMT"
     },
     {
-      "title": "Sensex Rises 418 Points, Nifty Crosses 25,200 - HDFC Sky",
+      "title": "Sensex Jumps 510 Points, Nifty Nears 25,300 - HDFC Sky",
       "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcGFJSm1xY3daald5NUxSLVJpOUpfeFUwNG9mTGM2Q0RjQ0xUTUd5YVUyV2pjcmltMEF3YlJYNnhJMlVsMS1QTTNKUVhwdXRuS3hJWEh2bjhEQnZ2VWtIOGRmY21KWlVXN3E3eWFhQklmRHExY3Y1WFhCRzIyMnROaWU2WldRU0RBaElvdkxmaTN1MWZLaUNsUngtUldXUmlQRUd6bllIcFNaN09reTN5ZHl5MHFtd3dUMjN2dXlUZENCSF9oMWw0eG53S0E?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 04:29:21 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXdKSUxXQmpRYl9Lekw4a3JMc0g2eFFxYThBZEN3UnFiQzJoVnJNMDBMRkktRTFteXlTZFZFb2VoOU1sUXpMTC00Sll3TEpUSU5nQlpEa1E3TGQzeW5UalAzUnJwa2J4eEJiVk0xS0xXdGUyRzZBNDNacTFJUDJfYVZwQzZnWjh1UGVKWXlUNGV2cGV0LVpKTDRUQnE4SDNsYVRyMXJGRlJpYTVmemdHMzVEVDk1TmJGdl8xTkJmYmRqVUlBcjJfSlRvWkhPYzdUZWc?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 11:07:25 GMT"
     },
     {
       "title": "Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
@@ -190,22 +198,22 @@
       "publishedAt": "Mon, 16 Nov 2026 05:30:26 GMT"
     },
     {
-      "title": "Stock markets rally in early trade led by foreign fund inflows, lower crude oil - Deccan Herald",
-      "source": "Deccan Herald",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTi1FNXdRM3VDOXJ4el9COVp5OTZmSFp0QzVKOVdDMTNUa1FiUGFRU1dVYUxMSUFPQ2g2dmhQTHRfUHAyQjNETFpUQVNGdjRGQjVpMUt6UFNkd0pjYVFERWpwX2tSaUdzTVlaVlBMMHg1SFVob1pxVU85dkhCakllNlhyMmtaZ0s4Z2lEZmYtOE5NU19sZ0ZZTWpGNjVObENLNFYwMkdCdmpGWDFkSXlSczU0RC1JaGVrcHJEMlN5anM3WkpDU2tOamhURjI?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 05:35:42 GMT"
-    },
-    {
       "title": "NSE stock market-cap crosses ₹5 trillion; scrip up 16% from IPO price - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQXoxV1M2SldFdEVDcEdabmNmeVh2ZTlkcE5JSWFnYUdpQWNVOHMyNXEyZjNSaTZrRE0tVm1jZFl0c1h1RlNlWFVkSFRWazRQVGE4TlNHMUtybFZoVlNPcGJqTnBMQ2ptRXplcTBndXlMNWNmQml1VGE4WkNnZE5lLUI5Rklfcm9naTBFbDZ6VjRId2RaaTdhdWI2RlZKcTNfUDJjd0ZmSFJHNWhFeXVwOHZtMFRxLW5MS2dPdEh2RXdXUXlNc21VZ0RYczJXUdIB0wFBVV95cUxQWENaZmFYSmZFWTFTMldvWmIzSll2U1g2d25HNmNCMFpyaEtfcHhuRlNTd3lOdmF2eEZEU0VfdnR5QkhUR0tTcnFad3JwODBlU2ZNUEFzeW5Db2JvdG1HMTNfeTlxQV9LaEh1ek11dE9DSGdObDVXREdNZnh6V2ExY21qdWN2RUgzRDU1MEk2Q2xPWXM5OXlVQlBuWWtkb05Ga1VKY3FTX1RfNFZEN0V3b0JFOFJqalJkVjd1RzQtMUJUYUVXQkYxakN4Q3hYdkM0eVdJ?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 06:12:44 GMT"
     },
     {
-      "title": "Sensex Jumps 510 Points, Nifty Nears 25,300 - HDFC Sky",
+      "title": "Sensex Rises 418 Points, Nifty Crosses 25,200 - HDFC Sky",
       "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXdKSUxXQmpRYl9Lekw4a3JMc0g2eFFxYThBZEN3UnFiQzJoVnJNMDBMRkktRTFteXlTZFZFb2VoOU1sUXpMTC00Sll3TEpUSU5nQlpEa1E3TGQzeW5UalAzUnJwa2J4eEJiVk0xS0xXdGUyRzZBNDNacTFJUDJfYVZwQzZnWjh1UGVKWXlUNGV2cGV0LVpKTDRUQnE4SDNsYVRyMXJGRlJpYTVmemdHMzVEVDk1TmJGdl8xTkJmYmRqVUlBcjJfSlRvWkhPYzdUZWc?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 11:07:25 GMT"
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcGFJSm1xY3daald5NUxSLVJpOUpfeFUwNG9mTGM2Q0RjQ0xUTUd5YVUyV2pjcmltMEF3YlJYNnhJMlVsMS1QTTNKUVhwdXRuS3hJWEh2bjhEQnZ2VWtIOGRmY21KWlVXN3E3eWFhQklmRHExY3Y1WFhCRzIyMnROaWU2WldRU0RBaElvdkxmaTN1MWZLaUNsUngtUldXUmlQRUd6bllIcFNaN09reTN5ZHl5MHFtd3dUMjN2dXlUZENCSF9oMWw0eG53S0E?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 04:29:21 GMT"
+    },
+    {
+      "title": "News by CNBC TV18 on TradingView, 2026-11-16 — cnbctv:661c936a9094b:0 - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwek9zamxsemRhRlpBd05zd1JtRllGa3B2dWpnNnY4c2UxQVcxZmJUM1F6ZXh0QnBOWXpzNkF0VERwd251bnViM2dfd1B2TXhVZlFkVkhXY3VWck9JNmcxTWU5R20wRGs?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 10:08:04 GMT"
     }
   ]
 }
