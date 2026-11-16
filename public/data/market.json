@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex gains 400 points as Nifty crosses 25,200 driven by FII inflows and positive global cues",
+  "headline": "Sensex gains over 400 points as Nifty crosses 25,200 driven by FII inflows and lower crude oil prices.",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,55 +7,39 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign Institutional Investor (FII) inflows and lower crude oil prices supported broader market sentiment.",
-    "Morgan Stanley noted India deserves a re-rating and projected the Sensex could hit 95,000 by December 2027.",
-    "Rally in IT and banking sector stocks lifted early morning trade performance.",
-    "Benchmark indices rebounded following support across key large-cap gainers like Asian Paints and Bharti Airtel."
+    "Strong foreign institutional investor (FII) inflows driven market sentiment.",
+    "Lower crude oil prices providing relief to equities.",
+    "Positive long-term projections by Morgan Stanley targeting Sensex at 95,000 by Dec 2027.",
+    "Rally led by top gainers such as Asian Paints and Bharti Airtel."
   ],
   "whatHappening": [
-    "Sensex gained up to 400 points while Nifty 50 crossed and held near the 25,200 level.",
-    "Natco Pharma shares rallied 7% to 9% despite weak Q2 performance.",
-    "Kaynes Technology shares dropped sharply by 10% to 15% in early trading.",
-    "Inox Wind fell 10% after announcing its Q2 financial results."
+    "Sensex rose by over 400 points while Nifty 50 traded above the 25,200 level.",
+    "Kaynes Technology shares dropped sharply by up to 15% in early trade.",
+    "Natco Pharma rallied up to 9% despite reporting weak Q2 results.",
+    "Inox Wind share price slipped 10% following the release of its Q2 results."
   ],
   "stocksInNews": [
     {
-      "symbol": "ASIANPAINT",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        14
-      ]
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        14
-      ]
-    },
-    {
-      "symbol": "INOXWIND",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
       "symbol": "KAYNES",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         1,
         3
       ]
     },
     {
+      "symbol": "INOXWIND",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
       "symbol": "NATCOPHARM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         3,
         4
@@ -64,14 +48,30 @@
     {
       "symbol": "TATAMOTORS",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         5
       ]
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        13
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        13
+      ]
     }
   ],
-  "summary": "Indian stock markets opened on a strong note on 16 November, with the Sensex rising 400 points and Nifty trading above 25,200.\nPositive momentum was backed by FII inflows, softer crude oil prices, and buying in IT and banking stocks.\nDespite the benchmark rally, individual stock reactions were mixed as Natco Pharma jumped on results while Kaynes Technology and Inox Wind faced severe selling.",
-  "updatedAt": "2026-11-16T05:01:40.213Z",
+  "summary": "Indian benchmark indices opened higher on 16 November 2026, with the Sensex gaining over 400 points and Nifty staying above 25,200. Market gains were supported by FII inflows and lower crude oil prices, alongside strength in Asian Paints and Bharti Airtel. Stock-specific action was prominent, as Kaynes Technology and Inox Wind tumbled while Natco Pharma surged despite weak quarterly numbers.",
+  "updatedAt": "2026-11-16T05:31:55.939Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-16",
   "articleKeys": [
@@ -88,13 +88,13 @@
     "markets fall in early trade after 3day rally sensex tumbles 460 points dd news",
     "sensex rises 418 points nifty crosses 25200 hdfc sky",
     "stock market outlook today16 nov sensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
-    "india deserves rerating sensex may hit 95000 by dec 2027 morgan stanley business standard",
     "sensex today trades higher nifty above 25200 asian paints bharti airtel top gainers equitymaster",
     "indian stock markets rally on fii inflows lower crude oil rediff moneywiz",
-    "indian markets trade higher in early deals it banking shares rally telangana today",
     "indian stock market today sensex nifty rise 02 hdfc sky",
+    "india deserves rerating sensex may hit 95000 by dec 2027 morgan stanley business standard",
     "markets snap 3day rally sensex drops 318 points nifty slips below 25150 dd news",
-    "stock market today sensex falls 289 points nifty slips hdfc sky"
+    "stock market today sensex falls 289 points nifty slips hdfc sky",
+    "india to benefit from unwinding of ai trade says cea anantha nageswaran business standard"
   ],
   "articles": [
     {
@@ -176,15 +176,9 @@
       "publishedAt": "Mon, 16 Nov 2026 04:19:00 GMT"
     },
     {
-      "title": "India deserves re-rating; Sensex may hit 95,000 by Dec 2027: Morgan Stanley - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONmxtVS1mLUVpUlNtS3ZEaWRHR0V2QWtRWkJfVHA2MmZPZHdvMFZ4RXlwTHpOdC1JbnhSSHVIV3lQWGstclJYTDFIZE94RFd5VnlMc0F5WURJYXdUck01Z2NpcTVxZmhOWmdsNkkta3RPT0FJb0JaQXJPT3RBUDVYbUF5ajhhSlFBRFk0VFgwTlVWMXpKejNJbEZlYUNuS2UxR21RNVF6d05LMEpUMmtubjh2ak45MTZsdkROcWtXU1F3ajA1bW5VNlZqWkxaWHd4RlBFMEZZa9IB3AFBVV95cUxOVG9sVlJ5Sml6QnFiaVBnTlB5aXhTeWtUU0xDUzVjQjNLT3ExdVhDdUtYUkJvZy03ZVV4YkJXTmtfT3I0cHljbnE3MnJjNHlOMS1fUWtWajRRVzZNdU5YSTNWTWdCVVdMWmtpWFZZZi1Zc0lRQlBpWW5lZFBZTnJaR0ZTdlVTOE1YOUJXbV9QWGp6VHNOVVZmN2Y2TEFoSHNUZDFsNHc0TWplMTlXeVpEa2FrQlpyTW9nS2RpMk5NN0Q4c2NoX1RoMFpOZUZYZXhtdlBKb2dfc2ZhOGVT?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 04:41:26 GMT"
-    },
-    {
       "title": "Sensex Today Trades Higher | Nifty Above 25,200 | Asian Paints & Bharti Airtel Top Gainers - Equitymaster",
       "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPTkRMbk9Ic18yLVNRM0psbDhRbk9zRHptbll6dU1ldHp2Ui1ENElValpEOGtlVG9xUldwbzRTVWt0cE1vMmVNVm85YUR5RHY4cm13cHlWYWNTRS16ZEtrQXFVc1AxUjVVTnZIWVNuRk5JaExfQlZPTllMWVFTdGt3SVh2dlNMOFlmUEJqejdGOE16R29jN0FmeTlDbm9GbUd2U0xObWtISXpIbkFXS1FXM0laUWJyY1ZtRjhBWHdtN2FOOElyN0ZlRjhHdXVJUHd1THo1LWxNNzgxOFppXzA3ek81cDFZY3ByaDZXT0d3T1gxUktkejFwM096RUFMRDFwLURBbV9sZWVfSWFUQjIxMTA0cERtc1N0NXJ3M0pEQjZiSUpKYlFUZ2tqNXR0V2pzamFlM1lzQ1NyZ3dOSWJrN1NtREw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSVo5Y01fc0JhOWhiOHlJNm9KaEhkekFzbHczOHRINkJiaHZUZGkyVVE2TC0xRHpIVzh0NHF6b0xrWXprd0gwSFh4OG5UQ2I3amZBXzd3dldEYk4wbUhSU3piQkV1MUxidXptclIyV095eHNQdVdjNE9MQXFyNFR1aGd5VFNNOEVQb096VUQ5T2c1bEV0bW9yLTdzREJTcFJEMTAxdnpmQ2RBeW1jWjA2RGFaS2J5MmpjT01qYlBCUzQ1dDZaUVZxTTN2TDM3b1hYaENlaTlDRDhUQXQ2eVRRZg?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 04:53:41 GMT"
     },
     {
@@ -194,16 +188,16 @@
       "publishedAt": "Mon, 16 Nov 2026 04:52:19 GMT"
     },
     {
-      "title": "Indian markets trade higher in early deals; IT, banking shares rally - Telangana Today",
-      "source": "Telangana Today",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkRJZkwzU0lQM1FHa1RlclpHdnJ1eDBkRjVFMUtBaDRoZVE4MF9yM3IwRXkxNy10d3VDb0tmOWFoY05JTnFJdnJjWE1TaFdSMGR6ZEpfdmdwWVRBaFZWUnRnRTIwQmctM1V6Vi0zZ0JxeFdYQ285ZWx3eTZMYl9qdm5DXzRFMkhzZTJTSjhsZ0pkUlZXdGVRRQ?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 04:21:59 GMT"
-    },
-    {
       "title": "Indian Stock Market Today: Sensex, Nifty Rise 0.2% - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGxLNW1wTmdfaU1jZUhFQzhvR2VVWW9KWW1RSkZ4dDcwYVNMV3V2S3BJR0ttU1RvbV9ISDJIN25DQXFtSllUTW01cnBZNEFJMURyZTJia1dMUFk3RTc1LVZNRl8xdzd4UlROcnhqaXpteEd4N3o5OTR1VU5iMVZIc2V3M201dU01eDBySVIyaTc4NTM2R185S1JTQ1VKdkN0VnYxM1FRSTJfM2JEUHlzVkt3M0lIc2s1dkh1bXphQ3FvcklSZmdrVUw4TVdkRlU?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 03:41:24 GMT"
+    },
+    {
+      "title": "India deserves re-rating; Sensex may hit 95,000 by Dec 2027: Morgan Stanley - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONmxtVS1mLUVpUlNtS3ZEaWRHR0V2QWtRWkJfVHA2MmZPZHdvMFZ4RXlwTHpOdC1JbnhSSHVIV3lQWGstclJYTDFIZE94RFd5VnlMc0F5WURJYXdUck01Z2NpcTVxZmhOWmdsNkkta3RPT0FJb0JaQXJPT3RBUDVYbUF5ajhhSlFBRFk0VFgwTlVWMXpKejNJbEZlYUNuS2UxR21RNVF6d05LMEpUMmtubjh2ak45MTZsdkROcWtXU1F3ajA1bW5VNlZqWkxaWHd4RlBFMEZZa9IB3AFBVV95cUxOVG9sVlJ5Sml6QnFiaVBnTlB5aXhTeWtUU0xDUzVjQjNLT3ExdVhDdUtYUkJvZy03ZVV4YkJXTmtfT3I0cHljbnE3MnJjNHlOMS1fUWtWajRRVzZNdU5YSTNWTWdCVVdMWmtpWFZZZi1Zc0lRQlBpWW5lZFBZTnJaR0ZTdlVTOE1YOUJXbV9QWGp6VHNOVVZmN2Y2TEFoSHNUZDFsNHc0TWplMTlXeVpEa2FrQlpyTW9nS2RpMk5NN0Q4c2NoX1RoMFpOZUZYZXhtdlBKb2dfc2ZhOGVT?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 04:41:26 GMT"
     },
     {
       "title": "Markets snap 3-day rally; Sensex drops 318 points, Nifty slips below 25,150 - DD News",
@@ -216,6 +210,12 @@
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdFVmU2E4X1lka1dTRGNSZzVfUEl2ZGl4UnNJdTEtVHZxelI2SXFwalhqVWtaMERsNm9Fc0tiS3psZUpNY25VN0hwcXlmb3lLNlp6TURNY0xyYUQ4bDN5cVdSdFFYRUtEN2lKY205MnRxZ3VCZXhVaTVOUWhKbDBwVXVVMHE2WjBEelFLSEtXczYyTTRyTTNWNjlHMURxT2ExZWlMYXl5ZnUwUWFFVUttTlVBR05nTGhaWGxhNTZ3eGVBTEE?oc=5",
       "publishedAt": "Fri, 13 Nov 2026 05:21:58 GMT"
+    },
+    {
+      "title": "India to benefit from unwinding of AI trade, says CEA Anantha Nageswaran - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdXpMV3hZanphRUFmMEI0QmZwRncyMWV1bEY1Q2FGTFl6dWpJSkZWMmEzRXJsLXdaVDFXNVNCV1FQT002ZWRROWY2WGFJYmlsNVMzZ2pVV0RKNjVpMEpVUGlWbEtZODdKUFFQMjZUUWNkWmpSaGdneFJ2UmVJMUo5MV9ueGd3Q2RlWFQ0Vk53aVVIZ0tFa25YaGtXRk00Wk9jTUtxckZONVZmYXBMTlFtS3hDbkRMQ2E0WDY4U0stOXpNOHdhMVpLSXFWbVpFb3VnQk9qWdIB2gFBVV95cUxNdGRkUWZmVU5MdE5nT25hbWdHNlFkMnJGNHUyUy1MVDdoSFhmUlZyd3hLM00zOThTZzNDbHBPX2ttMHM5ZVMwYUVzV043azF6c3dFYllhYTZoejVpNTlhdzQ2d1Fpdk5zUXNuUVBxb2I0S1pYSTU0S0J3a3RHOUd5eFg3OTB2d2dVN0lTcDVTU3l6Q2RONVNJSW1jSDdqbXBVdmVacWVmaVd5V3l5Z2VrdlBMdG9la3I4STVrcEVBaUI2RmhPTk1TSmMwNjNhRWI3RC1IN3RpSXBOdw?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 05:18:10 GMT"
     }
   ]
 }
