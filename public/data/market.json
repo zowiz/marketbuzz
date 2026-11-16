@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex jumps over 500 points, Nifty ends near 25,300 supported by FII inflows and FMCG stocks",
+  "headline": "Sensex jumps over 500 points and Nifty nears 25,300 driven by FII inflows and FMCG gains",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,18 +7,26 @@
     "nextOpen": ""
   },
   "why": [
-    "Foreign fund inflows and FII buying provided strong support to the Indian market rally.",
-    "Market gains were broadly led by FMCG and banking sector stocks.",
-    "BSE Insurance Index registered gains, climbing 1.15%.",
-    "Early trade momentum was fueled by gains in heavyweights like ITC, Airtel, and Asian Paints."
+    "Foreign Institutional Investors (FIIs) staged a record November comeback, providing strong buying support.",
+    "Rally in major heavyweights including FMCG and banking stocks boosted benchmark indices.",
+    "Dalal Street emerged as the best-performing stock market over the past month.",
+    "Strong early-session momentum pushed Nifty past key resistance levels above 25,300."
   ],
   "whatHappening": [
-    "Sensex surged over 500 points while Nifty50 closed at 25,291.",
-    "Max Healthcare emerged as the top gainer in today's market session.",
-    "Sebi constituted a sub-group under PMAC to review key IPO norms, chaired by NSE's Chauhan.",
-    "Economists recommended retaining capital gains tax on equities to FM Sitharaman ahead of Budget 2027-28."
+    "Sensex closed up by over 510 points while Nifty50 settled near 25,291.",
+    "Coal India announced plans to use MCL IPO proceeds towards its ₹1 trillion diversification strategy.",
+    "Sebi established a sub-group under PMAC, headed by NSE's Chauhan, to review key IPO norms.",
+    "Max Healthcare emerged as the top gainer among index stocks during the trading session."
   ],
   "stocksInNews": [
+    {
+      "symbol": "COALINDIA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4
+      ]
+    },
     {
       "symbol": "MAXHEALTH",
       "sentiment": "Positive",
@@ -32,7 +40,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        17
+        16
       ]
     },
     {
@@ -40,7 +48,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        17
+        16
       ]
     },
     {
@@ -48,45 +56,87 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        17
+        16
       ]
     },
     {
-      "symbol": "TVSMOTOR",
-      "sentiment": "Negative",
+      "symbol": "TVSSCS",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        7
+        3
       ]
     }
   ],
-  "summary": "Indian benchmark indices surged as Sensex jumped over 500 points and Nifty closed near 25,300.\nThe rally was supported by foreign fund inflows along with strong buying in FMCG and banking stocks.\nMax Healthcare was among the top gainers, while SEBI set up a sub-group to review IPO norms.",
-  "updatedAt": "2026-11-16T14:32:02.649Z",
+  "summary": "Indian benchmark indices registered strong gains on November 16, with the Sensex surging over 500 points and Nifty nearing 25,300. Foreign portfolio investors led a record November comeback, providing firm market support alongside gains in FMCG and banking sectors. Key individual stock developments included Coal India announcing a ₹1 trillion diversification plan and Max Healthcare leading the gainers list.",
+  "updatedAt": "2026-11-16T15:02:35.043Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-16",
   "articleKeys": [
+    "fpis stage record november comeback as domestic investors turn net sellers",
+    "jimmy tata backs tata sons listing accuses noel of backdoor takeover",
+    "dalal street becomes bestperforming stock market in a month can it rally more",
+    "geopolitics ageing workforce to deepen japans ties with india tvs scs",
+    "coal india to use mcl ipo proceeds for 1 trillion diversification plan",
+    "fssai acts against six nutraceutical makers over food safety violations",
+    "elan group marriott to bring apartments by marriott bonvoy to gurugram",
     "the test cricketer who climbed everest you can see the ends of the earth",
     "sampp 500 nasdaq futures slip ahead of nvidia results anthropic ipo stock market live updates",
     "sebi sets up subgroup under pmac to review key ipo norms nses chauhan to head panel",
-    "retain capital gains tax on equities economists tell fm sitharaman ahead of budget 202728",
-    "blackstone reit to buy majority stake in 5 billion amazon data center portfolio",
-    "bulletproof glass wont save you gangster goldy dhillon threatens amitabh abhishek bachchan",
-    "nvidias 500 billion ai bet just lost its chief dealmaker huang analysts spot a risk",
-    "new twist in tvs family feud lakshmi venu seeks partition of family assets",
-    "usman khawaja reveals steve smiths role in delayed sandpapergate account",
-    "warren buffett donates 547 billion in berkshire hathaway shares to charities confidence in successors remains strong as ever",
     "stock market today sensex rises 418 points nifty near 25250 as fii buying supports rally apac media",
     "sensex jumps 510 points nifty nears 25300 hdfc sky",
     "sensex today ends 318 points higher nifty above 25200 bse insurance index up 115 equitymaster",
-    "news by cnbc tv18 on tradingview 20261116 cnbctv661c936a9094b0 tradingview",
+    "stock market outlook today16 nov sensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "market wrap nov 16 sensex rises 512 pts nifty50 ends at 25291 led by fmcg stocks max healthcare top gainer upstox",
     "sensex jumps 51234 points nifty up 14680 points on foreign fund inflows telegraph india",
-    "sensex jumps over 500 points nifty ends above 25250 banking stocks support gains india today",
     "sensex jumps 719 points nifty climbs above 25300 in early trade itc airtel asian paints eternal lead fortune india",
+    "sensex jumps over 500 points nifty ends above 25250 banking stocks support gains india today",
     "nse stock marketcap crosses 5 trillion scrip up 16 from ipo price business standard",
     "sensex rises 418 points nifty crosses 25200 hdfc sky"
   ],
   "articles": [
+    {
+      "title": "FPIs stage record November comeback as domestic investors turn net sellers",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/fpis-stage-record-november-comeback-as-domestic-investors-turn-net-sellers/article71708488.ece",
+      "publishedAt": "Mon, 16 Nov 2026 20:07:12 +0530"
+    },
+    {
+      "title": "Jimmy Tata backs Tata Sons listing, accuses Noel of ‘back-door takeover’",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/jimmy-tata-backs-tata-sons-listing-accuses-noel-of-back-door-takeover/article71708314.ece",
+      "publishedAt": "Mon, 16 Nov 2026 19:48:11 +0530"
+    },
+    {
+      "title": "Dalal Street becomes best-performing stock market in a month. Can it rally more?",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/dalal-street-becomes-best-performing-stock-market-in-a-month-can-it-rally-more/videoshow/135891640.cms",
+      "publishedAt": "Mon, 16 Nov 2026 19:18:06 +0530"
+    },
+    {
+      "title": "Geopolitics, ageing workforce to deepen Japan's ties with India: TVS SCS",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/geopolitics-ageing-workforce-to-deepen-japan-s-ties-with-india-tvs-scs-126111601653_1.html",
+      "publishedAt": "Mon, 16 Nov 2026 19:14:33 +0530"
+    },
+    {
+      "title": "Coal India to use MCL IPO proceeds for ₹1 trillion diversification plan",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/coal-india-to-use-mcl-ipo-proceeds-for-1-trillion-diversification-plan-126111601650_1.html",
+      "publishedAt": "Mon, 16 Nov 2026 19:11:09 +0530"
+    },
+    {
+      "title": "FSSAI acts against six nutraceutical makers over food safety violations",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/news/fssai-acts-against-six-nutraceutical-makers-over-food-safety-violations-126111601649_1.html",
+      "publishedAt": "Mon, 16 Nov 2026 19:10:06 +0530"
+    },
+    {
+      "title": "Elan Group, Marriott to bring Apartments by Marriott Bonvoy to Gurugram",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/elan-group-marriott-to-bring-apartments-by-marriott-bonvoy-to-gurugram-126111601645_1.html",
+      "publishedAt": "Mon, 16 Nov 2026 19:07:01 +0530"
+    },
     {
       "title": "The Test cricketer who climbed Everest: 'You can see the ends of the earth'",
       "source": "Zerodha Pulse",
@@ -104,48 +154,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-sets-up-sub-group-under-pmac-to-review-key-ipo-norms-nses-chauhan-to-head-panel/articleshow/135890467.cms",
       "publishedAt": "Mon, 16 Nov 2026 18:37:52 +0530"
-    },
-    {
-      "title": "Retain capital gains tax on equities, economists tell FM Sitharaman ahead of Budget 2027-28",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/retain-capital-gains-tax-on-equities-economists-tell-fm-sitharaman-ahead-of-budget-2027-28/articleshow/135890410.cms",
-      "publishedAt": "Mon, 16 Nov 2026 18:35:46 +0530"
-    },
-    {
-      "title": "Blackstone REIT to buy majority stake in $5 billion Amazon data center portfolio",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/blackstone-reit-to-buy-majority-stake-in-5-billion-amazon-data-center-portfolio/articleshow/135890381.cms",
-      "publishedAt": "Mon, 16 Nov 2026 18:34:02 +0530"
-    },
-    {
-      "title": "'Bulletproof Glass Won't Save You': Gangster Goldy Dhillon Threatens Amitabh, Abhishek Bachchan",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/bulletproof-glass-wont-save-you-gangster-goldy-dhillon-threatens-amitabh-and-abhishek-bachchan-12334180#publisher=newsstand",
-      "publishedAt": "Mon, 16 Nov 2026 18:31:30 +0530"
-    },
-    {
-      "title": "Nvidia's $500 Billion AI Bet Just Lost Its Chief Dealmaker Huang. Analysts Spot A Risk",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/nvidias-500-billion-ai-bet-just-lost-its-chief-dealmaker-huang-analysts-spot-a-risk-12334214#publisher=newsstand",
-      "publishedAt": "Mon, 16 Nov 2026 18:31:22 +0530"
-    },
-    {
-      "title": "New twist in TVS family feud: Lakshmi Venu seeks partition of family assets",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/new-twist-in-tvs-family-feud-lakshmi-venu-seeks-partition-of-family-assets-126111601574_1.html",
-      "publishedAt": "Mon, 16 Nov 2026 18:30:46 +0530"
-    },
-    {
-      "title": "Usman Khawaja Reveals Steve Smith's Role In Delayed Sandpapergate Account",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/usman-khawaja-reveals-why-he-waited-eight-years-to-speak-on-sandpapergate-makes-david-warner-promise-12334165#publisher=newsstand",
-      "publishedAt": "Mon, 16 Nov 2026 18:27:55 +0530"
-    },
-    {
-      "title": "Warren Buffett donates $5.47 billion in Berkshire Hathaway shares to charities, confidence in successors remains 'strong as ever'",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-donates-more-berkshire-shares-confidence-in-successors-as-strong-as-ever/articleshow/135890059.cms",
-      "publishedAt": "Mon, 16 Nov 2026 18:25:53 +0530"
     },
     {
       "title": "Stock Market Today: Sensex Rises 418 Points, Nifty Near 25,250 as FII Buying Supports Rally - APAC Media",
@@ -166,10 +174,10 @@
       "publishedAt": "Mon, 16 Nov 2026 10:22:41 GMT"
     },
     {
-      "title": "News by CNBC TV18 on TradingView, 2026-11-16 — cnbctv:661c936a9094b:0 - TradingView",
+      "title": "Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
       "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwek9zamxsemRhRlpBd05zd1JtRllGa3B2dWpnNnY4c2UxQVcxZmJUM1F6ZXh0QnBOWXpzNkF0VERwd251bnViM2dfd1B2TXhVZlFkVkhXY3VWck9JNmcxTWU5R20wRGs?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 10:08:04 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVlpORHBoTUk5Z0c4aWdYdmNCS25yTXFTb0M2QWJJdTVjUTE2TWl2YmdEaDBSakN6TVQ2WXJzZHJXemZsOEN5bGs3UFNWZ3JRTnhQY1FIdFVzTFN1YkNZX29Zei10MHhzLTg3MU1TM2JpQ0YwaXdUSnY5ekd5cUxCMk5oaWRzTGQzbF9UOURONjFUdG5UVkV1V1E4RnlKcXRFT29rVjgxa2hMQkNZMVUxNlBpRkU2ZkhINERoSzdaMGdsRS1MeXE0Z082N1MzS0RRTkE4amJrVXlxcEIyUzhSMWdoV3FvZHN2c2dhZUh4ZHhQR0dLQTN1NE9B?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 04:19:00 GMT"
     },
     {
       "title": "Market wrap, Nov 16: SENSEX rises 512 pts, NIFTY50 ends at 25,291 led by FMCG stocks; Max Healthcare top gainer - Upstox",
@@ -184,16 +192,16 @@
       "publishedAt": "Mon, 16 Nov 2026 10:28:41 GMT"
     },
     {
-      "title": "Sensex jumps over 500 points, Nifty ends above 25,250; banking stocks support gains - India Today",
-      "source": "India Today",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONWZkRGRPUTVaUjdTTnYzTlJxdFd4dFBvbUZqcTh2WGdKT1hKNW41RHZQWXF4WWFFV2VSOXpUMDJvMm91dVk3QW56dndfYk04QzN0dGNZLUlIUGhOYTF2T2oxU1RYdTRYS0xNMW1CZVZzY0daalFzYW1QbmpLS0VjNHc4NXVoWEpJX3hVYk1DZzRjeUY5TmxKLW5EbHU4U0RuSzFQQkU0R2F0UENPY1NoMjVMZDlObzN0aDk5ZUZ1SV92TFZIdS1yTG9vYUFjVERfeGlhdUo4UnREcDhoWjJzUNIB5gFBVV95cUxNa05wbURXYURIT2N2djNiYTVaSVpoWnNFUnk2ci13NEpRYmFhV1NDaXdCckphRlNrbGdTeDg4NTltWHdhQW5BMk9lWDlvVHprN0lDRlo3NlVFT19wMXhFbk1Db3F6QkNEMEh4aFlrMjJUOUVMOW1HbDlZYlJqTVhKdGhnM2hoSlNqbm9CbW9XbG9DQXVwdnlUdTdmbVZDYkNISk5uLTJzY1BMaWVOZXBUWE9yZnR4RHAxYUQxREdyM0dOdERkNmFHQnpKNWFiRWg2N19KSnFsbEQtYmY1cmttcjJwQ1NDZw?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 10:24:08 GMT"
-    },
-    {
       "title": "Sensex jumps 719 points, Nifty climbs above 25,300 in early trade; ITC, Airtel, Asian Paints, Eternal, lead - Fortune India",
       "source": "Fortune India",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUVFicENfM2MzeDYzZFlEZjVqeWR2Qlp5VU5XUGlmYXVUUlRGSFdPczBvemxxNHRLWUF1TUxoYjR0UmhKVkUzOEFQTC1fRTlfM0lCUWVIcTg2RlFwQTYxel9YZm5TN0xrRmRoZkt6RXRFc3pIdGlqY3ZsR1MzT0hKelJrTUl0ZmQ4Q0d3a0VuajVzZFZoOGpEUTlMSjRFRmJXM0NKcDBxZXZMYVowVnNUYkpNMHNoQ3VsY0ZjRE8yRU1HT3g0X2FyTHBnSjFhZVlmUmthNlllTWRLTHVO0gHqAUFVX3lxTE81cUdGUk9ON3NRVFA1VDZFWE9vTW5IeVNqeWo5MzBTV0d4NEd0cE1jcWo3RDJFakdqY2tQOWNaTW1NUlVqNEFSUnk4dE1NZG5NNGtCalpIR3hHbE1BenpqU24yUm9xUmdvQ3pRR1B1d25oMUl1c2pUVGdvUHM5a3FRSHVqUDMxNVd3c2p3aHFybVFPZ0FpYlF0RjdBZkxfQ2lSTFBsaGtlSGQ1YVo5RXl4dmJKRy1BZ0RVanFHeVNuaXBaRHRpWURMQXhKZkctNi1Pb1hkUE54LXpCQnpxWXJ4NkJwUzM3VlBxdw?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 05:30:26 GMT"
+    },
+    {
+      "title": "Sensex jumps over 500 points, Nifty ends above 25,250; banking stocks support gains - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONWZkRGRPUTVaUjdTTnYzTlJxdFd4dFBvbUZqcTh2WGdKT1hKNW41RHZQWXF4WWFFV2VSOXpUMDJvMm91dVk3QW56dndfYk04QzN0dGNZLUlIUGhOYTF2T2oxU1RYdTRYS0xNMW1CZVZzY0daalFzYW1QbmpLS0VjNHc4NXVoWEpJX3hVYk1DZzRjeUY5TmxKLW5EbHU4U0RuSzFQQkU0R2F0UENPY1NoMjVMZDlObzN0aDk5ZUZ1SV92TFZIdS1yTG9vYUFjVERfeGlhdUo4UnREcDhoWjJzUNIB5gFBVV95cUxNa05wbURXYURIT2N2djNiYTVaSVpoWnNFUnk2ci13NEpRYmFhV1NDaXdCckphRlNrbGdTeDg4NTltWHdhQW5BMk9lWDlvVHprN0lDRlo3NlVFT19wMXhFbk1Db3F6QkNEMEh4aFlrMjJUOUVMOW1HbDlZYlJqTVhKdGhnM2hoSlNqbm9CbW9XbG9DQXVwdnlUdTdmbVZDYkNISk5uLTJzY1BMaWVOZXBUWE9yZnR4RHAxYUQxREdyM0dOdERkNmFHQnpKNWFiRWg2N19KSnFsbEQtYmY1cmttcjJwQ1NDZw?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 10:24:08 GMT"
     },
     {
       "title": "NSE stock market-cap crosses ₹5 trillion; scrip up 16% from IPO price - Business Standard",
