@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Jumps 600 Points and Nifty Tops 25,400 as Nifty Bank Hits Record High",
+  "headline": "Sensex Zooms 800 Points as Bank Nifty Hits Record High; ONGC Faces Gas Leak Incident",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,73 +7,116 @@
     "nextOpen": ""
   },
   "why": [
-    "Strong performance in the banking and FMCG sectors driving the indices higher",
-    "Sensex and Nifty opening higher despite a global sell-off",
-    "Investor preference for largecap stocks in anticipation of the next market rally",
-    "Recovery in market sentiment following the Nifty Bank's record-breaking performance"
+    "Nifty Bank reached a record high above 62,300 with analysts seeing room for further gains",
+    "Strong performance in the banking and FMCG sectors driving market sentiment",
+    "FIIs and Mutual Funds increased stakes in large-cap stocks for two consecutive quarters",
+    "The Nifty Realty index rose by 2% contributing to the broader market rally"
   ],
   "whatHappening": [
-    "Sensex jumps over 600 points while Nifty 50 trades above the 25,400 mark",
-    "Nifty Bank hits a record high above 62,300, leading the market rally",
-    "NSE's market capitalization crosses ₹5 trillion as its shares reach an all-time high",
-    "Analysts warn of a potential fall despite the current rally due to high market premiums"
+    "Sensex surged 800 points intraday while the Nifty 50 crossed the 25,500 mark",
+    "A gas leak at ONGC's Konaseema plant in Andhra Pradesh led to the evacuation of 800 people",
+    "Laurus Labs and Bank of India emerged as top gainers in the midcap segment",
+    "Asian Paints and SBI were among the top gainers as the Sensex traded significantly higher"
   ],
   "stocksInNews": [
     {
+      "symbol": "LAURUSLABS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "BANKINDIA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "ONGC",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
       "symbol": "ASIANPAINT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/6 sources",
+      "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        8,
         12
       ]
     },
     {
       "symbol": "SBIN",
       "sentiment": "Positive",
-      "sources": "Mentioned by 2/6 sources",
-      "articleIds": [
-        12,
-        17,
-        19
-      ]
-    },
-    {
-      "symbol": "NSE",
-      "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        18
+        12
       ]
     }
   ],
-  "summary": "Indian markets are rallying with the Sensex up 600 points and Nifty Bank reaching a record high above 62,300. NSE's market capitalization has crossed ₹5 trillion, while Asian Paints and SBI are among the top gainers. However, analysts caution investors to prepare for potential corrections amid concerns over high market premiums.",
-  "updatedAt": "2026-11-17T07:32:08.551Z",
+  "summary": "Indian markets witnessed a strong rally with the Sensex gaining 800 points and Bank Nifty hitting a record high above 62,300. While stocks like Asian Paints, SBI, and Laurus Labs led the gains, ONGC faced operational issues due to a gas leak at its Konaseema plant. Analysts remain optimistic about large-caps despite warnings of potential future corrections and slower growth tests.",
+  "updatedAt": "2026-11-17T08:01:53.640Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-17",
   "articleKeys": [
+    "karnataka charts next tech leap to push ai deeptech cm",
+    "fiis mfs raise stakes in 5 largecap stocks for two straight quarters shares rally up to 80",
+    "stock market live sensex gains 600 pts nifty tops 25450 laurus labs boi lead midcap gains",
+    "gas leak at ongcs konaseema plant in andhra pradesh 800 people evacuated",
+    "south korean shares close at over 9month low on nvidia caution",
     "drug margin caps may not reduce final patient bills hospitals tell supreme court",
     "why stock market is rising today 3 reasons explained as sensex jumps over 600 points nifty 50 above 25400",
     "punjab gardeners daughter 16 female students clear nda written exam from government defence institute",
     "stock market live sensex gains nearly 600 pts nifty tops 25400 nifty realty rises 2",
     "largecaps are the place to be piper sericas abhay agarwal on indias next market rally",
-    "bhagwan ko bhi saath jod liya ayuvedic healthcare firm wants ayushman scheme delay to be resolved with help from god",
-    "this school teacher turned bihars famous thekua into a rs 15 crore business",
-    "srinagar records winters first subzero temperature at 01c see how cold it got across 19 kashmir locations",
-    "another price shock paint companies announce second hike amid rising costs profit exclusive",
-    "never present but ananya birla shares her heartfelt poetry with farah khan",
     "markets are rallying but heres why you should prepare for a fall ndtv",
     "stock market today sensex nifty open higher hdfc sky",
     "sensex today trades higher nifty above 25350 asian paints sbi top gainers equitymaster",
     "indias stock market premium faces test from slower growth tight rates ubs business standard",
     "stock market today sensex nifty open higher despite global selloff businessline",
     "stock market today sensex nifty mixed at preopen hdfc sky",
+    "sensex zooms 800 pts intraday nifty tops 25500 5 factors behind bull run business standard",
     "6 of 10 nse stocks remain below their december 2025 closing levels business standard",
     "sensex nifty gain over 05 as banks fmcg shine broader market slips business standard",
-    "shares of nse surge to alltime high market capitalisation crosses 5 trn business standard",
     "nifty bank hits record high above 62300 analysts see room for more gains business standard"
   ],
   "articles": [
+    {
+      "title": "Karnataka charts next tech leap to push AI, deep-tech: CM",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/news/cities/bangalore/karnataka-charts-next-tech-leap-to-push-ai-deep-tech-cm/article71710810.ece",
+      "publishedAt": "Tue, 17 Nov 2026 13:10:27 +0530"
+    },
+    {
+      "title": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms",
+      "publishedAt": "Tue, 17 Nov 2026 12:54:18 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex gains 600 pts, Nifty tops 25,450; Laurus Labs, BoI lead MidCap gains",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-17-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bse-share-price-126111700071_1.html",
+      "publishedAt": "Tue, 17 Nov 2026 12:38:47 +0530"
+    },
+    {
+      "title": "Gas leak at ONGC's Konaseema plant in Andhra Pradesh; 800 people evacuated",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/gas-leak-at-ongc-s-konaseema-plant-in-andhra-pradesh-800-people-evacuated-126111700420_1.html",
+      "publishedAt": "Tue, 17 Nov 2026 12:36:38 +0530"
+    },
+    {
+      "title": "South Korean shares close at over 9-month low on Nvidia caution",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-close-at-over-9-month-low-on-nvidia-caution/articleshow/135914599.cms",
+      "publishedAt": "Tue, 17 Nov 2026 12:26:18 +0530"
+    },
     {
       "title": "Drug Margin Caps May Not Reduce Final Patient Bills, Hospitals Tell Supreme Court",
       "source": "Zerodha Pulse",
@@ -103,36 +146,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/piper-sericas-abhay-agarwal-on-largecaps-stocks-offer-the-best-opportunity-fiis-return-bse-nse-nifty-50-sensex-today-trending-12337143#publisher=newsstand",
       "publishedAt": "Tue, 17 Nov 2026 11:47:49 +0530"
-    },
-    {
-      "title": "'Bhagwan Ko Bhi Saath Jod Liya': Ayuvedic Healthcare Firm Wants Ayushman Scheme Delay To Be Resolved, With Help From God",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/bhagwan-ko-bhi-saath-jod-liya-ayurvedic-healthcare-firm-awaits-ayushman-scheme-12336973#publisher=newsstand",
-      "publishedAt": "Tue, 17 Nov 2026 11:46:26 +0530"
-    },
-    {
-      "title": "This School Teacher Turned Bihar’s Famous Thekua Into A Rs 15 Crore Business",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/this-school-teacher-turned-bihar-s-famous-thekua-into-a-rs-15-crore-business-12337056#publisher=newsstand",
-      "publishedAt": "Tue, 17 Nov 2026 11:44:10 +0530"
-    },
-    {
-      "title": "Srinagar Records Winter's First Sub-Zero Temperature At 0.1C: See How Cold It Got Across 19 Kashmir Locations",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/srinagar-records-winters-first-sub-zero-temperature-at-0-1c-see-how-cold-it-got-across-19-kashmir-locations-12337119#publisher=newsstand",
-      "publishedAt": "Tue, 17 Nov 2026 11:41:43 +0530"
-    },
-    {
-      "title": "Another Price Shock: Paint Companies Announce Second Hike Amid Rising Costs | Profit Exclusive",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/exclusice-paint-companies-announce-second-round-of-november-price-hikes-as-costs-rise-12337015#publisher=newsstand",
-      "publishedAt": "Tue, 17 Nov 2026 11:38:51 +0530"
-    },
-    {
-      "title": "'Never Present, But' — Ananya Birla Shares Her Heartfelt Poetry With Farah Khan",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/never-present-but-ananya-birla-shares-her-heartfelt-poetry-with-farah-khan-12337086#publisher=newsstand",
-      "publishedAt": "Tue, 17 Nov 2026 11:37:08 +0530"
     },
     {
       "title": "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
@@ -171,6 +184,12 @@
       "publishedAt": "Tue, 17 Nov 2026 03:42:00 GMT"
     },
     {
+      "title": "Sensex zooms 800 pts intraday, Nifty tops 25,500: 5 factors behind bull run - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd01GZFF0VHctSXZXS2N0VkExNVo2cFdyN294WUc3N0lLcmRjRGJiQVlyXzhydEU5aVFBT2pxMklrZWpsOTNaLW9RWUtvYkdBZG84OGo2dlo3NktFYzBudjdxZkNibDctcFVCTXVjVnA5WkhmelNaek5ETG1KSFQ3OVhVWkl5WjMwX1E3ZFdaX0s2ZWE0Sm1qa0F3RVl6TjhKSnBwV0hiZDduQVRpRnlPc2xGYVRUVHByTUI3X0h6THhpQVBCendOQ3hVemt4c0FsajJ4Z2o4Y9IB3AFBVV95cUxPYlJmT0dJaFVHS0hfV3E0c0lMTFBvZzhzMmEwbEVNRS1ZNllrOGtTOWp3a3pqQ3lDaW51bFRrVEt5ckhhNG85YXlCNkJGYWRDMGFqVGNsNEZkMVotOFBrV0hELVJ4T2RMTmFYcjcxQVdqXzVNWHR4VE1tNVRlWG1KS2k1b3E1R1FtRkEtNFdIdHJaOTBlOWpsMVhYMzhwYmJreDlBSVRldkhiRGhORmYyMXM3V3h4eFBnZm5uZWQtWmE0ZDFicmpBQWtvTm5NU3g1dVZIZjFuRTkzQXRE?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 07:34:05 GMT"
+    },
+    {
       "title": "6 of 10 NSE stocks remain below their December 2025 closing levels - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZjRiR2hVN1Y3b09OdFJSUTlIeHRGSkN1WGRRSTVhSndSVHhBOUlNNmxFN1ZEVDF4MjRkeXhvc24xa1VOMTUtcDdraUstZ0VtVWVFaElIdnZ6ZUxZLXZDM3Z0c21zb2NmREhiYjJVNlRnbmFXcC1LNXRxM3pmUS0xdjc3UTBlUm9DOEFmVXJFOWRRMWpPcllRVjc4N2wzZ1BDTzhsUEZpQXg5M1RuNDh0TlhDdUQ4d1RRUkZ2NFItV19Ubnh5d0ZNeVF4RlZzWFN2Ukx6QW1RbGNWQVhNRDBJUnNHeljSAeoBQVVfeXFMTW9SOXZlUlJuRjVKTk1uZElBUHpha2VpcVJDY2xNWVA4dnFackhzVUNQZVljZkZCMTJRS29mTDFzRm1OUmE3OUZiS0lUbk1DdFZaYS0yT3UyTVpfbXFEbk1kMTZHVXVQWE5WeU4xbWhheXoyVFRRUVZjNnctOXQ2ZGVuX3Npd3M3Z0VmQmVMS2FhRi1lTXBnWU9LY0dsa0xsZm1EU2FUbm5XaW9XdTk1ZUZ4VE1ya0JiSGU2ajFYMzNET2J0M0JiRDdrbzhHV1ZOLTNaZjN0aFFlRXFqZVprQmFDQUZJektiMFh3?oc=5",
@@ -181,12 +200,6 @@
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3dpREFIY2FyT1kzc1JodXNIUmlsWW51UXQzTFVjWktPOHNwb2dDRXRKbU9vcFdfRXlRUVpaSlB1ZU8zWU5scnd4RXJsYmZtT1UzTUhacm9UaFBvSDVtMWFleVluMmFzVzZvN0dyMWozbHBTSElEb3NJa1BNU3pNU004UWNDMnN2TlhZSnZkWENJRkpvNW40VGx4TktIckRqT0lLVlZlNEM2SzZJeXBzUUJ6VkM5cmhqVWdRU1A0UlpaWDloMGN6dVFnZHU2WUnSAdQBQVVfeXFMTjI1SWJFdUs0SGNGbExHZVktRFVnZ21LLXlNWDZKTGlIb3JMTkNxeGREanlTNUJkaGRCcXdNZVN2MWZ0dFU4Z0ZqblhBcDY2emw0aUViRlhMRkVBYnhjMWJlWkxjRFp5ODZmQW1MRV9SdFpXWjV2YjZFSnN3alJPNHotSHNWR0V5TVRfVGRFclhYUEpGQ3UzTGh5VDZnUjdtWXJ1NWhzQ3BnUERtUEpjVG9wYjN3YUpqLU13Q2VaOWdRNnZXR191T2Zybm13ZDVwaDY3eGQ?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 15:14:21 GMT"
-    },
-    {
-      "title": "Shares of NSE surge to all-time high, market capitalisation crosses ₹5 trn - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmx1WF9OVG5INGRFWWRpNDBjbEhaWGJZcWp4bHBQdkw5cWlPSGRrV3RDRHM3bGt4RDRnX1Q3OThtaDFzV1VNX2FxZzNxMjJjQjFIUGVmZXFuU2JkQjFoUlBIMnkzWDlYUlRiVWw1bWVrT1o5bVRkTTY2b25iQUdPMF9CYkh4OXFzZWRpRlkzWmt6SG4yXzBFMml6bGhyWnQzQjRDZVBUTWZXc1NSS1lCVzZDOGFQM0d0Mk1WWkF3YVlZT1RTOXpvb2pnSVhFOFV4ZzBQLUZ30gHbAUFVX3lxTE5wZm1lLTVacWt4bzRVOTY4VDVPa2U0OTAtbWhxamxXRS02WERkN000b3pqZUZMMHFubGllT0J2ZnIzUk5FWV9tY1gzU2cyeDBsbWlaY1czS3B3NTAwNmY3V3JqQTJYQjN0UWd0S2s2clpEZmdVQm1tNXlVUG9kMm5WT0ZuX3RNSjZrMTFvQUNKUXpsMHpWQ0c2NURBZkU1VkdNSVIyRDZXYndPUkRBOUI1aUVkVHdrb1hPTEJuOTU0SHNYQW5KVU1IdW1rWGNwUXJCRVNoUUR0WDlxOA?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 17:41:32 GMT"
     },
     {
       "title": "Nifty Bank hits record high above 62,300; analysts see room for more gains - Business Standard",
