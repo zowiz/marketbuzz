@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex gains 200 points at pre-open as Nifty tops 25,300; Asian markets decline",
+  "headline": "Sensex gains 200 points in pre-open as Nifty tops 25,300 amid mixed global signals",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,30 +7,30 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex gained 200 points in pre-open trade while Nifty crossed 25,300.",
-    "Nomura upgraded ABB India to Neutral citing growth opportunities in electrification and data centres.",
-    "Bernstein issued strong upside potential for food delivery sector while flagging margin risks.",
-    "Asian markets traded lower amidst global updates."
+    "Sensex gained 200 points during pre-open trading with Nifty attempting to move past 25,300.",
+    "Banking and FMCG stocks saw gains over 0.5%, providing support to the benchmark indices.",
+    "Asian equity markets declined as global traders digested upcoming tech earnings and economic developments.",
+    "Derivatives volume surged due to market volatility while cash and mutual fund flows remained muted."
   ],
   "whatHappening": [
-    "ABB India saw brokerages highlighting growth prospects from data centres and electrification.",
-    "Bernstein compared Swiggy and Zomato, projecting up to 84% upside in one stock.",
-    "Sensex rose 200 points in early action while Nifty topped the 25,300 mark.",
-    "IMD warned of heavy rains and strong winds due to approaching Cyclone Akvan."
+    "Nomura upgraded ABB India to Neutral, citing growth opportunities in electrification and data centers.",
+    "Bernstein analyzed Swiggy and Zomato, identifying strong upside potential alongside margin risks.",
+    "Technical analysts highlighted 25,300 as a key hurdle level for Nifty's ongoing consolidation.",
+    "Analyst Shrikant Chouhan identified Honasa Consumer and HDFC Bank as key stock ideas."
   ],
   "stocksInNews": [
     {
       "symbol": "ABB",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/1 sources",
+      "sources": "Mentioned by 1/4 sources",
       "articleIds": [
         5
       ]
     },
     {
       "symbol": "SWIGGY",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/1 sources",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/4 sources",
       "articleIds": [
         9
       ]
@@ -38,14 +38,62 @@
     {
       "symbol": "ZOMATO",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/1 sources",
+      "sources": "Mentioned by 1/4 sources",
       "articleIds": [
         9
       ]
+    },
+    {
+      "symbol": "BSE",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/4 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "HZL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/4 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "YESBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/4 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "IHCL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/4 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "HONASA",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/4 sources",
+      "articleIds": [
+        17
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/4 sources",
+      "articleIds": [
+        17
+      ]
     }
   ],
-  "summary": "Sensex gained 200 points in pre-open session with Nifty crossing 25,300.\nNomura upgraded ABB India to Neutral on growth opportunities in electrification and data centres.\nBernstein evaluated Swiggy and Zomato, seeing up to 84% upside while noting margin risks.",
-  "updatedAt": "2026-11-17T04:02:05.287Z",
+  "summary": "Indian benchmark indices opened on a positive note with the Sensex gaining 200 points in pre-open trading.\nBanking and FMCG shares led the early gains, while broader market participation remained cautious amid global market weakness.\nStock-specific action was seen in ABB India following a brokerage upgrade and food delivery stocks Swiggy and Zomato after valuation reviews.",
+  "updatedAt": "2026-11-17T04:31:39.732Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-17",
   "articleKeys": [
@@ -58,7 +106,17 @@
     "psu banks vs private banks is the riskreward finally tilting in favour of private lenders",
     "cyclone akvan live tracker imd warns of heavy rains and strong winds as akvan approaches andhra pradesh and tamil nadu",
     "two dogs put kandivli housing society on edge row reaches high court after multiple bite incidents",
-    "swiggy vs zomato bernstein sees 84 upside in one stock flags margin risks for both"
+    "swiggy vs zomato bernstein sees 84 upside in one stock flags margin risks for both",
+    "markets are rallying but heres why you should prepare for a fall ndtv",
+    "stock market today sensex nifty mixed at preopen hdfc sky",
+    "6 of 10 nse stocks remain below their december 2025 closing levels business standard",
+    "sensex nifty gain over 05 as banks fmcg shine broader market slips business standard",
+    "shares of nse surge to alltime high market capitalisation crosses 5 trn business standard",
+    "markets likely to consolidate as nifty tests hurdle at 25300 analysts business standard",
+    "stocks to watch urban company bse tata group hzl yes bank ihcl business standard",
+    "honasa consumer hdfc bank two stock ideas by shrikant chouhan business standard",
+    "global stocks fall as nvidia earnings anthropic debut put ai rally to test business standard",
+    "capital markets derivatives surge on volatility cash mf flows stay muted business standard"
   ],
   "articles": [
     {
@@ -120,6 +178,66 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/swiggy-vs-zomato-bernstein-sees-84-upside-in-one-stock-flags-margin-risks-for-both-12336430#publisher=newsstand",
       "publishedAt": "Tue, 17 Nov 2026 08:29:22 +0530"
+    },
+    {
+      "title": "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjNWS1RKejVsUllfdlVia2ZCWm1GNjRPMnhWTFRfNGhEVlkwNTZTQV90dzZQcDhnZ21uTnRGS01ZLXdWT1EyTTZYVmRkQUF3VDJwQ1R0WldCZW1CX0FWR053UWlkSkxzOFVPR2x0b1N1UldqQ0ZwQ25TcHdHc1kzT1ppRVNQWVBhbG8zWTQ5Q1FKOHdiTmZ3VENUMlcwSG1FVEVSaFBRZjJLS3hrcnBHRWU0Z0NCZTJPZ3ZzNkNNZGdzeFRLNWhj0gHPAUFVX3lxTFBFXzdoeGltdU1GX0xybTRIckhpTzd4enZQRzR2R0hreGlqRWFYS0h0SlpFdk1oeVV1cWVZUUVzTW5LdFdZRGxEY3RWNklseHpZLXlLakd5Vmg1bWltaVV4bzhaMUtBeWtNLUhUenc1SE5BWHptaS1fMmdPRUdUNTNvRkpEWVFET3pqczVmT1c5Rkc2SlZ4RU5rMktwMUtiSU1nZno5Ulc0VWZNMGVBYjJhbU9WZGNVa01VS3Z1MmpVelJvVUc0N2pvbVFSLUhaMA?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 02:41:19 GMT"
+    },
+    {
+      "title": "Stock Market Today: Sensex, Nifty Mixed at Pre-Open - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVkVmRmhjUi1VZlpWaVpqUFc2YWZjNHZLQTZwMGNPcFdBaVoxdG1PcVVWT0d0d1hfcE91ZDh4dGNNMlRKMnBGcWtOSVlHc3Z6a1h3S0liYm5DRUpveXV6XzBNc2IyRFA5a0pHNHNieGtNNmJleGN3bkxiZzlLZFc5aG9zRGpuUVZwVWtiTUI4WnFUUFBMLXZRQ056Q3FaLUZLQ0tnNW45aGpEQQ?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 03:42:00 GMT"
+    },
+    {
+      "title": "6 of 10 NSE stocks remain below their December 2025 closing levels - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZjRiR2hVN1Y3b09OdFJSUTlIeHRGSkN1WGRRSTVhSndSVHhBOUlNNmxFN1ZEVDF4MjRkeXhvc24xa1VOMTUtcDdraUstZ0VtVWVFaElIdnZ6ZUxZLXZDM3Z0c21zb2NmREhiYjJVNlRnbmFXcC1LNXRxM3pmUS0xdjc3UTBlUm9DOEFmVXJFOWRRMWpPcllRVjc4N2wzZ1BDTzhsUEZpQXg5M1RuNDh0TlhDdUQ4d1RRUkZ2NFItV19Ubnh5d0ZNeVF4RlZzWFN2Ukx6QW1RbGNWQVhNRDBJUnNHeljSAeoBQVVfeXFMTW9SOXZlUlJuRjVKTk1uZElBUHpha2VpcVJDY2xNWVA4dnFackhzVUNQZVljZkZCMTJRS29mTDFzRm1OUmE3OUZiS0lUbk1DdFZaYS0yT3UyTVpfbXFEbk1kMTZHVXVQWE5WeU4xbWhheXoyVFRRUVZjNnctOXQ2ZGVuX3Npd3M3Z0VmQmVMS2FhRi1lTXBnWU9LY0dsa0xsZm1EU2FUbm5XaW9XdTk1ZUZ4VE1ya0JiSGU2ajFYMzNET2J0M0JiRDdrbzhHV1ZOLTNaZjN0aFFlRXFqZVprQmFDQUZJektiMFh3?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 02:08:36 GMT"
+    },
+    {
+      "title": "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3dpREFIY2FyT1kzc1JodXNIUmlsWW51UXQzTFVjWktPOHNwb2dDRXRKbU9vcFdfRXlRUVpaSlB1ZU8zWU5scnd4RXJsYmZtT1UzTUhacm9UaFBvSDVtMWFleVluMmFzVzZvN0dyMWozbHBTSElEb3NJa1BNU3pNU004UWNDMnN2TlhZSnZkWENJRkpvNW40VGx4TktIckRqT0lLVlZlNEM2SzZJeXBzUUJ6VkM5cmhqVWdRU1A0UlpaWDloMGN6dVFnZHU2WUnSAdQBQVVfeXFMTjI1SWJFdUs0SGNGbExHZVktRFVnZ21LLXlNWDZKTGlIb3JMTkNxeGREanlTNUJkaGRCcXdNZVN2MWZ0dFU4Z0ZqblhBcDY2emw0aUViRlhMRkVBYnhjMWJlWkxjRFp5ODZmQW1MRV9SdFpXWjV2YjZFSnN3alJPNHotSHNWR0V5TVRfVGRFclhYUEpGQ3UzTGh5VDZnUjdtWXJ1NWhzQ3BnUERtUEpjVG9wYjN3YUpqLU13Q2VaOWdRNnZXR191T2Zybm13ZDVwaDY3eGQ?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 15:14:21 GMT"
+    },
+    {
+      "title": "Shares of NSE surge to all-time high, market capitalisation crosses ₹5 trn - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQmx1WF9OVG5INGRFWWRpNDBjbEhaWGJZcWp4bHBQdkw5cWlPSGRrV3RDRHM3bGt4RDRnX1Q3OThtaDFzV1VNX2FxZzNxMjJjQjFIUGVmZXFuU2JkQjFoUlBIMnkzWDlYUlRiVWw1bWVrT1o5bVRkTTY2b25iQUdPMF9CYkh4OXFzZWRpRlkzWmt6SG4yXzBFMml6bGhyWnQzQjRDZVBUTWZXc1NSS1lCVzZDOGFQM0d0Mk1WWkF3YVlZT1RTOXpvb2pnSVhFOFV4ZzBQLUZ30gHbAUFVX3lxTE5wZm1lLTVacWt4bzRVOTY4VDVPa2U0OTAtbWhxamxXRS02WERkN000b3pqZUZMMHFubGllT0J2ZnIzUk5FWV9tY1gzU2cyeDBsbWlaY1czS3B3NTAwNmY3V3JqQTJYQjN0UWd0S2s2clpEZmdVQm1tNXlVUG9kMm5WT0ZuX3RNSjZrMTFvQUNKUXpsMHpWQ0c2NURBZkU1VkdNSVIyRDZXYndPUkRBOUI1aUVkVHdrb1hPTEJuOTU0SHNYQW5KVU1IdW1rWGNwUXJCRVNoUUR0WDlxOA?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 17:41:32 GMT"
+    },
+    {
+      "title": "Markets likely to consolidate as Nifty tests hurdle at 25,300: Analysts - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONTBPTEhzcEhjSlJYTzBkS1d0cVVlTXRQUTJGeEhQN3ZuM09QaVZ4YTlmMDdZUk5ZS0pQaEZ6N0YxSHF4T0NEay1mLTRNa3ZnUEsxQ2psQVdpd1VyNDNSS3dBYTdLZ2RDbG9uQktUVnlSclFSMGJRZmN2T2VTQTIzUUt2ZGNHMnU3bEpaOUV1YXdTT0xjc1g5elhTNkpaVTdfdzRxTExFODA5YWY0bnJKZ2NySHY1V1A0dUhKNDBvTFR0bU5HSVJjNzVrTGlkV2ZvQ0E00gHYAUFVX3lxTE9kWGJzNXV2Y3RmTjZzbmJ2OThMeEFKOEZsQWxmYlpuQmhsc0xkOGFGaGxETklOMzI0eFBkVGk5NmJ2LXFsd3hBX2EyMms4NjdKa2JtM09hZmhlNGlzN3dqYlZyS3ZuWXZIZEdhYWt0SFNHbnQ4cjcxMnAxZmJ6dDMwYld6QjVBd1ZrSFdJSlJYbDcza3BoTGg3a3RMVmcxS1hZRUpLa0EtNTFvckRfMTl4Q0ptQ01MTjd5alJjUU04dThsd3JaUkp0ckVKXzVUSnRkeUs4SFZkYg?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 02:38:07 GMT"
+    },
+    {
+      "title": "Stocks to watch: Urban Company, BSE, Tata group, HZL, YES Bank, IHCL - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3dYUURkaDlXZHJqOUpCaGFhd1hWUndTd1dPYXZabWFia3I2SW9rcHBpQklFMU1xWU1BekNPZHByNjl2QnZfUUJ2LTBNY3NNbTFlZHZwRVBNUXhWX2s2cGk0Y3JqdGkydUxYRFVQbHAtZzgxQU5DWHA0ZDl0dDNTeWNoaXBsUGtwZ1RiUnZJVnJhYVVTYm90b2FLRTVOSHVqRUJZcmQxaklBQldOcVpXSWNDeDVjS3E3ZTk5UkZjaXl4LXc3T3pITNIBzgFBVV95cUxOU295d3BoMk1IY1JwRXYyRldfVGlOcld4N1RVMUF1ZHduNXpPN082QzNnRjRfQmk0T29sMXhSNHVDdjRVelp1Ym81RXZmcjdwc2FNWVBUZmFmUVNveng3YWFUX1ZDNHJtWXd3S2Myc0JfSVRHbHQ2d2Iyejdvcy1hdzJUREJiNEVQZk1oVE10SUdja3pSX19DelZkMURXOHpLSk5ualIzY1FFQTlndDg3UkROdkxmb2lzTURIZjVQdmltbVI3b1p2VG1GNE1RUQ?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 02:41:19 GMT"
+    },
+    {
+      "title": "Honasa Consumer, HDFC Bank: Two stock ideas by Shrikant Chouhan - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMURWT3l5MlZGYjZvb1ZoNkVsOEZ0a2owYk8yWm5QdnltcWdydGFhLXVtcFdpSExlWHh1ZGduOFpfNEJRTHdTb016WDFEY1JFVldSSWJPdFZEYmxmekNCRW9UdnAwRUNHYXlxRHV4SFlZdng3YzVDbnBzT2FnMjJ6M1pBWkV0dVBrSTR2WWdIZGh4YVdtdFFLcE1lNXozOFpaQzk5Q2lyMi1ZcHRMZ09EaXpXaFBkSXE2bER2azhFclNsU05fMWw40gHMAUFVX3lxTE5ZcTRDVVZ3cGxSN0g2RGozcmpVQlV1aFNBaVllV3M4U3BVMXE4WUhfaEZFbGx4VWJsNkppSGVHOXNZMzNDOW1qREoyNG1kbUI1c1dyVWJIWDdCdDBaSERCekxnLWNPZEdIREdtVE9VTFJqT0lrNXFKR1dNOVJxNkpRalpNVERaTllSdFg3NEozN1J1dW9XdUE0THhnQTcySm5hMkVsbkFXdmZ5WUdneE1qNUFudVI4cXJNQi1GN0RwRTNxMVgxTDVFY2g0dw?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 02:16:20 GMT"
+    },
+    {
+      "title": "Global stocks fall as Nvidia earnings, Anthropic debut put AI rally to test - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONGxRX2JQelExSWtzTEUxOWQ5c2lfOHo4cnlUVUxodFIwR3B3bXZBWlNZVHJUT09qRFNsVEl6cGtKc0lBQTVHSHQ0OUhMZVJBb1BoMVl1T2VJdFRmbXBFT2ZfcVpIdm5WUHRMaTBKaWFNdG5NN0tJWkkwNEZ6bjIzRk5DZy1KUlhHSnhIUzc3ak5oMWpEMWFDTHFSczlzU1hzZmE1VVhuYmlpMFN3UVE1RjBpME1GTGFPVGQtOG5QaTVfT05XZ0JrVjBrOUFsVHBiQk5yWV9VZ1jSAd4BQVVfeXFMUEJoRW55cVFwanNlSDhuclFxbkFMQ3poMFgxYkF3OVpta3otSElkMnliOWNWVExGNks1S1phRk1iQWstcEx2aGY1S19qWFVodEY4WGpTMllBZWRuTlNiSGlqRkpEOGxUYVZkX042MlhnM2NQSzlzcUdEZEJNQW5hVXhXNGt6TExfXzNTU3FudHVFZjZFYVNuZEh4aFk1ZnFrTGdiU0FrNFRHNDBoYWowcWotMTMyc0pmODZ5NTBPZ0pBZUFBMEw5SFdtSktleFpOdEN2RmRGUllnUkZMbmRR?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 02:27:58 GMT"
+    },
+    {
+      "title": "Capital Markets: Derivatives surge on volatility; cash, MF flows stay muted - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYnROZXh5TE8xNnJBal90MDV4bGpzSkFoaWFydWh2RTJ1QjBGRVFfM0R1YlBsSU5NUHZGMVRseXZabmU4N0k0ZV8xc0JSZ1VidmVCVFFSSUJBVWlRR3cwU3BiZ0JBS3dyRW1Lc2JISmVKTkdPNmxsaHdiNkstSnZjcDlCS3IyYmxuT05oakdJMVdlc3JPcF9Wb3lDTGFrcWkxQWdQWklBSWJWckZwQnNnb05rdG9RajlVVDNnTkxTWlBId2JHX3ZMalplNVZWenVTV1BaUWxn0gHbAUFVX3lxTE1pTUdsTHNIQTZRU2V6Z3MwMldybXlUbTNjbklFdjh5UmpaNFZFTGh1RWpSR0x1Q09oN1FFSmppckc1TDZjYS1PUWliZ3JPbkxHeGJzUUd1WnIwLTZDNjR1ODkzRDJZN1J5cUdTd013MWYxMGRwSlRCNkZfOExCWDB2MkVwMTVXYlVEeE9WeU9wbkxWd2xPMDJMUVJBRkw5ejFvcElHUzJIWFdPNVBoaGpGMlFqazNIQWV6d0NzaklmTGZPMWxpUl9zWllpSE1zOTY4eW9iT1VUVDdIQQ?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 03:26:52 GMT"
     }
   ]
 }
