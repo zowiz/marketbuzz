@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Zooms 800 Points as Bank Nifty Hits Record High; ONGC Faces Gas Leak Incident",
+  "headline": "Sensex and Nifty Rally as Nifty Bank Hits Record High; Tata Steel and IOC in Focus",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,56 @@
     "nextOpen": ""
   },
   "why": [
-    "Nifty Bank reached a record high above 62,300 with analysts seeing room for further gains",
-    "Strong performance in the banking and FMCG sectors driving market sentiment",
-    "FIIs and Mutual Funds increased stakes in large-cap stocks for two consecutive quarters",
-    "The Nifty Realty index rose by 2% contributing to the broader market rally"
+    "Nifty Bank hit a record high above 62,300, providing strong momentum to the broader market.",
+    "Sensex surged up to 800 points intraday despite a global sell-off in other markets.",
+    "Institutional investors including FIIs and Mutual Funds have raised stakes in large-cap stocks for two consecutive quarters.",
+    "Positive corporate developments in the metal and energy sectors boosted investor confidence."
   ],
   "whatHappening": [
-    "Sensex surged 800 points intraday while the Nifty 50 crossed the 25,500 mark",
-    "A gas leak at ONGC's Konaseema plant in Andhra Pradesh led to the evacuation of 800 people",
-    "Laurus Labs and Bank of India emerged as top gainers in the midcap segment",
-    "Asian Paints and SBI were among the top gainers as the Sensex traded significantly higher"
+    "Tata Steel announced a target of 50 MT capacity with 75% of its capital expenditure directed toward India.",
+    "Indian Oil Corporation (IOC) received government approval to supply sustainable aviation fuel for blending targets.",
+    "Mid-cap stocks like Laurus Labs and Bank of India led gains in their segment as the market rallied.",
+    "Analysts from UBS and other firms warn that India's market premium faces tests from slower growth and tight interest rates."
   ],
   "stocksInNews": [
+    {
+      "symbol": "VEDL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "ONGC",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "IOC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        8
+      ]
+    },
     {
       "symbol": "LAURUSLABS",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        2
+        9
       ]
     },
     {
@@ -32,15 +64,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "ONGC",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        3
+        9
       ]
     },
     {
@@ -60,38 +84,74 @@
       ]
     }
   ],
-  "summary": "Indian markets witnessed a strong rally with the Sensex gaining 800 points and Bank Nifty hitting a record high above 62,300. While stocks like Asian Paints, SBI, and Laurus Labs led the gains, ONGC faced operational issues due to a gas leak at its Konaseema plant. Analysts remain optimistic about large-caps despite warnings of potential future corrections and slower growth tests.",
-  "updatedAt": "2026-11-17T08:01:53.640Z",
+  "summary": "Indian markets are trading significantly higher with the Sensex gaining over 600 points and Nifty Bank reaching a new record high. Key stocks like Tata Steel and IOC are in focus following major expansion and regulatory news, while mid-caps show strong performance. However, experts remain cautious about long-term sustainability due to potential growth slowdowns and global economic pressures.",
+  "updatedAt": "2026-11-17T09:01:47.721Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-17",
   "articleKeys": [
+    "stock market live sensex pares gains but up 600 pts nifty around 25400 it fmcg shares weigh",
+    "anil agarwal warns vedanta block transfer to ongc could deter investors",
+    "head of chinas baidu warns of ai bubble ahead of apec talks",
+    "ioc gets govt nod to supply sustainable aviation fuel for blending target",
+    "karnataka charting next tech leap to push ai deeptech cm dk shivakumar",
     "karnataka charts next tech leap to push ai deeptech cm",
+    "dp world launches export rail service linking ncr to mundra port for one",
     "fiis mfs raise stakes in 5 largecap stocks for two straight quarters shares rally up to 80",
+    "tata steel eyes 50 mt capacity to direct 75 capex to india tv narendran",
     "stock market live sensex gains 600 pts nifty tops 25450 laurus labs boi lead midcap gains",
-    "gas leak at ongcs konaseema plant in andhra pradesh 800 people evacuated",
-    "south korean shares close at over 9month low on nvidia caution",
-    "drug margin caps may not reduce final patient bills hospitals tell supreme court",
-    "why stock market is rising today 3 reasons explained as sensex jumps over 600 points nifty 50 above 25400",
-    "punjab gardeners daughter 16 female students clear nda written exam from government defence institute",
-    "stock market live sensex gains nearly 600 pts nifty tops 25400 nifty realty rises 2",
-    "largecaps are the place to be piper sericas abhay agarwal on indias next market rally",
     "markets are rallying but heres why you should prepare for a fall ndtv",
     "stock market today sensex nifty open higher hdfc sky",
     "sensex today trades higher nifty above 25350 asian paints sbi top gainers equitymaster",
-    "indias stock market premium faces test from slower growth tight rates ubs business standard",
+    "sensex zooms 800 pts intraday nifty tops 25500 5 factors behind bull run business standard",
     "stock market today sensex nifty open higher despite global selloff businessline",
     "stock market today sensex nifty mixed at preopen hdfc sky",
-    "sensex zooms 800 pts intraday nifty tops 25500 5 factors behind bull run business standard",
+    "indias stock market premium faces test from slower growth tight rates ubs business standard",
     "6 of 10 nse stocks remain below their december 2025 closing levels business standard",
     "sensex nifty gain over 05 as banks fmcg shine broader market slips business standard",
     "nifty bank hits record high above 62300 analysts see room for more gains business standard"
   ],
   "articles": [
     {
+      "title": "Stock Market LIVE: Sensex pares gains but up 600 pts, Nifty around 25,400; IT, FMCG shares weigh",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-17-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bse-share-price-126111700071_1.html",
+      "publishedAt": "Tue, 17 Nov 2026 14:03:12 +0530"
+    },
+    {
+      "title": "Anil Agarwal warns Vedanta block transfer to ONGC could deter investors",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/anil-agarwal-warns-vedanta-block-transfer-to-ongc-could-deter-investors-126111700494_1.html",
+      "publishedAt": "Tue, 17 Nov 2026 14:03:10 +0530"
+    },
+    {
+      "title": "Head of China’s Baidu warns of AI ‘bubble’ ahead of APEC talks",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/news/international/head-of-chinas-baidu-warns-of-ai-bubble-ahead-of-apec-talks/article71710928.ece",
+      "publishedAt": "Tue, 17 Nov 2026 13:45:09 +0530"
+    },
+    {
+      "title": "IOC gets govt nod to supply sustainable aviation fuel for blending target",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/ioc-gets-govt-nod-to-supply-sustainable-aviation-fuel-for-blending-target-126111700429_1.html",
+      "publishedAt": "Tue, 17 Nov 2026 13:35:40 +0530"
+    },
+    {
+      "title": "Karnataka charting next tech leap to push AI, deep-tech: CM D.K. Shivakumar",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/news/cities/bangalore/bengaluru-tech-summit-karnataka-charts-next-tech-leap-to-push-ai-deep-tech-cm-dk-shivakumar/article71710810.ece",
+      "publishedAt": "Tue, 17 Nov 2026 13:32:53 +0530"
+    },
+    {
       "title": "Karnataka charts next tech leap to push AI, deep-tech: CM",
       "source": "Zerodha Pulse",
       "link": "https://www.thehindu.com/news/cities/bangalore/karnataka-charts-next-tech-leap-to-push-ai-deep-tech-cm/article71710810.ece",
       "publishedAt": "Tue, 17 Nov 2026 13:10:27 +0530"
+    },
+    {
+      "title": "DP World launches export rail service linking NCR to Mundra Port for ONE",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/dp-world-launches-export-rail-service-linking-ncr-to-mundra-port-for-one-126111601475_1.html",
+      "publishedAt": "Tue, 17 Nov 2026 13:09:00 +0530"
     },
     {
       "title": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%",
@@ -100,52 +160,16 @@
       "publishedAt": "Tue, 17 Nov 2026 12:54:18 +0530"
     },
     {
+      "title": "Tata Steel eyes 50 MT capacity, to direct 75% capex to India: TV Narendran",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/tata-steel-eyes-50-mt-capacity-to-direct-75-capex-to-india-tv-narendran-126111700284_1.html",
+      "publishedAt": "Tue, 17 Nov 2026 12:54:01 +0530"
+    },
+    {
       "title": "Stock Market LIVE: Sensex gains 600 pts, Nifty tops 25,450; Laurus Labs, BoI lead MidCap gains",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-17-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bse-share-price-126111700071_1.html",
       "publishedAt": "Tue, 17 Nov 2026 12:38:47 +0530"
-    },
-    {
-      "title": "Gas leak at ONGC's Konaseema plant in Andhra Pradesh; 800 people evacuated",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/india-news/gas-leak-at-ongc-s-konaseema-plant-in-andhra-pradesh-800-people-evacuated-126111700420_1.html",
-      "publishedAt": "Tue, 17 Nov 2026 12:36:38 +0530"
-    },
-    {
-      "title": "South Korean shares close at over 9-month low on Nvidia caution",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-close-at-over-9-month-low-on-nvidia-caution/articleshow/135914599.cms",
-      "publishedAt": "Tue, 17 Nov 2026 12:26:18 +0530"
-    },
-    {
-      "title": "Drug Margin Caps May Not Reduce Final Patient Bills, Hospitals Tell Supreme Court",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/drug-margin-caps-may-not-reduce-final-patient-bills-hospitals-tell-supreme-court-12337196#publisher=newsstand",
-      "publishedAt": "Tue, 17 Nov 2026 12:01:12 +0530"
-    },
-    {
-      "title": "Why Stock Market Is Rising Today? 3 Reasons Explained As Sensex Jumps Over 600 Points, Nifty 50 Above 25,400",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/why-stock-market-is-rising-today-3-reasons-explained-as-sensex-jumps-nifty-50-above-25-400-12337194#publisher=newsstand",
-      "publishedAt": "Tue, 17 Nov 2026 12:00:26 +0530"
-    },
-    {
-      "title": "Punjab: Gardener's Daughter, 16 Female Students Clear NDA Written Exam From Government Defence Institute",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/17-girls-from-mai-bhago-armed-forces-preparatory-institute-clear-2026-nda-written-exam-12337175#publisher=newsstand",
-      "publishedAt": "Tue, 17 Nov 2026 11:56:55 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex gains nearly 600 pts, Nifty tops 25,400; Nifty Realty rises 2%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-17-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bse-share-price-126111700071_1.html",
-      "publishedAt": "Tue, 17 Nov 2026 11:51:24 +0530"
-    },
-    {
-      "title": "'Largecaps Are The Place To Be': Piper Serica's Abhay Agarwal On India's Next Market Rally",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/piper-sericas-abhay-agarwal-on-largecaps-stocks-offer-the-best-opportunity-fiis-return-bse-nse-nifty-50-sensex-today-trending-12337143#publisher=newsstand",
-      "publishedAt": "Tue, 17 Nov 2026 11:47:49 +0530"
     },
     {
       "title": "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
@@ -166,10 +190,10 @@
       "publishedAt": "Tue, 17 Nov 2026 05:22:42 GMT"
     },
     {
-      "title": "India's stock market premium faces test from slower growth, tight rates: UBS - Business Standard",
+      "title": "Sensex zooms 800 pts intraday, Nifty tops 25,500: 5 factors behind bull run - Business Standard",
       "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWEVSQ2ZWWjlmVFZvazBCN21SYjNyMzJrUS02MlJTd0pONDBtMWJ6RlJRQkVFS08yS0c4RHE2YVYzZXV5RDMyOEtQOFlvdHhZVnVaUEpCN05FRno1UkxLeGVpWTlHZ05XT1RadlptNGVOX1ktYVZGVmMyZUthLWo3NEdNREsyZC1mcDVLUGkwaFg4RUdJSi1uTmxTY0xLNXp1Y2YwTmM2Nk5VZmdUOC0wNHR1WDgyQjc5TFZZXzZZeHJIcTFibzhrUTNaY1c2c1RSQnpkQkpQNVjSAd4BQVVfeXFMTUc4LW45dkRaZ0R0NHU1dXJpaWpCZVN6SHdkeHdqcmZZQTlsMWhHS0ZTOGJsR0JvY1NrM3lYakQ0bGRjdFRSNzgybHA2OHJnUXJHNGpUUmFrNEhXbjBoVlM1QmRNWTQ1STJLRGpSMW9xWFRKZi1FMnN4dzdWMmltUWxOcVlneGhNVXM4c1JYVHVnTzZGT0FEakE3RGVxbEJUUm9RcFFBMzgxTERPY2dPNjh6dGxMM2hWRXlaRl9PU09xYXB2OEFkUjNTQnNNajZzSzh1aUhxM2M1S3NpR2Z3?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 06:05:31 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd01GZFF0VHctSXZXS2N0VkExNVo2cFdyN294WUc3N0lLcmRjRGJiQVlyXzhydEU5aVFBT2pxMklrZWpsOTNaLW9RWUtvYkdBZG84OGo2dlo3NktFYzBudjdxZkNibDctcFVCTXVjVnA5WkhmelNaek5ETG1KSFQ3OVhVWkl5WjMwX1E3ZFdaX0s2ZWE0Sm1qa0F3RVl6TjhKSnBwV0hiZDduQVRpRnlPc2xGYVRUVHByTUI3X0h6THhpQVBCendOQ3hVemt4c0FsajJ4Z2o4Y9IB3AFBVV95cUxPYlJmT0dJaFVHS0hfV3E0c0lMTFBvZzhzMmEwbEVNRS1ZNllrOGtTOWp3a3pqQ3lDaW51bFRrVEt5ckhhNG85YXlCNkJGYWRDMGFqVGNsNEZkMVotOFBrV0hELVJ4T2RMTmFYcjcxQVdqXzVNWHR4VE1tNVRlWG1KS2k1b3E1R1FtRkEtNFdIdHJaOTBlOWpsMVhYMzhwYmJreDlBSVRldkhiRGhORmYyMXM3V3h4eFBnZm5uZWQtWmE0ZDFicmpBQWtvTm5NU3g1dVZIZjFuRTkzQXRE?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 07:34:05 GMT"
     },
     {
       "title": "Stock market today: Sensex, Nifty open higher despite global sell-off - BusinessLine",
@@ -184,10 +208,10 @@
       "publishedAt": "Tue, 17 Nov 2026 03:42:00 GMT"
     },
     {
-      "title": "Sensex zooms 800 pts intraday, Nifty tops 25,500: 5 factors behind bull run - Business Standard",
+      "title": "India's stock market premium faces test from slower growth, tight rates: UBS - Business Standard",
       "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd01GZFF0VHctSXZXS2N0VkExNVo2cFdyN294WUc3N0lLcmRjRGJiQVlyXzhydEU5aVFBT2pxMklrZWpsOTNaLW9RWUtvYkdBZG84OGo2dlo3NktFYzBudjdxZkNibDctcFVCTXVjVnA5WkhmelNaek5ETG1KSFQ3OVhVWkl5WjMwX1E3ZFdaX0s2ZWE0Sm1qa0F3RVl6TjhKSnBwV0hiZDduQVRpRnlPc2xGYVRUVHByTUI3X0h6THhpQVBCendOQ3hVemt4c0FsajJ4Z2o4Y9IB3AFBVV95cUxPYlJmT0dJaFVHS0hfV3E0c0lMTFBvZzhzMmEwbEVNRS1ZNllrOGtTOWp3a3pqQ3lDaW51bFRrVEt5ckhhNG85YXlCNkJGYWRDMGFqVGNsNEZkMVotOFBrV0hELVJ4T2RMTmFYcjcxQVdqXzVNWHR4VE1tNVRlWG1KS2k1b3E1R1FtRkEtNFdIdHJaOTBlOWpsMVhYMzhwYmJreDlBSVRldkhiRGhORmYyMXM3V3h4eFBnZm5uZWQtWmE0ZDFicmpBQWtvTm5NU3g1dVZIZjFuRTkzQXRE?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 07:34:05 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWEVSQ2ZWWjlmVFZvazBCN21SYjNyMzJrUS02MlJTd0pONDBtMWJ6RlJRQkVFS08yS0c4RHE2YVYzZXV5RDMyOEtQOFlvdHhZVnVaUEpCN05FRno1UkxLeGVpWTlHZ05XT1RadlptNGVOX1ktYVZGVmMyZUthLWo3NEdNREsyZC1mcDVLUGkwaFg4RUdJSi1uTmxTY0xLNXp1Y2YwTmM2Nk5VZmdUOC0wNHR1WDgyQjc5TFZZXzZZeHJIcTFibzhrUTNaY1c2c1RSQnpkQkpQNVjSAd4BQVVfeXFMTUc4LW45dkRaZ0R0NHU1dXJpaWpCZVN6SHdkeHdqcmZZQTlsMWhHS0ZTOGJsR0JvY1NrM3lYakQ0bGRjdFRSNzgybHA2OHJnUXJHNGpUUmFrNEhXbjBoVlM1QmRNWTQ1STJLRGpSMW9xWFRKZi1FMnN4dzdWMmltUWxOcVlneGhNVXM4c1JYVHVnTzZGT0FEakE3RGVxbEJUUm9RcFFBMzgxTERPY2dPNjh6dGxMM2hWRXlaRl9PU09xYXB2OEFkUjNTQnNNajZzSzh1aUhxM2M1S3NpR2Z3?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 06:05:31 GMT"
     },
     {
       "title": "6 of 10 NSE stocks remain below their December 2025 closing levels - Business Standard",
