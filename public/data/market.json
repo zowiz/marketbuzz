@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex Ends 427 Points Higher as Foreign Inflows and Banking Stocks Rally Drive Markets",
+  "headline": "Sensex and Nifty rally as record foreign inflows and banking sector strength drive markets to new highs",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,40 +7,41 @@
     "nextOpen": ""
   },
   "why": [
-    "Record foreign fund inflows continue to fuel the surge in Indian equities.",
-    "Rally in banking stocks provided strong support, pushing Nifty Bank to a record high.",
-    "Moderate crude oil prices helped sustain buying momentum across sectors.",
-    "Markets maintained gains despite global sell-offs and cautions regarding valuation premiums."
+    "Record foreign fund inflows have significantly fueled the Indian stock market's surge throughout November",
+    "Strong performance in the banking sector propelled the Nifty Bank index to a record high",
+    "Moderating crude oil prices provided a supportive environment for the domestic equity rally",
+    "Positive momentum continued for a second day despite concerns over a global market sell-off"
   ],
   "whatHappening": [
-    "Sensex closed 427 points higher while Nifty50 ended at 25,387.",
-    "Sensex surged up to 800 points intraday, briefly taking Nifty above 25,500.",
-    "NMDC announced plans targeting a pellet capacity of 24 million tonnes.",
-    "Mahindra Last Mile Mobility secured the Earthshot Prize 2026 under the 'Clean Our Air' category."
+    "The Sensex closed 427 points higher while the Nifty50 ended the session at 25,387",
+    "SEBI is weighing new restrictions on leveraged stock purchases to address rising retail market exposure",
+    "NMDC announced plans to expand its pellet production capacity to 24 million tonnes",
+    "Data shows 60% of NSE stocks are still trading below their December 2025 closing levels"
   ],
   "stocksInNews": [
     {
-      "symbol": "NMDC",
+      "symbol": "M&M",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        6
+        2
       ]
     },
     {
-      "symbol": "M&M",
+      "symbol": "NMDC",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/9 sources",
       "articleIds": [
-        1
+        7
       ]
     }
   ],
-  "summary": "Indian equity markets closed higher on Tuesday, driven by strong foreign fund inflows and a rally in banking stocks. Sensex gained 427 points while Nifty50 finished at 25,387 after touching intraday highs of 25,500. Key corporate developments included NMDC eyeing expansion in pellet capacity and Mahindra Last Mile Mobility winning the Earthshot Prize.",
-  "updatedAt": "2026-11-17T17:03:10.137Z",
+  "summary": "Indian indices rallied as Sensex gained 427 points and Nifty Bank hit record highs, driven by strong foreign inflows. SEBI is considering curbs on leveraged purchases to manage retail exposure amid the surge. Despite the rally, analysts warn that many stocks remain below 2025 levels and growth premiums face tests.",
+  "updatedAt": "2026-11-17T18:02:23.605Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-17",
   "articleKeys": [
+    "sebi weighs curbs on leveraged stock purchases amid rising retail exposure",
     "india beat pakistan 21 to win saff championship 2026 secure historic threepeat",
     "mahindra last mile mobility wins earthshot prize 2026 in clean our air category",
     "thane water shutdown supply to remain affected on these days check details",
@@ -50,19 +51,24 @@
     "nmdc eyes 24 million tonnes pellet capacity",
     "sai parenterals acquiring majority stake in bion",
     "thane police commissioners phone hacked obscene videos posted on whatsapp status",
-    "khambata hits out at srinivasan singh says no change in stand on chandra",
     "markets are rallying but heres why you should prepare for a fall ndtv",
     "stock market today sensex nifty open higher hdfc sky",
     "sensex today ends 427 points higher nifty above 25350 nifty bank hits record high equitymaster",
     "record foreign inflows fuel indian stocks november surge reuters",
     "sensex nifty rally for second day on foreign fund inflows moderate crude oil prices rediff",
     "market wrap nov 17 nifty50 ends at 25387 sensex closes 427 pts higher as banking stocks power gains check factors upstox",
-    "sensex nifty hit highest levels since february as banking stocks rally tuesday market report moneylife",
     "sensex zooms 800 pts intraday nifty tops 25500 5 factors behind bull run business standard",
     "stock market today sensex nifty open higher despite global selloff businessline",
-    "indias stock market premium faces test from slower growth tight rates ubs business standard"
+    "indias stock market premium faces test from slower growth tight rates ubs business standard",
+    "6 of 10 nse stocks remain below their december 2025 closing levels business standard"
   ],
   "articles": [
+    {
+      "title": "SEBI weighs curbs on leveraged stock purchases amid rising retail exposure",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/sebi-weighs-curbs-on-leveraged-stock-purchases-amid-rising-retail-exposure/article71713317.ece",
+      "publishedAt": "Tue, 17 Nov 2026 23:11:32 +0530"
+    },
     {
       "title": "India Beat Pakistan 2-1 To Win SAFF Championship 2026, Secure Historic Three-Peat",
       "source": "Zerodha Pulse",
@@ -118,12 +124,6 @@
       "publishedAt": "Tue, 17 Nov 2026 21:22:20 +0530"
     },
     {
-      "title": "Khambata hits out at Srinivasan, Singh; says no change in stand on Chandra",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/khambata-hits-out-at-srinivasan-singh-says-no-change-in-stand-on-chandra-126111701271_1.html",
-      "publishedAt": "Tue, 17 Nov 2026 21:19:54 +0530"
-    },
-    {
       "title": "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjNWS1RKejVsUllfdlVia2ZCWm1GNjRPMnhWTFRfNGhEVlkwNTZTQV90dzZQcDhnZ21uTnRGS01ZLXdWT1EyTTZYVmRkQUF3VDJwQ1R0WldCZW1CX0FWR053UWlkSkxzOFVPR2x0b1N1UldqQ0ZwQ25TcHdHc1kzT1ppRVNQWVBhbG8zWTQ5Q1FKOHdiTmZ3VENUMlcwSG1FVEVSaFBRZjJLS3hrcnBHRWU0Z0NCZTJPZ3ZzNkNNZGdzeFRLNWhj0gHPAUFVX3lxTFBFXzdoeGltdU1GX0xybTRIckhpTzd4enZQRzR2R0hreGlqRWFYS0h0SlpFdk1oeVV1cWVZUUVzTW5LdFdZRGxEY3RWNklseHpZLXlLakd5Vmg1bWltaVV4bzhaMUtBeWtNLUhUenc1SE5BWHptaS1fMmdPRUdUNTNvRkpEWVFET3pqczVmT1c5Rkc2SlZ4RU5rMktwMUtiSU1nZno5Ulc0VWZNMGVBYjJhbU9WZGNVa01VS3Z1MmpVelJvVUc0N2pvbVFSLUhaMA?oc=5",
@@ -160,12 +160,6 @@
       "publishedAt": "Tue, 17 Nov 2026 10:15:52 GMT"
     },
     {
-      "title": "Sensex, Nifty Hit Highest Levels Since February as Banking Stocks Rally - Tuesday Market Report - Moneylife",
-      "source": "Moneylife",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVZxQzJHV1Q0cEhXMWlEc1pnc09RYTZrSm05aDdMMmk3QmNsWjktTmJGR2o5NnlRVGVYU0dCZk4xenY5SlJPS0pYZk9hdzh0YllzUTh5dDNlV2tqYTAyYTlaVE54Yi12N3Rkak9jX3JIRHR0RHlZTkNOVzVqSkpYVVQzdkJaeGpoc1lzeXRWMVhuc05lYTduMXNYdndCdXZtbXgybzdJMjdPcUxPMkd1OG5OSkNzbUFFMGdoc1BuQVVzaXNhQXhGVVY5bUxhRzc0SFE?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 12:51:00 GMT"
-    },
-    {
       "title": "Sensex zooms 800 pts intraday, Nifty tops 25,500: 5 factors behind bull run - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd01GZFF0VHctSXZXS2N0VkExNVo2cFdyN294WUc3N0lLcmRjRGJiQVlyXzhydEU5aVFBT2pxMklrZWpsOTNaLW9RWUtvYkdBZG84OGo2dlo3NktFYzBudjdxZkNibDctcFVCTXVjVnA5WkhmelNaek5ETG1KSFQ3OVhVWkl5WjMwX1E3ZFdaX0s2ZWE0Sm1qa0F3RVl6TjhKSnBwV0hiZDduQVRpRnlPc2xGYVRUVHByTUI3X0h6THhpQVBCendOQ3hVemt4c0FsajJ4Z2o4Y9IB3AFBVV95cUxPYlJmT0dJaFVHS0hfV3E0c0lMTFBvZzhzMmEwbEVNRS1ZNllrOGtTOWp3a3pqQ3lDaW51bFRrVEt5ckhhNG85YXlCNkJGYWRDMGFqVGNsNEZkMVotOFBrV0hELVJ4T2RMTmFYcjcxQVdqXzVNWHR4VE1tNVRlWG1KS2k1b3E1R1FtRkEtNFdIdHJaOTBlOWpsMVhYMzhwYmJreDlBSVRldkhiRGhORmYyMXM3V3h4eFBnZm5uZWQtWmE0ZDFicmpBQWtvTm5NU3g1dVZIZjFuRTkzQXRE?oc=5",
@@ -182,6 +176,12 @@
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWEVSQ2ZWWjlmVFZvazBCN21SYjNyMzJrUS02MlJTd0pONDBtMWJ6RlJRQkVFS08yS0c4RHE2YVYzZXV5RDMyOEtQOFlvdHhZVnVaUEpCN05FRno1UkxLeGVpWTlHZ05XT1RadlptNGVOX1ktYVZGVmMyZUthLWo3NEdNREsyZC1mcDVLUGkwaFg4RUdJSi1uTmxTY0xLNXp1Y2YwTmM2Nk5VZmdUOC0wNHR1WDgyQjc5TFZZXzZZeHJIcTFibzhrUTNaY1c2c1RSQnpkQkpQNVjSAd4BQVVfeXFMTUc4LW45dkRaZ0R0NHU1dXJpaWpCZVN6SHdkeHdqcmZZQTlsMWhHS0ZTOGJsR0JvY1NrM3lYakQ0bGRjdFRSNzgybHA2OHJnUXJHNGpUUmFrNEhXbjBoVlM1QmRNWTQ1STJLRGpSMW9xWFRKZi1FMnN4dzdWMmltUWxOcVlneGhNVXM4c1JYVHVnTzZGT0FEakE3RGVxbEJUUm9RcFFBMzgxTERPY2dPNjh6dGxMM2hWRXlaRl9PU09xYXB2OEFkUjNTQnNNajZzSzh1aUhxM2M1S3NpR2Z3?oc=5",
       "publishedAt": "Tue, 17 Nov 2026 06:05:31 GMT"
+    },
+    {
+      "title": "6 of 10 NSE stocks remain below their December 2025 closing levels - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZjRiR2hVN1Y3b09OdFJSUTlIeHRGSkN1WGRRSTVhSndSVHhBOUlNNmxFN1ZEVDF4MjRkeXhvc24xa1VOMTUtcDdraUstZ0VtVWVFaElIdnZ6ZUxZLXZDM3Z0c21zb2NmREhiYjJVNlRnbmFXcC1LNXRxM3pmUS0xdjc3UTBlUm9DOEFmVXJFOWRRMWpPcllRVjc4N2wzZ1BDTzhsUEZpQXg5M1RuNDh0TlhDdUQ4d1RRUkZ2NFItV19Ubnh5d0ZNeVF4RlZzWFN2Ukx6QW1RbGNWQVhNRDBJUnNHeljSAeoBQVVfeXFMTW9SOXZlUlJuRjVKTk1uZElBUHpha2VpcVJDY2xNWVA4dnFackhzVUNQZVljZkZCMTJRS29mTDFzRm1OUmE3OUZiS0lUbk1DdFZaYS0yT3UyTVpfbXFEbk1kMTZHVXVQWE5WeU4xbWhheXoyVFRRUVZjNnctOXQ2ZGVuX3Npd3M3Z0VmQmVMS2FhRi1lTXBnWU9LY0dsa0xsZm1EU2FUbm5XaW9XdTk1ZUZ4VE1ya0JiSGU2ajFYMzNET2J0M0JiRDdrbzhHV1ZOLTNaZjN0aFFlRXFqZVprQmFDQUZJektiMFh3?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 02:08:36 GMT"
     }
   ]
 }
