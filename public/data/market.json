@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex drops 500 points as profit booking and US Fed rate hike fears weigh on Indian markets",
+  "headline": "Sensex drops 500 points as Indian stock markets snap two-day rally amid profit booking",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,26 +7,18 @@
     "nextOpen": ""
   },
   "why": [
-    "Profit booking by investors following a two-day market rally",
-    "Concerns regarding potential interest rate hikes by the U.S. Federal Reserve",
-    "Significant weakness in the metal and consumer durable sectors",
-    "Negative sentiment in the IT sector with the Nifty IT index falling 1.2%"
+    "Profit booking across sectors following a two-day market rally",
+    "Fears regarding potential U.S. Fed interest rate hikes",
+    "Selling pressure in metals and consumer durables sectors",
+    "Weakness in the Nifty IT index, which fell by 1.2%"
   ],
   "whatHappening": [
-    "The Sensex plummeted 500 points, while the Nifty settled around the 25,228 level",
-    "Pidilite Industries announced a price hike of up to 7% for Fevicol effective December 1",
-    "The Bombay High Court set aside the ICICI Bank board's sanction order regarding Chanda Kochhar",
-    "Tata Sons board members are scheduled to visit Air India headquarters to review performance"
+    "Sensex dropped over 500 points while Nifty settled below 25,250",
+    "Titan stock plunged over 4% during the session",
+    "Pidilite announced a price hike of up to 7% on Fevicol starting December 1",
+    "Bombay High Court set aside ICICI Bank Board's sanction order against Chanda Kochhar"
   ],
   "stocksInNews": [
-    {
-      "symbol": "TITAN",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        13
-      ]
-    },
     {
       "symbol": "PIDILITIND",
       "sentiment": "Positive",
@@ -42,10 +34,18 @@
       "articleIds": [
         7
       ]
+    },
+    {
+      "symbol": "TITAN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        14
+      ]
     }
   ],
-  "summary": "Indian equity markets snapped a two-day winning streak as the Sensex fell 500 points due to profit booking and global rate hike fears. Titan shares dropped over 4% amid a broader decline in consumer durables, while Pidilite announced price increases for its flagship products. Legal developments saw the Bombay High Court rule on a legacy matter involving ICICI Bank's former leadership.",
-  "updatedAt": "2026-11-18T18:31:41.251Z",
+  "summary": "Indian equities ended lower as the Sensex dropped 500 points and Nifty settled below 25,250, snapping a two-day rally.\nProfit taking, weak international cues, and losses in metals, consumer durables, and IT dragged the indices down.\nKey stock updates included a 4% drop in Titan, price hikes announced by Pidilite, and a court ruling involving ICICI Bank.",
+  "updatedAt": "2026-11-18T19:01:40.917Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-19",
   "articleKeys": [
@@ -62,13 +62,13 @@
     "stock markets snap 2day rally sensex drops 500 points amid profit booking us fed rate hike fears the hindu",
     "sensex nifty slip at open metals durables lead losses hdfc sky",
     "indian stocks slide as sensex falls 500 points nifty drops below 25250 india new england news",
+    "stock market outlook today18 novsensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "sensex falls 500 points nifty settles at 25228 titan sinks over 4 india today",
     "sensex today tanks 502 points nifty below 25250 nifty it index down 12 equitymaster",
-    "stock market outlook today18 novsensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
-    "key factors behind todays market decline equitypandit",
     "stock markets today sensex nifty down on profittaking rediff",
     "markets decline over 06 as metals consumer durables fall behind business standard",
-    "markets are rallying but heres why you should prepare for a fall ndtv"
+    "markets are rallying but heres why you should prepare for a fall ndtv",
+    "markets snap 2day rally sensex settles 500 pts lower nifty ends below 25250 key factors behind moneycontrolcom"
   ],
   "articles": [
     {
@@ -150,6 +150,12 @@
       "publishedAt": "Wed, 18 Nov 2026 16:35:07 GMT"
     },
     {
+      "title": "Stock market outlook today,18 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQzBQWDZVUmoxNkViMWstbjBEcnRGSGxqS2x4cExLTUFjMDNldzl1VlpSZzczWjl6dlF2dV9FLS1DN1NRaExpcUZaVGFzbUJYaFlrNUFjUGJYNGk2QnVBSWxQb3ZxTDVvUFhQSlZoWE1qNjhsZHo3MXFUbUdaWGEzMktkQzU1d2kzQWZ4NXNoWks2d3ZEblVZazBlYmFGMUpDYXFRSWM2YWxrcEVOOFJ1VEpSZnlaRkVWeExVVm1zb1J1R0FXSDhHUnY3MVRYT0NLYm9OODlRd05USVBxX3J0VnBPN0JhZnlCa2owRGtoTWFSVFRnQXgwX1VR?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 04:23:00 GMT"
+    },
+    {
       "title": "Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4% - India Today",
       "source": "India Today",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORERDcDdPejVjWEFtT2I0UHJ0T0dOME9OV3RvWnczNjRrazN5ZHRhYlhLOXd3eTFJNEczcU1LWDlFNnZwS1VYR1UtTUVqRmwwQ2R1cGNzRHZlYXViTUNnMF9oeWQ2V0ZyaGJ5TlFJRm5Id3ZwYXo1TTdEeDdjUVlJdkxLWTd3ZUwzWjFtcVZicERDZ1NwX2lOMVQ5N1RTb3lfUXhiMlhBU2ZyeXQzZzNpOEROdmkySlN6WVhjOU9sRXVpd0ktWk9PSGR3QlnSAdIBQVVfeXFMTzNUQlhWZEx0Tkt0cGtaUlotXzdxSlFEcG0wTnBlc2lpN2xhU3JSWUxUV0JQalM0TlpQYW1ESzY5elN5dC1pLUxnbTJIZ3h2ZUpSRnFiRlVkOEZVN0xiZURDLXVuT1UzX0NxR20zbGtzNjlHekhTOTNCalFEY29Tekt0c2tSMHp0a0g4Zm5BSGhydlBraWJjcWZTZUJkcW9YZnQ5Ulh6RHliLThjQXRyTGRxWUZsUnJORXVjS0dlTnBYVHpzN3ZxR1hIRUFTbjYzMXJ3?oc=5",
@@ -160,18 +166,6 @@
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmlpbnp5WXVMNGZ3NU55eE1NeHpkRHU4eDFpdzZrQXVGVEtSSVV4S3dKSFRZeFJNWXVVVUNhZ1M2eE9ZZHB6eTZtU05tcEtHRmJFTzgzZHNRY1ROM3o3TjFNQWdtVDNmcDhTcmZGUHB4YW9sVGNsX1FXdGFHZ2FqcDkxQlB4NWZNVEQxeFZOWC1sMm9FT01WTTdNajVvblRqa1FzclJMZmg1aFFDbXdLUnNYOU1SQWVfQjRxaTk1Q0VESmNfQXZlSUtDVGJzUQ?oc=5",
       "publishedAt": "Wed, 18 Nov 2026 10:26:38 GMT"
-    },
-    {
-      "title": "Stock market outlook today,18 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQzBQWDZVUmoxNkViMWstbjBEcnRGSGxqS2x4cExLTUFjMDNldzl1VlpSZzczWjl6dlF2dV9FLS1DN1NRaExpcUZaVGFzbUJYaFlrNUFjUGJYNGk2QnVBSWxQb3ZxTDVvUFhQSlZoWE1qNjhsZHo3MXFUbUdaWGEzMktkQzU1d2kzQWZ4NXNoWks2d3ZEblVZazBlYmFGMUpDYXFRSWM2YWxrcEVOOFJ1VEpSZnlaRkVWeExVVm1zb1J1R0FXSDhHUnY3MVRYT0NLYm9OODlRd05USVBxX3J0VnBPN0JhZnlCa2owRGtoTWFSVFRnQXgwX1VR?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 04:23:00 GMT"
-    },
-    {
-      "title": "Key Factors Behind Today’s Market Decline - Equitypandit",
-      "source": "Equitypandit",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nMWZzZmM5Zjk4b2xjREY5cHlKc0Itc0tGdUpuNTRvdmp0VV80SHIxU2Vhem5WY1NIdHYzSFBvdld0anNMenNTSWpCVDFVVXkyZVRmbGtva2R2YlJEZFloR3h4dk5ZUXlISW9uZnlmZHN5clp0OWVGczJ6YjROQQ?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 05:38:00 GMT"
     },
     {
       "title": "Stock Markets Today: Sensex, Nifty Down on Profit-taking - Rediff",
@@ -190,6 +184,12 @@
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjNWS1RKejVsUllfdlVia2ZCWm1GNjRPMnhWTFRfNGhEVlkwNTZTQV90dzZQcDhnZ21uTnRGS01ZLXdWT1EyTTZYVmRkQUF3VDJwQ1R0WldCZW1CX0FWR053UWlkSkxzOFVPR2x0b1N1UldqQ0ZwQ25TcHdHc1kzT1ppRVNQWVBhbG8zWTQ5Q1FKOHdiTmZ3VENUMlcwSG1FVEVSaFBRZjJLS3hrcnBHRWU0Z0NCZTJPZ3ZzNkNNZGdzeFRLNWhj0gHPAUFVX3lxTFBFXzdoeGltdU1GX0xybTRIckhpTzd4enZQRzR2R0hreGlqRWFYS0h0SlpFdk1oeVV1cWVZUUVzTW5LdFdZRGxEY3RWNklseHpZLXlLakd5Vmg1bWltaVV4bzhaMUtBeWtNLUhUenc1SE5BWHptaS1fMmdPRUdUNTNvRkpEWVFET3pqczVmT1c5Rkc2SlZ4RU5rMktwMUtiSU1nZno5Ulc0VWZNMGVBYjJhbU9WZGNVa01VS3Z1MmpVelJvVUc0N2pvbVFSLUhaMA?oc=5",
       "publishedAt": "Tue, 17 Nov 2026 02:41:19 GMT"
+    },
+    {
+      "title": "Markets snap 2-day rally: Sensex settles 500 pts lower, Nifty ends below 25,250: key factors behind... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRlFzdWtYZnBWenhUY2w3Slg1dUtuMTVZNEpVZTdEVHM0SU1IWW9KOVQ5SWxMYW05MnZ2c2hiVFl6cjdURC10MXZPRnFONGFObkdreGNIV1gxdU1FMld6TDhueUFRclVWT2MzZWtVQmQxaW1KQk9yMklYSExMSjJ0VC1yeUNtdld1QzZfZFhyRVFPRmdkNmgxdFNvS2xNRnRLUzY1MjJRNDgzQy1Zc0FybDBYMkVqZ3NrQXgtOUpWcUI2a2IzWWRfbDY4M3Ayb3c0Q21ZUW9sNHlkYzhJNTk0Z29zNEpnaWNyU3F2S0Vick_SAfYBQVVfeXFMUGY5UV9ud09FbENOTUtjcGVaMVVZOVBxbFBLdy11Uk10YkdjVHZXdFdIV0FQVFJMV1ZNeWpNQUpNTDRXcGhzVV9iT3c3enQ5NDhQVUdwbm9kYTJsLTlyaTJRZmNXSkhETkpzOEhLWVlQMTRWTm50MXREb2p0NXI0Zm1iamlYUXBhZVR5bklnSXlqdHBsUXQ3NXpwb1VBUzJTWC1CVnVwVmJpYWhCVFh1X0JaRFoxaGFIVkxNdkJBVld5Q1djMkdfWk40cmNsR0tvcVU3NmpvYjA3VGEwYnh6MzMyVE9LclBJbFk0WEdxYlZNQ1o2SWxR?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 04:13:00 GMT"
     }
   ]
 }
