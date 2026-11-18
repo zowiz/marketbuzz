@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex drops 500 points snapping 2-day rally amid profit booking and Fed rate hike fears",
+  "headline": "Sensex drops 500 points as profit booking and US Fed rate hike fears weigh on Indian markets",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,34 @@
     "nextOpen": ""
   },
   "why": [
-    "Profit booking across sectors following a two-day market rally",
-    "Concerns over potential U.S. Fed rate hikes impacting global market sentiment",
-    "Weakness in metals, IT, and consumer durables sector indices",
-    "Global market cues weighing down domestic benchmarks"
+    "Profit booking following a two-day market rally",
+    "Concerns over potential US Federal Reserve interest rate hikes due to inflation risks",
+    "Weakness in the metal and consumer durable sectors",
+    "Global market cues and cautious sentiment from US Fed policymakers"
   ],
   "whatHappening": [
-    "Sensex dropped around 500 points while Nifty slipped below 25,250 to settle at 25,228",
-    "Titan stock sank over 4% leading losses in the consumer durables segment",
-    "Pidilite announced price hikes of up to 7% on Fevicol effective December 1",
-    "Bombay High Court set aside ICICI Bank Board's sanction order on Chanda Kochhar"
+    "Sensex fell 500 points to settle at lower levels",
+    "Nifty 50 index dropped below the key 25,250 mark",
+    "Titan shares slumped over 4%, leading losses in the consumer durables sector",
+    "Pidilite Industries announced a price hike of up to 7% for Fevicol effective December 1"
   ],
   "stocksInNews": [
+    {
+      "symbol": "TITAN",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 3/11 sources",
+      "articleIds": [
+        11,
+        14,
+        17
+      ]
+    },
     {
       "symbol": "PIDILITIND",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        5
+        6
       ]
     },
     {
@@ -32,23 +42,16 @@
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        7
-      ]
-    },
-    {
-      "symbol": "TITAN",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        14
+        8
       ]
     }
   ],
-  "summary": "Indian benchmark equity indices snapped a two-day rally as the Sensex fell over 500 points and Nifty closed at 25,228.\nProfit-taking and concerns surrounding potential U.S. Fed rate hikes caused broad-based declines, particularly in metals, IT, and consumer durables.\nKey individual stock movements included Titan sinking over 4%, while Pidilite announced upcoming price increases for Fevicol.",
-  "updatedAt": "2026-11-18T20:31:35.252Z",
+  "summary": "Indian indices snapped a two-day winning streak as the Sensex tumbled 500 points amid profit-taking and global rate hike concerns. The Nifty finished below the 25,250 mark, pressured by significant declines in metal and consumer durable stocks like Titan. Investors remain cautious following hawkish signals from US Fed policymakers regarding persistent inflation risks.",
+  "updatedAt": "2026-11-18T20:51:09.264Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-19",
   "articleKeys": [
+    "fed policymakers focused on inflation risks in october with some seeing need for bigger rate hike",
     "india imposes 1625 duty and tax on bulk scotch imports amid uk trade pact dispute",
     "indospace opens narasapuraii industrial logistics park in karnataka",
     "rupee strength not weakness may pose challenge in fy28 cea nageswaran",
@@ -58,7 +61,6 @@
     "30 billion mistake why sam altman says he regrets not owning a piece of openai",
     "bombay hc sets aside icici bank board of directors sanction order on chanda kochhar",
     "62 years together sohail khan celebrates salim and salma khans anniversary with heartfelt post",
-    "mookuthi amman 2 box office collection day 13 nayanthara starrer keeps its theatrical run going check earnings",
     "stock markets snap 2day rally sensex drops 500 points amid profit booking us fed rate hike fears the hindu",
     "sensex nifty slip at open metals durables lead losses hdfc sky",
     "indian stocks slide as sensex falls 500 points nifty drops below 25250 india new england news",
@@ -68,9 +70,15 @@
     "stock markets today sensex nifty down on profittaking rediff",
     "markets decline over 06 as metals consumer durables fall behind business standard",
     "markets are rallying but heres why you should prepare for a fall ndtv",
-    "key factors behind todays market decline equitypandit"
+    "markets snap 2day rally sensex settles 500 pts lower nifty ends below 25250 key factors behind moneycontrolcom"
   ],
   "articles": [
+    {
+      "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-focused-on-inflation-risks-in-october-with-some-seeing-need-for-bigger-rate-hike/articleshow/135970652.cms",
+      "publishedAt": "Thu, 19 Nov 2026 00:55:40 +0530"
+    },
     {
       "title": "India imposes 162.5% duty and tax on bulk Scotch imports amid UK trade pact dispute",
       "source": "Zerodha Pulse",
@@ -124,12 +132,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/entertainment/62-years-together-sohail-khan-celebrates-salim-and-salma-khans-anniversary-with-heartfelt-post-12345868#publisher=newsstand",
       "publishedAt": "Wed, 18 Nov 2026 22:30:17 +0530"
-    },
-    {
-      "title": "Mookuthi Amman 2 Box Office Collection Day 13: Nayanthara Starrer Keeps Its Theatrical Run Going, Check Earnings",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/mookuthi-amman-2-box-office-collection-day-13-nayanthara-starrer-keeps-its-theatrical-run-going-check-earnings-12345571#publisher=newsstand",
-      "publishedAt": "Wed, 18 Nov 2026 22:27:26 +0530"
     },
     {
       "title": "Stock markets snap 2-day rally; Sensex drops 500 points amid profit booking, U.S. Fed rate hike fears - The Hindu",
@@ -186,10 +188,10 @@
       "publishedAt": "Tue, 17 Nov 2026 02:41:19 GMT"
     },
     {
-      "title": "Key Factors Behind Today’s Market Decline - Equitypandit",
-      "source": "Equitypandit",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nMWZzZmM5Zjk4b2xjREY5cHlKc0Itc0tGdUpuNTRvdmp0VV80SHIxU2Vhem5WY1NIdHYzSFBvdld0anNMenNTSWpCVDFVVXkyZVRmbGtva2R2YlJEZFloR3h4dk5ZUXlISW9uZnlmZHN5clp0OWVGczJ6YjROQQ?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 05:38:00 GMT"
+      "title": "Markets snap 2-day rally: Sensex settles 500 pts lower, Nifty ends below 25,250: key factors behind... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRlFzdWtYZnBWenhUY2w3Slg1dUtuMTVZNEpVZTdEVHM0SU1IWW9KOVQ5SWxMYW05MnZ2c2hiVFl6cjdURC10MXZPRnFONGFObkdreGNIV1gxdU1FMld6TDhueUFRclVWT2MzZWtVQmQxaW1KQk9yMklYSExMSjJ0VC1yeUNtdld1QzZfZFhyRVFPRmdkNmgxdFNvS2xNRnRLUzY1MjJRNDgzQy1Zc0FybDBYMkVqZ3NrQXgtOUpWcUI2a2IzWWRfbDY4M3Ayb3c0Q21ZUW9sNHlkYzhJNTk0Z29zNEpnaWNyU3F2S0Vick_SAfYBQVVfeXFMUGY5UV9ud09FbENOTUtjcGVaMVVZOVBxbFBLdy11Uk10YkdjVHZXdFdIV0FQVFJMV1ZNeWpNQUpNTDRXcGhzVV9iT3c3enQ5NDhQVUdwbm9kYTJsLTlyaTJRZmNXSkhETkpzOEhLWVlQMTRWTm50MXREb2p0NXI0Zm1iamlYUXBhZVR5bklnSXlqdHBsUXQ3NXpwb1VBUzJTWC1CVnVwVmJpYWhCVFh1X0JaRFoxaGFIVkxNdkJBVld5Q1djMkdfWk40cmNsR0tvcVU3NmpvYjA3VGEwYnh6MzMyVE9LclBJbFk0WEdxYlZNQ1o2SWxR?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 04:13:00 GMT"
     }
   ]
 }
