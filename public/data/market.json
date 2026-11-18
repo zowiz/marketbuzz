@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty decline amid profit-taking and IT sector weakness; IIFL Finance surges on block deal",
+  "headline": "Sensex and Nifty slip as IT stocks drag; IIFL Finance surges on block deal while Rupee strengthens",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": ""
   },
   "why": [
-    "Profit-taking by investors following a strong rally in previous trading sessions",
-    "Significant selling pressure in the IT sector with major stocks like TCS and Wipro trading lower",
-    "Macroeconomic concerns regarding unemployment and economic stability as highlighted in recent reports",
-    "Technical resistance and mixed performance in the small and mid-cap segments"
+    "The Nifty IT index dropped over 1% with major stocks like Wipro and Infosys trading lower",
+    "Profit booking emerged in early trade following a two-day market rally",
+    "Heavyweight stocks including TCS and Titan Company are among the top laggards",
+    "Sectoral weakness is being led by Metals and Consumer Durables in the opening session"
   ],
   "whatHappening": [
-    "The Sensex fell by over 300 points while the Nifty 50 dropped below the 25,250 mark",
-    "IIFL Finance shares jumped more than 6% following a high-volume block deal",
-    "The Indian Rupee appreciated by 24 paise to 93.27 against the U.S. dollar in early trade",
-    "Crystal Crop Protection's Initial Public Offering (IPO) opened for subscription today"
+    "The Sensex fell 200 points while the Nifty 50 struggled to stay above the 25,300 level",
+    "IIFL Finance shares jumped over 6% as trade volume exceeded twice its 30-day average due to a block deal",
+    "The Indian Rupee appreciated by 24 paise to reach 93.27 against the U.S. dollar in early trade",
+    "Crystal Crop Protection launched its Initial Public Offering for subscription today"
   ],
   "stocksInNews": [
     {
@@ -45,19 +45,19 @@
       ]
     },
     {
-      "symbol": "MPHASIS",
+      "symbol": "TCS",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        4
+        12
       ]
     },
     {
-      "symbol": "LTIM",
+      "symbol": "TITAN",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        4
+        12
       ]
     },
     {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "symbol": "CAPLIPOINT",
+      "symbol": "CAPLINPNT",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
@@ -77,19 +77,11 @@
       ]
     },
     {
-      "symbol": "TCS",
+      "symbol": "MPHASIS",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        10
-      ]
-    },
-    {
-      "symbol": "TITAN",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        10
+        4
       ]
     },
     {
@@ -99,10 +91,18 @@
       "articleIds": [
         8
       ]
+    },
+    {
+      "symbol": "LTIM",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        4
+      ]
     }
   ],
-  "summary": "Indian benchmark indices traded lower on November 18 as the Sensex fell over 300 points due to profit-taking and weakness in IT stocks. Despite the broader market pressure, IIFL Finance surged 6% on a block deal and the Rupee strengthened against the dollar. Investors also focused on the Crystal Crop Protection IPO which launched today amid mixed market sentiment.",
-  "updatedAt": "2026-11-18T05:02:22.182Z",
+  "summary": "Indian equity benchmarks opened in the red on Wednesday, with the Sensex falling 200 points due to selling in IT and metal sectors. IIFL Finance bucked the trend with a 6% surge following a block deal, while the Rupee strengthened against the dollar. Investors are also monitoring the Crystal Crop Protection IPO which opened today.",
+  "updatedAt": "2026-11-18T05:31:36.750Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-18",
   "articleKeys": [
@@ -116,16 +116,16 @@
     "stock market today sensex falls 200 points nifty 50 near 25300 iifl finance zooms 5 caplin point down 6",
     "prime focus among 4 stocks that closed above vwap",
     "gta vi countdown sony rolls out mandatory ps5 update heres how to download",
+    "stock market outlook today18 novsensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
+    "sensex nifty slip at open metals durables lead losses hdfc sky",
     "sensex today trades marginally lower nifty below 25400 tcs titan company top losers equitymaster",
-    "record foreign inflows fuel indian stocks november surge reuters",
-    "sensex falls 370 points nifty drops below 25250 amid profittaking telangana today",
+    "stock markets fall in early trade after 2day rally deccan herald",
     "markets are rallying but heres why you should prepare for a fall ndtv",
     "india deserves rerating sensex may hit 95000 by dec 2027 morgan stanley business standard",
-    "sensex today ends 427 points higher nifty above 25350 nifty bank hits record high equitymaster",
     "sensex nifty gain over 05 as banks fmcg shine broader market slips business standard",
+    "sensex today ends 427 points higher nifty above 25350 nifty bank hits record high equitymaster",
     "crystal crop protection ipo opens today check review and other key details business standard",
-    "sensex zooms 800 pts intraday nifty tops 25500 5 factors behind bull run business standard",
-    "market wrap nov 17 nifty50 ends at 25387 sensex closes 427 pts higher as banking stocks power gains check factors upstox"
+    "stock market today sensex nifty open higher hdfc sky"
   ],
   "articles": [
     {
@@ -189,22 +189,28 @@
       "publishedAt": "Wed, 18 Nov 2026 09:34:01 +0530"
     },
     {
+      "title": "Stock market outlook today,18 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQzBQWDZVUmoxNkViMWstbjBEcnRGSGxqS2x4cExLTUFjMDNldzl1VlpSZzczWjl6dlF2dV9FLS1DN1NRaExpcUZaVGFzbUJYaFlrNUFjUGJYNGk2QnVBSWxQb3ZxTDVvUFhQSlZoWE1qNjhsZHo3MXFUbUdaWGEzMktkQzU1d2kzQWZ4NXNoWks2d3ZEblVZazBlYmFGMUpDYXFRSWM2YWxrcEVOOFJ1VEpSZnlaRkVWeExVVm1zb1J1R0FXSDhHUnY3MVRYT0NLYm9OODlRd05USVBxX3J0VnBPN0JhZnlCa2owRGtoTWFSVFRnQXgwX1VR?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 04:23:38 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Slip at Open; Metals, Durables Lead Losses - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaFRFMVJTME9URmlpQUFkTDZONFMwR2FrUi1rV3MteWVTVF9sRFFNQmJxaWRmS2ZZRXBYc2FnZVRiR2g2NmhhSEh6ckZ6LXdaX3lxNHcxS0xNaXJCUTh3SUNiMkItQ21PT1h5elhORXFKV2FFU0dEMmtEbW42TzN0clRwRTFzc2pqWFBOZUtxeGdBYldPV3RJM3pKNjRrZ2I4RkVnSzh2ZGxZa1N6YUc3ZUJJd25NTTFCd0pFaHp4UXdNUklsN1o1cXBOakQyczB0OVlMUDhlZGU0TXNhOGZpaU51REk?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 04:34:53 GMT"
+    },
+    {
       "title": "Sensex Today Trades Marginally Lower | Nifty Below 25,400 | TCS & Titan Company Top Losers - Equitymaster",
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPdVBfT1ZvaklVNUZzWGkwSUVxYVdHUDA5bVMxamE1Y0FuY0tWQmVzYU5aVUREMVF0S3lxUGl0U2JrU0szWWJJOGx2N3dCcmVDTl8xSHZiRldJcGFlNWxFQ05jTWRSTWdlRzRlV1dQN0NJLU9UbWIzd0s2cVZTUVl4ZUFFY2dlb25NUEQtNEN0dHo5ekdyS3lzOWN4R0RtajJ4SjJ6dFE1LWMtRVM0NTZnY2U3WHNqcGVOaXY4NzBBMVlNX2Jxd0YwMWtMYkk0YnpLSG1rMFNzYUxVazhsTVRiY0J4UGZ6ejlXV3RRNjdfNEJFdUE4VGZTNTUyd1NoVkhkMnAwNlMzRGJpOUUwVXhGOFJMSUxmelJtdmJtVTNEZ1IxLXNYZDBZZloxb3FSbWxNLXpFMXBnYTNwSGNJck8zdXlxV29UVnBSNUZXSk16OGVMTld1UWU2WGtONmNZQQ?oc=5",
       "publishedAt": "Wed, 18 Nov 2026 04:29:04 GMT"
     },
     {
-      "title": "Record foreign inflows fuel Indian stocks' November surge - Reuters",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjRGMFN3SE5Vdklnd2tiZHp6NUdkNWpNU3pDRHNyZXczNnRKWVMyNnJTVGhBYWwzOWltcC1xMHZrd09Vc0htZlRoNVNLSjFMWmJRUWlkdWZka1NwdTY0Nmlid3dncHF3ZUhEVDlRRHFmWVRUWXBhb0ttVlpZQ0ZXZjJzYUJKeTU2RFRYSER6TGZqOExoZFpfTWhDckRXS3NHNHctNXNWQQ?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 07:49:00 GMT"
-    },
-    {
-      "title": "Sensex falls 370 points, Nifty drops below 25,250 amid profit-taking - Telangana Today",
-      "source": "Telangana Today",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWxQbHB0Yk5nTWdsMkNNNi05RWdiLVZQSHdMSXhPVDFJcjFmSEI5TXZLOTk2Rm9PeWhLQV9jR0JnenRvRF9fZFpYdTVQTmFzajVDMERlSWpzU0c3UUMtVXprVW1VVUZsTDgtNVRTb3ZZdUQ3WmtkMkhhZTRsZzNfYlItS3djSjM0aG9XcG1DeDBLVEhGQVRfVw?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 04:40:10 GMT"
+      "title": "Stock markets fall in early trade after 2-day rally - Deccan Herald",
+      "source": "Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEZxb3RvUGgxTVFPMzlHSzk2bGdkXzNQeGFRcnhUV0h1TUlfdW5GQmNCTGFNZjM5RkVPSEZXemdJdEJ2VTFaWm1jQnZta05haC1fdUNGUndkeHZCTHhFLXNyV0ExaThWSFNKTW4tRFRzQUpIbnVNbDlIQUFrY3pPT3dMaFlwVDRFQ2piMWlYVWwxeEJ1OS0xOVFfNHZyTkk5S1AxV2dnZDc?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 04:58:08 GMT"
     },
     {
       "title": "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
@@ -219,16 +225,16 @@
       "publishedAt": "Mon, 16 Nov 2026 04:41:36 GMT"
     },
     {
-      "title": "Sensex Today Ends 427 Points Higher | Nifty Above 25,350 | Nifty Bank Hits Record High - Equitymaster",
-      "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcGxKdGFLTExzUWVJZ1RMRlUwWXR3QzVXa1o1WnI4ZUtlV3VvaGFyUW9lNEVZODdSb3V5Qk5wWEVOcU1OYjdSYjAzbWR6cTR4b3NVRHQwV1FJZXlmTk5TYlZnSDRTWXFiQmVUemNkMVA1dzdkM1kzY1h5X0k0dUQ2cUYxNWtnRnBrTF9JTUtpQW1STF9EbVNGa3EzVzVpeXRVUF8yN3Z1M0trdmJHSU9EWnEwRG83Qkt3dkQ2a2p0MkZUX3ZzMl9HeFhVQnQ0Z2tza0tnRW9uQmszNnFB?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 10:57:53 GMT"
-    },
-    {
       "title": "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb3dpREFIY2FyT1kzc1JodXNIUmlsWW51UXQzTFVjWktPOHNwb2dDRXRKbU9vcFdfRXlRUVpaSlB1ZU8zWU5scnd4RXJsYmZtT1UzTUhacm9UaFBvSDVtMWFleVluMmFzVzZvN0dyMWozbHBTSElEb3NJa1BNU3pNU004UWNDMnN2TlhZSnZkWENJRkpvNW40VGx4TktIckRqT0lLVlZlNEM2SzZJeXBzUUJ6VkM5cmhqVWdRU1A0UlpaWDloMGN6dVFnZHU2WUnSAdQBQVVfeXFMTjI1SWJFdUs0SGNGbExHZVktRFVnZ21LLXlNWDZKTGlIb3JMTkNxeGREanlTNUJkaGRCcXdNZVN2MWZ0dFU4Z0ZqblhBcDY2emw0aUViRlhMRkVBYnhjMWJlWkxjRFp5ODZmQW1MRV9SdFpXWjV2YjZFSnN3alJPNHotSHNWR0V5TVRfVGRFclhYUEpGQ3UzTGh5VDZnUjdtWXJ1NWhzQ3BnUERtUEpjVG9wYjN3YUpqLU13Q2VaOWdRNnZXR191T2Zybm13ZDVwaDY3eGQ?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 15:14:21 GMT"
+    },
+    {
+      "title": "Sensex Today Ends 427 Points Higher | Nifty Above 25,350 | Nifty Bank Hits Record High - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcGxKdGFLTExzUWVJZ1RMRlUwWXR3QzVXa1o1WnI4ZUtlV3VvaGFyUW9lNEVZODdSb3V5Qk5wWEVOcU1OYjdSYjAzbWR6cTR4b3NVRHQwV1FJZXlmTk5TYlZnSDRTWXFiQmVUemNkMVA1dzdkM1kzY1h5X0k0dUQ2cUYxNWtnRnBrTF9JTUtpQW1STF9EbVNGa3EzVzVpeXRVUF8yN3Z1M0trdmJHSU9EWnEwRG83Qkt3dkQ2a2p0MkZUX3ZzMl9HeFhVQnQ0Z2tza0tnRW9uQmszNnFB?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 10:57:53 GMT"
     },
     {
       "title": "Crystal Crop Protection IPO opens today: Check review and other key details - Business Standard",
@@ -237,16 +243,10 @@
       "publishedAt": "Wed, 18 Nov 2026 02:46:21 GMT"
     },
     {
-      "title": "Sensex zooms 800 pts intraday, Nifty tops 25,500: 5 factors behind bull run - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd01GZFF0VHctSXZXS2N0VkExNVo2cFdyN294WUc3N0lLcmRjRGJiQVlyXzhydEU5aVFBT2pxMklrZWpsOTNaLW9RWUtvYkdBZG84OGo2dlo3NktFYzBudjdxZkNibDctcFVCTXVjVnA5WkhmelNaek5ETG1KSFQ3OVhVWkl5WjMwX1E3ZFdaX0s2ZWE0Sm1qa0F3RVl6TjhKSnBwV0hiZDduQVRpRnlPc2xGYVRUVHByTUI3X0h6THhpQVBCendOQ3hVemt4c0FsajJ4Z2o4Y9IB3AFBVV95cUxPYlJmT0dJaFVHS0hfV3E0c0lMTFBvZzhzMmEwbEVNRS1ZNllrOGtTOWp3a3pqQ3lDaW51bFRrVEt5ckhhNG85YXlCNkJGYWRDMGFqVGNsNEZkMVotOFBrV0hELVJ4T2RMTmFYcjcxQVdqXzVNWHR4VE1tNVRlWG1KS2k1b3E1R1FtRkEtNFdIdHJaOTBlOWpsMVhYMzhwYmJreDlBSVRldkhiRGhORmYyMXM3V3h4eFBnZm5uZWQtWmE0ZDFicmpBQWtvTm5NU3g1dVZIZjFuRTkzQXRE?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 07:34:51 GMT"
-    },
-    {
-      "title": "Market wrap, Nov 17: NIFTY50 ends at 25,387, SENSEX closes 427 pts higher as banking stocks power gains; check factors - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNd1d6T0hfN0w5d3VsTTVzTV9xZXJHV0VvY184OFU3Y21rS1kwdkZVWjlMUHlVeHdjNEpxZmxmdHo5QnVaRTkxaTBKbzJUdHlzMVF0MGlMNHdfOVRWXy1UME5TSmtZQW1iZV9aelRjUVdoaEtEbjRnamZidDNpS1pxN0NkRnloM1BKRVlRMTZHOGEyb1p4YjV6RmVRMG1PNnlWck02d2U4U1lJbE5UU2pBajNNdmp2NWl6U0puQ09ZOEVKd0pkSlBNM2lxVkRnSkdwVDg1SlByTlRVc3BTdXoxRWwyQm1xWXIzQUh2V0RlbTVKUFhEUTVXUUNucTgyeU1UTlloMg?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 10:15:52 GMT"
+      "title": "Stock Market Today: Sensex, Nifty Open Higher - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWEt1YmJYSlJTVldqYWcwTUpiTkVfb2hpaHR6X20yTGZtVkxKbk1WcGZVWElpWW9UOVdMWG1RX29WamNVeHhzWkFTaFpLT09vSGxOMHE1M0V1ek5kakE5U3haUmZDYVozWjkyQ0ZsXzFYLUo0MU1yYXczNUMySVh0akFhSGdURTNQSGNOOEVqM2FOWjVkX3lKSWw5V21KbTNJUnNjLU5IaEdubWVQbGtiSU52SDEza1d6X3BWdHV6bzFXcWo0MzdxbzBDbzkxb1BkVEVjZ2FIcHQ0T0VIVGxzWEdjeFp4QQ?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 04:39:55 GMT"
     }
   ]
 }
