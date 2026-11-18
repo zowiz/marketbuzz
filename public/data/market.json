@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex drops 500 points as profit-taking pulls Nifty below 25,250; Titan leads losses",
+  "headline": "Sensex sheds 500 points to close at 25,228 as profit-taking hits consumer durables and IT stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,35 +7,35 @@
     "nextOpen": ""
   },
   "why": [
-    "Investors booked profits after a sharp November rally, causing Sensex to drop over 500 points.",
-    "Titan Company sank between 4% to 5%, heavily weighing down the headline indices.",
-    "The metal and IT sectors experienced selling pressure, with Nifty IT falling over 1.2% and metals down 2%.",
-    "Broad profit-taking swept through midcap stocks, driving Nifty MidCap down by 1%."
+    "Profit-taking by investors following a sharp rally led to a decline in key indices.",
+    "Losses in consumer durables, metals, and IT sectors dragged down the benchmark Nifty and Sensex.",
+    "Titan Company fell over 4%, emerging as the top loser on the benchmark index.",
+    "A firmer US dollar offset foreign inflows, keeping the Indian rupee flat."
   ],
   "whatHappening": [
-    "Goldman Sachs upgraded India to 'overweight' with a December 2027 Nifty target of 28,500.",
-    "FPIs set a record monthly investment in Indian stocks with Rs 99,000-crore in net buying.",
-    "Apollo Micro Systems signed a memorandum of understanding with Redon Systems for defence drone systems.",
-    "Air India Express named its Chief Financial Officer Deepak Rajawat as the new CEO effective December 1."
+    "Sensex shed 500 points while Nifty settled at 25,228 during today's trading session.",
+    "SpiceJet board approved a ₹5,500 crore fundraising proposal for its revival.",
+    "FPIs set a monthly investment record in Indian equities with ₹99,000 crore in purchases.",
+    "SEBI is considering proposals to strengthen the margin trading facility."
   ],
   "stocksInNews": [
+    {
+      "symbol": "SPICEJET",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        8,
+        9
+      ]
+    },
     {
       "symbol": "TITAN",
       "sentiment": "Negative",
       "sources": "Mentioned by 3/10 sources",
       "articleIds": [
-        0,
-        8,
         14,
+        15,
         19
-      ]
-    },
-    {
-      "symbol": "BAJFINANCE",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
-      "articleIds": [
-        0
       ]
     },
     {
@@ -47,7 +47,15 @@
       ]
     },
     {
-      "symbol": "APOLLOMICRO",
+      "symbol": "ICICIBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
+      "symbol": "APOLLOHOSP",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/10 sources",
       "articleIds": [
@@ -55,92 +63,92 @@
       ]
     }
   ],
-  "summary": "Indian equity markets pulled back sharp gains on 18 November 2026 as profit-booking drove the Sensex down by 500 points and Nifty below 25,250. Titan, TCS, and metal stocks led the losses, dampening broad market sentiment despite strong institutional inflows. Meanwhile, Goldman Sachs upgraded India to overweight with a long-term Nifty target of 28,500.",
-  "updatedAt": "2026-11-18T10:32:22.553Z",
+  "summary": "Indian benchmark indices closed lower on Wednesday as profit-booking dragged Sensex down 500 points and Nifty to 25,228.\nConsumer durables and IT stocks saw heavy selling pressure, with Titan dropping over 4%.\nOn the corporate front, SpiceJet approved a ₹5,500 crore capital raise, while FPIs set a record with ₹99,000 crore monthly inflows.",
+  "updatedAt": "2026-11-18T11:01:55.269Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-18",
   "articleKeys": [
-    "stock market live titan bajaj fin lead 500pt in sensex nifty below 25250 nifty midcap down 1",
-    "goldman sachs upgrades india to overweight dec27 nifty target at 28500",
-    "deutsche bank chair backs ceo after reports expose past lapses trump calls tax leak illegal",
-    "apollo micro systems redon systems sign mou for defence drone systems",
-    "air india express names cfo deepak rajawat ceo effective december 1",
-    "stock market live sensex drops 400 pts nifty around 25150 metal pack down 2",
-    "bsf tradesman admit card 2026 out for december 2 exam check download link and shift timing",
-    "ramayana box office collection nears rs 1500 crore why its production houses investors lost over rs 2300 crore",
-    "stock market today sensex falls 720 points nifty 50 below 25200 titan tanks 5",
-    "karan johar urges prince william to watch kabhi khushi kabhie gham during mumbai visit",
+    "gold futures fall for 3rd day decline 3016 to 131 lakh per 10 gm",
+    "rupee ends flat after hitting sevenmonth high as firmer dollar offsets inflows",
+    "a2b sells majority stake to bodhi tree in 180million deal",
+    "apollo microsoft deploy ai agent to strengthen patient safety reviews",
+    "stock market close sensex sheds 500 pts nifty at 25228 consumer durables top sectoral loser",
+    "hc quashes icici banks nod to prosecute chanda kochhar in loan fraud case",
+    "sebi considering proposals to strengthen margin trading facility chair says",
+    "indian drugmakers take generic semaglutide battle to overseas markets",
+    "spicejet gets a rs 5500 crore lifeline after its toughest year yet",
+    "spicejet board approves 5500 crore fund raising proposal for revival",
     "stock market outlook today18 novsensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "stock markets today sensex nifty down on profittaking rediff",
     "sensex nifty slip at open metals durables lead losses hdfc sky",
     "sensex today tanks 502 points nifty below 25250 nifty it index down 12 equitymaster",
     "sensex falls 500 points nifty settles at 25228 titan sinks over 4 india today",
+    "market wrap nov 18 sensex falls 500 pts nifty50 ends below 25250 126 stocks hit lower circuit titan company top loser upstox",
     "stock market opening update sensex nifty slump after sharp rally as investors book profits the week",
-    "sensex falls 500 points nifty declines 063 as investors book profits after november rally ani news",
     "fpis smash monthly investment record in indian stocks with rs 99kcrore buy business standard",
     "markets are rallying but heres why you should prepare for a fall ndtv",
     "sensex today trades marginally lower nifty below 25400 tcs titan company top losers equitymaster"
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Titan, Bajaj Fin lead 500-pt in Sensex, Nifty below 25,250; Nifty MidCap down 1%",
+      "title": "Gold futures fall for 3rd day; decline ₹3,016 to ₹1.31 lakh per 10 gm",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/gold-futures-fall-for-3rd-day-decline-3016-to-131-lakh-per-10-gm/article71715406.ece",
+      "publishedAt": "Wed, 18 Nov 2026 16:12:18 +0530"
+    },
+    {
+      "title": "Rupee ends flat after hitting seven-month high as firmer dollar offsets inflows",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-flat-after-hitting-seven-month-high-as-firmer-dollar-offsets-inflows/articleshow/135959732.cms",
+      "publishedAt": "Wed, 18 Nov 2026 15:55:00 +0530"
+    },
+    {
+      "title": "A2B sells majority stake to Bodhi Tree in $180-million deal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/a2b-secures-180-million-investment-from-james-murdoch-uday-shankar-backed-bodhi-tree/article71694799.ece",
+      "publishedAt": "Wed, 18 Nov 2026 15:43:22 +0530"
+    },
+    {
+      "title": "Apollo, Microsoft deploy AI agent to strengthen patient safety reviews",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/apollo-microsoft-deploy-ai-agent-to-strengthen-patient-safety-reviews/article71715353.ece",
+      "publishedAt": "Wed, 18 Nov 2026 15:41:42 +0530"
+    },
+    {
+      "title": "Stock Market Close: Sensex sheds 500 pts, Nifty at 25,228; consumer durables top sectoral loser",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html",
-      "publishedAt": "Wed, 18 Nov 2026 15:02:08 +0530"
+      "publishedAt": "Wed, 18 Nov 2026 15:36:21 +0530"
     },
     {
-      "title": "Goldman Sachs upgrades India to overweight; Dec.'27 Nifty target at 28,500",
+      "title": "HC quashes ICICI Bank's nod to prosecute Chanda Kochhar in loan fraud case",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/goldman-sachs-upgrades-india-to-overweight-dec-27-nifty-target-at-28-500-126111800674_1.html",
-      "publishedAt": "Wed, 18 Nov 2026 14:59:48 +0530"
+      "link": "https://www.business-standard.com/companies/news/hc-quashes-icici-bank-s-nod-to-prosecute-chanda-kochhar-in-loan-fraud-case-126111800721_1.html",
+      "publishedAt": "Wed, 18 Nov 2026 15:35:16 +0530"
     },
     {
-      "title": "Deutsche Bank chair backs CEO after reports expose past lapses; Trump calls tax leak ‘illegal’",
+      "title": "SEBI considering proposals to strengthen margin trading facility, chair says",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/international/deutsche-bank-chair-backs-ceo-after-reports-expose-past-lapses-trump-calls-tax-leak-illegal/article71715150.ece",
-      "publishedAt": "Wed, 18 Nov 2026 14:56:03 +0530"
+      "link": "https://www.thehindu.com/business/markets/sebi-considering-proposals-to-strengthen-margin-trading-facility-chair-says/article71715267.ece",
+      "publishedAt": "Wed, 18 Nov 2026 15:31:01 +0530"
     },
     {
-      "title": "Apollo Micro Systems, Redon Systems sign MoU for defence drone systems",
+      "title": "Indian drugmakers take generic semaglutide battle to overseas markets",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/apollo-micro-systems-redon-systems-sign-mou-for-defence-drone-systems-126111800658_1.html",
-      "publishedAt": "Wed, 18 Nov 2026 14:54:27 +0530"
+      "link": "https://www.business-standard.com/industry/news/indian-pharma-companies-generic-semaglutide-overseas-markets-dr-reddys-sun-pharma-126111800717_1.html",
+      "publishedAt": "Wed, 18 Nov 2026 15:25:51 +0530"
     },
     {
-      "title": "Air India Express names CFO Deepak Rajawat CEO, effective December 1",
+      "title": "SpiceJet Gets A Rs 5,500 Crore Lifeline After Its Toughest Year Yet",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/industry/aviation/air-india-express-appoints-deepak-rajawat-ceo-december-1-126111800613_1.html",
-      "publishedAt": "Wed, 18 Nov 2026 14:26:32 +0530"
+      "link": "https://www.ndtvprofit.com/business/spicejet-gets-a-rs-5-500-crore-lifeline-after-its-toughest-year-yet-12343484#publisher=newsstand",
+      "publishedAt": "Wed, 18 Nov 2026 15:21:48 +0530"
     },
     {
-      "title": "Stock Market LIVE: Sensex drops 400 pts, Nifty around 25,150; metal pack down 2%",
+      "title": "SpiceJet board approves ₹5,500 crore fund raising proposal for revival",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-18-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-bond-yields-hero-motocorp-share-price-hcltech-stock-price-today-ipo-today-126111800134_1.html",
-      "publishedAt": "Wed, 18 Nov 2026 13:58:36 +0530"
-    },
-    {
-      "title": "BSF Tradesman Admit Card 2026 Out For December 2 Exam; Check Download Link and Shift Timing",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/bsf-tradesman-admit-card-2026-out-for-december-2-exam-check-download-link-and-shift-timing-12343160#publisher=newsstand",
-      "publishedAt": "Wed, 18 Nov 2026 13:48:07 +0530"
-    },
-    {
-      "title": "Ramayana Box Office Collection Nears Rs 1,500 Crore. Why Its Production House's Investors Lost Over Rs 2,300 Crore",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/ramayana-box-office-collection-prime-focus-share-price-investors-market-cap-loss-12343061#publisher=newsstand",
-      "publishedAt": "Wed, 18 Nov 2026 13:46:46 +0530"
-    },
-    {
-      "title": "Stock Market Today: Sensex Falls 720 Points, Nifty 50 Below 25,200; Titan Tanks 5%",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-november-18-sensex-today-nifty-bse-nse-nvidia-q3-results-earnings-it-stocks-ai-oil-prices-us-iran-war-middle-east-conflict-12341992#publisher=newsstand",
-      "publishedAt": "Wed, 18 Nov 2026 13:42:41 +0530"
-    },
-    {
-      "title": "Karan Johar Urges Prince William To Watch 'Kabhi Khushi Kabhie Gham' During Mumbai Visit",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/karan-johar-urges-prince-william-to-watch-kabhi-khushi-kabhie-gham-during-mumbai-visit-12343132#publisher=newsstand",
-      "publishedAt": "Wed, 18 Nov 2026 13:41:19 +0530"
+      "link": "https://www.business-standard.com/industry/aviation/spicejet-board-approves-5-500-crore-fund-raising-proposal-for-revival-126111800678_1.html",
+      "publishedAt": "Wed, 18 Nov 2026 15:18:58 +0530"
     },
     {
       "title": "Stock market outlook today,18 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
@@ -163,7 +171,7 @@
     {
       "title": "Sensex Today Tanks 502 Points | Nifty Below 25,250 | Nifty IT Index Down 1.2% - Equitymaster",
       "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOamlNbTluMDVfQjlpQWtpQ1A3TzZSRUd0ZERRcUdLWmhFQmprbThEX043TEpqbllRZmc4UGo1RXNmb3NKRnFCRTZWM2M1dFlxVmxFZG1YbGxhZmx2QXpVdm5lcU9vcmhpcFBsQkw1ZTROOVp2SjM5d2ZBdDBBRVdjRTFZYktaSFVwN2JhVF93dENRQXNFaXdHc2FrcjN4bFU2ZFRwa1dpNGYzdEliZjlZWjVKdWh1dzlMRTJBTHd6R2dPaGZNVkpEU1RpMjVZRjZ2NnRIZHEzSWxiUmN5S0xaUXlvRkM1QzhmNmdHaTQ5V3Z6V05CdlByQXdjTWhmaGk4RGRjNmtHUElKRHNqblhra3pIS0otenJRNnIwaWtaZ0doYkwtd0RXQnl1RUtHTWJHbmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmlpbnp5WXVMNGZ3NU55eE1NeHpkRHU4eDFpdzZrQXVGVEtSSVV4S3dKSFRZeFJNWXVVVUNhZ1M2eE9ZZHB6eTZtU05tcEtHRmJFTzgzZHNRY1ROM3o3TjFNQWdtVDNmcDhTcmZGUHB4YW9sVGNsX1FXdGFHZ2FqcDkxQlB4NWZNVEQxeFZOWC1sMm9FT01WTTdNajVvblRqa1FzclJMZmg1aFFDbXdLUnNYOU1SQWVfQjRxaTk1Q0VESmNfQXZlSUtDVGJzUQ?oc=5",
       "publishedAt": "Wed, 18 Nov 2026 10:26:38 GMT"
     },
     {
@@ -173,16 +181,16 @@
       "publishedAt": "Wed, 18 Nov 2026 10:17:16 GMT"
     },
     {
+      "title": "Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks hit lower circuit, Titan Company top loser - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVmxvMWl2UWNpTndiT3hXTmZmamxmbUNycFFoYjFYanFoWjN1ZkVtQVIwbkxVbnIwdGd0NWFsWkdja29CZFh1dklhNDA0dm5GRlVNalhabGdqXzZKeGxLazJUWFJjNjVGWHpBMXc1YzVRN0UtUk5Hd3FwcHNuQkdIQzd0SWI2SkxONVBiaHJRQWxiQXFoMFgyT0RqT2JBb082c28teGlqZ25yWUlXNTBsd19PbTBBUk1JZ2liUk90cDMxQnN6UjRPTVRDbTljLVdvRmFUOUJXN3l1TVFwbzkxMGF0eldxemdnRmhqUWs3NFZJa2NibTc1am5rNmgwWktfbVhmZTZvdWM2YmM?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 10:23:37 GMT"
+    },
+    {
       "title": "Stock market opening update: Sensex, Nifty slump after sharp rally as investors book profits - The Week",
       "source": "The Week",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZzRNUTdrTGRfcWE2UlBOUzJRNGQ2SnlJT0gyalVwczRqOG52RGNXTV9HQmFCTkU2SU9Fa1VaT1p0ak1wN1ByTWlqWFdycXc2R2Q1c084eUNUSENCZ0ROZDRTMGxCTFVnS0lFRDByRnZrYTl6RjFPNHM3UU5mUmhFRnNJUnpIc1haTng4YndlM0lGdUhMYnJIQUozSTjSAaIBQVVfeXFMTmY5TkN4NG5jM3F5SGR4d0lZakZ1V3otWmZ0blpZcFV0bnVuOEFTS1ZobnJxYmpNcGNUS2VWNHh1bDQ1c2hCN3B1dGY4N3RNUjBiYldKRDNjTlpOT2VhenA2NWhnTnB6MVpISHQ0aWpnb1dya2FUdEJSdXhvT255Qm9oQXIzc3QwQmxzc1VRdjdzdnl3WW40VmczZ3otXzNmVGJB?oc=5",
       "publishedAt": "Wed, 18 Nov 2026 04:23:59 GMT"
-    },
-    {
-      "title": "Sensex falls 500 points, Nifty declines 0.63% as investors book profits after November rally - ANI News",
-      "source": "ANI News",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdG16TWZPSk5Fb0NXOUI2MzVvNGVxMGNTemVzVkFCM0o3SUFZVENmbFZpaU9ieUxfZ0wyaE1tcDd0OXhiRV9pZVQ2TjNyalh4blVhSnN4QTlLMGMySHRfdklYY2VJcW9VTk0teno0NmFrUnlHSjk0eS1USHUxQnNNeF9HU3VKd1dVVm1WUEpzTEEwd3JraUQxZ0hWSDBRSjZjV2p6SlNTV01FU2hBcEVKNGpCSklGcTlvY3dQdGdLOXplM1YyU1B3aVcyWm9ZSmdkc0JZaWt1Yw?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 10:23:00 GMT"
     },
     {
       "title": "FPIs smash monthly investment record in Indian stocks with Rs 99k-crore buy - Business Standard",
