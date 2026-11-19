@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex drops 500 points as US Fed rate hike fears and profit booking weigh on markets",
+  "headline": "Sensex drops 500 points as profit booking and US Fed rate-hike fears weigh on markets",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,24 +7,33 @@
     "nextOpen": ""
   },
   "why": [
-    "Profit-booking emerged after a recent two-day market rally",
-    "US Fed minutes revived rate-hike fears due to persistent inflation risks",
-    "Dow Jones slumped over 500 points creating negative global cues",
-    "Losses in key sectors including metals, IT, and consumer durables dragged sentiment"
+    "Profit booking dragged Indian equity indices down, snapping a two-day rally.",
+    "US Fed minutes revived interest rate hike fears among investors.",
+    "Global market weakness saw the Dow Jones slump over 500 points.",
+    "Broad-based sell-off across key sectors including metals, IT, and consumer durables."
   ],
   "whatHappening": [
-    "Sensex dropped over 500 points and Nifty fell below the 25,250 level",
-    "Titan sank over 4% while Nifty IT Index declined by 1.2%",
-    "LIC acquired a 25% share of Mahanadi Coalfields' Rs 2,295 crore anchor book",
-    "Bulls are looking to defend key Nifty support around the 25,000 mark"
+    "Sensex dropped over 500 points while Nifty settled at 25,228.",
+    "Titan fell over 4%, dragging the consumer durables index lower.",
+    "LIC acquired a 25% stake in the Rs 2,295 crore anchor book of Mahanadi Coalfields IPO.",
+    "India's massive $32 billion gold import bill is shrinking rapidly."
   ],
   "stocksInNews": [
     {
       "symbol": "TITAN",
       "sentiment": "Negative",
+      "sources": "Mentioned by 2/11 sources",
+      "articleIds": [
+        13,
+        19
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "sentiment": "Negative",
       "sources": "Mentioned by 1/11 sources",
       "articleIds": [
-        13
+        19
       ]
     },
     {
@@ -34,38 +43,6 @@
       "articleIds": [
         2,
         7
-      ]
-    },
-    {
-      "symbol": "GENUSPOWER",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "SKYGOLD",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "PHOENIXLTD",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "BHARATFORG",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
       ]
     },
     {
@@ -83,10 +60,50 @@
       "articleIds": [
         2
       ]
+    },
+    {
+      "symbol": "YESBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "TANLA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "GENUSPOWER",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "BHARATFORG",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        4
+      ]
     }
   ],
-  "summary": "Indian stock markets snapped a two-day rally as Sensex declined 500 points and Nifty dipped below 25,250.\nMarket sentiment was impacted by profit booking alongside hawkish US Fed minutes that renewed global rate-hike concerns.\nKey sector weakness in IT, metals, and consumer durables pulled indices down, with Titan among the major losers.",
-  "updatedAt": "2026-11-19T00:01:46.345Z",
+  "summary": "Indian stock markets snapped a two-day winning streak as the Sensex dropped around 500 points and Nifty fell below 25,250.\nConcerns over US Federal Reserve interest rate hikes and global economic risks triggered widespread profit booking.\nMetals and consumer durables led the market declines, with heavyweights like Titan sinking over 4%.",
+  "updatedAt": "2026-11-19T00:31:31.415Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-19",
   "articleKeys": [
@@ -105,11 +122,11 @@
     "indian stocks slide as sensex falls 500 points nifty drops below 25250 india new england news",
     "sensex falls 500 points nifty settles at 25228 titan sinks over 4 india today",
     "sensex today tanks 502 points nifty below 25250 nifty it index down 12 equitymaster",
-    "key factors behind todays market decline equitypandit",
     "stock market outlook today18 novsensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues tradingview",
     "stock markets today sensex nifty down on profittaking rediff",
     "markets are rallying but heres why you should prepare for a fall ndtv",
-    "markets decline over 06 as metals consumer durables fall behind business standard"
+    "markets decline over 06 as metals consumer durables fall behind business standard",
+    "sensex today stock market live sensex falls over 400 pts nifty near 25250 consumer durables metals plunge titan bajaj finance drag linkedin"
   ],
   "articles": [
     {
@@ -203,12 +220,6 @@
       "publishedAt": "Wed, 18 Nov 2026 10:26:38 GMT"
     },
     {
-      "title": "Key Factors Behind Today’s Market Decline - Equitypandit",
-      "source": "Equitypandit",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nMWZzZmM5Zjk4b2xjREY5cHlKc0Itc0tGdUpuNTRvdmp0VV80SHIxU2Vhem5WY1NIdHYzSFBvdld0anNMenNTSWpCVDFVVXkyZVRmbGtva2R2YlJEZFloR3h4dk5ZUXlISW9uZnlmZHN5clp0OWVGczJ6YjROQQ?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 05:38:00 GMT"
-    },
-    {
       "title": "Stock market outlook today,18 Nov:Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView",
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQzBQWDZVUmoxNkViMWstbjBEcnRGSGxqS2x4cExLTUFjMDNldzl1VlpSZzczWjl6dlF2dV9FLS1DN1NRaExpcUZaVGFzbUJYaFlrNUFjUGJYNGk2QnVBSWxQb3ZxTDVvUFhQSlZoWE1qNjhsZHo3MXFUbUdaWGEzMktkQzU1d2kzQWZ4NXNoWks2d3ZEblVZazBlYmFGMUpDYXFRSWM2YWxrcEVOOFJ1VEpSZnlaRkVWeExVVm1zb1J1R0FXSDhHUnY3MVRYT0NLYm9OODlRd05USVBxX3J0VnBPN0JhZnlCa2owRGtoTWFSVFRnQXgwX1VR?oc=5",
@@ -231,6 +242,12 @@
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdG5XOEZ0dmdpTEpJcDdZNXBJeklKS1pxc08tVUJwcFBnbkJROXlyNkpHYTc3bkt2OFR0Y3JMTWlyeUY0RjRhWi0yMVBxQ09uRTRKdTdGY0h0UFQwNVNCV2JyRUFsWmdDUXBFeEJhT3lkcE5lT3p0WEdTSGl5c2gtNG90TjZlaFBsMDBxN1NIUFdfZlJNRW8zQTlrZTY4d3ctcU15UFFFOFI2aS1TaUk3OS1lLUJHX3dWZE9SRVlPeHJlSno5cGwxb1Fhd9IB0AFBVV95cUxPT051a1JtWjlrODA4VlBINmVhYXVXdUpQc09KSmdwOVU4SEd4VXhYRmhieWNHdHNZQzk0Tkk3cXV4N0NxZnpjVFFNZUpyV1d5Wko0bDFjejlCZC0tTmhqRE1Kc0prSUxsSk9YcVE3ck1NMmNnZE14Wll1cUtUT09NTDdsOWViQ1ZoVXhMVVJadnlZTm9nVzJ0WHY2a1dFZjRJdVBUX2hYd09iQ2E3LS1tRVM2SjZmSEk0ZXJyZkE1cXVBT250RGp4TzEtaVFiY1Fx?oc=5",
       "publishedAt": "Wed, 18 Nov 2026 16:52:19 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag - LinkedIn",
+      "source": "LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2diUEJzR1JMZ1g4Rnp2MEFmOEZiaUF6bW5kN3BWSTBPVlVDbWktb00tWW8yNFZsWVNJYUN6TVRTaWI5cEhsUURLb1pITjRQV2RsLURXa0hqVThSdlFqNzZscHhmbWh5UTNzR1NBTXRJTHhpbnJtaHpYWjFKZVl3R3JIRFhPRFFINU9uVUQ2VnhiTElac1BMN1R1OUxKeTJ1LWZTaDJYZFFZeHRkTGI5M1BocjhGZw?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 08:51:48 GMT"
     }
   ]
 }
