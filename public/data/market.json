@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex and Nifty rally led by auto and bank stocks while global AI fears weigh on Asian markets",
+  "headline": "Indian Markets Surge as Sensex Reclaims 83,000 and Nifty Tops 25,500 Led by Banks and Auto",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,37 @@
     "nextOpen": ""
   },
   "why": [
-    "Indian markets bounced back strongly led by auto and banking sector gains.",
-    "FPIs poured Rs 1 lakh crore into Indian stocks, supporting market sentiment.",
-    "Asian equities faced selloffs as AI fears impacted regional sentiment despite Anthropic's IPO pop.",
-    "Oil prices remained elevated above $92 per barrel even as Hormuz oil flows hit record levels."
+    "Auto and banking stocks drove a strong market rally, pushing Sensex up nearly 1,000 points.",
+    "Foreign Portfolio Investors poured over Rs 1 lakh crore into Indian stocks, supporting market strength.",
+    "Newly-listed companies contributed ₹32-trillion to BSE market capitalization in 2026.",
+    "Global Asian markets faced sharp sell-offs due to growing concerns around the AI trade."
   ],
   "whatHappening": [
-    "Sensex surged nearly 1,000 points while Nifty reclaimed the 25,500 mark.",
-    "Foreign Institutional Investors (FPIs) invested Rs 1 lakh crore into Indian equities.",
-    "Anthropic debuted on Nasdaq with shares surging 34% to hit a $2 trillion valuation.",
-    "Asian benchmarks including Nikkei and Kospi dropped up to 4% amid global market jitters."
+    "Nifty reclaimed 25,500 for the first time since February, while Bank Nifty reached a record high.",
+    "Asian indices like Nikkei and Kospi crashed 4% following a global AI-related market sell-off.",
+    "Indian smallcap stocks in the telecom/tech hardware space faced sell-offs linked to AI anxiety.",
+    "Oil prices remained elevated above $92 per barrel despite record Hormuz oil flows and rising Saudi exports."
   ],
-  "stocksInNews": [],
-  "summary": "Indian share markets staged a major rally as Nifty surpassed 25,500 and Sensex surged nearly 1,000 points, propelled by banking and auto stocks. FPI inflows reached Rs 1 lakh crore, providing sustained support to Indian equities. In contrast, global and Asian markets experienced sharp selloffs due to AI trade concerns.",
-  "updatedAt": "2026-11-20T02:01:45.372Z",
+  "stocksInNews": [
+    {
+      "symbol": "HFCL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        18
+      ]
+    },
+    {
+      "symbol": "STLTECH",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/6 sources",
+      "articleIds": [
+        18
+      ]
+    }
+  ],
+  "summary": "Indian equity markets rallied strongly led by bank and auto stocks, with Nifty scaling above 25,500 and Sensex reclaiming 83,000. Institutional inflows remain robust with FPIs pouring Rs 1 lakh crore into domestic equities. However, global headwinds from Asian market sell-offs and AI concerns continue to impact selected smallcap stocks.",
+  "updatedAt": "2026-11-20T02:31:27.794Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-20",
   "articleKeys": [
@@ -35,15 +52,15 @@
     "oil prices today hormuz oil flows hit record saudi exports jump 21 why is brent still above 92",
     "fpis pour rs 1 lakh crore into indian stocks but why could ipos cap the rally ubs gautam chhaocharia explains profit exclusive",
     "sensex nifty open lower as fed signals more rate hikes hdfc sky",
+    "newlylisted companies add 32trillion to bse marketcap in 2026 business standard",
+    "markets bounce back led by auto bank stocks sensex surges nearly 1000 pts nifty reclaims 25500 the hindu",
     "nse stock price rallies 5 on huge volume zooms 35 from october low business standard",
-    "stock market update 19 november 2026 sensex nifty 50 trade higher after opening lower kotak neo",
+    "sensex nifty surge over 1 as banks auto stocks drive rally bank nifty hits record high the hindu",
     "markets are rallying but heres why you should prepare for a fall ndtv",
-    "sensex today rallies 990 points nifty above 25500 3 reasons why indian share markets are rising equitymaster",
-    "stock market update 17 november 2026 sensex gains over 200 pts nifty 50 above 25350 in early trade kotak neo",
     "stock market today gift nifty signals gapdown open hdfc sky",
     "nifty tops 25500 for first time since february sensex reclaims 83k business standard",
-    "markets bounce back led by auto bank stocks sensex surges nearly 1000 pts nifty reclaims 25500 the hindu",
-    "stock markets today sensex nifty pare early losses rediff"
+    "ai selloff hits indian smallcaps sterlite hfcl down up to 29 in a month business standard",
+    "indian stock market news equity market and sensex today in india equitymaster"
   ],
   "articles": [
     {
@@ -113,34 +130,34 @@
       "publishedAt": "Thu, 19 Nov 2026 04:46:24 GMT"
     },
     {
+      "title": "Newly-listed companies add ₹32-trillion to BSE market-cap in 2026 - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQy02TUdYQ1pQSWNHcWlFcFFXV0JPaHN4aFNUTFdWaVNNblJiMjJKWDJkWll2ZWl4c1BnYWxJSWN3ZEdVSFNpU0EzWkh3Y1dzSEZyeXd1ODhTT2lOTm5ocE53Tkg4ZElFTEJpZExJNURMT1lXcGNubDdUZVNhRFdKWWlBRWNqTE1UTUVDLVpWWktQaVVVZHZ4enZnc19VTFpsN2xZZVZodnFkLU9tNGNXSUJTZ25KdTVUUGlKblhjanpNbWFfemp1RVVLMA?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 02:05:00 GMT"
+    },
+    {
+      "title": "Markets bounce back led by auto, bank stocks; Sensex surges nearly 1,000 pts, Nifty reclaims 25,500 - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUWx1NDdYSjhqYVFBTkZmN0hPaGk3U1JhemQ2cDFDR0FqTDZvczVDU0ExS0tZZ2o1RTJRR1NMQkdCTzZuSWx3d2cwSzNrUFdrekJWWjh3MDJ6Ym5KMlVkVzEtekdTc2dGOVRKNWdSZGxJcDFlTG1xNkRHUVNsSHNwN1RJa0NCSURpU0NLa3BoTUJEekl1MnhKLUE5MXhNczk2dTFFYkZGbGRlN0FvaWFFMXJjajVmYTBRUkdxeGVaN3FvM3lELTM5Vkh0MHZ3SmFhS2NScUY5WmJ4UC1qODFNa1dCX0R5M0FLeWpiRtIB8wFBVV95cUxNUVdXRUJRY1hOeDNoYnFyOXcxMkNMME50WnJSSlZzU0VFUHlWREVVcUh4LWJUbllYaDJFWkZ3aFpwcUlEM29HbDRkYUsweGxmUVdvQzBGdWMxVHFXZEhkbHJURmltU2Y2U1JqcWgtc3Z1Q0tkSEt3bmhOMWg1dXpxN1FuQWdwajl6YUpTekhyeTc0Q1J6THRkUFVuOUlTMTJWVlBIZnhOSGRxZkgyVS1jaUY4U2lUU1NpQ29uVFhIaUp1ZU50Ym1xa1lLSHhqNjE3c1JTNW9uSDZPd29oR2R4VmJrMldCQXhmekZIeUZvUk5rZ2M?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 11:30:37 GMT"
+    },
+    {
       "title": "NSE stock price rallies 5% on huge volume; zooms 35% from October low - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYUZTcl9vd3RSaTBsM0N3RHNpMTY3N3ZtQy1uMmdCczk5SzVlMkhRMGpwQVRYSUpLc3BaT0EtU09RdlY5SFJTLTROMzRnVkltMHJscVNjOFZKclk2Qm4wQXd5VWpRSndPUmMxb3hHaEs5Q3hub3VQX0dsSTEyLWY0dHA1LXF1d2JlY21BWTJjUWZWcUpxcHV0TUxST3Z1SnlwcEZGeHVXTEZFamdfdUgwZHpFeEo3alJKVTdjTXBmbVVlS240bFM5Y25taDJXQdIB0wFBVV95cUxPeEtHa20xOGxwOGhJN2NTRzJIWHl0amFYcmhCcUZXQnpUdlFlbEZoODlRczk2dERmQ0Fzc0pWLTZ4NTRacjJNeWszbnNLWENHc2hIZWIxTS01STQtYl9lME5qUERyMG11MVYtQjJxUFFzSlFRdDdKTkppRUFjalIwSDVDMGh1Y2xrX2pnMlp6Q0VVYV9CU0ZJRTdJWk54XzBJcmFYNi1McVBpOTg4UGVRbDNGWU5uOFlBLXkwNjRNSThKNHBFY1NsbzF4UV9PVzVJN04w?oc=5",
       "publishedAt": "Thu, 19 Nov 2026 09:21:56 GMT"
     },
     {
-      "title": "Stock Market Update 19 November 2026: Sensex, Nifty 50 Trade Higher after Opening Lower - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTJrOXV3N1docnItajhWWG9lVnYxRUphM3dvMHhhNWdlazRNaWcyQ2VMazNFVTFwNmRadm9FbkF4LVBub2lqN1ZZZWN5WjkwOHlBR212bmFDbk1QUTMwNGZDekdFNXdab2I5VlM1a0pqWTFlS3VwRFFQVzFqbFNiM01objJzRlB0X0g5bTQ4dmJhdWo1YkZN?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 04:06:20 GMT"
+      "title": "Sensex, Nifty surge over 1% as banks, auto stocks drive rally; Bank Nifty hits record high - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb3l1NXktMXFUcllEcHJtRXI3Qy1uaGp4MkoxM2kyM25Va3NaU2xteFZ1djdwZDBNejNCZFVrSE9FZU9EVlZHQVVfSlNUNmNDWE04YWFhbW5oYzRkd0p0bkJpMlJrRzFfWUZQNmxPZjNOS3BrRlhYU0tFUnFWMU1DSkt3X01SMzJnc2pZTURWX0ZEUDFDLVBLWUFXVUYzelBhY3RTMVJtaDZNdU9BdnFLVnA5MFpHTGUtN3RlNkFlUk5sSTM5UXIwb1FiNFBreVFhTFNLOS1iNNIB3gFBVV95cUxNbmw3UjdUbklkTHJmOWI4QUZuU0xrdXN4UGhzdXRCRnMwZU55S3p5b3pYVFVhbkY5R2pkNDdzWmZaZDYzbThnbnNMclFuUDk4NE1pLWZMbnJSQ1JWUm9hSkEyZnFzTnNjUFJFcWxFLXljY0ludjNITXZmNFhPdW5NWGs4ZVdYNXBOeHFSQVQ5MGJUbTZCY1JPRnUtR0Fab3g5N0NLbF9pX09YVFYwQjFBRDFrLTdnTHJIaTd1QTY0SVA5d1A3OFdaOFpkaHczWlJkVHU0czRkTUdqeEVqSWc?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 15:17:30 GMT"
     },
     {
       "title": "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjNWS1RKejVsUllfdlVia2ZCWm1GNjRPMnhWTFRfNGhEVlkwNTZTQV90dzZQcDhnZ21uTnRGS01ZLXdWT1EyTTZYVmRkQUF3VDJwQ1R0WldCZW1CX0FWR053UWlkSkxzOFVPR2x0b1N1UldqQ0ZwQ25TcHdHc1kzT1ppRVNQWVBhbG8zWTQ5Q1FKOHdiTmZ3VENUMlcwSG1FVEVSaFBRZjJLS3hrcnBHRWU0Z0NCZTJPZ3ZzNkNNZGdzeFRLNWhj0gHPAUFVX3lxTFBFXzdoeGltdU1GX0xybTRIckhpTzd4enZQRzR2R0hreGlqRWFYS0h0SlpFdk1oeVV1cWVZUUVzTW5LdFdZRGxEY3RWNklseHpZLXlLakd5Vmg1bWltaVV4bzhaMUtBeWtNLUhUenc1SE5BWHptaS1fMmdPRUdUNTNvRkpEWVFET3pqczVmT1c5Rkc2SlZ4RU5rMktwMUtiSU1nZno5Ulc0VWZNMGVBYjJhbU9WZGNVa01VS3Z1MmpVelJvVUc0N2pvbVFSLUhaMA?oc=5",
       "publishedAt": "Tue, 17 Nov 2026 02:41:19 GMT"
-    },
-    {
-      "title": "Sensex Today Rallies 990 Points | Nifty Above 25,500 | 3 Reasons Why Indian Share Markets Are Rising - Equitymaster",
-      "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRlA0MHJHNGNidFlBM0JBRkhyd3VaSkN4S2ZnbGtIS085dUFmM2g3Z0dwSE9EYUxNZFRURGp4am82Q2VYdkdFaUZScE1nR1R2WG43VUkwUlpfdGZrY3k2Nk9YODNRNUxMQXFzSGZPTHV2d21ySFpxSFFZcFNvTWFOVV93OUlKWVhENFdzYTh6bElBdDE2d2JPUXJMVHVKUTRjYlVjWlZRLUFfaHFqTWV2bS0wMnVaODd5NC01R2k3QXFwYXlXU01SazV6Z0cyeHpSQmlIQVVuODNuT2ljODVLZHF4ZTk1ZVlhLWNqcGJVaw?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 10:47:36 GMT"
-    },
-    {
-      "title": "Stock Market Update 17 November 2026: Sensex Gains Over 200 Pts; Nifty 50 Above 25,350 In Early Trade - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLW4zV0c2Zzh1X19kRHlqRlpvZjg4cVhhOXRuczRXa2RaVVRGMkl4YkduUkwxaFptek9hNW5IZlZHTXlpUG1Pb0VQalB3UExNY19HZmhUZEFpcUF5SkNoVVBzLUluMVIyX3JBM3llZWFpRTFfdGR4UTdYMWR3MFpSRFBMeDRCUTU3cVV4LWl0VFNqcUpJbDFj?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 04:04:04 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty Signals Gap-Down Open - HDFC Sky",
@@ -155,16 +172,16 @@
       "publishedAt": "Thu, 19 Nov 2026 17:10:48 GMT"
     },
     {
-      "title": "Markets bounce back led by auto, bank stocks; Sensex surges nearly 1,000 pts, Nifty reclaims 25,500 - The Hindu",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUWx1NDdYSjhqYVFBTkZmN0hPaGk3U1JhemQ2cDFDR0FqTDZvczVDU0ExS0tZZ2o1RTJRR1NMQkdCTzZuSWx3d2cwSzNrUFdrekJWWjh3MDJ6Ym5KMlVkVzEtekdTc2dGOVRKNWdSZGxJcDFlTG1xNkRHUVNsSHNwN1RJa0NCSURpU0NLa3BoTUJEekl1MnhKLUE5MXhNczk2dTFFYkZGbGRlN0FvaWFFMXJjajVmYTBRUkdxeGVaN3FvM3lELTM5Vkh0MHZ3SmFhS2NScUY5WmJ4UC1qODFNa1dCX0R5M0FLeWpiRtIB8wFBVV95cUxNUVdXRUJRY1hOeDNoYnFyOXcxMkNMME50WnJSSlZzU0VFUHlWREVVcUh4LWJUbllYaDJFWkZ3aFpwcUlEM29HbDRkYUsweGxmUVdvQzBGdWMxVHFXZEhkbHJURmltU2Y2U1JqcWgtc3Z1Q0tkSEt3bmhOMWg1dXpxN1FuQWdwajl6YUpTekhyeTc0Q1J6THRkUFVuOUlTMTJWVlBIZnhOSGRxZkgyVS1jaUY4U2lUU1NpQ29uVFhIaUp1ZU50Ym1xa1lLSHhqNjE3c1JTNW9uSDZPd29oR2R4VmJrMldCQXhmekZIeUZvUk5rZ2M?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 11:30:37 GMT"
+      "title": "AI sell-off hits Indian smallcaps; Sterlite, HFCL down up to 29% in a month - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTllMndyQk03SFNsX2R0TkNGOGxIUkplbXhXY21ubXZpZzdrSHdCcEFhSUZ1cGgxLXdWSTI3LU9RbFNzZGkwNF9fVXFoNmp3SUc0RXhKX3Y1R3JBQkRWa1pQX1hlaEJkWnBOMzQydUlPalVzZXFfR3Jia0tiWTR4VXlZS3FCeTJmOHhFLVJqTm1ZeE5JWVIxTVU4aTVHeHl0ZnVLV0YzSEN5N1B6d0xFSmhWdXV4T0k0Xy1vNlNCMDllZ1JYOFJMdjdzNWJZcEdTR296bFRB0gHbAUFVX3lxTFBQN0lHUnFBaW9qZkVPdl85SzB2RGZLY2t6ZVVfejRQaDMyZEhva3htRlIxNjFLbUk4UXpObk8tMkJzU09VNm1zT0dZQjg0T09aRjFPd0ZNbFRpYUZxNlZGY0RZTGk1S1l3SnllNmZJZFpPRGgxVWZ3bGxURnBEZkJpbUdSdjVYWEc2Y1NyOHJvSWRaS0hOaU9Nd1pjQm5EdUNFQll0TGhzck1RUTNZc3NjMVJiVWkydlYzYmg5X3Jyb2toRGdkaVFHQlN0VDh2YThDbWctV2lmZDRqUQ?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 02:14:49 GMT"
     },
     {
-      "title": "Stock Markets Today: Sensex, Nifty Pare Early Losses - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUNnUnBEZDZybldJdXRLOGJRcDFhTFhacWlQYTRDSmluRGg0czNSbmFtMmoxVFhpbF9QcDJNS1kxYzdSU1NDZEI1ZGpfV0FSeWVIS3NPWUFDbFRKcHBHSXc4LWs3XzJpWE5WeTk2S1plSkI0YWpjUFFpY0JyVFBVbl9jRlBYNWZmS2lYWXRwZ182MUJqTnRERHFManUwcW5JaDJockktczdIRU8tdzl0Uy03UHRHb2pYTHo4RUpGNTkxMXhIUmU2c9IBywFBVV95cUxPbTJrT3V4M3pNSURwRHZGU0loMXlUV0N6M3J3QmNYSFB0LWd5a0t0SGNSSXR1VDBveE94a2FWcEk4bFFYWVc4UWJ6c1N3WDV5ZklVSzF3Wk8zLVd4aWFRbkxUYjgxa0dYLWV0UEhVY013blhRT1NkYTR2N3pLTHVhYkIwS3hpcE9jSEg2V0haaG5LeVBXVEFDcXBDZ2JadW9KVEEzUTk2a0QxZHNjaGRPRzNkcU9TSmMwbThrVy1XT0ROOFFzXzZJQXNhaw?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 05:39:01 GMT"
+      "title": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS0RsdjJiaW50Skt3eEs2QVdRcFZvSUxLU01jZ3VVS3A5dGFJcDlTeEFKOGxVVzBYUlkxV0ZMSnAxeHlGMi02SXo4WE9PUk5XRzRPd0huLUZDVHJvZ1B6VE1KU19tNW1yRTlnMFA2OW5JSTBBcWJsbWdNbUExdTE3MUgwbjN6dVFkU0xPSncwSVo1TVFrbFhfMm1XRGlqUkNrWVlvbnpWeXVvSy1XRUFNc3dqZ19qYmdUSWlCZEVYNDUzVWppVzZlcGVpbVJtQkxETUEzZXpDT3BHdHkzbUVEcTVQRG1SaERfamJ1ZjdyVnBDaFkyYTQ4M3Y2cDZLUG5vaDBReEFjTEhZS2ZLZW1IR3FxRWNGanVLQUZFbDVkY2RHOFlvUVd6dVpB?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 00:30:00 GMT"
     }
   ]
 }
