@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex rebounds 1,300 points from day's low to cross 25,700 while Bank Nifty hits record high",
+  "headline": "Sensex surges 700 points with Nifty above 25,700 as Indian markets trade strong",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,70 +7,82 @@
     "nextOpen": ""
   },
   "why": [
-    "Indian markets staged a strong intraday rebound, with Sensex jumping 1,300 points from its day's low.",
-    "Early morning trading saw pressure due to global weakness after Nasdaq fell 2.3% on an AI stock sell-off.",
-    "Bank Nifty crossed the 64,000 mark for the first time, helping lift overall benchmark indices.",
-    "Profit-taking and concerns over Fed rate hike signals initially pulled Nifty below 25,450 before buying returned."
+    "Sensex surged 700 points and Nifty traded above 25,700 during the trading session.",
+    "SpiceJet announced a ₹5,500 crore fundraise to help revive its airline operations.",
+    "Urban Company raised ₹2,500 crore via QIP, drawing over ₹15,000 crore in demand.",
+    "The Oil Ministry assured petrol pump dealers it is looking into a dealer margin hike."
   ],
   "whatHappening": [
-    "Sensex recovered sharply to trade over 700 points higher while Nifty 50 pushed past 25,700.",
-    "Newly-listed companies contributed ₹32-trillion to BSE market capitalization in 2026.",
-    "Urban Company raised ₹2,500 crore through a QIP, attracting demand exceeding ₹15,000 crore.",
-    "Pristine Logistics & Infraprojects received SEBI approval to float its initial public offering."
+    "Indian equities saw broad gains led by strong market momentum.",
+    "Pristine Logistics & Infraprojects received SEBI's approval to launch its IPO.",
+    "SatSure aims to raise ₹200 crore in Series B funding to scale AI and satellite capabilities.",
+    "A Bank of Baroda manager was arrested for allegedly seeking a bribery amount to sanction a loan."
   ],
   "stocksInNews": [
     {
+      "symbol": "SPICEJET",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/1 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
       "symbol": "BANKBARODA",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/9 sources",
+      "sources": "Mentioned by 1/1 sources",
       "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "BSE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        16
-      ]
-    },
-    {
-      "symbol": "JMFINANCIL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/9 sources",
-      "articleIds": [
-        19
+        9
       ]
     }
   ],
-  "summary": "Indian benchmark indices opened lower amid global sell-offs in tech and AI stocks but rebounded sharply during intraday trade. Sensex erased early losses to jump over 700 points, taking Nifty 50 past 25,700. Bank Nifty touched an all-time high above 64,000 as buying momentum restored market sentiment.",
-  "updatedAt": "2026-11-20T08:31:57.609Z",
+  "summary": "Indian markets witnessed significant upside with Sensex jumping 700 points and Nifty holding above 25,700. Notable corporate moves included SpiceJet raising ₹5,500 crore and Urban Company launching a heavily oversubscribed QIP. Pristine Logistics also secured SEBI approval for its upcoming IPO.",
+  "updatedAt": "2026-11-20T09:02:09.901Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-20",
   "articleKeys": [
+    "why is pm modi upset with corporate india explained",
+    "stock market live sensex jumps 700 pts nifty above 25700 meesho hits new high",
+    "spicejets 5500cr fundraise can it revive the airlines operations",
+    "petrol pump dealers say govt assured looking into dealer margin hike after meeting with oilmin",
+    "satsure targets 200 cr in series b to expand satellite and ai capabilities",
     "urban company raises rs 2500 crore via qip draws over rs 15000 crore demand",
     "indian finance hub eyes dual share model to kickstart public offers report",
     "pristine logistics infraprojects gets sebis nod to float ipo",
     "did ramayana producer namit malhotra lost 90 of his wealth during the financial crisis in 2008",
-    "bank of baroda manager arrested for seeking rs 9 lakh to sanction rs 18 crore loan",
-    "stock market live sensex jumps 700 pts nifty above 25700 smids trade mixed",
-    "why stock market is rising today sensex rebounds 1300 points from days low nifty above 25700 three reasons explained",
-    "talking points this week nvidias exit anthropics test and money returning home",
-    "stock market today sensex jumps 600 points nifty 50 hits 25700 bank nifty above 64000 for first time",
-    "iphone users in usa and canada targeted 17 from fake gurugram call centre arrested",
-    "stock market open report november 20 2026 sensex nifty edge lower managing to buck global selloff hdfc sky",
-    "stock market update 20 november 2026 sensex fell around 250 points nifty 50 below 25450 in early trade kotak neo",
-    "nifty sensex open lower as selloff in ai weighs on sentiment gold down to lowest level of 2026 chinimandi",
-    "stock markets dip sensex nifty fall amid global weakness rediff moneywiz",
-    "sensex today trades lower nifty below 25400 bse power down 136 equitymaster",
-    "sensex nifty open lower as fed signals more rate hikes hdfc sky",
-    "newlylisted companies add 32trillion to bse marketcap in 2026 business standard",
-    "stock markets today sensex nifty down on profittaking weak global cues rediff",
-    "gift nifty plunges over 200 pts signals sharp fall for sensex nifty as nasdaq sinks 23 asian markets moneycontrolcom",
-    "nse shares jump 3 to fresh high jm financial sees msci entry in march business standard"
+    "bank of baroda manager arrested for seeking rs 9 lakh to sanction rs 18 crore loan"
   ],
   "articles": [
+    {
+      "title": "Why is PM Modi upset with corporate India? | Explained",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/why-is-pm-modi-upset-with-corporate-india-explained/article71723615.ece",
+      "publishedAt": "Fri, 20 Nov 2026 14:10:34 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex jumps 700 pts, Nifty above 25,700; Meesho hits new high",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-20-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126112000118_1.html",
+      "publishedAt": "Fri, 20 Nov 2026 14:00:24 +0530"
+    },
+    {
+      "title": "SpiceJet's ₹5,500-cr fundraise: Can it revive the airline's operations?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/aviation/spicejet-5-500-cr-fundraise-can-revive-airline-s-operations-126112000497_1.html",
+      "publishedAt": "Fri, 20 Nov 2026 13:40:16 +0530"
+    },
+    {
+      "title": "Petrol Pump dealers say govt assured looking into dealer margin hike after meeting with OilMin",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/Industry/petrol-pump-dealers-seek-margin-hike-centre-explores-ways-to-boost-non-fuel-revenues/article71721388.ece",
+      "publishedAt": "Fri, 20 Nov 2026 13:29:05 +0530"
+    },
+    {
+      "title": "SatSure targets ₹200 cr in Series B to expand satellite and AI capabilities",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/start-ups/antariksh-venture-capital-fund-invests-rs-60-crore-satsure-series-b-126112000483_1.html",
+      "publishedAt": "Fri, 20 Nov 2026 13:12:58 +0530"
+    },
     {
       "title": "Urban Company Raises Rs 2,500 Crore Via QIP; Draws Over Rs 15,000 Crore Demand",
       "source": "Zerodha Pulse",
@@ -100,96 +112,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/india/bank-of-baroda-manager-arrested-for-seeking-rs-9-lakh-to-sanction-rs-1-8-crore-loan-12353279#publisher=newsstand",
       "publishedAt": "Fri, 20 Nov 2026 12:52:26 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex jumps 700 pts, Nifty above 25,700; SMIDs trade mixed",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-20-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126112000118_1.html",
-      "publishedAt": "Fri, 20 Nov 2026 12:44:33 +0530"
-    },
-    {
-      "title": "Why Stock Market Is Rising Today? Sensex Rebounds 1,300 Points From Day's Low; Nifty Above 25,700 | Three Reasons Explained",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/sensex-rebounds-850-points-from-days-low-nifty-near-25-550-three-reasons-why-12353003#publisher=newsstand",
-      "publishedAt": "Fri, 20 Nov 2026 12:40:35 +0530"
-    },
-    {
-      "title": "Talking Points This Week: Nvidia's Exit, Anthropic's Test and Money Returning Home",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/talking-points-this-week-nvidias-exit-anthropics-test-and-money-returning-home-12353220#publisher=newsstand",
-      "publishedAt": "Fri, 20 Nov 2026 12:40:19 +0530"
-    },
-    {
-      "title": "Stock Market Today: Sensex Jumps 600 Points, Nifty 50 Hits 25,700, Bank Nifty Above 64,000 For First Time",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-sensex-nifty-50-bank-nifty-gift-nifty-global-market-gold-rate-today-silver-price-12352424#publisher=newsstand",
-      "publishedAt": "Fri, 20 Nov 2026 12:30:55 +0530"
-    },
-    {
-      "title": "iPhone Users In USA And Canada Targeted, 17 From Fake Gurugram Call Centre Arrested",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/iphone-users-in-usa-and-canada-targeted-17-from-fake-gurugram-call-centre-arrested-12352516#publisher=newsstand",
-      "publishedAt": "Fri, 20 Nov 2026 12:30:47 +0530"
-    },
-    {
-      "title": "Stock Market Open Report November 20, 2026: Sensex, Nifty Edge Lower, Managing To Buck Global Selloff - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDdBZ0xXNTh2YlBRTTByMlFsbm5mMmpRbE1BYmVvN0VfMHdVVWtpY0ZpdzVRV01UaUJBR2lPQ3c3WWloaWJqZi0xQ0puTG9IUkxydzd5WW5QTnBWeDhUaC1HUm82TGNGYW9IM25JZ2xLRWRGQzZGSEphcmtOTXduNFNvSlNuSFZlMnNqRlQ0al9zYWpmeWg3MUtwQ2dWb21GNW1Pc3lBVmNwSXVnbFFUdU9hYkpfTVdkdUE4cHFDQ1ItZw?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 04:33:51 GMT"
-    },
-    {
-      "title": "Stock Market Update 20 November 2026: Sensex Fell Around 250 Points; Nifty 50 Below 25,450 in Early Trade - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWpRb3hrcFZtVWZ4QTl2a1VTUGRncG9tWHZlNk50Z1Nsc1RFTTkyZmlFWlRqYkFmRko4SV9rYzl1dTFwR0VxdWxmYkJCUUp5b2wxM0V1d0hEd1Rsc2xjMTZ3clc5anZCN1l4Zk1NbVZnQVdXU3VRSXF5aktIYm5sLXRTd0dNSU03NVlxd1EydFNzbFhnTUlN?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 04:49:55 GMT"
-    },
-    {
-      "title": "Nifty, Sensex open lower as sell-off in AI weighs on sentiment, Gold down to lowest level of 2026 - ChiniMandi",
-      "source": "ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekt2czZqeUhONWZqYjZ3SW5KczhrQ1Ftc1hzUjV2NVU1SmNqU1dkeW84cElRdm9wQU9kVnNncW9GbDJOR19DbXlZWnkwcUFGSHhLTi1hLU1Ua3R2Q1ZQMWFlclFlTzIySV9vS05nWG14SzE3QlJlSlpNNGpJRzdmOHQzYlpHRjNoTURCS3dYU3liamNkSmlwSmdia21sbVk1SHVnbk1VVmY2ejFkTGhSRngzQTU3aEd5OGtJRGNsQUs?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 04:23:32 GMT"
-    },
-    {
-      "title": "Stock Markets Dip: Sensex, Nifty Fall Amid Global Weakness - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUhZd1ZaYkg3Sm1KTWVrZVF2eVFsU1E2ckY2ampjUzQ5YjBQd1BIVmJMQjg3eU1VUUxRUVRialhES3Z3dmktTmRjZ3lxMk9kNERDVXdFY0hQbUhTdHJfV2hPUmdVVE5PMzF3V3IxYllxbGwzRGtQTHE2Vzk1MHhpUl9QYldEbGZlN2ViN19HeTVMWnk5Q01NZWlGeVQ0U2pVVHpXSnBnMDFDanZR0gGyAUFVX3lxTE1LQWhXaTVaTUtLQUNJbllLckw1U2FEb1NYeXVzdGZfLWhwWnpoTWgwN3h6SDhjcWhobzk1NE9jYUc0aHBmV2J0SFlDbktQZ28zVGdpcUFSak5UTWE3aXlEZ1hvTl9XcnFfNDdNN2RlNEVJSVVSSkhYaGZ5YjVvdkt4SFRMRmNYeTdleXFYeF9GTWpveG1RMWtYRERkYzhQNlplQkJacFc0UEszRzNDZVE2d1E?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 04:34:36 GMT"
-    },
-    {
-      "title": "Sensex Today Trades Lower | Nifty Below 25,400 | BSE Power Down 1.36% - Equitymaster",
-      "source": "Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVd5VzNrRWRyOFI3TVJjYnMxVlBDdEUzd0RzQThuVTJiMHpBS0p0eUJiQkJYVlMwSE12cW9GZ1pRWGZHYW9BM0QyRjRYLWw0NEtBVC13WFJabG0wbE9fTEtSNUdDOXZ0dEVhbkNCNnJtMjNZTGhWcWtsa0ZOcTM2OFZlTW9iSGl4UDNqcnNWZ1l4Q0tLa1J1eFlBcnhmZTl0cDRKZVBIV1oxQWhyVzlSdVV3LTlvNTBJRjUtYVNkVFhFWDg?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 04:22:24 GMT"
-    },
-    {
-      "title": "Sensex, Nifty Open Lower as Fed Signals More Rate Hikes - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJKUVBfWmp2bTRfdjdMNUlRTGVrZ2NDcWRKdUNQRmtPb1FnQVlOYmRUSHc1c0E5S21mZVRHYkNoNUUwZVE1Y0FxV0RZWjF0OTZnTTY2UDVCSG8tVS1CTUQ3WXE2Tm5TaTQ0YkROMF9KN2F3cE1nQVhMVGphcW1wVlJJaGxTLTJDN09TZEdNRFhTdlprQVluOFh2NFFKQU9PaG41OXYxdkNpaHZRZGVBanJBRjg1SGx3QlVnMENVMlh4RlI4eTIzN0hTMFc3S3BCVzN5a093?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 04:46:24 GMT"
-    },
-    {
-      "title": "Newly-listed companies add ₹32-trillion to BSE market-cap in 2026 - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQy02TUdYQ1pQSWNHcWlFcFFXV0JPaHN4aFNUTFdWaVNNblJiMjJKWDJkWll2ZWl4c1BnYWxJSWN3ZEdVSFNpU0EzWkh3Y1dzSEZyeXd1ODhTT2lOTm5ocE53Tkg4ZElFTEJpZExJNURMT1lXcGNubDdUZVNhRFdKWWlBRWNqTE1UTUVDLVpWWktQaVVVZHZ4enZnc19VTFpsN2xZZVZodnFkLU9tNGNXSUJTZ25KdTVUUGlKblhjanpNbWFfemp1RVVLMA?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 02:05:00 GMT"
-    },
-    {
-      "title": "Stock Markets Today: Sensex, Nifty Down on Profit-taking, weak global cues - Rediff",
-      "source": "Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQalNuTDRMOFNQS3ZsME00ak9jVWRqdnFPTW1SbkFVZ2NDN0ZlWHRYZThzLU9oWHo3Wk9wUnNXc2dUcmRtWVRiZTNTVlZVQ0tpNmpBNFJYbkp5YWlKVy1lUWRWMDVxZnRJb0tzdjRQaHgzUEd5NHVIS3VKay1KMUlHcGhTUGEzUl9zNGpaVEF0ZXFuYVNHVzhRNUtoamxPWDRENDVtQnQwNTZsN0R5MnNjc0ZDdXlxLTFNSUFhYkxVTlVRajludnBKeVBTeExvUTdqZ2tteFRrNlBYeXZCWGNsN0V30gHkAUFVX3lxTE4yOElyeTdKOHY2dXFUbkZwQ252RmFLbjZUM0VDclY5aDlzOU5BRFNGVnA1MEJ3RHpISG9XWjIzSlNwZ2dBOEV0MzZWUzJQbkI1VmFxcUV4eTBEUVZKdXRnY2xGUThIOElQZUcwYWE5MnhEUWxUUUlBbnBHcGZMbkJlRmhFM0lsRlVPU0g1MlJjZ280MVdnX3FVNnJKLUVpdHo5NnhNYVprRFhKT01CLWNxeElYRVdqVnd0dTlRQk5PZC0wRzUxbVlhb3NPUEJTUms2d1dia2RweEhxZ0dYNlhiQmhyMg?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 04:54:28 GMT"
-    },
-    {
-      "title": "GIFT Nifty plunges over 200 pts, signals sharp fall for Sensex, Nifty as Nasdaq sinks 2.3%, Asian markets... - Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV0kzbUx6VXpURVlPc1ZqVFZHQXNQYjN0aEZiZV8zYjdpVW5HNXAtUzJTU3Z6Y2xxaHZYSDFmQ3RINll6MGd4UU5yT1pmRWZvUWwyTU81a2hzUXZwanVyOU1uQnRkal9PVUVxU2dHekFaaW5ZUDFCZmc5WUxWRVl0RndTNGMtMDAtM0lvc2doanMtcmZGc3hVLVFZbHhORTR6aXpadnhwaVJ3bTA0eFBHTmZNSE5MZmpYakthN3dPVDZBaFFUSThDNHpBLTIzYzk1RDVCejRLcGVad015ZHN1ODhhOTE1OU9qdE50b1dtN2RsaGtUaEZ3Unh3ZXZpSDJBU1HSAYcCQVVfeXFMUHR1Q1FFRUo0Z0dwYjNTWFdfc25VMno5Rk4tM0ZZNFB0RDNHQW9jTl9kNTN0cXF5TXNFT0s3STBCa3pDUFB3bHJ2bVBkdzU0UUFHNEMzWDZOelI3cFF5OVB3dTdxaDVzekM2WU9PN3paM0FMX3l1Mk1UR1JkSURsTlFVWW81NFplaTF4MENUTmFqQzQxcGdfZ0k2Zk1SV3hIMVdyTVI5ZEFZYWNfQVk5R1o3WWZoczFqeTFTUGtRaU1xOU1kQVE0OUhjUVNGZFhNQ3ZzTTNuWXozcG44Z1BVVVFzOGZ1RU9vbmIzQnNKa0hmblRieEZ1Z0YyLW54eFdjYmFpcFB4UlE?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 02:52:15 GMT"
-    },
-    {
-      "title": "NSE shares jump 3% to fresh high; JM Financial sees MSCI entry in March - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWW1JcVotRHRuVjNlMUlMYTdjMGl5TUtMeVNIUkZOeElvVEtTMVBKTFlMcGh6a2xqRU8tT1RVSnhtQ0E2NnJLYUlZQ2tLWlBibF9Ia2Y1Y2d4S254RVBiU282aHF4TnpGSmZId1ZXcG1NcGpOcHJYYVdRQWZpMTZmS2EwNTBXUWQ2YjY2VXBabF9GU2JISUtwS3MxMGhfdmtZdU93eHFYaWJUblR2OXU4LXV5dmdfWHBod1dwNUV0Nmt3WDYxUGkwSjhURlcxZDdsdWfSAdcBQVVfeXFMTlQ0d2VPTlhqUFhGYjlza296RDJRMDdXWEpUQ1NtWk1JTGVxZ29mSlZ3b1RkMWRTcVgxZUk4NnRFTFhNbW0yLVhRLXUzS1Y0cFozOER6aXlQUzVLNnJoTmlibDhsQ25XOFpYbXpKd01rdFJIaHN1c0JTNlVUQTdqOEdCd3FWdmlZY2JWbUExeFVLTkpmZ3RJc0JaQkJ6TVQ2ZjBrdk9LbWJoX3pHRWQ5RWEzU2ZhdFJkcGZNeVQxa3lNRkpSLVEtVmxyLWZGZlR6cndNa0VRMm8?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 06:01:48 GMT"
     }
   ]
 }
