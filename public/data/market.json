@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex reaches day's high while Nifty Bank touches fresh record level",
+  "headline": "Sensex and Nifty recover from early lows as Bank Nifty hits record high despite global AI sell-off",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,22 +7,22 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex recovered 600 points from the day's low to trade higher by 300 points.",
-    "Nifty Bank scaled a fresh all-time high during intraday trade.",
-    "Rupee strengthened past 93 against the US Dollar supported by portfolio inflows.",
-    "Global treasury rally spilled over to Indian bond markets."
+    "Global sell-off in AI-related technology stocks weighing on market sentiment",
+    "Sharp overnight decline in the Nasdaq index and GIFT Nifty",
+    "US Federal Reserve signals regarding potential for further interest rate hikes",
+    "Profit-taking and weak global cues following a drop in Asian markets"
   ],
   "whatHappening": [
-    "Nifty reclaimed the key 25,600 mark during morning trade.",
-    "Jewellery stocks tumbled for the third consecutive session.",
-    "EPFO modified PF rules allowing retirees to opt for monthly payouts.",
-    "Government approved a medical college at PGIMER Chandigarh."
+    "Sensex recovered 600 points from its low to trade at a day's high",
+    "Nifty Bank hit a fresh record high while Nifty reclaimed the 25,600 level",
+    "The Indian Rupee strengthened past the 93 mark against the US Dollar",
+    "Jewellery stocks like Titan and Kalyan Jewellers fell for a third consecutive day"
   ],
   "stocksInNews": [
     {
       "symbol": "TITAN",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/1 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         5
       ]
@@ -30,7 +30,7 @@
     {
       "symbol": "KALYANKJIL",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/1 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         5
       ]
@@ -38,7 +38,7 @@
     {
       "symbol": "PCJEWELLER",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/1 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         5
       ]
@@ -46,14 +46,38 @@
     {
       "symbol": "TBZ",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/1 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
         5
       ]
+    },
+    {
+      "symbol": "WATRANA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "MAHANADI",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "KISSHT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        9
+      ]
     }
   ],
-  "summary": "Indian benchmark indices staged a sharp recovery with Sensex rising over 300 points and Nifty Bank hitting a fresh high.\nJewellery sector shares saw heavy selling for the third straight session, led by Titan and Kalyan Jewellers.\nMeanwhile, the Rupee appreciated past 93 per US Dollar driven by strong portfolio inflows and bear retreat.",
-  "updatedAt": "2026-11-20T07:06:02.199Z",
+  "summary": "Indian markets recovered from an early slump caused by a global AI sell-off and Fed rate hike concerns. The Nifty Bank achieved a new record high, while the Sensex and Nifty reclaimed key psychological levels. Jewellery stocks declined as gold prices hit 2026 lows, though the Rupee saw a significant rally past 93 per Dollar.",
+  "updatedAt": "2026-11-20T07:32:25.659Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-20",
   "articleKeys": [
@@ -66,7 +90,17 @@
     "rupee rises past 93 vs usd as portfolio inflows bear retreat fuel rally",
     "big boost to medical education govt approves medical college at chandigarh pgimer check mbbs seat intake",
     "ipo gmp today watrana rentals vs mahanadi coalfields which ipo has higher listing gain potential",
-    "kissht rated new buy at hdfc securities profit seen growing 60 annually through fy29 check target price"
+    "kissht rated new buy at hdfc securities profit seen growing 60 annually through fy29 check target price",
+    "stock market open report november 20 2026 sensex nifty edge lower managing to buck global selloff hdfc sky",
+    "stock market update 20 november 2026 sensex fell around 250 points nifty 50 below 25450 in early trade kotak neo",
+    "nifty sensex open lower as selloff in ai weighs on sentiment gold down to lowest level of 2026 chinimandi",
+    "stock markets dip sensex nifty fall amid global weakness rediff moneywiz",
+    "sensex today trades lower nifty below 25400 bse power down 136 equitymaster",
+    "markets bounce back led by auto bank stocks sensex surges nearly 1000 pts nifty reclaims 25500 the hindu",
+    "sensex nifty open lower as fed signals more rate hikes hdfc sky",
+    "newlylisted companies add 32trillion to bse marketcap in 2026 business standard",
+    "stock markets today sensex nifty down on profittaking weak global cues rediff",
+    "gift nifty plunges over 200 pts signals sharp fall for sensex nifty as nasdaq sinks 23 asian markets moneycontrolcom"
   ],
   "articles": [
     {
@@ -128,6 +162,66 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/kissht-review-hsbc-initiates-buy-on-kissht-with-rs-500-target-price-sees-60-profit-cagr-12352277#publisher=newsstand",
       "publishedAt": "Fri, 20 Nov 2026 10:27:33 +0530"
+    },
+    {
+      "title": "Stock Market Open Report November 20, 2026: Sensex, Nifty Edge Lower, Managing To Buck Global Selloff - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDdBZ0xXNTh2YlBRTTByMlFsbm5mMmpRbE1BYmVvN0VfMHdVVWtpY0ZpdzVRV01UaUJBR2lPQ3c3WWloaWJqZi0xQ0puTG9IUkxydzd5WW5QTnBWeDhUaC1HUm82TGNGYW9IM25JZ2xLRWRGQzZGSEphcmtOTXduNFNvSlNuSFZlMnNqRlQ0al9zYWpmeWg3MUtwQ2dWb21GNW1Pc3lBVmNwSXVnbFFUdU9hYkpfTVdkdUE4cHFDQ1ItZw?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:33:51 GMT"
+    },
+    {
+      "title": "Stock Market Update 20 November 2026: Sensex Fell Around 250 Points; Nifty 50 Below 25,450 in Early Trade - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWpRb3hrcFZtVWZ4QTl2a1VTUGRncG9tWHZlNk50Z1Nsc1RFTTkyZmlFWlRqYkFmRko4SV9rYzl1dTFwR0VxdWxmYkJCUUp5b2wxM0V1d0hEd1Rsc2xjMTZ3clc5anZCN1l4Zk1NbVZnQVdXU3VRSXF5aktIYm5sLXRTd0dNSU03NVlxd1EydFNzbFhnTUlN?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:49:55 GMT"
+    },
+    {
+      "title": "Nifty, Sensex open lower as sell-off in AI weighs on sentiment, Gold down to lowest level of 2026 - ChiniMandi",
+      "source": "ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekt2czZqeUhONWZqYjZ3SW5KczhrQ1Ftc1hzUjV2NVU1SmNqU1dkeW84cElRdm9wQU9kVnNncW9GbDJOR19DbXlZWnkwcUFGSHhLTi1hLU1Ua3R2Q1ZQMWFlclFlTzIySV9vS05nWG14SzE3QlJlSlpNNGpJRzdmOHQzYlpHRjNoTURCS3dYU3liamNkSmlwSmdia21sbVk1SHVnbk1VVmY2ejFkTGhSRngzQTU3aEd5OGtJRGNsQUs?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:23:32 GMT"
+    },
+    {
+      "title": "Stock Markets Dip: Sensex, Nifty Fall Amid Global Weakness - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUhZd1ZaYkg3Sm1KTWVrZVF2eVFsU1E2ckY2ampjUzQ5YjBQd1BIVmJMQjg3eU1VUUxRUVRialhES3Z3dmktTmRjZ3lxMk9kNERDVXdFY0hQbUhTdHJfV2hPUmdVVE5PMzF3V3IxYllxbGwzRGtQTHE2Vzk1MHhpUl9QYldEbGZlN2ViN19HeTVMWnk5Q01NZWlGeVQ0U2pVVHpXSnBnMDFDanZR0gGyAUFVX3lxTE1LQWhXaTVaTUtLQUNJbllLckw1U2FEb1NYeXVzdGZfLWhwWnpoTWgwN3h6SDhjcWhobzk1NE9jYUc0aHBmV2J0SFlDbktQZ28zVGdpcUFSak5UTWE3aXlEZ1hvTl9XcnFfNDdNN2RlNEVJSVVSSkhYaGZ5YjVvdkt4SFRMRmNYeTdleXFYeF9GTWpveG1RMWtYRERkYzhQNlplQkJacFc0UEszRzNDZVE2d1E?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:34:36 GMT"
+    },
+    {
+      "title": "Sensex Today Trades Lower | Nifty Below 25,400 | BSE Power Down 1.36% - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVd5VzNrRWRyOFI3TVJjYnMxVlBDdEUzd0RzQThuVTJiMHpBS0p0eUJiQkJYVlMwSE12cW9GZ1pRWGZHYW9BM0QyRjRYLWw0NEtBVC13WFJabG0wbE9fTEtSNUdDOXZ0dEVhbkNCNnJtMjNZTGhWcWtsa0ZOcTM2OFZlTW9iSGl4UDNqcnNWZ1l4Q0tLa1J1eFlBcnhmZTl0cDRKZVBIV1oxQWhyVzlSdVV3LTlvNTBJRjUtYVNkVFhFWDg?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:22:24 GMT"
+    },
+    {
+      "title": "Markets bounce back led by auto, bank stocks; Sensex surges nearly 1,000 pts, Nifty reclaims 25,500 - The Hindu",
+      "source": "The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUWx1NDdYSjhqYVFBTkZmN0hPaGk3U1JhemQ2cDFDR0FqTDZvczVDU0ExS0tZZ2o1RTJRR1NMQkdCTzZuSWx3d2cwSzNrUFdrekJWWjh3MDJ6Ym5KMlVkVzEtekdTc2dGOVRKNWdSZGxJcDFlTG1xNkRHUVNsSHNwN1RJa0NCSURpU0NLa3BoTUJEekl1MnhKLUE5MXhNczk2dTFFYkZGbGRlN0FvaWFFMXJjajVmYTBRUkdxeGVaN3FvM3lELTM5Vkh0MHZ3SmFhS2NScUY5WmJ4UC1qODFNa1dCX0R5M0FLeWpiRtIB8wFBVV95cUxNUVdXRUJRY1hOeDNoYnFyOXcxMkNMME50WnJSSlZzU0VFUHlWREVVcUh4LWJUbllYaDJFWkZ3aFpwcUlEM29HbDRkYUsweGxmUVdvQzBGdWMxVHFXZEhkbHJURmltU2Y2U1JqcWgtc3Z1Q0tkSEt3bmhOMWg1dXpxN1FuQWdwajl6YUpTekhyeTc0Q1J6THRkUFVuOUlTMTJWVlBIZnhOSGRxZkgyVS1jaUY4U2lUU1NpQ29uVFhIaUp1ZU50Ym1xa1lLSHhqNjE3c1JTNW9uSDZPd29oR2R4VmJrMldCQXhmekZIeUZvUk5rZ2M?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 11:30:37 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Open Lower as Fed Signals More Rate Hikes - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJKUVBfWmp2bTRfdjdMNUlRTGVrZ2NDcWRKdUNQRmtPb1FnQVlOYmRUSHc1c0E5S21mZVRHYkNoNUUwZVE1Y0FxV0RZWjF0OTZnTTY2UDVCSG8tVS1CTUQ3WXE2Tm5TaTQ0YkROMF9KN2F3cE1nQVhMVGphcW1wVlJJaGxTLTJDN09TZEdNRFhTdlprQVluOFh2NFFKQU9PaG41OXYxdkNpaHZRZGVBanJBRjg1SGx3QlVnMENVMlh4RlI4eTIzN0hTMFc3S3BCVzN5a093?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 04:46:24 GMT"
+    },
+    {
+      "title": "Newly-listed companies add ₹32-trillion to BSE market-cap in 2026 - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQy02TUdYQ1pQSWNHcWlFcFFXV0JPaHN4aFNUTFdWaVNNblJiMjJKWDJkWll2ZWl4c1BnYWxJSWN3ZEdVSFNpU0EzWkh3Y1dzSEZyeXd1ODhTT2lOTm5ocE53Tkg4ZElFTEJpZExJNURMT1lXcGNubDdUZVNhRFdKWWlBRWNqTE1UTUVDLVpWWktQaVVVZHZ4enZnc19VTFpsN2xZZVZodnFkLU9tNGNXSUJTZ25KdTVUUGlKblhjanpNbWFfemp1RVVLMA?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 02:05:00 GMT"
+    },
+    {
+      "title": "Stock Markets Today: Sensex, Nifty Down on Profit-taking, weak global cues - Rediff",
+      "source": "Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQalNuTDRMOFNQS3ZsME00ak9jVWRqdnFPTW1SbkFVZ2NDN0ZlWHRYZThzLU9oWHo3Wk9wUnNXc2dUcmRtWVRiZTNTVlZVQ0tpNmpBNFJYbkp5YWlKVy1lUWRWMDVxZnRJb0tzdjRQaHgzUEd5NHVIS3VKay1KMUlHcGhTUGEzUl9zNGpaVEF0ZXFuYVNHVzhRNUtoamxPWDRENDVtQnQwNTZsN0R5MnNjc0ZDdXlxLTFNSUFhYkxVTlVRajludnBKeVBTeExvUTdqZ2tteFRrNlBYeXZCWGNsN0V30gHkAUFVX3lxTE4yOElyeTdKOHY2dXFUbkZwQ252RmFLbjZUM0VDclY5aDlzOU5BRFNGVnA1MEJ3RHpISG9XWjIzSlNwZ2dBOEV0MzZWUzJQbkI1VmFxcUV4eTBEUVZKdXRnY2xGUThIOElQZUcwYWE5MnhEUWxUUUlBbnBHcGZMbkJlRmhFM0lsRlVPU0g1MlJjZ280MVdnX3FVNnJKLUVpdHo5NnhNYVprRFhKT01CLWNxeElYRVdqVnd0dTlRQk5PZC0wRzUxbVlhb3NPUEJTUms2d1dia2RweEhxZ0dYNlhiQmhyMg?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:54:28 GMT"
+    },
+    {
+      "title": "GIFT Nifty plunges over 200 pts, signals sharp fall for Sensex, Nifty as Nasdaq sinks 2.3%, Asian markets... - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNV0kzbUx6VXpURVlPc1ZqVFZHQXNQYjN0aEZiZV8zYjdpVW5HNXAtUzJTU3Z6Y2xxaHZYSDFmQ3RINll6MGd4UU5yT1pmRWZvUWwyTU81a2hzUXZwanVyOU1uQnRkal9PVUVxU2dHekFaaW5ZUDFCZmc5WUxWRVl0RndTNGMtMDAtM0lvc2doanMtcmZGc3hVLVFZbHhORTR6aXpadnhwaVJ3bTA0eFBHTmZNSE5MZmpYakthN3dPVDZBaFFUSThDNHpBLTIzYzk1RDVCejRLcGVad015ZHN1ODhhOTE1OU9qdE50b1dtN2RsaGtUaEZ3Unh3ZXZpSDJBU1HSAYcCQVVfeXFMUHR1Q1FFRUo0Z0dwYjNTWFdfc25VMno5Rk4tM0ZZNFB0RDNHQW9jTl9kNTN0cXF5TXNFT0s3STBCa3pDUFB3bHJ2bVBkdzU0UUFHNEMzWDZOelI3cFF5OVB3dTdxaDVzekM2WU9PN3paM0FMX3l1Mk1UR1JkSURsTlFVWW81NFplaTF4MENUTmFqQzQxcGdfZ0k2Zk1SV3hIMVdyTVI5ZEFZYWNfQVk5R1o3WWZoczFqeTFTUGtRaU1xOU1kQVE0OUhjUVNGZFhNQ3ZzTTNuWXozcG44Z1BVVVFzOGZ1RU9vbmIzQnNKa0hmblRieEZ1Z0YyLW54eFdjYmFpcFB4UlE?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 02:52:15 GMT"
     }
   ]
 }
