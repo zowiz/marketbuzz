@@ -1,5 +1,5 @@
 {
-  "headline": "Markets closed for weekend as global news highlights gold selloff and Anthropic IPO demand",
+  "headline": "On last trading day, Sensex surged 898 points and Nifty reclaimed 25,800 led by banking stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,20 +7,29 @@
     "nextOpen": "Monday, 23 November 2026"
   },
   "why": [
-    "Gold logged its worst week since March due to a hawkish Federal Reserve and AI stock selloffs.",
-    "Donald Trump criticized the Federal Reserve for being political, asking observers to look at India.",
-    "Anthropic's IPO saw massive interest, drawing $120 billion in retail demand and surpassing SpaceX.",
-    "Nikhil Kamath discussed emerging business ideas and opportunities in the tomato supply chain."
+    "Strong rally led by banking and IT stocks lifting market recovery.",
+    "Support from foreign capital inflows during the session.",
+    "Nifty Bank surged to achieve a record high level.",
+    "Sharp rebound after early losses caused by global AI selloff concerns."
   ],
   "whatHappening": [
-    "Gold prices faced pressure during the week amid shifting central bank expectations.",
-    "Global tech sentiment was buoyed by high-profile AI IPO activity.",
-    "GTA 6 recorded $3.8 billion in first-day sales, setting entertainment launch records.",
-    "Operation Mole starring Dhanush opened strong at the box office, grossing Rs 31.55 crore worldwide on Day 1."
+    "In the last session, Sensex jumped 898 points while Nifty 50 closed at 25,801.",
+    "Banking stocks spearheaded the rally, carrying Nifty Bank to an all-time high.",
+    "Apollo Hospitals was highlighted among the top leading stock gainers.",
+    "Markets successfully reversed early morning losses caused by hawkish Fed signals and global AI weakness."
   ],
-  "stocksInNews": [],
-  "summary": "Indian markets are closed today for the weekend and will reopen on Monday, 23 November.\nRecent global updates highlight gold recording its worst week since March amid a hawkish Fed.\nOther news includes record retail demand for Anthropic's IPO and entertainment industry milestones.",
-  "updatedAt": "2026-11-21T04:01:41.915Z",
+  "stocksInNews": [
+    {
+      "symbol": "APOLLOHOSP",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        15
+      ]
+    }
+  ],
+  "summary": "In the last trading session, Indian markets staged a strong rally with Sensex surging 898 points and Nifty reclaiming 25,800.\nThe gains were powered by banking and IT stocks along with foreign inflows, driving Nifty Bank to a record high.\nThe stock market is closed today due to the weekend and will reopen on Monday, 23 November.",
+  "updatedAt": "2026-11-21T04:31:30.759Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-21",
   "articleKeys": [
@@ -33,7 +42,17 @@
     "earn rs 5 lakh a month in this country a ca explains the jobs costs and how to apply",
     "bought gold on diwali heres how much it is worth today",
     "trump hits out at federal reserve for being political says look at india",
-    "gold logs worst week since march on hawkish fed ai selloff"
+    "gold logs worst week since march on hawkish fed ai selloff",
+    "stock market holiday november 24 will nse and bse remain closed on tuesday for guru nanak jayanti kotak neo",
+    "sensex nifty open lower as fed signals more rate hikes hdfc sky",
+    "sensex surges 898 points nifty reclaims 25800 as bank stocks foreign inflows lift markets the new indian express",
+    "stock market weekly roundup 1620 november 2026 the indian awaaz",
+    "sensex jumps 898 points nifty reclaims 25800 banking stocks lead rally india infoline",
+    "market wrap nov 20 nifty50 ends at 25801 sensex jumps 898 pts nifty bank at record high apollo hospitals leads upstox",
+    "sensex nifty open lower as global ai selloff weighs hdfc sky",
+    "market midday 20 november 2026 sensex and nifty 50 gain as banking and it stocks support recovery kotak neo",
+    "stock market update 20 november 2026 sensex fell around 250 points nifty 50 below 25450 in early trade kotak neo",
+    "sensex surges 898 points nifty reclaims 25800 mark hdfc sky"
   ],
   "articles": [
     {
@@ -95,6 +114,66 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-12356994#publisher=newsstand",
       "publishedAt": "Sat, 21 Nov 2026 07:15:38 +0530"
+    },
+    {
+      "title": "Stock Market Holiday November 24: Will NSE and BSE Remain Closed on Tuesday for Guru Nanak Jayanti? - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbU9hNmx0T1AyRGxWX2ZZUnRLTG0tZzlkNW1kN3l5aGtLS0NaYUdxN0RLMTB5RFdKazMyX1F1bkFjUllNTzlZVUMwcXpDT1U5M0VFWFV6OUs0cFBWU2pzVlcwb0wwRmRvbjlOMklkZmNqQmZGVGFnZUxrSkNKcC05LUowSkpTczBaZUY4dFVtaktLYUdGVzdOQ1VSbXR1VFcwTWM3Tmx2Tkl1bnZyTjFfMml1YXNjTW1rX1NBUVN0cW1qXzZRSlFidkRvei0xWUVBdGc?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 10:13:00 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Open Lower as Fed Signals More Rate Hikes - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJKUVBfWmp2bTRfdjdMNUlRTGVrZ2NDcWRKdUNQRmtPb1FnQVlOYmRUSHc1c0E5S21mZVRHYkNoNUUwZVE1Y0FxV0RZWjF0OTZnTTY2UDVCSG8tVS1CTUQ3WXE2Tm5TaTQ0YkROMF9KN2F3cE1nQVhMVGphcW1wVlJJaGxTLTJDN09TZEdNRFhTdlprQVluOFh2NFFKQU9PaG41OXYxdkNpaHZRZGVBanJBRjg1SGx3QlVnMENVMlh4RlI4eTIzN0hTMFc3S3BCVzN5a093?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 04:46:24 GMT"
+    },
+    {
+      "title": "Sensex surges 898 points, Nifty reclaims 25,800 as bank stocks, foreign inflows lift markets - The New Indian Express",
+      "source": "The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEhpb0pqS1hrREZBWVRCRkVDQkJLU2JxdENURGpCN28wWGhWMExuczdEXzk4T3U3T2xSS0tNQjVnMjgybmZyd1ZjVjZrSXQ5NWhaQU4yalEyZWRXTHNiV3UzZHQxdXV0UHFtVWIxdnAyWGVtYmtHMUhLUmotaXdQdVgzS0F0Nk90YVNkQktvWWVRNjV0Z3ljMklJRHgzRnJ6cGJKbjdjQ1dJX0xRcDdaMjJfaGprRXpVN28xR2p3TEJCa2ZjUy1GY1JkUjJSenctSWs5VHdvNzRDeG_SAegBQVVfeXFMTTJhUXBzWkVUQkY0V2x4YmtRYVd1MzZEc0kyZXdZT1g5Z2VMWlp3VUJYb3hiUk1WZTJoQnN6YkJaR0x3SkdYQmZSMEJScTNJaVpyOFA5UjRRQ0lPdHJGdFdfSnZpNGlTRk91VWlMeklYRTFjYlZ0bUlsc0VIRHlMbWE5a0RuMG9PNlRQTzhMQVNCejFCVlFIWW9zcGQ3bWF0SFY0a2JfS05pS01TYV9qRTAyUkhmRTZDTWxockxjeGJJSWJVcWtWdWZaSnRmbXQtRFRlbFFsUi1KY0UwSXA0VDg3UTRSV1BzZQ?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 12:24:22 GMT"
+    },
+    {
+      "title": "Stock Market Weekly Round-Up (16-20 November 2026) - The Indian Awaaz",
+      "source": "The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR25RTXBvbTJlMFdELVV2QlBPdXBydDlPNllpQnlQaWM5Z3c4Tk41ZmpBQ0l2Um11bWFmUVJ5Szg2TEVrRG9hcU10ZmFhTk9wSnF5TXdtODJQVWtXVEk4QjdtSllMRlJFR25jU3VxM19RVXg1b2o0ZnViR1JfZjUwVmtB?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 17:30:25 GMT"
+    },
+    {
+      "title": "Sensex Jumps 898 Points, Nifty Reclaims 25,800; Banking Stocks Lead Rally - India Infoline",
+      "source": "India Infoline",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaG5JZ2lId2FfTWZkMENtNXdid1BLVnhTcE9CRGR1QjFMT2UwSk5WVC04UGpOa0ZPQWFDTHVNZmh5NnJMV016VEdjZHhkemx2aHAwRldGdzdsN0VKV0VVU3dSTHBWTjkyMEVnZUJSS1VyU25OVW1tT0hqNjVJSkpFZzljbGU0TV9SZFpSUkNocHBJcmhnbm1ZV1QtYi1nTTh3MlZ5aEhPWm5ZV3o1b256bEJkcw?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 11:11:28 GMT"
+    },
+    {
+      "title": "Market wrap, Nov 20: NIFTY50 ends at 25,801, SENSEX jumps 898 pts; NIFTY Bank at record high, Apollo Hospitals leads - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOS3Y2Sy1NcHpGRmVIT1AtTGR0bW12SXh1S3hRUWJDSnkwQl9Manh2ODhVMkR1VVk3R3hLOVQ1cEJpWlFDQm9CLUhWWGhhQnhYX2ROWDVFWTl4MnNxb1hhYk80UWpydU41dzRjamRkWWotTllDbEM0b3BKRl9qR2pJU0h5U0VseDhMOXYxSzhDNWZMR194MnJiWHZhLUtVUjJGWlVGNnI2UVd6ZnBKc1VpemNsVWRoa3M1Y0VKV1ZsRmQ5N1dMNUNsQUtrZXZvdlhYQnhqbkNjRVhsT2Q0Z29Hb1hIRk9LNVVyZ25sd0RZZkZlbUNyVWNxRVM4T2hCNTZT?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 10:19:26 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Open Lower as Global AI Selloff Weighs - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDdBZ0xXNTh2YlBRTTByMlFsbm5mMmpRbE1BYmVvN0VfMHdVVWtpY0ZpdzVRV01UaUJBR2lPQ3c3WWloaWJqZi0xQ0puTG9IUkxydzd5WW5QTnBWeDhUaC1HUm82TGNGYW9IM25JZ2xLRWRGQzZGSEphcmtOTXduNFNvSlNuSFZlMnNqRlQ0al9zYWpmeWg3MUtwQ2dWb21GNW1Pc3lBVmNwSXVnbFFUdU9hYkpfTVdkdUE4cHFDQ1ItZw?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:33:51 GMT"
+    },
+    {
+      "title": "Market Midday, 20 November 2026: Sensex and Nifty 50 Gain as Banking and IT Stocks Support Recovery - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXRVVi1OY3lSVjNiLVA0aTJvZ1VEM3dQeVVTODFGU2VwbDhaeHV4U2JFYjVjYWRtUndhRXBoeEliMjFTUFAxQUN2Z2RMUGxESXU3Y3U1MVZFUXRqRndKMHpXbURKZ2RwUUZRcDJvaDY3RXg1cFItNS1WRk5fU2tqX3dNdUkzQkpuRmlnNm5XMVEyU0JxODJtRHhNTUJyTE8tcTE2Tw?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 07:03:13 GMT"
+    },
+    {
+      "title": "Stock Market Update 20 November 2026: Sensex Fell Around 250 Points; Nifty 50 Below 25,450 in Early Trade - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWpRb3hrcFZtVWZ4QTl2a1VTUGRncG9tWHZlNk50Z1Nsc1RFTTkyZmlFWlRqYkFmRko4SV9rYzl1dTFwR0VxdWxmYkJCUUp5b2wxM0V1d0hEd1Rsc2xjMTZ3clc5anZCN1l4Zk1NbVZnQVdXU3VRSXF5aktIYm5sLXRTd0dNSU03NVlxd1EydFNzbFhnTUlN?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:49:55 GMT"
+    },
+    {
+      "title": "Sensex Surges 898 Points; Nifty Reclaims 25,800 Mark - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNi1uQzd2YVRnMFE3c0Z6UFgyWHpseVBLdlpYTUNRZG1qelhQN0xia0d3dU00RU9fSUktUzd3R1lJeWQ4SFhGMUtSRHRmTzN6SE1NN2xiSHc2SUw4QTB4SDVralpyZFBKUnZsMm9hd1MyUXJQbUZfZFhCZF9YV2JuaXJSbDlVR2hBTHF2NkVNZzlwXzBYeWpfUHlOZzluelVEYlVVVlFISDFxR3ZjMklNZGtfc0hFZTdJd1IwYXJmcWJkNFhYZHVwMG9nSld2QXF5VkZMSGxfR00?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 11:19:18 GMT"
     }
   ]
 }
