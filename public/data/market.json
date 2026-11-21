@@ -1,84 +1,56 @@
 {
-  "headline": "Last session: Sensex surged 898 points and Nifty reclaimed 25,800 as banking stocks and foreign inflows lifted markets",
+  "headline": "Last session: Sensex surged 898 points and Nifty reclaimed 25,800 led by banking stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 23 November.",
-    "nextOpen": "Monday, 23 November"
+    "nextOpen": "Monday, 23 November 2026"
   },
   "why": [
-    "Banking and IT stocks supported a sharp recovery during the final session of the week.",
-    "Foreign institutional inflows provided a significant lift to the domestic markets on Friday.",
-    "The Nifty and Sensex extended their winning streak to four consecutive weeks with 3% gains.",
-    "Initial market pressure from a global AI selloff was overcome by strong domestic buying interest."
+    "Banking and IT stocks supported a strong market recovery during the last session.",
+    "Foreign inflows helped lift benchmark indices sharply on Friday.",
+    "Sensex and Nifty extended their winning streak to four consecutive weeks.",
+    "Indices recovered strongly despite early losses caused by global selloff concerns."
   ],
   "whatHappening": [
-    "The Indian stock market is closed today, November 21, for the weekend.",
-    "Trading is scheduled to resume on Monday, November 23, 2026.",
-    "Investors are monitoring a potential market holiday on November 24 for Guru Nanak Jayanti.",
-    "Global oil prices are projected to normalize to $70 by 2027 as the market moves into surplus."
+    "The Indian stock market is closed today, Saturday, 21 November 2026, for the weekend.",
+    "On the last trading day, Sensex jumped 898 points while Nifty reclaimed the 25,800 level.",
+    "Max Healthcare and Deepak Fertilisers were among the top market gainers over the past week.",
+    "Main benchmark indices logged nearly 3% gains for the week, while smallcaps underperformed."
   ],
   "stocksInNews": [
     {
-      "symbol": "SENSEX",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 5/7 sources",
-      "articleIds": [
-        10,
-        13,
-        15,
-        16,
-        17,
-        18,
-        19
-      ]
-    },
-    {
-      "symbol": "NIFTY50",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 5/7 sources",
-      "articleIds": [
-        10,
-        13,
-        15,
-        16,
-        17,
-        18,
-        19
-      ]
-    },
-    {
-      "symbol": "SUNTV",
+      "symbol": "MAXHEALTH",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        4
+        3
       ]
     },
     {
-      "symbol": "NIFTY_SMALLCAP_100",
-      "sentiment": "Negative",
+      "symbol": "DEEPAKFERT",
+      "sentiment": "Positive",
       "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        10
+        3
       ]
     }
   ],
-  "summary": "In the last session, Indian markets staged a major recovery with the Sensex jumping 898 points to reclaim key levels. The rally was driven by banking and IT sectors, helping the main indices secure a 3% gain over the past four weeks. Markets are currently closed for the weekend and will reopen on Monday.",
-  "updatedAt": "2026-11-21T06:01:56.416Z",
+  "summary": "Markets are closed today for the weekend and will reopen on Monday, 23 November 2026.\nIn the last session, Sensex surged 898 points and Nifty reclaimed 25,800 driven by banking stocks and foreign inflows.\nMax Healthcare and Deepak Fertilisers featured among the week's top gainers as benchmarks marked a 4-week winning streak.",
+  "updatedAt": "2026-11-21T07:01:35.429Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-21",
   "articleKeys": [
+    "pune startup develops atomic clock prototype amid growing export curbs on critical technologies",
+    "ai to lead investment strategy in 2027 energy and borrowing costs shape macro outlook barclays",
+    "explained why are workers and students protesting across italy",
+    "market winners max healthcare deepak fertilisers among 10 stocks that surged up to 14 in last week",
+    "mundheled maharashtra fda seizes rs 152 crore food stocks after 25500 inspections in seven months",
+    "pensioners have you submitted your life certificate 7 things you need to know",
+    "rs 38 crore fees waived off for medical students in droughthit areas of maharashtra",
     "ilt20 202627 full schedule and live streaming check all fixtures dates timings venues",
     "us court sentences nikhil gupta to 235 months jail in pannun murder plot",
     "us treasury yields drop for day and week ai trade concern spurs safehaven bid",
-    "dollar weaker as fedfueled rally stalls lower us yields help yen",
-    "kaviya maran gifts gold rings chocolates and wedding invites to sun group employees",
-    "crude prices may normalise to usd 70 by end2027 as global oil market moves into surplus report",
-    "australia vs england 1st t20i live streaming when and where to watch aus vs eng on tv online",
-    "anthropic researcher says claude helped prove one of maths biggest open problems",
-    "golds slide deepens as ai rout ratehike bets hurt bullion",
-    "uk stocks sink as global selloff weighs on banks and miners",
     "market weekly wrap nifty50 sensex extend winning streak to 4 weeks with 3 gains nifty smallcap 100 underperforms upstox",
     "sensex nifty open lower as fed signals more rate hikes hdfc sky",
     "stock market holiday november 24 will nse and bse remain closed on tuesday for guru nanak jayanti kotak neo",
@@ -91,6 +63,48 @@
     "sensex surges 898 points nifty reclaims 25800 mark hdfc sky"
   ],
   "articles": [
+    {
+      "title": "Pune startup develops atomic clock prototype amid growing export curbs on critical technologies",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece",
+      "publishedAt": "Sat, 21 Nov 2026 12:03:51 +0530"
+    },
+    {
+      "title": "AI to lead investment strategy in 2027; Energy and borrowing costs shape macro outlook: Barclays",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-to-lead-investment-strategy-in-2027-energy-and-borrowing-costs-shape-macro-outlook-barclays/articleshow/136046648.cms",
+      "publishedAt": "Sat, 21 Nov 2026 11:39:54 +0530"
+    },
+    {
+      "title": "Explained: Why Are Workers And Students Protesting Across Italy?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/explained-why-are-workers-and-students-protesting-across-italy-12357365#publisher=newsstand",
+      "publishedAt": "Sat, 21 Nov 2026 11:26:56 +0530"
+    },
+    {
+      "title": "Market winners: Max Healthcare, Deepak Fertilisers among 10 stocks that surged up to 14% in last week",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-winners-max-healthcare-deepak-fertilisers-among-10-stocks-that-surged-up-to-14-in-last-week/slideshow/136046616.cms",
+      "publishedAt": "Sat, 21 Nov 2026 11:21:22 +0530"
+    },
+    {
+      "title": "Mundhe-Led Maharashtra FDA Seizes Rs 152 Crore Food Stocks After 25,500 Inspections In Seven Months",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/fda-conducts-over-25-500-inspections-in-maha-in-seven-months-food-stocks-worth-rs-152-65-crore-seized-12357147#publisher=newsstand",
+      "publishedAt": "Sat, 21 Nov 2026 11:20:14 +0530"
+    },
+    {
+      "title": "Pensioners, Have You Submitted Your Life Certificate? 7 Things You Need To Know",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/personal-finance/pensioners-have-you-submitted-your-life-certificate-7-things-you-need-to-know-12357336#publisher=newsstand",
+      "publishedAt": "Sat, 21 Nov 2026 11:17:49 +0530"
+    },
+    {
+      "title": "Rs 38 Crore Fees Waived Off For Medical Students In Drought-Hit Areas Of Maharashtra",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/rs-38-crore-fees-waived-off-for-medical-students-in-drought-hit-areas-of-maharashtra-12357525#publisher=newsstand",
+      "publishedAt": "Sat, 21 Nov 2026 11:10:02 +0530"
+    },
     {
       "title": "ILT20 2026-27 Full Schedule And Live Streaming: Check All Fixtures, Dates, Timings, Venues",
       "source": "Zerodha Pulse",
@@ -108,48 +122,6 @@
       "source": "Zerodha Pulse",
       "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-drop-for-day-and-week-ai-trade-concern-spurs-safe-haven-bid/articleshow/136045682.cms",
       "publishedAt": "Sat, 21 Nov 2026 10:53:49 +0530"
-    },
-    {
-      "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen/articleshow/136045620.cms",
-      "publishedAt": "Sat, 21 Nov 2026 10:50:04 +0530"
-    },
-    {
-      "title": "Kaviya Maran Gifts Gold Rings, Chocolates And Wedding Invites To Sun Group Employees",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/kavya-maran-s-grand-gesture-to-staff-gold-rings-for-employees-ahead-of-wedding-12357401#publisher=newsstand",
-      "publishedAt": "Sat, 21 Nov 2026 10:47:50 +0530"
-    },
-    {
-      "title": "Crude prices may normalise to USD 70 by end-2027 as global oil market moves into surplus: Report",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-prices-may-normalise-to-usd-70-by-end-2027-as-global-oil-market-moves-into-surplus-report/articleshow/136045576.cms",
-      "publishedAt": "Sat, 21 Nov 2026 10:46:52 +0530"
-    },
-    {
-      "title": "Australia vs England 1st T20I Live Streaming: When And Where To Watch AUS vs ENG On TV, Online",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/australia-vs-england-1st-t20i-live-streaming-when-and-where-to-watch-aus-vs-eng-on-tv-online-12356607#publisher=newsstand",
-      "publishedAt": "Sat, 21 Nov 2026 10:45:01 +0530"
-    },
-    {
-      "title": "Anthropic Researcher Says Claude Helped Prove One Of Maths' Biggest Open Problems",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/anthropic-researcher-says-claude-helped-prove-one-of-maths-biggest-open-problems-12357451#publisher=newsstand",
-      "publishedAt": "Sat, 21 Nov 2026 10:44:21 +0530"
-    },
-    {
-      "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/golds-slide-deepens-as-ai-rout-rate-hike-bets-hurt-bullion/articleshow/136045549.cms",
-      "publishedAt": "Sat, 21 Nov 2026 10:44:11 +0530"
-    },
-    {
-      "title": "UK stocks sink as global selloff weighs on banks and miners",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-stocks-sink-as-global-selloff-weighs-on-banks-and-miners/articleshow/136045502.cms",
-      "publishedAt": "Sat, 21 Nov 2026 10:42:07 +0530"
     },
     {
       "title": "Market weekly wrap: NIFTY50, SENSEX extend winning streak to 4 weeks with 3% gains; NIFTY Smallcap 100 underperforms - Upstox",
