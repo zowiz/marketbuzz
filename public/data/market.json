@@ -1,42 +1,87 @@
 {
-  "headline": "Last session: Sensex surged 898 points and Nifty reclaimed 25,800 powered by banking stocks and foreign inflows.",
+  "headline": "Last session: Sensex surged 898 points and Nifty reclaimed 25,800 as banking stocks and foreign inflows lifted markets",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 23 November.",
-    "nextOpen": "Monday, 23 November 2026"
+    "nextOpen": "Monday, 23 November"
   },
   "why": [
-    "Strong buying in banking stocks led the benchmark rally.",
-    "Foreign inflows provided crucial support to the market momentum.",
-    "IT stocks helped power a midday recovery following an early slump.",
-    "NIFTY50 and SENSEX extended their winning streak to four straight weeks with 3% gains."
+    "Banking and IT stocks supported a sharp recovery during the final session of the week.",
+    "Foreign institutional inflows provided a significant lift to the domestic markets on Friday.",
+    "The Nifty and Sensex extended their winning streak to four consecutive weeks with 3% gains.",
+    "Initial market pressure from a global AI selloff was overcome by strong domestic buying interest."
   ],
   "whatHappening": [
-    "Sensex jumped 898 points while Nifty successfully reclaimed the 25,800 mark.",
-    "Markets had opened lower initially following a global AI selloff.",
-    "Nifty Smallcap 100 underperformed relative to the main benchmark indices over the week.",
-    "Traders are checking holiday schedules ahead of Guru Nanak Jayanti on Tuesday, November 24."
+    "The Indian stock market is closed today, November 21, for the weekend.",
+    "Trading is scheduled to resume on Monday, November 23, 2026.",
+    "Investors are monitoring a potential market holiday on November 24 for Guru Nanak Jayanti.",
+    "Global oil prices are projected to normalize to $70 by 2027 as the market moves into surplus."
   ],
-  "stocksInNews": [],
-  "summary": "On the last trading session, Indian benchmark indices staged a sharp rally, with the Sensex surging 898 points and Nifty reclaiming 25,800.\nThe gain was driven by strength in banking and IT stocks alongside positive foreign capital inflows, overcoming an early morning dip caused by global AI selloff concerns.\nWith these gains, both Sensex and Nifty extended their weekly winning streak to four weeks.",
-  "updatedAt": "2026-11-21T05:31:36.317Z",
+  "stocksInNews": [
+    {
+      "symbol": "SENSEX",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 5/7 sources",
+      "articleIds": [
+        10,
+        13,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "symbol": "NIFTY50",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 5/7 sources",
+      "articleIds": [
+        10,
+        13,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "symbol": "SUNTV",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        4
+      ]
+    },
+    {
+      "symbol": "NIFTY_SMALLCAP_100",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        10
+      ]
+    }
+  ],
+  "summary": "In the last session, Indian markets staged a major recovery with the Sensex jumping 898 points to reclaim key levels. The rally was driven by banking and IT sectors, helping the main indices secure a 3% gain over the past four weeks. Markets are currently closed for the weekend and will reopen on Monday.",
+  "updatedAt": "2026-11-21T06:01:56.416Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-21",
   "articleKeys": [
     "ilt20 202627 full schedule and live streaming check all fixtures dates timings venues",
-    "what does epfos systematic withdrawal plan for entail for retirees explained",
-    "wall street week ahead black friday brings consumer spending into focus for airocked market",
-    "irans foreign minister araghchi outlines us deal terms dismisses any agreement",
-    "would love to see jensen given second chance trump",
-    "gta 6 smashes records 38 billion on first day alone biggest entertainment launch ever",
-    "sri lanka a vs hong kong live streaming when and where to watch rising stars asia cup",
-    "om operation mole box office collection day 1 dhanush starrer opens strong mints rs 3155 crore gross worldwide",
-    "the next big business idea could be hiding in tomatoes nikhil kamath explains",
-    "bigger than industrial revolution trump praises anthropics record ipo",
+    "us court sentences nikhil gupta to 235 months jail in pannun murder plot",
+    "us treasury yields drop for day and week ai trade concern spurs safehaven bid",
+    "dollar weaker as fedfueled rally stalls lower us yields help yen",
+    "kaviya maran gifts gold rings chocolates and wedding invites to sun group employees",
+    "crude prices may normalise to usd 70 by end2027 as global oil market moves into surplus report",
+    "australia vs england 1st t20i live streaming when and where to watch aus vs eng on tv online",
+    "anthropic researcher says claude helped prove one of maths biggest open problems",
+    "golds slide deepens as ai rout ratehike bets hurt bullion",
+    "uk stocks sink as global selloff weighs on banks and miners",
+    "market weekly wrap nifty50 sensex extend winning streak to 4 weeks with 3 gains nifty smallcap 100 underperforms upstox",
     "sensex nifty open lower as fed signals more rate hikes hdfc sky",
     "stock market holiday november 24 will nse and bse remain closed on tuesday for guru nanak jayanti kotak neo",
-    "market weekly wrap nifty50 sensex extend winning streak to 4 weeks with 3 gains nifty smallcap 100 underperforms upstox",
     "sensex surges 898 points nifty reclaims 25800 as bank stocks foreign inflows lift markets the new indian express",
     "stock market weekly roundup 1620 november 2026 the indian awaaz",
     "sensex jumps 898 points nifty reclaims 25800 banking stocks lead rally india infoline",
@@ -53,58 +98,64 @@
       "publishedAt": "Sat, 21 Nov 2026 11:00:01 +0530"
     },
     {
-      "title": "What does EPFO’s Systematic Withdrawal Plan for entail for retirees | Explained",
+      "title": "US court sentences Nikhil Gupta to 235 months jail in Pannun murder plot",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/Economy/what-does-epfos-systematic-withdrawal-plan-for-entail-for-retirees-explained/article71727225.ece",
-      "publishedAt": "Sat, 21 Nov 2026 09:21:15 +0530"
+      "link": "https://www.business-standard.com/world-news/us-court-sentences-nikhil-gupta-to-235-months-jail-in-pannun-murder-plot-126112001349_1.html",
+      "publishedAt": "Sat, 21 Nov 2026 10:58:02 +0530"
     },
     {
-      "title": "Wall Street Week Ahead: 'Black Friday' brings consumer spending into focus for AI-rocked market",
+      "title": "US Treasury yields drop for day and week; AI trade concern spurs safe-haven bid",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market/articleshow/136044202.cms",
-      "publishedAt": "Sat, 21 Nov 2026 09:18:02 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-drop-for-day-and-week-ai-trade-concern-spurs-safe-haven-bid/articleshow/136045682.cms",
+      "publishedAt": "Sat, 21 Nov 2026 10:53:49 +0530"
     },
     {
-      "title": "Iran's Foreign Minister Araghchi Outlines US Deal Terms, Dismisses Any Agreement'",
+      "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/irans-foreign-minister-araghchi-outlines-us-deal-terms-dismisses-any-agreement-12357222#publisher=newsstand",
-      "publishedAt": "Sat, 21 Nov 2026 09:15:46 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen/articleshow/136045620.cms",
+      "publishedAt": "Sat, 21 Nov 2026 10:50:04 +0530"
     },
     {
-      "title": "'Would Love To See Jensen Given Second Chance': Trump",
+      "title": "Kaviya Maran Gifts Gold Rings, Chocolates And Wedding Invites To Sun Group Employees",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/would-love-to-be-seen-jensen-given-second-chance-trump-12356975#publisher=newsstand",
-      "publishedAt": "Sat, 21 Nov 2026 08:56:08 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/kavya-maran-s-grand-gesture-to-staff-gold-rings-for-employees-ahead-of-wedding-12357401#publisher=newsstand",
+      "publishedAt": "Sat, 21 Nov 2026 10:47:50 +0530"
     },
     {
-      "title": "GTA 6 Smashes Records: $3.8 Billion On First Day Alone - Biggest Entertainment Launch Ever",
+      "title": "Crude prices may normalise to USD 70 by end-2027 as global oil market moves into surplus: Report",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/gta-6-smashes-records-3-8-billion-on-first-day-alone-biggest-entertainment-launch-ever-12357121#publisher=newsstand",
-      "publishedAt": "Sat, 21 Nov 2026 08:33:36 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-prices-may-normalise-to-usd-70-by-end-2027-as-global-oil-market-moves-into-surplus-report/articleshow/136045576.cms",
+      "publishedAt": "Sat, 21 Nov 2026 10:46:52 +0530"
     },
     {
-      "title": "Sri Lanka A vs Hong Kong LIVE Streaming: When And Where To Watch Rising Stars Asia Cup",
+      "title": "Australia vs England 1st T20I Live Streaming: When And Where To Watch AUS vs ENG On TV, Online",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/sri-lanka-a-vs-hong-kong-live-streaming-when-and-where-to-watch-rising-stars-asia-cup-12356449#publisher=newsstand",
-      "publishedAt": "Sat, 21 Nov 2026 08:30:01 +0530"
+      "link": "https://www.ndtvprofit.com/sports/australia-vs-england-1st-t20i-live-streaming-when-and-where-to-watch-aus-vs-eng-on-tv-online-12356607#publisher=newsstand",
+      "publishedAt": "Sat, 21 Nov 2026 10:45:01 +0530"
     },
     {
-      "title": "O.M: Operation Mole Box Office Collection Day 1: Dhanush Starrer Opens Strong, Mints Rs 31.55 Crore Gross Worldwide",
+      "title": "Anthropic Researcher Says Claude Helped Prove One Of Maths' Biggest Open Problems",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/o-m-operation-mole-box-office-collection-day-1-dhanush-starrer-opens-strong-mints-rs-31-55-crore-gross-worldwide-12357017#publisher=newsstand",
-      "publishedAt": "Sat, 21 Nov 2026 08:29:06 +0530"
+      "link": "https://www.ndtvprofit.com/technology/anthropic-researcher-says-claude-helped-prove-one-of-maths-biggest-open-problems-12357451#publisher=newsstand",
+      "publishedAt": "Sat, 21 Nov 2026 10:44:21 +0530"
     },
     {
-      "title": "The Next Big Business Idea Could Be Hiding In Tomatoes. Nikhil Kamath Explains",
+      "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/the-next-big-business-idea-could-be-hiding-in-tomatoes-nikhil-kamath-explains-12357106#publisher=newsstand",
-      "publishedAt": "Sat, 21 Nov 2026 08:24:49 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/golds-slide-deepens-as-ai-rout-rate-hike-bets-hurt-bullion/articleshow/136045549.cms",
+      "publishedAt": "Sat, 21 Nov 2026 10:44:11 +0530"
     },
     {
-      "title": "'Bigger Than Industrial Revolution': Trump Praises Anthropic's Record IPO",
+      "title": "UK stocks sink as global selloff weighs on banks and miners",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/anthropic-ipo-us-president-donald-trump-praises-dario-amodei-calls-record-ipo-bigger-than-industrial-revolution-12357093#publisher=newsstand",
-      "publishedAt": "Sat, 21 Nov 2026 08:19:27 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-stocks-sink-as-global-selloff-weighs-on-banks-and-miners/articleshow/136045502.cms",
+      "publishedAt": "Sat, 21 Nov 2026 10:42:07 +0530"
+    },
+    {
+      "title": "Market weekly wrap: NIFTY50, SENSEX extend winning streak to 4 weeks with 3% gains; NIFTY Smallcap 100 underperforms - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVlNhS2poOU8tdkJOUDhsSklyOTZqbW5YLWRfSHZFQ2ktc0NLM3Z0c3FwYURELXVTRE9wenBlN0VBTGtTOUJlTGd5MlIzYnAyYWFYd2tUTm1qdmJCVUtxV2NBcUU5MWUxbmNzcnVJTDBsZHFXb2lVRUZZVGFRN2MxWmVwUGcyd2ZtY19ndmhuclI4Z1YzREc5RHJrSGMtRFhqM3ZzU3VUVl9YRFhIRnZ5WV9KTWgxc3YyMk1TZ0U5MHNzcHhRMHFSS0NiR3FuOEhSLVRuYzVRT3l5clIxTmJEUjl3S01td0R3WTh4UlM0aDBwQ1pIUG5VYlladmtVRlhTVUE?oc=5",
+      "publishedAt": "Sat, 21 Nov 2026 04:55:10 GMT"
     },
     {
       "title": "Sensex, Nifty Open Lower as Fed Signals More Rate Hikes - HDFC Sky",
@@ -117,12 +168,6 @@
       "source": "Kotak Neo",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbU9hNmx0T1AyRGxWX2ZZUnRLTG0tZzlkNW1kN3l5aGtLS0NaYUdxN0RLMTB5RFdKazMyX1F1bkFjUllNTzlZVUMwcXpDT1U5M0VFWFV6OUs0cFBWU2pzVlcwb0wwRmRvbjlOMklkZmNqQmZGVGFnZUxrSkNKcC05LUowSkpTczBaZUY4dFVtaktLYUdGVzdOQ1VSbXR1VFcwTWM3Tmx2Tkl1bnZyTjFfMml1YXNjTW1rX1NBUVN0cW1qXzZRSlFidkRvei0xWUVBdGc?oc=5",
       "publishedAt": "Fri, 20 Nov 2026 10:13:00 GMT"
-    },
-    {
-      "title": "Market weekly wrap: NIFTY50, SENSEX extend winning streak to 4 weeks with 3% gains; NIFTY Smallcap 100 underperforms - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVlNhS2poOU8tdkJOUDhsSklyOTZqbW5YLWRfSHZFQ2ktc0NLM3Z0c3FwYURELXVTRE9wenBlN0VBTGtTOUJlTGd5MlIzYnAyYWFYd2tUTm1qdmJCVUtxV2NBcUU5MWUxbmNzcnVJTDBsZHFXb2lVRUZZVGFRN2MxWmVwUGcyd2ZtY19ndmhuclI4Z1YzREc5RHJrSGMtRFhqM3ZzU3VUVl9YRFhIRnZ5WV9KTWgxc3YyMk1TZ0U5MHNzcHhRMHFSS0NiR3FuOEhSLVRuYzVRT3l5clIxTmJEUjl3S01td0R3WTh4UlM0aDBwQ1pIUG5VYlladmtVRlhTVUE?oc=5",
-      "publishedAt": "Sat, 21 Nov 2026 04:55:10 GMT"
     },
     {
       "title": "Sensex surges 898 points, Nifty reclaims 25,800 as bank stocks, foreign inflows lift markets - The New Indian Express",
