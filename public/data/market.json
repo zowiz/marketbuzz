@@ -1,43 +1,35 @@
 {
-  "headline": "Last session: Sensex and Nifty recovered supported by banking and IT stocks, extending a 4-week rally.",
+  "headline": "Last session: Sensex and Nifty extend winning streak to 4 weeks, hitting 9-month highs amid strong recovery",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Wednesday, 25 November.",
-    "nextOpen": "Wednesday, 25 November"
+    "nextOpen": "Wednesday, 25 November 2026"
   },
   "why": [
-    "Record FII buying helped Indian equity benchmarks achieve 9-month highs.",
-    "Banking and IT stocks supported market recovery during the last session.",
-    "Global AI selloff and hawkish Fed rate signals briefly weighed on market sentiment earlier in the week.",
-    "Auto and banking sectors led earlier mid-week surges of nearly 1,000 points on Sensex."
+    "Record FII buying helped propel Indian indices to 9-month high levels during recent trading sessions.",
+    "Banking and IT stocks supported market recovery from early-trade losses on the last trading day.",
+    "A rebound led by auto and bank stocks previously drove Sensex up nearly 1,000 points.",
+    "Global AI sell-off and Fed rate hike concerns had initially weighed on market sentiment."
   ],
   "whatHappening": [
-    "NIFTY50 and SENSEX extended their winning streak to four consecutive weeks with 3% gains.",
-    "NIFTY Smallcap 100 underperformed compared to the benchmark indices over the week.",
-    "NSE stock price rallied 5% on high trading volume, rising 35% from its October low.",
-    "Patanjali cow ghee sample failed food safety testing in Madhya Pradesh."
+    "NIFTY50 and Sensex extended their weekly winning streak to four consecutive weeks with nearly 3% gains.",
+    "Sensex and Nifty recovered from early trade losses on Friday to end in green, supported by IT and bank stocks.",
+    "Patanjali faced news after its cow ghee sample failed a food safety test in Madhya Pradesh.",
+    "Gold prices slipped to lower levels with bears eyeing Rs 1.11 lakh targets before the New Year."
   ],
   "stocksInNews": [
     {
       "symbol": "PATANJALI",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/6 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         1
       ]
-    },
-    {
-      "symbol": "NSE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        16
-      ]
     }
   ],
-  "summary": "On the last trading session, Indian markets recovered as banking and IT stocks provided support following an initial dip. The benchmark indices Nifty50 and Sensex extended their winning streak to four weeks, posting 3% weekly gains and reaching 9-month highs driven by record FII inflows. The stock market is closed today due to the weekend and will reopen on Wednesday, 25 November.",
-  "updatedAt": "2026-11-21T13:02:27.028Z",
+  "summary": "On the last trading day, Indian benchmark indices recovered early losses to extend their winning streak to four weeks.\nBanking, IT, and auto stocks drove the market recovery amid strong FII inflows despite global AI tech sell-off concerns.\nThe NSE is closed today for the weekend and trading will resume on Wednesday, 25 November.",
+  "updatedAt": "2026-11-21T13:31:40.755Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-21",
   "articleKeys": [
@@ -55,12 +47,12 @@
     "sensex nifty open lower as fed signals more rate hikes hdfc sky",
     "market weekly wrap nifty50 sensex extend winning streak to 4 weeks with 3 gains nifty smallcap 100 underperforms upstox",
     "markets bounce back led by auto bank stocks sensex surges nearly 1000 pts nifty reclaims 25500 the hindu",
+    "nifty sensex open lower as selloff in ai weighs on sentiment gold down to lowest level of 2026 chinimandi",
     "sensex nifty open lower as global ai selloff weighs hdfc sky",
     "stock market update 20 november 2026 sensex fell around 250 points nifty 50 below 25450 in early trade kotak neo",
     "nse stock price rallies 5 on huge volume zooms 35 from october low business standard",
     "market midday 20 november 2026 sensex and nifty 50 gain as banking and it stocks support recovery kotak neo",
-    "stock market today gift nifty signals gapdown open hdfc sky",
-    "stock market update 17 november 2026 sensex gains over 200 pts nifty 50 above 25350 in early trade kotak neo"
+    "stock market today gift nifty signals gapdown open hdfc sky"
   ],
   "articles": [
     {
@@ -148,6 +140,12 @@
       "publishedAt": "Thu, 19 Nov 2026 11:30:37 GMT"
     },
     {
+      "title": "Nifty, Sensex open lower as sell-off in AI weighs on sentiment, Gold down to lowest level of 2026 - ChiniMandi",
+      "source": "ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekt2czZqeUhONWZqYjZ3SW5KczhrQ1Ftc1hzUjV2NVU1SmNqU1dkeW84cElRdm9wQU9kVnNncW9GbDJOR19DbXlZWnkwcUFGSHhLTi1hLU1Ua3R2Q1ZQMWFlclFlTzIySV9vS05nWG14SzE3QlJlSlpNNGpJRzdmOHQzYlpHRjNoTURCS3dYU3liamNkSmlwSmdia21sbVk1SHVnbk1VVmY2ejFkTGhSRngzQTU3aEd5OGtJRGNsQUs?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:23:32 GMT"
+    },
+    {
       "title": "Sensex, Nifty Open Lower as Global AI Selloff Weighs - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDdBZ0xXNTh2YlBRTTByMlFsbm5mMmpRbE1BYmVvN0VfMHdVVWtpY0ZpdzVRV01UaUJBR2lPQ3c3WWloaWJqZi0xQ0puTG9IUkxydzd5WW5QTnBWeDhUaC1HUm82TGNGYW9IM25JZ2xLRWRGQzZGSEphcmtOTXduNFNvSlNuSFZlMnNqRlQ0al9zYWpmeWg3MUtwQ2dWb21GNW1Pc3lBVmNwSXVnbFFUdU9hYkpfTVdkdUE4cHFDQ1ItZw?oc=5",
@@ -176,12 +174,6 @@
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm5nRG9abE9UZzc1MFNkVkRZRUhXZUFLckJLZGI2SG4zVnU1cVJ3OW1waEZfN3NPRXU2dEZJVVNQcDRraURiU0xtUnpKeUNteC0tS0VudC16WEh2U1lMZUhsSG1yeTNXQzhLbVFYY3FOejNlTjJwdVA5VEFjbTFaTnRMOW50SS1yVm1ZT3ZMVlNJRGt4WkZwSVNtYlhMTjFodVE?oc=5",
       "publishedAt": "Thu, 19 Nov 2026 03:29:37 GMT"
-    },
-    {
-      "title": "Stock Market Update 17 November 2026: Sensex Gains Over 200 Pts; Nifty 50 Above 25,350 In Early Trade - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLW4zV0c2Zzh1X19kRHlqRlpvZjg4cVhhOXRuczRXa2RaVVRGMkl4YkduUkwxaFptek9hNW5IZlZHTXlpUG1Pb0VQalB3UExNY19HZmhUZEFpcUF5SkNoVVBzLUluMVIyX3JBM3llZWFpRTFfdGR4UTdYMWR3MFpSRFBMeDRCUTU3cVV4LWl0VFNqcUpJbDFj?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 04:04:04 GMT"
     }
   ]
 }
