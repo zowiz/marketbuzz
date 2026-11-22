@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading session, Indian stock market extended its 4-week rally as Sensex and Nifty hit 9-month highs.",
+  "headline": "Last session: Sensex and Nifty recovered midday supported by banking and IT stocks amid global AI selloff",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,37 +7,29 @@
     "nextOpen": "Monday, 23 November 2026"
   },
   "why": [
-    "Indian benchmarks extended their winning streak to four consecutive weeks with 3% gains overall.",
-    "Record foreign institutional investor (FII) buying drove Sensex and Nifty to 9-month highs.",
-    "Strong rallies in banking and auto stocks helped markets bounce back mid-week by nearly 1,000 points.",
-    "Global headwinds including US Fed rate hike signals and an AI tech sell-off created temporary early-session drag."
+    "Record FII buying extended the Indian market rally to four consecutive weeks, hitting 9-month highs.",
+    "Early session sentiment was weighed down by a global AI stock selloff and Fed rate hike concerns.",
+    "Midday recovery was driven by gains in banking, IT, and auto sector stocks.",
+    "Concerns remain regarding crude oil prices and global macroeconomic risks."
   ],
   "whatHappening": [
-    "CBIC proposed draft GST rules to protect genuine buyers from Input Tax Credit (ITC) losses.",
-    "RBI Governor noted small businesses can generate 100x impact from access to loan credit.",
-    "Corporate actions scheduled this week for Zee Entertainment, JTL Defence, Fusion CX, and Bonlon Industries.",
-    "Analyst commentary highlighted persistent macro risks for India despite recent drops in crude oil prices."
+    "Corporate actions are scheduled this week for companies including Zee Entertainment.",
+    "CBIC proposed draft GST changes aimed at shielding genuine buyers from Input Tax Credit losses.",
+    "RBI chief highlighted that loans to small businesses can generate significant economic impact.",
+    "Crude oil prices have dropped, though UBS warned that high crude levels continue to pose risks to India."
   ],
   "stocksInNews": [
     {
       "symbol": "ZEEL",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
+      "sources": "Mentioned by 1/6 sources",
       "articleIds": [
         1
       ]
-    },
-    {
-      "symbol": "NSE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        17
-      ]
     }
   ],
-  "summary": "Markets extended their winning streak to four weeks with Sensex and Nifty hitting nine-month highs on record FII buying.\nMid-week gains were driven by strong buying in auto and banking shares despite global AI sell-off pressures.\nTrading is closed today for the weekend and will reopen on Monday, 23 November 2026.",
-  "updatedAt": "2026-11-22T02:01:37.630Z",
+  "summary": "In the last trading session, Indian benchmark indices recovered midday following early losses caused by a global AI selloff. Record FII buying continued to support the market's multi-week rally to 9-month highs. Markets are closed today for the weekend and will reopen on Monday, 23 November.",
+  "updatedAt": "2026-11-22T02:31:20.349Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-22",
   "articleKeys": [
@@ -54,13 +46,13 @@
     "indian stock market extends 4week rally as sensex and nifty hit 9month highs on record fii buying kotak neo",
     "sensex nifty open lower as fed signals more rate hikes hdfc sky",
     "markets bounce back led by auto bank stocks sensex surges nearly 1000 pts nifty reclaims 25500 the hindu",
-    "market weekly wrap nifty50 sensex extend winning streak to 4 weeks with 3 gains nifty smallcap 100 underperforms upstox",
     "nifty sensex open lower as selloff in ai weighs on sentiment gold down to lowest level of 2026 chinimandi",
     "sensex nifty open lower as global ai selloff weighs hdfc sky",
     "stock market update 18 november 2026 sensex drops over 500 points nifty 50 below 25250 in early trade kotak neo",
     "nse stock price rallies 5 on huge volume zooms 35 from october low business standard",
     "stock market update 20 november 2026 sensex fell around 250 points nifty 50 below 25450 in early trade kotak neo",
-    "stock market today gift nifty signals gapdown open hdfc sky"
+    "stock market today gift nifty signals gapdown open hdfc sky",
+    "market midday 20 november 2026 sensex and nifty 50 gain as banking and it stocks support recovery kotak neo"
   ],
   "articles": [
     {
@@ -142,12 +134,6 @@
       "publishedAt": "Thu, 19 Nov 2026 11:30:37 GMT"
     },
     {
-      "title": "Market weekly wrap: NIFTY50, SENSEX extend winning streak to 4 weeks with 3% gains; NIFTY Smallcap 100 underperforms - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVlNhS2poOU8tdkJOUDhsSklyOTZqbW5YLWRfSHZFQ2ktc0NLM3Z0c3FwYURELXVTRE9wenBlN0VBTGtTOUJlTGd5MlIzYnAyYWFYd2tUTm1qdmJCVUtxV2NBcUU5MWUxbmNzcnVJTDBsZHFXb2lVRUZZVGFRN2MxWmVwUGcyd2ZtY19ndmhuclI4Z1YzREc5RHJrSGMtRFhqM3ZzU3VUVl9YRFhIRnZ5WV9KTWgxc3YyMk1TZ0U5MHNzcHhRMHFSS0NiR3FuOEhSLVRuYzVRT3l5clIxTmJEUjl3S01td0R3WTh4UlM0aDBwQ1pIUG5VYlladmtVRlhTVUE?oc=5",
-      "publishedAt": "Sat, 21 Nov 2026 04:55:10 GMT"
-    },
-    {
       "title": "Nifty, Sensex open lower as sell-off in AI weighs on sentiment, Gold down to lowest level of 2026 - ChiniMandi",
       "source": "ChiniMandi",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekt2czZqeUhONWZqYjZ3SW5KczhrQ1Ftc1hzUjV2NVU1SmNqU1dkeW84cElRdm9wQU9kVnNncW9GbDJOR19DbXlZWnkwcUFGSHhLTi1hLU1Ua3R2Q1ZQMWFlclFlTzIySV9vS05nWG14SzE3QlJlSlpNNGpJRzdmOHQzYlpHRjNoTURCS3dYU3liamNkSmlwSmdia21sbVk1SHVnbk1VVmY2ejFkTGhSRngzQTU3aEd5OGtJRGNsQUs?oc=5",
@@ -182,6 +168,12 @@
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm5nRG9abE9UZzc1MFNkVkRZRUhXZUFLckJLZGI2SG4zVnU1cVJ3OW1waEZfN3NPRXU2dEZJVVNQcDRraURiU0xtUnpKeUNteC0tS0VudC16WEh2U1lMZUhsSG1yeTNXQzhLbVFYY3FOejNlTjJwdVA5VEFjbTFaTnRMOW50SS1yVm1ZT3ZMVlNJRGt4WkZwSVNtYlhMTjFodVE?oc=5",
       "publishedAt": "Thu, 19 Nov 2026 03:29:37 GMT"
+    },
+    {
+      "title": "Market Midday, 20 November 2026: Sensex and Nifty 50 Gain as Banking and IT Stocks Support Recovery - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXRVVi1OY3lSVjNiLVA0aTJvZ1VEM3dQeVVTODFGU2VwbDhaeHV4U2JFYjVjYWRtUndhRXBoeEliMjFTUFAxQUN2Z2RMUGxESXU3Y3U1MVZFUXRqRndKMHpXbURKZ2RwUUZRcDJvaDY3RXg1cFItNS1WRk5fU2tqX3dNdUkzQkpuRmlnNm5XMVEyU0JxODJtRHhNTUJyTE8tcTE2Tw?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 07:03:13 GMT"
     }
   ]
 }
