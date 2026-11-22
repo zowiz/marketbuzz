@@ -1,68 +1,112 @@
 {
-  "headline": "On last trading day: Markets extended 4-week rally to hit 9-month highs amid record FII buying",
+  "headline": "Markets closed for weekend; FPI flows, crude oil, and global trends to steer upcoming holiday-shortened week",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 23 November.",
-    "nextOpen": "Monday, 23 November"
+    "nextOpen": "Monday, 23 November 2026"
   },
   "why": [
-    "Record FII buying propelled Sensex and Nifty to 9-month highs over a 4-week rally.",
-    "Auto and bank stocks spurred a massive recovery, pushing Sensex up nearly 1,000 points.",
-    "Concerns over Fed rate hike signals and global AI stock selloffs triggered midweek pullbacks.",
-    "FPI flows, crude oil movements, and global cues are set to direct the upcoming holiday-shortened week."
+    "FPI flows, crude oil movements, and global cues are expected to drive market direction in the upcoming holiday-shortened week.",
+    "A global sell-off in AI stocks weighed on broad market sentiment during recent trading sessions.",
+    "Record FII buying previously boosted Sensex and Nifty to 9-month highs, extending a four-week rally.",
+    "Hawkish signals from the US Fed regarding interest rate hikes added to global market headwinds."
   ],
   "whatHappening": [
-    "Sensex and Nifty scaled 9-month highs on strong foreign fund inflows.",
-    "Adani Group entered West Bengal's power sector, sparking political calls for transparency.",
-    "NSE stock price surged 5% on high volumes, up 35% from its October lows.",
-    "Gold prices faced a dramatic selloff, putting its five-year winning streak under threat."
+    "On the last trading day, Sensex fell around 250 points with Nifty dropping below 25,450 in early trade due to global tech sell-offs.",
+    "CCPA imposed a Rs 10-lakh penalty on a firm for listing an 'anti-drone gun' on IndiaMART.",
+    "ITC expanded its Braille-enabled packaging initiatives to its Fiama product range, bringing total SKUs to 16.",
+    "Adani Group expanded into West Bengal's power sector, prompting political calls for transparency."
   ],
   "stocksInNews": [
     {
-      "symbol": "ADANIENT",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/6 sources",
+      "symbol": "ITC",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "INDIAMART",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         0
       ]
     },
     {
-      "symbol": "NSE",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
+      "symbol": "ADANIENT",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
-        19
+        6
       ]
     }
   ],
-  "summary": "On the last trading session, Indian markets extended their four-week rally as Sensex and Nifty touched nine-month highs on strong FII inflows.\nKey sector recoveries in banking and auto helped indices bounce back sharply despite earlier pressure from global AI selloffs and US Fed rate worries.\nMarket participants are now tracking FPI trends, crude oil movements, and global cues for guidance ahead of the new week.",
-  "updatedAt": "2026-11-22T10:31:30.806Z",
+  "summary": "Indian stock markets are closed today for the weekend and will reopen on Monday, 23 November. In the last session, markets traded lower as global AI stock pullbacks outweighed recent record FII buying gains. Investors are looking ahead to crude oil trends, foreign inflows, and global cues to guide the holiday-shortened trading week.",
+  "updatedAt": "2026-11-22T11:01:33.571Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-22",
   "articleKeys": [
+    "ccpa slaps rs 10lakh fine on firm for listing antidrone gun on indiamart",
+    "barcelona vs villarreal live streaming when and where to watch la liga match live in india",
+    "fpi crude oil global trends to to steer markets in holidayshortened week",
+    "jammu and kashmir services selection board tightens exam security after cheating racket busted",
+    "indias bond market structure avoids the trap now facing chinas 7trillion debt heres how",
+    "anthropic ipo triggers market selloff what can save ai trade asks wall street",
     "adani group forays into west bengals power sector trinamool calls for transparency",
     "three in four years max verstappen wins thriller las vegas grand prix after 35 lead changes",
+    "itc extends brailleenabled packaging to fiama takes total to 16 skus",
     "ceo reveals 4 changes she made to get better results from employees while giving them time off",
-    "india vs thailand live streaming when and where to watch womens asian champions trophy match",
-    "bjp rajya sabha mp ramrao wadkute passes away pm modi prez murmu condole death",
-    "juventus vs venezia live streaming when and where to watch serie a match live in india",
-    "why golds fiveyear winning streak is under threat after dramatic selloff",
-    "clean streets zero gridlock the northindian city that won over a visiting british vlogger",
-    "kartik aaryan launches production house dopamine studios on 36th birthday announces film kaaliya with karan johar",
-    "agniveers could be allowed to marry after four years under proposed rule changes",
-    "sensex nifty open lower as fed signals more rate hikes hdfc sky",
     "indian stock market extends 4week rally as sensex and nifty hit 9month highs on record fii buying kotak neo",
-    "fpi crude oil global trends to to steer markets in holidayshortened week business standard",
+    "sensex nifty open lower as fed signals more rate hikes hdfc sky",
     "news by cnbc tv18 on tradingview 20261122 cnbctva89d35fe5094b0 tradingview",
     "markets bounce back led by auto bank stocks sensex surges nearly 1000 pts nifty reclaims 25500 the hindu",
+    "nifty sensex open lower as selloff in ai weighs on sentiment gold down to lowest level of 2026 chinimandi",
     "sensex nifty open lower as global ai selloff weighs hdfc sky",
     "stock market update 18 november 2026 sensex drops over 500 points nifty 50 below 25250 in early trade kotak neo",
+    "fpi crude oil global trends to to steer markets in holidayshortened week business standard",
     "stock market update 20 november 2026 sensex fell around 250 points nifty 50 below 25450 in early trade kotak neo",
-    "stock market today gift nifty signals gapdown open hdfc sky",
     "nse stock price rallies 5 on huge volume zooms 35 from october low business standard"
   ],
   "articles": [
+    {
+      "title": "CCPA Slaps Rs 10-Lakh Fine On Firm For Listing 'Anti-Drone Gun' On IndiaMART",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/ccpa-slaps-rs-10-lakh-fine-on-firm-for-listing-anti-drone-gun-on-indiamart-12361811#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 15:31:02 +0530"
+    },
+    {
+      "title": "Barcelona vs Villarreal Live Streaming: When And Where To Watch La Liga Match Live In India?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/barcelona-vs-villarreal-live-streaming-when-and-where-to-watch-la-liga-match-live-in-india-12361827#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 15:30:16 +0530"
+    },
+    {
+      "title": "FPI, crude oil, global trends to to steer markets in holiday-shortened week",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/markets/news/fpi-crude-oil-global-trends-to-to-steer-markets-in-holiday-shortened-week-126112200353_1.html",
+      "publishedAt": "Sun, 22 Nov 2026 15:17:15 +0530"
+    },
+    {
+      "title": "Jammu And Kashmir Services Selection Board Tightens Exam Security After Cheating Racket Busted",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/recruitment-cheating-racket-busted-in-jammu-and-kashmir-board-tightens-exam-security-12361754#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 15:03:11 +0530"
+    },
+    {
+      "title": "India's Bond Market Structure Avoids The Trap Now Facing China's $7-Trillion Debt: Here's How",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/indias-bond-market-structure-avoids-the-trap-now-facing-chinas-7-trillion-debt-heres-how-12361695#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 14:42:57 +0530"
+    },
+    {
+      "title": "Anthropic IPO Triggers Market Selloff: What Can Save AI Trade?' Asks Wall Street",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/anthropic-ipo-triggers-market-selloff-what-can-save-ai-trade-asks-wall-street-12361687#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 14:41:09 +0530"
+    },
     {
       "title": "Adani Group forays into West Bengal’s power sector, Trinamool calls for transparency",
       "source": "Zerodha Pulse",
@@ -76,58 +120,16 @@
       "publishedAt": "Sun, 22 Nov 2026 14:26:05 +0530"
     },
     {
+      "title": "ITC extends Braille-enabled packaging to Fiama, takes total to 16 SKUs",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/itc-extends-braille-enabled-packaging-to-fiama-takes-total-to-16-skus-126112200306_1.html",
+      "publishedAt": "Sun, 22 Nov 2026 14:23:51 +0530"
+    },
+    {
       "title": "CEO Reveals 4 Changes She Made To Get Better Results From Employees While Giving Them Time Off",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/education/ceo-reveals-4-changes-she-made-to-get-better-results-from-employees-while-giving-them-time-off-12361640#publisher=newsstand",
       "publishedAt": "Sun, 22 Nov 2026 14:17:28 +0530"
-    },
-    {
-      "title": "India vs Thailand Live Streaming: When And Where To Watch Women's Asian Champions Trophy Match?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-vs-thailand-live-streaming-when-and-where-to-watch-womens-asian-champions-trophy-match-12360271#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 14:15:01 +0530"
-    },
-    {
-      "title": "BJP Rajya Sabha MP Ramrao Wadkute Passes Away: PM Modi, Prez Murmu Condole Death",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/bjp-rajya-sabha-mp-ramrao-wadkute-passes-away-pm-modi-prez-murmu-condole-death-12361535#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 14:04:27 +0530"
-    },
-    {
-      "title": "Juventus vs Venezia Live Streaming: When And Where To Watch Serie A Match Live In India?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/juventus-vs-venezia-live-streaming-when-and-where-to-watch-serie-a-match-live-in-india-12360423#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 14:00:01 +0530"
-    },
-    {
-      "title": "Why gold’s five-year winning streak is under threat after dramatic selloff",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
-      "publishedAt": "Sun, 22 Nov 2026 13:51:09 +0530"
-    },
-    {
-      "title": "Clean Streets, Zero Gridlock: The North-Indian City That Won Over A Visiting British Vlogger",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/clean-streets-zero-gridlock-the-north-indian-city-that-won-over-a-visiting-british-vlogger-12361491#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 13:34:03 +0530"
-    },
-    {
-      "title": "Kartik Aaryan Launches Production House Dopamine Studios On 36th Birthday, Announces Film Kaaliya' With Karan Johar",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/kartik-aaryan-launches-production-house-dopamine-studios-on-36th-birthday-announces-film-kaaliya-with-karan-johar-12361420#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 13:28:40 +0530"
-    },
-    {
-      "title": "Agniveers Could Be Allowed To Marry After Four Years Under Proposed Rule Changes",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/agniveers-could-be-allowed-to-marry-after-four-years-under-proposed-rule-changes-12361460#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 13:13:27 +0530"
-    },
-    {
-      "title": "Sensex, Nifty Open Lower as Fed Signals More Rate Hikes - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJKUVBfWmp2bTRfdjdMNUlRTGVrZ2NDcWRKdUNQRmtPb1FnQVlOYmRUSHc1c0E5S21mZVRHYkNoNUUwZVE1Y0FxV0RZWjF0OTZnTTY2UDVCSG8tVS1CTUQ3WXE2Tm5TaTQ0YkROMF9KN2F3cE1nQVhMVGphcW1wVlJJaGxTLTJDN09TZEdNRFhTdlprQVluOFh2NFFKQU9PaG41OXYxdkNpaHZRZGVBanJBRjg1SGx3QlVnMENVMlh4RlI4eTIzN0hTMFc3S3BCVzN5a093?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 04:46:24 GMT"
     },
     {
       "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
@@ -136,10 +138,10 @@
       "publishedAt": "Sat, 21 Nov 2026 05:52:38 GMT"
     },
     {
-      "title": "FPI, crude oil, global trends to to steer markets in holiday-shortened week - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1VaRGNHd1BJRkhRVDVQY1RRc1l0VHRDdWF6TjdqWERTZXdINzU3WU5UQm1lLVJwSzM1Q2RmQ0xMQ1AyTWs2NldOM2FhQnZJeVZMc2plSjdleXRjc2dzU0d1UDd2eTA4Q1hXcTZRS1IyV1h4ek9fb0VFTDNodlZlN1g5TmdqT0IyemFvQ3JBbEtld3c2UzRVQ0hWQTdBVXdIN2VmZkNwQWRuYzExVk9FaVlFNG5lYm1lWEFXaUNxVlBZc0xWQndjaC1CRlFlZGFicWVQQnJXc9IB3AFBVV95cUxPQl9kN1ZueE8wNTV4YWozeEo3akV0Yy1sZUxfSXpiSlVGd0FTYVpncWNtM2ZHVWp2el9uNVNHelIzY1NpeERvTHJnWURUY3BtNDhiQUx2SEtBVmROTTYtWE9ZamtqVEZJQTJnLWZnaDNRdXV2YlpzQTJvRTNHSVpGaWhsb3AzSWZ4eGlsR1BTRkNjRXZhTFpLblpUVzZLbFVLR19kd0ZzcEVGbWVzb01IOFM5TzFfNG83djA4dlU4aTlBeVZnUWJlZ3YwOTdBNjYzandnUFNfWXBQZG5n?oc=5",
-      "publishedAt": "Sun, 22 Nov 2026 09:47:11 GMT"
+      "title": "Sensex, Nifty Open Lower as Fed Signals More Rate Hikes - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJKUVBfWmp2bTRfdjdMNUlRTGVrZ2NDcWRKdUNQRmtPb1FnQVlOYmRUSHc1c0E5S21mZVRHYkNoNUUwZVE1Y0FxV0RZWjF0OTZnTTY2UDVCSG8tVS1CTUQ3WXE2Tm5TaTQ0YkROMF9KN2F3cE1nQVhMVGphcW1wVlJJaGxTLTJDN09TZEdNRFhTdlprQVluOFh2NFFKQU9PaG41OXYxdkNpaHZRZGVBanJBRjg1SGx3QlVnMENVMlh4RlI4eTIzN0hTMFc3S3BCVzN5a093?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 04:46:24 GMT"
     },
     {
       "title": "News by CNBC TV18 on TradingView, 2026-11-22 — cnbctv:a89d35fe5094b:0 - TradingView",
@@ -154,6 +156,12 @@
       "publishedAt": "Thu, 19 Nov 2026 11:30:37 GMT"
     },
     {
+      "title": "Nifty, Sensex open lower as sell-off in AI weighs on sentiment, Gold down to lowest level of 2026 - ChiniMandi",
+      "source": "ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekt2czZqeUhONWZqYjZ3SW5KczhrQ1Ftc1hzUjV2NVU1SmNqU1dkeW84cElRdm9wQU9kVnNncW9GbDJOR19DbXlZWnkwcUFGSHhLTi1hLU1Ua3R2Q1ZQMWFlclFlTzIySV9vS05nWG14SzE3QlJlSlpNNGpJRzdmOHQzYlpHRjNoTURCS3dYU3liamNkSmlwSmdia21sbVk1SHVnbk1VVmY2ejFkTGhSRngzQTU3aEd5OGtJRGNsQUs?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:23:32 GMT"
+    },
+    {
       "title": "Sensex, Nifty Open Lower as Global AI Selloff Weighs - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDdBZ0xXNTh2YlBRTTByMlFsbm5mMmpRbE1BYmVvN0VfMHdVVWtpY0ZpdzVRV01UaUJBR2lPQ3c3WWloaWJqZi0xQ0puTG9IUkxydzd5WW5QTnBWeDhUaC1HUm82TGNGYW9IM25JZ2xLRWRGQzZGSEphcmtOTXduNFNvSlNuSFZlMnNqRlQ0al9zYWpmeWg3MUtwQ2dWb21GNW1Pc3lBVmNwSXVnbFFUdU9hYkpfTVdkdUE4cHFDQ1ItZw?oc=5",
@@ -166,16 +174,16 @@
       "publishedAt": "Wed, 18 Nov 2026 04:19:06 GMT"
     },
     {
+      "title": "FPI, crude oil, global trends to to steer markets in holiday-shortened week - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT1VaRGNHd1BJRkhRVDVQY1RRc1l0VHRDdWF6TjdqWERTZXdINzU3WU5UQm1lLVJwSzM1Q2RmQ0xMQ1AyTWs2NldOM2FhQnZJeVZMc2plSjdleXRjc2dzU0d1UDd2eTA4Q1hXcTZRS1IyV1h4ek9fb0VFTDNodlZlN1g5TmdqT0IyemFvQ3JBbEtld3c2UzRVQ0hWQTdBVXdIN2VmZkNwQWRuYzExVk9FaVlFNG5lYm1lWEFXaUNxVlBZc0xWQndjaC1CRlFlZGFicWVQQnJXc9IB3AFBVV95cUxPQl9kN1ZueE8wNTV4YWozeEo3akV0Yy1sZUxfSXpiSlVGd0FTYVpncWNtM2ZHVWp2el9uNVNHelIzY1NpeERvTHJnWURUY3BtNDhiQUx2SEtBVmROTTYtWE9ZamtqVEZJQTJnLWZnaDNRdXV2YlpzQTJvRTNHSVpGaWhsb3AzSWZ4eGlsR1BTRkNjRXZhTFpLblpUVzZLbFVLR19kd0ZzcEVGbWVzb01IOFM5TzFfNG83djA4dlU4aTlBeVZnUWJlZ3YwOTdBNjYzandnUFNfWXBQZG5n?oc=5",
+      "publishedAt": "Sun, 22 Nov 2026 09:47:11 GMT"
+    },
+    {
       "title": "Stock Market Update 20 November 2026: Sensex Fell Around 250 Points; Nifty 50 Below 25,450 in Early Trade - Kotak Neo",
       "source": "Kotak Neo",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWpRb3hrcFZtVWZ4QTl2a1VTUGRncG9tWHZlNk50Z1Nsc1RFTTkyZmlFWlRqYkFmRko4SV9rYzl1dTFwR0VxdWxmYkJCUUp5b2wxM0V1d0hEd1Rsc2xjMTZ3clc5anZCN1l4Zk1NbVZnQVdXU3VRSXF5aktIYm5sLXRTd0dNSU03NVlxd1EydFNzbFhnTUlN?oc=5",
       "publishedAt": "Fri, 20 Nov 2026 04:49:55 GMT"
-    },
-    {
-      "title": "Stock Market Today: Gift Nifty Signals Gap-Down Open - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm5nRG9abE9UZzc1MFNkVkRZRUhXZUFLckJLZGI2SG4zVnU1cVJ3OW1waEZfN3NPRXU2dEZJVVNQcDRraURiU0xtUnpKeUNteC0tS0VudC16WEh2U1lMZUhsSG1yeTNXQzhLbVFYY3FOejNlTjJwdVA5VEFjbTFaTnRMOW50SS1yVm1ZT3ZMVlNJRGt4WkZwSVNtYlhMTjFodVE?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 03:29:37 GMT"
     },
     {
       "title": "NSE stock price rallies 5% on huge volume; zooms 35% from October low - Business Standard",
