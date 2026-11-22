@@ -1,51 +1,108 @@
 {
-  "headline": "Last session: Indian benchmark indices extended their weekly rally with Sensex and Nifty reaching nine-month highs.",
+  "headline": "Market closed for weekend; Shriram Finance to join Sensex as Trent exits in upcoming rejig",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Wednesday, 25 November.",
-    "nextOpen": "Wednesday, 25 November 2026"
+    "nextOpen": "Wednesday, 25 November"
   },
   "why": [
-    "India and the European Union are set to sign a landmark Free Trade Agreement on December 16.",
-    "Record Foreign Institutional Investor (FII) buying supported momentum in recent sessions.",
-    "Banking and IT sector stocks provided key support for market recovery during recent trading.",
-    "Global headlines reflected market stabilization efforts in South Korea and margin policy adjustments in China."
+    "The market is closed today due to the weekend.",
+    "BSE announced a Sensex index rejig effective from December 21.",
+    "Lodha Developers announced a transition in its board leadership.",
+    "October engineering export data showed significant growth in US shipments."
   ],
   "whatHappening": [
-    "The Indian stock market is closed today, Sunday, 22 November 2026, due to the weekend.",
-    "Over recent trading sessions, Sensex and Nifty extended a four-week rally to hit nine-month highs.",
-    "The Labour Ministry launched a job-matching portal alongside an occupational shortage index.",
-    "Regular market trading operations will resume on Wednesday, 25 November 2026."
+    "Shriram Finance is scheduled to replace Trent in the BSE Sensex index starting December 21.",
+    "Mukund Chitale has stepped down as Chairman of Lodha Developers, with Akhil Gupta named as his successor.",
+    "India's engineering exports surged 36% in October, supported by robust demand from the United States.",
+    "The Labour Ministry has introduced a new job-matching portal and an occupational shortage index."
   ],
-  "stocksInNews": [],
-  "summary": "The Indian equity market is closed today due to the weekend and will reopen on Wednesday. In recent trading sessions, Sensex and Nifty extended their four-week rally to reach nine-month highs, propelled by strong FII inflows and support from banking and IT stocks. Investors are also tracking upcoming trade catalysts, including the planned India-EU Free Trade Agreement in December.",
-  "updatedAt": "2026-11-22T14:31:24.690Z",
+  "stocksInNews": [
+    {
+      "symbol": "SHRIRAMFIN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/1 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "TRENT",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/1 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "LODHA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/1 sources",
+      "articleIds": [
+        1
+      ]
+    }
+  ],
+  "summary": "The Indian market remains closed for the weekend, with attention on the upcoming Sensex rejig where Shriram Finance replaces Trent. Corporate news is highlighted by a leadership change at Lodha Developers. Economic indicators remain positive as engineering exports jumped 36% in October.",
+  "updatedAt": "2026-11-22T15:01:35.859Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-22",
   "articleKeys": [
+    "ac milan vs frosinone calcio live streaming when and where to watch serie a match live in india",
+    "lodha developers chairman mukund chitale steps down akhil gupta to replace",
+    "sensex rejig shriram finance to enter bse index from dec 21 as trent takes an exit",
+    "jee main 2027 session 1 over 15 lakh applications received as registration ends today",
+    "ramayana box office collection day 18 film stays strong on third sunday",
+    "un climate talks collapse in acrimony as nations reject deal",
+    "liverpool vs manchester united live streaming when and where to watch premier league match",
     "labour ministry launches jobmatching portal occupational shortage index",
-    "chinas spies set sights on ai semiconductors years before nvidia scandal",
-    "esic notifies new rules under labour codes eases benefit claims process",
-    "nsc or bank fd where can you get better returns on your savings",
-    "china lowers margin requirement to 80 to boost stock liquidity",
-    "mother of all deals india european union likely to sign free trade agreement on dec 16",
-    "south korea rolls out phased measures to stabilize volatile markets",
-    "south korea prepares market stabilisation funds after kospi hits 10month low",
-    "godzilla minus zero box office collection day 2 takashi yamazaki film gains momentum in india",
-    "indiaeu trade pact likely to be signed on december 16",
-    "indian stock market extends 4week rally as sensex and nifty hit 9month highs on record fii buying kotak neo",
-    "sensex nifty open lower as fed signals more rate hikes hdfc sky",
-    "news by cnbc tv18 on tradingview 20261122 cnbctva89d35fe5094b0 tradingview",
-    "markets bounce back led by auto bank stocks sensex surges nearly 1000 pts nifty reclaims 25500 the hindu",
-    "nifty sensex open lower as selloff in ai weighs on sentiment gold down to lowest level of 2026 chinimandi",
-    "sensex nifty open lower as global ai selloff weighs hdfc sky",
-    "stock market update 18 november 2026 sensex drops over 500 points nifty 50 below 25250 in early trade kotak neo",
-    "stock market update 20 november 2026 sensex fell around 250 points nifty 50 below 25450 in early trade kotak neo",
-    "stock market today gift nifty signals gapdown open hdfc sky",
-    "market midday 20 november 2026 sensex and nifty 50 gain as banking and it stocks support recovery kotak neo"
+    "engineering exports jump 36 in october on strong us shipments eepc",
+    "arjun bijlani tells trolls to find something else on the net to comment on amid backlash over remarks on wife neha"
   ],
   "articles": [
+    {
+      "title": "AC Milan vs Frosinone Calcio Live Streaming: When And Where To Watch Serie A Match Live In India?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/ac-milan-vs-frosinone-live-streaming-when-and-where-to-watch-serie-a-match-live-in-india-12360461#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 19:30:01 +0530"
+    },
+    {
+      "title": "Lodha Developers Chairman Mukund Chitale Steps Down; Akhil Gupta To Replace",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/lodha-developers-chairman-mukund-chitale-steps-down-akhil-gupta-to-replace-12362345#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 19:18:05 +0530"
+    },
+    {
+      "title": "Sensex Rejig: Shriram Finance To Enter BSE Index From Dec. 21 As Trent Takes An Exit",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/sensex-rejig-shriram-finance-to-enter-bse-index-from-dec-21-as-trent-takes-an-exit-12362513#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 19:17:55 +0530"
+    },
+    {
+      "title": "JEE Main 2027 Session 1: Over 15 Lakh Applications Received As Registration Ends Today",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/education/jee-main-2027-session-1-over-15-lakh-applications-received-as-registration-ends-today-12362490#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 19:11:19 +0530"
+    },
+    {
+      "title": "Ramayana Box Office Collection Day 18: Film Stays Strong On Third Sunday",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/ramayana-box-office-collection-day-18-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-film-stays-strong-on-third-sunday-12362396#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 19:11:15 +0530"
+    },
+    {
+      "title": "UN Climate Talks Collapse In Acrimony As Nations Reject Deal",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/un-climate-talks-collapse-in-acrimony-as-nations-reject-deal-12362459#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 19:01:40 +0530"
+    },
+    {
+      "title": "Liverpool vs Manchester United Live Streaming: When And Where To Watch Premier League Match?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/liverpool-vs-manchester-united-live-streaming-when-and-where-to-watch-premier-league-match-12360604#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 19:00:01 +0530"
+    },
     {
       "title": "Labour ministry launches job-matching portal, occupational shortage index",
       "source": "Zerodha Pulse",
@@ -53,118 +110,16 @@
       "publishedAt": "Sun, 22 Nov 2026 18:53:53 +0530"
     },
     {
-      "title": "China's spies set sights on AI semiconductors years before Nvidia scandal",
+      "title": "Engineering Exports Jump 36% In October On Strong US Shipments: EEPC",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/china-s-spies-set-sights-on-ai-semiconductors-years-before-nvidia-scandal-126112200539_1.html",
-      "publishedAt": "Sun, 22 Nov 2026 18:20:44 +0530"
+      "link": "https://www.ndtvprofit.com/business/engineering-exports-jump-36-in-october-on-strong-us-shipments-eepc-12362235#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 18:53:04 +0530"
     },
     {
-      "title": "ESIC notifies new rules under labour codes, eases benefit claims process",
+      "title": "Arjun Bijlani Tells Trolls To Find Something Else On The Net To Comment On' Amid Backlash Over Remarks On Wife Neha",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/finance/insurance/esic-notifies-new-rules-under-labour-codes-eases-benefit-claims-process-126112200513_1.html",
-      "publishedAt": "Sun, 22 Nov 2026 17:57:36 +0530"
-    },
-    {
-      "title": "NSC Or Bank FD: Where Can You Get Better Returns On Your Savings?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/personal-finance/nsc-vs-bank-fd-where-can-you-get-better-returns-on-your-savings-12358864#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 17:52:58 +0530"
-    },
-    {
-      "title": "China Lowers Margin Requirement To 80% To Boost Stock Liquidity",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity-12362221#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 17:37:02 +0530"
-    },
-    {
-      "title": "'Mother Of All Deals': India, European Union Likely To Sign Free Trade Agreement On Dec 16",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/india-european-union-likely-to-sign-free-trade-agreement-on-dec-16-12362098#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 17:33:05 +0530"
-    },
-    {
-      "title": "South Korea Rolls Out Phased Measures To Stabilize Volatile Markets",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/south-korea-rolls-out-phased-measures-to-stabilize-volatile-markets-12362162#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 17:17:49 +0530"
-    },
-    {
-      "title": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/articleshow/136073016.cms",
-      "publishedAt": "Sun, 22 Nov 2026 17:15:31 +0530"
-    },
-    {
-      "title": "Godzilla Minus Zero Box Office Collection Day 2: Takashi Yamazaki Film Gains Momentum In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/godzilla-minus-zero-box-office-collection-day-2-takashi-yamazaki-film-gains-momentum-in-india-12362133#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 17:10:23 +0530"
-    },
-    {
-      "title": "India-EU trade pact likely to be signed on December 16",
-      "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
-      "publishedAt": "Sun, 22 Nov 2026 17:09:31 +0530"
-    },
-    {
-      "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHRLUWlWUGExQUVQdm41Q3RTXzVkdzhBNVY1ckc2X2VmRHQ5ZGdESlV2Z290X0lWVXdCcHh2MkZkZE9rcWRfUVBzVTFiWHZEZTZXV0R2VjVaZlh5dXFBQUw2WE0wcHF1ZnBlWWR2REFwS3F4dXlCR3FoLXNBZDBHYmxva3NhLWt3eHV4ZGxoSjBQc3RPQ1pNVXl5c2pVaGIzYU54Ni1TUHh1bzI3dG9UYWR4NTR0QUxjalFCV3pvTXV6MzJacy1ORmxHZU1FcDVrLWpSUjNwYjEzSVFOejc5N0hn?oc=5",
-      "publishedAt": "Sat, 21 Nov 2026 05:52:38 GMT"
-    },
-    {
-      "title": "Sensex, Nifty Open Lower as Fed Signals More Rate Hikes - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzJKUVBfWmp2bTRfdjdMNUlRTGVrZ2NDcWRKdUNQRmtPb1FnQVlOYmRUSHc1c0E5S21mZVRHYkNoNUUwZVE1Y0FxV0RZWjF0OTZnTTY2UDVCSG8tVS1CTUQ3WXE2Tm5TaTQ0YkROMF9KN2F3cE1nQVhMVGphcW1wVlJJaGxTLTJDN09TZEdNRFhTdlprQVluOFh2NFFKQU9PaG41OXYxdkNpaHZRZGVBanJBRjg1SGx3QlVnMENVMlh4RlI4eTIzN0hTMFc3S3BCVzN5a093?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 04:46:24 GMT"
-    },
-    {
-      "title": "News by CNBC TV18 on TradingView, 2026-11-22 — cnbctv:a89d35fe5094b:0 - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11d25iWXd0NnExcENMSl92NFp3Y3A3YVBvSzE2WFhLN0R5X2ZwTjFSVDNxOFZQb0VxUncwamo1YkhqOG9hczF2bHNubUxwZDN3SGlRY3dzSTZ4d0p6dXduZU94LWtoQnM?oc=5",
-      "publishedAt": "Sun, 22 Nov 2026 06:28:00 GMT"
-    },
-    {
-      "title": "Markets bounce back led by auto, bank stocks; Sensex surges nearly 1,000 pts, Nifty reclaims 25,500 - The Hindu",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUWx1NDdYSjhqYVFBTkZmN0hPaGk3U1JhemQ2cDFDR0FqTDZvczVDU0ExS0tZZ2o1RTJRR1NMQkdCTzZuSWx3d2cwSzNrUFdrekJWWjh3MDJ6Ym5KMlVkVzEtekdTc2dGOVRKNWdSZGxJcDFlTG1xNkRHUVNsSHNwN1RJa0NCSURpU0NLa3BoTUJEekl1MnhKLUE5MXhNczk2dTFFYkZGbGRlN0FvaWFFMXJjajVmYTBRUkdxeGVaN3FvM3lELTM5Vkh0MHZ3SmFhS2NScUY5WmJ4UC1qODFNa1dCX0R5M0FLeWpiRtIB8wFBVV95cUxNUVdXRUJRY1hOeDNoYnFyOXcxMkNMME50WnJSSlZzU0VFUHlWREVVcUh4LWJUbllYaDJFWkZ3aFpwcUlEM29HbDRkYUsweGxmUVdvQzBGdWMxVHFXZEhkbHJURmltU2Y2U1JqcWgtc3Z1Q0tkSEt3bmhOMWg1dXpxN1FuQWdwajl6YUpTekhyeTc0Q1J6THRkUFVuOUlTMTJWVlBIZnhOSGRxZkgyVS1jaUY4U2lUU1NpQ29uVFhIaUp1ZU50Ym1xa1lLSHhqNjE3c1JTNW9uSDZPd29oR2R4VmJrMldCQXhmekZIeUZvUk5rZ2M?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 11:30:37 GMT"
-    },
-    {
-      "title": "Nifty, Sensex open lower as sell-off in AI weighs on sentiment, Gold down to lowest level of 2026 - ChiniMandi",
-      "source": "ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekt2czZqeUhONWZqYjZ3SW5KczhrQ1Ftc1hzUjV2NVU1SmNqU1dkeW84cElRdm9wQU9kVnNncW9GbDJOR19DbXlZWnkwcUFGSHhLTi1hLU1Ua3R2Q1ZQMWFlclFlTzIySV9vS05nWG14SzE3QlJlSlpNNGpJRzdmOHQzYlpHRjNoTURCS3dYU3liamNkSmlwSmdia21sbVk1SHVnbk1VVmY2ejFkTGhSRngzQTU3aEd5OGtJRGNsQUs?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 04:23:32 GMT"
-    },
-    {
-      "title": "Sensex, Nifty Open Lower as Global AI Selloff Weighs - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcDdBZ0xXNTh2YlBRTTByMlFsbm5mMmpRbE1BYmVvN0VfMHdVVWtpY0ZpdzVRV01UaUJBR2lPQ3c3WWloaWJqZi0xQ0puTG9IUkxydzd5WW5QTnBWeDhUaC1HUm82TGNGYW9IM25JZ2xLRWRGQzZGSEphcmtOTXduNFNvSlNuSFZlMnNqRlQ0al9zYWpmeWg3MUtwQ2dWb21GNW1Pc3lBVmNwSXVnbFFUdU9hYkpfTVdkdUE4cHFDQ1ItZw?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 04:33:51 GMT"
-    },
-    {
-      "title": "Stock Market Update 18 November 2026: Sensex Drops Over 500 Points; Nifty 50 Below 25,250 In Early Trade - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ2JqV2pYVTJYUkJ5RDNoYzJESUN4THItaXNqQWdzZi1RblhRUUVLdnA2cUYzUDVaUGF1ampBUHFwN1o5SmZ6aXpuclRROHNqU0RsUDhGWENkNXE2UTB5UWljcEVEUmFnYUdhM2Q3MGtibFJBQUdaMEMxMTBUOHBRS1ZsSU1pSVFwX3I4TUtkTGJsUXU0VzBF?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 04:19:06 GMT"
-    },
-    {
-      "title": "Stock Market Update 20 November 2026: Sensex Fell Around 250 Points; Nifty 50 Below 25,450 in Early Trade - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWpRb3hrcFZtVWZ4QTl2a1VTUGRncG9tWHZlNk50Z1Nsc1RFTTkyZmlFWlRqYkFmRko4SV9rYzl1dTFwR0VxdWxmYkJCUUp5b2wxM0V1d0hEd1Rsc2xjMTZ3clc5anZCN1l4Zk1NbVZnQVdXU3VRSXF5aktIYm5sLXRTd0dNSU03NVlxd1EydFNzbFhnTUlN?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 04:49:55 GMT"
-    },
-    {
-      "title": "Stock Market Today: Gift Nifty Signals Gap-Down Open - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYm5nRG9abE9UZzc1MFNkVkRZRUhXZUFLckJLZGI2SG4zVnU1cVJ3OW1waEZfN3NPRXU2dEZJVVNQcDRraURiU0xtUnpKeUNteC0tS0VudC16WEh2U1lMZUhsSG1yeTNXQzhLbVFYY3FOejNlTjJwdVA5VEFjbTFaTnRMOW50SS1yVm1ZT3ZMVlNJRGt4WkZwSVNtYlhMTjFodVE?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 03:29:37 GMT"
-    },
-    {
-      "title": "Market Midday, 20 November 2026: Sensex and Nifty 50 Gain as Banking and IT Stocks Support Recovery - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXRVVi1OY3lSVjNiLVA0aTJvZ1VEM3dQeVVTODFGU2VwbDhaeHV4U2JFYjVjYWRtUndhRXBoeEliMjFTUFAxQUN2Z2RMUGxESXU3Y3U1MVZFUXRqRndKMHpXbURKZ2RwUUZRcDJvaDY3RXg1cFItNS1WRk5fU2tqX3dNdUkzQkpuRmlnNm5XMVEyU0JxODJtRHhNTUJyTE8tcTE2Tw?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 07:03:13 GMT"
+      "link": "https://www.ndtvprofit.com/entertainment/arjun-bijlani-tells-trolls-to-find-something-else-on-the-net-to-comment-on-amid-backlash-over-remarks-on-wife-neha-12362392#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 18:48:06 +0530"
     }
   ]
 }
