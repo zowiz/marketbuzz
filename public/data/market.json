@@ -1,5 +1,5 @@
 {
-  "headline": "Last session: Sensex soared nearly 700 points as Nifty surpassed 25,700 driven by strong FII inflows.",
+  "headline": "Last session: Sensex and Nifty supported by banking and IT stocks amid global AI sell-off",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Wednesday, 25 November"
   },
   "why": [
-    "Record FII buying helped extend the four-week market rally during the last session.",
-    "Concerns over Fed rate hikes and a global AI selloff previously exerted downward pressure on equities.",
-    "Tata Steel announced a major deal to sell two of its business units to APL Apollo Tubes for ₹28,000 crore.",
-    "Punjab National Bank clarified that its ₹5,000 crore ECL provision requirement will not hit profitability."
+    "Sensex and Nifty reached 9-month highs supported by record FII buying.",
+    "Global sell-off in AI stocks weighed on market sentiment during recent sessions.",
+    "Cues regarding potential US Fed rate hikes created early trade caution.",
+    "Banking and IT stocks helped drive market recovery in recent sessions."
   ],
   "whatHappening": [
-    "The Indian stock market is closed today due to the weekend.",
-    "In the last trading session, equity benchmarks Sensex and Nifty climbed to 9-month highs.",
-    "APL Apollo Tubes agreed to buy Tata Steel's tubes and colors business for ₹28,000 crore.",
-    "Shree Cement set a target to cross 100 MT capacity in 3-4 years with expected growth of 9-10%."
+    "Tata Steel announced a ₹28,000 crore deal with APL Apollo Tubes for two units.",
+    "Federation of Indian Pilots raised concerns to the Civil Aviation Minister regarding the SpiceJet crisis.",
+    "Shree Cement announced plans to cross 100 MT capacity within 3-4 years.",
+    "PNB MD stated ECL provision requirement of around ₹5,000 crore will have no impact on profitability."
   ],
   "stocksInNews": [
     {
@@ -24,8 +24,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/5 sources",
       "articleIds": [
-        0,
-        6
+        2
       ]
     },
     {
@@ -33,16 +32,7 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/5 sources",
       "articleIds": [
-        0,
-        6
-      ]
-    },
-    {
-      "symbol": "PNB",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/5 sources",
-      "articleIds": [
-        3
+        2
       ]
     },
     {
@@ -50,37 +40,97 @@
       "sentiment": "Positive",
       "sources": "Mentioned by 1/5 sources",
       "articleIds": [
-        4
+        8
+      ]
+    },
+    {
+      "symbol": "PNB",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/5 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "SPICEJET",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/5 sources",
+      "articleIds": [
+        0
+      ]
+    },
+    {
+      "symbol": "FORTIS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/5 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "PAYTM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/5 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/5 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/5 sources",
+      "articleIds": [
+        1
       ]
     }
   ],
-  "summary": "The Indian stock market is closed today for the weekend. On the last trading session, Sensex and Nifty touched 9-month highs following robust foreign institutional buying. Meanwhile, major deal announcements included APL Apollo acquiring Tata Steel's tubes and colors business for ₹28,000 crore.",
-  "updatedAt": "2026-11-22T17:31:32.426Z",
+  "summary": "The Indian stock market extended its 4-week rally to 9-month highs driven by strong FII inflows. Recent trading sessions saw volatility from global AI sell-offs and Fed rate hike cues, offset by recovery in banking and IT stocks. Major corporate news included Tata Steel's ₹28,000 crore deal and Shree Cement's expansion plans.",
+  "updatedAt": "2026-11-22T18:01:48.673Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-22",
   "articleKeys": [
+    "federation of indian pilots writes to civil aviation minister on spicejet crisis",
+    "buy sell or hold fortis healthcare paytm icici bank and hdfc bank ask profit",
     "tata steel announces 28000 cr deal with apl apollo tubes for two units",
     "fssai sanctions prosecution against bisleri over unsafe water sample",
+    "atalanta vs inter milan live streaming when and where to watch serie a match",
+    "bullion may extend losses this week as us economic data fed cues loom analysts",
     "ene repeat box office collection day 4 vishwak sen starrer holds steady on first sunday",
     "pnb md says ecl provision requirement is around rs 5000 crore with no impact on profitability",
     "shree cement to cross 100 mt capacity in 34 yrs targets 910 growth chairman hari mohan bangur",
     "fssai finds sample of bisleri packaged drinking water unsafe",
-    "apl apollo to buy tata steels tubes and colors business for rs 28000 crore",
-    "extremely cheap yet too risky why bernstein is hesitating to buy the dip in nvidia stock",
-    "modi says 50crore people lifted out of poverty but some still hesitant to acknowledge it",
-    "scene box office collection day 17 suriya starrer crosses key milestone on third sunday",
-    "nifty sensex open lower market to stay rangebound with positive undertone experts dd news",
-    "why is the stock market up today sensex soars close to 700 pts nifty surpasses 25700 reasons for market rally kotak neo",
+    "indian stock market extends 4week rally as sensex and nifty hit 9month highs on record fii buying kotak neo",
     "sensex nifty open lower as fed signals more rate hikes hdfc sky",
     "news by cnbc tv18 on tradingview 20261122 cnbctva89d35fe5094b0 tradingview",
-    "why stock market is down today factors contributing to the fall of equity benchmarks in todays trade kotak neo",
+    "nifty sensex open lower as selloff in ai weighs on sentiment gold down to lowest level of 2026 chinimandi",
     "sensex nifty open lower as global ai selloff weighs hdfc sky",
-    "indian stock market extends 4week rally as sensex and nifty hit 9month highs on record fii buying kotak neo",
-    "stock market today gift nifty signals gapdown open hdfc sky",
     "stock market update 18 november 2026 sensex drops over 500 points nifty 50 below 25250 in early trade kotak neo",
+    "stock market update 20 november 2026 sensex fell around 250 points nifty 50 below 25450 in early trade kotak neo",
+    "stock market today gift nifty signals gapdown open hdfc sky",
+    "market midday 20 november 2026 sensex and nifty 50 gain as banking and it stocks support recovery kotak neo",
     "stock market today sensex nifty mixed at preopen hdfc sky"
   ],
   "articles": [
+    {
+      "title": "Federation Of Indian Pilots Writes To Civil Aviation Minister On SpiceJet Crisis",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/federation-of-indian-pilots-writes-to-civil-aviation-minister-on-spicejet-crisis-12363087#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 22:15:45 +0530"
+    },
+    {
+      "title": "Buy, Sell Or Hold: Fortis Healthcare, Paytm, ICICI Bank And HDFC Bank — Ask Profit",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-fortis-healthcare-paytm-icici-bank-and-hdfc-bank-ask-profit-12363077#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 22:14:16 +0530"
+    },
     {
       "title": "Tata Steel announces ₹28,000 cr deal with APL Apollo Tubes for two units",
       "source": "Zerodha Pulse",
@@ -92,6 +142,18 @@
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/industry/news/fssai-sanctions-prosecution-against-bisleri-over-unsafe-water-sample-126112200774_1.html",
       "publishedAt": "Sun, 22 Nov 2026 22:07:23 +0530"
+    },
+    {
+      "title": "Atalanta vs Inter Milan Live Streaming: When And Where To Watch Serie A Match?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/atalanta-vs-inter-milan-live-streaming-when-and-where-to-watch-serie-a-match-12360567#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 22:00:01 +0530"
+    },
+    {
+      "title": "Bullion May Extend Losses This Week As US Economic Data, Fed Cues Loom: Analysts",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/markets/bullion-may-extend-losses-this-week-as-us-economic-data-fed-cues-loom-analysts-12363000#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 21:59:57 +0530"
     },
     {
       "title": "ENE Repeat Box Office Collection Day 4: Vishwak Sen Starrer Holds Steady On First Sunday",
@@ -118,40 +180,10 @@
       "publishedAt": "Sun, 22 Nov 2026 20:45:27 +0530"
     },
     {
-      "title": "APL Apollo To Buy Tata Steel's Tubes And Colors Business For Rs 28,000 Crore",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/apl-apollo-to-buy-tata-steels-tubes-and-colors-business-for-rs-28-000-crore-12362748#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 20:45:04 +0530"
-    },
-    {
-      "title": "'Extremely Cheap' Yet Too Risky: Why Bernstein Is Hesitating To Buy The Dip In Nvidia Stock",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/extremely-cheap-yet-too-risky-why-bernstein-is-hesitating-to-buy-the-dip-in-nvidia-stock-12362662#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 20:42:28 +0530"
-    },
-    {
-      "title": "Modi Says 50-Crore People Lifted Out Of Poverty, But Some Still Hesitant To Acknowledge It",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/economy/modi-50-crore-people-lifted-out-of-poverty-but-some-still-hesitant-to-acknowledge-it-12362701#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 20:39:51 +0530"
-    },
-    {
-      "title": "Scene Box Office Collection Day 17: Suriya Starrer Crosses Key Milestone On Third Sunday",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/scene-box-office-collection-day-17-suriya-starrer-crosses-key-milestone-on-third-sunday-12362651#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 20:30:21 +0530"
-    },
-    {
-      "title": "Nifty, Sensex open lower; market to stay range-bound with positive undertone: experts - DD News",
-      "source": "DD News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGdYNEhHMFZZeU5ZOXg4ajZjYV80dzVmbzdMaWwwdWZ5SnFhYVRaSEFCSllzMDlvSi1FYV9sNlFydzB4c1Fqamp6ZXZ1enBXbnh0VjFpMXFFYVZpY3VhSjd4aUlFaGNRWTczYTk1SDdIUTJ3UkJ5WFI0bUJlb3JYc2dCdW1RTDl0emVWaXZDZS1XUlhyNmhYTWJzN29ROGg5R3JzTHhkNG5zdGct?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 11:05:07 GMT"
-    },
-    {
-      "title": "Why is the Stock Market Up Today? Sensex Soars Close to 700 Pts, Nifty Surpasses 25,700: Reasons for Market Rally - Kotak Neo",
+      "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
       "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
-      "publishedAt": "Fri, 20 Nov 2026 08:00:00 GMT"
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHRLUWlWUGExQUVQdm41Q3RTXzVkdzhBNVY1ckc2X2VmRHQ5ZGdESlV2Z290X0lWVXdCcHh2MkZkZE9rcWRfUVBzVTFiWHZEZTZXV0R2VjVaZlh5dXFBQUw2WE0wcHF1ZnBlWWR2REFwS3F4dXlCR3FoLXNBZDBHYmxva3NhLWt3eHV4ZGxoSjBQc3RPQ1pNVXl5c2pVaGIzYU54Ni1TUHh1bzI3dG9UYWR4NTR0QUxjalFCV3pvTXV6MzJacy1ORmxHZU1FcDVrLWpSUjNwYjEzSVFOejc5N0hn?oc=5",
+      "publishedAt": "Sat, 21 Nov 2026 05:52:38 GMT"
     },
     {
       "title": "Sensex, Nifty Open Lower as Fed Signals More Rate Hikes - HDFC Sky",
@@ -166,10 +198,10 @@
       "publishedAt": "Sun, 22 Nov 2026 06:28:00 GMT"
     },
     {
-      "title": "Why Stock Market Is Down Today? Factors Contributing To The Fall Of Equity Benchmarks In Today’s Trade - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByWE04WVJrYm56SnV5ZjhHRjU5ZnE1SmNmVXpnenQ4V0FPODFLR3ZyNEJOVXdFdVVPVUs0V3pVT3ROdVhkRFNlRUVNeFVvYjEzZVhkbVBnTm1XNGRpRDhUNFhJejRoQWllQmVDWTFtQjA2WlMzLS1xTDA5ZHg5UQ?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 08:00:00 GMT"
+      "title": "Nifty, Sensex open lower as sell-off in AI weighs on sentiment, Gold down to lowest level of 2026 - ChiniMandi",
+      "source": "ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQekt2czZqeUhONWZqYjZ3SW5KczhrQ1Ftc1hzUjV2NVU1SmNqU1dkeW84cElRdm9wQU9kVnNncW9GbDJOR19DbXlZWnkwcUFGSHhLTi1hLU1Ua3R2Q1ZQMWFlclFlTzIySV9vS05nWG14SzE3QlJlSlpNNGpJRzdmOHQzYlpHRjNoTURCS3dYU3liamNkSmlwSmdia21sbVk1SHVnbk1VVmY2ejFkTGhSRngzQTU3aEd5OGtJRGNsQUs?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:23:32 GMT"
     },
     {
       "title": "Sensex, Nifty Open Lower as Global AI Selloff Weighs - HDFC Sky",
@@ -178,10 +210,16 @@
       "publishedAt": "Fri, 20 Nov 2026 04:33:51 GMT"
     },
     {
-      "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
+      "title": "Stock Market Update 18 November 2026: Sensex Drops Over 500 Points; Nifty 50 Below 25,250 In Early Trade - Kotak Neo",
       "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHRLUWlWUGExQUVQdm41Q3RTXzVkdzhBNVY1ckc2X2VmRHQ5ZGdESlV2Z290X0lWVXdCcHh2MkZkZE9rcWRfUVBzVTFiWHZEZTZXV0R2VjVaZlh5dXFBQUw2WE0wcHF1ZnBlWWR2REFwS3F4dXlCR3FoLXNBZDBHYmxva3NhLWt3eHV4ZGxoSjBQc3RPQ1pNVXl5c2pVaGIzYU54Ni1TUHh1bzI3dG9UYWR4NTR0QUxjalFCV3pvTXV6MzJacy1ORmxHZU1FcDVrLWpSUjNwYjEzSVFOejc5N0hn?oc=5",
-      "publishedAt": "Sat, 21 Nov 2026 05:52:38 GMT"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ2JqV2pYVTJYUkJ5RDNoYzJESUN4THItaXNqQWdzZi1RblhRUUVLdnA2cUYzUDVaUGF1ampBUHFwN1o5SmZ6aXpuclRROHNqU0RsUDhGWENkNXE2UTB5UWljcEVEUmFnYUdhM2Q3MGtibFJBQUdaMEMxMTBUOHBRS1ZsSU1pSVFwX3I4TUtkTGJsUXU0VzBF?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 04:19:06 GMT"
+    },
+    {
+      "title": "Stock Market Update 20 November 2026: Sensex Fell Around 250 Points; Nifty 50 Below 25,450 in Early Trade - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUWpRb3hrcFZtVWZ4QTl2a1VTUGRncG9tWHZlNk50Z1Nsc1RFTTkyZmlFWlRqYkFmRko4SV9rYzl1dTFwR0VxdWxmYkJCUUp5b2wxM0V1d0hEd1Rsc2xjMTZ3clc5anZCN1l4Zk1NbVZnQVdXU3VRSXF5aktIYm5sLXRTd0dNSU03NVlxd1EydFNzbFhnTUlN?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 04:49:55 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty Signals Gap-Down Open - HDFC Sky",
@@ -190,10 +228,10 @@
       "publishedAt": "Thu, 19 Nov 2026 03:29:37 GMT"
     },
     {
-      "title": "Stock Market Update 18 November 2026: Sensex Drops Over 500 Points; Nifty 50 Below 25,250 In Early Trade - Kotak Neo",
+      "title": "Market Midday, 20 November 2026: Sensex and Nifty 50 Gain as Banking and IT Stocks Support Recovery - Kotak Neo",
       "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ2JqV2pYVTJYUkJ5RDNoYzJESUN4THItaXNqQWdzZi1RblhRUUVLdnA2cUYzUDVaUGF1ampBUHFwN1o5SmZ6aXpuclRROHNqU0RsUDhGWENkNXE2UTB5UWljcEVEUmFnYUdhM2Q3MGtibFJBQUdaMEMxMTBUOHBRS1ZsSU1pSVFwX3I4TUtkTGJsUXU0VzBF?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 04:19:06 GMT"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVXRVVi1OY3lSVjNiLVA0aTJvZ1VEM3dQeVVTODFGU2VwbDhaeHV4U2JFYjVjYWRtUndhRXBoeEliMjFTUFAxQUN2Z2RMUGxESXU3Y3U1MVZFUXRqRndKMHpXbURKZ2RwUUZRcDJvaDY3RXg1cFItNS1WRk5fU2tqX3dNdUkzQkpuRmlnNm5XMVEyU0JxODJtRHhNTUJyTE8tcTE2Tw?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 07:03:13 GMT"
     },
     {
       "title": "Stock Market Today: Sensex, Nifty Mixed at Pre-Open - HDFC Sky",
