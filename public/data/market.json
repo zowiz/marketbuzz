@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex and Nifty recovered in midday trade supported by banking and IT stocks.",
+  "headline": "On last trading session, Indian markets recovered led by banking and IT stocks; market closed today for weekend.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,50 +7,42 @@
     "nextOpen": "Monday, 23 November"
   },
   "why": [
-    "The Indian stock market is closed today, 22 November 2026, as it is a weekend.",
-    "In the last trading session on 20 November, early market weakness was caused by a sell-off in global AI stocks.",
-    "Midday recovery on Friday was driven by support from banking and IT stocks.",
-    "Federal Reserve signals of potential rate hikes added pressure to market sentiment earlier in the week."
+    "Record FII buying helped Indian benchmark indices extend a 4-week rally to 9-month highs.",
+    "Global sell-off in AI stocks and US Fed rate hike signals created downward pressure in recent sessions.",
+    "Midday recovery in banking, auto, and IT stocks supported buying interest in previous trading sessions.",
+    "Commodity market fluctuations saw gold drop to its lowest level of 2026 while Kotak highlighted copper as attractive."
   ],
   "whatHappening": [
-    "Sensex and Nifty recovered from early losses on 20 November with support from IT and banking sectors.",
-    "Earlier in the week, Sensex surged nearly 1,000 points led by auto and banking stocks after initial declines.",
-    "Upcoming IPOs in the coming week include Shree Siddhivinayak Greentech Industries and Foodlink F&B.",
-    "Key dividend stocks in focus for the week include Vraj Iron And Steel and Pashupati Cotspin."
+    "In the last session on 20 November 2026, Sensex and Nifty 50 recovered midday led by banking and IT stocks after opening lower.",
+    "NSE stock price zoomed 35% from its October low, rallying 5% on heavy trading volume.",
+    "Sensex surged nearly 1,000 points on 19 November as Nifty reclaimed the 25,500 mark.",
+    "Upcoming mainboard and SME IPOs scheduled for the week include Shree Siddhivinayak Greentech Industries and Foodlink F&B."
   ],
   "stocksInNews": [
     {
-      "symbol": "VRAJ",
+      "symbol": "NSE",
       "sentiment": "Positive",
       "sources": "Mentioned by 1/6 sources",
       "articleIds": [
-        8
-      ]
-    },
-    {
-      "symbol": "PASHUPATI",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/6 sources",
-      "articleIds": [
-        8
+        16
       ]
     }
   ],
-  "summary": "The Indian stock market is closed today, 22 November 2026, due to the weekend and will reopen on Monday, 23 November. On the last trading session, Indian indices recovered midday from early global AI sell-off pressure, buoyed by IT and banking stocks. Investors remain focused on upcoming IPOs and dividend-paying stocks in the week ahead.",
-  "updatedAt": "2026-11-22T04:02:16.439Z",
+  "summary": "Indian stock markets are closed today, Sunday 22 November, due to the weekend and will reopen on Monday.\nIn recent sessions, Sensex and Nifty touched 9-month highs driven by record FII buying despite global AI sell-offs.\nLast trading session saw benchmark indices rebound midday supported by strength in banking, auto, and IT shares.",
+  "updatedAt": "2026-11-22T05:01:29.467Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-22",
   "articleKeys": [
+    "anthropics postdebut stumble delivers reality check for ai trade",
+    "iran claims missile strike on us f16 over gulf what centcom factcheck shows",
+    "when coldplay writes drunk and high diljit dosanjh takes a dig at song objections in ahmedabad concert",
+    "uae vs nepal live streaming when and where to watch asia cup rising stars match",
     "kota highway tragedy nine devotees killed six injured as vehicle hits parked truck",
     "om operation mole box office collection day 3 dhanush film earns lesser than opening day mints this amount",
     "gold safer bet than silver copper attractive despite 20 slump kotaks kaynat chainwala",
     "bitcoins charts before spacex and anthropic ipos are eerily identical what bulls need to watch",
     "scene box office collection day 16 suryas film set to cross rs 150 crore mark check earnings",
     "ipos this week shree siddhivinayak greentech industries foodlink fb among issues to watch",
-    "ramayana box office collection gets boost on day 17 net earnings cross rs 900 crore mark",
-    "indian openworld games animals that get the right of way more",
-    "dividend stocks to watch this week fusion cx vraj iron and steel pashupati cotspin",
-    "las vegas grand prix final race live streaming when and where to watch in india",
     "indian stock market extends 4week rally as sensex and nifty hit 9month highs on record fii buying kotak neo",
     "sensex nifty open lower as fed signals more rate hikes hdfc sky",
     "markets bounce back led by auto bank stocks sensex surges nearly 1000 pts nifty reclaims 25500 the hindu",
@@ -63,6 +55,30 @@
     "market midday 20 november 2026 sensex and nifty 50 gain as banking and it stocks support recovery kotak neo"
   ],
   "articles": [
+    {
+      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+      "publishedAt": "Sun, 22 Nov 2026 09:00:15 +0530"
+    },
+    {
+      "title": "Iran Claims Missile Strike On US F-16 Over Gulf: What CENTCOM Fact-Check Shows",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/world/iran-claims-missile-strike-on-us-f-16-over-gulf-what-centcom-fact-check-shows-12360683#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 08:49:21 +0530"
+    },
+    {
+      "title": "'When Coldplay Writes Drunk And High...': Diljit Dosanjh Takes A Dig At Song Objections In Ahmedabad Concert",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/when-coldplay-writes-drunk-and-high-diljit-dosanjh-takes-a-dig-at-song-objections-at-ahmedabad-concert-patiala-peg-12360688#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 08:38:14 +0530"
+    },
+    {
+      "title": "UAE vs Nepal Live Streaming: When And Where To Watch Asia Cup Rising Stars Match?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/sports/uae-vs-nepal-live-streaming-when-and-where-to-watch-asia-cup-rising-stars-match-12360205#publisher=newsstand",
+      "publishedAt": "Sun, 22 Nov 2026 08:30:01 +0530"
+    },
     {
       "title": "Kota Highway Tragedy: Nine Devotees Killed, Six Injured As Vehicle Hits Parked Truck",
       "source": "Zerodha Pulse",
@@ -98,30 +114,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/ipos-this-week-shree-siddhivinayak-greentech-industries-foodlink-f-b-among-issues-to-watch-12353921#publisher=newsstand",
       "publishedAt": "Sun, 22 Nov 2026 07:40:31 +0530"
-    },
-    {
-      "title": "Ramayana Box Office Collection Gets Boost On Day 17, Net Earnings Cross Rs 900 Crore Mark",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/ramayana-box-office-collection-gets-boost-on-day-17-net-earnings-cross-rs-900-crore-mark-12360543#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 07:13:39 +0530"
-    },
-    {
-      "title": "Indian open-world games, animals that get the right of way, & more...",
-      "source": "Zerodha Pulse",
-      "link": "https://finshots.in/archive/indian-open-world-games-animals-that-get-the-right-of-way-more/",
-      "publishedAt": "Sun, 22 Nov 2026 07:00:16 +0530"
-    },
-    {
-      "title": "Dividend Stocks To Watch This Week: Fusion CX, Vraj Iron And Steel, Pashupati Cotspin",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/dividend-stocks-to-watch-this-week-fusion-cx-vraj-iron-and-steel-pashupati-cotspin-12359869#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 06:47:46 +0530"
-    },
-    {
-      "title": "Las Vegas Grand Prix Final Race Live Streaming: When And Where To Watch In India?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/las-vegas-grand-prix-final-race-live-streaming-when-and-where-to-watch-in-india-12360174#publisher=newsstand",
-      "publishedAt": "Sun, 22 Nov 2026 06:30:01 +0530"
     },
     {
       "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
