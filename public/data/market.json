@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex tumbles 1,450 points from day's high as early gains reverse; IT stocks surge while financials drag",
+  "headline": "Sensex tumbles after early gains as market turns volatile; IT stocks surge while financials drag",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,22 +7,22 @@
     "nextOpen": ""
   },
   "why": [
-    "Profit-taking following a sustained four-week market rally",
-    "Global sell-off and weak cues from Asian markets",
-    "Heavy selling pressure in financial, banking, and metal sectors",
-    "Reversal of early morning gains despite initial foreign fund inflows"
+    "Markets reversed early gains due to profit-taking in financial and metal shares following a four-week rally.",
+    "Weak global cues and heavy selling pressure caused the Sensex to slide significantly from opening highs.",
+    "India VIX jumped nearly 8%, reflecting rising market volatility.",
+    "Global anti-AI trading dynamics provided tailwinds for Indian IT stocks."
   ],
   "whatHappening": [
-    "Sensex dropped over 1,450 points from its intraday high, falling below the 25,600 level",
-    "The Nifty IT index rose significantly, with major stocks gaining up to 5% due to global trade shifts",
-    "L&T secured a large-scale order worth ₹5,000 crore for an AI cluster project in Chennai",
-    "Persistent Systems reported a potential data breach involving employee data via a US law firm"
+    "The Sensex dropped over 800 points from early highs, dragging the Nifty below 25,600.",
+    "IT stocks outperformed the general market, with TCS and Tech Mahindra rising up to 5%.",
+    "Larsen & Toubro secured a large ₹5,000 crore order for an AI cluster project in Chennai.",
+    "Persistent Systems reported a data breach involving stolen employee data from a US law firm cyberattack."
   ],
   "stocksInNews": [
     {
       "symbol": "LT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         1
       ]
@@ -30,7 +30,7 @@
     {
       "symbol": "TCS",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         4
       ]
@@ -38,7 +38,7 @@
     {
       "symbol": "TECHM",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         4
       ]
@@ -46,14 +46,14 @@
     {
       "symbol": "PERSISTENT",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/10 sources",
+      "sources": "Mentioned by 1/11 sources",
       "articleIds": [
         7
       ]
     }
   ],
-  "summary": "Indian markets experienced extreme volatility as the Sensex crashed 1,450 points from its opening highs, driven by profit-taking in financials and metals. While the broader market declined, IT stocks like TCS and Tech Mahindra surged up to 5% amid global sector tailwinds. L&T provided a bright spot with a major ₹5,000 crore order win, contrasting with a sharp 1% drop in defense stocks.",
-  "updatedAt": "2026-11-23T06:01:42.666Z",
+  "summary": "Indian benchmark indices opened higher but quickly succumbed to profit-taking in metal and banking stocks, driving the Sensex down over 800 points. Nifty fell below 25,600 as volatility surged amid weak global market cues. Despite market weakness, IT stocks such as TCS and Tech Mahindra rallied up to 5%, while L&T won a ₹5,000 crore AI order.",
+  "updatedAt": "2026-11-23T06:31:21.134Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-23",
   "articleKeys": [
@@ -73,10 +73,10 @@
     "sensex tumbles 1450 pts from opening high nifty sheds 425 pts metal bank shares drag fortune india",
     "stocks reverse early gains as sensex sinks nifty falls below 25700 press insider",
     "sensex nifty open higher on foreign inflows despite weak asian cues turn negative later dd india",
+    "nifty50 sensex fall 1 nifty bank drops as india vix jumps nearly 8 key factors explained upstox",
     "sensex today trades higher nifty above 25800 nifty it index up 162 equitymaster",
-    "indian stocks decline amid global selloff profit taking rediff moneywiz",
     "indian stock market extends 4week rally as sensex and nifty hit 9month highs on record fii buying kotak neo",
-    "stock market today nifty sensex rise in preopen hdfc sky"
+    "indian stocks decline amid global selloff profit taking rediff moneywiz"
   ],
   "articles": [
     {
@@ -176,16 +176,16 @@
       "publishedAt": "Mon, 23 Nov 2026 04:49:00 GMT"
     },
     {
+      "title": "NIFTY50, SENSEX fall 1%, NIFTY Bank drops as India VIX jumps nearly 8%; key factors explained - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYjhNVGQxS00wZ1ZvNzFSamhCRzNiU1VVUTVDbHdzQmUtbXZXOHAtM3lIVzNyTmF5STZCbnZ1bHhuZko1UDNKLVBxczk0MURkODVIWHVFOUZzQkZ0UUtJRlc5OHQ5RS1ONk9WNDhwTTltMGw1ZllQWVFEU1FEcXZPdTZya0puUWctQ3pZRDFsVThJbHNJMW1PRXpEc2FETU9JVlppdk5lV21Fa241bmJnRGQ4QUhfRG9NaFFwMGoxdTk0R1p0eDI4?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:57:28 GMT"
+    },
+    {
       "title": "Sensex Today Trades Higher | Nifty Above 25,800 | Nifty IT Index Up 1.62% - Equitymaster",
       "source": "Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSzZpSV9qRFpjVXBMd1d3a2p1SHl2TEU3YUdLSm1uZ3VwX0t3S0hNcldCeVYySEdYVUFVcjZVTVhZTmw1eDV4cXlqb1BsVm9EMjhUZHdPSzViaUs4WTFMeExhNWhyY09DZzNiR0gzS3A1U2hXVE9iVExYbk9NY3lrd3FhQXZ6UEx5cGR3VEtESWVGNGIzZ2tEN0Y5R1hCajlhNzNaRGlicXF1SUFTeklHRGlRTFA1Nm02MGpTV2tnMUFVWHpKT2w2Xw?oc=5",
       "publishedAt": "Mon, 23 Nov 2026 04:32:53 GMT"
-    },
-    {
-      "title": "Indian Stocks Decline Amid Global Sell-Off & Profit Taking - Rediff MoneyWiz",
-      "source": "Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTE1jQWZpSUhGMTZST3BDamNsd0VuTTFjVkViWnFoMkJlX3JGM0FHNEd0aFNkSGFGNUQ5RTNTZGsyQnFyTnh1WkpaT0E5YXlBeERzZG1UeUR1QWR5U2JKdVdyT1drOGtFUWZ0Y1RCNkFqN3BERkRyYzhDTHZGeFhuVTRYc3ZPRURQZ3Q5ZXlVSlBQazFTdE1leXpRaGlXa05CcjItbDFDR01LUzE00gGyAUFVX3lxTE5aaUJpYjgtanJKa09zSU8wVHZfc0VCSzhOTTVrQUNIMi1TZVB6UzJwTnNKOGQ3LWVTTEVwdmRycmJEYjhnbmw2dW9mQnlSTmtzSTZzOHFZMWwyMlZFZGk1QmRtbzRjUWlob3Q4bmxOUmJWVmxVUmFyM3BhczdtZ2JiTGsyQTgyMmlpRk1fNlVENlBXSWpxdXhvX1lYM2NMVDROcVpVMkR6TFlQQmNneGVERFE?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 04:33:05 GMT"
     },
     {
       "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
@@ -194,10 +194,10 @@
       "publishedAt": "Sat, 21 Nov 2026 05:52:38 GMT"
     },
     {
-      "title": "Stock Market Today: Nifty, Sensex Rise in Pre-Open - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVkcwR2R0aS1nR0pCRC1DODVEUWdEYWJzdVgzNlJGX2x6dWZ2czNScHVMeUZ0b3h6amZPbkFQRXpvTFd0VWxJd1hHdmQ3U090WGR0ZjhMVEFnWGFnOUFYYWRxQXNlN2VLRXlkRUZfLWVhYndzaHhoTTNJZVVCWVVUQm84OWNpRWpFVWhJaThDWnBNLVVzanBLME05TG5HTk9kUnlVdUo0alh6T240UkJNbkc2VTFxZlVtSW9RWlN5ZDF1bFB6U25WX1d3SmJMZUppal9yN3pMckFsM3BB?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 03:42:33 GMT"
+      "title": "Indian Stocks Decline Amid Global Sell-Off & Profit Taking - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTE1jQWZpSUhGMTZST3BDamNsd0VuTTFjVkViWnFoMkJlX3JGM0FHNEd0aFNkSGFGNUQ5RTNTZGsyQnFyTnh1WkpaT0E5YXlBeERzZG1UeUR1QWR5U2JKdVdyT1drOGtFUWZ0Y1RCNkFqN3BERkRyYzhDTHZGeFhuVTRYc3ZPRURQZ3Q5ZXlVSlBQazFTdE1leXpRaGlXa05CcjItbDFDR01LUzE00gGyAUFVX3lxTE5aaUJpYjgtanJKa09zSU8wVHZfc0VCSzhOTTVrQUNIMi1TZVB6UzJwTnNKOGQ3LWVTTEVwdmRycmJEYjhnbmw2dW9mQnlSTmtzSTZzOHFZMWwyMlZFZGk1QmRtbzRjUWlob3Q4bmxOUmJWVmxVUmFyM3BhczdtZ2JiTGsyQTgyMmlpRk1fNlVENlBXSWpxdXhvX1lYM2NMVDROcVpVMkR6TFlQQmNneGVERFE?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 04:33:05 GMT"
     }
   ]
 }
