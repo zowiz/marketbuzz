@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex crashes 1,484 points, Nifty drops below 25,350 as metal and banking stocks bleed",
+  "headline": "Sensex plunges 1,484 points and Nifty dives below 25,350 dragged down by banking and metal stocks",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,44 +7,93 @@
     "nextOpen": ""
   },
   "why": [
-    "Stock market rally took a breather as Sensex dived up to 1,500 points intraday.",
-    "Sharp sell-off in metal and PSU banking stocks dragged the market down.",
-    "Rupee retreated along with equities after the recent market rally.",
-    "Tata Steel experienced heavy selling, ending as the top loser."
+    "Heavy sell-off in banking and metal stocks dragged down benchmark indices.",
+    "India VIX jumped nearly 8%, reflecting heightened volatility and investor angst.",
+    "Rupee snapped a 5-day rally, tumbling 30 paise to 92.92 against the U.S. dollar.",
+    "Weak global cues and heavy intraday profit-taking erased early opening gains."
   ],
   "whatHappening": [
-    "Sensex crashed 1,484 points while Nifty 50 ended below the 25,350 mark.",
-    "Metal and PSU bank sectors faced heavy selling pressure during the trading session.",
-    "Investors check holiday status for BSE and NSE regarding Guru Nanak Jayanti on November 24.",
-    "German bond yields edged higher as global equity rebound eased safe-haven demand."
+    "Sensex plunged 1,484 points while Nifty 50 closed below the 25,350 mark at 25,349.65.",
+    "Investors lost over Rs 5 to 6 lakh crore in market capitalization during the crash.",
+    "Nifty Bank dropped significantly as bank shares faced widespread drubbing.",
+    "Tata Steel emerged as one of the top losers during the market sell-off."
   ],
   "stocksInNews": [
     {
       "symbol": "TATASTEEL",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/1 sources",
+      "sources": "Mentioned by 1/10 sources",
       "articleIds": [
-        2
+        4,
+        7
+      ]
+    },
+    {
+      "symbol": "APLAPOLLO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/10 sources",
+      "articleIds": [
+        4
       ]
     }
   ],
-  "summary": "Indian markets suffered a major drop on November 23 as the Sensex crashed 1,484 points and Nifty closed below 25,350. Metal and PSU banking stocks faced severe selling, with Tata Steel emerging as the top loser. The market sell-off also coincided with a retreat in the rupee as the recent rally paused.",
-  "updatedAt": "2026-11-23T11:32:13.161Z",
+  "summary": "Indian benchmark indices suffered a massive crash on Monday with Sensex tumbling nearly 1,500 points and Nifty sliding below 25,350. The sharp decline wiped out over Rs 5 lakh crore of investor wealth, dragged by heavy losses in banking and metal sectors. The rupee also broke its 5-day winning streak, adding to overall market weakness.",
+  "updatedAt": "2026-11-23T12:02:05.564Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-23",
   "articleKeys": [
+    "rupee snaps 5day rally tumbles 30 paise to settle at 9292 against us dollar",
+    "tata sons board meet postponed to nov 30 after noel raises concerns",
+    "markets take heavy drubbing dragged by banks sensex plunges 1484 points nifty dives to 2534965",
+    "govt warns of whatsapp hijacking via public computers left logged in",
+    "tata steelapl apollo deal how the twopart transaction is structured",
     "rupee retreats with stocks as rally takes a breather positive bias lingers",
     "understanding ulips why buying insurance as investment can be expensive",
     "market highlights sensex crashes 1484 points nifty 50 ends below 25350 as banks metals bleed tata steel top loser",
     "bulls take a breather sensex dives 1500 pts intraday a shortterm blip",
     "namit malhotra compares sunny deols lord hanuman to iron man reveals why he was cast in ramayana",
-    "matthew hayden warns sandpapergate could haunt pat cummins during bordergavaskar trophy in india",
-    "stock market close sensex tanks 1484 pts nifty ends at 25350 metal psu bank bleed",
-    "mujhe gareebon ka mithun kehte the ravi kishan on being compared to mithun chakraborty at iffi",
-    "stock market holiday tomorrow are bse and nse closed on november 24 for guru nanak jayanti",
-    "german bond yields edge higher as equity rebound eases safehaven demand"
+    "sensex nifty open higher despite weak global market cues hdfc sky",
+    "investors lose over rs 5 lakh crore heres why stock markets crashed today ndtv",
+    "stock market crash today investors lose over rs 6 lakh crore as sensex ends over 1400 points down top the times of india",
+    "nifty crashes by 350 points sensex down 135 why is the market down today india infoline",
+    "black monday crash fears grip markets will sensex nifty open lower today india today",
+    "nifty50 sensex fall over 1 nifty bank drops as india vix jumps nearly 8 why is the stock market falling today upstox",
+    "stock market today sensex falls 1274 points nifty slides 152 multibagg ai",
+    "sensex today tanks 1484 points nifty below 25350 4 reasons why indian share markets are falling equitymaster",
+    "sensex tumbles 1450 pts from opening high nifty sheds 425 pts metal bank shares drag fortune india",
+    "sensex tumbled nearly 1500 points why stock market fell today india today"
   ],
   "articles": [
+    {
+      "title": "Rupee snaps 5-day rally; tumbles 30 paise to settle at 92.92 against U.S. dollar",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/rupee-snaps-5-day-rally-tumbles-30-paise-to-settle-at-9292-against-us-dollar/article71734465.ece",
+      "publishedAt": "Mon, 23 Nov 2026 16:58:58 +0530"
+    },
+    {
+      "title": "Tata Sons board meet postponed to Nov 30 after Noel raises concerns",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/tata-sons-board-meet-postponed-to-nov-30-after-noel-raises-concerns-126112300775_1.html",
+      "publishedAt": "Mon, 23 Nov 2026 16:41:58 +0530"
+    },
+    {
+      "title": "Markets take heavy drubbing dragged by banks; Sensex plunges 1,484 points, Nifty dives to 25,349.65",
+      "source": "Zerodha Pulse",
+      "link": "https://www.thehindu.com/business/markets/markets-take-heavy-drubbing-dragged-by-banks-sensex-plunges-1484-points-nifty-dives-to-2534965/article71734374.ece",
+      "publishedAt": "Mon, 23 Nov 2026 16:39:42 +0530"
+    },
+    {
+      "title": "Govt warns of WhatsApp hijacking via public computers left logged in",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/india-news/govt-warns-of-whatsapp-hijacking-via-public-computers-left-logged-in-126112300703_1.html",
+      "publishedAt": "Mon, 23 Nov 2026 16:33:04 +0530"
+    },
+    {
+      "title": "Tata Steel-APL Apollo deal: How the two-part transaction is structured",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/tata-steel-apl-apollo-tubes-deal-business-sale-stake-acquisition-open-offer-126112300739_1.html",
+      "publishedAt": "Mon, 23 Nov 2026 16:25:29 +0530"
+    },
     {
       "title": "Rupee retreats with stocks as rally takes a breather, positive bias lingers",
       "source": "Zerodha Pulse",
@@ -76,34 +125,64 @@
       "publishedAt": "Mon, 23 Nov 2026 15:38:42 +0530"
     },
     {
-      "title": "Matthew Hayden Warns Sandpapergate Could Haunt Pat Cummins During Border-Gavaskar Trophy In India",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/matthew-hayden-warns-sandpapergate-could-haunt-pat-cummins-during-border-gavaskar-trophy-in-india-12365586#publisher=newsstand",
-      "publishedAt": "Mon, 23 Nov 2026 15:36:57 +0530"
+      "title": "Sensex, Nifty Open Higher Despite Weak Global Market Cues - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSy1IQXlUcXRQRUcwT0Z0SmN3Z2hIYjZKYXVDS3E2UWpySjJOQ2lDNmtOdm1wM0REdFJ6d0xPYWUyck5ROTYwR21fNVhwUzFQZzVuOV9XMDNSYUE2S2cxcGF5anVlcEMtYnJTWnBBbS1hQkwwMWlXMW1DdjVaMVBRc2dJZXYwbVItdnYtN3BaVUFERUI5X0FJckVRcXVEODU2M0l4VEl2N09TNEh3RWRIMTdTSDA2Y3AyMl9XZmtqTkU2OXV3cGhTZkJVUVJwaUhacWxDZFFQcHhUdWhjTFp4Ri0yUkpQb00yQ25pVkRESFFVWWo1MjlNcy0wcE0wSFd5UGpjOW1vLVBQMUZDakE?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 04:33:19 GMT"
     },
     {
-      "title": "Stock Market Close: Sensex tanks 1,484 pts, Nifty ends at 25,350; metal, PSU bank bleed",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-23-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-ipo-today-126112300084_1.html",
-      "publishedAt": "Mon, 23 Nov 2026 15:35:36 +0530"
+      "title": "Investors Lose Over Rs 5 Lakh Crore. Here's Why Stock Markets Crashed Today - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMEpsNGM0elJITGZsSk9DSE8wOFZNVzhLTzFKMjVRYm1hX2FCNkRSZFhVNm1rNTNCaDBnbUxyVmE4NnI0T0xJNHlKaFFXLUhqbGMzLV9TY29paE5ScWNibFVGMmJrdnEzWDRIUEh0aEV1ZFBlMVhtWkR1MWpIQm5PbEsyOEFzeGlBaHFFcUxvdnFTY0FUQTZVeEktQThMVl9lTkFHSTFwWndKWVhtanZBVjhvbzVESlFxa2FUMGM2UzZWN0kyOE0wRjlmNjEybWRsUnQxQ0pNSUlTcDJncmtxONIB6AFBVV95cUxOYVpyS1YxcFdMaEFzREhzZUQ5c3VtNnMyWEV2eUdQcHIzTWZFTVdiUEZWbEtFNUo0TnJXcW9rR0xQaG9tMWJ4dUdnRlBxcjJqTENDOTZKaThyejZ0TUxIVFVMc2lKV3liOWducWRjTUJVcVNlVDZVMHItWnRTRURSaXNUakFtd0d6MGJiSXRMaWkwNm4yYktPNExTQ0RkOEVRa2ZhemhMNkRrSlQ0aWxnSVo3SVA2Si1sc0JhVkRtU0s4SXNrUXlUQXVtS2JvdUkydFAzQU9ZaFVYUHRyeVo0TnlhNFdXeFp5?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 10:05:17 GMT"
     },
     {
-      "title": "'Mujhe Gareebon Ka Mithun Kehte The': Ravi Kishan On Being Compared To Mithun Chakraborty At IFFI",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/mujhe-gareebon-ka-mithun-kehte-the-ravi-kishan-on-being-compared-to-mithun-chakraborty-at-iffi-12365405#publisher=newsstand",
-      "publishedAt": "Mon, 23 Nov 2026 15:33:54 +0530"
+      "title": "Stock market crash today: Investors lose over Rs 6 lakh crore as Sensex ends over 1,400 points down; top - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWHZoNmRPemJnbmYtV1JXbWFJOVEwcG1MX1FZbzBRZnVEUFk4b19fQnZIcG1wTlplWm00QndHZUI2U3JBT01WMHY3ZmFSVWp5ZG43Wm16WENFQVJWRnEzMzcxLWdETEl3WG40MHJESkdabTFyWVo4YVJMZHd4dTBNRlNIa1Y5MWdUY3owcHNaTHVQZV81WFl6NnVfdTdhSm0tcHdnXzU1YkZzVWx6eVc1VWVlcE8wWUZyM29ka2R6eExQRjFXQmo3U3FHbkpCelpjWFVCYUpqbVV4RlptTURxVWY0VTVVVVpyNFNfWVBBcVZvMkpQZTdXTXZ6a2xUa202ZDkyVmFwUGRmVHdvYklvTUZ2b0TSAZoCQVVfeXFMUEpGd0dab3dCMlB0TVhZWk5vTkFQaHRxcVRiWWw3ZUxpOWxLQWt2cE5KODBSdDFPTnBQekdHYVFpSTZ5LWNBM0l3RUFBVE1WbnhYbEtRSUN6RFl2Y2tpaEdQTEk2SjdqRDA5MWlNRUJrMU9TcUd2TlpIVDhoSWVoRjBqQ29yQmtyS2FreV9XVkZ2NkhxV2toQW81MTlSQ2tFYlAyVm8xTzVfWGNKVENDRVhUN09MZk1mcWo1S0QzY3VCVkpOTFFVVHVPcmM1R2hKV0F6aEEza2Nmekl3TVExZERBeTVCUGZtRXd4XzhFb3BHWXFxT3VIM0tKRnUxU2dEQUFBVnhwNVJ2WXQ0TzhSODFvUWlIMTlNWlNn?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 07:03:00 GMT"
     },
     {
-      "title": "Stock Market Holiday Tomorrow: Are BSE And NSE Closed On November 24 For Guru Nanak Jayanti?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-holiday-tomorrow-are-bse-and-nse-closed-on-november-24-for-guru-nanak-jayanti-12364096#publisher=newsstand",
-      "publishedAt": "Mon, 23 Nov 2026 15:30:12 +0530"
+      "title": "Nifty crashes by 350 points, Sensex down 1.35%. Why is the market down today? - India Infoline",
+      "source": "India Infoline",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSlF2c2w2WTRseTFxUEpNbjdPdEMwdUVXTFBaVFQ2MnRFeUtoaUhBMTJJNDUwRDJjYmpVbC01UGhqbF9pdFBwcXVINmlfOTROMjBzYUx0SGM4TktWeDZZSDdPVzhETi1KQ1cxaC1LOG1BdUpRZjk3VWRJWWxjQW9pcWhnaU95RW42NGVzcFlaT3dwaElhLXVkcURIS0Iwb2hvUXNwamdRREtjQ2R5VjZXZTA0U2pwTW8?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 08:40:31 GMT"
     },
     {
-      "title": "German bond yields edge higher as equity rebound eases safe-haven demand",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/german-bond-yields-edge-higher-as-equity-rebound-eases-safe-haven-demand/articleshow/136097404.cms",
-      "publishedAt": "Mon, 23 Nov 2026 15:25:49 +0530"
+      "title": "Black Monday crash fears grip markets: Will Sensex, Nifty open lower today? - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNenprWkQwZ0R1WWFHbEVueVNJeFpNakxZLVVQQ0JndlhYU2pjSGJqUlF1TVpMRzZ6Slo0cUl0dWc5NUZYcE9ZdVUzOUhhd2Y0T3ZuQURXc0ZXSjNxaGl6WGNkX0ZKMy1LdXdwYXJFYkNkNHlFdVBaOHdvc1ZXeEVLZkVCa2M4QWttdnZJa3F3V1VUcTFEWkdIb3o2TU1hbkZUY1lsOFBaMnEwc2tPVFQ0U2dLMTRCamdtQTBmdkdvMWRvLXY5dkpzZGRha21yYUxMMmZwNEF2LUotZGI2VVVuNnF6QThMcm91aTJLWFYwNzZWLXZ4Y19MMEVMV0hpaG5HWFHSAYcCQVVfeXFMT0E0TjlzYUYyU0tvQ2RGbmlvOTJ4VDNhMXFwX2lzbVB4c2FPVnBuOWU4aVJXX0prOTl3bG9wNjNnSjBjUnk1cF9UQnI0eFJDTEJKUmUyT2RROEd0cnNDWUY2ZXZhcy1ZSk53c0QybTBOSGhYRkJyek12XzVNT3B5czVBX0k0ODJaM1FWdUVmb29UNDg0bFc2UW9sSVVYTEFDS0FCUENuUGpPOVppRWMzM29EYWdKaXBCcUZwQXpyWnl2QlBIaFB2TU1HRzRtaEVPMGhybzFZa0NVYWFDODZjUU1UcXhoeHQtb3hYNDQxVU9kdkdBaFlDdjh3NlA4b1NqemlkUF9FR2M?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 03:03:18 GMT"
+    },
+    {
+      "title": "NIFTY50, SENSEX fall over 1%, NIFTY Bank drops as India VIX jumps nearly 8%; Why is the stock market falling today? - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYjhNVGQxS00wZ1ZvNzFSamhCRzNiU1VVUTVDbHdzQmUtbXZXOHAtM3lIVzNyTmF5STZCbnZ1bHhuZko1UDNKLVBxczk0MURkODVIWHVFOUZzQkZ0UUtJRlc5OHQ5RS1ONk9WNDhwTTltMGw1ZllQWVFEU1FEcXZPdTZya0puUWctQ3pZRDFsVThJbHNJMW1PRXpEc2FETU9JVlppdk5lV21Fa241bmJnRGQ4QUhfRG9NaFFwMGoxdTk0R1p0eDI4?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:57:28 GMT"
+    },
+    {
+      "title": "Stock Market Today: Sensex Falls 1,274 Points, Nifty Slides 1.52% - Multibagg AI",
+      "source": "Multibagg AI",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkhJZFJydk1EbXo1UkJtUlVIR04zVzhUOGZXY1BsRmZrdy1vejZZT1h1WC1ORWdVRFhIcVBBZThGWFRkcEc0U0xZM0h3bW9fTnVJbFlNeHJ1SnFUMHFNNV84YnBIMHlCR2FnbU0tdFNyTnlFS25NRlhhZDJCTVlRaG5RTlpjMG5qc1J2WEVMN0VROWZPamtzWEtHSHFrUm9FeWc?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 11:00:24 GMT"
+    },
+    {
+      "title": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR2NzQkc5LXB3TzFwb1N0X2ZxcWdYSjhZT3hIVDBLMVVqeVVGb1dnNUdpRzR2OHA4T0VNWTdPbE9UOWNBcC1pTjUtNHpnMzhteW1WY1VZcUIwRlhOLWJWTGtsR3dZcEF6VmdXbjhJUzVpbXloOFNiTEt5bkNVQmp3a2JrWkJVMklqSG1HOHI1QjNZdzdLVkhHWWIwTk12WlZCc0FfbDRpMVRTSEJWYzRvTUNiUVNiQldFaEp3dW40TFU0dlFXb3I1MGtodTVGNWZ0Z2Z2dWJ4dXJva0V4MVJsYl95Mk11dlI4eE9DaGdiYw?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 10:38:33 GMT"
+    },
+    {
+      "title": "Sensex tumbles 1,450 pts from opening high, Nifty sheds 425 pts; metal, bank shares drag - Fortune India",
+      "source": "Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmpLZjNYVEk2MzJUV25OcEFmYlFMSlV1a25WSko1azV5Z0dwNXQ5aHdxRDJZN25yTzNxMVJsMXV3Wi1SNjFrTzJ4RVFvbnBRMWpqWFZsMjJKS3EwZjRqUWtwNldzQzY3aEdBeWhUYm5KNFk0bGhHemNwd1J1d2d6b0VRN2d6TFZBSE15WVhITGRPVnZTN2FYWTFzTF8tUS1xb1p1RkVsdHRkejdOUUVTZDU5bXVJU19qbkZwUDZoWERTalllTXRLeW1IYnNyQy1xNi01SFoyT0Y4U0820gHqAUFVX3lxTE95MU9ibnc3UF8xOXB0TGVrOEstaHg0bFhGOWdYd0cwWVNfZ1hPcWVmT2F5SmJzd2JfaWpXajJuZERQbzJrbkdpeEwyZXNSTXJYc2RZVGxVZ0tPaHRUdDF1TzJjX3NiR0YzOFU1TndxaUhFTHJzMXhvMHZydjExYUxlZ2FySmtzSDZPTEFfa1JTVk5Md2hDUXZKSXkyVmk3WnNMOWJtYklYTWUxVnJiZ1dua09xQzdVZ2FrQ2dWSzBjcGZuOXRWX0Q3V19YZm9FSlFweHV2alpZdUtVVk50RTdZN3BsNTJ1LVZaQQ?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 05:01:59 GMT"
+    },
+    {
+      "title": "Sensex tumbled nearly 1,500 points: Why stock market fell today? - India Today",
+      "source": "India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSTl1RjdHZ0VJbzQwYjZpZkJYMzFvOVlFZm9hbXdyN19XQTA5N3NmRmhlQzR1aEF4TklrMVdHX2tvd3QyU3IyckVBaEhvUHBoUGxPU0V4WWJNTWVmTEFodExYSjRIeUVWTC1Gc2VlOERZSEJqNnhXRnZyQk14NGpkNDZrWjhLWTNibk9OYUtLcEw5aVRWTDktd3JHN3hHZTRBYklVeE1CTGlCaC1DangyTGRtVWJ3Q3I1b2JhM08yWThXZ3ZaOG10Y25BWFFQM0hRMlRUQmFGRXJLTmVzUlo2cHdtYm1uWEnSAewBQVVfeXFMTjlNQkJtMHN2TVFzdHQzQkpycWFWTjduUzlVelJSOXZMTWZ4LWI5cXZibkVLNlRzeWVNQ21wTDdMZkdvb0J6SGw3czB6bEtpcXJQVnZILVYwSGMyZHdMNnRwVmotV3U5S0ZaTGlzY1FFa3Jmb3Fxa3luajExVGJMSE05NkNnRDhFUUNYb3RLdkRrbElYYmk3TmQxdlVYQ2c3YkNIVDlpTzNfalhyLWlMMWt3WWtzaE80UFJxb2V1VXFCZ2M1RExKeUMxLWdBVVdaYldISzdpZXRtT2hpeTJOWkU0T2NzeTBXUHF4RFM?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 10:29:33 GMT"
     }
   ]
 }
