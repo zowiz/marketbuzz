@@ -1,100 +1,243 @@
 {
-  "headline": "Last session: Nasdaq surged 6.5% as RBI noted institutional shifts to equities; markets closed today for holiday.",
+  "headline": "Last session: Sensex plunged 1,484 points and Nifty slipped below 25,400 amid broad-based sell-off",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Thursday, 26 November.",
-    "nextOpen": "Thursday, 26 November"
+    "nextOpen": "Thursday, 26 November 2026"
   },
   "why": [
-    "The NSE is closed today for a trading holiday, with operations resuming on Thursday.",
-    "The last session was influenced by a significant 6.5% rally in the Nasdaq index.",
-    "RBI Deputy Governor reported a shift in pension and insurance funds from G-secs to equities.",
-    "Market analysts are concerned that a 50 bps jumbo rate hike could impact financial stability."
+    "Indian stock markets are closed today, November 24, 2026, due to a trading holiday for Guru Nanak Jayanti.",
+    "In the previous trading session, Dalal Street witnessed a sharp sell-off wiping out over Rs 6 lakh crore in investor wealth.",
+    "Metal and banking sectors faced heavy selling pressure in Monday's session while IT stocks showed relative strength.",
+    "Concerns over potential new US tariffs created cautious sentiment across global markets."
   ],
   "whatHappening": [
-    "Maharashtra FDA revoked Inducare Pharma's license after finding nine drugs to be substandard.",
-    "A BCG report indicates that AI adoption is saving Indian employees roughly 15 hours per week.",
-    "Nasdaq futures are currently trading lower as the AI-led rally fueled by Nvidia begins to cool.",
-    "Institutional demand for long-term government securities is softening as money moves into stocks."
+    "Markets remain shut today for Guru Nanak Jayanti and trading will resume on Thursday, 26 November.",
+    "During Monday's session, the Sensex dropped 1,484 points while Nifty settled below 25,400.",
+    "Automakers including Tata Motors and Maruti Suzuki announced upcoming vehicle price hikes to offset rising input costs.",
+    "Pharma major GSK launched its new blood cancer drug Blenrep in the Indian market."
   ],
-  "stocksInNews": [],
-  "summary": "The Indian stock market is closed today for an NSE holiday, with trading set to resume on Thursday. The previous session was highlighted by a massive Nasdaq rally and RBI commentary regarding institutional funds shifting toward equity markets. Additionally, investors are monitoring regulatory actions in the pharma sector and the impact of AI on productivity.",
-  "updatedAt": "2026-11-24T14:02:19.983Z",
+  "stocksInNews": [
+    {
+      "symbol": "TATAMOTORS",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "GLAXO",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "TATATECH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "WELCORP",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "VEDL",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "SUZLON",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "JIOFIN",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        1
+      ]
+    },
+    {
+      "symbol": "BHARATFORG",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        1
+      ]
+    }
+  ],
+  "summary": "Indian stock markets are closed today, 24 November 2026, for Guru Nanak Jayanti and will reopen on Thursday, 26 November. On the last trading day, Sensex plunged 1,484 points and Nifty shed 451 points in a sharp sell-off. Key auto stocks like Tata Motors and Maruti announced price hikes due to rising input costs.",
+  "updatedAt": "2026-11-24T15:03:39.473Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-24",
   "articleKeys": [
-    "nasdaq futures drop as ai stocks cool after nvidiafueled rally us stock market live updates",
-    "is ai giving indian employees their weekends back bcg says theyre saving 15 hours a week",
-    "maharashtra fda cancels inducare pharmas licence again 9 drugs found substandard or spurious",
-    "nasdaq jumped 65 on monday now futures are down heres what indian investors should watch",
-    "how bisleri became indias packaged water giant",
-    "shift in pension and insurance money to equities dampens longterm gsec demand rbi dg",
-    "a 50 bps jumbo rate hike can lead to financial stability concerns hurt growth report",
-    "pt usha to skip ioa presidential race gagan narang rajeev mehta file nominations",
-    "no stopping boy wonder vaibhav sooryavanshi hammers fastest ton and double ton in list a cricket history",
-    "vaibhav sooryavanshi hits 28 sixes in record 52ball list a double ton"
+    "new us tariffs imminent trumps plan b on levies to be unveiled as early as today report",
+    "buy sell or hold tata technologies welspun corp vedanta suzlon jio financial and bharat forge ask profit",
+    "rising input costs drive tata motors hyundai audi and maruti to raise vehicle prices",
+    "trapped by loan apps can your bank help you in debt consolidation",
+    "ramayana box office collection day 20 magnum opus nears rs 1000crore net in india",
+    "from swiggy delivery partner to ai founder the unusual journey of gopinath pandian",
+    "scene box office collection day 19 suriyas action comedy continues its steady theatrical journey",
+    "gsk brings new blood cancer drug blenrep to india heres what it could cost patients",
+    "pune techie murder family questions how boyfriend entered womens pg asks about cctv footage",
+    "new us tariffs coming india could be hit harder than japan and eu report",
+    "stock market crash today investors lose over rs 6 lakh crore as sensex ends over 1400 points down top the times of india",
+    "stock market today live november 23 sensex plunges 1484 points nifty sheds 451 as broadbased selloff hits dalal street businessline",
+    "closing bell nifty below 25400 sensex slips 1484 pts metal banks worst hit it outshine moneycontrolcom",
+    "stock market crash today wipes out 6 lakh cr red sensex down 1484 points nifty below 25350 what went wrong livemint",
+    "stock market highlights nov 17 sensex nifty close at highest since february on record foreign inflows businessline",
+    "stock market highlights november 20 sensex rises 897 pts nifty ends at 25800 sees largest single day gain in a month businessline",
+    "stock market today highlights sensex drops 57059 points at closing nifty tanks to 2242195 the times of india",
+    "stock market today highlights oct 8 sensex tanks 1045 pts nifty sheds 371 pts to close lower businessline",
+    "stock market holiday share markets shut for guru nanak jayanti today are banks closed too ndtv",
+    "why stock market is down today sensex falls 1300 points from high nifty near 25600 kotak neo"
   ],
   "articles": [
     {
-      "title": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally: US Stock Market Live Updates",
+      "title": "New US Tariffs Imminent? Trump's Plan B On Levies To Be Unveiled As Early As Today: Report",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms",
-      "publishedAt": "Tue, 24 Nov 2026 18:30:48 +0530"
+      "link": "https://www.ndtvprofit.com/business/new-us-tariffs-imminent-trumps-plan-b-on-levies-to-be-unveiled-as-early-as-today-report-12371640#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 20:02:28 +0530"
     },
     {
-      "title": "Is AI Giving Indian Employees Their Weekends Back? BCG Says They're Saving 15 Hours A Week",
+      "title": "Buy, Sell Or Hold: Tata Technologies, Welspun Corp., Vedanta, Suzlon, Jio Financial, And Bharat Forge — Ask Profit",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/is-ai-giving-indian-employees-their-weekends-back-bcg-says-theyre-saving-15-hours-a-week-12371104#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 18:17:39 +0530"
+      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-tata-technologies-welspun-corp-vedanta-suzlon-jio-financial-and-bharat-forge-ask-profit-12371590#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 20:00:01 +0530"
     },
     {
-      "title": "Maharashtra FDA Cancels Inducare Pharma's Licence Again, 9 Drugs Found Substandard Or Spurious",
+      "title": "Rising input costs drive Tata Motors, Hyundai, Audi and Maruti to raise vehicle prices",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/maharashtra-fda-cancels-inducare-pharmas-licence-again-9-drugs-found-substandard-or-spurious-12371021#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 18:17:11 +0530"
+      "link": "https://www.thehindu.com/business/Industry/rising-input-costs-drive-tata-motors-hyundai-audi-and-maruti-to-raise-vehicle-prices/article71738772.ece",
+      "publishedAt": "Tue, 24 Nov 2026 19:58:16 +0530"
     },
     {
-      "title": "Nasdaq Jumped 6.5% On Monday, Now Futures Are Down. Here's What Indian Investors Should Watch",
+      "title": "Trapped By Loan Apps: Can Your Bank Help You In Debt Consolidation?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nasdaq-jumped-6-5-on-monday-now-futures-are-down-heres-what-indian-investors-should-watch-12371093#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 18:16:13 +0530"
+      "link": "https://www.ndtvprofit.com/personal-finance/trapped-by-loan-apps-can-your-bank-help-you-in-debt-consolidation-12370350#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 19:53:52 +0530"
     },
     {
-      "title": "How Bisleri Became India's Packaged Water Giant",
+      "title": "Ramayana Box Office Collection Day 20: Magnum Opus Nears Rs 1,000-Crore Net In India",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/how-bisleri-became-indias-packaged-water-giant-12370745#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 18:14:52 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/cinema-bollywood-movie-ramayana-box-office-collection-day-20-ranbir-kapoor-yash-sai-pallavi-nitesh-tiwari-film-third-tuesday-earnings-12371491#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 19:46:40 +0530"
     },
     {
-      "title": "Shift in pension and insurance money to equities dampens long-term G-sec demand: RBI DG",
+      "title": "From Swiggy Delivery Partner To AI Founder: The Unusual Journey Of Gopinath Pandian",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/shift-in-pension-and-insurance-money-to-equities-dampens-long-term-g-sec-demand-rbi-dg/articleshow/136130860.cms",
-      "publishedAt": "Tue, 24 Nov 2026 18:09:55 +0530"
+      "link": "https://www.ndtvprofit.com/business/from-swiggy-delivery-partner-to-ai-founder-the-unusual-journey-of-gopinath-pandian-12366519#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 19:34:13 +0530"
     },
     {
-      "title": "A 50 bps jumbo rate hike can lead to financial stability concerns, hurt growth: Report",
+      "title": "Scene Box Office Collection Day 19: Suriya's Action Comedy Continues Its Steady Theatrical Journey",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/a-50-bps-jumbo-rate-hike-can-lead-to-financial-stability-concerns-hurt-growth-report/articleshow/136130764.cms",
-      "publishedAt": "Tue, 24 Nov 2026 18:08:23 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/scene-box-office-collection-day-19-suriyas-action-comedy-continues-its-steady-theatrical-journey-12371350#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 19:32:19 +0530"
     },
     {
-      "title": "PT Usha To Skip IOA Presidential Race; Gagan Narang, Rajeev Mehta File Nominations",
+      "title": "GSK Brings New Blood Cancer Drug Blenrep To India. Here's What It Could Cost Patients",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/pt-usha-to-skip-ioa-presidential-race-gagan-narang-rajeev-mehta-file-nominations-12370686#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 17:58:45 +0530"
+      "link": "https://www.ndtvprofit.com/business/gsk-brings-new-blood-cancer-drug-blenrep-to-india-here-s-what-it-could-cost-patients-12371423#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 19:28:23 +0530"
     },
     {
-      "title": "No Stopping Boy Wonder! Vaibhav Sooryavanshi Hammers Fastest Ton And Double Ton In List A Cricket History",
+      "title": "Pune Techie Murder: Family Questions How Boyfriend Entered Women's PG, Asks About CCTV Footage",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/no-stopping-boy-wonder-vaibhav-sooryavanshi-hammers-fastest-ton-and-double-ton-in-list-a-cricket-history-12370772#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 17:53:59 +0530"
+      "link": "https://www.ndtvprofit.com/india/pune-techie-murder-family-questions-how-boyfriend-entered-womens-pg-asks-about-cctv-footage-12371431#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 19:24:44 +0530"
     },
     {
-      "title": "Vaibhav Sooryavanshi hits 28 sixes in record 52-ball List A double ton",
+      "title": "New US Tariffs Coming, India Could Be Hit Harder Than Japan And EU: Report",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/cricket/news/vaibhav-sooryavanshi-fastest-list-a-century-double-hundred-india-a-vs-uae-rising-stars-asia-cup-126112400780_1.html",
-      "publishedAt": "Tue, 24 Nov 2026 17:52:26 +0530"
+      "link": "https://www.ndtvprofit.com/india/new-us-tariffs-coming-india-could-be-hit-harder-than-japan-and-eu-report-12371337#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 19:23:28 +0530"
+    },
+    {
+      "title": "Stock market crash today: Investors lose over Rs 6 lakh crore as Sensex ends over 1,400 points down; top - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWHZoNmRPemJnbmYtV1JXbWFJOVEwcG1MX1FZbzBRZnVEUFk4b19fQnZIcG1wTlplWm00QndHZUI2U3JBT01WMHY3ZmFSVWp5ZG43Wm16WENFQVJWRnEzMzcxLWdETEl3WG40MHJESkdabTFyWVo4YVJMZHd4dTBNRlNIa1Y5MWdUY3owcHNaTHVQZV81WFl6NnVfdTdhSm0tcHdnXzU1YkZzVWx6eVc1VWVlcE8wWUZyM29ka2R6eExQRjFXQmo3U3FHbkpCelpjWFVCYUpqbVV4RlptTURxVWY0VTVVVVpyNFNfWVBBcVZvMkpQZTdXTXZ6a2xUa202ZDkyVmFwUGRmVHdvYklvTUZ2b0TSAZoCQVVfeXFMUEpGd0dab3dCMlB0TVhZWk5vTkFQaHRxcVRiWWw3ZUxpOWxLQWt2cE5KODBSdDFPTnBQekdHYVFpSTZ5LWNBM0l3RUFBVE1WbnhYbEtRSUN6RFl2Y2tpaEdQTEk2SjdqRDA5MWlNRUJrMU9TcUd2TlpIVDhoSWVoRjBqQ29yQmtyS2FreV9XVkZ2NkhxV2toQW81MTlSQ2tFYlAyVm8xTzVfWGNKVENDRVhUN09MZk1mcWo1S0QzY3VCVkpOTFFVVHVPcmM1R2hKV0F6aEEza2Nmekl3TVExZERBeTVCUGZtRXd4XzhFb3BHWXFxT3VIM0tKRnUxU2dEQUFBVnhwNVJ2WXQ0TzhSODFvUWlIMTlNWlNn?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 07:03:00 GMT"
+    },
+    {
+      "title": "Stock Market Today Live November 23: Sensex plunges 1,484 points, Nifty sheds 451 as broad-based sell-off hits Dalal Street - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUlJPZ3o3c2tvTzBqcUlxeW11ZnBxWE00d3J3UUdEZjBQVzI1RUpfZ0p4bXlXTEYtODVsSjJzY2ZjUlMwRU5EZTBRRTFKSjlWeUJBX2Z4Z01YYUM0X0x2UUhFZnRKU3E0SkhIa1BVdC1iSlV1dEZVUmRuV1RoTk9zd0xLZld6T3FTamctTk5DejRyazhJS0R5NVg2MloyYVdmLXpCbkY1ZF9CbGNSRmUwU2FtTVA1MjBxNERIU1U3enFyZFZmbVlN0gHOAUFVX3lxTE5XbDRreWhyUDQ0ck1tNEJydmttTVBaRDhUNUZBTDlDSGtINkM2aE9oZmx0Rm5mT19Da1lsSHZHYkZHT0owUFdVU1VvZ2hwRVdBVDJ5NzkxOW1acHlRYlZiUE93SGRJengxQVdickxrOTgzMEpjRi1tNW03WUhQN3JLTE50Tm5GTDdoczFJbEJmd25NUndNb0Z0bHptWEVhbFN1TmxsQU9IWE9tblVIeDZ3RzQyamJtVC1qQ1M2eUpIckp6MzRha3UtbDBlWW5R?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 10:54:44 GMT"
+    },
+    {
+      "title": "Closing Bell: Nifty below 25,400, Sensex slips 1,484 pts; metal, banks worst hit, IT outshine - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNdU1YeUhNQW5TcVFnSDBiVjQtazdqSVZuVHFESXNuUURwSmtLdjdDeXdnQzhyZFNtOGtiV0hBeUF0ZkRuN09VenlsdXRCMUZKLU9hdC1EU1BXMFZMVmp4OVhCa1Q2Wm5fVy03Skt3ZVNfVUYtVy11RVp0LXBObGtTSTNKUUEwZWZEOHNvbE1meHlqb0dPUlBNemdtbjNIdnRKcElHcTMzRkdCaER2WmdTOFVaYjhkS3BGWFBVQjRWNmxDcTNSV1lKWnpuU3F0LWpYd2VGeFluc01SSWlCeThZRExHRS1CaThlWXE3Nk1fV3prWFkxWUNXVnZqb19IeVU0ZE0ybnpiMDg5NFhCWmUxQ3Q5V2NHem5Fa0pFMkg3cHBUMzTSAagCQVVfeXFMTkNRTndEZ3FlMVJaOVFfWHFzSU1KUXRiZnlaM2tZWkExTzh1M3dtY19YUWszNnFjNGxHQjFGb2VXRlVZaTVfXzNTQlN0Z2Z1ekQ2WGhONXZ6U29yMGtlaU14OUJrRUQ5MXEzS19iNGZ3bnV4RnJBajFFVElHel8wejFyMS01a0EyZDdmZFNPRzJRSGZ5Nm1UQzJaMjlrZklKa0FJeS0tclozZkt2cGJJUWwtMU9fSmRoWVhReThJMG96a19Wd3RLZGN6dm4tZWRMVVQzVTk0ZkY3c0tfc1hDblkzNlZmNjR1d0lINlY5aFJ3aVNhdTNjcGZMcmV6OVdEbDdJX3NtTWhPTHV0bWVFdTZVS0ZleW1ob3B5SWh0N2VVcEYydVNTNmQ?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 10:52:33 GMT"
+    },
+    {
+      "title": "Stock market crash today wipes out ₹6 lakh cr: Red! Sensex down 1,484 points, Nifty below 25,350 - What went wrong? - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTE94dkpHRlNjaVdrWERKX01mcGRvN0QyQW5JbHZISzZmWWJxRzAxajhFT0k2TmdyaHp0SWhzcVZxSnJQc1NvYzlpdjNJU1FQLTMxMWhjRFNBdXN5U0gtRllRZE0ySnRmSDV2cnI4T283TmY3eTkzdVFkN0ZGU3NsUnE3bmlqcXdDekVocmdCZlRxUkJuQ2xTektUaWF3SUR3bU1rdGxhaWtvcUIyYWNtZ0htM3Z6X2hGUUN0dGNOT2RXTGxNUUtNZUY0cnRrUkswZWJ1dC1kTTBicGNORjJMQ0xBTXRmSWJoazJWeThLUG13SWNZejlzcFBNd1AwSzE0RHJ3c2dzNzMtdUtpZEHSAZMCQVVfeXFMTmVOVmpkTWp1ekJpTTFaOEstNmtJaEgzWWRWdHlTX3Uyc0dIeVJ6dWF5MVZheDBVRVpOcTdSX216VXJpV1Q3aWFpeldEUzYtb2VBMndBNW1melBsTXhDODZQREtieHJ6Z0tBV1JLMUYzRFB2VEc4MnVRT2RfX3JnOWNESk9vNVhrTUxhbmJaek1UT1R2UEtWZkFRbURGVC1QaU93cjkxRWMxYWVJbXJoU1dkcGtQSExnV0pkRERGZ0lBY3NZNkFVaGZCeXQ5aHBVeVJVUEtEcGlqaWNJZDNOMUFaMlMtYmROSXdnNHZ4bmRRamRXVEFhUlZYQ2ZMaUgxUUpJX09DUjdwenJWOXZFaHNBUFU?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 10:35:15 GMT"
+    },
+    {
+      "title": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVZabWpya243cEtndWEyQnc1TXhYYUhUVUZvRXA5cTcwU1ZtenJqVHhLajNxLWNLLWRVRXE2LWZrRGpCN3duOVNJY1RhSGZYT3c1aWFaalVMcVg2X1M1alNCN0M2VUl0dnV2MmJBZDBoZE5OZDVhY2FRaFZWdm85SFFNT1Zld1YxZk16YjJrV1JvbGhPMHFsekJ1RXZfendZZlF3Vm5rZUNYS2xBTTdzQ1VFRThTQWdvc29Jamd5aUIwbXMtTU1mVlVR0gHQAUFVX3lxTE5UQlZRUzBfYjliTF9iQnBHaXctU1luaEs5cWIyaUxhUWVPTGwtenN1c3BPelpUWGh1UTdFR2toOGNEOEozSVZRSnFsRDNVWS1YaVFYeGFnLTBwSXE4MlF1VkF4bzdHN0d5UmhxRVV5SkpDN2l6cHdjd3hiN0NwQzg1WlRIdGV6TXFwanQ1UV9taTlOU3FFRjVESW1fVldUbXlqMkFGQlRBSk1ac0lNQVBLN2hFZmFFS2h2RVl3dlVybXBfSXpaYVNReUFzODJUQ1k?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 11:01:29 GMT"
+    },
+    {
+      "title": "Stock Market Highlights, November 20: Sensex rises 897 pts, Nifty ends at 25,800, ₹ sees largest single day gain in a month - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTFRlRVl2Z3JvQi1qMjV5R1h3WFNwdDJfQTB2bk9pdGh1RFFfdGhPTzRCWjd5cnlFUnZZVFFpSU1mbmFnV0ZRdW1SNDJXOVFqdXVsZ0dfMkR3QmY5UXlrWVIzb25GVl9hMjdPRzRtUC1SQ0c0RWZ3aTdHbHY4UDNteTQyRmFTd21hUmxwZ1hRNXdBQy1HSTlHTTRyTzVUaTFYeXZUQzdqUC1TMTRtNFFiNTNEM0txT24wT2duRFdfSUI4RXBwU195Umpn0gHQAUFVX3lxTFBOamlIUVZ4aTNfVFBtcng1bkd5Y2JaRWNDVUE2RFhfekgweksxOXVTOHAtTDAwWkl2N3Ywd0ZzQjBpRU9sNXdyaHQ1NXlMTWRjRXhYWXBTTE5LSTNwTTRzRjMwa1pSYjBDcUh4Vm4wUGpNakxNTlNSTGxwWVBKTThSQ2JKNHlkY0NFa1g2YjhndFo0M29rYV9raEFFbWdidUxCRmhHLWs0aWpxT0lPLW4xb3JWeDMtQWlJandyaGwzdWRJT2RzRm4xM1V5ZTBUVmI?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 10:33:22 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights: Sensex drops 570.59 points at closing; Nifty tanks to 22,421.95 - The Times of India",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPWjBqWExwOHJfbDIteUk1NF9IeUptVjN1ejhMMXdMV1U3QWhKWERHQm1fekNZckpLRE5aME5EYmFKM2szRjNBRVYwVUNjaVV0MkY4OUg0cWdCVzd0ZWcxM3ZfS3lWNUt5QWJyRmZ0UUR5MDZlOENZQ2x6UFBaTlg2T3REekRXMVZQcHc4Y1l6MmpqR1ZHdV9NazlIcWRiTy03TGhyaHlqdHdTdy0tUjJ4ajJUbEFlNDltUzZsLXpaRlYwNWdnX3d2dDFZRWNqLVFMTnpCSUt2MFlBNURISUxRV29nOGhkY080UFlxQkxUZDFVY3JRTjJFR29pLVhjWlhOU1ZmXzMteGNBeVBSLUlOdG9reWZjZFhGNEtfdzhNWXFfTWpoOXBoUG5UNmNra1VLU3FPaNIBugJBVV95cUxOS1JVdnhFYnN6S092dEN2Z1dmejJ4Sld2Rl9nckhveTBoQ1BzN0RHb0hmS3FiMV9NaWRqRXI4eWtsREN6dkl0RzdxN1g0UDlFMkNTVUdkcG1CV3dGSkhYYlJGeGkyZ3NldkRNSmRPVXhDX1dKc2dMR0JYYk5KQ2JveDNuMXBidEdGNFRoZFVpbThhd1hXUDRBSE5weWxnV01oRXNJbGQyWDQzTUY1UGhjdmJ0R05FbFVBT3A4cEtfdkJHMmlEMk5vWkJSa3UyenZtaWhDSVk5eFdSRHkxV3FvZkpWcUVNNFJLQnNfLWdId0lua243Tm1vUkVLNG9VVk4yVVZrbUd4bE5jVmxoTW9ZZEM5dWVNQzFQTTRWQzdvVldfZGNKckdoNTdiUTg1UnJRb3R3OEtXTDBadw?oc=5",
+      "publishedAt": "Thu, 01 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights, Oct 8: Sensex tanks 1,045 pts, Nifty sheds 371 pts to close lower - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkE0eE9DdVVvenQtSlhveFQ1azVITW1kLWRmd3hDMGItSjhnTXlVTVpPYTRKdmFMYjlfSmI0RjBoWW9mT01HNWFzclJ4aFJQTmRPdXVkR0hrTy1JSWtRel9YOU94Z3FpbUZrR3puMTVEY01nTlBYVXdHTHg0ME5MbzV1TzVENkxMUUc3ajU2UTRkeThydl9EZjFBOTNmZDZfUk5zWDFXbWxKcXNDMmxaOU1UYzF6Y0tMeTdJbWhoRk1BeEZJNmg40gHOAUFVX3lxTE9CQ1pKSUVlaV9iWDJ4VHZnVkx2R2phZ1ZxUG1HaTZNLVc1V2xkaVNrTERZSENfQ2pBUWlVb2V3amNDRU0yclVYaVAtMG1jQzhRZ0FER0JjUzNTcEFSUUpsblhPNkNOWk1SbUdpVjk2WFI0MzJDeTI2TjZzSmpIdjN3Wl94LUNsdTNDSXRCYXB2VHVreGxrRFNFN1NQcUYzNWFZdm9IWXNtZnJTcWo2VHoyZHpyTVRHX1ZXdHVYNUJVTnZ2YVVjcjFUa3MwTzB3?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too? - NDTV",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmlMUlRkZDVudkRmMF9SQ016dE1Vb1dVQnBEc3RvUHpxaGgtZUUwTXZwd3NFbUxYMjZwZWVsQkdTd3VpOFN5NFRaMFc1Z3Z6WDZGeFJTNFVrRUpaR1JTeVNKVHpRVmFJT29HUGdRU3NZX29tVUZ0MWZueE1NN056QTVHaE5Obk9WbnA4UHBtLUJuMlZkemNoRnM1NWFwUHRONlh4MHhxa05OenhaSmxnR09sSmM0dnNaSEtqdk9TTlhGSGxLR1dTNnZVc3lyVWw0aEpUWlA3VkFYd9IB4gFBVV95cUxQdkZUcTRIc3oyRTRJd05wNEFTelhHQ05US1RXMzIydERjX1VPNi1HV0FjRXZoSEdkVTZsbnpRRHFOX0xvQ2hfOXJPSXJCM21wNVdranVpcmtWQmFESmx1QjNLMUxLc3ZOYUQ1M1NJQkVldTY5UElYaWpCOE9QTC1NNG8xU3h6bl9NYUNtYUt5WTVoSEdyOEVTSXFWa3Z1c3JzWEdsVzN4MjNQVmNvRUN2MmVBd3otajMxa0cxMURxQ2o1UUw5WEdaSnIxMm0teUNHWVdYVFNHN2NTVnhtbnVwRjBn?oc=5",
+      "publishedAt": "Tue, 24 Nov 2026 01:19:14 GMT"
+    },
+    {
+      "title": "Why Stock Market Is Down Today? Sensex Falls 1,300 Points From High; Nifty Near 25,600 - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByWE04WVJrYm56SnV5ZjhHRjU5ZnE1SmNmVXpnenQ4V0FPODFLR3ZyNEJOVXdFdVVPVUs0V3pVT3ROdVhkRFNlRUVNeFVvYjEzZVhkbVBnTm1XNGRpRDhUNFhJejRoQWllQmVDWTFtQjA2WlMzLS1xTDA5ZHg5UQ?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 21:22:22 GMT"
     }
   ]
 }
