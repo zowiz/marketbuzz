@@ -1,31 +1,33 @@
 {
-  "headline": "Last session: Sensex plunged 1,484 points as profit-taking ended rally; markets closed today for Guru Nanak Jayanti.",
+  "headline": "Last session: Sensex plunged 1,484 points and Nifty fell below 25,400 amid heavy selling in banking and metal stocks",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 25 November.",
-    "nextOpen": "Wednesday, 25 November 2026"
+    "nextOpen": "Wednesday, 25 November"
   },
   "why": [
-    "NSE and BSE are closed today in observance of the Guru Nanak Jayanti holiday.",
-    "Heavy selling in banking and metal sectors pressured the indices during the last session.",
-    "Investors engaged in significant profit-taking following a sustained four-week market rally.",
-    "Weak global market cues contributed to the downward trend observed on Monday."
+    "Heavy selling in banking and metal stocks during the last session",
+    "Profit-taking after a four-week rally",
+    "Financials dragged the indices down",
+    "NSE trading holiday for Guru Nanak Jayanti"
   ],
   "whatHappening": [
-    "The Sensex shed 1,484 points while the Nifty 50 dropped below the 25,400 level in the previous session.",
-    "HDFC Bank and Reliance Industries were identified among the top stocks with the highest DII holdings in Q2.",
-    "Google Cloud India confirmed the elimination of 30 roles, clarifying that claims of massive layoffs were inaccurate.",
-    "Market experts are debating the need for tax stability regarding Long-Term Capital Gains (LTCG) over ad-hoc fixes."
+    "Sensex shed 1,484 points while Nifty dropped below the 25,400 mark in the previous session",
+    "FIIs continued their 16-session buying streak, investing ₹5,672.99 crore despite the market decline",
+    "Indices initially opened higher despite weak global cues before a sharp afternoon sell-off",
+    "HDFC Bank and Reliance Industries identified among stocks with highest DII holdings in Q2"
   ],
   "stocksInNews": [
     {
       "symbol": "HDFCBANK",
       "sentiment": "Negative",
-      "sources": "Mentioned by 2/11 sources",
+      "sources": "Mentioned by 4/11 sources",
       "articleIds": [
         3,
-        16
+        15,
+        17,
+        18
       ]
     },
     {
@@ -37,8 +39,8 @@
       ]
     }
   ],
-  "summary": "Indian markets are closed today for Guru Nanak Jayanti following a sharp correction in the previous session. On Monday, the Sensex plummeted 1,484 points, ending a four-week winning streak due to heavy selling in banking and metal sectors. Trading is scheduled to resume on Wednesday, November 25.",
-  "updatedAt": "2026-11-24T07:01:58.849Z",
+  "summary": "The Indian stock market is closed today for Guru Nanak Jayanti. In the last session, the Sensex crashed 1,484 points due to heavy selling in banking and metal sectors. Despite the sharp decline, FIIs remained net buyers for the 16th consecutive session.",
+  "updatedAt": "2026-11-24T07:32:01.756Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-24",
   "articleKeys": [
@@ -54,14 +56,14 @@
     "father and son both getting pmkisan money what do rules say",
     "stock market holiday share markets shut for guru nanak jayanti today are banks closed too ndtv",
     "sensex nifty open higher despite weak global market cues hdfc sky",
+    "fiis invest 567299 crore as 16session buying streak continues despite sensex and nifty decline kotak neo",
     "stock market holiday nse bse shut today for guru nanak jayanti business standard",
     "stock market holiday today bse nse to remain closed for guru nanak jayanti moneycontrolcom",
     "sensex today tanks 1484 points nifty below 25350 4 reasons why indian share markets are falling equitymaster",
     "stock market holiday today are bse nse closed on november 24 for guru nanak jayanti the times of india",
+    "financials drag indian shares down on profittaking after fourweek rally reuters",
     "sensex sheds 1484 points nifty drops below 25400 amid heavy selling in banking metal stocks dd news",
-    "indian stock market extends 4week rally as sensex and nifty hit 9month highs on record fii buying kotak neo",
-    "no 915 am opening bell today whats keeping dalal street shut on tuesday november 24 upstox",
-    "indian stocks sink as profittaking ends fourweek rally press insider"
+    "no 915 am opening bell today whats keeping dalal street shut on tuesday november 24 upstox"
   ],
   "articles": [
     {
@@ -137,6 +139,12 @@
       "publishedAt": "Mon, 23 Nov 2026 04:33:19 GMT"
     },
     {
+      "title": "FIIs Invest ₹5,672.99 Crore as 16-Session Buying Streak Continues Despite Sensex and Nifty Decline - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWEFCN1VkNFBaZjNLOHJuY05jY25kRDJaYWRDa0QwMkVlX3VRZXhJczdnRklOLWhlUlM3SEFTWjl0MkpHRXZzcmFzd0pUZjNUeVYxWGp5aEhRMW54RFVkbzlydXVzRGtrMWV0TWpiRUMwck1NckptUi02NUNYT1g1OE8xMmFZUk5heWMyS01kV1RMVk1uUmpDVmIwQ2YyNEs3VGQ5R0VrMmtaZ1NORGRuc1lCVW8xTmd1RXpFSHVqNXUyV1NCOW03QmNLSUg?oc=5",
+      "publishedAt": "Tue, 24 Nov 2026 06:37:20 GMT"
+    },
+    {
       "title": "Stock market holiday: NSE, BSE shut today for Guru Nanak Jayanti - Business Standard",
       "source": "Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMi1vRGt2cUdzRmhvUjZBblpUOExDV1F4a1BCWnplRUt5bzlsNXBMUVhnVC1hRi02UUlsYVRET0FzYjkxdkZlNDBwOWpXc0RZWU5EdnlDMV96WmstdVNxR1MwS28tTFY1X29Fd041TWlKaHRPZmZBZ29BWHZVOGhhczA1RHB3cVhRMmFOY243TFNlUU9SX2gtX255T3p6WVQ1OFRBVzZSdmdxa1JjcE5na3c2c0lfZVhXS0pCMHZYWTZXYlllZWQ2UGRQY1VEbkl1bGVV0gHYAUFVX3lxTFBUY0ZZQVpMTTJ1NktjMFFvUlZRV3FlSjJaNXhrT1J2QW1nTFMzOElUUWl2ZFRtMS1ObThMeW5BcHB0RTdCQW5GNHgtNzZDeFE2R2pMTnRlTlhYVmltT3g2YW5vakpvZWZ6YzRtOGlUWjJHdmNqUXk5QlhFcFJaNFBvdkh2NTNHeDlZVGgwOHhYOTJZODlHcjNUWUJCLXpKVnB4Q3dRNGVOMERpV2lRQkh0ODhaVUFrbkVyWTdSczlkMUFZUHg1VnpvQVJURzREMGxOX0pEU1Q2Zw?oc=5",
@@ -161,28 +169,22 @@
       "publishedAt": "Tue, 24 Nov 2026 03:39:00 GMT"
     },
     {
+      "title": "Financials drag Indian shares down on profit-taking after four-week rally - Reuters",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMeEQzdWVxWE1RVWp3TUM2WnJRc2lqamVnM1Vlek5LdU1rZjVRNEdVOUNkMVpoNTRLQlMxRFlfUXZzd1JOQ2J2QUI2S0wzMTRUWnN5aVhrTG5qSmk0Mzc0NFEwU1owcEpPNlljaw?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 02:37:00 GMT"
+    },
+    {
       "title": "Sensex sheds 1,484 points, Nifty drops below 25,400 amid heavy selling in banking, metal stocks - DD News",
       "source": "DD News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWks5WDVwWE9ULWNmYVItRHFralBSMTNFeEFBWXlTaFNBWnUxVkxPQnVQUTgzTlVEOE5hSzF5OUhTR1ozblZIUndqZXRCcWxJN05nd1NocTZmMVFKZGZ3emRkSXoteTlrMVB3b2FWNUpkRkc0VTRPcUZnc05ZV1o0VnR0QUdXWGJPcl8zYlBJQ1cyT2VaX19GNmZkNVpiMmxSb09hdC1hcUcwLWNMLUhQZl9rblZBX01H?oc=5",
       "publishedAt": "Mon, 23 Nov 2026 11:50:04 GMT"
     },
     {
-      "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHRLUWlWUGExQUVQdm41Q3RTXzVkdzhBNVY1ckc2X2VmRHQ5ZGdESlV2Z290X0lWVXdCcHh2MkZkZE9rcWRfUVBzVTFiWHZEZTZXV0R2VjVaZlh5dXFBQUw2WE0wcHF1ZnBlWWR2REFwS3F4dXlCR3FoLXNBZDBHYmxva3NhLWt3eHV4ZGxoSjBQc3RPQ1pNVXl5c2pVaGIzYU54Ni1TUHh1bzI3dG9UYWR4NTR0QUxjalFCV3pvTXV6MzJacy1ORmxHZU1FcDVrLWpSUjNwYjEzSVFOejc5N0hn?oc=5",
-      "publishedAt": "Sat, 21 Nov 2026 05:52:38 GMT"
-    },
-    {
       "title": "No 9:15 AM opening bell today: What's keeping Dalal Street shut on Tuesday, November 24? - Upstox",
       "source": "Upstox",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeEZiZE4wa1VoYkdQSXA4amVqbGVFaU5HaWd2V0pYd09nMDdJSU5WcVBWRGZqVTlpMFc3VElkVlpncUlPM21VUk55X0J2OXl5NXFYcGZLN3BpVWk1TVR6UTFaMXdGMGZoNDdyVTVzcnU4Zlg0blZpTnhrNUxHNi0yd0gwektEWkhHdS1ZaUEzYzVVYTN6UzE4a3BwVUJUY2twYVFsZ281azg5Y2hmZ2g2QVBMMklwUGdLZFBYSmgxckwxQU1neW1henRsTHluOU5TajZXbzEwLWJ2aXdmdDRvcw?oc=5",
       "publishedAt": "Tue, 24 Nov 2026 03:31:12 GMT"
-    },
-    {
-      "title": "Indian stocks sink as profit-taking ends four-week rally - PRESS Insider",
-      "source": "PRESS Insider",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2hIWTk2WXhDbWgzekIzQm8zTWIzcjFMcUF0US1hSW13bktpaS0zWEREdkpqY3pwMG0wUlE3WmpCMVFrMW02bzV1WEJFMTgyZ0J5bkNYdWxlaXBYaW5UYTB1SlBXUUU5RFRZNXppSU1jTUtTbmYwVUFsTzM0bVQ0bWtkcl9pV28?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 13:30:17 GMT"
     }
   ]
 }
