@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex plunged 1,484 points; markets closed today for Guru Nanak Jayanti",
+  "headline": "Last session: Sensex dropped 1,484 points as markets stay closed today for Guru Nanak Jayanti.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,36 +7,53 @@
     "nextOpen": "Wednesday, 25 November 2026"
   },
   "why": [
-    "Indian stock markets are closed today in observance of Guru Nanak Jayanti",
-    "The last session saw heavy selling pressure in the banking and metal sectors",
-    "Profit-taking occurred in financial stocks following a sustained four-week market rally",
-    "Sentiment was impacted by weak global market cues and falling US stock market futures"
+    "Indian stock markets BSE and NSE are closed today, November 24, for Guru Nanak Jayanti.",
+    "In the last session, heavy selling in banking and metal stocks dragged down benchmark indices.",
+    "Profit-taking emerged in financial shares following a four-week rally in Indian equities.",
+    "Weak global market cues added pressure despite sustained institutional buying."
   ],
   "whatHappening": [
-    "The Sensex dropped 1,484 points and the Nifty fell below 25,400 during the previous trading session",
-    "Foreign Institutional Investors (FIIs) maintained a 16-session buying streak, investing ₹5,672.99 crore",
-    "India's AI funding nearly doubled to $1.6 billion in the first nine months of 2026",
-    "Investors have gained ₹34.61 trillion in wealth during November despite the recent market decline"
+    "In the last trading day, Sensex shed 1,484 points while Nifty dropped below the 25,400 level.",
+    "Foreign Institutional Investors (FIIs) extended their buying streak to 16 sessions with net purchases of ₹5,672.99 crore.",
+    "Investors' wealth grew by ₹34.61 trillion as Sensex recorded strong overall gains during November.",
+    "Trading on BSE and NSE will resume on Wednesday, 25 November."
   ],
-  "stocksInNews": [],
-  "summary": "Indian markets are closed today for Guru Nanak Jayanti after a sharp 1,484-point decline in the Sensex during the last session. The drop was driven by profit-taking in financials and heavy selling in banking and metal stocks, despite continued buying by FIIs. Trading is set to resume on Wednesday, 25 November.",
-  "updatedAt": "2026-11-24T12:32:02.627Z",
+  "stocksInNews": [
+    {
+      "symbol": "ANGELONE",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        7
+      ]
+    },
+    {
+      "symbol": "TRACXN",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        3
+      ]
+    }
+  ],
+  "summary": "Indian share markets are closed today for Guru Nanak Jayanti and will reopen on Wednesday, November 25. On the last trading session, Sensex fell 1,484 points due to heavy profit-taking in banking and metal stocks. However, FII buying remained resilient with ₹5,672.99 crore infused into Indian equities.",
+  "updatedAt": "2026-11-24T12:55:03.496Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-24",
   "articleKeys": [
+    "vaibhav sooryavanshi hits 28 sixes in record 52ball list a double ton",
+    "ai boom looms over warshs fed as inflation worries grow",
     "anthropic ceo dario amodei sells shares worth usd 28041 million following ipo",
     "india ai funding nearly doubles to 16 billion in nine months of 2026 tracxn report",
     "will be able to trick us anthropic openai staff sound alarm over unreleased ai models",
     "gulf giants vs mi emirates live streaming when and where to watch ilt20 match",
     "ene repeat box office collection day 5 vishwak sen starrer sees sharp drop",
+    "ionic wealth raises 177 crore from angel one anil kapoor and others",
     "he might have a chirp or two r ashwin backs rishabh pant to sledge australia over sandpapergate in bgt 2027",
     "ramayana earns two spots in critics choice awards shortlist the odyssey leads race",
-    "cricket legend questions decision to drop mohammed siraj as india fail to beat new zealand in 1st test",
-    "nvidia party over 3 reasons why us stock market futures are falling after monster rally",
-    "after tame wellington draw heres what india can expect from christchurch pitch",
     "stock market holiday share markets shut for guru nanak jayanti today are banks closed too ndtv",
-    "investors become richer by 3461 trillion as sensex surges in november business standard",
     "sensex nifty open higher despite weak global market cues hdfc sky",
+    "investors become richer by 3461 trillion as sensex surges in november business standard",
     "stock market holiday today are bse nse closed on november 24 for guru nanak jayanti the times of india",
     "fiis invest 567299 crore as 16session buying streak continues despite sensex and nifty decline kotak neo",
     "sensex today tanks 1484 points nifty below 25350 4 reasons why indian share markets are falling equitymaster",
@@ -46,6 +63,18 @@
     "sensex sheds 1484 points nifty drops below 25400 amid heavy selling in banking metal stocks dd news"
   ],
   "articles": [
+    {
+      "title": "Vaibhav Sooryavanshi hits 28 sixes in record 52-ball List A double ton",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/cricket/news/vaibhav-sooryavanshi-fastest-list-a-century-double-hundred-india-a-vs-uae-rising-stars-asia-cup-126112400780_1.html",
+      "publishedAt": "Tue, 24 Nov 2026 17:52:26 +0530"
+    },
+    {
+      "title": "AI boom looms over Warsh's Fed as inflation worries grow",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow/articleshow/136129160.cms",
+      "publishedAt": "Tue, 24 Nov 2026 17:09:37 +0530"
+    },
     {
       "title": "Anthropic CEO Dario Amodei sells shares worth USD 280.41 million following IPO",
       "source": "Zerodha Pulse",
@@ -77,6 +106,12 @@
       "publishedAt": "Tue, 24 Nov 2026 16:53:59 +0530"
     },
     {
+      "title": "Ionic Wealth raises ₹177 crore from Angel One, Anil Kapoor and others",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/ionic-wealth-raises-177-crore-from-angel-one-anil-kapoor-and-others-126112400658_1.html",
+      "publishedAt": "Tue, 24 Nov 2026 16:44:21 +0530"
+    },
+    {
       "title": "'He Might Have A Chirp Or Two': R Ashwin Backs Rishabh Pant To Sledge Australia Over Sandpapergate In BGT 2027",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/sports/he-might-have-a-chirp-or-two-r-ashwin-backs-rishabh-pant-to-sledge-australia-over-sandpapergate-in-bgt-2027-12370284#publisher=newsstand",
@@ -89,40 +124,22 @@
       "publishedAt": "Tue, 24 Nov 2026 16:34:54 +0530"
     },
     {
-      "title": "Cricket Legend Questions Decision To Drop Mohammed Siraj As India Fail To Beat New Zealand In 1st Test",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/ab-de-villiers-questions-decision-to-drop-mohammed-siraj-as-india-fail-to-beat-new-zealand-in-1st-test-12370561#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 16:33:38 +0530"
-    },
-    {
-      "title": "Nvidia Party Over? 3 Reasons Why US Stock Market Futures Are Falling After Monster Rally",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/nvidia-party-over-3-reasons-why-us-stock-market-futures-are-falling-after-monster-rally-12370495#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 16:32:35 +0530"
-    },
-    {
-      "title": "After Tame Wellington Draw, Here's What India Can Expect From Christchurch Pitch",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/india-vs-new-zealand-after-tame-wellington-draw-heres-what-india-can-expect-from-christchurch-pitch-12370400#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 16:24:52 +0530"
-    },
-    {
       "title": "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too? - NDTV",
       "source": "NDTV",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmlMUlRkZDVudkRmMF9SQ016dE1Vb1dVQnBEc3RvUHpxaGgtZUUwTXZwd3NFbUxYMjZwZWVsQkdTd3VpOFN5NFRaMFc1Z3Z6WDZGeFJTNFVrRUpaR1JTeVNKVHpRVmFJT29HUGdRU3NZX29tVUZ0MWZueE1NN056QTVHaE5Obk9WbnA4UHBtLUJuMlZkemNoRnM1NWFwUHRONlh4MHhxa05OenhaSmxnR09sSmM0dnNaSEtqdk9TTlhGSGxLR1dTNnZVc3lyVWw0aEpUWlA3VkFYd9IB4gFBVV95cUxQdkZUcTRIc3oyRTRJd05wNEFTelhHQ05US1RXMzIydERjX1VPNi1HV0FjRXZoSEdkVTZsbnpRRHFOX0xvQ2hfOXJPSXJCM21wNVdranVpcmtWQmFESmx1QjNLMUxLc3ZOYUQ1M1NJQkVldTY5UElYaWpCOE9QTC1NNG8xU3h6bl9NYUNtYUt5WTVoSEdyOEVTSXFWa3Z1c3JzWEdsVzN4MjNQVmNvRUN2MmVBd3otajMxa0cxMURxQ2o1UUw5WEdaSnIxMm0teUNHWVdYVFNHN2NTVnhtbnVwRjBn?oc=5",
       "publishedAt": "Tue, 24 Nov 2026 01:19:14 GMT"
     },
     {
-      "title": "Investors become richer by ₹34.61 trillion as Sensex surges in November - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ25DV2JacnN4enBUaHZCS21JZEZidFRhZ0puMGpiVUFkdHlZbWstWHlTUlUxSVc5eThPUmtPYVBtVVJrMUxaenhsZVpQQkpQTGZNNkJ2TDdqQXZCVjROaE15RFBqNnRvdDF0bzRKazVBdUZESENTZjNtQWZhN2FRY1lMMjZTZkM5c0RZbEhfWDVGdU11M21FZkZXY3NLbEdBX25hVG15bDE0TFJfNXV6UkdGdTYtSThFdzU5bGExejhvYmI1cl9EQW9JQWZBLTRGRzE40gHYAUFVX3lxTFBxaHRZdjl3LVJNWGdJT1NBd0hGTll0TmYxMURRNE5LVHFyYmg0UkYxSEFZVzJSZFNhdm5UX0dqR3N0NUJiNWxRVDdkVWdzZDF0M3FaOVlGTWlGVXpmc3A0UExPdEJOME1BX1hxTUQ1U01nUHpKR2RYUzlBbFg0U25VRVI5UDdfRXB4blJNOUVaRkJqWlNyWDBFZmc1YldLMWgwSmFKZUNyLUo2VnFGbHpRVWw1QnRDNXNYSXpYczNyRHllc1p3bkZKUjVxYlJONGtZbHFRa1RGaA?oc=5",
-      "publishedAt": "Tue, 24 Nov 2026 08:10:51 GMT"
-    },
-    {
       "title": "Sensex, Nifty Open Higher Despite Weak Global Market Cues - HDFC Sky",
       "source": "HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSy1IQXlUcXRQRUcwT0Z0SmN3Z2hIYjZKYXVDS3E2UWpySjJOQ2lDNmtOdm1wM0REdFJ6d0xPYWUyck5ROTYwR21fNVhwUzFQZzVuOV9XMDNSYUE2S2cxcGF5anVlcEMtYnJTWnBBbS1hQkwwMWlXMW1DdjVaMVBRc2dJZXYwbVItdnYtN3BaVUFERUI5X0FJckVRcXVEODU2M0l4VEl2N09TNEh3RWRIMTdTSDA2Y3AyMl9XZmtqTkU2OXV3cGhTZkJVUVJwaUhacWxDZFFQcHhUdWhjTFp4Ri0yUkpQb00yQ25pVkRESFFVWWo1MjlNcy0wcE0wSFd5UGpjOW1vLVBQMUZDakE?oc=5",
       "publishedAt": "Mon, 23 Nov 2026 04:33:19 GMT"
+    },
+    {
+      "title": "Investors become richer by ₹34.61 trillion as Sensex surges in November - Business Standard",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ25DV2JacnN4enBUaHZCS21JZEZidFRhZ0puMGpiVUFkdHlZbWstWHlTUlUxSVc5eThPUmtPYVBtVVJrMUxaenhsZVpQQkpQTGZNNkJ2TDdqQXZCVjROaE15RFBqNnRvdDF0bzRKazVBdUZESENTZjNtQWZhN2FRY1lMMjZTZkM5c0RZbEhfWDVGdU11M21FZkZXY3NLbEdBX25hVG15bDE0TFJfNXV6UkdGdTYtSThFdzU5bGExejhvYmI1cl9EQW9JQWZBLTRGRzE40gHYAUFVX3lxTFBxaHRZdjl3LVJNWGdJT1NBd0hGTll0TmYxMURRNE5LVHFyYmg0UkYxSEFZVzJSZFNhdm5UX0dqR3N0NUJiNWxRVDdkVWdzZDF0M3FaOVlGTWlGVXpmc3A0UExPdEJOME1BX1hxTUQ1U01nUHpKR2RYUzlBbFg0U25VRVI5UDdfRXB4blJNOUVaRkJqWlNyWDBFZmc1YldLMWgwSmFKZUNyLUo2VnFGbHpRVWw1QnRDNXNYSXpYczNyRHllc1p3bkZKUjVxYlJONGtZbHFRa1RGaA?oc=5",
+      "publishedAt": "Tue, 24 Nov 2026 08:10:51 GMT"
     },
     {
       "title": "Stock market holiday today: Are BSE, NSE closed on November 24 for Guru Nanak Jayanti? - The Times of India",
