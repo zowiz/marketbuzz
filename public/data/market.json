@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex plunged 1,484 points as broad-based sell-off wiped out over ₹6 lakh crore.",
+  "headline": "Last session: Sensex plunged 1,484 points in broad-based sell-off; markets closed today for Guru Nanak Jayanti",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,33 +7,66 @@
     "nextOpen": "Wednesday, 25 November"
   },
   "why": [
-    "Broad-based sell-off hit Dalal Street severely in the previous session.",
-    "Metal and banking stocks were the worst hit during the sell-off.",
-    "Sensex crashed over 1,600 points from the day's high during intra-day trading.",
-    "Heavy investor wealth erosion of over ₹6 lakh crore triggered market panic."
+    "Broad-based sell-off hit Dalal Street hard during the previous trading session on November 23.",
+    "Metal and banking sector stocks were among the worst hit in Monday's market crash.",
+    "Investors lost over ₹6 lakh crore in market wealth as Sensex crashed from day's high.",
+    "Weak market sentiment and global cues led to heavy selling pressure across sectors."
   ],
   "whatHappening": [
-    "Indian share markets are shut today, 24 November 2026, for Guru Nanak Jayanti.",
-    "On the last trading day, Sensex fell 1,484 points to close deep in the red while Nifty slipped below 25,400.",
-    "IT stocks outshined the broader market despite severe losses in banking and metal shares.",
-    "Yellow metal extended recovery with spot gold trading above $3,645 an ounce on bargain buying."
+    "Indian stock markets are closed today, November 24, 2026, for Guru Nanak Jayanti.",
+    "In the last trading session, Sensex closed down 1,484 points and Nifty slipped below the 25,400 mark.",
+    "IT sector stocks outshone other sectors during the sharp market downturn on Monday.",
+    "Google denied reports and rumors regarding large-scale layoffs in its India operations."
   ],
-  "stocksInNews": [],
-  "summary": "Indian stock markets are closed today for the Guru Nanak Jayanti holiday and reopen on Wednesday.\nIn the previous session, the Sensex crashed 1,484 points while the Nifty 50 slipped below 25,400.\nInvestors lost over ₹6 lakh crore as metal and bank stocks led a sharp broad-based sell-off.",
-  "updatedAt": "2026-11-24T04:31:28.213Z",
+  "stocksInNews": [
+    {
+      "symbol": "NAZARA",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "STLTECH",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "MANAPPURAM",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/9 sources",
+      "articleIds": [
+        2
+      ]
+    }
+  ],
+  "summary": "Indian equity markets are closed today, November 24, on account of Guru Nanak Jayanti. In the previous trading session on November 23, domestic markets suffered a severe crash as the Sensex plunged 1,484 points and Nifty broke below 25,400, wiping out over ₹6 lakh crore of investor wealth. Trading activity on Indian exchanges will resume on Wednesday, November 25.",
+  "updatedAt": "2026-11-24T05:02:05.282Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-24",
   "articleKeys": [
-    "south korean shares rebound as huangs nvidia return lifts ai stocks",
-    "japanese bond yields fall as lower oil prices ease inflation concerns",
-    "dollar climbs as renewed ai euphoria fuels fed hike bets",
-    "magnitude 53 earthquake strikes near nepals koshi tremors felt in west bengal",
-    "vir das loses out on international emmy award for fool volume",
-    "jensen jensen jensen crowd cheers for nvidia ceo as he returns",
-    "gold rate today yellow metal extends recovery on bargain buying after selloff spot gold above 3645 an ounce",
-    "asian stocks rally as huangs nvidia return revives ai trade",
-    "why trump pushed to bring jensen huang back on top at ai behemoth nvidia",
-    "school holiday today are schools open or closed today on account of guru nanak jayanti 2026",
+    "bitcoin fails to hold nvidia bump with crypto headwinds in focus",
+    "megaspeed singaporean company at heart of nvidia scandal added to us export control list",
+    "buy sell or hold nazara technologies sterlite tech manappuram finance groww divis labs ask profit",
+    "training vs inference whats the distinction at the heart of the sarvam aichina models controversy explained",
+    "google denies rumours of largescale layoffs in india",
+    "clear political and economic agenda uday kotak on jensen huang returning as nvidia ceo",
+    "jensen huang gets standing ovation from nvidia employees as he returns to office watch video",
+    "bank holiday today are banks open or closed on november 24 for guru nanak jayanti",
+    "jensen jensen jensen crowd cheers for nvidia ceo as he returns watch video",
+    "scene box office day 18 suriyas film crosses rs 150 crore net milestone takes india gross to rs 175 crore",
     "stock market today live november 23 sensex plunges 1484 points nifty sheds 451 as broadbased selloff hits dalal street businessline",
     "stock market crash today investors lose over rs 6 lakh crore as sensex ends over 1400 points down top the times of india",
     "closing bell nifty below 25400 sensex slips 1484 pts metal banks worst hit it outshine moneycontrolcom",
@@ -47,64 +80,64 @@
   ],
   "articles": [
     {
-      "title": "South Korean shares rebound as Huang's Nvidia return lifts AI stocks",
+      "title": "Bitcoin fails to hold Nvidia bump with crypto headwinds in focus",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-rebound-as-huangs-nvidia-return-lifts-ai-stocks/articleshow/136118071.cms",
-      "publishedAt": "Tue, 24 Nov 2026 08:35:02 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-fails-to-hold-nvidia-bump-with-crypto-headwinds-in-focus/articleshow/136119619.cms",
+      "publishedAt": "Tue, 24 Nov 2026 10:10:09 +0530"
     },
     {
-      "title": "Japanese bond yields fall as lower oil prices ease inflation concerns",
+      "title": "Megaspeed, Singaporean company at heart of Nvidia scandal, added to U.S. export control list",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/japanese-bond-yields-fall-as-lower-oil-prices-ease-inflation-concerns/articleshow/136118046.cms",
-      "publishedAt": "Tue, 24 Nov 2026 08:34:17 +0530"
+      "link": "https://www.thehindu.com/sci-tech/technology/megaspeed-singaporean-company-at-heart-of-nvidia-scandal-added-to-us-export-control-list/article71737069.ece",
+      "publishedAt": "Tue, 24 Nov 2026 09:41:45 +0530"
     },
     {
-      "title": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
+      "title": "Buy, Sell Or Hold: Nazara Technologies, Sterlite  Tech, Manappuram Finance, Groww, Divi's Labs — Ask Profit",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/forex/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets/articleshow/136118031.cms",
-      "publishedAt": "Tue, 24 Nov 2026 08:32:32 +0530"
+      "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-nazara-technologies-manappuram-finance-sterlite-technologies-groww-divis-labs-ask-profit-12340594#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 09:15:56 +0530"
     },
     {
-      "title": "Magnitude 5.3 Earthquake Strikes Near Nepal's Koshi, Tremors Felt in West Bengal",
+      "title": "Training vs inference: What’s the distinction at the heart of the Sarvam AI-China models controversy? | Explained",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/earthquake-today-magnitude-5-3-earthquake-strikes-near-nepals-lelep-tremors-felt-in-west-bengal-12368683#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 08:30:39 +0530"
+      "link": "https://www.thehindu.com/business/training-vs-inference-whats-the-distinction-at-the-heart-of-the-sarvam-ai-china-models-controversy-explained/article71736231.ece",
+      "publishedAt": "Tue, 24 Nov 2026 09:12:04 +0530"
     },
     {
-      "title": "Vir Das Loses Out On International Emmy Award For Fool Volume",
+      "title": "Google denies rumours of large-scale layoffs in India",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/vir-das-loses-out-on-international-emmy-award-for-fool-volume-12368651#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 08:29:22 +0530"
+      "link": "https://www.thehindu.com/sci-tech/technology/google-denies-rumours-of-large-scale-layoffs-in-india/article71737101.ece",
+      "publishedAt": "Tue, 24 Nov 2026 09:11:55 +0530"
     },
     {
-      "title": "'Jensen! Jensen! Jensen!': Crowd Cheers For Nvidia CEO As He Returns",
+      "title": "'Clear Political And Economic Agenda': Uday Kotak On Jensen Huang Returning As Nvidia CEO",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/economy/clear-political-and-economic-agenda-uday-kotak-on-jensen-huang-returning-as-nvidia-ceo-12368688#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 09:10:20 +0530"
+    },
+    {
+      "title": "Jensen Huang Gets Standing Ovation From Nvidia Employees As He Returns To Office | Watch Video",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/business/jensen-huang-gets-standing-ovation-from-nvidia-employees-as-he-returns-to-office-watch-video-12368801#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 09:03:49 +0530"
+    },
+    {
+      "title": "Bank Holiday Today: Are Banks Open Or Closed On November 24 For Guru Nanak Jayanti?",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/india/bank-holiday-today-banks-closed-in-21-cities-on-november-24-for-guru-nanak-jayanti-check-full-list-12368613#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 08:55:16 +0530"
+    },
+    {
+      "title": "'Jensen! Jensen! Jensen!': Crowd Cheers For Nvidia CEO As He Returns | Watch Video",
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/trending/jensen-jensen-jensen-crowd-cheers-for-nvidia-ceo-as-he-returns-12368677#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 08:22:52 +0530"
+      "publishedAt": "Tue, 24 Nov 2026 08:46:40 +0530"
     },
     {
-      "title": "Gold Rate Today: Yellow Metal Extends Recovery On Bargain Buying After Selloff; Spot Gold Above $3,645 An Ounce",
+      "title": "Scene Box Office Day 18: Suriya's Film Crosses Rs 150 Crore Net Milestone, Takes India Gross To Rs 175 Crore",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/gold-rate-today-yellow-metal-extends-recovery-on-bargain-buying-after-selloff-spot-gold-above-3-645-an-ounce-12368666#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 08:18:58 +0530"
-    },
-    {
-      "title": "Asian stocks rally as Huang's Nvidia return revives AI trade",
-      "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/asian-stocks-rally-as-huangs-nvidia-return-revives-ai-trade/articleshow/136117829.cms",
-      "publishedAt": "Tue, 24 Nov 2026 08:14:53 +0530"
-    },
-    {
-      "title": "Why Trump pushed to bring Jensen Huang back on top at AI behemoth Nvidia",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/why-did-trump-push-to-bring-jensen-huang-back-on-top-at-ai-behemoth-nvidia-126112400052_1.html",
-      "publishedAt": "Tue, 24 Nov 2026 08:05:38 +0530"
-    },
-    {
-      "title": "School Holiday Today: Are Schools Open Or Closed Today On Account Of Guru Nanak Jayanti 2026?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/school-holiday-today-are-schools-open-or-closed-today-on-account-of-guru-nanak-jayanti-2026-12368521#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 08:02:07 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/scene-box-office-day-18-suriyas-film-crosses-rs-150-crore-net-milestone-takes-india-gross-to-rs-175-crore-12368633#publisher=newsstand",
+      "publishedAt": "Tue, 24 Nov 2026 08:45:21 +0530"
     },
     {
       "title": "Stock Market Today Live November 23: Sensex plunges 1,484 points, Nifty sheds 451 as broad-based sell-off hits Dalal Street - BusinessLine",
