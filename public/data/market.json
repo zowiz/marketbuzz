@@ -1,39 +1,56 @@
 {
-  "headline": "On last trading day, Sensex plunged 1,484 points; markets closed today for Guru Nanak Jayanti.",
+  "headline": "On last trading day, Sensex dropped 1,484 points amid heavy selling in banking and metal stocks.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed for trading today due to an NSE holiday. It will reopen on Wednesday, 25 November.",
-    "nextOpen": "Wednesday, 25 November"
+    "nextOpen": "Wednesday, 25 November 2026"
   },
   "why": [
-    "Market is closed for trading today in observance of Guru Nanak Jayanti",
-    "Heavy selling pressure in banking and metal stocks during the previous session",
-    "Weak global market cues weighed on investor sentiment",
-    "Profit booking following a significant surge in the Sensex throughout November"
+    "Indian stock markets are closed on Tuesday, November 24, on account of Guru Nanak Jayanti.",
+    "In the previous session, Sensex fell 1,484 points due to heavy selling pressure in banking and metal stocks.",
+    "Global market cues remained weak during the last trading session.",
+    "FII buying continued for 16 consecutive sessions, with net inflows of ₹5,672.99 crore despite market decline."
   ],
   "whatHappening": [
-    "The Sensex plummeted 1,484 points while the Nifty 50 fell below the 25,350 mark",
-    "Foreign Institutional Investors (FIIs) continued their buying streak for the 16th consecutive session",
-    "Investors' total wealth has increased by ₹34.61 trillion during the month of November",
-    "Audi India announced a price hike of up to 2% across its vehicle range from January"
+    "Adani Group is planning a capital expenditure of $120 billion over the next 5-6 years, as per Jefferies.",
+    "Vedanta is seeking a premium over imported LNG prices for its Rajasthan gas sales.",
+    "The government plans to sell part of its stake in IIFCL via an IPO alongside fresh share issuance.",
+    "RBI Deputy Governor urged primary dealers to bid responsibly in G-Sec underwriting auctions."
   ],
-  "stocksInNews": [],
-  "summary": "Indian stock markets are closed today for Guru Nanak Jayanti after the Sensex plunged 1,484 points in the last session.\nThe market decline was led by banking and metal stocks, though FIIs extended their buying streak to 16 sessions.\nDespite the recent drop, investor wealth has grown by ₹34.61 trillion in November, with markets reopening on Wednesday.",
-  "updatedAt": "2026-11-24T09:02:20.098Z",
+  "stocksInNews": [
+    {
+      "symbol": "VEDL",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        3
+      ]
+    },
+    {
+      "symbol": "ADANIENT",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/11 sources",
+      "articleIds": [
+        4
+      ]
+    }
+  ],
+  "summary": "Indian share markets are closed on Tuesday, November 24, for Guru Nanak Jayanti.\nIn the last trading session, the Sensex dropped 1,484 points led by losses in metal and banking stocks.\nCorporate developments included Adani Group's $120 billion capex plan and Vedanta's gas pricing moves.",
+  "updatedAt": "2026-11-24T10:02:11.295Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-24",
   "articleKeys": [
+    "india china set for record russian oil imports in 2026 amid iran war",
+    "india inc outlines measures to attract foreign capital",
+    "rbi dg asks primary dealers to bid responsibly in gsec underwriting auctions",
+    "vedanta seeks premium over imported lng prices for rajasthan gas sale",
+    "adani group planning 120 bn in capex over next 56 years jefferies",
+    "iifcl ipo govt plans to sell part of its stake company to issue fresh shares",
     "us targets chip smuggling to china after huangs return to scandalhit nvidia",
     "drishyam 3 ott release date where to watch plot cast and more",
     "audi india to hike vehicle prices by up to 2 from january 1",
     "bhuvan bam recalls shah rukh khan giving him a head massage",
-    "investors become richer by 3461 trillion as sensex surges in november",
-    "punjab assembly elections 2027 bjp and shiromani akali dal announce alliance six years after parting ways",
-    "couples visiting the park should behave properly mumbai mayor trolled over remark on assault case",
-    "cisco openai aim to build infrastructure that can defend itself against aidriven cyberattacks",
-    "iranian singer parastoo ahmadi and four crew members receive 74 lashes each lawyers say",
-    "underwriting auction pricing needs to reflect market conditions rbi dy guv",
     "stock market holiday share markets shut for guru nanak jayanti today are banks closed too ndtv",
     "investors become richer by 3461 trillion as sensex surges in november business standard",
     "stock market holiday today are bse nse closed on november 24 for guru nanak jayanti the times of india",
@@ -46,6 +63,42 @@
     "no 915 am opening bell today whats keeping dalal street shut on tuesday november 24 upstox"
   ],
   "articles": [
+    {
+      "title": "India, China set for record Russian oil imports in 2026 amid Iran war",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/economy/news/china-india-set-for-record-russian-oil-imports-in-2026-amid-iran-war-126112400502_1.html",
+      "publishedAt": "Tue, 24 Nov 2026 15:11:32 +0530"
+    },
+    {
+      "title": "India Inc outlines measures to attract foreign capital",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/economy/news/india-inc-outlines-measures-to-attract-foreign-capital-126112301461_1.html",
+      "publishedAt": "Tue, 24 Nov 2026 14:57:22 +0530"
+    },
+    {
+      "title": "RBI DG asks primary dealers to bid responsibly in G-Sec underwriting auctions",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
+      "publishedAt": "Tue, 24 Nov 2026 14:56:23 +0530"
+    },
+    {
+      "title": "Vedanta seeks premium over imported LNG prices for Rajasthan gas sale",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/vedanta-seeks-premium-over-imported-lng-prices-for-rajasthan-gas-sale-126112400426_1.html",
+      "publishedAt": "Tue, 24 Nov 2026 14:44:42 +0530"
+    },
+    {
+      "title": "Adani Group planning $120 bn in capex over next 5-6 years: Jefferies",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/adani-group-plans-120-billion-investment-over-next-5-6-years-jefferies-126112400462_1.html",
+      "publishedAt": "Tue, 24 Nov 2026 14:26:32 +0530"
+    },
+    {
+      "title": "IIFCL IPO: Govt plans to sell part of its stake, company to issue fresh shares",
+      "source": "Zerodha Pulse",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/iifcl-ipo-govt-plans-to-sell-part-of-its-stake-company-to-issue-fresh-shares/articleshow/136124476.cms",
+      "publishedAt": "Tue, 24 Nov 2026 14:02:38 +0530"
+    },
     {
       "title": "U.S. targets chip smuggling to China after Huang's return to scandal-hit Nvidia",
       "source": "Zerodha Pulse",
@@ -69,42 +122,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/entertainment/bhuvan-bam-reveals-shah-rukh-khan-gave-him-a-champi-during-their-first-meeting-i-couldn-t-wash-my-hair-12369723#publisher=newsstand",
       "publishedAt": "Tue, 24 Nov 2026 13:44:51 +0530"
-    },
-    {
-      "title": "Investors become richer by ₹34.61 trillion as Sensex surges in November",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/markets/news/investors-become-richer-by-34-61-trillion-as-sensex-surges-in-november-126112400402_1.html",
-      "publishedAt": "Tue, 24 Nov 2026 13:40:51 +0530"
-    },
-    {
-      "title": "Punjab Assembly Elections 2027: BJP And Shiromani Akali Dal Announce Alliance Six Years After Parting Ways",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/punjab-assembly-elections-2027-bjp-and-shiromani-akali-dal-officially-announce-alliance-six-years-after-parting-ways-12369647#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 13:39:22 +0530"
-    },
-    {
-      "title": "'Couples Visiting The Park Should Behave Properly': Mumbai Mayor Trolled Over Remark On Assault Case",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/trending/couples-visiting-the-park-should-behave-properly-mumbai-mayor-trolled-over-remark-on-assault-case-12369636#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 13:39:20 +0530"
-    },
-    {
-      "title": "Cisco, OpenAI Aim to Build Infrastructure That Can Defend Itself Against AI-Driven Cyberattacks",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/cisco-and-openai-aim-to-build-infrastructure-that-can-defend-itself-against-ai-driven-cyberattacks-12369140#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 13:37:13 +0530"
-    },
-    {
-      "title": "Iranian Singer Parastoo Ahmadi And Four Crew Members Receive 74 Lashes Each, Lawyers Say",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/iranian-singer-parastoo-ahmadi-and-four-crew-members-receive-74-lashes-each-lawyers-say-12369552#publisher=newsstand",
-      "publishedAt": "Tue, 24 Nov 2026 13:30:16 +0530"
-    },
-    {
-      "title": "Underwriting auction pricing needs to reflect market conditions: RBI Dy Guv",
-      "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/finance/news/rbi-primary-dealers-government-bond-underwriting-auctions-rohit-jain-126112400411_1.html",
-      "publishedAt": "Tue, 24 Nov 2026 13:29:08 +0530"
     },
     {
       "title": "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too? - NDTV",
