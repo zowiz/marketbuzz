@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex surges over 1,300 points as foreign inflows and falling crude oil prices drive market rally",
+  "headline": "Sensex surges 1,300 points as Nifty crosses 25,700 while ITI and MRPL lead smallcap losses",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,206 +7,135 @@
     "nextOpen": ""
   },
   "why": [
-    "Strong foreign institutional investor (FII) and foreign fund inflows into Indian equities.",
-    "Lower and softer crude oil prices lifting overall market sentiment.",
-    "Indian stock market rebound amid reverse AI trade as AI selloff deepens across Asia.",
-    "Foreign investors pouring billions into technology sector stocks."
+    "Sensex surged by 1,300 points and Nifty topped 25,700 during live trading.",
+    "SmallCap stocks saw pressure with ITI and MRPL leading the decline.",
+    "Angel One committed Rs 177 crore in funding to Ionic Wealth to ramp up growth.",
+    "Tata Steel's Narendran made statements regarding APL Apollo minority shareholder valuation."
   ],
   "whatHappening": [
-    "Sensex surged over 1,300 to 2,000 points in early trade, while Nifty 50 crossed key levels of 25,700 and 25,900.",
-    "Bajaj Finserv, IndiGo, and HUL were among the top gainers in the day's trading.",
-    "Tata Steel shares faced selling pressure, trading down over 2%.",
-    "TVS Motor Chairman Venu Srinivasan faces family ownership cloud and property dispute."
+    "PepsiCo India announced plans to invest ₹868 crore in a new food plant in Tamil Nadu.",
+    "Flipkart CEO Kalyan Krishnamurthy is set to step down from his role.",
+    "Air passenger services experienced 35% inflation in Q2 while banking and securities transactions witnessed deflation.",
+    "Thorium reactor startup SUK-M raised a pre-seed round led by Speciale Invest."
   ],
   "stocksInNews": [
     {
+      "symbol": "ITI",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/1 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "MRPL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/1 sources",
+      "articleIds": [
+        2
+      ]
+    },
+    {
+      "symbol": "APLAPOLLO",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/1 sources",
+      "articleIds": [
+        5
+      ]
+    },
+    {
       "symbol": "TATASTEEL",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/1 sources",
       "articleIds": [
-        0
+        5
       ]
     },
     {
-      "symbol": "BAJAJFINSV",
+      "symbol": "ANGELONE",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
+      "sources": "Mentioned by 1/1 sources",
       "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "INDIGO",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "HINDUNILVR",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        4
-      ]
-    },
-    {
-      "symbol": "TVSMOTOR",
-      "sentiment": "Negative",
-      "sources": "Mentioned by 1/11 sources",
-      "articleIds": [
-        6,
-        7
+        8
       ]
     }
   ],
-  "summary": "Indian benchmark indices witnessed a massive rally today with Sensex jumping over 1,300 points and Nifty scaling past 25,700. Strong foreign fund inflows, lower crude oil prices, and Asian market rotation boosted investor sentiment. Gainers were led by Bajaj Finserv, IndiGo, and HUL, whereas Tata Steel traded lower.",
-  "updatedAt": "2026-11-25T09:31:22.997Z",
+  "summary": "Indian markets saw a strong rally with the Sensex jumping 1,300 points and Nifty crossing the 25,700 mark.\nDespite overall market strength, SmallCap stocks like ITI and MRPL led losses.\nKey corporate headlines included Angel One's Rs 177 crore investment in Ionic Wealth and Flipkart's CEO transition.",
+  "updatedAt": "2026-11-25T10:01:52.644Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-25",
   "articleKeys": [
-    "stock market live sensex up 1300 pts nifty tops 25700 tata steel shares down over 2",
-    "flipkart ceo kalyan krishnamurthy set to leave after nearly 10year run",
-    "jeff bezos exwife mackenzie scott donates 125 million to two us nonprofits who gets the money",
-    "pune panic grips shivajinagar area after firing outside district court",
-    "stock market today sensex nifty 50 offdays high bajaj finserv indigo hul top gainers",
-    "lmil unlocks commercial launch of radiationfree breast cancer screening device with official manufacturing license",
-    "ownership issues cloud tvs venu srinivasan family",
-    "abhishek manu singhvi to represent venu srinivasan in property dispute with daughter",
-    "telangana inter exams 2027 no change in colleges for practical tests as tsbie drops jumbling plan",
-    "road to 1000 how many goals cristiano ronaldo needs after al nassr vs al sadd clash",
-    "stock market update 25 november 2026 sensex zooms over 1450 points nifty 50 above 25750 in early trading kotak neo",
-    "stock market today sensex holds over 1000 point gains after 2000 point surge nifty50 crosses 25900 the times of india",
-    "bumper rally in markets sensex opens over 1000 points higher nifty jumps 12 on reverse ai trade chinimandi",
-    "markets rally in early trade on foreign fund inflows lower crude oil sensex jumps 1382 points the hindu",
-    "indian stocks rebound as ai selloff deepens across asia press insider",
-    "sensex today sensex surges past 84000 nifty gains over 500 points india infoline",
-    "stock markets today sensex nifty rally amid strong fii inflows rediffcom",
-    "sensex surges over 2000 points nifty jumps 602 points deccan chronicle",
-    "sensex jumps 1400 points nifty gains 375 as foreign inflows softer oil lift market sentiment apac media",
-    "stock market rally sensex skyrockets as foreign investors pour billions into tech stocks ndtv"
+    "pepsico india to invest 868 crore in new food plant in tamil nadu",
+    "thorium reactor startup sukm raises preseed round led by speciale invest",
+    "stock market live sensex up 1300 pts nifty tops 25700 iti mrpl lead smallcap losses",
+    "air passenger services see 35 inflation in q2 banking securities transaction witness deflation",
+    "anthropics potential bond issues may be rated junk despite 11 trillion valuation says report",
+    "apl apollos gupta wants minority holders to get rs 200share more says tata steels narendran",
+    "a154 on ticket only 52 berths in train coach passenger complains to railways",
+    "rs 127 crore salary yet no compatible partner why an iit graduate is struggling to find a match",
+    "ionic wealth announces rs 177 crore fundraise from angel one to ramp up growth",
+    "kalyan krishnamurthy to step down as flipkart ceo"
   ],
   "articles": [
     {
-      "title": "Stock Market LIVE: Sensex up 1,300 pts, Nifty tops 25,700; Tata Steel shares down over 2%",
+      "title": "PepsiCo India to invest ₹868 crore in new food plant in Tamil Nadu",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/companies/news/pepsico-india-rs-868-crore-tamil-nadu-snacks-plant-manapparai-126112500587_1.html",
+      "publishedAt": "Wed, 25 Nov 2026 14:54:44 +0530"
+    },
+    {
+      "title": "Thorium reactor startup SUK-M raises pre-seed round led by Speciale Invest",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/news/suk-m-thorium-micro-modular-reactor-pre-seed-speciale-invest-126112500577_1.html",
+      "publishedAt": "Wed, 25 Nov 2026 14:49:55 +0530"
+    },
+    {
+      "title": "Stock Market LIVE: Sensex up 1,300 pts, Nifty tops 25,700; ITI, MRPL lead SmallCap losses",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-25-gift-nifty-bse-sensex-today-nifty50-crude-oil-prices-ipo-today-126112500069_1.html",
-      "publishedAt": "Wed, 25 Nov 2026 14:00:08 +0530"
+      "publishedAt": "Wed, 25 Nov 2026 14:42:52 +0530"
     },
     {
-      "title": "Flipkart CEO Kalyan Krishnamurthy set to leave after nearly 10-year run",
+      "title": "Air passenger services see 35% inflation in Q2; banking, securities transaction witness deflation",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/kalyan-krishnamurthy-exit-flipkart-ceo-ipo-esop-walmart-126112500495_1.html",
-      "publishedAt": "Wed, 25 Nov 2026 13:58:31 +0530"
+      "link": "https://www.thehindu.com/business/Economy/air-passenger-services-see-35-inflation-in-q2-banking-securities-transaction-witness-deflation/article71741711.ece",
+      "publishedAt": "Wed, 25 Nov 2026 14:41:52 +0530"
     },
     {
-      "title": "Jeff Bezos’ Ex-Wife MacKenzie Scott Donates $12.5 Million To Two US Nonprofits: Who Gets The Money?",
+      "title": "Anthropic's Potential Bond Issues May Be Rated Junk Despite $1.1 Trillion Valuation, Says Report",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/world/jeff-bezos-ex-wife-mackenzie-scott-donates-12-5-million-to-two-us-nonprofits-who-gets-the-money-12374200#publisher=newsstand",
-      "publishedAt": "Wed, 25 Nov 2026 13:43:06 +0530"
+      "link": "https://www.ndtvprofit.com/markets/anthropics-potential-bond-issues-may-be-rated-junk-despite-1-1-trillion-valuation-says-report-12374718#publisher=newsstand",
+      "publishedAt": "Wed, 25 Nov 2026 14:40:40 +0530"
     },
     {
-      "title": "Pune: Panic Grips Shivajinagar Area After Firing Outside District Court",
+      "title": "APL Apollo's Gupta Wants Minority Holders To Get Rs 200/Share More, Says Tata Steel's Narendran",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/pune-panic-grips-shivajinagar-area-after-firing-outside-district-court-12374426#publisher=newsstand",
-      "publishedAt": "Wed, 25 Nov 2026 13:38:36 +0530"
+      "link": "https://www.ndtvprofit.com/business/tata-steel-apl-apollo-deal-tv-narendran-says-sanjay-gupta-keen-on-minority-shareholders-getting-at-least-rs-200-share-more-12374674#publisher=newsstand",
+      "publishedAt": "Wed, 25 Nov 2026 14:40:26 +0530"
     },
     {
-      "title": "Stock Market Today: Sensex, Nifty 50 Off-Day's High; Bajaj Finserv, IndiGo, HUL Top Gainers",
+      "title": "'A1/54' On Ticket, Only 52 Berths In Train Coach? Passenger Complains To Railways",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/stock-market-today-sensex-nifty-50-gift-nifty-gold-rate-silver-price-crude-oil-prices-rupee-12373345#publisher=newsstand",
-      "publishedAt": "Wed, 25 Nov 2026 13:27:53 +0530"
+      "link": "https://www.ndtvprofit.com/india/a1-54-on-ticket-only-52-berths-in-train-coach-passenger-complains-to-railways-12374455#publisher=newsstand",
+      "publishedAt": "Wed, 25 Nov 2026 14:40:11 +0530"
     },
     {
-      "title": "LMIL Unlocks Commercial Launch of Radiation-Free Breast Cancer Screening Device With Official Manufacturing License",
+      "title": "Rs 1.27 Crore Salary, Yet No Compatible Partner: Why An IIT Graduate Is Struggling To Find A Match",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/science/lmil-unlocks-commercial-launch-of-radiation-free-breast-cancer-screening-device-with-official-manufacturing-license-12373867#publisher=newsstand",
-      "publishedAt": "Wed, 25 Nov 2026 13:23:31 +0530"
+      "link": "https://www.ndtvprofit.com/trending/rs-1-27-crore-salary-yet-no-compatible-partner-why-the-iit-graduate-is-struggling-to-find-a-match-12374538#publisher=newsstand",
+      "publishedAt": "Wed, 25 Nov 2026 14:38:57 +0530"
     },
     {
-      "title": "Ownership issues cloud TVS’ Venu Srinivasan, family",
+      "title": "Ionic Wealth Announces Rs 177 Crore Fundraise From Angel One To Ramp Up Growth",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/ownership-issues-cloud-tvs-venu-srinivasan-family/article71565380.ece",
-      "publishedAt": "Wed, 25 Nov 2026 13:16:48 +0530"
+      "link": "https://www.ndtvprofit.com/business/ionic-wealth-announces-rs-117-crore-fundraise-from-angel-one-to-ramp-up-growth-12370436#publisher=newsstand",
+      "publishedAt": "Wed, 25 Nov 2026 14:36:48 +0530"
     },
     {
-      "title": "Abhishek Manu Singhvi to represent Venu Srinivasan in property dispute with daughter",
+      "title": "Kalyan Krishnamurthy to step down as Flipkart CEO",
       "source": "Zerodha Pulse",
-      "link": "https://www.thehindu.com/business/abhishek-manu-singhvi-preparing-notice-for-tvs-venu-srinivasan-in-partition-case/article71725738.ece",
-      "publishedAt": "Wed, 25 Nov 2026 13:15:40 +0530"
-    },
-    {
-      "title": "Telangana Inter Exams 2027: No Change In Colleges for Practical Tests As TSBIE Drops Jumbling Plan",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/education/telangana-inter-exams-2027-no-change-in-colleges-for-practical-tests-as-tsbie-drops-jumbling-plan-12374310#publisher=newsstand",
-      "publishedAt": "Wed, 25 Nov 2026 13:11:57 +0530"
-    },
-    {
-      "title": "Road To 1,000: How Many Goals Cristiano Ronaldo Needs After Al Nassr Vs Al Sadd Clash",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/sports/road-to-1-000-how-many-goals-cristiano-ronaldo-needs-after-al-nassr-vs-al-sadd-clash-12374094#publisher=newsstand",
-      "publishedAt": "Wed, 25 Nov 2026 13:10:19 +0530"
-    },
-    {
-      "title": "Stock Market Update 25 November 2026: Sensex Zooms Over 1,450 Points; Nifty 50 Above 25,750 in Early Trading - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzNLMF9hSlJxZW1LR01nbFFfVEhZb0pSM29YMXpySkthcUpTMHg0S2hNVnNyVnN1Tk5TaF9sd2lrNkM0VGtFTllMRjlZMF9yT3B1MnVQelpIZ2FHdHVsOHVEaV9JbnhLc0NKeVBVbzlvVFV5TFZJNjdleFhmcmhIU29mU3BHWWw4cGlIZVg0X2MwQmlkUEJJ?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 04:03:51 GMT"
-    },
-    {
-      "title": "Stock market today: Sensex holds over 1,000 point gains after 2,000 point surge, Nifty50 crosses 25,900 - - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMjQ2TmNVczFCZWxoZmdFb0piNTluaXRWWDJneFhIM1ZQLXVjSWg3RHlQUmxiZ3h1dWUwb0ZPLTZYejI4Qk1Qa1pZVk9xYTFobVE3VGpUYmFWUFQ5Z1VuWjdQWXZEZ1Y5NXk0QVJINE1feVRraXNzeW1GMUxVazZjZ3VtT1Z4TXZVdFZVQjlJRHkwa2F3LWplRkVOT2dmRlljdWxoTkZ0dGN6a0hKVWZyTHdCNklNNXJvNi1aTjFVU3p3czQxMW5xT0lwcGxUenRyWkdRRFJoNGJGQXF5WGtTY3FSdnpPd3ZDWFVTRmJJSlJORnJVZktGOVhQclZEWU9jeWlaM20yWdIBjAJBVV95cUxOUDdubWFqTlRVZmtOSUV5WWlfb3B3TldSN0NPOU15TDlaT05mWWFaNkt0RDlIMC03d3pCbmtScEdMT0E1dXFmd2NvVS1kbG9ILWpIZDVnZDBVZ0pLUjFhVzVwOWZOb25VcEZfdE94T1B4N2NDdkxqWlh5Vzh1V2FsZElqckw3SXhMTFNIb3lwcEFnVGdiWVVMa3V6em12am1qdGJfbFNhSkFaRHRSRzI3SmdCVVR5VTlCMHktQk1mWVNLRjNNdGtxSkROUHdxTWswSjNhUGRrVzNNZ2FlZ2FySUM4UG9hMUFhY19SLTBMU2w1ckN1NF9fcU4zRFF2VlVqVjlkMFZSeW5YWmNl?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 05:33:00 GMT"
-    },
-    {
-      "title": "Bumper rally in markets; Sensex opens over 1,000 points higher, Nifty jumps 1.2% on reverse AI trade - ChiniMandi",
-      "source": "ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3FqbTBMc1dSSU1JbE53WmZ6NERzQW9ieUJQdnlZeWJGTGhjVmdRbHVoN29EU29iRVBiLWJfQURGcHBEYk9KQmNqTHM4eUsxQlF5eGpkWmRsMmh2R08wZldDRWlvMm9ZM2tpYVpGREkxZFhQUUFwSllVY3BBdWp0aDQxUHVxSHNReFhCQ20tRWIyUWdERTVxMk9CNHI5emIydmtmNGt5bG54a3lhTm5HRUhob2tvdThvVVgwV1ZUYUhtZw?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 04:30:48 GMT"
-    },
-    {
-      "title": "Markets rally in early trade on foreign fund inflows, lower crude oil; Sensex jumps 1,382 points - The Hindu",
-      "source": "The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaE4wUS1WdHdLQ2RqVkNFNjhiUzIxM2JqWkNUSUk3R1NPazNSNnA1TWxrZXNmZWx4YVFUckR5d0ZEYldVYnRaOG02UUt0ZG1VeF85eDl2SmFRVnBDaEJrR3d2UWRWcG5DRFI0M0FuQmZQZGhxUDQxcEFqcWd5bnBzV0tMcUpxQ3Qya0E5dGY0VjVUUDg3WElRdXJCVmVRV1cyYzZMOXp30gGsAUFVX3lxTE90dkl4Y2hFRlppVjRHQ08xcE5yMWxrSVBlVEY3WjVtS3BwLUJMUWNXQkZXVVN6OHF6MzZFS1lPYVE5VVd5WnBsMXNLRWtxNVNLNE1pRFEySzgxc1RJa0Q0TU04Z19QbnlPd2lFTW9EWXRwOFF0ZlJZMXJhc2FhSm1JTzNQMWFGSy0wRERFZ21OVnJVNE55YjZvSmpuN2syXzRJOHJXUUtCemtzVUw?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 04:47:30 GMT"
-    },
-    {
-      "title": "Indian stocks rebound as AI selloff deepens across Asia - PRESS Insider",
-      "source": "PRESS Insider",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmp3OHNjLVYxUkRfcHJONTdmX28xXzI4QWlnTG9raVhiS2ROWU12cEZIc3hWZXZ1b19CQ3lKeGI4aF9fQjdNdW5vZlVRQXdfUnhIalZqNk4xX3gtRkVsd3pkZlgxNm9DclVBX0xMUS1jNC1zUmhFQ0x2VWJFVzZNMG1MaEIzak5nM3dCX2R0SQ?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 04:21:30 GMT"
-    },
-    {
-      "title": "Sensex Today: Sensex surges past 84,000, Nifty gains over 500 points - India Infoline",
-      "source": "India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFQtQklzeXRMaFZLQzJuQTd4OS16TUoyRGkwUURWWjZsalJTTlNRbWFqSkFqbkpmcE9MM1ZhalRrZDRETlQxdFE0S2t3cnJJUGNlcmE1aVpiQlVxcFdlZ0Q0QXY0WFUtUzdxYjlteUc0R2xGcTBQYzZtT19uTDhMdUE0U0RiMWJESm9QTzVtbjRQVzhBRVR5b2JrMzBfTjJIOXRuYWJuTk1DajZN?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 05:35:51 GMT"
-    },
-    {
-      "title": "Stock Markets Today: Sensex, Nifty Rally Amid Strong FII Inflows - Rediff.com",
-      "source": "Rediff.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdWh4M3hDNnNNTmVWU3FXdExlOFhYb2hFbzNBTU80WlFpdUE2MTI1N01RVlo2R2J0TFJ4djJjRV81UWRyM1hFVDgxOWNYZG5Gbk5zTzJCczJyZVVfQlUxOG8wdGpwZzRoM3VwbDhQUWVMN0RlVVh1UlY4OVNjSFJ1NHI1RTM5R3htM2hvdHVnbTJfYWxITWhCY0xaQkhweXAtOUV6YkVfeTlDOHdkcTFmUGdTNkJfNkZBTmZ4RnZ2ajZTODFHNVhDcjMwZzJCZEozSGZSTGlsbThMMlVadVI3TFhwUnBKTUREeHfSAewBQVVfeXFMTllVWDdfY01UaHBkYUd4Vk5uQXBIOVhjTHpoRlZaTXVSdzRJc1FYcm5IVVF4WnlFaFB3eEsyS2xibnBnVFBIRW5yT21BbVlBYWNKTzdUYm1RMXRZenR4cTlZTGp6OGpzcHBKRHVQWHR3X2cwN0ItTmFkcjZhS29CN1lONmxiRFdlUkNQZ0hScldvZmhQa1IwQlpScUZyV1MxVjh6c1d6emk5ZFdyTEVVbnpaX1U3WTBRX3lJYXFLMlFZQXBUZ3NHeWhpdUJ2aThmY0FBQ2RoWUZSTXFMbEdCN0hYWnB0TC1tdUZXZUk?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 05:39:05 GMT"
-    },
-    {
-      "title": "Sensex Surges Over 2,000 Points, Nifty Jumps 602 Points - Deccan Chronicle",
-      "source": "Deccan Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclJELTB0T0x4SHBlNlEtZkZiekdaYkpkMUQzNDJiVWNEem4xcEZsNjdic0MtOVlWbHNvaTBRRHJoQ3hDVFVRTXFTU2g4Zjd3Q3EzQ0pfbjQweWlnUExmQnd1LW5BRU5lUWprazZSb3FJdExGaktNc0pycVZnTF9tRkRKaThZYklWN0xoanV2OFU5eHAzVDY1Uk95a296bE55UXFxT04ybWdITzNZc1HSAbMBQVVfeXFMT2pncGtSRlFwYnNST1ZKVG9GU0psRjZVNmVkYXdRV1JPeHBOT3lTcHAwTG9MSUFMVGs3LXBZMGU1QWtZZElmRVdIeUJWVVVtTzR6dmRTV3RvUGR2bWlDYkpMMmFUVC1nbWRET1VnRW5hOHpNN2dwdVVNNEx5NEF1a2JZRGM4OTRMZ1M2SXlwVmdLcmM3U2JIaWN3cmhCalJ4LW9YalFhWTU5dDlFV3RjYmd5VzQ?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 04:22:15 GMT"
-    },
-    {
-      "title": "Sensex Jumps 1,400 Points, Nifty Gains 375 as Foreign Inflows, Softer Oil Lift Market Sentiment - APAC Media",
-      "source": "APAC Media",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdkZhQ3JlZ1Nwakh5MUgxZFZSaWFqTVg4M1RfYWE2Z0dmbHZ3aVUwU2E0RjJxTEh5U3F0bmFqVkotTUhWb1c4TEFjTVZLWHp3MzZlVUdzZXBwQTNnY0UzdUJwNmM3WG9HMDBXUy1FRHB1WC1Xc0RvSFl4QmE4ZmtaQXB2N3ZSYThSWUR4NFNJa2prWm1nc01VWHAxT3Q?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 05:14:08 GMT"
-    },
-    {
-      "title": "Stock Market Rally: Sensex Skyrockets As Foreign Investors Pour Billions Into Tech Stocks - NDTV",
-      "source": "NDTV",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd3p0VEFsNThWUmdXaWVqbmxTVmhwQ0xhR3ZveloybzRyenRYT1M3THZXMDd4djgwc3hEUWpjZ2t4M1c5SlVZejRTQ24ycEpudFpyVDgwLU5idnN3RUlzYmVOTmJ3YWZ0dDczVnd3Vlp1YUkyeGVBb3NPb1VyWFUtaFJRNDVRdGZMbE9fR3k0T0J5b0F1Q0FMQXM4c3BvczJwVlBMTVhZQ2JaTlI4T3pGMTRNZ01GNFpNMzZFX0hQb2VEM0pqaG16eFR2ekkxckZGSktXdzlB0gHeAUFVX3lxTE5aWFFXMnc2RnVIVjEtWEg4VkJVN1ZaSU9jZDVIRHhRLURCOVZhbWdIVWp1ekFhQzduUlR0TUFOMU1JVXlwdERXcmhPRlJKRjVOU0xEWjlBSUc5MC1pa3loN2luaUtVMDhqR1BrYktQV3ctWVkzVGhncVdHYVFWWXdLbllzbWlkRWhQR09rREdlU0dQRzk3c3QzZUhPT3dyZnp4MjFSY0lBVmQ0eEg1a1luUmtXTzl0SExWelN5RGRQT3ZpaXVyM2xJLTQ0YTlPdWd1ek82ZUpiQjNBMkZHUQ?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 05:53:06 GMT"
+      "link": "https://www.thehindu.com/business/Industry/kalyan-krishnamurthy-to-step-down-as-flipkart-ceo/article71741751.ece",
+      "publishedAt": "Wed, 25 Nov 2026 14:36:10 +0530"
     }
   ]
 }
