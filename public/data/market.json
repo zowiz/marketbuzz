@@ -1,5 +1,5 @@
 {
-  "headline": "Sensex falls 200 points at pre-open; Zydus Life dips 3% while Mahanadi Coalfields prepares for debut",
+  "headline": "Sensex and Nifty decline in early trade as IT stocks drag after two-day rally",
   "marketStatus": {
     "isClosed": false,
     "isMuhuratTrading": false,
@@ -7,20 +7,46 @@
     "nextOpen": ""
   },
   "why": [
-    "Sensex dropped 200 points at pre-open, with Nifty 50 falling below the 25,900 level",
-    "IT stocks led early losses in the opening bell session on November 27",
-    "Zydus Life shares declined 3% after receiving a Complete Response Letter from the USFDA",
-    "Mahanadi Coalfields is debuting on the stock market following a $969 million IPO"
+    "Profit-taking pulled benchmark indices lower following a two-day market rally.",
+    "IT stocks faced selling pressure with fresh short positions built in TCS, Infosys, and Wipro.",
+    "HDFC Bank and major IT stocks lagged, weighing down Sensex and Nifty.",
+    "Rupee weakness added to cautious sentiment after plunging 24 paise to 92.62 against the US dollar."
   ],
   "whatHappening": [
-    "Asian markets showed gains even as the Indian market opened in the red",
-    "Bharat Coking Coal is identified as one of the stocks showing a trending up RSI",
-    "Business Standard highlighted Urban Company and Leela Palaces as stocks to watch for the day",
-    "Recent sessions saw significant gains driven by foreign institutional investor buying and fund inflows"
+    "Sensex traded down 200 to 300 points, while Nifty traded near the 25,800–25,850 level.",
+    "Metal and PSU Bank sectors outperformed the broader market, rising around 1% each.",
+    "Deutsche Bank projected a potential 50 bps RBI repo rate hike to 6.25% in December.",
+    "Tata Steel's transaction with Apollo is highlighting India's updated corporate governance framework."
   ],
   "stocksInNews": [
     {
-      "symbol": "ZYDUSLIFE",
+      "symbol": "TCS",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        8,
+        14
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 2/8 sources",
+      "articleIds": [
+        8,
+        14
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/8 sources",
+      "articleIds": [
+        8
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
       "sentiment": "Negative",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
@@ -28,140 +54,142 @@
       ]
     },
     {
-      "symbol": "KPIGREEN",
+      "symbol": "TATASTEEL",
       "sentiment": "Neutral",
       "sources": "Mentioned by 1/8 sources",
       "articleIds": [
-        16
-      ]
-    },
-    {
-      "symbol": "WAAREERTL",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        16
-      ]
-    },
-    {
-      "symbol": "HLV",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        16
-      ]
-    },
-    {
-      "symbol": "MAHANADI",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        2
-      ]
-    },
-    {
-      "symbol": "BCCL",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        3
-      ]
-    },
-    {
-      "symbol": "URBAN",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        16
+        7
       ]
     }
   ],
-  "summary": "The Indian stock market opened lower on November 27, with the Sensex dropping 200 points and Nifty slipping below 25,900. IT stocks faced selling pressure, while Zydus Life shares fell 3% due to regulatory hurdles from the USFDA. Meanwhile, Mahanadi Coalfields prepared for its market debut following a successful $969 million IPO.",
-  "updatedAt": "2026-11-27T04:31:31.950Z",
+  "summary": "Indian benchmark indices opened lower on November 27 due to profit-taking following a two-day rally. IT majors TCS, Infosys, and Wipro led the market fall along with HDFC Bank. However, PSU Bank and Metal sectors showed resilience by rising 1% during early trading.",
+  "updatedAt": "2026-11-27T06:01:34.537Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-27",
   "articleKeys": [
-    "hanuman ansh vs ramayana vs scene who earned how much at the box office so far",
-    "stock market live sensex falls 200 pts at preopen nifty below 25900 asia markets advance",
-    "mahanadi coalfields set for stock market debut after 969 million ipo",
-    "bharat coking coal among 5 stocks showing rsi trending up",
-    "jensen huang excited about his second term at nvidia says trump",
-    "indias s400 shield air defence system to be deployed along pakistan border heres what report says",
-    "om operation mole box office collection day 7 dhanushs film nears rs 75 cr net mark but earnings drop",
-    "small caps vs mid caps why stock picking matters more than the index performance groww amcs anupam tiwari explains profit exclusive",
-    "without yogi there is no up shiv sena ubt leader sanjay rauts big remark praising yogi adityanath",
-    "iphone 17 at rs 85100 check bank offers and how to get the deal in flipkart black friday sale",
+    "stock market live sensex down 300 pts nifty around 25800 psu bank metal up 1 each",
+    "stock markets decline in early trade after twoday rally",
+    "nvidia stock plunges 35 from record high is it a buying opportunity",
+    "stock market live sensex down 200 pts nifty around 25800 psu bank metal up 1 each",
+    "rbi rate hike in december deutsche bank sees 50 bps move repo at 625",
+    "rupee plunges 24 paise to 9262 against us dollar",
+    "who is siddhartha dutta the man actor and former mp mimi chakraborty quietly married",
+    "tata steelapollo deal tests indias reinforced corporate governance rules",
+    "it stocks fall fresh short positions seen as infosys tcs wipro futures decline fo check",
+    "bengali actress mimi chakraborty ties knot with siddhartha dutta see wedding pics",
+    "sensex soars close to 400 pts nifty nears 26600 3 reasons why the stock market is up today kotak neo",
+    "sensex nifty trade lower as it drags metals outperform hdfc sky",
+    "nse national stock exchange of india ltd live sharestock market news updates quotes nseindiacom nse",
+    "nifty sensex open lower market to stay rangebound with positive undertone experts dd news",
+    "sensex today trades lower nifty below 25850 tcs infosys top losers equitymaster",
+    "stock markets today profittaking pulls sensex nifty lower rediffcom",
+    "stock market update 27 november 2026 sensex nifty 50 trade lower after market opening kotak neo",
     "stock market update 26 november 2026 sensex drops over 150 points nifty 50 below 25750 in early trade kotak neo",
-    "sensex opens flat nifty slips as it stocks lead early gains hdfc sky",
-    "opening bell sensex falls 82 points nifty 50 slips 10 points it stocks lead losses dalal street investment journal",
     "stock market update 25 november 2026 sensex zooms over 1450 points nifty 50 above 25750 in early trading kotak neo",
-    "sensex jumps 1502 points nifty surges 470 on fii buying hdfc sky",
-    "stock market today sensex jumps over 2000 points nifty50 tops 25900 investors richer by rs 384 lakh the times of india",
-    "stocks to watch urban company leela palaces waaree renewable kpi green business standard",
-    "stock market today nifty gains 185 sensex up 1502 points multibagg ai",
-    "sensex gains for second day in a row on foreign fund inflows it stocks the new indian express",
-    "zydus life shares dip 3 on usfdas crl to new drug mofsl stays neutral business standard"
+    "stock markets decline after 2day rally it hdfc bank lag rediff moneywiz"
   ],
   "articles": [
     {
-      "title": "Hanuman Ansh Vs Ramayana Vs Scene: Who Earned How Much At The Box Office So Far?",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/hanuman-ansh-vs-ramayana-vs-scene-vs-who-earned-how-much-at-the-box-office-so-far-12382907#publisher=newsstand",
-      "publishedAt": "Fri, 27 Nov 2026 09:11:19 +0530"
-    },
-    {
-      "title": "Stock Market LIVE: Sensex falls 200 pts at pre-open, Nifty below 25,900; Asia markets advance",
+      "title": "Stock Market LIVE: Sensex down 300 pts, Nifty around 25,800; PSU Bank, Metal up 1% each",
       "source": "Zerodha Pulse",
       "link": "https://www.business-standard.com/markets/news/stock-market-live-november-27-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-share-price-ipo-today-126112700100_1.html",
-      "publishedAt": "Fri, 27 Nov 2026 09:10:33 +0530"
+      "publishedAt": "Fri, 27 Nov 2026 10:30:30 +0530"
     },
     {
-      "title": "Mahanadi Coalfields set for stock market debut after $969 million IPO",
+      "title": "Stock markets decline in early trade after two-day rally",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/companies/news/mahanadi-coalfields-set-for-stock-market-debut-after-969-million-ipo-126112700129_1.html",
-      "publishedAt": "Fri, 27 Nov 2026 08:57:59 +0530"
+      "link": "https://www.thehindu.com/business/markets/stock-markets-decline-in-early-trade-after-two-day-rally/article71749425.ece",
+      "publishedAt": "Fri, 27 Nov 2026 10:17:38 +0530"
     },
     {
-      "title": "Bharat Coking Coal among 5 stocks showing RSI trending up",
+      "title": "Nvidia stock plunges 35% from record high: Is it a buying opportunity?",
       "source": "Zerodha Pulse",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-coking-coal-among-5-stocks-showing-rsi-trending-up/slideshow/136208088.cms",
-      "publishedAt": "Fri, 27 Nov 2026 08:54:46 +0530"
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-plunges-35-from-record-high-is-it-a-buying-opportunity/slideshow/136209377.cms",
+      "publishedAt": "Fri, 27 Nov 2026 10:07:47 +0530"
     },
     {
-      "title": "Jensen Huang excited about his 'second term' at Nvidia, says Trump",
+      "title": "Stock Market LIVE: Sensex down 200 pts, Nifty around 25,800; PSU Bank, Metal up 1% each",
       "source": "Zerodha Pulse",
-      "link": "https://www.business-standard.com/world-news/jensen-huang-excited-about-his-second-term-at-nvidia-says-trump-126112700123_1.html",
-      "publishedAt": "Fri, 27 Nov 2026 08:52:52 +0530"
+      "link": "https://www.business-standard.com/markets/news/stock-market-live-november-27-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-mahanadi-coalfields-share-price-ipo-today-126112700100_1.html",
+      "publishedAt": "Fri, 27 Nov 2026 10:02:55 +0530"
     },
     {
-      "title": "India's S-400 Shield: Air Defence System To Be Deployed Along Pakistan Border? Here's What Report Says",
+      "title": "RBI Rate Hike In December? Deutsche Bank Sees 50 Bps Move, Repo At 6.25%",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/indias-s-400-shield-air-defence-system-to-be-deployed-along-pakistan-border-heres-what-report-says-12382928#publisher=newsstand",
-      "publishedAt": "Fri, 27 Nov 2026 08:46:50 +0530"
+      "link": "https://www.ndtvprofit.com/economy/rbi-rate-hike-repo-rate-in-december-2026-deutsche-bank-sees-50-bps-move-repo-at-6-25-business-economy-markets-today-12383100#publisher=newsstand",
+      "publishedAt": "Fri, 27 Nov 2026 10:00:08 +0530"
     },
     {
-      "title": "OM: Operation Mole Box Office Collection Day 7: Dhanush's Film Nears Rs 75 Cr Net Mark, But Earnings Drop",
+      "title": "Rupee plunges 24 paise to 92.62 against U.S. dollar",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/entertainment/om-operation-mole-box-office-collection-day-7-dhanushs-film-nears-rs-75-cr-net-mark-but-earnings-drop-12382810#publisher=newsstand",
-      "publishedAt": "Fri, 27 Nov 2026 08:31:17 +0530"
+      "link": "https://www.thehindu.com/business/markets/rupee-plunges-24-paise-to-9262-against-us-dollar/article71749383.ece",
+      "publishedAt": "Fri, 27 Nov 2026 09:53:18 +0530"
     },
     {
-      "title": "Small Caps Vs Mid Caps: Why Stock Picking Matters More Than The Index Performance? Groww AMC's Anupam Tiwari Explains | Profit Exclusive",
+      "title": "Who Is Siddhartha Dutta, the Man Actor and Former MP Mimi Chakraborty Quietly Married?",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/markets/small-caps-vs-mid-caps-why-stock-picks-matters-more-than-the-index-performance-groww-amcs-anupam-tiwari-explains-profit-exclusive-12382892#publisher=newsstand",
-      "publishedAt": "Fri, 27 Nov 2026 08:29:24 +0530"
+      "link": "https://www.ndtvprofit.com/entertainment/who-is-siddhartha-dutta-the-man-actor-and-former-mp-mimi-chakraborty-quietly-married-12383086#publisher=newsstand",
+      "publishedAt": "Fri, 27 Nov 2026 09:52:09 +0530"
     },
     {
-      "title": "'Without Yogi, There Is No UP': Shiv Sena UBT Leader Sanjay Raut's Big Remark Praising Yogi Adityanath",
+      "title": "Tata Steel-Apollo deal tests India's reinforced corporate governance rules",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/india/without-yogi-there-is-no-up-shiv-sena-ubt-leader-sanjay-rauts-big-remark-praising-yogi-adityanath-12382885#publisher=newsstand",
-      "publishedAt": "Fri, 27 Nov 2026 08:27:43 +0530"
+      "link": "https://www.business-standard.com/companies/news/tata-steel-apollo-deal-tests-india-s-reinforced-corporate-governance-rules-126112700196_1.html",
+      "publishedAt": "Fri, 27 Nov 2026 09:46:41 +0530"
     },
     {
-      "title": "iPhone 17 At Rs 85,100? Check Bank Offers And How To Get The Deal In Flipkart Black Friday Sale",
+      "title": "IT Stocks Fall: Fresh Short Positions Seen As Infosys, TCS, Wipro Futures Decline | F&O Check",
       "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/technology/iphone-17-at-rs-85-100-check-bank-offers-and-how-to-get-the-deal-in-flipkart-black-friday-sale-12382848#publisher=newsstand",
-      "publishedAt": "Fri, 27 Nov 2026 08:16:39 +0530"
+      "link": "https://www.ndtvprofit.com/markets/it-stocks-today-fresh-short-positions-seen-as-infosys-tcs-wipro-futures-decline-f-o-check-12383057#publisher=newsstand",
+      "publishedAt": "Fri, 27 Nov 2026 09:44:28 +0530"
+    },
+    {
+      "title": "Bengali Actress Mimi Chakraborty Ties Knot With Siddhartha Dutta, See Wedding Pics",
+      "source": "Zerodha Pulse",
+      "link": "https://www.ndtvprofit.com/entertainment/bengali-actress-mimi-chakraborty-marries-siddhartha-dutta-shares-first-wedding-photos-12383039#publisher=newsstand",
+      "publishedAt": "Fri, 27 Nov 2026 09:39:20 +0530"
+    },
+    {
+      "title": "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Market Is Up Today - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 02:07:50 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Trade Lower as IT Drags; Metals Outperform - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeUxkbUJBd1IxTVF0bG1ja3F5SEY1T0Z4Rm5tOGZlNGh4dFpRRlZ4LXVxekE1YTZqOFBwWHp5ZWtMelNlWlllYlVGSkpab2VZa3N4Ry0tWFB4aFVFdy1iWGFNUUcxaDVDT2duUU01NHEzZWItZjN4Tmh1MkJzWmZYSk5UVUVKSDNoOWFzQXNJN0hsdl9xMW5nbkNSU1BkY0EtcXlYTENuRFZTbjlHbHdncmt1SjJTX0tyUDYxU0dxbG5DVHlHU1o2WFNLV0VOU2FrNzNlME9jb0RjcE9lMUFSdDM4dFZYeEM5MXV4amJRZktpS1VoQ0tJSnlkbUdJZ1VLOEE?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 04:49:39 GMT"
+    },
+    {
+      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE",
+      "source": "NSE",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Nifty, Sensex open lower; market to stay range-bound with positive undertone: experts - DD News",
+      "source": "DD News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGdYNEhHMFZZeU5ZOXg4ajZjYV80dzVmbzdMaWwwdWZ5SnFhYVRaSEFCSllzMDlvSi1FYV9sNlFydzB4c1Fqamp6ZXZ1enBXbnh0VjFpMXFFYVZpY3VhSjd4aUlFaGNRWTczYTk1SDdIUTJ3UkJ5WFI0bUJlb3JYc2dCdW1RTDl0emVWaXZDZS1XUlhyNmhYTWJzN29ROGg5R3JzTHhkNG5zdGct?oc=5",
+      "publishedAt": "Wed, 25 Nov 2026 06:31:40 GMT"
+    },
+    {
+      "title": "Sensex Today Trades Lower | Nifty Below 25,850 | TCS & Infosys Top Losers - Equitymaster",
+      "source": "Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS29qbHZCcmtEQjRjU3R4RjFsVDlybHdHazNGcEZVRW9mazJfOG4zNWJmSzU1a0EwX2l0aGNjdWRVb0NRSllxcll0QlpSekpHTlFHbXlxSEphdHpwdVhodDVaMWlkUVRMWmxLOTVpVFpCemxYeVV6LWwwd0hyTU9RUm1sNVdXRmoyRHNENkNmMmUwZXZhNjFMYUhGSUJzOU9veEJTRzl6VEYzRnR4Ung3dGN4QVRtV3h4RnhEQ0U4UTJuWkIzZXd0b0pB?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 04:30:58 GMT"
+    },
+    {
+      "title": "Stock Markets Today: Profit-taking pulls Sensex, Nifty lower - Rediff.com",
+      "source": "Rediff.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY09SVlNiVmlPcmYxUFo5TjdGVzRLZHJIVENqVGhlblFhNXVlYnAzRy1nYTlSR0dTeE50OEpSV05qRzByeXdaYTlzZm5XaDVwcW14REhXeDJ3Q0cxcjVyeUdTd3QzODNZRkZKWjBJLW1xYjl5N1FJU3NpRnZBU0hhMGYydTZnVHVZQ2VmSmphbW5RQ1VwRU5aMzh2LXYwb1VBX3pWLTJDdFhfSzA0LU50dHlUSW1mSEI0alk1LVB3NWt5ME84azNWUFQ2T2MtRGFLb3JGbTNmNFbSAdsBQVVfeXFMUFRrOWhUNGpmRWNCSTZFU0NXZy1NdHAtemd2SFRkNVdlamVYS2MwMVRfNk92NzdidUR4NlkwRnFIZEI2by1EdXA1VkpzSEx5RFhocHJzeFdFZEpWM0JXXzVnQzZRc3JhWm11empYdXVvWHVQZ01GSmYzVUU4QXc3WWFTWTBMUTBXTHVQQTVXX0dpYTltTHB4MVRTVmk5X3RmN0JWYTVycGJzSHVvNXVaRkhoN25mNXpqN0d3eU95LU9HeDVRZHBSelBTaXJJbFc2VW9xWFFINkJIWDlJ?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 05:28:47 GMT"
+    },
+    {
+      "title": "Stock Market Update 27 November 2026: Sensex, Nifty 50 Trade Lower After Market Opening - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjIwZ0pNcTkyb0RpSlpuSmNjamg0a19LU0tOV2F1eGdqd1hxWjRrYkM2Z2JXLWtLU21fSGxYQXdxRURpYXI3SzUyNExickxaLTFTbkhfamREME9jSFpvMVhtLVRtcmExbjJ1QVRiSUpXR2htU0NUUmx6MmRfc2hxVld4UHhJX1lxRXNuMVBaMnlIQ0pTSXJj?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 04:23:39 GMT"
     },
     {
       "title": "Stock Market Update 26 November 2026: Sensex Drops Over 150 Points; Nifty 50 Below 25,750 in Early Trade - Kotak Neo",
@@ -170,58 +198,16 @@
       "publishedAt": "Thu, 26 Nov 2026 04:13:52 GMT"
     },
     {
-      "title": "Sensex Opens Flat, Nifty Slips as IT Stocks Lead Early Gains - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNaHlsV0VsR2Zlc196dnk4WnU3SEFnSWVmVS1uVFExMW9rTmxNTUR3ZkYtR25Ka2V1cm01SEJhY2hIS2lBQ3RJZ0ZXX0VyYzdPcDZWNFU3OFZQaGE2bjZZdHN1d21yY2thQzJpZDNjc19SVzZLQjMzMzBUalc1Tm5ELUR5RjI1b3ZJZk5LbXJFaW5sbjdJUkRwT21VX2R6SlhnZERpUE10SzJLT0dsaUJzVmhWcVJtVWM2SzJsanM2ZmEyZElIeFo5QUJQcFVqTDNNbGZ5bnNaNmQ3d0U0enZXemlFMGhhR1p1cFJTcm96OUM?oc=5",
-      "publishedAt": "Thu, 26 Nov 2026 04:36:12 GMT"
-    },
-    {
-      "title": "Opening Bell: Sensex Falls 82 Points, Nifty 50 Slips 10 Points; IT Stocks Lead Losses - Dalal Street Investment Journal",
-      "source": "Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVE0zWlFmN18wTEc1b0k5TGVtMEVYTWdzYnVMSDVJdUMyNmF1R0EzREFaVnJ3dzhEcW9yNmdhTURxQ29UWlVBU0w1UzZ1MVkwRHE4d1ZJbUlMNW9ETVl6TTRISVVLb2Vobm9kdV9DYmZjY1U0aDdxMWZBSXlHQ2V3NEx0VExfb1NQTmNabFZMUmRFSEsyZl9xWVZGRHFYbDc3VmJXSzdqQmxLaTAzeHotbllMeEJFOGx5cGRHNnQtVVFUU3ltLWU1VTRyMA?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 04:22:18 GMT"
-    },
-    {
       "title": "Stock Market Update 25 November 2026: Sensex Zooms Over 1,450 Points; Nifty 50 Above 25,750 in Early Trading - Kotak Neo",
       "source": "Kotak Neo",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzNLMF9hSlJxZW1LR01nbFFfVEhZb0pSM29YMXpySkthcUpTMHg0S2hNVnNyVnN1Tk5TaF9sd2lrNkM0VGtFTllMRjlZMF9yT3B1MnVQelpIZ2FHdHVsOHVEaV9JbnhLc0NKeVBVbzlvVFV5TFZJNjdleFhmcmhIU29mU3BHWWw4cGlIZVg0X2MwQmlkUEJJ?oc=5",
       "publishedAt": "Wed, 25 Nov 2026 04:03:51 GMT"
     },
     {
-      "title": "Sensex Jumps 1,502 Points; Nifty Surges 470 on FII Buying - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGNub2VpcEgtMG91a3JaY0piUjlvaHRjSl9OSldYdFEtSG80UjQ5dERtWDE0Q0FwbU12WXFwai00WW5kZUZrVXlGQWhQZldxR3VMTnNTOW1pQVYyaXNVY3lEcGRkM0VJNjEyM3pxTlJSclhrd3lHOE1CaFh1RVpidGdlM0tncUxDd3hubVBfU2NmVjhLVFltX0hkYWNDenh5RE5TSlRJSG10c0tuQlVmV19uNnRtemY3MGlfZ3NLZUxPSGZkWC1CZnhlRGUxVHc?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 11:32:37 GMT"
-    },
-    {
-      "title": "Stock market today: Sensex jumps over 2000 points; Nifty50 tops 25,900! Investors richer by Rs 3.84 lakh - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMjQ2TmNVczFCZWxoZmdFb0piNTluaXRWWDJneFhIM1ZQLXVjSWg3RHlQUmxiZ3h1dWUwb0ZPLTZYejI4Qk1Qa1pZVk9xYTFobVE3VGpUYmFWUFQ5Z1VuWjdQWXZEZ1Y5NXk0QVJINE1feVRraXNzeW1GMUxVazZjZ3VtT1Z4TXZVdFZVQjlJRHkwa2F3LWplRkVOT2dmRlljdWxoTkZ0dGN6a0hKVWZyTHdCNklNNXJvNi1aTjFVU3p3czQxMW5xT0lwcGxUenRyWkdRRFJoNGJGQXF5WGtTY3FSdnpPd3ZDWFVTRmJJSlJORnJVZktGOVhQclZEWU9jeWlaM20yWdIBjAJBVV95cUxOUDdubWFqTlRVZmtOSUV5WWlfb3B3TldSN0NPOU15TDlaT05mWWFaNkt0RDlIMC03d3pCbmtScEdMT0E1dXFmd2NvVS1kbG9ILWpIZDVnZDBVZ0pLUjFhVzVwOWZOb25VcEZfdE94T1B4N2NDdkxqWlh5Vzh1V2FsZElqckw3SXhMTFNIb3lwcEFnVGdiWVVMa3V6em12am1qdGJfbFNhSkFaRHRSRzI3SmdCVVR5VTlCMHktQk1mWVNLRjNNdGtxSkROUHdxTWswSjNhUGRrVzNNZ2FlZ2FySUM4UG9hMUFhY19SLTBMU2w1ckN1NF9fcU4zRFF2VlVqVjlkMFZSeW5YWmNl?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 05:33:00 GMT"
-    },
-    {
-      "title": "Stocks to watch: Urban Company, Leela Palaces, Waaree Renewable, KPI Green - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTW1jZ0hpOVNpaE91a2NoRXFuZEJZSnJ1X245TjdHTTFOeHVIMHEtTERvVjIwMUg0SXNGSm1SRmp4bUhtSnNqc0JaMjhqQUV0N2s0b3hkZUFsQVc2NGFFbzZPMWJleV9TTDNpNU1rOEktRE5wbEJXcDZLMWZaRUVaVFNQZm12eEo1NzBRR0hEX3RUaVhhVEFJQlZKaUlKeUdCQ1FJS0M2UmExSEQ0b3FKaGFYTEtZMHBhOXNqajRGNkg0c3pDOEdZSFk1RmJKWWE0LU5J0gHYAUFVX3lxTFBYdC1ZTE1sOWFHaTk5SnJNb01uN1owaHhPbmVzOHdxdWRYY18tWThHMjZWbXo5dExYbnNManlnaXNDbDhNR1NuLWhaQWhzN0UwUnFKTTd5dlR3bEdMSTBHZ3lhdXpYaEVIbkxhOWlWblVDaFJmaXlNaTBLSkQzWFNfNFRaeDdfZXZSQnNmRnhRZnRkWkdIckVVUGZoNHk4NDF2MjhaVFFnc2FWb2VEbWFORGtRQU9fVUo0TjZKeGdGSXBlaXZQeUU5cWRVT1JjVkFQTHRPWVozRw?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 02:34:25 GMT"
-    },
-    {
-      "title": "Stock Market Today: Nifty gains 1.85%, Sensex up 1,502 points - Multibagg AI",
-      "source": "Multibagg AI",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmlGU0tPZ3NQenZzTXlMOHllZkdPZHp2U0NqVXBNdHc4ZnN0UnI0Z2ZNMWFmMlZGRXdxbXAzVFo4YzZ0cGI1eXVjdTg5bjNoY1A2NEQxLVVFamVSeDNwMnIweHZXLWd0YlRyOWd3R29EN2xjdWlFdjVMTFJNV0RTeHkxaE8xUHFKQ3VWaTVoY0JwbjV4OFI1QUtyeURFUFJyam5nZlZ2emR5NFk?oc=5",
-      "publishedAt": "Thu, 26 Nov 2026 11:00:25 GMT"
-    },
-    {
-      "title": "Sensex gains for second day in a row on foreign fund inflows, IT stocks - The New Indian Express",
-      "source": "The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeVg5Z1M2YlNwaEFpcHY0VlhZbWYxUHhwdDBPLXQ0YXZtSnh5Z3k1MHp1X01KU1ZHOGdfbkZXczFOVTJqZkZSdDFtV0VJcDZmRFRNWWV0MTVIVk9wX1c3RDh2WHM2THE2U1dYMG41UjBtNHhaWnFDandKNW1vaFJsa0NxOFFncGRDNFZrVURqMXBCVFhlRlI0d0Q5UlZGQ1F0MlhLblB4NWFGWWU1RVFLTHoxcGRWbmMtdHZrT3RkVWQxd9IBzwFBVV95cUxPaFE2ZXZ1OFl3bG9wWFdvOVBOaGtzaER4bTVsRlJNY2hPWENaU1NzZFpUMzdWU0c0cHJtTGdPT3hfMkNyc0F6NmpoWEJCV1pUZk1SZTQ5NkpzR2o5aWhWY0RIU25nZ05GVTI1c1F5elM3YXVQMGw0VWxZbDNkQUhwMnJ4RzVMdnVfSjZVdTMzUlV0YlZZWGJLZVh2ODl0UW1pVFNkYjk0UVVNRmtiUUNCM0tXQjVMNHc5aG44MmZSdHFWRG9KdFY1NllHSEV3UzQ?oc=5",
-      "publishedAt": "Thu, 26 Nov 2026 13:09:16 GMT"
-    },
-    {
-      "title": "Zydus Life shares dip 3% on USFDA's CRL to new drug; MOFSL stays 'neutral' - Business Standard",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYnlDWHlzWGNZNVdheW43RFFMWjhZZjFhTTRTX2hvQ1dEUkpERnk1X1ZhNWxfdFdwY1Z5dVQ0emRrakhDRkhxUlJHbmF0U1FRU0hrTkJvaGZadUE0Vm4yMzFZb3VnYkpTOHlkeTFDajVUNUtHRVVDX0YxejJKcDQ4M2FOTnBmMU9vbUMxeHBDcWlFZ3FaRDBlT3FqMVJfdklrYXNRbXZnWko4RlJyXzAtcnhrVlFISDJQVEhDVEZ4UWdCY0czUmRjVTJvQ1NNTmI1SnlONzhEU0tVUXPSAeABQVVfeXFMTlB3RkZ4UDVkYnA4OF9MUklEVjRqVUZITWxoT19valV5eDBZUTNnN2hUUEdqZHJGTFhack1xaE1mM3oyNldCSGVHb3M0bkNGNlpLWXZHTE9xcTRVSVI1YjNOVHUyck80RTQ4d2NBRFR3Nm5YZjBqdU9ITmZCT2dqMXBWY3YyVklBN0RPVV9xT0g1WnNQMU9taHRoOHZDT3RHbVZ5WHNkcU51WjRzSzlFbzJVWVNYT0oxOHRCUGNJbEJmeGJRZWFZVmJ5VjA1ZUpUUlFnTEtrd01uWUs5RXFtZFU?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 04:08:02 GMT"
+      "title": "Stock Markets Decline After 2-Day Rally; IT, HDFC Bank Lag - Rediff MoneyWiz",
+      "source": "Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWjdyMDRtRlYtcEtRd18tVnFkUzd0NlBKWTJuTzcyR0k5WkNJQ3JWaG9yUjhrS3ZuT3ZyMGt2UEMxSl96YkRocktqY3NTb1dNZ3pGN05SbkN2aW9rSENwcU4xckZLaVBoWXJ1Zm5IVVFhREhzcE9FT2NuSkx3WlhLako3WHZkdzI4VkxNTUJtMDkyaHJYZVFlaWZLU2tGSDFmbDY2U2poTF9Fdkdt0gGyAUFVX3lxTE1UdmN6ZVZxd1k0R0VIb3dCODhsMnNvd0kzdVF4TkkzZGsyMFJHWTctbHlQRDVrU21BcWlrWklLTlh3TWkxSEZPaVlYVGpsWHBVcmNKV0pGV0pZQmxVbDE4N3RhUlFsRk80T1RDNE1lelllWWwwaktyM2lOTWFkZ3M1QWhsUkhLTHZDd3dKQlNIRGZZMUEtbWEzOGpUNnkyLTlHc2hmdmRkRS1mN2YzWVMwMGc?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 04:36:44 GMT"
     }
   ]
 }
