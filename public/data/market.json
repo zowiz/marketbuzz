@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex and Nifty snapped a two-day rally as IT stocks led a market sell-off.",
+  "headline": "Last session: Sensex plunged 989 points as bears took charge, Nifty slipped below 25,650 level",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,38 +7,31 @@
     "nextOpen": "Monday, 30 November"
   },
   "why": [
-    "Selling pressure in IT stocks dragged down benchmark indices Sensex and Nifty.",
-    "Profit booking kicked in after a brief two-day market recovery.",
-    "Brent crude oil prices topped $97, dampening investor confidence.",
-    "Broader demand concerns and global headwinds impacted equity markets."
+    "Bears tightened their grip on the market during Friday's session",
+    "Significant selling pressure was seen in IT stocks and HDFC Bank",
+    "Profit booking occurred after a three-day rally in the previous sessions",
+    "Global cues and demand concerns impacted sentiment and crude oil prices"
   ],
   "whatHappening": [
-    "On the last trading day, Sensex tumbled nearly 1,000 points while Nifty 50 closed below 25,650.",
-    "NIFTY50 and SENSEX ended their 4-week winning rally to close the week in the red.",
-    "Select microcap stocks such as Greaves Cotton and Thomas Cook posted gains of up to 50%.",
-    "Metal stocks outperformed during the session despite broader market weakness."
+    "Sensex ended 989 points lower at the 25,600 mark on the last trading day",
+    "Nifty 50 slipped below the crucial 25,650 support level",
+    "Microcap stocks Greaves Cotton and Thomas Cook recorded gains of up to 50%",
+    "Tata Sons filed caveats after the Bombay High Court refused relief to Tata trusts"
   ],
   "stocksInNews": [
     {
-      "symbol": "TCS",
-      "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
-      "articleIds": [
-        14
-      ]
-    },
-    {
-      "symbol": "TATASTEEL",
+      "symbol": "HDFCBANK",
       "sentiment": "Negative",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 2/7 sources",
       "articleIds": [
-        14
+        11,
+        15
       ]
     },
     {
       "symbol": "GREAVESCOT",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         7
       ]
@@ -46,14 +39,14 @@
     {
       "symbol": "THOMASCOOK",
       "sentiment": "Positive",
-      "sources": "Mentioned by 1/8 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         7
       ]
     }
   ],
-  "summary": "On the last trading day, Indian benchmark indices snapped a two-day rally due to widespread selling in IT stocks and profit booking. Sensex crashed up to 1,000 points while Nifty slipped below 25,650 as crude oil prices surged above $97. TCS and select microcap stocks like Greaves Cotton showed strength despite the overall market decline.",
-  "updatedAt": "2026-11-28T05:48:55.158Z",
+  "summary": "On the last trading day, Indian benchmarks ended sharply lower, with the Sensex falling 989 points and Nifty closing below 25,650. The decline was primarily driven by selling in IT stocks and HDFC Bank, ending a multi-day rally. In contrast, microcap stocks like Greaves Cotton and Thomas Cook saw significant gains.",
+  "updatedAt": "2026-11-28T06:32:29.149Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-28",
   "articleKeys": [
@@ -67,16 +60,16 @@
     "microcap winners greaves cotton thomas cook among 10 stocks with gains of up to 50",
     "employee skipped lunch break regularly to leave early heres what happened next",
     "8th pay commission what happens if the implementation is delayed until 2028",
-    "stock market this week sensex nifty snap midweek recovery as brent crude tops 97 the indian awaaz",
-    "stock market update 27 november 2026 sensex down by over 150 points nifty 50 below 25900 in early trading kotak neo",
-    "sensex nifty trade lower as it drags metals outperform hdfc sky",
-    "stock markets snap 2day rally sensex nifty end in red amid profit booking dd india",
-    "market weekly wrap nifty50 sensex end 4week rally tata steel lags tcs leads gains upstox",
-    "stock market today sensex crashes over 700 pts nifty slips below 25700 it stocks lead selloff apac media",
-    "stock market update 26 november 2026 sensex drops over 150 points nifty 50 below 25750 in early trade kotak neo",
-    "stock market today sensex tumbles nearly 1000 points nifty50 below 25650 after 2day rally key reaso the times of india",
-    "stock market update 25 november 2026 sensex zooms over 1450 points nifty 50 above 25750 in early trading kotak neo",
-    "closing bell 27 november 2026 sensex nifty fall as it stocks face selling pressure kotak neo"
+    "stock market outlook today 27 nov sensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
+    "stock market today live nov 27 sensex tumbles 989 points nifty slips below 25650 as it stocks hdfc bank drag businessline",
+    "closing bell bears take charge sensex sinks 989 pts nifty at 25600 moneycontrolcom",
+    "stock market highlights bears tighten grip sensex plunges 989 pts nifty slips below 25650 cnbc tv18",
+    "stock market today highlights nov 26 stock markets rally for 2nd day on foreign fund inflows buying in it shares businessline",
+    "sensex today stock market highlights sensex ends 390 pts higher nifty near 25900 it realty jump up to 3 hdfc bank leads moneycontrolcom",
+    "stock market today live november 25 sensex surges 1502 points nifty reclaims 25800 as rupee hits eightmonth high businessline",
+    "stock market highlights nov 17 sensex nifty close at highest since february on record foreign inflows businessline",
+    "markets fall in early trade after 3day rally sensex tumbles 460 points dd news",
+    "why stock market is down today factors behind the fall of equity benchmarks in todays trade kotak neo"
   ],
   "articles": [
     {
@@ -140,64 +133,64 @@
       "publishedAt": "Sat, 28 Nov 2026 10:01:42 +0530"
     },
     {
-      "title": "Stock Market This Week: Sensex, Nifty Snap Mid-Week Recovery as Brent Crude Tops $97 - The Indian Awaaz",
-      "source": "The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTdFM18xNkkzV2NJczhEYTVoSnVRRXZEeEc2TlJydlM4OWRDZVA3bkZCb0Nsbk9qbjhsSUR6YkU4SkRRYTZWVTE3LVZnY3F4VjMxTHdDcUt5Ty1ZR2xsbGo3b2FSYWR4ZHBoTmdzRllMUE9HaUd4dUVMRmp5T2dFc0RQSVdRWUdhNXNKQTVzSjNIakRvNE9mSFYtMkdNUHZpNmFTOTRGMFIwdW9JRnY3V19xUl9zdElJY0xv?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 15:41:00 GMT"
+      "title": "Stock market outlook today, 27 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORk5OOFI0dE5VakUtaGx6ZzF2ZjVnY3poeUtvNXpRdEhYSk9BX2Rsd0k3VFRjNjhNRVA3RUxMMGdpeXhtZ3RqUDlYajFfY1VxNzJCbHpTNWNCSUZxeXFuOVJ2NHgxdFVzYVV2bWY3aFVueERPU2VpUGhBd21YMFk4ZzN5Yy0ya0N1MUtPSnFGMkNLNmhNVk9BQjFRN0dVazFiWjJoN1NUU2dGbkpJNG5ZY0tfeXVGa091SmcwZGVpS3lDbWVRMHU3YXFtSkdIQ1RPRFRPNk1MWGxCaXhTRlRmRmR1OXRDcVZwU19sYzRiajBSNTZPYzA5aEJwVjJvUy0tWmo2TXNOdWNBd9IBjwJBVV95cUxObGg5TnVBODg3LU9PbG9aZWpBU1dnVlNRV29acWZvQ19Sd1lKc0RvajBDM041SlhjS1pmb29hNDQ5OUhVZnNSZ0tqN25KZXdNN1psb1dXRzZMYjVsSmxicm5RUFpkZTM2QzlLeUhRdklSSzFITU9VUEpJcDBHZmdvSmhfQTVRZzRJU1dlNkRHTEE3aDM5X3BleHJKQXFoeUd1bTA0aXhIZlE4WHlMTFFfcEpNM041NVp3MTJsSU1LV3UwbXlOUXR3Ml81S1hJUmxzUG1vOHJSZzZnZlREU29KbDNoQTZTNVFZeHRZS21nNTA2OVZyV0NFdEhkeUZqalE0Q0JGYjhXREduUldzSEdJ?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 01:20:12 GMT"
     },
     {
-      "title": "Stock Market Update 27 November 2026: Sensex Down by Over 150 Points; Nifty 50 Below 25,900 in Early Trading - Kotak Neo",
+      "title": "Stock Market Today Live Nov 27: Sensex tumbles 989 points, Nifty slips below 25,650 as IT stocks, HDFC Bank drag - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNanRpYUJpYUpkZG5ROGVUQnhmdjk1d1AxZVdITERiTXpoWGVmcGhXdkZySlZhR0NES2VUZWxzZERFMGdzLWFMWTgybkFubFpyR0NwWFdSVTNmNm1SeEhRTnp2aHlQZld1WU03SWdGTlhMUnI1bVlTMDFIVk5mSERES3poX0F4Ym4zbFU3UDE4MUZfUDVGWmVjSDgzS0RJVk4zT19vbnUyTi1QXy1sRGx6a01DWjY4aDd0S0hTbnBYNTZuVmlaMWJv0gHOAUFVX3lxTE9GR1pSOUI4NWpmcHFwNWEySnQ0NldMUmloLThBOUpaTXJVSDVHcm9XLWpyWGFBN1lFaWlrNWc4d2FWVE9UOEUyVkt5ZFhCRV9FaUtsRkR2b1lNdUlRcWs5Ykt2VDBMWGlUYkR2c2dsRkotRWpjSHQ4MEw2SnJwRDhfb25vekpwcm54bmpvazVsRjJLUEFwR29mdFNjV081ZXZ2d1pHQVZENUYtMFl2aFBzZzlnalQ3WlhnNDBONGxmN3I0NnNud3drY1k2RFBR?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 10:52:42 GMT"
+    },
+    {
+      "title": "Closing Bell: Bears take charge; Sensex sinks 989 pts, Nifty at 25,600 - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZnNkT0Z0dEg0MzhjX0xJc3ZpMTdYUG1fOGVHeFdJSldYOEh2ZHlSbnVieXNmZkhjanZXNDF3LVBjSzM3RUxNcTNOVWhaT08xTW9mejhUaTJGZzR2akNQLVF4b0I3ak5EbGxxblF4ZE9zSGVnNDM4cWdkUC03RzRIWDRDY18ya3M1WUNKdDloaDlCVWNhdGlLb1FHMlBiSk9fRVEzMm1ENHM2NmdYajlLV2M3MG5uQmllUkc1eUtkdnUzVDg3OVdnbWpkLWQ1eTF4bGJJNW0tRkNHSVB5X1JFWVh4SXBER2NUUXRsUTBJZXhwWFlfN19mSXhDQUpYbE1QXzVIdDk0NzJVSHpNbW1PYzB6VjJqSm5nVjJib3VLcjF5elXSAagCQVVfeXFMTnZlZzRZOV81MjB0d3Z5SGx0WldTMVJ2ellyN0QwWWRvdlFhdU1DUTVEMTI2Ty1iSFlXX0ozd3JVUVM5MGhWZEpEMUoxOFk0X2EySGxNTWEzN1V0bkJwRzhxR0ExS3pzcjNDWldPbHVUenJ6bm4wTlVwNUtxRnZNVHBWMnZJM3JtRDdiLXYxTTRxQTFpLTBwYlZsRzhlLVJzNkhHVmE0VnZ2dkVOLW5QaVlvak54NzduOGpUWVJkRGxIZVgzYXR6c1lrZkVMN0E5M2NuMElGU0FMZVlHM1k3T3JxenA5SU9SdElkVFN2RmN0V0tYV05zcEViMDVSWlZ2eDVLLWNHdnY2THlqVlZHUHdzUGlvZ0JfV1ZaM2NaWjhTek11WDdWeTg?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 10:43:42 GMT"
+    },
+    {
+      "title": "Stock Market Highlights: Bears tighten grip; Sensex plunges 989 pts, Nifty slips below 25,650 - CNBC TV18",
+      "source": "CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeEhnR0RwVWtCXzFhbDRJa3JGX0lyNU82dkpYLXpCeWVZLXRpWDRJTFRzdUhPX1lKcWY3NEhqcTNFQVlUMUs3OElRdElKaDJOZVFjamtzTHNjZ0hLNEZtRGlHeDI3S3pIcHVCSTk1Vm5iM1h6Q2NiLXYzbWRqY3pzaVBWSkJjVnNyXzlQTzJrR3F0UVAzTllXbjZBSk1Qc25YN3N5MTNaUTg2MW9sbVJpbDBZcFg1X2JMYTNZNlRnaGM3LTVBZ1N6WlhrTzNlbVZwaWc5b0JBY296NXVRMElZZjVMT0RPYWEwZjRoUFZNMUNRaEM1OXBQYTdXZ0ZRaFBKbE5qddIBigJBVV95cUxQcFFlNjQyZGZtMlNXcHU3QlUwVUE4VGJGTkVRMkYtM09mR2N2eWx0c0dEa2hrNWtMeGxuRWxPTVRmWm9nUUFzbnRFekJTSE4zVDFxU3lZSVhHYWVrbHVRZmNROXZ5Y3VxSzJoYlNtWEQtS0dfX0RocnA3cThzY01Na1lBczBQS3Iya0MtNFNaNWlBVGZVUm5RbFczSG5UUmtVQkQxZ1FmTGlfUVMzamtfaWpHS1J0WDhDdjZnTVk5dTRKMEFBa2l1MTc4eWVZQW9EMzB4SHhuQVN5WUpLU1IwQTFQdGd2WVFaZE80YV9rd0FyUF83Q0Z6MlRZQ1FDWGJZWE5rQkdYS2dPQQ?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 10:15:01 GMT"
+    },
+    {
+      "title": "Stock Market Today Highlights Nov 26: Stock markets rally for 2nd day on foreign fund inflows, buying in IT shares - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDRBQjVYZ0o1TXpSS3RPREF3SGdsRkFJNUtpSzlqZGozVmVZNXVCU281X3BoakxWd2RvWldteE5pak5uMmJNdm5Jc3gtYzFkQ0tYSkp3blJUdUFzZWZ0TlBPQkNHcnlWcTB0RHJVNVoxc0NlcUw1cnhuVkNrUFd4VC1JYnBrQk9qNUdjV3pST3pMYTY1TE1jSVNBZjgxYTMzM256LXRRUnltQWFsS3NnVWdaZldmTjhlV1o2aVQ5RzN4bllHNWZr?oc=5",
+      "publishedAt": "Thu, 26 Nov 2026 10:48:08 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Highlights: Sensex ends 390 pts higher, Nifty near 25,900; IT, realty jump up to 3%; HDFC Bank leads - Moneycontrol.com",
+      "source": "Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxPLUJyQ1VlYWNNT295UDJHbmRXSzJCa1BSYnpYcmx3RXpCamp5dVlHQXRGOTFoRjYwek9uV1RLNEdXWjVNb1hPYTU0Z2tuUzF2aWdZLVZrY1B5b0NxbTBHNXhncldGRE1qTVZ5c2J3NXRPVXNNRnNpU1BLNFhOaHlSdUtwNWFiTVc4a28yY3l3SGd1M250OUl3OG5kV2ZRcDIyaU1GaUh6T1daQmtZYnNDbzRNbzZMVTVQY3o5end1MVBDUmZaUjRYanBiaGdZdUFUcnRVMlUyYXBOa1VROEo1Q3RFeWZWUDUtMmZRVkhxUy16UXFvWGpWN1kxMXI4QjJnRzVzY29xTm4yQ2J3N3BvVUF0d05qRjlwWmFqWS1taHlDc0dwaTZCcEd3YjYwSGU3RWtLMkJHVzZuTEEzcTd5b2lRVWhyMk9Gcms0OEZWZWI5Mk5zZTRIVmRqX2hrcUp1OEFvSjdiaVhRX1h5OFAtaDEtYmhQUkdydG9VRnJkSlZIX19fSTZ3OE9WYjl0WUJvd2fSAZcDQVVfeXFMT1FEblg4aVJqYmZ3UXJaczZvN0xwbXBMM1U3WnkxODRXd0s5NUkyUzB3ZV9CcXZYUk4teEdTRjFTaTUtX2tUYzN1Unh5Z0p0SXRVcVc2bFUxYjBPeGxhNDNlZ1BMU2FIdkZoVGhoTGJCQlNyLTdiQlo3S0w5VG1Tc2FTVEUtckhYOG15QUcwQ0NNenR6ME83RE5jejBma05DZEF0X1NYb0tDRll1bDBlejRlYWxkYjhiOTl5N1ZOZWM2a0ptdHR5dHJSZEQ5Y1IzSVkzVDdDLUhhUWpDcU80dE1zVGQzZ2Vnd0R4Q0tXSmN3dzdWZy1HTXJTdE5sbHRNZ3JqbUVJdV9pSm04Y1dlWlg4Q0ZKZmt0czRrcGpzLUdfNTQyTncwV3dONUI1Tm43T01adUlfMDE0RmpFcHptcVEzZXFoMVRqQjlMM0htNDFiclVNSnlLMndKdjl4MVFIeG56T245bk9NZzY4TWtjMWZTNzRNekV6TGs4OXFmb1RTeDU4NV9UU1I5VW5yZjhBeTI4UTFrdnc?oc=5",
+      "publishedAt": "Thu, 26 Nov 2026 10:14:33 GMT"
+    },
+    {
+      "title": "Stock Market Today Live, November 25: Sensex surges 1,502 points, Nifty reclaims 25,800 as rupee hits eight-month high - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb1ZSUnlOaU1NV3c1bGZPMmc2alE2d0hxMHltV0l2R1BBYTRnZXZtWlc0VUEzZ1VET0UtOVBtdUR0c3lTQWcwUHVWMTVxRlFSUHMwZDNWdWM3TjZaXzRDQmlWczJZQXV6RHlNTVJrNlE4YzFJS0FvMmh6aGhSOV9EemJHN3lYT3pSN1hGQjA4QWpiOUo4a2cyUnB6QkJfQ0l1S09zUnFwWUhhR3UxemZreHI1bWt1dDNBSXRIZkNZbDh5dlF3LVVR0gHOAUFVX3lxTFA5VWM4X0hydjdrT3dBQ0xZa2s1cWl4VkZxSGNxTnlFcjBMaW5ScThCWE9VYXJTR0I2R1NrVUJ6aUN5TzZXMWp0dTJUNC16VE1pT2ZUeXBnLXh3YUFlSS13eUItNmk2OU4zZkJhdXJHaFVOLUl0cXhZNWwzUVV2ZlJrclkzRHFucDItNkFFblhXcnFUUU1vajNCMDlxNVE5cHZyWkFwU1pfRDFwZGoycVg5MjdzSUdVcXlzTXRJa00xZ3hlcWYtbGJQbGlBWlVn?oc=5",
+      "publishedAt": "Wed, 25 Nov 2026 10:39:39 GMT"
+    },
+    {
+      "title": "Stock Market Highlights, Nov 17: Sensex, Nifty close at highest since February on record foreign inflows - BusinessLine",
+      "source": "BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVZabWpya243cEtndWEyQnc1TXhYYUhUVUZvRXA5cTcwU1ZtenJqVHhLajNxLWNLLWRVRXE2LWZrRGpCN3duOVNJY1RhSGZYT3c1aWFaalVMcVg2X1M1alNCN0M2VUl0dnV2MmJBZDBoZE5OZDVhY2FRaFZWdm85SFFNT1Zld1YxZk16YjJrV1JvbGhPMHFsekJ1RXZfendZZlF3Vm5rZUNYS2xBTTdzQ1VFRThTQWdvc29Jamd5aUIwbXMtTU1mVlVR0gHQAUFVX3lxTE5UQlZRUzBfYjliTF9iQnBHaXctU1luaEs5cWIyaUxhUWVPTGwtenN1c3BPelpUWGh1UTdFR2toOGNEOEozSVZRSnFsRDNVWS1YaVFYeGFnLTBwSXE4MlF1VkF4bzdHN0d5UmhxRVV5SkpDN2l6cHdjd3hiN0NwQzg1WlRIdGV6TXFwanQ1UV9taTlOU3FFRjVESW1fVldUbXlqMkFGQlRBSk1ac0lNQVBLN2hFZmFFS2h2RVl3dlVybXBfSXpaYVNReUFzODJUQ1k?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Markets fall in early trade after 3-day rally; Sensex tumbles 460 points - DD News",
+      "source": "DD News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFJfbmp3X1p4c0Nkb2REMHhWSVNoTE9qTUNiaUloTy10aXVLalZ5TUN4WER5R2w4Y3V0Yzg3TXdsOG9TZFRkdE9INUZsTEZETmRHQmliTWw2d0VPZjNrWTVmNk5lSVBFMFJ5Q0NhVEtZanF1VUpGV2tCUUh2RG5acTNlcWY4Ykc4NWNtQVowRDZqelJRTnJFamprZ3R4dw?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 19:29:50 GMT"
+    },
+    {
+      "title": "Why Stock Market is Down Today? Factors Behind the Fall of Equity Benchmarks in Today’s Trade - Kotak Neo",
       "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjIwZ0pNcTkyb0RpSlpuSmNjamg0a19LU0tOV2F1eGdqd1hxWjRrYkM2Z2JXLWtLU21fSGxYQXdxRURpYXI3SzUyNExickxaLTFTbkhfamREME9jSFpvMVhtLVRtcmExbjJ1QVRiSUpXR2htU0NUUmx6MmRfc2hxVld4UHhJX1lxRXNuMVBaMnlIQ0pTSXJj?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 04:23:39 GMT"
-    },
-    {
-      "title": "Sensex, Nifty Trade Lower as IT Drags; Metals Outperform - HDFC Sky",
-      "source": "HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeUxkbUJBd1IxTVF0bG1ja3F5SEY1T0Z4Rm5tOGZlNGh4dFpRRlZ4LXVxekE1YTZqOFBwWHp5ZWtMelNlWlllYlVGSkpab2VZa3N4Ry0tWFB4aFVFdy1iWGFNUUcxaDVDT2duUU01NHEzZWItZjN4Tmh1MkJzWmZYSk5UVUVKSDNoOWFzQXNJN0hsdl9xMW5nbkNSU1BkY0EtcXlYTENuRFZTbjlHbHdncmt1SjJTX0tyUDYxU0dxbG5DVHlHU1o2WFNLV0VOU2FrNzNlME9jb0RjcE9lMUFSdDM4dFZYeEM5MXV4amJRZktpS1VoQ0tJSnlkbUdJZ1VLOEE?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 04:49:39 GMT"
-    },
-    {
-      "title": "Stock markets snap 2-day rally; Sensex, Nifty end in red amid profit booking - DD India",
-      "source": "DD India",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmFfcWhyazUycEdmZXNJU1BGalg5dEZMSENiVEtIeHRZRHNPemxOb19OQUpLZXNXS05qZW9uNDVMMUZUYzVrX0NfTVAzclZhRGlfRWM1a1h6VVVmNTgzaWZTUXJlc1dIVXRNTUZReFZrNExuNFdDVVoxWW44WXFnNzh2d0NHYUlBZ3lrNi1jNWVmTkFvWnd6WmZMdGZHUTBlMmUtby04TTI?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 10:52:00 GMT"
-    },
-    {
-      "title": "Market weekly wrap: NIFTY50, SENSEX end 4-week rally; Tata Steel lags, TCS leads gains - Upstox",
-      "source": "Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNHRVLXBOMlc0UlhQeUMzN0ZFamtwdTdCOVhGdUhWVXFFNkctUkN4cGlJd0R2c0lEYVZabzZrMU1uN1dyc2lLOEtWbnJMZVFpbDU2VFpnbVNNWjJVQThqUUhoa2dSZWFyRFZMT00xYU55OGF5Q2g2NUx5NVdMM1UzN3BMS2FVTG9LdTh3RlRiQ01jSTREN0NOekYzQVZCSlhKWTlmSWJmaHh6ZFRWQlFHN3NtanVrU3ZjU2JtMG50QkNpdU1VTWQ5SzRZcXFUNG1nUS1JWm9QRDJJUQ?oc=5",
-      "publishedAt": "Sat, 28 Nov 2026 04:06:39 GMT"
-    },
-    {
-      "title": "Stock Market Today: Sensex Crashes Over 700 Pts, Nifty Slips Below 25,700; IT Stocks Lead Sell-Off - APAC Media",
-      "source": "APAC Media",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODE4Q2hfb2w2WDJMYjV6WkkwRHBXTEkwRF9ybGM3UmtuWlZQOG5vWThKNEd0M1VpWUpYa2N5aGpfYVd1bTRMRzdvTVJIMFpMWXRka2czbHgxTnp5bjI1NlRXTVZndEZFRmFFT09zc1pGb3FicGg5YWdMR3B2ekNhcWFuemtBbmhnSGhQdGhqYkNQdw?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 11:03:25 GMT"
-    },
-    {
-      "title": "Stock Market Update 26 November 2026: Sensex Drops Over 150 Points; Nifty 50 Below 25,750 in Early Trade - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQazZmZzFJeFNOOWhnM2pZUjlZM096TENxc05IbkVZdC1HNmJ5MUpnVHdjQUMwMlFiWkhiclVLaHJVTVRoTkFSUUFsM1o0NlFNNm81VHY5Yl9QVE1jQ2NHdVZMd3B1MUtqV2EyNFpSVXA4czh5b0RUTllseEZGS2FNbTcxZjBiaWJHckVxNF8tbmktOUNhb3RZ?oc=5",
-      "publishedAt": "Thu, 26 Nov 2026 04:13:52 GMT"
-    },
-    {
-      "title": "Stock market today: Sensex tumbles nearly 1000 points, Nifty50 below 25,650 after 2-day rally - key reaso - The Times of India",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPNkhJTEZQZWR5UGtmNWl6MzdIM0hqM3lRbWZzT0xsZ1J0LVplVXNZejNGU1dueVdQRXlVRkExQzllbzlJZ0RRQmxvbHdCbmEtRWxEU1M0WXRLSDlaS2Y4aFMtSl9LSnRDN2lsWGd4dlBicHlkTjNpd2M4MGF0SjVmbHdNOGtwVDBsS2xFZG8zV0tPVW0tOFBNdTZUY2I2WmtPZE1PYmV3OHZGLU9SLXhJeGM1YVJKa0NtZm9WX2pqLWNRVVVSUnFzOXR5dVZtSzN4YjJOY2dHZ1NhZmFvRmtkVkcwQWVkaXV4dmhVemV6WFk4V1FyR1ZtZVBia0czLU96Z0pCYjdEbHlyUGw3MUg0STA3bURTS0ppMGRUeDdlNTlyX3NRLVpF0gGsAkFVX3lxTE5nM18zX0ZQVm9IOE56clFkZGpCVGRBN2lDelNiZnU5Z2V3X3JLbG9XZEtKbzN5VjR1ems3eEZmTktaM3VWN3JzT1B6TllmUk5TRU9zQzgzUHBIS0k1SHVHY2VwclVNcUFjcUZzN0ZJdVFHb2VPOFAtWXg0eVBWYnZMcHFZTTRuVEhKQVRvcW5kcnN6bDN3Y1BlaWFodVVwXy05YWUtazZQd2FOMHA1elZVSUI5T1h4WV9yREw2RFE3U3JkTHVPV2k2T0Q2alRRNER6dl9qREtxdDZYWUhJdHRLV19zbnpyNk5zNGVhX29mWWJEV0VEUHRXM0F1WkdHVGJnM080M3ZRSXBVVDFTeHliSmF3a3AwSkZ3N1o2a3Z4Y2dHNDlqNlQ1ZmZwUA?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 10:37:00 GMT"
-    },
-    {
-      "title": "Stock Market Update 25 November 2026: Sensex Zooms Over 1,450 Points; Nifty 50 Above 25,750 in Early Trading - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzNLMF9hSlJxZW1LR01nbFFfVEhZb0pSM29YMXpySkthcUpTMHg0S2hNVnNyVnN1Tk5TaF9sd2lrNkM0VGtFTllMRjlZMF9yT3B1MnVQelpIZ2FHdHVsOHVEaV9JbnhLc0NKeVBVbzlvVFV5TFZJNjdleFhmcmhIU29mU3BHWWw4cGlIZVg0X2MwQmlkUEJJ?oc=5",
-      "publishedAt": "Wed, 25 Nov 2026 04:03:51 GMT"
-    },
-    {
-      "title": "Closing Bell, 27 November 2026: Sensex, Nifty Fall as IT Stocks Face Selling Pressure - Kotak Neo",
-      "source": "Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXNHWHg4dkNqeXd5RjNZYi0yMkotcks0a3c0RjMzS2RsTUpGanJBcXRUN1VqTUxwM2dZRDJvZkt1MElSZXV0WjVmZU94SUdvSkpiMkhyQlAyY0VjRmRTS05SWm5LQ1JGbF85TXdRcVB5a1MwQUNadWhUbDJKS2EyeG5Da25YUW91RWVnNXU5RXVOenQ2bTVGNmdJaDI5ek9P?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 10:35:43 GMT"
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByWE04WVJrYm56SnV5ZjhHRjU5ZnE1SmNmVXpnenQ4V0FPODFLR3ZyNEJOVXdFdVVPVUs0V3pVT3ROdVhkRFNlRUVNeFVvYjEzZVhkbVBnTm1XNGRpRDhUNFhJejRoQWllQmVDWTFtQjA2WlMzLS1xTDA5ZHg5UQ?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 14:01:17 GMT"
     }
   ]
 }
