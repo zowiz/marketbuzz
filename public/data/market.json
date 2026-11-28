@@ -1,5 +1,5 @@
 {
-  "headline": "On last trading day, Sensex plunged 989 points while Nifty slipped below 25,650 amid HDFC Bank and IT sell-off.",
+  "headline": "On last trading day, Sensex plunged 989 points as IT stocks and HDFC Bank dragged Nifty below 25,650",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
@@ -7,16 +7,16 @@
     "nextOpen": "Monday, 30 November"
   },
   "why": [
-    "Heavy selling in HDFC Bank and the IT sector pressured the major indices.",
-    "Bears dominated the session as the Sensex crashed nearly 1,000 points in a single day.",
-    "Negative global cues and lingering concerns over potential Fed interest rate hikes impacted sentiment.",
-    "Profit booking by investors followed a two-day winning streak earlier in the week."
+    "Bears took charge of the market on Friday as Sensex crashed nearly 989 points.",
+    "Heavy selling pressure in major IT stocks dragged benchmark indices lower.",
+    "HDFC Bank registered declines, pulling down the Nifty index.",
+    "Investors booking profits caused Nifty to slip below the 25,650 mark."
   ],
   "whatHappening": [
-    "Sensex closed at 25,600 levels while Nifty finished below the 25,650 mark on Friday.",
-    "The Bombay High Court cleared the path for a Tata Sons board meeting on November 30.",
-    "Gold prices rebounded from 15-month lows, and silver prices surged nearly 6 percent.",
-    "Market volatility increased as the indices erased gains made during the previous two sessions."
+    "The Indian stock market is closed today for the weekend and will reopen on Monday, 30 November.",
+    "In the previous trading session, Sensex sank 989 points while Nifty settled near 25,600.",
+    "SpiceJet featured in news coverage regarding its business survival and operations.",
+    "Gold and silver prices saw a rebound from recent lows during Friday's trading."
   ],
   "stocksInNews": [
     {
@@ -27,13 +27,22 @@
         11,
         17
       ]
+    },
+    {
+      "symbol": "SPICEJET",
+      "sentiment": "Neutral",
+      "sources": "Mentioned by 1/5 sources",
+      "articleIds": [
+        0
+      ]
     }
   ],
-  "summary": "Friday's session saw a sharp decline with the Sensex plunging 989 points and Nifty slipping below 25,650.\nThe market was dragged down by heavy selling in HDFC Bank and IT stocks, ending a brief two-day rally.\nInvestors are now looking toward Monday's reopening and the scheduled Tata Sons board meeting for further cues.",
-  "updatedAt": "2026-11-28T01:31:54.631Z",
+  "summary": "On the last trading day, Indian equity markets suffered sharp losses with the Sensex plummeting 989 points. Dragged down by IT heavyweights and HDFC Bank, Nifty dropped below 25,650. Markets are closed today for the weekend and will resume trading on Monday.",
+  "updatedAt": "2026-11-28T02:01:33.598Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-28",
   "articleKeys": [
+    "how is spicejet surviving why 7eleven failed and more",
     "opec set to keep oil production targets steady report",
     "copper sweeps higher as china offers stock market support",
     "gold pares gains as fedhike risks linger eyes first weekly rise in three weeks",
@@ -43,7 +52,6 @@
     "khushbu sundar opposes fawad khans pakistani series on netflix like indiapakistan cricket match",
     "black friday is packed with fake monthend deals use these three tricks to beat them",
     "gold silver rates nov 27 highlights gold rebounds from 15month low silver surges nearly 6 check citywise prices",
-    "black fridays ai paradox retailers fight cyber threats amazon takes charge to block them",
     "stock market outlook today 27 nov sensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market today live nov 27 sensex tumbles 989 points nifty slips below 25650 as it stocks hdfc bank drag businessline",
     "closing bell bears take charge sensex sinks 989 pts nifty at 25600 moneycontrolcom",
@@ -56,6 +64,12 @@
     "stock market highlights nov 17 sensex nifty close at highest since february on record foreign inflows businessline"
   ],
   "articles": [
+    {
+      "title": "How is SpiceJet surviving, why 7-Eleven failed, and more...",
+      "source": "Zerodha Pulse",
+      "link": "https://finshots.in/archive/how-is-spicejet-surviving-why-7-eleven-failed-and-more/",
+      "publishedAt": "Sat, 28 Nov 2026 07:00:15 +0530"
+    },
     {
       "title": "OPEC+ set to keep oil production targets steady: Report",
       "source": "Zerodha Pulse",
@@ -109,12 +123,6 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/markets/gold-silver-prices-today-live-updates-22k-24k-mumbai-delhi-chennai-bengaluru-hyderabad-12383256#publisher=newsstand",
       "publishedAt": "Fri, 27 Nov 2026 23:17:33 +0530"
-    },
-    {
-      "title": "Black Friday’s AI Paradox? Retailers Fight Cyber Threats: Amazon Takes Charge To Block Them",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/black-friday-s-ai-paradox-retailers-fight-cyber-threats-amazon-takes-charge-to-block-them-12386587#publisher=newsstand",
-      "publishedAt": "Fri, 27 Nov 2026 23:17:24 +0530"
     },
     {
       "title": "Stock market outlook today, 27 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
