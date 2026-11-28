@@ -1,35 +1,51 @@
 {
-  "headline": "Last session: Indian markets closed for the weekend while news focuses on HDFC Bank's upcoming UPI SMS changes.",
+  "headline": "On last trading day, Sensex and Nifty ended lower, snapping a four-week winning streak as IT stocks dragged.",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Tuesday, 1 December.",
-    "nextOpen": "Tuesday, 1 December 2026"
+    "nextOpen": "Tuesday, 1 December"
   },
   "why": [
-    "Indian stock markets are closed today, 28 November 2026, due to the weekend.",
-    "No live trading is taking place on the NSE or BSE during Saturday.",
-    "Investors are reviewing individual corporate updates and personal finance trends over the non-trading days.",
-    "HDFC Bank announced policy changes regarding SMS notifications for low-value UPI transactions."
+    "Brent crude oil prices rose significantly, topping $97 per barrel",
+    "The IT sector underperformed and dragged down the benchmark indices",
+    "Profit booking occurred after a consistent four-week market rally",
+    "Weak global market cues weighed on investor sentiment during the session"
   ],
   "whatHappening": [
-    "HDFC Bank announced that starting January, customers will no longer receive SMS alerts for UPI payments of Rs 200.",
-    "Recent news highlights personal finance issues, including severe debt cycles from trading losses and bad loan decisions.",
-    "Media updates over the weekend largely cover non-market, general news, sports, and entertainment topics.",
-    "Markets are scheduled to reopen for trading after the weekend break."
+    "The Sensex and Nifty 50 snapped their four-week winning streak on Friday",
+    "The Sensex tumbled 460 points in early trade during the last session",
+    "Nifty 50 dropped below the 25,900 level during Friday's trading",
+    "HDFC Bank announced it will stop sending SMS alerts for UPI transactions under Rs 200 from January"
   ],
   "stocksInNews": [
     {
+      "symbol": "TCS",
+      "sentiment": "Positive",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "sentiment": "Negative",
+      "sources": "Mentioned by 1/7 sources",
+      "articleIds": [
+        16
+      ]
+    },
+    {
       "symbol": "HDFCBANK",
       "sentiment": "Neutral",
-      "sources": "Mentioned by 1/1 sources",
+      "sources": "Mentioned by 1/7 sources",
       "articleIds": [
         5
       ]
     }
   ],
-  "summary": "Indian equity markets are closed today for the weekend break.\nHDFC Bank reported that customers will stop receiving SMS notifications for Rs 200 UPI transactions starting January.\nTrading activity will resume in the next scheduled market session.",
-  "updatedAt": "2026-11-28T13:01:54.315Z",
+  "summary": "Indian benchmarks ended in the red on Friday, snapping a four-week rally as high Brent crude prices and a drag in IT stocks pressured the market. The Sensex fell over 460 points while the Nifty 50 slipped below 25,900 amid profit booking. Notable stock movements included TCS leading weekly gains while Tata Steel lagged behind.",
+  "updatedAt": "2026-11-28T13:30:34.967Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-28",
   "articleKeys": [
@@ -42,7 +58,17 @@
     "why this hyderabadborn techie walked away from a rs 9 crore meta salary",
     "panchayat season 5 kevin pietersen visits phulera shares screen with popular characters",
     "woman 60 followed into washroom assaulted and raped at ghatkopar station accused held",
-    "students who come from gurukuls and madrasas are already mined poisoned says javed akhtar"
+    "students who come from gurukuls and madrasas are already mined poisoned says javed akhtar",
+    "markets fall in early trade after 3day rally sensex tumbles 460 points dd news",
+    "why stock market is down today factors behind the fall of equity benchmarks in todays trade kotak neo",
+    "sensex nifty trade lower as it drags metals outperform hdfc sky",
+    "nifty sensex open lower market to stay rangebound with positive undertone experts dd news",
+    "stock market this week sensex nifty snap midweek recovery as brent crude tops 97 the indian awaaz",
+    "indian stock markets end in red nifty and sensex snap fourweek winning streak telangana today",
+    "market weekly wrap nifty50 sensex end 4week rally tata steel lags tcs leads gains upstox",
+    "sensex soars close to 400 pts nifty nears 26600 3 reasons why the stock market is up today kotak neo",
+    "sensex nifty open higher despite weak global market cues hdfc sky",
+    "stock market update 27 november 2026 sensex down by over 150 points nifty 50 below 25900 in early trading kotak neo"
   ],
   "articles": [
     {
@@ -104,6 +130,66 @@
       "source": "Zerodha Pulse",
       "link": "https://www.ndtvprofit.com/education/students-who-come-from-gurukuls-and-madrasas-have-their-mined-poisoned-says-javed-akhtar-12388978#publisher=newsstand",
       "publishedAt": "Sat, 28 Nov 2026 16:53:49 +0530"
+    },
+    {
+      "title": "Markets fall in early trade after 3-day rally; Sensex tumbles 460 points - DD News",
+      "source": "DD News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFJfbmp3X1p4c0Nkb2REMHhWSVNoTE9qTUNiaUloTy10aXVLalZ5TUN4WER5R2w4Y3V0Yzg3TXdsOG9TZFRkdE9INUZsTEZETmRHQmliTWw2d0VPZjNrWTVmNk5lSVBFMFJ5Q0NhVEtZanF1VUpGV2tCUUh2RG5acTNlcWY4Ykc4NWNtQVowRDZqelJRTnJFamprZ3R4dw?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 19:29:50 GMT"
+    },
+    {
+      "title": "Why Stock Market is Down Today? Factors Behind the Fall of Equity Benchmarks in Today’s Trade - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByWE04WVJrYm56SnV5ZjhHRjU5ZnE1SmNmVXpnenQ4V0FPODFLR3ZyNEJOVXdFdVVPVUs0V3pVT3ROdVhkRFNlRUVNeFVvYjEzZVhkbVBnTm1XNGRpRDhUNFhJejRoQWllQmVDWTFtQjA2WlMzLS1xTDA5ZHg5UQ?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 14:01:17 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Trade Lower as IT Drags; Metals Outperform - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeUxkbUJBd1IxTVF0bG1ja3F5SEY1T0Z4Rm5tOGZlNGh4dFpRRlZ4LXVxekE1YTZqOFBwWHp5ZWtMelNlWlllYlVGSkpab2VZa3N4Ry0tWFB4aFVFdy1iWGFNUUcxaDVDT2duUU01NHEzZWItZjN4Tmh1MkJzWmZYSk5UVUVKSDNoOWFzQXNJN0hsdl9xMW5nbkNSU1BkY0EtcXlYTENuRFZTbjlHbHdncmt1SjJTX0tyUDYxU0dxbG5DVHlHU1o2WFNLV0VOU2FrNzNlME9jb0RjcE9lMUFSdDM4dFZYeEM5MXV4amJRZktpS1VoQ0tJSnlkbUdJZ1VLOEE?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 04:49:39 GMT"
+    },
+    {
+      "title": "Nifty, Sensex open lower; market to stay range-bound with positive undertone: experts - DD News",
+      "source": "DD News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGdYNEhHMFZZeU5ZOXg4ajZjYV80dzVmbzdMaWwwdWZ5SnFhYVRaSEFCSllzMDlvSi1FYV9sNlFydzB4c1Fqamp6ZXZ1enBXbnh0VjFpMXFFYVZpY3VhSjd4aUlFaGNRWTczYTk1SDdIUTJ3UkJ5WFI0bUJlb3JYc2dCdW1RTDl0emVWaXZDZS1XUlhyNmhYTWJzN29ROGg5R3JzTHhkNG5zdGct?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 06:57:03 GMT"
+    },
+    {
+      "title": "Stock Market This Week: Sensex, Nifty Snap Mid-Week Recovery as Brent Crude Tops $97 - The Indian Awaaz",
+      "source": "The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTdFM18xNkkzV2NJczhEYTVoSnVRRXZEeEc2TlJydlM4OWRDZVA3bkZCb0Nsbk9qbjhsSUR6YkU4SkRRYTZWVTE3LVZnY3F4VjMxTHdDcUt5Ty1ZR2xsbGo3b2FSYWR4ZHBoTmdzRllMUE9HaUd4dUVMRmp5T2dFc0RQSVdRWUdhNXNKQTVzSjNIakRvNE9mSFYtMkdNUHZpNmFTOTRGMFIwdW9JRnY3V19xUl9zdElJY0xv?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 15:41:00 GMT"
+    },
+    {
+      "title": "Indian stock markets end in red, Nifty and Sensex snap four-week winning streak - Telangana Today",
+      "source": "Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWU82Tkxxb3JQa0R4MVhLSDdoUXZudHRBYTZlalJLN3lEOVlZQ1ROZWVEcllfUmxpdVQtcDJ3UGJBUU5VcWNUTmVhWlY3U2NUdEx0aDVvUFdnMjM5MTU2dFNtU2pHYUhZS1lsTnpIMjBCa0J3NFBBMUlISXpzd1JMUkJKV3cwVHZ0RXpYNVNWeTRmX3ZVSkRSbk1SdjJPRUhMWHJsOEFjZHQ?oc=5",
+      "publishedAt": "Sat, 28 Nov 2026 06:22:32 GMT"
+    },
+    {
+      "title": "Market weekly wrap: NIFTY50, SENSEX end 4-week rally; Tata Steel lags, TCS leads gains - Upstox",
+      "source": "Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNHRVLXBOMlc0UlhQeUMzN0ZFamtwdTdCOVhGdUhWVXFFNkctUkN4cGlJd0R2c0lEYVZabzZrMU1uN1dyc2lLOEtWbnJMZVFpbDU2VFpnbVNNWjJVQThqUUhoa2dSZWFyRFZMT00xYU55OGF5Q2g2NUx5NVdMM1UzN3BMS2FVTG9LdTh3RlRiQ01jSTREN0NOekYzQVZCSlhKWTlmSWJmaHh6ZFRWQlFHN3NtanVrU3ZjU2JtMG50QkNpdU1VTWQ5SzRZcXFUNG1nUS1JWm9QRDJJUQ?oc=5",
+      "publishedAt": "Sat, 28 Nov 2026 04:06:39 GMT"
+    },
+    {
+      "title": "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Market Is Up Today - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
+      "publishedAt": "Thu, 26 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Open Higher Despite Weak Global Market Cues - HDFC Sky",
+      "source": "HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSy1IQXlUcXRQRUcwT0Z0SmN3Z2hIYjZKYXVDS3E2UWpySjJOQ2lDNmtOdm1wM0REdFJ6d0xPYWUyck5ROTYwR21fNVhwUzFQZzVuOV9XMDNSYUE2S2cxcGF5anVlcEMtYnJTWnBBbS1hQkwwMWlXMW1DdjVaMVBRc2dJZXYwbVItdnYtN3BaVUFERUI5X0FJckVRcXVEODU2M0l4VEl2N09TNEh3RWRIMTdTSDA2Y3AyMl9XZmtqTkU2OXV3cGhTZkJVUVJwaUhacWxDZFFQcHhUdWhjTFp4Ri0yUkpQb00yQ25pVkRESFFVWWo1MjlNcy0wcE0wSFd5UGpjOW1vLVBQMUZDakE?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 04:33:19 GMT"
+    },
+    {
+      "title": "Stock Market Update 27 November 2026: Sensex Down by Over 150 Points; Nifty 50 Below 25,900 in Early Trading - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjIwZ0pNcTkyb0RpSlpuSmNjamg0a19LU0tOV2F1eGdqd1hxWjRrYkM2Z2JXLWtLU21fSGxYQXdxRURpYXI3SzUyNExickxaLTFTbkhfamREME9jSFpvMVhtLVRtcmExbjJ1QVRiSUpXR2htU0NUUmx6MmRfc2hxVld4UHhJX1lxRXNuMVBaMnlIQ0pTSXJj?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 04:23:39 GMT"
     }
   ]
 }
