@@ -1,22 +1,22 @@
 {
-  "headline": "Last session: Sensex tumbled 989 points and Nifty fell below 25,650 dragged by IT stocks and HDFC Bank.",
+  "headline": "Last session: Sensex plunges 989 points as bears take charge, dragged by IT and HDFC Bank",
   "marketStatus": {
     "isClosed": true,
     "isMuhuratTrading": false,
     "message": "Market is closed today because it is a weekend. It will reopen on Monday, 30 November.",
-    "nextOpen": "Monday, 30 November"
+    "nextOpen": "Monday, 30 November 2026"
   },
   "why": [
-    "Bears took charge in the last trading session as Sensex sank 989 points.",
-    "Nifty slipped below the 25,650 mark due to broad-based selling pressure.",
-    "Heavyweight IT stocks and HDFC Bank dragged the main benchmark indices lower.",
-    "Markets surrendered gains after rallying in previous sessions on foreign inflows."
+    "Bears took control as the Sensex plunged 989 points and Nifty slipped below 25,650 on November 27.",
+    "Heavy dragging from IT stocks and HDFC Bank weighed heavily on the indices.",
+    "Profit taking emerged after a multi-day rally earlier in the week.",
+    "Market momentum turned negative following strong gains on November 25 and 26."
   ],
   "whatHappening": [
-    "Indian stock markets are closed today, 28 November 2026, due to the weekend.",
-    "On the last trading day on 27 November, Sensex closed around 25,600 levels after a sharp fall.",
-    "US markets wrapped up a strong week with the S&P 500 marking its best week since April 2025 on AI rally.",
-    "SpiceJet was highlighted in business news regarding its survival strategy and operational updates."
+    "In the last session on November 27, Sensex sank 989 points while Nifty settled around 25,600.",
+    "HDFC Bank and IT stocks led the downturn after acting as major gainers in previous trading sessions.",
+    "The market had previously surged 1,502 points on November 25 and gained 390 points on November 26.",
+    "Trading is closed today, November 28, due to the weekend and will resume on Monday, November 30."
   ],
   "stocksInNews": [
     {
@@ -25,23 +25,17 @@
       "sources": "Mentioned by 2/7 sources",
       "articleIds": [
         11,
-        16
-      ]
-    },
-    {
-      "symbol": "SPICEJET",
-      "sentiment": "Neutral",
-      "sources": "Mentioned by 1/7 sources",
-      "articleIds": [
-        8
+        15
       ]
     }
   ],
-  "summary": "On the last trading day, Indian markets suffered sharp losses with the Sensex plunging 989 points and Nifty closing below 25,650.\nThe decline was primarily led by pressure on IT shares and HDFC Bank following previous session gains.\nThe market is closed today for the weekend and trading will resume on Monday, 30 November.",
-  "updatedAt": "2026-11-28T03:31:24.786Z",
+  "summary": "On the last trading day, Indian equity benchmarks fell sharply with the Sensex tumbling 989 points and Nifty closing near 25,600.\nThe market fall was driven by selling pressure in IT shares and HDFC Bank, reversing gains from earlier in the week.\nThe market is closed today for the weekend and will reopen on Monday, 30 November.",
+  "updatedAt": "2026-11-28T04:01:41.534Z",
   "source": "zerodha-pulse",
   "dateChecked": "2026-11-28",
   "articleKeys": [
+    "fssai sanctions prosecution against bisleri again after bengal sample fails",
+    "openai accuses apple of trade secret theft unfair hiring restrictions",
     "ramayana box office collection day 23 ranbirs film earns rs 845 crore but achieves big milestone",
     "delimitation sharad pawar dials congress explains his compulsion to back the bill",
     "rs 20 lakh rs 40 lakh and rs 75 lakh epf balances what your swp looks like after retirement",
@@ -50,20 +44,30 @@
     "bisleri in trouble again west bengal water sample tests positive for coliform bacteria",
     "sp 500 has best week since april 2025 on ai rally markets wrap",
     "diljit dosanjh addresses bomb threats at mumbai concert you have my love",
-    "how is spicejet surviving why 7eleven failed and more",
-    "bank holiday today are banks open or closed on saturday nov 28 check here",
     "stock market outlook today 27 nov sensex nifty predictiondjia sp nasdaq gift nifty kospi nikkei taiwan cues livemint",
     "stock market today live nov 27 sensex tumbles 989 points nifty slips below 25650 as it stocks hdfc bank drag businessline",
     "closing bell bears take charge sensex sinks 989 pts nifty at 25600 moneycontrolcom",
     "stock market highlights bears tighten grip sensex plunges 989 pts nifty slips below 25650 cnbc tv18",
-    "why markets are falling today sensex tanks nearly 800 points nifty 50 below 25700 4 key reasons explained ndtv profit",
     "stock market today highlights nov 26 stock markets rally for 2nd day on foreign fund inflows buying in it shares businessline",
     "sensex today stock market highlights sensex ends 390 pts higher nifty near 25900 it realty jump up to 3 hdfc bank leads moneycontrolcom",
     "stock market today live november 25 sensex surges 1502 points nifty reclaims 25800 as rupee hits eightmonth high businessline",
     "stock market highlights nov 17 sensex nifty close at highest since february on record foreign inflows businessline",
-    "nifty sensex open lower market to stay rangebound with positive undertone experts dd news"
+    "markets fall in early trade after 3day rally sensex tumbles 460 points dd news",
+    "why stock market is down today factors behind the fall of equity benchmarks in todays trade kotak neo"
   ],
   "articles": [
+    {
+      "title": "FSSAI sanctions prosecution against Bisleri again after Bengal sample fails",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/industry/news/fssai-sanctions-prosecution-against-bisleri-again-after-bengal-sample-fails-126112800021_1.html",
+      "publishedAt": "Sat, 28 Nov 2026 08:36:01 +0530"
+    },
+    {
+      "title": "OpenAI accuses Apple of trade secret theft, unfair hiring restrictions",
+      "source": "Zerodha Pulse",
+      "link": "https://www.business-standard.com/technology/tech-news/openai-accuses-apple-of-trade-secret-theft-unfair-hiring-restrictions-126112800093_1.html",
+      "publishedAt": "Sat, 28 Nov 2026 08:25:46 +0530"
+    },
     {
       "title": "Ramayana Box Office Collection Day 23: Ranbir's Film Earns Rs 8.45 Crore, But Achieves Big Milestone",
       "source": "Zerodha Pulse",
@@ -113,18 +117,6 @@
       "publishedAt": "Sat, 28 Nov 2026 07:00:50 +0530"
     },
     {
-      "title": "How is SpiceJet surviving, why 7-Eleven failed, and more...",
-      "source": "Zerodha Pulse",
-      "link": "https://finshots.in/archive/how-is-spicejet-surviving-why-7-eleven-failed-and-more/",
-      "publishedAt": "Sat, 28 Nov 2026 07:00:15 +0530"
-    },
-    {
-      "title": "Bank Holiday Today: Are Banks Open Or Closed On Saturday, Nov 28? Check Here",
-      "source": "Zerodha Pulse",
-      "link": "https://www.ndtvprofit.com/business/bank-holiday-today-are-banks-open-or-closed-on-saturday-nov-28-check-here-12386607#publisher=newsstand",
-      "publishedAt": "Sat, 28 Nov 2026 07:00:01 +0530"
-    },
-    {
       "title": "Stock market outlook today, 27 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "source": "Livemint",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxORk5OOFI0dE5VakUtaGx6ZzF2ZjVnY3poeUtvNXpRdEhYSk9BX2Rsd0k3VFRjNjhNRVA3RUxMMGdpeXhtZ3RqUDlYajFfY1VxNzJCbHpTNWNCSUZxeXFuOVJ2NHgxdFVzYVV2bWY3aFVueERPU2VpUGhBd21YMFk4ZzN5Yy0ya0N1MUtPSnFGMkNLNmhNVk9BQjFRN0dVazFiWjJoN1NUU2dGbkpJNG5ZY0tfeXVGa091SmcwZGVpS3lDbWVRMHU3YXFtSkdIQ1RPRFRPNk1MWGxCaXhTRlRmRmR1OXRDcVZwU19sYzRiajBSNTZPYzA5aEJwVjJvUy0tWmo2TXNOdWNBd9IBjwJBVV95cUxObGg5TnVBODg3LU9PbG9aZWpBU1dnVlNRV29acWZvQ19Sd1lKc0RvajBDM041SlhjS1pmb29hNDQ5OUhVZnNSZ0tqN25KZXdNN1psb1dXRzZMYjVsSmxicm5RUFpkZTM2QzlLeUhRdklSSzFITU9VUEpJcDBHZmdvSmhfQTVRZzRJU1dlNkRHTEE3aDM5X3BleHJKQXFoeUd1bTA0aXhIZlE4WHlMTFFfcEpNM041NVp3MTJsSU1LV3UwbXlOUXR3Ml81S1hJUmxzUG1vOHJSZzZnZlREU29KbDNoQTZTNVFZeHRZS21nNTA2OVZyV0NFdEhkeUZqalE0Q0JGYjhXREduUldzSEdJ?oc=5",
@@ -147,12 +139,6 @@
       "source": "CNBC TV18",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNeEhnR0RwVWtCXzFhbDRJa3JGX0lyNU82dkpYLXpCeWVZLXRpWDRJTFRzdUhPX1lKcWY3NEhqcTNFQVlUMUs3OElRdElKaDJOZVFjamtzTHNjZ0hLNEZtRGlHeDI3S3pIcHVCSTk1Vm5iM1h6Q2NiLXYzbWRqY3pzaVBWSkJjVnNyXzlQTzJrR3F0UVAzTllXbjZBSk1Qc25YN3N5MTNaUTg2MW9sbVJpbDBZcFg1X2JMYTNZNlRnaGM3LTVBZ1N6WlhrTzNlbVZwaWc5b0JBY296NXVRMElZZjVMT0RPYWEwZjRoUFZNMUNRaEM1OXBQYTdXZ0ZRaFBKbE5qddIBigJBVV95cUxQcFFlNjQyZGZtMlNXcHU3QlUwVUE4VGJGTkVRMkYtM09mR2N2eWx0c0dEa2hrNWtMeGxuRWxPTVRmWm9nUUFzbnRFekJTSE4zVDFxU3lZSVhHYWVrbHVRZmNROXZ5Y3VxSzJoYlNtWEQtS0dfX0RocnA3cThzY01Na1lBczBQS3Iya0MtNFNaNWlBVGZVUm5RbFczSG5UUmtVQkQxZ1FmTGlfUVMzamtfaWpHS1J0WDhDdjZnTVk5dTRKMEFBa2l1MTc4eWVZQW9EMzB4SHhuQVN5WUpLU1IwQTFQdGd2WVFaZE80YV9rd0FyUF83Q0Z6MlRZQ1FDWGJZWE5rQkdYS2dPQQ?oc=5",
       "publishedAt": "Fri, 27 Nov 2026 10:15:01 GMT"
-    },
-    {
-      "title": "Why Markets Are Falling Today? Sensex Tanks Nearly 800 Points, Nifty 50 Below 25,700; 4 Key Reasons Explained - NDTV Profit",
-      "source": "NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNYUhueWVxWE5XQW5hUVdRMzl0UUU2YmM5b193RkI5ZHpTdWRUWmktWDBaSDZGYTZxT1pIczJLNmlYclFsYVBJQWpaMUNBNW9BM2lSU01aTE5DUnZYMV9HeHhpUDA4eUlmU2dLSjlzNFlhNG1OaVdqS3EtMTRVRVBVd1AySXRMMGhxYVZuTDVxXzkzNktfTUxIWmFKZUZmU3ZIYUhvT2NzblVxa3hkVHEwRHJhNEgtMTVzVWk3SlJTLU5FczAyTWVBdEcwV1ltQnpDdnZRNjJzS2p4bVdLNURnTjFVU291YzZpWXJBRXZVZDZNbldodGlET1gxNl9LSGxzSjBZSk45R3BZR214bEpQSEM2WkFaeUFiOVBlQnpaa9IBpwJBVV95cUxPUTFTUmF6YVhHdE9ubGU3alNJSUE1a2lLSTk3VW1nWkZsZ0IzZTFGTDl1bmVaYlhmbVdWbEJUa0d5WGVyS2dvMnBickxZMGozQ3NpMmtVUUVpLXktcWV5Z2pTMjJWZXZnaGcwVHZ3MTB4d2x0M2JlV0dwellreEpOQ2txNUFwOVBjWkNiaExNWnpTbXUwYlBYanUyRkhuOE9rZmJpOXBTREJGa28ydEtGS1FXSV8xRU9FLTVqZWM2NWxVcGdwaGtZcGhZWXdSWGFGcnNqVTZQWjBfMnNXVFVNTi15S1prR2JnOFU3V0czNlRhTnlsWG1LRk5kOWJYeWl6Z2FzaVJjaXdvZ1ZLcnM3TFpmdVJBRXcxUGFkV2xrbUh1dXVacFI4?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 06:44:35 GMT"
     },
     {
       "title": "Stock Market Today Highlights Nov 26: Stock markets rally for 2nd day on foreign fund inflows, buying in IT shares - BusinessLine",
@@ -179,10 +165,16 @@
       "publishedAt": "Tue, 17 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "Nifty, Sensex open lower; market to stay range-bound with positive undertone: experts - DD News",
+      "title": "Markets fall in early trade after 3-day rally; Sensex tumbles 460 points - DD News",
       "source": "DD News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGdYNEhHMFZZeU5ZOXg4ajZjYV80dzVmbzdMaWwwdWZ5SnFhYVRaSEFCSllzMDlvSi1FYV9sNlFydzB4c1Fqamp6ZXZ1enBXbnh0VjFpMXFFYVZpY3VhSjd4aUlFaGNRWTczYTk1SDdIUTJ3UkJ5WFI0bUJlb3JYc2dCdW1RTDl0emVWaXZDZS1XUlhyNmhYTWJzN29ROGg5R3JzTHhkNG5zdGct?oc=5",
-      "publishedAt": "Fri, 27 Nov 2026 06:57:03 GMT"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFJfbmp3X1p4c0Nkb2REMHhWSVNoTE9qTUNiaUloTy10aXVLalZ5TUN4WER5R2w4Y3V0Yzg3TXdsOG9TZFRkdE9INUZsTEZETmRHQmliTWw2d0VPZjNrWTVmNk5lSVBFMFJ5Q0NhVEtZanF1VUpGV2tCUUh2RG5acTNlcWY4Ykc4NWNtQVowRDZqelJRTnJFamprZ3R4dw?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 19:29:50 GMT"
+    },
+    {
+      "title": "Why Stock Market is Down Today? Factors Behind the Fall of Equity Benchmarks in Today’s Trade - Kotak Neo",
+      "source": "Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByWE04WVJrYm56SnV5ZjhHRjU5ZnE1SmNmVXpnenQ4V0FPODFLR3ZyNEJOVXdFdVVPVUs0V3pVT3ROdVhkRFNlRUVNeFVvYjEzZVhkbVBnTm1XNGRpRDhUNFhJejRoQWllQmVDWTFtQjA2WlMzLS1xTDA5ZHg5UQ?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 14:01:17 GMT"
     }
   ]
 }
